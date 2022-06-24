@@ -1,5 +1,61 @@
 [
     {
+        "title": "Dolar AS Tergelincir, Harga Perak Terungkit",
+        "link": "https://www.cnbcindonesia.com/market/20220624114431-17-350003/dolar-as-tergelincir-harga-perak-terungkit",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MTE0NDMxLTE3LTM1MDAwMy9kb2xhci1hcy10ZXJnZWxpbmNpci1oYXJnYS1wZXJhay10ZXJ1bmdraXQ=",
+        "description": " Harga perak dunia menguat didukung oleh pelemahan mata uang dolar Amerika Serikat."
+    },
+    {
+        "title": "Sah! Kode Domisili Investor Ditutup BEI Per 27 Juni 2022",
+        "link": "https://www.cnbcindonesia.com/market/20220624101141-19-349947/sah-kode-domisili-investor-ditutup-bei-per-27-juni-2022",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MTAxMTQxLTE5LTM0OTk0Ny9zYWgta29kZS1kb21pc2lsaS1pbnZlc3Rvci1kaXR1dHVwLWJlaS1wZXItMjctanVuaS0yMDIy",
+        "description": " Bursa Efek Indonesia akan menutup kode domisili investor yang menunjukkan investor domestik atau asing mulai Senin 27 Juni 2022"
+    },
+    {
+        "title": "Rupiah Gagal Nanjak! Padahal Dolar AS Lagi Lesu...",
+        "link": "https://www.cnbcindonesia.com/market/20220624102136-17-349954/rupiah-gagal-nanjak-padahal-dolar-as-lagi-lesu",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MTAyMTM2LTE3LTM0OTk1NC9ydXBpYWgtZ2FnYWwtbmFuamFrLXBhZGFoYWwtZG9sYXItYXMtbGFnaS1sZXN1",
+        "description": " Kurs rupiah sempat menguat terhadap dolar AS, sebelum akhirnya kembali terkoreksi hingga di pertengahan perdagangan\u00c2\u00a0hari ini."
+    },
+    {
+        "title": "Saham BBCA Menguat 2,74%, Analis Sarankan 'Hold' Dulu",
+        "link": "https://www.cnbcindonesia.com/market/20220624104451-17-349963/saham-bbca-menguat-274-analis-sarankan-hold-dulu",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MTA0NDUxLTE3LTM0OTk2My9zYWhhbS1iYmNhLW1lbmd1YXQtMjc0LWFuYWxpcy1zYXJhbmthbi1ob2xkLWR1bHU=",
+        "description": " Berdasarkan data perdagangan, dalam sebulan saham ini menguat 1,69% dan sejak awal tahun menguat 2,74%."
+    },
+    {
+        "title": "Batu Bara Terbang Pepet US$ 400/ton, Sahamnya Hijau Semua Nih",
+        "link": "https://www.cnbcindonesia.com/market/20220624100242-17-349936/batu-bara-terbang-pepet-us--400-ton-sahamnya-hijau-semua-nih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MTAwMjQyLTE3LTM0OTkzNi9iYXR1LWJhcmEtdGVyYmFuZy1wZXBldC11cy0tNDAwLXRvbi1zYWhhbW55YS1oaWphdS1zZW11YS1uaWg=",
+        "description": " Harga saham-saham batu bara menghijau hari ini dampak dari kenaikan harga batu bara mendekati US$ 400/tom"
+    },
+    {
+        "title": "Kripto Bergairah Lagi, Bitcoin Mencoba Menembus US$ 21.000",
+        "link": "https://www.cnbcindonesia.com/market/20220624093342-17-349923/kripto-bergairah-lagi-bitcoin-mencoba-menembus-us--21000",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MDkzMzQyLTE3LTM0OTkyMy9rcmlwdG8tYmVyZ2FpcmFoLWxhZ2ktYml0Y29pbi1tZW5jb2JhLW1lbmVtYnVzLXVzLS0yMTAwMA==",
+        "description": " Harga mayoritas kripto utama kembali cerah pada perdagangan Jumat (24/6/2022)."
+    },
+    {
+        "title": "Dear Bos Sawit, Harga CPO Diprediksi Turun Nih!",
+        "link": "https://www.cnbcindonesia.com/market/20220624091324-17-349916/dear-bos-sawit-harga-cpo-diprediksi-turun-nih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MDkxMzI0LTE3LTM0OTkxNi9kZWFyLWJvcy1zYXdpdC1oYXJnYS1jcG8tZGlwcmVkaWtzaS10dXJ1bi1uaWg=",
+        "description": " Harga komoditas minyak sawit mentah naik di sesi pembukaan perdagangan hari ini. Bagaimana tren selanjutnya?"
+    },
+    {
+        "title": "Putus Hubungan Dengan Barat, Rusia Pepet China Dan India",
+        "link": "https://www.cnbcindonesia.com/market/20220624092030-17-349919/putus-hubungan-dengan-barat-rusia-pepet-china-dan-india",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MDkyMDMwLTE3LTM0OTkxOS9wdXR1cy1odWJ1bmdhbi1kZW5nYW4tYmFyYXQtcnVzaWEtcGVwZXQtY2hpbmEtZGFuLWluZGlh",
+        "description": " Presiden Rusia Vladimir Putin mengubah rute perdagangan ke mitra internasional."
+    },
+    {
         "title": "BI Tahan Suku Bunga, Begini Dampaknya ke Pasar dan Sektor Riil",
         "link": "https://www.cnbcindonesia.com/market/20220624094347-19-349927/bi-tahan-suku-bunga-begini-dampaknya-ke-pasar-sektor-riil",
         "image": "static/images/cnbc_market.png",
@@ -12,61 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MDkxMDE1LTE3LTM0OTkxNS9hbWJ5YXItaW5pLXBlbnllYmFiLXJ1cGlhaC10ZXJ1cy1tZWxlbWFoLWtlLWxldmVsLXRlcmJ1cnVr",
         "description": " Rubel masih belum lengser dari posisi mata uang terbaik di dunia, dan berada di level terkuat dalam 7 tahun terakhir."
-    },
-    {
-        "title": "BI Tahan Suku Bunga Acuan, IHSG Kembali ke Level 7.000-an",
-        "link": "https://www.cnbcindonesia.com/market/20220624092432-19-349921/bi-tahan-suku-bunga-acuan-ihsg-kembali-ke-level-7000-an",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MDkyNDMyLTE5LTM0OTkyMS9iaS10YWhhbi1zdWt1LWJ1bmdhLWFjdWFuLWloc2cta2VtYmFsaS1rZS1sZXZlbC03MDAwLWFu",
-        "description": " BI Tahan Suku Bunga Acuan, IHSG Optimistis Kembali ke 7.000-an"
-    },
-    {
-        "title": "Isu Resesi Bikin Mata Uang Eropa Rontok, Rupiah Tetap Tegar!",
-        "link": "https://www.cnbcindonesia.com/market/20220624091013-17-349920/isu-resesi-bikin-mata-uang-eropa-rontok-rupiah-tetap-tegar",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MDkxMDEzLTE3LTM0OTkyMC9pc3UtcmVzZXNpLWJpa2luLW1hdGEtdWFuZy1lcm9wYS1yb250b2stcnVwaWFoLXRldGFwLXRlZ2Fy",
-        "description": " Nilai tukar bergerak volatil melawan dolar Amerika Serikat (AS) pada perdagangan Jumat (24/6/2022"
-    },
-    {
-        "title": "Erajaya Bagikan Dividen Tunai Senilai Rp 362,5 Miliar",
-        "link": "https://www.cnbcindonesia.com/market/20220624090149-17-349910/erajaya-bagikan-dividen-tunai-senilai-rp-3625-miliar",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MDkwMTQ5LTE3LTM0OTkxMC9lcmFqYXlhLWJhZ2lrYW4tZGl2aWRlbi10dW5haS1zZW5pbGFpLXJwLTM2MjUtbWlsaWFy",
-        "description": " Rencana pembagian saham itu telah memperoleh persetujuan pemegang saham dalam rapat umum pemegang saham tahunan (RUPST)."
-    },
-    {
-        "title": "Wall Street Effect, IHSG Tembus Level 7.000 Lagi",
-        "link": "https://www.cnbcindonesia.com/market/20220624083929-17-349902/wall-street-effect-ihsg-tembus-level-7000-lagi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MDgzOTI5LTE3LTM0OTkwMi93YWxsLXN0cmVldC1lZmZlY3QtaWhzZy10ZW1idXMtbGV2ZWwtNzAwMC1sYWdp",
-        "description": " IHSG kembali menyentuh level psikologis 7.000 setelah dua hari terakhir keluar dari posisi tersebut."
-    },
-    {
-        "title": "Wall Street Menghijau, Bursa Asia Dibuka Semringah",
-        "link": "https://www.cnbcindonesia.com/market/20220624083815-17-349899/wall-street-menghijau-bursa-asia-dibuka-semringah",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MDgzODE1LTE3LTM0OTg5OS93YWxsLXN0cmVldC1tZW5naGlqYXUtYnVyc2EtYXNpYS1kaWJ1a2Etc2VtcmluZ2Fo",
-        "description": " Mayoritas bursa Asia-Pasifik dibuka menguat pada perdagangan Jumat (24/6/2022)."
-    },
-    {
-        "title": "Harga Minyak Mentah Amburadul, Rupiah Bisa Melesat Lagi?",
-        "link": "https://www.cnbcindonesia.com/market/20220623163356-17-349777/harga-minyak-mentah-amburadul-rupiah-bisa-melesat-lagi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjIzMTYzMzU2LTE3LTM0OTc3Ny9oYXJnYS1taW55YWstbWVudGFoLWFtYnVyYWR1bC1ydXBpYWgtYmlzYS1tZWxlc2F0LWxhZ2k=",
-        "description": " Bank Indonesia (BI) mempertahankan suku bunga acuannya 3,5% pada pengumuman hasil Rapat Dewan Gubernur (RDG) Kamis kemarin"
-    },
-    {
-        "title": "IHSG Diprediksi Tembus 7.000, Saham Pilihan Ini Wajib Disimak",
-        "link": "https://www.cnbcindonesia.com/market/20220624080428-17-349894/ihsg-diprediksi-tembus-7000-saham-pilihan-ini-wajib-disimak",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MDgwNDI4LTE3LTM0OTg5NC9paHNnLWRpcHJlZGlrc2ktdGVtYnVzLTcwMDAtc2FoYW0tcGlsaWhhbi1pbmktd2FqaWItZGlzaW1haw==",
-        "description": " Simak perkiraan IHSG lengkap dengan saham yang perlu dicermati dari sejumlah broker."
-    },
-    {
-        "title": "Ada Soal Cuan Sandiaga Uno Cs, Berikut Kabar Pasar Hari Ini",
-        "link": "https://www.cnbcindonesia.com/market/20220624073535-17-349890/ada-soal-cuan-sandiaga-uno-cs-berikut-kabar-pasar-hari-ini",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MDczNTM1LTE3LTM0OTg5MC9hZGEtc29hbC1jdWFuLXNhbmRpYWdhLXVuby1jcy1iZXJpa3V0LWthYmFyLXBhc2FyLWhhcmktaW5p",
-        "description": " Berikut kabar pasar yang telah CNBC Indonesia rangkum."
     }
 ]
