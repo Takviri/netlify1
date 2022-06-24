@@ -1,6 +1,20 @@
 [
     {
         "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/501803/buntut-promosi-miras-gratis-untuk-muhammad-dan-maria-holywings-dilaporkan-ke-polisi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDE4MDMvYnVudHV0LXByb21vc2ktbWlyYXMtZ3JhdGlzLXVudHVrLW11aGFtbWFkLWRhbi1tYXJpYS1ob2x5d2luZ3MtZGlsYXBvcmthbi1rZS1wb2xpc2k=",
+        "description": "HIMPUNAN Advokat Muda Indonesia (HAMI) melaporkan manajemen Holywings Indonesia terkait dugaan kasus penistaan agama ke Polda Metro&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/501802/holywings-gratiskan-miras-untuk-muhammad-gp-ansor-akan-datangi-sejumlah-tempat-hiburan-itu-malam-ini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDE4MDIvaG9seXdpbmdzLWdyYXRpc2thbi1taXJhcy11bnR1ay1tdWhhbW1hZC1ncC1hbnNvci1ha2FuLWRhdGFuZ2ktc2VqdW1sYWgtdGVtcGF0LWhpYnVyYW4taXR1LW1hbGFtLWluaQ==",
+        "description": "GERAKAN Pemuda (GP) Ansor DKI Jakarta akan melakukan konvoi motor ke sejumlah Holywings yang tersebar di wilayah Ibu Kota, Jumat&#8230;"
+    },
+    {
+        "title": "Megapolitan",
         "link": "https://m.mediaindonesia.com/megapolitan/501801/promosi-holywings-gratiskan-miras-untuk-pemilik-nama-muhammad-dan-maria-dinilai-lecehkan-agama",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDE4MDEvcHJvbW9zaS1ob2x5d2luZ3MtZ3JhdGlza2FuLW1pcmFzLXVudHVrLXBlbWlsaWstbmFtYS1tdWhhbW1hZC1kYW4tbWFyaWEtZGluaWxhaS1sZWNlaGthbi1hZ2FtYQ==",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE3OTQvYWRhLWtlbmRhbGEtbG9naXN0aWstc2VzaS1sYXRpaGFuLWdwLWplcGFuZy1kaXBhbmdrYXM=",
         "description": "JUMLAH sesi latihan bebas GP Jepang di Sirkuit Motegi akan dipangkas menyusul kendala logistik yang dihadapi penyelenggara balapan MotoGP&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/501793/paolo-banchero-pemain-pilihan-1-di-draft-nba-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE3OTMvcGFvbG8tYmFuY2hlcm8tcGVtYWluLXBpbGloYW4tMS1kaS1kcmFmdC1uYmEtMjAyMg==",
-        "description": "PAOLO Banchero secara mengejutkan menjadi pemain yang dipilih di urutan pertama NBA Draft 2022, Jumat (24/6) WIB, setelah Orlando Magic&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/501792/kementan-aph-provinsi-ntt-kolaborasi-jaga-pangan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMTc5Mi9rZW1lbnRhbi1hcGgtcHJvdmluc2ktbnR0LWtvbGFib3Jhc2ktamFnYS1wYW5nYW4=",
-        "description": "KEMENTERIAN Pertanian (Kementan) bersama Aparatur Penegak Hukum (APH) di Provinsi Nusa Tenggara Timur (NTT) tingkatkan kolaborasi dan sukseskan program jaga pangan. Melalui program ini, pengawasan&#8230;"
     }
 ]
