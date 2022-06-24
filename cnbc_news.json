@@ -1,5 +1,33 @@
 [
     {
+        "title": "Ada 'Impor Siluman' Masuk RI, Nilainya Bikin Merinding",
+        "link": "https://www.cnbcindonesia.com/news/20220624130353-4-350032/ada-impor-siluman-masuk-ri-nilainya-bikin-merinding",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDEzMDM1My00LTM1MDAzMi9hZGEtaW1wb3Itc2lsdW1hbi1tYXN1ay1yaS1uaWxhaW55YS1iaWtpbi1tZXJpbmRpbmc=",
+        "description": " Impor yang masuk Indonesia tak hanya barang, tapi juga berbentuk jasa digital terutama impor gim."
+    },
+    {
+        "title": "'Apartemen Hantu' Sempat Ramai di Jakarta, Sekarang Begini",
+        "link": "https://www.cnbcindonesia.com/news/20220624115534-4-350011/apartemen-hantu-sempat-ramai-di-jakarta-sekarang-begini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDExNTUzNC00LTM1MDAxMS9hcGFydGVtZW4taGFudHUtc2VtcGF0LXJhbWFpLWRpLWpha2FydGEtc2VrYXJhbmctYmVnaW5p",
+        "description": " Kunjungan WNA ke Indonesia semakin tinggi dan beri sinyal positif bagi bisnis apartemen."
+    },
+    {
+        "title": "Covid \"Menggila\" Lagi, Makau Lockdown 5.000 Warga",
+        "link": "https://www.cnbcindonesia.com/news/20220624130351-4-350031/covid-menggila-lagi-makau-lockdown-5000-warga",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDEzMDM1MS00LTM1MDAzMS9jb3ZpZC1tZW5nZ2lsYS1sYWdpLW1ha2F1LWxvY2tkb3duLTUwMDAtd2FyZ2E=",
+        "description": " Kenaikan kasus Covid-19 kini terjadi lagi di Makau"
+    },
+    {
+        "title": "Pak Jokowi, Rencana Setop Ekspor Timah Diminta Kaji Ulang",
+        "link": "https://www.cnbcindonesia.com/news/20220624113251-4-349991/pak-jokowi-rencana-setop-ekspor-timah-diminta-kaji-ulang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDExMzI1MS00LTM0OTk5MS9wYWstam9rb3dpLXJlbmNhbmEtc2V0b3AtZWtzcG9yLXRpbWFoLWRpbWludGEta2FqaS11bGFuZw==",
+        "description": " DPR RI serempak tak sepakat dengan kebijakan larangan ekspor timah"
+    },
+    {
         "title": "Curhat Luhut Di-Bully Habis-habisan Gegara Investasi China",
         "link": "https://www.cnbcindonesia.com/news/20220624112714-4-349989/curhat-luhut-di-bully-habis-habisan-gegara-investasi-china",
         "image": "static/images/cnbc_news.png",
@@ -28,10 +56,10 @@
         "description": " Daftar negara yang tidak memiliki militer."
     },
     {
-        "title": "Ada Pankreas Babi, MUI Putuskan Vaksin Covid Ini Haram",
-        "link": "https://www.cnbcindonesia.com/news/20220624121708-4-350017/ada-pankreas-babi-mui-putuskan-vaksin-covid-ini-haram",
+        "title": "Ada Pankreas Babi, MUI Putuskan Vaksin Covid Covovax Haram",
+        "link": "https://www.cnbcindonesia.com/news/20220624121708-4-350017/ada-pankreas-babi-mui-putuskan-vaksin-covid-covovax-haram",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDEyMTcwOC00LTM1MDAxNy9hZGEtcGFua3JlYXMtYmFiaS1tdWktcHV0dXNrYW4tdmFrc2luLWNvdmlkLWluaS1oYXJhbQ==",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDEyMTcwOC00LTM1MDAxNy9hZGEtcGFua3JlYXMtYmFiaS1tdWktcHV0dXNrYW4tdmFrc2luLWNvdmlkLWNvdm92YXgtaGFyYW0=",
         "description": " Majelis Ulama Indonesia memberikan fatwa baru terkait vaksin Covid-19."
     },
     {
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDEwNTQ1NC00LTM0OTk2Ni9tYWtpbi1ueWF0YS1jZWstYm9jb3Jhbi1pbnRlcmlvci1tb2JpbC1zaWFwLWdpbGFzLWF2YW56YQ==",
         "description": " PT Hyundai Motors Indonesia (HMID) makin berani mengungkap tampilan interior Hyundai Stargazer yang akan menjadi produk terbarunya."
-    },
-    {
-        "title": "Awas Covid-19 Naik! Masyarakat Perlu Asuransi Kesehatan",
-        "link": "https://www.cnbcindonesia.com/news/20220624114948-4-350006/awas-covid-19-naik-masyarakat-perlu-asuransi-kesehatan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDExNDk0OC00LTM1MDAwNi9hd2FzLWNvdmlkLTE5LW5haWstbWFzeWFyYWthdC1wZXJsdS1hc3VyYW5zaS1rZXNlaGF0YW4=",
-        "description": " Masyarakat dihimbau untuk tetap menjaga kewaspadaan dengan menjalani protokol kesehatan ditengah meningkatnya kembali covid-19."
-    },
-    {
-        "title": "Harga Daging Meroket, Daya Beli Anjlok Lebih Dari 50%",
-        "link": "https://www.cnbcindonesia.com/news/20220624103813-8-349957/harga-daging-meroket-daya-beli-anjlok-lebih-dari-50",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDEwMzgxMy04LTM0OTk1Ny9oYXJnYS1kYWdpbmctbWVyb2tldC1kYXlhLWJlbGktYW5qbG9rLWxlYmloLWRhcmktNTA=",
-        "description": " Harga Daging Meroket, Daya Beli Anjlok Lebih Dari 50%"
-    },
-    {
-        "title": "Waduh! Pesawat Militer Rusia Jatuh, Ada Korban Jiwa",
-        "link": "https://www.cnbcindonesia.com/news/20220624115136-4-350007/waduh-pesawat-militer-rusia-jatuh-ada-korban-jiwa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDExNTEzNi00LTM1MDAwNy93YWR1aC1wZXNhd2F0LW1pbGl0ZXItcnVzaWEtamF0dWgtYWRhLWtvcmJhbi1qaXdh",
-        "description": " Sebuah pesawat kargo militer Ilyushin Il-76 jatuh dan terbakar saat mendarat di dekat kota Ryazan di Rusia barat, Jumat (24/6/2022)."
-    },
-    {
-        "title": "Xi Jinping Bela Putin, 'Semprot' Barat soal Sanksi ke Rusia",
-        "link": "https://www.cnbcindonesia.com/news/20220624110041-4-349976/xi-jinping-bela-putin-semprot-barat-soal-sanksi-ke-rusia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDExMDA0MS00LTM0OTk3Ni94aS1qaW5waW5nLWJlbGEtcHV0aW4tc2VtcHJvdC1iYXJhdC1zb2FsLXNhbmtzaS1rZS1ydXNpYQ==",
-        "description": " Presiden China Xi Jinping mengatakan bahwa dunia harus menentang sanksi sepihak yang diterapkan satu negara ke negara lainnya."
     }
 ]
