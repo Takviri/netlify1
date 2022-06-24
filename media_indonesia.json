@@ -1,5 +1,19 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/501971/pengungsi-afghanistan-yang-berusaha-bunuh-diri-di-jembatan-liliba-kupang-berhasil-diselamatkan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAxOTcxL3Blbmd1bmdzaS1hZmdoYW5pc3Rhbi15YW5nLWJlcnVzYWhhLWJ1bnVoLWRpcmktZGktamVtYmF0YW4tbGlsaWJhLWt1cGFuZy1iZXJoYXNpbC1kaXNlbGFtYXRrYW4=",
+        "description": "HASSAN Reza Haidari, pengungsi asal Afghanistan yang ditampung di salah&nbsp;satu hotel di Kota Kupang, Nusa Tenggara Timur (NTT)&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/501970/thunder-dapat-tiga-rekrutan-pertama-di-nba-draft-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5NzAvdGh1bmRlci1kYXBhdC10aWdhLXJla3J1dGFuLXBlcnRhbWEtZGktbmJhLWRyYWZ0LTIwMjI=",
+        "description": "OKLAHOMA City Thunder bergerak agresif di lantai transaksi dan mencapai kesepakatan barter dengan New York Knics agar mendapat tiga rekrutan putaran pertama <a href=\"http://mediaindonesia.com/tag/nba\"&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/501968/city-dilaporkan-sepakat-datangkan-phillips-dari-leeds",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDE5NTQvbmFzaWItYXdhay1rYXBhbC1kaS1wcC1ub21vci0yMi10YWh1bi0yMDIy",
         "description": "PEMERINTAH telah mengeluarkan Peraturan Pemerintah (PP) Nomor 22 Tahun 2022 tentang Penempatan dan Pelindungan Awak Kapal Niaga Migran dan Awak Kapal Perikanan Migran. Aturan ini merupakan tindak lanjut&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/501941/proyek-infrastruktur-rumah-sakit-dengan-penerapan-prinsip-syariah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDE5NDEvcHJveWVrLWluZnJhc3RydWt0dXItcnVtYWgtc2FraXQtZGVuZ2FuLXBlbmVyYXBhbi1wcmluc2lwLXN5YXJpYWg=",
-        "description": "PANDEMI telah berlangsung lebih dari dua tahun dan periode pemulihan saat ini bukanlah waktu yang biasa dan mudah bagi kita semua. Pandemi covid-19 bukan hanya krisis kesehatan global, melainkan juga&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/501965/bali-united-kalahkan-kedah-fc-di-laga-perdana-piala-afc-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk2NS9iYWxpLXVuaXRlZC1rYWxhaGthbi1rZWRhaC1mYy1kaS1sYWdhLXBlcmRhbmEtcGlhbGEtYWZjLTIwMjI=",
-        "description": "BALI United FC sukses menundukkan Kedah Darul Aman FC dengan skor 2-0 pada laga perdana babak penyisihan Grup G Piala AFC 2022&#8230;"
     }
 ]
