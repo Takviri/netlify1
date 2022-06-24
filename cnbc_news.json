@@ -1,5 +1,47 @@
 [
     {
+        "title": "Wow Keren! Bromo Bakal Ada Jembatan Gantung Kaca Pertama RI",
+        "link": "https://www.cnbcindonesia.com/news/20220624150245-7-350086/wow-keren-bromo-bakal-ada-jembatan-gantung-kaca-pertama-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE1MDI0NS03LTM1MDA4Ni93b3cta2VyZW4tYnJvbW8tYmFrYWwtYWRhLWplbWJhdGFuLWdhbnR1bmcta2FjYS1wZXJ0YW1hLXJp",
+        "description": " PUPR merencanakan pembangunan Terminal Wisata Seruni Point yang terintegrasi dengan jembatan gantung kaca."
+    },
+    {
+        "title": "Pak Luhut, Yakin Nih Beli Minyak Goreng Wajib PeduliLindungi?",
+        "link": "https://www.cnbcindonesia.com/news/20220624152104-4-350106/pak-luhut-yakin-nih-beli-minyak-goreng-wajib-pedulilindungi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE1MjEwNC00LTM1MDEwNi9wYWstbHVodXQteWFraW4tbmloLWJlbGktbWlueWFrLWdvcmVuZy13YWppYi1wZWR1bGlsaW5kdW5naQ==",
+        "description": " YLKI menantang pemerintah bagi-bagi smartphone bagi masyarakat ekonomi rentan."
+    },
+    {
+        "title": "6 Update Perang Rusia-Ukraina, AS dan Inggris Turun Tangan",
+        "link": "https://www.cnbcindonesia.com/news/20220624152343-4-350109/6-update-perang-rusia-ukraina-as-inggris-turun-tangan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE1MjM0My00LTM1MDEwOS82LXVwZGF0ZS1wZXJhbmctcnVzaWEtdWtyYWluYS1hcy1pbmdncmlzLXR1cnVuLXRhbmdhbg==",
+        "description": " Perkembangan terbaru perang Rusia-Ukraina."
+    },
+    {
+        "title": "Top! APBN Surplus 5 Bulan Beruntun, Sri Mulyani Cetak Rekor",
+        "link": "https://www.cnbcindonesia.com/news/20220624135601-4-350053/top-apbn-surplus-5-bulan-beruntun-sri-mulyani-cetak-rekor",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDEzNTYwMS00LTM1MDA1My90b3AtYXBibi1zdXJwbHVzLTUtYnVsYW4tYmVydW50dW4tc3JpLW11bHlhbmktY2V0YWstcmVrb3I=",
+        "description": " Hingga Mei 2022, APBN masih mencatatkan surplus sebesar Rp 132,2 triliun atau 0,74% dari Produk Domestik Bruto (PDB)."
+    },
+    {
+        "title": "Jerman-Belanda Hingga Spanyol Minta Batu Bara RI",
+        "link": "https://www.cnbcindonesia.com/news/20220624153651-4-350120/jerman-belanda-hingga-spanyol-minta-batu-bara-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE1MzY1MS00LTM1MDEyMC9qZXJtYW4tYmVsYW5kYS1oaW5nZ2Etc3BhbnlvbC1taW50YS1iYXR1LWJhcmEtcmk=",
+        "description": " Kementerian ESDM mencatat ada sebanyak empat negara Eropa yang minat batu bara Indonesia"
+    },
+    {
+        "title": "Ukraina Resmi Jadi Kandidat UE, Jaminan Menang Lawan Rusia?",
+        "link": "https://www.cnbcindonesia.com/news/20220624133336-4-350045/ukraina-resmi-jadi-kandidat-ue-jaminan-menang-lawan-rusia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDEzMzMzNi00LTM1MDA0NS91a3JhaW5hLXJlc21pLWphZGkta2FuZGlkYXQtdWUtamFtaW5hbi1tZW5hbmctbGF3YW4tcnVzaWE=",
+        "description": " Ukraina ditetapkan menjadi kandidat resmi untuk keanggotaan Uni Eropa (UE)."
+    },
+    {
         "title": "Terungkap Ini Bocoran Tampang 'Pembunuh' Avanza Terbaru",
         "link": "https://www.cnbcindonesia.com/news/20220624132357-7-350038/terungkap-ini-bocoran-tampang-pembunuh-avanza-terbaru",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDEyNDEwMy04LTM1MDAyNy93aGF0c2FwcC1jcy10ZXJhbmNhbS1kaWJsb2tpci11c2VyLWtldGFyLWtldGly",
         "description": " Kemkominfo meminta agar PSE untuk mendaftarkan diri melalui sistem perizinan berusaha terintegrasi secara elektronik berbasis risiko."
-    },
-    {
-        "title": "Jerman Kini Status \"Waspada\", Ini Biang Keladinya",
-        "link": "https://www.cnbcindonesia.com/news/20220624132311-4-350035/jerman-kini-status-waspada-ini-biang-keladinya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDEzMjMxMS00LTM1MDAzNS9qZXJtYW4ta2luaS1zdGF0dXMtd2FzcGFkYS1pbmktYmlhbmcta2VsYWRpbnlh",
-        "description": " Ancaman krisis energi di Jerman kian nyata pasca Rusia memotong pasokan gas."
-    },
-    {
-        "title": "Sawadikap! Hari Ini Thailand Resmi \"Good Bye\" Masker",
-        "link": "https://www.cnbcindonesia.com/news/20220624143006-4-350063/sawadikap-hari-ini-thailand-resmi-good-bye-masker",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE0MzAwNi00LTM1MDA2My9zYXdhZGlrYXAtaGFyaS1pbmktdGhhaWxhbmQtcmVzbWktZ29vZC1ieWUtbWFza2Vy",
-        "description": " Thailand akhirnya mencabut aturan yang mewajibkan orang memakai masker. Ini berlaku Jumat (24/6/2022) ini."
-    },
-    {
-        "title": "Di Tengah Ancaman Resesi AS, Ada Kabar Lega dari The Fed",
-        "link": "https://www.cnbcindonesia.com/news/20220624114413-4-350002/di-tengah-ancaman-resesi-as-ada-kabar-lega-dari-the-fed",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDExNDQxMy00LTM1MDAwMi9kaS10ZW5nYWgtYW5jYW1hbi1yZXNlc2ktYXMtYWRhLWthYmFyLWxlZ2EtZGFyaS10aGUtZmVk",
-        "description": " Bank sentral Amerika Serikat (AS) (Federal Reserve/The Fed) telah merilis hasil stress test secara tahunan kemarin."
-    },
-    {
-        "title": "Kasus Covid Turun Drastis, Kas Negara Tak Dikuras Lagi",
-        "link": "https://www.cnbcindonesia.com/news/20220624131411-4-350034/kasus-covid-turun-drastis-kas-negara-tak-dikuras-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDEzMTQxMS00LTM1MDAzNC9rYXN1cy1jb3ZpZC10dXJ1bi1kcmFzdGlzLWthcy1uZWdhcmEtdGFrLWRpa3VyYXMtbGFnaQ==",
-        "description": " Penularan virus corona atau Covid-19 yang semakin melandai di Indonesia membuat belanja kesehatan turun 10%."
-    },
-    {
-        "title": "Kapolri: Polri Buka Ruang Kritik dan Saran dari Masyarakat",
-        "link": "https://www.cnbcindonesia.com/news/20220624142855-4-350062/kapolri-polri-buka-ruang-kritik-saran-dari-masyarakat",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE0Mjg1NS00LTM1MDA2Mi9rYXBvbHJpLXBvbHJpLWJ1a2EtcnVhbmcta3JpdGlrLXNhcmFuLWRhcmktbWFzeWFyYWthdA==",
-        "description": " Polri berkomitmen membuka dan memberikan ruang kepada seluruh elemen masyarakat untuk menyampaikan pendapat dan ekspresinya."
-    },
-    {
-        "title": "Fenomena 'Apartemen Hantu' Mulai Hilang di DKI, Ini Pemicunya",
-        "link": "https://www.cnbcindonesia.com/news/20220624134237-4-350047/fenomena-apartemen-hantu-mulai-hilang-di-dki-ini-pemicunya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDEzNDIzNy00LTM1MDA0Ny9mZW5vbWVuYS1hcGFydGVtZW4taGFudHUtbXVsYWktaGlsYW5nLWRpLWRraS1pbmktcGVtaWN1bnlh",
-        "description": " Sejak awal pandemi Covid-19, properti termasuk apartemen sewa menjadi salah satu sektor yang mengalami penurunan."
     }
 ]
