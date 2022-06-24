@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/501938/tanam-mangrove-di-bali-ojk-dan-ijk-komitmen-kembangkan-ekonomi-hijau",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMTkzOC90YW5hbS1tYW5ncm92ZS1kaS1iYWxpLW9qay1kYW4taWprLWtvbWl0bWVuLWtlbWJhbmdrYW4tZWtvbm9taS1oaWphdQ==",
+        "description": "OTORITAS Jasa Keuangan (OJK) bersama Industri Jasa Keuangan (IJK) berkomitmen penuh mengembangkan gerakan ekonomi hijau antara lain melalui pelestarian lingkungan hidup. Komitmen tersebut diwujudkan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/501937/pentingnya-perlindungan-kekayaan-intelektual-unuk-tumbuhkan-iklim-ekonomi-sehat-dan-kuat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDE5MzcvcGVudGluZ255YS1wZXJsaW5kdW5nYW4ta2VrYXlhYW4taW50ZWxla3R1YWwtdW51ay10dW1idWhrYW4taWtsaW0tZWtvbm9taS1zZWhhdC1kYW4ta3VhdA==",
+        "description": "PROVINSI DKI Jakarta bukan saja sebagai pusat pemerintahan tetapi juga sebagai pusat ekonomi dunia. Banyak tumbuh berbagai sector ekonomi baik berskala lokal, nasional bahkan yang berskala dunia. Tapi&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/501936/adu-kuat-oligarki-versus-suara-rakyat-di-parpol",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDE5MzYvYWR1LWt1YXQtb2xpZ2Fya2ktdmVyc3VzLXN1YXJhLXJha3lhdC1kaS1wYXJwb2w=",
+        "description": "Partai politik adalah pilar demokrasi. Sudah semestinya nilai-nilai demokrasi terpatri&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/501935/tata-cara-pelaksanaan-ibadah-haji-sesuai-hukum-dan-aturan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxOTM1L3RhdGEtY2FyYS1wZWxha3NhbmFhbi1pYmFkYWgtaGFqaS1zZXN1YWktaHVrdW0tZGFuLWF0dXJhbg==",
+        "description": "SEBAGAI seorang Muslim, kita pastinya ingin menjalankan semua rukun Islam, yaitu syahadat, salat, zakat, puasa dan pergi haji. Pergi haji merupakan rukun Islam yang kelima dan tidak semua orang diwajibkan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/501934/kolaborasi-aparat-penegak-hukum-dapat-pecahkan-kendala-sistem-peradilan-pidana-anak-sppa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDE5MzQva29sYWJvcmFzaS1hcGFyYXQtcGVuZWdhay1odWt1bS1kYXBhdC1wZWNhaGthbi1rZW5kYWxhLXNpc3RlbS1wZXJhZGlsYW4tcGlkYW5hLWFuYWstc3BwYQ==",
+        "description": "PELAKSANAAN sistem peradilan pidana anak (SPPA)&nbsp;masih menjadi pekerjaan rumah bersama untuk semua pemangku kepentingan. Dalam implementasinya, Undang-Undang No. 11 Tahun 2012 yang mengatur SPPA&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/501933/gerindra-dan-demokrat-buka-peluang-kerja-sama",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDE5MzMvZ2VyaW5kcmEtZGFuLWRlbW9rcmF0LWJ1a2EtcGVsdWFuZy1rZXJqYS1zYW1h",
+        "description": "PERTEMUAN Ketua Umum Partai Demokrat Agus Harimurti Yudhoyono (AHY) dengan Ketua Umum Partai Gerindra Prabowo Subianto bertujuan untuk menjalin komunikasi yang lebih baik antar kedua partai politik&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/501932/npc-penunjukan-gibran-jadi-ketua-inaspoc-tak-berkaitan-dengan-presiden",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMTkyOS9qZWxhbmctaWR1bC1hZGhhLWtlbWVudGFuLXBhc3Rpa2FuLXNlbXVhLXRlcm5hay1zYXBpLW50dC1zZWhhdA==",
         "description": "KEMENTERIAN Pertanian (Kementan) memastikan bahwa hewan ternak sapi yang akan dikirim dari Nusa Tenggara Timur (NTT) dalam keadaan aman serta bebas dari penyakit mulut dan kuku (PMK). Sebagai&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/501928/indonesia-ingin-berkontribusi-mengatasi-masalah-ketahanan-pangan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMTkyOC9pbmRvbmVzaWEtaW5naW4tYmVya29udHJpYnVzaS1tZW5nYXRhc2ktbWFzYWxhaC1rZXRhaGFuYW4tcGFuZ2Fu",
-        "description": "PRESIDEN Joko Widodo menyampaikan dunia tengah menghadapi tantangan berat. Misalnya, ketahanan pangan, ketahanan energi, hingga stabilitas keuangan. Selain itu, ujarnya, pertumbuhan ekonomi dunia dilaporkan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/501927/prabowo-dan-ahy-mengklaim-punya-kesamaan-visi-dan-pandangan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDE5MjcvcHJhYm93by1kYW4tYWh5LW1lbmdrbGFpbS1wdW55YS1rZXNhbWFhbi12aXNpLWRhbi1wYW5kYW5nYW4=",
-        "description": "KETUA Umum Partai Gerindra Prabowo Subianto dan Ketua Umum Partai Demokrat Agus Harimurti Yudhoyono (AHY) selesai melakukan pertemuan di kediaman Prabowo, Jalan Kertanegara, Jakarta Selatan. Keduanya&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/501926/kementantni-au-kembangkan-sorgum-dan-jagung-di-area-bandara-el-tari-kupang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMTkyNi9rZW1lbnRhbnRuaS1hdS1rZW1iYW5na2FuLXNvcmd1bS1kYW4tamFndW5nLWRpLWFyZWEtYmFuZGFyYS1lbC10YXJpLWt1cGFuZw==",
-        "description": "KEMENTERIAN Pertanian (Kementan) bekerja sama dengan TNI Angkatan Udara (AU) membudidayakan sorgum dan jagung di lahan area Bandara El Tari, Kupang, Nusa Tenggara Timur (NTT). Pengembangan sorgum&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/501925/jamaah-pilih-waktu-tawaf-antara-dhuha-hingga-jelang-dzuhur",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxOTI1L2phbWFhaC1waWxpaC13YWt0dS10YXdhZi1hbnRhcmEtZGh1aGEtaGluZ2dhLWplbGFuZy1kenVodXI=",
-        "description": "JAMAAH calon haji memilih waktu melaksanakan tawaf saat waktu Dhuha atau sekitar pukul 08.00 Waktu Arab Saudi (WAS) hingga menjelang Zuhur karena kondisi pada rentang waktu itu cukup nyaman. Pantauan&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/501924/sertifikasi-hanya-untuk-kendaraan-roda-empat-sirkuit-formula-e-tak-bisa-untuk-balap-motor",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDE5MjQvc2VydGlmaWthc2ktaGFueWEtdW50dWsta2VuZGFyYWFuLXJvZGEtZW1wYXQtc2lya3VpdC1mb3JtdWxhLWUtdGFrLWJpc2EtdW50dWstYmFsYXAtbW90b3I=",
-        "description": "SIRKUIT &nbsp;balap mobil Formula E di Ancol, Jakarta tidak diperuntukkan bagi balap motor. Ketua Panitia ajang Formula E Jakarta, Ahmad Sahroni mengatakan hal itu sudah ditetapkan sebagai regulasi&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/501923/dukung-program-kementan-bupati-tala-genjot-regenerasi-petani",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAxOTIzL2R1a3VuZy1wcm9ncmFtLWtlbWVudGFuLWJ1cGF0aS10YWxhLWdlbmpvdC1yZWdlbmVyYXNpLXBldGFuaQ==",
-        "description": "SUMBER daya manusia (SDM di sektor pertanian Indonesia didominasi oleh petani senior, berkisar 71%, usianya lebih 45 tahun, sementara yang berusia di bawah 45 tahun hanya 29%. Ketimpangan tersebut&#8230;"
     }
 ]
