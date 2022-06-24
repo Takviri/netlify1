@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/501968/city-dilaporkan-sepakat-datangkan-phillips-dari-leeds",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk2OC9jaXR5LWRpbGFwb3JrYW4tc2VwYWthdC1kYXRhbmdrYW4tcGhpbGxpcHMtZGFyaS1sZWVkcw==",
+        "description": "MANCHESTER City telah sepakat untuk mendatangkan gelandang Kalvin Phillips dari Leeds United dengan nilai transfer 45 juta&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/501972/ledecky-raih-emas-nomor-800-meter-gaya-bebas-kelima-di-kejuaraan-dunia-renang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5NzIvbGVkZWNreS1yYWloLWVtYXMtbm9tb3ItODAwLW1ldGVyLWdheWEtYmViYXMta2VsaW1hLWRpLWtlanVhcmFhbi1kdW5pYS1yZW5hbmc=",
+        "description": "JUARA Olimpiade Katie Ledecky mengklaim medali emas nomor 800 meter gaya bebas Kejuaraan Dunia Renang untuk kelima kalinya secara&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/501966/mahkamah-agung-as-cabut-hak-untuk-lakukan-aborsi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMTk2Ni9tYWhrYW1haC1hZ3VuZy1hcy1jYWJ1dC1oYWstdW50dWstbGFrdWthbi1hYm9yc2k=",
+        "description": "MAHKAMAH Agung Amerika Serikat (AS), Jumat (24/6), mencabut hak melakukan aborsi lewat keputusan yang membuyarkan lima tahun perlindungan&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/501969/tsitsipas-hadapi-bautista-agut-di-final-mallorca-terbuka",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk2NS9iYWxpLXVuaXRlZC1rYWxhaGthbi1rZWRhaC1mYy1kaS1sYWdhLXBlcmRhbmEtcGlhbGEtYWZjLTIwMjI=",
         "description": "BALI United FC sukses menundukkan Kedah Darul Aman FC dengan skor 2-0 pada laga perdana babak penyisihan Grup G Piala AFC 2022&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/501961/barcelona-ajukan-penawaran-rp625-miliar-untuk-lewandowski",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk2MS9iYXJjZWxvbmEtYWp1a2FuLXBlbmF3YXJhbi1ycDYyNS1taWxpYXItdW50dWstbGV3YW5kb3dza2k=",
-        "description": "KLUB La Liga Barcelona dikabarkan telah mengajukan penawaran 40 juta euro atau sekitar Rp625 miliar kepada Bayern Muenchen untuk&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/501964/kalahkan-pss-psis-melaju-ke-perempat-final-piala-presiden",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk2NC9rYWxhaGthbi1wc3MtcHNpcy1tZWxhanUta2UtcGVyZW1wYXQtZmluYWwtcGlhbGEtcHJlc2lkZW4=",
-        "description": "PSIS Semarang mengunci posisi puncak klasemen Grup A sekaligus memastikan langkah ke perempat final Piala Presiden setelah&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/501960/forest-datangkan-henderson-dari-mu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk2MC9mb3Jlc3QtZGF0YW5na2FuLWhlbmRlcnNvbi1kYXJpLW11",
-        "description": "KLUB promosi Liga Primer Inggris Nottingham Forest dikabarkan telah mengamankan jasa penjaga gawang Manchester United Dean&#8230;"
     }
 ]
