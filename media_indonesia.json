@@ -1,5 +1,47 @@
 [
     {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/501857/mahfud-md-presidential-threshold-idealnya-di-angka-4",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDE4NTcvbWFoZnVkLW1kLXByZXNpZGVudGlhbC10aHJlc2hvbGQtaWRlYWxueWEtZGktYW5na2EtNA==",
+        "description": "MENKO Politik Hukum dan Keamanan (polhukam) Mahfud MD mengakui bahwa ambang batas pencalonan presiden (presidential threshold) sebesar 20% merupakan angka yang tinggi.&nbsp; Menurut Mahfud,&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/501856/seluruh-manfaat-jamsostek-untuk-pmi-telah-sesuai-aturan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMTg1Ni9zZWx1cnVoLW1hbmZhYXQtamFtc29zdGVrLXVudHVrLXBtaS10ZWxhaC1zZXN1YWktYXR1cmFu",
+        "description": "DALAM&nbsp; Rapat Dengar Pendapat (RDP) Komisi IX DPR RI Rabu lalu, Kepala Badan Pelindungan Pekerja Migran Indonesia (BP2MI) Benny Rhamdani menyatakan bahwa jumlah klaim yang dibayarkan BPJS Ketenagakerjaan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/501855/fashion-kian-tumbuh-donna-prive-lebarkan-sayap-ke-makassar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAxODU1L2Zhc2hpb24ta2lhbi10dW1idWgtZG9ubmEtcHJpdmUtbGViYXJrYW4tc2F5YXAta2UtbWFrYXNzYXI=",
+        "description": "BEBERAPA fashion seringkali diidentikkan dengan kota-kota megapolitan ataupun kaum urban. Mayoritas acara pekan mode maupun&nbsp;peragaan busana lainnya lebih sering digelar di Ibukota Jakarta.&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/501854/gubernur-lampung-lepas-kontingen-festival-olahraga-rekreasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAxODU0L2d1YmVybnVyLWxhbXB1bmctbGVwYXMta29udGluZ2VuLWZlc3RpdmFsLW9sYWhyYWdhLXJla3JlYXNp",
+        "description": "GUBERNUR Lampung Arinal Djunaidi bersama Komite Olahraga Rekreasi Masyarakat Indonesia (Kormi) Lampung melepas 542 kontingen Festival Olahraga Rekreasi Nasional (Fornas) VI yang berlangsung pada Jumat&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/501853/70-kasus-hepatitis-akut-ditemukan-di-21-provinsi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxODUzLzcwLWthc3VzLWhlcGF0aXRpcy1ha3V0LWRpdGVtdWthbi1kaS0yMS1wcm92aW5zaQ==",
+        "description": "KEMENTERIAN Kesehatan (Kemenkes) menemukan 70 kasus dugaan hepatitis akut per Kamis (23/6). Temuan itu tersebar di 21 provinsi. &quot;Dari 70 kasus dugaan ini ada 16 probable, 14 pending, dan&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/501852/lakon-gatot-kaca-hibur-para-investor-global-di-bali",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMTg1Mi9sYWtvbi1nYXRvdC1rYWNhLWhpYnVyLXBhcmEtaW52ZXN0b3ItZ2xvYmFsLWRpLWJhbGk=",
+        "description": "Konferensi Global Asian Venture Philanthropy Network (AVPN) mengadakan pertemuan investasi sosial terbesar di Asia yang mengumpulkan penyandang dana dan penyedia sumber daya dari seluruh dunia untuk&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/501851/pembangunan-ikn-butuh-dana-besar-lman-kami-siap-dukung",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAxODQ4L3Byb3ZpbnNpLWJhbnRlbi1rb21pdG1lbi13dWp1ZGthbi10YXRhLWtlbG9sYS1wZW1lcmludGFoYW4tYmFpay1kYW4tYmVyc2lo",
         "description": "PROVINSI Banten wujudkan komitmen untuk terlaksananya tata kelola pemerintahan yang baik dan bersih (good and clean governance). Komitmen itu ditunjukkan dengan Penandatanganan Pakta&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/501847/dekat-dengan-pesantren-erick-thohir-difavoritkan-sebagai-cawapres",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDE4NDcvZGVrYXQtZGVuZ2FuLXBlc2FudHJlbi1lcmljay10aG9oaXItZGlmYXZvcml0a2FuLXNlYmFnYWktY2F3YXByZXM=",
-        "description": "POLTRACKING&nbsp;Indonesia mengeluarkan hasil survei terbaru calon presiden (capres) dan calon wakil presiden (cawapres) yang diminati masyarakat di Jawa Timur (Jatim). Dari survei tersebut&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/501846/akademisi-dukung-aturan-beli-minyak-goreng-curah-pakai-pedulilindungi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMTg0Ni9ha2FkZW1pc2ktZHVrdW5nLWF0dXJhbi1iZWxpLW1pbnlhay1nb3JlbmctY3VyYWgtcGFrYWktcGVkdWxpbGluZHVuZ2k=",
-        "description": "DOSEN Fakultas Ekonomi dan Bisnis (FEB) Universitas Muhammadiyah Purwokerto (UMP) Akhmad Darmawan menilai kebijakan penggunaan aplikasi PeduliLindungi dalam pembelian minyak goreng curah merupakan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/501845/jelang-laga-vs-borneo-persija-siapkan-skuad-utama",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTg0NS9qZWxhbmctbGFnYS12cy1ib3JuZW8tcGVyc2lqYS1zaWFwa2FuLXNrdWFkLXV0YW1h",
-        "description": "PERSIJA Jakarta akan diperkuat para pemain utama pada laga ketiga Piala Presiden 2022. Klub tersebut dijadwalkan melawan Borneo FC di Stadion Segiri, Samarinda, pada Sabtu (25/6) malam.&nbsp; Adapun&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/501844/lewat-piyama-cafe-kotta-go-hotel-yogyakarta-milikiprogram-supportlocalbrand",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxODQ0L2xld2F0LXBpeWFtYS1jYWZlLWtvdHRhLWdvLWhvdGVsLXlvZ3lha2FydGEtbWlsaWtpcHJvZ3JhbS1zdXBwb3J0bG9jYWxicmFuZA==",
-        "description": "PIYAMA&nbsp; Cafe merupakan salah satu cafe hits di Yogyakarta yang lokasinya dekat dengan Tugu, tepatnya berada di Lobby Kotta GO Hotel Yogyakarta. Piyama Cafe dapat menjadi rekomendasi kafe&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/501843/penambahan-kasus-covid-19-nasional-tembus-2069hari",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxODQzL3BlbmFtYmFoYW4ta2FzdXMtY292aWQtMTktbmFzaW9uYWwtdGVtYnVzLTIwNjloYXJp",
-        "description": "JUMLAH kasus positif covid-19 di Indonesia masih bertambah. Sebanyak 2.069 pasien terinfeksi virus korona per Jumat (24/6) &quot;Total ada 6.076.894 kasus covid-19 terkonfirmasi di Indonesia,&quot;&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/501842/konco-erick-terpacu-dengan-elektabilitas-erick-di-jatim",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDE4NDIva29uY28tZXJpY2stdGVycGFjdS1kZW5nYW4tZWxla3RhYmlsaXRhcy1lcmljay1kaS1qYXRpbQ==",
-        "description": "ELEKTABILITAS Menteri BUMN Erick Thohir mendominasi survei bursa calon wakil presiden (cawapres) di provinsi Jawa Timur (Jatim). Melihat data tersebut, Relawan Konco Erick Thohir kian gencar melakukan&#8230;"
     }
 ]
