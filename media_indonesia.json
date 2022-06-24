@@ -1,5 +1,19 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/501829/pemberdayaan-umkm-agresif-menkop-ukm-teten-ingin-perbankan-tiru-bni",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMTgyOS9wZW1iZXJkYXlhYW4tdW1rbS1hZ3Jlc2lmLW1lbmtvcC11a20tdGV0ZW4taW5naW4tcGVyYmFua2FuLXRpcnUtYm5p",
+        "description": "PEMULIHAN ekonomi dari segmen usaha mikro, kecil, dan menengah (UMKM) merupakan strategi paling ampuh bagi sebuah negara berkembang untuk keluar dari tekanan di masa pandemi. Hal ini pun memerlukan&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/501828/alumni-sekolah-islam-al-azhar-luncurkan-aplikasi-pengawas-penggunaan-gawai",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTAxODI4L2FsdW1uaS1zZWtvbGFoLWlzbGFtLWFsLWF6aGFyLWx1bmN1cmthbi1hcGxpa2FzaS1wZW5nYXdhcy1wZW5nZ3VuYWFuLWdhd2Fp",
+        "description": "TIDAK ada yang mengingkari jika teknologi sangat membantu kehidupan manusia. Gawai dan internet sudah jadi kebutuhan dalam aktivitas keseharian kita, termasuk anak-anak. Namun, penggunaan gawai&#8230;"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/501825/kim-jong-un-perkuat-pengembangan-nuklir-dan-pasukan-khusus",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDE4MTQva2VqYWd1bmctYWthbi1la3Nwb3NlLWtldGVyYW5nYW4tZWtzLW1lbmRhZy1sdXRmaQ==",
         "description": "KEJAKSAAN Agung (Kejagung) akan melakukan ekspose atau gelar perkara hasil pemeriksaan mantan Menteri Perdagangan Muhammad Lutfi terkait kasus korupsi pemberian fasilitas ekspor minyak sawit mentah&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/501813/pemprov-dki-tegur-holywings-terkait-promo-bir-untuk-muhammad",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDE4MTMvcGVtcHJvdi1ka2ktdGVndXItaG9seXdpbmdzLXRlcmthaXQtcHJvbW8tYmlyLXVudHVrLW11aGFtbWFk",
-        "description": "DINAS Pariwisatan dan Ekonomi Kreatif (Disparekraf) DKI Jakarta memberikan teguran tertulis kepada manajemen Holywings. Ini sebagai buntut adanya unsur SARA dalam promo minuman alkohol gratis setiap&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/501810/ronaldo-gelisah-mu-belum-dapatkan-pemain-anyar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTgxMC9yb25hbGRvLWdlbGlzYWgtbXUtYmVsdW0tZGFwYXRrYW4tcGVtYWluLWFueWFy",
-        "description": "CRISTIANO Ronaldo dikabarkan mempertimbangkan untuk hengkang dari Manchester United musim panas ini di tengah frustrasi aktivitas transfer klub yang mandek. United hingga saat ini belum mendapatkan&#8230;"
     }
 ]

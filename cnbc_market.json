@@ -1,5 +1,40 @@
 [
     {
+        "title": "Kendaraan Northstar Ekspansi Luar Negeri: BUMA Aussie",
+        "link": "https://www.cnbcindonesia.com/market/20220624095513-17-349931/kendaraan-northstar-ekspansi-luar-negeri-buma-aussie",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MDk1NTEzLTE3LTM0OTkzMS9rZW5kYXJhYW4tbm9ydGhzdGFyLWVrc3BhbnNpLWx1YXItbmVnZXJpLWJ1bWEtYXVzc2ll",
+        "description": " PT Delta Dunia Makmur Tbk (DOID) merencanakan ekspansi ke luar negeri pada tahun ini."
+    },
+    {
+        "title": "Akhir Pekan Ceria, IHSG Sukses Balik ke Level 7.000",
+        "link": "https://www.cnbcindonesia.com/market/20220624150939-17-350095/akhir-pekan-ceria-ihsg-sukses-balik-ke-level-7000",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MTUwOTM5LTE3LTM1MDA5NS9ha2hpci1wZWthbi1jZXJpYS1paHNnLXN1a3Nlcy1iYWxpay1rZS1sZXZlbC03MDAw",
+        "description": " IHSG ditutup menghijau hari ini"
+    },
+    {
+        "title": "Jelang Akhir Pekan, Bursa Eropa Dibuka Ceria!",
+        "link": "https://www.cnbcindonesia.com/market/20220624150621-17-350093/jelang-akhir-pekan-bursa-eropa-dibuka-ceria",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MTUwNjIxLTE3LTM1MDA5My9qZWxhbmctYWtoaXItcGVrYW4tYnVyc2EtZXJvcGEtZGlidWthLWNlcmlh",
+        "description": " Bursa saham Eropa di sesi awal kompak berada di zona hijau pada perdagangan hari ini, di tengah investor global masih mengevaluasi inflasi dan potensi resesi."
+    },
+    {
+        "title": "Bukalapak Incar Pendapatan Tembus Rp 3 T Pada 2022",
+        "link": "https://www.cnbcindonesia.com/market/20220624145332-17-350078/bukalapak-incar-pendapatan-tembus-rp-3-t-pada-2022",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MTQ1MzMyLTE3LTM1MDA3OC9idWthbGFwYWstaW5jYXItcGVuZGFwYXRhbi10ZW1idXMtcnAtMy10LXBhZGEtMjAyMg==",
+        "description": " PT Bukalapak.com Tbk (BUKA) menargetkan pendapatan tahun ini di kisaran Rp 2,7 triliun - Rp 3 triliun"
+    },
+    {
+        "title": "Meski Melemah, Kinerja Rupiah Membaik Ketimbang Pekan Lalu",
+        "link": "https://www.cnbcindonesia.com/market/20220624145824-17-350085/meski-melemah-kinerja-rupiah-membaik-ketimbang-pekan-lalu",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MTQ1ODI0LTE3LTM1MDA4NS9tZXNraS1tZWxlbWFoLWtpbmVyamEtcnVwaWFoLW1lbWJhaWsta2V0aW1iYW5nLXBla2FuLWxhbHU=",
+        "description": " Nilai tukar rupiah akhirnya melemah melawan dolar Amerika Serikat (AS) pada perdagangan Jumat (24/6/2022)."
+    },
+    {
         "title": "Kalori dan Produksi Terbatas,Tantangan Batu Bara RI Masuk Eropa",
         "link": "https://www.cnbcindonesia.com/market/20220624132602-19-350036/kalori-produksi-terbatastantangan-batu-bara-ri-masuk-eropa",
         "image": "static/images/cnbc_market.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MTM0NDE2LTE3LTM1MDA0OC9zYWhhbS1pY2JwLW1pbGlrLXNhbGltLW11bGFpLWxpYXItbmloLWluaS1wZW1pY3VueWE=",
         "description": " Harga saham ICBP bergerak naik dalam berberapa pekan terakhir, ada apa ?"
-    },
-    {
-        "title": "Eropa Teriak Krisis Energi, Harga Batu Bara Cetak Rekor",
-        "link": "https://www.cnbcindonesia.com/market/20220624104023-17-349961/eropa-teriak-krisis-energi-harga-batu-bara-cetak-rekor",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MTA0MDIzLTE3LTM0OTk2MS9lcm9wYS10ZXJpYWsta3Jpc2lzLWVuZXJnaS1oYXJnYS1iYXR1LWJhcmEtY2V0YWstcmVrb3I=",
-        "description": " Harga batu bara Eropa melonjak ke posisi tertinggi dalam 15 minggu"
-    },
-    {
-        "title": "Cek Rekening, Bukit Asam (PTBA) Bayar Dividen Hari Ini",
-        "link": "https://www.cnbcindonesia.com/market/20220624114852-17-350008/cek-rekening-bukit-asam--ptba--bayar-dividen-hari-ini",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MTE0ODUyLTE3LTM1MDAwOC9jZWstcmVrZW5pbmctYnVraXQtYXNhbS0tcHRiYS0tYmF5YXItZGl2aWRlbi1oYXJpLWluaQ==",
-        "description": " PT Bukit Asam Tbk (PTBA) hari ini membagikan dividen tunai dari tahun buku 2021 dengan nilai total Rp 7,9 triliun atau Rp 688,5 per lembar saham."
-    },
-    {
-        "title": "Turun 2 Hari Beruntun, Dolar Australia Akhirnya Naik Lagi",
-        "link": "https://www.cnbcindonesia.com/market/20220624114507-17-350004/turun-2-hari-beruntun-dolar-australia-akhirnya-naik-lagi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MTE0NTA3LTE3LTM1MDAwNC90dXJ1bi0yLWhhcmktYmVydW50dW4tZG9sYXItYXVzdHJhbGlhLWFraGlybnlhLW5haWstbGFnaQ==",
-        "description": " Nilai tukar dolar Australia menguat melawan rupiah pada perdagangan Jumat (24/6/2022)"
-    },
-    {
-        "title": "BI Berpeluang Naikkan Suku Bunga di Q3-2022, Ini Sebabnya",
-        "link": "https://www.cnbcindonesia.com/market/20220624113944-19-349994/bi-berpeluang-naikkan-suku-bunga-di-q3-2022-ini-sebabnya",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MTEzOTQ0LTE5LTM0OTk5NC9iaS1iZXJwZWx1YW5nLW5haWtrYW4tc3VrdS1idW5nYS1kaS1xMy0yMDIyLWluaS1zZWJhYm55YQ==",
-        "description": " BI Berpeluang Naikkan Suku Bunga di Q3-2022, Ini Penyebabnya"
-    },
-    {
-        "title": "Terbitkan Obligasi, Saham Induk Media Hary Tanoe Menghijau",
-        "link": "https://www.cnbcindonesia.com/market/20220624123818-17-350024/terbitkan-obligasi-saham-induk-media-hary-tanoe-menghijau",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MTIzODE4LTE3LTM1MDAyNC90ZXJiaXRrYW4tb2JsaWdhc2ktc2FoYW0taW5kdWstbWVkaWEtaGFyeS10YW5vZS1tZW5naGlqYXU=",
-        "description": " BMTR menghijau jelang penerbitan obligasi"
     }
 ]
