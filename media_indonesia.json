@@ -1,5 +1,40 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/501944/pengungsi-ukraina-boleh-nonton-wimbledon-gratis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5NDQvcGVuZ3VuZ3NpLXVrcmFpbmEtYm9sZWgtbm9udG9uLXdpbWJsZWRvbi1ncmF0aXM=",
+        "description": "PANITIA penyelenggara Wimbledon akan memberikan tiket pertandingan Minggu (26/6) secara gratis kepada para pengungsi Ukraina yang terdampak invasi Rusia untuk menyaksikan langsung turnamen bergengsi&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/501943/5-platform-e-commerce-terbaik-untuk-penjual",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMTk0My81LXBsYXRmb3JtLWUtY29tbWVyY2UtdGVyYmFpay11bnR1ay1wZW5qdWFs",
+        "description": "PERKEMBANGAN teknologi memungkinkan para seller untuk mengembangkan bisnisnya dengan lebih optimal. Melalui platform e-commerce, peluang menjual secara online telah membantu banyak bisnis untuk tumbuh&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/501942/kornas-ganjarist-sebut-loyalitas-ganjar-pada-pdip-tak-perlu-diragukan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDE5NDIva29ybmFzLWdhbmphcmlzdC1zZWJ1dC1sb3lhbGl0YXMtZ2FuamFyLXBhZGEtcGRpcC10YWstcGVybHUtZGlyYWd1a2Fu",
+        "description": "PIDATO Ketua Umum PDIP Megawati Soekarnoputri saat Rapat Kerja Nasional yang menyinggung kader partai yang bermain dua kaki untuk keluar dari PDIP, dinilai Sekretaris Jenderal Kornas Ganjarist Kris&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/501940/cetak-laba-rp32t-kinerja-moncer-pelindo-pasca-merger",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMTk0MC9jZXRhay1sYWJhLXJwMzJ0LWtpbmVyamEtbW9uY2VyLXBlbGluZG8tcGFzY2EtbWVyZ2Vy",
+        "description": "Kinerja &nbsp;PT Pelabuhan Indonesia (Persero) atau Pelindo 2021 pasca merger meningkat. Perseroan berhasil catatkan laba sebesar Rp3,2 (audited) triliun, naik dibandingkan perolehan tahun 2020, yang&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/501939/kembangkan-layanan-ut-jalin-kerja-sama-dengan-garuda-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxOTM5L2tlbWJhbmdrYW4tbGF5YW5hbi11dC1qYWxpbi1rZXJqYS1zYW1hLWRlbmdhbi1nYXJ1ZGEtaW5kb25lc2lh",
+        "description": "DINAMIKA bidang pendidikan di Indonesia berkembang pesat dan cepat. Universitas Terbuka (UT) berkomitmen memberikan pelayanan terbaik untuk seluruh pemangku kepentingan. &quot;Sebagai Perguruan&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/501938/tanam-mangrove-di-bali-ojk-dan-ijk-komitmen-kembangkan-ekonomi-hijau",
         "image": "static/images/media_indonesia.png",
@@ -8,9 +43,9 @@
     },
     {
         "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/501937/pentingnya-perlindungan-kekayaan-intelektual-unuk-tumbuhkan-iklim-ekonomi-sehat-dan-kuat",
+        "link": "https://m.mediaindonesia.com/megapolitan/501937/pentingnya-perlindungan-kekayaan-intelektual-untuk-tumbuhkan-iklim-ekonomi-sehat-dan-kuat",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDE5MzcvcGVudGluZ255YS1wZXJsaW5kdW5nYW4ta2VrYXlhYW4taW50ZWxla3R1YWwtdW51ay10dW1idWhrYW4taWtsaW0tZWtvbm9taS1zZWhhdC1kYW4ta3VhdA==",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDE5MzcvcGVudGluZ255YS1wZXJsaW5kdW5nYW4ta2VrYXlhYW4taW50ZWxla3R1YWwtdW50dWstdHVtYnVoa2FuLWlrbGltLWVrb25vbWktc2VoYXQtZGFuLWt1YXQ=",
         "description": "PROVINSI DKI Jakarta bukan saja sebagai pusat pemerintahan tetapi juga sebagai pusat ekonomi dunia. Banyak tumbuh berbagai sector ekonomi baik berskala lokal, nasional bahkan yang berskala dunia. Tapi&#8230;"
     },
     {
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDE5MzQva29sYWJvcmFzaS1hcGFyYXQtcGVuZWdhay1odWt1bS1kYXBhdC1wZWNhaGthbi1rZW5kYWxhLXNpc3RlbS1wZXJhZGlsYW4tcGlkYW5hLWFuYWstc3BwYQ==",
         "description": "PELAKSANAAN sistem peradilan pidana anak (SPPA)&nbsp;masih menjadi pekerjaan rumah bersama untuk semua pemangku kepentingan. Dalam implementasinya, Undang-Undang No. 11 Tahun 2012 yang mengatur SPPA&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/501933/gerindra-dan-demokrat-buka-peluang-kerja-sama",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDE5MzMvZ2VyaW5kcmEtZGFuLWRlbW9rcmF0LWJ1a2EtcGVsdWFuZy1rZXJqYS1zYW1h",
-        "description": "PERTEMUAN Ketua Umum Partai Demokrat Agus Harimurti Yudhoyono (AHY) dengan Ketua Umum Partai Gerindra Prabowo Subianto bertujuan untuk menjalin komunikasi yang lebih baik antar kedua partai politik&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/501932/npc-penunjukan-gibran-jadi-ketua-inaspoc-tak-berkaitan-dengan-presiden",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5MzIvbnBjLXBlbnVuanVrYW4tZ2licmFuLWphZGkta2V0dWEtaW5hc3BvYy10YWstYmVya2FpdGFuLWRlbmdhbi1wcmVzaWRlbg==",
-        "description": "KOMITE Paralimpik Nasional (NPC) Indonesia meluruskan bahwa penunjukan Wali Kota Solo Gibran Rakabuming Raka sebagai Ketua Pelaksana Indonesia ASEAN Para Games Organizing Committee (INASPOC) tidak&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/501931/psi-kembali-ingatkan-elite-politik-soal-capres-ojo-kesusu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDE5MzEvcHNpLWtlbWJhbGktaW5nYXRrYW4tZWxpdGUtcG9saXRpay1zb2FsLWNhcHJlcy1vam8ta2VzdXN1",
-        "description": "BELAKANGAN, para elite politik bertemu dan membicarakan calon presiden untuk Pemilu 2024. Namun, ada pemandangan berbeda yang diperlihatkan Partai Solidaritas Indonesia (PSI). Partai itu memasang baliho&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/501930/prudential-indonesia-gelar-pruride-2022-dengan-konsep-hibrida",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5MzAvcHJ1ZGVudGlhbC1pbmRvbmVzaWEtZ2VsYXItcHJ1cmlkZS0yMDIyLWRlbmdhbi1rb25zZXAtaGlicmlkYQ==",
-        "description": "PERUSAHAAN asuransi, PT Prudential Life Assurance kembali mengadakan ajang bersepeda PRURide 2022. Di tahun ke-empatnya, gelaran ini akan dilaksanakan dengan konsep hibrida, yaitu secara langsung pada&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/501929/jelang-idul-adha-kementan-pastikan-semua-ternak-sapi-ntt-sehat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMTkyOS9qZWxhbmctaWR1bC1hZGhhLWtlbWVudGFuLXBhc3Rpa2FuLXNlbXVhLXRlcm5hay1zYXBpLW50dC1zZWhhdA==",
-        "description": "KEMENTERIAN Pertanian (Kementan) memastikan bahwa hewan ternak sapi yang akan dikirim dari Nusa Tenggara Timur (NTT) dalam keadaan aman serta bebas dari penyakit mulut dan kuku (PMK). Sebagai&#8230;"
     }
 ]
