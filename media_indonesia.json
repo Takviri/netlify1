@@ -1,5 +1,12 @@
 [
     {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/501804/stockbit-sajikan-fitur-e-ipo-bantu-investor-di-pasar-modal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTAxODA0L3N0b2NrYml0LXNhamlrYW4tZml0dXItZS1pcG8tYmFudHUtaW52ZXN0b3ItZGktcGFzYXItbW9kYWw=",
+        "description": "Tahun 2021 telah menorehkan tinta emas dalam salah satu babak perjalanan Bursa Efek Indonesia (BEI). Di tahun 2021 terdapat total 54 emiten yang melakukan penawaran umum perdana (IPO) di BEI&#8230;"
+    },
+    {
         "title": "Megapolitan",
         "link": "https://m.mediaindonesia.com/megapolitan/501803/buntut-promosi-miras-gratis-untuk-muhammad-dan-maria-holywings-dilaporkan-ke-polisi",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxNzk2L3ByZXNpZGVuc2ktZzIwLWluZG9uZXNpYS10dW5qdWtrYW4ta2VwZW1pbXBpbmFuLWRhbGFtLXBlbmdlbmRhbGlhbi1wZXJ1YmFoYW4taWtsaW0=",
         "description": "INDONESIA dalam Presidensi G20 tahun ini menunjukkan kepemimpinan dan komitmen tinggi dalam berbagai isu strategis, salah satunya pengelolaan lingkungan hidup dan upaya pengendalian perubahan iklim.&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/501794/ada-kendala-logistik-sesi-latihan-gp-jepang-dipangkas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE3OTQvYWRhLWtlbmRhbGEtbG9naXN0aWstc2VzaS1sYXRpaGFuLWdwLWplcGFuZy1kaXBhbmdrYXM=",
-        "description": "JUMLAH sesi latihan bebas GP Jepang di Sirkuit Motegi akan dipangkas menyusul kendala logistik yang dihadapi penyelenggara balapan MotoGP&#8230;"
     }
 ]
