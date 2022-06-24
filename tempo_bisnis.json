@@ -1,5 +1,26 @@
 [
     {
+        "title": "Terkini Bisnis: Daftar Direksi Baru LinkAja, Titik Nadir Harga TBS Sawit",
+        "link": "https://bisnis.tempo.co/read/1605387/terkini-bisnis-daftar-direksi-baru-linkaja-titik-nadir-harga-tbs-sawit",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA1Mzg3L3RlcmtpbmktYmlzbmlzLWRhZnRhci1kaXJla3NpLWJhcnUtbGlua2FqYS10aXRpay1uYWRpci1oYXJnYS10YnMtc2F3aXQ=",
+        "description": "Berita terkini ekonomi dan bisnis hingga Jumat sore, 24 Juni 2022 dimulai dengan LinkAja mengumumkan jajaran direksi baru."
+    },
+    {
+        "title": "BNI Bantu Diaspora di Belanda, DPR Beri Apresiasi",
+        "link": "https://bisnis.tempo.co/read/1605388/bni-bantu-diaspora-di-belanda-dpr-beri-apresiasi",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA1Mzg4L2JuaS1iYW50dS1kaWFzcG9yYS1kaS1iZWxhbmRhLWRwci1iZXJpLWFwcmVzaWFzaQ==",
+        "description": "Uni Suprapti asal Pariaman menjadi diaspora di Belanda dan membuka Restoran Padang."
+    },
+    {
+        "title": "BRI Akan Rilis Obligasi Hijau Rp 5 Triliun, Peringkat dari Pefindo idAAA",
+        "link": "https://bisnis.tempo.co/read/1605385/bri-akan-rilis-obligasi-hijau-rp-5-triliun-peringkat-dari-pefindo-idaaa",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA1Mzg1L2JyaS1ha2FuLXJpbGlzLW9ibGlnYXNpLWhpamF1LXJwLTUtdHJpbGl1bi1wZXJpbmdrYXQtZGFyaS1wZWZpbmRvLWlkYWFh",
+        "description": "PT. Bank Rakyat Indonesia (Persero) Tbk (BRI) menerbitkan Obligasi Berwawasan Lingkungan Berkelanjutan I Bank BRI (green bond)."
+    },
+    {
         "title": "BI: Aliran Modal Asing Keluar Rp 8,35 Triliun dalam Pekan Keempat Juni",
         "link": "https://bisnis.tempo.co/read/1605369/bi-aliran-modal-asing-keluar-rp-835-triliun-dalam-pekan-keempat-juni",
         "image": "static/images/tempo_bisnis.png",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA1MzM5L2JpZGlrLWtvbnN1bWVuLWFsZmFtYXJ0LWluZG9kYW5hLWJlcmlrYW4tZGlza29uLTUwLXBlcnNlbi1iYWdpLXBlbmdndW5hLXBheWxhdGVy",
         "description": "Platform pendanaan bersama (P2P lending) penyedia jasa bayar tunda (BNPL/paylater) PT Artha Dana Teknologi atau Indodana bekerja sama dengan Alfamart."
-    },
-    {
-        "title": "Pembayaran Dana Bos Telat, Berikut Penjelasan Sri Mulyani",
-        "link": "https://bisnis.tempo.co/read/1605344/pembayaran-dana-bos-telat-berikut-penjelasan-sri-mulyani",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA1MzQ0L3BlbWJheWFyYW4tZGFuYS1ib3MtdGVsYXQtYmVyaWt1dC1wZW5qZWxhc2FuLXNyaS1tdWx5YW5p",
-        "description": "Keterlambatan pembayaran bantuan operasional sekolah atau dana BOS dinilai terjadi karena anjloknya realisasi dana alokasi khusus."
-    },
-    {
-        "title": "Menteri Teten Ingin Perbankan Tiru BNI",
-        "link": "https://bisnis.tempo.co/read/1605337/menteri-teten-ingin-perbankan-tiru-bni",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA1MzM3L21lbnRlcmktdGV0ZW4taW5naW4tcGVyYmFua2FuLXRpcnUtYm5p",
-        "description": "BNI membuat segmen UMKM menjadi lebih berkualitas dalam mendorong pertumbuhan sekaligus kestabilan ekonomi."
-    },
-    {
-        "title": "Kadin Dukung Bank Indonesia Tahan Suku Bunga: Kita Bisa Pertahankan Pemulihan Ekonomi",
-        "link": "https://bisnis.tempo.co/read/1605333/kadin-dukung-bank-indonesia-tahan-suku-bunga-kita-bisa-pertahankan-pemulihan-ekonomi",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA1MzMzL2thZGluLWR1a3VuZy1iYW5rLWluZG9uZXNpYS10YWhhbi1zdWt1LWJ1bmdhLWtpdGEtYmlzYS1wZXJ0YWhhbmthbi1wZW11bGloYW4tZWtvbm9taQ==",
-        "description": "Rapat Dewan Gubernur (RDG) Bank Indonesia yang digelar 22-23 Juni 2022 memutuskan menahan BI 7-Day Reverse Repo Rate (BI7DRR) di angka 3,5 persen."
     }
 ]
