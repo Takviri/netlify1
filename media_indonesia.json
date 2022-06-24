@@ -1,9 +1,23 @@
 [
     {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/501838/promosi-miras-muhammad-dan-maria-holywings-mengaku-khilaf",
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/501840/quartararo-berharap-hujan-tak-turun-di-gp-belanda",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDE4MzgvcHJvbW9zaS1taXJhcy1tdWhhbW1hZC1kYW4tbWFyaWEtaG9seXdpbmdzLW1lbmdha3Uta2hpbGFm",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE4NDAvcXVhcnRhcmFyby1iZXJoYXJhcC1odWphbi10YWstdHVydW4tZGktZ3AtYmVsYW5kYQ==",
+        "description": "JUARA dunia Moto-GP 2021, Fabio Quartarao, bersiap melanjutkan perjalanannya pada balapan Moto-GP seri GP Belanda, dengan balapan utama akan dimulai pada akhir pekan ini, Minggu (26/6) waktu setempat.&nbsp;&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/501839/mui-hewan-positif-pmk-kategori-berat-tidak-sah-jadi-hewan-kurban",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxODM5L211aS1oZXdhbi1wb3NpdGlmLXBtay1rYXRlZ29yaS1iZXJhdC10aWRhay1zYWgtamFkaS1oZXdhbi1rdXJiYW4=",
+        "description": "MAJELIS Ulama Indonesia (MUI) Kota Tangerang, Banten mengungkapkan hewan yang positif terkena penyakit mulut dan kuku (PMK) dan masuk dalam kategori berat seperti lepuh pada kuku hingga terlepas dan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/501838/promosi-miras-dengan-nama-muhammad-dan-maria-holywings-mengaku-khilaf",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDE4MzgvcHJvbW9zaS1taXJhcy1kZW5nYW4tbmFtYS1tdWhhbW1hZC1kYW4tbWFyaWEtaG9seXdpbmdzLW1lbmdha3Uta2hpbGFm",
         "description": "HOLYWINGS menyampaikan permintaan maaf terkait promosi minuman keras (miras) gratis bagi nama Muhammad dan Maria yang memancing polemik di tengah masyarakat. Co-founder Holywings Group Ivan&#8230;"
     },
     {
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAxODMxL2JhbGFpLWtzZGEta2FsdGltLW1lbGVwYXNsaWFya2FuLWVsYW5nLWRpLXNtLXB1bGF1LXNlbWFtYQ==",
         "description": "BALAI KSDA Kalimantan Timur bersama Conservation Action Network (CAN) melaksanakan pelepasliaran 1 ekor Elang laut dada putih (Haliaeetus leucogaster) di Suaka Margasatwa (SM) Pulau Semama.&nbsp;&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/501830/dalam-sebulan-terakhir-positivity-rate-indonesia-capai-393",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxODMwL2RhbGFtLXNlYnVsYW4tdGVyYWtoaXItcG9zaXRpdml0eS1yYXRlLWluZG9uZXNpYS1jYXBhaS0zOTM=",
-        "description": "POSITIVITY rate kasus covid-19 di Indonesia meningkat pesat dalam satu bulan terakhir. Hal itu tercermin dari data yang dikeluarkan Kementerian Kesehatan (Kemenkes).&nbsp; Dari awalnya hanya&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/501829/pemberdayaan-umkm-agresif-menkop-ukm-teten-ingin-perbankan-tiru-bni",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMTgyOS9wZW1iZXJkYXlhYW4tdW1rbS1hZ3Jlc2lmLW1lbmtvcC11a20tdGV0ZW4taW5naW4tcGVyYmFua2FuLXRpcnUtYm5p",
-        "description": "PEMULIHAN ekonomi dari segmen usaha mikro, kecil, dan menengah (UMKM) merupakan strategi paling ampuh bagi sebuah negara berkembang untuk keluar dari tekanan di masa pandemi. Hal ini pun memerlukan&#8230;"
     }
 ]

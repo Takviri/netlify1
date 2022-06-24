@@ -7,6 +7,20 @@
         "description": "Orang-orang yang selamat dari gempa paling mematikan di Afghanistan dalam dua dekade terakhir, mengaku tak memiliki apapun untuk dimakan, tak ada tempat berteduh, serta khawatir kemungkinan terpapar wabah kolera."
     },
     {
+        "title": "Covid-19: Beda gejala pada orang yang belum dan sudah divaksinasi",
+        "link": "https://www.bbc.com/indonesia/majalah-61921761",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MTkyMTc2MQ==",
+        "description": "Penelitian yang dilakukan selama dua tahun menunjukkan bahwa gejala parah seperti demam telah semakin berkurang berkat vaksinasi."
+    },
+    {
+        "title": "Tungau yang bercinta di kulit wajah kita sedang menghadapi masalah, kenapa keberadaan mereka penting?",
+        "link": "https://www.bbc.com/indonesia/majalah-61905337",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MTkwNTMzNw==",
+        "description": "Organisme dengan panjang 0.3 milimeter ini hidup di dalam pori-pori wajah kita, tapi mungkin mereka sedang di ambang kepunahan."
+    },
+    {
         "title": "Kekerasan terhadap perempuan di China terjadi lagi, bisakah misogini diatasi 'saat berbagai kelompok HAM diberangus'?",
         "link": "https://www.bbc.com/indonesia/dunia-61919571",
         "image": "static/images/bbc_indonesia.png",
@@ -28,13 +42,6 @@
         "description": "Seorang pekerja klinik kesehatan di daerah pusat gempa di Afghanistan menuturkan kepada BBC bagaimana mereka kewalahan lantaran ratusan orang datang dan memerlukan perawatan."
     },
     {
-        "title": "Tungau yang bercinta di kulit wajah kita sedang menghadapi masalah, kenapa keberadaan mereka penting?",
-        "link": "https://www.bbc.com/indonesia/majalah-61905337",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MTkwNTMzNw==",
-        "description": "Organisme dengan panjang 0.3 milimeter ini hidup di dalam pori-pori wajah kita, tapi mungkin mereka sedang di ambang kepunahan."
-    },
-    {
         "title": "Majikan Malaysia dibebaskan dari kasus kematian ART Indonesia, Adelina Lisao, 'tak cerminkan rasa keadilan'",
         "link": "https://www.bbc.com/indonesia/dunia-61911647",
         "image": "static/images/bbc_indonesia.png",
@@ -49,13 +56,6 @@
         "description": "Sejumlah saksi mata menggambarkan sikap frustasi orang-orang di wilayah yang luluh lantak akibat gempa dahsyat yang melanda Afghanistan, negara yang telah lama mengalami konflik dan kemiskinan."
     },
     {
-        "title": "Presiden Erdogan dan Pangeran Mohammed bin Salman ingin buka periode kerja sama baru Turki-Arab Saudi",
-        "link": "https://www.bbc.com/indonesia/dunia-61891350",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE4OTEzNTA=",
-        "description": "Presiden Erdogan dan Putra Mahkota Mohammed bin Salman ingin memperbaiki hubungan yang rusak akibat pembunuhan wartawan kondang Jamal Khashoggi di Konsulat Saudi di Istanbul."
-    },
-    {
         "title": "Gempa Afghanistan, Aceh, Sulteng, Lombok dan gempa-gempa mematikan di dunia dalam satu abad terakhir",
         "link": "https://www.bbc.com/indonesia/dunia-61905811",
         "image": "static/images/bbc_indonesia.png",
@@ -63,10 +63,10 @@
         "description": "Ratusan ribu orang dilaporkan menjadi korban jiwa dalam sejumlah gempa besar yang mematikan selama 100 tahun terakhir, di antaranya di Aceh pada akhir Desember 2004, Sulawesi (2018) serta Lombok (2018)."
     },
     {
-        "title": "Pengadilan Surabaya kabulkan pernikahan Islam dan Kristen, preseden bagi pernikahan beda agama di Indonesia?",
-        "link": "https://www.bbc.com/indonesia/indonesia-61897071",
+        "title": "Lima planet akan sejajar dengan Bulan pada 24 Juni, bagaimana cara menyaksikannya?",
+        "link": "https://www.bbc.com/indonesia/majalah-61861673",
         "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYxODk3MDcx",
-        "description": "Dikabulkannya permohonan pernikahan pasangan beda agama oleh pengadilan negeri (PN) Surabaya disebut sebagai \"terobosan\", namun dikhawatirkan justru kontraproduktif dalam upaya uji materi UU Perkawinan yang sedang berlangsung di Mahkamah Konstitusi."
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MTg2MTY3Mw==",
+        "description": "Para penggila luar angkasa akan dapat menyaksikan Merkurius, Venus, Mars, Jupiter, Saturnus dan Bulan tampak sejajar dengan mata telanjang dalam fenomena langka yang disebut sebagai konjungsi kuintet."
     }
 ]
