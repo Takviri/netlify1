@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Antara Top News",
+        "img": "https://1.bp.blogspot.com/-yTesAO5xYG8/YZW9LjS_ImI/AAAAAAAAJaI/ifzrRniTQZM3I4G7stFgSRAFPCQ0oBeQgCLcBGAsYHQ/s192/antara.png",
+        "tag": "antara_top_news",
+        "twitter": "@Antara_LKBN"
+    },
+    {
+        "name": "Antara Ekonomi",
+        "img": "https://1.bp.blogspot.com/-yTesAO5xYG8/YZW9LjS_ImI/AAAAAAAAJaI/ifzrRniTQZM3I4G7stFgSRAFPCQ0oBeQgCLcBGAsYHQ/s192/antara.png",
+        "tag": "antara_ekonomi",
+        "twitter": "@Antara_LKBN"
+    },
+    {
+        "name": "BBC Indonesia",
+        "img": "https://1.bp.blogspot.com/-xWLrB6yn7Q8/YZW9LjM7s-I/AAAAAAAAJaQ/bVOkD2qbaro7G2RY62grbeJhACRkeps5ACLcBGAsYHQ/s512/bbc_indonesia.png",
+        "tag": "bbc_indonesia",
+        "twitter": "@BBCIndonesia"
+    },
+    {
+        "name": "CNBC News",
+        "img": "https://1.bp.blogspot.com/-oT39vxbzpOU/YZW9LsMV7kI/AAAAAAAAJaM/wNX1H2LEo7sQ_JH_sh8c-Ti3jNM6IMjFQCLcBGAsYHQ/s554/cnbc.png",
+        "tag": "cnbc_news",
+        "twitter": "@cnbcindonesia"
+    },
+    {
+        "name": "CNBC Market",
+        "img": "https://1.bp.blogspot.com/-oT39vxbzpOU/YZW9LsMV7kI/AAAAAAAAJaM/wNX1H2LEo7sQ_JH_sh8c-Ti3jNM6IMjFQCLcBGAsYHQ/s554/cnbc.png",
+        "tag": "cnbc_market",
+        "twitter": "@cnbcindonesia"
+    },
+    {
+        "name": "CNN",
+        "img": "https://1.bp.blogspot.com/-plQHW2UNDaA/YZW9MgHaS8I/AAAAAAAAJaU/RHErbqkqrsckfJK7TgGf4YoPpQFUbzZhgCLcBGAsYHQ/s554/cnn.png",
+        "tag": "cnn_ekonomi",
+        "twitter": "@CNNIndonesia"
+    },
+    {
+        "name": "Detik",
+        "img": "https://1.bp.blogspot.com/-gpFyZnpUjME/YZW9M-WpuRI/AAAAAAAAJaY/Oc1md0kvEBgKJ1urbc33ATjyoNb20EcywCLcBGAsYHQ/s200/detik.png",
+        "tag": "detik",
+        "twitter": "@detikcom"
+    },
+    {
+        "name": "Jawapos Nasional",
+        "img": "https://1.bp.blogspot.com/-qBZd7WDvFXA/YZW9NItqtkI/AAAAAAAAJac/1Ml2S7RAUE8PDZSsyP9eyUalCdUOJn9LQCLcBGAsYHQ/s192/jawapos_nasional.png",
+        "tag": "jawapos_nasional",
+        "twitter": "@jawapos"
+    },
+    {
+        "name": "Jawapos Ekonomi",
+        "img": "https://1.bp.blogspot.com/-qBZd7WDvFXA/YZW9NItqtkI/AAAAAAAAJac/1Ml2S7RAUE8PDZSsyP9eyUalCdUOJn9LQCLcBGAsYHQ/s192/jawapos_nasional.png",
+        "tag": "jawapos_ekonomi",
+        "twitter": "@jawapos"
+    },
+    {
+        "name": "Kompas",
+        "img": "https://1.bp.blogspot.com/-XrtMQv8oO6I/YZW9NoE1z6I/AAAAAAAAJag/hswOynDwcFku9p1V-W1lT0BZ9eQ5ePY1wCLcBGAsYHQ/s186/kompas.png",
+        "tag": "kompas",
+        "twitter": "@kompascom"
+    },
+    {
+        "name": "Kontan",
+        "img": "https://1.bp.blogspot.com/-juz49D90ATw/YZW9NyewxmI/AAAAAAAAJak/xGLIqPiRTfM_c-NB_jwJNLDRJAaRBaXbACLcBGAsYHQ/s275/kontan.png",
+        "tag": "kontan",
+        "twitter": "@KontanNews"
+    },
+    {
+        "name": "Merdeka",
+        "img": "https://1.bp.blogspot.com/-1pe3o5rvrsM/YZjYmNryiiI/AAAAAAAAJbs/S-N751BP4oAuofeDPXF5lk1Z_ze21HDJwCLcBGAsYHQ/s225/download.png",
+        "tag": "merdeka",
+        "twitter": "@merdekadotcom"
+    },
+    {
+        "name": "Media Indonesia",
+        "img": "https://1.bp.blogspot.com/-5pEgsKtNmfA/YZW9Oe-oVKI/AAAAAAAAJas/cvUL9kJnlXQryY_yOkUiuUhX8NB7hdZUgCLcBGAsYHQ/s225/mediaindonesia.png",
+        "tag": "media_indonesia",
+        "twitter": "@mediaindonesia"
+    },
+    {
+        "name": "Okezone",
+        "img": "https://1.bp.blogspot.com/-Zdbs3OPoMiI/YZb1-lrvWiI/AAAAAAAAJbk/Ap-cjxJZi00mHd1XSQ-CH63Vhydn8o3xgCLcBGAsYHQ/s225/download.jpeg",
+        "tag": "okezone",
+        "twitter": "@okezonenews"
+    },
+    {
+        "name": "VOA",
+        "img": "https://1.bp.blogspot.com/-TAjA6eczNt0/YZW9PxrKOrI/AAAAAAAAJbA/B8FPGH3OBzkHlvpcIbXfl92ZMcxTrSb0gCLcBGAsYHQ/s192/voa.png",
+        "tag": "voa",
+        "twitter": "@voaindonesia"
+    },
+    {
+        "name": "Tempo Nasional",
+        "img": "https://1.bp.blogspot.com/-A1rzrY71cFo/YZW9PWuCiRI/AAAAAAAAJa4/QdmpBA8oiaER84kEU4XuzHq_pphJc4kPwCLcBGAsYHQ/s180/tempo.png",
+        "tag": "tempo_nasional",
+        "twitter": "@tempodotco"
+    },
+    {
+        "name": "Tempo Bisnis",
+        "img": "https://1.bp.blogspot.com/-A1rzrY71cFo/YZW9PWuCiRI/AAAAAAAAJa4/QdmpBA8oiaER84kEU4XuzHq_pphJc4kPwCLcBGAsYHQ/s180/tempo.png",
+        "tag": "tempo_bisnis",
+        "twitter": "@tempodotco"
+    },
+    {
+        "name": "Tirto",
+        "img": "https://1.bp.blogspot.com/-F87mUOcQMiw/YZW9PkPWQxI/AAAAAAAAJa8/tcQCuq8xtE02bt_HiupHWsPFB3o15QfjwCLcBGAsYHQ/s512/tirto.png",
+        "tag": "tirto",
+        "twitter": "@TirtoID"
+    },
+    {
+        "name": "Suara News",
+        "img": "https://1.bp.blogspot.com/-jKWb3vn2yIk/YZW9O80EYAI/AAAAAAAAJa0/ppbMHb4X00Ud2YI_94O5Zimf64wZ02Y2wCLcBGAsYHQ/s320/suara_news.png",
+        "tag": "suara_news",
+        "twitter": "@suaradotcom"
+    },
+    {
+        "name": "Suara Bisnis",
+        "img": "https://1.bp.blogspot.com/-jKWb3vn2yIk/YZW9O80EYAI/AAAAAAAAJa0/ppbMHb4X00Ud2YI_94O5Zimf64wZ02Y2wCLcBGAsYHQ/s320/suara_news.png",
+        "tag": "suara_bisnis",
+        "twitter": "@suaradotcom"
+    },
+    {
+        "name": "Republika",
+        "img": "https://1.bp.blogspot.com/-Zd6OeOJqH1E/YZW9OteE7DI/AAAAAAAAJaw/fPgEGpW1XkQ_qeYvkKQgcQQeQ7LDrjxjQCLcBGAsYHQ/s34/republika.png",
+        "tag": "republika",
+        "twitter": "@republikaonline"
+    },
+    {
+        "name": "Vice Indonesia",
+        "img": "https://1.bp.blogspot.com/-twRHp46Hq48/YZZq8VsTMRI/AAAAAAAAJbc/xcHPwiBrKHo5JSE9wbVoM1UKO2h7NM6vwCLcBGAsYHQ/s262/vice.png",
+        "tag": "vice",
+        "twitter": "@VICE_ID"
+    }    
+]
