@@ -1,5 +1,19 @@
 [
     {
+        "title": "Ahmad Basarah Resmikan Pameran Foto Bung Karno di Paris",
+        "link": "https://nasional.tempo.co/read/1605405/ahmad-basarah-resmikan-pameran-foto-bung-karno-di-paris",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDU0MDUvYWhtYWQtYmFzYXJhaC1yZXNtaWthbi1wYW1lcmFuLWZvdG8tYnVuZy1rYXJuby1kaS1wYXJpcw==",
+        "description": "Pameran Foto Bung Karno mengusung tema \"Soekarno Sang Visioner\""
+    },
+    {
+        "title": "Sesditjen Polpum Kemendagri dan Pemda HST Bahas Forkopimda",
+        "link": "https://nasional.tempo.co/read/1605402/sesditjen-polpum-kemendagri-dan-pemda-hst-bahas-forkopimda",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDU0MDIvc2VzZGl0amVuLXBvbHB1bS1rZW1lbmRhZ3JpLWRhbi1wZW1kYS1oc3QtYmFoYXMtZm9ya29waW1kYQ==",
+        "description": "Forkopimda menjadi sarana strategis dalam pengambilan keputusan yang cepat dan tepat untuk kepentingan masyarakat."
+    },
+    {
         "title": "Sambangi Rumah Prabowo Jumat Malam Ini, AHY: Mau Diskusi",
         "link": "https://nasional.tempo.co/read/1605397/sambangi-rumah-prabowo-jumat-malam-ini-ahy-mau-diskusi",
         "image": "static/images/tempo_nasional.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDUzNDkvcGVnYWRhaWFuLXNpYXBrYW4tNC1yaWJ1LW91dGxldC11bnR1ay1ha3Nlcy1rdXItc3lhcmlhaA==",
         "description": "Seluruh Insan Pegadaian berkomitmen untuk menyukseskan program penyaluran kredit sampai dengan Rp.10 juta rupiah untuk pelaku mikro."
-    },
-    {
-        "title": "Menjadi Bangsa Dermawan bersama Global Qurban",
-        "link": "https://nasional.tempo.co/read/1605341/menjadi-bangsa-dermawan-bersama-global-qurban",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDUzNDEvbWVuamFkaS1iYW5nc2EtZGVybWF3YW4tYmVyc2FtYS1nbG9iYWwtcXVyYmFu",
-        "description": "Tahun ini ACT mengargetkan penyaluran daging kurban bertambah menjadi 60 negara."
-    },
-    {
-        "title": "Catatan Bamsoet: Stunting, Anak Putus Sekolah dan Endapan Dana Pemda",
-        "link": "https://nasional.tempo.co/read/1605334/catatan-bamsoet-stunting-anak-putus-sekolah-dan-endapan-dana-pemda",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDUzMzQvY2F0YXRhbi1iYW1zb2V0LXN0dW50aW5nLWFuYWstcHV0dXMtc2Vrb2xhaC1kYW4tZW5kYXBhbi1kYW5hLXBlbWRh",
-        "description": "Simpanan dana pemda di perbankan mengendap hingga Rp 200,75 triliun. Dapat digunakan untuk mengatasi berbagai permasalahan."
     }
 ]
