@@ -1,5 +1,12 @@
 [
     {
+        "title": "Wall Street Menghijau, Bursa Asia Dibuka Semringah",
+        "link": "https://www.cnbcindonesia.com/market/20220624083815-17-349899/wall-street-menghijau-bursa-asia-dibuka-semringah",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MDgzODE1LTE3LTM0OTg5OS93YWxsLXN0cmVldC1tZW5naGlqYXUtYnVyc2EtYXNpYS1kaWJ1a2Etc2VtcmluZ2Fo",
+        "description": " Mayoritas bursa Asia-Pasifik dibuka menguat pada perdagangan Jumat (24/6/2022)."
+    },
+    {
         "title": "Harga Minyak Mentah Amburadul, Rupiah Bisa Melesat Lagi?",
         "link": "https://www.cnbcindonesia.com/market/20220623163356-17-349777/harga-minyak-mentah-amburadul-rupiah-bisa-melesat-lagi",
         "image": "static/images/cnbc_market.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjIzMjI1MzI4LTE3LTM0OTg2Ni9iYXR1LWJhcmEtdGVyYmFuZy1idXliYWNrLWRpcGVycGFuamFuZy1hZHJvLXNpYXAtbmFpay1sYWdp",
         "description": " Buyback saham ADRO diperpanjang di tengah melesatnya harga batu bara acuan."
-    },
-    {
-        "title": "'Hantu' Resesi Makin Ngeri, Harga Minyak Turun Lagi",
-        "link": "https://www.cnbcindonesia.com/market/20220624064513-17-349880/hantu-resesi-makin-ngeri-harga-minyak-turun-lagi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MDY0NTEzLTE3LTM0OTg4MC9oYW50dS1yZXNlc2ktbWFraW4tbmdlcmktaGFyZ2EtbWlueWFrLXR1cnVuLWxhZ2k=",
-        "description": " Harga minyak dunia kembali anjlok. Kekhawatiran soal resesi membuat harga si emas hitam terkoreksi."
     }
 ]

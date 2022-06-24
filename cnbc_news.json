@@ -1,5 +1,47 @@
 [
     {
+        "title": "Sri Lanka Bangkrut, Gegara 'Jebakan Batman' Utang China?",
+        "link": "https://www.cnbcindonesia.com/news/20220624082123-4-349896/sri-lanka-bangkrut-gegara-jebakan-batman-utang-china",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDA4MjEyMy00LTM0OTg5Ni9zcmktbGFua2EtYmFuZ2tydXQtZ2VnYXJhLWplYmFrYW4tYmF0bWFuLXV0YW5nLWNoaW5h",
+        "description": " Krisis yang terjadi di Sri Lanka kembali menimbulkan dampak baru."
+    },
+    {
+        "title": "Kasus Covid di Indonesia Nyaris 2.000, Mulai Alert?",
+        "link": "https://www.cnbcindonesia.com/news/20220624081246-4-349895/kasus-covid-di-indonesia-nyaris-2000-mulai-alert",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDA4MTI0Ni00LTM0OTg5NS9rYXN1cy1jb3ZpZC1kaS1pbmRvbmVzaWEtbnlhcmlzLTIwMDAtbXVsYWktYWxlcnQ=",
+        "description": " Kasus Covid-19 di Tanah Air secara konsisten bergerak di atas 1.000 kasus per hari dalam beberapa hari terakhir"
+    },
+    {
+        "title": "RUU KIA Dinilai DPR Menjadi Kebutuhan Masyarakat dan Negara",
+        "link": "https://www.cnbcindonesia.com/news/20220624083821-4-349900/ruu-kia-dinilai-dpr-menjadi-kebutuhan-masyarakat-negara",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDA4MzgyMS00LTM0OTkwMC9ydXUta2lhLWRpbmlsYWktZHByLW1lbmphZGkta2VidXR1aGFuLW1hc3lhcmFrYXQtbmVnYXJh",
+        "description": " Perlindungan KIA dalam UU sangat penting karena angka kasus stunting di Indonesia saat ini yang masih tinggi."
+    },
+    {
+        "title": "Covid-19 RI Naik Lagi, Tes PCR Jadi Syarat Perjalanan Lagi?",
+        "link": "https://www.cnbcindonesia.com/news/20220624080142-4-349891/covid-19-ri-naik-lagi-tes-pcr-jadi-syarat-perjalanan-lagi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDA4MDE0Mi00LTM0OTg5MS9jb3ZpZC0xOS1yaS1uYWlrLWxhZ2ktdGVzLXBjci1qYWRpLXN5YXJhdC1wZXJqYWxhbmFuLWxhZ2k=",
+        "description": " Perkembangan kasus Covid-19 secara konsisten berada di atas 1.000 kasus per hari"
+    },
+    {
+        "title": "Butuh Lebih Banyak Duit, Biden Prediksi Ada Pandemi Kedua",
+        "link": "https://www.cnbcindonesia.com/news/20220624080757-4-349893/butuh-lebih-banyak-duit-biden-prediksi-ada-pandemi-kedua",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDA4MDc1Ny00LTM0OTg5My9idXR1aC1sZWJpaC1iYW55YWstZHVpdC1iaWRlbi1wcmVkaWtzaS1hZGEtcGFuZGVtaS1rZWR1YQ==",
+        "description": " Presiden Amerika Serikat (AS) Joe Biden meminta negaranya untuk mempersiapkan diri dari datangnya 'pandemi kedua'."
+    },
+    {
+        "title": "Tahun Ini PNS Tak Lagi Bisa Leha-leha, Bisa Langsung Dipecat",
+        "link": "https://www.cnbcindonesia.com/news/20220624075625-4-349889/tahun-ini-pns-tak-lagi-bisa-leha-leha-bisa-langsung-dipecat",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDA3NTYyNS00LTM0OTg4OS90YWh1bi1pbmktcG5zLXRhay1sYWdpLWJpc2EtbGVoYS1sZWhhLWJpc2EtbGFuZ3N1bmctZGlwZWNhdA==",
+        "description": " PNS yang kedapatan bolos selama 10 hari berturut-turut tanpa keterangan dipastikan akan dipecat"
+    },
+    {
         "title": "Ada Apa Dunia? Sri Lanka Bangkrut, Eropa Krisis, AS Resesi",
         "link": "https://www.cnbcindonesia.com/news/20220624072858-4-349887/ada-apa-dunia-sri-lanka-bangkrut-eropa-krisis-as-resesi",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDAxNDAwOS00LTM0OTg3MS9wZXRhbmktc2F3aXQtdGVyaWFrLWhhcmdhLWFuamxvay1yYXR1c2FuLXBhYnJpay1idWthLXR1dHVw",
         "description": " Petani sawit kembali berteriak meminta Presiden Joko Widodo (Jokowi) melakukan kaji ulang atas kebijakan terkait minyak sawit di dalam negeri."
-    },
-    {
-        "title": "Tolak Tambah Sanksi untuk Rusia, Negara Eropa Ini Kapok",
-        "link": "https://www.cnbcindonesia.com/news/20220624065136-4-349879/tolak-tambah-sanksi-untuk-rusia-negara-eropa-ini-kapok",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDA2NTEzNi00LTM0OTg3OS90b2xhay10YW1iYWgtc2Fua3NpLXVudHVrLXJ1c2lhLW5lZ2FyYS1lcm9wYS1pbmkta2Fwb2s=",
-        "description": " Hungaria menyatakan Uni Eropa harus berhenti menambahkan sanksi terhadap Rusia atas serangannya ke Ukraina."
-    },
-    {
-        "title": "13 Tahun Maju Mundur, Ini Dampaknya Hapus Minyak Goreng Curah",
-        "link": "https://www.cnbcindonesia.com/news/20220624012101-4-349869/13-tahun-maju-mundur-ini-dampaknya-hapus-minyak-goreng-curah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDAxMjEwMS00LTM0OTg2OS8xMy10YWh1bi1tYWp1LW11bmR1ci1pbmktZGFtcGFrbnlhLWhhcHVzLW1pbnlhay1nb3JlbmctY3VyYWg=",
-        "description": " Pemerintah kembali mencetuskan wacana penghapusan minyak goreng curah."
-    },
-    {
-        "title": "Potret Kekacauan Bandara di Eropa, Penumpang Membeludak",
-        "link": "https://www.cnbcindonesia.com/news/20220623180821-7-349827/potret-kekacauan-bandara-di-eropa-penumpang-membeludak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyMzE4MDgyMS03LTM0OTgyNy9wb3RyZXQta2VrYWNhdWFuLWJhbmRhcmEtZGktZXJvcGEtcGVudW1wYW5nLW1lbWJlbHVkYWs=",
-        "description": " Memasuki libur musim panas, pariwisata Eropa meningkat, membuat penumpang harus menghadapi kesemrawutan di bandara"
-    },
-    {
-        "title": "Ngeri Skandal Penipuan Pinjaman Bank Terbesar India Rp65,3 T",
-        "link": "https://www.cnbcindonesia.com/news/20220623163342-4-349774/ngeri-skandal-penipuan-pinjaman-bank-terbesar-india-rp653-t",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyMzE2MzM0Mi00LTM0OTc3NC9uZ2VyaS1za2FuZGFsLXBlbmlwdWFuLXBpbmphbWFuLWJhbmstdGVyYmVzYXItaW5kaWEtcnA2NTMtdA==",
-        "description": " Muncul skandal baru di India."
-    },
-    {
-        "title": "Korut Terancam Perang Besar, Kim Jong Un Lakukan Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220624061432-4-349875/korut-terancam-perang-besar-kim-jong-un-lakukan-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDA2MTQzMi00LTM0OTg3NS9rb3J1dC10ZXJhbmNhbS1wZXJhbmctYmVzYXIta2ltLWpvbmctdW4tbGFrdWthbi1pbmk=",
-        "description": " Pemimpin Tertinggi Korea Utara Kim Jong Un memerintahkan penguatan kemampuan pertahanan negara itu di tengah kekhawatiran tentang potensi uji coba nuklir."
-    },
-    {
-        "title": "Sah! KTT UE Berikan Status Kandidat kepada Ukraina dan Moldova",
-        "link": "https://www.cnbcindonesia.com/news/20220624054936-4-349874/sah-ktt-ue-berikan-status-kandidat-kepada-ukraina-moldova",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDA1NDkzNi00LTM0OTg3NC9zYWgta3R0LXVlLWJlcmlrYW4tc3RhdHVzLWthbmRpZGF0LWtlcGFkYS11a3JhaW5hLW1vbGRvdmE=",
-        "description": " Konferensi Tingkat Tinggi (KTT) Uni Eropa (UE) yang berlangsung di Brussels, Belgia, memberikan status kandidat kepada Ukraina dan Moldova."
     }
 ]
