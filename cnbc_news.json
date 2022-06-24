@@ -1,5 +1,47 @@
 [
     {
+        "title": "Jelang Bhayangkara ke-76, Mabes POLRI Bagikan Bansos",
+        "link": "https://www.cnbcindonesia.com/news/20220624174710-4-350201/jelang-bhayangkara-ke-76-mabes-polri-bagikan-bansos",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE3NDcxMC00LTM1MDIwMS9qZWxhbmctYmhheWFuZ2thcmEta2UtNzYtbWFiZXMtcG9scmktYmFnaWthbi1iYW5zb3M=",
+        "description": " Dalam rangka memperingati hari Bhayangkara ke-76, POLRI melaksanakan bakti sosial di beberapa tempat."
+    },
+    {
+        "title": "Harga Cabai Menggila, Ini Ramalan BI Soal Inflasi Juni 2022",
+        "link": "https://www.cnbcindonesia.com/news/20220624163420-4-350177/harga-cabai-menggila-ini-ramalan-bi-soal-inflasi-juni-2022",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE2MzQyMC00LTM1MDE3Ny9oYXJnYS1jYWJhaS1tZW5nZ2lsYS1pbmktcmFtYWxhbi1iaS1zb2FsLWluZmxhc2ktanVuaS0yMDIy",
+        "description": " Bank Indonesia (BI) meramal inflasi Juni 2022 sebesar 0,50% secara bulanan (mtm)."
+    },
+    {
+        "title": "Catat Nih! SPBU Curang Bakal Disetop Enam Bulan",
+        "link": "https://www.cnbcindonesia.com/news/20220624162714-4-350161/catat-nih-spbu-curang-bakal-disetop-enam-bulan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE2MjcxNC00LTM1MDE2MS9jYXRhdC1uaWgtc3BidS1jdXJhbmctYmFrYWwtZGlzZXRvcC1lbmFtLWJ1bGFu",
+        "description": " Pertamina menindak tegas penyelewengan BBM oleh SPBU dengan memberi sanksi penutupan selama enam bulan"
+    },
+    {
+        "title": "Tegas! Pemerintah Tetap Akan Larang Ekspor Timah",
+        "link": "https://www.cnbcindonesia.com/news/20220624120305-4-350014/tegas-pemerintah-tetap-akan-larang-ekspor-timah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDEyMDMwNS00LTM1MDAxNC90ZWdhcy1wZW1lcmludGFoLXRldGFwLWFrYW4tbGFyYW5nLWVrc3Bvci10aW1haA==",
+        "description": " DPR meminta pemeirntah kaji ulang rencana pelarangan ekspor timah"
+    },
+    {
+        "title": "Eropa Minta Batu Bara Tapi Produksi RI Masih Mini, Lha Piye..",
+        "link": "https://www.cnbcindonesia.com/news/20220624160232-4-350140/eropa-minta-batu-bara-tapi-produksi-ri-masih-mini-lha-piye",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE2MDIzMi00LTM1MDE0MC9lcm9wYS1taW50YS1iYXR1LWJhcmEtdGFwaS1wcm9kdWtzaS1yaS1tYXNpaC1taW5pLWxoYS1waXll",
+        "description": " Kementerian ESDM mencatat prpduksi batu bara RI sampai pada Mei 2022 masih 41%"
+    },
+    {
+        "title": "Kasus Omicron BA.4 dan BA.5 Tembus 143 Orang, DKI Terbanyak!",
+        "link": "https://www.cnbcindonesia.com/news/20220624160345-4-350142/kasus-omicron-ba4-ba5-tembus-143-orang-dki-terbanyak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE2MDM0NS00LTM1MDE0Mi9rYXN1cy1vbWljcm9uLWJhNC1iYTUtdGVtYnVzLTE0My1vcmFuZy1ka2ktdGVyYmFueWFr",
+        "description": " Kasus subvarian Covid-19 itu paling banyak tersebar di DKI Jakarta"
+    },
+    {
         "title": "Orang Mulai Berani Keluyuran, Transaksi Tol Tembus Rp 24 T",
         "link": "https://www.cnbcindonesia.com/news/20220624154021-4-350149/orang-mulai-berani-keluyuran-transaksi-tol-tembus-rp-24-t",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE1MzgwNy00LTM1MDEyNS9rcmlzaXMtZXJvcGEtbWVuZ2dpbGEtaW5kdXN0cmktamVybWFuLXRlcmFuY2FtLWJ1YmFy",
         "description": " Menteri Ekonomi Jerman Robert Habeck memperingatkan bahwa negaranya saat ini sedang menuju krisis gas bila pasokan yang diberikan Rusia serendah sekarang."
-    },
-    {
-        "title": "Covid-19 di Jakarta Meledak! Sekarang Ada 7.228 Kasus Aktif",
-        "link": "https://www.cnbcindonesia.com/news/20220624152357-4-350110/covid-19-di-jakarta-meledak-sekarang-ada-7228-kasus-aktif",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE1MjM1Ny00LTM1MDExMC9jb3ZpZC0xOS1kaS1qYWthcnRhLW1lbGVkYWstc2VrYXJhbmctYWRhLTcyMjgta2FzdXMtYWt0aWY=",
-        "description": " Kasus aktif di DKI Jakarta melonjak secara signifikkan"
-    },
-    {
-        "title": "Siap-siap, NATO Bakal Muncul di Timur Tengah",
-        "link": "https://www.cnbcindonesia.com/news/20220624162212-4-350156/siap-siap-nato-bakal-muncul-di-timur-tengah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE2MjIxMi00LTM1MDE1Ni9zaWFwLXNpYXAtbmF0by1iYWthbC1tdW5jdWwtZGktdGltdXItdGVuZ2Fo",
-        "description": " Aliansi militer seperti NATO digagas muncul di Timur Tengah. Ini diutarakan Raja Yordania, Abdullah II."
-    },
-    {
-        "title": "Tembus 2.000, Kasus Covid-19 di RI Bertambah 2.069 Hari Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220624164634-4-350187/tembus-2000-kasus-covid-19-di-ri-bertambah-2069-hari-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE2NDYzNC00LTM1MDE4Ny90ZW1idXMtMjAwMC1rYXN1cy1jb3ZpZC0xOS1kaS1yaS1iZXJ0YW1iYWgtMjA2OS1oYXJpLWluaQ==",
-        "description": " Kasus aktif bertambah 1.066 menjadi 13.214."
-    },
-    {
-        "title": "Cair Lagi! Jokowi Rilis Besaran Terbaru Tunjangan PNS Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220624150324-4-350099/cair-lagi-jokowi-rilis-besaran-terbaru-tunjangan-pns-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE1MDMyNC00LTM1MDA5OS9jYWlyLWxhZ2ktam9rb3dpLXJpbGlzLWJlc2FyYW4tdGVyYmFydS10dW5qYW5nYW4tcG5zLWluaQ==",
-        "description": " Jokowi merilis besaran terbaru tunjangan polisi kehutanan dan fungsional perencana"
-    },
-    {
-        "title": "Wow Keren! Bromo Bakal Ada Jembatan Gantung Kaca Pertama RI",
-        "link": "https://www.cnbcindonesia.com/news/20220624150245-7-350086/wow-keren-bromo-bakal-ada-jembatan-gantung-kaca-pertama-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE1MDI0NS03LTM1MDA4Ni93b3cta2VyZW4tYnJvbW8tYmFrYWwtYWRhLWplbWJhdGFuLWdhbnR1bmcta2FjYS1wZXJ0YW1hLXJp",
-        "description": " PUPR merencanakan pembangunan Terminal Wisata Seruni Point yang terintegrasi dengan jembatan gantung kaca."
-    },
-    {
-        "title": "Pak Luhut, Yakin Nih Beli Minyak Goreng Wajib PeduliLindungi?",
-        "link": "https://www.cnbcindonesia.com/news/20220624152104-4-350106/pak-luhut-yakin-nih-beli-minyak-goreng-wajib-pedulilindungi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE1MjEwNC00LTM1MDEwNi9wYWstbHVodXQteWFraW4tbmloLWJlbGktbWlueWFrLWdvcmVuZy13YWppYi1wZWR1bGlsaW5kdW5naQ==",
-        "description": " YLKI menantang pemerintah bagi-bagi smartphone bagi masyarakat ekonomi rentan."
     }
 ]
