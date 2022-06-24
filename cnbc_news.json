@@ -1,5 +1,40 @@
 [
     {
+        "title": "Orang Mulai Berani Keluyuran, Transaksi Tol Tembus Rp 24 T",
+        "link": "https://www.cnbcindonesia.com/news/20220624154021-4-350149/orang-mulai-berani-keluyuran-transaksi-tol-tembus-rp-24-t",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE1NDAyMS00LTM1MDE0OS9vcmFuZy1tdWxhaS1iZXJhbmkta2VsdXl1cmFuLXRyYW5zYWtzaS10b2wtdGVtYnVzLXJwLTI0LXQ=",
+        "description": " Kepala Badan Pengatur Jalan Tol Danang Parikesit, menjelaskan transaksi jalan tol semakin membaik pada tahun ini."
+    },
+    {
+        "title": "'Apartemen Hantu' Mulai Bangkit, Tapi Tarif Sewanya Rendah",
+        "link": "https://www.cnbcindonesia.com/news/20220624150859-4-350127/apartemen-hantu-mulai-bangkit-tapi-tarif-sewanya-rendah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE1MDg1OS00LTM1MDEyNy9hcGFydGVtZW4taGFudHUtbXVsYWktYmFuZ2tpdC10YXBpLXRhcmlmLXNld2FueWEtcmVuZGFo",
+        "description": " Apartemen sewa di DKI Jakarta mulai kembali hidup seiring datangnya ekspatriat ke tanah air."
+    },
+    {
+        "title": "Asyik Nih, Mau Punya Motor Listrik Udah Bisa Lewat Kredit",
+        "link": "https://www.cnbcindonesia.com/news/20220624122131-4-350019/asyik-nih-mau-punya-motor-listrik-udah-bisa-lewat-kredit",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDEyMjEzMS00LTM1MDAxOS9hc3lpay1uaWgtbWF1LXB1bnlhLW1vdG9yLWxpc3RyaWstdWRhaC1iaXNhLWxld2F0LWtyZWRpdA==",
+        "description": " PLN menggandeng Himbara untuk mendukung pembiayaan kepemilikan motor listrik"
+    },
+    {
+        "title": "Krisis Eropa Menggila, Industri Jerman Terancam Bubar",
+        "link": "https://www.cnbcindonesia.com/news/20220624153807-4-350125/krisis-eropa-menggila-industri-jerman-terancam-bubar",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE1MzgwNy00LTM1MDEyNS9rcmlzaXMtZXJvcGEtbWVuZ2dpbGEtaW5kdXN0cmktamVybWFuLXRlcmFuY2FtLWJ1YmFy",
+        "description": " Menteri Ekonomi Jerman Robert Habeck memperingatkan bahwa negaranya saat ini sedang menuju krisis gas bila pasokan yang diberikan Rusia serendah sekarang."
+    },
+    {
+        "title": "Covid-19 di Jakarta Meledak! Sekarang Ada 7.228 Kasus Aktif",
+        "link": "https://www.cnbcindonesia.com/news/20220624152357-4-350110/covid-19-di-jakarta-meledak-sekarang-ada-7228-kasus-aktif",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE1MjM1Ny00LTM1MDExMC9jb3ZpZC0xOS1kaS1qYWthcnRhLW1lbGVkYWstc2VrYXJhbmctYWRhLTcyMjgta2FzdXMtYWt0aWY=",
+        "description": " Kasus aktif di DKI Jakarta melonjak secara signifikkan"
+    },
+    {
         "title": "Siap-siap, NATO Bakal Muncul di Timur Tengah",
         "link": "https://www.cnbcindonesia.com/news/20220624162212-4-350156/siap-siap-nato-bakal-muncul-di-timur-tengah",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE1MjEwNC00LTM1MDEwNi9wYWstbHVodXQteWFraW4tbmloLWJlbGktbWlueWFrLWdvcmVuZy13YWppYi1wZWR1bGlsaW5kdW5naQ==",
         "description": " YLKI menantang pemerintah bagi-bagi smartphone bagi masyarakat ekonomi rentan."
-    },
-    {
-        "title": "6 Update Perang Rusia-Ukraina, AS dan Inggris Turun Tangan",
-        "link": "https://www.cnbcindonesia.com/news/20220624152343-4-350109/6-update-perang-rusia-ukraina-as-inggris-turun-tangan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE1MjM0My00LTM1MDEwOS82LXVwZGF0ZS1wZXJhbmctcnVzaWEtdWtyYWluYS1hcy1pbmdncmlzLXR1cnVuLXRhbmdhbg==",
-        "description": " Perkembangan terbaru perang Rusia-Ukraina."
-    },
-    {
-        "title": "Top! APBN Surplus 5 Bulan Beruntun, Sri Mulyani Cetak Rekor",
-        "link": "https://www.cnbcindonesia.com/news/20220624135601-4-350053/top-apbn-surplus-5-bulan-beruntun-sri-mulyani-cetak-rekor",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDEzNTYwMS00LTM1MDA1My90b3AtYXBibi1zdXJwbHVzLTUtYnVsYW4tYmVydW50dW4tc3JpLW11bHlhbmktY2V0YWstcmVrb3I=",
-        "description": " Hingga Mei 2022, APBN masih mencatatkan surplus sebesar Rp 132,2 triliun atau 0,74% dari Produk Domestik Bruto (PDB)."
-    },
-    {
-        "title": "Jerman-Belanda Hingga Spanyol Minta Batu Bara RI",
-        "link": "https://www.cnbcindonesia.com/news/20220624153651-4-350120/jerman-belanda-hingga-spanyol-minta-batu-bara-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE1MzY1MS00LTM1MDEyMC9qZXJtYW4tYmVsYW5kYS1oaW5nZ2Etc3BhbnlvbC1taW50YS1iYXR1LWJhcmEtcmk=",
-        "description": " Kementerian ESDM mencatat ada sebanyak empat negara Eropa yang minat batu bara Indonesia"
-    },
-    {
-        "title": "Ukraina Resmi Jadi Kandidat UE, Jaminan Menang Lawan Rusia?",
-        "link": "https://www.cnbcindonesia.com/news/20220624133336-4-350045/ukraina-resmi-jadi-kandidat-ue-jaminan-menang-lawan-rusia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDEzMzMzNi00LTM1MDA0NS91a3JhaW5hLXJlc21pLWphZGkta2FuZGlkYXQtdWUtamFtaW5hbi1tZW5hbmctbGF3YW4tcnVzaWE=",
-        "description": " Ukraina ditetapkan menjadi kandidat resmi untuk keanggotaan Uni Eropa (UE)."
-    },
-    {
-        "title": "Terungkap Ini Bocoran Tampang 'Pembunuh' Avanza Terbaru",
-        "link": "https://www.cnbcindonesia.com/news/20220624132357-7-350038/terungkap-ini-bocoran-tampang-pembunuh-avanza-terbaru",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDEzMjM1Ny03LTM1MDAzOC90ZXJ1bmdrYXAtaW5pLWJvY29yYW4tdGFtcGFuZy1wZW1idW51aC1hdmFuemEtdGVyYmFydQ==",
-        "description": " Pabrikan asal Korea Selatan ini menyatakan bahwa Stargazer sesuai dengan karakteristik masyarakat dan keluarga Indonesia."
     }
 ]

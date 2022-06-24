@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/501846/akademisi-dukung-aturan-beli-minyak-goreng-curah-pakai-pedulilindungi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMTg0Ni9ha2FkZW1pc2ktZHVrdW5nLWF0dXJhbi1iZWxpLW1pbnlhay1nb3JlbmctY3VyYWgtcGFrYWktcGVkdWxpbGluZHVuZ2k=",
+        "description": "DOSEN Fakultas Ekonomi dan Bisnis (FEB) Universitas Muhammadiyah Purwokerto (UMP) Akhmad Darmawan menilai kebijakan penggunaan aplikasi PeduliLindungi dalam pembelian minyak goreng curah merupakan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/501845/jelang-laga-vs-borneo-persija-siapkan-skuad-utama",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTg0NS9qZWxhbmctbGFnYS12cy1ib3JuZW8tcGVyc2lqYS1zaWFwa2FuLXNrdWFkLXV0YW1h",
+        "description": "PERSIJA Jakarta akan diperkuat para pemain utama pada laga ketiga Piala Presiden 2022. Klub tersebut dijadwalkan melawan Borneo FC di Stadion Segiri, Samarinda, pada Sabtu (25/6) malam.&nbsp; Adapun&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/501844/lewat-piyama-cafe-kotta-go-hotel-yogyakarta-milikiprogram-supportlocalbrand",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxODQ0L2xld2F0LXBpeWFtYS1jYWZlLWtvdHRhLWdvLWhvdGVsLXlvZ3lha2FydGEtbWlsaWtpcHJvZ3JhbS1zdXBwb3J0bG9jYWxicmFuZA==",
+        "description": "PIYAMA&nbsp; Cafe merupakan salah satu cafe hits di Yogyakarta yang lokasinya dekat dengan Tugu, tepatnya berada di Lobby Kotta GO Hotel Yogyakarta. Piyama Cafe dapat menjadi rekomendasi kafe&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/501843/penambahan-kasus-covid-19-nasional-tembus-2069hari",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxODQzL3BlbmFtYmFoYW4ta2FzdXMtY292aWQtMTktbmFzaW9uYWwtdGVtYnVzLTIwNjloYXJp",
+        "description": "JUMLAH kasus positif covid-19 di Indonesia masih bertambah. Sebanyak 2.069 pasien terinfeksi virus korona per Jumat (24/6) &quot;Total ada 6.076.894 kasus covid-19 terkonfirmasi di Indonesia,&quot;&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/501842/konco-erick-terpacu-dengan-elektabilitas-erick-di-jatim",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDE4NDIva29uY28tZXJpY2stdGVycGFjdS1kZW5nYW4tZWxla3RhYmlsaXRhcy1lcmljay1kaS1qYXRpbQ==",
+        "description": "ELEKTABILITAS Menteri BUMN Erick Thohir mendominasi survei bursa calon wakil presiden (cawapres) di provinsi Jawa Timur (Jatim). Melihat data tersebut, Relawan Konco Erick Thohir kian gencar melakukan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/501841/resmikan-masjid-tanjak-menko-airlangga-disambut-tepuk-tepung-tawar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAxODQxL3Jlc21pa2FuLW1hc2ppZC10YW5qYWstbWVua28tYWlybGFuZ2dhLWRpc2FtYnV0LXRlcHVrLXRlcHVuZy10YXdhcg==",
+        "description": "MENTERI Kooordinator (Menko) Bidang Perekonomian Airlangga Hartarto kembali lakukan lawatan ke Batam, pada Jumat pagi (24/6). Kepala BP Batam Muhammad Rudi telah sedia menyambut di pintu VVIP.&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/501840/quartararo-berharap-hujan-tak-turun-di-gp-belanda",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxODM3L2tlbWVua2VzLW1hc2loLWxha3VrYW4taW52ZXN0aWdhc2ktcGFkYS0zMC1rYXN1cy1oZXBhdGl0aXMtYWt1dC1taXN0ZXJpdXM=",
         "description": "KEMENTERIAN&nbsp;Kesehatan tengah melakukan investigasi terhadap 30 kasus hepatitis akut yang belum diketahui penyebabnya. Juru Bicara Kementerian Kesehatan Mohammad Syahril mengungkapkan, dari 30&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/501836/polisi-imbau-gp-ansor-tak-satroni-holywings",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDE4MzYvcG9saXNpLWltYmF1LWdwLWFuc29yLXRhay1zYXRyb25pLWhvbHl3aW5ncw==",
-        "description": "POLDA Metro Jaya mengimbau masyarakat dalam hal ini Gerakan Pemuda Ansor DKI Jakarta tidak melakukan konvoi dan menyatroni Holywings buntut adanya unggahan di media sosial mengenai promosi minuman&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/501835/kualitas-udara-jakarta-menurun-warga-diimbau-menggunakan-masker-saat-di-luar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDE4MzUva3VhbGl0YXMtdWRhcmEtamFrYXJ0YS1tZW51cnVuLXdhcmdhLWRpaW1iYXUtbWVuZ2d1bmFrYW4tbWFza2VyLXNhYXQtZGktbHVhcg==",
-        "description": "KUALITAS udara di wilayah DKI Jakarta menurun sejak tanggal 15 Juni 2022 lalu dengan konsentrasi PM2.5 mengalami peningkatan dan mencapai puncaknya pada level 148 &micro;g/m3 (mikrogram per meter kubik).&nbsp;&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/501834/bakar-jaudah-dari-tradisi-masyarakat-jadi-agenda-utama-festival-jangkat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAxODM0L2Jha2FyLWphdWRhaC1kYXJpLXRyYWRpc2ktbWFzeWFyYWthdC1qYWRpLWFnZW5kYS11dGFtYS1mZXN0aXZhbC1qYW5na2F0",
-        "description": "BAKAR jaudah jadi salah satu agenda utama dalam Festival Jangkat di Jangkat, Kabupaten Merangin, Jambi, Jumat (24/6). Jaudah yang lebih dikenal dengan masakan dodol, nyatanya sangat dekat dengan kehidupan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/501833/jemaah-haji-ri-yang-wafat-bertambah-jadi-11-orang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxODMzL2plbWFhaC1oYWppLXJpLXlhbmctd2FmYXQtYmVydGFtYmFoLWphZGktMTEtb3Jhbmc=",
-        "description": "BERDASARKAN data per Jumat (24/6) ini, jumlah jemaah haji Indonesia yang wafat bertambah satu orang, yakni atas nama Alfin Hartini Sungep, perempuan berusia 59 tahun asal Surabaya. &ldquo;Sehingga,&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/501832/sapi-terkena-pmk-sah-untuk-kurban-begini-fatwa-mui",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxODMyL3NhcGktdGVya2VuYS1wbWstc2FoLXVudHVrLWt1cmJhbi1iZWdpbmktZmF0d2EtbXVp",
-        "description": "MERUJUK Majelis Ulama Indonesia (MUI) Pusat yang telah melakukan pengkajian dengan para ahli penyakit hewan dan para ulama, MUI Kota Tangerang mengeluarkan fatwa bahwa hewan ternak sapi yang&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/501831/balai-ksda-kaltim-melepasliarkan-elang-di-sm-pulau-semama",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAxODMxL2JhbGFpLWtzZGEta2FsdGltLW1lbGVwYXNsaWFya2FuLWVsYW5nLWRpLXNtLXB1bGF1LXNlbWFtYQ==",
-        "description": "BALAI KSDA Kalimantan Timur bersama Conservation Action Network (CAN) melaksanakan pelepasliaran 1 ekor Elang laut dada putih (Haliaeetus leucogaster) di Suaka Margasatwa (SM) Pulau Semama.&nbsp;&#8230;"
     }
 ]
