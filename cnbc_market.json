@@ -1,5 +1,12 @@
 [
     {
+        "title": "DIbuka Menguat, Wall Street Bisa Akhiri Pelemahan Tiga Minggu",
+        "link": "https://www.cnbcindonesia.com/market/20220624205942-17-350238/dibuka-menguat-wall-street-bisa-akhiri-pelemahan-tiga-minggu",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MjA1OTQyLTE3LTM1MDIzOC9kaWJ1a2EtbWVuZ3VhdC13YWxsLXN0cmVldC1iaXNhLWFraGlyaS1wZWxlbWFoYW4tdGlnYS1taW5nZ3U=",
+        "description": " Indeks Dow Jones Industrial Average (DJIA) naik 248 poin, atau 0,8%, SdanP 500 naik 0,9%, sedangkan indeks padat teknologi Nasdaq menguat 1%."
+    },
+    {
         "title": "Benua Biru Krisis Energi, Separah Apa Dampaknya Ke Ekonomi?",
         "link": "https://www.cnbcindonesia.com/market/20220624162410-19-350158/benua-biru-krisis-energi-separah-apa-dampaknya-ke-ekonomi",
         "image": "static/images/cnbc_market.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MTQ0NDIzLTE3LTM1MDA3Mi9oYXJnYS1taW55YWstdHVydW4td2FsYXUtcGFzb2thbi1rZXRhdC1rZW5hcGE=",
         "description": " Harga minyak dunia melemah meskipun pasokan masih ketat"
-    },
-    {
-        "title": "Eropa Buru Batu Bara Atasi Krisis Energi, Apa Efeknya ke RI?",
-        "link": "https://www.cnbcindonesia.com/market/20220624160059-19-350136/eropa-buru-batu-bara-atasi-krisis-energi-apa-efeknya-ke-ri",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MTYwMDU5LTE5LTM1MDEzNi9lcm9wYS1idXJ1LWJhdHUtYmFyYS1hdGFzaS1rcmlzaXMtZW5lcmdpLWFwYS1lZmVrbnlhLWtlLXJp",
-        "description": " Krisis Energi Dorong Permintaan Batu Bara Eropa, Apa Efeknya ke RI?"
     }
 ]
