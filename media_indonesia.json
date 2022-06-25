@@ -1,5 +1,40 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/501976/knicks-kirim-kemba-walker-ke-pistons-lewat-kesepakatan-tripartit",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5NzYva25pY2tzLWtpcmltLWtlbWJhLXdhbGtlci1rZS1waXN0b25zLWxld2F0LWtlc2VwYWthdGFuLXRyaXBhcnRpdA==",
+        "description": "NEW York Knicks mengirimkan point guard veteran Kemba Walker ke Detroit Pistons lewat kesepakatan barter tripartit yang juga&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/501912/mereka-reka-lakon-hidup-ken-dedes",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMTkxMi9tZXJla2EtcmVrYS1sYWtvbi1oaWR1cC1rZW4tZGVkZXM=",
+        "description": "NAMA Ken Dedes mungkin sudah tak asing di telinga masyarakat Indonesia. Berbagai buku dan tulisan kerap menyebutkan sosok istri Ken Angrok tersebut sebagai sosok permaisuri yang cantik, pintar, dan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/501983/kapolri-lepas-144-peserta-upaya-pemecahan-rekor-muri-bersepeda",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxOTgzL2thcG9scmktbGVwYXMtMTQ0LXBlc2VydGEtdXBheWEtcGVtZWNhaGFuLXJla29yLW11cmktYmVyc2VwZWRh",
+        "description": "KAPOLRI Jenderal Pol Listyo Sigit Prabowo melepas keberangkatan 144 peserta yang mengikuti kegiatan Pemecahan Rekor Muri Bersepeda&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/501908/perangkap-di-toko-buku-kuno",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMTkwOC9wZXJhbmdrYXAtZGktdG9rby1idWt1LWt1bm8=",
+        "description": "PENERBIT Baca kembali menghadirkan pilihan novel bagi pencinta genre misteri dan thriller. Setelah novel Vegetarian karya Han Kang, kali ini giliran Memory Bookstore yang&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/501981/491-jamaah-calon-haji-asal-provinsi-malut-diberangkatkan-ke-emberkasi-makasar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxOTgxLzQ5MS1qYW1hYWgtY2Fsb24taGFqaS1hc2FsLXByb3ZpbnNpLW1hbHV0LWRpYmVyYW5na2F0a2FuLWtlLWVtYmVya2FzaS1tYWthc2Fy",
+        "description": "SEBANYAK 491 Jamaah Calon Haji asal Provinsi Maluku Utara akan diberangkatkan ke Embarkasi Makasar, melalui Bandara Sultan Baabullah,&#8230;"
+    },
+    {
         "title": "Megapolitan",
         "link": "https://m.mediaindonesia.com/megapolitan/501980/puncak-hut-jakarta-rekayasa-lalin-diterapkan-di-sekitar-jis",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk3My9uZXdjYXN0bGUtY2FwYWkta2VzZXBha2F0YW4tZGVuZ2FuLWxpbGxlLW1lbmdlbmFpLXRyYW5zZmVyLWJvdG1hbg==",
         "description": "KLUB Liga Primer Inggris Newcastle United dikabarkan telah mencapai kesepakatan harga dengan klub Ligue 1 Lille untuk mendatangkan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/501971/pengungsi-afghanistan-yang-berusaha-bunuh-diri-di-jembatan-liliba-kupang-berhasil-diselamatkan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAxOTcxL3Blbmd1bmdzaS1hZmdoYW5pc3Rhbi15YW5nLWJlcnVzYWhhLWJ1bnVoLWRpcmktZGktamVtYmF0YW4tbGlsaWJhLWt1cGFuZy1iZXJoYXNpbC1kaXNlbGFtYXRrYW4=",
-        "description": "HASSAN Reza Haidari, pengungsi asal Afghanistan yang ditampung di salah&nbsp;satu hotel di Kota Kupang, Nusa Tenggara Timur (NTT)&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/501970/thunder-dapat-tiga-rekrutan-pertama-di-nba-draft-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5NzAvdGh1bmRlci1kYXBhdC10aWdhLXJla3J1dGFuLXBlcnRhbWEtZGktbmJhLWRyYWZ0LTIwMjI=",
-        "description": "OKLAHOMA City Thunder bergerak agresif di lantai transaksi dan mencapai kesepakatan barter dengan New York Knics agar mendapat tiga rekrutan putaran pertama <a href=\"http://mediaindonesia.com/tag/nba\"&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/501968/city-dilaporkan-sepakat-datangkan-phillips-dari-leeds",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk2OC9jaXR5LWRpbGFwb3JrYW4tc2VwYWthdC1kYXRhbmdrYW4tcGhpbGxpcHMtZGFyaS1sZWVkcw==",
-        "description": "MANCHESTER City telah sepakat untuk mendatangkan gelandang Kalvin Phillips dari Leeds United dengan nilai transfer 45 juta&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/501972/ledecky-raih-emas-nomor-800-meter-gaya-bebas-kelima-di-kejuaraan-dunia-renang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5NzIvbGVkZWNreS1yYWloLWVtYXMtbm9tb3ItODAwLW1ldGVyLWdheWEtYmViYXMta2VsaW1hLWRpLWtlanVhcmFhbi1kdW5pYS1yZW5hbmc=",
-        "description": "JUARA Olimpiade Katie Ledecky mengklaim medali emas nomor 800 meter gaya bebas Kejuaraan Dunia Renang untuk kelima kalinya secara&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/501966/mahkamah-agung-as-cabut-hak-untuk-lakukan-aborsi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMTk2Ni9tYWhrYW1haC1hZ3VuZy1hcy1jYWJ1dC1oYWstdW50dWstbGFrdWthbi1hYm9yc2k=",
-        "description": "MAHKAMAH Agung Amerika Serikat (AS), Jumat (24/6), mencabut hak melakukan aborsi lewat keputusan yang membuyarkan lima tahun perlindungan&#8230;"
     }
 ]
