@@ -1,5 +1,19 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/501994/elley-duhe-rilis-single-pieces",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMTk5NC9lbGxleS1kdWhlLXJpbGlzLXNpbmdsZS1waWVjZXM=",
+        "description": "POPULER setelah lagunya Middle of the Night viral, bintang pop Elley Duhe merilis single terbarunya, Pieces. Lagu terbaru Duhe itu&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/501989/perenang-indah-as-yang-pingsan-saat-bertanding-dilarang-ambil-bagian-di-nomor-beregu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5ODkvcGVyZW5hbmctaW5kYWgtYXMteWFuZy1waW5nc2FuLXNhYXQtYmVydGFuZGluZy1kaWxhcmFuZy1hbWJpbC1iYWdpYW4tZGktbm9tb3ItYmVyZWd1",
+        "description": "PERENANG indah Amerika Serikat Anita Alvarez, yang secara dramatis diselamatkan dari dasar kolam setelah pingsan saat bertanding,&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/501987/meski-bali-jadi-tuan-rumah-world-beach-game-indonesia-tetap-haris-ikut-kualifikasi",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk4NC9zaGVyaWZmLWhhcnVzLWNhcmktc3RhZGlvbi1rYW5kYW5nLXVudHVrLWxhZ2EtbGlnYS1jaGFtcGlvbnM=",
         "description": "SHERIFF Tiraspol, yang musim lalu secara mengejutkan mengalahkan Real Madrid di babak penyisihan grup Liga Champions, diharuskan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/501990/kepala-imf-resesi-as-diperlukan-untuk-taklukkan-inflasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMTk5MC9rZXBhbGEtaW1mLXJlc2VzaS1hcy1kaXBlcmx1a2FuLXVudHVrLXRha2x1a2thbi1pbmZsYXNp",
-        "description": "DENGAN inflasi yang meningkat tajam dan Federal Reserve menaikkan suku bunga, Amerika Serikat menghadapi peningkatan risiko penurunan ekonomi. Direktur Pelaksana IMF Kristalina Georgieva mengatakan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/501982/spurs-ingin-pinjam-clement-lenglet-dari-barcelona",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk4Mi9zcHVycy1pbmdpbi1waW5qYW0tY2xlbWVudC1sZW5nbGV0LWRhcmktYmFyY2Vsb25h",
-        "description": "KLUB Liga Primer Inggris Tottenham Hotspur dikabarkan tertarik meminjam bek tengah Clement Lenglet dari klub La Liga Barcelona&#8230;"
     }
 ]
