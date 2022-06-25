@@ -1,5 +1,26 @@
 [
     {
+        "title": "Bangkai Kapal Terdalam Ditemukan, Ada Di Sini",
+        "link": "https://www.cnbcindonesia.com/news/20220625120713-4-350280/bangkai-kapal-terdalam-ditemukan-ada-di-sini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNTEyMDcxMy00LTM1MDI4MC9iYW5na2FpLWthcGFsLXRlcmRhbGFtLWRpdGVtdWthbi1hZGEtZGktc2luaQ==",
+        "description": " Bangkai kapal itu ditemukan di perairan Laut Filipina dengan kedalaman 6.895 m di bawah permukaan laut."
+    },
+    {
+        "title": "Alasan Pemerintah Belum Tetapkan Wabah PMK Ternak Jadi KLB",
+        "link": "https://www.cnbcindonesia.com/news/20220622123917-8-349313/alasan-pemerintah-belum-tetapkan-wabah-pmk-ternak-jadi-klb",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyMjEyMzkxNy04LTM0OTMxMy9hbGFzYW4tcGVtZXJpbnRhaC1iZWx1bS10ZXRhcGthbi13YWJhaC1wbWstdGVybmFrLWphZGkta2xi",
+        "description": " Alasan Pemerintah Belum Tetapkan Wabah PMK Ternak Jadi KLB"
+    },
+    {
+        "title": "AS Kirim Pesawat ke Selat Taiwan, Xi Jinping Ngamuk",
+        "link": "https://www.cnbcindonesia.com/news/20220625120038-4-350278/as-kirim-pesawat-ke-selat-taiwan-xi-jinping-ngamuk",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNTEyMDAzOC00LTM1MDI3OC9hcy1raXJpbS1wZXNhd2F0LWtlLXNlbGF0LXRhaXdhbi14aS1qaW5waW5nLW5nYW11aw==",
+        "description": " Wilayah itu sendiri diketahui menjadi pusat ketegangan terbesar antara Washington dan Taiwan yang menghadapi China."
+    },
+    {
         "title": "Bos PTBA Raih Penghargaan Berskala Internasional Gegara Ini",
         "link": "https://www.cnbcindonesia.com/news/20220625122657-4-350284/bos-ptba-raih-penghargaan-berskala-internasional-gegara-ini",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDEwMTMyNy04LTM0OTk0OC9yYW1haS1yYW1haS1uZWdhcmEtZXJvcGEtdGVyaWFrLWtyaXNpcy1lbmVyZ2k=",
         "description": " Uni Eropa tengah menghadapi krisis energi imbas sanksi larangan impor dari Rusia"
-    },
-    {
-        "title": "Ini Penyebab Avanza Keok, Ada Yang Laku Cuma 7 Unit",
-        "link": "https://www.cnbcindonesia.com/news/20220625084511-4-350259/ini-penyebab-avanza-keok-ada-yang-laku-cuma-7-unit",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNTA4NDUxMS00LTM1MDI1OS9pbmktcGVueWViYWItYXZhbnphLWtlb2stYWRhLXlhbmctbGFrdS1jdW1hLTctdW5pdA==",
-        "description": " Hal ini terungkap dari data penjualan Gabungan Industri Kendaraan Bermotor Indonesia (Gaikindo)."
-    },
-    {
-        "title": "Jelang HUT Bhayangkara, Polri Adakan Gowes 508 kilometer",
-        "link": "https://www.cnbcindonesia.com/news/20220625094318-4-350265/jelang-hut-bhayangkara-polri-adakan-gowes-508-kilometer",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNTA5NDMxOC00LTM1MDI2NS9qZWxhbmctaHV0LWJoYXlhbmdrYXJhLXBvbHJpLWFkYWthbi1nb3dlcy01MDgta2lsb21ldGVy",
-        "description": " Kegiatan ini sesuai dengan semangat Kapolri Jenderal Listyo Sigit Prabowo untuk mendukung pemulihan ekonomi."
-    },
-    {
-        "title": "Daftar Mobil yang 'Diharamkan' Minum Pertalite, Punya Anda?",
-        "link": "https://www.cnbcindonesia.com/news/20220625084054-4-350258/daftar-mobil-yang-diharamkan-minum-pertalite-punya-anda",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNTA4NDA1NC00LTM1MDI1OC9kYWZ0YXItbW9iaWwteWFuZy1kaWhhcmFta2FuLW1pbnVtLXBlcnRhbGl0ZS1wdW55YS1hbmRh",
-        "description": " Rencananya, klasifikasi mobil apa saja yang boleh menggunakan Pertalite dan tidak ditentukan dari besaran Cubicle Centimeter (CC) setiap mobil."
     }
 ]
