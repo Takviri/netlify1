@@ -1,5 +1,33 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/501987/meski-bali-jadi-tuan-rumah-world-beach-game-indonesia-tetap-haris-ikut-kualifikasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5ODcvbWVza2ktYmFsaS1qYWRpLXR1YW4tcnVtYWgtd29ybGQtYmVhY2gtZ2FtZS1pbmRvbmVzaWEtdGV0YXAtaGFyaXMtaWt1dC1rdWFsaWZpa2FzaQ==",
+        "description": "SEKRETARIS Jenderal Komite Olimpiade Indonesia (KOI) Ferry J Kono mengingatkan induk cabang olahraga tuan rumah Indonesia untuk menyiapkan diri mengikuti kejuaraan kualifikasi menuju <a href=\"http://mediaindonesia.com/tag/world-beach-game\"&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/501996/kpk-tegaskan-siap-hadapi-jika-mardani-maming-ajukan-praperadilan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDE5OTYva3BrLXRlZ2Fza2FuLXNpYXAtaGFkYXBpLWppa2EtbWFyZGFuaS1tYW1pbmctYWp1a2FuLXByYXBlcmFkaWxhbg==",
+        "description": "KOMISI Pemberantasan Korupsi (KPK) siap menghadapi gugatan praperadilan jika diajukan oleh Bendahara Umum Pengurus Besar Nahdlatul Ulama&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/501995/dpr-as-setujui-uu-pembatasan-senjata-api",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMTk5NS9kcHItYXMtc2V0dWp1aS11dS1wZW1iYXRhc2FuLXNlbmphdGEtYXBp",
+        "description": "DEWAN Perwakilan Rakyat (DPR) Amerika Serikat, Jumat (24/6), mengesahkan Undang-undang (UU) keamanan senjata. Regulasi ini&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/501986/single-terbaru-summerlane-cocok-untuk-mereka-yang-bingung-ambil-kesulitan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMTk4Ni9zaW5nbGUtdGVyYmFydS1zdW1tZXJsYW5lLWNvY29rLXVudHVrLW1lcmVrYS15YW5nLWJpbmd1bmctYW1iaWwta2VzdWxpdGFu",
+        "description": "GRUP band Pop-Punk Summerlane merilis karya perdana mereka setelah resmi bergabung dengan Warner Music Indonesia bertajuk Let It Go.&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/501985/benarkah-panti-jompo-solusi-agar-lansia-tidak-kesepian",
         "image": "static/images/media_indonesia.png",
@@ -22,9 +50,9 @@
     },
     {
         "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/501984/sheriff-harus-cari-laga-kandang-untuk-laga-liga-champions",
+        "link": "https://m.mediaindonesia.com/sepak-bola/501984/sheriff-harus-cari-stadion-kandang-untuk-laga-liga-champions",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk4NC9zaGVyaWZmLWhhcnVzLWNhcmktbGFnYS1rYW5kYW5nLXVudHVrLWxhZ2EtbGlnYS1jaGFtcGlvbnM=",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk4NC9zaGVyaWZmLWhhcnVzLWNhcmktc3RhZGlvbi1rYW5kYW5nLXVudHVrLWxhZ2EtbGlnYS1jaGFtcGlvbnM=",
         "description": "SHERIFF Tiraspol, yang musim lalu secara mengejutkan mengalahkan Real Madrid di babak penyisihan grup Liga Champions, diharuskan&#8230;"
     },
     {
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk4Mi9zcHVycy1pbmdpbi1waW5qYW0tY2xlbWVudC1sZW5nbGV0LWRhcmktYmFyY2Vsb25h",
         "description": "KLUB Liga Primer Inggris Tottenham Hotspur dikabarkan tertarik meminjam bek tengah Clement Lenglet dari klub La Liga Barcelona&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/501988/jotun-indonesia-benamkan-rp742-miliar-untuk-bangun-pabrik-baru",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMTk4OC9qb3R1bi1pbmRvbmVzaWEtYmVuYW1rYW4tcnA3NDItbWlsaWFyLXVudHVrLWJhbmd1bi1wYWJyaWstYmFydQ==",
-        "description": "PT Jotun Indonesia melakukan ekspansi dengan menambah pembangunan pabrik baru untuk waterbase/cat berbahan dasar air dan memperluas kapasitas gudang utama pada tahun ini. Dengan pabrik baru tersebut,&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/501993/mendag-sidak-stock-point-migor-curah-rakyat-pasar-kramat-jati-jakarta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMTk5My9tZW5kYWctc2lkYWstc3RvY2stcG9pbnQtbWlnb3ItY3VyYWgtcmFreWF0LXBhc2FyLWtyYW1hdC1qYXRpLWpha2FydGE=",
-        "description": "MENTERI Perdagangan (Mendag) Zulkifli Hasan meninjau sejumlah titik penjualan minyak goreng curah rakyat (MGCR) yang berada di Pasar Kramat Jati, Jakarta Timur, Sabtu&nbsp;(25/6)&nbsp;pagi. Zulhas&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/501979/ioh-luncurkan-program-sampah-jadi-pulsa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxOTc5L2lvaC1sdW5jdXJrYW4tcHJvZ3JhbS1zYW1wYWgtamFkaS1wdWxzYQ==",
-        "description": "INDOSAT Ooredoo Hutchison (IOH) berkolaborasi dengan Pemerintah Kota Bogor, Dinas Lingkungan Hidup Kota Bogor, dan Mall BTM Bogor,&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/501978/ampm-berkolaborasi-dengan-nathan-hartono-di-tokyo-on-my-mind",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMTk3OC9hbXBtLWJlcmtvbGFib3Jhc2ktZGVuZ2FuLW5hdGhhbi1oYXJ0b25vLWRpLXRva3lvLW9uLW15LW1pbmQ=",
-        "description": "SEJAK melakukan debut pada 2017 lewat single Best Part of Us, duo elektronik bertopeng asal Jepang, AmPm, telah mengumpulkan banyak&#8230;"
     }
 ]
