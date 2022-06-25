@@ -1,5 +1,26 @@
 [
     {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/501980/puncak-hut-jakarta-rekayasa-lalin-diterapkan-di-sekitar-jis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDE5ODAvcHVuY2FrLWh1dC1qYWthcnRhLXJla2F5YXNhLWxhbGluLWRpdGVyYXBrYW4tZGktc2VraXRhci1qaXM=",
+        "description": "PEMERINTAH Provinsi (Pemprov) DKI Jakarta akan melakukan rekayasa lalu lintas (lalin) di sekitar Jakarta International Stadium&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/501975/pbb-sebut-keputusan-ma-as-yang-hapus-hak-aborsi-pukulan-bagi-ham",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMTk3NS9wYmItc2VidXQta2VwdXR1c2FuLW1hLWFzLXlhbmctaGFwdXMtaGFrLWFib3JzaS1wdWt1bGFuLWJhZ2ktaGFt",
+        "description": "KEPUTUSAN Mahkamah Agung Amerika Serikat (AS) yang mengakhiri hak untuk melakukan aborsi, Jumat (24/6), adalah pukulan telak bagi&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/501956/pengabdian-tite-untuk-brasil",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk1Ni9wZW5nYWJkaWFuLXRpdGUtdW50dWstYnJhc2ls",
+        "description": "DENGAN rekor 75% menang sepanjang penyisihan Piala Dunia 2022 zona Amerika Latin, Tite pantas menjadi incaran banyak klub-klub besar Eropa. Real Madrid, Paris Saint Germain, dan Sporting Lisbon merupakan&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/501974/atalanta-datangkan-ederson-dari-salernitana",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMTk2Ni9tYWhrYW1haC1hZ3VuZy1hcy1jYWJ1dC1oYWstdW50dWstbGFrdWthbi1hYm9yc2k=",
         "description": "MAHKAMAH Agung Amerika Serikat (AS), Jumat (24/6), mencabut hak melakukan aborsi lewat keputusan yang membuyarkan lima tahun perlindungan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/501969/tsitsipas-hadapi-bautista-agut-di-final-mallorca-terbuka",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5NjkvdHNpdHNpcGFzLWhhZGFwaS1iYXV0aXN0YS1hZ3V0LWRpLWZpbmFsLW1hbGxvcmNhLXRlcmJ1a2E=",
-        "description": "STEFANOS Tsitsipas akan berhadapan dengan Roberto Bautista Agut di laga final Mallorca Terbuka setelah mengalahkan Benjamin&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/501963/bagnaia-tercepat-setelah-fp2-gp-belanda",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5NjMvYmFnbmFpYS10ZXJjZXBhdC1zZXRlbGFoLWZwMi1ncC1iZWxhbmRh",
-        "description": "PEMBALAP tim Ducati Lenovo Francesco Bagnaia mengklaim tempat teratas dalam catatan waktu setelah dua sesi latihan bebas GP Belanda,&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/501967/kvitova-bertemu-ospaneko-di-final-eastbourne",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5Njcva3ZpdG92YS1iZXJ0ZW11LW9zcGFuZWtvLWRpLWZpbmFsLWVhc3Rib3VybmU=",
-        "description": "PETRA Kvitova akan berhadapan dengan sesama mantan juara Grand Slam Jelena Ostapenko di babak final Eastbourne, turnamen pemanasan&#8230;"
     }
 ]
