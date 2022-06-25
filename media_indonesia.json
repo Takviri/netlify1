@@ -1,6 +1,20 @@
 [
     {
         "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/502091/jon-bodo-debat-di-tv",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMjA5MS9qb24tYm9kby1kZWJhdC1kaS10dg==",
+        "description": "WAH seru nih nonton acara debat"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/502090/bung-sentil-jurus-boros",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMjA5MC9idW5nLXNlbnRpbC1qdXJ1cy1ib3Jvcw==",
+        "description": "WUAAAH, di Kebumen bupatinya kena penalti 1M dari rakyatnya gara-gara mengubah nama jalan."
+    },
+    {
+        "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/502111/senita-riskiwahyuni-program-berantas-pernikahan-usia-dini",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMjExMS9zZW5pdGEtcmlza2l3YWh5dW5pLXByb2dyYW0tYmVyYW50YXMtcGVybmlrYWhhbi11c2lhLWRpbmk=",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjEwNS9zaGluLXRhZS15b25nLWZva3VzLXBlcmJhaWtpLWZpc2lrLXRpbW5hcy11LTE5",
         "description": "PELATIH timnas Indonesia Shin Tae-yong bakal fokus memperbaiki fisik para pemain tim U-19 menatap Piala AFF yang akan segera digelar. Menurut Shin Tae-yong, fisik para pemain belum sesuai dengan ekspektasinya&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/502104/tren-healing-melukat-di-carangsari-berkahnya-mengalir-hingga-ke-apbd-kabupaten",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMTA0L3RyZW4taGVhbGluZy1tZWx1a2F0LWRpLWNhcmFuZ3NhcmktYmVya2FobnlhLW1lbmdhbGlyLWhpbmdnYS1rZS1hcGJkLWthYnVwYXRlbg==",
-        "description": "Berkendara 90 menit saja dari Bandar Udara Internasional Ngurah Rai, kita akan tiba di Desa Wisata Carangsari, Kabupaten Badung, Bali. Desa wisata berpenduduk 4.655 jiwa pemenang pertama kategori konten&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/502103/jogja-fair-2022-digelar-bersamaan-perayaan-hut-ke-266-kota-yogyakarta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMTAzL2pvZ2phLWZhaXItMjAyMi1kaWdlbGFyLWJlcnNhbWFhbi1wZXJheWFhbi1odXQta2UtMjY2LWtvdGEteW9neWFrYXJ0YQ==",
-        "description": "PT. Fery Agung Corindotama (Feraco) akan mempersembahkan event berskala nasional bertajuk 'Jogja Fair 2022' di Yogjakarta.&nbsp; Event berkelas yang memadukan dari segi bisnis, edukasi,&#8230;"
     }
 ]
