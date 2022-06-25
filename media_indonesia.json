@@ -1,6 +1,55 @@
 [
     {
         "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502043/puan-hati-pdip-bersama-wong-cilik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDIwNDMvcHVhbi1oYXRpLXBkaXAtYmVyc2FtYS13b25nLWNpbGlr",
+        "description": "KETUA DPP Partai Demokrasi Indonesia Perjuangan (PDIP) Puan Maharani tidak nyaman dengan anggapan PDIP sebagai partai elitis.&nbsp; Pernyataan tersebut diungkapkannya dalam kegiatan Festival&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502037/jemaah-haji-indonesia-yang-wafat-menjadi-12-orang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMDM3L2plbWFhaC1oYWppLWluZG9uZXNpYS15YW5nLXdhZmF0LW1lbmphZGktMTItb3Jhbmc=",
+        "description": "MEMASUKI hari ke 22 operasional penyelenggaraan ibadah haji tahun 1443H/2022M Kementerian Agama (Kemenag) menyampaikan jemaah haji wafat bertambah 1 orang asal kloter Surabaya (SUB). &quot;Jemaah&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502042/universitas-brawijaya-kukuhkan-menteri-lhk-sebagai-profesor-kehormatan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMDQyL3VuaXZlcnNpdGFzLWJyYXdpamF5YS1rdWt1aGthbi1tZW50ZXJpLWxoay1zZWJhZ2FpLXByb2Zlc29yLWtlaG9ybWF0YW4=",
+        "description": "UNIVERSITAS Brawijaya mengukuhkan Menteri Lingkungan Hidup dan Kehutanan (LHK) Siti Nurbaya Bakar sebagai profesor kehormatan Universitas Brawijaya dalam bidang ilmu manajemen sumber daya alam.&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502036/jelang-puncak-haji-masuk-ke-mekkah-diperketat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMDM2L2plbGFuZy1wdW5jYWstaGFqaS1tYXN1ay1rZS1tZWtrYWgtZGlwZXJrZXRhdA==",
+        "description": "JELANG puncak haji yang diperkirakan jatuh pada awal Juli 2022, pemeriksaan jalur masuk ke kota Makkah, baik dari Jeddah maupun Madinah, semakin diperketat. Paling tidak, ada tiga check point pemeriksaan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502040/kpk-siap-hadapi-mardani-di-praperadilan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDIwNDAva3BrLXNpYXAtaGFkYXBpLW1hcmRhbmktZGktcHJhcGVyYWRpbGFu",
+        "description": "KOMISI Pemberantasan Korupsi (KPK) siap menghadapi gugatan praperadilan jika diajukan mantan Bupati Tanah Bumbu Mardani H Maming yang berstatus sebagai tersangka kasus dugaan korupsi. &quot;Jika&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502039/lewat-bni-mobile-banking-transfer-bi-fast-dapat-cashback-biaya-admin",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjAzOS9sZXdhdC1ibmktbW9iaWxlLWJhbmtpbmctdHJhbnNmZXItYmktZmFzdC1kYXBhdC1jYXNoYmFjay1iaWF5YS1hZG1pbg==",
+        "description": "KEPUASAN konsumen (consumer centric) merupakan prioritas BNI dalam menyediakan layanan dan solusi digital bagi nasabah. Fitur Bank Indonesia Fast Payment (BI-Fast) merupakan salah satu inisiatif&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/502038/penegakan-hukum-pengambilan-mata-airtanpa-izinharus-disegerakan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMDM4L3BlbmVnYWthbi1odWt1bS1wZW5nYW1iaWxhbi1tYXRhLWFpcnRhbnBhLWl6aW5oYXJ1cy1kaXNlZ2VyYWthbg==",
+        "description": "DESAKAN agar aparat penegak hukum segera memproses kasus dugaan pengambilan mata air tanpa izin oleh PT DFT di Sumedang, Jawa Barat. sekaligus dugaan penjualan air tersebut ke industri tanpa izin,&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/502035/gaya-komunikasi-merangkul-bikin-erick-cawapres-terkuat-di-jatim",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDIwMzUvZ2F5YS1rb211bmlrYXNpLW1lcmFuZ2t1bC1iaWtpbi1lcmljay1jYXdhcHJlcy10ZXJrdWF0LWRpLWphdGlt",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjAzMi9rZWthbGFoYW4tY29yZW5nLWRlYnV0LXRldmV6LXNlYmFnYWktcGVsYXRpaA==",
         "description": "MANTAN striker timnas Argentina Carlos Tevez melakoni debutnya sebagai pelatih Rosario Central dan menelan kekalahan 0-1 saat menjamu Gimnasia y Esgrima La Plata di Stadion Gigante de Arroyito, Jumat&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/502031/carlos-tevez-telan-kekalahan-di-laga-debut-sebagai-pelatih",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjAzMS9jYXJsb3MtdGV2ZXotdGVsYW4ta2VrYWxhaGFuLWRpLWxhZ2EtZGVidXQtc2ViYWdhaS1wZWxhdGlo",
-        "description": "MANTAN bintang tim nasional Argentina Carlos Tevez melakoni debutnya sebagai pelatih Rosario Central dan menelan kekalahan 0-1 saat menjamu Gimnasia y Esgrima La Plata di Stadion Gigante de Arroyito,&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/502033/nasa-tunjuk-3-perusahaan-untuk-desain-sistem-tenaga-nuklir-di-bulan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjAzMy9uYXNhLXR1bmp1ay0zLXBlcnVzYWhhYW4tdW50dWstZGVzYWluLXNpc3RlbS10ZW5hZ2EtbnVrbGlyLWRpLWJ1bGFu",
-        "description": "BADAN Penerbangan dan Antariksa Amerika Serikat (NASA) bekerja sama dengan Departemen Energi Amerika Serikat (DOE) telah memilih tiga proposal dari tiga perusahaan untuk merancang konsep desain sistem&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/502030/swiatek-berpeluang-lampaui-rekor-venus-williams",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDIwMzAvc3dpYXRlay1iZXJwZWx1YW5nLWxhbXBhdWktcmVrb3ItdmVudXMtd2lsbGlhbXM=",
-        "description": "UNDIAN Wimbledon 2022 rampung dilakukan. Unggulan pertama Iga Swiatek akan melawan petenis kualifikasi Jana Fett (Kroasia) di babak pertama. Swiatek kini dalam tren positif seusai menjuarai&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/502029/itagi-kaji-vaksinasi-covid-19-untuk-balita",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMDI5L2l0YWdpLWthamktdmFrc2luYXNpLWNvdmlkLTE5LXVudHVrLWJhbGl0YQ==",
-        "description": "KETUA Indonesian Technical Advisory Group on Immunization (Itagi) Sri Rejeki mengungkapkan bahwa pihaknya masih melakukan pengkajian terkait pemberian vaksinasi covid-19 untuk anak di bawah lima tahun&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502028/prabowo-dinilai-jadi-magnet-tokoh-politik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDIwMjgvcHJhYm93by1kaW5pbGFpLWphZGktbWFnbmV0LXRva29oLXBvbGl0aWs=",
-        "description": "PARTAI Demokrat gencar menyambangi sejumlah partai politik guna membangun peluang koalisi apda Pemilu 2024. Terakhir, Ketua Umum Partai Demokrat Agus Harimurti Yudhoyono (AHY) menyambangi kediaman&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502027/aktivis-papua-ragu-kasus-ham-berat-paniai-bakal-tuntas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDIwMjcvYWt0aXZpcy1wYXB1YS1yYWd1LWthc3VzLWhhbS1iZXJhdC1wYW5pYWktYmFrYWwtdHVudGFz",
-        "description": "DIREKTUR Perkumpulan Advokat Pengacara HAM (Paham) Papua Gustaf Kawer pesimistis kasus dugaan pelanggaran HAM berat pada Peristiwa Paniai 2014 bisa diusut tuntas. Karena hanya ada satu pelaku yang&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/502026/temui-moeldokopetani-sawit-keluhkan-harga-tbs-yang-masih-anjlok",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjAyNi90ZW11aS1tb2VsZG9rb3BldGFuaS1zYXdpdC1rZWx1aGthbi1oYXJnYS10YnMteWFuZy1tYXNpaC1hbmpsb2s=",
-        "description": "KEPALA Staf Kepresidenan Moeldoko menerima kedatangan petani sawit yang tergabung dalam Asosiasi Petani Kelapa Sawit Indonesia (Apkasindo) pada Sabtu (25/6) ini.&nbsp; Dalam pertemuan itu, Ketua&#8230;"
     }
 ]
