@@ -1,6 +1,13 @@
 [
     {
         "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/502023/manchester-city-gaet-kalvin-philips-dari-leeds",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjAyMy9tYW5jaGVzdGVyLWNpdHktZ2FldC1rYWx2aW4tcGhpbGlwcy1kYXJpLWxlZWRz",
+        "description": "JUARA bertahan Liga Primer Inggris Manchester City kembali bergeliat merekrut pemain baru di bursa transfer untuk mengarungi liga musim depan. Setelah mendapatkan Erling Haaland, City kini dilaporkan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/502019/jersey-baru-rans-nusantara-fc-minim-sponsor-agar-tidak-mirip-koran",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjAxOS9qZXJzZXktYmFydS1yYW5zLW51c2FudGFyYS1mYy1taW5pbS1zcG9uc29yLWFnYXItdGlkYWstbWlyaXAta29yYW4=",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMDE3L2dlbGFyLWhhY2thdGhvbi1kaS1zdXJhYmF5YS1zYWhhYmF0LWdhbmphci1sYW5qdXQtY2FyaS10YWxlbnRhLWlub3ZhdGlm",
         "description": "KESUKSESAN Hackathon di Provinsi DI Yogyakarta, bulan lalu, menjadi motivasi baru untuk Sahabat Ganjar terus mencari talenta&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/502011/ini-trik-mengatasi-internet-lemot-di-ponsel",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTAyMDExL2luaS10cmlrLW1lbmdhdGFzaS1pbnRlcm5ldC1sZW1vdC1kaS1wb25zZWw=",
-        "description": "SAMBUNGAN internet yang tiba-tiba melambat sudah pasti mengganggu aktivitas menggunakan ponsel dan membuat pengguna jengkel. Baca&#8230;"
     }
 ]
