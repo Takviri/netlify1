@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/502048/piala-presiden-lima-tim-kantongi-tiket-perempat-final",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjA0OC9waWFsYS1wcmVzaWRlbi1saW1hLXRpbS1rYW50b25naS10aWtldC1wZXJlbXBhdC1maW5hbA==",
+        "description": "LIMA klub dipastikan sudah memastikan tempat di babak perempat final Piala Presiden 2022. Kelimanya yakni Persib Bandung, Bhayangkara FC, Arema FC, PSM Makassar, dan PSIS Semarang. Sedangkan tiga tiket&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/502047/ada-wilayah-surplus-jagung-namun-distribusi-terkendala",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMDM2L2plbGFuZy1wdW5jYWstaGFqaS1tYXN1ay1rZS1tZWtrYWgtZGlwZXJrZXRhdA==",
         "description": "JELANG puncak haji yang diperkirakan jatuh pada awal Juli 2022, pemeriksaan jalur masuk ke kota Makkah, baik dari Jeddah maupun Madinah, semakin diperketat. Paling tidak, ada tiga check point pemeriksaan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502040/kpk-siap-hadapi-mardani-di-praperadilan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDIwNDAva3BrLXNpYXAtaGFkYXBpLW1hcmRhbmktZGktcHJhcGVyYWRpbGFu",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) siap menghadapi gugatan praperadilan jika diajukan mantan Bupati Tanah Bumbu Mardani H Maming yang berstatus sebagai tersangka kasus dugaan korupsi. &quot;Jika&#8230;"
     }
 ]
