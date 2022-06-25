@@ -1,5 +1,19 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/501978/ampm-berkolaborasi-dengan-nathan-hartono-di-tokyo-on-my-mind",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMTk3OC9hbXBtLWJlcmtvbGFib3Jhc2ktZGVuZ2FuLW5hdGhhbi1oYXJ0b25vLWRpLXRva3lvLW9uLW15LW1pbmQ=",
+        "description": "SEJAK melakukan debut pada 2017 lewat single Best Part of Us, duo elektronik bertopeng asal Jepang, AmPm, telah mengumpulkan banyak&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/501977/iba-kembali-dilarang-hadir-di-olimpiade-paris-2024",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5NzcvaWJhLWtlbWJhbGktZGlsYXJhbmctaGFkaXItZGktb2xpbXBpYWRlLXBhcmlzLTIwMjQ=",
+        "description": "ORGANISASI tinju dunia (IBA) akan kembali dilarnag menggelar pertandingan di Olimpiade 2024 Paris. Hal itu ditergaskan Komite Olimpiade&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/501976/knicks-kirim-kemba-walker-ke-pistons-lewat-kesepakatan-tripartit",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk1Ni9wZW5nYWJkaWFuLXRpdGUtdW50dWstYnJhc2ls",
         "description": "DENGAN rekor 75% menang sepanjang penyisihan Piala Dunia 2022 zona Amerika Latin, Tite pantas menjadi incaran banyak klub-klub besar Eropa. Real Madrid, Paris Saint Germain, dan Sporting Lisbon merupakan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/501974/atalanta-datangkan-ederson-dari-salernitana",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk3NC9hdGFsYW50YS1kYXRhbmdrYW4tZWRlcnNvbi1kYXJpLXNhbGVybml0YW5h",
-        "description": "KLUB Serie A Atalanta dikabarkan berhasil menebus gelandang Ederson dari Salernitana dengan biaya senilai 25 juta euro atau sekitar&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/501973/newcastle-capai-kesepakatan-dengan-lille-mengenai-transfer-botman",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk3My9uZXdjYXN0bGUtY2FwYWkta2VzZXBha2F0YW4tZGVuZ2FuLWxpbGxlLW1lbmdlbmFpLXRyYW5zZmVyLWJvdG1hbg==",
-        "description": "KLUB Liga Primer Inggris Newcastle United dikabarkan telah mencapai kesepakatan harga dengan klub Ligue 1 Lille untuk mendatangkan&#8230;"
     }
 ]

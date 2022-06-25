@@ -1,17 +1,31 @@
 [
     {
-        "title": "Badan HAM PBB: Shireen Abu Aqla tewas terkena peluru yang ditembakkan tentara Israel",
-        "link": "https://www.bbc.com/indonesia/dunia-61417942",
+        "title": "Ukraina resmi jadi kandidat anggota Uni Eropa, bagaimana reaksi Rusia?",
+        "link": "https://www.bbc.com/indonesia/dunia-61924249",
         "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE0MTc5NDI=",
-        "description": "Badan HAM PBB mengatakan semua informasi yang mereka kumpulkan menunjukkan wartawan Palestina-Amerika, Shireen Abu Aqla, tewas terkena peluru yang ditembakkan tentara Israel."
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE5MjQyNDk=",
+        "description": "Ukraina memulai lamaran untuk keanggotaan Uni Eropa lima hari setelah invasi Rusia."
+    },
+    {
+        "title": "Roe vs Wade: Hak aborsi di AS, mengapa terus-menerus memicu pro dan kontra?",
+        "link": "https://www.bbc.com/indonesia/dunia-61316415",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjEzMTY0MTU=",
+        "description": "Sebuah bocoran dokumen mengungkapkan Mahkamah Agung AS cenderung akan membatalkan hak aborsi yang sudah dijamin sejak 1973."
     },
     {
         "title": "MA balikkan putusan 50 tahun lalu, jutaan perempuan di Amerika Serikat kehilangan hak lakukan aborsi",
         "link": "https://www.bbc.com/indonesia/dunia-61305744",
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjEzMDU3NDQ=",
-        "description": "Jutaan perempuan di Amerika Serikat akan kehilangan hak mekakukan aborsi, setelah Mahkamah Agung membalikkan putusan 50 tahun lalu yang membolehkan prosedur tersebut."
+        "description": "Jutaan perempuan di Amerika Serikat akan kehilangan hak melakukan aborsi, setelah Mahkamah Agung membalikkan putusan 50 tahun lalu yang membolehkan prosedur tersebut."
+    },
+    {
+        "title": "Badan HAM PBB: Shireen Abu Aqla tewas terkena peluru yang ditembakkan tentara Israel",
+        "link": "https://www.bbc.com/indonesia/dunia-61417942",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE0MTc5NDI=",
+        "description": "Badan HAM PBB mengatakan semua informasi yang mereka kumpulkan menunjukkan wartawan Palestina-Amerika, Shireen Abu Aqla, tewas terkena peluru yang ditembakkan tentara Israel."
     },
     {
         "title": "Gempa Afghanistan: Gempa susulan tewaskan warga, korban selamat kehabisan makanan dan khawatir terpapar wabah kolera",
@@ -54,19 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE5MTUyNDc=",
         "description": "Seorang pekerja klinik kesehatan di daerah pusat gempa di Afghanistan menuturkan kepada BBC bagaimana mereka kewalahan lantaran ratusan orang datang dan memerlukan perawatan."
-    },
-    {
-        "title": "Gempa Afghanistan, Aceh, Sulteng, Lombok dan gempa-gempa mematikan di dunia dalam satu abad terakhir",
-        "link": "https://www.bbc.com/indonesia/dunia-61905811",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE5MDU4MTE=",
-        "description": "Ratusan ribu orang dilaporkan menjadi korban jiwa dalam sejumlah gempa besar yang mematikan selama 100 tahun terakhir, di antaranya di Aceh pada akhir Desember 2004, Sulawesi (2018) serta Lombok (2018)."
-    },
-    {
-        "title": "Majikan Malaysia dibebaskan dari kasus kematian ART Indonesia, Adelina Lisao, 'tak cerminkan rasa keadilan'",
-        "link": "https://www.bbc.com/indonesia/dunia-61911647",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE5MTE2NDc=",
-        "description": "Mahkamah Persekutuan Malaysia\u00e2\u0080\u0094setara dengan Mahkamah Agung di Indonesia\u00e2\u0080\u0094pada Kamis (23/06) mengesahkan pembebasan majikan Adelina Lisao, pekerja migran asal Nusa Tenggara Timur yang meninggal dengan banyak luka di tubuhnya pada Februari 2018."
     }
 ]
