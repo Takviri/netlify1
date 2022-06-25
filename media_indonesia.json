@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/502105/shin-tae-yong-fokus-perbaiki-fisik-timnas-u-19",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjEwNS9zaGluLXRhZS15b25nLWZva3VzLXBlcmJhaWtpLWZpc2lrLXRpbW5hcy11LTE5",
+        "description": "PELATIH timnas Indonesia Shin Tae-yong bakal fokus memperbaiki fisik para pemain tim U-19 menatap Piala AFF yang akan segera digelar. Menurut Shin Tae-yong, fisik para pemain belum sesuai dengan ekspektasinya&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/502104/tren-healing-melukat-di-carangsari-berkahnya-mengalir-hingga-ke-apbd-kabupaten",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMTA0L3RyZW4taGVhbGluZy1tZWx1a2F0LWRpLWNhcmFuZ3NhcmktYmVya2FobnlhLW1lbmdhbGlyLWhpbmdnYS1rZS1hcGJkLWthYnVwYXRlbg==",
+        "description": "Berkendara 90 menit saja dari Bandar Udara Internasional Ngurah Rai, kita akan tiba di Desa Wisata Carangsari, Kabupaten Badung, Bali. Desa wisata berpenduduk 4.655 jiwa pemenang pertama kategori konten&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/502103/jogja-fair-2022-digelar-bersamaan-perayaan-hut-ke-266-kota-yogyakarta",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDIwOTUvYW5pZXMtZGVrbGFyYXNpa2FuLWpha2FydGEtc2ViYWdhaS1rb3RhLWdsb2JhbA==",
         "description": "GUBERNUR DKI Jakarta Anies Baswedan mendeklarasikan Jakarta sebagai kota global pada puncak perayaan HUT ke-495 DKI Jakarta di Jakarta International Stadium (JIS). &quot;Jakarta sudah hampir&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/502094/bagnaia-raih-posisi-terdepan-di-sirkuit-assen",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjA5NC9iYWduYWlhLXJhaWgtcG9zaXNpLXRlcmRlcGFuLWRpLXNpcmt1aXQtYXNzZW4=",
-        "description": "FRANCESCO Bagnaia sukses menjadi yanv tercepat pada sesi kualifikasi MotoGP Belanda, Sabtu (25/6). Pembalap Ducati itu akan memulai balapan di Sirkuit Assen pada posisi pertama besok, Minggu (26/6).&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/502087/indonesia-perluas-akses-pasar-kopi-hingga-mancanegara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjA4Ny9pbmRvbmVzaWEtcGVybHVhcy1ha3Nlcy1wYXNhci1rb3BpLWhpbmdnYS1tYW5jYW5lZ2FyYQ==",
-        "description": "KOPI Indonesia menjadi salah satu komoditas pertanian yang dapat bertahan ditengah pandemi Covid-19 bahkan semakin diminati pasar global.&nbsp; Guna memperluas akses pasar kopi nasional, peningkatan&#8230;"
     }
 ]
