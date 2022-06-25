@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/501974/atalanta-datangkan-ederson-dari-salernitana",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk3NC9hdGFsYW50YS1kYXRhbmdrYW4tZWRlcnNvbi1kYXJpLXNhbGVybml0YW5h",
+        "description": "KLUB Serie A Atalanta dikabarkan berhasil menebus gelandang Ederson dari Salernitana dengan biaya senilai 25 juta euro atau sekitar&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/501973/newcastle-capai-kesepakatan-dengan-lille-mengenai-transfer-botman",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk3My9uZXdjYXN0bGUtY2FwYWkta2VzZXBha2F0YW4tZGVuZ2FuLWxpbGxlLW1lbmdlbmFpLXRyYW5zZmVyLWJvdG1hbg==",
+        "description": "KLUB Liga Primer Inggris Newcastle United dikabarkan telah mencapai kesepakatan harga dengan klub Ligue 1 Lille untuk mendatangkan&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/501971/pengungsi-afghanistan-yang-berusaha-bunuh-diri-di-jembatan-liliba-kupang-berhasil-diselamatkan",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5Njcva3ZpdG92YS1iZXJ0ZW11LW9zcGFuZWtvLWRpLWZpbmFsLWVhc3Rib3VybmU=",
         "description": "PETRA Kvitova akan berhadapan dengan sesama mantan juara Grand Slam Jelena Ostapenko di babak final Eastbourne, turnamen pemanasan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/501962/sjostrom-lanjutkan-dominasi-di-nomor-50-meter-gaya-kupu-kupu-kejuaraan-dunia-renang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5NjIvc2pvc3Ryb20tbGFuanV0a2FuLWRvbWluYXNpLWRpLW5vbW9yLTUwLW1ldGVyLWdheWEta3VwdS1rdXB1LWtlanVhcmFhbi1kdW5pYS1yZW5hbmc=",
-        "description": "PERENANG Swedia Sarah Sjostrom melanjutkan dominasinya di nomor 50 meter gaya kupu-kupu putri ketika ia mengklaim medali emas di kejuaraan dunia renang&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/501954/nasib-awak-kapal-di-pp-nomor-22-tahun-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDE5NTQvbmFzaWItYXdhay1rYXBhbC1kaS1wcC1ub21vci0yMi10YWh1bi0yMDIy",
-        "description": "PEMERINTAH telah mengeluarkan Peraturan Pemerintah (PP) Nomor 22 Tahun 2022 tentang Penempatan dan Pelindungan Awak Kapal Niaga Migran dan Awak Kapal Perikanan Migran. Aturan ini merupakan tindak lanjut&#8230;"
     }
 ]
