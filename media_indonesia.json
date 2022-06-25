@@ -1,5 +1,40 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/502079/madura-united-barito-putera-solid-kawal-lini-pertahanan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjA3OS9tYWR1cmEtdW5pdGVkLWJhcml0by1wdXRlcmEtc29saWQta2F3YWwtbGluaS1wZXJ0YWhhbmFu",
+        "description": "PELATIH Madura United Fabio Lefundes mengakui bahwa tim Barito Putera tampil sangat solid dan disiplin menjaga area pertahanan. Alhasil, pemain Madura kesulitan menciptakan peluang mencetak gol.&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/502078/bagnaia-raih-pole-position-di-sirkuit-assen",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDIwNzgvYmFnbmFpYS1yYWloLXBvbGUtcG9zaXRpb24tZGktc2lya3VpdC1hc3Nlbg==",
+        "description": "FRANCESCO 'Peco' Bagnaia menjadi yang tercepat dalam kualifikasi MotoGP Belanda di Sirkuit Assen, Sabtu (25/6). Pembalap tim Lenovo Ducati itu membukukan waktu 1 menit 31,504 detik yang menjadi&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502077/tingkat-literasi-asuransi-di-indonesia-masih-tergolong-rendah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjA3Ny90aW5na2F0LWxpdGVyYXNpLWFzdXJhbnNpLWRpLWluZG9uZXNpYS1tYXNpaC10ZXJnb2xvbmctcmVuZGFo",
+        "description": "TINGKAT literasi asuransi di Indonesia masih rendah. Hal tersebut dibuktikan dengan masih banyaknya pengaduan masyarakat kepada Otoritas Jasa Keuangan (OJK). Jika dibandingkan dengan negara&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/502076/espargaro-mundur-repsol-hanya-turunkan-bradl-di-motogp-belanda",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDIwNzYvZXNwYXJnYXJvLW11bmR1ci1yZXBzb2wtaGFueWEtdHVydW5rYW4tYnJhZGwtZGktbW90b2dwLWJlbGFuZGE=",
+        "description": "TIM Repsol Honda lagi-lagi terpaksa kehilangan pembalapnya karena cedera. Pol Espargaro dipastikan mundur dari MotoGP seri Belanda di Sirkuit Assen, yang digelar pada Minggu (26/6) besok. Espargaro&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/502075/peternak-apresiasi-langkah-pemerintah-ganti-ternak-yang-terkena-pmk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMDc1L3BldGVybmFrLWFwcmVzaWFzaS1sYW5na2FoLXBlbWVyaW50YWgtZ2FudGktdGVybmFrLXlhbmctdGVya2VuYS1wbWs=",
+        "description": "PETERNAK sapi dari Kabupaten Boyolali, Jawa Tengah, mengapresiasi pemerintah yang berencana memberikan bantuan Rp10 juta per ekor sebagai pengganti ternak yang harus dimusnahkan karena penyakit mulut&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/502074/ri-siap-jadi-tuan-rumah-hari-anti-narkoba-internasional",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjA2Ni9tZW50YW4tYWphay1wZXRhbmktYmVyc2FtYS1hbnRpc2lwYXNpLWtyaXNpcy1wYW5nYW4tZ2xvYmFs",
         "description": "MENTERI Pertanian Syahrul Yasin Limpo menegaskan komitmennya dalam memantapkan penguatan komoditi lokal untuk kemandirian pangan demi meningkatkan kesejahteraan petani serta mengantisipasi krisis pangan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/502070/pemkab-garut-siapkan-kompensasi-peternak-yang-terdampak-pmk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMDcwL3BlbWthYi1nYXJ1dC1zaWFwa2FuLWtvbXBlbnNhc2ktcGV0ZXJuYWsteWFuZy10ZXJkYW1wYWstcG1r",
-        "description": "PEMKAB Garut masih mendata hewan ternak yang mati akibat penyakit kuku dan mulut (PMK). Pendataan tersebut dijadikan dasar pemberian kompensasi kepada peternak, yang terdampak penyebaran wabah PMK.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/502069/terapi-adjuvan-perbesar-peluang-keberhasilan-program-bayi-tabung",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMDY5L3RlcmFwaS1hZGp1dmFuLXBlcmJlc2FyLXBlbHVhbmcta2ViZXJoYXNpbGFuLXByb2dyYW0tYmF5aS10YWJ1bmc=",
-        "description": "TERAPI Adjuvan reproduksi berguna untuk menunjang efektifitas program bayi tabung (in vitro fertilization/IVF). Layakan terapi diluncurkan&nbsp; oleh Klinik bayi tabung, Morula IVF Indonesia. Klinik&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/502068/sleman-mulai-vaksinasi-pmk-untuk-sapi-perah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMDY4L3NsZW1hbi1tdWxhaS12YWtzaW5hc2ktcG1rLXVudHVrLXNhcGktcGVyYWg=",
-        "description": "VAKSINASI Penyakit Mulut dan Kuku (PMK) untuk hewan ternak sapi perah mulai digencarkan di wilayah Sleman, Daerah Istimewa Yogyakarta (DIY). Adapun upaya vaksinasi PMK diimulai di Kelurahan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/502067/imbang-lawan-madura-united-barito-putera-tetap-puas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjA2Ny9pbWJhbmctbGF3YW4tbWFkdXJhLXVuaXRlZC1iYXJpdG8tcHV0ZXJhLXRldGFwLXB1YXM=",
-        "description": "PS Barito Putera bermain imbang 1-1 melawan Madura United pada lanjutan penyisihan Piala Presiden 2022 Grup B di Stadion Segiri, Samarinda. Di laga yang berlangsung pada Sabtu (25/6) ini, Barito&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/502060/surya-paloh-akan-resmikan-kantor-baru-nasdem-aceh-termegah-di-sumatera",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMDYwL3N1cnlhLXBhbG9oLWFrYW4tcmVzbWlrYW4ta2FudG9yLWJhcnUtbmFzZGVtLWFjZWgtdGVybWVnYWgtZGktc3VtYXRlcmE=",
-        "description": "KETUA Umum Partai NasDem, Surya Paloh dijadwalkan akan tiba di Banda Aceh pada tanggal 27 Juni 2022 untuk meresmikan kantor baru Dewan Pimpinan Wilayah (DPW) Partai NasDem Aceh. Wakil Ketua&#8230;"
     }
 ]
