@@ -1,5 +1,40 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/501985/benarkah-panti-jompo-solusi-agar-lansia-tidak-kesepian",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxOTg1L2JlbmFya2FoLXBhbnRpLWpvbXBvLXNvbHVzaS1hZ2FyLWxhbnNpYS10aWRhay1rZXNlcGlhbg==",
+        "description": "BERINTERAKSI dengan keluarga merupakan kunci penting meningkatkan kualitas hidup lansia karena bisa merasa tetap terlihat sehingga&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/501992/dukung-data-driven-policy-menkominfo-pemerintah-akan-bangun-4-pdn",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxOTkyL2R1a3VuZy1kYXRhLWRyaXZlbi1wb2xpY3ktbWVua29taW5mby1wZW1lcmludGFoLWFrYW4tYmFuZ3VuLTQtcGRu",
+        "description": "PEMERINTAH tengah menyiapkan pembangunan empat Pusat Data Nasional (PDN) untuk mewujudkan pemerintahan berbasis digital. Menteri&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/501991/menkominfo-bahas-peluang-investasi-data-center-di-batam",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxOTkxL21lbmtvbWluZm8tYmFoYXMtcGVsdWFuZy1pbnZlc3Rhc2ktZGF0YS1jZW50ZXItZGktYmF0YW0=",
+        "description": "MENTERI Komunikasi dan Informatika Johnny G. Plate kembali melakukan kunjungan kerja ke Batam, Kepulauan Riau. Menkominfo tiba&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/501984/sheriff-harus-cari-laga-kandang-untuk-laga-liga-champions",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk4NC9zaGVyaWZmLWhhcnVzLWNhcmktbGFnYS1rYW5kYW5nLXVudHVrLWxhZ2EtbGlnYS1jaGFtcGlvbnM=",
+        "description": "SHERIFF Tiraspol, yang musim lalu secara mengejutkan mengalahkan Real Madrid di babak penyisihan grup Liga Champions, diharuskan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/501990/kepala-imf-resesi-as-diperlukan-untuk-taklukkan-inflasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMTk5MC9rZXBhbGEtaW1mLXJlc2VzaS1hcy1kaXBlcmx1a2FuLXVudHVrLXRha2x1a2thbi1pbmZsYXNp",
+        "description": "DENGAN inflasi yang meningkat tajam dan Federal Reserve menaikkan suku bunga, Amerika Serikat menghadapi peningkatan risiko penurunan ekonomi. Direktur Pelaksana IMF Kristalina Georgieva mengatakan&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/501982/spurs-ingin-pinjam-clement-lenglet-dari-barcelona",
         "image": "static/images/media_indonesia.png",
@@ -14,6 +49,13 @@
         "description": "PT Jotun Indonesia melakukan ekspansi dengan menambah pembangunan pabrik baru untuk waterbase/cat berbahan dasar air dan memperluas kapasitas gudang utama pada tahun ini. Dengan pabrik baru tersebut,&#8230;"
     },
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/501993/mendag-sidak-stock-point-migor-curah-rakyat-pasar-kramat-jati-jakarta",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMTk5My9tZW5kYWctc2lkYWstc3RvY2stcG9pbnQtbWlnb3ItY3VyYWgtcmFreWF0LXBhc2FyLWtyYW1hdC1qYXRpLWpha2FydGE=",
+        "description": "MENTERI Perdagangan (Mendag) Zulkifli Hasan meninjau sejumlah titik penjualan minyak goreng curah rakyat (MGCR) yang berada di Pasar Kramat Jati, Jakarta Timur, Sabtu&nbsp;(25/6)&nbsp;pagi. Zulhas&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/501979/ioh-luncurkan-program-sampah-jadi-pulsa",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMTk3OC9hbXBtLWJlcmtvbGFib3Jhc2ktZGVuZ2FuLW5hdGhhbi1oYXJ0b25vLWRpLXRva3lvLW9uLW15LW1pbmQ=",
         "description": "SEJAK melakukan debut pada 2017 lewat single Best Part of Us, duo elektronik bertopeng asal Jepang, AmPm, telah mengumpulkan banyak&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/501977/iba-kembali-dilarang-hadir-di-olimpiade-paris-2024",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5NzcvaWJhLWtlbWJhbGktZGlsYXJhbmctaGFkaXItZGktb2xpbXBpYWRlLXBhcmlzLTIwMjQ=",
-        "description": "ORGANISASI tinju dunia (IBA) akan kembali dilarnag menggelar pertandingan di Olimpiade 2024 Paris. Hal itu ditergaskan Komite Olimpiade&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/501976/knicks-kirim-kemba-walker-ke-pistons-lewat-kesepakatan-tripartit",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5NzYva25pY2tzLWtpcmltLWtlbWJhLXdhbGtlci1rZS1waXN0b25zLWxld2F0LWtlc2VwYWthdGFuLXRyaXBhcnRpdA==",
-        "description": "NEW York Knicks mengirimkan point guard veteran Kemba Walker ke Detroit Pistons lewat kesepakatan barter tripartit yang juga&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/501912/mereka-reka-lakon-hidup-ken-dedes",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMTkxMi9tZXJla2EtcmVrYS1sYWtvbi1oaWR1cC1rZW4tZGVkZXM=",
-        "description": "NAMA Ken Dedes mungkin sudah tak asing di telinga masyarakat Indonesia. Berbagai buku dan tulisan kerap menyebutkan sosok istri Ken Angrok tersebut sebagai sosok permaisuri yang cantik, pintar, dan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/501983/kapolri-lepas-144-peserta-upaya-pemecahan-rekor-muri-bersepeda",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxOTgzL2thcG9scmktbGVwYXMtMTQ0LXBlc2VydGEtdXBheWEtcGVtZWNhaGFuLXJla29yLW11cmktYmVyc2VwZWRh",
-        "description": "KAPOLRI Jenderal Pol Listyo Sigit Prabowo melepas keberangkatan 144 peserta yang mengikuti kegiatan Pemecahan Rekor Muri Bersepeda&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/501908/perangkap-di-toko-buku-kuno",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMTkwOC9wZXJhbmdrYXAtZGktdG9rby1idWt1LWt1bm8=",
-        "description": "PENERBIT Baca kembali menghadirkan pilihan novel bagi pencinta genre misteri dan thriller. Setelah novel Vegetarian karya Han Kang, kali ini giliran Memory Bookstore yang&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/501981/491-jamaah-calon-haji-asal-provinsi-malut-diberangkatkan-ke-emberkasi-makasar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxOTgxLzQ5MS1qYW1hYWgtY2Fsb24taGFqaS1hc2FsLXByb3ZpbnNpLW1hbHV0LWRpYmVyYW5na2F0a2FuLWtlLWVtYmVya2FzaS1tYWthc2Fy",
-        "description": "SEBANYAK 491 Jamaah Calon Haji asal Provinsi Maluku Utara akan diberangkatkan ke Embarkasi Makasar, melalui Bandara Sultan Baabullah,&#8230;"
     }
 ]
