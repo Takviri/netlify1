@@ -1,5 +1,61 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502010/inkoppas-apresiasi-sikap-mendag",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjAxMC9pbmtvcHBhcy1hcHJlc2lhc2ktc2lrYXAtbWVuZGFn",
+        "description": "PEDAGANG pasar yang tergabung dalam Induk Koperasi Pedagang Pasar (Inkoppas) berdemonstrasi di depan Kantor Kementerian Perdagangan beberapa hari lalu. Mereka menuntut agar ada upaya stabilisasi harga&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/502000/donna-harun-gonta-ganti-olahraga-agar-tidak-bosan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMjAwMC9kb25uYS1oYXJ1bi1nb250YS1nYW50aS1vbGFocmFnYS1hZ2FyLXRpZGFrLWJvc2Fu",
+        "description": "DONNA Harun, yang tetap terlihat awet muda meski sudah menginjak kepala lima, suka gonta-ganti jenis olahraga agar bisa tetap&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/502009/studi-banyak-makhluk-berdarah-dingin-yang-tidak-menua",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMjAwOS9zdHVkaS1iYW55YWstbWFraGx1ay1iZXJkYXJhaC1kaW5naW4teWFuZy10aWRhay1tZW51YQ==",
+        "description": "DUA penelitian terbaru yang diterbitkan di jurnal Science menemukan bahwa hanya ada sedikit bukti terjadinya penuaan di beberapa spesies berdarah dingin. Hal ini sedikit berbeda dari teori evolusi&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502008/dubes-djumala-di-tengah-konflik-dunia-diplomasi-pancasila-diperlukan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDIwMDgvZHViZXMtZGp1bWFsYS1kaS10ZW5nYWgta29uZmxpay1kdW5pYS1kaXBsb21hc2ktcGFuY2FzaWxhLWRpcGVybHVrYW4=",
+        "description": "DI tengah dunia yang terus dilanda konflik, baik yang berlatarbelakang teritorial maupun etnik dan agama, diplomasi Pancasila perlu&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/502007/bus-city-trans-utama-masuk-jurang-3-orang-tewas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMDA3L2J1cy1jaXR5LXRyYW5zLXV0YW1hLW1hc3VrLWp1cmFuZy0zLW9yYW5nLXRld2Fz",
+        "description": "SEBUAH bus pariwisata PO City Trans Utama dengan nomor polisi B 7701 TGA, yang dikendarai Dedi Kurnia, warga Jatinangor, Bandung, mengalami&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/501999/kesepian-bisa-sebabkan-lansia-kurang-gizi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxOTk5L2tlc2VwaWFuLWJpc2Etc2ViYWJrYW4tbGFuc2lhLWt1cmFuZy1naXpp",
+        "description": "RASA kesepian dapat menimbulkan masalah gizi pada orang lanjut usia karena nafsu makan mereka menjadi berkurang. Hal itu dikatakan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502006/dpd-gerindra-dki-belum-terima-surat-pengunduran-m-taufik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDIwMDYvZHBkLWdlcmluZHJhLWRraS1iZWx1bS10ZXJpbWEtc3VyYXQtcGVuZ3VuZHVyYW4tbS10YXVmaWs=",
+        "description": "KETUA DPD Partai Gerindra DKI Jakarta Ahmad Riza Patria (Ariza) mengaku belum menerima surat pengunduran diri dari kader&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502005/enam-dari-10-karyawan-di-indonesia-lebih-sukafleksibilitasdalam-bekerja",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMDA1L2VuYW0tZGFyaS0xMC1rYXJ5YXdhbi1kaS1pbmRvbmVzaWEtbGViaWgtc3VrYWZsZWtzaWJpbGl0YXNkYWxhbS1iZWtlcmph",
+        "description": "PERUSAHAAN pemimpin dan pencipta kategori manajemen pengalaman (XM),&nbsp;Qualtrics, mengungkapkan melalui penelitian terbarunya bahwa 58% karyawan full-time di Indonesia lebih suka fleksibilitas&#8230;"
+    },
+    {
         "title": "Megapolitan",
         "link": "https://m.mediaindonesia.com/megapolitan/502004/25804-lulusan-sd-di-kota-depok-tidak-tertampung-di-smp-negeri",
         "image": "static/images/media_indonesia.png",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk5OC9yb25hbGRpbmhvLXRlZ2Fza2FuLXNpYXAtaGlidXItbWFzeWFyYWthdC1pbmRvbmVzaWE=",
         "description": "PERAIH dua gelar pemain terbaik dunia FIFA, Ronaldinho de Assis Moreira, siap menghibur masyarakat Indonesia dengan memberikan penampilan terbaik bersama klub <a href=\"http://mediaindonesia.com/tag/rans-nusantara-fc\"&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502003/susun-surat-dakwaan-kejagung-segera-limpahkan-indra-kenz-ke-pengadilan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDIwMDMvc3VzdW4tc3VyYXQtZGFrd2Fhbi1rZWphZ3VuZy1zZWdlcmEtbGltcGFoa2FuLWluZHJhLWtlbnota2UtcGVuZ2FkaWxhbg==",
-        "description": "TIM jaksa penuntut umum (JPU) pada Jaksa Agung Muda Bidang Tindak Pidana Umum (JAM-Pidum) Kejaksaan Agung bersama JPU dari Kejaksaan Negeri Tangerang Selatan segera menyusun surat dakwaan kasus investasi&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/501997/ini-lima-fungsi-penting-oli-mesin-kendaraan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MDE5OTcvaW5pLWxpbWEtZnVuZ3NpLXBlbnRpbmctb2xpLW1lc2luLWtlbmRhcmFhbg==",
-        "description": "PEMILIK kendaraan wajib melakukan pergantian oli secara berkala guna menjaga kondisi mesin tetap optimal sekaligus menjaga keawetan komponen-komponen&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/501994/elley-duhe-rilis-single-pieces",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMTk5NC9lbGxleS1kdWhlLXJpbGlzLXNpbmdsZS1waWVjZXM=",
-        "description": "POPULER setelah lagunya Middle of the Night viral, bintang pop Elley Duhe merilis single terbarunya, Pieces. Lagu terbaru Duhe itu&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/501989/perenang-indah-as-yang-pingsan-saat-bertanding-dilarang-ambil-bagian-di-nomor-beregu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5ODkvcGVyZW5hbmctaW5kYWgtYXMteWFuZy1waW5nc2FuLXNhYXQtYmVydGFuZGluZy1kaWxhcmFuZy1hbWJpbC1iYWdpYW4tZGktbm9tb3ItYmVyZWd1",
-        "description": "PERENANG indah Amerika Serikat Anita Alvarez, yang secara dramatis diselamatkan dari dasar kolam setelah pingsan saat bertanding,&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/501987/meski-bali-jadi-tuan-rumah-world-beach-game-indonesia-tetap-haris-ikut-kualifikasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDE5ODcvbWVza2ktYmFsaS1qYWRpLXR1YW4tcnVtYWgtd29ybGQtYmVhY2gtZ2FtZS1pbmRvbmVzaWEtdGV0YXAtaGFyaXMtaWt1dC1rdWFsaWZpa2FzaQ==",
-        "description": "SEKRETARIS Jenderal Komite Olimpiade Indonesia (KOI) Ferry J Kono mengingatkan induk cabang olahraga tuan rumah Indonesia untuk menyiapkan diri mengikuti kejuaraan kualifikasi menuju <a href=\"http://mediaindonesia.com/tag/world-beach-game\"&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/501996/kpk-tegaskan-siap-hadapi-jika-mardani-maming-ajukan-praperadilan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDE5OTYva3BrLXRlZ2Fza2FuLXNpYXAtaGFkYXBpLWppa2EtbWFyZGFuaS1tYW1pbmctYWp1a2FuLXByYXBlcmFkaWxhbg==",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) siap menghadapi gugatan praperadilan jika diajukan oleh Bendahara Umum Pengurus Besar Nahdlatul Ulama&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/501995/dpr-as-setujui-uu-pembatasan-senjata-api",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMTk5NS9kcHItYXMtc2V0dWp1aS11dS1wZW1iYXRhc2FuLXNlbmphdGEtYXBp",
-        "description": "DEWAN Perwakilan Rakyat (DPR) Amerika Serikat, Jumat (24/6), mengesahkan Undang-undang (UU) keamanan senjata. Regulasi ini&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/501986/single-terbaru-summerlane-cocok-untuk-mereka-yang-bingung-ambil-kesulitan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMTk4Ni9zaW5nbGUtdGVyYmFydS1zdW1tZXJsYW5lLWNvY29rLXVudHVrLW1lcmVrYS15YW5nLWJpbmd1bmctYW1iaWwta2VzdWxpdGFu",
-        "description": "GRUP band Pop-Punk Summerlane merilis karya perdana mereka setelah resmi bergabung dengan Warner Music Indonesia bertajuk Let It Go.&#8230;"
     }
 ]
