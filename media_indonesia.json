@@ -1,5 +1,26 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/502113/bawang-merah-di-jayapura-tembus-rp80-ribu-per-kilogram",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMTEzL2Jhd2FuZy1tZXJhaC1kaS1qYXlhcHVyYS10ZW1idXMtcnA4MC1yaWJ1LXBlci1raWxvZ3JhbQ==",
+        "description": "Harga bawang merah antar pulau di Jayapura mengalami kenaikan tajam hingga mencapai Rp80 ribu/kg. Kenaikan harga bawang merah itu terjadi dari tingkat penyuplai yang mendatangkan dari Surabaya, kata&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/502092/sudoku-edisi-26-juni-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMjA5Mi9zdWRva3UtZWRpc2ktMjYtanVuaS0yMDIy",
+        "description": "SUDOKU atau dikenal juga dengan tebak angka (number place)"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/502112/tsitsipas-sebut-kemenangan-di-mallorca-tonggak-penting-kariernya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDIxMTIvdHNpdHNpcGFzLXNlYnV0LWtlbWVuYW5nYW4tZGktbWFsbG9yY2EtdG9uZ2dhay1wZW50aW5nLWthcmllcm55YQ==",
+        "description": "Stefanos Tsitsipas menyebut kemenangannya dalam final Mallorca Championship pada Sabtu kemarin adalah tonggak penting dalam kariernya ketika petenis Yunani itu merebut gelar lapangan rumput perdananya&#8230;"
+    },
+    {
         "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/502091/jon-bodo-debat-di-tv",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDIxMDgvMjcta2FtcHVuZy1kaS1zYW5naWhlLWJlbHVtLWNhaXJrYW4tZGFuYS1kZXNh",
         "description": "KEPALA Dinas Pemberdayaan Masyarakat Desa Daerah (PMDD) Kabupaten Sangihe Sulawesi Utara, Frans G. Porawouw mengatakan, sampai saat ini masih ada 27 kampung yang belum mencairkan dana desa yang bersumber&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/502107/kasus-aktif-covid-19-kota-bekasi-tembus-524-orang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDIxMDcva2FzdXMtYWt0aWYtY292aWQtMTkta290YS1iZWthc2ktdGVtYnVzLTUyNC1vcmFuZw==",
-        "description": "PERKEMBANGAN kasus terkonfirmasi positif Covid-19 di Kota Bekasi terus bertambah. Hingga update per 22 Juni 2022, terdapat penambahan kasus konfirmasi baru sebanyak 94 orang, sembuh 86 kasus, sehingga&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/502106/pln-kebut-proyek-kelistrikan-di-kawasan-industri-kalsel",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjEwNi9wbG4ta2VidXQtcHJveWVrLWtlbGlzdHJpa2FuLWRpLWthd2FzYW4taW5kdXN0cmkta2Fsc2Vs",
-        "description": "PT PLN (Persero) mendukung hilirisasi pertambangan tanah air untuk penguatan ekonomi Indonesia. Salah satunya, pengembangan Sebuku Indonesia Industrial Park (SIIP) di Pulau Sebuku, Kabupaten Kotabaru,&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/502105/shin-tae-yong-fokus-perbaiki-fisik-timnas-u-19",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjEwNS9zaGluLXRhZS15b25nLWZva3VzLXBlcmJhaWtpLWZpc2lrLXRpbW5hcy11LTE5",
-        "description": "PELATIH timnas Indonesia Shin Tae-yong bakal fokus memperbaiki fisik para pemain tim U-19 menatap Piala AFF yang akan segera digelar. Menurut Shin Tae-yong, fisik para pemain belum sesuai dengan ekspektasinya&#8230;"
     }
 ]
