@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kasus Covid-19 per 25 Juni, Melandai di Tengah Tren Kenaikan",
+        "link": "https://www.cnbcindonesia.com/news/20220625170218-16-350327/kasus-covid-19-per-25-juni-melandai-di-tengah-tren-kenaikan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNTE3MDIxOC0xNi0zNTAzMjcva2FzdXMtY292aWQtMTktcGVyLTI1LWp1bmktbWVsYW5kYWktZGktdGVuZ2FoLXRyZW4ta2VuYWlrYW4=",
+        "description": " Kasus konfirmasi harian Covid-19 di Tanah Air akhir menurun setelah dalam beberapa hari terakhir berada dalam tren kenaikan."
+    },
+    {
+        "title": "Jakarta Masih Ngeri, Ada Tambahan 1.045 Kasus Harian Covid-19",
+        "link": "https://www.cnbcindonesia.com/news/20220625175556-4-350332/jakarta-masih-ngeri-ada-tambahan-1045-kasus-harian-covid-19",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNTE3NTU1Ni00LTM1MDMzMi9qYWthcnRhLW1hc2loLW5nZXJpLWFkYS10YW1iYWhhbi0xMDQ1LWthc3VzLWhhcmlhbi1jb3ZpZC0xOQ==",
+        "description": " Ibu Kota DKI Jakarta masih menjadi penyumbang terbanyak kasus harian Covid-19 dengan tambahan 1.045 kasus."
+    },
+    {
         "title": "Potret Lokasi Penembakan Massal di Norwegia yang Makan Korban",
         "link": "https://www.cnbcindonesia.com/news/20220625143500-7-350309/potret-lokasi-penembakan-massal-di-norwegia-yang-makan-korban",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNDE1MjIxMy04LTM1MDEwOC90b2wtY2liaXR1bmctY2lsaW5jaW5nLWhhbXBpci1yYW1wdW5nLXByaW9rLWpha3RpbS0zMC1tZW5pdA==",
         "description": " Tol Cibitung-Cilincing Hampir Rampung, Priok-Jaktim Cuma 30 Menit!"
-    },
-    {
-        "title": "Eks Jenderal Rusia Sebut London Bakal Hancur Pertama di PD 3",
-        "link": "https://www.cnbcindonesia.com/news/20220625133640-4-350292/eks-jenderal-rusia-sebut-london-bakal-hancur-pertama-di-pd-3",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNTEzMzY0MC00LTM1MDI5Mi9la3MtamVuZGVyYWwtcnVzaWEtc2VidXQtbG9uZG9uLWJha2FsLWhhbmN1ci1wZXJ0YW1hLWRpLXBkLTM=",
-        "description": " Ketegangan antara Rusia dan negara-negara Barat terus memuncak."
-    },
-    {
-        "title": "Penjelasan Luhut Soal Beli Migor Harus Pakai PeduliLindungi",
-        "link": "https://www.cnbcindonesia.com/news/20220625145559-8-350307/penjelasan-luhut-soal-beli-migor-harus-pakai-pedulilindungi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNTE0NTU1OS04LTM1MDMwNy9wZW5qZWxhc2FuLWx1aHV0LXNvYWwtYmVsaS1taWdvci1oYXJ1cy1wYWthaS1wZWR1bGlsaW5kdW5naQ==",
-        "description": " Penjelasan Luhut Beli Migor Harus Pakai PeduliLindungi"
     }
 ]
