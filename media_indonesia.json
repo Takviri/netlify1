@@ -1,5 +1,12 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/502096/nama-jalan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDIwOTYvbmFtYS1qYWxhbg==",
+        "description": "BELUM lama ini Pemprov DKI Jakarta mengganti sejumlah nama ruas jalan di Ibu Kota dengan 22 nama tokoh Betawi, termasuk dua seniman lenong, Mpok Nori dan Haji Bokir. Jalan Mpok Nori menggantikan nama&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/502108/27-kampung-di-sangihe-belum-cairkan-dana-desa",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDIxMDAvcHJpbWF5YS1ob3NwaXRhbC1iZXJpa2FuLWxheWFuYW4ta2hpdGFuLWdyYXRpcy1kaS1nYW5kYXJpYQ==",
         "description": "KOMITMEN untuk memberikan pelayanan kesehatan secara profesional dipegang teguh oleh Primaya Hospital. Hal itu juga yang mnejadikan kegiatan tanggung jawab sosial (CSR) Primaya Hospital didedikasikan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/502089/hari-pelaut-sedunia-2022-momentum-lahirnya-uu-pelaut",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjA4OS9oYXJpLXBlbGF1dC1zZWR1bmlhLTIwMjItbW9tZW50dW0tbGFoaXJueWEtdXUtcGVsYXV0",
-        "description": "PERINGATAN Hari Pelaut Sedunia atau &lsquo;Day of the Seafarer&rsquo; pada 25 Juni 2022 dapat dijadikan sebagai momentum kebangkitan dunia kepelautan di Indonesia. Terutama setelah dua tahun para pelaut&#8230;"
     }
 ]
