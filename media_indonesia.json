@@ -1,5 +1,26 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/502030/swiatek-berpeluang-lampaui-rekor-venus-williams",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDIwMzAvc3dpYXRlay1iZXJwZWx1YW5nLWxhbXBhdWktcmVrb3ItdmVudXMtd2lsbGlhbXM=",
+        "description": "UNDIAN Wimbledon 2022 rampung dilakukan. Unggulan pertama Iga Swiatek akan melawan petenis kualifikasi Jana Fett (Kroasia) di babak pertama. Swiatek kini dalam tren positif seusai menjuarai&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502029/itagi-kaji-vaksinasi-covid-19-untuk-balita",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMDI5L2l0YWdpLWthamktdmFrc2luYXNpLWNvdmlkLTE5LXVudHVrLWJhbGl0YQ==",
+        "description": "KETUA Indonesian Technical Advisory Group on Immunization (Itagi) Sri Rejeki mengungkapkan bahwa pihaknya masih melakukan pengkajian terkait pemberian vaksinasi covid-19 untuk anak di bawah lima tahun&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502028/prabowo-dinilai-jadi-magnet-tokoh-politik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDIwMjgvcHJhYm93by1kaW5pbGFpLWphZGktbWFnbmV0LXRva29oLXBvbGl0aWs=",
+        "description": "PARTAI Demokrat gencar menyambangi sejumlah partai politik guna membangun peluang koalisi apda Pemilu 2024. Terakhir, Ketua Umum Partai Demokrat Agus Harimurti Yudhoyono (AHY) menyambangi kediaman&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/502027/aktivis-papua-ragu-kasus-ham-berat-paniai-bakal-tuntas",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMDIyL2Jta2ctc2VsYXRhbi1qYWthcnRhLWJlcnBvdGVuc2ktZGlndW5jYW5nLWdlbXBhLXNpZ25pZmlrYW4=",
         "description": "WILAYAH selatan Jakarta berpotensi diguncang gempa besar. Hal itu disebabkan karena adanya Sesar Barbis yang melintas di wilayah selatan Jakarta yang kini masih aktif. &quot;Jalur sesar tersebut&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502021/pengamat-peluang-laksamana-yudo-jadi-panglima-tni-masih-terbuka",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDIwMjEvcGVuZ2FtYXQtcGVsdWFuZy1sYWtzYW1hbmEteXVkby1qYWRpLXBhbmdsaW1hLXRuaS1tYXNpaC10ZXJidWth",
-        "description": "PENGAMAT militer dan pertahanan dari Institute for Security and Strategic Studies (ISESS), Khairul Fahmi, mengatakan selama belum memasuki masa pensiun peluang Laksamana Yudo Margono untuk menjadi&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/502016/mu-dan-brentford-terdepan-untuk-dapatkan-eriksen",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjAxNi9tdS1kYW4tYnJlbnRmb3JkLXRlcmRlcGFuLXVudHVrLWRhcGF0a2FuLWVyaWtzZW4=",
-        "description": "DUA klub Liga Primer Inggris, Manchester United dan Brentford, menjadi yang terdepan untuk mendapatkan jasa gelandang Christian&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/502014/instagram-uji-fitur-verifikasi-usia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTAyMDE0L2luc3RhZ3JhbS11amktZml0dXItdmVyaWZpa2FzaS11c2lh",
-        "description": "INSTAGRAM mengumumkan sedang menguji fitur baru untuk verifikasi usia pengguna, mulai dari pengguna di Amerika Serikat (AS).&#8230;"
     }
 ]
