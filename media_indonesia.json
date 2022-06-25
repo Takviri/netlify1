@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/501982/spurs-ingin-pinjam-clement-lenglet-dari-barcelona",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk4Mi9zcHVycy1pbmdpbi1waW5qYW0tY2xlbWVudC1sZW5nbGV0LWRhcmktYmFyY2Vsb25h",
+        "description": "KLUB Liga Primer Inggris Tottenham Hotspur dikabarkan tertarik meminjam bek tengah Clement Lenglet dari klub La Liga Barcelona&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/501988/jotun-indonesia-benamkan-rp742-miliar-untuk-bangun-pabrik-baru",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMTk4OC9qb3R1bi1pbmRvbmVzaWEtYmVuYW1rYW4tcnA3NDItbWlsaWFyLXVudHVrLWJhbmd1bi1wYWJyaWstYmFydQ==",
+        "description": "PT Jotun Indonesia melakukan ekspansi dengan menambah pembangunan pabrik baru untuk waterbase/cat berbahan dasar air dan memperluas kapasitas gudang utama pada tahun ini. Dengan pabrik baru tersebut,&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/501979/ioh-luncurkan-program-sampah-jadi-pulsa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxOTc5L2lvaC1sdW5jdXJrYW4tcHJvZ3JhbS1zYW1wYWgtamFkaS1wdWxzYQ==",
+        "description": "INDOSAT Ooredoo Hutchison (IOH) berkolaborasi dengan Pemerintah Kota Bogor, Dinas Lingkungan Hidup Kota Bogor, dan Mall BTM Bogor,&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/501978/ampm-berkolaborasi-dengan-nathan-hartono-di-tokyo-on-my-mind",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAxOTgxLzQ5MS1qYW1hYWgtY2Fsb24taGFqaS1hc2FsLXByb3ZpbnNpLW1hbHV0LWRpYmVyYW5na2F0a2FuLWtlLWVtYmVya2FzaS1tYWthc2Fy",
         "description": "SEBANYAK 491 Jamaah Calon Haji asal Provinsi Maluku Utara akan diberangkatkan ke Embarkasi Makasar, melalui Bandara Sultan Baabullah,&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/501980/puncak-hut-jakarta-rekayasa-lalin-diterapkan-di-sekitar-jis",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDE5ODAvcHVuY2FrLWh1dC1qYWthcnRhLXJla2F5YXNhLWxhbGluLWRpdGVyYXBrYW4tZGktc2VraXRhci1qaXM=",
-        "description": "PEMERINTAH Provinsi (Pemprov) DKI Jakarta akan melakukan rekayasa lalu lintas (lalin) di sekitar Jakarta International Stadium&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/501975/pbb-sebut-keputusan-ma-as-yang-hapus-hak-aborsi-pukulan-bagi-ham",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMTk3NS9wYmItc2VidXQta2VwdXR1c2FuLW1hLWFzLXlhbmctaGFwdXMtaGFrLWFib3JzaS1wdWt1bGFuLWJhZ2ktaGFt",
-        "description": "KEPUTUSAN Mahkamah Agung Amerika Serikat (AS) yang mengakhiri hak untuk melakukan aborsi, Jumat (24/6), adalah pukulan telak bagi&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/501956/pengabdian-tite-untuk-brasil",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMTk1Ni9wZW5nYWJkaWFuLXRpdGUtdW50dWstYnJhc2ls",
-        "description": "DENGAN rekor 75% menang sepanjang penyisihan Piala Dunia 2022 zona Amerika Latin, Tite pantas menjadi incaran banyak klub-klub besar Eropa. Real Madrid, Paris Saint Germain, dan Sporting Lisbon merupakan&#8230;"
     }
 ]
