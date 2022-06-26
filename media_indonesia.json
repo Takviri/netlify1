@@ -1,6 +1,20 @@
 [
     {
         "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502125/ntt-dorong-pariwisata-sebagai-motor-pembangunan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMTI1L250dC1kb3JvbmctcGFyaXdpc2F0YS1zZWJhZ2FpLW1vdG9yLXBlbWJhbmd1bmFu",
+        "description": "Plt Sekretaris Daerah Nusa Tenggara Timur (NTT) Yonana Lisapali menyampaikan pemerintah daerah NTT terus menonjolkan ragam kebudayan adat dan wisata alam untuk meningkatkan pariwisata daerah. &quot;Saat&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/502130/pan-dki-izin-holywings-perlu-dievaluasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDIxMzAvcGFuLWRraS1pemluLWhvbHl3aW5ncy1wZXJsdS1kaWV2YWx1YXNp",
+        "description": "Bendahara Fraksi PAN DPRD DKI Jakarta, Farazandi Fidinansyah sangat menyangkan minuman alkohol gratis bagi orang bernama Muhammad dan Maria yang dilakukan oleh Holywings. Menurutnya ini merupakan&#8230;"
+    },
+    {
+        "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/502129/tingkatkan-literasi-mcdonalds-indonesia-berikan-beasiswa-pelatihan-untuk-1200-guru-sd",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMTI5L3RpbmdrYXRrYW4tbGl0ZXJhc2ktbWNkb25hbGRzLWluZG9uZXNpYS1iZXJpa2FuLWJlYXNpc3dhLXBlbGF0aWhhbi11bnR1ay0xMjAwLWd1cnUtc2Q=",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMTI3L2hhc2lsLWxhYi1iYnZldGVyaW5lci1tYXJvcy1wYXN0aWthbi1rZW1hdGlhbi1zYXBpLWRpLXN1bHNlbC1uZWdhdGlmLWFudHJha3M=",
         "description": "Kepala Balai Besar Veteriner (BBVet) Maros, Kementerian Pertanian (Kementan) Risman Mangidi memastikan satu ekor sapi yang mati di Desa Marumpa Kecamatan Marusu, Kabupaten Maros, Provinsi Sulawesi&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/502121/tidak-dapat-izin-di-us-open-djokovic-justru-termotivasi-di-wimbledon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDIxMjEvdGlkYWstZGFwYXQtaXppbi1kaS11cy1vcGVuLWRqb2tvdmljLWp1c3RydS10ZXJtb3RpdmFzaS1kaS13aW1ibGVkb24=",
-        "description": "Novak Djokovic semakin termotivasi meraih gelar keempatnya di Wimbledon mengingat ajang tersebut diperkirakan akan menjadi penampilan Grand Slam terakhirnya pada tahun ini hingga French Open tahun&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/502122/bmkg-waspada-gelombang-sangat-tinggi-hingga-6-meter-di-sejumlah-perairan-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMTIyL2Jta2ctd2FzcGFkYS1nZWxvbWJhbmctc2FuZ2F0LXRpbmdnaS1oaW5nZ2EtNi1tZXRlci1kaS1zZWp1bWxhaC1wZXJhaXJhbi1pbmRvbmVzaWE=",
-        "description": "BADAN Meteorologi, Klimatologi, dan Geofisika (BMKG) mengeluarkan peringatan dini gelombang tinggi yang berpotensi terjadi di beberapa wilayah perairan pada 26 - 27 Juni 2022. Pola angin di&#8230;"
     }
 ]
