@@ -1,10 +1,24 @@
 [
     {
+        "title": "Deretan Kapal China yang (Katanya) Bikin Nyali AS Ciut",
+        "link": "https://www.cnbcindonesia.com/news/20220626181122-4-350494/deretan-kapal-china-yang--katanya--bikin-nyali-as-ciut",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNjE4MTEyMi00LTM1MDQ5NC9kZXJldGFuLWthcGFsLWNoaW5hLXlhbmctLWthdGFueWEtLWJpa2luLW55YWxpLWFzLWNpdXQ=",
+        "description": " China baru-baru ini resmi meluncurkan kapal induk terbarunya yang diberi nama CV18 'Fujian'. Kapal induk tipe 003 ini disebut mirip kapal induk milik\u00c2\u00a0AS"
+    },
+    {
         "title": "Ini Provinsi dengan Kasus Covid-19 Terbanyak, Perlu Waspada?",
         "link": "https://www.cnbcindonesia.com/news/20220626160807-4-350477/ini-provinsi-dengan-kasus-covid-19-terbanyak-perlu-waspada",
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNjE2MDgwNy00LTM1MDQ3Ny9pbmktcHJvdmluc2ktZGVuZ2FuLWthc3VzLWNvdmlkLTE5LXRlcmJhbnlhay1wZXJsdS13YXNwYWRh",
         "description": " Kewaspadaan akan protokol kesehatan patut untuk dijaga menyusul masih adanya peningkatan kasus di 10 provinsi di Indonesia."
+    },
+    {
+        "title": "Sebelum Sampai ke Konsumen, Ayam Goreng KFC Lewati Proses Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220626203218-4-350501/sebelum-sampai-ke-konsumen-ayam-goreng-kfc-lewati-proses-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNjIwMzIxOC00LTM1MDUwMS9zZWJlbHVtLXNhbXBhaS1rZS1rb25zdW1lbi1heWFtLWdvcmVuZy1rZmMtbGV3YXRpLXByb3Nlcy1pbmk=",
+        "description": " Quality Assurance System KFC mulai dari pemasok, gudang penyimpanan, transportasi hingga gerai KFC secara menyeluruh dan dengan saksama."
     },
     {
         "title": "DKI Jakarta Jadi Penyumbang Positivity Rate Tertinggi di RI",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNjE1MjA0NC00LTM1MDQ3MC9hbGVydC1hZGEta2VuYWlrYW4tanVtbGFoLXBhc2llbi1jb3ZpZC15YW5nLWRpcmF3YXQtZGktcnM=",
         "description": " Kementerian Kesehatan mencatat ada kenaikan jumlah pasien Covid-19 yang dirawat selama satu minggu terakhir"
-    },
-    {
-        "title": "Pertemuan G7 Kali Ini Dibayangi Perang Rusia-Ukraina",
-        "link": "https://www.cnbcindonesia.com/news/20220626154207-4-350471/pertemuan-g7-kali-ini-dibayangi-perang-rusia-ukraina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNjE1NDIwNy00LTM1MDQ3MS9wZXJ0ZW11YW4tZzcta2FsaS1pbmktZGliYXlhbmdpLXBlcmFuZy1ydXNpYS11a3JhaW5h",
-        "description": " pertemuan tujuh pemimpin negara itu dibayangi perang Rusia dan Ukraina dengan dampak yang luas"
-    },
-    {
-        "title": "Dihapus Jokowi, Ratusan Ribu Honorer Terancam 'Nganggur'",
-        "link": "https://www.cnbcindonesia.com/news/20220626143142-4-350457/dihapus-jokowi-ratusan-ribu-honorer-terancam-nganggur",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNjE0MzE0Mi00LTM1MDQ1Ny9kaWhhcHVzLWpva293aS1yYXR1c2FuLXJpYnUtaG9ub3Jlci10ZXJhbmNhbS1uZ2FuZ2d1cg==",
-        "description": " Tahun depan tenaga honorer direncanakan akan dihapus. Jika hal tersebut terjadi maka akan ada ratusan ribu orang yang terdampak"
     }
 ]
