@@ -1,5 +1,19 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502114/emirates-memulai-kembali-penerbangan-ke-bali",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjExNC9lbWlyYXRlcy1tZW11bGFpLWtlbWJhbGktcGVuZXJiYW5nYW4ta2UtYmFsaQ==",
+        "description": "Emirates akhirnya menghadirkan kembali penerbangan harian ke Bali seperti saat sebelum pandemi Covid-19 setelah sebelumnya menguji coba pengoperasian dengan jadwal lima kali dalam satu minggu.&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502123/pendidikan-dalam-keluarga-faktor-utama-pencegahan-anak-pada-narkotika",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMTIzL3BlbmRpZGlrYW4tZGFsYW0ta2VsdWFyZ2EtZmFrdG9yLXV0YW1hLXBlbmNlZ2FoYW4tYW5hay1wYWRhLW5hcmtvdGlrYQ==",
+        "description": "DALAM upaya mencegah terjadinya paparan narkotika di terhadap anak ada banyak faktor yang mendukung. Namun yang paling utama adalah pendidikan dalam keluarga dan komunikasi menjadi hal yang paling&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/502124/antony-semakin-kuat-merapat-ke-manchester-united",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDIxMTYvcGV0ZW5pcy1rcm9hc2lhLWJvcm5hLWNvcmljLW11bmR1ci1kYXJpLXdpbWJsZWRvbg==",
         "description": "Petenis Kroasia Borna Coric mengundurkan diri dari Wimbledon karena cedera bahu, kata panitia penyelenggara turnamen Grand Slam lapangan rumput ini seperti dikutip Reuters, Sabtu. Petenis berusia&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/502115/usai-pulihkan-diri-serena-williams-siap-kembali-ke-wimbledon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDIxMTUvdXNhaS1wdWxpaGthbi1kaXJpLXNlcmVuYS13aWxsaWFtcy1zaWFwLWtlbWJhbGkta2Utd2ltYmxlZG9u",
-        "description": "Tidak mudah bagi Serena Williams untuk kembali ke Wimbledon karena dia mengaku membutuhkan waktu untuk memulihkan diri, baik fisik maupun mental, selama setahun rehat dari turnamen akibat cedera.&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502118/bos-indosurya-dibebaskan-kejagung-berkas-tersangka-belum-lengkap",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDIxMTgvYm9zLWluZG9zdXJ5YS1kaWJlYmFza2FuLWtlamFndW5nLWJlcmthcy10ZXJzYW5na2EtYmVsdW0tbGVuZ2thcA==",
-        "description": "KEPALA Pusat Penerangan Hukum Ketut Sumedana membeberkan alasan bos Indosurya dibebaskan dari Bareskrim Polri. &quot;Sebagaimana diatur dalam Pasal 110 Ayat 2 KUHAP, Penuntut Umum berpendapat&#8230;"
     }
 ]
