@@ -1,5 +1,26 @@
 [
     {
+        "title": "Menkes: Positivity Rate dan Pasien Covid-19 Dirawat Alami Kenaikan",
+        "link": "https://www.cnnindonesia.com/nasional/20220626144653-20-813678/menkes-positivity-rate-dan-pasien-covid-19-dirawat-alami-kenaikan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyNjE0NDY1My0yMC04MTM2NzgvbWVua2VzLXBvc2l0aXZpdHktcmF0ZS1kYW4tcGFzaWVuLWNvdmlkLTE5LWRpcmF3YXQtYWxhbWkta2VuYWlrYW4=",
+        "description": " Sejumlah indikator penanganan Covid-19 tercatat mengalami kenaikan, di antaranya persentase kasus positif dan pasien yang dirawat."
+    },
+    {
+        "title": "Ma'ruf Amin Pimpin Sementara Pemerintahan Selama Jokowi di Luar Negeri",
+        "link": "https://www.cnnindonesia.com/nasional/20220626144327-32-813676/maruf-amin-pimpin-sementara-pemerintahan-selama-jokowi-di-luar-negeri",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyNjE0NDMyNy0zMi04MTM2NzYvbWFydWYtYW1pbi1waW1waW4tc2VtZW50YXJhLXBlbWVyaW50YWhhbi1zZWxhbWEtam9rb3dpLWRpLWx1YXItbmVnZXJp",
+        "description": " Wakil Presiden (Wapres) Ma'ruf Amin akan memimpin sementara pemerintahan selama Presiden Joko Widodo melakukan sejumlah kunjungan kerja ke luar negeri."
+    },
+    {
+        "title": "Sekjen Gerindra Sindir Pemimpin Lupa Orang yang Membesarkan",
+        "link": "https://www.cnnindonesia.com/nasional/20220626130808-32-813653/sekjen-gerindra-sindir-pemimpin-lupa-orang-yang-membesarkan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyNjEzMDgwOC0zMi04MTM2NTMvc2VramVuLWdlcmluZHJhLXNpbmRpci1wZW1pbXBpbi1sdXBhLW9yYW5nLXlhbmctbWVtYmVzYXJrYW4=",
+        "description": " Sekretaris Jenderal Partai Gerindra Ahmad Muzani menyindir sosok pemimpin yang lupa terhadap orang yang membesarkan."
+    },
+    {
         "title": "KMP Nusa Dua Mati Mesin di Perairan Gilimanuk, 160 Orang Dievakuasi",
         "link": "https://www.cnnindonesia.com/nasional/20220626135132-20-813669/kmp-nusa-dua-mati-mesin-di-perairan-gilimanuk-160-orang-dievakuasi",
         "image": "static/images/cnn_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyNjEyMDQzNy0xMi04MTM2MTEvNi1zYWtzaS1kaXBlcmlrc2EtZGkta2FzdXMtYW5hay0xMi10YWh1bi1kaWR1Z2EtY3VyaS1ocC10ZXdhcy1kaWFuaWF5YQ==",
         "description": " Seorang bocah berusia 12 tahun tewas dianiaya karena diduga mencuri HP di atas kapal menuju Pelabuhan Makassar."
-    },
-    {
-        "title": "Diduga Bikin Konten Pornografi, Youtuber Ditangkap di Bali",
-        "link": "https://www.cnnindonesia.com/nasional/20220626114722-12-813606/diduga-bikin-konten-pornografi-youtuber-ditangkap-di-bali",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyNjExNDcyMi0xMi04MTM2MDYvZGlkdWdhLWJpa2luLWtvbnRlbi1wb3Jub2dyYWZpLXlvdXR1YmVyLWRpdGFuZ2thcC1kaS1iYWxp",
-        "description": " Seorang Youtuber berinisial RMH dan dua rekannya berinisial R dan E ditangkap polisi di Bali karena diduga membuat konten pornografi."
-    },
-    {
-        "title": "Kolong Kota: Bertahan, Jakarta",
-        "link": "https://www.cnnindonesia.com/nasional/20220626111115-506-813602/kolong-kota-bertahan-jakarta",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyNjExMTExNS01MDYtODEzNjAyL2tvbG9uZy1rb3RhLWJlcnRhaGFuLWpha2FydGE=",
-        "description": " Fotografer CNN Indonesia Adhi Wicaksono memotret perjuangan warga ibu kota yang masih bertahan di tengah ramalan Jakarta tenggelam."
-    },
-    {
-        "title": "FOTO: Riuh Semarak Malam Puncak Jakarta Hajatan ke-495",
-        "link": "https://www.cnnindonesia.com/nasional/20220626100159-22-813587/foto-riuh-semarak-malam-puncak-jakarta-hajatan-ke-495",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyNjEwMDE1OS0yMi04MTM1ODcvZm90by1yaXVoLXNlbWFyYWstbWFsYW0tcHVuY2FrLWpha2FydGEtaGFqYXRhbi1rZS00OTU=",
-        "description": " Malam puncak Jakarta Hajatan ke-495 telah digelar di Jakarta International Stadium (JIS), Sabtu (25/6) malam. Acara dimeriahkan oleh sejumlah musisi tanah air."
     }
 ]
