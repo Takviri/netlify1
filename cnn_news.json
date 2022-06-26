@@ -1,5 +1,12 @@
 [
     {
+        "title": "Permukiman Padat Penduduk di Kemayoran Terbakar",
+        "link": "https://www.cnnindonesia.com/nasional/20220626201103-20-813740/permukiman-padat-penduduk-di-kemayoran-terbakar",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyNjIwMTEwMy0yMC04MTM3NDAvcGVybXVraW1hbi1wYWRhdC1wZW5kdWR1ay1kaS1rZW1heW9yYW4tdGVyYmFrYXI=",
+        "description": " Permukiman padat penduduk di Jl. Cempaka Sari 5, 001/009, Kelurahan Harapan Mulya, Kecamatan Kemayoran, Jakarta Pusat, terbakar, Minggu (26/6)."
+    },
+    {
         "title": "Gunung Merapi Luncurkan 70 Kali Guguran Lava Selama Sepekan",
         "link": "https://www.cnnindonesia.com/nasional/20220626193526-20-813734/gunung-merapi-luncurkan-70-kali-guguran-lava-selama-sepekan",
         "image": "static/images/cnn_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyNjE2MjUwMC0yMC04MTM2OTkvYnVzLXBlbmdhbmdrdXQtcm9tYm9uZ2FuLWNhbG9uLWhhamkta2VjZWxha2Fhbi1kaS1qYW1iaQ==",
         "description": " Bus pengangkut rombongan jamaah calon haji asal Kabupaten Merangin, Jambi mengalami kecelakaan di Kecamatan Batin XXIV."
-    },
-    {
-        "title": "Ibu Gelar Aksi di CFD Minta Pemerintah Legalisasi Ganja Medis",
-        "link": "https://www.cnnindonesia.com/nasional/20220626161337-12-813698/ibu-gelar-aksi-di-cfd-minta-pemerintah-legalisasi-ganja-medis",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyNjE2MTMzNy0xMi04MTM2OTgvaWJ1LWdlbGFyLWFrc2ktZGktY2ZkLW1pbnRhLXBlbWVyaW50YWgtbGVnYWxpc2FzaS1nYW5qYS1tZWRpcw==",
-        "description": " Santi, seorang ibu asal Sleman, meminta pemerintah segera melegalisasi ganja untuk kebutuhan medis. Anaknya mengalami kelainan otak."
     }
 ]
