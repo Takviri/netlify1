@@ -1,5 +1,12 @@
 [
     {
+        "title": "Lagi-lagi Jakarta Sumbang Kasus Covid Terbanyak, 1.055 Kasus",
+        "link": "https://www.cnbcindonesia.com/news/20220626160057-4-350474/lagi-lagi-jakarta-sumbang-kasus-covid-terbanyak-1055-kasus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNjE2MDA1Ny00LTM1MDQ3NC9sYWdpLWxhZ2ktamFrYXJ0YS1zdW1iYW5nLWthc3VzLWNvdmlkLXRlcmJhbnlhay0xMDU1LWthc3Vz",
+        "description": " DKI Jakarta menyumbang kasus harian Covid-19 terbanyak secara nasional. Menurut data Kemenkes, terdapat tambahan 1.055 kasus pada hari Minggu (26/6/2022)"
+    },
+    {
         "title": "Kasus Covid di RI Hari Ini Melandai, Tapi Masih 1.700-an",
         "link": "https://www.cnbcindonesia.com/news/20220626155140-4-350473/kasus-covid-di-ri-hari-ini-melandai-tapi-masih-1700-an",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNjEyMjgzNC00LTM1MDQzNi9kaWFtLWRpYW0tdWtyYWluYS1yYWNpay1zdHJhdGVnaS1nZW1wdXItcGFzdWthbi1ydXNpYQ==",
         "description": " Ukraina disebut-sebut memiliki strategi khusus setelah sebelumnya menarik diri karena kalah dari persenjataan"
-    },
-    {
-        "title": "Jokowi Bertolak ke Jerman, Naik Garuda Indonesia",
-        "link": "https://www.cnbcindonesia.com/news/20220626121840-7-350428/jokowi-bertolak-ke-jerman-naik-garuda-indonesia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNjEyMTg0MC03LTM1MDQyOC9qb2tvd2ktYmVydG9sYWsta2UtamVybWFuLW5haWstZ2FydWRhLWluZG9uZXNpYQ==",
-        "description": " Jokowi akan menempuh penerbangan selama kurang lebih 13,5 jam dan diperkirakan tiba di Munich International Airport pukul 19.00 WS"
     }
 ]
