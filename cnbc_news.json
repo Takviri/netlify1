@@ -1,5 +1,12 @@
 [
     {
+        "title": "Tetap Waspada! Kasus Covid di RI Bertambah 1.726 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220626160312-16-350476/tetap-waspada-kasus-covid-di-ri-bertambah-1726-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNjE2MDMxMi0xNi0zNTA0NzYvdGV0YXAtd2FzcGFkYS1rYXN1cy1jb3ZpZC1kaS1yaS1iZXJ0YW1iYWgtMTcyNi1oYXJpLWluaQ==",
+        "description": " Hari ini, Minggu (26/6), Satuan Tugas Penanganan Covid-19 mencatat ada tambahan kasus terkonfirmasi sebanyak 1.726"
+    },
+    {
         "title": "Alert! Ada Kenaikan Jumlah Pasien Covid yang Dirawat di RS",
         "link": "https://www.cnbcindonesia.com/news/20220626152044-4-350470/alert-ada-kenaikan-jumlah-pasien-covid-yang-dirawat-di-rs",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNjEzNTQxNC00LTM1MDQ0Ny9tZWxpaGF0LWxhZ2ktcGVuZ2FtYW5hbi1qb2tvd2ktc2VsYW1hLWRpLXVrcmFpbmEtcnVzaWE=",
         "description": " Jokowi memastikan akan bertolak ke kedua negara tersebut pasca menghadiri KTT G7 di Jerman"
-    },
-    {
-        "title": "Kirim Roket ke Ukraina, Rusia: AS Memancing Perang Dunia 3",
-        "link": "https://www.cnbcindonesia.com/news/20220626131233-4-350441/kirim-roket-ke-ukraina-rusia-as-memancing-perang-dunia-3",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNjEzMTIzMy00LTM1MDQ0MS9raXJpbS1yb2tldC1rZS11a3JhaW5hLXJ1c2lhLWFzLW1lbWFuY2luZy1wZXJhbmctZHVuaWEtMw==",
-        "description": " AS dan negara barat lainnya dituding menjadi biang keladi operasi militer Rusia ke Ukraina"
     }
 ]
