@@ -1,5 +1,26 @@
 [
     {
+        "title": "Cek! Saham Tercuan dan Terboncos Jumat Lalu, Punya Anda?",
+        "link": "https://www.cnbcindonesia.com/market/20220627000415-17-350504/cek-saham-tercuan-dan-terboncos-jumat-lalu-punya-anda",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MDAwNDE1LTE3LTM1MDUwNC9jZWstc2FoYW0tdGVyY3Vhbi1kYW4tdGVyYm9uY29zLWp1bWF0LWxhbHUtcHVueWEtYW5kYQ==",
+        "description": " Di tengah cerahnya IHSG pada akhir pekan lalu, beberapa saham menjadi top gainers"
+    },
+    {
+        "title": "Yuk Bisa Yuk! Permisi, IHSG Mau Uji Level 7.100 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/market/20220627014458-17-350512/yuk-bisa-yuk-permisi-ihsg-mau-uji-level-7100-hari-ini",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MDE0NDU4LTE3LTM1MDUxMi95dWstYmlzYS15dWstcGVybWlzaS1paHNnLW1hdS11amktbGV2ZWwtNzEwMC1oYXJpLWluaQ==",
+        "description": " Ke mana arah IHSG hari ini?"
+    },
+    {
+        "title": "Pekan Lalu IHSG Cerah, Pekan Ini Pasti \"To The Moon\"?",
+        "link": "https://www.cnbcindonesia.com/market/20220627054113-17-350513/pekan-lalu-ihsg-cerah-pekan-ini-pasti-to-the-moon",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MDU0MTEzLTE3LTM1MDUxMy9wZWthbi1sYWx1LWloc2ctY2VyYWgtcGVrYW4taW5pLXBhc3RpLXRvLXRoZS1tb29u",
+        "description": " Pasar keuangan dalam negeri pada pekan lalu secara mayoritas mencatatkan kinerja positifnya. Bagaimana pekan ini?"
+    },
+    {
         "title": "Gak Bisa Bayar Utang, Rusia Dikit Lagi Default?",
         "link": "https://www.cnbcindonesia.com/market/20220626201833-17-350500/gak-bisa-bayar-utang-rusia-dikit-lagi-default",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI2MTM1OTE0LTE3LTM1MDQ0OC90aGUtZmVkLWtpYW4tbmVrYXQtaGFyZ2EtbWlueWFrLW1lbnRhaC1wdW4tamFkaS1rb3JiYW4=",
         "description": " Berbeda dari harga batu bara yang melonjak sepekan ini, harga minyak mentah dunia justru cenderung tertekan"
-    },
-    {
-        "title": "Dear Investor, Simak Jadwal Dividen Bank Panin Rp 20/Saham",
-        "link": "https://www.cnbcindonesia.com/market/20220626132334-17-350443/dear-investor-simak-jadwal-dividen-bank-panin-rp-20-saham",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI2MTMyMzM0LTE3LTM1MDQ0My9kZWFyLWludmVzdG9yLXNpbWFrLWphZHdhbC1kaXZpZGVuLWJhbmstcGFuaW4tcnAtMjAtc2FoYW0=",
-        "description": " Simak jadwal pembagian dividen PNBN sebagai berikut:"
-    },
-    {
-        "title": "Sempat Dekati Level US$ 400/ton, Harga Batu Bara Naik 7,9%",
-        "link": "https://www.cnbcindonesia.com/market/20220626133434-17-350444/sempat-dekati-level-us--400-ton-harga-batu-bara-naik-79",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI2MTMzNDM0LTE3LTM1MDQ0NC9zZW1wYXQtZGVrYXRpLWxldmVsLXVzLS00MDAtdG9uLWhhcmdhLWJhdHUtYmFyYS1uYWlrLTc5",
-        "description": " Harga batu bara termal Newcastle sepekan ini terus melaju setelah sempat mendekati level psikologis US$ 400/ton"
-    },
-    {
-        "title": "Ancaman Krisis Global,RI Perlu Benahi Subsidi Energi dan Pangan",
-        "link": "https://www.cnbcindonesia.com/market/20220624100449-19-349937/ancaman-krisis-globalri-perlu-benahi-subsidi-energi-pangan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI0MTAwNDQ5LTE5LTM0OTkzNy9hbmNhbWFuLWtyaXNpcy1nbG9iYWxyaS1wZXJsdS1iZW5haGktc3Vic2lkaS1lbmVyZ2ktcGFuZ2Fu",
-        "description": " Hadang Krisis Global, RI Harus Benahi Subsidi Energi dan Pangan"
     }
 ]

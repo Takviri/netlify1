@@ -1,6 +1,20 @@
 [
     {
         "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/502238/presiden-jokowi-tiba-di-munich",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjIzOC9wcmVzaWRlbi1qb2tvd2ktdGliYS1kaS1tdW5pY2g=",
+        "description": "SETELAH menempuh penerbangan selama kurang lebih 13 jam, pesawat Garuda Indonesia dengan kode penerbangan GIA-1 yang membawa Presiden Joko Widodo dan Ibu Negara Iriana Joko Widodo beserta rombongan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502236/dukung-umkm-mataram-sandiaga-sarankan-program-bedakan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjIzNi9kdWt1bmctdW1rbS1tYXRhcmFtLXNhbmRpYWdhLXNhcmFua2FuLXByb2dyYW0tYmVkYWthbg==",
+        "description": "MENTERI Pariwisata dan Ekonomi Kreatif (Menparekraf) Sandiaga Uno bersama Yayasan Indonesia Setara (YSI) yang berkolaborasi dengan PT Kokikit Akademi Indonesia dan Bhinneka menggelar pelatihan Cooking&#8230;"
+    },
+    {
+        "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/502235/hari-ini-siswa-sd-dan-smp-di-beijing-mulai-sekolah-tatap-muka",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjIzNS9oYXJpLWluaS1zaXN3YS1zZC1kYW4tc21wLWRpLWJlaWppbmctbXVsYWktc2Vrb2xhaC10YXRhcC1tdWth",
@@ -42,31 +56,17 @@
         "description": "TEORI ekonomi tentang boom and bust cycle, yang kita pelajari pada saat mengikuti kuliah ilmu ekonomi, ternyata mulai terlihat lagi saat ini. Ekonomi global telah mengalami fase pertumbuhan&#8230;"
     },
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/502237/dukungan-kian-kuat-lampung-jadi-pusat-gardu-ganjar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMjM3L2R1a3VuZ2FuLWtpYW4ta3VhdC1sYW1wdW5nLWphZGktcHVzYXQtZ2FyZHUtZ2FuamFy",
+        "description": "SEJAK pagi hari, ribuan warga mulai datang memadati Lapangan Pekon Totokarto Adiluwih, Kabupaten Pringsewu, Provinsi Lampung. Kedatangan tersebut dimaksud untuk mengukuhkan dukungan masyarakat terhadap&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/502231/madrid-siap-lego-asensio-dan-ceballos-demi-dana-segar",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDIyMzEvbWFkcmlkLXNpYXAtbGVnby1hc2Vuc2lvLWRhbi1jZWJhbGxvcy1kZW1pLWRhbmEtc2VnYXI=",
         "description": "REAL Madrid dikabarkan akan melepas dua pemainnya Marco Asensio dan Dani Ceballos pada bursa transfer pemain musim panas ini. Baik Asensio dan Ceballos kontraknya akan habis pada Juni 2023.&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/502230/taylor-swift-rilis-singel-terbaru-diangkat-dari-kisah-novel",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMjIzMC90YXlsb3Itc3dpZnQtcmlsaXMtc2luZ2VsLXRlcmJhcnUtZGlhbmdrYXQtZGFyaS1raXNhaC1ub3ZlbA==",
-        "description": "PENYANYI Taylor Swift merilis lagu terbarunya yang berjudul 'Carolina' yang diangkat dari kisah novel karya Delia Owens. &quot;Sekitar satu setengah tahun yang lalu, saya menulis lagu&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/502229/mxgp-beri-dampak-positif-bagi-umkm-sumbawa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMjI5L214Z3AtYmVyaS1kYW1wYWstcG9zaXRpZi1iYWdpLXVta20tc3VtYmF3YQ==",
-        "description": "AJANG MXGP di Sumbawa, Nusa Tenggara Barat (NTB) memberikan angin segar bagi UMKM. Sekitar 200 UMKM yang berjejer di area pintu masuk Kawasan Sirkuit Samota menawarkan berbagai produk makanan dan minuman&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/502225/baru-4-hari-rilis-di-korea-top-gun-maverick-capai-1-juta-penonton",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMjIyNS9iYXJ1LTQtaGFyaS1yaWxpcy1kaS1rb3JlYS10b3AtZ3VuLW1hdmVyaWNrLWNhcGFpLTEtanV0YS1wZW5vbnRvbg==",
-        "description": "FILM terbaru Tom Cruise 'Top Gun: Maverick' sukses menarik lebih dari 1 juta penonton dalam empat hari sejak dirilis di Korea. Menurut penjualan tiket yang dikumpulkan oleh Dewan Film&#8230;"
     }
 ]
