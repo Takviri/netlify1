@@ -1,6 +1,20 @@
 [
     {
         "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/502121/tidak-dapat-izin-di-us-open-djokovic-justru-termotivasi-di-wimbledon",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDIxMjEvdGlkYWstZGFwYXQtaXppbi1kaS11cy1vcGVuLWRqb2tvdmljLWp1c3RydS10ZXJtb3RpdmFzaS1kaS13aW1ibGVkb24=",
+        "description": "Novak Djokovic semakin termotivasi meraih gelar keempatnya di Wimbledon mengingat ajang tersebut diperkirakan akan menjadi penampilan Grand Slam terakhirnya pada tahun ini hingga French Open tahun&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502122/bmkg-waspada-gelombang-sangat-tinggi-hingga-6-meter-di-sejumlah-perairan-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMTIyL2Jta2ctd2FzcGFkYS1nZWxvbWJhbmctc2FuZ2F0LXRpbmdnaS1oaW5nZ2EtNi1tZXRlci1kaS1zZWp1bWxhaC1wZXJhaXJhbi1pbmRvbmVzaWE=",
+        "description": "BADAN Meteorologi, Klimatologi, dan Geofisika (BMKG) mengeluarkan peringatan dini gelombang tinggi yang berpotensi terjadi di beberapa wilayah perairan pada 26 - 27 Juni 2022. Pola angin di&#8230;"
+    },
+    {
+        "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/502116/petenis-kroasia-borna-coric-mundur-dari-wimbledon",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDIxMTYvcGV0ZW5pcy1rcm9hc2lhLWJvcm5hLWNvcmljLW11bmR1ci1kYXJpLXdpbWJsZWRvbg==",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDIxMTIvdHNpdHNpcGFzLXNlYnV0LWtlbWVuYW5nYW4tZGktbWFsbG9yY2EtdG9uZ2dhay1wZW50aW5nLWthcmllcm55YQ==",
         "description": "Stefanos Tsitsipas menyebut kemenangannya dalam final Mallorca Championship pada Sabtu kemarin adalah tonggak penting dalam kariernya ketika petenis Yunani itu merebut gelar lapangan rumput perdananya&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/502091/jon-bodo-debat-di-tv",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMjA5MS9qb24tYm9kby1kZWJhdC1kaS10dg==",
-        "description": "WAH seru nih nonton acara debat"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/502090/bung-sentil-jurus-boros",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMjA5MC9idW5nLXNlbnRpbC1qdXJ1cy1ib3Jvcw==",
-        "description": "WUAAAH, di Kebumen bupatinya kena penalti 1M dari rakyatnya gara-gara mengubah nama jalan."
     }
 ]
