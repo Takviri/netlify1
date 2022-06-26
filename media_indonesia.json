@@ -1,5 +1,19 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/502232/gercep-sandiaga-beri-dukungan-umkm-dan-dalang-cilik-di-lombok",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMjMyL2dlcmNlcC1zYW5kaWFnYS1iZXJpLWR1a3VuZ2FuLXVta20tZGFuLWRhbGFuZy1jaWxpay1kaS1sb21ib2s=",
+        "description": "MENTERI Pariwisata dan Ekonomi Kreatif (Menparekraf) Sandiaga Uno mendatangi Desa Wisata Buwun Sejati, Kecamatan Narmada, Kabupaten&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/502227/pendidikan-dan-ketenangan-jiwa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDIyMjcvcGVuZGlkaWthbi1kYW4ta2V0ZW5hbmdhbi1qaXdh",
+        "description": "&lsquo;ADA semacam ketenangan dalam cinta yang hampir seperti surga&rsquo; (Alain Badiou). Diyakini akan membawa dampak positif pada pikiran dan hati seseorang, ketenangan merupakan tujuan inti dari&#8230;"
+    },
+    {
         "title": "Kolom Pakar",
         "link": "https://m.mediaindonesia.com/kolom-pakar/502213/hantu-inflasi-global-efek-domino-dan-mitigasinya",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMjIzL2l0cy1zdXJhYmF5YS1qdWFyYS1oYWNrYXRvbi0yMDIyLWphd2EtdGltdXI=",
         "description": "TIM Victorits dari Institut Teknologi Sepuluh November, Surabaya, meraih juara ajang Hackathon 2022 Jawa Timur yang berakhir Minggu (26/6). Ciptaan Tim Victorist, 'Circular Economy Super App untuk&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/502217/peringatan-hani-2022-kualitas-sdm-untuk-bangun-karakter-remaja-jadi-tantangan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMjE3L3BlcmluZ2F0YW4taGFuaS0yMDIyLWt1YWxpdGFzLXNkbS11bnR1ay1iYW5ndW4ta2FyYWt0ZXItcmVtYWphLWphZGktdGFudGFuZ2Fu",
-        "description": "PERINGATAN dan penetapan 26 Juni sebagai Hari Anti-Narkoba Internasional disepakati oleh United Nation Office on Drugs and Crime (UNODC) pada tanggal 26 Juni 1988. Perayaan hari HANI dilaksankan setiap&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/502222/sandiaga-tekankan-pentingnya-keterlibatan-masyarakat-dalam-pengembangan-desa-wisata",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMjIyL3NhbmRpYWdhLXRla2Fua2FuLXBlbnRpbmdueWEta2V0ZXJsaWJhdGFuLW1hc3lhcmFrYXQtZGFsYW0tcGVuZ2VtYmFuZ2FuLWRlc2Etd2lzYXRh",
-        "description": "MENTERI Pariwisata dan Ekonomi Kreatif Sandiaga Salahuddin Uno menekankan pentingnya keterlibatan aktif masyarakat dalam mendukung pengembangan desa wisata sehingga dapat mendorong kebangkitan ekonomi&#8230;"
     }
 ]
