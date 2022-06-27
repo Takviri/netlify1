@@ -1,5 +1,26 @@
 [
     {
+        "title": "Harga Emas Naik Pagi Ini, Semoga Tahan Lama Ya...",
+        "link": "https://www.cnbcindonesia.com/market/20220627062742-17-350517/harga-emas-naik-pagi-ini-semoga-tahan-lama-ya",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MDYyNzQyLTE3LTM1MDUxNy9oYXJnYS1lbWFzLW5haWstcGFnaS1pbmktc2Vtb2dhLXRhaGFuLWxhbWEteWE=",
+        "description": " Harga emas membaik setelah dolar Amerika Serikat (AS) ambruk."
+    },
+    {
+        "title": "BTC Mulai Mantul! Beneran Naik atau Cuma Dead Cat Bounce Nih?",
+        "link": "https://www.cnbcindonesia.com/market/20220627014204-17-350511/btc-mulai-mantul-beneran-naik-atau-cuma-dead-cat-bounce-nih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MDE0MjA0LTE3LTM1MDUxMS9idGMtbXVsYWktbWFudHVsLWJlbmVyYW4tbmFpay1hdGF1LWN1bWEtZGVhZC1jYXQtYm91bmNlLW5paA==",
+        "description": " Harga Bitcoin mulai rebound, beneran akan nanjak atau hanya Dead Cat Bounce?"
+    },
+    {
+        "title": "Ramalan Harga Batu Bara: Cerah!",
+        "link": "https://www.cnbcindonesia.com/market/20220627055533-17-350514/ramalan-harga-batu-bara-cerah",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MDU1NTMzLTE3LTM1MDUxNC9yYW1hbGFuLWhhcmdhLWJhdHUtYmFyYS1jZXJhaA==",
+        "description": " Harga batu bara pada pekan ini diramal masih akan tinggi sejalan\u00c2\u00a0kenaikan permintaan."
+    },
+    {
         "title": "Cek! Saham Tercuan dan Terboncos Jumat Lalu, Punya Anda?",
         "link": "https://www.cnbcindonesia.com/market/20220627000415-17-350504/cek-saham-tercuan-dan-terboncos-jumat-lalu-punya-anda",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI2MTUxNDIxLTE3LTM1MDQ2OC9wYXNhci1nb25qYW5nLWdhbmppbmctdGFwaS1rcmlwdG8tbWFsYWgtY2VuZGVydW5nLW1vbmNlcg==",
         "description": " Harga mata uang kripto sepanjang pekan ini cenderung menguat, di tengah masih tingginya ketidakpastian seputar akhir krisis Ukraina"
-    },
-    {
-        "title": "Peraih Nobel Ungkap Risiko Ekonomi AS Jangka Pendek, Resesi?",
-        "link": "https://www.cnbcindonesia.com/market/20220625141357-17-350301/peraih-nobel-ungkap-risiko-ekonomi-as-jangka-pendek-resesi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI1MTQxMzU3LTE3LTM1MDMwMS9wZXJhaWgtbm9iZWwtdW5na2FwLXJpc2lrby1la29ub21pLWFzLWphbmdrYS1wZW5kZWstcmVzZXNp",
-        "description": " Peraih Nobel di bidang ekonomi Paul Krugman mengatakan risiko jangka pendek terbesar bagi ekonomi AS adalah kebijakan pengetatan the Federal Reserve"
-    },
-    {
-        "title": "Muncul Pesaing di India, CPO Jauhi Level Psikologis MYR 5.000",
-        "link": "https://www.cnbcindonesia.com/market/20220626143656-17-350459/muncul-pesaing-di-india-cpo-jauhi-level-psikologis-myr-5000",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI2MTQzNjU2LTE3LTM1MDQ1OS9tdW5jdWwtcGVzYWluZy1kaS1pbmRpYS1jcG8tamF1aGktbGV2ZWwtcHNpa29sb2dpcy1teXItNTAwMA==",
-        "description": " Harga minyak sawit mentah (crude palm oil/CPO) sepanjang pekan ini kian meninggalkan level psikologis MYR 5.000/ton"
-    },
-    {
-        "title": "The Fed Kian Nekat, Harga Minyak Mentah pun Jadi \"Korban\"",
-        "link": "https://www.cnbcindonesia.com/market/20220626135914-17-350448/the-fed-kian-nekat-harga-minyak-mentah-pun-jadi-korban",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI2MTM1OTE0LTE3LTM1MDQ0OC90aGUtZmVkLWtpYW4tbmVrYXQtaGFyZ2EtbWlueWFrLW1lbnRhaC1wdW4tamFkaS1rb3JiYW4=",
-        "description": " Berbeda dari harga batu bara yang melonjak sepekan ini, harga minyak mentah dunia justru cenderung tertekan"
     }
 ]

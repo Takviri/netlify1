@@ -1,5 +1,12 @@
 [
     {
+        "title": "Laporan penyelidikan ungkap belasan WNI meninggal dunia di tahanan imigrasi Malaysia, Konsul RI akan konfirmasi",
+        "link": "https://www.bbc.com/indonesia/dunia-61940872",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE5NDA4NzI=",
+        "description": "Sebuah laporan mengungkap 18 WNI meninggal dalam tahanan imigrasi Malaysia sampai Maret 2022 - salah satunya diduga dianiaya. Konsulat RI di Tawau berjanji memeriksa kembali kasus ini. Malaysia menyebut kebanyakan kematian di sana disebabkan Covid dan penyakit serius lainnya."
+    },
+    {
         "title": "Investigasi BBC: Kesaksian korban pelecehan seksual di PBB 'ditepis terlalu dini'",
         "link": "https://www.bbc.com/indonesia/dunia-61891347",
         "image": "static/images/bbc_indonesia.png",
@@ -49,13 +56,6 @@
         "description": "Ukraina memulai lamaran untuk keanggotaan Uni Eropa lima hari setelah invasi Rusia."
     },
     {
-        "title": "Roe vs Wade: Hak aborsi di AS, mengapa terus-menerus memicu pro dan kontra?",
-        "link": "https://www.bbc.com/indonesia/dunia-61316415",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjEzMTY0MTU=",
-        "description": "Sebuah bocoran dokumen mengungkapkan Mahkamah Agung AS cenderung akan membatalkan hak aborsi yang sudah dijamin sejak 1973."
-    },
-    {
         "title": "Pria Jepang kehilangan USB data pribadi penduduk kota setelah pingsan",
         "link": "https://www.bbc.com/indonesia/majalah-61924432",
         "image": "static/images/bbc_indonesia.png",
@@ -63,10 +63,10 @@
         "description": "Pria itu tak sadarkan diri setelah minum-minum bersama rekan kantornya. Ketika dia sadar, tas miliknya dan stik memori berisi data pribadi 460.000 warga hilang."
     },
     {
-        "title": "MA balikkan putusan 50 tahun lalu, jutaan perempuan di Amerika Serikat kehilangan hak lakukan aborsi",
-        "link": "https://www.bbc.com/indonesia/dunia-61305744",
+        "title": "Roe vs Wade: Hak aborsi di AS, mengapa terus-menerus memicu pro dan kontra?",
+        "link": "https://www.bbc.com/indonesia/dunia-61316415",
         "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjEzMDU3NDQ=",
-        "description": "Jutaan perempuan di Amerika Serikat akan kehilangan hak melakukan aborsi, setelah Mahkamah Agung membalikkan putusan 50 tahun lalu yang membolehkan prosedur tersebut."
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjEzMTY0MTU=",
+        "description": "Sebuah bocoran dokumen mengungkapkan Mahkamah Agung AS cenderung akan membatalkan hak aborsi yang sudah dijamin sejak 1973."
     }
 ]
