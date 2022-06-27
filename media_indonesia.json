@@ -1,5 +1,19 @@
 [
     {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/502243/orang-yang-punya-kesamaan-bau-badan-cenderung-lebih-cepat-berteman",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMjI0My9vcmFuZy15YW5nLXB1bnlhLWtlc2FtYWFuLWJhdS1iYWRhbi1jZW5kZXJ1bmctbGViaWgtY2VwYXQtYmVydGVtYW4=",
+        "description": "Orang-orang yang berbagi perasaan secara naluriah atau &ldquo;chemistry&rdquo; menyebabkan mereka cepat menjadi akrab satu sama lain. Secara arti harfiah, ungkapan ini bisa jadi benar, hal ini diperkuat&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502242/sumatra-utara-juara-umum-pesparawi-nasional-xiii",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMjQyL3N1bWF0cmEtdXRhcmEtanVhcmEtdW11bS1wZXNwYXJhd2ktbmFzaW9uYWwteGlpaQ==",
+        "description": "PESTA Paduan Suara Gerejawi (Pesparawi) Nasional XIII secara resmi ditutup oleh Menteri Agama RI Yaqut Cholil Qoumas yang diwakili&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/502241/kpu-sudah-21-parpol-yang-terintegrasi-sipol-10-parpol-baru",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMjMyL2dlcmNlcC1zYW5kaWFnYS1iZXJpLWR1a3VuZ2FuLXVta20tZGFuLWRhbGFuZy1jaWxpay1kaS1sb21ib2s=",
         "description": "MENTERI Pariwisata dan Ekonomi Kreatif (Menparekraf) Sandiaga Uno mendatangi Desa Wisata Buwun Sejati, Kecamatan Narmada, Kabupaten&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/502227/pendidikan-dan-ketenangan-jiwa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDIyMjcvcGVuZGlkaWthbi1kYW4ta2V0ZW5hbmdhbi1qaXdh",
-        "description": "&lsquo;ADA semacam ketenangan dalam cinta yang hampir seperti surga&rsquo; (Alain Badiou). Diyakini akan membawa dampak positif pada pikiran dan hati seseorang, ketenangan merupakan tujuan inti dari&#8230;"
-    },
-    {
-        "title": "Kolom Pakar",
-        "link": "https://m.mediaindonesia.com/kolom-pakar/502213/hantu-inflasi-global-efek-domino-dan-mitigasinya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9rb2xvbS1wYWthci81MDIyMTMvaGFudHUtaW5mbGFzaS1nbG9iYWwtZWZlay1kb21pbm8tZGFuLW1pdGlnYXNpbnlh",
-        "description": "TEORI ekonomi tentang boom and bust cycle, yang kita pelajari pada saat mengikuti kuliah ilmu ekonomi, ternyata mulai terlihat lagi saat ini. Ekonomi global telah mengalami fase pertumbuhan&#8230;"
     }
 ]
