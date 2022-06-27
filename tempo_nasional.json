@@ -1,5 +1,19 @@
 [
     {
+        "title": "Breaking News: Kejagung Tetapkan Eks Dirut Garuda Jadi Tersangka Korupsi",
+        "link": "https://nasional.tempo.co/read/1606077/breaking-news-kejagung-tetapkan-eks-dirut-garuda-jadi-tersangka-korupsi",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDYwNzcvYnJlYWtpbmctbmV3cy1rZWphZ3VuZy10ZXRhcGthbi1la3MtZGlydXQtZ2FydWRhLWphZGktdGVyc2FuZ2thLWtvcnVwc2k=",
+        "description": "Kejaksaan Agung menetapkan mantan Direktur PT Garuda Indonesia Emirsyah Satar menjadi tersangka kasus korupsi."
+    },
+    {
+        "title": "Kepala Satgas PMK Minta Peternak Laporkan Data Kesehatan Ternaknya",
+        "link": "https://nasional.tempo.co/read/1606069/kepala-satgas-pmk-minta-peternak-laporkan-data-kesehatan-ternaknya",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDYwNjkva2VwYWxhLXNhdGdhcy1wbWstbWludGEtcGV0ZXJuYWstbGFwb3JrYW4tZGF0YS1rZXNlaGF0YW4tdGVybmFrbnlh",
+        "description": "Provinsi Jawa Timur menjadi salah satu provinsi yang memiliki kasus aktif PMK terbanyak di Indonesia"
+    },
+    {
         "title": "Pakar Sarankan Anies Baswedan Merapat ke Partai Nasionalis untuk Hindari Kampanye Hitam",
         "link": "https://nasional.tempo.co/read/1606054/pakar-sarankan-anies-baswedan-merapat-ke-partai-nasionalis-untuk-hindari-kampanye-hitam",
         "image": "static/images/tempo_nasional.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDYwMjUvc3lhcmllZi1oYXNhbi1kdWt1bmctcGFuY2FzaWxhLWphZGktbWFwZWwtd2FqaWI=",
         "description": "Pemahaman Pancasila melalui pendidikan akan merekatkan seluruh anak bangsa dalam ikatan persatuan yang kuat tak tergoyahkan."
-    },
-    {
-        "title": "Partai Buruh Daftarkan Judicial Review UU PPP ke MK Hari Ini",
-        "link": "https://nasional.tempo.co/read/1606021/partai-buruh-daftarkan-judicial-review-uu-ppp-ke-mk-hari-ini",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDYwMjEvcGFydGFpLWJ1cnVoLWRhZnRhcmthbi1qdWRpY2lhbC1yZXZpZXctdXUtcHBwLWtlLW1rLWhhcmktaW5p",
-        "description": "Partai Buruh akan mendaftarkan judicial review atas revisi UU PPP ke Mahkamah Konstitusi hari ini."
-    },
-    {
-        "title": "Tjahjo Kumolo Dirawat Intensif, Jusuf Kalla Doakan Segera Sembuh",
-        "link": "https://nasional.tempo.co/read/1606011/tjahjo-kumolo-dirawat-intensif-jusuf-kalla-doakan-segera-sembuh",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDYwMTEvdGphaGpvLWt1bW9sby1kaXJhd2F0LWludGVuc2lmLWp1c3VmLWthbGxhLWRvYWthbi1zZWdlcmEtc2VtYnVo",
-        "description": "Jusuf Kalla atau JK mendoakan agar Menteri Pendayagunaan Aparatur Negara Reformasi Briokrasi Tjahjo Kumolo, segera sembuh dari sakitnya."
     }
 ]
