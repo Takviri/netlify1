@@ -1,5 +1,40 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502273/menparekraf-menilai-pecinan-glodok-berpotensi-untuk-wisata-budaya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMjczL21lbnBhcmVrcmFmLW1lbmlsYWktcGVjaW5hbi1nbG9kb2stYmVycG90ZW5zaS11bnR1ay13aXNhdGEtYnVkYXlh",
+        "description": "Menteri Pariwisata dan Ekonomi Kreatif Sandiaga Uno menilai Desa Wisata Pecinan Glodok di Jakarta Barat, Jakarta, memiliki potensi daya tarik wisata budaya dan sejarah mengingat terdapat akulturasi&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/502272/produksi-minyak-ekuador-terancam-terhenti-akibat-demontrasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjI3Mi9wcm9kdWtzaS1taW55YWstZWt1YWRvci10ZXJhbmNhbS10ZXJoZW50aS1ha2liYXQtZGVtb250cmFzaQ==",
+        "description": "SEBUAH barikade di antara demonstran dan pasukan keamanan saat protes berlanjut di tengah kebuntuan antara pemerintah Presiden Guillermo Lasso dan sebagian besar demonstran pribumi yang menuntut diakhirinya&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/502271/gp-anshor-dki-minta-anies-tutup-holywings",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDIyNzEvZ3AtYW5zaG9yLWRraS1taW50YS1hbmllcy10dXR1cC1ob2x5d2luZ3M=",
+        "description": "Organisasi kemasyarakatan, Gerakan Pemuda (GP) Ansor DKI mendesak Gubernur DKI Anies Baswedan menutup operasional klub malam, Holywings di seluruh Ibu Kota sebagai buntut promosi yang diduga menyinggung&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/502269/50-ribu-warga-pemilik-ktp-terdampak-perubahan-nama-jalan-di-dki",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDIyNjkvNTAtcmlidS13YXJnYS1wZW1pbGlrLWt0cC10ZXJkYW1wYWstcGVydWJhaGFuLW5hbWEtamFsYW4tZGktZGtp",
+        "description": "TERCATAT sekitar 50 ribu warga DKI Jakarta terdampak adanya perubahan 22 nama jalan di DKI Jakarta. Mereka harus melakukan penyesuaian informasi alamat pada Kartu Tanda Penduduk (KTP) elektroniknya.&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502270/muhibah-budaya-jalur-rempah-kembali-berlayar-menuju-surabaya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMjcwL211aGliYWgtYnVkYXlhLWphbHVyLXJlbXBhaC1rZW1iYWxpLWJlcmxheWFyLW1lbnVqdS1zdXJhYmF5YQ==",
+        "description": "MUHIBAH Budaya Jalur Rempah bersama KRI Dewaruci kembali melanjutkan perjalanan menuju Surabaya Jawa Timur dari Kupang Nusa Tenggara Timur (NTT). Perjalanan diperhitungkan selama 5 hari dan sampai&#8230;"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/502268/as-ajak-sekutunya-bersama-sama-melawan-rusia",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMjY0L3BlbmdlcnVrYW4tZ2FsaWFuLWMtZGktYnVraXQtYW5nYW50aWdhLWFuY2FtLWVrb3Npc3RlbS1saW5na3VuZ2Fu",
         "description": "SAMPAI berita ini diturunkan pengerukan galian C di Bukit Angantiga, Kecamatan Petang, Badung terus terjadi. Pantauan mediaindonesia.com di Angantiga menunjukan, alat berat terus menggali material&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/502263/dprd-dki-kritik-perhelatan-hut-jakarta-di-tengah-polusi-udara-buruk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDIyNjMvZHByZC1ka2kta3JpdGlrLXBlcmhlbGF0YW4taHV0LWpha2FydGEtZGktdGVuZ2FoLXBvbHVzaS11ZGFyYS1idXJ1aw==",
-        "description": "ANGGOTA DPRD DKI Jakarta Gilbert Simanjuntak mengkritik perhelatan ulang tahun Jakarta ke-495 di tengah kondisi polusi udara yang buruk. Ia mengutarakan sangat miris melihat pernyataan Gubernur DKI&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502262/hotman-paris-minta-maaf-pada-mui-terkait-holywings",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDIyNjIvaG90bWFuLXBhcmlzLW1pbnRhLW1hYWYtcGFkYS1tdWktdGVya2FpdC1ob2x5d2luZ3M=",
-        "description": "Pengacara Hotman Paris selaku salah satu pemegang saham Holywings menemui Ketua MUI bidang Dakwah dan Ukhuwah KH Cholil Nafis dan menyampaikan permintaan maaf kepada umat Islam terkait promo minuman&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/502261/bupati-kebumen-lepas-puluhan-tukik-bersama-pertamina-dan-benihbaikcom",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMjYxL2J1cGF0aS1rZWJ1bWVuLWxlcGFzLXB1bHVoYW4tdHVraWstYmVyc2FtYS1wZXJ0YW1pbmEtZGFuLWJlbmloYmFpa2NvbQ==",
-        "description": "Indonesia dianugerahi oleh keanekaragaman hayati, enam dari tujuh spesies penyu di dunia dimiliki oleh Indonesia. Dari enam spesies yang ditemukan di perairan Indonesia, dua di antaranya merupakan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/502260/mu-tolak-tawaran-barcelona-datangkan-maguire",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjI2MC9tdS10b2xhay10YXdhcmFuLWJhcmNlbG9uYS1kYXRhbmdrYW4tbWFndWlyZQ==",
-        "description": "MANCHESTER United menolak tawaran Barcelona yang akan memboyong Harry Maguire menuju Camp Nou sebagai bagian dari kesepakatan kepindahan Frenkie de Jong.&nbsp; Kedua klub saat ini masih bernegoisasi&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/502259/ngeri-ngeri-sedap-diapresiasi-sandiaga-uno-dukung-kebangkitan-ekonomi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMjI1OS9uZ2VyaS1uZ2VyaS1zZWRhcC1kaWFwcmVzaWFzaS1zYW5kaWFnYS11bm8tZHVrdW5nLWtlYmFuZ2tpdGFuLWVrb25vbWk=",
-        "description": "Menteri Pariwisata dan Ekonomi Kreatif Sandiaga Salahuddin Uno mengapresiasi film &ldquo;Ngeri-Ngeri Sedap&rdquo; dengan mengatakan bahwa film tersebut turut mendukung kebangkitan ekonomi nasional&#8230;"
     }
 ]
