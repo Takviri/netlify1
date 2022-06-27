@@ -1,5 +1,54 @@
 [
     {
+        "title": "Garuda Menang PKPU, Ini Kata Erick Thohir",
+        "link": "https://www.cnbcindonesia.com/market/20220627131516-17-350667/garuda-menang-pkpu-ini-kata-erick-thohir",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTMxNTE2LTE3LTM1MDY2Ny9nYXJ1ZGEtbWVuYW5nLXBrcHUtaW5pLWthdGEtZXJpY2stdGhvaGly",
+        "description": " Erick mengatakan hasil PKPU ini adalah hasil yang luar biasa maksimal."
+    },
+    {
+        "title": "Risiko Stagflasi Bayangi Ekonomi RI, BI: Kami Siap All Out!",
+        "link": "https://www.cnbcindonesia.com/market/20220627132304-17-350669/risiko-stagflasi-bayangi-ekonomi-ri-bi-kami-siap-all-out",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTMyMzA0LTE3LTM1MDY2OS9yaXNpa28tc3RhZ2ZsYXNpLWJheWFuZ2ktZWtvbm9taS1yaS1iaS1rYW1pLXNpYXAtYWxsLW91dA==",
+        "description": " Bank Indonesia (BI) mewaspadai risiko stagflasi."
+    },
+    {
+        "title": "Saat Erick Ajak Kejagung dan BPKP Bantu Bongkar Korupsi BUMN",
+        "link": "https://www.cnbcindonesia.com/market/20220627130411-17-350672/saat-erick-ajak-kejagung-bpkp-bantu-bongkar-korupsi-bumn",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTMwNDExLTE3LTM1MDY3Mi9zYWF0LWVyaWNrLWFqYWsta2VqYWd1bmctYnBrcC1iYW50dS1ib25na2FyLWtvcnVwc2ktYnVtbg==",
+        "description": " Kementerian BUMN gandeng Kejagung dan BPKP bongkar koruspi di BUMN"
+    },
+    {
+        "title": "Kurs Dolar Australia Diramal Bakal Merosot, Ini Penyebabnya!",
+        "link": "https://www.cnbcindonesia.com/market/20220627122239-17-350650/kurs-dolar-australia-diramal-bakal-merosot-ini-penyebabnya",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTIyMjM5LTE3LTM1MDY1MC9rdXJzLWRvbGFyLWF1c3RyYWxpYS1kaXJhbWFsLWJha2FsLW1lcm9zb3QtaW5pLXBlbnllYmFibnlh",
+        "description": " Nilai tukar dolar Australia turun melawan rupiah pada perdagangan Senin (27/6/2022)."
+    },
+    {
+        "title": "Korupsi Garuda: Kerugian Negara Rp8,8 T, 5 Orang Tersangka!",
+        "link": "https://www.cnbcindonesia.com/market/20220627131313-17-350665/korupsi-garuda-kerugian-negara-rp88-t-5-orang-tersangka",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTMxMzEzLTE3LTM1MDY2NS9rb3J1cHNpLWdhcnVkYS1rZXJ1Z2lhbi1uZWdhcmEtcnA4OC10LTUtb3JhbmctdGVyc2FuZ2th",
+        "description": " Kepala BPKP Muhammad Yusuf Ateh mengatakan perhitungan yang dilakukan BPKP terkait pengadaan pesawat jenis CRJ-1000 dan ATR-72 berjumlah 23 unit."
+    },
+    {
+        "title": "Hati-hati, Orang RI Mulai Kurangi Konsumsi! Hawa Resesi...?",
+        "link": "https://www.cnbcindonesia.com/market/20220627115447-17-350647/hati-hati-orang-ri-mulai-kurangi-konsumsi-hawa-resesi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTE1NDQ3LTE3LTM1MDY0Ny9oYXRpLWhhdGktb3JhbmctcmktbXVsYWkta3VyYW5naS1rb25zdW1zaS1oYXdhLXJlc2VzaQ==",
+        "description": " Jumlah uang beredar tumbuh melambat sejalan dengan sikap konsumen yang mengurangi belanja usai liburan serta adanya lonjakan harga."
+    },
+    {
+        "title": "Hari Pertama Penutupan Kode Domisili, IHSG Sesi I Melemah",
+        "link": "https://www.cnbcindonesia.com/market/20220627101745-19-350592/hari-pertama-penutupan-kode-domisili-ihsg-sesi-i-melemah",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTAxNzQ1LTE5LTM1MDU5Mi9oYXJpLXBlcnRhbWEtcGVudXR1cGFuLWtvZGUtZG9taXNpbGktaWhzZy1zZXNpLWktbWVsZW1haA==",
+        "description": " Hari Pertama Penutupan Kode Domisili, IHSG Sesi I Melemah"
+    },
+    {
         "title": "Emirsyah Tersangka Korupsi Garuda, Begini Reaksi Erick Thohir",
         "link": "https://www.cnbcindonesia.com/market/20220627123711-17-350656/emirsyah-tersangka-korupsi-garuda-begini-reaksi-erick-thohir",
         "image": "static/images/cnbc_market.png",
@@ -19,54 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTIyNzAyLTE3LTM1MDY1Mi9oYXJnYS1uaWtlbC1hbmpsb2stc2FoYW0tZW1pdGVubnlhLWplYmxvaw==",
         "description": " Di tengah melemahnya IHSG siang ini terdapat 5 saham yang tampil perkasa dan 5 saham yang masuk top losers."
-    },
-    {
-        "title": "Evolusi Bisnis Startup RI, Bisa Berkembang Atau Tumbang Nih?",
-        "link": "https://www.cnbcindonesia.com/market/20220627101746-19-350591/evolusi-bisnis-startup-ri-bisa-berkembang-atau-tumbang-nih",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTAxNzQ2LTE5LTM1MDU5MS9ldm9sdXNpLWJpc25pcy1zdGFydHVwLXJpLWJpc2EtYmVya2VtYmFuZy1hdGF1LXR1bWJhbmctbmlo",
-        "description": " Evolusi Bisnis Startup RI, Bisa Berkembang Atau Tumbang Nih?"
-    },
-    {
-        "title": "Awas! Ada Risiko IHSG Merosot Lagi di Sesi 2",
-        "link": "https://www.cnbcindonesia.com/market/20220627115421-17-350642/awas-ada-risiko-ihsg-merosot-lagi-di-sesi-2",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTE1NDIxLTE3LTM1MDY0Mi9hd2FzLWFkYS1yaXNpa28taWhzZy1tZXJvc290LWxhZ2ktZGktc2VzaS0y",
-        "description": " Indeks Harga Saham Gabungan (IHSG) ambles dan keluar dari level psikologis 7.000 pada perdagangan awal pekan ini, Senin (27/6/2022)."
-    },
-    {
-        "title": "Emiten Lo Kheng Hong Mau RUPS, Bakal Bagi Dividen Lagi?",
-        "link": "https://www.cnbcindonesia.com/market/20220627115534-17-350641/emiten-lo-kheng-hong-mau-rups-bakal-bagi-dividen-lagi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTE1NTM0LTE3LTM1MDY0MS9lbWl0ZW4tbG8ta2hlbmctaG9uZy1tYXUtcnVwcy1iYWthbC1iYWdpLWRpdmlkZW4tbGFnaQ==",
-        "description": " Pada perdagangan sesi pertama Senin (27/6), saham GJTL ditutup menguat 3,55% ke level Rp 730/saham dengan kapitalisasi pasar Rp 2,54 triliun."
-    },
-    {
-        "title": "Ketidakpastian Belum Berakhir, Harga Minyak Berpotensi Naik",
-        "link": "https://www.cnbcindonesia.com/market/20220627100113-19-350575/ketidakpastian-belum-berakhir-harga-minyak-berpotensi-naik",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTAwMTEzLTE5LTM1MDU3NS9rZXRpZGFrcGFzdGlhbi1iZWx1bS1iZXJha2hpci1oYXJnYS1taW55YWstYmVycG90ZW5zaS1uYWlr",
-        "description": " Harga BBM Jauh Dari Keekonomian, Begini Efek Buruknya ke RI"
-    },
-    {
-        "title": "Lolos Jeratan Pailit, Begini Rencana Garuda Indonesia",
-        "link": "https://www.cnbcindonesia.com/market/20220627114419-17-350637/lolos-jeratan-pailit-begini-rencana-garuda-indonesia",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTE0NDE5LTE3LTM1MDYzNy9sb2xvcy1qZXJhdGFuLXBhaWxpdC1iZWdpbmktcmVuY2FuYS1nYXJ1ZGEtaW5kb25lc2lh",
-        "description": " Bukan cuma itu, rencana penanaman modal (berupa PMN) yang sudah disetujui DPR juga bisa segera dilanjutkan karena homologasi sudah selesai."
-    },
-    {
-        "title": "Perdagangan 'Gelap Gulita', IHSG Ditutup Merah",
-        "link": "https://www.cnbcindonesia.com/market/20220627113846-17-350632/perdagangan-gelap-gulita-ihsg-ditutup-merah",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTEzODQ2LTE3LTM1MDYzMi9wZXJkYWdhbmdhbi1nZWxhcC1ndWxpdGEtaWhzZy1kaXR1dHVwLW1lcmFo",
-        "description": " Indeks Harga Saham Gabungan (IHSG) berakhir melemah 0,83% pada penutupan perdagangan sesi I\u00c2\u00a0hari ini"
-    },
-    {
-        "title": "Awal Pekan Dolar AS Merana, Rupiah Terbaik Kedua di Asia!",
-        "link": "https://www.cnbcindonesia.com/market/20220627104332-17-350606/awal-pekan-dolar-as-merana-rupiah-terbaik-kedua-di-asia",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTA0MzMyLTE3LTM1MDYwNi9hd2FsLXBla2FuLWRvbGFyLWFzLW1lcmFuYS1ydXBpYWgtdGVyYmFpay1rZWR1YS1kaS1hc2lh",
-        "description": " Kurs rupiah berhasil menguat terhadap dolar AS hingga di pertengahan perdagangan hari ini, dipicu oleh terkoreksinya dolar AS di pasar spot."
     }
 ]
