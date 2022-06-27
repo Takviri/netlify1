@@ -1,6 +1,27 @@
 [
     {
         "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/502278/kematian-siswi-smp-polres-langkat-periksa-sembilan-saksi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMjc4L2tlbWF0aWFuLXNpc3dpLXNtcC1wb2xyZXMtbGFuZ2thdC1wZXJpa3NhLXNlbWJpbGFuLXNha3Np",
+        "description": "APARAT kepolisian memeriksa sembilan saksi terkait kasus dugaan pembunuhan dan pemerkosaan siswi SMP berinisial A, 14. Jenazahnya ditemukan di area perladangan di Kabupaten Langkat, Sumatra Utara.&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502277/biaya-produksi-minyak-mawar-bulgaria-untuk-parfum-naik-40",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjI3Ny9iaWF5YS1wcm9kdWtzaS1taW55YWstbWF3YXItYnVsZ2FyaWEtdW50dWstcGFyZnVtLW5haWstNDA=",
+        "description": "BISNIS bukanlah tempat tidur mawar untuk pembuat minyak mawar Bulgaria pada saat ini. Terbuat dari mawar Damask yang tumbuh di Lembah Mawar, minyak ini merupakan bahan penting dalam parfum yang dibuat&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502276/bps-siap-gelar-sensus-penduduk-2020-lanjutan-pada-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMjc2L2Jwcy1zaWFwLWdlbGFyLXNlbnN1cy1wZW5kdWR1ay0yMDIwLWxhbmp1dGFuLXBhZGEtMjAyMg==",
+        "description": "BADAN Pusat Statistik (BPS) siap melakukan Sensus Penduduk 2020 (SP2020) Lanjutan (Long Form SP2020) pada 2022 kepada 4,29 juta sampel rumah tangga. Kali ini variabelnya lebih banyak dari sensus penduduk&#8230;"
+    },
+    {
+        "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/502275/hujan-lama-banjir-rendam-sejumlah-desa-di-kabupaten-cilacap",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMjc1L2h1amFuLWxhbWEtYmFuamlyLXJlbmRhbS1zZWp1bWxhaC1kZXNhLWRpLWthYnVwYXRlbi1jaWxhY2Fw",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMjcwL211aGliYWgtYnVkYXlhLWphbHVyLXJlbXBhaC1rZW1iYWxpLWJlcmxheWFyLW1lbnVqdS1zdXJhYmF5YQ==",
         "description": "MUHIBAH Budaya Jalur Rempah bersama KRI Dewaruci kembali melanjutkan perjalanan menuju Surabaya Jawa Timur dari Kupang Nusa Tenggara Timur (NTT). Perjalanan diperhitungkan selama 5 hari dan sampai&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/502268/as-ajak-sekutunya-bersama-sama-melawan-rusia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjI2OC9hcy1hamFrLXNla3V0dW55YS1iZXJzYW1hLXNhbWEtbWVsYXdhbi1ydXNpYQ==",
-        "description": "PRESIDEN Amerika Serikat (AS) Joe Biden mengajak sekutunya harus supaya bersama melawan Rusia dalam pertemuan pemimpin G7, pada Minggu (27/6). Pada awal pertemuan di Pegunungan Alpen Bavaria, empat&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/502267/halopuan-dan-organisasi-aisyiyah-kolaborasi-atasi-stunting-di-kabupaten-bandung",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMjY3L2hhbG9wdWFuLWRhbi1vcmdhbmlzYXNpLWFpc3lpeWFoLWtvbGFib3Jhc2ktYXRhc2ktc3R1bnRpbmctZGkta2FidXBhdGVuLWJhbmR1bmc=",
-        "description": "LEMBAGA sosial Ketua DPR RI Puan Maharani, HaloPuan, dan Pimpinan Wilayah Aisyiyah Jawa Barat mengampanyekan gerakan &ldquo;Kaum Ibu Melawan Stunting&rdquo; dengan tema &ldquo;Mengolah Daun Kelor Menjadi&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/502266/relawan-sandi-gelar-pelatihan-usaha-bagi-disabilitas-di-jaktim",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDIyNjYvcmVsYXdhbi1zYW5kaS1nZWxhci1wZWxhdGloYW4tdXNhaGEtYmFnaS1kaXNhYmlsaXRhcy1kaS1qYWt0aW0=",
-        "description": "RELAWAN Sahabat Sandi Uno menggelar pelatihan pembuatan Dimsum bersama komunitas Disabilitas Kreatif Indonesia (DKI). Kali ini, program inovatif tersebut diselenggarakan di Masjid Al-Furqaan, Duren&#8230;"
     }
 ]
