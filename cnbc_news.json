@@ -1,5 +1,54 @@
 [
     {
+        "title": "Warga Sambut Ridwan Kamil dan Soraki Djarot di Puncak HUT DKI",
+        "link": "https://www.cnbcindonesia.com/news/20220627105057-7-350618/warga-sambut-ridwan-kamil-soraki-djarot-di-puncak-hut-dki",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzEwNTA1Ny03LTM1MDYxOC93YXJnYS1zYW1idXQtcmlkd2FuLWthbWlsLXNvcmFraS1kamFyb3QtZGktcHVuY2FrLWh1dC1ka2k=",
+        "description": " Ribuan warga riuh dengan reaksi berbeda saat merespons ucapan selamat dari Gubernur Jawa Barat Ridwan Kamil"
+    },
+    {
+        "title": "Putin Diolok-Olok Petinggi Negara di KTT G7",
+        "link": "https://www.cnbcindonesia.com/news/20220627095035-8-350588/putin-diolok-olok-petinggi-negara-di-ktt-g7",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzA5NTAzNS04LTM1MDU4OC9wdXRpbi1kaW9sb2stb2xvay1wZXRpbmdnaS1uZWdhcmEtZGkta3R0LWc3",
+        "description": " G7 mengolok-olok citra Presiden Rusia Vladimir Putin di KTT G7 di Munich Jerman"
+    },
+    {
+        "title": "Sebelum Bertemu Jokowi, Putin Bakal Kunjungi 2 Negara Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220627102847-4-350602/sebelum-bertemu-jokowi-putin-bakal-kunjungi-2-negara-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzEwMjg0Ny00LTM1MDYwMi9zZWJlbHVtLWJlcnRlbXUtam9rb3dpLXB1dGluLWJha2FsLWt1bmp1bmdpLTItbmVnYXJhLWluaQ==",
+        "description": " Presiden Rusia Vladimir Putin akan melakukan kunjungan ke luar negeri untuk pertama kalinya sejak ia melancarkan serangan ke Ukraina."
+    },
+    {
+        "title": "Pak Jokowi, Kalau Begini Terus Impor BBM Bisa Bengkak Rp296 T",
+        "link": "https://www.cnbcindonesia.com/news/20220627102311-4-350596/pak-jokowi-kalau-begini-terus-impor-bbm-bisa-bengkak-rp296-t",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzEwMjMxMS00LTM1MDU5Ni9wYWstam9rb3dpLWthbGF1LWJlZ2luaS10ZXJ1cy1pbXBvci1iYm0tYmlzYS1iZW5na2FrLXJwMjk2LXQ=",
+        "description": " Ekonom Senior Faisal Basri mencatat beban impor BBM Indonesia bisa bengkak menjadi Rp 296 triliun sampai satu tahun penuh ini."
+    },
+    {
+        "title": "Tolong Pak Jokowi! Kasus Covid Meledak, DKI Mengkhawatirkan",
+        "link": "https://www.cnbcindonesia.com/news/20220627094133-4-350573/tolong-pak-jokowi-kasus-covid-meledak-dki-mengkhawatirkan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzA5NDEzMy00LTM1MDU3My90b2xvbmctcGFrLWpva293aS1rYXN1cy1jb3ZpZC1tZWxlZGFrLWRraS1tZW5na2hhd2F0aXJrYW4=",
+        "description": " Tambahan kasus Covid-19 dalam sepekan terakhir meningkat 63,1%."
+    },
+    {
+        "title": "Siaga Kasus Covid-19 Baru, BOR di RS Menanjak",
+        "link": "https://www.cnbcindonesia.com/news/20220627102822-8-350600/siaga-kasus-covid-19-baru-bor-di-rs-menanjak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzEwMjgyMi04LTM1MDYwMC9zaWFnYS1rYXN1cy1jb3ZpZC0xOS1iYXJ1LWJvci1kaS1ycy1tZW5hbmphaw==",
+        "description": " Indonesia kembali siaga kasus Covid-19."
+    },
+    {
+        "title": "Ngenes! Dulu Raja, Kini Minyak Negara Ini di Titik Kritis",
+        "link": "https://www.cnbcindonesia.com/news/20220627094645-4-350571/ngenes-dulu-raja-kini-minyak-negara-ini-di-titik-kritis",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzA5NDY0NS00LTM1MDU3MS9uZ2VuZXMtZHVsdS1yYWphLWtpbmktbWlueWFrLW5lZ2FyYS1pbmktZGktdGl0aWsta3JpdGlz",
+        "description": " Krisis kini menghantui Ekuador. Produksi minyak di negara Amerika Selatan itu tengah mencapai titik \"kritis\"."
+    },
+    {
         "title": "Tak Sepele! Sri Mulyani Sebut Ini Bikin Banyak Negara Kacau",
         "link": "https://www.cnbcindonesia.com/news/20220627105515-4-350615/tak-sepele-sri-mulyani-sebut-ini-bikin-banyak-negara-kacau",
         "image": "static/images/cnbc_news.png",
@@ -19,54 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzEwMzg1NS00LTM1MDYwNC9zcmktbXVseWFuaS1rYWxhdS10aWRhay1zdWJzaWRpLWhhcmdhLWJibS1uYWlrLTIta2FsaS1saXBhdA==",
         "description": " Pemerintah akhirnya menambah subsidi energi senilai Rp 380 triliun pada 2022."
-    },
-    {
-        "title": "Pemerintah Dukung Upaya Pencapaian SDGs 2030, Ini Buktinya!",
-        "link": "https://www.cnbcindonesia.com/news/20220627100243-16-350576/pemerintah-dukung-upaya-pencapaian-sdgs-2030-ini-buktinya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzEwMDI0My0xNi0zNTA1NzYvcGVtZXJpbnRhaC1kdWt1bmctdXBheWEtcGVuY2FwYWlhbi1zZGdzLTIwMzAtaW5pLWJ1a3Rpbnlh",
-        "description": " Pemerintah Indonesia mendukung upaya ekonomi rendah karbon dan ketahanan iklim sesuai dengan roadmap SDGs Indonesia, termasuk untuk untuk infrastruktur"
-    },
-    {
-        "title": "Jokowi ke Eropa, Ma'ruf Jadi Pimpinan Negara",
-        "link": "https://www.cnbcindonesia.com/news/20220627102635-8-350599/jokowi-ke-eropa-maruf-jadi-pimpinan-negara",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzEwMjYzNS04LTM1MDU5OS9qb2tvd2kta2UtZXJvcGEtbWFydWYtamFkaS1waW1waW5hbi1uZWdhcmE=",
-        "description": " Wakil Presiden Ma'ruf Amin menggantikan posisi Presiden Joko Widodo sebagai pemimpin negara."
-    },
-    {
-        "title": "Tiba di Jerman, Jokowi Tiba-tiba 'Diteriaki' Warga! Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220627094029-7-350562/tiba-di-jerman-jokowi-tiba-tiba-diteriaki-warga-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzA5NDAyOS03LTM1MDU2Mi90aWJhLWRpLWplcm1hbi1qb2tvd2ktdGliYS10aWJhLWRpdGVyaWFraS13YXJnYS1hZGEtYXBh",
-        "description": " Presiden Joko Widodo dan Ibu Iriana Joko Widodo beserta rombongan tiba di Munich International Airport, Munich, Jerman."
-    },
-    {
-        "title": "Gawat! Sri Lanka Kehabisan Stok BBM",
-        "link": "https://www.cnbcindonesia.com/news/20220627095237-8-350593/gawat-sri-lanka-kehabisan-stok-bbm",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzA5NTIzNy04LTM1MDU5My9nYXdhdC1zcmktbGFua2Eta2VoYWJpc2FuLXN0b2stYmJt",
-        "description": " Sri Lanka dilanda krisis bahan bakar bensin dan diese"
-    },
-    {
-        "title": "Misi Jokowi Jadi Juru Damai Perang Ukraina-Rusia Dimulai",
-        "link": "https://www.cnbcindonesia.com/news/20220627093125-4-350570/misi-jokowi-jadi-juru-damai-perang-ukraina-rusia-dimulai",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzA5MzEyNS00LTM1MDU3MC9taXNpLWpva293aS1qYWRpLWp1cnUtZGFtYWktcGVyYW5nLXVrcmFpbmEtcnVzaWEtZGltdWxhaQ==",
-        "description": " Jokowi akan memulai misi perdamaian perang Ukraina-Rusia pada hari ini"
-    },
-    {
-        "title": "G7 Boikot Emas Dari Rusia",
-        "link": "https://www.cnbcindonesia.com/news/20220627094912-8-350589/g7-boikot-emas-dari-rusia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzA5NDkxMi04LTM1MDU4OS9nNy1ib2lrb3QtZW1hcy1kYXJpLXJ1c2lh",
-        "description": " Joe Biden mengungkapkan para pemimpin G7 akan mengumumkan larangan impor emas Rusia"
-    },
-    {
-        "title": "RI Siap Uji Jalan Campuran Minyak Sawit 40% ke Solar Juli Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220627093949-4-350561/ri-siap-uji-jalan-campuran-minyak-sawit-40-ke-solar-juli-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzA5Mzk0OS00LTM1MDU2MS9yaS1zaWFwLXVqaS1qYWxhbi1jYW1wdXJhbi1taW55YWstc2F3aXQtNDAta2Utc29sYXItanVsaS1pbmk=",
-        "description": " Kementerian ESDM membeberkan bahwa uji jalan atau road test kendaraan dengan bahan bakar biodiesel campuran minyak sawit 40% (B40) pada Juli 2022"
     }
 ]
