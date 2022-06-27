@@ -7,6 +7,13 @@
         "description": "Sebuah laporan mengungkap 18 WNI meninggal dalam tahanan imigrasi Malaysia sampai Maret 2022 - salah satunya diduga dianiaya. Konsulat RI di Tawau berjanji memeriksa kembali kasus ini. Malaysia menyebut kebanyakan kematian di sana disebabkan Covid dan penyakit serius lainnya."
     },
     {
+        "title": "Gempa Afghanistan: Mengapa begitu banyak gempa mematikan?",
+        "link": "https://www.bbc.com/indonesia/dunia-61947405",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE5NDc0MDU=",
+        "description": "Selama dekade terakhir lebih dari 7.000 orang telah meninggal akibat gempa bumi di Afghanistan, menurut PBB. Ada rata-rata 560 kematian setahun akibat gempa bumi."
+    },
+    {
         "title": "Ratusan pegiat lingkungan dan tanah adat dibunuh, mengapa menjadi aktivis 'sangat berbahaya'?",
         "link": "https://www.bbc.com/indonesia/dunia-61920243",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE5MjQyNDk=",
         "description": "Ukraina memulai lamaran untuk keanggotaan Uni Eropa lima hari setelah invasi Rusia."
-    },
-    {
-        "title": "Pria Jepang kehilangan USB data pribadi penduduk kota setelah pingsan",
-        "link": "https://www.bbc.com/indonesia/majalah-61924432",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MTkyNDQzMg==",
-        "description": "Pria itu tak sadarkan diri setelah minum-minum bersama rekan kantornya. Ketika dia sadar, tas miliknya dan stik memori berisi data pribadi 460.000 warga hilang."
     }
 ]
