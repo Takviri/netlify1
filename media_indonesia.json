@@ -1,5 +1,47 @@
 [
     {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/502249/bmkg-hujan-ringan-dan-sedang-bakal-guyur-jakarta-siang-ini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDIyNDkvYm1rZy1odWphbi1yaW5nYW4tZGFuLXNlZGFuZy1iYWthbC1ndXl1ci1qYWthcnRhLXNpYW5nLWluaQ==",
+        "description": "BADAN Meteorologi, Klimatologi dan Geofisika (BMKG) memprakirakan, sebagian wilayah Jakarta siang ini akan diguyur hujan dengan intensitas&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/502248/sandiaga-uno-tertarik-berlatih-dan-bantu-wushu-di-pecinan-glodok",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDIyNDgvc2FuZGlhZ2EtdW5vLXRlcnRhcmlrLWJlcmxhdGloLWRhbi1iYW50dS13dXNodS1kaS1wZWNpbmFuLWdsb2Rvaw==",
+        "description": "MENTERI Pariwisata dan Ekonomi Kreatif (Menparekraf) Sandiaga Uno mendatangi Desa Wisata Pecinan Glodok, Kecamatan Taman Sari, Jakarta Barat, Minggu (26/6/2022). Sandiaga bertemu dengan mantan dan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502247/dalam-dua-hari-vaksinasi-pmk-tembus-58-ribu-dosis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjI0Ny9kYWxhbS1kdWEtaGFyaS12YWtzaW5hc2ktcG1rLXRlbWJ1cy01OC1yaWJ1LWRvc2lz",
+        "description": "PEMERINTAH terus melakukan percepatan vaksinasi terhadap hewan ternak untuk mencegah peningkatan jumlah hewan sakit PMK atau Penyakit Mulut dan Kuku. Direktur Jenderal Peternakan Nasrullah mengatakan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502244/tekan-deforestasi-plana-usung-produk-non-kayu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyMjQ0L3Rla2FuLWRlZm9yZXN0YXNpLXBsYW5hLXVzdW5nLXByb2R1ay1ub24ta2F5dQ==",
+        "description": "MEMBAWA misi menekan laju deforestasi dan turut mengurangi sampah plastik, Plana meluncurkan produk yang terbuat dari sekam gabah padi dan plastik daur ulang. Sekilas, papan-papan yang melengkung&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/502246/diragukan-keasliannya-seluruh-lukisan-karya-basquiat-di-museum-seni-orlando-disita-polisi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMjI0Ni9kaXJhZ3VrYW4ta2Vhc2xpYW5ueWEtc2VsdXJ1aC1sdWtpc2FuLWthcnlhLWJhc3F1aWF0LWRpLW11c2V1bS1zZW5pLW9ybGFuZG8tZGlzaXRhLXBvbGlzaQ==",
+        "description": "Sebanyak 25 lukisan karya seniman Jean-Michel Basquiat yang diduga palsu disita oleh Polisi Federal Amerika Serikat, FBI. Seluruh karya yang dipresentasikan dalam pameran &ldquo;Heroes and Monsters:&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502245/mentan-tinjau-perkembangan-jagung-dua-tongkol-di-kabupaten-gowa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjI0NS9tZW50YW4tdGluamF1LXBlcmtlbWJhbmdhbi1qYWd1bmctZHVhLXRvbmdrb2wtZGkta2FidXBhdGVuLWdvd2E=",
+        "description": "MENTERI Pertanian Syahrul Yasin Limpo (Mentan SYL) meninjau perkembangan lahan jagung uji coba dua tongkol di Desa Botonompo, Kabupaten Gowa, Sulawesi Selatan. Mentan melihat langsung varietas&#8230;"
+    },
+    {
         "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/502243/orang-yang-punya-kesamaan-bau-badan-cenderung-lebih-cepat-berteman",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMjQwL2tlY2VsYWthYW4tYmVydW50dW4tYmVsYXNhbi1rZW5kYXJhYW4tZGkta20tOTItY2lwdWxhcmFuZy1hcmFoLWpha2FydGE=",
         "description": "BELASAN kendaraan dikabarkan terlibat kecelakaan beruntun di KM 92 Tol Cipularang arah Cikampek-Jakarta pada Minggu (26/6) malam. Hal tersebut diketahui melalui video yang beredar dan viral&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/502238/presiden-jokowi-tiba-di-munich",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjIzOC9wcmVzaWRlbi1qb2tvd2ktdGliYS1kaS1tdW5pY2g=",
-        "description": "SETELAH menempuh penerbangan selama kurang lebih 13 jam, pesawat Garuda Indonesia dengan kode penerbangan GIA-1 yang membawa Presiden Joko Widodo dan Ibu Negara Iriana Joko Widodo beserta rombongan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/502236/dukung-umkm-mataram-sandiaga-sarankan-program-bedakan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjIzNi9kdWt1bmctdW1rbS1tYXRhcmFtLXNhbmRpYWdhLXNhcmFua2FuLXByb2dyYW0tYmVkYWthbg==",
-        "description": "MENTERI Pariwisata dan Ekonomi Kreatif (Menparekraf) Sandiaga Uno bersama Yayasan Indonesia Setara (YSI) yang berkolaborasi dengan PT Kokikit Akademi Indonesia dan Bhinneka menggelar pelatihan Cooking&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/502235/hari-ini-siswa-sd-dan-smp-di-beijing-mulai-sekolah-tatap-muka",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjIzNS9oYXJpLWluaS1zaXN3YS1zZC1kYW4tc21wLWRpLWJlaWppbmctbXVsYWktc2Vrb2xhaC10YXRhcC1tdWth",
-        "description": "PELAJAR SD, SMP dan SMA di Beijing dijadwalkan kembali ke sekolah pada Senin (27/6), ketika penularan varian Omikron semakin mereda. Namun tes swab masih diperlukan dua kali seminggu. Ini dilalukan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/502234/omg-jatim-berharap-ganjar-menjadi-presiden-di-2024",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMjM0L29tZy1qYXRpbS1iZXJoYXJhcC1nYW5qYXItbWVuamFkaS1wcmVzaWRlbi1kaS0yMDI0",
-        "description": "RATUSAN anak muda di Provinsi Jawa Timur (Jatim) mendeklarasikan dukungan kepada Gubernur Jawa Tengah Ganjar Pranowo untuk menjadi orang nomor satu di pemerintah Indonesia pada periode 2024-2029.&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/502233/enam-polisi-terbunuh-saat-baku-tembak-di-meksiko-utara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjIzMy9lbmFtLXBvbGlzaS10ZXJidW51aC1zYWF0LWJha3UtdGVtYmFrLWRpLW1la3Npa28tdXRhcmE=",
-        "description": "ENAM polisi tewas di Meksiko utara dalam baku tembak dengan penyerang yang jumlahnya lebih banyak, kata pejabat di negara bagian Nuevo Leon, Minggu. Para penyerang itu menggunakan senjata kaliber&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/502232/gercep-sandiaga-beri-dukungan-umkm-dan-dalang-cilik-di-lombok",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyMjMyL2dlcmNlcC1zYW5kaWFnYS1iZXJpLWR1a3VuZ2FuLXVta20tZGFuLWRhbGFuZy1jaWxpay1kaS1sb21ib2s=",
-        "description": "MENTERI Pariwisata dan Ekonomi Kreatif (Menparekraf) Sandiaga Uno mendatangi Desa Wisata Buwun Sejati, Kecamatan Narmada, Kabupaten&#8230;"
     }
 ]
