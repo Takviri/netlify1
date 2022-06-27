@@ -7,6 +7,13 @@
         "description": "Sebuah laporan mengungkap 18 WNI meninggal dalam tahanan imigrasi Malaysia sampai Maret 2022 - salah satunya diduga dianiaya. Konsulat RI di Tawau berjanji memeriksa kembali kasus ini. Malaysia menyebut kebanyakan kematian di sana disebabkan Covid dan penyakit serius lainnya."
     },
     {
+        "title": "Harga BBM melambung, akankah warga Asia, termasuk Indonesia, ramai-ramai pindah ke motor listrik?",
+        "link": "https://www.bbc.com/indonesia/dunia-61948874",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE5NDg4NzQ=",
+        "description": "Kenaikan harga makanan dan BBM diprediksi akan mendorong masyarakat Asia beralih ke motor listrik. Bagaimana tren di Indonesia?"
+    },
+    {
         "title": "Gempa Afghanistan: Mengapa begitu banyak gempa mematikan?",
         "link": "https://www.bbc.com/indonesia/dunia-61947405",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYxOTExNTcz",
         "description": "Mantan Dubes RI untuk Rusia, Hamid Awaludin, menyarankan kepada Presiden Jokowi agar menggunakan pendekatan ekonomi ketika berdialog dengan kedua pemimpin negara itu demi menghindari reaksi negatif."
-    },
-    {
-        "title": "Ukraina resmi jadi kandidat anggota Uni Eropa, bagaimana reaksi Rusia?",
-        "link": "https://www.bbc.com/indonesia/dunia-61924249",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE5MjQyNDk=",
-        "description": "Ukraina memulai lamaran untuk keanggotaan Uni Eropa lima hari setelah invasi Rusia."
     }
 ]
