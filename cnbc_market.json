@@ -1,5 +1,47 @@
 [
     {
+        "title": "China Membaik, Harga Karet Lompat 2%",
+        "link": "https://www.cnbcindonesia.com/market/20220627174705-17-350789/china-membaik-harga-karet-lompat-2",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTc0NzA1LTE3LTM1MDc4OS9jaGluYS1tZW1iYWlrLWhhcmdhLWthcmV0LWxvbXBhdC0y",
+        "description": " Harga karet dunia lompat 2% lebih pada perdagangan hari ini"
+    },
+    {
+        "title": "Kinerja BPD Menghijau, Gimana bank bjb?",
+        "link": "https://www.cnbcindonesia.com/market/20220627175653-17-350792/kinerja-bpd-menghijau-gimana-bank-bjb",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTc1NjUzLTE3LTM1MDc5Mi9raW5lcmphLWJwZC1tZW5naGlqYXUtZ2ltYW5hLWJhbmstYmpi",
+        "description": " Kinerja perbankan regional atau BPD membaik di sepanjang 2021, lalu bagaimana dengan bank bjb sebagai BPD dengan aset terbesar di Indonesia?"
+    },
+    {
+        "title": "Gaya Erick dan ST Burhanuddin Umumkan Tersangka Korupsi Garuda",
+        "link": "https://www.cnbcindonesia.com/market/20220627164141-18-350762/gaya-erick-st-burhanuddin-umumkan-tersangka-korupsi-garuda",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTY0MTQxLTE4LTM1MDc2Mi9nYXlhLWVyaWNrLXN0LWJ1cmhhbnVkZGluLXVtdW1rYW4tdGVyc2FuZ2thLWtvcnVwc2ktZ2FydWRh",
+        "description": " Kedua tersangka itu adalah mantan Direktur Utama Garuda Indonesia Emirsyah Satar dan eks Direktur Utama PT Mugi Rekso Abadi Soetikno Soedarjo."
+    },
+    {
+        "title": "Mantul! Wall Street Bakal dapat Angin Segar Dow Futures Hijau",
+        "link": "https://www.cnbcindonesia.com/market/20220627171004-17-350780/mantul-wall-street-bakal-dapat-angin-segar-dow-futures-hijau",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTcxMDA0LTE3LTM1MDc4MC9tYW50dWwtd2FsbC1zdHJlZXQtYmFrYWwtZGFwYXQtYW5naW4tc2VnYXItZG93LWZ1dHVyZXMtaGlqYXU=",
+        "description": " Kontrak berjangka (futures) indeks bursa AS menguat pada perdagangan hari ini."
+    },
+    {
+        "title": "Ini Alasan Industri Batu Bara Perlu Tranformasi",
+        "link": "https://www.cnbcindonesia.com/market/20220627174056-17-350787/ini-alasan-industri-batu-bara-perlu-tranformasi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTc0MDU2LTE3LTM1MDc4Ny9pbmktYWxhc2FuLWluZHVzdHJpLWJhdHUtYmFyYS1wZXJsdS10cmFuZm9ybWFzaQ==",
+        "description": " Transformasi menuju energi bersih masih terdapat tantangan bagi industri batu bara, mulai dari teknologi, kebutuhan investasi dan juga ekonomi proyek."
+    },
+    {
+        "title": "Breaking News: Harga Timah Lompat 7%!",
+        "link": "https://www.cnbcindonesia.com/market/20220627172900-17-350784/breaking-news-harga-timah-lompat-7",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTcyOTAwLTE3LTM1MDc4NC9icmVha2luZy1uZXdzLWhhcmdhLXRpbWFoLWxvbXBhdC03",
+        "description": " Harga timah menguat hingga 7% lebih pada perdagangan hari ini."
+    },
+    {
         "title": "Kabar Baik dari China, Harga Nikel Melonjak 2% Lebih",
         "link": "https://www.cnbcindonesia.com/market/20220627171250-17-350781/kabar-baik-dari-china-harga-nikel-melonjak-2-lebih",
         "image": "static/images/cnbc_market.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTYzNjEyLTE3LTM1MDc1Ny9yYW1haS10cmFuc2lzaS1lbmVyZ2ktcHRiYS11bmdrYXAtc3RyYXRlZ2ktdHJhbnNmb3JtYXNp",
         "description": " PT Bukit Asam Tbk (PTBA) menyiapkan empat pilar bisnis sebagai upaya transformasi menuju energi hijau."
-    },
-    {
-        "title": "Top! Jumlah Investor RI 9 Juta Lebih, Mayoritas Anak Muda",
-        "link": "https://www.cnbcindonesia.com/market/20220627162829-17-350749/top-jumlah-investor-ri-9-juta-lebih-mayoritas-anak-muda",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTYyODI5LTE3LTM1MDc0OS90b3AtanVtbGFoLWludmVzdG9yLXJpLTktanV0YS1sZWJpaC1tYXlvcml0YXMtYW5hay1tdWRh",
-        "description": " Jumlah investor pasar modal telah meningkat lebih dari 1,57 juta single investor identification (SID) atau 21% dari tahun sebelumnya."
-    },
-    {
-        "title": "Olesan Coklat dan Susu Coklat ROTI Segera Meluncur di Pasaran",
-        "link": "https://www.cnbcindonesia.com/market/20220627155737-17-350734/olesan-coklat-dan-susu-coklat-roti-segera-meluncur-di-pasaran",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTU1NzM3LTE3LTM1MDczNC9vbGVzYW4tY29rbGF0LWRhbi1zdXN1LWNva2xhdC1yb3RpLXNlZ2VyYS1tZWx1bmN1ci1kaS1wYXNhcmFu",
-        "description": " PT Nippon Indosari Corpindo Tbk (ROTI) akan segera merealisasikan bisnis Olesan Coklat dan Susu Coklat"
-    },
-    {
-        "title": "Punya Banyak Uang, Rusia Gagal Bayar Utang \"Receh\", Kok Bisa?",
-        "link": "https://www.cnbcindonesia.com/market/20220627153053-17-350719/punya-banyak-uang-rusia-gagal-bayar-utang-receh-kok-bisa",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTUzMDUzLTE3LTM1MDcxOS9wdW55YS1iYW55YWstdWFuZy1ydXNpYS1nYWdhbC1iYXlhci11dGFuZy1yZWNlaC1rb2stYmlzYQ==",
-        "description": " Rusia gagal mengalami gagal bayar utang (default) obligasi untuk pertama kalinya sejak 1998."
-    },
-    {
-        "title": "Peran Talenta Digital Hadapi Kejahatan Sistem Pembayaran",
-        "link": "https://www.cnbcindonesia.com/market/20220627134746-19-350683/peran-talenta-digital-hadapi-kejahatan-sistem-pembayaran",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTM0NzQ2LTE5LTM1MDY4My9wZXJhbi10YWxlbnRhLWRpZ2l0YWwtaGFkYXBpLWtlamFoYXRhbi1zaXN0ZW0tcGVtYmF5YXJhbg==",
-        "description": " Urgensi Talent Digital Hadapi Kejahatan Sistem Pembayaran"
-    },
-    {
-        "title": "Kode Broker dan Data Jual-Beli Investor Asing Hilang dari BEI",
-        "link": "https://www.cnbcindonesia.com/market/20220627155222-17-350733/kode-broker-data-jual-beli-investor-asing-hilang-dari-bei",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTU1MjIyLTE3LTM1MDczMy9rb2RlLWJyb2tlci1kYXRhLWp1YWwtYmVsaS1pbnZlc3Rvci1hc2luZy1oaWxhbmctZGFyaS1iZWk=",
-        "description": " Tipe investor dan kode broker resmi ditutup bursa, efeknya bagaimana ?"
-    },
-    {
-        "title": "Emas Negeri Putin 'Haram', Harga Naik!",
-        "link": "https://www.cnbcindonesia.com/market/20220627151655-17-350711/emas-negeri-putin-haram-harga-naik",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI3MTUxNjU1LTE3LTM1MDcxMS9lbWFzLW5lZ2VyaS1wdXRpbi1oYXJhbS1oYXJnYS1uYWlr",
-        "description": " Tren kenaikan harga emas masih berlanjut."
     }
 ]
