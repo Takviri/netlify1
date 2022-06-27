@@ -1,5 +1,47 @@
 [
     {
+        "title": "Kim Jong Un Waspada, Korut Tuduh AS Bentuk NATO 'Cabang' Asia",
+        "link": "https://www.cnbcindonesia.com/news/20220627142622-4-350697/kim-jong-un-waspada-korut-tuduh-as-bentuk-nato-cabang-asia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzE0MjYyMi00LTM1MDY5Ny9raW0tam9uZy11bi13YXNwYWRhLWtvcnV0LXR1ZHVoLWFzLWJlbnR1ay1uYXRvLWNhYmFuZy1hc2lh",
+        "description": " Korea Utara (Korut) menuduh Amerika Serikat (AS) tengah membentuk aliansi militer seperti NATO di Asia."
+    },
+    {
+        "title": "Ancaman Krisis Pangan Nyata! Jokowi: Kita Harus Bertindak!",
+        "link": "https://www.cnbcindonesia.com/news/20220627141421-4-350693/ancaman-krisis-pangan-nyata-jokowi-kita-harus-bertindak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzE0MTQyMS00LTM1MDY5My9hbmNhbWFuLWtyaXNpcy1wYW5nYW4tbnlhdGEtam9rb3dpLWtpdGEtaGFydXMtYmVydGluZGFr",
+        "description": " Jokowi menegaskan tak ingin ancaman krisis pangan merembet ke Indonesia"
+    },
+    {
+        "title": "Buwas Jamin Daging Kerbau Asal India Clear dan Bebas PMK",
+        "link": "https://www.cnbcindonesia.com/news/20220627140805-4-350691/buwas-jamin-daging-kerbau-asal-india-clear-bebas-pmk",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzE0MDgwNS00LTM1MDY5MS9idXdhcy1qYW1pbi1kYWdpbmcta2VyYmF1LWFzYWwtaW5kaWEtY2xlYXItYmViYXMtcG1r",
+        "description": " Dirut Bulog menjamin kondisi daging kerbau beku dari India berstatus clear."
+    },
+    {
+        "title": "Taman Nasional Komodo Mulai Batasi Kunjungan Wisatawan",
+        "link": "https://www.cnbcindonesia.com/news/20220627142851-4-350699/taman-nasional-komodo-mulai-batasi-kunjungan-wisatawan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzE0Mjg1MS00LTM1MDY5OS90YW1hbi1uYXNpb25hbC1rb21vZG8tbXVsYWktYmF0YXNpLWt1bmp1bmdhbi13aXNhdGF3YW4=",
+        "description": " Tingginya jumlah kunjungan wisatawan ke Taman Nasional Komodo, Nusa Tenggara Timur (NTT), dinilai mengancam keberadaan dan kelestarian biodiversitas"
+    },
+    {
+        "title": "Sah! Rusia Gagal Bayar Utang, Pertama Sejak 1918",
+        "link": "https://www.cnbcindonesia.com/news/20220627140533-4-350690/sah-rusia-gagal-bayar-utang-pertama-sejak-1918",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzE0MDUzMy00LTM1MDY5MC9zYWgtcnVzaWEtZ2FnYWwtYmF5YXItdXRhbmctcGVydGFtYS1zZWphay0xOTE4",
+        "description": " Rusia telah gagal (default) membayar utang luar negerinya untuk pertama kali."
+    },
+    {
+        "title": "Siaga Mafia Sawit, Kejagung dan BPKP Bikin Tim Audit Gabungan",
+        "link": "https://www.cnbcindonesia.com/news/20220627133222-4-350678/siaga-mafia-sawit-kejagung-bpkp-bikin-tim-audit-gabungan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzEzMzIyMi00LTM1MDY3OC9zaWFnYS1tYWZpYS1zYXdpdC1rZWphZ3VuZy1icGtwLWJpa2luLXRpbS1hdWRpdC1nYWJ1bmdhbg==",
+        "description": " BPKP dan Kejagung bekerja sama bentuk tim gabungan audit sawit."
+    },
+    {
         "title": "Beli Pertalite Harus Daftar Mulai 1 Juli 2022, Begini Caranya",
         "link": "https://www.cnbcindonesia.com/news/20220627134407-4-350685/beli-pertalite-harus-daftar-mulai-1-juli-2022-begini-caranya",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzExNDI1MC04LTM1MDYzNC9wZXRhbmktbWVuZ2VsdWgtaGFyZ2Etc2F3aXQtbWFzaWgtcmVuZGFoLWFkYS15YW5nLXJwLTMwMC1rZw==",
         "description": " Petani Mengeluh Harga Sawit Masih Rendah, Ada Yang Rp 300/Kg"
-    },
-    {
-        "title": "Laba BUMN Naik 1.000%, Jasa Raharja Sumbang Rp 1,6 T",
-        "link": "https://www.cnbcindonesia.com/news/20220627132350-4-350674/laba-bumn-naik-1000-jasa-raharja-sumbang-rp-16-t",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzEzMjM1MC00LTM1MDY3NC9sYWJhLWJ1bW4tbmFpay0xMDAwLWphc2EtcmFoYXJqYS1zdW1iYW5nLXJwLTE2LXQ=",
-        "description": " Akselerasi utama pertumbuhan laba Jasa Raharja terletak pada strategi bisnis yang AGILE atau singkatan dari Accelerate, Gain, Integrate, Leverage dan Enhance."
-    },
-    {
-        "title": "Kecelakaan Beruntun 17 Kendaraan di Cipularang",
-        "link": "https://www.cnbcindonesia.com/news/20220627120218-8-350645/kecelakaan-beruntun-17-kendaraan-di-cipularang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzEyMDIxOC04LTM1MDY0NS9rZWNlbGFrYWFuLWJlcnVudHVuLTE3LWtlbmRhcmFhbi1kaS1jaXB1bGFyYW5n",
-        "description": " Kecelakaan beruntun melibatkan 17 kendaraan di kilometer 92 tol Cipularang"
-    },
-    {
-        "title": "Faisal Basri Bicara Soal Harga Pertalite, Layak Naik?",
-        "link": "https://www.cnbcindonesia.com/news/20220627124423-4-350658/faisal-basri-bicara-soal-harga-pertalite-layak-naik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzEyNDQyMy00LTM1MDY1OC9mYWlzYWwtYmFzcmktYmljYXJhLXNvYWwtaGFyZ2EtcGVydGFsaXRlLWxheWFrLW5haWs=",
-        "description": " Pemerintah didorong untuk segera melakukan penyesuaian harga bahan bakar minyak (BBM) jenis Pertalite maupun solar bersubsidi."
-    },
-    {
-        "title": "Covid Belum Kelar, Tetangga RI Malah 'Diterjang' Wabah Baru",
-        "link": "https://www.cnbcindonesia.com/news/20220627124336-4-350657/covid-belum-kelar-tetangga-ri-malah-diterjang-wabah-baru",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzEyNDMzNi00LTM1MDY1Ny9jb3ZpZC1iZWx1bS1rZWxhci10ZXRhbmdnYS1yaS1tYWxhaC1kaXRlcmphbmctd2FiYWgtYmFydQ==",
-        "description": " Australia saat ini dilanda oleh wabah flu. Hal ini terlihat dari catatan penemuan kasus yang ditemukan Pemerintah Federal Negeri Kangguru."
-    },
-    {
-        "title": "Pertama! NASA Luncurkan Roket Dari Australia",
-        "link": "https://www.cnbcindonesia.com/news/20220627120107-8-350643/pertama-nasa-luncurkan-roket-dari-australia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzEyMDEwNy04LTM1MDY0My9wZXJ0YW1hLW5hc2EtbHVuY3Vya2FuLXJva2V0LWRhcmktYXVzdHJhbGlh",
-        "description": " Nasa meluncurkan roket luar angkasa dari Australia"
-    },
-    {
-        "title": "Indonesia Investment Authority Akan Kelola 2 Ruas Tol Waskita",
-        "link": "https://www.cnbcindonesia.com/news/20220627123308-4-350655/indonesia-investment-authority-akan-kelola-2-ruas-tol-waskita",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzEyMzMwOC00LTM1MDY1NS9pbmRvbmVzaWEtaW52ZXN0bWVudC1hdXRob3JpdHktYWthbi1rZWxvbGEtMi1ydWFzLXRvbC13YXNraXRh",
-        "description": " PT Waskita Karya (Persero) Tbk akan melakukan divestasi 5 ruas tol pada tahun ini."
     }
 ]
