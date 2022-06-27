@@ -1,5 +1,19 @@
 [
     {
+        "title": "Desain Awal APBN 2023: PDB Meroket, Tambahan Utang Menyusut",
+        "link": "https://www.cnbcindonesia.com/news/20220627221919-4-350847/desain-awal-apbn-2023-pdb-meroket-tambahan-utang-menyusut",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzIyMTkxOS00LTM1MDg0Ny9kZXNhaW4tYXdhbC1hcGJuLTIwMjMtcGRiLW1lcm9rZXQtdGFtYmFoYW4tdXRhbmctbWVueXVzdXQ=",
+        "description": " Pemerintah dan Badan Anggaran (Banggar) Dewan Perwakilan Rakyat (DPR) telah menyepakati KEMPPKF 2023."
+    },
+    {
+        "title": "Pertempuran Makin Gawat, Warga Kota Ukraina Ini Diminta Pergi",
+        "link": "https://www.cnbcindonesia.com/news/20220627185221-7-350808/pertempuran-makin-gawat-warga-kota-ukraina-ini-diminta-pergi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzE4NTIyMS03LTM1MDgwOC9wZXJ0ZW1wdXJhbi1tYWtpbi1nYXdhdC13YXJnYS1rb3RhLXVrcmFpbmEtaW5pLWRpbWludGEtcGVyZ2k=",
+        "description": " Lysychansk merupakan wilayah perebutan pasukan Rusia-Ukraina kini. Kota itu merupakan salah satu kunci bagi Rusia untuk menguasai wilayah Luhansk."
+    },
+    {
         "title": "Orang Terkaya Ukraina Ini Gugat Rusia di Pengadilan HAM Eropa",
         "link": "https://www.cnbcindonesia.com/news/20220627202437-4-350841/orang-terkaya-ukraina-ini-gugat-rusia-di-pengadilan-ham-eropa",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzE5NDMzNC04LTM1MDgzNy9nYXJ1ZGEtaW5kb25lc2lhLWxvbG9zLWRhcmktamVyYXRhbi1wYWlsaXQ=",
         "description": " Proposal perdamaian PKPU Garuda Indonesia kepada para kreditur disahkah oleh hakim pemutus."
-    },
-    {
-        "title": "Pemilik Masuk Daftar Hitam, Kejagung Sita Lahan PT Duta Palma",
-        "link": "https://www.cnbcindonesia.com/news/20220627192940-4-350834/pemilik-masuk-daftar-hitam-kejagung-sita-lahan-pt-duta-palma",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzE5Mjk0MC00LTM1MDgzNC9wZW1pbGlrLW1hc3VrLWRhZnRhci1oaXRhbS1rZWphZ3VuZy1zaXRhLWxhaGFuLXB0LWR1dGEtcGFsbWE=",
-        "description": " Kejagung sita lahan PT Duta Palma Group."
-    },
-    {
-        "title": "Potret Jokowi, Biden, Pimpinan G7 Kumpul Bareng di Alpen",
-        "link": "https://www.cnbcindonesia.com/news/20220627192800-7-350827/potret-jokowi-biden-pimpinan-g7-kumpul-bareng-di-alpen",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyNzE5MjgwMC03LTM1MDgyNy9wb3RyZXQtam9rb3dpLWJpZGVuLXBpbXBpbmFuLWc3LWt1bXB1bC1iYXJlbmctZGktYWxwZW4=",
-        "description": " Presiden Joko Widodo sendiri akan menghadiri Konferensi Tingkat Tinggi (KTT) G7 ke-48 yang digelar di Schloss Elmau, Pegunungan Alpen Bavaria, Jerman."
     }
 ]
