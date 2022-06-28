@@ -1,10 +1,24 @@
 [
     {
+        "title": "Bareskrim Ancam Tahan Lagi Tersangka Kasus KSP Indosurya",
+        "link": "https://nasional.tempo.co/read/1606577/bareskrim-ancam-tahan-lagi-tersangka-kasus-ksp-indosurya",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDY1NzcvYmFyZXNrcmltLWFuY2FtLXRhaGFuLWxhZ2ktdGVyc2FuZ2thLWthc3VzLWtzcC1pbmRvc3VyeWE=",
+        "description": "Bareskrim Polri berupaya melakukan penahanan untuk kedua tersangka kasus KSP Indosurya dengan laporan lain."
+    },
+    {
         "title": "Massa Pendemo Tolak RKUHP Bubar Setelah Gagal Temui Puan Maharani",
         "link": "https://nasional.tempo.co/read/1606566/massa-pendemo-tolak-rkuhp-bubar-setelah-gagal-temui-puan-maharani",
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDY1NjYvbWFzc2EtcGVuZGVtby10b2xhay1ya3VocC1idWJhci1zZXRlbGFoLWdhZ2FsLXRlbXVpLXB1YW4tbWFoYXJhbmk=",
         "description": "Massa mahasiswa yang berunjuk rasa menolak RKUHP yang kecewa tak ditemui Puan Maharani akhirnya membubarkan diri."
+    },
+    {
+        "title": "PLN Jalin Kesepakatan dengan BSSN Amankan Digitalisasi",
+        "link": "https://nasional.tempo.co/read/1606544/pln-jalin-kesepakatan-dengan-bssn-amankan-digitalisasi",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDY1NDQvcGxuLWphbGluLWtlc2VwYWthdGFuLWRlbmdhbi1ic3NuLWFtYW5rYW4tZGlnaXRhbGlzYXNp",
+        "description": "Sistem ketenagalistrikan yang berbasis digital dapat menjadi sistem yang sangat kokoh."
     },
     {
         "title": "Presiden Jokowi Bertolak ke Polandia, Dilanjutkan Naik Kereta 12 Jam ke Kyiv",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDY1MDQvYXR1cmFuLWtodXN1cy1hc24tZGFsYW0tcnV1LWRvYi1wYXB1YS04MC1wZXJzZW4tb2FwLXVzaWEtY3Bucy1ib2xlaC00OC10YWh1bg==",
         "description": "Ketua Komisi II DPR, Ahmad Doli Kurnia mengklaim, RUU DOB ini telah mendapat penerimaan dari masyarakat Papua."
-    },
-    {
-        "title": "Bulog Langsung ke India Pastikan Daging Kerbau Bebas PMK",
-        "link": "https://nasional.tempo.co/read/1606492/bulog-langsung-ke-india-pastikan-daging-kerbau-bebas-pmk",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDY0OTIvYnVsb2ctbGFuZ3N1bmcta2UtaW5kaWEtcGFzdGlrYW4tZGFnaW5nLWtlcmJhdS1iZWJhcy1wbWs=",
-        "description": "Tim Bulog dipimin Direktur Bisnis Febby Novita melakukan pengecekan langsung ke India."
-    },
-    {
-        "title": "Mengenal Apa Itu Toponimi dan Fungsinya",
-        "link": "https://nasional.tempo.co/read/1606479/mengenal-apa-itu-toponimi-dan-fungsinya",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDY0NzkvbWVuZ2VuYWwtYXBhLWl0dS10b3BvbmltaS1kYW4tZnVuZ3Npbnlh",
-        "description": "Kamus Besar Bahasa Indonesia (KBBI) mendefinisikan toponimi adalah cabang onomastika yang menyelidiki nama tempat."
     }
 ]
