@@ -1,5 +1,26 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502484/erick-thohir-ajak-seniman-ikut-kelola-gedung-tua-bumn",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyNDg0L2VyaWNrLXRob2hpci1hamFrLXNlbmltYW4taWt1dC1rZWxvbGEtZ2VkdW5nLXR1YS1idW1u",
+        "description": "MENTERI Badan Usaha Milik Negara (BUMN) menghadiri Pemeran Kesenian dalam rangka HUT ke-495 DKI bersama seniman Lorong Rupa Kota Tua&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502486/kpu-pan-dan-pkb-belum-daftar-sipol",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDI0ODYva3B1LXBhbi1kYW4tcGtiLWJlbHVtLWRhZnRhci1zaXBvbA==",
+        "description": "KOMISI Pemilihan Umum (KPU) menyatakan pihaknya masih menunggu partai politik (parpol) lain untuk mendaftar dan terintegrasi <a href=\"http://mediaindonesia.com/tag/Sistem Informasi Partai Politik (Sipol).\"&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502483/gyeongnam-jakarta-office-gelar-acara-membuat-lentera-dan-chungmu-kimbab",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyNDgzL2d5ZW9uZ25hbS1qYWthcnRhLW9mZmljZS1nZWxhci1hY2FyYS1tZW1idWF0LWxlbnRlcmEtZGFuLWNodW5nbXUta2ltYmFi",
+        "description": "GYEONGNAM Jakarta Office mengadakan acara Experience K-culture bersama dengan Korean Cultural Center Indonesia (KCCI) untuk mempromosikan&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/502482/fenerbahce-tertarik-datangkan-diaz-dari-real-madrid",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDI0NzYvcmFkdWNhbnUtdGlydS1kYXlhLWp1YW5nLW5hZGFsLXVudHVrLW1lbmFuZy1kaS1wdXRhcmFuLXBlcnRhbWEtd2ltYmxlZG9u",
         "description": "EMMA Raducanu mengaku berusaha menduplikasi daya juang Rafael Nadal dengan menggunakan logo petenis Spanyol itu ketika mengalahkan Alison Van Uytvanck 6-4 dan 6-4 di putaran pertama <a href=\"http://mediaindonesia.com/tag/wimbledon\"&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/502471/west-ham-permanenkan-areola",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjQ3MS93ZXN0LWhhbS1wZXJtYW5lbmthbi1hcmVvbGE=",
-        "description": "WEST Ham United memermanenkan kontrak penjaga gawang Prancis Alphonse Areola dari Paris Saint-Germain dengan nilai transfer&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/502475/ledakan-gas-beracun-di-yordania-tewaskan-10-orang-dan-lukai-200-lainnya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjQ3NS9sZWRha2FuLWdhcy1iZXJhY3VuLWRpLXlvcmRhbmlhLXRld2Fza2FuLTEwLW9yYW5nLWRhbi1sdWthaS0yMDAtbGFpbm55YQ==",
-        "description": "LEDAKAN gas, Senin (27/6), menewaskan sedikitnya 10 orang dan melukai lebih dari 250 lainnya ketika sebuah tangki yang jatuh dari crane melepaskan awan beracun berwarna kuning di Pelabuhan Aqaba, <a&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/502474/djokovic-bukukan-kemenangan-ke-80-di-wimbledon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDI0NzQvZGpva292aWMtYnVrdWthbi1rZW1lbmFuZ2FuLWtlLTgwLWRpLXdpbWJsZWRvbg==",
-        "description": "JUARA bertahan Wimbledon Novak Djokovic, Senin (27/6), menjadi petenis pertama yang memenangkan 80 pertandingan di semua turnamen&#8230;"
     }
 ]
