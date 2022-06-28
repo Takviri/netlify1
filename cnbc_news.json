@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ada 'Harta Karun' Gas Jumbo, Kilang Arun Aceh Bisa Hidup Lagi",
+        "link": "https://www.cnbcindonesia.com/news/20220628135909-4-351051/ada-harta-karun-gas-jumbo-kilang-arun-aceh-bisa-hidup-lagi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODEzNTkwOS00LTM1MTA1MS9hZGEtaGFydGEta2FydW4tZ2FzLWp1bWJvLWtpbGFuZy1hcnVuLWFjZWgtYmlzYS1oaWR1cC1sYWdp",
+        "description": " Skk Migas berharap produksi migas di Blok Andaman II bisa segera diperoleh, dengan begitu Kilang LNG Arun bisa aktif lagi"
+    },
+    {
+        "title": "Bandara Makin Ramai, Penerbangan Sudah Pulih Dari Pandemi?",
+        "link": "https://www.cnbcindonesia.com/news/20220628134431-4-351048/bandara-makin-ramai-penerbangan-sudah-pulih-dari-pandemi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODEzNDQzMS00LTM1MTA0OC9iYW5kYXJhLW1ha2luLXJhbWFpLXBlbmVyYmFuZ2FuLXN1ZGFoLXB1bGloLWRhcmktcGFuZGVtaQ==",
+        "description": " Pergerakan penumpang dan pesawat di bandara Soekarno Hatta, Cengkareng diprediksi bakal terus membaik."
+    },
+    {
+        "title": "Jokowi Berburu Komitmen Investasi di KTT G7",
+        "link": "https://www.cnbcindonesia.com/news/20220628124042-8-351013/jokowi-berburu-komitmen-investasi-di-ktt-g7",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODEyNDA0Mi04LTM1MTAxMy9qb2tvd2ktYmVyYnVydS1rb21pdG1lbi1pbnZlc3Rhc2ktZGkta3R0LWc3",
+        "description": " Joko Widodo mengajak negara-negara G7 untuk berkontribusi memanfaatkan peluang investasi di sektor energi bersih di Indonesia."
+    },
+    {
+        "title": "Sri Mulyani Ungkap Mahalnya Ongkos Kurangi Emisi di RI",
+        "link": "https://www.cnbcindonesia.com/news/20220628133232-4-351031/sri-mulyani-ungkap-mahalnya-ongkos-kurangi-emisi-di-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODEzMzIzMi00LTM1MTAzMS9zcmktbXVseWFuaS11bmdrYXAtbWFoYWxueWEtb25na29zLWt1cmFuZ2ktZW1pc2ktZGktcmk=",
+        "description": " Biaya untuk mengurangi emisi di Indonesia sangat mahal."
+    },
+    {
+        "title": "Wow, Orang Terkaya Asia Mau \"Bagi-bagi Duit\" Rp 114 T",
+        "link": "https://www.cnbcindonesia.com/news/20220628131535-4-351025/wow-orang-terkaya-asia-mau-bagi-bagi-duit-rp-114-t",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODEzMTUzNS00LTM1MTAyNS93b3ctb3JhbmctdGVya2F5YS1hc2lhLW1hdS1iYWdpLWJhZ2ktZHVpdC1ycC0xMTQtdA==",
+        "description": " Orang terkaya di Asia, Gautam Adani, berjanji akan memberikan dana sebesar 600 miliar rupee atau setara Rp 114 triliun."
+    },
+    {
+        "title": "Penampakan Kereta Amtrak Tabrak Truk Sampah di AS",
+        "link": "https://www.cnbcindonesia.com/news/20220628135703-8-351050/penampakan-kereta-amtrak-tabrak-truk-sampah-di-as",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODEzNTcwMy04LTM1MTA1MC9wZW5hbXBha2FuLWtlcmV0YS1hbXRyYWstdGFicmFrLXRydWstc2FtcGFoLWRpLWFz",
+        "description": " Penampakan Kereta Amtrak Tabrak Truk Sampah di AS"
+    },
+    {
         "title": "5 Fakta KTT NATO di Madrid, dari Rusia hingga 'Ancaman' China",
         "link": "https://www.cnbcindonesia.com/news/20220628135336-4-351049/5-fakta-ktt-nato-di-madrid-dari-rusia-hingga-ancaman-china",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODEyNTczOC00LTM1MTAyMi9ibHUtcHVuZ3V0YW4tYmF0dS1iYXJhLWRpdGVyYXdhbmctdGVyYmVudHVrLWp1bGktMjAyMg==",
         "description": " Kementerian ESDM memprediksi pembentukan Entitas Khusus Batu Bara atau\u00c2\u00a0BLU\u00c2\u00a0pungutan iuran batu bara bisa terbentuk pada Juli 2022 ini."
-    },
-    {
-        "title": "Mohon Maaf, Pakistan... Badai Belum Berlalu",
-        "link": "https://www.cnbcindonesia.com/news/20220628113159-4-350977/mohon-maaf-pakistan-badai-belum-berlalu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODExMzE1OS00LTM1MDk3Ny9tb2hvbi1tYWFmLXBha2lzdGFuLWJhZGFpLWJlbHVtLWJlcmxhbHU=",
-        "description": " Impor bahan bakar minyak Pakistan diperkirakan akan mencapai posisi tertinggi dalam empat tahun."
-    },
-    {
-        "title": "Hore! Sri Mulyani Sore Ini Umumkan Pencairan Gaji ke-13 PNS",
-        "link": "https://www.cnbcindonesia.com/news/20220628131807-4-351027/hore-sri-mulyani-sore-ini-umumkan-pencairan-gaji-ke-13-pns",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODEzMTgwNy00LTM1MTAyNy9ob3JlLXNyaS1tdWx5YW5pLXNvcmUtaW5pLXVtdW1rYW4tcGVuY2FpcmFuLWdhamkta2UtMTMtcG5z",
-        "description": " Sri Mulyani hari ini akan mengumumkan pencairan gaji ke-13 untuk aparatur sipil negara (ASN), termasuk pegawai negeri sipil (PNS)."
-    },
-    {
-        "title": "Tragedi di AS, Mayat-mayat Ditemukan Tewas di Truk Trailer",
-        "link": "https://www.cnbcindonesia.com/news/20220628115321-4-350982/tragedi-di-as-mayat-mayat-ditemukan-tewas-di-truk-trailer",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODExNTMyMS00LTM1MDk4Mi90cmFnZWRpLWRpLWFzLW1heWF0LW1heWF0LWRpdGVtdWthbi10ZXdhcy1kaS10cnVrLXRyYWlsZXI=",
-        "description": " Sebanyak 46 migran ditemukan tewas di dalam dan sekitar sebuah truk trailer yang ditinggalkan di sisi jalan kota San Antonio."
-    },
-    {
-        "title": "Mulai 1 Juli Beli Pertalite Harus Daftar di MyPertamina",
-        "link": "https://www.cnbcindonesia.com/news/20220628124018-8-351012/mulai-1-juli-beli-pertalite-harus-daftar-di-mypertamina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODEyNDAxOC04LTM1MTAxMi9tdWxhaS0xLWp1bGktYmVsaS1wZXJ0YWxpdGUtaGFydXMtZGFmdGFyLWRpLW15cGVydGFtaW5h",
-        "description": " Mulai 1 Juli, pembelian pertalite dan solar subsidi melalui website dan aplikasi MyPertamina."
-    },
-    {
-        "title": "Ini Langkah Nyata Telkom Dukung Digitalisasi Pendidikan",
-        "link": "https://www.cnbcindonesia.com/news/20220628131540-4-351026/ini-langkah-nyata-telkom-dukung-digitalisasi-pendidikan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODEzMTU0MC00LTM1MTAyNi9pbmktbGFuZ2thaC1ueWF0YS10ZWxrb20tZHVrdW5nLWRpZ2l0YWxpc2FzaS1wZW5kaWRpa2Fu",
-        "description": " Telkom selalu berupaya untuk hadir langsung di tengah masyarakat dengan memberikan kontribusi terbaik, salah satunya melalui dukungan digitalisasi."
-    },
-    {
-        "title": "Jokowi-Biden Mesra di KTT G7",
-        "link": "https://www.cnbcindonesia.com/news/20220628120157-8-351000/jokowi-biden-mesra-di-ktt-g7",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODEyMDE1Ny04LTM1MTAwMC9qb2tvd2ktYmlkZW4tbWVzcmEtZGkta3R0LWc3",
-        "description": " Jokowi diapit pemimpin negara tuan rumah, Kanselir Jerman Olaf Scholz, dan Presiden Amerika Serikat, Joe Biden."
     }
 ]
