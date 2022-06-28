@@ -1,6 +1,55 @@
 [
     {
         "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/502550/as-roma-optimistis-dapatkan-aouar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjU1MC9hcy1yb21hLW9wdGltaXN0aXMtZGFwYXRrYW4tYW91YXI=",
+        "description": "KLUB Serie A AS Roma dikabarkan optimistis bisa mengamankan jasa gelandang Houssem Aouar dari Olympique Lyon pada bursa transfer&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502562/dcost-berkolaborasi-dengan-benihbaikcom-galang-donasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyNTYyL2Rjb3N0LWJlcmtvbGFib3Jhc2ktZGVuZ2FuLWJlbmloYmFpa2NvbS1nYWxhbmctZG9uYXNp",
+        "description": "D&rsquo;Cost adakan kampanye #KembaliKeDCOST untuk memperkenalkan kembali D&rsquo;Cost kepada masyarakat. &ldquo;Jadi mungkin kalau ngomongin D&rsquo;Cost, pasti sudah banyak yang tahu. Mungkin punya&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502561/dengan-miliki-tiga-kapal-bulk-carrier-pt-hatm-lakukan-ipo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjU2MS9kZW5nYW4tbWlsaWtpLXRpZ2Eta2FwYWwtYnVsay1jYXJyaWVyLXB0LWhhdG0tbGFrdWthbi1pcG8=",
+        "description": "Sejalan pemulihan kondisi ekonomi global pasca-covid-19 yang sudah mengarah kepada status endemi, roda rantai pasokan kembali beroperasional sejalan dengan kebutuhan aktivitas ekonomi. Ketersediaan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/502560/2200-dosis-vaksin-pmk-disalurkan-oleh-pemkab-klaten",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyNTYwLzIyMDAtZG9zaXMtdmFrc2luLXBtay1kaXNhbHVya2FuLW9sZWgtcGVta2FiLWtsYXRlbg==",
+        "description": "Kabupaten Klaten, Jawa Tengah mulai menyalurkan sebanyak 2.200 dosis vaksin penyakit mulut dan kuku (PMK) untuk sapi pada tahap awal program vaksinasi virus tersebut. &quot;Kami dapat alokasi&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502546/jaksa-agung-sebut-penyalahguna-narkoba-lebih-tepat-direhabilitasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDI1NDYvamFrc2EtYWd1bmctc2VidXQtcGVueWFsYWhndW5hLW5hcmtvYmEtbGViaWgtdGVwYXQtZGlyZWhhYmlsaXRhc2k=",
+        "description": "JAKSA Agung Republik Indonesia Sanitiar Burhanuddin mengatakan para penyalahguna narkotika lebih tepat apabila mendapatkan rehabilitasi&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/502559/brics-akan-memperluas-keanggotaan-indonesia-diajak-bergabung",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjU1OS9icmljcy1ha2FuLW1lbXBlcmx1YXMta2Vhbmdnb3RhYW4taW5kb25lc2lhLWRpYWphay1iZXJnYWJ1bmc=",
+        "description": "NEGARA-negara anggota BRICS, yakni Brasil, Rusia, India, Tiongkok, dan Afrika Selatan, mengatakan akan memperluas keanggotaan mereka. Beberapa negara mereka klaim telah menunjukkan keinginan untuk&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/502558/apriyanifadia-melaju-ke-babak-16-besar-malaysia-terbuka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDI1NTgvYXByaXlhbmlmYWRpYS1tZWxhanUta2UtYmFiYWstMTYtYmVzYXItbWFsYXlzaWEtdGVyYnVrYQ==",
+        "description": "PASANGAN ganda putri Indonesia Apriyani Rahayu/Siti Fadia Silva Ramadhanti, berhasil melewati rintangan pertama turnamen bulu tangkis Malaysia Terbuka 2022 dengan mulus. Mereka menang atas pasangan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/502537/atletico-madrid-dan-real-betis-bersaing-untuk-datangkan-bellerin",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjUzNy9hdGxldGljby1tYWRyaWQtZGFuLXJlYWwtYmV0aXMtYmVyc2FpbmctdW50dWstZGF0YW5na2FuLWJlbGxlcmlu",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDI1NTUvcG9zaXRpdml0eS1yYXRlLTEyLWthc3VzLWNvdmlkLTE5LWRraS1jYXBhaS04NTAz",
         "description": "PEMPROV DKI Jakarta terus melaporkan kasus baru covid-19. Data terbaru per Senin (27/6) malam, kini kasus aktif covid-19 sudah tembus angka 8.503 kasus. Hal ini disampaikan oleh Kepala Bidang&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/502553/ini-pesan-ridwan-kamil-pada-bima-arya-terkait-holywings",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyNTUzL2luaS1wZXNhbi1yaWR3YW4ta2FtaWwtcGFkYS1iaW1hLWFyeWEtdGVya2FpdC1ob2x5d2luZ3M=",
-        "description": "Ini Pesan Ridwan Kamil pada Bima Arya Terkait Holywings Gubernur Jawa Barat M Ridwan Kamil memberikan pesan khusus kepada Wali Kota Bogor Bima Arya Sugiarto dan Wali Kota Bandung Yana Mulyana&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/502552/kapal-wisata-karam-petugas-labuan-bajo-temukan-dua-jenazah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyNTUyL2thcGFsLXdpc2F0YS1rYXJhbS1wZXR1Z2FzLWxhYnVhbi1iYWpvLXRlbXVrYW4tZHVhLWplbmF6YWg=",
-        "description": "TIM SAR gabungan TNI-Polri di Labuan Bajo, Manggarai Barat, Nusa Tenggara Timur, berhasil menemukan dan mengevakuasi dua jenazah korban kapal&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502551/26-parpol-telah-terdaftar-di-sistem-informasi-parpol-pemilu-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDI1NTEvMjYtcGFycG9sLXRlbGFoLXRlcmRhZnRhci1kaS1zaXN0ZW0taW5mb3JtYXNpLXBhcnBvbC1wZW1pbHUtMjAyMg==",
-        "description": "KOMISI Pemilihan Umum&nbsp;(KPU) menyatakan jumlah&nbsp;partai politik&nbsp;(parpol) yang mendaftar dan terintegrasi Sistem Informasi Partai Politik (Sipol) terus bertambah. Sebanyak 26 parpol&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/502549/delapan-ribu-pecinta-kuliner-hadiri-ubud-food-festival",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyNTQ5L2RlbGFwYW4tcmlidS1wZWNpbnRhLWt1bGluZXItaGFkaXJpLXVidWQtZm9vZC1mZXN0aXZhbA==",
-        "description": "Ubud Food Festival 2022 mampu menarik 8.000 pecinta kuliner datang dan digoyang lidahnya untuk mencicipi makanan dan minuman yang dijajakan sambil menikmati berbagai acara di antaranya pentas musik,&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/502548/presiden-rusia-vladimir-putin-pastikan-hadir-di-ktt-g20",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjU0OC9wcmVzaWRlbi1ydXNpYS12bGFkaW1pci1wdXRpbi1wYXN0aWthbi1oYWRpci1kaS1rdHQtZzIw",
-        "description": "Presiden Rusia Vladimir Putin dipastikan menghadiri pertemuan puncak (KTT) G20 yang akan berlangsung di Bali pada November mendatang. Yury Ushakov, penasehat Putin mengatakan Presiden Joko Widodo&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/502532/rans-nusantara-fc-akan-namai-fasilitas-latihan-mereka-ronaldinhos-field",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjUzMi9yYW5zLW51c2FudGFyYS1mYy1ha2FuLW5hbWFpLWZhc2lsaXRhcy1sYXRpaGFuLW1lcmVrYS1yb25hbGRpbmhvcy1maWVsZA==",
-        "description": "CHAIRMAN klub RANS Nusantara FC Rudy Salim menyatakan akan membangun lapangan latihan tim di kawasan RANS Prestige Sportainment&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/502547/good-games-guild-ciptakan-ekonomi-dunia-maya-melalui-gim",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTAyNTQ3L2dvb2QtZ2FtZXMtZ3VpbGQtY2lwdGFrYW4tZWtvbm9taS1kdW5pYS1tYXlhLW1lbGFsdWktZ2lt",
-        "description": "Good Games Guild memulai debutnya dengan menampilkan diri sebagai sebuah Gaming Hub di tengah sensasi yang terjadi akhir-akhir ini dari dunia metaverse, dunia virtual universal dan imersif yang difasilitasi&#8230;"
     }
 ]
