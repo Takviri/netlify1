@@ -1,5 +1,33 @@
 [
     {
+        "title": "Mau tidak mau, suka tidak suka UMKM harus mulai beralih ke arah digitalisasi",
+        "link": "https://nasional.tempo.co/read/1606428/mau-tidak-mau-suka-tidak-suka-umkm-harus-mulai-beralih-ke-arah-digitalisasi",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDY0MjgvbWF1LXRpZGFrLW1hdS1zdWthLXRpZGFrLXN1a2EtdW1rbS1oYXJ1cy1tdWxhaS1iZXJhbGloLWtlLWFyYWgtZGlnaXRhbGlzYXNp",
+        "description": "Tak semua Usaha Mikro Kecil dan Menengah (UMKM) mulai beralih ke ranah digital."
+    },
+    {
+        "title": "RUU DOB Papua Dikebut, Mahfud: Pendukung Lebih Besar daripada yang Menolak",
+        "link": "https://nasional.tempo.co/read/1606427/ruu-dob-papua-dikebut-mahfud-pendukung-lebih-besar-daripada-yang-menolak",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDY0MjcvcnV1LWRvYi1wYXB1YS1kaWtlYnV0LW1haGZ1ZC1wZW5kdWt1bmctbGViaWgtYmVzYXItZGFyaXBhZGEteWFuZy1tZW5vbGFr",
+        "description": "DPR RI bersama pemerintah berkukuh menuntaskan pembahasan tiga RUU DOB Papua dalam pekan ini."
+    },
+    {
+        "title": "PAN Tunjuk Yandri Susanto Jadi Wakil Ketua MPR Gantikan Zulkifli Hasan",
+        "link": "https://nasional.tempo.co/read/1606420/pan-tunjuk-yandri-susanto-jadi-wakil-ketua-mpr-gantikan-zulkifli-hasan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDY0MjAvcGFuLXR1bmp1ay15YW5kcmktc3VzYW50by1qYWRpLXdha2lsLWtldHVhLW1wci1nYW50aWthbi16dWxraWZsaS1oYXNhbg==",
+        "description": "DPP PAN telah memutuskan untuk menunjuk Yandri Susanto sebagai Wakil Ketua MPR RI menggantikan Zulkifli Hasan yang kini menjadi Menteri Perdagangan."
+    },
+    {
+        "title": "Jokowi Beri Alarm Efek Perang Ukraina di KTT G7: Waktu Kita Tak Panjang",
+        "link": "https://nasional.tempo.co/read/1606421/jokowi-beri-alarm-efek-perang-ukraina-di-ktt-g7-waktu-kita-tak-panjang",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDY0MjEvam9rb3dpLWJlcmktYWxhcm0tZWZlay1wZXJhbmctdWtyYWluYS1kaS1rdHQtZzctd2FrdHUta2l0YS10YWstcGFuamFuZw==",
+        "description": "Jokowi meminta adanya reintegrasi ekspor gandum Ukraina serta ekspor komododitas pangan dan pupuk Rusia dalam rantai pasok global."
+    },
+    {
         "title": "Mahasiswa Desak Draf RKUHP Dibuka, Wamenkumham: Emangnya Pintu?",
         "link": "https://nasional.tempo.co/read/1606418/mahasiswa-desak-draf-rkuhp-dibuka-wamenkumham-emangnya-pintu",
         "image": "static/images/tempo_nasional.png",
@@ -7,10 +35,10 @@
         "description": "Wakil Menteri Hukum dan HAM Edward Omar Sharif Hiariej ogah merespons aksi demo mahasiswa menolak Rancangan Kitab Undang-Undang Hukum Pidana (RKUHP)"
     },
     {
-        "title": "Pengambilan Keputusan Tingkat I 3 RUU DOB Papua DigelarHari Ini",
-        "link": "https://nasional.tempo.co/read/1606412/pengambilan-keputusan-tingkat-i-3-ruu-dob-papua-digelarhari-ini",
+        "title": "Pengambilan Keputusan Tingkat I terhadap 3 RUU DOB Papua Digelar Hari Ini",
+        "link": "https://nasional.tempo.co/read/1606412/pengambilan-keputusan-tingkat-i-terhadap-3-ruu-dob-papua-digelar-hari-ini",
         "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDY0MTIvcGVuZ2FtYmlsYW4ta2VwdXR1c2FuLXRpbmdrYXQtaS0zLXJ1dS1kb2ItcGFwdWEtZGlnZWxhcmhhcmktaW5p",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDY0MTIvcGVuZ2FtYmlsYW4ta2VwdXR1c2FuLXRpbmdrYXQtaS10ZXJoYWRhcC0zLXJ1dS1kb2ItcGFwdWEtZGlnZWxhci1oYXJpLWluaQ==",
         "description": "DPR berkukuh menuntaskan pembahasan tiga rancangan undang-undang daerah otonomi baru atau RUU DOB Papua pekan ini."
     },
     {
@@ -40,33 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDYzOTUvY2VnYWgtcG9sYXJpc2FzaS1kaS1waWxwcmVzLTIwMjQtZGVtb2tyYXQtbWluaW1hbC1hZGEtMy1wYXNhbmctY2FwcmVzLWNhd2FwcmVz",
         "description": "Politikus Partai Demokrat Herzaky menerangkan, polarisasi di masyarakat, terjadi sejak Pilpres 2014. Saat itu hanya ada dua kubu capres"
-    },
-    {
-        "title": "KPK Siap Hadapi Praperadilan yang Diajukan Mardani Maming",
-        "link": "https://nasional.tempo.co/read/1606392/kpk-siap-hadapi-praperadilan-yang-diajukan-mardani-maming",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDYzOTIva3BrLXNpYXAtaGFkYXBpLXByYXBlcmFkaWxhbi15YW5nLWRpYWp1a2FuLW1hcmRhbmktbWFtaW5n",
-        "description": "KPK menyatakan siap untuk menghadapi Praperadilan yang diajukan Mantan Bupati Tanah Bumbu Mardani Maming."
-    },
-    {
-        "title": "Lantik Pejabat Tinggi Pratama, Mensos Ingatkan Kerja Kolektif",
-        "link": "https://nasional.tempo.co/read/1606388/lantik-pejabat-tinggi-pratama-mensos-ingatkan-kerja-kolektif",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDYzODgvbGFudGlrLXBlamFiYXQtdGluZ2dpLXByYXRhbWEtbWVuc29zLWluZ2F0a2FuLWtlcmphLWtvbGVrdGlm",
-        "description": "Kerja kolektif dan saling melengkapi akan mempermudah mengatasi permasalahan sosial di masyarakat."
-    },
-    {
-        "title": "Kejagung Tetapkan Emirsyah Satar Tersangka Kasus Korupsi Garuda, Ini Kata KPK",
-        "link": "https://nasional.tempo.co/read/1606384/kejagung-tetapkan-emirsyah-satar-tersangka-kasus-korupsi-garuda-ini-kata-kpk",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDYzODQva2VqYWd1bmctdGV0YXBrYW4tZW1pcnN5YWgtc2F0YXItdGVyc2FuZ2thLWthc3VzLWtvcnVwc2ktZ2FydWRhLWluaS1rYXRhLWtwaw==",
-        "description": "KPK menyampaikan apresiasinya kepada Kejaksaan Agung yang telah melakukan penyidikan terkait dugaan korupsi Garuda Indonesia Tahun 2011-2021."
-    },
-    {
-        "title": "Kick Off MUSIAD Expo 2022, Dubes Turki Kunjungi Sarinah Trading House",
-        "link": "https://nasional.tempo.co/read/1606385/kick-off-musiad-expo-2022-dubes-turki-kunjungi-sarinah-trading-house",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDYzODUva2ljay1vZmYtbXVzaWFkLWV4cG8tMjAyMi1kdWJlcy10dXJraS1rdW5qdW5naS1zYXJpbmFoLXRyYWRpbmctaG91c2U=",
-        "description": "MUSIAD Expo 2022 akan diselenggarakan pada 2 - 5 November 2022 di Istanbul mendatang."
     }
 ]
