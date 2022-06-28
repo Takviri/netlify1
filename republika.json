@@ -1,5 +1,19 @@
 [
     {
+        "title": "Saat PTM, Anak Harus Memakai Masker",
+        "link": "https://ihram.republika.co.id/berita/re6wrk430/saat-ptm-anak-harus-memakai-masker",
+        "image": "static/images/republika.png",
+        "uid": "aHR0cHM6Ly9paHJhbS5yZXB1Ymxpa2EuY28uaWQvYmVyaXRhL3JlNndyazQzMC9zYWF0LXB0bS1hbmFrLWhhcnVzLW1lbWFrYWktbWFza2Vy",
+        "description": "IHRAM.CO.ID,JAKARTA - Dokter spesialis anak, Prof Aman Bhakti Pulungan mengingatkan bahwa pandemi Covid-19 belum berakhir. Oleh karenanya, menjaga kesehatan anak pada masa pandemi Covid-19 penting untuk diperhatikan oleh orang..."
+    },
+    {
+        "title": "Jurnalis Muslim India Ditangkap Karena Kritik PM India di Twitter",
+        "link": "https://www.republika.co.id/berita/re6nni313/jurnalis-muslim-india-ditangkap-karena-kritik-pm-india-di-twitter",
+        "image": "static/images/republika.png",
+        "uid": "aHR0cHM6Ly93d3cucmVwdWJsaWthLmNvLmlkL2Jlcml0YS9yZTZubmkzMTMvanVybmFsaXMtbXVzbGltLWluZGlhLWRpdGFuZ2thcC1rYXJlbmEta3JpdGlrLXBtLWluZGlhLWRpLXR3aXR0ZXI=",
+        "description": "REPUBLIKA.CO.ID,&nbsp;NEW DELHI -- Seorang jurnalis Muslim India, Mohammed Zubair, ditangkap pihak berwajib karena mengkritik Perdana Menteri India Narendra Modi, Senin (27/6/2022). Penangkapan ini terjadi setelah pria yang terkenal sebagai..."
+    },
+    {
         "title": "Milad ke-50, DMI Diharapkan Maksimalkan Fungsi Masjid",
         "link": "https://www.republika.co.id/berita/re6wed430/milad-ke50-dmi-diharapkan-maksimalkan-fungsi-masjid",
         "image": "static/images/republika.png",
@@ -28,18 +42,18 @@
         "description": "REPUBLIKA.CO.ID,&nbsp;PAYAKUMBUH -- Pemerintah Kota Payakumbuh, Sumatra Barat, membidik kerja sama pengelolaan sampah dengan organisasi sumber daya alam (SDA) terbarukan dari Denmark, Danish Environmental Protection Agency (DEPA). Pelaksana Harian Sekretaris..."
     },
     {
-        "title": "Pemerintah Klaim Telah Hitung Anggaran Pemekaran Papua, Berapa?",
-        "link": "https://www.republika.co.id/berita/re6pfi436/pemerintah-klaim-telah-hitung-anggaran-pemekaran-papua-berapa",
-        "image": "static/images/republika.png",
-        "uid": "aHR0cHM6Ly93d3cucmVwdWJsaWthLmNvLmlkL2Jlcml0YS9yZTZwZmk0MzYvcGVtZXJpbnRhaC1rbGFpbS10ZWxhaC1oaXR1bmctYW5nZ2FyYW4tcGVtZWthcmFuLXBhcHVhLWJlcmFwYQ==",
-        "description": "REPUBLIKA.CO.ID, JAKARTA -- Menteri Keuangan (Menkeu) Sri Mulyani mengeklaim, pemekaran tiga provinsi Papua diharapkan menjadi langkah pembangunan yang lebih nyata. Ia menjelaskan, pemerintah disebut telah menghitung kebutuhan anggaran untuk..."
-    },
-    {
         "title": "DJBC: Ekspor Komoditas Lokal NTT ke Timor Leste Didominasi Furniture",
         "link": "https://www.republika.co.id/berita/re73dz457/djbc-ekspor-komoditas-lokal-ntt-ke-timor-leste-didominasi-furniture",
         "image": "static/images/republika.png",
         "uid": "aHR0cHM6Ly93d3cucmVwdWJsaWthLmNvLmlkL2Jlcml0YS9yZTczZHo0NTcvZGpiYy1la3Nwb3Ita29tb2RpdGFzLWxva2FsLW50dC1rZS10aW1vci1sZXN0ZS1kaWRvbWluYXNpLWZ1cm5pdHVyZQ==",
         "description": "REPUBLIKA.CO.ID,&nbsp;KUPANG -- Direktorat Jenderal Bea dan Cukai (DJBC) Wilayah Bali, Nusa Tenggara Barat, Nusa Tenggara Timur, Kementerian Keuangan melaporkan ekspor komoditi lokal dari NTT ke Timor Leste selama Januari-Mei..."
+    },
+    {
+        "title": "Pemerintah Klaim Telah Hitung Anggaran Pemekaran Papua, Berapa?",
+        "link": "https://www.republika.co.id/berita/re6pfi436/pemerintah-klaim-telah-hitung-anggaran-pemekaran-papua-berapa",
+        "image": "static/images/republika.png",
+        "uid": "aHR0cHM6Ly93d3cucmVwdWJsaWthLmNvLmlkL2Jlcml0YS9yZTZwZmk0MzYvcGVtZXJpbnRhaC1rbGFpbS10ZWxhaC1oaXR1bmctYW5nZ2FyYW4tcGVtZWthcmFuLXBhcHVhLWJlcmFwYQ==",
+        "description": "REPUBLIKA.CO.ID, JAKARTA -- Menteri Keuangan (Menkeu) Sri Mulyani mengeklaim, pemekaran tiga provinsi Papua diharapkan menjadi langkah pembangunan yang lebih nyata. Ia menjelaskan, pemerintah disebut telah menghitung kebutuhan anggaran untuk..."
     },
     {
         "title": "PKT Komitmen Wujudkan Lingkungan Kerja yang Aman sesuai K3L",
@@ -54,19 +68,5 @@
         "image": "static/images/republika.png",
         "uid": "aHR0cHM6Ly93d3cucmVwdWJsaWthLmNvLmlkL2Jlcml0YS9yZTZ4amszODAvZm9rdXMtZW50YXNrYW4ta2VtaXNraW5hbi1idXBhdGktY2lsYWNhcC1jYW5hbmdrYW4ta2FtcHVuZy1rYg==",
         "description": "REPUBLIKA.CO.ID, CILACAP--Bupati Cilacap Tatto Suwarto Pamuji mencanangkan Kampung KB di Desa Keleng dan Desa Kesugihan, Kecamatan Kesugihan, Senin (27/06/2022).\nKampung KB adalah salah satu upaya mendekatkan pelayanan Kependudukan, Keluarga Berencana,..."
-    },
-    {
-        "title": "Media Timur Tengah Soroti Aksi Boikot Terhadap Timnas Israel di Piala Dunia U-20 2023",
-        "link": "https://www.republika.co.id/berita/re72m7438/media-timur-tengah-soroti-aksi-boikot-terhadap-timnas-israel-di-piala-dunia-u20-2023",
-        "image": "static/images/republika.png",
-        "uid": "aHR0cHM6Ly93d3cucmVwdWJsaWthLmNvLmlkL2Jlcml0YS9yZTcybTc0MzgvbWVkaWEtdGltdXItdGVuZ2FoLXNvcm90aS1ha3NpLWJvaWtvdC10ZXJoYWRhcC10aW1uYXMtaXNyYWVsLWRpLXBpYWxhLWR1bmlhLXUyMC0yMDIz",
-        "description": "REPUBLIKA.CO.ID, JAKARTA -- Ketua Presidium Kelompok Kerja Aqsa (AWG), Muhammad Anshorullah, mengutuk pernyataan Menteri Pemuda dan Olahraga (Menpora) RI Zainudin Amali. Ini terkait keputusan Menpora terhadap keikutsertaan timnas Israel..."
-    },
-    {
-        "title": "Pasokan Cabai Merah ke Solok Terhambat",
-        "link": "https://www.republika.co.id/berita/re734z457/pasokan-cabai-merah-ke-solok-terhambat",
-        "image": "static/images/republika.png",
-        "uid": "aHR0cHM6Ly93d3cucmVwdWJsaWthLmNvLmlkL2Jlcml0YS9yZTczNHo0NTcvcGFzb2thbi1jYWJhaS1tZXJhaC1rZS1zb2xvay10ZXJoYW1iYXQ=",
-        "description": "REPUBLIKA.CO.ID, SOLOK -- Dinas Pangan Kota Solok, Sumatra Barat, mengatakan, kenaikan harga cabai merah dan bawang merah tersebut disebabkan karena stok di tingkat petani yang terbatas. Kabid Ketersediaan dan..."
     }
 ]

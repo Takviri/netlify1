@@ -1,5 +1,19 @@
 [
     {
+        "title": "Moeldoko soal Lonjakan Kasus Covid: Ojo Kesusu Lepas Masker",
+        "link": "https://www.cnnindonesia.com/nasional/20220628122038-20-814442/moeldoko-soal-lonjakan-kasus-covid-ojo-kesusu-lepas-masker",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODEyMjAzOC0yMC04MTQ0NDIvbW9lbGRva28tc29hbC1sb25qYWthbi1rYXN1cy1jb3ZpZC1vam8ta2VzdXN1LWxlcGFzLW1hc2tlcg==",
+        "description": " KSP Moeldoko\u00c2\u00a0mengingatkan masyarakat tetap menjaga protokol kesehatan, salah satunya dengan memakai masker."
+    },
+    {
+        "title": "Wamenkumham soal Mahasiswa Desak Draf RKUHP Dibuka: Emangnya Ini Pintu",
+        "link": "https://www.cnnindonesia.com/nasional/20220628131426-20-814487/wamenkumham-soal-mahasiswa-desak-draf-rkuhp-dibuka-emangnya-ini-pintu",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODEzMTQyNi0yMC04MTQ0ODcvd2FtZW5rdW1oYW0tc29hbC1tYWhhc2lzd2EtZGVzYWstZHJhZi1ya3VocC1kaWJ1a2EtZW1hbmdueWEtaW5pLXBpbnR1",
+        "description": " Saat ditanya terkait demo mahasiswa mendesak draf RKUHP dibuka, Wamenkumham menjawab singkat, \"Emangnya ini pintu\", kemudian berlalu."
+    },
+    {
         "title": "Bima Arya Akan Cabut Izin Eks Holywings Bogor Secara Permanen",
         "link": "https://www.cnnindonesia.com/nasional/20220629010600-20-814761/bima-arya-akan-cabut-izin-eks-holywings-bogor-secara-permanen",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODEzNTIwNi0yMC04MTQ1MTUvY2VyaXRhLWRhcmktcGVtYmltYmluZy1hc2FsLW1vam9rZXJ0by15YW5nLXN1ZGFoLXB1bHVoYW4ta2FsaS1iZXJoYWpp",
         "description": " Di antara panjangnya anteran kuota haji, para pembimbing ibadah KBIH bisa menyelipkan rasa syukur karena\u00c2\u00a0bisa beribadah haji sekalian membimbing sesama muslim."
-    },
-    {
-        "title": "Komplotan Pembunuh Bayaran Terkait Jual Beli Narkoba Dibekuk di Muba",
-        "link": "https://www.cnnindonesia.com/nasional/20220628105829-12-814408/komplotan-pembunuh-bayaran-terkait-jual-beli-narkoba-dibekuk-di-muba",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODEwNTgyOS0xMi04MTQ0MDgva29tcGxvdGFuLXBlbWJ1bnVoLWJheWFyYW4tdGVya2FpdC1qdWFsLWJlbGktbmFya29iYS1kaWJla3VrLWRpLW11YmE=",
-        "description": " Polres Musi Banyuasin, Sumsel, menangkap komplotan pembunuh bayaran terkait persaingan bisnis jual beli narkoba."
-    },
-    {
-        "title": "Polisi Selidiki Penyebab Tandon Air Proyek LRT di Rasuna Said Jebol",
-        "link": "https://www.cnnindonesia.com/nasional/20220628232357-12-814755/polisi-selidiki-penyebab-tandon-air-proyek-lrt-di-rasuna-said-jebol",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODIzMjM1Ny0xMi04MTQ3NTUvcG9saXNpLXNlbGlkaWtpLXBlbnllYmFiLXRhbmRvbi1haXItcHJveWVrLWxydC1kaS1yYXN1bmEtc2FpZC1qZWJvbA==",
-        "description": " Polisi turun tangan untuk menyelidiki penyebab jebolnya tandon air di proyek LRT Jabodetabek yang berlokasi di Jalan Rasuna Said, Jakarta Selatan."
     }
 ]
