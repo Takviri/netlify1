@@ -1,5 +1,33 @@
 [
     {
+        "title": "Xie-xie! Gegara China Harga Karet Nanjak",
+        "link": "https://www.cnbcindonesia.com/market/20220628172304-17-351131/xie-xie-gegara-china-harga-karet-nanjak",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI4MTcyMzA0LTE3LTM1MTEzMS94aWUteGllLWdlZ2FyYS1jaGluYS1oYXJnYS1rYXJldC1uYW5qYWs=",
+        "description": " Harga karet dunia naik karena harapan dari pemerintah China untuk all out untuk memulihkan ekonomi."
+    },
+    {
+        "title": "Pemerintah China 'All Out' Pulihkan Ekonomi, Harga Nikel Naik",
+        "link": "https://www.cnbcindonesia.com/market/20220628165659-17-351124/pemerintah-china-all-out-pulihkan-ekonomi-harga-nikel-naik",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI4MTY1NjU5LTE3LTM1MTEyNC9wZW1lcmludGFoLWNoaW5hLWFsbC1vdXQtcHVsaWhrYW4tZWtvbm9taS1oYXJnYS1uaWtlbC1uYWlr",
+        "description": " Harga nikel dunia menguat pada perdagangan hari ini didorong oleh harapan pemulihan ekonomi China."
+    },
+    {
+        "title": "Terima kasih AS dan Sekutunya, Harga Emas Naik Hari Ini",
+        "link": "https://www.cnbcindonesia.com/market/20220628170550-17-351129/terima-kasih-as-sekutunya-harga-emas-naik-hari-ini",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI4MTcwNTUwLTE3LTM1MTEyOS90ZXJpbWEta2FzaWgtYXMtc2VrdXR1bnlhLWhhcmdhLWVtYXMtbmFpay1oYXJpLWluaQ==",
+        "description": " Harga emas mulai membaik."
+    },
+    {
+        "title": "Dolar Ditinggal, Renminbi Kian Andal",
+        "link": "https://www.cnbcindonesia.com/market/20220628124436-19-351018/dolar-ditinggal-renminbi-kian-andal",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI4MTI0NDM2LTE5LTM1MTAxOC9kb2xhci1kaXRpbmdnYWwtcmVubWluYmkta2lhbi1hbmRhbA==",
+        "description": " Sejumlah Bank Sentral Asia-Pasifik sepakat bekerja sama untuk menggunakan Renminbi dalam transaksi perdagangan."
+    },
+    {
         "title": "Termasuk Proyek IKN, Waskita Kejar Kontrak Rp 38 T di 2022",
         "link": "https://www.cnbcindonesia.com/market/20220628164341-17-351120/termasuk-proyek-ikn-waskita-kejar-kontrak-rp-38-t-di-2022",
         "image": "static/images/cnbc_market.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI4MTYzODI4LTE3LTM1MTExNS9idWthbi1wcm9tby10YXBpLXRlcmJhbmctcGFrYWktZ2FydWRhLWJpc2EtbGViaWgtbXVyYWg=",
         "description": " PT Garuda Indonesia Tbk (GIAA) akan mengoptimalkan pengoperasian armada pesawat."
-    },
-    {
-        "title": "Jadi Komisaris Maharaksa (OASA), Cinta Laura Bilang Begini",
-        "link": "https://www.cnbcindonesia.com/market/20220628155323-17-351099/jadi-komisaris-maharaksa--oasa--cinta-laura-bilang-begini",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI4MTU1MzIzLTE3LTM1MTA5OS9qYWRpLWtvbWlzYXJpcy1tYWhhcmFrc2EtLW9hc2EtLWNpbnRhLWxhdXJhLWJpbGFuZy1iZWdpbmk=",
-        "description": " PT Protech Mitra Perkasa Tbk (OASA) mengangkat Hariyadi BS Sukamdani sebagai Komisaris Utama dan Cinta Laura Kiehl sebagai Komisaris."
-    },
-    {
-        "title": "Kecuali IHSG, Mayoritas Bursa Asia Justru Sumringah",
-        "link": "https://www.cnbcindonesia.com/market/20220628163425-17-351114/kecuali-ihsg-mayoritas-bursa-asia-justru-sumringah",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI4MTYzNDI1LTE3LTM1MTExNC9rZWN1YWxpLWloc2ctbWF5b3JpdGFzLWJ1cnNhLWFzaWEtanVzdHJ1LXN1bXJpbmdhaA==",
-        "description": " Sentimen positif datang dari China yang akan melonggarkan masa karantina Covid-19 untuk wisatawan asing."
-    },
-    {
-        "title": "Optimisme Investor Dorong Harga Tembaga Naik 1% Hari Ini",
-        "link": "https://www.cnbcindonesia.com/market/20220628152855-17-351092/optimisme-investor-dorong-harga-tembaga-naik-1-hari-ini",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI4MTUyODU1LTE3LTM1MTA5Mi9vcHRpbWlzbWUtaW52ZXN0b3ItZG9yb25nLWhhcmdhLXRlbWJhZ2EtbmFpay0xLWhhcmktaW5p",
-        "description": " Harga tembaga dunia menguat pada perdagangan hari ini"
-    },
-    {
-        "title": "'Bandar' Kripto Three Arrows Capital Default, Ini Profilnya",
-        "link": "https://www.cnbcindonesia.com/market/20220628151015-17-351083/bandar-kripto-three-arrows-capital-default-ini-profilnya",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI4MTUxMDE1LTE3LTM1MTA4My9iYW5kYXIta3JpcHRvLXRocmVlLWFycm93cy1jYXBpdGFsLWRlZmF1bHQtaW5pLXByb2ZpbG55YQ==",
-        "description": " Berikut profil singkat perusahaan 'bandar' kripto Three Arrows Capital"
     }
 ]
