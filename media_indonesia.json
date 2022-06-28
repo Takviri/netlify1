@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/502482/fenerbahce-tertarik-datangkan-diaz-dari-real-madrid",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjQ4Mi9mZW5lcmJhaGNlLXRlcnRhcmlrLWRhdGFuZ2thbi1kaWF6LWRhcmktcmVhbC1tYWRyaWQ=",
+        "description": "KLUB Liga Turki Fenerbahce dikabarkan siap menampung penyerang Mariano Diaz, yang tengah berusaha dijual oleh Real Madrid, pada&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/502481/hornets-kembali-tunjuk-clifford-sebagai-pelatih-kepala",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDI0ODEvaG9ybmV0cy1rZW1iYWxpLXR1bmp1ay1jbGlmZm9yZC1zZWJhZ2FpLXBlbGF0aWgta2VwYWxh",
+        "description": "CHARLOTTE Hornets, akhir pekan lalu, secara resmi mengumumkan penunjukan Steve Clifford sebagai pelatih kepala baru mereka menyongsong musim baru NBA&#8230;"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/502479/serangan-rudal-rusia-hantam-mal-di-ukraina-sedikitnya-13-orang-tewas",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDI0NzQvZGpva292aWMtYnVrdWthbi1rZW1lbmFuZ2FuLWtlLTgwLWRpLXdpbWJsZWRvbg==",
         "description": "JUARA bertahan Wimbledon Novak Djokovic, Senin (27/6), menjadi petenis pertama yang memenangkan 80 pertandingan di semua turnamen&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/502469/cragno-bergabung-dengan-monza",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjQ2OS9jcmFnbm8tYmVyZ2FidW5nLWRlbmdhbi1tb256YQ==",
-        "description": "PENJAGA gawang Italia Alessio Cragno bergabung dengan klub promosi Monza. Hal itu diumumkan klub Serie A milik Silvio Berlusconi itu,&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/502450/liburan-literasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDI0NTAvbGlidXJhbi1saXRlcmFzaQ==",
-        "description": "BAGI sebagian orang yang bekerja dalam dunia pendidikan, selain liburan yang sudah ditentukan dalam kalender, ada momen spesial libur yang ditunggu, yaitu libur akhir semester saat kenaikan kelas.&#8230;"
     }
 ]

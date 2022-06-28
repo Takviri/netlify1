@@ -1,5 +1,19 @@
 [
     {
+        "title": "BEM UI 'Kuningkan' DPR Hari Ini, Demo Akbar soal RKUHP",
+        "link": "https://www.cnnindonesia.com/nasional/20220628065441-20-814268/bem-ui-kuningkan-dpr-hari-ini-demo-akbar-soal-rkuhp",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODA2NTQ0MS0yMC04MTQyNjgvYmVtLXVpLWt1bmluZ2thbi1kcHItaGFyaS1pbmktZGVtby1ha2Jhci1zb2FsLXJrdWhw",
+        "description": " Aliansi Nasional Reformasi RKUHP bersama\u00c2\u00a0BEM UI\u00c2\u00a0hari ini bergerak melakukan demonstrasi di depan Gedung DPR, Senayan, Jakarta Pusat, Selasa (28/6)."
+    },
+    {
+        "title": "Buron KPK Serobot Lahan Riau 37 Ribu Ha, Negara Rugi Rp600 M Per Bulan",
+        "link": "https://www.cnnindonesia.com/nasional/20220628065419-12-814269/buron-kpk-serobot-lahan-riau-37-ribu-ha-negara-rugi-rp600-m-per-bulan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODA2NTQxOS0xMi04MTQyNjkvYnVyb24ta3BrLXNlcm9ib3QtbGFoYW4tcmlhdS0zNy1yaWJ1LWhhLW5lZ2FyYS1ydWdpLXJwNjAwLW0tcGVyLWJ1bGFu",
+        "description": " Kejaksaan Agung\u00c2\u00a0telah menyita\u00c2\u00a037.095 hektare lahan yang diduga diserobot tanpa izin oleh PT Duta Palma Group. Negara ditaksir rugi Rp600 miliar tiap bulan."
+    },
+    {
         "title": "Mahasiswa Kepung Gedung DPR Hari Ini, Polisi Terjun Pengamanan",
         "link": "https://www.cnnindonesia.com/nasional/20220628064217-20-814264/mahasiswa-kepung-gedung-dpr-hari-ini-polisi-terjun-pengamanan",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODA0MzAwMC0yMC04MTQyNTIvd2FndWItYmFudGFoLWdhamktc2F0cG9sLXBwLWRraS1sZWJpaC1iZXNhci1kYXJpLW1lbnRlcmk=",
         "description": " Pemprov DKI Jakarta membantah Satuan Polisi Pamong Praja (Satpol PP) di Ibu Kota mendapatkan gaji lebih besar dari menteri."
-    },
-    {
-        "title": "Upaya Pelengseran Ketum PPP Dinilai Usaha Lemahkan KIB",
-        "link": "https://www.cnnindonesia.com/nasional/20220627210519-32-814217/upaya-pelengseran-ketum-ppp-dinilai-usaha-lemahkan-kib",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyNzIxMDUxOS0zMi04MTQyMTcvdXBheWEtcGVsZW5nc2VyYW4ta2V0dW0tcHBwLWRpbmlsYWktdXNhaGEtbGVtYWhrYW4ta2li",
-        "description": " Upaya melengserkan Ketum PPP Suharso Monoarfa dinilai untuk melemahkan PPP serta merusak soliditas internal KIB yang dibentuk PPP bersama Partai Golkar dan PAN."
-    },
-    {
-        "title": "BNN Sebut Penyalahgunaan Narkoba Naik Jadi 1,95 Persen saat Covid",
-        "link": "https://www.cnnindonesia.com/nasional/20220627074850-12-813810/bnn-sebut-penyalahgunaan-narkoba-naik-jadi-195-persen-saat-covid",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyNzA3NDg1MC0xMi04MTM4MTAvYm5uLXNlYnV0LXBlbnlhbGFoZ3VuYWFuLW5hcmtvYmEtbmFpay1qYWRpLTE5NS1wZXJzZW4tc2FhdC1jb3ZpZA==",
-        "description": " Kepala BNN mengatakan kasus penyalahgunaan narkoba naik jadi 1,95 persen dari jumlah penduduk Indonesia dalam kondisi pandemi."
     }
 ]
