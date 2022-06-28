@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/502792/borneo-fc-hantam-rans-nusantara-fc-seslija-puas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjc5Mi9ib3JuZW8tZmMtaGFudGFtLXJhbnMtbnVzYW50YXJhLWZjLXNlc2xpamEtcHVhcw==",
+        "description": "PELATIH Borneo FC Milomir Seslija mengaku puas dengan penampilan para pemainnya usai menaklukkan RANS Nusantara FC dengan skor 3-0, Selasa (28/6). Kemenangan itu mengantarkan tim berjuluk Pesut Etam&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/502784/pbb-ujaran-kebencian-rusak-solidaritas-komunitas-sosial",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjc4MC9waWFsYS1wcmVzaWRlbi1iZWt1ay1yYW5zLWZjLWJvcm5lby1mYy1rdW5jaS1wb3Npc2ktanVhcmEtZ3J1cA==",
         "description": "BORNEO FC berhasil merebut gelar juara grup B Piala Presiden 2022 setelah menaklukkan Rans Nusantara FC dengan skor 3-0 pada pertandingan di Stadion Segiri, Samarinda, Kalimantan Timur, Selasa (28/6)&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502778/kabareskrim-instruksikan-pisahkan-laporan-polisi-kasus-indosurya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDI3Nzgva2FiYXJlc2tyaW0taW5zdHJ1a3Npa2FuLXBpc2Foa2FuLWxhcG9yYW4tcG9saXNpLWthc3VzLWluZG9zdXJ5YQ==",
-        "description": " KABARESKRIM Polri Komjen Agus Andrianto memerintahkan penyidik Direktorat Tindak Pidana Ekonomi Khusus (Dittipideksus) Bareskrim Polri memecah laporan polisi (lp) korban investasi bodong Koperasi&#8230;"
     }
 ]
