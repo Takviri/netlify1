@@ -1,5 +1,47 @@
 [
     {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/502501/huawei-band-7-hadir-disebut-mirip-smartwatch",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTAyNTAxL2h1YXdlaS1iYW5kLTctaGFkaXItZGlzZWJ1dC1taXJpcC1zbWFydHdhdGNo",
+        "description": "HUAWEI resmi meluncurkan gelang pintar atau smartband terbaru mereka yakni Huawei Band 7 di Indonesia dengan fitur layaknya jam tangan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/502507/mertens-masih-menunggu-tawaran-perpanjangan-kontrak-dari-napoli",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjUwNy9tZXJ0ZW5zLW1hc2loLW1lbnVuZ2d1LXRhd2FyYW4tcGVycGFuamFuZ2FuLWtvbnRyYWstZGFyaS1uYXBvbGk=",
+        "description": "PENYERANG Dries Mertens dikabarkan masih menantikan penawaran perpanjangan kontrak dari klub Serie A Napoli setelah kontraknya di&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/502506/bagaimana-nasib-bumi-jika-matahari-mati",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMjUwNi9iYWdhaW1hbmEtbmFzaWItYnVtaS1qaWthLW1hdGFoYXJpLW1hdGk=",
+        "description": "Matahari merupakan pusat dari Tata Surya yang selalu menyinari Bumi setiap hari hingga saat ini. Keberadaannya sangat penting bagi planet-planet yang mengorbit di sekelilingnya. Matahari merupakan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502504/pupr-bendungan-meninting-lombok-kelar-di-2023",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjUwNC9wdXByLWJlbmR1bmdhbi1tZW5pbnRpbmctbG9tYm9rLWtlbGFyLWRpLTIwMjM=",
+        "description": "Menteri Pekerjaan Umum dan Perumahan Rakyat (PUPR) Basuki Hadimuljono meninjau pembangunan Bendungan Meninting di Lombok Barat, Provinsi Nusa Tenggara Barat (NTB), Selasa (28/6). Pembangunan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/502498/pulang-kampung-fernandinho-bergabung-dengan-athletico-paranaense",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjQ5OC9wdWxhbmcta2FtcHVuZy1mZXJuYW5kaW5oby1iZXJnYWJ1bmctZGVuZ2FuLWF0aGxldGljby1wYXJhbmFlbnNl",
+        "description": "MANTAN kapten Manchester City Fernandinho kembali ke klub pertamanya Athletico Paranaense. Hal itu diungkapkan klub Brasil itu,&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502503/bawaslu-yakini-pentingnya-optimalisasi-peran-perempuan-untuk-pemilu-2024",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDI1MDMvYmF3YXNsdS15YWtpbmktcGVudGluZ255YS1vcHRpbWFsaXNhc2ktcGVyYW4tcGVyZW1wdWFuLXVudHVrLXBlbWlsdS0yMDI0",
+        "description": "Keterlibatan perempuan dalam pesta demokrasi bukan hanya dalam hal keterlibatan mereka dalam partai politik atau pun menjadi calon legislatif dan eksekutif. Keterlibatan perempuan juga penting dalam&#8230;"
+    },
+    {
         "title": "Megapolitan",
         "link": "https://m.mediaindonesia.com/megapolitan/502500/bmkg-hujan-berpotensi-mengguyur-jaksel-dan-jaktim-siang-ini",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyNDk2L2plbGFuZy1wdW5jYWstaGFqaS1rZXNlaGF0YW4tamVtYWFoLWhhcmdhLW1hdGk=",
         "description": "KEMENTERIAN Kesehatan (Kemenkes) mengingatkan jemaah haji akan pentingnya menjaga kesehatan. Apalagi, menjelang puncak haji di Armuzna&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/502495/more-content-ep-perdana-barry-cant-swim",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMjQ5NS9tb3JlLWNvbnRlbnQtZXAtcGVyZGFuYS1iYXJyeS1jYW50LXN3aW0=",
-        "description": "PRODUSER Inggris Barry Can't Swim (AKA Joshua Mainnie) merilis EP perdananya, More Content, sebagai rilisan solo pertamanya lewat&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502494/kominfo-minta-2569-pse-lingkup-privat-daftar-ulang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDI0OTQva29taW5mby1taW50YS0yNTY5LXBzZS1saW5na3VwLXByaXZhdC1kYWZ0YXItdWxhbmc=",
-        "description": "KEMENTERIAN Komunikasi dan Informatika meminta Penyelenggara Sistem Elektronik (PSE) lingkup privat, baik PSE domestik maupun&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/502493/e-haj-aplikasi-yang-memudahkan-jemaah-haji-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyNDkzL2UtaGFqLWFwbGlrYXNpLXlhbmctbWVtdWRhaGthbi1qZW1hYWgtaGFqaS1pbmRvbmVzaWE=",
-        "description": "PENYELENGGARAAN ibadah haji, dalam beberapa tahun terakhir, menggunakan sistem yang dikenal sebagai E-haj. Ini merupakan sistem penyelenggaraan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502487/anggota-dpr-tegaskan-pancasila-menjaga-kebebasan-tanpa-mengorbankan-pihak-lain",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDI0ODcvYW5nZ290YS1kcHItdGVnYXNrYW4tcGFuY2FzaWxhLW1lbmphZ2Eta2ViZWJhc2FuLXRhbnBhLW1lbmdvcmJhbmthbi1waWhhay1sYWlu",
-        "description": "PANCASILA, terutama sila pertama, tidak memberikan ruang terhadap radikalisme agama. Indonesia, yang memiliki wilayah dengan mayoritas&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/502492/pln-bantu-sediakan-fasilitas-sarana-air-bersih-kepada-42-petani-hutan-di-desa-dul",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyNDkyL3Bsbi1iYW50dS1zZWRpYWthbi1mYXNpbGl0YXMtc2FyYW5hLWFpci1iZXJzaWgta2VwYWRhLTQyLXBldGFuaS1odXRhbi1kaS1kZXNhLWR1bA==",
-        "description": "PT PLN (Persero) Unit Induk Wilayah (UIW) Bangka Belitung telah membangun fasilitas sarana air bersih kepada puluhan petani hutan dan masyarakat Kampung Dul, Kabupaten Bangka Tengah. Fasilitas&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/502491/terima-vaksin-pmk-gubernur-kalsel-apresiasi-keseriusan-kementan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjQ5MS90ZXJpbWEtdmFrc2luLXBtay1ndWJlcm51ci1rYWxzZWwtYXByZXNpYXNpLWtlc2VyaXVzYW4ta2VtZW50YW4=",
-        "description": "GUBERNUR Kalimantan Selatan (Kalsel), Sahbirin Noor mengapresiasi dan berterima kasih kepada Menteri Pertanian Syahrul Yasil Limpo (SYL) atas alokasi vaksin PMK kepada Provinsi Kalimantan Selatan.&#8230;"
     }
 ]
