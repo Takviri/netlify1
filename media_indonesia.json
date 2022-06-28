@@ -1,6 +1,34 @@
 [
     {
         "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/502802/ac-milan-buru-bek-lain-setelah-botman-memilih-ke-newcastle",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjgwMi9hYy1taWxhbi1idXJ1LWJlay1sYWluLXNldGVsYWgtYm90bWFuLW1lbWlsaWgta2UtbmV3Y2FzdGxl",
+        "description": "JUARA Serie A AC Milan dikabarkan tengah mencari bek tengah alternatif setelah gagal mendapatkan Sven Botman, yang memilih pindah&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/502809/serena-williams-tersingkir-di-putaran-pertama-wimbledon",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDI4MDkvc2VyZW5hLXdpbGxpYW1zLXRlcnNpbmdraXItZGktcHV0YXJhbi1wZXJ0YW1hLXdpbWJsZWRvbg==",
+        "description": "SERENA Williams kalah di laga nomor tunggal pertamanya dalam tempo setahun setelah menyerah 7-5, 1-6, dan 7-6 (10/7) dari petenis nonunggulan Harmony Tan di putaran pertama <a href=\"http://mediaindonesia.com/tag/wimbledon\"&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/502709/studi-pria-juga-bisa-alami-baby-blues",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMjcwOS9zdHVkaS1wcmlhLWp1Z2EtYmlzYS1hbGFtaS1iYWJ5LWJsdWVz",
+        "description": "SEBUAH studi yang dilakukan kelompok ilmuwan asal University College London (UCL), Inggris menunjukkan fakta bahwa baby blues&nbsp;juga dapat dialami pria. Selama ini baby blues&nbsp;sangat&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/502807/jokowi-naik-kereta-ke-ukraina-dari-polandia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjgwNy9qb2tvd2ktbmFpay1rZXJldGEta2UtdWtyYWluYS1kYXJpLXBvbGFuZGlh",
+        "description": "PRESIDEN Joko Widodo dan Ibu Iriana beserta rombongan terbatas berangkat menuju Ibu Kota Ukraina, Kiev menggunakan kereta yang berangkat&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/502801/botman-selesaikan-tes-medis-di-newcastle",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjgwMS9ib3RtYW4tc2VsZXNhaWthbi10ZXMtbWVkaXMtZGktbmV3Y2FzdGxl",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDI3NTQvbWVuZ2dlcmFra2FuLWNlbmRla2lhd2FuLW11aGFtbWFkaXlhaA==",
         "description": "TIDAK berdiri di atas awan dan duduk di menara gading, tetapi berbaur dengan masyarakat, inilah sosok cendekiawan. Cendekiawan menara gading pernah dikritik WS Rendra sebagai cendekiawan yang tidak&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/502799/nadal-melaju-ke-putaran-kedua-wimbledon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjc5OS9uYWRhbC1tZWxhanUta2UtcHV0YXJhbi1rZWR1YS13aW1ibGVkb24=",
-        "description": "RAFAEL Nadal melaju ke putaran kedua Wimbledon meski harus kehilangan satu set kala mengalahkan Francisco Cerundolo di putaran&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/502796/thomas-doll-sebut-penyelesaian-akhir-jadi-pr-persija",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjc5Ni90aG9tYXMtZG9sbC1zZWJ1dC1wZW55ZWxlc2FpYW4tYWtoaXItamFkaS1wci1wZXJzaWph",
-        "description": "PELATIH Persija Jakarta Thomas Doll mengakui penyelesaian akhir menjadi kendala utama timnya di ajang Piala Presiden 2022,&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/502795/lefundes-akui-madura-united-harus-kerja-keras-untuk-kalahkan-persija",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjc5NS9sZWZ1bmRlcy1ha3VpLW1hZHVyYS11bml0ZWQtaGFydXMta2VyamEta2VyYXMtdW50dWsta2FsYWhrYW4tcGVyc2lqYQ==",
-        "description": "PELATIH Madura United Fabio Lefundes mengakui para pemainnya dipaksa bekerja keras sepanjang pertandingan untuk menaklukkan Persija Jakarta di pertandingan penutup grup B <a href=\"http://mediaindonesia.com/tag/piala-presiden\"&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/502794/teco-optimistis-bali-united-lolos-ke-semifinal-piala-afc-zona-asean",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjc5NC90ZWNvLW9wdGltaXN0aXMtYmFsaS11bml0ZWQtbG9sb3Mta2Utc2VtaWZpbmFsLXBpYWxhLWFmYy16b25hLWFzZWFu",
-        "description": "PELATIH Bali United Stefano Cugurra tetap optimistis tim asuhannya lolos ke semifinal zona ASEAN Piala AFC 2022 meski harus menghadapi&#8230;"
     }
 ]
