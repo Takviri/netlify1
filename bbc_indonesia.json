@@ -1,5 +1,12 @@
 [
     {
+        "title": "Pemekaran provinsi di Papua dikhawatirkan akan menjadi daerah otonom gagal karena tidak ada masa persiapan",
+        "link": "https://www.bbc.com/indonesia/indonesia-61955604",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYxOTU1NjA0",
+        "description": "Pakar otonomi daerah mengatakan tiga provinsi baru di Papua bakal menjadi daerah otonom gagal, karena tidak ada masa persiapan untuk menjadikan daerah tersebut mandiri secara finansial maupun secara pemerintahan sebelum diisi pejabat definitif."
+    },
+    {
         "title": "Ke mana Rusia membawa hasil rampasan gandum dari para petani Ukraina?",
         "link": "https://www.bbc.com/indonesia/dunia-61948875",
         "image": "static/images/bbc_indonesia.png",
@@ -28,6 +35,13 @@
         "description": "Kenaikan harga makanan dan BBM diprediksi akan mendorong masyarakat Asia beralih ke motor listrik. Bagaimana tren di Indonesia?"
     },
     {
+        "title": "Documenta: Mengapa baliho 'Keadilan Rakyat' karya kelompok seniman Yogyakarta Taring Padi dituding anti-Yahudi dalam festival di Jerman?",
+        "link": "https://www.bbc.com/indonesia/majalah-61922599",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MTkyMjU5OQ==",
+        "description": "Karya seni kelompok seniman Taring Padi asal Yogyakarta berjudul \"People's Justice\" atau \"Keadilan Rakyat\" yang ditampilkan di Jerman dituding bermuatan \"antisemitisme\" oleh pemerintah Jerman."
+    },
+    {
         "title": "Gempa Afghanistan: Mengapa begitu banyak gempa mematikan?",
         "link": "https://www.bbc.com/indonesia/dunia-61947405",
         "image": "static/images/bbc_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE5NDA2MTM=",
         "description": "Sistem rudal Iskander-M dapat menembakkan hulu ledak konvensional dan nuklir dengan jarak hingga 500km."
-    },
-    {
-        "title": "Documenta: Mengapa baliho 'Keadilan Rakyat' karya kelompok seniman Yogyakarta Taring Padi dituding anti-Yahudi dalam festival di Jerman?",
-        "link": "https://www.bbc.com/indonesia/majalah-61922599",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MTkyMjU5OQ==",
-        "description": "Karya seni kelompok seniman Taring Padi asal Yogyakarta berjudul \"People's Justice\" atau \"Keadilan Rakyat\" yang ditampilkan di Jerman dituding bermuatan \"antisemitisme\" oleh pemerintah Jerman."
-    },
-    {
-        "title": "Orang-orang yang \u2018menari sampai mati\u2019",
-        "link": "https://www.bbc.com/indonesia/vert-cul-61865739",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvdmVydC1jdWwtNjE4NjU3Mzk=",
-        "description": "Pada 1518, sebuah 'wabah tari' menimpa warga kota Strasbourg, Prancis, yang dilaporkan menari tak terkendali selama berhari-hari - dan berujung fatal. Ini adalah suatu peristiwa ganjil yang lantas memukau para seniman dan penulis, tulis Rosalind Jana."
     }
 ]
