@@ -1,5 +1,33 @@
 [
     {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/502500/bmkg-hujan-berpotensi-mengguyur-jaksel-dan-jaktim-siang-ini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDI1MDAvYm1rZy1odWphbi1iZXJwb3RlbnNpLW1lbmdndXl1ci1qYWtzZWwtZGFuLWpha3RpbS1zaWFuZy1pbmk=",
+        "description": "Badan Meteorologi, Klimatologi dan Geofisika (BMKG) memprakirakan, wilayah Jakarta Timur dan Selatan siang ini akan diguyur hujan dengan intensitas ringan. Dalam rilisnya, Selasa&nbsp; (28/6),&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/502497/galatasaray-ingin-datangkan-el-shaarawy-dari-as-roma",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjQ5Ny9nYWxhdGFzYXJheS1pbmdpbi1kYXRhbmdrYW4tZWwtc2hhYXJhd3ktZGFyaS1hcy1yb21h",
+        "description": "KLUB Liga Turki Galatasaray dikabarkan tertarik mendatangkan penyerang sayap Stephan El Shaarawy dari AS Roma pada bursa transfer&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/502499/264-orang-jadi-korban-ledakan-truk-gas-beracun-di-yordania",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjQ5OS8yNjQtb3JhbmctamFkaS1rb3JiYW4tbGVkYWthbi10cnVrLWdhcy1iZXJhY3VuLWRpLXlvcmRhbmlh",
+        "description": "Sebanyak 13 orang tewas dan 251 terluka dalam kebocoran gas beracun dari tangki penyimpanan di pelabuhan Aqaba, Yordania pada Senin (27/6). Pihak berwenang meminta penduduk untuk menutup jendela dan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502496/jelang-puncak-haji-kesehatan-jemaah-harga-mati",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyNDk2L2plbGFuZy1wdW5jYWstaGFqaS1rZXNlaGF0YW4tamVtYWFoLWhhcmdhLW1hdGk=",
+        "description": "KEMENTERIAN Kesehatan (Kemenkes) mengingatkan jemaah haji akan pentingnya menjaga kesehatan. Apalagi, menjelang puncak haji di Armuzna&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/502495/more-content-ep-perdana-barry-cant-swim",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjQ5MS90ZXJpbWEtdmFrc2luLXBtay1ndWJlcm51ci1rYWxzZWwtYXByZXNpYXNpLWtlc2VyaXVzYW4ta2VtZW50YW4=",
         "description": "GUBERNUR Kalimantan Selatan (Kalsel), Sahbirin Noor mengapresiasi dan berterima kasih kepada Menteri Pertanian Syahrul Yasil Limpo (SYL) atas alokasi vaksin PMK kepada Provinsi Kalimantan Selatan.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/502490/empat-tips-meraih-ibadah-haji-yang-mabrur",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyNDkwL2VtcGF0LXRpcHMtbWVyYWloLWliYWRhaC1oYWppLXlhbmctbWFicnVy",
-        "description": "MENJELANG puncak haji di Arafah, Muzdalifah dan Mina (Armuzna), Panitia Penyelenggara Ibadah Haji (PPIH) Arab Saudi terus mengintensifkan bimbingan ibadah kepada jemaah haji di hote-hotel tempat mereka&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/502485/ini-solusi-meningkatnya-kebutuhan-rantai-pendingin",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjQ4NS9pbmktc29sdXNpLW1lbmluZ2thdG55YS1rZWJ1dHVoYW4tcmFudGFpLXBlbmRpbmdpbg==",
-        "description": "KEBUTUHAN rantai pendingin, akhir akhir ini, mengalami peningkatan. Selain karena gaya hidup, kepercayaan masyarakat pada makanan&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/502489/presiden-perundingan-ica-cepa-harus-segera-selesai",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjQ4OS9wcmVzaWRlbi1wZXJ1bmRpbmdhbi1pY2EtY2VwYS1oYXJ1cy1zZWdlcmEtc2VsZXNhaQ==",
-        "description": "PRESIDEN Joko Widodo berkomitmen kuat meningkatkan kerja sama dengan Kanada ke depan. Komitmen tersebut ia sampaikan saat melakukan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/502488/emak-emak-di-jatim-siap-dukung-ganjar-presiden-2024",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyNDg4L2VtYWstZW1hay1kaS1qYXRpbS1zaWFwLWR1a3VuZy1nYW5qYXItcHJlc2lkZW4tMjAyNA==",
-        "description": "SEKITAR seribuan Emak-emak yang tergabung dalam relawan Mak Ganjar Provinsi Jawa Timur mendeklarasikan dukungan kepada Gubernur Jawa Tengah Ganjar Pranowo untuk menjadi Presiden 2024. Korwil&#8230;"
     }
 ]
