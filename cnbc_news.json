@@ -1,5 +1,40 @@
 [
     {
+        "title": "Simak! Siasat RI Tangkal Tantangan Multidimensi Hulu Migas",
+        "link": "https://www.cnbcindonesia.com/news/20220628183129-16-351169/simak-siasat-ri-tangkal-tantangan-multidimensi-hulu-migas",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE4MzEyOS0xNi0zNTExNjkvc2ltYWstc2lhc2F0LXJpLXRhbmdrYWwtdGFudGFuZ2FuLW11bHRpZGltZW5zaS1odWx1LW1pZ2Fz",
+        "description": " Industri migas Indonesia memiliki tantangan untuk meningkatkan produksi migas nasional seiring dengan transisi energi menuju net zero emission"
+    },
+    {
+        "title": "Rugikan Nasabah, Pelaku Kejahatan Skimming Akhirnya Ditangkap",
+        "link": "https://www.cnbcindonesia.com/news/20220628192205-4-351185/rugikan-nasabah-pelaku-kejahatan-skimming-akhirnya-ditangkap",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE5MjIwNS00LTM1MTE4NS9ydWdpa2FuLW5hc2FiYWgtcGVsYWt1LWtlamFoYXRhbi1za2ltbWluZy1ha2hpcm55YS1kaXRhbmdrYXA=",
+        "description": " Pelaku ini melakukan skimming dengan cara menggunakan kartu khusus sebagai alat skimming."
+    },
+    {
+        "title": "Tiga RUU Pemekaran Papua Dibawa ke Paripurna DPR",
+        "link": "https://www.cnbcindonesia.com/news/20220628180923-4-351152/tiga-ruu-pemekaran-papua-dibawa-ke-paripurna-dpr",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE4MDkyMy00LTM1MTE1Mi90aWdhLXJ1dS1wZW1la2FyYW4tcGFwdWEtZGliYXdhLWtlLXBhcmlwdXJuYS1kcHI=",
+        "description": " Komisi II dan pemerintah menyepakati tiga Rancangan Undang-Undang (RUU) tentang Pembentukan Daerah Otonomi Baru (DOB) Papua."
+    },
+    {
+        "title": "Penampakan Data Covid-19 di RI yang Naik Tajam Lagi Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220628181126-16-351153/penampakan-data-covid-19-di-ri-yang-naik-tajam-lagi-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE4MTEyNi0xNi0zNTExNTMvcGVuYW1wYWthbi1kYXRhLWNvdmlkLTE5LWRpLXJpLXlhbmctbmFpay10YWphbS1sYWdpLWhhcmktaW5p",
+        "description": " Total kasus konfirmasi mencapai 6.084.063."
+    },
+    {
+        "title": "Ini Dia Rencana Zulhas Lawan Gempuran Investasi Bodong",
+        "link": "https://www.cnbcindonesia.com/news/20220628180243-8-351151/ini-dia-rencana-zulhas-lawan-gempuran-investasi-bodong",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE4MDI0My04LTM1MTE1MS9pbmktZGlhLXJlbmNhbmEtenVsaGFzLWxhd2FuLWdlbXB1cmFuLWludmVzdGFzaS1ib2Rvbmc=",
+        "description": " Ini Dia Rencana Zulhas Benahi Bappebti dari Gempuran Investasi Bodong"
+    },
+    {
         "title": "Gaji ke-13 ASN Siap Cair, Ada yang Dapat Rp 24 Juta",
         "link": "https://www.cnbcindonesia.com/news/20220628180010-4-351148/gaji-ke-13-asn-siap-cair-ada-yang-dapat-rp-24-juta",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE4MDIxMC04LTM1MTE0OS9kZW5nZXJpbi15dWstY3VyaGF0LXp1bGhhcy1qYWRpLW1lbmRhZy1kaS10YWh1bi1wb2xpdGlr",
         "description": " Dengerin Yuk Curhat Zulhas Jadi Mendag di Tahun Politik"
-    },
-    {
-        "title": "BP Pakai Fasilitas CCUS di Kilang Tangguh Papua, Apa Itu?",
-        "link": "https://www.cnbcindonesia.com/news/20220628175153-4-351138/bp-pakai-fasilitas-ccus-di-kilang-tangguh-papua-apa-itu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE3NTE1My00LTM1MTEzOC9icC1wYWthaS1mYXNpbGl0YXMtY2N1cy1kaS1raWxhbmctdGFuZ2d1aC1wYXB1YS1hcGEtaXR1",
-        "description": " BP Indonesia saat ini tengah mempersiapkan fasilitas CCUS (carbon capture, utilization, and storage) di proyek Tangguh, Papua Barat"
-    },
-    {
-        "title": "Ini Dia Proyek \"Kuncian\" Jokowi di Ibu Kota Negara Baru",
-        "link": "https://www.cnbcindonesia.com/news/20220628175523-8-351139/ini-dia-proyek-kuncian-jokowi-di-ibu-kota-negara-baru",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE3NTUyMy04LTM1MTEzOS9pbmktZGlhLXByb3llay1rdW5jaWFuLWpva293aS1kaS1pYnUta290YS1uZWdhcmEtYmFydQ==",
-        "description": " Ini Dia Proyek \"Kuncian\" Jokowi di Ibu Kota Negara Kalimantan"
-    },
-    {
-        "title": "Wuih! Ternyata RI Sudah 'Siram' 3,3 Juta Ton CPO",
-        "link": "https://www.cnbcindonesia.com/news/20220628175949-4-351154/wuih-ternyata-ri-sudah-siram-33-juta-ton-cpo",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE3NTk0OS00LTM1MTE1NC93dWloLXRlcm55YXRhLXJpLXN1ZGFoLXNpcmFtLTMzLWp1dGEtdG9uLWNwbw==",
-        "description": " Pemerintah mencatat ekspor CPO mencapai 3 jutaan ton."
-    },
-    {
-        "title": "Mulai 1 Juli 2022, Beli Pertalite Harus Daftar di MyPertamina",
-        "link": "https://www.cnbcindonesia.com/news/20220628180112-16-351147/mulai-1-juli-2022-beli-pertalite-harus-daftar-di-mypertamina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE4MDExMi0xNi0zNTExNDcvbXVsYWktMS1qdWxpLTIwMjItYmVsaS1wZXJ0YWxpdGUtaGFydXMtZGFmdGFyLWRpLW15cGVydGFtaW5h",
-        "description": " Pertamina akan mewajibkan pembeli Pertalite dan Solar Subsidi terdaftar di MyPertamina mulai 1 Juli 2022"
-    },
-    {
-        "title": "Gaji ke-13 PNS Bakal Cair, Sri Mulyani Siap Transfer Rp35 T",
-        "link": "https://www.cnbcindonesia.com/news/20220628174953-4-351137/gaji-ke-13-pns-bakal-cair-sri-mulyani-siap-transfer-rp35-t",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE3NDk1My00LTM1MTEzNy9nYWppLWtlLTEzLXBucy1iYWthbC1jYWlyLXNyaS1tdWx5YW5pLXNpYXAtdHJhbnNmZXItcnAzNS10",
-        "description": " Sri Mulyanimengalokasikan anggaran sebesar Rp 35,5 triliun untuk pembayaran gaji ke-13 Aparatur Sipil Negara (ASN) dan pensiunan."
     }
 ]
