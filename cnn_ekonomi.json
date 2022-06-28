@@ -1,5 +1,12 @@
 [
     {
+        "title": "Pertamina Buka Pendaftaran Beli Pertalite Selama 2 Minggu",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220628103848-85-814397/pertamina-buka-pendaftaran-beli-pertalite-selama-2-minggu",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI4MTAzODQ4LTg1LTgxNDM5Ny9wZXJ0YW1pbmEtYnVrYS1wZW5kYWZ0YXJhbi1iZWxpLXBlcnRhbGl0ZS1zZWxhbWEtMi1taW5nZ3U=",
+        "description": " Pertamina akan membuka proses pendaftaran untuk pembelian BBM jenis Pertalite dan Solar selama dua minggu mulai 1 Juli 2022."
+    },
+    {
         "title": "Hati-hati Dampak BI Checking Bermasalah",
         "link": "https://www.cnnindonesia.com/ekonomi/20220628082757-78-814313/hati-hati-dampak-bi-checking-bermasalah",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI3MTgyNDE2LTkyLTgxNDE3My80LXN0YXNpdW4ta2VyZXRhLWNlcGF0LWFrYW4tZGlsZW5na2FwaS1ha3Nlcy10cmFuc3BvcnRhc2ktcHVibGlr",
         "description": " KAI\u00c2\u00a0menyatakan kereta cepat Jakarta-Bandung (KCJB) akan memiliki empat stasiun transit."
-    },
-    {
-        "title": "Harga Minyak Dunia Naik Setelah G7 Janji 'Tekan' Vladimir Putin",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220628072721-85-814276/harga-minyak-dunia-naik-setelah-g7-janji-tekan-vladimir-putin",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI4MDcyNzIxLTg1LTgxNDI3Ni9oYXJnYS1taW55YWstZHVuaWEtbmFpay1zZXRlbGFoLWc3LWphbmppLXRla2FuLXZsYWRpbWlyLXB1dGlu",
-        "description": " Harga minyak mentah dunia naik hingga 1,8 persen usai negara-negara G7 berjanji untuk menekan Presiden Rusia Vladimir Putin lewat sanksi baru."
     }
 ]
