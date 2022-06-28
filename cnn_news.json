@@ -1,5 +1,33 @@
 [
     {
+        "title": "DPR Pertimbangkan Revisi UU Pemilu Imbas Pemekaran Papua",
+        "link": "https://www.cnnindonesia.com/nasional/20220628101200-32-814376/dpr-pertimbangkan-revisi-uu-pemilu-imbas-pemekaran-papua",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODEwMTIwMC0zMi04MTQzNzYvZHByLXBlcnRpbWJhbmdrYW4tcmV2aXNpLXV1LXBlbWlsdS1pbWJhcy1wZW1la2FyYW4tcGFwdWE=",
+        "description": " Komisi II DPR RI mempertimbangkan revisi Undang-undang Nomor 7 Tahun 2017 tentang Pemilihan Umum (UU Pemilu) imbas pemekaran Papua."
+    },
+    {
+        "title": "PAN Tunjuk Yandri Susanto Jadi Wakil Ketua MPR Gantikan Zulkifli Hasan",
+        "link": "https://www.cnnindonesia.com/nasional/20220628100444-32-814374/pan-tunjuk-yandri-susanto-jadi-wakil-ketua-mpr-gantikan-zulkifli-hasan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODEwMDQ0NC0zMi04MTQzNzQvcGFuLXR1bmp1ay15YW5kcmktc3VzYW50by1qYWRpLXdha2lsLWtldHVhLW1wci1nYW50aWthbi16dWxraWZsaS1oYXNhbg==",
+        "description": " Dewan Pimpinan Pusat (DPP) PAN menunjuk Ketua Komisi VIII DPR Yandri Susanto sebagai Wakil Ketua MPR menggantikan Zulkifli Hasan di kursi Wakil Ketua MPR."
+    },
+    {
+        "title": "Universitas Indonesia Raih Penghargaan Tertinggi Liga PTN BH",
+        "link": "https://www.cnnindonesia.com/nasional/20220628093317-25-814354/universitas-indonesia-raih-penghargaan-tertinggi-liga-ptn-bh",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODA5MzMxNy0yNS04MTQzNTQvdW5pdmVyc2l0YXMtaW5kb25lc2lhLXJhaWgtcGVuZ2hhcmdhYW4tdGVydGluZ2dpLWxpZ2EtcHRuLWJo",
+        "description": " Universitas Indonesia menyatakan akan terus berkomitmen guna meningkatkan\u00c2\u00a0kapasitas dosen, infrastruktur, riset dan akademik, hingga kualitas publikasi."
+    },
+    {
+        "title": "Demo Mahasiswa di DPR, Rekayasa Lalu Lintas Situasional",
+        "link": "https://www.cnnindonesia.com/nasional/20220628093306-20-814351/demo-mahasiswa-di-dpr-rekayasa-lalu-lintas-situasional",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODA5MzMwNi0yMC04MTQzNTEvZGVtby1tYWhhc2lzd2EtZGktZHByLXJla2F5YXNhLWxhbHUtbGludGFzLXNpdHVhc2lvbmFs",
+        "description": " Rekayasa lalu lintas\u00c2\u00a0akan diberlakukan saat\u00c2\u00a0demo mahasiswa di depan Gedung DPR, Selasa (28/6). Namun, rekayasa lalu lintas ini bersifat situasional."
+    },
+    {
         "title": "Awal Mula Skandal Korupsi Garuda Emirsyah: Bocorkan Rencana ke Swasta",
         "link": "https://www.cnnindonesia.com/nasional/20220628075801-12-814292/awal-mula-skandal-korupsi-garuda-emirsyah-bocorkan-rencana-ke-swasta",
         "image": "static/images/cnn_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODA3Mzk0NC0xMi04MTQyODYvZm9ydW0tYmF0YWstcG9saXNpa2FuLWhvbHl3aW5ncy10ZXJwdWt1bC1wcm9tby1hbGtvaG9sLXVudHVrLW1hcmlh",
         "description": " Ketum FBI menilai polisi seharusnya juga bisa memakai UU 40/2007, di mana penanggung jawab badan usaha juga harus diusut, bukan segelintir karyawan saja."
-    },
-    {
-        "title": "Depok Setop Sementara Vaksin Covovax Usai Dicap Haram oleh MUI",
-        "link": "https://www.cnnindonesia.com/nasional/20220628084210-20-814316/depok-setop-sementara-vaksin-covovax-usai-dicap-haram-oleh-mui",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODA4NDIxMC0yMC04MTQzMTYvZGVwb2stc2V0b3Atc2VtZW50YXJhLXZha3Npbi1jb3ZvdmF4LXVzYWktZGljYXAtaGFyYW0tb2xlaC1tdWk=",
-        "description": " Kadinkes Depok mengaku telah berkoordinasi dengan Kemenkes dan Dinkes Jabar untuk meminta arahan selanjutnya terkait vaksinasi di kota satelit ibu kota itu."
-    },
-    {
-        "title": "Survei IPS: Head to Head Prabowo Ungguli Ganjar dan Anies",
-        "link": "https://www.cnnindonesia.com/nasional/20220628071403-32-814272/survei-ips-head-to-head-prabowo-ungguli-ganjar-dan-anies",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODA3MTQwMy0zMi04MTQyNzIvc3VydmVpLWlwcy1oZWFkLXRvLWhlYWQtcHJhYm93by11bmdndWxpLWdhbmphci1kYW4tYW5pZXM=",
-        "description": " Hasil survei Indonesia Polling Stations (IPS)\u00c2\u00a0menunjukkan elektabilitas Prabowo Subianto makin unggul dibanding Ganjar Pranowo dan Anies Baswedan."
-    },
-    {
-        "title": "LGN Dukung DPR Buat Kajian Legalisasi Ganja untuk Medis",
-        "link": "https://www.cnnindonesia.com/nasional/20220627182547-20-814169/lgn-dukung-dpr-buat-kajian-legalisasi-ganja-untuk-medis",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyNzE4MjU0Ny0yMC04MTQxNjkvbGduLWR1a3VuZy1kcHItYnVhdC1rYWppYW4tbGVnYWxpc2FzaS1nYW5qYS11bnR1ay1tZWRpcw==",
-        "description": " Direktur Eksekutif Yayasan Sativa Nusantara dan Pendiri LGN Dhira Narayana mendorong agar DPR maupun pemerintah segera mengkaji legalisasi ganja medis."
-    },
-    {
-        "title": "PKS Kritik Keras Beli Minyak Goreng Pakai Aplikasi: Menyusahkan Rakyat",
-        "link": "https://www.cnnindonesia.com/nasional/20220628080918-32-814306/pks-kritik-keras-beli-minyak-goreng-pakai-aplikasi-menyusahkan-rakyat",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODA4MDkxOC0zMi04MTQzMDYvcGtzLWtyaXRpay1rZXJhcy1iZWxpLW1pbnlhay1nb3JlbmctcGFrYWktYXBsaWthc2ktbWVueXVzYWhrYW4tcmFreWF0",
-        "description": " Fraksi PKS di DPR menyatakan akar permasalahan minyak goreng berada pada sisi produksi dan distribusi, bukan karena lonjakan konsumsi."
     }
 ]

@@ -1,5 +1,47 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/502515/dugaan-pemalsuan-surat-pt-tgm-susi-dituntut-55-tahun-bui",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyNTE1L2R1Z2Fhbi1wZW1hbHN1YW4tc3VyYXQtcHQtdGdtLXN1c2ktZGl0dW50dXQtNTUtdGFodW4tYnVp",
+        "description": "SIDANG lanjutan terdakwa Wang Xie Juan alias Susi dan Mahyudin, kembali digelar di Pengadilan Negeri (PN) Palangkaraya, Senin (27/6/2022), dengan agenda pemeriksaan ahli. Sidang yang dipimpin&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502510/calon-haji-penderita-diabetes-wajib-pakai-alas-kaki-yang-nyaman",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyNTEwL2NhbG9uLWhhamktcGVuZGVyaXRhLWRpYWJldGVzLXdhamliLXBha2FpLWFsYXMta2FraS15YW5nLW55YW1hbg==",
+        "description": "ANGGOTA tim Dokter KKHI Makkah Ahmad Syahri mengatakan jamaah calon haji dengan komorbid diabetes harus menggunakan alas kaki yang nyaman&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502513/kebijakan-kapolri-listyo-sigit-rekrut-hafiz-quran-masuk-akpol-diapresiasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyNTEzL2tlYmlqYWthbi1rYXBvbHJpLWxpc3R5by1zaWdpdC1yZWtydXQtaGFmaXotcXVyYW4tbWFzdWstYWtwb2wtZGlhcHJlc2lhc2k=",
+        "description": "PENGURUS Pimpinan Pusat Keluarga Besar Putra Putri (KBPP) Polri masa bakti 2021-2026 mengapresiasi kebijakan Kapolri Jenderal Listyo Sigit Prabowo terkait perekrutan hafiz Quran untuk Akademi Kepolisian&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/502505/album-divo-cerita-tentang-cinta-dirilis-dalam-bentuk-usb",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMjUwNS9hbGJ1bS1kaXZvLWNlcml0YS10ZW50YW5nLWNpbnRhLWRpcmlsaXMtZGFsYW0tYmVudHVrLXVzYg==",
+        "description": "GMI Records menggandeng berbagai solois pria terbaik di Tanah Air seperti Sandhy Sondoro, Rio Febrian, Marcell Siahaan, Virzha, dan Bams untuk menghadirkan<a href=\"http://mediaindonesia.com/tag/musik\"&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502509/dorong-transaksi-cashless-ini-program-menarik-penyedia-aplikasi-keuangan-digital",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjUwOS9kb3JvbmctdHJhbnNha3NpLWNhc2hsZXNzLWluaS1wcm9ncmFtLW1lbmFyaWstcGVueWVkaWEtYXBsaWthc2kta2V1YW5nYW4tZGlnaXRhbA==",
+        "description": "Sejak revolusi Industri 4.0, penggunaan akses digital atau daring meningkat cukup masif. Hampir seluruh aktivitas manusia difasilitasi secara online. Berbagai layanan digital&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/502508/rionny-minta-pebulu-tangkis-indonesia-tidak-gentar-tampil-di-malaysia-terbuka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDI1MDgvcmlvbm55LW1pbnRhLXBlYnVsdS10YW5na2lzLWluZG9uZXNpYS10aWRhay1nZW50YXItdGFtcGlsLWRpLW1hbGF5c2lhLXRlcmJ1a2E=",
+        "description": "BWF Super 750 Malaysia Terbuka 2022, hari ini, Selasa (28/6) mulai bergulir. Kepala Bidang Pembinaan dan Prestasi PP PBSI Rionny Mainaky menyampaikan pesan khusus kepada sejumlah pemain seperti Chico&#8230;"
+    },
+    {
         "title": "Teknologi",
         "link": "https://m.mediaindonesia.com/teknologi/502501/huawei-band-7-hadir-disebut-mirip-smartwatch",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjUwNC9wdXByLWJlbmR1bmdhbi1tZW5pbnRpbmctbG9tYm9rLWtlbGFyLWRpLTIwMjM=",
         "description": "Menteri Pekerjaan Umum dan Perumahan Rakyat (PUPR) Basuki Hadimuljono meninjau pembangunan Bendungan Meninting di Lombok Barat, Provinsi Nusa Tenggara Barat (NTB), Selasa (28/6). Pembangunan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/502498/pulang-kampung-fernandinho-bergabung-dengan-athletico-paranaense",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjQ5OC9wdWxhbmcta2FtcHVuZy1mZXJuYW5kaW5oby1iZXJnYWJ1bmctZGVuZ2FuLWF0aGxldGljby1wYXJhbmFlbnNl",
-        "description": "MANTAN kapten Manchester City Fernandinho kembali ke klub pertamanya Athletico Paranaense. Hal itu diungkapkan klub Brasil itu,&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502503/bawaslu-yakini-pentingnya-optimalisasi-peran-perempuan-untuk-pemilu-2024",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDI1MDMvYmF3YXNsdS15YWtpbmktcGVudGluZ255YS1vcHRpbWFsaXNhc2ktcGVyYW4tcGVyZW1wdWFuLXVudHVrLXBlbWlsdS0yMDI0",
-        "description": "Keterlibatan perempuan dalam pesta demokrasi bukan hanya dalam hal keterlibatan mereka dalam partai politik atau pun menjadi calon legislatif dan eksekutif. Keterlibatan perempuan juga penting dalam&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/502500/bmkg-hujan-berpotensi-mengguyur-jaksel-dan-jaktim-siang-ini",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDI1MDAvYm1rZy1odWphbi1iZXJwb3RlbnNpLW1lbmdndXl1ci1qYWtzZWwtZGFuLWpha3RpbS1zaWFuZy1pbmk=",
-        "description": "Badan Meteorologi, Klimatologi dan Geofisika (BMKG) memprakirakan, wilayah Jakarta Timur dan Selatan siang ini akan diguyur hujan dengan intensitas ringan. Dalam rilisnya, Selasa&nbsp; (28/6),&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/502497/galatasaray-ingin-datangkan-el-shaarawy-dari-as-roma",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjQ5Ny9nYWxhdGFzYXJheS1pbmdpbi1kYXRhbmdrYW4tZWwtc2hhYXJhd3ktZGFyaS1hcy1yb21h",
-        "description": "KLUB Liga Turki Galatasaray dikabarkan tertarik mendatangkan penyerang sayap Stephan El Shaarawy dari AS Roma pada bursa transfer&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/502499/264-orang-jadi-korban-ledakan-truk-gas-beracun-di-yordania",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjQ5OS8yNjQtb3JhbmctamFkaS1rb3JiYW4tbGVkYWthbi10cnVrLWdhcy1iZXJhY3VuLWRpLXlvcmRhbmlh",
-        "description": "Sebanyak 13 orang tewas dan 251 terluka dalam kebocoran gas beracun dari tangki penyimpanan di pelabuhan Aqaba, Yordania pada Senin (27/6). Pihak berwenang meminta penduduk untuk menutup jendela dan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/502496/jelang-puncak-haji-kesehatan-jemaah-harga-mati",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyNDk2L2plbGFuZy1wdW5jYWstaGFqaS1rZXNlaGF0YW4tamVtYWFoLWhhcmdhLW1hdGk=",
-        "description": "KEMENTERIAN Kesehatan (Kemenkes) mengingatkan jemaah haji akan pentingnya menjaga kesehatan. Apalagi, menjelang puncak haji di Armuzna&#8230;"
     }
 ]
