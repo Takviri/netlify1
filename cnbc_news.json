@@ -1,5 +1,40 @@
 [
     {
+        "title": "Asa PUPR Perluas Peran Infrastruktur Dalam Ekonomi Hijau",
+        "link": "https://www.cnbcindonesia.com/news/20220628152755-8-351088/asa-pupr-perluas-peran-infrastruktur-dalam-ekonomi-hijau",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE1Mjc1NS04LTM1MTA4OC9hc2EtcHVwci1wZXJsdWFzLXBlcmFuLWluZnJhc3RydWt0dXItZGFsYW0tZWtvbm9taS1oaWphdQ==",
+        "description": " Asa PUPR Perluas Peran Infrastruktur Dalam Ekonomi Hijau"
+    },
+    {
+        "title": "RI Dihantui 'Kiamat' Pekerja Hulu Migas, 22% Bakal Pensiun!",
+        "link": "https://www.cnbcindonesia.com/news/20220628152236-4-351090/ri-dihantui-kiamat-pekerja-hulu-migas-22-bakal-pensiun",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE1MjIzNi00LTM1MTA5MC9yaS1kaWhhbnR1aS1raWFtYXQtcGVrZXJqYS1odWx1LW1pZ2FzLTIyLWJha2FsLXBlbnNpdW4=",
+        "description": " SKK Migas mencatat sebanyak 22% tenaga kerja hulu migas memasuki masa pensiun 7 tahun lagi"
+    },
+    {
+        "title": "Top! Pekerja Industri Migas RI Mulai Diperhitungkan Global",
+        "link": "https://www.cnbcindonesia.com/news/20220628143848-4-351069/top-pekerja-industri-migas-ri-mulai-diperhitungkan-global",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE0Mzg0OC00LTM1MTA2OS90b3AtcGVrZXJqYS1pbmR1c3RyaS1taWdhcy1yaS1tdWxhaS1kaXBlcmhpdHVuZ2thbi1nbG9iYWw=",
+        "description": " SKK Migas mencatat pekerja industri migas RI sudah mulai dilirik dikancah global"
+    },
+    {
+        "title": "Ngeri! Rusia Ancam Perang Dunia 3 Pecah",
+        "link": "https://www.cnbcindonesia.com/news/20220628124419-8-351016/ngeri-rusia-ancam-perang-dunia-3-pecah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODEyNDQxOS04LTM1MTAxNi9uZ2VyaS1ydXNpYS1hbmNhbS1wZXJhbmctZHVuaWEtMy1wZWNhaA==",
+        "description": " Rusia mengancam NATO, perang dunia tiga."
+    },
+    {
+        "title": "Iran Mau Gabung Geng Ekonomi China-Rusia Cs, AS Perlu Waspada",
+        "link": "https://www.cnbcindonesia.com/news/20220628152041-4-351086/iran-mau-gabung-geng-ekonomi-china-rusia-cs-as-perlu-waspada",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE1MjA0MS00LTM1MTA4Ni9pcmFuLW1hdS1nYWJ1bmctZ2VuZy1la29ub21pLWNoaW5hLXJ1c2lhLWNzLWFzLXBlcmx1LXdhc3BhZGE=",
+        "description": " Iran mengajukan aplikasi untuk menjadi anggota kelompok ekonomi berkembang yang dikenal sebagai BRICS."
+    },
+    {
         "title": "Bukan Dihapus, Ini Jurus Baru Anak Buah Jokowi Soal DMO CPO",
         "link": "https://www.cnbcindonesia.com/news/20220628151751-4-351082/bukan-dihapus-ini-jurus-baru-anak-buah-jokowi-soal-dmo-cpo",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE0MzgzNy00LTM1MTA2OC9zZWRpaG55YS1zcmktbXVseWFuaS1saWhhdC0yLXNla3Rvci1hbmRhbGFuLXJpLWluaS1pbXBvdGVu",
         "description": " Sektor kehutanan dan perikanan hampir tak memberikan konstribusi apa-apa ke perekonomian Indonesia."
-    },
-    {
-        "title": "Minim Fasilitas, DPR Nilai Penanganan PMK Belum Optimal",
-        "link": "https://www.cnbcindonesia.com/news/20220628151248-4-351080/minim-fasilitas-dpr-nilai-penanganan-pmk-belum-optimal",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE1MTI0OC00LTM1MTA4MC9taW5pbS1mYXNpbGl0YXMtZHByLW5pbGFpLXBlbmFuZ2FuYW4tcG1rLWJlbHVtLW9wdGltYWw=",
-        "description": " Penanganan Penyakit Mulut dan Kuku (PMK) di Jawa Timur dinilai masih kurang optimal"
-    },
-    {
-        "title": "Terungkap! Ini Biang Kerok Harga Tiket Pesawat 'Meledak'",
-        "link": "https://www.cnbcindonesia.com/news/20220628143204-4-351064/terungkap-ini-biang-kerok-harga-tiket-pesawat-meledak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE0MzIwNC00LTM1MTA2NC90ZXJ1bmdrYXAtaW5pLWJpYW5nLWtlcm9rLWhhcmdhLXRpa2V0LXBlc2F3YXQtbWVsZWRhaw==",
-        "description": " Kemenhub memaparkan\u00c2\u00a0ada beberapa komponen yang membuat harga tiket pesawat mahal."
-    },
-    {
-        "title": "RI Gencar Bangun Infrastruktur Hijau, Seberapa Penting Sih?",
-        "link": "https://www.cnbcindonesia.com/news/20220628112022-4-350971/ri-gencar-bangun-infrastruktur-hijau-seberapa-penting-sih",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODExMjAyMi00LTM1MDk3MS9yaS1nZW5jYXItYmFuZ3VuLWluZnJhc3RydWt0dXItaGlqYXUtc2ViZXJhcGEtcGVudGluZy1zaWg=",
-        "description": " Simak penjelasan Staf Ahli Menteri Bidang Teknologi, Industri, dan Lingkungan KemenPUPR Endra S. Atmawidjaja."
-    },
-    {
-        "title": "DPR: Pembangunan Jembatan Buton-Muna Harus Dikebut",
-        "link": "https://www.cnbcindonesia.com/news/20220628145841-4-351076/dpr-pembangunan-jembatan-buton-muna-harus-dikebut",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE0NTg0MS00LTM1MTA3Ni9kcHItcGVtYmFuZ3VuYW4tamVtYmF0YW4tYnV0b24tbXVuYS1oYXJ1cy1kaWtlYnV0",
-        "description": " Anggota Komisi V DPR RI Novita Wijayanti meminta Kementerian PUPR untuk memprioritaskan pembangunan infrastruktur di provinsi Sulawesi Tenggara (Sultra)."
-    },
-    {
-        "title": "Wilayah Jabar yang Uji Coba Daftar Pertalite di MyPertamina",
-        "link": "https://www.cnbcindonesia.com/news/20220628142231-4-351061/wilayah-jabar-yang-uji-coba-daftar-pertalite-di-mypertamina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE0MjIzMS00LTM1MTA2MS93aWxheWFoLWphYmFyLXlhbmctdWppLWNvYmEtZGFmdGFyLXBlcnRhbGl0ZS1kaS1teXBlcnRhbWluYQ==",
-        "description": " Terdapat empat kota/kabupaten di Jawa Barat yang harus uji coba pelaksanaan pendaftaran pembelian Pertalite"
     }
 ]
