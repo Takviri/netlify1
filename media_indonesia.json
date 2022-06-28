@@ -1,5 +1,47 @@
 [
     {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/502759/pelapor-roy-suryo-saya-hanya-menyuarakan-minoritas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDI3NTkvcGVsYXBvci1yb3ktc3VyeW8tc2F5YS1oYW55YS1tZW55dWFyYWthbi1taW5vcml0YXM=",
+        "description": "HERNA Sutana, sebagai pelapor kasus unggahan meme Roy Suryo, menyebut bahwa laporannya ini menyuarakan suara minoritas. &quot;Sudah saatnya kita semua berani bicara, kalau misalkan ada konotasi&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502762/diduga-dianiaya-majikan-prt-mengadu-ke-komnas-perempuan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDI3NjIvZGlkdWdhLWRpYW5pYXlhLW1hamlrYW4tcHJ0LW1lbmdhZHUta2Uta29tbmFzLXBlcmVtcHVhbg==",
+        "description": "SEORANG pembantu rumah tangga (PRT) berinisial SR mengadu ke Komnas Perempuan di Jalan Latuharhary Menteng, Jakarta Pusat, Selasa (28/6). Perempuan genap berusia 71 tahun tersebut mengaku&nbsp;mengalami&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502761/harganas-2022-momentum-tingkatkan-kesehatan-ibu-dan-anak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyNzYxL2hhcmdhbmFzLTIwMjItbW9tZW50dW0tdGluZ2thdGthbi1rZXNlaGF0YW4taWJ1LWRhbi1hbmFr",
+        "description": "MENTERI Kesehatan (Menkes) Budi Gunadi Sadikin menekankan bahwa Hari Keluarga Nasional (Harganas) ke-29 tahun ini harus dijadikan momentum untuk meningkatkan kesehatan semua ibu dan anakdi Indonesia.&#8230;"
+    },
+    {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/502760/mercedes-benz-sales-and-service-clinic-event-hadir-di-cirebon",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MDI3NjAvbWVyY2VkZXMtYmVuei1zYWxlcy1hbmQtc2VydmljZS1jbGluaWMtZXZlbnQtaGFkaXItZGktY2lyZWJvbg==",
+        "description": "PT Mercedes-Benz Distribution Indonesia (MBDI) kembali mengadakan layanan Sales and Service Clinic Event (SSCE), yang merupakan bagian dari komitmen jangka panjang Mercedes-Benz untuk memudahkan layanan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502758/wapres-instruksikan-kejar-pembangunan-mal-pelayanan-publik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDI3NTgvd2FwcmVzLWluc3RydWtzaWthbi1rZWphci1wZW1iYW5ndW5hbi1tYWwtcGVsYXlhbmFuLXB1Ymxpaw==",
+        "description": "WAKIL Presiden (Wapres) Ma'ruf Amin menyebut jumlah mal pelayanan publik (MPP) baru ada sebanyak 59 buah. Angka tersebut masih jauh dari target telah dicanangkan sebanyak 508 MPP. &quot;Artinya&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/502757/1400-sapi-di-kuningan-telah-divaksin-pmk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyNzU3LzE0MDAtc2FwaS1kaS1rdW5pbmdhbi10ZWxhaC1kaXZha3Npbi1wbWs=",
+        "description": "RIBUAN sapi di Kabupaten Kuningan, Jawa Barat sudah mendapatkan vaksinasi untuk pencegahan penyakit mulut dan kaki (PMK). Juru bicara satgas PMK Kabupaten Kuningan, drh. Rofiq, menjelaskan hingga Senin&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/502756/polres-halmahera-tengah-ringkus-pembunuh-warga-tiongkok",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyNzUyL21pbnlhay1nb3Nvay1oZXJiYWwtcHVsaWhrYW4tcGVnYWwtZGFuLWNlZ2FoLXNlcmFuZ2FuLXZpcnVz",
         "description": "BUMI Nusantara memiliki kekayaan keanekaragaman hayati termasuk jenis flora. Tak sedikit tanaman atau herbal yang memiliki khasiat untuk kesehatan dan pengobatan. Kepada media massa, Selasa&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/502751/348-juta-masyarakat-rentan-dan-umum-telah-terima-booster",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyNzUxLzM0OC1qdXRhLW1hc3lhcmFrYXQtcmVudGFuLWRhbi11bXVtLXRlbGFoLXRlcmltYS1ib29zdGVy",
-        "description": "HAMPIR 35 juta masyarakat rentan dan umum sudah menerima vaksin covid-19 dosis ketiga atau booster per Selasa (28/6). &ldquo;Jumlahnya sebanyak 34.840.544 orang,&rdquo; tulis keterangan di laman&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/502750/ojk-lampung-edukasi-literasi-keuangan-di-lampung-tengah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjc1MC9vamstbGFtcHVuZy1lZHVrYXNpLWxpdGVyYXNpLWtldWFuZ2FuLWRpLWxhbXB1bmctdGVuZ2Fo",
-        "description": "DEPUTI Direktur Pengawasan Lembaga Jasa Keuangan Kantor OJK Provinsi Lampung, Aprianus John Risnad, menilai edukasi literasi keuangan pada masyarakat perlu dilakukan selain sebagai instrumen dalam&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/502749/hamilton-akhirnya-buka-suara-soal-komentar-rasis",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDI3NDkvaGFtaWx0b24tYWtoaXJueWEtYnVrYS1zdWFyYS1zb2FsLWtvbWVudGFyLXJhc2lz",
-        "description": "JUARA dunia tujuh kali Lewis Hamilton mengungkapkan dirinya sering menjadi sasaran tindakan rasis dan pada Selasa (28/^0 menyatakan perlunya perubahan pola pikir diskriminatif yang ia sebut sudah ketinggalan&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/502748/akulaku-paylater-tersedia-di-platform-pegipegi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTAyNzQ4L2FrdWxha3UtcGF5bGF0ZXItdGVyc2VkaWEtZGktcGxhdGZvcm0tcGVnaXBlZ2k=",
-        "description": "Akulaku PayLater kini tersedia sebagai salah satu metode pembayaran yang tersedia pada platform agen perjalanan daring Pegipegi. Kolaborasi tersebut memungkinkan pengguna Pegipegi untuk menyelesaikan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/502747/sumbar-siap-gelar-mtq-korpri-nasional-ke-vi-nopember-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyNzQ3L3N1bWJhci1zaWFwLWdlbGFyLW10cS1rb3JwcmktbmFzaW9uYWwta2Utdmktbm9wZW1iZXItMjAyMg==",
-        "description": "MUSABAQAH Tilawatil Quran (MTQ) Korps Pegawai Republik Indonesia (Korpri) ke-VI tingkat nasional tahun 2022 direncanakan bakal digelar di Kota Padang, SUmatra Barat November nanti.&nbsp; Berbagai&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/502746/warga-antusias-jajal-kendaraan-listrik-otonom-di-qbig-bsd-city",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDI3NDYvd2FyZ2EtYW50dXNpYXMtamFqYWwta2VuZGFyYWFuLWxpc3RyaWstb3Rvbm9tLWRpLXFiaWctYnNkLWNpdHk=",
-        "description": "SEJAK peresmian uji coba autonomous electric vehicles (AV) atau kendaraan listrik otonom oleh Menteri Perhubungan (Menhub) Budi Karya Sumadi pada 20 Mei lalu, masyarakat terlihat antusias ingin mencoba&#8230;"
     }
 ]
