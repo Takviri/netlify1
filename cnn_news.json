@@ -1,9 +1,37 @@
 [
     {
-        "title": "DPR akan Dengar Pendapat Dokteruntuk Kaji Legalisasi Ganja Medis",
-        "link": "https://www.cnnindonesia.com/nasional/20220628073402-32-814287/dpr-akan-dengar-pendapat-dokteruntuk-kaji-legalisasi-ganja-medis",
+        "title": "PKS Kritik Keras Beli Minyak Goreng Pakai Aplikasi: Menyusahkan Rakyat",
+        "link": "https://www.cnnindonesia.com/nasional/20220628080918-32-814306/pks-kritik-keras-beli-minyak-goreng-pakai-aplikasi-menyusahkan-rakyat",
         "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODA3MzQwMi0zMi04MTQyODcvZHByLWFrYW4tZGVuZ2FyLXBlbmRhcGF0LWRva3RlcnVudHVrLWthamktbGVnYWxpc2FzaS1nYW5qYS1tZWRpcw==",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODA4MDkxOC0zMi04MTQzMDYvcGtzLWtyaXRpay1rZXJhcy1iZWxpLW1pbnlhay1nb3JlbmctcGFrYWktYXBsaWthc2ktbWVueXVzYWhrYW4tcmFreWF0",
+        "description": " Fraksi PKS di DPR menyatakan akar permasalahan minyak goreng berada pada sisi produksi dan distribusi, bukan karena lonjakan konsumsi."
+    },
+    {
+        "title": "Yenny Wahid Bongkar Sejarah Kelam Cak Imin Vs Gus Dur di PKB",
+        "link": "https://www.cnnindonesia.com/nasional/20220628080408-32-814307/yenny-wahid-bongkar-sejarah-kelam-cak-imin-vs-gus-dur-di-pkb",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODA4MDQwOC0zMi04MTQzMDcveWVubnktd2FoaWQtYm9uZ2thci1zZWphcmFoLWtlbGFtLWNhay1pbWluLXZzLWd1cy1kdXItZGktcGti",
+        "description": " Yenny Wahid mengatakan bukan cuma Gus Dur yang dikeluarkan dari PKB oleh Cak Imin, tapi juga\u00c2\u00a0sosok-sosok yang pernah menemani perjalanan Cak Imin di PKB."
+    },
+    {
+        "title": "Cara Ganti KTP, KK hingga Paspor Imbas Perubahan Nama Jalan di Jakarta",
+        "link": "https://www.cnnindonesia.com/nasional/20220628065851-20-814271/cara-ganti-ktp-kk-hingga-paspor-imbas-perubahan-nama-jalan-di-jakarta",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODA2NTg1MS0yMC04MTQyNzEvY2FyYS1nYW50aS1rdHAta2staGluZ2dhLXBhc3Bvci1pbWJhcy1wZXJ1YmFoYW4tbmFtYS1qYWxhbi1kaS1qYWthcnRh",
+        "description": " Warga DKI Jakarta harus membuat KTP, kartu keluarga (KK), dan Kartu Identitas Anak (KIA)\u00c2\u00a0imbas perubahan nama 22 jalan."
+    },
+    {
+        "title": "Sidang Vonis Adam Deni, Hakim Putus Kasus Akses Ilegal Dokumen Sahroni",
+        "link": "https://www.cnnindonesia.com/nasional/20220628074924-12-814291/sidang-vonis-adam-deni-hakim-putus-kasus-akses-ilegal-dokumen-sahroni",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODA3NDkyNC0xMi04MTQyOTEvc2lkYW5nLXZvbmlzLWFkYW0tZGVuaS1oYWtpbS1wdXR1cy1rYXN1cy1ha3Nlcy1pbGVnYWwtZG9rdW1lbi1zYWhyb25p",
+        "description": " Adam Deni hari ini menghadapi sidang vonis kasus dugaan akses ilegal dokumen milik Wakil Ketua Komisi III DPR RI Ahmad Sahroni."
+    },
+    {
+        "title": "DPR akan Dengar Pendapat Dokter untuk Kaji Legalisasi Ganja Medis",
+        "link": "https://www.cnnindonesia.com/nasional/20220628073402-32-814287/dpr-akan-dengar-pendapat-dokter-untuk-kaji-legalisasi-ganja-medis",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODA3MzQwMi0zMi04MTQyODcvZHByLWFrYW4tZGVuZ2FyLXBlbmRhcGF0LWRva3Rlci11bnR1ay1rYWppLWxlZ2FsaXNhc2ktZ2FuamEtbWVkaXM=",
         "description": " Komisi III DPR akan melakukan kajian dengan melibatkan dokter dan farmakolog untuk mendengarkan pendapat soal legalisasi ganja untuk kepentingan medis."
     },
     {
@@ -40,33 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODA2MjY0OC0yMC04MTQyNjAvZGFmdGFyLTEyLW91dGxldC1ob2x5d2luZ3MtamFrYXJ0YS15YW5nLWRpY2FidXQtaXppbi11c2FoYS1vbGVoLWFuaWVz",
         "description": " Gubernur DKI Jakarta Anies Baswedan resmi mencabut izin usaha seluruh outlet perusahaan bar dan kafe Holywings karena dinilai terbukti melanggar ketentuan."
-    },
-    {
-        "title": "KPK Tahan Adik Bupati Muna, Diduga Terlibat Kasus Suap",
-        "link": "https://www.cnnindonesia.com/nasional/20220628061639-12-814258/kpk-tahan-adik-bupati-muna-diduga-terlibat-kasus-suap",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODA2MTYzOS0xMi04MTQyNTgva3BrLXRhaGFuLWFkaWstYnVwYXRpLW11bmEtZGlkdWdhLXRlcmxpYmF0LWthc3VzLXN1YXA=",
-        "description": " KPK menahan adik Bupati Muna karena diduga terlibat dugaan suap pengajuan dana Pemulihan Ekonomi Nasional (PEN) Daerah untuk Kabupaten Kolaka Timur Tahun 2021."
-    },
-    {
-        "title": "Taruhan Alphard Capres Anies dan Realitas Politik Pilpres 2024",
-        "link": "https://www.cnnindonesia.com/nasional/20220627122342-32-813962/taruhan-alphard-capres-anies-dan-realitas-politik-pilpres-2024",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyNzEyMjM0Mi0zMi04MTM5NjIvdGFydWhhbi1hbHBoYXJkLWNhcHJlcy1hbmllcy1kYW4tcmVhbGl0YXMtcG9saXRpay1waWxwcmVzLTIwMjQ=",
-        "description": " Tidak mudah bagi para petinggi parpol memberikan karpet merah\u00c2\u00a0untuk Anies\u00c2\u00a0jadi Capres. Terlebih, Anies sampai saat ini bukan merupakan kader partai politik."
-    },
-    {
-        "title": "KIB Belum Putuskan Capres, Golkar Kukuh Usung Airlangga",
-        "link": "https://www.cnnindonesia.com/nasional/20220628054338-32-814255/kib-belum-putuskan-capres-golkar-kukuh-usung-airlangga",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODA1NDMzOC0zMi04MTQyNTUva2liLWJlbHVtLXB1dHVza2FuLWNhcHJlcy1nb2xrYXIta3VrdWgtdXN1bmctYWlybGFuZ2dh",
-        "description": " Partai Golkar masih kukuh mengusung sosok ketua umumnya menjadi calon presiden (capres) di Pemilihan Presiden (Pilpres) 2024 mendatang."
-    },
-    {
-        "title": "LBH Kritik Polisi Tangani Kasus Holywings: Reaktif karena Viral",
-        "link": "https://www.cnnindonesia.com/nasional/20220628025826-12-814247/lbh-kritik-polisi-tangani-kasus-holywings-reaktif-karena-viral",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODAyNTgyNi0xMi04MTQyNDcvbGJoLWtyaXRpay1wb2xpc2ktdGFuZ2FuaS1rYXN1cy1ob2x5d2luZ3MtcmVha3RpZi1rYXJlbmEtdmlyYWw=",
-        "description": " LBH Jakarta berpendapat proses hukum terhadap para pekerja Holywings bermasalah. Terdapat serangkaian pelanggaran prosedur hukum dalam penanganan kasus ini."
     }
 ]
