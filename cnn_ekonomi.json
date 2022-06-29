@@ -1,5 +1,12 @@
 [
     {
+        "title": "FOTO: Uji Coba Beli Pertalite Pakai MyPertamina",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220629152716-87-815069/foto-uji-coba-beli-pertalite-pakai-mypertamina",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI5MTUyNzE2LTg3LTgxNTA2OS9mb3RvLXVqaS1jb2JhLWJlbGktcGVydGFsaXRlLXBha2FpLW15cGVydGFtaW5h",
+        "description": " Pertamina\u00c2\u00a0akan mewajibkan pembeli pertalite daftar ke MyPertamina terlebih dulu. Mereka akan menguji coba penerapan kebijakan itu 1 Juli nanti."
+    },
+    {
         "title": "Kuota Pertalite-Solar Terancam Habis Sebelum Akhir Tahun",
         "link": "https://www.cnnindonesia.com/ekonomi/20220629144734-85-815038/kuota-pertalite-solar-terancam-habis-sebelum-akhir-tahun",
         "image": "static/images/cnn_ekonomi.png",
@@ -7,10 +14,10 @@
         "description": " BPH Migas mencatat konsumsi\u00c2\u00a0pertalite dan solar\u00c2\u00a0sudah di atas 50 persen dari kuota BBM subsidi per 20 Juni 2022."
     },
     {
-        "title": "Tak Hanya Pertalite, Beli LPG 3 Kg Juga Harus Daftar ke MyPertamina",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220629145534-85-815041/tak-hanya-pertalite-beli-lpg-3-kg-juga-harus-daftar-ke-mypertamina",
+        "title": "Beli LPG 3 Kg Juga Harus Daftar ke MyPertamina",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220629145534-85-815041/beli-lpg-3-kg-juga-harus-daftar-ke-mypertamina",
         "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI5MTQ1NTM0LTg1LTgxNTA0MS90YWstaGFueWEtcGVydGFsaXRlLWJlbGktbHBnLTMta2ctanVnYS1oYXJ1cy1kYWZ0YXIta2UtbXlwZXJ0YW1pbmE=",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI5MTQ1NTM0LTg1LTgxNTA0MS9iZWxpLWxwZy0zLWtnLWp1Z2EtaGFydXMtZGFmdGFyLWtlLW15cGVydGFtaW5h",
         "description": " Pertamina akan memperketat penjualan LPG 3 kg dengan mewajibkan pembeli daftar ke aplikasi MyPertamina. Pengetatan sama dengan yang dilakukan pada pertalite."
     },
     {
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI5MTE0MDQ5LTkyLTgxNDkzOS9hdWRpdG9yLWN1cmFuZ2ktdGVzLWVybnN0LXlvdW5nLWRpZGVuZGEtcnAxNDgtdA==",
         "description": " Ernst dan Young didenda US$100 juta oleh pemerintah AS setelah menemukan beberapa auditor curang dalam tes akuntan publik bersertifikat."
-    },
-    {
-        "title": "Staf Ahli KSP Sebut Pembatasan Pertalite Demi Ketahanan Energi",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220629092710-85-814848/staf-ahli-ksp-sebut-pembatasan-pertalite-demi-ketahanan-energi",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI5MDkyNzEwLTg1LTgxNDg0OC9zdGFmLWFobGkta3NwLXNlYnV0LXBlbWJhdGFzYW4tcGVydGFsaXRlLWRlbWkta2V0YWhhbmFuLWVuZXJnaQ==",
-        "description": " Tenaga Ahli Utama KSP Hageng Nugroho mengatakan pengaturan pembelian pertalite dan solar subsidi merupakan upaya untuk menjaga suplai dan daya beli masyarakat."
     }
 ]
