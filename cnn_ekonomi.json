@@ -1,5 +1,12 @@
 [
     {
+        "title": "Daftar Mobil dan Motor yang Dilarang Pakai Pertalite",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220629163132-85-815128/daftar-mobil-dan-motor-yang-dilarang-pakai-pertalite",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI5MTYzMTMyLTg1LTgxNTEyOC9kYWZ0YXItbW9iaWwtZGFuLW1vdG9yLXlhbmctZGlsYXJhbmctcGFrYWktcGVydGFsaXRl",
+        "description": " BPH Migas mengisyaratkan mobil di atas 2.000 cc tidak bisa menggunakan pertalite. Begitu pula motor di atas 250cc."
+    },
+    {
         "title": "FOTO: Uji Coba Beli Pertalite Pakai MyPertamina",
         "link": "https://www.cnnindonesia.com/ekonomi/20220629152716-87-815069/foto-uji-coba-beli-pertalite-pakai-mypertamina",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI5MTMyOTM1LTkyLTgxNDk3OS9hZGhpLWthcnlhLWJ1a2Etc3VhcmEtdGVya2FpdC10YW5kb24tYWlyLWxydC1qZWJvbC1kaS1yYXN1bmEtc2FpZA==",
         "description": " Adhi Karya sedang menyelidiki penyebab jebolnya tandon air LRT Jabodetabek di Jl. Rasuna Said, Kuningan yang melukai 5 orang pada Selasa (28/6) kemarin."
-    },
-    {
-        "title": "Auditor Curangi Tes, Ernst dan Young Didenda Rp1,48 T",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220629114049-92-814939/auditor-curangi-tes-ernst-young-didenda-rp148-t",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI5MTE0MDQ5LTkyLTgxNDkzOS9hdWRpdG9yLWN1cmFuZ2ktdGVzLWVybnN0LXlvdW5nLWRpZGVuZGEtcnAxNDgtdA==",
-        "description": " Ernst dan Young didenda US$100 juta oleh pemerintah AS setelah menemukan beberapa auditor curang dalam tes akuntan publik bersertifikat."
     }
 ]
