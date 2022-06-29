@@ -1,5 +1,54 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/502865/mendagri-minta-maaf-atas-insiden-final-liga-champions-di-prancis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjg2NS9tZW5kYWdyaS1taW50YS1tYWFmLWF0YXMtaW5zaWRlbi1maW5hbC1saWdhLWNoYW1waW9ucy1kaS1wcmFuY2lz",
+        "description": "MENTERI Dalam Negeri (Mendagri) Prancis, Gerald Darmanin meminta maaf atas insiden kericuhan di Paris saat final Liga Champions Eropa bulan lalu. Darmanin sebelumnya menyalahkan suporter Liverpool&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/502839/para-bintang-berbagi-kesan-soal-thor-love-and-thunder",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMjgzOS9wYXJhLWJpbnRhbmctYmVyYmFnaS1rZXNhbi1zb2FsLXRob3ItbG92ZS1hbmQtdGh1bmRlcg==",
+        "description": "PARA aktor dan pembuat film Thor: Love and Thunder membagikan cerita mereka soal karakter hingga kesan-kesan mereka saat terlibat di&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502863/bpjs-ketenagakerjaan-dan-btn-terus-wujudkan-mimpi-pekerja-miliki-rumah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjg2My9icGpzLWtldGVuYWdha2VyamFhbi1kYW4tYnRuLXRlcnVzLXd1anVka2FuLW1pbXBpLXBla2VyamEtbWlsaWtpLXJ1bWFo",
+        "description": "MEMILIKI rumah yang layak tentu menjadi impian setiap orang. Namun harga yang terus melambung tinggi membuat keinginan tersebut tampak sulit untuk diwujudkan. BPJS Ketenagakerjaan (BPJAMSOSTEK)&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502862/jemaah-haji-indonesia-yang-alami-gejala-kelainan-jantung-harap-segera-lapor",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyODYyL2plbWFhaC1oYWppLWluZG9uZXNpYS15YW5nLWFsYW1pLWdlamFsYS1rZWxhaW5hbi1qYW50dW5nLWhhcmFwLXNlZ2VyYS1sYXBvcg==",
+        "description": "PENYAKIT jantung mendominasi kematian jemaah haji Indonesia hingga hari ke-28 operasional haji tahun ini. Dari 14 kematian, 12 di antaranya disebabkan oleh penyakit jantung. Demikian pula dari&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502860/jambi-apresiasi-kementan-dalam-penanganan-pmk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjg2MC9qYW1iaS1hcHJlc2lhc2kta2VtZW50YW4tZGFsYW0tcGVuYW5nYW5hbi1wbWs=",
+        "description": "WAKIL Gubernur Jambi Abdullah Sani menyambut baik langkah Kementerian Pertanian (Kementan) yang telah membantu menyalurkan bantuan vaksin PMK dalam mengakselerasi pencegahan Penyakit Mulut dan Kuku&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/502831/produsen-nokia-hmd-global-teratas-di-peringkat-sustainability-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTAyODMxL3Byb2R1c2VuLW5va2lhLWhtZC1nbG9iYWwtdGVyYXRhcy1kaS1wZXJpbmdrYXQtc3VzdGFpbmFiaWxpdHktMjAyMg==",
+        "description": "HMD Global, produsen ponsel Nokia, berhasil meraih Peringkat Sustainability Platinum EcoVadis 2022 yang sangat mengesankan. Perusahaan&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/502858/pembawa-51-mayat-imigran-meksiko-dalam-trailer-terungkap",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjg1OC9wZW1iYXdhLTUxLW1heWF0LWltaWdyYW4tbWVrc2lrby1kYWxhbS10cmFpbGVyLXRlcnVuZ2thcA==",
+        "description": "SETIDAKNYA 51 migran yang didominasi asal Meksiko meninggal dunia setelah terkurung di dalam truk trailer di Texas, Amerika Serikat (AS). Pelakunya sudah teridentifikasi yakni dua warga negara Meksiko&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/502856/tambahan-anggaran-subsidi-bbm-dan-lpg-untuk-kurangi-beban-masyarakat",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjg1NS9qYWRpLXR1YW4tcnVtYWgtcGQtdTIwLWluZG9uZXNpYS1rb25zaXN0ZW4tdGlkYWstYWt1aS1pc3JhZWw=",
         "description": "ISRAEL dinyatakan lolos kualifikasi Piala Dunia U-20 2023 zona Eropa menemani Inggris, Prancis, Italia, dan satu tiket lain yang masih diperebutkan. Kabar lolosnya Israel ke Piala Dunia U-20 2023 langsung&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/502853/indonesia-hasilkan-rancangan-kebijakan-transisi-energi-untuk-dunia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjg1My9pbmRvbmVzaWEtaGFzaWxrYW4tcmFuY2FuZ2FuLWtlYmlqYWthbi10cmFuc2lzaS1lbmVyZ2ktdW50dWstZHVuaWE=",
-        "description": "TASK Force Energy, Sustainability and climate (TF ESC) B20 Indonesia menggelar pertemuan terakhir atau Call Meeting yang ke-5, secara online di Jakarta, Selasa (21/6).&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502852/cegah-hoaks-dan-ujaran-kebencian-bawaslu-perkuat-kehumasan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDI4NTIvY2VnYWgtaG9ha3MtZGFuLXVqYXJhbi1rZWJlbmNpYW4tYmF3YXNsdS1wZXJrdWF0LWtlaHVtYXNhbg==",
-        "description": "Dalam upaya menciptakan gelaran pemilu yang tertib, damai, jujur dan adil, peran kehumasan menjadi salah satu bagian penting. Untuk itu dalam upaya mencegah terjadinya meluasnya hoaks dan ujaran kebencian&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/502851/turki-melunak-swedia-dan-finlandia-gabung-nato",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjg1MS90dXJraS1tZWx1bmFrLXN3ZWRpYS1kYW4tZmlubGFuZGlhLWdhYnVuZy1uYXRv",
-        "description": "TURKI menarik hak vetonya untuk menolak Swedia dan Finlandia bergabung dengan NATO. Itu terjadi pada Selasa (28/6) setelah empat jam pembicaraan, tepat sebelum pertemuan puncak NATO dimulai di Madrid,&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/502827/j-hope-akan-rilis-single-more",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMjgyNy9qLWhvcGUtYWthbi1yaWxpcy1zaW5nbGUtbW9yZQ==",
-        "description": "AGENSI Big Hit Music mengumumkan rapper dari grup K-Pop BTS, J-Hope, akan merilis lagu berjudul More dari album debut solonya. Lagu&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/502849/upaya-erick-thohir-untuk-cegah-korupsi-di-bumn-dapat-apresiasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjg0OS91cGF5YS1lcmljay10aG9oaXItdW50dWstY2VnYWgta29ydXBzaS1kaS1idW1uLWRhcGF0LWFwcmVzaWFzaQ==",
-        "description": "ASSOCIATE Associate Director BUMN Research Group LM (Lembaga Management) Fakultas Ekonomi Bisnis (FEB) Universitas Indonesia (UI) Toto Pranoto mengapresiasi penegakan hukum yang dilakukan Menteri BUMN&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/502825/chelsea-siapkan-werner-atau-pulisic-demi-dapatkan-de-ligt",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjgyNS9jaGVsc2VhLXNpYXBrYW4td2VybmVyLWF0YXUtcHVsaXNpYy1kZW1pLWRhcGF0a2FuLWRlLWxpZ3Q=",
-        "description": "KLUB Liga Primer Inggris Chelsea dikabarkan siap memasukkan nama penyerang Timo Werner atau penyerang sayap Christian Pulisic ke&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/502838/seni-dalam-sunyi-karya-lukisan-dan-drawing-15-anak-tuli",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyODM4L3NlbmktZGFsYW0tc3VueWkta2FyeWEtbHVraXNhbi1kYW4tZHJhd2luZy0xNS1hbmFrLXR1bGk=",
-        "description": "KOMUNITAS Kelas Gambar Indonesia dan Yayasan Handai Tuli Indonesia&nbsp;berkolaborasi menggelar pameran seni rupa &quot;Seni dalam Sunyi&quot; di Kota Kasablanka, GF pada Sabtu, 25 Juni - 3 Juli 2022.&#8230;"
     }
 ]
