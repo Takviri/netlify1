@@ -1,5 +1,33 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/503085/dokter-masa-kini-altruisme-atau-profesionalisme",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDMwODUvZG9rdGVyLW1hc2Eta2luaS1hbHRydWlzbWUtYXRhdS1wcm9mZXNpb25hbGlzbWU=",
+        "description": "ESENSI dokter sebenarnya tidak ada yang berubah dari dulu. Tetap sama. Sejak zaman Hipocrates hingga kini, dokter bertugas merawat dan melayani orang sakit. Nilai etik yang dipegang juga relatif sama.&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/503139/raducanu-tersingkir-di-putaran-kedua-wimbledon",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDMxMzkvcmFkdWNhbnUtdGVyc2luZ2tpci1kaS1wdXRhcmFuLWtlZHVhLXdpbWJsZWRvbg==",
+        "description": "JUARA Amerika Serikat (AS) Terbuka Emma Raducanu, Rabu (29/6), tersingkir di putaran kedua Wimbledon setelah dikalahkan oleh Caroline&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/503138/ukraina-putuskan-hubungan-dengan-suriah-karena-akui-negara-separatis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzEzOC91a3JhaW5hLXB1dHVza2FuLWh1YnVuZ2FuLWRlbmdhbi1zdXJpYWgta2FyZW5hLWFrdWktbmVnYXJhLXNlcGFyYXRpcw==",
+        "description": "PRESIDEN Ukraina Volodymyr Zelensky, Rabu (29/6), mengumumkan pemutusan hubungan diplomatik antara Kiev dan Damaskus setelah Suriah&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/503137/suriah-akui-kemerdekaan-dua-negara-separatis-ukraina",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzEzNy9zdXJpYWgtYWt1aS1rZW1lcmRla2Fhbi1kdWEtbmVnYXJhLXNlcGFyYXRpcy11a3JhaW5h",
+        "description": "SEKUTU Moskow, Suriah, Rabu (29/6), mengakui kemerdekaan dua negara separatis Ukraina. Hal itu menjadikan Suriah sebagai negara yang&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/503136/djokovic-melenggang-mulus-ke-putaran-ketiga-wimbledon",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDMxMjcvcG9sZGEtcGFzdGlrYW4tcHJvbW9zaS10aHJlZXNvbWUtYmFyLWRpLWpha3NlbC10YWstdGVya2FpdC1hc3VzaWxh",
         "description": "KEPOLISIAN memastikan adanya promosi dengan tulisan 'threesome' di sebuah bar di daerah Kebayoran Lama, Jakarta Selatan tak terkait dengan tindakan asusila. Kepala Bidang Humas Polda&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/503124/tok-mu-barca-sepakat-nilai-transfer-de-jong-65-juta-euro",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzEyNC90b2stbXUtYmFyY2Etc2VwYWthdC1uaWxhaS10cmFuc2Zlci1kZS1qb25nLTY1LWp1dGEtZXVybw==",
-        "description": "MANCHESTER United (MU) akhirnya mencapai terobosan dalam upayanya menarik Frenkie de Jong setelah Barcelona menyetujui harga 65 juta Euro (Rp1,01 triliun) untuk sang gelandang, kata beberapa sumber&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503125/usut-tiga-kasus-korupsi-kejagung-bersih-bersih-kementerian-perdagangan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDMxMjUvdXN1dC10aWdhLWthc3VzLWtvcnVwc2kta2VqYWd1bmctYmVyc2loLWJlcnNpaC1rZW1lbnRlcmlhbi1wZXJkYWdhbmdhbg==",
-        "description": "SETELAH menyidik perkara dugaan korupsi pemberian fasilitas ekspor minyak sawit mentah (crude palm oil/CPO) dan impor besi baja, Kejaksaan Agung kini memulai penyidikan rasuah terkait impor garam industri.&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503123/kejagung-periksa-saksi-pt-dini-nusa-kusuma-terkait-korupsi-satelit-kemenhan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDMxMjMva2VqYWd1bmctcGVyaWtzYS1zYWtzaS1wdC1kaW5pLW51c2Eta3VzdW1hLXRlcmthaXQta29ydXBzaS1zYXRlbGl0LWtlbWVuaGFu",
-        "description": "SEBANYAK tujuh saksi yang berasal dari PT Dini Nusa Kusuma (DNK) diperiksa sebagai saksi oleh penyidik koneksitas Jaksa Agung Muda Bidang Pidana Militer (JAM-Pidmil), Kejaksaan Agung.&nbsp; Mereka&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/503121/merespons-ancaman-rusia-biden-tingkatkan-pasukan-as-di-eropa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzEyMS9tZXJlc3BvbnMtYW5jYW1hbi1ydXNpYS1iaWRlbi10aW5na2F0a2FuLXBhc3VrYW4tYXMtZGktZXJvcGE=",
-        "description": "AMERIKA Serikat akan membuat markas permanen baru untuk tentaranya di Polandia dan mengerahkan pasukan darat, udara, dan laut tambahan di seluruh Eropa sebagai tanggapan atas ancaman dari Rusia, kata&#8230;"
     }
 ]
