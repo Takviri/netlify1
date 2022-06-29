@@ -1,5 +1,33 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/503136/djokovic-melenggang-mulus-ke-putaran-ketiga-wimbledon",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDMxMzYvZGpva292aWMtbWVsZW5nZ2FuZy1tdWx1cy1rZS1wdXRhcmFuLWtldGlnYS13aW1ibGVkb24=",
+        "description": "UNGGULAN teratas Novak Djokovic tampil layaknya pemain dominan yang telah memenangi tiga gelar Wimbledon terakhir dalam kemenangan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/503134/clippers-perpanjang-kontrak-zubac",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDMxMzQvY2xpcHBlcnMtcGVycGFuamFuZy1rb250cmFrLXp1YmFj",
+        "description": "LOS Angeles Clippers memperpanjang kontrak Ivica Zubac namun tidak menyebutkan angka kontrak, yang dilaporkan media&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/503135/jokowi-tawarkan-sampaikan-pesan-zelensky-untuk-putin",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzEzNS9qb2tvd2ktdGF3YXJrYW4tc2FtcGFpa2FuLXBlc2FuLXplbGVuc2t5LXVudHVrLXB1dGlu",
+        "description": "PRESIDEN Joko Widodo menawarkan diri untuk membawa pesan dari Presiden Ukraina Volodymyr Zelensky kepada Presiden Rusia Vladimir&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/503133/jersey-baru-timnas-indonesia-dirilis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzEzMy9qZXJzZXktYmFydS10aW1uYXMtaW5kb25lc2lhLWRpcmlsaXM=",
+        "description": "JERSEY baru timnas Sepak Bola Indonesia resmi dirilis oleh Mills Sport selaku produsen apparel timnas dengan desain yang&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/503132/chelsea-siapkan-105-juta-pound-sterling-untuk-datangkan-raphinha-dan-sterling",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzEyMS9tZXJlc3BvbnMtYW5jYW1hbi1ydXNpYS1iaWRlbi10aW5na2F0a2FuLXBhc3VrYW4tYXMtZGktZXJvcGE=",
         "description": "AMERIKA Serikat akan membuat markas permanen baru untuk tentaranya di Polandia dan mengerahkan pasukan darat, udara, dan laut tambahan di seluruh Eropa sebagai tanggapan atas ancaman dari Rusia, kata&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503122/kpk-selisik-pengusulan-anggaran-bantuan-keuangan-kabupaten-tulungagung",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDMxMjIva3BrLXNlbGlzaWstcGVuZ3VzdWxhbi1hbmdnYXJhbi1iYW50dWFuLWtldWFuZ2FuLWthYnVwYXRlbi10dWx1bmdhZ3VuZw==",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) memeriksa mantan Bupati Tulungagung Syahri Mulyo Selasa (28/6). Ia diperiksa untuk mendalami pengembangan kasus dugaan suap pengalokasian anggaran bantuan keuangan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503120/kemenkominfo-targetkan-55-juta-masyarakat-peroleh-literasi-digital",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzMTIwL2tlbWVua29taW5mby10YXJnZXRrYW4tNTUtanV0YS1tYXN5YXJha2F0LXBlcm9sZWgtbGl0ZXJhc2ktZGlnaXRhbA==",
-        "description": "ERA digital yang serbacepat menuntut masyarakat untuk berubah, sehingga dibutuhkan talenta digital yang mumpuni. Perpaduan antara technical skill seperti kemampuan artificial intelligence (AI), big&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/503119/indonesia-minta-malaysia-perbaiki-kondisi-detensi-imigrasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzExOS9pbmRvbmVzaWEtbWludGEtbWFsYXlzaWEtcGVyYmFpa2kta29uZGlzaS1kZXRlbnNpLWltaWdyYXNp",
-        "description": "PEMERINTAH Indonesia meminta pihak Imigrasi Malaysia untuk memperbaiki kondisi rumah penahanan, terutama soal akses kesehatan dan sanitasinya, menyusul kemunculan laporan bahwa 18 warga negara Indonesia&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/503118/polisi-ciduk-mahasiswa-pengedar-di-kampus-bekasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDMxMTgvcG9saXNpLWNpZHVrLW1haGFzaXN3YS1wZW5nZWRhci1kaS1rYW1wdXMtYmVrYXNp",
-        "description": "POLSEK Cipayung menciduk mahasiswa salah satu universitas swasta di Bekasi, Jawa Barat berinisial MAS atas dugaan mengedarkan narkoba jenis ganja. Kapolsek Cipayung AKP Bayu Marfiando mengatakan&#8230;"
     }
 ]
