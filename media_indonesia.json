@@ -1,6 +1,48 @@
 [
     {
         "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/502804/de-jong-diskusikan-kesepakatan-pribadi-dengan-mu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjgwNC9kZS1qb25nLWRpc2t1c2lrYW4ta2VzZXBha2F0YW4tcHJpYmFkaS1kZW5nYW4tbXU=",
+        "description": "GELANDANG Frenkie de Jong dikabarkan tengah mendiskusikan kesepakatan pribadi dengan klub Liga Primer Inggris Manchester United&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502814/mencegah-stunting-dengan-pelajari-asupan-gizi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyODE0L21lbmNlZ2FoLXN0dW50aW5nLWRlbmdhbi1wZWxhamFyaS1hc3VwYW4tZ2l6aQ==",
+        "description": "KETUA Umum Tim Penggerak Pemberdayaan dan Kesejahteraan Keluarga (TP PKK) Tri Tito Karnavian meminta para orangtua memanfaatkan perkembangan Teknologi Informasi dan Komunikasi (TIK) untuk mempelajari&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502811/binawan-kirim-150-tenaga-kesehatan-ke-arab-saudi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjgxMS9iaW5hd2FuLWtpcmltLTE1MC10ZW5hZ2Eta2VzZWhhdGFuLWtlLWFyYWItc2F1ZGk=",
+        "description": "BINAWAN Group bekerja sama dengan Kementerian Kesehatan Arab Saudi, mengirim 150 tenaga kesehatan. Untuk memenuhi kebutuhan perawat di Rumah Sakit Pemerintah Arab Saudi di Provinsi Al-Qassim. Tenaga&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502812/2-bibit-siklon-tropis-tumbuh-di-utara-indonesia-begini-dampaknya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyODEyLzItYmliaXQtc2lrbG9uLXRyb3Bpcy10dW1idWgtZGktdXRhcmEtaW5kb25lc2lhLWJlZ2luaS1kYW1wYWtueWE=",
+        "description": "BMKG melalui Jakarta Tropical Cyclone Warning Center (TCWC) memantau 2 Bibit Siklon Tropis yang tumbuh di Belahan Bumi Utara (BBU) Indonesia yaitu Bibit Siklon Tropis 97W yang tumbuh di Laut Cina Selatan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/502803/pioli-tidak-sabarsambut-musim-baru-serie-a",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjgwMy9waW9saS10aWRhay1zYWJhcnNhbWJ1dC1tdXNpbS1iYXJ1LXNlcmllLWE=",
+        "description": "PELATIH AC Milan Stefano Pioli mengatakan ia beserta timnya tidak sabar menyambut musim baru 2022/23, meski pada pekan-pekan awal&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502808/barang-rongsokan-jadi-keren-ditangan-kang-juana",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyODA4L2JhcmFuZy1yb25nc29rYW4tamFkaS1rZXJlbi1kaXRhbmdhbi1rYW5nLWp1YW5h",
+        "description": "SIAPA Nyana, berkat sentuhan tangan kreatif, rongsokan besi bisa dirakit menjadi sebuah karya yang berharga. Bahan bekas atau limbah dimanfaatkan untuk dibuat benda menarik dengan berbagai macam bentuk&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/502802/ac-milan-buru-bek-lain-setelah-botman-memilih-ke-newcastle",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjgwMi9hYy1taWxhbi1idXJ1LWJlay1sYWluLXNldGVsYWgtYm90bWFuLW1lbWlsaWgta2UtbmV3Y2FzdGxl",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjgwNy9qb2tvd2ktbmFpay1rZXJldGEta2UtdWtyYWluYS1kYXJpLXBvbGFuZGlh",
         "description": "PRESIDEN Joko Widodo dan Ibu Iriana beserta rombongan terbatas berangkat menuju Ibu Kota Ukraina, Kiev menggunakan kereta yang berangkat&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/502801/botman-selesaikan-tes-medis-di-newcastle",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjgwMS9ib3RtYW4tc2VsZXNhaWthbi10ZXMtbWVkaXMtZGktbmV3Y2FzdGxl",
-        "description": "KLUB Liga Primer Inggris Newcastle United telah menyepakati transfer bek Belanda Sven Botman dari klub Ligue 1 Lille.&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/502798/westbrook-putuskan-bertahan-di-lakers",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDI3OTgvd2VzdGJyb29rLXB1dHVza2FuLWJlcnRhaGFuLWRpLWxha2Vycw==",
-        "description": "GUARD Los Angeles Lakers Russell Westbrook memutuskan menggunakan opsi kontak senilai US$47,1 juta untuk kembali ke klub NBA itu untuk&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/502797/merasa-dilecehkan-pendukung-di-wimbledon-kyrgios-kembali-berulah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDI3OTcvbWVyYXNhLWRpbGVjZWhrYW4tcGVuZHVrdW5nLWRpLXdpbWJsZWRvbi1reXJnaW9zLWtlbWJhbGktYmVydWxhaA==",
-        "description": "NICK Kyrgios meraih kemenangan di putaran pertama Wimbledon yang berlangsung selama 5 set, Selasa (28/6), sebelum menuding para&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/502775/investasi-peternakan-kita-mau-ke-mana",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDI3NzUvaW52ZXN0YXNpLXBldGVybmFrYW4ta2l0YS1tYXUta2UtbWFuYQ==",
-        "description": "AKHIR-AKHIR ini dunia peternakan kita sedang dirundung malang. Di tengah kebutuhan daging sapi yang kian meningkat guna pemenuhan hewan kurban Idul Adha 2022, para peternak dan industri peternakan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/502800/positif-covid-19-berrettini-mundur-dari-wimbledon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDI4MDAvcG9zaXRpZi1jb3ZpZC0xOS1iZXJyZXR0aW5pLW11bmR1ci1kYXJpLXdpbWJsZWRvbg==",
-        "description": "RUNNER-UP tahun lalu, Matteo Berrettini, mundur dari Wimbledon&nbsp;setelah dinyatakan positif covid-19, Selasa (28/6). &quot;Saya&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/502754/menggerakkan-cendekiawan-muhammadiyah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDI3NTQvbWVuZ2dlcmFra2FuLWNlbmRla2lhd2FuLW11aGFtbWFkaXlhaA==",
-        "description": "TIDAK berdiri di atas awan dan duduk di menara gading, tetapi berbaur dengan masyarakat, inilah sosok cendekiawan. Cendekiawan menara gading pernah dikritik WS Rendra sebagai cendekiawan yang tidak&#8230;"
     }
 ]
