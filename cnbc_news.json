@@ -1,5 +1,33 @@
 [
     {
+        "title": "Presiden Joko Widodo Tiba Di Kyiv, Ukraina",
+        "link": "https://www.cnbcindonesia.com/news/20220629163941-8-351493/presiden-joko-widodo-tiba-di-kyiv-ukraina",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE2Mzk0MS04LTM1MTQ5My9wcmVzaWRlbi1qb2tvLXdpZG9kby10aWJhLWRpLWt5aXYtdWtyYWluYQ==",
+        "description": " Presiden Joko Widodo bersama rombongan akhirnya tiba di Kyiv"
+    },
+    {
+        "title": "'Kiamat' Chip Hantui Pabrikan Mobil, Lokal Jadi Penyelamat?",
+        "link": "https://www.cnbcindonesia.com/news/20220629160449-4-351475/kiamat-chip-hantui-pabrikan-mobil-lokal-jadi-penyelamat",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE2MDQ0OS00LTM1MTQ3NS9raWFtYXQtY2hpcC1oYW50dWktcGFicmlrYW4tbW9iaWwtbG9rYWwtamFkaS1wZW55ZWxhbWF0",
+        "description": " Krisis chip semikonduktor telah membuat banyak industri manufaktur kewalahan,"
+    },
+    {
+        "title": "Tak Cuma Soal Ekonomi, Ini Alasan Jokowi Tahan Harga BBM",
+        "link": "https://www.cnbcindonesia.com/news/20220629164343-4-351498/tak-cuma-soal-ekonomi-ini-alasan-jokowi-tahan-harga-bbm",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE2NDM0My00LTM1MTQ5OC90YWstY3VtYS1zb2FsLWVrb25vbWktaW5pLWFsYXNhbi1qb2tvd2ktdGFoYW4taGFyZ2EtYmJt",
+        "description": " Kebijakan Presiden Joko Widodo (Jokowi) menambah anggaran subsidi energi pada tahun ini ternyata memperhitungkan banyak hal."
+    },
+    {
+        "title": "Penampakan Dalam Mal Ukraina yang Hancur Lebur Dirudal Rusia",
+        "link": "https://www.cnbcindonesia.com/news/20220629165926-7-351504/penampakan-dalam-mal-ukraina-yang-hancur-lebur-dirudal-rusia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE2NTkyNi03LTM1MTUwNC9wZW5hbXBha2FuLWRhbGFtLW1hbC11a3JhaW5hLXlhbmctaGFuY3VyLWxlYnVyLWRpcnVkYWwtcnVzaWE=",
+        "description": " Ini penampakan di dalam mal Ukraina yang hangus dirudal Rusia. Mal itu berada di wilayah\u00c2\u00a0Kremenchuk di Ukraina tengah."
+    },
+    {
         "title": "Mobil Plat Hitam di Atas 2.000 cc Dilarang Nenggak Pertalite",
         "link": "https://www.cnbcindonesia.com/news/20220629160926-4-351478/mobil-plat-hitam-di-atas-2000-cc-dilarang-nenggak-pertalite",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE3MDM0Ny00LTM1MTUwMi9wZXJoYXRpYW4tdXNhaS1wZXJ0YWxpdGUtYmVsaS1scGctanVnYS1kYWZ0YXItbXlwZXJ0YW1pbmE=",
         "description": " Diam-diam, Pertamina sudah melakukan ujicoba 144 ribu penduduk membeli LPG subsidi memakai MyPertamina"
-    },
-    {
-        "title": "BPKH: Dana Haji Siap Digunakan Kapan Saja!",
-        "link": "https://www.cnbcindonesia.com/news/20220629145928-4-351442/bpkh-dana-haji-siap-digunakan-kapan-saja",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE0NTkyOC00LTM1MTQ0Mi9icGtoLWRhbmEtaGFqaS1zaWFwLWRpZ3VuYWthbi1rYXBhbi1zYWph",
-        "description": " BPKH memastikan dana haji siap dipakai kapan saja untuk keperluan haji"
-    },
-    {
-        "title": "Mencekam, Ini Detik-detik Rudal Rusia Bom Mal Ukraina",
-        "link": "https://www.cnbcindonesia.com/news/20220629163216-8-351488/mencekam-ini-detik-detik-rudal-rusia-bom-mal-ukraina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE2MzIxNi04LTM1MTQ4OC9tZW5jZWthbS1pbmktZGV0aWstZGV0aWstcnVkYWwtcnVzaWEtYm9tLW1hbC11a3JhaW5h",
-        "description": " Rekaman cctv menunjukkan bagaimana warga berlarian, berguling, hingga terjatuh di dalam danau di taman kota, saat rudal menyerang mal di dekat lokasi itu."
-    },
-    {
-        "title": "RI Kiamat Pesawat, Garuda Bakal Tambah Sampai 70 Pesawat",
-        "link": "https://www.cnbcindonesia.com/news/20220629161650-4-351476/ri-kiamat-pesawat-garuda-bakal-tambah-sampai-70-pesawat",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE2MTY1MC00LTM1MTQ3Ni9yaS1raWFtYXQtcGVzYXdhdC1nYXJ1ZGEtYmFrYWwtdGFtYmFoLXNhbXBhaS03MC1wZXNhd2F0",
-        "description": " Indonesia masih dilanda 'kiamat' pesawat udara yang bisa operasi sebagai dampak pandemi dua tahun."
-    },
-    {
-        "title": "Diam-Diam! Navigasi Penerbangan 3 Negara Ini Dikendalikan RI",
-        "link": "https://www.cnbcindonesia.com/news/20220629150923-4-351441/diam-diam-navigasi-penerbangan-3-negara-ini-dikendalikan-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE1MDkyMy00LTM1MTQ0MS9kaWFtLWRpYW0tbmF2aWdhc2ktcGVuZXJiYW5nYW4tMy1uZWdhcmEtaW5pLWRpa2VuZGFsaWthbi1yaQ==",
-        "description": " Diam-siam BUMN navigasi udara AirNav melayani jasa layanan navigasi penerbangan beberapa negara tetangga."
     }
 ]
