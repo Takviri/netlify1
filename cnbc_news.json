@@ -1,5 +1,47 @@
 [
     {
+        "title": "Inisiatif Pengusaha Dorong Industri Hijau Menuju Zero Carbon",
+        "link": "https://www.cnbcindonesia.com/news/20220629112707-8-351331/inisiatif-pengusaha-dorong-industri-hijau-menuju-zero-carbon",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTExMjcwNy04LTM1MTMzMS9pbmlzaWF0aWYtcGVuZ3VzYWhhLWRvcm9uZy1pbmR1c3RyaS1oaWphdS1tZW51anUtemVyby1jYXJib24=",
+        "description": " Inisiatif Dunia Usaha Dorong Industri Hijau Menuju Net Zero Carbon"
+    },
+    {
+        "title": "Aset Kripto 'Babak Belur', Program Nuklir Korut Ikut Terancam",
+        "link": "https://www.cnbcindonesia.com/news/20220629114056-4-351343/aset-kripto-babak-belur-program-nuklir-korut-ikut-terancam",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTExNDA1Ni00LTM1MTM0My9hc2V0LWtyaXB0by1iYWJhay1iZWx1ci1wcm9ncmFtLW51a2xpci1rb3J1dC1pa3V0LXRlcmFuY2Ft",
+        "description": " Anjloknya pasar cryptocurrency telah menghapus jutaan dolar dana yang dicuri oleh peretas Korea Utara."
+    },
+    {
+        "title": "Lewat Praktek Ekonomi Sirkular, Ajinomoto Bidik Zero Waste",
+        "link": "https://www.cnbcindonesia.com/news/20220629115853-4-351348/lewat-praktek-ekonomi-sirkular-ajinomoto-bidik-zero-waste",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTExNTg1My00LTM1MTM0OC9sZXdhdC1wcmFrdGVrLWVrb25vbWktc2lya3VsYXItYWppbm9tb3RvLWJpZGlrLXplcm8td2FzdGU=",
+        "description": " Konsep ekonomi sirkular yang diterapkan Ajinomoto berkaitan dengan salah satu kebijakan Kementerian Perindustrian, yakni industri hijau."
+    },
+    {
+        "title": "Ini Alasan Kenapa Isi Pertalite Harus Daftar di Mypertamina",
+        "link": "https://www.cnbcindonesia.com/news/20220629110237-4-351318/ini-alasan-kenapa-isi-pertalite-harus-daftar-di-mypertamina",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTExMDIzNy00LTM1MTMxOC9pbmktYWxhc2FuLWtlbmFwYS1pc2ktcGVydGFsaXRlLWhhcnVzLWRhZnRhci1kaS1teXBlcnRhbWluYQ==",
+        "description": " Pertamina mewajibakan pengguna Pertalite dan Solar Subsidi untuk mendaftar di MyPertamina"
+    },
+    {
+        "title": "Pak Jokowi,Pengusaha Butuh Insentif Kembangkan Industri Hijau",
+        "link": "https://www.cnbcindonesia.com/news/20220629111207-8-351323/pak-jokowipengusaha-butuh-insentif-kembangkan-industri-hijau",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTExMTIwNy04LTM1MTMyMy9wYWstam9rb3dpcGVuZ3VzYWhhLWJ1dHVoLWluc2VudGlmLWtlbWJhbmdrYW4taW5kdXN0cmktaGlqYXU=",
+        "description": " Pak Jokowi, Pengusaha Butuh Insentif Kembangkan Industri Hijau"
+    },
+    {
+        "title": "India Chaos, Pria Pendukung Penghina Nabi Muhammad Dipenggal",
+        "link": "https://www.cnbcindonesia.com/news/20220629112252-4-351328/india-chaos-pria-pendukung-penghina-nabi-muhammad-dipenggal",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTExMjI1Mi00LTM1MTMyOC9pbmRpYS1jaGFvcy1wcmlhLXBlbmR1a3VuZy1wZW5naGluYS1uYWJpLW11aGFtbWFkLWRpcGVuZ2dhbA==",
+        "description": " Penghinaan Nabi Muhammad yang dilakukan tokoh partai pemerintah Perdana Menteri (PM) Narendra Modi, Bharatiya Janata (BJP), masih berbuntut panjang."
+    },
+    {
         "title": "Ini Dia Besaran Gaji ke-13 PNS yang Cair pada 1 Juli 2022",
         "link": "https://www.cnbcindonesia.com/news/20220629115328-4-351345/ini-dia-besaran-gaji-ke-13-pns-yang-cair-pada-1-juli-2022",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTEwNDQyNS00LTM1MTMxMS9pbmktdGFuZGEtb21pY3Jvbi1iYTQtYmE1LXNlcmluZy1kaXNhbmdrYS1mbHUtcmluZ2Fu",
         "description": " Berikut tanda-tanda omicron BA.4 dan BA.5 yang kerap disangka flu ringan"
-    },
-    {
-        "title": "Tekan Emisi, Hyundai Kembangkan Ekosistem Industri Hidrogen",
-        "link": "https://www.cnbcindonesia.com/news/20220629103948-8-351304/tekan-emisi-hyundai-kembangkan-ekosistem-industri-hidrogen",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTEwMzk0OC04LTM1MTMwNC90ZWthbi1lbWlzaS1oeXVuZGFpLWtlbWJhbmdrYW4tZWtvc2lzdGVtLWluZHVzdHJpLWhpZHJvZ2Vu",
-        "description": " Tekan Emisi, Hyundai Kembangkan Ekosistem Industri Hidrogen"
-    },
-    {
-        "title": "Harga BBM Harus Naik Pak Jokowi, Bank Dunia Ungkap Alasannya!",
-        "link": "https://www.cnbcindonesia.com/news/20220629104351-4-351310/harga-bbm-harus-naik-pak-jokowi-bank-dunia-ungkap-alasannya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTEwNDM1MS00LTM1MTMxMC9oYXJnYS1iYm0taGFydXMtbmFpay1wYWstam9rb3dpLWJhbmstZHVuaWEtdW5na2FwLWFsYXNhbm55YQ==",
-        "description": " Bank Dunia menyarankan pemerintah Indonesia menaikkan harga BBM."
-    },
-    {
-        "title": "Pantes Daftar, 80% Konsumsi Pertalite Dihabisi Orang Kaya!",
-        "link": "https://www.cnbcindonesia.com/news/20220629112323-4-351329/pantes-daftar-80-konsumsi-pertalite-dihabisi-orang-kaya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTExMjMyMy00LTM1MTMyOS9wYW50ZXMtZGFmdGFyLTgwLWtvbnN1bXNpLXBlcnRhbGl0ZS1kaWhhYmlzaS1vcmFuZy1rYXlh",
-        "description": " BKF Kementerian Keuangan mencatat\u00c2\u00a060% terkaya menikmati hampir 80% dari total konsumsi Pertalite"
-    },
-    {
-        "title": "Kurangi Emisi Hingga 50%, Ajinomoto Investasi  Rp 200 Miliar",
-        "link": "https://www.cnbcindonesia.com/news/20220629105920-8-351316/kurangi-emisi-hingga-50-ajinomoto-investasi-rp-200-miliar",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTEwNTkyMC04LTM1MTMxNi9rdXJhbmdpLWVtaXNpLWhpbmdnYS01MC1hamlub21vdG8taW52ZXN0YXNpLXJwLTIwMC1taWxpYXI=",
-        "description": " Kurangi Emisi Hingga 50%, Ajinomoto Berinvestasi Rp 200 Miliar"
-    },
-    {
-        "title": "Biar Paham! Isi Pertalite Tak Perlu Aplikasi, Cuma Daftar",
-        "link": "https://www.cnbcindonesia.com/news/20220629103039-4-351301/biar-paham-isi-pertalite-tak-perlu-aplikasi-cuma-daftar",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTEwMzAzOS00LTM1MTMwMS9iaWFyLXBhaGFtLWlzaS1wZXJ0YWxpdGUtdGFrLXBlcmx1LWFwbGlrYXNpLWN1bWEtZGFmdGFy",
-        "description": " Pertamina mewajibakan pelanggan Pertalite dan Solar Subsidi untuk mendaftar di website MyPertamina"
-    },
-    {
-        "title": "EU Sepakati Paket UU Iklim, Mobil BBM 'Dibunuh' Pelan-Pelan",
-        "link": "https://www.cnbcindonesia.com/news/20220629104730-4-351313/eu-sepakati-paket-uu-iklim-mobil-bbm-dibunuh-pelan-pelan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTEwNDczMC00LTM1MTMxMy9ldS1zZXBha2F0aS1wYWtldC11dS1pa2xpbS1tb2JpbC1iYm0tZGlidW51aC1wZWxhbi1wZWxhbg==",
-        "description": " Negara-negara Uni Eropa mencapai menyepakati undang-undang yang diusulkan untuk memerangi perubahan iklim pada Rabu (29/6/2022)."
     }
 ]
