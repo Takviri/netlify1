@@ -1,5 +1,47 @@
 [
     {
+        "title": "Usulan Penambahan Pelabuhan Singgah pada Tol Laut Sedang Dikaji",
+        "link": "https://bisnis.tempo.co/read/1606900/usulan-penambahan-pelabuhan-singgah-pada-tol-laut-sedang-dikaji",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA2OTAwL3VzdWxhbi1wZW5hbWJhaGFuLXBlbGFidWhhbi1zaW5nZ2FoLXBhZGEtdG9sLWxhdXQtc2VkYW5nLWRpa2FqaQ==",
+        "description": "Kementerian Perhubungan berencana menambah pelabuhan singgah Tol Laut pada tahun 2023."
+    },
+    {
+        "title": "PT Bursa Efek Indonesia Bukukan Pendapatan Usaha Rp 2,29 Triliun pada 2021",
+        "link": "https://bisnis.tempo.co/read/1606898/pt-bursa-efek-indonesia-bukukan-pendapatan-usaha-rp-229-triliun-pada-2021",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA2ODk4L3B0LWJ1cnNhLWVmZWstaW5kb25lc2lhLWJ1a3VrYW4tcGVuZGFwYXRhbi11c2FoYS1ycC0yMjktdHJpbGl1bi1wYWRhLTIwMjE=",
+        "description": "PT Bursa Efek Indonesia (BEI) secara konsolidasi berhasil membukukan pendapatan usaha sebesar Rp 2,29 triliun pada 2021."
+    },
+    {
+        "title": "Kementerian Investasi: Baterai Mobil Listrik Mulai Diproduksi di Batang Akhir 2023",
+        "link": "https://bisnis.tempo.co/read/1606896/kementerian-investasi-baterai-mobil-listrik-mulai-diproduksi-di-batang-akhir-2023",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA2ODk2L2tlbWVudGVyaWFuLWludmVzdGFzaS1iYXRlcmFpLW1vYmlsLWxpc3RyaWstbXVsYWktZGlwcm9kdWtzaS1kaS1iYXRhbmctYWtoaXItMjAyMw==",
+        "description": "Konsorsium LG bekerja sama dengan PT Aneka Tambang dan Indonesia Battery Corporation (IBC) berencana memproduksi baterai mobil listrik secara massal."
+    },
+    {
+        "title": "Kementerian Investasi Sebut Baterai Mobil Listrik Mulai Produksi Akhir Tahun 2023",
+        "link": "https://bisnis.tempo.co/read/1606892/kementerian-investasi-sebut-baterai-mobil-listrik-mulai-produksi-akhir-tahun-2023",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA2ODkyL2tlbWVudGVyaWFuLWludmVzdGFzaS1zZWJ1dC1iYXRlcmFpLW1vYmlsLWxpc3RyaWstbXVsYWktcHJvZHVrc2ktYWtoaXItdGFodW4tMjAyMw==",
+        "description": "Kementerian Investasi menyatakan baterai mobil listrik akan mulai diproduksi pada akhir tahun 2023 di Kawasan Industri Batang (KIB), Jawa Tengah."
+    },
+    {
+        "title": "Bukalapak Bidik Pendapatan hingga Rp 3 Triliun Sepanjang 2022",
+        "link": "https://bisnis.tempo.co/read/1606889/bukalapak-bidik-pendapatan-hingga-rp-3-triliun-sepanjang-2022",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA2ODg5L2J1a2FsYXBhay1iaWRpay1wZW5kYXBhdGFuLWhpbmdnYS1ycC0zLXRyaWxpdW4tc2VwYW5qYW5nLTIwMjI=",
+        "description": "Pada kuartal pertama 2022, pendapatan Bukalapak telah mencapai Rp 788 miliar. Angka itu sekitar 28 persen dari estimasi untuk tahun penuh 2022."
+    },
+    {
+        "title": "Tokopedia Gandeng Tada Luncurkan Spot Rewards",
+        "link": "https://bisnis.tempo.co/read/1606891/tokopedia-gandeng-tada-luncurkan-spot-rewards",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA2ODkxL3Rva29wZWRpYS1nYW5kZW5nLXRhZGEtbHVuY3Vya2FuLXNwb3QtcmV3YXJkcw==",
+        "description": "Sebagai perusahaan marketplace besar yang telah berhasil membantu pemerataan ekonomi secara digital, hal tersebut karena peran besar para Nakama"
+    },
+    {
         "title": "KADIN dan Perhapi Teken Kerja Sama untuk Peningkatan SDM di Sektor Minerba",
         "link": "https://bisnis.tempo.co/read/1606877/kadin-dan-perhapi-teken-kerja-sama-untuk-peningkatan-sdm-di-sektor-minerba",
         "image": "static/images/tempo_bisnis.png",
@@ -26,47 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA2ODU4L2ltYW4tcmFjaG1hbi1yZXNtaS1kaWFuZ2thdC1qYWRpLWRpcmVrdHVyLXV0YW1hLWJlaS1iZXJpa3V0LXN1c3VuYW4tZGlyZWtzaS1iYXJ1",
         "description": "Iman Rachman menggantikan Inarno Djajadi yang sebelumnya terpilih sebagai Dewan Komisioner Otoritas Jasa Keuangan (DK OJK)."
-    },
-    {
-        "title": "Seleksi Kompetensi Dasar STAN 2022 Dimulai Besok, Simak Jadwal, Nilai Ambang Batas dan Lokasinya",
-        "link": "https://bisnis.tempo.co/read/1606857/seleksi-kompetensi-dasar-stan-2022-dimulai-besok-simak-jadwal-nilai-ambang-batas-dan-lokasinya",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA2ODU3L3NlbGVrc2kta29tcGV0ZW5zaS1kYXNhci1zdGFuLTIwMjItZGltdWxhaS1iZXNvay1zaW1hay1qYWR3YWwtbmlsYWktYW1iYW5nLWJhdGFzLWRhbi1sb2thc2lueWE=",
-        "description": "Jadwal ujian atau Seleksi Kompetensi Dasar (SKD) untuk Program Studi Diploma IV Politeknik Keuangan Negara atau PKN STAN 2022 dimulai sejak besok."
-    },
-    {
-        "title": "Panduan Cara Beli Bensin dengan Aplikasi MyPertamina",
-        "link": "https://bisnis.tempo.co/read/1606850/panduan-cara-beli-bensin-dengan-aplikasi-mypertamina",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA2ODUwL3BhbmR1YW4tY2FyYS1iZWxpLWJlbnNpbi1kZW5nYW4tYXBsaWthc2ktbXlwZXJ0YW1pbmE=",
-        "description": "PT Pertamina (Persero) akan menerapkan penggunaan aplikasi MyPertamina untuk setiap pembelian Bahan Bakar Minyak (BBM) bersubsidi."
-    },
-    {
-        "title": "BEI Bidik Kapitalisasi Pasar 2026 Rp 13.500 Triliun, Jumlah Emiten Tumbuh 2 Kali Lipat",
-        "link": "https://bisnis.tempo.co/read/1606846/bei-bidik-kapitalisasi-pasar-2026-rp-13-500-triliun-jumlah-emiten-tumbuh-2-kali-lipat",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA2ODQ2L2JlaS1iaWRpay1rYXBpdGFsaXNhc2ktcGFzYXItMjAyNi1ycC0xMy01MDAtdHJpbGl1bi1qdW1sYWgtZW1pdGVuLXR1bWJ1aC0yLWthbGktbGlwYXQ=",
-        "description": "Direksi baru PT Bursa Efek Indonesia (BEI) periode 2022 - 2026 mencanangkan sejumlah program dan target jangka panjang."
-    },
-    {
-        "title": "PT Timah  Didorong Fasilitasi Perusahaan Tambang Milik Warga",
-        "link": "https://bisnis.tempo.co/read/1606838/pt-timahdidorong-fasilitasi-perusahaan-tambang-milik-warga",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA2ODM4L3B0LXRpbWFoZGlkb3JvbmctZmFzaWxpdGFzaS1wZXJ1c2FoYWFuLXRhbWJhbmctbWlsaWstd2FyZ2E=",
-        "description": "Perusahaan tambang timah milik masyarakat mulai tumbuh di Bangka Belitung seiring dengan rencana pemerintah membasmi tambang ilegal."
-    },
-    {
-        "title": "Pemerintah Buka Penerimaan CPNS dan PPPK Tahun Ini, Kuota Satu Juta Orang",
-        "link": "https://bisnis.tempo.co/read/1606840/pemerintah-buka-penerimaan-cpns-dan-pppk-tahun-ini-kuota-satu-juta-orang",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA2ODQwL3BlbWVyaW50YWgtYnVrYS1wZW5lcmltYWFuLWNwbnMtZGFuLXBwcGstdGFodW4taW5pLWt1b3RhLXNhdHUtanV0YS1vcmFuZw==",
-        "description": "Pemerintah akan kembali membuka lowongan CPNS dan PPPK 2022 dengan total kuota penerimaan sebanyak 1.086.128 orang."
-    },
-    {
-        "title": "Lion Air Group Buka Pendidikan Pramugara dan Pramugari Gratis, Cek Kualifikasinya",
-        "link": "https://bisnis.tempo.co/read/1606829/lion-air-group-buka-pendidikan-pramugara-dan-pramugari-gratis-cek-kualifikasinya",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA2ODI5L2xpb24tYWlyLWdyb3VwLWJ1a2EtcGVuZGlkaWthbi1wcmFtdWdhcmEtZGFuLXByYW11Z2FyaS1ncmF0aXMtY2VrLWt1YWxpZmlrYXNpbnlh",
-        "description": "Lion Air Group membuka lowongan pendidikan gratis untuk calon pekerja yang tertarik menjadi pramugara atau pramugari."
     }
 ]
