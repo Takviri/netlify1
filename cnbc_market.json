@@ -1,5 +1,19 @@
 [
     {
+        "title": "Alert! Wall Street Ambrol Lagi, Bursa Asia Dibuka Memerah",
+        "link": "https://www.cnbcindonesia.com/market/20220629083233-17-351245/alert-wall-street-ambrol-lagi-bursa-asia-dibuka-memerah",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MDgzMjMzLTE3LTM1MTI0NS9hbGVydC13YWxsLXN0cmVldC1hbWJyb2wtbGFnaS1idXJzYS1hc2lhLWRpYnVrYS1tZW1lcmFo",
+        "description": " Bursa Asia-Pasifik dibuka cenderung melemah pada perdagangan Rabu (29/6/2022), menyusul bursa saham Amerika Serikat (AS) yang kembali terkoreksi Selasa kemarin."
+    },
+    {
+        "title": "Tersangka KSP Indosurya Bebas, Mahfud MD Minta Tangkap Lagi",
+        "link": "https://www.cnbcindonesia.com/market/20220629082231-17-351243/tersangka-ksp-indosurya-bebas-mahfud-md-minta-tangkap-lagi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MDgyMjMxLTE3LTM1MTI0My90ZXJzYW5na2Eta3NwLWluZG9zdXJ5YS1iZWJhcy1tYWhmdWQtbWQtbWludGEtdGFuZ2thcC1sYWdp",
+        "description": " Menko Polhukam Mahfud MD buka suara terkait dibebaskannya dua tersangka KSP Indosurya dari rutan Bareskrim Polri"
+    },
+    {
         "title": "Utang Segunung Garuda Capai Rp 138 T, Begini Cara Melunasinya",
         "link": "https://www.cnbcindonesia.com/market/20220629081252-17-351241/utang-segunung-garuda-capai-rp-138-t-begini-cara-melunasinya",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MDU1ODM0LTE3LTM1MTIxOC9lbWl0ZW4tZXJpY2stdGhvaGlyLXRlcmN1YW4tYXNoYS1tYXNpaC1iZXRhaC1kaS10b3AtbG9zZXJz",
         "description": " Di tengah terkoreksinya kembali IHSG kemarin, beberapa saham menjadi top gainers"
-    },
-    {
-        "title": "Harga Batu Bara Akhirnya Naik, Tapi Tipis",
-        "link": "https://www.cnbcindonesia.com/market/20220629055104-17-351216/harga-batu-bara-akhirnya-naik-tapi-tipis",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MDU1MTA0LTE3LTM1MTIxNi9oYXJnYS1iYXR1LWJhcmEtYWtoaXJueWEtbmFpay10YXBpLXRpcGlz",
-        "description": " Pada perdagangan Selasa (28/6/2022), harga batu bara menguat 0,15%."
-    },
-    {
-        "title": "Utang Aman, RI Tetap Dapat Peringkat Investment Grade",
-        "link": "https://www.cnbcindonesia.com/market/20220629065804-17-351223/utang-aman-ri-tetap-dapat-peringkat-investment-grade",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MDY1ODA0LTE3LTM1MTIyMy91dGFuZy1hbWFuLXJpLXRldGFwLWRhcGF0LXBlcmluZ2thdC1pbnZlc3RtZW50LWdyYWRl",
-        "description": " Lembaga pemeringkat internasional Fitch masih mempertahankan Sovereign Credit Rating Indonesia pada BBB (investment grade) dengan outlook stabil."
     }
 ]

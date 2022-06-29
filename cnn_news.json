@@ -1,5 +1,26 @@
 [
     {
+        "title": "NasDem Buka Peluang Koalisi Bareng PKS dan Demokrat",
+        "link": "https://www.cnnindonesia.com/nasional/20220629083809-32-814827/nasdem-buka-peluang-koalisi-bareng-pks-dan-demokrat",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyOTA4MzgwOS0zMi04MTQ4MjcvbmFzZGVtLWJ1a2EtcGVsdWFuZy1rb2FsaXNpLWJhcmVuZy1wa3MtZGFuLWRlbW9rcmF0",
+        "description": " NasDem tak menutup kemungkinan bakal terjadi empat poros koalisi Pilpres 2024:\u00c2\u00a0yakni, PDIP; Gerindra-PKB;\u00c2\u00a0KIB Golkar-PAN-PPP; dan Koalisi NasDem-PKS-Demokrat."
+    },
+    {
+        "title": "PDIP Bantah Cap Sombong Tak Mau Koalisi Pilpres 2024",
+        "link": "https://www.cnnindonesia.com/nasional/20220629071402-32-814797/pdip-bantah-cap-sombong-tak-mau-koalisi-pilpres-2024",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyOTA3MTQwMi0zMi04MTQ3OTcvcGRpcC1iYW50YWgtY2FwLXNvbWJvbmctdGFrLW1hdS1rb2FsaXNpLXBpbHByZXMtMjAyNA==",
+        "description": " Ketua DPP PDIP Eriko Sotarduga membantah cap 'sombong' yang dilayangkan ke partainya menghadapi tahun politik Pemilu 2024."
+    },
+    {
+        "title": "Dihapus Pemerintah 2023, Tenaga Honorer Teriak Minta Diangkat Jadi ASN",
+        "link": "https://www.cnnindonesia.com/nasional/20220608111240-20-806285/dihapus-pemerintah-2023-tenaga-honorer-teriak-minta-diangkat-jadi-asn",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYwODExMTI0MC0yMC04MDYyODUvZGloYXB1cy1wZW1lcmludGFoLTIwMjMtdGVuYWdhLWhvbm9yZXItdGVyaWFrLW1pbnRhLWRpYW5na2F0LWphZGktYXNu",
+        "description": " Korwil Perkumpulan Honorer K2 Indonesia wilayah DKI merespons rencana pemerintahan Jokowi menghapus honorer mulai 2023."
+    },
+    {
         "title": "Wamenkumham: Tuntutan Hapus Pasal Hina Presiden RKUHP dari Orang Sesat",
         "link": "https://www.cnnindonesia.com/nasional/20220629074934-12-814807/wamenkumham-tuntutan-hapus-pasal-hina-presiden-rkuhp-dari-orang-sesat",
         "image": "static/images/cnn_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyOTA2NTAyMS0yMC04MTQ3OTIva2VtZW5hZy1nZWxhci1zaWRhbmctaXNiYXQtcGVuZW50dWFuLWlkdWxhZGhhLWhhcmktaW5p",
         "description": " Kementerian Agama (Kemenag) menggelar Sidang Isbat untuk menentukan awal Zulhijah 1443 H sekaligus menentukan hari Raya Idul Adha 1443 H hari ini, Rabu (29/6)."
-    },
-    {
-        "title": "PDIP Ungkap 3 Kader Penuhi Kriteria Capres 2024: Puan, Ganjar dan Risma",
-        "link": "https://www.cnnindonesia.com/nasional/20220629062402-32-814786/pdip-ungkap-3-kader-penuhi-kriteria-capres-2024-puan-ganjar-risma",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyOTA2MjQwMi0zMi04MTQ3ODYvcGRpcC11bmdrYXAtMy1rYWRlci1wZW51aGkta3JpdGVyaWEtY2FwcmVzLTIwMjQtcHVhbi1nYW5qYXItcmlzbWE=",
-        "description": " PDIP memilih tidak terburu-buru menyampaikan nama kader yang bakal diusung Capres 2024, meski sudah ada sejumlah kader yang masuk kriteria."
-    },
-    {
-        "title": "Rentetan Pasal Produk 'Penjajah' Masih Tercecer di RKUHP",
-        "link": "https://www.cnnindonesia.com/nasional/20220627090941-12-813840/rentetan-pasal-produk-penjajah-masih-tercecer-di-rkuhp",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyNzA5MDk0MS0xMi04MTM4NDAvcmVudGV0YW4tcGFzYWwtcHJvZHVrLXBlbmphamFoLW1hc2loLXRlcmNlY2VyLWRpLXJrdWhw",
-        "description": " Forum Akademisi mengungkap maraknya pasal-pasal yang dipakai para penjajah era kolonial yang masih ditampung dalam\u00c2\u00a0RKUHP."
-    },
-    {
-        "title": "Holywings di Semarang Ditutup, Logo Dicopot",
-        "link": "https://www.cnnindonesia.com/nasional/20220629054116-20-814782/holywings-di-semarang-ditutup-logo-dicopot",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyOTA1NDExNi0yMC04MTQ3ODIvaG9seXdpbmdzLWRpLXNlbWFyYW5nLWRpdHV0dXAtbG9nby1kaWNvcG90",
-        "description": " Holywings di Semarang, Jawa Tengah juga ditutup oleh pihak management. Bahkan logo kafe tersebut telah dicopot."
     }
 ]
