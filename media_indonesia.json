@@ -1,6 +1,20 @@
 [
     {
         "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/503148/witsel-merapat-ke-atletico-madrid",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzE0OC93aXRzZWwtbWVyYXBhdC1rZS1hdGxldGljby1tYWRyaWQ=",
+        "description": "PRESIDEN klub La Liga Atletico Madrid Enrique Cerezo mengatakan klubnya semakin dekat untuk mendapatkan gelandang Axel Witsel&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/503147/murray-tersingkir-di-putaran-kedua-wimbledon",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDMxNDcvbXVycmF5LXRlcnNpbmdraXItZGktcHV0YXJhbi1rZWR1YS13aW1ibGVkb24=",
+        "description": "ANDY Murray mencatatkan prestasi terburuknya di Wimbledon setelah tersingkir di putaran kedua karena kalah dari John Isner 6-4,&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/503146/lukaku-resmi-kembali-ke-inter-milan-dengan-status-pinjam-dari-chelsea",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzE0Ni9sdWtha3UtcmVzbWkta2VtYmFsaS1rZS1pbnRlci1taWxhbi1kZW5nYW4tc3RhdHVzLXBpbmphbS1kYXJpLWNoZWxzZWE=",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDMwODUvZG9rdGVyLW1hc2Eta2luaS1hbHRydWlzbWUtYXRhdS1wcm9mZXNpb25hbGlzbWU=",
         "description": "ESENSI dokter sebenarnya tidak ada yang berubah dari dulu. Tetap sama. Sejak zaman Hipocrates hingga kini, dokter bertugas merawat dan melayani orang sakit. Nilai etik yang dipegang juga relatif sama.&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/503139/raducanu-tersingkir-di-putaran-kedua-wimbledon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDMxMzkvcmFkdWNhbnUtdGVyc2luZ2tpci1kaS1wdXRhcmFuLWtlZHVhLXdpbWJsZWRvbg==",
-        "description": "JUARA Amerika Serikat (AS) Terbuka Emma Raducanu, Rabu (29/6), tersingkir di putaran kedua Wimbledon setelah dikalahkan oleh Caroline&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/503138/ukraina-putuskan-hubungan-dengan-suriah-karena-akui-negara-separatis",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzEzOC91a3JhaW5hLXB1dHVza2FuLWh1YnVuZ2FuLWRlbmdhbi1zdXJpYWgta2FyZW5hLWFrdWktbmVnYXJhLXNlcGFyYXRpcw==",
-        "description": "PRESIDEN Ukraina Volodymyr Zelensky, Rabu (29/6), mengumumkan pemutusan hubungan diplomatik antara Kiev dan Damaskus setelah Suriah&#8230;"
     }
 ]

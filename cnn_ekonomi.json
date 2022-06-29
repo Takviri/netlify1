@@ -1,5 +1,19 @@
 [
     {
+        "title": "Ramai Aksi Jual Saham, IHSG Diprediksi Makin Jatuh",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220630060712-92-815304/ramai-aksi-jual-saham-ihsg-diprediksi-makin-jatuh",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjMwMDYwNzEyLTkyLTgxNTMwNC9yYW1haS1ha3NpLWp1YWwtc2FoYW0taWhzZy1kaXByZWRpa3NpLW1ha2luLWphdHVo",
+        "description": " Indeks Harga Saham Gabungan (IHSG) diprediksi melemah pada perdagangan hari ini, Kamis (30/6), karena aksi jual."
+    },
+    {
+        "title": "Wacana Beli LPG 3Kg Pakai Mypertamina Tunggu Pendaftaran BBM Selesai",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220630003938-85-815286/wacana-beli-lpg-3kg-pakai-mypertamina-tunggu-pendaftaran-bbm-selesai",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjMwMDAzOTM4LTg1LTgxNTI4Ni93YWNhbmEtYmVsaS1scGctM2tnLXBha2FpLW15cGVydGFtaW5hLXR1bmdndS1wZW5kYWZ0YXJhbi1iYm0tc2VsZXNhaQ==",
+        "description": " Kebijakan pembelian LPG 3 Kg dengan mendaftar di aplikasi MyPertamina akan dilakukan tapi tidak dalam waktu dekat."
+    },
+    {
         "title": "Cegah Macet Libur Panjang, Parkiran Pelabuhan Merak Akan Diperluas",
         "link": "https://www.cnnindonesia.com/ekonomi/20220629185533-92-815202/cegah-macet-libur-panjang-parkiran-pelabuhan-merak-akan-diperluas",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI5MTkzNDU2LTUzMi04MTUyMjAvbWVuZ2ludGlwLWJlc2FyYW4tZ2FqaS1rZS0xMy1wdWFuLW1haGFyYW5pLXB1bHVoYW4tanV0YS1ydXBpYWg=",
         "description": " Berdasarkan PP 16/2022, gaji ke-13 yang akan diperoleh Puan Maharani minimal Rp20,8 juta."
-    },
-    {
-        "title": "Pertamina Serahkan Keamanan Data Pembeli Pertalite ke Telkom",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220629183334-85-815191/pertamina-serahkan-keamanan-data-pembeli-pertalite-ke-telkom",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI5MTgzMzM0LTg1LTgxNTE5MS9wZXJ0YW1pbmEtc2VyYWhrYW4ta2VhbWFuYW4tZGF0YS1wZW1iZWxpLXBlcnRhbGl0ZS1rZS10ZWxrb20=",
-        "description": " Pertamina menyerahkan keamanan data pelanggan yang mendaftar untuk pembelian Pertalite dan Solar ke Telkom."
-    },
-    {
-        "title": "Intip Besaran Gaji ke-13 Jokowi yang Cair pada 1 Juli 2022",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220629180929-532-815182/intip-besaran-gaji-ke-13-jokowi-yang-cair-pada-1-juli-2022",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI5MTgwOTI5LTUzMi04MTUxODIvaW50aXAtYmVzYXJhbi1nYWppLWtlLTEzLWpva293aS15YW5nLWNhaXItcGFkYS0xLWp1bGktMjAyMg==",
-        "description": " Pemerintah mengalokasikan anggaran Rp35,5 triliun untuk gaji ke-13 PNS, pensiunan dan pejabat negara, termasuk Jokowi."
     }
 ]
