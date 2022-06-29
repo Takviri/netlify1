@@ -1,9 +1,51 @@
 [
     {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503114/airlangga-sebut-kasus-harian-covid-19-masih-dalam-level-aman",
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503120/kemenkominfo-targetkan-55-juta-masyarakat-peroleh-literasi-digital",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzExNC9haXJsYW5nZ2Etc2VidXQta2FzdXMtaGFyaWFuLWNvdmlkLTE5LW1hc2loLWRhbGFtLWxldmVsLWFtYW4=",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzMTIwL2tlbWVua29taW5mby10YXJnZXRrYW4tNTUtanV0YS1tYXN5YXJha2F0LXBlcm9sZWgtbGl0ZXJhc2ktZGlnaXRhbA==",
+        "description": "ERA digital yang serbacepat menuntut masyarakat untuk berubah, sehingga dibutuhkan talenta digital yang mumpuni. Perpaduan antara technical skill seperti kemampuan artificial intelligence (AI), big&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/503119/indonesia-minta-malaysia-perbaiki-kondisi-detensi-imigrasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzExOS9pbmRvbmVzaWEtbWludGEtbWFsYXlzaWEtcGVyYmFpa2kta29uZGlzaS1kZXRlbnNpLWltaWdyYXNp",
+        "description": "PEMERINTAH Indonesia meminta pihak Imigrasi Malaysia untuk memperbaiki kondisi rumah penahanan, terutama soal akses kesehatan dan sanitasinya, menyusul kemunculan laporan bahwa 18 warga negara Indonesia&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/503118/polisi-ciduk-mahasiswa-pengedar-di-kampus-bekasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDMxMTgvcG9saXNpLWNpZHVrLW1haGFzaXN3YS1wZW5nZWRhci1kaS1rYW1wdXMtYmVrYXNp",
+        "description": "POLSEK Cipayung menciduk mahasiswa salah satu universitas swasta di Bekasi, Jawa Barat berinisial MAS atas dugaan mengedarkan narkoba jenis ganja. Kapolsek Cipayung AKP Bayu Marfiando mengatakan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/503116/ada-proyek-jalan-arus-lalin-tol-jakarta-cikampek-dialihkan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDMxMTYvYWRhLXByb3llay1qYWxhbi1hcnVzLWxhbGluLXRvbC1qYWthcnRhLWNpa2FtcGVrLWRpYWxpaGthbg==",
+        "description": "KEPOLISIAN Daerah Metro Jaya menyebutkan arus lalu lintas di ruas Tol Jakarta-Cikampek kilometer 06+145 dialihkan sehubungan dengan proyek jalan yang dimulai pukul 23.30 WIB, Rabu (29/6). Polda&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/503117/sandal-kayu-mahoni-dari-tasikmalaya-rambah-pasar-prancis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzMTE3L3NhbmRhbC1rYXl1LW1haG9uaS1kYXJpLXRhc2lrbWFsYXlhLXJhbWJhaC1wYXNhci1wcmFuY2lz",
+        "description": "PEMILIK Minimax Gallery Renny Octavia mengatakan produknya yang berupa sandal dengan bahan kayu mahoni serta jati asal Tasikmalaya sudah merambah pangsa pasar Prancis dan Thailand. &quot;Sudah&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/503115/presiden-kunjungan-ke-ukraina-wujud-kepedulian-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzExNS9wcmVzaWRlbi1rdW5qdW5nYW4ta2UtdWtyYWluYS13dWp1ZC1rZXBlZHVsaWFuLWluZG9uZXNpYQ==",
+        "description": "PRESIDEN Joko Widodo mengadakan pertemuan dengan Presiden Ukraina Volodymyr Zelenskyy di Istana Maryinsky, Kyiv, Ukraina, Rabu (29/6). Dalam pertemuan tersebut, kepala negara menyampaikan tujuan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503114/airlangga-sebut-kasus-harian-covid-19-masih-level-aman",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzExNC9haXJsYW5nZ2Etc2VidXQta2FzdXMtaGFyaWFuLWNvdmlkLTE5LW1hc2loLWxldmVsLWFtYW4=",
         "description": "MENTERI Koordinator Bidang Perekonomian Airlangga Hartarto menyampaikan rata-rata kasus harian COVID-19 di Tanah Air masih dalam level aman di bawah 2 ribu kasus per hari namun menunjukkan peningkatan.&#8230;"
     },
     {
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDMxMTEvc29hbC1tZW1lLWNhbmRpLWJvcm9idWR1ci1yb3ktc3VyeW8tamFuamktYmVyc2lrYXAta29vcGVyYXRpZg==",
         "description": "MANTAN Menteri Pemuda dan Olahraga (Menpora) Roy Suryo berjanji bersikap kooperatif membantu kepolisian dalam penyidikan kasus meme Candi Borobudur.  &quot;Saya selaku warga negara yang&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503110/update-29-juni-64-ribu-orang-terima-vaksin-dosis-kedua",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzMTEwL3VwZGF0ZS0yOS1qdW5pLTY0LXJpYnUtb3JhbmctdGVyaW1hLXZha3Npbi1kb3Npcy1rZWR1YQ==",
-        "description": "CAPAIAN vaksinasi covid-19 bagi lanjut usia (lansia) dan remaja terus dipercepat. Sebanyak 14.554.522 lansia telah menerima vaksin dosis lengkap per Rabu (29/6) &ldquo;Jumlah itu setara 67,53&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503109/balitbang-kemenhan-dan-len-matangkan-motor-listrik-untuk-keperluam-militer",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDMxMDkvYmFsaXRiYW5nLWtlbWVuaGFuLWRhbi1sZW4tbWF0YW5na2FuLW1vdG9yLWxpc3RyaWstdW50dWsta2VwZXJsdWFtLW1pbGl0ZXI=",
-        "description": "INDUSTRI pertahanan dalam negeri diharapkan terus melahirkan prestasi terbaiknya. Pasalnya, hal tersebut dapat membuat ekonomi dan kedaulatan bangsa Indonesia menjadi kuat. Untuk itu, Kementerian&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/503108/holywings-pecat-6-tersangka-kasus-promosi-bernuansa-sara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDMxMDgvaG9seXdpbmdzLXBlY2F0LTYtdGVyc2FuZ2thLWthc3VzLXByb21vc2ktYmVybnVhbnNhLXNhcmE=",
-        "description": "MANAJEMEN Bar dan Restoran Holywings menyebutkan, enam karyawan yang ditetapkan sebagai tersangka terkait promosi minuman beralkohol gratis bernuansa SARA telah mendapat sanksi pemecatan. &quot;Manajemen&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/503107/lestarikan-kebudayaan-betawi-lewat-tarian",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDMxMDcvbGVzdGFyaWthbi1rZWJ1ZGF5YWFuLWJldGF3aS1sZXdhdC10YXJpYW4=",
-        "description": "PEMERINTAH Kota Administrasi Jakarta Selatan gencar melestarikan budaya Betawi melalui pelatihan tarian bertajuk Kegiatan Pelatihan Tari Betawi dan Pembinaan Seni Budaya di Ruang Publik (RPTRA) 2022.<br&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503106/pemerintah-evaluasi-rutin-perkembangan-wabah-pmk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzMTA2L3BlbWVyaW50YWgtZXZhbHVhc2ktcnV0aW4tcGVya2VtYmFuZ2FuLXdhYmFoLXBtaw==",
-        "description": "MENTERI Koordinator Bidang Perekonomian Airlangga Hartarto mengatakan bahwa pemerintah akan mengadakan evaluasi rutin untuk membahas perkembangan dari Penyakit Mulut dan Kuku pada hewan ternak yang&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/503105/ac-milan-ikut-buru-tanda-tangan-dybala",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzEwNS9hYy1taWxhbi1pa3V0LWJ1cnUtdGFuZGEtdGFuZ2FuLWR5YmFsYQ==",
-        "description": "AC Milan mendadak muncul sebagai klub yang meminati Paulo Dybala. Klub Serie A Italia itu dilaporkan sudah mengelar pertemuan dengan agen striker timnas Argentina itu. Dybala akan berstatus&#8230;"
     }
 ]
