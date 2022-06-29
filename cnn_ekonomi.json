@@ -1,5 +1,19 @@
 [
     {
+        "title": "Konsekuensi Bila Tak Daftar Beli Pertalite di MyPertamina",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220629144611-85-815040/konsekuensi-bila-tak-daftar-beli-pertalite-di-mypertamina",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI5MTQ0NjExLTg1LTgxNTA0MC9rb25zZWt1ZW5zaS1iaWxhLXRhay1kYWZ0YXItYmVsaS1wZXJ0YWxpdGUtZGktbXlwZXJ0YW1pbmE=",
+        "description": " Pertamina mewajibkan masyarakat yang mau beli pertalite daftar ke MyPertamina mulai 1 Juli nanti. Berikut konsekuensinya kalau masyarakat tak mau daftar."
+    },
+    {
+        "title": "IHSG Tergelincir ke 6.942, 356 Saham Terkoreksi",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220629145708-92-815042/ihsg-tergelincir-ke-6942-356-saham-terkoreksi",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI5MTQ1NzA4LTkyLTgxNTA0Mi9paHNnLXRlcmdlbGluY2lyLWtlLTY5NDItMzU2LXNhaGFtLXRlcmtvcmVrc2k=",
+        "description": " Indeks Harga Saham Gabungan (IHSG) melemah 0,77 persen ke 6.942 pada perdagangan Rabu (29/6) sore."
+    },
+    {
         "title": "Kemenhub Terbitkan Aturan Membawa Drone dalam Pesawat",
         "link": "https://www.cnnindonesia.com/ekonomi/20220629133906-92-814983/kemenhub-terbitkan-aturan-membawa-drone-dalam-pesawat",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI5MTEwNTAwLTkyLTgxNDkwNS9ub3ZhcnRpcy1iYWthbC1waGstODAwMC1wZWtlcmphLWdsb2JhbA==",
         "description": " Perusahaan farmasi Novartis yang berpusat di Swiss akan melakukan PHK terhadap 8.000 orang karyawan sebagai imbas dari program restrukturisasi."
-    },
-    {
-        "title": "5 Fakta Beli Pertalite Wajib Daftar Mulai 1 Juli 2022",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220629113741-85-814940/5-fakta-beli-pertalite-wajib-daftar-mulai-1-juli-2022",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI5MTEzNzQxLTg1LTgxNDk0MC81LWZha3RhLWJlbGktcGVydGFsaXRlLXdhamliLWRhZnRhci1tdWxhaS0xLWp1bGktMjAyMg==",
-        "description": " PT Pertamina (Persero) mewajibkan pendaftaran lewat situs atau aplikasi MyPertamina untuk pembelian BBM pertalite mulai 1 Juli 2022. Berikut fakta-faktanya."
-    },
-    {
-        "title": "Rebut Pasar Umrah, Garuda Buka Rute Penerbangan dari Kota Besar Lain",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220628123927-92-814454/rebut-pasar-umrah-garuda-buka-rute-penerbangan-dari-kota-besar-lain",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjI4MTIzOTI3LTkyLTgxNDQ1NC9yZWJ1dC1wYXNhci11bXJhaC1nYXJ1ZGEtYnVrYS1ydXRlLXBlbmVyYmFuZ2FuLWRhcmkta290YS1iZXNhci1sYWlu",
-        "description": " Garuda Indonesia Airlines menargerkan untuk menguasai pasar perjalanan umrah di Indonesia dengan menyediakan penerbangan langsung dari kota besar ke Jeddah."
     }
 ]

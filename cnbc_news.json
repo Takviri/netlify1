@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ambisi Pemerintah Tekan Emisi Karbon, Siapkah Industri RI?",
+        "link": "https://www.cnbcindonesia.com/news/20220629151816-4-351446/ambisi-pemerintah-tekan-emisi-karbon-siapkah-industri-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE1MTgxNi00LTM1MTQ0Ni9hbWJpc2ktcGVtZXJpbnRhaC10ZWthbi1lbWlzaS1rYXJib24tc2lhcGthaC1pbmR1c3RyaS1yaQ==",
+        "description": " Pemerintah dinilai sudah sangat gencar untuk bisa merealisasikan green economic di Indonesia."
+    },
+    {
+        "title": "DPR:Pertalite Untuk Motor dan Angkutan Umum,Orang Kaya Dilarang",
+        "link": "https://www.cnbcindonesia.com/news/20220629145640-8-351433/dprpertalite-untuk-motor-angkutan-umumorang-kaya-dilarang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE0NTY0MC04LTM1MTQzMy9kcHJwZXJ0YWxpdGUtdW50dWstbW90b3ItYW5na3V0YW4tdW11bW9yYW5nLWtheWEtZGlsYXJhbmc=",
+        "description": " Pertalite Untuk Motor dan Kendaraan Umum, Orang Kaya Dilarang"
+    },
+    {
+        "title": "Harga Minyak Goreng Turun Lagi? Di Sini Termurah Segini",
+        "link": "https://www.cnbcindonesia.com/news/20220629134135-4-351399/harga-minyak-goreng-turun-lagi-di-sini-termurah-segini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTEzNDEzNS00LTM1MTM5OS9oYXJnYS1taW55YWstZ29yZW5nLXR1cnVuLWxhZ2ktZGktc2luaS10ZXJtdXJhaC1zZWdpbmk=",
+        "description": " Harga minyak goreng terpantau turun, harga rata-rata curah hari ini, Rabu (29/6/2022) di wilayah Jakarta turun Rp30 jadi Rp15.737 per kg."
+    },
+    {
+        "title": "Perusahaan Listrik AS Tiba-tiba 'Teriak', Ada Krisis Energi?",
+        "link": "https://www.cnbcindonesia.com/news/20220629141943-4-351420/perusahaan-listrik-as-tiba-tiba-teriak-ada-krisis-energi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE0MTk0My00LTM1MTQyMC9wZXJ1c2FoYWFuLWxpc3RyaWstYXMtdGliYS10aWJhLXRlcmlhay1hZGEta3Jpc2lzLWVuZXJnaQ==",
+        "description": " Perusahaan listrik di\u00c2\u00a0AS menghadapi krisis pasokan menjelang musim panas dan puncak musim cuaca ekstrem, seperti badai, kebakaran hutan dan kekeringan."
+    },
+    {
+        "title": "DPR: Setoran Batu Bara Cs Melejit, Harga BBM Tak Perlu Naik",
+        "link": "https://www.cnbcindonesia.com/news/20220629144110-8-351427/dpr-setoran-batu-bara-cs-melejit-harga-bbm-tak-perlu-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE0NDExMC04LTM1MTQyNy9kcHItc2V0b3Jhbi1iYXR1LWJhcmEtY3MtbWVsZWppdC1oYXJnYS1iYm0tdGFrLXBlcmx1LW5haWs=",
+        "description": " DPR: Setoran Batu Bara Cs Melejit, Pertalite Tak Perlu Naik "
+    },
+    {
+        "title": "SKK Migas: Pekerja di Hulu Migas Perlu Tingkatkan Soft Skill",
+        "link": "https://www.cnbcindonesia.com/news/20220629132736-4-351388/skk-migas-pekerja-di-hulu-migas-perlu-tingkatkan-soft-skill",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTEzMjczNi00LTM1MTM4OC9za2stbWlnYXMtcGVrZXJqYS1kaS1odWx1LW1pZ2FzLXBlcmx1LXRpbmdrYXRrYW4tc29mdC1za2lsbA==",
+        "description": " SKK Migas\u00c2\u00a0mengingatkan pentingnya soft skill di dunia kerja, terutama bagi pekerja di sektor hulu migas"
+    },
+    {
         "title": "Ada Titik Terang, Swedia dan Finlandia Segera Gabung NATO",
         "link": "https://www.cnbcindonesia.com/news/20220629132812-8-351389/ada-titik-terang-swedia-finlandia-segera-gabung-nato",
         "image": "static/images/cnbc_news.png",
@@ -7,10 +49,10 @@
         "description": " NATO akan mengundang Finlandia dan Swedia secara resmi untuk bergabung."
     },
     {
-        "title": "Selain Pertalite, Beli LPG Subsidi Juga Daftar MyPertamina",
-        "link": "https://www.cnbcindonesia.com/news/20220629144243-4-351429/selain-pertalite-beli-lpg-subsidi-juga-daftar-mypertamina",
+        "title": "Selain Pertalite, Beli LPG 3 Kg Juga Daftar MyPertamina",
+        "link": "https://www.cnbcindonesia.com/news/20220629144243-4-351429/selain-pertalite-beli-lpg-3-kg-juga-daftar-mypertamina",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE0NDI0My00LTM1MTQyOS9zZWxhaW4tcGVydGFsaXRlLWJlbGktbHBnLXN1YnNpZGktanVnYS1kYWZ0YXItbXlwZXJ0YW1pbmE=",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE0NDI0My00LTM1MTQyOS9zZWxhaW4tcGVydGFsaXRlLWJlbGktbHBnLTMta2ctanVnYS1kYWZ0YXItbXlwZXJ0YW1pbmE=",
         "description": " Pertamina Patra Niaga secara diam-diam sudah melakukan uji coba pembelian LPG dengan mendaftar MyPertamina"
     },
     {
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTEzMDAwMC00LTM1MTM3My9raWFtYXQtcGVzYXdhdC1ueWF0YS1iZWxhc2FuLXBlc2F3YXQtZGktcmktbWVuZ2hpbGFuZw==",
         "description": " Setidaknya dalam kurang 2 bulan jumlah pesawat yang beroperasi di Indonesia terus berkurang sampai belasan unit."
-    },
-    {
-        "title": "Sedih... Formasi CPNS 2022 Cuma 8 Ribu Orang, Ini Alasannya",
-        "link": "https://www.cnbcindonesia.com/news/20220629124600-4-351366/sedih-formasi-cpns-2022-cuma-8-ribu-orang-ini-alasannya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTEyNDYwMC00LTM1MTM2Ni9zZWRpaC1mb3JtYXNpLWNwbnMtMjAyMi1jdW1hLTgtcmlidS1vcmFuZy1pbmktYWxhc2Fubnlh",
-        "description": " Sedih... Formasi CPNS 2022 Cuma 8 Ribu Orang, Ini Alasannya"
-    },
-    {
-        "title": "Duh, Kuota Solar Subsidi dan Pertalite Bisa Habis Oktober 2022",
-        "link": "https://www.cnbcindonesia.com/news/20220629142023-4-351421/duh-kuota-solar-subsidi-pertalite-bisa-habis-oktober-2022",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE0MjAyMy00LTM1MTQyMS9kdWgta3VvdGEtc29sYXItc3Vic2lkaS1wZXJ0YWxpdGUtYmlzYS1oYWJpcy1va3RvYmVyLTIwMjI=",
-        "description": " BPH Migas mengatakan jika tidak ada pengendalian kuta solar subsidi dan Pertalite bisa habis Oktober-November"
-    },
-    {
-        "title": "Minyak Rusia Kena 'Tembak' Lewat Asuransi, Dampaknya Ngeri",
-        "link": "https://www.cnbcindonesia.com/news/20220629130847-4-351374/minyak-rusia-kena-tembak-lewat-asuransi-dampaknya-ngeri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTEzMDg0Ny00LTM1MTM3NC9taW55YWstcnVzaWEta2VuYS10ZW1iYWstbGV3YXQtYXN1cmFuc2ktZGFtcGFrbnlhLW5nZXJp",
-        "description": " Belum lama ini\u00c2\u00a0UE meluncurkan larangan asuransi, yang masuk dalam serangkaian sanksi ekonomi keenam untuk menghukum Rusia atas serangannya ke Ukraina."
-    },
-    {
-        "title": "Teknologi dan Investasi, Tantangan Utama Transformasi Industri",
-        "link": "https://www.cnbcindonesia.com/news/20220629140814-4-351416/teknologi-investasi-tantangan-utama-transformasi-industri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE0MDgxNC00LTM1MTQxNi90ZWtub2xvZ2ktaW52ZXN0YXNpLXRhbnRhbmdhbi11dGFtYS10cmFuc2Zvcm1hc2ktaW5kdXN0cmk=",
-        "description": " Kepala Pusat Industri Hijau Kementerian Perindustrian, Herman Supriadi mengatakan investasi dan transfer teknologi menjadi salah satu tantangan transformasi"
-    },
-    {
-        "title": "Ini Tantangan Utama Mendorong Transformasi Industri Hijau",
-        "link": "https://www.cnbcindonesia.com/news/20220629135723-4-351412/ini-tantangan-utama-mendorong-transformasi-industri-hijau",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTEzNTcyMy00LTM1MTQxMi9pbmktdGFudGFuZ2FuLXV0YW1hLW1lbmRvcm9uZy10cmFuc2Zvcm1hc2ktaW5kdXN0cmktaGlqYXU=",
-        "description": " Keterbatasan dana menjadi salah satu tantangan industri dalam mendukung pemerintah menerapkan green economic."
-    },
-    {
-        "title": "PM Italia: Putin Tak Akan Datang ke KTT G20 Bali",
-        "link": "https://www.cnbcindonesia.com/news/20220629132813-8-351391/pm-italia-putin-tak-akan-datang-ke-ktt-g20-bali",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTEzMjgxMy04LTM1MTM5MS9wbS1pdGFsaWEtcHV0aW4tdGFrLWFrYW4tZGF0YW5nLWtlLWt0dC1nMjAtYmFsaQ==",
-        "description": " Presiden Rusia Vladimir Putin dikabarkan batal datang ke Bali untuk menghadiri KTT G20 November mendatang."
     }
 ]
