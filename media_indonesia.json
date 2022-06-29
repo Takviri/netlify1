@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502952/per-1-juli-2022-pertamina-buka-pendaftaran-di-situs-mypertamina-ini-caranya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjk1Mi9wZXItMS1qdWxpLTIwMjItcGVydGFtaW5hLWJ1a2EtcGVuZGFmdGFyYW4tZGktc2l0dXMtbXlwZXJ0YW1pbmEtaW5pLWNhcmFueWE=",
+        "description": "PT Pertamina Patra Niaga membuka pendaftaran kendaraan dan identitasnya di Website MyPertamina per 1 Juli 2022. Dari pendaftaran, pengguna akan mendapatkan QR Code yang dapat digunakan untuk pembelian&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/502951/di-kejuaraan-nasional-pencak-silat-universitas-bsi-borong-13-medali",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDI5NTEvZGkta2VqdWFyYWFuLW5hc2lvbmFsLXBlbmNhay1zaWxhdC11bml2ZXJzaXRhcy1ic2ktYm9yb25nLTEzLW1lZGFsaQ==",
+        "description": "UNIT Kegiatan Mahasiswa (UKM) Pencak Silat, Universitas BSI (Bina Sarana Informatika), berhasil memborong medali pada kejuaraan nasional Jakarta Silat Competition 2, yang digelar di Gor Pengadegan,&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502950/ini-fatwa-mui-tentang-hukum-hewan-kurban-saat-wabah-pmk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyOTUwL2luaS1mYXR3YS1tdWktdGVudGFuZy1odWt1bS1oZXdhbi1rdXJiYW4tc2FhdC13YWJhaC1wbWs=",
+        "description": "HUKUM hewan kurban saat wabah Penyakit Mulut dan Kuku atau PMK sudah difatwakan Majelis Ulama Indonesia (MUI). Hukumnya ada yang sah, tidak sah, dan sedekah atau tidak memenuhi syarat hewan kurban.&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502949/ylki-ungkap-kekhawatiran-pembelian-bbm-lewat-aplikasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjk0OS95bGtpLXVuZ2thcC1rZWtoYXdhdGlyYW4tcGVtYmVsaWFuLWJibS1sZXdhdC1hcGxpa2FzaQ==",
+        "description": "YAYASAN Lembaga Konsumen Indonesia (YLKI) menyatakan kekhawatiran atas pengaturan pembelian bahan bakar minyak (BBM) pertalite dan solar subsidi lewat aplikasi dari Pertamina.&nbsp; Di era digital,&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502948/musrenbangtan-2022-mentan-minta-perencanaan-sektor-pertanian-inovatif-dan-adaptif",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjk0OC9tdXNyZW5iYW5ndGFuLTIwMjItbWVudGFuLW1pbnRhLXBlcmVuY2FuYWFuLXNla3Rvci1wZXJ0YW5pYW4taW5vdmF0aWYtZGFuLWFkYXB0aWY=",
+        "description": "MENTERI Pertanian Syahrul Yasin Limpo meminta perencanaan pembangunan pertanian 2023 harus inovatif dan adatif. Pasalnya, di tengah tantangan pangan dunia saat ini dibutuhkan gebrakan program sebagai&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502947/cegah-polarisasi-pengamat-peserta-pemilu-harus-buka-dialog",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDI5NDcvY2VnYWgtcG9sYXJpc2FzaS1wZW5nYW1hdC1wZXNlcnRhLXBlbWlsdS1oYXJ1cy1idWthLWRpYWxvZw==",
+        "description": "PARTAI Politik kompak untuk menghilangkan polarisasi pada Pemilu 2024. Mereka tak ingin masyarakat terbelah akibat kontestasi pemimpin nasional tersebut.? Direktur Eksekutif&nbsp;Perludem&nbsp;Khairunnisa&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/502946/tp-pkk-harap-angka-stunting-terus-menurun-di-indonesia",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyOTQyL2hvbHl3aW5ncy1wZWthbmJhcnUtcHV0dXNrYW4tdHV0dXAtc2VtZW50YXJhLW1hbmFqZW1lbi1iYXRhbGthbi1rb25zZXIta2FoaXRuYQ==",
         "description": "HOLYWINGS Pekanbaru, Riau, resmi menutup tempat usaha dan hiburannya terhitung sejak Rabu (29/6/2022). Holywings Pekanbaru juga terpaksa membatalkan sejumlah event penting yang telah dijadwalkan sebelumnya,&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502941/kondisi-menpan-rb-tjahjo-membaik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDI5NDEva29uZGlzaS1tZW5wYW4tcmItdGphaGpvLW1lbWJhaWs=",
-        "description": "MENTERI Pemberdayaan Aparatur Negara dan Reformasi Birokrasi (Menpan-RB) Tjahjo Kumolo tengah menjalani perawatan akibat infeksi paru-paru. Kondisi eks Menteri Dalam Negeri (Mendagri) itu disebut berangsur&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/502940/harga-sawit-di-aceh-rp800-per-kg-petani-lesu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyOTQwL2hhcmdhLXNhd2l0LWRpLWFjZWgtcnA4MDAtcGVyLWtnLXBldGFuaS1sZXN1",
-        "description": "PETANI kelapa sawit di kawasan Provinsi Aceh sekarang semakin resah. Pasalnya harga sawit tandan buah segar (TBS) sejak dua pekan terakhir semakin menurun. Pantauan Media Indonesia di Kabupaten&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/502939/desa-wisata-batang-semakin-berkembang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyOTM5L2Rlc2Etd2lzYXRhLWJhdGFuZy1zZW1ha2luLWJlcmtlbWJhbmc=",
-        "description": "DESA wisata di Jawa Tengah kian bertambah. Gairah membangun kepariwisataan di pedesaan menjadi upaya menumbuhkan kreativitas warga sekaligus mampu mengeruk pundi-pundi rupiah yang akan menggerakkan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/502938/agar-subsidi-tetap-sasaran-per-1-juli-2022-pertamina-buka-pendaftaran-di-website-mypertamina",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjkzOC9hZ2FyLXN1YnNpZGktdGV0YXAtc2FzYXJhbi1wZXItMS1qdWxpLTIwMjItcGVydGFtaW5hLWJ1a2EtcGVuZGFmdGFyYW4tZGktd2Vic2l0ZS1teXBlcnRhbWluYQ==",
-        "description": "PT Pertamina Patra Niaga membuka pendaftaran kendaraan dan identitasnya di Website MyPertamina per 1 Juli 2022. Dari pendaftaran, pengguna akan mendapatkan QR Code yang dapat digunakan untuk pembelian&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/502936/jembatan-pemali-di-panturan-brebes-dibongkar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyOTM2L2plbWJhdGFuLXBlbWFsaS1kaS1wYW50dXJhbi1icmViZXMtZGlib25na2Fy",
-        "description": "KEMENTERIAN Pekerjaan Umum dan Perumahan Rakyat (PUPR), mulai hari ini, Rabu (28/6/22), melakukan pembongkaran secara total jembatan Sungai Pemali di jalur Pantura Kota Brebes, Jawa Tengah. Rencananya&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/502937/ini-finalis-penghargaan-seni-internasional-taoyuan-2023",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMjkzNy9pbmktZmluYWxpcy1wZW5naGFyZ2Fhbi1zZW5pLWludGVybmFzaW9uYWwtdGFveXVhbi0yMDIz",
-        "description": "Penghargaan Seni Internasional Taoyuan adalah ajang penghargaan di bidang seni yang diselenggarakan oleh Museum Seni Rupa Taoyuan (TMoFA), Taiwan. Sebelumnya, ajang penghargaan bagi insan seni itu&#8230;"
     }
 ]
