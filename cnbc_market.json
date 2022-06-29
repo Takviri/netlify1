@@ -1,5 +1,19 @@
 [
     {
+        "title": "Usai Pandemi, Kapitalisasi Pasar Modal Indonesia Naik 18,4%",
+        "link": "https://www.cnbcindonesia.com/market/20220629185327-17-351555/usai-pandemi-kapitalisasi-pasar-modal-indonesia-naik-184",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MTg1MzI3LTE3LTM1MTU1NS91c2FpLXBhbmRlbWkta2FwaXRhbGlzYXNpLXBhc2FyLW1vZGFsLWluZG9uZXNpYS1uYWlrLTE4NA==",
+        "description": " Adapun total nilai kapitalisasi pasar saham pada akhir tahun 2021 tercatat sebesar Rp 8.255,62 triliun atau mengalami kenaikan sebesar 18,4% (yoy)."
+    },
+    {
+        "title": "Jelang Pidato Powell, Wall Street Dibuka Menguat",
+        "link": "https://www.cnbcindonesia.com/market/20220629211724-17-351591/jelang-pidato-powell-wall-street-dibuka-menguat",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MjExNzI0LTE3LTM1MTU5MS9qZWxhbmctcGlkYXRvLXBvd2VsbC13YWxsLXN0cmVldC1kaWJ1a2EtbWVuZ3VhdA==",
+        "description": " Bursa saham Amerika Serikat (AS) menghijau pada pembukaan perdagangan Rabu (29/6/2022)"
+    },
+    {
         "title": "Konsumen Pesimis Amerika Bisa Pulih, Nikel Jadi Loyo",
         "link": "https://www.cnbcindonesia.com/market/20220629172833-17-351516/konsumen-pesimis-amerika-bisa-pulih-nikel-jadi-loyo",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MTc1NjM3LTE3LTM1MTUyNi9hbmFrLWVrYS10amlwdGEtbmdhbXVrLXRpZGFrLWRhcGF0LWhhay13YXJpcy1ycC03MzctdA==",
         "description": " Setelah gugatannya ditolak Mahkamah Agung (MA), Freddy Widjaja, kini melapor ke Amnesti Internasional."
-    },
-    {
-        "title": "Kabar Gembira! Kini Nasabah Bank Raya Bisa Pakai BRImo",
-        "link": "https://www.cnbcindonesia.com/market/20220629175032-17-351524/kabar-gembira-kini-nasabah-bank-raya-bisa-pakai-brimo",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MTc1MDMyLTE3LTM1MTUyNC9rYWJhci1nZW1iaXJhLWtpbmktbmFzYWJhaC1iYW5rLXJheWEtYmlzYS1wYWthaS1icmltbw==",
-        "description": " Nasabah Bank Raya kini bisa menikmati layanan super app BRImo untuk kebutuhan layanan keuangan."
-    },
-    {
-        "title": "BRI-Ditjen Pajak Jalin Kerja Sama Implementasi PSIAP",
-        "link": "https://www.cnbcindonesia.com/market/20220629173928-17-351522/bri-ditjen-pajak-jalin-kerja-sama-implementasi-psiap",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MTczOTI4LTE3LTM1MTUyMi9icmktZGl0amVuLXBhamFrLWphbGluLWtlcmphLXNhbWEtaW1wbGVtZW50YXNpLXBzaWFw",
-        "description": " BRI melakukan penandatanganan Perjanjian Kerja Sama (PKS) Interoperabilitas dengan Direktorat Jenderal Pajak (DJP)"
     }
 ]
