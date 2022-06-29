@@ -1,5 +1,61 @@
 [
     {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/502820/kasus-covid-19-di-prancis-kembali-naik-perdana-menteri-rekomendasikan-warga-pakai-masker",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjgyMC9rYXN1cy1jb3ZpZC0xOS1kaS1wcmFuY2lzLWtlbWJhbGktbmFpay1wZXJkYW5hLW1lbnRlcmktcmVrb21lbmRhc2lrYW4td2FyZ2EtcGFrYWktbWFza2Vy",
+        "description": "PERDANA Menteri Prancis Elisabeth Borne meminta warga negara Eropa itu untuk mengenakan masker di kawasan yang padat setelah otoritas&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502836/masyarakat-tidak-wajib-punya-aplikasi-mypertamina-untuk-daftar-bbm-subsidi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjgzNi9tYXN5YXJha2F0LXRpZGFrLXdhamliLXB1bnlhLWFwbGlrYXNpLW15cGVydGFtaW5hLXVudHVrLWRhZnRhci1iYm0tc3Vic2lkaQ==",
+        "description": "Pemerintah melalui Pertamina Patra Niaga akan mulai memberlakukan penerapan pembelian BBM Subsidi yakni Pertalite dan Solar kepada masyarakat yang mendaftar di laman http://subsiditepat.mypertamina.id&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502835/kesulitan-bbm-nelayan-muara-gembong-tidak-bisa-melaut",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjgzNS9rZXN1bGl0YW4tYmJtLW5lbGF5YW4tbXVhcmEtZ2VtYm9uZy10aWRhay1iaXNhLW1lbGF1dA==",
+        "description": "Sebanyak ribuan nelayan di Kecamatan Muara Gembong, Kabupaten Bekasi, Jawa Barat tidak bisa melaut sejak sepekan terakhir akibat kesulitan mendapatkan bahan bakar minyak (BBM) jenis solar bersubsidi&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/502834/holywings-pondok-indah-diduga-belum-ditutup-ini-kata-pemprov-dki",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDI4MzQvaG9seXdpbmdzLXBvbmRvay1pbmRhaC1kaWR1Z2EtYmVsdW0tZGl0dXR1cC1pbmkta2F0YS1wZW1wcm92LWRraQ==",
+        "description": "SEBANYAK 12 gerai Holywings di DKI Jakarta telah ditutup akibat terbukti melakukan pelanggaran administrasi. Namun, dari belasan&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/502833/korea-utara-sebut-as-berniat-bentuk-nato-versi-asia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMjgzMy9rb3JlYS11dGFyYS1zZWJ1dC1hcy1iZXJuaWF0LWJlbnR1ay1uYXRvLXZlcnNpLWFzaWE=",
+        "description": "LATIHAN militer&nbsp;bersama antara&nbsp;Amerika Serikat (AS), Korea Selatan, dan Jepang disebut Korea Utara (Korut) sebagai bagian dari tujuan jahat bagi negaranya. Pyongyang menilai Washington&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/502832/buruh-apresiasi-rencana-pemberian-cuti-melahirkan-enam-bulan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDI4MzIvYnVydWgtYXByZXNpYXNpLXJlbmNhbmEtcGVtYmVyaWFuLWN1dGktbWVsYWhpcmthbi1lbmFtLWJ1bGFu",
+        "description": "ASOSIASI Serikat Pekerja (Aspek) Indonesia mengapresiasi dan menyatakan dukungan pada rencana pemberian hak cuti melahirkan selama enam bulan. Sebab, hal tersebut dinilai sebagai langkah maju dan berperikemanusiaan.&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/502819/tommy-fury-dilarang-masuk-as",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDI4MTkvdG9tbXktZnVyeS1kaWxhcmFuZy1tYXN1ay1hcw==",
+        "description": "PETINJU Inggris Tommy Fury dilarang masuk ke Amerika Serikat (AS) menjelang konferensi pers untuk laga melawan Youtuber Jake Paul.&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/502830/seruan-jokowi-soal-stop-produk-impor-disambut-produsen-lokal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjgzMC9zZXJ1YW4tam9rb3dpLXNvYWwtc3RvcC1wcm9kdWstaW1wb3ItZGlzYW1idXQtcHJvZHVzZW4tbG9rYWw=",
+        "description": "PRODUSEN dalam negeri menyambut gembira seruan Presiden Joko Widodo yang meminta pemerintah pusat hingga daerah membeli produk dalam negeri demi mencapai ketahanan alat kesehatan. &nbsp;&#8230;"
+    },
+    {
         "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/502735/festival-pestapora-usung-konsep-ajang-musik-all-you-can-eat",
         "image": "static/images/media_indonesia.png",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyODI2L2p1cy1iaXQtdGVrYW4tcmlzaWtvLXBlbnlha2l0LWphbnR1bmctYWtpYmF0LWluZmxtYXNp",
         "description": "PENELITIAN dari Queen Mary University of London menyebutkan bahwa segelas jus bit setiap hari dapat mengurangi peradangan berbahaya pada orang dengan penyakit jantung koroner (PJK).&nbsp;Orang dengan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/502824/surge-dari-sequoia-india-dan-sequoia-southeast-asia-tambah-pendanaan-hingga-3-juta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjgyNC9zdXJnZS1kYXJpLXNlcXVvaWEtaW5kaWEtZGFuLXNlcXVvaWEtc291dGhlYXN0LWFzaWEtdGFtYmFoLXBlbmRhbmFhbi1oaW5nZ2EtMy1qdXRh",
-        "description": "PERLAMBATAN pasar tidak mengurungkan Surge, sebuah program oleh Sequoia India dan Asia Tenggara untuk startup tahap awal, memperluas celah pendanaannya untuk kelompok founder startup yang&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/502823/csap-terus-mengembangkan-mitra-10",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjgyMy9jc2FwLXRlcnVzLW1lbmdlbWJhbmdrYW4tbWl0cmEtMTA=",
-        "description": "PT Catur Sentosa Adiprana Tbk (CSAP) meresmikan Superstore Mitra10ke-44 di Pondok Bambu, Jakarta Timur.&nbsp; Superstore ini merupakan ekspansi toko baru ke-3 yang diresmikan tahun ini dari&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/502818/mgdalenaf-bagikan-tips-untuk-kreator-konten-kuliner-pemula",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMjgxOC9tZ2RhbGVuYWYtYmFnaWthbi10aXBzLXVudHVrLWtyZWF0b3Ita29udGVuLWt1bGluZXItcGVtdWxh",
-        "description": "KREATOR konten makanan Mgdalenaf membagikan beberapa langkah persiapan bagi para pemula yang ingin memulai karier menjadi&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/502822/penuhi-vitamin-d-agar-aktivitas-tetap-produktif",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyODIyL3BlbnVoaS12aXRhbWluLWQtYWdhci1ha3Rpdml0YXMtdGV0YXAtcHJvZHVrdGlm",
-        "description": "DEFISIENSI vitamin D bisa terjadi pada semua kelompok usia dan dapat mengganggu aktivitas karena menyebabkan seseorang mudah lelah. Berdasarkan riset Sakatonik Group, diketahui 5 dari 10 orang Indonesia&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/502714/planet-neptunus-bergerak-mundur-akibat-fenomena-retrograde",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMjcxNC9wbGFuZXQtbmVwdHVudXMtYmVyZ2VyYWstbXVuZHVyLWFraWJhdC1mZW5vbWVuYS1yZXRyb2dyYWRl",
-        "description": "PLANET Neptunus memasuki fase retrograde atau pergerakan mundur. Ini adalah fenomena ketika planet terlihat seakan-akan bergerak arah secara berlawanan, walaupun sebenarnya hanya sekedar ilusi optik.&#8230;"
-    },
-    {
-        "title": "Sajak Kofe",
-        "link": "https://m.mediaindonesia.com/sajak-kofe/502763/sajak-sajak-tiara-nabila",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zYWphay1rb2ZlLzUwMjc2My9zYWphay1zYWphay10aWFyYS1uYWJpbGE=",
-        "description": "Ilustrasi:&nbsp;Maria Worobyova &nbsp; Aku&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/502816/orangtua-berperan-besar-bantu-anak-pahami-cara-bersosialisasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyODE2L29yYW5ndHVhLWJlcnBlcmFuLWJlc2FyLWJhbnR1LWFuYWstcGFoYW1pLWNhcmEtYmVyc29zaWFsaXNhc2k=",
-        "description": "PSIKOLOG anak dan keluarga dari Lembaga Psikologi Terapan UI (LPTUI) Anna Suri Ariani mengatakan orangtua berperan besar membantu anak&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/502817/kepala-bp-batam-lantik-pejabat-struktural-badan-usaha-bandar-udara-dan-pelabuhan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyODE3L2tlcGFsYS1icC1iYXRhbS1sYW50aWstcGVqYWJhdC1zdHJ1a3R1cmFsLWJhZGFuLXVzYWhhLWJhbmRhci11ZGFyYS1kYW4tcGVsYWJ1aGFu",
-        "description": "KEPALA BP Batam, Muhammad Rudi, melantik 15 pejabat struktural Badan Usaha di Lingkungan Badan Pengusahaan Batam (BP Batam), Selasa (28/6), bertempat di Balairung Sari BP Batam, Batam Centre. Dasar&#8230;"
     }
 ]
