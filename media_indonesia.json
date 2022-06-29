@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sajak Kofe",
+        "link": "https://m.mediaindonesia.com/sajak-kofe/502763/sajak-sajak-tiara-nabila",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zYWphay1rb2ZlLzUwMjc2My9zYWphay1zYWphay10aWFyYS1uYWJpbGE=",
+        "description": "Ilustrasi:&nbsp;Maria Worobyova &nbsp; Aku&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/502816/orangtua-berperan-besar-bantu-anak-pahami-cara-bersosialisasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyODE2L29yYW5ndHVhLWJlcnBlcmFuLWJlc2FyLWJhbnR1LWFuYWstcGFoYW1pLWNhcmEtYmVyc29zaWFsaXNhc2k=",
+        "description": "PSIKOLOG anak dan keluarga dari Lembaga Psikologi Terapan UI (LPTUI) Anna Suri Ariani mengatakan orangtua berperan besar membantu anak&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/502817/kepala-bp-batam-lantik-pejabat-struktural-badan-usaha-bandar-udara-dan-pelabuhan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAyODE3L2tlcGFsYS1icC1iYXRhbS1sYW50aWstcGVqYWJhdC1zdHJ1a3R1cmFsLWJhZGFuLXVzYWhhLWJhbmRhci11ZGFyYS1kYW4tcGVsYWJ1aGFu",
+        "description": "KEPALA BP Batam, Muhammad Rudi, melantik 15 pejabat struktural Badan Usaha di Lingkungan Badan Pengusahaan Batam (BP Batam), Selasa (28/6), bertempat di Balairung Sari BP Batam, Batam Centre. Dasar&#8230;"
+    },
+    {
         "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/502806/silva-sandiarini-bagikan-tips-buat-foto-makanan-yang-menggugah-selera",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyODE0L21lbmNlZ2FoLXN0dW50aW5nLWRlbmdhbi1wZWxhamFyaS1hc3VwYW4tZ2l6aQ==",
         "description": "KETUA Umum Tim Penggerak Pemberdayaan dan Kesejahteraan Keluarga (TP PKK) Tri Tito Karnavian meminta para orangtua memanfaatkan perkembangan Teknologi Informasi dan Komunikasi (TIK) untuk mempelajari&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/502811/binawan-kirim-150-tenaga-kesehatan-ke-arab-saudi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMjgxMS9iaW5hd2FuLWtpcmltLTE1MC10ZW5hZ2Eta2VzZWhhdGFuLWtlLWFyYWItc2F1ZGk=",
-        "description": "BINAWAN Group bekerja sama dengan Kementerian Kesehatan Arab Saudi, mengirim 150 tenaga kesehatan. Untuk memenuhi kebutuhan perawat di Rumah Sakit Pemerintah Arab Saudi di Provinsi Al-Qassim. Tenaga&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/502812/2-bibit-siklon-tropis-tumbuh-di-utara-indonesia-begini-dampaknya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAyODEyLzItYmliaXQtc2lrbG9uLXRyb3Bpcy10dW1idWgtZGktdXRhcmEtaW5kb25lc2lhLWJlZ2luaS1kYW1wYWtueWE=",
-        "description": "BMKG melalui Jakarta Tropical Cyclone Warning Center (TCWC) memantau 2 Bibit Siklon Tropis yang tumbuh di Belahan Bumi Utara (BBU) Indonesia yaitu Bibit Siklon Tropis 97W yang tumbuh di Laut Cina Selatan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/502803/pioli-tidak-sabarsambut-musim-baru-serie-a",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMjgwMy9waW9saS10aWRhay1zYWJhcnNhbWJ1dC1tdXNpbS1iYXJ1LXNlcmllLWE=",
-        "description": "PELATIH AC Milan Stefano Pioli mengatakan ia beserta timnya tidak sabar menyambut musim baru 2022/23, meski pada pekan-pekan awal&#8230;"
     }
 ]
