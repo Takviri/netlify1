@@ -1,5 +1,33 @@
 [
     {
+        "title": "KM ITB Kritik RKUHP Cacat Formil, BEM Se-Unpad Demo di Bandung Besok",
+        "link": "https://www.cnnindonesia.com/nasional/20220629091323-20-814839/km-itb-kritik-rkuhp-cacat-formil-bem-se-unpad-demo-di-bandung-besok",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyOTA5MTMyMy0yMC04MTQ4Mzkva20taXRiLWtyaXRpay1ya3VocC1jYWNhdC1mb3JtaWwtYmVtLXNlLXVucGFkLWRlbW8tZGktYmFuZHVuZy1iZXNvaw==",
+        "description": " BEM se-Unpad dan aliansi masyarakat sipil akan melakukan aksi di depan Gedung DPRD Jabar mengkritisi RKUHP sebagai lanjutan demo mahasiswa di depan DPR kemarin."
+    },
+    {
+        "title": "Kasus Suap Dana PEN, KPK Dapat Informasi Ada Pihak Pengaruhi Saksi",
+        "link": "https://www.cnnindonesia.com/nasional/20220629084824-12-814826/kasus-suap-dana-pen-kpk-dapat-informasi-ada-pihak-pengaruhi-saksi",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyOTA4NDgyNC0xMi04MTQ4MjYva2FzdXMtc3VhcC1kYW5hLXBlbi1rcGstZGFwYXQtaW5mb3JtYXNpLWFkYS1waWhhay1wZW5nYXJ1aGktc2Frc2k=",
+        "description": " Informasi ada upaya memengaruhi saksi kasus dana PEN itu diketahui tak lama setelah KPK memeriksa Kepala BPBD Kabupaten Muna\u00c2\u00a0dan tiga PNS di Kabupaten Muna."
+    },
+    {
+        "title": "Tandon Air LRT Rasuna Said Jebol, Polisi Panggil Kontraktor",
+        "link": "https://www.cnnindonesia.com/nasional/20220629092629-12-814849/tandon-air-lrt-rasuna-said-jebol-polisi-panggil-kontraktor",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyOTA5MjYyOS0xMi04MTQ4NDkvdGFuZG9uLWFpci1scnQtcmFzdW5hLXNhaWQtamVib2wtcG9saXNpLXBhbmdnaWwta29udHJha3Rvcg==",
+        "description": " Polisi mengusut dugaan kelalaian usai tandon air LRT Jabodetabek di Jalan HR. Rasuna Said Jebol hingga membuat 5 warga menjadi korban."
+    },
+    {
+        "title": "Polisi Tangkap Pelaku Pemerkosaan dan Pembunuhan Siswi SMP di Langkat",
+        "link": "https://www.cnnindonesia.com/nasional/20220628114624-12-814427/polisi-tangkap-pelaku-pemerkosaan-dan-pembunuhan-siswi-smp-di-langkat",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyODExNDYyNC0xMi04MTQ0MjcvcG9saXNpLXRhbmdrYXAtcGVsYWt1LXBlbWVya29zYWFuLWRhbi1wZW1idW51aGFuLXNpc3dpLXNtcC1kaS1sYW5na2F0",
+        "description": " Polisi telah menangkap pria 19 tahun yang menjadi pelaku pemerkosaan dan pembunuhan siswi SMP di Langkat, Sumatera\u00c2\u00a0Utara"
+    },
+    {
         "title": "Lowongan CPNS 2022: Pemerintah Buka 1 Juta Formasi untuk PPPK",
         "link": "https://www.cnnindonesia.com/nasional/20220629091009-20-814846/lowongan-cpns-2022-pemerintah-buka-1-juta-formasi-untuk-pppk",
         "image": "static/images/cnn_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyOTA3NDkzNC0xMi04MTQ4MDcvd2FtZW5rdW1oYW0tdHVudHV0YW4taGFwdXMtcGFzYWwtaGluYS1wcmVzaWRlbi1ya3VocC1kYXJpLW9yYW5nLXNlc2F0",
         "description": " Wamenkumham mengatakan pemerintah tak akan menghapus pasal hina presiden dari RKUHP. Tuntutan penghapusan itu, katanya, hanya dari orang sesat berpikir."
-    },
-    {
-        "title": "KPK Tetapkan Tersangka Baru Kasus Suap Bantuan Keuangan Tulungagung",
-        "link": "https://www.cnnindonesia.com/nasional/20220629075940-12-814808/kpk-tetapkan-tersangka-baru-kasus-suap-bantuan-keuangan-tulungagung",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyOTA3NTk0MC0xMi04MTQ4MDgva3BrLXRldGFwa2FuLXRlcnNhbmdrYS1iYXJ1LWthc3VzLXN1YXAtYmFudHVhbi1rZXVhbmdhbi10dWx1bmdhZ3VuZw==",
-        "description": " KPK menetapkan tersangka baru terkait dugaan suap pengalokasian anggaran bantuan keuangan Jawa Timur periode 2014-2018 untuk Kabupaten Tulungagung."
-    },
-    {
-        "title": "Sahroni Minta Polisi Usut Video Remaja Sindir Nabi Muhammad saat Mabuk",
-        "link": "https://www.cnnindonesia.com/nasional/20220629073709-32-814804/sahroni-minta-polisi-usut-video-remaja-sindir-nabi-muhammad-saat-mabuk",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyOTA3MzcwOS0zMi04MTQ4MDQvc2Focm9uaS1taW50YS1wb2xpc2ktdXN1dC12aWRlby1yZW1hamEtc2luZGlyLW5hYmktbXVoYW1tYWQtc2FhdC1tYWJ1aw==",
-        "description": " Wakil Ketua Komisi III DPR Ahmad Sahroni meminta kepolisian segera mengusut video sekelompok remaja mabuk yang dinilai telah menistakan Nabi Muhammad."
-    },
-    {
-        "title": "Resah Warga Jakarta Urus Dokumen Usai Anies Ubah Nama Jalan: Ribet!",
-        "link": "https://www.cnnindonesia.com/nasional/20220629064403-20-814791/resah-warga-jakarta-urus-dokumen-usai-anies-ubah-nama-jalan-ribet",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyOTA2NDQwMy0yMC04MTQ3OTEvcmVzYWgtd2FyZ2EtamFrYXJ0YS11cnVzLWRva3VtZW4tdXNhaS1hbmllcy11YmFoLW5hbWEtamFsYW4tcmliZXQ=",
-        "description": " Imbas penggantian 22 nama jalan oleh Gubernur DKI Anies Baswedan, warga Jakarta terdampak harus mengubah dokumen kependudukan."
-    },
-    {
-        "title": "Desakan Tutup Holywings Meluas ke Berbagai Daerah Buntut Promo Alkohol",
-        "link": "https://www.cnnindonesia.com/nasional/20220629070345-20-814796/desakan-tutup-holywings-meluas-ke-berbagai-daerah-buntut-promo-alkohol",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYyOTA3MDM0NS0yMC04MTQ3OTYvZGVzYWthbi10dXR1cC1ob2x5d2luZ3MtbWVsdWFzLWtlLWJlcmJhZ2FpLWRhZXJhaC1idW50dXQtcHJvbW8tYWxrb2hvbA==",
-        "description": " Promo gratis minuman keras untuk orang yang bernama Muhammad dan Maria berujung penutupan outlet Holywings di sejumlah daerah."
     }
 ]
