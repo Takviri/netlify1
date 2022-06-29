@@ -1,5 +1,19 @@
 [
     {
+        "title": "Susi Pudjiastuti 'Menjerit' Harga Avtur Selangit",
+        "link": "https://www.cnbcindonesia.com/news/20220629120810-4-351350/susi-pudjiastuti-menjerit-harga-avtur-selangit",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTEyMDgxMC00LTM1MTM1MC9zdXNpLXB1ZGppYXN0dXRpLW1lbmplcml0LWhhcmdhLWF2dHVyLXNlbGFuZ2l0",
+        "description": " Pemilik dari Susi Air, Susi Pudjiastuti juga mengeluhkan mahalnya harga avtur."
+    },
+    {
+        "title": "Sempat Pesimistis, Mobil Listrik Hyundai Banjir Pesanan",
+        "link": "https://www.cnbcindonesia.com/news/20220629122835-4-351358/sempat-pesimistis-mobil-listrik-hyundai-banjir-pesanan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTEyMjgzNS00LTM1MTM1OC9zZW1wYXQtcGVzaW1pc3Rpcy1tb2JpbC1saXN0cmlrLWh5dW5kYWktYmFuamlyLXBlc2FuYW4=",
+        "description": " Chief Operating Officer Hyundai Motor Asia Pacifif Lee Kyang Hyun ungkap kontribusi hyundai pada ekosistem mobil listrik di Indonesia"
+    },
+    {
         "title": "Inisiatif Pengusaha Dorong Industri Hijau Menuju Zero Carbon",
         "link": "https://www.cnbcindonesia.com/news/20220629112707-8-351331/inisiatif-pengusaha-dorong-industri-hijau-menuju-zero-carbon",
         "image": "static/images/cnbc_news.png",
@@ -14,10 +28,10 @@
         "description": " Anjloknya pasar cryptocurrency telah menghapus jutaan dolar dana yang dicuri oleh peretas Korea Utara."
     },
     {
-        "title": "Lewat Praktek Ekonomi Sirkular, Ajinomoto Bidik Zero Waste",
-        "link": "https://www.cnbcindonesia.com/news/20220629115853-4-351348/lewat-praktek-ekonomi-sirkular-ajinomoto-bidik-zero-waste",
+        "title": "Lewat Praktik Ekonomi Sirkular, Ajinomoto Bidik Zero Waste",
+        "link": "https://www.cnbcindonesia.com/news/20220629115853-4-351348/lewat-praktik-ekonomi-sirkular-ajinomoto-bidik-zero-waste",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTExNTg1My00LTM1MTM0OC9sZXdhdC1wcmFrdGVrLWVrb25vbWktc2lya3VsYXItYWppbm9tb3RvLWJpZGlrLXplcm8td2FzdGU=",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTExNTg1My00LTM1MTM0OC9sZXdhdC1wcmFrdGlrLWVrb25vbWktc2lya3VsYXItYWppbm9tb3RvLWJpZGlrLXplcm8td2FzdGU=",
         "description": " Konsep ekonomi sirkular yang diterapkan Ajinomoto berkaitan dengan salah satu kebijakan Kementerian Perindustrian, yakni industri hijau."
     },
     {
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTEwNTYyMy00LTM1MTMxNS9uaXNzYW4tdGFyaWstMzAwMDAwLWxlYmloLXN1di1hZGEtYXBh",
         "description": " Produsen mobil asal Jepang, Nissan Motor Co, menarik lebih dari 300.000 SUV di Amerika Serikat (AS). Apa alasannya?"
-    },
-    {
-        "title": "Saat Orang AS Takut Belanja, di Situlah Ekonomi Merasa Sedih",
-        "link": "https://www.cnbcindonesia.com/news/20220629101111-4-351295/saat-orang-as-takut-belanja-di-situlah-ekonomi-merasa-sedih",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTEwMTExMS00LTM1MTI5NS9zYWF0LW9yYW5nLWFzLXRha3V0LWJlbGFuamEtZGktc2l0dWxhaC1la29ub21pLW1lcmFzYS1zZWRpaA==",
-        "description": " Indeks Keyakinan konsumen (IKK) Amerika Serikat (AS) turun tajam pada Juni 2022 di tengah kekhawatiran inflasi."
-    },
-    {
-        "title": "Ini Tanda Omicron BA.4 dan BA.5, Sering Disangka Flu Ringan",
-        "link": "https://www.cnbcindonesia.com/news/20220629104425-4-351311/ini-tanda-omicron-ba4-ba5-sering-disangka-flu-ringan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTEwNDQyNS00LTM1MTMxMS9pbmktdGFuZGEtb21pY3Jvbi1iYTQtYmE1LXNlcmluZy1kaXNhbmdrYS1mbHUtcmluZ2Fu",
-        "description": " Berikut tanda-tanda omicron BA.4 dan BA.5 yang kerap disangka flu ringan"
     }
 ]

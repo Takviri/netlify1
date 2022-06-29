@@ -1,5 +1,40 @@
 [
     {
+        "title": "Sah! Iman Rachman jadi Dirut Baru BEI",
+        "link": "https://www.cnbcindonesia.com/market/20220629125453-17-351367/sah-iman-rachman-jadi-dirut-baru-bei",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MTI1NDUzLTE3LTM1MTM2Ny9zYWgtaW1hbi1yYWNobWFuLWphZGktZGlydXQtYmFydS1iZWk=",
+        "description": " Bursa Efek Indonesia (BEI) memiliki jajaran direksi anyar."
+    },
+    {
+        "title": "Wall Street Memerah, IHSG Tertahan di Bawah Level 7.000-an",
+        "link": "https://www.cnbcindonesia.com/market/20220629124159-19-351361/wall-street-memerah-ihsg-tertahan-di-bawah-level-7000-an",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MTI0MTU5LTE5LTM1MTM2MS93YWxsLXN0cmVldC1tZW1lcmFoLWloc2ctdGVydGFoYW4tZGktYmF3YWgtbGV2ZWwtNzAwMC1hbg==",
+        "description": " Wall Street Memerah, IHSG Tertahan di Bawah Level 7.000-an"
+    },
+    {
+        "title": "Covid di Singapura \"Meledak\" Lagi, Kurs Dolarnya Jeblok?",
+        "link": "https://www.cnbcindonesia.com/market/20220629112334-17-351330/covid-di-singapura-meledak-lagi-kurs-dolarnya-jeblok",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MTEyMzM0LTE3LTM1MTMzMC9jb3ZpZC1kaS1zaW5nYXB1cmEtbWVsZWRhay1sYWdpLWt1cnMtZG9sYXJueWEtamVibG9r",
+        "description": " Kasus pandemi penyakit akibat virus corona (Covid-19) di Singapura kembali \"meledak\"."
+    },
+    {
+        "title": "Gawat! Harga Minyak Masih Bisa Meroket Pak Jokowi",
+        "link": "https://www.cnbcindonesia.com/market/20220629110226-17-351317/gawat-harga-minyak-masih-bisa-meroket-pak-jokowi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MTEwMjI2LTE3LTM1MTMxNy9nYXdhdC1oYXJnYS1taW55YWstbWFzaWgtYmlzYS1tZXJva2V0LXBhay1qb2tvd2k=",
+        "description": " Harga minyak mentah diramal mampu tetap bertahan di atas level US$ 100/barel tahun ini"
+    },
+    {
+        "title": "Bergerak di Dalam Pola Channel Down, IHSG Bakal Terjun Bebas?",
+        "link": "https://www.cnbcindonesia.com/market/20220629122833-17-351359/bergerak-di-dalam-pola-channel-down-ihsg-bakal-terjun-bebas",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MTIyODMzLTE3LTM1MTM1OS9iZXJnZXJhay1kaS1kYWxhbS1wb2xhLWNoYW5uZWwtZG93bi1paHNnLWJha2FsLXRlcmp1bi1iZWJhcw==",
+        "description": " Indeks Harga Saham Gabungan (IHSG) berakhir melemah pada perdagangan sesi I Rabu (29/6/2022)"
+    },
+    {
         "title": "Habco Trans Maritima Tawarkan Saham IPO Rp 150 - Rp 250",
         "link": "https://www.cnbcindonesia.com/market/20220629110821-17-351322/habco-trans-maritima-tawarkan-saham-ipo-rp-150--rp-250",
         "image": "static/images/cnbc_market.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MTExMTM4LTE3LTM1MTMyNS9kb2xhci1hcy10ZXJrb3Jla3NpLWVoLXJ1cGlhaC1qdWdhLWxlc3U=",
         "description": " Kurs rupiah tak berdaya di hadapan dolar AS hingga di pertengahan perdagangan hari ini."
-    },
-    {
-        "title": "Gawat! Akhir 2022 Resesi? Indeks Nikkei Hingga IHSG Rontok",
-        "link": "https://www.cnbcindonesia.com/market/20220629105907-17-351321/gawat-akhir-2022-resesi-indeks-nikkei-hingga-ihsg-rontok",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MTA1OTA3LTE3LTM1MTMyMS9nYXdhdC1ha2hpci0yMDIyLXJlc2VzaS1pbmRla3Mtbmlra2VpLWhpbmdnYS1paHNnLXJvbnRvaw==",
-        "description": " Pemicunya adalah, kekhawatiran investor terhadap ancaman resesi dan ketakutan terhadap inflasi yang memicu kenaikan suku bunga tinggi."
-    },
-    {
-        "title": "Bitcoin Cs Loyo Lagi, 'Drama' Krisis Kripto Belum Usai?",
-        "link": "https://www.cnbcindonesia.com/market/20220629093744-17-351286/bitcoin-cs-loyo-lagi-drama-krisis-kripto-belum-usai",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MDkzNzQ0LTE3LTM1MTI4Ni9iaXRjb2luLWNzLWxveW8tbGFnaS1kcmFtYS1rcmlzaXMta3JpcHRvLWJlbHVtLXVzYWk=",
-        "description": " Harga mayoritas kripto utama terpantau kembali melemah pada perdagangan Rabu (29/6/2022), di mana sentimen pasar saat ini masih cenderung negatif."
-    },
-    {
-        "title": "Darma Henwa Batal Tambah Modal, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/market/20220629093724-17-351289/darma-henwa-batal-tambah-modal-ada-apa",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MDkzNzI0LTE3LTM1MTI4OS9kYXJtYS1oZW53YS1iYXRhbC10YW1iYWgtbW9kYWwtYWRhLWFwYQ==",
-        "description": " Hal tersebut disampaikan perseroan melalui keterbukaan informasi yang sampaikan ke Bursa Efek Indonesia (BEI)"
-    },
-    {
-        "title": "Anak BUMN Ini Bagikan Dividen Rp 26 M",
-        "link": "https://www.cnbcindonesia.com/market/20220629093347-17-351281/anak-bumn-ini-bagikan-dividen-rp-26-m",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MDkzMzQ3LTE3LTM1MTI4MS9hbmFrLWJ1bW4taW5pLWJhZ2lrYW4tZGl2aWRlbi1ycC0yNi1t",
-        "description": " pembagian dividen senilai Rp 26 miliar atau 20% dari total laba bersih sekitar Rp 130,36 miliar"
-    },
-    {
-        "title": "Mayora Bagikan Dividen Rp 469 Miliar atau Rp 21/Saham",
-        "link": "https://www.cnbcindonesia.com/market/20220629092547-17-351270/mayora-bagikan-dividen-rp-469-miliar-atau-rp-21-saham",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MDkyNTQ3LTE3LTM1MTI3MC9tYXlvcmEtYmFnaWthbi1kaXZpZGVuLXJwLTQ2OS1taWxpYXItYXRhdS1ycC0yMS1zYWhhbQ==",
-        "description": " PT Mayora Indah Tbk (MYOR) bakal membagikan dividen sebesar Rp 21 per saham\u00c2\u00a0atau total senilai\u00c2\u00a0Rp 469 miliar."
     }
 ]
