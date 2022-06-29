@@ -1,5 +1,40 @@
 [
     {
+        "title": "Emasku Sayang, Emasku Malang...",
+        "link": "https://www.cnbcindonesia.com/market/20220629063518-17-351220/emasku-sayang-emasku-malang",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MDYzNTE4LTE3LTM1MTIyMC9lbWFza3Utc2F5YW5nLWVtYXNrdS1tYWxhbmc=",
+        "description": " Harga emas sangat rentan terhadap berita sekecil apapun."
+    },
+    {
+        "title": "Emiten Erick Thohir Tercuan, ASHA Masih Betah di Top Losers",
+        "link": "https://www.cnbcindonesia.com/market/20220629055834-17-351218/emiten-erick-thohir-tercuan-asha-masih-betah-di-top-losers",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MDU1ODM0LTE3LTM1MTIxOC9lbWl0ZW4tZXJpY2stdGhvaGlyLXRlcmN1YW4tYXNoYS1tYXNpaC1iZXRhaC1kaS10b3AtbG9zZXJz",
+        "description": " Di tengah terkoreksinya kembali IHSG kemarin, beberapa saham menjadi top gainers"
+    },
+    {
+        "title": "Harga Batu Bara Akhirnya Naik, Tapi Tipis",
+        "link": "https://www.cnbcindonesia.com/market/20220629055104-17-351216/harga-batu-bara-akhirnya-naik-tapi-tipis",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MDU1MTA0LTE3LTM1MTIxNi9oYXJnYS1iYXR1LWJhcmEtYWtoaXJueWEtbmFpay10YXBpLXRpcGlz",
+        "description": " Pada perdagangan Selasa (28/6/2022), harga batu bara menguat 0,15%."
+    },
+    {
+        "title": "Utang Aman, RI Tetap Dapat Peringkat Investment Grade",
+        "link": "https://www.cnbcindonesia.com/market/20220629065804-17-351223/utang-aman-ri-tetap-dapat-peringkat-investment-grade",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MDY1ODA0LTE3LTM1MTIyMy91dGFuZy1hbWFuLXJpLXRldGFwLWRhcGF0LXBlcmluZ2thdC1pbnZlc3RtZW50LWdyYWRl",
+        "description": " Lembaga pemeringkat internasional Fitch masih mempertahankan Sovereign Credit Rating Indonesia pada BBB (investment grade) dengan outlook stabil."
+    },
+    {
+        "title": "Awas! \"Duet Maut\" Ini Bisa Bikin Rupiah Babak Belur",
+        "link": "https://www.cnbcindonesia.com/market/20220628153720-17-351097/awas-duet-maut-ini-bisa-bikin-rupiah-babak-belur",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI4MTUzNzIwLTE3LTM1MTA5Ny9hd2FzLWR1ZXQtbWF1dC1pbmktYmlzYS1iaWtpbi1ydXBpYWgtYmFiYWstYmVsdXI=",
+        "description": " Rupiah melemah 0,24% melawan dolar Amerika Serikat (AS) ke Rp 14.835/US$"
+    },
+    {
         "title": "Sudah Dua Hari Ambruk ke Bawah 7.000, Ada Apa Dengan IHSG?",
         "link": "https://www.cnbcindonesia.com/market/20220629031015-17-351213/sudah-dua-hari-ambruk-ke-bawah-7000-ada-apa-dengan-ihsg",
         "image": "static/images/cnbc_market.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI4MjExMDEzLTE3LTM1MTIwOC93YWxsLXN0cmVldC1iYW5na2l0LWxhZ2ktc2lhcC1rZWx1YXItZGFyaS10cmVuLWJlYXJpc2g=",
         "description": " Bursa saham Amerika Serikat (AS) dibuka menguat pada perdagangan hari Selasa (28/6) pagi waktu New York"
-    },
-    {
-        "title": "Rekrutmen BUMN Ketat, Anak Direksi Banyak yang Tak Lolos",
-        "link": "https://www.cnbcindonesia.com/market/20220628204245-17-351204/rekrutmen-bumn-ketat-anak-direksi-banyak-yang-tak-lolos",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI4MjA0MjQ1LTE3LTM1MTIwNC9yZWtydXRtZW4tYnVtbi1rZXRhdC1hbmFrLWRpcmVrc2ktYmFueWFrLXlhbmctdGFrLWxvbG9z",
-        "description": " Kementerian Badan Usaha Milik Negara (BUMN) menyebut program rekrutmen BUMN dilakukan secara transparan dan efisien."
-    },
-    {
-        "title": "Jumlah Investor Pasar Modal RI 9 Juta, Berapa yang Aktif?",
-        "link": "https://www.cnbcindonesia.com/market/20220628200623-17-351201/jumlah-investor-pasar-modal-ri-9-juta-berapa-yang-aktif",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI4MjAwNjIzLTE3LTM1MTIwMS9qdW1sYWgtaW52ZXN0b3ItcGFzYXItbW9kYWwtcmktOS1qdXRhLWJlcmFwYS15YW5nLWFrdGlm",
-        "description": " PT Bursa Efek Indonesia (BEI) menyebut jumlah investor pasar modal Indonesia sudah melampaui 9 juta pada Senin (27/6/2022)."
-    },
-    {
-        "title": "Bidik Tambahan Produksi, ENRG Siap Amankan Pasokan gas ke PLN",
-        "link": "https://www.cnbcindonesia.com/market/20220628195604-17-351199/bidik-tambahan-produksi-enrg-siap-amankan-pasokan-gas-ke-pln",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI4MTk1NjA0LTE3LTM1MTE5OS9iaWRpay10YW1iYWhhbi1wcm9kdWtzaS1lbnJnLXNpYXAtYW1hbmthbi1wYXNva2FuLWdhcy1rZS1wbG4=",
-        "description": " PT Energi Mega Persada Tbk. (ENRG) melalui anak usaha, EMP Bentu Limited (EMP Bentu), akan meningkatkan produksi gas untuk PT PLN (Persero)."
-    },
-    {
-        "title": "Saat Yield Treasury Meninggi, Yield SBN Justru Melandai",
-        "link": "https://www.cnbcindonesia.com/market/20220628182209-17-351158/saat-yield-treasury-meninggi-yield-sbn-justru-melandai",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI4MTgyMjA5LTE3LTM1MTE1OC9zYWF0LXlpZWxkLXRyZWFzdXJ5LW1lbmluZ2dpLXlpZWxkLXNibi1qdXN0cnUtbWVsYW5kYWk=",
-        "description": " Harga mayoritas obligasi pemerintah menguat, di tengah cenderung meningginya kembali imbal hasil obligasi pemerintah Amerika Serikat pada hari ini."
-    },
-    {
-        "title": "Pakar: Biaya Administrasi Perbankan Adalah Hal Wajar",
-        "link": "https://www.cnbcindonesia.com/market/20220628190613-17-351182/pakar-biaya-administrasi-perbankan-adalah-hal-wajar",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI4MTkwNjEzLTE3LTM1MTE4Mi9wYWthci1iaWF5YS1hZG1pbmlzdHJhc2ktcGVyYmFua2FuLWFkYWxhaC1oYWwtd2FqYXI=",
-        "description": " Biaya ini termasuk hal yang wajar karena bagaimana pun layanan yang diberikan akan sangat variatif."
     }
 ]
