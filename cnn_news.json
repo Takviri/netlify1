@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kadis Kesehatan Padangsidimpuan Jadi Tersangka Korupsi Dana Covid-19",
+        "link": "https://www.cnnindonesia.com/nasional/20220630115847-12-815459/kadis-kesehatan-padangsidimpuan-jadi-tersangka-korupsi-dana-covid-19",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYzMDExNTg0Ny0xMi04MTU0NTkva2FkaXMta2VzZWhhdGFuLXBhZGFuZ3NpZGltcHVhbi1qYWRpLXRlcnNhbmdrYS1rb3J1cHNpLWRhbmEtY292aWQtMTk=",
+        "description": " Kepala Dinas (Kadis) Kesehatan Kota Padangsidimpuan berinisial SSL ditetapkan sebagai tersangka kasus korupsi dana Covid-19."
+    },
+    {
+        "title": "IDAI Ungkap 2-3 Pekan Terakhir Terjadi Peningkatan Rawat Inap Anak",
+        "link": "https://www.cnnindonesia.com/nasional/20220630111817-20-815439/idai-ungkap-2-3-pekan-terakhir-terjadi-peningkatan-rawat-inap-anak",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYzMDExMTgxNy0yMC04MTU0MzkvaWRhaS11bmdrYXAtMi0zLXBla2FuLXRlcmFraGlyLXRlcmphZGktcGVuaW5na2F0YW4tcmF3YXQtaW5hcC1hbmFr",
+        "description": " Mayoritas diduga terpapar MIS-C, penyakit yang disinyalir\u00c2\u00a0menjangkiti anak\u00c2\u00a0dengan riwayat pernah terinfeksi atau melakukan kontak\u00c2\u00a0pasien Covid-19."
+    },
+    {
         "title": "Paripurna DPR Sahkan RUU Pembentukan 3 Provinsi Baru di Papua",
         "link": "https://www.cnnindonesia.com/nasional/20220630115246-32-815455/paripurna-dpr-sahkan-ruu-pembentukan-3-provinsi-baru-di-papua",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYzMDEwMjgyMy0yMC04MTU0MTYvcGVtZXJpbnRhaC10ZXJiaXRrYW4tdmlzYS1zZWNvbmQtaG9tZS13bmEtYmlzYS1tZW5ldGFwLWRpLWluZG9uZXNpYQ==",
         "description": " Menkumham Yasonna mengatakan visa second home\u00c2\u00a0memberikan kesempatan kepada Warga Negara Asing (WNA) untuk menetap di Indonesia."
-    },
-    {
-        "title": "Pemerintah Kaji Aturan Baru Masuk Mal: Wajib Booster Vaksin",
-        "link": "https://www.cnnindonesia.com/nasional/20220630090844-20-815370/pemerintah-kaji-aturan-baru-masuk-mal-wajib-booster-vaksin",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYzMDA5MDg0NC0yMC04MTUzNzAvcGVtZXJpbnRhaC1rYWppLWF0dXJhbi1iYXJ1LW1hc3VrLW1hbC13YWppYi1ib29zdGVyLXZha3Npbg==",
-        "description": " Rencana penerapan baru itu bertujuan untuk meningkatkan capaian vaksinasi booster Covid-19 di Indonesia."
-    },
-    {
-        "title": "KPU Tegaskan Butuh Payung Hukum Tangani Dampak Pembentukan DOB",
-        "link": "https://www.cnnindonesia.com/nasional/20220630090113-20-815368/kpu-tegaskan-butuh-payung-hukum-tangani-dampak-pembentukan-dob",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYzMDA5MDExMy0yMC04MTUzNjgva3B1LXRlZ2Fza2FuLWJ1dHVoLXBheXVuZy1odWt1bS10YW5nYW5pLWRhbXBhay1wZW1iZW50dWthbi1kb2I=",
-        "description": " Seiring ada IKN baru--yang kemungkinan pindah sebelum 2024--dan DOB Pemekaran Papua, KPU menyatakan butuh payung hukum untuk Pemilu 2024."
     }
 ]

@@ -1,5 +1,54 @@
 [
     {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503214/izin-ekspor-impor-di-kemendag-rawan-dikorupsi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDMyMTQvaXppbi1la3Nwb3ItaW1wb3ItZGkta2VtZW5kYWctcmF3YW4tZGlrb3J1cHNp",
+        "description": "PENGUSUTAN tiga kasus dugaan korupsi di Kementerian Perdagangan (Kemendag) oleh Kejaksaan&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/503206/yuta-absen-saat-nct-127-konser-di-singapura-karena-covid-19",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMzIwNi95dXRhLWFic2VuLXNhYXQtbmN0LTEyNy1rb25zZXItZGktc2luZ2FwdXJhLWthcmVuYS1jb3ZpZC0xOQ==",
+        "description": "YUTA NCT 127 dilaporkan positif covid-19 sehingga dipastikan tidak dapat berpartisipasi dalam tur NEO CITY: SINGAPORE - THE LINK.&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503215/sandiaga-dorong-santri-kuasai-digital-marketing-untuk-perluas-pasar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzIxNS9zYW5kaWFnYS1kb3Jvbmctc2FudHJpLWt1YXNhaS1kaWdpdGFsLW1hcmtldGluZy11bnR1ay1wZXJsdWFzLXBhc2Fy",
+        "description": "Menteri Pariwisata dan Ekonomi Kreatif (Menparekraf) Sandiaga Salahuddin Uno mendorong santri Pondok Pesantren Bahrul Maghfiroh Malang, Jawa Timur, menguasai dan memanfaatkan digital marketing.&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503213/kalbe-terima-fasilitas-pinjaman-rp1-triliun-dari-bni",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzIxMy9rYWxiZS10ZXJpbWEtZmFzaWxpdGFzLXBpbmphbWFuLXJwMS10cmlsaXVuLWRhcmktYm5p",
+        "description": "PT Kalbe Farma Tbk (Kalbe) dan Bank BNI melakukan sinergi dalam pengembangan bisnis dan rencana strategi perusahaan. Kalbe menerima fasilitas pinjaman dari Bank BNI senilai Rp1 triliun yang nantinya&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503211/tersandung-kasus-korupsi-pemilik-duta-palma-group-masuk-daftar-red-notice-sejak-2020",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDMyMTEvdGVyc2FuZHVuZy1rYXN1cy1rb3J1cHNpLXBlbWlsaWstZHV0YS1wYWxtYS1ncm91cC1tYXN1ay1kYWZ0YXItcmVkLW5vdGljZS1zZWphay0yMDIw",
+        "description": "PEMILIK PT Duta Palma Group, Surya Darmadi, telah masuk daftar red notice Interpol sejak 2020. Hal tersebut disampaikan langsung Sekretaris NCB-Interpol Indonesia Divisi Hubungan Internasional Polri&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/503205/gandeng-tasyiatasyia-mangkoku-hadirkan-rice-bowl-baru",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMzIwNS9nYW5kZW5nLXRhc3lpYXRhc3lpYS1tYW5na29rdS1oYWRpcmthbi1yaWNlLWJvd2wtYmFydQ==",
+        "description": "STARTUP kuliner Mangkokku besutan Chef Arnold Poernomo menggandeng Youtuber kuliner Tasyi Atasyia untuk meluncurkan menu kolaborasi&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/503208/senandung-revolusi-ismail-marzuki",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMzIwOC9zZW5hbmR1bmctcmV2b2x1c2ktaXNtYWlsLW1hcnp1a2k=",
+        "description": "DALAM perjalanan dari Jakarta menuju Solo, sebuah kereta berhenti di Stasiun Tugu, Yogyakarta. Seorang pria bernama Ismail Marzuki terkesima melihat sosok-sosok pejuang menuju garis depan pertempuran.&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/503199/tersingkir-di-putaran-kedua-wimbledon-murray-tegaskan-belum-ingin-pensiun",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDMyMDMvZHVrY2FwaWwtamFrdGltLWJha2FsLWxheWFuaS0zMTE3LXdhcmdhLXRlcmRhbXBhay1wZXJ1YmFoYW4tbmFtYS1qYWxhbg==",
         "description": "Sudin Kependudukan dan Pencatatan Sipil (Dukcapil) Jakarta Timur mencatat ada sebanyak 3.117 warga terdampak perubahan nama jalan di lima lokasi yang berbeda. Dukcapil Jaktim pun memastikan, seluruhnya&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/503198/itzy-artis-pendatang-baru-terlaris-di-jepang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMzE5OC9pdHp5LWFydGlzLXBlbmRhdGFuZy1iYXJ1LXRlcmxhcmlzLWRpLWplcGFuZw==",
-        "description": "PERUSAHAAN di bidang layanan informasi musik Jepang, Oricon, menobatkan grup K-Pop ITZY sebagai artis pendatang baru atau rookie dengan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503202/bni-dan-spmt-kerja-sama-integrated-cash-management",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzIwMi9ibmktZGFuLXNwbXQta2VyamEtc2FtYS1pbnRlZ3JhdGVkLWNhc2gtbWFuYWdlbWVudA==",
-        "description": "PT Bank Negara Indonesia (Persero) Tbk. atau BNI (kode saham: BBNI) terus memperkuat solusi bisnis dalam penerimaan pembayaran tagihan khususnya di segmen jasa kepelabuhanan. Hal ini sebagai upaya&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/503204/liburan-sambil-bermain-trampoline-di-yello-hotel-paskal-bandung",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzMjA0L2xpYnVyYW4tc2FtYmlsLWJlcm1haW4tdHJhbXBvbGluZS1kaS15ZWxsby1ob3RlbC1wYXNrYWwtYmFuZHVuZw==",
-        "description": " &ldquo;LIBUR telah tiba, libur telah tiba.. hore..hore.&rdquo; Masih ingat potongan lirik lagu tersebut? Bena, lagu itu selalu diputar dan didengar ketika menjelang liburan sekolah. Pada&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503201/pesan-dan-menangkan-playstation-5-di-jhl-solitiare-gading-serpong",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzMjAxL3Blc2FuLWRhbi1tZW5hbmdrYW4tcGxheXN0YXRpb24tNS1kaS1qaGwtc29saXRpYXJlLWdhZGluZy1zZXJwb25n",
-        "description": "PADA June 2022, JHL Solitaire Gading Serpong meluncurkan promo kamar dengan hadiah utama yang sangat menarik. Mengusung nama &ldquo;Book And Win!&rdquo;, hotel yang memiliki 141 kamar&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503200/prabowo-militer-uea-berbasis-pemuda-pemudi-negara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDMyMDAvcHJhYm93by1taWxpdGVyLXVlYS1iZXJiYXNpcy1wZW11ZGEtcGVtdWRpLW5lZ2FyYQ==",
-        "description": "MENTERI Pertahanan RI Prabowo Subianto membeberkan pengembangan sektor pendidikan militer Uni Emirat Arab (UEA). &quot;Di sini saya melihat pengembangan sektor pendidikan militer UEA, yang didasarkan&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/503196/money-heist-korea-puncaki-peringkat-mingguan-netflix",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMzE5Ni9tb25leS1oZWlzdC1rb3JlYS1wdW5jYWtpLXBlcmluZ2thdC1taW5nZ3Vhbi1uZXRmbGl4",
-        "description": "SERIAL drama Korea Netflix Money Heist: Korea - Joint Economic Area memulai debutnya dengan memuncaki peringkat mingguan dari&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503197/g20-bahas-ancaman-antibiotika-dan-antivirus-tak-mempan-atasi-infeksi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzMTk3L2cyMC1iYWhhcy1hbmNhbWFuLWFudGliaW90aWthLWRhbi1hbnRpdmlydXMtdGFrLW1lbXBhbi1hdGFzaS1pbmZla3Np",
-        "description": "DIREKTUR Pasca Sarjana Universitas YARSI Prof Tjandra Yoga Aditama mengatakan resistensi terhadap antimikroba merupakan masalah besar dunia saat ini, bahkan disebutkan sebagai silent epidemic.&#8230;"
     }
 ]
