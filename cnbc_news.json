@@ -1,5 +1,47 @@
 [
     {
+        "title": "Kabar Gembira, Motor Tak Perlu Daftar Untuk Beli Pertalite",
+        "link": "https://www.cnbcindonesia.com/news/20220630152214-4-351833/kabar-gembira-motor-tak-perlu-daftar-untuk-beli-pertalite",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE1MjIxNC00LTM1MTgzMy9rYWJhci1nZW1iaXJhLW1vdG9yLXRhay1wZXJsdS1kYWZ0YXItdW50dWstYmVsaS1wZXJ0YWxpdGU=",
+        "description": " Pertamina menyatakan yang wajib mendaftar website MyPertamina untuk membeli Pertalite dan Solar Subsidi hanya roda empat"
+    },
+    {
+        "title": "Lawan 'Hantu' Inflasi, Swedia Kerek Suku Bunga 50 bps",
+        "link": "https://www.cnbcindonesia.com/news/20220630151422-4-351827/lawan-hantu-inflasi-swedia-kerek-suku-bunga-50-bps",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE1MTQyMi00LTM1MTgyNy9sYXdhbi1oYW50dS1pbmZsYXNpLXN3ZWRpYS1rZXJlay1zdWt1LWJ1bmdhLTUwLWJwcw==",
+        "description": " Bank Sentral Swedia (Sveriges Riksbank) mengumumkan kenaikan suku bunga sebesar 50 basis poin atau 0,5%."
+    },
+    {
+        "title": "Jadi Juru Damai, Jokowi Sambangi Ukraina dan Rusia",
+        "link": "https://www.cnbcindonesia.com/news/20220630131501-8-351782/jadi-juru-damai-jokowi-sambangi-ukraina-rusia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEzMTUwMS04LTM1MTc4Mi9qYWRpLWp1cnUtZGFtYWktam9rb3dpLXNhbWJhbmdpLXVrcmFpbmEtcnVzaWE=",
+        "description": " Joko Widodo menjadi pemimpin Asia pertama yang mengunjungi Ukraina."
+    },
+    {
+        "title": "Jurus PLN Tekan Emisi, Perbesar Penggunaan Co-firing di PLTU",
+        "link": "https://www.cnbcindonesia.com/news/20220630133714-4-351791/jurus-pln-tekan-emisi-perbesar-penggunaan-co-firing-di-pltu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEzMzcxNC00LTM1MTc5MS9qdXJ1cy1wbG4tdGVrYW4tZW1pc2ktcGVyYmVzYXItcGVuZ2d1bmFhbi1jby1maXJpbmctZGktcGx0dQ==",
+        "description": " PT PLN gencar menerapkan teknologi substitusi batu bara dengan biomassa (co-firing) untuk bahan bakar pembangkit listrik tenaga uap (PLTU)"
+    },
+    {
+        "title": "Perhatian! Daftar Beli Pertalite 1 Juli 2022 Cuma Untuk Mobil",
+        "link": "https://www.cnbcindonesia.com/news/20220630145618-4-351820/perhatian-daftar-beli-pertalite-1-juli-2022-cuma-untuk-mobil",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE0NTYxOC00LTM1MTgyMC9wZXJoYXRpYW4tZGFmdGFyLWJlbGktcGVydGFsaXRlLTEtanVsaS0yMDIyLWN1bWEtdW50dWstbW9iaWw=",
+        "description": " Pertamina menyatakan pendaftaran pembelian Pertalite di MyPertamina per 1 Juli 2022 hanya untuk roda empat atau mobil"
+    },
+    {
+        "title": "Ramai-ramai Media Asing Soroti Jokowi Ketemu Zelensky",
+        "link": "https://www.cnbcindonesia.com/news/20220630140154-4-351801/ramai-ramai-media-asing-soroti-jokowi-ketemu-zelensky",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE0MDE1NC00LTM1MTgwMS9yYW1haS1yYW1haS1tZWRpYS1hc2luZy1zb3JvdGktam9rb3dpLWtldGVtdS16ZWxlbnNreQ==",
+        "description": " Sejumlah media asing menyoroti pertemuan Presiden RI Joko Widodo (Jokowi) dengan Presiden Ukraina Volodymyr Zelensky, Rabu (29/30/2022)."
+    },
+    {
         "title": "Simak Ini Caranya Beli Pertalite Lewat MyPertamina",
         "link": "https://www.cnbcindonesia.com/news/20220630144125-8-351813/simak-ini-caranya-beli-pertalite-lewat-mypertamina",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEzNTgxNi00LTM1MTc5Ny9oYXJpLXRlcmFraGlyLXRheC1hbW5lc3R5LWlpLWRpdHVuZ2d1LXNhbXBhaS1wdWt1bC0yMzU5LXdpYg==",
         "description": " Program Pengungkapan Sukarela (PPS) alias Tax Amnesty Jilid II akan segera berakhir pada 30 Juni 2022."
-    },
-    {
-        "title": "Pemerintah Tebar Rp 243 T Untuk Subsidi Listrik Sejak 2017",
-        "link": "https://www.cnbcindonesia.com/news/20220630125223-4-351770/pemerintah-tebar-rp-243-t-untuk-subsidi-listrik-sejak-2017",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEyNTIyMy00LTM1MTc3MC9wZW1lcmludGFoLXRlYmFyLXJwLTI0My10LXVudHVrLXN1YnNpZGktbGlzdHJpay1zZWphay0yMDE3",
-        "description": " PT PLN (Persero) mencatat pemerintah telah menggelontorkan dana sebesar Rp 243 triliun sejak 2017 untuk mensubsidi listrik rumah tangga kurang mampu"
-    },
-    {
-        "title": "Wujudkan Visi Net Zero Emission, Industri Teknologi Butuh Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220630123600-8-351763/wujudkan-visi-net-zero-emission-industri-teknologi-butuh-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEyMzYwMC04LTM1MTc2My93dWp1ZGthbi12aXNpLW5ldC16ZXJvLWVtaXNzaW9uLWluZHVzdHJpLXRla25vbG9naS1idXR1aC1pbmk=",
-        "description": " Wujudkan Visi Net Zero Emission, Industri Teknologi Butuh Hal Ini"
-    },
-    {
-        "title": "Simak! Ini Jadinya Kalau Harga BBM Naik",
-        "link": "https://www.cnbcindonesia.com/news/20220630133609-4-351798/simak-ini-jadinya-kalau-harga-bbm-naik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEzMzYwOS00LTM1MTc5OC9zaW1hay1pbmktamFkaW55YS1rYWxhdS1oYXJnYS1iYm0tbmFpaw==",
-        "description": " Harga minyak dunia yang terus melambung membebani negara untuk memberikan subsidi."
-    },
-    {
-        "title": "Cara dan Syarat Daftar MyPertamina Buat Beli Pertalite di SPBU",
-        "link": "https://www.cnbcindonesia.com/news/20220630123029-4-351760/cara-syarat-daftar-mypertamina-buat-beli-pertalite-di-spbu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEyMzAyOS00LTM1MTc2MC9jYXJhLXN5YXJhdC1kYWZ0YXItbXlwZXJ0YW1pbmEtYnVhdC1iZWxpLXBlcnRhbGl0ZS1kaS1zcGJ1",
-        "description": " Berlaku 1 Juli 2022, berikut cara dan syarat daftar aplikasi MyPertamina untuk beli Pertalite"
-    },
-    {
-        "title": "Dinasti Marcos Kembali Berkuasa di Filipina",
-        "link": "https://www.cnbcindonesia.com/news/20220630131502-8-351783/dinasti-marcos-kembali-berkuasa-di-filipina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEzMTUwMi04LTM1MTc4My9kaW5hc3RpLW1hcmNvcy1rZW1iYWxpLWJlcmt1YXNhLWRpLWZpbGlwaW5h",
-        "description": " Ferdinand Marcos Jr telah dilantik menjadi Presiden ke 17 Filipina."
-    },
-    {
-        "title": "Perang Masih Membara, Eks Presiden Sebut Cara Kalahkan Putin",
-        "link": "https://www.cnbcindonesia.com/news/20220630101707-4-351685/perang-masih-membara-eks-presiden-sebut-cara-kalahkan-putin",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEwMTcwNy00LTM1MTY4NS9wZXJhbmctbWFzaWgtbWVtYmFyYS1la3MtcHJlc2lkZW4tc2VidXQtY2FyYS1rYWxhaGthbi1wdXRpbg==",
-        "description": " Mantan presiden Lithuania, Dalia Grybauskaite, mengatakan ada cara untuk menghentikan Presiden Rusia Vladimir Putin."
     }
 ]

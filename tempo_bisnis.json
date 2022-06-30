@@ -1,10 +1,24 @@
 [
     {
+        "title": "BNPB: Penanggulangan Wabah PMK Mencontoh Sistem Pananganan Covid-19",
+        "link": "https://bisnis.tempo.co/read/1607267/bnpb-penanggulangan-wabah-pmk-mencontoh-sistem-pananganan-covid-19",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3MjY3L2JucGItcGVuYW5nZ3VsYW5nYW4td2FiYWgtcG1rLW1lbmNvbnRvaC1zaXN0ZW0tcGFuYW5nYW5hbi1jb3ZpZC0xOQ==",
+        "description": "Teknis pelaksanaan penanganan wabah PMK di lapangan sama seperti penanganan pagebluk Covid-19."
+    },
+    {
+        "title": "Luhut: Dalam 3 Tahun, RI Kurangi Kebocoran Sampah Laut 28,5 Persen",
+        "link": "https://bisnis.tempo.co/read/1607260/luhut-dalam-3-tahun-ri-kurangi-kebocoran-sampah-laut-285-persen",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3MjYwL2x1aHV0LWRhbGFtLTMtdGFodW4tcmkta3VyYW5naS1rZWJvY29yYW4tc2FtcGFoLWxhdXQtMjg1LXBlcnNlbg==",
+        "description": "Luhut mengatakan Indonesia terus berkomitmen memberantas sampah laut."
+    },
+    {
         "title": "39 Ribu Calon Jemaah Haji Berangkat dari 6 Bandara Embarkasi AP I",
         "link": "https://bisnis.tempo.co/read/1607250/39-ribu-calon-jemaah-haji-berangkat-dari-6-bandara-embarkasi-ap-i",
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3MjUwLzM5LXJpYnUtY2Fsb24tamVtYWFoLWhhamktYmVyYW5na2F0LWRhcmktNi1iYW5kYXJhLWVtYmFya2FzaS1hcC1p",
-        "description": "Calon jemaah haji terbagi atas 101 kelompok terbang atau kloter untuk periode 4 hingga 28 Juli 2022."
+        "description": "Calon jemaah haji terbagi atas 101 kelompok terbang atau kloter untuk periode 4 hingga 28 Juni 2022."
     },
     {
         "title": "Cara Mengecek BI Checking alias SLIK secara Daring dan Luring",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3MjAxL3RlcmtpbmktYmlzbmlzLWRhZnRhci1rZW5kYXJhYW4teWFuZy1ib2xlaC1pc2ktc29sYXItYmVyc3Vic2lkaS1wcm9maWwtbWlyYW5kYS1nb2VsdG9t",
         "description": "Berita terkini ekonomi dan bisnis pada Kamis siang, 30 Juni 2022, dimulai dari daftar kendaraan yang diizinkan menggunakan BBM solar bersubsidi."
-    },
-    {
-        "title": "BNI - SPMT Tingkatkan Kerjasama Bidang Integrated Cash Management",
-        "link": "https://bisnis.tempo.co/read/1607220/bni-spmt-tingkatkan-kerjasama-bidang-integrated-cash-management",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3MjIwL2JuaS1zcG10LXRpbmdrYXRrYW4ta2VyamFzYW1hLWJpZGFuZy1pbnRlZ3JhdGVkLWNhc2gtbWFuYWdlbWVudA==",
-        "description": "Kerjasama ini meningkatkan dan menciptakan nilai tambah dan manfaat dalam pengelolaan keuangan di SPMT"
-    },
-    {
-        "title": "Beli Pertalite dan LPG Pakai MyPertamina, DPR: Masyarakat Diharapkan Sadar",
-        "link": "https://bisnis.tempo.co/read/1607203/beli-pertalite-dan-lpg-pakai-mypertamina-dpr-masyarakat-diharapkan-sadar",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3MjAzL2JlbGktcGVydGFsaXRlLWRhbi1scGctcGFrYWktbXlwZXJ0YW1pbmEtZHByLW1hc3lhcmFrYXQtZGloYXJhcGthbi1zYWRhcg==",
-        "description": "Pertamina akan melakukan uji coba sistem pembelian Pertalite dan Solar pakai MyPertamina pada 1 Juli."
     }
 ]
