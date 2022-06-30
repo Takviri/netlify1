@@ -1,10 +1,59 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/503419/guard-hornets-miles-bridges-diciduk-polisi-jelang-bursa-transfer-nba",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM0MTkvZ3VhcmQtaG9ybmV0cy1taWxlcy1icmlkZ2VzLWRpY2lkdWstcG9saXNpLWplbGFuZy1idXJzYS10cmFuc2Zlci1uYmE=",
+        "description": "PEBASKET guard Charlotte Hornets Miles Bridges dilaporkan dicokok oleh polisi di Los Angeles pada Rabu (29/6) waktu setempat atau Kamis (30/6) WIB, jelang jendela transaksi pemain NBA dibuka. Penangkapan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/503418/ri-targetkan-dua-kemenangan-fase-grup-piala-fiba-asia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM0MTgvcmktdGFyZ2V0a2FuLWR1YS1rZW1lbmFuZ2FuLWZhc2UtZ3J1cC1waWFsYS1maWJhLWFzaWE=",
+        "description": "TIMNAS bola basket putra Indonesia mengincar dua kemenangan dalam fase grup Piala FIBA Asia 2022 di Istora GBK, Jakarta, pada 12-24 Juli mendatang. Hal itu diungkapkan manajer timnas basket&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/503417/resmi-meluncur-di-indonesia-ini-spesifikasi-dan-harga-poco-f4-dan-f4-gt",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTAzNDE3L3Jlc21pLW1lbHVuY3VyLWRpLWluZG9uZXNpYS1pbmktc3Blc2lmaWthc2ktZGFuLWhhcmdhLXBvY28tZjQtZGFuLWY0LWd0",
+        "description": "POCO Indonesia mengumumkan kehadiran ponsel teranyar mereka, seri F4 yang terdiri dari model reguler dan F4 GT. &quot;POCO F4 dan POCO F4 GT yang akan menjadi pilihan smartphone terbaik bagi&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/503414/misi-perdamaian-jokowi-ke-rusia-dan-ukraina-membuahkan-hasil",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzQxNC9taXNpLXBlcmRhbWFpYW4tam9rb3dpLWtlLXJ1c2lhLWRhbi11a3JhaW5hLW1lbWJ1YWhrYW4taGFzaWw=",
+        "description": "MISI perdamaian dan kemanusiaan yang dibawa Presiden Joko Widodo ke Ukraina dan Rusia tidak berakhir sia-sia. Setelah melalui diskusi yang cukup panjang dengan Presiden Rusia Vladimir Putin&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503413/menuju-kelas-dunia-ipcc-terminal-kendaraan-luncurkan-logo-baru",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzQxMy9tZW51anUta2VsYXMtZHVuaWEtaXBjYy10ZXJtaW5hbC1rZW5kYXJhYW4tbHVuY3Vya2FuLWxvZ28tYmFydQ==",
+        "description": "PT Indonesia Kendaraan Terminal Tbk (IPCC Terminal Kendaraan)&nbsp;meluncurkan logo baru perusahaan. Peluncuran logo baru dilakukan&nbsp;di halaman lobi Gedung IPCC Terminal Kendaraan, Tanjung Priok,&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503412/membangun-brand-bukan-hanya-sekedar-viral-tapi-butuh-originalitas-untuk-bertahan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzQxMi9tZW1iYW5ndW4tYnJhbmQtYnVrYW4taGFueWEtc2VrZWRhci12aXJhbC10YXBpLWJ1dHVoLW9yaWdpbmFsaXRhcy11bnR1ay1iZXJ0YWhhbg==",
+        "description": "ERA media sosial memunculkan konten yang banyak ditonton yang kemudian disebut viral. Tak jarang, konten tersebut ternyata sebuat strategi marketing untuk menarik perhatian konsumen. Direktur&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/503410/16-ribu-orang-disuntik-vaksin-covid-19-dosis-kedua-per-30-juni",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNDEwLzE2LXJpYnUtb3JhbmctZGlzdW50aWstdmFrc2luLWNvdmlkLTE5LWRvc2lzLWtlZHVhLXBlci0zMC1qdW5p",
         "description": "JUMLAH masyarakat Indonesia yang disuntik vaksin covid-19 dosis kedua terus bertambah. Total 168.980.896 orang telah menerima vaksin lengkap per Kamis (30/6) &quot;Jumlah yang disuntik dosis&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503411/mimbar-agama-rentan-disalahgunakan-kelompok-radikalisme",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNDExL21pbWJhci1hZ2FtYS1yZW50YW4tZGlzYWxhaGd1bmFrYW4ta2Vsb21wb2stcmFkaWthbGlzbWU=",
+        "description": "KETUA Umum Asosiasi Dai dan Daiyah Indonesia (ADDI) Moch Syarif Hidayatulla mengatakan mimbar agama sangat rentan disalahgunakan kelompok tertentu, seperti radikalisme yang mengatasnamakan agama untuk&#8230;"
     },
     {
         "title": "Internasional",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDM0MDgvNTU5LWthc3VzLWhhcmlhbi1jb3ZpZC0xOS1iZXJhc2FsLWRhcmktZGtp",
         "description": "SEBANYAK 1.255 kasus dari 2.248 kasus covid-19 nasional ditemukan di Provinsi DKI Jakarta pada Kamis, (30/6). Angka itu setara dengan 55,9 persen dari total kasus hari ini. &ldquo;Terdiri dari&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503407/kejagung-periksa-saksi-terkait-korupsi-duta-palma-group",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM0MDcva2VqYWd1bmctcGVyaWtzYS1zYWtzaS10ZXJrYWl0LWtvcnVwc2ktZHV0YS1wYWxtYS1ncm91cA==",
-        "description": "KEJAKSAAN Agung memeriksa petinggi tiga perusahaan yang tergabung dengan PT Duta Palma Group. Kepala Pusat Penerangan Hukum Kejagung Ketut Sumedana menjelaskan, pemeriksaan itu dilakukan dalam penyidikan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/503405/perluas-jasa-uji-kualitas-lingkungan-mutuagung-lestari-resmikan-laboratorium-di-pontianak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNDA1L3Blcmx1YXMtamFzYS11amkta3VhbGl0YXMtbGluZ2t1bmdhbi1tdXR1YWd1bmctbGVzdGFyaS1yZXNtaWthbi1sYWJvcmF0b3JpdW0tZGktcG9udGlhbmFr",
-        "description": "PERUSAHAAN yang melayani jasa pengujian, inspeksi dan sertifikasi, PT Mutuagung Lestari dengan brand MUTU International, meresmikan cabang laboratorium lingkungan ke-5 di kota Pontianak, Kalimantan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503404/8226-remaja-terima-vaksin-dosis-lengkap-per-30-juni",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNDA0LzgyMjYtcmVtYWphLXRlcmltYS12YWtzaW4tZG9zaXMtbGVuZ2thcC1wZXItMzAtanVuaQ==",
-        "description": "PROGRES vaksinasi covid-19 bagi remaja, lanjut usia (lansia), dan anak-anak terus dipercepat. Sebanyak 21.969.166 remaja usia 12 hingga 17 tahun telah menerima vaksin dosis lengkap per Kamis (30/6).&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/503403/paus-sebut-rusia-lakukan-agresi-dan-imperialisme-di-ukraina",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzQwMy9wYXVzLXNlYnV0LXJ1c2lhLWxha3VrYW4tYWdyZXNpLWRhbi1pbXBlcmlhbGlzbWUtZGktdWtyYWluYQ==",
-        "description": "PAUS Fransiskus secara implisit menuding Rusia melakukan 'penaklukan bersenjata, ekspansionisme, dan imperialisme' di Ukraina. Dia juga menyebut konflik itu sebagai 'perang agresi&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/503402/polda-jambi-tangkap-lima-pelaku-penyimpangan-distribusi-bbm-subsidi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNDAyL3BvbGRhLWphbWJpLXRhbmdrYXAtbGltYS1wZWxha3UtcGVueWltcGFuZ2FuLWRpc3RyaWJ1c2ktYmJtLXN1YnNpZGk=",
-        "description": "JAJARAN Direktorat Reserse Kriminal Khusus Kepolisian Daerah Jambi bersama petugas BPH Migas (Badan Pengatur Hilir Minyak dan Gas Bumi) mengungkap kasus penyimpangan distribusi minyak solar bersubsidi.&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/503401/ada-layangan-dari-mancanegara-lho-di-museum-layang-layang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDM0MDEvYWRhLWxheWFuZ2FuLWRhcmktbWFuY2FuZWdhcmEtbGhvLWRpLW11c2V1bS1sYXlhbmctbGF5YW5n",
-        "description": "JIKA baru pertama mendengar Museum Layang-Layang pasti yang terbersit di pikiran kita adalah ragam koleksi layangan berbagai bentuk dari berbagai daerah di Indonesia. Namun, rupanya tak hanya dari&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503400/tingkatkan-literasi-wom-finance-ajak-puluhan-siswa-library-tour",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNDAwL3RpbmdrYXRrYW4tbGl0ZXJhc2ktd29tLWZpbmFuY2UtYWphay1wdWx1aGFuLXNpc3dhLWxpYnJhcnktdG91cg==",
-        "description": "MEMBACA merupakan salah satu kegiatan yang mampu memperluas wawasan tentang dunia luar, berbagai informasi tak jarang diperoleh dengan cara membaca. Sebagai upaya mendukung budaya minat baca pada siswa&#8230;"
     }
 ]
