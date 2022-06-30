@@ -1,5 +1,54 @@
 [
     {
+        "title": "Usul Baru, Cuma Motor dan Mobil Umum yang Boleh Beli Pertalite!",
+        "link": "https://www.cnbcindonesia.com/news/20220630112307-4-351720/usul-baru-cuma-motor-mobil-umum-yang-boleh-beli-pertalite",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDExMjMwNy00LTM1MTcyMC91c3VsLWJhcnUtY3VtYS1tb3Rvci1tb2JpbC11bXVtLXlhbmctYm9sZWgtYmVsaS1wZXJ0YWxpdGU=",
+        "description": " Banggar DPR meminta pemerintah, bahwa hanya motor dan kendaraan umum yang boleh membeli Pertalite"
+    },
+    {
+        "title": "Meet Up, Jokowi dan Zelenskyy Bahas Krisis Pangan Global",
+        "link": "https://www.cnbcindonesia.com/news/20220630103103-8-351697/meet-up-jokowi-zelenskyy-bahas-krisis-pangan-global",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEwMzEwMy04LTM1MTY5Ny9tZWV0LXVwLWpva293aS16ZWxlbnNreXktYmFoYXMta3Jpc2lzLXBhbmdhbi1nbG9iYWw=",
+        "description": " Presiden Ukraina Volodymyr Zelenskyy dan Presiden Joko Widodo banyak berdiskusi terkait krisis pangan global"
+    },
+    {
+        "title": "Wakil Ketua Banggar DPR Tumbang Saat Sidang Paripurna",
+        "link": "https://www.cnbcindonesia.com/news/20220630111143-4-351715/wakil-ketua-banggar-dpr-tumbang-saat-sidang-paripurna",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDExMTE0My00LTM1MTcxNS93YWtpbC1rZXR1YS1iYW5nZ2FyLWRwci10dW1iYW5nLXNhYXQtc2lkYW5nLXBhcmlwdXJuYQ==",
+        "description": " Wakil Ketua Badan Anggaran (Banggar) Dewan Perwakilan Rakyat (DPR) RI Muhidin Mohamad Said ambruk saat Sidang Paripurna DPR"
+    },
+    {
+        "title": "Jurus Menkominfo Tekan Emisi Lewat Green Digital Economy",
+        "link": "https://www.cnbcindonesia.com/news/20220630104732-8-351704/jurus-menkominfo-tekan-emisi-lewat-green-digital-economy",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEwNDczMi04LTM1MTcwNC9qdXJ1cy1tZW5rb21pbmZvLXRla2FuLWVtaXNpLWxld2F0LWdyZWVuLWRpZ2l0YWwtZWNvbm9teQ==",
+        "description": " Menkominfo: Potensi Ekonomi Hijau ASEAN Capai USD 1 Triliun"
+    },
+    {
+        "title": "DPR: Program Beli Bensin Pakai MyPertamina Butuh Pengawasan",
+        "link": "https://www.cnbcindonesia.com/news/20220630110647-4-351714/dpr-program-beli-bensin-pakai-mypertamina-butuh-pengawasan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDExMDY0Ny00LTM1MTcxNC9kcHItcHJvZ3JhbS1iZWxpLWJlbnNpbi1wYWthaS1teXBlcnRhbWluYS1idXR1aC1wZW5nYXdhc2Fu",
+        "description": " Program digital MyPertamina juga membutuhkan sosialisasi masif, dan setelahnya dilakukan evaluasi untuk penyempurnaan."
+    },
+    {
+        "title": "India Lockdown Satu Kota Efek Penghinaan Nabi Muhammad",
+        "link": "https://www.cnbcindonesia.com/news/20220630102906-8-351694/india-lockdown-satu-kota-efek-penghinaan-nabi-muhammad",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEwMjkwNi04LTM1MTY5NC9pbmRpYS1sb2NrZG93bi1zYXR1LWtvdGEtZWZlay1wZW5naGluYWFuLW5hYmktbXVoYW1tYWQ=",
+        "description": " India melakukan lockdown ke satu kota efek kasus pembunuhan terhadap seorang penjahit hindu bernama Kanhaiya Lal"
+    },
+    {
+        "title": "Putin Balas Dendam, Istri dan Anak Joe Biden Jadi \"Korban\"",
+        "link": "https://www.cnbcindonesia.com/news/20220630095237-4-351679/putin-balas-dendam-istri-dan-anak-joe-biden-jadi-korban",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA5NTIzNy00LTM1MTY3OS9wdXRpbi1iYWxhcy1kZW5kYW0taXN0cmktZGFuLWFuYWstam9lLWJpZGVuLWphZGkta29yYmFu",
+        "description": " Rusia kembali membalas Barat. Kali ini istri dan anak Presiden Amerika Serikat (AS) Joe Biden menjadi korban."
+    },
+    {
         "title": "Simak! Kabar Baik Saat Krisis Pangan Mengancam, di RI Banyak",
         "link": "https://www.cnbcindonesia.com/news/20220629182516-4-351537/simak-kabar-baik-saat-krisis-pangan-mengancam-di-ri-banyak",
         "image": "static/images/cnbc_news.png",
@@ -19,54 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEwMzUyOC00LTM1MTcwMC9hcy1tZW51anUtcmVzZXNpLWluZG9uZXNpYS1tYXNpaC1iYWthbC1tZW5hbmctYmFueWFr",
         "description": " Dalam situasi sekarang Indonesia tadinya disebut menang banyak, namun bagaimana ke depan?"
-    },
-    {
-        "title": "8 Rudal Rusia Hantam Ukraina di Hari Kunjungan Jokowi",
-        "link": "https://www.cnbcindonesia.com/news/20220630102538-8-351691/8-rudal-rusia-hantam-ukraina-di-hari-kunjungan-jokowi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEwMjUzOC04LTM1MTY5MS84LXJ1ZGFsLXJ1c2lhLWhhbnRhbS11a3JhaW5hLWRpLWhhcmkta3VuanVuZ2FuLWpva293aQ==",
-        "description": " Delapan rudal Rusia menghujani wilayah Mykolaiv Ukraina"
-    },
-    {
-        "title": "Simak! Ini Dia Hasil Lengkap Pertemuan Jokowi-Zelensky",
-        "link": "https://www.cnbcindonesia.com/news/20220630091735-4-351669/simak-ini-dia-hasil-lengkap-pertemuan-jokowi-zelensky",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA5MTczNS00LTM1MTY2OS9zaW1hay1pbmktZGlhLWhhc2lsLWxlbmdrYXAtcGVydGVtdWFuLWpva293aS16ZWxlbnNreQ==",
-        "description": " Berikut hasil lengkap pertemuan antara Jokowi dan Zelensky"
-    },
-    {
-        "title": "Begini Curhat Bos Damri Gegara Covid-19",
-        "link": "https://www.cnbcindonesia.com/news/20220630014616-4-351605/begini-curhat-bos-damri-gegara-covid-19",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDAxNDYxNi00LTM1MTYwNS9iZWdpbmktY3VyaGF0LWJvcy1kYW1yaS1nZWdhcmEtY292aWQtMTk=",
-        "description": " Perum Damri masih berupaya untuk meningkatkan load factor muatan penumpang."
-    },
-    {
-        "title": "Jokowi 'Kopdar' Dengan Zelenskyy",
-        "link": "https://www.cnbcindonesia.com/news/20220630101948-8-351687/jokowi-kopdar-dengan-zelenskyy",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEwMTk0OC04LTM1MTY4Ny9qb2tvd2kta29wZGFyLWRlbmdhbi16ZWxlbnNreXk=",
-        "description": " Presiden Joko Widodo langsung disambut oleh Presiden Ukraina Volodymyr Zelensky saat tiba di Istana Maryinsky Ukrainam"
-    },
-    {
-        "title": "Susul Pertalite, Beli LPG Subsidi Juga Akan Pakai MyPertamina",
-        "link": "https://www.cnbcindonesia.com/news/20220630090614-4-351663/susul-pertalite-beli-lpg-subsidi-juga-akan-pakai-mypertamina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA5MDYxNC00LTM1MTY2My9zdXN1bC1wZXJ0YWxpdGUtYmVsaS1scGctc3Vic2lkaS1qdWdhLWFrYW4tcGFrYWktbXlwZXJ0YW1pbmE=",
-        "description": " Pertamina Patra Niaga diam-diam sudah melakukan uji coba pelaksanaan pembelian LPG dengan daftar MyPertamina"
-    },
-    {
-        "title": "36 Tahun RI Bebas Wabah PMK, Kenapa Bisa Kembali Menyebar?",
-        "link": "https://www.cnbcindonesia.com/news/20220628192037-8-351193/36-tahun-ri-bebas-wabah-pmk-kenapa-bisa-kembali-menyebar",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODE5MjAzNy04LTM1MTE5My8zNi10YWh1bi1yaS1iZWJhcy13YWJhaC1wbWsta2VuYXBhLWJpc2Eta2VtYmFsaS1tZW55ZWJhcg==",
-        "description": " 36 Tahun RI Bebas Wabah PMK, Kenapa Bisa Kembali Menyebar?"
-    },
-    {
-        "title": "Kontroversi Putin ke KTT G20 Bali Buat Rusia Panas ke Italia",
-        "link": "https://www.cnbcindonesia.com/news/20220630090348-4-351659/kontroversi-putin-ke-ktt-g20-bali-buat-rusia-panas-ke-italia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA5MDM0OC00LTM1MTY1OS9rb250cm92ZXJzaS1wdXRpbi1rZS1rdHQtZzIwLWJhbGktYnVhdC1ydXNpYS1wYW5hcy1rZS1pdGFsaWE=",
-        "description": " Kontroversi Presiden Rusia Vladimir Putin jelang KTT G20 di Bali semakin memanas akibat pernyataan baru dari Perdana Menteri Italia Mario Draghi."
     }
 ]
