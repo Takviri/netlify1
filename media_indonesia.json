@@ -1,5 +1,19 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/503391/kompleksitas-ekonomi-dan-pt-berkelas-dunia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDMzOTEva29tcGxla3NpdGFzLWVrb25vbWktZGFuLXB0LWJlcmtlbGFzLWR1bmlh",
+        "description": "INDONESIA perlu berbangga karena dalam tujuh tahun terakhir perguruan tingginya senantiasa meningkat reputasinya pada Quacquarelli Symonds World University Ranking (QS-WUR). Bila pada 2015 hanya terdapat&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/503420/afrika-darurat-vaksin-dan-alat-tes-cacar-monyet",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzQyMC9hZnJpa2EtZGFydXJhdC12YWtzaW4tZGFuLWFsYXQtdGVzLWNhY2FyLW1vbnlldA==",
+        "description": "Afrika tidak mempunyai vaksin cacar monyet dan persediaan alat tes juga terbatas, kata badan kesehatan internasional yang memperingatkan bahwa negara-negara kaya tampaknya telah menimbun vaksin.&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/503422/jokowi-dan-putin-banyak-berdiskusi-soal-pangan-dan-pupuk",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM0MTgvcmktdGFyZ2V0a2FuLWR1YS1rZW1lbmFuZ2FuLWZhc2UtZ3J1cC1waWFsYS1maWJhLWFzaWE=",
         "description": "TIMNAS bola basket putra Indonesia mengincar dua kemenangan dalam fase grup Piala FIBA Asia 2022 di Istora GBK, Jakarta, pada 12-24 Juli mendatang. Hal itu diungkapkan manajer timnas basket&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/503417/resmi-meluncur-di-indonesia-ini-spesifikasi-dan-harga-poco-f4-dan-f4-gt",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTAzNDE3L3Jlc21pLW1lbHVuY3VyLWRpLWluZG9uZXNpYS1pbmktc3Blc2lmaWthc2ktZGFuLWhhcmdhLXBvY28tZjQtZGFuLWY0LWd0",
-        "description": "POCO Indonesia mengumumkan kehadiran ponsel teranyar mereka, seri F4 yang terdiri dari model reguler dan F4 GT. &quot;POCO F4 dan POCO F4 GT yang akan menjadi pilihan smartphone terbaik bagi&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/503414/misi-perdamaian-jokowi-ke-rusia-dan-ukraina-membuahkan-hasil",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzQxNC9taXNpLXBlcmRhbWFpYW4tam9rb3dpLWtlLXJ1c2lhLWRhbi11a3JhaW5hLW1lbWJ1YWhrYW4taGFzaWw=",
-        "description": "MISI perdamaian dan kemanusiaan yang dibawa Presiden Joko Widodo ke Ukraina dan Rusia tidak berakhir sia-sia. Setelah melalui diskusi yang cukup panjang dengan Presiden Rusia Vladimir Putin&#8230;"
     }
 ]
