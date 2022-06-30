@@ -1,5 +1,19 @@
 [
     {
+        "title": "Berkat China dan Korea, Harga Batu Bara 'Mengangkasa'",
+        "link": "https://www.cnbcindonesia.com/market/20220701053611-17-351956/berkat-china-dan-korea-harga-batu-bara-mengangkasa",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMDUzNjExLTE3LTM1MTk1Ni9iZXJrYXQtY2hpbmEtZGFuLWtvcmVhLWhhcmdhLWJhdHUtYmFyYS1tZW5nYW5na2FzYQ==",
+        "description": " Harga batu bara kembali menguat setelah menjalani periode negatif."
+    },
+    {
+        "title": "Sambut Awal Semester II-2022, Semoga Ada Kabar Baik",
+        "link": "https://www.cnbcindonesia.com/market/20220701052633-17-351955/sambut-awal-semester-ii-2022-semoga-ada-kabar-baik",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMDUyNjMzLTE3LTM1MTk1NS9zYW1idXQtYXdhbC1zZW1lc3Rlci1paS0yMDIyLXNlbW9nYS1hZGEta2FiYXItYmFpaw==",
+        "description": " Pasar keuangan Indonesia pada perdagangan Kamis (30/6/2022) secara mayoritas mengalami pelemahan. Bagaimana hari ini?"
+    },
+    {
         "title": "Inflasi PCE Masih Tinggi, Wall Street Kembali Dibuka Merah",
         "link": "https://www.cnbcindonesia.com/market/20220630210413-17-351945/inflasi-pce-masih-tinggi-wall-street-kembali-dibuka-merah",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjMwMTczMzMyLTE3LTM1MTkwNC9jZWstNC1zYWhhbS1pbmkta2VsdWFyLWRhcmktZGFmdGFyLWVmZWstbWFyamluLW11bGFpLWp1bGk=",
         "description": " Terdapat empat efek yang keluar dari Daftar Efek Marjin"
-    },
-    {
-        "title": "Dow Futures Ambles Lebih Dari 1%, Wall Street Waspada!",
-        "link": "https://www.cnbcindonesia.com/market/20220630171617-17-351893/dow-futures-ambles-lebih-dari-1-wall-street-waspada",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjMwMTcxNjE3LTE3LTM1MTg5My9kb3ctZnV0dXJlcy1hbWJsZXMtbGViaWgtZGFyaS0xLXdhbGwtc3RyZWV0LXdhc3BhZGE=",
-        "description": " Kontrak berjangka (futures) indeks bursa AS ambles pada perdagangan\u00c2\u00a0hari ini."
-    },
-    {
-        "title": "Investor Pasar Modal RI Tamatan SMA Asetnya Tembus Rp 243 T",
-        "link": "https://www.cnbcindonesia.com/market/20220630170741-17-351888/investor-pasar-modal-ri-tamatan-sma-asetnya-tembus-rp-243-t",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjMwMTcwNzQxLTE3LTM1MTg4OC9pbnZlc3Rvci1wYXNhci1tb2RhbC1yaS10YW1hdGFuLXNtYS1hc2V0bnlhLXRlbWJ1cy1ycC0yNDMtdA==",
-        "description": " investor dengan pendidikan terakhir SMA yang mencapai persentase sebesar 60,93% dengan total aset sebesar Rp 243 triliun"
     }
 ]
