@@ -1,5 +1,19 @@
 [
     {
+        "title": "Usai Kunjungi Ukraina, Jokowi Terbang ke Moskow Via Polandia",
+        "link": "https://www.cnbcindonesia.com/news/20220630070050-4-351621/usai-kunjungi-ukraina-jokowi-terbang-ke-moskow-via-polandia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA3MDA1MC00LTM1MTYyMS91c2FpLWt1bmp1bmdpLXVrcmFpbmEtam9rb3dpLXRlcmJhbmcta2UtbW9za293LXZpYS1wb2xhbmRpYQ==",
+        "description": " Jokowi, Iriana, dan rombongan terbatas akan kembali ke Polandia sebelum melanjutkan perjalanan ke Moskow dengan pesawat terbang"
+    },
+    {
+        "title": "Awas Perang Makin Ngeri, Putin Ancam NATO",
+        "link": "https://www.cnbcindonesia.com/news/20220630075727-4-351635/awas-perang-makin-ngeri-putin-ancam-nato",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA3NTcyNy00LTM1MTYzNS9hd2FzLXBlcmFuZy1tYWtpbi1uZ2VyaS1wdXRpbi1hbmNhbS1uYXRv",
+        "description": " Presiden Rusia Vladimir Putin kini mengancam Pakta Pertahanan Atlantik Utara alias NATO."
+    },
+    {
         "title": "Siap-siap Rezeki Nomplok! Gaji ke-13 dan Tukin PNS Cair Lusa",
         "link": "https://www.cnbcindonesia.com/news/20220630071148-4-351624/siap-siap-rezeki-nomplok-gaji-ke-13-tukin-pns-cair-lusa",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDAxNTk1NC00LTM1MTYwNi9oYXRpLWhhdGktZGktamFsYW4tZ2VnYXJhLWluaS1qYWxhbmFuLW5lcmFrYS1iaXNhLW5hbWJhaA==",
         "description": " Kondisi tingkat kemantapan jalan nasional dipediksi hanya 95%."
-    },
-    {
-        "title": "'Kiamat' Pesawat Nyata, Belasan Pesawat di RI Mulai Lenyap",
-        "link": "https://www.cnbcindonesia.com/news/20220630013945-4-351604/kiamat-pesawat-nyata-belasan-pesawat-di-ri-mulai-lenyap",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDAxMzk0NS00LTM1MTYwNC9raWFtYXQtcGVzYXdhdC1ueWF0YS1iZWxhc2FuLXBlc2F3YXQtZGktcmktbXVsYWktbGVueWFw",
-        "description": " Pemerintah mengimbau maskapai penerbangan menambah jumlah pesawat."
-    },
-    {
-        "title": "Harga Minyak Goreng Turun Lagi? Di Sini Termurah, Jadi Segini",
-        "link": "https://www.cnbcindonesia.com/news/20220630012840-4-351603/harga-minyak-goreng-turun-lagi-di-sini-termurah-jadi-segini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDAxMjg0MC00LTM1MTYwMy9oYXJnYS1taW55YWstZ29yZW5nLXR1cnVuLWxhZ2ktZGktc2luaS10ZXJtdXJhaC1qYWRpLXNlZ2luaQ==",
-        "description": " Harga minyak goreng terpantau turun, semakin mendekati eceran tertinggi yang dibidik pemerintah, yaitu Rp14.000 per liter atau Rp15.500 per kg."
     }
 ]
