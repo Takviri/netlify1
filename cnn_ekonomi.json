@@ -1,5 +1,19 @@
 [
     {
+        "title": "Peternak Minta Bulog Tampung Sapi dan Kerbau Terinfeksi PMK",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220630161757-92-815641/peternak-minta-bulog-tampung-sapi-dan-kerbau-terinfeksi-pmk",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjMwMTYxNzU3LTkyLTgxNTY0MS9wZXRlcm5hay1taW50YS1idWxvZy10YW1wdW5nLXNhcGktZGFuLWtlcmJhdS10ZXJpbmZla3NpLXBtaw==",
+        "description": " Perhimpunan Peternak Sapi dan Kerbau meminta pemerintah melalui Perum Bulog maupun PT Berdikari menampung ternak yang terjangkit Penyakit Mulut dan Kuku."
+    },
+    {
+        "title": "5 Golongan yang Tarif Listriknya Naik Mulai Besok",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220630154918-85-815625/5-golongan-yang-tarif-listriknya-naik-mulai-besok",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjMwMTU0OTE4LTg1LTgxNTYyNS81LWdvbG9uZ2FuLXlhbmctdGFyaWYtbGlzdHJpa255YS1uYWlrLW11bGFpLWJlc29r",
+        "description": " Per 1 Juli 2022 Kementerian ESDM akan menaikkan tarif dasar listrik untuk 5 golongan."
+    },
+    {
         "title": "Rupiah Anjlok ke Rp14.903 per Dolar AS, Terparah Tahun Ini",
         "link": "https://www.cnnindonesia.com/ekonomi/20220630151523-78-815627/rupiah-anjlok-ke-rp14903-per-dolar-as-terparah-tahun-ini",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjMwMTM0NTMzLTUzMi04MTU1MzkvcmluY2lhbi1hdHVyYW4tcGVuY2FpcmFuLWdhamkta2UtMTMtcGVuc2l1bmFu",
         "description": " PT Taspen (Persero) akan menyalurkan gaji ke-13 bagi pensiunan, penerima pensiun, dan penerima tunjangan mulai besok, Kamis (1/7). Berikut aturannya."
-    },
-    {
-        "title": "Mungkinkah BBM Bersubsidi Dilepas di Harga Pasar?",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220630130126-532-815503/mungkinkah-bbm-bersubsidi-dilepas-di-harga-pasar",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjMwMTMwMTI2LTUzMi04MTU1MDMvbXVuZ2tpbmthaC1iYm0tYmVyc3Vic2lkaS1kaWxlcGFzLWRpLWhhcmdhLXBhc2Fy",
-        "description": " Pemerintah belum ada rencana untuk menyesuaikan harga BBM bersubsidi dengan harga pasar."
-    },
-    {
-        "title": "Besok Taspen Mulai Salurkan Gaji Ke-13 untuk Para Pensiunan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220630131940-83-815520/besok-taspen-mulai-salurkan-gaji-ke-13-untuk-para-pensiunan",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjMwMTMxOTQwLTgzLTgxNTUyMC9iZXNvay10YXNwZW4tbXVsYWktc2FsdXJrYW4tZ2FqaS1rZS0xMy11bnR1ay1wYXJhLXBlbnNpdW5hbg==",
-        "description": " kabar baik bagi para pensiunan, penerima pensiun, dan penerima tunjangan karena gaji ke-13 akan dibayarkan oleh PT Taspen (Persero) mulai besok 1 Juli 2022."
     }
 ]

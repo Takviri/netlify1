@@ -1,5 +1,47 @@
 [
     {
+        "title": "Negeri K-Pop Diserang Lunch-Flation, Apa Itu?",
+        "link": "https://www.cnbcindonesia.com/news/20220630144744-4-351825/negeri-k-pop-diserang-lunch-flation-apa-itu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE0NDc0NC00LTM1MTgyNS9uZWdlcmktay1wb3AtZGlzZXJhbmctbHVuY2gtZmxhdGlvbi1hcGEtaXR1",
+        "description": " Lonjakan inflasi mulai menggeroti kemapanan pekerja."
+    },
+    {
+        "title": "Ini Dia Kriteria PNS yang Dibawa Jokowi ke IKN, Ada Kamu?",
+        "link": "https://www.cnbcindonesia.com/news/20220630150828-4-351826/ini-dia-kriteria-pns-yang-dibawa-jokowi-ke-ikn-ada-kamu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE1MDgyOC00LTM1MTgyNi9pbmktZGlhLWtyaXRlcmlhLXBucy15YW5nLWRpYmF3YS1qb2tvd2kta2UtaWtuLWFkYS1rYW11",
+        "description": " BKN akan melakukan asesmen penilaian kompetensi untuk menentukan PNS yang akan dipindah ke IKN"
+    },
+    {
+        "title": "Pengumuman! Singapura Izinkan Impor Ayam dari Indonesia",
+        "link": "https://www.cnbcindonesia.com/news/20220630163757-4-351866/pengumuman-singapura-izinkan-impor-ayam-dari-indonesia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE2Mzc1Ny00LTM1MTg2Ni9wZW5ndW11bWFuLXNpbmdhcHVyYS1pemlua2FuLWltcG9yLWF5YW0tZGFyaS1pbmRvbmVzaWE=",
+        "description": " Badan pangan Singapura (Singapore Food Agency/ SFA) memberikan izin impor atas daging ayam dan produk daging ayam dari Indonesia."
+    },
+    {
+        "title": "Ramai Warga China Jadi Pelit dan Malas Keluar Duit, Kenapa?",
+        "link": "https://www.cnbcindonesia.com/news/20220630152350-4-351860/ramai-warga-china-jadi-pelit-malas-keluar-duit-kenapa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE1MjM1MC00LTM1MTg2MC9yYW1haS13YXJnYS1jaGluYS1qYWRpLXBlbGl0LW1hbGFzLWtlbHVhci1kdWl0LWtlbmFwYQ==",
+        "description": " Warga China enggan mengeluarkan duit pada survei terbaru"
+    },
+    {
+        "title": "Bali Masih Sepi, Ternyata Ini Salah Satu Pemicunya",
+        "link": "https://www.cnbcindonesia.com/news/20220630151522-4-351832/bali-masih-sepi-ternyata-ini-salah-satu-pemicunya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE1MTUyMi00LTM1MTgzMi9iYWxpLW1hc2loLXNlcGktdGVybnlhdGEtaW5pLXNhbGFoLXNhdHUtcGVtaWN1bnlh",
+        "description": " Geliat pariwisata di Bali memang sudah sedikit membaik tapi masih terbilang masih sepi kunjungan mancanegara."
+    },
+    {
+        "title": "Alert! Wabah PMK Meluas, Satgas Tetapkan Status Darurat",
+        "link": "https://www.cnbcindonesia.com/news/20220630161059-4-351857/alert-wabah-pmk-meluas-satgas-tetapkan-status-darurat",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE2MTA1OS00LTM1MTg1Ny9hbGVydC13YWJhaC1wbWstbWVsdWFzLXNhdGdhcy10ZXRhcGthbi1zdGF0dXMtZGFydXJhdA==",
+        "description": " Kepala\u00c2\u00a0BNPB yang juga adalah Ketua Satgas penanggulangan penyakit mulut dan kuku (PMK) memutuskan, menetapkan status keadaan tertentu darurat PMK."
+    },
+    {
         "title": "Bersiap! Jokowi Mulai Petakan PNS yang Bakal Pindah ke IKN",
         "link": "https://www.cnbcindonesia.com/news/20220630143347-4-351810/bersiap-jokowi-mulai-petakan-pns-yang-bakal-pindah-ke-ikn",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE0MzUzMi00LTM1MTgxNC9iZWRhLWRwci1haGxpLXNvYWwtaGFyZ2EtYmJtLXBlcmx1LW5haWstYXRhdS10aWRhaw==",
         "description": " Anggaran subsidi energi yang mencapai Rp 520 triliun untuk menahan harga di tingkat konsumen terus menimbulkan perdebatan publik."
-    },
-    {
-        "title": "Seram! Diduga Sudah Jutaan Ternak Kena Penyakit Mulut dan Kuku",
-        "link": "https://www.cnbcindonesia.com/news/20220630153555-4-351837/seram-diduga-sudah-jutaan-ternak-kena-penyakit-mulut-kuku",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE1MzU1NS00LTM1MTgzNy9zZXJhbS1kaWR1Z2Etc3VkYWgtanV0YWFuLXRlcm5hay1rZW5hLXBlbnlha2l0LW11bHV0LWt1a3U=",
-        "description": " Daerah penyebaran virus penyakit mulut dan kuku (PMK) kembali bertambah."
-    },
-    {
-        "title": "Covid Naik Lagi, Bos Hotel Mulai Khawatir Bali Makin Sepi",
-        "link": "https://www.cnbcindonesia.com/news/20220630135006-4-351794/covid-naik-lagi-bos-hotel-mulai-khawatir-bali-makin-sepi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEzNTAwNi00LTM1MTc5NC9jb3ZpZC1uYWlrLWxhZ2ktYm9zLWhvdGVsLW11bGFpLWtoYXdhdGlyLWJhbGktbWFraW4tc2VwaQ==",
-        "description": " Kasus Covid-19 kembali meningkat di Bali, kemarin 29 Juni 2022, penambahan kasus mencapai 56 kasus atau masuk ke dalam 5 besar."
-    },
-    {
-        "title": "Ini 3 Negara yang Bisa Serang Rusia Duluan di Perang Dunia 3",
-        "link": "https://www.cnbcindonesia.com/news/20220630152354-4-351834/ini-3-negara-yang-bisa-serang-rusia-duluan-di-perang-dunia-3",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE1MjM1NC00LTM1MTgzNC9pbmktMy1uZWdhcmEteWFuZy1iaXNhLXNlcmFuZy1ydXNpYS1kdWx1YW4tZGktcGVyYW5nLWR1bmlhLTM=",
-        "description": " Perang yang terjadi di Ukraina akibat serangan Rusia ke negara itu telah membawa ancaman Perang Dunia 3 ke permukaan."
-    },
-    {
-        "title": "AS Makin Ngeri, Wanita Ditembak di Kepala saat Dorong Bayi",
-        "link": "https://www.cnbcindonesia.com/news/20220630144426-4-351815/as-makin-ngeri-wanita-ditembak-di-kepala-saat-dorong-bayi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE0NDQyNi00LTM1MTgxNS9hcy1tYWtpbi1uZ2VyaS13YW5pdGEtZGl0ZW1iYWstZGkta2VwYWxhLXNhYXQtZG9yb25nLWJheWk=",
-        "description": " Penembakan maut di Amerika Serikat (AS) masih terus terjadi. Seorang wanita berusia 20 tahunan tewas setelah peluru menembus kepalanya, Rabu (29/6/2022)."
-    },
-    {
-        "title": "Kabar Gembira, Motor Tak Perlu Daftar Untuk Beli Pertalite",
-        "link": "https://www.cnbcindonesia.com/news/20220630152214-4-351833/kabar-gembira-motor-tak-perlu-daftar-untuk-beli-pertalite",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE1MjIxNC00LTM1MTgzMy9rYWJhci1nZW1iaXJhLW1vdG9yLXRhay1wZXJsdS1kYWZ0YXItdW50dWstYmVsaS1wZXJ0YWxpdGU=",
-        "description": " Pertamina menyatakan yang wajib mendaftar website MyPertamina untuk membeli Pertalite dan Solar Subsidi hanya roda empat"
-    },
-    {
-        "title": "Lawan 'Hantu' Inflasi, Swedia Kerek Suku Bunga 50 bps",
-        "link": "https://www.cnbcindonesia.com/news/20220630151422-4-351827/lawan-hantu-inflasi-swedia-kerek-suku-bunga-50-bps",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE1MTQyMi00LTM1MTgyNy9sYXdhbi1oYW50dS1pbmZsYXNpLXN3ZWRpYS1rZXJlay1zdWt1LWJ1bmdhLTUwLWJwcw==",
-        "description": " Bank Sentral Swedia (Sveriges Riksbank) mengumumkan kenaikan suku bunga sebesar 50 basis poin atau 0,5%."
     }
 ]
