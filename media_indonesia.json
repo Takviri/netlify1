@@ -1,6 +1,62 @@
 [
     {
         "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503243/pendapatan-negara-2021-capai-115-dari-target",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzI0My9wZW5kYXBhdGFuLW5lZ2FyYS0yMDIxLWNhcGFpLTExNS1kYXJpLXRhcmdldA==",
+        "description": "REALISASI pendapatan negara pada 2021 melampaui target APBN. Tercatat pemasukan negara mencapai 115,35% dari target, menjadi yang tertinggi dalam dalam 12 tahun terakhir. Demikian disampaikan Menteri&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/503242/libur-sekolah-pengunjung-candi-borobudur-membludak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzMjQyL2xpYnVyLXNla29sYWgtcGVuZ3VuanVuZy1jYW5kaS1ib3JvYnVkdXItbWVtYmx1ZGFr",
+        "description": "PT Taman Wisata Candi Borobudur, Prambanan, dan Ratu Boko (PT TWC) mengungkapkan terjadi lonjakan jumlah pengunjung Candi Borobudur pada masa libur sekolah. Dari sekitar 5.000-7.000 orang per&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503241/jangan-jadikan-dunia-digital-sebagai-ranah-berbeda",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzMjQxL2phbmdhbi1qYWRpa2FuLWR1bmlhLWRpZ2l0YWwtc2ViYWdhaS1yYW5haC1iZXJiZWRh",
+        "description": "Perubahan gaya hidup serba digital terjadi seiring perkembangan teknologi. Perubahan ini menawarkan kemudahan dan kepraktisan dalam melakukan berbagai aktivitas. Imbasnya terjadi fenomena orang bisa&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503240/wapres-larang-hewan-ternak-ber-pmk-didistribusikan-untuk-kurban",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzMjQwL3dhcHJlcy1sYXJhbmctaGV3YW4tdGVybmFrLWJlci1wbWstZGlkaXN0cmlidXNpa2FuLXVudHVrLWt1cmJhbg==",
+        "description": "Wakil Presiden Ma&rsquo;ruf Amin meminta petugas kesehatan hewan memperketat lalu lintas distribusi hewan jelang hari raya kurban. Pemerintah hanya mengizinkan hewan yang bebas penyakit mulut dan kuku&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503239/bentuk-3-provinsi-baru-di-papua-pemerintah-jangan-lupakan-warga-lokal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDMyMzkvYmVudHVrLTMtcHJvdmluc2ktYmFydS1kaS1wYXB1YS1wZW1lcmludGFoLWphbmdhbi1sdXBha2FuLXdhcmdhLWxva2Fs",
+        "description": "PEMERINTAH diminta menghitung dengan cermat kebutuhan sumber daya manusia (SDM) yang berasal dari Orang Asli Papua (OAP) untuk pembentukan tiga provinsi baru. Dalam hal ini, melalui rancangan undang-undang&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503238/bermedia-digital-perlu-kecakapan-saring-informasi-sebelum-sebarkan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzMjM4L2Jlcm1lZGlhLWRpZ2l0YWwtcGVybHUta2VjYWthcGFuLXNhcmluZy1pbmZvcm1hc2ktc2ViZWx1bS1zZWJhcmthbg==",
+        "description": "Pengguna internet terus meningkat. Menurut data We Are Social tahun 2022 dari total 277 juta populasi Indonesia sebanyak 204,7 juta atau 73,7 persen sudah terkoneksi dengan internet dan sebanyak 191&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503237/kpu-ungkap-dampak-kehadiran-ikn-untuk-pemilu-2024",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDMyMzcva3B1LXVuZ2thcC1kYW1wYWsta2VoYWRpcmFuLWlrbi11bnR1ay1wZW1pbHUtMjAyNA==",
+        "description": "KOMISI Pemilihan Umum (KPU) RI membeberkan dampak adanya kehadiran Ibu Kota Negara (IKN) baru terhadap keberlangsungan Pemilu 2024.&nbsp; Ketua KPU RI Hasyim Asy&rsquo;ari menuturkan pihaknya&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503236/iriana-jadi-bukti-perempuan-punya-peran-penting-dalam-proses-perdamaian",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDMyMzYvaXJpYW5hLWphZGktYnVrdGktcGVyZW1wdWFuLXB1bnlhLXBlcmFuLXBlbnRpbmctZGFsYW0tcHJvc2VzLXBlcmRhbWFpYW4=",
+        "description": "Tenaga Ahli Utama Kantor Staf Presiden Siti Ruhaini Dzuhayatin mengungkapkan keikutsertaan Ibu Negara Iriana Joko Widodo dalam menjalankan misi damai Indonesia ke Ukraina memberikan sinyal penting&#8230;"
+    },
+    {
+        "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/503235/dpr-setujui-materi-pembicaraan-pendahuluan-rkp-2023",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzIzNS9kcHItc2V0dWp1aS1tYXRlcmktcGVtYmljYXJhYW4tcGVuZGFodWx1YW4tcmtwLTIwMjM=",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzMjMwL2tla3VyYW5nYW4tc2RtLWhhbWJhdC1wZXJ1bXVzYW4tYXR1cmFuLXR1cnVuYW4tdXUtdHBrcw==",
         "description": "ASISTEN Kedeputian Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA), Ali Khasan mengatakan pihaknya masih terkendala sumber daya manusia dalam merumuskan peraturan pelaksana dari&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/503216/rossa-akan-tampil-di-konser-jim-brickman-di-jakarta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMzIxNi9yb3NzYS1ha2FuLXRhbXBpbC1kaS1rb25zZXItamltLWJyaWNrbWFuLWRpLWpha2FydGE=",
-        "description": "ROSSA dipastikan akan tampil berduet dengan Jim Brickman dalam konser bertajuk Jim Brickman Live in Jakarta 2022, 3 September 2022&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503234/brin-pemanfaatan-sains-dan-data-sektor-pertanian-didorong-untuk-tingkatkan-produktivitas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzMjM0L2JyaW4tcGVtYW5mYWF0YW4tc2FpbnMtZGFuLWRhdGEtc2VrdG9yLXBlcnRhbmlhbi1kaWRvcm9uZy11bnR1ay10aW5na2F0a2FuLXByb2R1a3Rpdml0YXM=",
-        "description": "Kepala Organisasi Riset Elektronika dan Informatika Badan Riset dan Inovasi Nasional (BRIN) Budi Prawara mengatakan pemanfaatan sains data dalam sektor pertanian terus didorong untuk meningkatkan produktivitas&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/503233/lukaku-janji-cetak-banyak-gol-di-inter",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzIzMy9sdWtha3UtamFuamktY2V0YWstYmFueWFrLWdvbC1kaS1pbnRlcg==",
-        "description": "ROMELU Lukaku resmi diperkenalkan Inter Milan sebagai rekrutan anyar mereka selama semusim sebagai pemain pinjaman. Pemain Belgia itu berjanji akan mencetak banyak gol untuk Nerrazurri. Lukaku&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/503232/semarang-mau-hidupkan-kembali-transportasi-trem",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzMjMyL3NlbWFyYW5nLW1hdS1oaWR1cGthbi1rZW1iYWxpLXRyYW5zcG9ydGFzaS10cmVt",
-        "description": "SETELAH menerima kunjungan delegasi Kota Sofia, Bulgaria, Pemkot Semarang berencana menghidupkan kembali transportasi berbasis rel trem. Di samping akan mengurangi kepadatan lalu lintas, trem juga&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503228/puluhan-jemaah-haji-mundur-kemenag-gerak-cepat-cari-pengganti",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzMjI4L3B1bHVoYW4tamVtYWFoLWhhamktbXVuZHVyLWtlbWVuYWctZ2VyYWstY2VwYXQtY2FyaS1wZW5nZ2FudGk=",
-        "description": "KUOTA haji Indonesia tahun ini berjumlah 100.051 orang, terdiri atas 92.825 kuota haji reguler dan 7.226 kuota haji khusus. Kementerian Agama (Kemenag) menargetkan kuota haji reguler dapat terserap&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/503227/jelang-idul-adha-ratusan-sapi-sehat-asal-wonogiri-dikirim-ke-jakarta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzMjI3L2plbGFuZy1pZHVsLWFkaGEtcmF0dXNhbi1zYXBpLXNlaGF0LWFzYWwtd29ub2dpcmktZGlraXJpbS1rZS1qYWthcnRh",
-        "description": " SEBANYAK 656 sapi jantan dan 1.026 kambing dari Wonogiri, Jawa Tengah, dikirim ke Jakarta dan Jawa Barat, untuk persiapan menjadi hewan kurban dalam perayaan Idul Adha 2022. Hal ini terjadi&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503212/ibu-hamil-dan-menyusui-diminta-berhati-hati-memilih-produk-skincare",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzMjEyL2lidS1oYW1pbC1kYW4tbWVueXVzdWktZGltaW50YS1iZXJoYXRpLWhhdGktbWVtaWxpaC1wcm9kdWstc2tpbmNhcmU=",
-        "description": "DOKTER spesialis kebidanan dan kandungan Boyke Dian Nugraha mengimbau ibu hamil dan menyusui agar berhati-hati dan menghindari produk perawatan kulit (<a href=\"http://mediaindonesia.com/tag/skin-care\"&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/503226/wagub-dki-pastikan-holywings-tidak-bisa-beroperasi-lagi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDMyMjYvd2FndWItZGtpLXBhc3Rpa2FuLWhvbHl3aW5ncy10aWRhay1iaXNhLWJlcm9wZXJhc2ktbGFnaQ==",
-        "description": "WAKIL Gubernur DKI Jakarta Ahmad Riza Patria memastikan bahwa Holywings tidak bisa dibuka kembali. Pasalnya, izin usaha kafe Holywings sudah dicabut. &quot;Sekali lagi, ini supaya clear, untuk&#8230;"
     }
 ]
