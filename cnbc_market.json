@@ -1,5 +1,33 @@
 [
     {
+        "title": "Biar Gak Kudet, Yuk Simak Kabar Pasar Hari Ini!",
+        "link": "https://www.cnbcindonesia.com/market/20220630071342-17-351628/biar-gak-kudet-yuk-simak-kabar-pasar-hari-ini",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjMwMDcxMzQyLTE3LTM1MTYyOC9iaWFyLWdhay1rdWRldC15dWstc2ltYWsta2FiYXItcGFzYXItaGFyaS1pbmk=",
+        "description": " Berikut kabar yang telah CNBC Indonesia rangkum untuk hari ini, Kamis (30/6/2022)."
+    },
+    {
+        "title": "Kacau, Harga Batu Bara Ambles 4% Lebih!",
+        "link": "https://www.cnbcindonesia.com/market/20220630060618-17-351610/kacau-harga-batu-bara-ambles-4-lebih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjMwMDYwNjE4LTE3LTM1MTYxMC9rYWNhdS1oYXJnYS1iYXR1LWJhcmEtYW1ibGVzLTQtbGViaWg=",
+        "description": " Batu bara anjlok cukup dalam kemarin."
+    },
+    {
+        "title": "Wow! Investor Asing Sudah Bawa Kabur Rp 35 T Dari RI",
+        "link": "https://www.cnbcindonesia.com/market/20220630010617-17-351602/wow-investor-asing-sudah-bawa-kabur-rp-35-t-dari-ri",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjMwMDEwNjE3LTE3LTM1MTYwMi93b3ctaW52ZXN0b3ItYXNpbmctc3VkYWgtYmF3YS1rYWJ1ci1ycC0zNS10LWRhcmktcmk=",
+        "description": " Investor asing terus menjalankan aksi jual di pasar keuangan Tanah Air."
+    },
+    {
+        "title": "Saham Emiten Erick Thohir dan Salim Masuk Jajaran Top Gainers",
+        "link": "https://www.cnbcindonesia.com/market/20220630055528-17-351608/saham-emiten-erick-thohir-salim-masuk-jajaran-top-gainers",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjMwMDU1NTI4LTE3LTM1MTYwOC9zYWhhbS1lbWl0ZW4tZXJpY2stdGhvaGlyLXNhbGltLW1hc3VrLWphamFyYW4tdG9wLWdhaW5lcnM=",
+        "description": " IHSG bergerak searah dengan bursa saham global pasca rilis indeks kepercayaan konsumen (IKK) di beberapa negara yang cenderung mengecewakan."
+    },
+    {
         "title": "Sudah Longsor Tiga Hari, Ada Angin Surga Tuk Bangkitkan IHSG?",
         "link": "https://www.cnbcindonesia.com/market/20220630005415-17-351601/sudah-longsor-tiga-hari-ada-angin-surga-tuk-bangkitkan-ihsg",
         "image": "static/images/cnbc_market.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MTkzODUzLTE3LTM1MTU3Ny90YWhhbi1kaXZpZGVuLWVtdGVrLWphbmppLWNhcGV4LXRhaHVuLWluaS01MC1sZWJpaC1iZXNhcg==",
         "description": " Keputusan ini telah direstui oleh para pemegang saham melalui Rapat Umum Pemegang Saham Tahunan (RUPST)."
-    },
-    {
-        "title": "Saat Pasar Global Kembali Pesimis, Yield SBN Malah Menguat",
-        "link": "https://www.cnbcindonesia.com/market/20220629182310-17-351536/saat-pasar-global-kembali-pesimis-yield-sbn-malah-menguat",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MTgyMzEwLTE3LTM1MTUzNi9zYWF0LXBhc2FyLWdsb2JhbC1rZW1iYWxpLXBlc2ltaXMteWllbGQtc2JuLW1hbGFoLW1lbmd1YXQ=",
-        "description": " Harga mayoritas Surat Berharga Negara (SBN) ditutup melemah pada perdagangan Rabu (29/6/2022)."
-    },
-    {
-        "title": "Terungkap, Pemicu Disclaimer Laporan Keuangan Estetika Tata",
-        "link": "https://www.cnbcindonesia.com/market/20220629163614-17-351489/terungkap-pemicu-disclaimer-laporan-keuangan-estetika-tata",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MTYzNjE0LTE3LTM1MTQ4OS90ZXJ1bmdrYXAtcGVtaWN1LWRpc2NsYWltZXItbGFwb3Jhbi1rZXVhbmdhbi1lc3RldGlrYS10YXRh",
-        "description": " Disclaimer ini berupa opini tidak menyatakan pendapat dari akuntan publik Irfan Zulmendra."
-    },
-    {
-        "title": "Laporan Keuangan Disclaimer, Ada Apa dengan Estetika Tata?",
-        "link": "https://www.cnbcindonesia.com/market/20220629164019-17-351496/laporan-keuangan-disclaimer-ada-apa-dengan-estetika-tata",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MTY0MDE5LTE3LTM1MTQ5Ni9sYXBvcmFuLWtldWFuZ2FuLWRpc2NsYWltZXItYWRhLWFwYS1kZW5nYW4tZXN0ZXRpa2EtdGF0YQ==",
-        "description": " Disclaimer ini berlaku untuk hasil kinerja periode 2021."
-    },
-    {
-        "title": "Dow Futures Lagi Lagi Melemah, Wall Street Waspada?",
-        "link": "https://www.cnbcindonesia.com/market/20220629173310-17-351517/dow-futures-lagi-lagi-melemah-wall-street-waspada",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjI5MTczMzEwLTE3LTM1MTUxNy9kb3ctZnV0dXJlcy1sYWdpLWxhZ2ktbWVsZW1haC13YWxsLXN0cmVldC13YXNwYWRh",
-        "description": " Kontrak berjangka (futures) indeks bursa AS bergerak terkoreksi pada perdagangan hari ini."
     }
 ]

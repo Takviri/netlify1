@@ -1,5 +1,26 @@
 [
     {
+        "title": "Jokowi Undang Langsung Zelensky Hadir di KTT G20 Bali",
+        "link": "https://www.cnbcindonesia.com/news/20220630063401-4-351614/jokowi-undang-langsung-zelensky-hadir-di-ktt-g20-bali",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA2MzQwMS00LTM1MTYxNC9qb2tvd2ktdW5kYW5nLWxhbmdzdW5nLXplbGVuc2t5LWhhZGlyLWRpLWt0dC1nMjAtYmFsaQ==",
+        "description": " Jokowi secara langsung mengundang Presiden Ukraina Volodymyr Zelensky untuk hadir dalam KTT G20 Bali"
+    },
+    {
+        "title": "Jokowi Bawa Pesan 'Rahasia' ke Putin dari Zelensky?",
+        "link": "https://www.cnbcindonesia.com/news/20220630063042-4-351613/jokowi-bawa-pesan-rahasia-ke-putin-dari-zelensky",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA2MzA0Mi00LTM1MTYxMy9qb2tvd2ktYmF3YS1wZXNhbi1yYWhhc2lhLWtlLXB1dGluLWRhcmktemVsZW5za3k=",
+        "description": " Jokowi menawarkan diri kepada Presiden Zelensky untuk membawa pesan pedamaian saat pertemuan dengan Presiden Rusia Vladimir Putin"
+    },
+    {
+        "title": "Hati-hati di Jalan! Gegara Ini Jalanan 'Neraka' Bisa Nambah",
+        "link": "https://www.cnbcindonesia.com/news/20220630015954-4-351606/hati-hati-di-jalan-gegara-ini-jalanan-neraka-bisa-nambah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDAxNTk1NC00LTM1MTYwNi9oYXRpLWhhdGktZGktamFsYW4tZ2VnYXJhLWluaS1qYWxhbmFuLW5lcmFrYS1iaXNhLW5hbWJhaA==",
+        "description": " Kondisi tingkat kemantapan jalan nasional dipediksi hanya 95%."
+    },
+    {
         "title": "'Kiamat' Pesawat Nyata, Belasan Pesawat di RI Mulai Lenyap",
         "link": "https://www.cnbcindonesia.com/news/20220630013945-4-351604/kiamat-pesawat-nyata-belasan-pesawat-di-ri-mulai-lenyap",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODA5MjExOC00LTM1MDg5Ny9za2FuZGFsLWJhbmstYmVzYXItaW5pLWtlbmEtaHVrdW0ta2FzdXMta29rYWluLWtvay1iaXNh",
         "description": " Credit Suisse Group AG dihukum oleh Pengadilan Kriminal Federal Swiss karena gagal mencegah pencucian uang oleh geng penyelundup kokain Bulgaria."
-    },
-    {
-        "title": "Jalur Pantai Selatan Jawa Masih Sepi, Inikah Pemicunya?",
-        "link": "https://www.cnbcindonesia.com/news/20220629191218-4-351565/jalur-pantai-selatan-jawa-masih-sepi-inikah-pemicunya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE5MTIxOC00LTM1MTU2NS9qYWx1ci1wYW50YWktc2VsYXRhbi1qYXdhLW1hc2loLXNlcGktaW5pa2FoLXBlbWljdW55YQ==",
-        "description": " Kementerian perhubungan diminta untuk melakukan pembenahan di jalur ini agar menarik warga melintas."
-    },
-    {
-        "title": "Iriana Jokowi Terjun Bantu Korban Perang Ukraina",
-        "link": "https://www.cnbcindonesia.com/news/20220629185907-7-351558/iriana-jokowi-terjun-bantu-korban-perang-ukraina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTE4NTkwNy03LTM1MTU1OC9pcmlhbmEtam9rb3dpLXRlcmp1bi1iYW50dS1rb3JiYW4tcGVyYW5nLXVrcmFpbmE=",
-        "description": " Presiden Jokowi dan Ibu Iriana mengunjungi rumah sakit yang berada di pusat kota Kyiv."
-    },
-    {
-        "title": "Airlangga Perintahkan Percepatan Vaksinasi PMK",
-        "link": "https://www.cnbcindonesia.com/news/20220629211608-4-351590/airlangga-perintahkan-percepatan-vaksinasi-pmk",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTIxMTYwOC00LTM1MTU5MC9haXJsYW5nZ2EtcGVyaW50YWhrYW4tcGVyY2VwYXRhbi12YWtzaW5hc2ktcG1r",
-        "description": " Menko Perekonomian Airlangga Hartarto menginstruksikan percepatan pengendalian wabah PMK."
     }
 ]
