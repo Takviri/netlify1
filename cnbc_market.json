@@ -1,5 +1,19 @@
 [
     {
+        "title": "86,7% Penduduk RI Sudah jadi Peserta JKN",
+        "link": "https://www.cnbcindonesia.com/market/20220630130849-17-351778/867-penduduk-ri-sudah-jadi-peserta-jkn",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjMwMTMwODQ5LTE3LTM1MTc3OC84NjctcGVuZHVkdWstcmktc3VkYWgtamFkaS1wZXNlcnRhLWprbg==",
+        "description": " Jumlah peserta tersebut naik dibandingkan tahun 2020 yang sebesar 222,461 juta jiwa."
+    },
+    {
+        "title": "Masih Mahal, TOWR Ungkap Tantangan Penggunaan EBT",
+        "link": "https://www.cnbcindonesia.com/market/20220630142709-17-351808/masih-mahal-towr-ungkap-tantangan-penggunaan-ebt",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjMwMTQyNzA5LTE3LTM1MTgwOC9tYXNpaC1tYWhhbC10b3dyLXVuZ2thcC10YW50YW5nYW4tcGVuZ2d1bmFhbi1lYnQ=",
+        "description": " Direktur TOWR Indra Gunawan salah satu kendala transisi energi baru terbarukan (EBT) pada industri menara adalah nilai keekonomiannya"
+    },
+    {
         "title": "Inflasi Produsen Rekor, Kurs Dolar Singapura Mengekor!",
         "link": "https://www.cnbcindonesia.com/market/20220630123140-17-351762/inflasi-produsen-rekor-kurs-dolar-singapura-mengekor",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjMwMTIyODIwLTE3LTM1MTc1OC9uYW5vLXRlcmN1YW4tc2FoYW0tc2xpcy1hbmpsb2s=",
         "description": " Di tengah melemahnya IHSG siang ini terdapat 5 saham yang tampil perkasa dan 5 saham yang masuk top losers."
-    },
-    {
-        "title": "Jangan Ragu! IHSG Siap Kembali Bidik 7.000 di Sesi 2",
-        "link": "https://www.cnbcindonesia.com/market/20220630122820-17-351757/jangan-ragu-ihsg-siap-kembali-bidik-7000-di-sesi-2",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjMwMTIyODIwLTE3LTM1MTc1Ny9qYW5nYW4tcmFndS1paHNnLXNpYXAta2VtYmFsaS1iaWRpay03MDAwLWRpLXNlc2ktMg==",
-        "description": " Ke mana arah IHSG di sesi 2 ?"
-    },
-    {
-        "title": "Saham Japfa (JPFA) Merah 3 Hari, Lanjut Beli atau Jual?",
-        "link": "https://www.cnbcindonesia.com/market/20220630115855-17-351736/saham-japfa--jpfa--merah-3-hari-lanjut-beli-atau-jual",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjMwMTE1ODU1LTE3LTM1MTczNi9zYWhhbS1qYXBmYS0tanBmYS0tbWVyYWgtMy1oYXJpLWxhbmp1dC1iZWxpLWF0YXUtanVhbA==",
-        "description": " Harga saham PT Japfa Comfeed Indonesia Tbk (JPFA) terbenam di zona merah pada akhir sesi I perdagangan Kamis (30/6/2022)"
     }
 ]
