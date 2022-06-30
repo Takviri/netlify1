@@ -1,5 +1,40 @@
 [
     {
+        "title": "Siap-siap Rezeki Nomplok! Gaji ke-13 dan Tukin PNS Cair Lusa",
+        "link": "https://www.cnbcindonesia.com/news/20220630071148-4-351624/siap-siap-rezeki-nomplok-gaji-ke-13-tukin-pns-cair-lusa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA3MTE0OC00LTM1MTYyNC9zaWFwLXNpYXAtcmV6ZWtpLW5vbXBsb2stZ2FqaS1rZS0xMy10dWtpbi1wbnMtY2Fpci1sdXNh",
+        "description": " Pencairan gaji ke-13 untuk Aparatur Sipil Negara (ASN), termasuk Pegawai Negeri Sipil (PNS) mulai awal Juli 2022."
+    },
+    {
+        "title": "Ini Curhat Zelensky Bertemu Jokowi, Puji RI dan Maki ke Rusia",
+        "link": "https://www.cnbcindonesia.com/news/20220630073202-4-351630/ini-curhat-zelensky-bertemu-jokowi-puji-ri-maki-ke-rusia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA3MzIwMi00LTM1MTYzMC9pbmktY3VyaGF0LXplbGVuc2t5LWJlcnRlbXUtam9rb3dpLXB1amktcmktbWFraS1rZS1ydXNpYQ==",
+        "description": " Presiden Ukraina Zelenskyy bertemu dengan Presiden Jokowi. Dalam kesempatan itu, Zelenksy mengucapkan terima kasih ke Jokowi yang telah datang ke Ukraina."
+    },
+    {
+        "title": "Harga BBM Naik, RI Selamat dari 'Bom Waktu'?",
+        "link": "https://www.cnbcindonesia.com/news/20220630070152-4-351620/harga-bbm-naik-ri-selamat-dari-bom-waktu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA3MDE1Mi00LTM1MTYyMC9oYXJnYS1iYm0tbmFpay1yaS1zZWxhbWF0LWRhcmktYm9tLXdha3R1",
+        "description": " Bagaimana kalau harga BBM naik?"
+    },
+    {
+        "title": "Zelensky Sebut Bakal Hadiri G20 Bali ke Jokowi, Tapi...",
+        "link": "https://www.cnbcindonesia.com/news/20220630071421-4-351625/zelensky-sebut-bakal-hadiri-g20-bali-ke-jokowi-tapi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA3MTQyMS00LTM1MTYyNS96ZWxlbnNreS1zZWJ1dC1iYWthbC1oYWRpcmktZzIwLWJhbGkta2Utam9rb3dpLXRhcGk=",
+        "description": " Presiden Ukraina Zelensky mengatakan kepada Presiden Jokowi bahwa dirinya bisa menghadiri konferensi tingkat tinggi (KTT) G20 di Bali. Tapi..."
+    },
+    {
+        "title": "Covid Singapura \"Meledak\" Lagi: 9 Ribu Kasus Baru, 1 Kematian",
+        "link": "https://www.cnbcindonesia.com/news/20220630065110-4-351618/covid-singapura-meledak-lagi-9-ribu-kasus-baru-1-kematian",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA2NTExMC00LTM1MTYxOC9jb3ZpZC1zaW5nYXB1cmEtbWVsZWRhay1sYWdpLTktcmlidS1rYXN1cy1iYXJ1LTEta2VtYXRpYW4=",
+        "description": " Singapura masih mencatat kenaikan kasus Covid-19.\u00c2\u00a0Negeri Singa melaporkan 9.392 kasus Rabu (29/6/2022)."
+    },
+    {
         "title": "Jokowi Undang Langsung Zelensky Hadir di KTT G20 Bali",
         "link": "https://www.cnbcindonesia.com/news/20220630063401-4-351614/jokowi-undang-langsung-zelensky-hadir-di-ktt-g20-bali",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDAxMjg0MC00LTM1MTYwMy9oYXJnYS1taW55YWstZ29yZW5nLXR1cnVuLWxhZ2ktZGktc2luaS10ZXJtdXJhaC1qYWRpLXNlZ2luaQ==",
         "description": " Harga minyak goreng terpantau turun, semakin mendekati eceran tertinggi yang dibidik pemerintah, yaitu Rp14.000 per liter atau Rp15.500 per kg."
-    },
-    {
-        "title": "Jokowi Ungkap Tujuannya ke Ukraina: Manifestasi Kepedulian RI",
-        "link": "https://www.cnbcindonesia.com/news/20220630060753-4-351611/jokowi-ungkap-tujuannya-ke-ukraina-manifestasi-kepedulian-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA2MDc1My00LTM1MTYxMS9qb2tvd2ktdW5na2FwLXR1anVhbm55YS1rZS11a3JhaW5hLW1hbmlmZXN0YXNpLWtlcGVkdWxpYW4tcmk=",
-        "description": " Jokowi menegaskan kedatangannya ke Ukriana merupakan perwujudan kepedulian masyarakat Indonesia untuk Ukraina"
-    },
-    {
-        "title": "Bukan Ukraina-NATO! Rusia Ngamuk Ancam Balas Dendam Norwegia",
-        "link": "https://www.cnbcindonesia.com/news/20220630062542-4-351612/bukan-ukraina-nato-rusia-ngamuk-ancam-balas-dendam-norwegia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA2MjU0Mi00LTM1MTYxMi9idWthbi11a3JhaW5hLW5hdG8tcnVzaWEtbmdhbXVrLWFuY2FtLWJhbGFzLWRlbmRhbS1ub3J3ZWdpYQ==",
-        "description": " Rusia murka ke Norwegia. Bahkan akan memberikan pembalasan ke negara itu. Kenapa?"
-    },
-    {
-        "title": "Heboh! India \"Lockdown\" Satu Kota, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220630060216-4-351609/heboh-india-lockdown-satu-kota-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA2MDIxNi00LTM1MTYwOS9oZWJvaC1pbmRpYS1sb2NrZG93bi1zYXR1LWtvdGEtYWRhLWFwYQ==",
-        "description": " India melakukan \"lockdown\" ke satu kota. Ini bukan karena Covid-19 namun karena kasus penghinaan Nabi Muhammad yang membuat heboh awal bulan ini."
-    },
-    {
-        "title": "Intip Begini Pertemuan Jokowi dan Presiden Ukraina Zelensky",
-        "link": "https://www.cnbcindonesia.com/news/20220629215959-7-351592/intip-begini-pertemuan-jokowi-presiden-ukraina-zelensky",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyOTIxNTk1OS03LTM1MTU5Mi9pbnRpcC1iZWdpbmktcGVydGVtdWFuLWpva293aS1wcmVzaWRlbi11a3JhaW5hLXplbGVuc2t5",
-        "description": " Presiden Jokowi berada di Kyiv. Ia menjadi presiden negara Asia pertama yang betamu di Ukraina menemui Presiden Zelensky kala perang terjadi."
-    },
-    {
-        "title": "Skandal! Bank Besar Ini Kena Hukum Kasus Kokain, Kok Bisa?",
-        "link": "https://www.cnbcindonesia.com/news/20220628092118-4-350897/skandal-bank-besar-ini-kena-hukum-kasus-kokain-kok-bisa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYyODA5MjExOC00LTM1MDg5Ny9za2FuZGFsLWJhbmstYmVzYXItaW5pLWtlbmEtaHVrdW0ta2FzdXMta29rYWluLWtvay1iaXNh",
-        "description": " Credit Suisse Group AG dihukum oleh Pengadilan Kriminal Federal Swiss karena gagal mencegah pencucian uang oleh geng penyelundup kokain Bulgaria."
     }
 ]
