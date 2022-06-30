@@ -1,5 +1,40 @@
 [
     {
+        "title": "Naik Lagi, Kasus Covid-19 di Indonesia Tambah 2.248 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220630172623-4-351896/naik-lagi-kasus-covid-19-di-indonesia-tambah-2248-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE3MjYyMy00LTM1MTg5Ni9uYWlrLWxhZ2kta2FzdXMtY292aWQtMTktZGktaW5kb25lc2lhLXRhbWJhaC0yMjQ4LWhhcmktaW5p",
+        "description": " Simak data terbaru Covid-19."
+    },
+    {
+        "title": "Breaking News: Jokowi Tiba di Moskow, Segera Bertemu Putin",
+        "link": "https://www.cnbcindonesia.com/news/20220630172139-4-351894/breaking-news-jokowi-tiba-di-moskow-segera-bertemu-putin",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE3MjEzOS00LTM1MTg5NC9icmVha2luZy1uZXdzLWpva293aS10aWJhLWRpLW1vc2tvdy1zZWdlcmEtYmVydGVtdS1wdXRpbg==",
+        "description": " Turut mendampingi Jokowi dan Iriana yaitu Menteri Luar Negeri Retno Marsudi dan Sekretaris Kabinet Pramono Anung."
+    },
+    {
+        "title": "Aturan Covid Longgar, Sektor Jasa dan Manufaktur China Bangkit!",
+        "link": "https://www.cnbcindonesia.com/news/20220630113816-4-351726/aturan-covid-longgar-sektor-jasa-manufaktur-china-bangkit",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDExMzgxNi00LTM1MTcyNi9hdHVyYW4tY292aWQtbG9uZ2dhci1zZWt0b3ItamFzYS1tYW51ZmFrdHVyLWNoaW5hLWJhbmdraXQ=",
+        "description": " Aktivitas pabrik dan jasa di China meningkat\u00c2\u00a0pada Juni 2022."
+    },
+    {
+        "title": "Bukan Cuma Pertalite, Beli Elpiji 3 Kg Juga Pakai MyPertamina",
+        "link": "https://www.cnbcindonesia.com/news/20220630154055-7-351840/bukan-cuma-pertalite-beli-elpiji-3-kg-juga-pakai-mypertamina",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE1NDA1NS03LTM1MTg0MC9idWthbi1jdW1hLXBlcnRhbGl0ZS1iZWxpLWVscGlqaS0zLWtnLWp1Z2EtcGFrYWktbXlwZXJ0YW1pbmE=",
+        "description": " PT Pertamina (Persero) akan memperketat pembelian LPG 3 Kg."
+    },
+    {
+        "title": "Awas Salah, Daftar Pertalite Bukan di Aplikasi Tapi di Web",
+        "link": "https://www.cnbcindonesia.com/news/20220630155023-4-351850/awas-salah-daftar-pertalite-bukan-di-aplikasi-tapi-di-web",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE1NTAyMy00LTM1MTg1MC9hd2FzLXNhbGFoLWRhZnRhci1wZXJ0YWxpdGUtYnVrYW4tZGktYXBsaWthc2ktdGFwaS1kaS13ZWI=",
+        "description": " Pertamina menegaskan bahwa aplikasi dan website MyPertamina dua hal yang berbeda"
+    },
+    {
         "title": "Negeri K-Pop Diserang Lunch-Flation, Apa Itu?",
         "link": "https://www.cnbcindonesia.com/news/20220630144744-4-351825/negeri-k-pop-diserang-lunch-flation-apa-itu",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE1MTUyMi00LTM1MTgzMi9iYWxpLW1hc2loLXNlcGktdGVybnlhdGEtaW5pLXNhbGFoLXNhdHUtcGVtaWN1bnlh",
         "description": " Geliat pariwisata di Bali memang sudah sedikit membaik tapi masih terbilang masih sepi kunjungan mancanegara."
-    },
-    {
-        "title": "Alert! Wabah PMK Meluas, Satgas Tetapkan Status Darurat",
-        "link": "https://www.cnbcindonesia.com/news/20220630161059-4-351857/alert-wabah-pmk-meluas-satgas-tetapkan-status-darurat",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE2MTA1OS00LTM1MTg1Ny9hbGVydC13YWJhaC1wbWstbWVsdWFzLXNhdGdhcy10ZXRhcGthbi1zdGF0dXMtZGFydXJhdA==",
-        "description": " Kepala\u00c2\u00a0BNPB yang juga adalah Ketua Satgas penanggulangan penyakit mulut dan kuku (PMK) memutuskan, menetapkan status keadaan tertentu darurat PMK."
-    },
-    {
-        "title": "Bersiap! Jokowi Mulai Petakan PNS yang Bakal Pindah ke IKN",
-        "link": "https://www.cnbcindonesia.com/news/20220630143347-4-351810/bersiap-jokowi-mulai-petakan-pns-yang-bakal-pindah-ke-ikn",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE0MzM0Ny00LTM1MTgxMC9iZXJzaWFwLWpva293aS1tdWxhaS1wZXRha2FuLXBucy15YW5nLWJha2FsLXBpbmRhaC1rZS1pa24=",
-        "description": " BKN dalam waktu dekat akan melakukan mekanisme pelaksanaan asesmen bagi ASN yang akan ditempatkan di IKN"
-    },
-    {
-        "title": "Arab Mau Dongrak Harga Minyak, Pertalite Cs Belum Naik Juga",
-        "link": "https://www.cnbcindonesia.com/news/20220630153303-4-351838/arab-mau-dongrak-harga-minyak-pertalite-cs-belum-naik-juga",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE1MzMwMy00LTM1MTgzOC9hcmFiLW1hdS1kb25ncmFrLWhhcmdhLW1pbnlhay1wZXJ0YWxpdGUtY3MtYmVsdW0tbmFpay1qdWdh",
-        "description": " Arab Saudi sebagai pengeskpor minyak dikabarkan akan menaikkan harga kadar minyak mentah ringan (light crude oil) ke Asia."
-    },
-    {
-        "title": "Perpres Tarif Listrik EBT Dinanti, Menteri Erick Belum Teken!",
-        "link": "https://www.cnbcindonesia.com/news/20220630140720-4-351803/perpres-tarif-listrik-ebt-dinanti-menteri-erick-belum-teken",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE0MDcyMC00LTM1MTgwMy9wZXJwcmVzLXRhcmlmLWxpc3RyaWstZWJ0LWRpbmFudGktbWVudGVyaS1lcmljay1iZWx1bS10ZWtlbg==",
-        "description": " Pemerintah menyiapkan Perpres berkenaan dengan tarif listrik energi baru dan terbarukan (EBT)"
-    },
-    {
-        "title": "Beda DPR dan Ahli Soal Harga BBM Perlu Naik atau Tidak",
-        "link": "https://www.cnbcindonesia.com/news/20220630143532-4-351814/beda-dpr-ahli-soal-harga-bbm-perlu-naik-atau-tidak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDE0MzUzMi00LTM1MTgxNC9iZWRhLWRwci1haGxpLXNvYWwtaGFyZ2EtYmJtLXBlcmx1LW5haWstYXRhdS10aWRhaw==",
-        "description": " Anggaran subsidi energi yang mencapai Rp 520 triliun untuk menahan harga di tingkat konsumen terus menimbulkan perdebatan publik."
     }
 ]
