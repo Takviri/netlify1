@@ -1,5 +1,19 @@
 [
     {
+        "title": "Buruan Tes Covid-19 Jika Muncul Gejala Ini Saat Bangun Tidur",
+        "link": "https://www.cnbcindonesia.com/news/20220630083504-4-351647/buruan-tes-covid-19-jika-muncul-gejala-ini-saat-bangun-tidur",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA4MzUwNC00LTM1MTY0Ny9idXJ1YW4tdGVzLWNvdmlkLTE5LWppa2EtbXVuY3VsLWdlamFsYS1pbmktc2FhdC1iYW5ndW4tdGlkdXI=",
+        "description": " Salah satu gejala Omicron bisa terlihat saat seseorang bangun tidur"
+    },
+    {
+        "title": "Kasus Meroket 11.000, Singapura \"Gagal\" Damai dengan Covid?",
+        "link": "https://www.cnbcindonesia.com/news/20220630083834-4-351648/kasus-meroket-11000-singapura-gagal-damai-dengan-covid",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA4MzgzNC00LTM1MTY0OC9rYXN1cy1tZXJva2V0LTExMDAwLXNpbmdhcHVyYS1nYWdhbC1kYW1haS1kZW5nYW4tY292aWQ=",
+        "description": " Kasus Covid-19 di Singapura kembali meningkat. Negeri itu mencatat 11.504 kasus baru, Selasa, meski mengalami penurunan ke 9.392 di Rabu."
+    },
+    {
         "title": "Harga Cabai Masih Menggila, Bun! Di Jakarta Rp100 Ribu Lebih",
         "link": "https://www.cnbcindonesia.com/news/20220630091335-4-351670/harga-cabai-masih-menggila-bun-di-jakarta-rp100-ribu-lebih",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA4NTI1OS00LTM1MTY1Ni9ob25nLWtvbmctc3RhdHVzLXNpYWdhLXRpbmdnaS1rYXJlbmEteGktamlucGluZy1hZGEtYXBh",
         "description": " Hong Kong kini dalam status \"siaga tinggi\". Ini karena kedatangan Presiden China Xi Jinping. Kenapa?"
-    },
-    {
-        "title": "Punya 300 ribu Jenis, Yogyakarta Kaya Potensi Ekonomi Kreatif",
-        "link": "https://www.cnbcindonesia.com/news/20220630084914-4-351652/punya-300-ribu-jenis-yogyakarta-kaya-potensi-ekonomi-kreatif",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA4NDkxNC00LTM1MTY1Mi9wdW55YS0zMDAtcmlidS1qZW5pcy15b2d5YWthcnRhLWtheWEtcG90ZW5zaS1la29ub21pLWtyZWF0aWY=",
-        "description": " Kementerian Koordinator Bidang Perekonomian menggelar kegiatan bertajuk \"Ngopi Bareng Bersama Komunitas Kreatif Yogyakarta\", pada Senin (27/6)"
-    },
-    {
-        "title": "BPJS Kesehatan Siapkan Kelas Standar, Iuran Jadi Segini?",
-        "link": "https://www.cnbcindonesia.com/news/20220630073128-4-351631/bpjs-kesehatan-siapkan-kelas-standar-iuran-jadi-segini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDA3MzEyOC00LTM1MTYzMS9icGpzLWtlc2VoYXRhbi1zaWFwa2FuLWtlbGFzLXN0YW5kYXItaXVyYW4tamFkaS1zZWdpbmk=",
-        "description": " Di bulan Juli 2022, pemerintah akan memberlakukan rawat inap BPJS Kesehatan Kelas Standar pada 18 rumah sakit vertikal."
     }
 ]

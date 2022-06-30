@@ -1,5 +1,33 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/503174/sebanyak-18-juta-tiket-piala-dunia-qatar-telah-terjual",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzE3NC9zZWJhbnlhay0xOC1qdXRhLXRpa2V0LXBpYWxhLWR1bmlhLXFhdGFyLXRlbGFoLXRlcmp1YWw=",
+        "description": "PANITIA penyelenggara telah menjual 1,8 juta lembar tiket untuk Piala Dunia tahun ini di Qatar. Hal itu dikatakan badan&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/503175/antisipasi-ancaman-rusia-nato-bangun-kekuatan-baru",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzE3NS9hbnRpc2lwYXNpLWFuY2FtYW4tcnVzaWEtbmF0by1iYW5ndW4ta2VrdWF0YW4tYmFydQ==",
+        "description": "NATO memperluas penempatan pasukan dengan kesiapan tinggi untuk mengantisipasi ancaman Rusia. Strateginya dengan penempatan lebih dari 300 ribu atau bertambah 40 ribu tentara mulai 2023. Seluruhnya&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/503172/minions-2-rise-of-gru-kisahkan-awal-karier-gru-sebagai-penjahat-super",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMzE3Mi9taW5pb25zLTItcmlzZS1vZi1ncnUta2lzYWhrYW4tYXdhbC1rYXJpZXItZ3J1LXNlYmFnYWktcGVuamFoYXQtc3VwZXI=",
+        "description": "ANDA tentu sudah tidak asing dengan karakter Minions, dengan perawakan unik dan tingkah mereka yang nyeleneh. Minions kini menjadi salah&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503173/bpjs-ketenagakerjaan-dukung-arahan-wapres-untuk-percepatan-mpp",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzE3My9icGpzLWtldGVuYWdha2VyamFhbi1kdWt1bmctYXJhaGFuLXdhcHJlcy11bnR1ay1wZXJjZXBhdGFuLW1wcA==",
+        "description": "PEMERINTAH terus berupaya untuk mempercepat penyelenggaraan Mal Pelayanan Publik (MPP) di seluruh penjuru Indonesia. Salah satu upayanya adalah dengan menggandeng sejumlah kementerian, lembaga, BUMN,&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/503171/orangtua-diminta-isi-liburan-anak-dengan-mengasah-kecakapan-hidup",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzE2Ni9zcHVycy1sYW5qdXRrYW4tcGVuZGVrYXRhbi1rZS1ldmVydG9uLXNvYWwtcmljaGFybGlzb24=",
         "description": "KLUB Liga Primer Inggris Tottenham Hotspur terus berupaya mencapai kesepakatan dengan Everton untuk menghadirkan Richarlison&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/503155/paparan-cahaya-saat-tidur-malam-perbesar-risiko-bagi-lansia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMzE1NS9wYXBhcmFuLWNhaGF5YS1zYWF0LXRpZHVyLW1hbGFtLXBlcmJlc2FyLXJpc2lrby1iYWdpLWxhbnNpYQ==",
-        "description": "Sebuah studi baru menemukan segala jenis paparan cahaya (polisi cahaya) saat tidur dapat secara signifikan meningkatkan risiko obesitas, diabetes, atau tekanan darah tinggi, terutama pada orang lansia.&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/503165/rusia-ancam-negara-nato-zelenskyminta-tambahan-pasokan-senjata",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzE2NS9ydXNpYS1hbmNhbS1uZWdhcmEtbmF0by16ZWxlbnNreW1pbnRhLXRhbWJhaGFuLXBhc29rYW4tc2VuamF0YQ==",
-        "description": "PRESIDEN Ukraina Volodymyr Zelensky&nbsp;kembali mendesak para pemimpin NATO untuk memberi senjata modern dan dana perlawanan terhadap Rusia. Alasannya serangan Rusia dapat mengancam negara&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503164/soal-ganja-untuk-medis-indonesia-halal-watch-tegaskan-berpatokan-ke-uu-no-35-tahun-2009",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDMxNjQvc29hbC1nYW5qYS11bnR1ay1tZWRpcy1pbmRvbmVzaWEtaGFsYWwtd2F0Y2gtdGVnYXNrYW4tYmVycGF0b2thbi1rZS11dS1uby0zNS10YWh1bi0yMDA5",
-        "description": "UNDANG-UNDANG (UU) No 35 Tahun 2009 tentang narkotika sudah sangat jelas mengatur mengenai penggunaan ganja untuk medis. Hal itu ditegaskan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503163/bukalapak-dorong-pertumbuhan-pendapatan-mitra",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzE2My9idWthbGFwYWstZG9yb25nLXBlcnR1bWJ1aGFuLXBlbmRhcGF0YW4tbWl0cmE=",
-        "description": "Bukalapak memaparkan bahwa hingga kuartal 1 2022, perseroan telah mendukung lebih dari 13.1 juta UMKM dan 6.8 juta pelapak online. Direktur PT Bukalapak.com, Tbk, Teddy Oetomo &nbsp;menyampaikan&#8230;"
     }
 ]
