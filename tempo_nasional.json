@@ -1,5 +1,19 @@
 [
     {
+        "title": "Ombudsman Sampaikan Laporan soal Penjabat Kepala Daerah Pertengahan Juli",
+        "link": "https://nasional.tempo.co/read/1607204/ombudsman-sampaikan-laporan-soal-penjabat-kepala-daerah-pertengahan-juli",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDcyMDQvb21idWRzbWFuLXNhbXBhaWthbi1sYXBvcmFuLXNvYWwtcGVuamFiYXQta2VwYWxhLWRhZXJhaC1wZXJ0ZW5nYWhhbi1qdWxp",
+        "description": "Sejumlah organisasi masyarakat sipil melaporkan Mendagri Tito Karnavian ke Ombudsman. Mempermasalahkan proses penunjukan penjabat kepala daerah."
+    },
+    {
+        "title": "RUU KIA yang Atur Cuti Melahirkan 6 Bulan, Sah Jadi Inisiatif DPR",
+        "link": "https://nasional.tempo.co/read/1607195/ruu-kia-yang-atur-cuti-melahirkan-6-bulan-sah-jadi-inisiatif-dpr",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDcxOTUvcnV1LWtpYS15YW5nLWF0dXItY3V0aS1tZWxhaGlya2FuLTYtYnVsYW4tc2FoLWphZGktaW5pc2lhdGlmLWRwcg==",
+        "description": "DPR RI resmi mengesahkan Rancangan Undang-undang Ibu dan Anak (RUU KIA) sebagai RUU inisiatif DPR dalam Rapat Paripurna hari ini, Kamis, 30 Juni 2022."
+    },
+    {
         "title": "MAKI Laporkan Dugaan Korupsi Impor Bawang Putih ke KPK",
         "link": "https://nasional.tempo.co/read/1607192/maki-laporkan-dugaan-korupsi-impor-bawang-putih-ke-kpk",
         "image": "static/images/tempo_nasional.png",
@@ -46,7 +60,7 @@
         "link": "https://nasional.tempo.co/read/1607173/wakil-ketua-banggar-tumbang-di-rapat-paripurna-dpr",
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDcxNzMvd2FraWwta2V0dWEtYmFuZ2dhci10dW1iYW5nLWRpLXJhcGF0LXBhcmlwdXJuYS1kcHI=",
-        "description": "Sontak para anggota DPR bergegas menolong Muhidin dan rapat dihentikan sementara. Kemudian, tim medis masuk ke dalam ruangan rapat dan memboyong polit"
+        "description": "Sontak para anggota DPR bergegas menolong Muhidin dan rapat dihentikan sementara. Tim medis masuk ke dalam ruangan rapat dan memboyongnya."
     },
     {
         "title": "Tetapkan Idul Adha 9 Juli, Muhammadiyah Minta Pemerintah Beri Kebebasan",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDcxNzEvdGV0YXBrYW4taWR1bC1hZGhhLTktanVsaS1tdWhhbW1hZGl5YWgtbWludGEtcGVtZXJpbnRhaC1iZXJpLWtlYmViYXNhbg==",
         "description": "Sekretaris Umum Pengurus Pusat (PP) Muhammadiyah, Abdul Mu'ti mengatakan pihaknya tetap akan merayakan Hari Raya Idul Adha pada Sabtu, 9 Juli 2022"
-    },
-    {
-        "title": "DPR Sahkan RUU Lima Provinsi: Sumbar, Riau, Jambi, NTT, dan NTB",
-        "link": "https://nasional.tempo.co/read/1607163/dpr-sahkan-ruu-lima-provinsi-sumbar-riau-jambi-ntt-dan-ntb",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDcxNjMvZHByLXNhaGthbi1ydXUtbGltYS1wcm92aW5zaS1zdW1iYXItcmlhdS1qYW1iaS1udHQtZGFuLW50Yg==",
-        "description": "DPR) RI mengesahkan Rancangan Undang-undang 5 provinsi, yakni RUU tentang Provinsi Sumatera Barat (Sumbar), Riau, Jambi, NTB dan NTT"
-    },
-    {
-        "title": "Soal Ganja untuk Medis, Ketua Komisi Fatwa MUI Jatim: Tunggu Uji Klinis",
-        "link": "https://nasional.tempo.co/read/1607156/soal-ganja-untuk-medis-ketua-komisi-fatwa-mui-jatim-tunggu-uji-klinis",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDcxNTYvc29hbC1nYW5qYS11bnR1ay1tZWRpcy1rZXR1YS1rb21pc2ktZmF0d2EtbXVpLWphdGltLXR1bmdndS11amkta2xpbmlz",
-        "description": "Ketua Komisi Fatwa Majelis Ulama Indonesia (MUI) Jatim KH Ma'ruf Khozin mengatakan masih perlu menunggu hasil uji klinis untuk menemukan kandungan yang terdapat dalam Ganja yang sama sekali tidak ada obat alternatifnya."
     }
 ]
