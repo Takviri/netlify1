@@ -1,5 +1,12 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/503668/misi-damai-jokowi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDM2NjgvbWlzaS1kYW1haS1qb2tvd2k=",
+        "description": "USAI sudah kunjungan Presiden Jokowi ke Ukraina dan Rusia untuk bertemu langsung dengan Presiden Ukraina Volodymyr Zelensky dan Presiden Rusia Vladimir Putin pada 29-30 Juni 2022 kemarin. Presiden&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/503669/salah-bertahan-di-liverpool-hingga-2025",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzY1Ny9hdWRpdC1wZXJ1c2FoYWFuLXNhd2l0LWJwa3AtbGliYXRrYW4ta2VqYWd1bmctaGluZ2dhLXBvbHJp",
         "description": "BADAN Pengawasan Keuangan dan Pembangunan (BPKP) menyusun gambaran umum audit sektor sawit di Indonesia dengan menggandeng Kejaksaan Agung RI (Kejagung) hingga Polri. Audit itu dilakukan sebagai&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503655/kejagung-periksa-tiga-saksi-dari-kemendag-terkait-kasus-cpo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM2NTUva2VqYWd1bmctcGVyaWtzYS10aWdhLXNha3NpLWRhcmkta2VtZW5kYWctdGVya2FpdC1rYXN1cy1jcG8=",
-        "description": "PENYIDIK Jaksa Agung Muda Tindak Pidana Khusus (Jampidsus) Kejaksaan Agung memeriksa tiga saksi dari Kementerian Perdagangan (Kemendag) terkait dengan dugaan tindak pidana korupsi pemberian fasilitas&#8230;"
     }
 ]
