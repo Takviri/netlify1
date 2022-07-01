@@ -1,5 +1,47 @@
 [
     {
+        "title": "Pendaftaran Aplikasi MyPertamina Telah Dimulai!",
+        "link": "https://www.cnbcindonesia.com/news/20220701163753-8-352265/pendaftaran-aplikasi-mypertamina-telah-dimulai",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE2Mzc1My04LTM1MjI2NS9wZW5kYWZ0YXJhbi1hcGxpa2FzaS1teXBlcnRhbWluYS10ZWxhaC1kaW11bGFp",
+        "description": " Mulai 1 juli 2022, Pertamina membuka pendaftaran bagi seluruh kendaraan roda empat lewat website My Pertamina."
+    },
+    {
+        "title": "Bos PLN Blak-blakan Soal Konversi Pembangit Diesel ke Gas",
+        "link": "https://www.cnbcindonesia.com/news/20220701173442-4-352292/bos-pln-blak-blakan-soal-konversi-pembangit-diesel-ke-gas",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE3MzQ0Mi00LTM1MjI5Mi9ib3MtcGxuLWJsYWstYmxha2FuLXNvYWwta29udmVyc2ktcGVtYmFuZ2l0LWRpZXNlbC1rZS1nYXM=",
+        "description": " PLN mencatat sebelumnya ada 52 PLTD yang akan dikonversi ke pembangkit gas"
+    },
+    {
+        "title": "Penampakan Data Covid RI yang Turun Lagi Jelang Akhir Pekan",
+        "link": "https://www.cnbcindonesia.com/news/20220701172028-16-352286/penampakan-data-covid-ri-yang-turun-lagi-jelang-akhir-pekan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE3MjAyOC0xNi0zNTIyODYvcGVuYW1wYWthbi1kYXRhLWNvdmlkLXJpLXlhbmctdHVydW4tbGFnaS1qZWxhbmctYWtoaXItcGVrYW4=",
+        "description": " Total kasus konfirmasi mencapai 6.090.509."
+    },
+    {
+        "title": "Bambang Brodjonegoro: Harus Waspada, Inflasi Bisa ke Atas 5%",
+        "link": "https://www.cnbcindonesia.com/news/20220701164910-8-352268/bambang-brodjonegoro-harus-waspada-inflasi-bisa-ke-atas-5",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE2NDkxMC04LTM1MjI2OC9iYW1iYW5nLWJyb2Rqb25lZ29yby1oYXJ1cy13YXNwYWRhLWluZmxhc2ktYmlzYS1rZS1hdGFzLTU=",
+        "description": " Bambang Brodjonegoro: RI Harus Waspada, Inflasi Bisa ke Atas 5%"
+    },
+    {
+        "title": "Jokowi 'Jualan' IKN Hingga Raja Ampat Cs ke Investor UEA",
+        "link": "https://www.cnbcindonesia.com/news/20220701172228-4-352288/jokowi-jualan-ikn-hingga-raja-ampat-cs-ke-investor-uea",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE3MjIyOC00LTM1MjI4OC9qb2tvd2ktanVhbGFuLWlrbi1oaW5nZ2EtcmFqYS1hbXBhdC1jcy1rZS1pbnZlc3Rvci11ZWE=",
+        "description": " Hal itu mengemuka dalam dialog Jokowi dengan sejumlah investor dan pengusaha di Hotel Emirates Palace, Abu Dhabi, PEA, Jumat (1/7/2022)."
+    },
+    {
+        "title": "Harga Batu Bara Acuan RI Juli Turun Tipis Jadi US$ 319/Ton",
+        "link": "https://www.cnbcindonesia.com/news/20220701172254-16-352290/harga-batu-bara-acuan-ri-juli-turun-tipis-jadi-us--319-ton",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE3MjI1NC0xNi0zNTIyOTAvaGFyZ2EtYmF0dS1iYXJhLWFjdWFuLXJpLWp1bGktdHVydW4tdGlwaXMtamFkaS11cy0tMzE5LXRvbg==",
+        "description": " Kementerian ESDM menetapkan Harga Batubara Acuan (HBA) bulan Juli 2022 terkoreksi turun ke angka US$ 319,00 per ton"
+    },
+    {
         "title": "Meluas! Lebih 300 Ribu Ekor Ternak Sakit Terinfeksi PMK",
         "link": "https://www.cnbcindonesia.com/news/20220701172357-4-352291/meluas-lebih-300-ribu-ekor-ternak-sakit-terinfeksi-pmk",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE2NTAzOC00LTM1MjI2OS9jYWlyLXBsbi10ZXJpbWEtZGFuYS1rb21wZW5zYXNpLWRhcmktcGVtZXJpbnRhaC1ycC0yNDYtdA==",
         "description": " Pemerintah mencairkan dana kompensasi kepada PLN senilai Rp 24,6 triliun"
-    },
-    {
-        "title": "Data Perdagangan Korsel Ungkap Tanda-Tanda Resesi Global",
-        "link": "https://www.cnbcindonesia.com/news/20220701163805-8-352277/data-perdagangan-korsel-ungkap-tanda-tanda-resesi-global",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE2MzgwNS04LTM1MjI3Ny9kYXRhLXBlcmRhZ2FuZ2FuLWtvcnNlbC11bmdrYXAtdGFuZGEtdGFuZGEtcmVzZXNpLWdsb2JhbA==",
-        "description": " Ekspor Korea Selatan pada Juni 2022 tumbuh pada laju paling lambat dalam lebih dari 1,5 tahun terakhir karena melonjaknya inflasi global"
-    },
-    {
-        "title": "'Helikopter Uang' Jokowi Sebar Rp124 T, Kamu Kebagian?",
-        "link": "https://www.cnbcindonesia.com/news/20220701163934-4-352262/helikopter-uang-jokowi-sebar-rp124-t-kamu-kebagian",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE2MzkzNC00LTM1MjI2Mi9oZWxpa29wdGVyLXVhbmctam9rb3dpLXNlYmFyLXJwMTI0LXQta2FtdS1rZWJhZ2lhbg==",
-        "description": " Realisasi PC-PEN alias 'uang helikopter' dari Presiden Joko Widodo (Jokowi) hingga Semester I-2022 telah mencapai Rp 124,5 triliun."
-    },
-    {
-        "title": "Sri Mulyani: Tidak Ada Lagi Tax Amnesty ke Depan!",
-        "link": "https://www.cnbcindonesia.com/news/20220701172254-4-352289/sri-mulyani-tidak-ada-lagi-tax-amnesty-ke-depan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE3MjI1NC00LTM1MjI4OS9zcmktbXVseWFuaS10aWRhay1hZGEtbGFnaS10YXgtYW1uZXN0eS1rZS1kZXBhbg==",
-        "description": " Menteri Keuangan Sri Mulyani Indrawati memastikan tidak ada kebijakan pengampunan pajak ke depan."
-    },
-    {
-        "title": "Inflasi Zona Euro Pecah Rekor! ECB Siap Kerek Suku Bunga",
-        "link": "https://www.cnbcindonesia.com/news/20220701171609-4-352283/inflasi-zona-euro-pecah-rekor-ecb-siap-kerek-suku-bunga",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE3MTYwOS00LTM1MjI4My9pbmZsYXNpLXpvbmEtZXVyby1wZWNhaC1yZWtvci1lY2Itc2lhcC1rZXJlay1zdWt1LWJ1bmdh",
-        "description": " Inflasi zona euro kembali memecahkan rekor tertinggi pada Juni 2022."
-    },
-    {
-        "title": "Lewat Kerangka ESG, PII Siap Dorong Ekonomi Hijau",
-        "link": "https://www.cnbcindonesia.com/news/20220701170637-4-352280/lewat-kerangka-esg-pii-siap-dorong-ekonomi-hijau",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE3MDYzNy00LTM1MjI4MC9sZXdhdC1rZXJhbmdrYS1lc2ctcGlpLXNpYXAtZG9yb25nLWVrb25vbWktaGlqYXU=",
-        "description": " Untuk menerapkan ekonomi hijau, PII akan melakukan kerja sama dengan berbagai pihak, termasuk dengan universitas."
-    },
-    {
-        "title": "Mahfud Saat Terakhir Temui Tjahjo: Sudah Tak Bisa Komunikasi",
-        "link": "https://www.cnbcindonesia.com/news/20220701171327-4-352281/mahfud-saat-terakhir-temui-tjahjo-sudah-tak-bisa-komunikasi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE3MTMyNy00LTM1MjI4MS9tYWhmdWQtc2FhdC10ZXJha2hpci10ZW11aS10amFoam8tc3VkYWgtdGFrLWJpc2Eta29tdW5pa2FzaQ==",
-        "description": " Simak pernyataan Mahfud kepada wartawan di kantor Kementerian PAN dan RB, Jakarta, Jumat (1/7/2022)."
     }
 ]
