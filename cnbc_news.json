@@ -1,5 +1,54 @@
 [
     {
+        "title": "Tak Cukup 'Penghancur'Avanza, Hyundai Siapkan Lawan Tesla",
+        "link": "https://www.cnbcindonesia.com/news/20220701174051-4-352308/tak-cukup-penghancuravanza-hyundai-siapkan-lawan-tesla",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE3NDA1MS00LTM1MjMwOC90YWstY3VrdXAtcGVuZ2hhbmN1cmF2YW56YS1oeXVuZGFpLXNpYXBrYW4tbGF3YW4tdGVzbGE=",
+        "description": " Hyundai semakin agresif di pasar otomotif."
+    },
+    {
+        "title": "IHSG K.O, Hingga Putin Jamin Pasokan Pangan dan Pupuk",
+        "link": "https://www.cnbcindonesia.com/news/20220701184313-8-352324/ihsg-ko-hingga-putin-jamin-pasokan-pangan-pupuk",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE4NDMxMy04LTM1MjMyNC9paHNnLWtvLWhpbmdnYS1wdXRpbi1qYW1pbi1wYXNva2FuLXBhbmdhbi1wdXB1aw==",
+        "description": " Indeks Harga Saham Gabungan harus pasrah dengan ditutup di zona merah."
+    },
+    {
+        "title": "DPR Yakin Defisit APBN 2022 'Hanya' 3,5% dari PDB, Kok Bisa?",
+        "link": "https://www.cnbcindonesia.com/news/20220701182243-4-352310/dpr-yakin-defisit-apbn-2022-hanya-35-dari-pdb-kok-bisa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE4MjI0My00LTM1MjMxMC9kcHIteWFraW4tZGVmaXNpdC1hcGJuLTIwMjItaGFueWEtMzUtZGFyaS1wZGIta29rLWJpc2E=",
+        "description": " Banggar DPR yakin defisit APBN capai 3,5% dari PDB."
+    },
+    {
+        "title": "PPS Resmi Berakhir, Segini Harta Yang Dikumpulkan Sri Mulyani",
+        "link": "https://www.cnbcindonesia.com/news/20220701180748-8-352307/pps-resmi-berakhir-segini-harta-yang-dikumpulkan-sri-mulyani",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE4MDc0OC04LTM1MjMwNy9wcHMtcmVzbWktYmVyYWtoaXItc2VnaW5pLWhhcnRhLXlhbmctZGlrdW1wdWxrYW4tc3JpLW11bHlhbmk=",
+        "description": " PPS Resmi Berakhir, Segini Harta Yang Dikumpulkan Sri Mulyani"
+    },
+    {
+        "title": "Capaian Bauran Energi Hijau Juni 2022 Baru 12,8%",
+        "link": "https://www.cnbcindonesia.com/news/20220701174802-4-352304/capaian-bauran-energi-hijau-juni-2022-baru-128",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE3NDgwMi00LTM1MjMwNC9jYXBhaWFuLWJhdXJhbi1lbmVyZ2ktaGlqYXUtanVuaS0yMDIyLWJhcnUtMTI4",
+        "description": " PLN mencatat hingga awal Juni 2022 bauran EBT mencapai 12,8%"
+    },
+    {
+        "title": "Kas Banyak, Sri Mulyani Bakal Buka Blokiran Dana Kementerian",
+        "link": "https://www.cnbcindonesia.com/news/20220701175019-4-352305/kas-banyak-sri-mulyani-bakal-buka-blokiran-dana-kementerian",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE3NTAxOS00LTM1MjMwNS9rYXMtYmFueWFrLXNyaS1tdWx5YW5pLWJha2FsLWJ1a2EtYmxva2lyYW4tZGFuYS1rZW1lbnRlcmlhbg==",
+        "description": " Menteri Keuangan Sri Mulyani Indrawati akan melonggarkan kembali belanja kementerian/lembaga (K/L)"
+    },
+    {
+        "title": "Meski Punya Pembangkit, Industri di Dorong Beli Listrik PLN!",
+        "link": "https://www.cnbcindonesia.com/news/20220701174027-4-352302/meski-punya-pembangkit-industri-di-dorong-beli-listrik-pln",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE3NDAyNy00LTM1MjMwMi9tZXNraS1wdW55YS1wZW1iYW5na2l0LWluZHVzdHJpLWRpLWRvcm9uZy1iZWxpLWxpc3RyaWstcGxu",
+        "description": " Kementerian ESDM meminta industri memakai listrik dari PLN untuk mengatasi over suplai listrik"
+    },
+    {
         "title": "Pendaftaran Aplikasi MyPertamina Telah Dimulai!",
         "link": "https://www.cnbcindonesia.com/news/20220701163753-8-352265/pendaftaran-aplikasi-mypertamina-telah-dimulai",
         "image": "static/images/cnbc_news.png",
@@ -19,54 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE3MjAyOC0xNi0zNTIyODYvcGVuYW1wYWthbi1kYXRhLWNvdmlkLXJpLXlhbmctdHVydW4tbGFnaS1qZWxhbmctYWtoaXItcGVrYW4=",
         "description": " Total kasus konfirmasi mencapai 6.090.509."
-    },
-    {
-        "title": "Bambang Brodjonegoro: Harus Waspada, Inflasi Bisa ke Atas 5%",
-        "link": "https://www.cnbcindonesia.com/news/20220701164910-8-352268/bambang-brodjonegoro-harus-waspada-inflasi-bisa-ke-atas-5",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE2NDkxMC04LTM1MjI2OC9iYW1iYW5nLWJyb2Rqb25lZ29yby1oYXJ1cy13YXNwYWRhLWluZmxhc2ktYmlzYS1rZS1hdGFzLTU=",
-        "description": " Bambang Brodjonegoro: RI Harus Waspada, Inflasi Bisa ke Atas 5%"
-    },
-    {
-        "title": "Jokowi 'Jualan' IKN Hingga Raja Ampat Cs ke Investor UEA",
-        "link": "https://www.cnbcindonesia.com/news/20220701172228-4-352288/jokowi-jualan-ikn-hingga-raja-ampat-cs-ke-investor-uea",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE3MjIyOC00LTM1MjI4OC9qb2tvd2ktanVhbGFuLWlrbi1oaW5nZ2EtcmFqYS1hbXBhdC1jcy1rZS1pbnZlc3Rvci11ZWE=",
-        "description": " Hal itu mengemuka dalam dialog Jokowi dengan sejumlah investor dan pengusaha di Hotel Emirates Palace, Abu Dhabi, PEA, Jumat (1/7/2022)."
-    },
-    {
-        "title": "Harga Batu Bara Acuan RI Juli Turun Tipis Jadi US$ 319/Ton",
-        "link": "https://www.cnbcindonesia.com/news/20220701172254-16-352290/harga-batu-bara-acuan-ri-juli-turun-tipis-jadi-us--319-ton",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE3MjI1NC0xNi0zNTIyOTAvaGFyZ2EtYmF0dS1iYXJhLWFjdWFuLXJpLWp1bGktdHVydW4tdGlwaXMtamFkaS11cy0tMzE5LXRvbg==",
-        "description": " Kementerian ESDM menetapkan Harga Batubara Acuan (HBA) bulan Juli 2022 terkoreksi turun ke angka US$ 319,00 per ton"
-    },
-    {
-        "title": "Meluas! Lebih 300 Ribu Ekor Ternak Sakit Terinfeksi PMK",
-        "link": "https://www.cnbcindonesia.com/news/20220701172357-4-352291/meluas-lebih-300-ribu-ekor-ternak-sakit-terinfeksi-pmk",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE3MjM1Ny00LTM1MjI5MS9tZWx1YXMtbGViaWgtMzAwLXJpYnUtZWtvci10ZXJuYWstc2FraXQtdGVyaW5mZWtzaS1wbWs=",
-        "description": " Waspada! Virus PMK semakin meluas."
-    },
-    {
-        "title": "Digempur Sanksi Barat, Manufaktur Rusia Masih Ekspansif",
-        "link": "https://www.cnbcindonesia.com/news/20220701163759-8-352276/digempur-sanksi-barat-manufaktur-rusia-masih-ekspansif",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE2Mzc1OS04LTM1MjI3Ni9kaWdlbXB1ci1zYW5rc2ktYmFyYXQtbWFudWZha3R1ci1ydXNpYS1tYXNpaC1la3NwYW5zaWY=",
-        "description": " Industri Manufaktur Rusia stabil pada bulan Juni bahkan berada dalam zona ekspansi"
-    },
-    {
-        "title": "AS Resesi Semua Kena Getahnya, Kok Gitu ya Bu Sri Mulyani?",
-        "link": "https://www.cnbcindonesia.com/news/20220701165817-4-352275/as-resesi-semua-kena-getahnya-kok-gitu-ya-bu-sri-mulyani",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE2NTgxNy00LTM1MjI3NS9hcy1yZXNlc2ktc2VtdWEta2VuYS1nZXRhaG55YS1rb2stZ2l0dS15YS1idS1zcmktbXVseWFuaQ==",
-        "description": " Peranan dollar Amerika Serikat di dalam transaksi dunia lebih dari 60% dan memberikan dampak signifikan ke seluruh dunia."
-    },
-    {
-        "title": "Cair, PLN Terima Dana Kompensasi dari Pemerintah Rp 24,6 T",
-        "link": "https://www.cnbcindonesia.com/news/20220701165038-4-352269/cair-pln-terima-dana-kompensasi-dari-pemerintah-rp-246-t",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE2NTAzOC00LTM1MjI2OS9jYWlyLXBsbi10ZXJpbWEtZGFuYS1rb21wZW5zYXNpLWRhcmktcGVtZXJpbnRhaC1ycC0yNDYtdA==",
-        "description": " Pemerintah mencairkan dana kompensasi kepada PLN senilai Rp 24,6 triliun"
     }
 ]
