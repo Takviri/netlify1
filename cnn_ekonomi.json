@@ -1,5 +1,12 @@
 [
     {
+        "title": "Peternak Ngeluh Sulit Dapat Obat PMK",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220630163819-92-815654/peternak-ngeluh-sulit-dapat-obat-pmk",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjMwMTYzODE5LTkyLTgxNTY1NC9wZXRlcm5hay1uZ2VsdWgtc3VsaXQtZGFwYXQtb2JhdC1wbWs=",
+        "description": " Perhimpunan Peternak Sapi dan Kerbau mengeluhkan kelangkaan obat-obatan Penyakit Mulut dan Kuku (PMK) di sejumlah daerah."
+    },
+    {
         "title": "Pendaftaran Beli Pertalite Pakai MyPertamina Dibuka Mulai Hari Ini",
         "link": "https://www.cnnindonesia.com/ekonomi/20220630150938-85-815605/pendaftaran-beli-pertalite-pakai-mypertamina-dibuka-mulai-hari-ini",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjMwMTYxODAwLTkyLTgxNTY0Ni81LWxlbWJhZ2EtYXNpbmctbWluYXQtYmFudHUtcGVuZGFuYWFuLXByb3llay1tcnQtamFrYXJ0YS1mYXNlLTItNA==",
         "description": " MRT Jakarta akan mendapatkan pendanaan dari lima lembaga yaitu JICA, EIB, ADB, UK Export Finance, dan Korea Selatan."
-    },
-    {
-        "title": "Badan Pangan Nasional Respons soal Wacana Legalisasi Ganja Medis",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220630173846-92-815693/badan-pangan-nasional-respons-soal-wacana-legalisasi-ganja-medis",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjMwMTczODQ2LTkyLTgxNTY5My9iYWRhbi1wYW5nYW4tbmFzaW9uYWwtcmVzcG9ucy1zb2FsLXdhY2FuYS1sZWdhbGlzYXNpLWdhbmphLW1lZGlz",
-        "description": " Badan Pangan Nasional (Bapanas) angkat suara\u00c2\u00a0soal wacana legalisasi ganja medis yang tengah didorong oleh DPR dan Wakil Presiden Ma'ruf Amin."
     }
 ]

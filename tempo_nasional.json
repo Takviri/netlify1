@@ -1,5 +1,19 @@
 [
     {
+        "title": "Presiden Jokowi Terbang ke Abu Dhabi Pasca Temui Vladimir Putin",
+        "link": "https://nasional.tempo.co/read/1607468/presiden-jokowi-terbang-ke-abu-dhabi-pasca-temui-vladimir-putin",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDc0NjgvcHJlc2lkZW4tam9rb3dpLXRlcmJhbmcta2UtYWJ1LWRoYWJpLXBhc2NhLXRlbXVpLXZsYWRpbWlyLXB1dGlu",
+        "description": "Presiden Jokowi melanjutkan kunjungannya ke Uni Emirat Arab pasca bertemu dengan Presiden Rusia Vladimir Putin."
+    },
+    {
+        "title": "Presiden Jokowi Sampaikan ke Vladimir Putin Bahwa Indonesia Siap Menjadi Mediator Rusia dan Ukraina",
+        "link": "https://nasional.tempo.co/read/1607465/presiden-jokowi-sampaikan-ke-vladimir-putin-bahwa-indonesia-siap-menjadi-mediator-rusia-dan-ukraina",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDc0NjUvcHJlc2lkZW4tam9rb3dpLXNhbXBhaWthbi1rZS12bGFkaW1pci1wdXRpbi1iYWh3YS1pbmRvbmVzaWEtc2lhcC1tZW5qYWRpLW1lZGlhdG9yLXJ1c2lhLWRhbi11a3JhaW5h",
+        "description": "Presiden Jokowi menyampaikan kesiapan Indonesia menjadi mediator perdamaiaan Rusia dan Ukraina."
+    },
+    {
         "title": "Mutasi Perwira Tinggi TNI dan Perwira Tinggi Polri, Siapa Terbanyak Tahun Ini?",
         "link": "https://nasional.tempo.co/read/1607432/mutasi-perwira-tinggi-tni-dan-perwira-tinggi-polri-siapa-terbanyak-tahun-ini",
         "image": "static/images/tempo_nasional.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDczOTgvcnMtcG9scmktYmFueWFrLWxheWFuaS1tYXN5YXJha2F0LXVtdW0=",
         "description": "Kapolri tidak segan meningkatkan fasilitas kesehatan yang dikelola oleh instansinya."
-    },
-    {
-        "title": "Kementan Gelar Pelatihan Cegah PMK",
-        "link": "https://nasional.tempo.co/read/1607388/kementan-gelar-pelatihan-cegah-pmk",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDczODgva2VtZW50YW4tZ2VsYXItcGVsYXRpaGFuLWNlZ2FoLXBtaw==",
-        "description": "Sebanyak 86 kegiatan telah diselenggarakan BPPSDMP di hampir seluruh wilayah Indonesia."
-    },
-    {
-        "title": "Kementan: Gerakan Disinfeksi Nasional untuk Penanganan PMK",
-        "link": "https://nasional.tempo.co/read/1607387/kementan-gerakan-disinfeksi-nasional-untuk-penanganan-pmk",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDczODcva2VtZW50YW4tZ2VyYWthbi1kaXNpbmZla3NpLW5hc2lvbmFsLXVudHVrLXBlbmFuZ2FuYW4tcG1r",
-        "description": "Langkah ini mendapat dukungan Badan Penanggulangan Bencana Nasional (BNPB) dan Palang Merah Indonesia (PMI)."
     }
 ]
