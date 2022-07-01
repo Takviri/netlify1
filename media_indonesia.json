@@ -1,5 +1,47 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/503543/puluhan-pengikut-khilafatul-muslimin-deklarasi-setia-nkri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNTQzL3B1bHVoYW4tcGVuZ2lrdXQta2hpbGFmYXR1bC1tdXNsaW1pbi1kZWtsYXJhc2ktc2V0aWEtbmtyaQ==",
+        "description": "WARGA Surabaya, Jawa Timur&nbsp; yang pernah bergabung dengan Khilafatul Muslimin Surabaya Raya menggelar deklarasi Kebangsaan dan Pernyataan setia pada Pancasila dan NKRI di Balai Pemuda Surabaya.&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503542/kasus-covid-terus-naik-bor-dki-terisi-14-icu-11",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNTQyL2thc3VzLWNvdmlkLXRlcnVzLW5haWstYm9yLWRraS10ZXJpc2ktMTQtaWN1LTEx",
+        "description": "WAKIL Gubernur (Wagub) DKI Jakarta, Ahmad Riza Patria membetulkan adanya peningkatan kasus covid-19 di Jakarta saat ini. Data terbaru menyebut penambahan kasus covid-19 di Jakarta sudah mencapai 1255&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503541/laskar-rempah-dan-kri-dewaruci-tiba-di-surabaya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNTQxL2xhc2thci1yZW1wYWgtZGFuLWtyaS1kZXdhcnVjaS10aWJhLWRpLXN1cmFiYXlh",
+        "description": "SELAMA lebih dari 30 hari, Laskar Rempah bersama Kapal Republik Indonesia (KRI) Dewaruci telah selesai mengarungi lautan Nusantara, menapak tilas jejak nenek moyang bangsa Indonesia ketika memperdagangkan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/503538/kembali-bertambah-kasus-covid-19-di-dki-tembus-9593",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDM1Mzgva2VtYmFsaS1iZXJ0YW1iYWgta2FzdXMtY292aWQtMTktZGktZGtpLXRlbWJ1cy05NTkz",
+        "description": "PEMERINTAH Provinsi DKI Jakarta terus melaporkan penambahan kasus baru covid-19. Data terbaru per Kamis (30/6) malam, kini kasus aktif covid-19 sudah tembus angka 9.593 kasus. Hal ini disampaikan oleh&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/503540/stok-hewan-kurban-di-sumsel-mencukupi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNTQwL3N0b2staGV3YW4ta3VyYmFuLWRpLXN1bXNlbC1tZW5jdWt1cGk=",
+        "description": "PEMPROV Sumatera Selatan memastikan stok hewan kurban baik sapi maupun kambing untuk Idul Adha mencukupi. Wabah penyakit mulut dan kuku (PMK) sama sekali tidak memengaruhi stok hewan kurban. &quot;PMK&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/503539/rapimnas-apti-dukung-pemimpin-pro-petani-tembakau-jadi-presiden",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNTM5L3JhcGltbmFzLWFwdGktZHVrdW5nLXBlbWltcGluLXByby1wZXRhbmktdGVtYmFrYXUtamFkaS1wcmVzaWRlbg==",
+        "description": "ASOSIASI Petani Tembakau Indonesia (APTI) menggelar rapat pimpinan Nasional di Semarang 27-28 Juni 2022. Satu diantara hasil Rapimnas, APTI menyatakan mendukung pemimpin pro petani tembakau untuk memimpin&#8230;"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/503536/serangan-rudal-rusia-tewaskan-18-orang-di-odesa-ukraina",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNTM0L3BlbXByb3Ytc3Vtc2VsLWdhdW5na2FuLTQzLXdhcmlzYW4tYnVkYXlhLXRhay1iZW5kYS1rZS13aXNhdGF3YW4=",
         "description": "PEMERINTAH Provinsi Sumatra Selatan menggelar Festival Sriwijaya XXX tahun 2022. Kegiatan itu difokuskan di halaman Museum Badaraddin II Palembang, Sumsel selama sepekan yakni 29 Juni - 6 Juli 2022.&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/503532/konferensi-ulama-muslim-di-malaysia-usulkan-pembentukan-majelis-ulama-asia-tenggara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzUzMi9rb25mZXJlbnNpLXVsYW1hLW11c2xpbS1kaS1tYWxheXNpYS11c3Vsa2FuLXBlbWJlbnR1a2FuLW1hamVsaXMtdWxhbWEtYXNpYS10ZW5nZ2FyYQ==",
-        "description": "PEMERINTAH Malaysia melalui Kementerian Agama Malaysia bekerja sama dengan Liga Muslim Dunia menggelar konferensi Ulama Muslim Asia Tenggara dan Dunia di Kuala Lumpur pekan lalu konferensi itu&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503531/legislator-penggunaan-aplikasi-pertamina-untuk-bbm-subsidi-sudah-adil",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzUzMS9sZWdpc2xhdG9yLXBlbmdndW5hYW4tYXBsaWthc2ktcGVydGFtaW5hLXVudHVrLWJibS1zdWJzaWRpLXN1ZGFoLWFkaWw=",
-        "description": "ANGGOTA Komisi VI DPR RI Rafli menilai penerapan mekanisme aplikasi My Pertamina untuk memperoleh BBM Subsidi seperti Pertalite dan solar sudah cukup adil. Metode ini dinilainya membuat para&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/503530/cetak-rekor-pmk-di-bandung-barat-tembus-8000-kasus-kerugian-capai-rp9-miliar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNTMwL2NldGFrLXJla29yLXBtay1kaS1iYW5kdW5nLWJhcmF0LXRlbWJ1cy04MDAwLWthc3VzLWtlcnVnaWFuLWNhcGFpLXJwOS1taWxpYXI=",
-        "description": "PENULARAN wabah penyakit mulut dan kuku (PMK) di Bandung Barat, Jawa Barat, sudah tembus 8.000 ekor. Kasus PMK ini menjadi yang tertinggi, tak hanya di Jawa Barat, namun di tingkat Nasional. Dampaknya&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503529/presiden-berbelasungkawa-atas-wafatnya-menteri-tjahjo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM1MjkvcHJlc2lkZW4tYmVyYmVsYXN1bmdrYXdhLWF0YXMtd2FmYXRueWEtbWVudGVyaS10amFoam8=",
-        "description": "PRESIDEN Joko Widodo (Jokowi) menyampaikan duka cita atas meninggalnya Menteri Pemberdayaan Aparatur Negara dan Reformasi Birokrasi (MenPAN-Rebiro) Tjahjo Kumolo, Jumat (1/7), di Jakarta pukul 11.10&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/503528/bogor-food-festival-digelar-di-lippo-plaza-ekalokasari-bogor",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDM1MjgvYm9nb3ItZm9vZC1mZXN0aXZhbC1kaWdlbGFyLWRpLWxpcHBvLXBsYXphLWVrYWxva2FzYXJpLWJvZ29y",
-        "description": "WALI Kota Bogor Bima Arya terus berupaya mendorong menjadikan Kota Bogor sebagai salah satu destinasi wisata yang bisa menarik minat wisawatawan domestik maupunn mancanegara. Untuk mendukung&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503527/sandiaga-kunjungi-pelatihan-umkm-di-malang-malah-dapat-dukungan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNTI3L3NhbmRpYWdhLWt1bmp1bmdpLXBlbGF0aWhhbi11bWttLWRpLW1hbGFuZy1tYWxhaC1kYXBhdC1kdWt1bmdhbg==",
-        "description": "MENTERI Pariwisata dan Ekonomi Kreatif Sandiaga Uno mengunjungi pelatihan minuman kekinian di Batu, Malang, Jawa Timur, kemarin. Pelatihan ini digelar oleh Ok Oce Ina Makmur bekerja sama dengan Yayasan&#8230;"
     }
 ]
