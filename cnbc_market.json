@@ -1,5 +1,19 @@
 [
     {
+        "title": "Investor Kembali Buru SBN, Harganya Kembali Menguat",
+        "link": "https://www.cnbcindonesia.com/market/20220701184813-17-352326/investor-kembali-buru-sbn-harganya-kembali-menguat",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTg0ODEzLTE3LTM1MjMyNi9pbnZlc3Rvci1rZW1iYWxpLWJ1cnUtc2JuLWhhcmdhbnlhLWtlbWJhbGktbWVuZ3VhdA==",
+        "description": " Harga mayoritas Surat Berharga Negara (SBN) menguat, sinyal investor cenderung khawatir dengan kondisi makroekonomi global."
+    },
+    {
+        "title": "Dow Futures Turun Tipis, Tanda Sentimen Pasar Belum Pulih?",
+        "link": "https://www.cnbcindonesia.com/market/20220701171527-17-352282/dow-futures-turun-tipis-tanda-sentimen-pasar-belum-pulih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTcxNTI3LTE3LTM1MjI4Mi9kb3ctZnV0dXJlcy10dXJ1bi10aXBpcy10YW5kYS1zZW50aW1lbi1wYXNhci1iZWx1bS1wdWxpaA==",
+        "description": " Kontrak berjangka (futures) indeks bursa AS bergerak melemah setelah indeks SdanP 500 mengakhiri paruh pertama terburuknya sejak beberapa dekade."
+    },
+    {
         "title": "Deretan Perusahaan yang Terdampak 'Kiamat' Kripto",
         "link": "https://www.cnbcindonesia.com/market/20220701164057-17-352263/deretan-perusahaan-yang-terdampak-kiamat-kripto",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTYzNjI1LTE3LTM1MjI1OC9oYXJnYS1sb2dhbS1iZXJndWd1cmFuLXRpbWFoLWFtYnJ1ay1ueWFyaXMtNQ==",
         "description": " Harga timah dunia jatuh 4% lebih karena masih dibebani kekhawatiran kenaikan suku bunga"
-    },
-    {
-        "title": "Brol! Harga Nikel Ambrol Nyaris 6%",
-        "link": "https://www.cnbcindonesia.com/market/20220701161008-17-352246/brol-harga-nikel-ambrol-nyaris-6",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTYxMDA4LTE3LTM1MjI0Ni9icm9sLWhhcmdhLW5pa2VsLWFtYnJvbC1ueWFyaXMtNg==",
-        "description": " Harga nikel dunia jatuh pada perdagangan hari pertama paruh kedua 2022."
-    },
-    {
-        "title": "Market Fokus: Inflasi RI Naik, IHSG Anjlok ke 6.700-an",
-        "link": "https://www.cnbcindonesia.com/market/20220701153454-19-352229/market-fokus-inflasi-ri-naik-ihsg-anjlok-ke-6700-an",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTUzNDU0LTE5LTM1MjIyOS9tYXJrZXQtZm9rdXMtaW5mbGFzaS1yaS1uYWlrLWloc2ctYW5qbG9rLWtlLTY3MDAtYW4=",
-        "description": " Market Fokus: Inflasi RI Naik , IHSG Anjlok ke 6.700-an"
     }
 ]
