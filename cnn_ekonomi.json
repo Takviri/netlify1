@@ -1,5 +1,19 @@
 [
     {
+        "title": "Hari Ini, Gaji ke-13 PNS dan Pensiunan Resmi Cair",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220630145354-532-815596/hari-ini-gaji-ke-13-pns-dan-pensiunan-resmi-cair",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjMwMTQ1MzU0LTUzMi04MTU1OTYvaGFyaS1pbmktZ2FqaS1rZS0xMy1wbnMtZGFuLXBlbnNpdW5hbi1yZXNtaS1jYWly",
+        "description": " Gaji ke-13 bagi PNS hingga pensiunan mulai cair pada hari ini, Jumat (1/7)."
+    },
+    {
+        "title": "Badan Pangan Nasional Sebut Stok Cabai Rawit Merah-Bawang Defisit",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220630200324-92-815764/badan-pangan-nasional-sebut-stok-cabai-rawit-merah-bawang-defisit",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjMwMjAwMzI0LTkyLTgxNTc2NC9iYWRhbi1wYW5nYW4tbmFzaW9uYWwtc2VidXQtc3Rvay1jYWJhaS1yYXdpdC1tZXJhaC1iYXdhbmctZGVmaXNpdA==",
+        "description": " Badan Pangan Nasional (Bapanas) melaporkan stok cabai rawit merah dan bawang merah sedang defisit sehingga harganya naik."
+    },
+    {
         "title": "Tarif Listrik 5 Golongan Pelanggan Resmi Naik Hari Ini",
         "link": "https://www.cnnindonesia.com/ekonomi/20220630191345-85-815742/tarif-listrik-5-golongan-pelanggan-resmi-naik-hari-ini",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzAxMDI1OTQxLTkyLTgxNTgwOC9zaW5nYXB1cmEtdGFyaWstcHJvZHVrLXVkYW5nLWtlcmFuZy10ZXJjZW1hci1rYWRtaXVtLWFzYWwtaW5kb25lc2lh",
         "description": " Badan Pangan Singapura (SFA) mendeteksi kadar kadmium dalam udang karang dan kerang yang diimpor oleh perusahaan Song Fish Dealer melebihi batas maksimum."
-    },
-    {
-        "title": "PUPR Targetkan 46.790 Buruh Konstruksi Tersertifikasi pada 2022",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220630135550-92-815554/pupr-targetkan-46790-buruh-konstruksi-tersertifikasi-pada-2022",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjMwMTM1NTUwLTkyLTgxNTU1NC9wdXByLXRhcmdldGthbi00Njc5MC1idXJ1aC1rb25zdHJ1a3NpLXRlcnNlcnRpZmlrYXNpLXBhZGEtMjAyMg==",
-        "description": " Kementerian PUPR\u00c2\u00a0menargetkan sebanyak 46.790 TKK mendapat pelatihan dan sertifikat pada 2022."
-    },
-    {
-        "title": "Sebagian Fasilitas KEK Lido Mulai Beroperasi Akhir Tahun Ini",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220630183105-92-815716/sebagian-fasilitas-kek-lido-mulai-beroperasi-akhir-tahun-ini",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNjMwMTgzMTA1LTkyLTgxNTcxNi9zZWJhZ2lhbi1mYXNpbGl0YXMta2VrLWxpZG8tbXVsYWktYmVyb3BlcmFzaS1ha2hpci10YWh1bi1pbmk=",
-        "description": " Kawasan Ekonomi Khusus (KEK) Lido, Kabupaten Bogor, Jawa Barat, ditargetkan dapat beroperasi akhir tahun ini."
     }
 ]

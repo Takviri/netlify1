@@ -1,6 +1,13 @@
 [
     {
         "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/503428/tips-merawat-sikat-gigi-agar-bebas-kuman",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMzQyOC90aXBzLW1lcmF3YXQtc2lrYXQtZ2lnaS1hZ2FyLWJlYmFzLWt1bWFu",
+        "description": "Membersihkan sikat gigi secara teratur, menyimpannya dengan benar, dan mengetahui kapan harus menggantinya, penting untuk menjaga kebersihan mulut. Untuk membersihkan sikat gigi, Anda harus&#8230;"
+    },
+    {
+        "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/503427/7-jenis-makanan-yang-tidak-bikin-gendut",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMzQyNy83LWplbmlzLW1ha2FuYW4teWFuZy10aWRhay1iaWtpbi1nZW5kdXQ=",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzQyNC9wZW5kYWZ0YXJhbi1iYm0tc3Vic2lkaS1sZXdhdC13ZWJzaXRlLW15cGVydGFtaW5hLWtodXN1cy11bnR1ay1yb2RhLWVtcGF0",
         "description": "PT Pertamina (Persero) lewat Pertamina Patra Niaga, Sub Holding Commercial &amp; Trading berkomitmen menjalankan amanah penugasan Pemerintah dalam menyalurkan bahan bakar minyak (BBM) bersubsidi.&nbsp;&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/503423/polisi-tetapkan-tiga-tersangka-kasus-angkutan-bbm-ilegal-terbakar-di-muba",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNDIzL3BvbGlzaS10ZXRhcGthbi10aWdhLXRlcnNhbmdrYS1rYXN1cy1hbmdrdXRhbi1iYm0taWxlZ2FsLXRlcmJha2FyLWRpLW11YmE=",
-        "description": "APARAT Kepolisian Resor Musi Banyuasin (Polres Muba), Sumatra Selatan, menetapkan tiga orang sebagai tersangka dalam kasus mobil angkutan bahan bakar minyak (BBM) jenis solar ilegal yang terbakar di&#8230;"
     }
 ]

@@ -1,5 +1,26 @@
 [
     {
+        "title": "Cek! Saham Tercuan dan Terboncos di Hari Terakhir Semester 1",
+        "link": "https://www.cnbcindonesia.com/market/20220701060216-17-351957/cek-saham-tercuan-dan-terboncos-di-hari-terakhir-semester-1",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMDYwMjE2LTE3LTM1MTk1Ny9jZWstc2FoYW0tdGVyY3Vhbi1kYW4tdGVyYm9uY29zLWRpLWhhcmktdGVyYWtoaXItc2VtZXN0ZXItMQ==",
+        "description": " Di tengah terus terkoreksinya IHSG hingga perdagangan kemarin, beberapa saham menjadi top gainers"
+    },
+    {
+        "title": "Bikin Kaget! Ini Sektor Paling Cuan dan Boncos di Semester 1",
+        "link": "https://www.cnbcindonesia.com/market/20220630234534-17-351952/bikin-kaget-ini-sektor-paling-cuan-dan-boncos-di-semester-1",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjMwMjM0NTM0LTE3LTM1MTk1Mi9iaWtpbi1rYWdldC1pbmktc2VrdG9yLXBhbGluZy1jdWFuLWRhbi1ib25jb3MtZGktc2VtZXN0ZXItMQ==",
+        "description": " Apa indeks sektoral yang terapresiasi dan terkoreksi paling besar ?"
+    },
+    {
+        "title": "Banjir Dana Asing, IHSG Juara se-Asia di Semester Pertama!",
+        "link": "https://www.cnbcindonesia.com/market/20220630234052-17-351951/banjir-dana-asing-ihsg-juara-se-asia-di-semester-pertama",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjMwMjM0MDUyLTE3LTM1MTk1MS9iYW5qaXItZGFuYS1hc2luZy1paHNnLWp1YXJhLXNlLWFzaWEtZGktc2VtZXN0ZXItcGVydGFtYQ==",
+        "description": " Bagaimana kinerja IHSG di semester pertama tahun ini?"
+    },
+    {
         "title": "Sambut Semester 2! Mampukah IHSG Bangkit dari Koreksi 4 Hari?",
         "link": "https://www.cnbcindonesia.com/market/20220630233445-17-351950/sambut-semester-2-mampukah-ihsg-bangkit-dari-koreksi-4-hari",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjMwMjEwNDEzLTE3LTM1MTk0NS9pbmZsYXNpLXBjZS1tYXNpaC10aW5nZ2ktd2FsbC1zdHJlZXQta2VtYmFsaS1kaWJ1a2EtbWVyYWg=",
         "description": " Bursa saham Amerika Serikat (AS) terbanting pada pembukaan perdagangan Kamis (30/6/2022)"
-    },
-    {
-        "title": "Utang Rp 7 T Krakatau Steel Mau Jatuh Tempo, Gimana Bayarnya?",
-        "link": "https://www.cnbcindonesia.com/market/20220630194654-17-351940/utang-rp-7-t-krakatau-steel-mau-jatuh-tempo-gimana-bayarnya",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjMwMTk0NjU0LTE3LTM1MTk0MC91dGFuZy1ycC03LXQta3Jha2F0YXUtc3RlZWwtbWF1LWphdHVoLXRlbXBvLWdpbWFuYS1iYXlhcm55YQ==",
-        "description": " PT Krakatau Steel (Persero) Tbk memiliki utang jatuh tempo pada bulan September mendatang mencapai US$ 524 juta atau sekitar US$ 7,81 triliun (Rp 14.918/US$)"
-    },
-    {
-        "title": "Garuda Ajak Swasta Kerjasama Nambah Pesawat, Siapa Minat?",
-        "link": "https://www.cnbcindonesia.com/market/20220630193422-17-351931/garuda-ajak-swasta-kerjasama-nambah-pesawat-siapa-minat",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjMwMTkzNDIyLTE3LTM1MTkzMS9nYXJ1ZGEtYWphay1zd2FzdGEta2VyamFzYW1hLW5hbWJhaC1wZXNhd2F0LXNpYXBhLW1pbmF0",
-        "description": " Garuda Indonesia berencana melakukan kerja sama operasi (KSO) dengan pihak swasta untuk pengadaan pesawat"
-    },
-    {
-        "title": "Argon Group Rambah Bisnis Manufaktur, Produksi Alkes di RI",
-        "link": "https://www.cnbcindonesia.com/market/20220630192810-17-351930/argon-group-rambah-bisnis-manufaktur-produksi-alkes-di-ri",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNjMwMTkyODEwLTE3LTM1MTkzMC9hcmdvbi1ncm91cC1yYW1iYWgtYmlzbmlzLW1hbnVmYWt0dXItcHJvZHVrc2ktYWxrZXMtZGktcmk=",
-        "description": " Argon Group akan segera merambah bisnis manufaktur alat kesehatan (alkes) di Indonesia."
     }
 ]
