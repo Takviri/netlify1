@@ -1,5 +1,26 @@
 [
     {
+        "title": "Inflasi Makin Ngeri! Saatnya Bunga Naik, BI?",
+        "link": "https://www.cnbcindonesia.com/market/20220701142724-17-352203/inflasi-makin-ngeri-saatnya-bunga-naik-bi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTQyNzI0LTE3LTM1MjIwMy9pbmZsYXNpLW1ha2luLW5nZXJpLXNhYXRueWEtYnVuZ2EtbmFpay1iaQ==",
+        "description": " Bank Indonesia (BI) kerap turun tangan dengan mengetatkan kebijakan moneternya saat situasi tidak pasti."
+    },
+    {
+        "title": "Sampah Operasional Bank BCA Berton-ton, Jadi Apaan?",
+        "link": "https://www.cnbcindonesia.com/market/20220701154211-17-352233/sampah-operasional-bank-bca-berton-ton-jadi-apaan",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTU0MjExLTE3LTM1MjIzMy9zYW1wYWgtb3BlcmFzaW9uYWwtYmFuay1iY2EtYmVydG9uLXRvbi1qYWRpLWFwYWFu",
+        "description": " Sadar Lingkungan, operasional BCA menuju zero waste dengan melakukan daur ulang dari berbagai sampah yang ditimbulkan aktivitas perbankan."
+    },
+    {
+        "title": "Deretan Saham Paling Cuan di Paruh Waktu 2022",
+        "link": "https://www.cnbcindonesia.com/market/20220701142855-17-352195/deretan-saham-paling-cuan-di-paruh-waktu-2022",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTQyODU1LTE3LTM1MjE5NS9kZXJldGFuLXNhaGFtLXBhbGluZy1jdWFuLWRpLXBhcnVoLXdha3R1LTIwMjI=",
+        "description": " Semester pertama tahun ini pasar saham Indonesia mampu tumbuh di tengah guncangan dari serangkaian sentimen negatif global dan Tanah Air."
+    },
+    {
         "title": "Sepekan Full Longsor Nyaris 4%, IHSG Terdampar ke 6.700-an",
         "link": "https://www.cnbcindonesia.com/market/20220701152007-17-352223/sepekan-full-longsor-nyaris-4-ihsg-terdampar-ke-6700-an",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTQyMjEyLTE3LTM1MjE4OS9hbmpsb2staGFtcGlyLTItaGFyZ2EtcGVyYWstdGVyZW5kYWgtZGFsYW0tMy1idWxhbg==",
         "description": " Perak jatuh ke harga terendah sejak dua tahun terakhir."
-    },
-    {
-        "title": "Ngeri! Inflasi RI Makin Tinggi, Rupiah Babak Belur",
-        "link": "https://www.cnbcindonesia.com/market/20220701145431-17-352210/ngeri-inflasi-ri-makin-tinggi-rupiah-babak-belur",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTQ1NDMxLTE3LTM1MjIxMC9uZ2VyaS1pbmZsYXNpLXJpLW1ha2luLXRpbmdnaS1ydXBpYWgtYmFiYWstYmVsdXI=",
-        "description": " Rupiah mencatat pelemahan cukup tajam melawan dolar Amerika Serikat (AS) pada perdagangan Jumat (1/7/2022)"
-    },
-    {
-        "title": "Bursa Saham Asia Berguguran, Hanya IHSG yang Hijau!",
-        "link": "https://www.cnbcindonesia.com/market/20220701115551-17-352115/bursa-saham-asia-berguguran-hanya-ihsg-yang-hijau",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTE1NTUxLTE3LTM1MjExNS9idXJzYS1zYWhhbS1hc2lhLWJlcmd1Z3VyYW4taGFueWEtaWhzZy15YW5nLWhpamF1",
-        "description": " Kinerja bursa saham di Asia Pasifik selama semester I-2022 terbilang kurang baik. Pasalnya, mayoritas bursa saham anjlok."
-    },
-    {
-        "title": "Pasar Saham Global Berguguran, Bursa Eropa Ikut Keok!",
-        "link": "https://www.cnbcindonesia.com/market/20220701143029-17-352197/pasar-saham-global-berguguran-bursa-eropa-ikut-keok",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTQzMDI5LTE3LTM1MjE5Ny9wYXNhci1zYWhhbS1nbG9iYWwtYmVyZ3VndXJhbi1idXJzYS1lcm9wYS1pa3V0LWtlb2s=",
-        "description": " Bursa saham Eropa di sesi awal ambles pada perdagangan\u00c2\u00a0hari ini karena inflasi dan kenaikan suku bunga acuan membebani sentimen pasar."
     }
 ]
