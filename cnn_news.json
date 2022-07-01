@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pasutri di Makassar Diduga Bunuh Lansia, Mayat Dibungkus Karung",
+        "link": "https://www.cnnindonesia.com/nasional/20220701201224-12-816254/pasutri-di-makassar-diduga-bunuh-lansia-mayat-dibungkus-karung",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwMTIwMTIyNC0xMi04MTYyNTQvcGFzdXRyaS1kaS1tYWthc3Nhci1kaWR1Z2EtYnVudWgtbGFuc2lhLW1heWF0LWRpYnVuZ2t1cy1rYXJ1bmc=",
+        "description": " Kasat Reskrim Polrestabes Makassar, AKBP Reonald Simanjuntak mengatakan suami istri itu diduga menganiaya Daeng Nillang hingga tewas karena sakit hati."
+    },
+    {
+        "title": "Ma'ruf Amin Kenang Tjahjo: Pekerja Keras Meski Sedang Sakit",
+        "link": "https://www.cnnindonesia.com/nasional/20220701202022-32-816259/maruf-amin-kenang-tjahjo-pekerja-keras-meski-sedang-sakit",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwMTIwMjAyMi0zMi04MTYyNTkvbWFydWYtYW1pbi1rZW5hbmctdGphaGpvLXBla2VyamEta2VyYXMtbWVza2ktc2VkYW5nLXNha2l0",
+        "description": " Ma'ruf menyebut Tjahjo masih berusaha memperjuangkan mal pelayanan publik (MPP) tersedia di berbagai daerah padahal dalam kondisi sedang sakit."
+    },
+    {
         "title": "Satgas: 99 Persen Kasus Covid RI Varian Omicron Termasuk BA.4 dan BA.5",
         "link": "https://www.cnnindonesia.com/nasional/20220701195501-20-816246/satgas-99-persen-kasus-covid-ri-varian-omicron-termasuk-ba4-dan-ba5",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwMTEzMDgxNS0yMi04MTU5ODcvZm90by1qZWphay1hbG1hcmh1bS10amFoam8ta3Vtb2xvLWRhcmktZ29sa2FyLW1lbGVzYXQtYmVyc2FtYS1wZGlw",
         "description": " Tjahjo Kumolo wafat pada Jumat (1/7) di usia 65 tahun. Sebelum masuk jajaran elit PDIP, Tjahjo pernah berkiprah bersama Partai Golkar."
-    },
-    {
-        "title": "Pria Gunakan Rompi 'Polisi' Tusuk Ibu dan Anak di Bekasi",
-        "link": "https://www.cnnindonesia.com/nasional/20220701183336-12-816199/pria-gunakan-rompi-polisi-tusuk-ibu-dan-anak-di-bekasi",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwMTE4MzMzNi0xMi04MTYxOTkvcHJpYS1ndW5ha2FuLXJvbXBpLXBvbGlzaS10dXN1ay1pYnUtZGFuLWFuYWstZGktYmVrYXNp",
-        "description": " Seorang pria mengenakan rompi bertuliskan 'Polisi' diduga menusuk ibu dan anak di Mustikajaya, Kota Bekasi, Kamis (30/6). Polisi tengah memburu pelaku."
-    },
-    {
-        "title": "DKI Satu-satunya Daerah dengan Covid Harian di Atas 1.000 Kasus",
-        "link": "https://www.cnnindonesia.com/nasional/20220701181110-20-816194/dki-satu-satunya-daerah-dengan-covid-harian-di-atas-1000-kasus",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwMTE4MTExMC0yMC04MTYxOTQvZGtpLXNhdHUtc2F0dW55YS1kYWVyYWgtZGVuZ2FuLWNvdmlkLWhhcmlhbi1kaS1hdGFzLTEwMDAta2FzdXM=",
-        "description": " Jumlah penambahan kasus Covid-19 Jakarta\u00c2\u00a0menyumbang 53,7 persen dari kasus nasional hari ini."
     }
 ]
