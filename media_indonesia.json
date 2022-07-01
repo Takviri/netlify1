@@ -1,5 +1,12 @@
 [
     {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/503427/7-jenis-makanan-yang-tidak-bikin-gendut",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMzQyNy83LWplbmlzLW1ha2FuYW4teWFuZy10aWRhay1iaWtpbi1nZW5kdXQ=",
+        "description": "Saat sedang berusaha untuk menurunkan berat badan, kebanyakan orang cenderung untuk tidak makan dalam jumlah banyak. Apalagi jika makanan tersebut mengandung lemak dan kalori yang tinggi. Sebenarnya,&#8230;"
+    },
+    {
         "title": "Opini",
         "link": "https://m.mediaindonesia.com/opini/503416/utilisasi-teknologi-dalam-pendidikan-tinggi-di-indonesia-dosen-siap-berubah",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNDIzL3BvbGlzaS10ZXRhcGthbi10aWdhLXRlcnNhbmdrYS1rYXN1cy1hbmdrdXRhbi1iYm0taWxlZ2FsLXRlcmJha2FyLWRpLW11YmE=",
         "description": "APARAT Kepolisian Resor Musi Banyuasin (Polres Muba), Sumatra Selatan, menetapkan tiga orang sebagai tersangka dalam kasus mobil angkutan bahan bakar minyak (BBM) jenis solar ilegal yang terbakar di&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503421/kemenag-siapkan-layanan-pengaduan-haji-secara-daring",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNDIxL2tlbWVuYWctc2lhcGthbi1sYXlhbmFuLXBlbmdhZHVhbi1oYWppLXNlY2FyYS1kYXJpbmc=",
-        "description": "KEMENTERIAN Agama (Kemenag) menyediakan layanan pengaduan secara daring terkait kinerja dan kualitas pelayanan haji 1443 H/2022 M. Dalam hal ini, untuk memastikan bahwa standar pelayanan minimum&#8230;"
     }
 ]
