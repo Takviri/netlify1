@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/503669/salah-bertahan-di-liverpool-hingga-2025",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzY2OS9zYWxhaC1iZXJ0YWhhbi1kaS1saXZlcnBvb2wtaGluZ2dhLTIwMjU=",
+        "description": "SPEKULASI kebersamaan Mohamed Salah dengan Liverpool berakhir sudah. Jumat (2/7), striker Mesir itu sepakat memperpanjang kontrak dengan Si Merah yang membuatnya akan bertahan hingga 2025 mendatang.&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/503631/ruu-pendidikan-dan-layanan-psikologi-diharap-mampu-cetak-psikolog-profesional",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM2NTUva2VqYWd1bmctcGVyaWtzYS10aWdhLXNha3NpLWRhcmkta2VtZW5kYWctdGVya2FpdC1rYXN1cy1jcG8=",
         "description": "PENYIDIK Jaksa Agung Muda Tindak Pidana Khusus (Jampidsus) Kejaksaan Agung memeriksa tiga saksi dari Kementerian Perdagangan (Kemendag) terkait dengan dugaan tindak pidana korupsi pemberian fasilitas&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/503656/menang-ko-daud-yordan-pertahankan-gelar-wbc-asia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM2NTYvbWVuYW5nLWtvLWRhdWQteW9yZGFuLXBlcnRhaGFua2FuLWdlbGFyLXdiYy1hc2lh",
-        "description": "PETINJU Indonesia Daud Yordan sukses mempertahankan sabuk juara WBC Asia Boxing Council Silver Super Lightweight, usai menang KO atas petinju Thailand Panya Uthok dalam duel yang digelar di Balai Sarbini,&#8230;"
     }
 ]
