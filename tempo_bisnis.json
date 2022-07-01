@@ -1,5 +1,26 @@
 [
     {
+        "title": "Rincian Realisasi Anggaran PC-PEN Semester I-2022 Senilai Rp 124, 5 Triliun",
+        "link": "https://bisnis.tempo.co/read/1607648/rincian-realisasi-anggaran-pc-pen-semester-i-2022-senilai-rp-124-5-triliun",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3NjQ4L3JpbmNpYW4tcmVhbGlzYXNpLWFuZ2dhcmFuLXBjLXBlbi1zZW1lc3Rlci1pLTIwMjItc2VuaWxhaS1ycC0xMjQtNS10cmlsaXVu",
+        "description": "Sri Mulyani akan terus memantau program PC-PEN agar bisa melakukan estimasi seberapa banyak akan bisa direalisasi sampai akhir tahun"
+    },
+    {
+        "title": "BSI Raih Banyak Penghargaan",
+        "link": "https://bisnis.tempo.co/read/1607654/bsi-raih-banyak-penghargaan",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3NjU0L2JzaS1yYWloLWJhbnlhay1wZW5naGFyZ2Fhbg==",
+        "description": "Banking Service Excellence Award 2022 jadi ajang BSI memborong penghargaan."
+    },
+    {
+        "title": "IHSG Jeblok ke Level 6.794, Samuel Sekuritas: Saham GOTO jadi Pemberat Terbesar",
+        "link": "https://bisnis.tempo.co/read/1607650/ihsg-jeblok-ke-level-6-794-samuel-sekuritas-saham-goto-jadi-pemberat-terbesar",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3NjUwL2loc2ctamVibG9rLWtlLWxldmVsLTYtNzk0LXNhbXVlbC1zZWt1cml0YXMtc2FoYW0tZ290by1qYWRpLXBlbWJlcmF0LXRlcmJlc2Fy",
+        "description": "IHSG melorot hingga 1,69 persen dan ditutup di level 6.794,3 pada sore hari ini, Jumat, 1 Juli 2022. Apa saja pemicunya?"
+    },
+    {
         "title": "Sri Mulyani: APBN Surplus Rp73,6 Triliun di Paruh Pertama 2022",
         "link": "https://bisnis.tempo.co/read/1607641/sri-mulyani-apbn-surplus-rp736-triliun-di-paruh-pertama-2022",
         "image": "static/images/tempo_bisnis.png",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3NjAxL2hhcmktaW5pLW11bGFpLXBlbmRhZnRhcmFuLXVudHVrLWJlbGktcGVydGFsaXRlLWF3YXMtYWRhLWFwbGlrYXNpLW15cGVydGFtaW5hLXBhbHN1",
         "description": "Pendaftaran untuk membeli Pertalite dan Solar subsidi dimulai hari ini. Masyarakat diimbau agar berhati-hati dengan aplikasi tidak resmi MyPertamina."
-    },
-    {
-        "title": "Pengamat: Kenaikan Tarif Listrik Dorong Kekhawatiran Biaya Hidup",
-        "link": "https://bisnis.tempo.co/read/1607584/pengamat-kenaikan-tarif-listrik-dorong-kekhawatiran-biaya-hidup",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3NTg0L3BlbmdhbWF0LWtlbmFpa2FuLXRhcmlmLWxpc3RyaWstZG9yb25nLWtla2hhd2F0aXJhbi1iaWF5YS1oaWR1cA==",
-        "description": "Dampak psikologis kenaikan tarif listrik lebih besar karena dapat mendorong kekhawatiran akan adanya kenaikan biaya hidup."
-    },
-    {
-        "title": "BPS: Kenaikan Tarif Listik Memacu Inflasi Juli",
-        "link": "https://bisnis.tempo.co/read/1607595/bps-kenaikan-tarif-listik-memacu-inflasi-juli",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3NTk1L2Jwcy1rZW5haWthbi10YXJpZi1saXN0aWstbWVtYWN1LWluZmxhc2ktanVsaQ==",
-        "description": "BPS mencatat inflasi pada Juni sebesar 0,61 persen. Sedangkan inflasi tahunan memecah rekor tertinggi dalam lima tahun terakhir menjadi 4,35 persen."
-    },
-    {
-        "title": "BNI Kembali Raih Penghargaan Digital Banking",
-        "link": "https://bisnis.tempo.co/read/1607598/bni-kembali-raih-penghargaan-digital-banking",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3NTk4L2JuaS1rZW1iYWxpLXJhaWgtcGVuZ2hhcmdhYW4tZGlnaXRhbC1iYW5raW5n",
-        "description": "Pengguna BNI Mobile Banking hampir mencapai 12 Juta dengan pertumbuhan frekuensi transaksi sebesar 35 persen di kuartal pertama 2022."
     }
 ]

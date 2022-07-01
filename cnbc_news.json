@@ -1,5 +1,47 @@
 [
     {
+        "title": "Negara Hadir! Kompensasi ke Pertamina Buat Proteksi Daya Beli",
+        "link": "https://www.cnbcindonesia.com/news/20220701145101-4-352208/negara-hadir-kompensasi-ke-pertamina-buat-proteksi-daya-beli",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE0NTEwMS00LTM1MjIwOC9uZWdhcmEtaGFkaXIta29tcGVuc2FzaS1rZS1wZXJ0YW1pbmEtYnVhdC1wcm90ZWtzaS1kYXlhLWJlbGk=",
+        "description": " Pemerintah dan Pertamina berkomitmen dalam penyediaan dan penyaluran BBM dan LPG bersubsidi\u00c2\u00a0bagi masyarakat miskin, menengah, rentan dan UMKM.\u00c2\u00a0"
+    },
+    {
+        "title": "Suasana Rumah Duka Menteri Tjahjo Kumolo",
+        "link": "https://www.cnbcindonesia.com/news/20220701152150-8-352226/suasana-rumah-duka-menteri-tjahjo-kumolo",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE1MjE1MC04LTM1MjIyNi9zdWFzYW5hLXJ1bWFoLWR1a2EtbWVudGVyaS10amFoam8ta3Vtb2xv",
+        "description": " Beginilah suasana di Rumah duka, tempat disemayamkan Menteri PANRB Tjahjo Kumolo di rumah dinas menteri kawasan Widya Chandra, Jakarta Selatan."
+    },
+    {
+        "title": "Wisata Bali Masih Tergantung Pesawat, Tiket, dan Turis China",
+        "link": "https://www.cnbcindonesia.com/news/20220701144952-4-352212/wisata-bali-masih-tergantung-pesawat-tiket-dan-turis-china",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE0NDk1Mi00LTM1MjIxMi93aXNhdGEtYmFsaS1tYXNpaC10ZXJnYW50dW5nLXBlc2F3YXQtdGlrZXQtZGFuLXR1cmlzLWNoaW5h",
+        "description": " Sektor pariwisata di Bali mulai bergeliat, namun masih jauh dari normal."
+    },
+    {
+        "title": "Wow, PII DukungPembiayaan Kreatif 41 Proyek Hijau",
+        "link": "https://www.cnbcindonesia.com/news/20220701160109-4-352237/wow-pii-dukungpembiayaan-kreatif-41-proyek-hijau",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE2MDEwOS00LTM1MjIzNy93b3ctcGlpLWR1a3VuZ3BlbWJpYXlhYW4ta3JlYXRpZi00MS1wcm95ZWstaGlqYXU=",
+        "description": " Direktur Utama Penjaminan Infrastruktur Indonesia, (PII) Wahid Sutopo telah menyokong 41 proyek dengan skema pembiayaan kreatif,"
+    },
+    {
+        "title": "Data Ini Bikin Makin Yakin Amerika Kayaknya Bakal Resesi",
+        "link": "https://www.cnbcindonesia.com/news/20220701144542-4-352209/data-ini-bikin-makin-yakin-amerika-kayaknya-bakal-resesi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE0NDU0Mi00LTM1MjIwOS9kYXRhLWluaS1iaWtpbi1tYWtpbi15YWtpbi1hbWVyaWthLWtheWFrbnlhLWJha2FsLXJlc2VzaQ==",
+        "description": " Belanja konsumen Amerika Serikat (AS) tercatat melambat."
+    },
+    {
+        "title": "Tolong, Pak Jokowi! Harga Sembako Makin 'Gila'...",
+        "link": "https://www.cnbcindonesia.com/news/20220701155048-4-352236/tolong-pak-jokowi-harga-sembako-makin-gila",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE1NTA0OC00LTM1MjIzNi90b2xvbmctcGFrLWpva293aS1oYXJnYS1zZW1iYWtvLW1ha2luLWdpbGE=",
+        "description": " Inflasi kelompok harga bergejolak atau volatil terus merangkak naik pada tahun ini."
+    },
+    {
         "title": "Suasana Terkini Rumah Duka Menpan RB, Tjahjo Kumolo",
         "link": "https://www.cnbcindonesia.com/news/20220701153357-8-352228/suasana-terkini-rumah-duka-menpan-rb-tjahjo-kumolo",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE1MTMwOC00LTM1MjIxOC90ZXRhcC1hZGEtcmVzaWtvLWluaS10YW50YW5nYW4tcGVtYmlheWFhbi1kaS1zZWt0b3ItaGlqYXU=",
         "description": " Perbankan memiliki standarisasi pengukuran dan pemetaan yang ketat dalam melakukan pembiayaan."
-    },
-    {
-        "title": "Sri Mulyani: Inflasi Tinggi, Suku Bunga Acuan Bisa Naik",
-        "link": "https://www.cnbcindonesia.com/news/20220701150719-4-352221/sri-mulyani-inflasi-tinggi-suku-bunga-acuan-bisa-naik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE1MDcxOS00LTM1MjIyMS9zcmktbXVseWFuaS1pbmZsYXNpLXRpbmdnaS1zdWt1LWJ1bmdhLWFjdWFuLWJpc2EtbmFpaw==",
-        "description": " Menteri Keuangan Sri Mulyani Indrawati memperkirakan laju inflasi di Indonesia akan mencapai pada kisaran 3,5% hingga 4,5%."
-    },
-    {
-        "title": "Waspada Biden! Perang Rusia-Ukraina Jadi 'Bom Waktu' untuk AS",
-        "link": "https://www.cnbcindonesia.com/news/20220701143531-4-352198/waspada-biden-perang-rusia-ukraina-jadi-bom-waktu-untuk-as",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE0MzUzMS00LTM1MjE5OC93YXNwYWRhLWJpZGVuLXBlcmFuZy1ydXNpYS11a3JhaW5hLWphZGktYm9tLXdha3R1LXVudHVrLWFz",
-        "description": " Perang Rusia yang sedang berlangsung di Ukraina dikatakan memiliki efek merusak terhadap ekonomi Amerika Serikat (AS)."
-    },
-    {
-        "title": "Jokowi: Tjahjo Berpulang di Puncak Pengabdian Kepada Negara",
-        "link": "https://www.cnbcindonesia.com/news/20220701150732-4-352217/jokowi-tjahjo-berpulang-di-puncak-pengabdian-kepada-negara",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE1MDczMi00LTM1MjIxNy9qb2tvd2ktdGphaGpvLWJlcnB1bGFuZy1kaS1wdW5jYWstcGVuZ2FiZGlhbi1rZXBhZGEtbmVnYXJh",
-        "description": " Jokowi menilai almarhum Tjahjo adalah seorang tokoh pemuda, politisi, dan berpulang di puncak pengabdiannya kepada negara sebagai Menteri PAN dan RB."
-    },
-    {
-        "title": "Gawat! Kuota Pertalite dan Solar Bisa Habis Oktober-November",
-        "link": "https://www.cnbcindonesia.com/news/20220701145428-4-352211/gawat-kuota-pertalite-solar-bisa-habis-oktober-november",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE0NTQyOC00LTM1MjIxMS9nYXdhdC1rdW90YS1wZXJ0YWxpdGUtc29sYXItYmlzYS1oYWJpcy1va3RvYmVyLW5vdmVtYmVy",
-        "description": " BPH Migas mencatat, jika tidak ada pengendalian dua jenis BBM Penugasan dan subsidi itu bisa habis sebelum tahun berakhir"
-    },
-    {
-        "title": "Ternyata! Indonesia Impor Beras Paling Banyak dari India",
-        "link": "https://www.cnbcindonesia.com/news/20220701143909-4-352202/ternyata-indonesia-impor-beras-paling-banyak-dari-india",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE0MzkwOS00LTM1MjIwMi90ZXJueWF0YS1pbmRvbmVzaWEtaW1wb3ItYmVyYXMtcGFsaW5nLWJhbnlhay1kYXJpLWluZGlh",
-        "description": " Indonesia mengimpor beras paling banyak dari India."
-    },
-    {
-        "title": "Begini Sosok Tjahjo Kumolo di Mata Sri Mulyani",
-        "link": "https://www.cnbcindonesia.com/news/20220701145726-4-352214/begini-sosok-tjahjo-kumolo-di-mata-sri-mulyani",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE0NTcyNi00LTM1MjIxNC9iZWdpbmktc29zb2stdGphaGpvLWt1bW9sby1kaS1tYXRhLXNyaS1tdWx5YW5p",
-        "description": " Menteri Keuangan Sri Mulyani Indrawati menyampaikan ucapan duka atas wafatnya Tjahjo Kumolo."
     }
 ]

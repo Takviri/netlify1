@@ -1,5 +1,33 @@
 [
     {
+        "title": "Brol! Harga Nikel Ambrol Nyaris 6%",
+        "link": "https://www.cnbcindonesia.com/market/20220701161008-17-352246/brol-harga-nikel-ambrol-nyaris-6",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTYxMDA4LTE3LTM1MjI0Ni9icm9sLWhhcmdhLW5pa2VsLWFtYnJvbC1ueWFyaXMtNg==",
+        "description": " Harga nikel dunia jatuh pada perdagangan hari pertama paruh kedua 2022."
+    },
+    {
+        "title": "Market Fokus: Inflasi RI Naik, IHSG Anjlok ke 6.700-an",
+        "link": "https://www.cnbcindonesia.com/market/20220701153454-19-352229/market-fokus-inflasi-ri-naik-ihsg-anjlok-ke-6700-an",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTUzNDU0LTE5LTM1MjIyOS9tYXJrZXQtZm9rdXMtaW5mbGFzaS1yaS1uYWlrLWloc2ctYW5qbG9rLWtlLTY3MDAtYW4=",
+        "description": " Market Fokus: Inflasi RI Naik , IHSG Anjlok ke 6.700-an"
+    },
+    {
+        "title": "Gudang Garam Angkat Pentolan Baru, Bagikan Dividen Rp 4 T",
+        "link": "https://www.cnbcindonesia.com/market/20220701153942-17-352232/gudang-garam-angkat-pentolan-baru-bagikan-dividen-rp-4-t",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTUzOTQyLTE3LTM1MjIzMi9ndWRhbmctZ2FyYW0tYW5na2F0LXBlbnRvbGFuLWJhcnUtYmFnaWthbi1kaXZpZGVuLXJwLTQtdA==",
+        "description": " Dengan demikian, jajaran manajemen Gudang Garam yang baru berdasarkan RUPST sebagai berikut."
+    },
+    {
+        "title": "Salurkan Kredit Proyek Hijau, Bank Andalkan Green Bond?",
+        "link": "https://www.cnbcindonesia.com/market/20220701151131-19-352216/salurkan-kredit-proyek-hijau-bank-andalkan-green-bond",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTUxMTMxLTE5LTM1MjIxNi9zYWx1cmthbi1rcmVkaXQtcHJveWVrLWhpamF1LWJhbmstYW5kYWxrYW4tZ3JlZW4tYm9uZA==",
+        "description": " Salurkan Kredit Proyek Hijau, Bank Andalkan Green Bond?"
+    },
+    {
         "title": "Inflasi Makin Ngeri! Saatnya Bunga Naik, BI?",
         "link": "https://www.cnbcindonesia.com/market/20220701142724-17-352203/inflasi-makin-ngeri-saatnya-bunga-naik-bi",
         "image": "static/images/cnbc_market.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTQ0OTU3LTE5LTM1MjIwNi9iZWdpbmktc3RhbmRhcmlzYXNpLXBlbnlhbHVyYW4ta3JlZGl0LXNla3Rvci1oaWphdS1iY2E=",
         "description": " Begini Standarisasi Penyaluran Kredit Sektor Hijau BCA"
-    },
-    {
-        "title": "Gak Latah Rilis Green Bond, Pembiayaan Hijau BCA Pakai Ini",
-        "link": "https://www.cnbcindonesia.com/market/20220701151715-17-352220/gak-latah-rilis-green-bond-pembiayaan-hijau-bca-pakai-ini",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTUxNzE1LTE3LTM1MjIyMC9nYWstbGF0YWgtcmlsaXMtZ3JlZW4tYm9uZC1wZW1iaWF5YWFuLWhpamF1LWJjYS1wYWthaS1pbmk=",
-        "description": " BCA optimistis akan kemampuannya mengelola dana masyarakat, termasuk untuk menyalurkannya sebagai pembiayaan hijau."
-    },
-    {
-        "title": "Tak Cuma Emirates, Erick Ajak Etihad jadi Investor Garuda?",
-        "link": "https://www.cnbcindonesia.com/market/20220701150413-17-352215/tak-cuma-emirates-erick-ajak-etihad-jadi-investor-garuda",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTUwNDEzLTE3LTM1MjIxNS90YWstY3VtYS1lbWlyYXRlcy1lcmljay1hamFrLWV0aWhhZC1qYWRpLWludmVzdG9yLWdhcnVkYQ==",
-        "description": " Erick juga menuliskan harapan kerja sama ini bisa menciptakan ekosistem pariwisata yang semakin baik."
-    },
-    {
-        "title": "Jurus Bank DBS Antisipasi Risiko Pembiayaan Proyek Hijau",
-        "link": "https://www.cnbcindonesia.com/market/20220701143751-19-352200/jurus-bank-dbs-antisipasi-risiko-pembiayaan-proyek-hijau",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTQzNzUxLTE5LTM1MjIwMC9qdXJ1cy1iYW5rLWRicy1hbnRpc2lwYXNpLXJpc2lrby1wZW1iaWF5YWFuLXByb3llay1oaWphdQ==",
-        "description": " Jurus Bank DBS Antisipasi Risiko Pembiayaan Proyek Hijau"
-    },
-    {
-        "title": "Anjlok Hampir 2%, Harga Perak Terendah dalam 3 Bulan",
-        "link": "https://www.cnbcindonesia.com/market/20220701142212-17-352189/anjlok-hampir-2-harga-perak-terendah-dalam-3-bulan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMTQyMjEyLTE3LTM1MjE4OS9hbmpsb2staGFtcGlyLTItaGFyZ2EtcGVyYWstdGVyZW5kYWgtZGFsYW0tMy1idWxhbg==",
-        "description": " Perak jatuh ke harga terendah sejak dua tahun terakhir."
     }
 ]
