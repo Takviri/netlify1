@@ -1,5 +1,61 @@
 [
     {
+        "title": "BPS: Inflasi Juni Capai 4,35% (yoy)",
+        "link": "https://www.cnbcindonesia.com/news/20220630130202-8-351774/bps-inflasi-juni-capai-435--yoy-",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEzMDIwMi04LTM1MTc3NC9icHMtaW5mbGFzaS1qdW5pLWNhcGFpLTQzNS0teW95LQ==",
+        "description": " BPS: Inflasi Juni Capai 4,35% (yoy)"
+    },
+    {
+        "title": "Inflasi Juni 2022 Tertinggi Sejak 5 Tahun Lalu",
+        "link": "https://www.cnbcindonesia.com/news/20220701092519-4-352007/inflasi-juni-2022-tertinggi-sejak-5-tahun-lalu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTA5MjUxOS00LTM1MjAwNy9pbmZsYXNpLWp1bmktMjAyMi10ZXJ0aW5nZ2ktc2VqYWstNS10YWh1bi1sYWx1",
+        "description": " Secara tahunan (year-on-year/yoy), inflasi Juni 2022 berada di 4,35%"
+    },
+    {
+        "title": "Harga 'Sembako' Dunia Meroket, RI Sudah Kena Getahnya?",
+        "link": "https://www.cnbcindonesia.com/news/20220701091221-4-352005/harga-sembako-dunia-meroket-ri-sudah-kena-getahnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTA5MTIyMS00LTM1MjAwNS9oYXJnYS1zZW1iYWtvLWR1bmlhLW1lcm9rZXQtcmktc3VkYWgta2VuYS1nZXRhaG55YQ==",
+        "description": " Inflasi Indonesia pada Juni 2022 cukup tinggi."
+    },
+    {
+        "title": "Harga Cabai Makin 'Pedas', Inflasi RI Melejit 0,61%",
+        "link": "https://www.cnbcindonesia.com/news/20220701091632-4-352004/harga-cabai-makin-pedas-inflasi-ri-melejit-061",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTA5MTYzMi00LTM1MjAwNC9oYXJnYS1jYWJhaS1tYWtpbi1wZWRhcy1pbmZsYXNpLXJpLW1lbGVqaXQtMDYx",
+        "description": " Inflasi Indonesia pada Juni 2022 dilaporkan mencapai 0,61%"
+    },
+    {
+        "title": "Pengumuman! Harga BBM Shell Naik Lagi Jadi Rp 18.500/Liter",
+        "link": "https://www.cnbcindonesia.com/news/20220701090529-4-352002/pengumuman-harga-bbm-shell-naik-lagi-jadi-rp-18500-liter",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTA5MDUyOS00LTM1MjAwMi9wZW5ndW11bWFuLWhhcmdhLWJibS1zaGVsbC1uYWlrLWxhZ2ktamFkaS1ycC0xODUwMC1saXRlcg==",
+        "description": " Shell kembali menaikkan harga BBM jenis Shell Super menjadi Rp 18.500 per liter mulai 1 Juli 2022 ini"
+    },
+    {
+        "title": "BPS: Inflasi Juni 0,61%",
+        "link": "https://www.cnbcindonesia.com/news/20220701060157-4-351958/bps-inflasi-juni-061",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTA2MDE1Ny00LTM1MTk1OC9icHMtaW5mbGFzaS1qdW5pLTA2MQ==",
+        "description": " Badan Pusat Statistik (BPS) melaporkan data inflasi Indonesia periode Juni 2022. Secara tahunan, inflasi sudah berada di atas 4%."
+    },
+    {
+        "title": "PLN Bangun Sumber Listrik Energi Bersih di Pelabuhan ASDP",
+        "link": "https://www.cnbcindonesia.com/news/20220701085930-4-351998/pln-bangun-sumber-listrik-energi-bersih-di-pelabuhan-asdp",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTA4NTkzMC00LTM1MTk5OC9wbG4tYmFuZ3VuLXN1bWJlci1saXN0cmlrLWVuZXJnaS1iZXJzaWgtZGktcGVsYWJ1aGFuLWFzZHA=",
+        "description": " PT PLN (Persero) dan PT ASDP Indonesia Ferry (Persero) sepakat untuk memakai listrik sebagai pengganti BBM, pada sumber energi di pelabuhan milik ASDP"
+    },
+    {
+        "title": "Ketemu Jokowi, Putin Tertarik Bangun Nuklir-Ibu Kota Baru RI",
+        "link": "https://www.cnbcindonesia.com/news/20220701084307-4-351991/ketemu-jokowi-putin-tertarik-bangun-nuklir-ibu-kota-baru-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTA4NDMwNy00LTM1MTk5MS9rZXRlbXUtam9rb3dpLXB1dGluLXRlcnRhcmlrLWJhbmd1bi1udWtsaXItaWJ1LWtvdGEtYmFydS1yaQ==",
+        "description": " Putin membahas mengenai ketertarikannya untuk mengembangkan industri tenaga nuklir nasional dengan Jokowi. Termasuk juga ibu kota baru."
+    },
+    {
         "title": "Rusia Kalah Lagi di Ukraina? Putin Tarik Pasukan di Pulau Ini",
         "link": "https://www.cnbcindonesia.com/news/20220701083412-4-351990/rusia-kalah-lagi-di-ukraina-putin-tarik-pasukan-di-pulau-ini",
         "image": "static/images/cnbc_news.png",
@@ -12,61 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTA4MTgwNS00LTM1MTk4MS9tYW51ZmFrdHVyLXJpLWRpLWJpYmlyLWp1cmFuZy1pbmktYnVrdGlueWE=",
         "description": " Aktivitas manufaktur Indonesia masih ekspansif pada\u00c2\u00a0Juni 2022. Namun ekspansi itu kian menipis."
-    },
-    {
-        "title": "Usai Bertemu Putin, Jokowi Terbang ke Abu Dhabi",
-        "link": "https://www.cnbcindonesia.com/news/20220701081742-4-351980/usai-bertemu-putin-jokowi-terbang-ke-abu-dhabi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTA4MTc0Mi00LTM1MTk4MC91c2FpLWJlcnRlbXUtcHV0aW4tam9rb3dpLXRlcmJhbmcta2UtYWJ1LWRoYWJp",
-        "description": " Presiden Joko Widodo (Jokowi) mengakhiri kunjungannya ke Rusia. Kini ia dilaporkan menuju Abu Dhabi."
-    },
-    {
-        "title": "Ini Kata Putin Bertemu Jokowi: Kami Senang, Tak Ada Ukraina?",
-        "link": "https://www.cnbcindonesia.com/news/20220701075605-4-351978/ini-kata-putin-bertemu-jokowi-kami-senang-tak-ada-ukraina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTA3NTYwNS00LTM1MTk3OC9pbmkta2F0YS1wdXRpbi1iZXJ0ZW11LWpva293aS1rYW1pLXNlbmFuZy10YWstYWRhLXVrcmFpbmE=",
-        "description": " Ini yang diutarakan Presiden Rusia Vladimir Putin saat bertemu Presiden Jokowi di Moskow."
-    },
-    {
-        "title": "Awas, Manufaktur RI Sudah di Bibir Jurang!",
-        "link": "https://www.cnbcindonesia.com/news/20220701073227-4-351975/awas-manufaktur-ri-sudah-di-bibir-jurang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTA3MzIyNy00LTM1MTk3NS9hd2FzLW1hbnVmYWt0dXItcmktc3VkYWgtZGktYmliaXItanVyYW5n",
-        "description": " Aktivitas industri manufaktur Indonesia masih berada di zona ekspansi. Namun ekspansi tersebut terus menipis."
-    },
-    {
-        "title": "Ini 6 Pesan Jokowi Bertemu Putin: Damai hingga Posisi RI",
-        "link": "https://www.cnbcindonesia.com/news/20220701072110-4-351973/ini-6-pesan-jokowi-bertemu-putin-damai-hingga-posisi-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTA3MjExMC00LTM1MTk3My9pbmktNi1wZXNhbi1qb2tvd2ktYmVydGVtdS1wdXRpbi1kYW1haS1oaW5nZ2EtcG9zaXNpLXJp",
-        "description": " Presiden Jokowi resmi menemui Presiden Rusia Vladimir Putin di Moskow, Rusia, Kamis (30/6/2022). Ia memberi enam pesan penting."
-    },
-    {
-        "title": "Ada Apa China? Ramai-ramai Warga Berubah Jadi Pelit",
-        "link": "https://www.cnbcindonesia.com/news/20220701065926-4-351972/ada-apa-china-ramai-ramai-warga-berubah-jadi-pelit",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTA2NTkyNi00LTM1MTk3Mi9hZGEtYXBhLWNoaW5hLXJhbWFpLXJhbWFpLXdhcmdhLWJlcnViYWgtamFkaS1wZWxpdA==",
-        "description": " Kecenderungan konsumen China menabung berada pada titik tertinggi dalam dua dekade terakhir. Pertanda apa?"
-    },
-    {
-        "title": "Ini Potret Mesra Jokowi Bertemu Putin",
-        "link": "https://www.cnbcindonesia.com/news/20220701063348-7-351959/ini-potret-mesra-jokowi-bertemu-putin",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTA2MzM0OC03LTM1MTk1OS9pbmktcG90cmV0LW1lc3JhLWpva293aS1iZXJ0ZW11LXB1dGlu",
-        "description": " Ini potret Presiden Joko Widodo melakukan pertemuan dengan Presiden Rusia Vladimir Putin di Istana Kremlin, Kamis (30/6/2022)."
-    },
-    {
-        "title": "'Penghancur' Avanza Tebar Pesona, Harga Jauh Lebih Murah?",
-        "link": "https://www.cnbcindonesia.com/news/20220701002403-4-351953/penghancur-avanza-tebar-pesona-harga-jauh-lebih-murah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTAwMjQwMy00LTM1MTk1My9wZW5naGFuY3VyLWF2YW56YS10ZWJhci1wZXNvbmEtaGFyZ2EtamF1aC1sZWJpaC1tdXJhaA==",
-        "description": " Persaingan di pasar mobil Tanah Air semakin sengit. Membuat Avanza si 'mobil sejuta umat' patut waspada."
-    },
-    {
-        "title": "Terbaru! Daftar RS yang Uji Coba Kelas Standar BPJS Kesehatan",
-        "link": "https://www.cnbcindonesia.com/news/20220630215504-4-351948/terbaru-daftar-rs-yang-uji-coba-kelas-standar-bpjs-kesehatan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDIxNTUwNC00LTM1MTk0OC90ZXJiYXJ1LWRhZnRhci1ycy15YW5nLXVqaS1jb2JhLWtlbGFzLXN0YW5kYXItYnBqcy1rZXNlaGF0YW4=",
-        "description": " Sebanyak lima Rumah Sakit (RS) pada hari ini akan memulai uji coba Kelas Rawat Inap Standar (KRIS) peserta BPJS Kesehatan."
     }
 ]
