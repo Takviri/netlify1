@@ -1,6 +1,62 @@
 [
     {
         "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503469/vaksin-merah-putih-masuk-tahap-uji-klinik-fase-3",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNDY5L3Zha3Npbi1tZXJhaC1wdXRpaC1tYXN1ay10YWhhcC11amkta2xpbmlrLWZhc2UtMw==",
+        "description": "Setelah melewati rangkaian tahapan yang cukup panjang dari penelitian, formulasi, pengembangan, dan uji pra klinik hingga pelaksanaan uji klinik fase 1 dan 2, kini vaksin Merah Putih telah masuk pada&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503468/taspen-life-capai-kenaikan-labar-bersih-51861-pada-tahun-2021",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzQ2OC90YXNwZW4tbGlmZS1jYXBhaS1rZW5haWthbi1sYWJhci1iZXJzaWgtNTE4NjEtcGFkYS10YWh1bi0yMDIx",
+        "description": "Melalui Rapat Umum Pemegang Saham (RUPS) PT Asuransi Jiwa Taspen (Taspen Life) yang telah diselenggarakan pada Rabu (28/6), Taspen Life berhasil membukukan laba bersih senilai Rp63,06 milliar sepanjang&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503467/menkeu-kenaikan-inflasi-dapat-menggerus-pertumbuhan-konsumsi-dan-investasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzQ2Ny9tZW5rZXUta2VuYWlrYW4taW5mbGFzaS1kYXBhdC1tZW5nZ2VydXMtcGVydHVtYnVoYW4ta29uc3Vtc2ktZGFuLWludmVzdGFzaQ==",
+        "description": "Menteri Keuangan Sri Mulyani Indrawati mengatakan bahwa Indonesia harus mewaspadai kecenderungan inflasi dalam negeri yang akan menggerus dukungan pertumbuhan konsumsi rumah tangga dan investasi, terutama&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503466/wapres-minta-polri-jangan-represif-dalam-penegakan-hukum-kasus-pelecehan-agama",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM0NjYvd2FwcmVzLW1pbnRhLXBvbHJpLWphbmdhbi1yZXByZXNpZi1kYWxhbS1wZW5lZ2FrYW4taHVrdW0ta2FzdXMtcGVsZWNlaGFuLWFnYW1h",
+        "description": "Wakil Presiden Ma&rsquo;ruf Amin meminta kepolisian terus melakukan penegakan hukum dalam berbagai kasus pelecehan agama yang muncul beberapa waktu belakangan ini. Proses law enforcement tersebut dilakukan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503464/perjalanan-politik-tjahjo-kumolo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM0NjQvcGVyamFsYW5hbi1wb2xpdGlrLXRqYWhqby1rdW1vbG8=",
+        "description": "Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (Menpan RB) Tjahjo Kumolo meninggal dunia setelah beberapa hari menjalani perawatan intensif. Tjahjo Kumolo wafat pada Jumat (1/7)&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503463/festival-jangkat-2022-kenalkan-kebudayaan-melayu-merangin",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNDYzL2Zlc3RpdmFsLWphbmdrYXQtMjAyMi1rZW5hbGthbi1rZWJ1ZGF5YWFuLW1lbGF5dS1tZXJhbmdpbg==",
+        "description": "KEMENTERIAN Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbud-Ristek) dan Pemerintah Kabupaten Merangin, Jambi, sukses menggelar&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/503462/cegah-kebocoran-data-pribadi-waspada-jaringan-wifi-gratis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTAzNDYyL2NlZ2FoLWtlYm9jb3Jhbi1kYXRhLXByaWJhZGktd2FzcGFkYS1qYXJpbmdhbi13aWZpLWdyYXRpcw==",
+        "description": "Teknologi informasi di dunia terus berkembang secara masif. Kini pengguna internet di Indonesia sudah mencapai 202 juta pengguna. Perubahan gaya hidup menjadi serba digital menawarkan kemudahan, masyarakat&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503461/nasdem-jabar-optimistis-dulang-suara-tinggi-di-pemilu-2024",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM0NjEvbmFzZGVtLWphYmFyLW9wdGltaXN0aXMtZHVsYW5nLXN1YXJhLXRpbmdnaS1kaS1wZW1pbHUtMjAyNA==",
+        "description": "KETUA DPW NasDem Jabar, Saan Mustopa mencetak optimis NasDem bisa meraih suara yang tinggi di Jawa Barat (Jabar) saat pelaksanaan Pemilu Serentak 2024. Menurut Sekretaris Fraksi NasDem DPR RI itu tidak&#8230;"
+    },
+    {
+        "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/503460/cak-imin-sampaikan-bela-sungkawa-untuk-tjahjo-kumolo",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNDYwL2Nhay1pbWluLXNhbXBhaWthbi1iZWxhLXN1bmdrYXdhLXVudHVrLXRqYWhqby1rdW1vbG8=",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNDU5L2Jta2ctY2F0YXQtYWRhLWR1YS1nZW1wYS1zdXN1bGFuLWRpLWtlbmRhd2FuZ2Fu",
         "description": "GEMPA&nbsp;Kendawangan terjadi pada Jumat 1 Juli 2022 pukul 05.09.42 WIB. Koordinator Mitigasi Gempa Bumi dan Tsunami BMKG Daryono mengungkapkan, hasil analisis BMKG menunjukkan gempa ini memiliki&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/503458/iga-swiatek-masih-melenggang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM0NTgvaWdhLXN3aWF0ZWstbWFzaWgtbWVsZW5nZ2FuZw==",
-        "description": "Ketangguhan petenis putri nomor satu dunia Iga Swiatek belum terbendung hingga saat ini, dia berhasil merengkuh kemenangan ke-37 kalinya berturut-turut pada musim ini di putaran kedua turnamen Wimbledon&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503457/rindu-jalan-jalan-jumlah-wisman-mei-tembus-212-ribu-orang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzQ1Ny9yaW5kdS1qYWxhbi1qYWxhbi1qdW1sYWgtd2lzbWFuLW1laS10ZW1idXMtMjEyLXJpYnUtb3Jhbmc=",
-        "description": "Kepala Badan Pusat Statistik (BPS) Margo Yuwono mengungkapkan, jumlah kunjungan wisatawan mancanegara ke Indonesia pada Mei 2022 mencapai 212,3 ribu orang. &quot;Ini merupakan tertinggi sejak&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503456/menpan-rb-tjahjo-kumolo-meninggal-dunia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNDU2L21lbnBhbi1yYi10amFoam8ta3Vtb2xvLW1lbmluZ2dhbC1kdW5pYQ==",
-        "description": "MENTERI Pemberdayaan Aparatur Negara dan Reformasi Birokrasi (Menpan RB) Tjahjo Kumolo meninggal dunia. Tjahjo wafat di rumah sakit (RS) Abdi Waluyo Jakarta pada Jumat (1/7) sekitar pukul 11.20 WIB.&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/503455/skema-pembiayaan-pembangunan-mrt-fase-3-dan-4-libatkan-swasta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDM0NTUvc2tlbWEtcGVtYmlheWFhbi1wZW1iYW5ndW5hbi1tcnQtZmFzZS0zLWRhbi00LWxpYmF0a2FuLXN3YXN0YQ==",
-        "description": "PT MRT Jakarta (Perseroda) merancang pembiayaan pembangunan fase 3 (East-West Line) dan fase 4 dengan melibatkan sektor swasta. Dari nilai keseluruhan, ditargetkan sektor swasta bisa mengambil peran&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503454/korupsi-impor-garam-industri-turut-berdampak-pada-kesehatan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM0NTQva29ydXBzaS1pbXBvci1nYXJhbS1pbmR1c3RyaS10dXJ1dC1iZXJkYW1wYWstcGFkYS1rZXNlaGF0YW4=",
-        "description": "MODUS dugaan korupsi importasi garam yang saat ini sedang disidik oleh jajaran Jaksa Agung Muda Bidang Tindak Pidana Khusus (JAM-Pidsus) Kejaksaan Agung turut berdampak pada kesehatan masyarakat. Sebab,&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503452/bpjamsostek-dukung-arahan-wapres-untuk-percepatan-mpp",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzQ1Mi9icGphbXNvc3Rlay1kdWt1bmctYXJhaGFuLXdhcHJlcy11bnR1ay1wZXJjZXBhdGFuLW1wcA==",
-        "description": "PEMERINTAH terus berupaya untuk mempercepat penyelenggaraan Mal Pelayanan Publik (MPP) di seluruh penjuru Indonesia. Salah satu upayanya adalah dengan menggandeng sejumlah kementerian, lembaga, BUMN,&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/503453/prabowo-subianto-antara-bibit-bobot-bebet-dan-rekor-capres",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDM0NTMvcHJhYm93by1zdWJpYW50by1hbnRhcmEtYmliaXQtYm9ib3QtYmViZXQtZGFuLXJla29yLWNhcHJlcw==",
-        "description": "Kalau mengamati perkembangan yang terjadi menjelang 2024, sungguh banyak cerita menarik yang dilakukan banyak tokoh. Bisa dilihat bagaimana&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/503450/hidupi-ayah-yang-lumpuh-agus-di-blitar-diberi-modal-usaha-sandiaga",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNDUwL2hpZHVwaS1heWFoLXlhbmctbHVtcHVoLWFndXMtZGktYmxpdGFyLWRpYmVyaS1tb2RhbC11c2FoYS1zYW5kaWFnYQ==",
-        "description": "MENPAREKRAF Sandiaga Uno berkunjung ke Desa Wisata Semen, Gandusari, Blitar, Jawa Timur. Sandiaga mendatangi rumah Poniran (67), seorang warga yang mengalami lumpuh sejak 2019 lalu. Poniran&#8230;"
     }
 ]

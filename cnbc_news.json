@@ -1,5 +1,61 @@
 [
     {
+        "title": "Perdana Dalam 5 Tahun, Xi Jinping Kunjungi Hong Kong",
+        "link": "https://www.cnbcindonesia.com/news/20220701113958-4-352108/perdana-dalam-5-tahun-xi-jinping-kunjungi-hong-kong",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTExMzk1OC00LTM1MjEwOC9wZXJkYW5hLWRhbGFtLTUtdGFodW4teGktamlucGluZy1rdW5qdW5naS1ob25nLWtvbmc=",
+        "description": " Presiden China Xi Jinping dilaporkan melakukan kunjungan ke Hong Kong, sejak Kamis dan Jumat ini."
+    },
+    {
+        "title": "Tjahjo Kumolo Wafat: Para Menteri Jokowi Ucap Belasungkawa",
+        "link": "https://www.cnbcindonesia.com/news/20220701123816-4-352135/tjahjo-kumolo-wafat-para-menteri-jokowi-ucap-belasungkawa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTEyMzgxNi00LTM1MjEzNS90amFoam8ta3Vtb2xvLXdhZmF0LXBhcmEtbWVudGVyaS1qb2tvd2ktdWNhcC1iZWxhc3VuZ2thd2E=",
+        "description": " Menteri PAN-RB Tjahjo Kumolo meninggal dunia. Beberapa menteri kabinet Indonesia maju menyampaikan rasa duka"
+    },
+    {
+        "title": "Duh! Data Perdagangan Korsel Ungkap Tanda-tanda Resesi Global",
+        "link": "https://www.cnbcindonesia.com/news/20220701122113-4-352124/duh-data-perdagangan-korsel-ungkap-tanda-tanda-resesi-global",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTEyMjExMy00LTM1MjEyNC9kdWgtZGF0YS1wZXJkYWdhbmdhbi1rb3JzZWwtdW5na2FwLXRhbmRhLXRhbmRhLXJlc2VzaS1nbG9iYWw=",
+        "description": " Ekspor Korea Selatan pada Juni 2022 tumbuh pada laju paling lambat dalam lebih dari 1,5 tahun."
+    },
+    {
+        "title": "Menpan RB, Tjahjo Kumolo Akan Dimakamkan di TMP Kalibata",
+        "link": "https://www.cnbcindonesia.com/news/20220701124101-8-352130/menpan-rb-tjahjo-kumolo-akan-dimakamkan-di-tmp-kalibata",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTEyNDEwMS04LTM1MjEzMC9tZW5wYW4tcmItdGphaGpvLWt1bW9sby1ha2FuLWRpbWFrYW1rYW4tZGktdG1wLWthbGliYXRh",
+        "description": " Menpan RB, Tjahjo Kumolo Akan Dimakamkan di TMP Kalibata"
+    },
+    {
+        "title": "'Kiamat Pesawat' dan Lonjakan Harga Tiket Hantam Wisata Bali",
+        "link": "https://www.cnbcindonesia.com/news/20220701120819-4-352125/kiamat-pesawat-dan-lonjakan-harga-tiket-hantam-wisata-bali",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTEyMDgxOS00LTM1MjEyNS9raWFtYXQtcGVzYXdhdC1kYW4tbG9uamFrYW4taGFyZ2EtdGlrZXQtaGFudGFtLXdpc2F0YS1iYWxp",
+        "description": " Sektor pariwisata di Bali menghadapi tantangan lain selain peningkatan kasus Covid-19."
+    },
+    {
+        "title": "Indonesia Siaga! 'Gempa' Inflasi Mulai Terasa",
+        "link": "https://www.cnbcindonesia.com/news/20220701112842-4-352109/indonesia-siaga-gempa-inflasi-mulai-terasa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTExMjg0Mi00LTM1MjEwOS9pbmRvbmVzaWEtc2lhZ2EtZ2VtcGEtaW5mbGFzaS1tdWxhaS10ZXJhc2E=",
+        "description": " Inflasi Indonesia kembali menjulang pada Juni."
+    },
+    {
+        "title": "Kabar Duka: Menpan RB, Tjahjo Kumolo Meninggal Dunia",
+        "link": "https://www.cnbcindonesia.com/news/20220701122945-8-352126/kabar-duka-menpan-rb-tjahjo-kumolo-meninggal-dunia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTEyMjk0NS04LTM1MjEyNi9rYWJhci1kdWthLW1lbnBhbi1yYi10amFoam8ta3Vtb2xvLW1lbmluZ2dhbC1kdW5pYQ==",
+        "description": " Menpan RB, Tjahjo Kumolo Meninggal Dunia"
+    },
+    {
+        "title": "Ini Pemenang Hadiah Kepoin Sultan Tahap 2 Bank Mega Syariah",
+        "link": "https://www.cnbcindonesia.com/news/20220701121128-4-352121/ini-pemenang-hadiah-kepoin-sultan-tahap-2-bank-mega-syariah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTEyMTEyOC00LTM1MjEyMS9pbmktcGVtZW5hbmctaGFkaWFoLWtlcG9pbi1zdWx0YW4tdGFoYXAtMi1iYW5rLW1lZ2Etc3lhcmlhaA==",
+        "description": " Program Kepoin Sultan merupakan bentuk apresiasi Bank Mega Syariah kepada seluruh nasabah, khususnya pengguna aplikasi mobile banking Bank Mega Syariah."
+    },
+    {
         "title": "Meski Covid-19 Kembali Naik, Bali \"Pede\" Pariwisata Pulih!",
         "link": "https://www.cnbcindonesia.com/news/20220701114844-8-352111/meski-covid-19-kembali-naik-bali-pede-pariwisata-pulih",
         "image": "static/images/cnbc_news.png",
@@ -12,61 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTExMDQ1My00LTM1MjA4MS9kYWZ0YXItYmVsaS1wZXJ0YWxpdGUtYmFydS1kaS0xMS13aWxheWFoLWphYm9kZXRhYmVrLWthcGFu",
         "description": " Pertamina menetapkan 11 Wilayah kabupaten/kota untuk mendaftar di MyPertamina. Lalu kapan Jabodetabek?"
-    },
-    {
-        "title": "Tjahjo Kumolo Wafat: Aktivis dan Politisi yang Jadi Menteri",
-        "link": "https://www.cnbcindonesia.com/news/20220701115037-4-352116/tjahjo-kumolo-wafat-aktivis-politisi-yang-jadi-menteri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTExNTAzNy00LTM1MjExNi90amFoam8ta3Vtb2xvLXdhZmF0LWFrdGl2aXMtcG9saXRpc2kteWFuZy1qYWRpLW1lbnRlcmk=",
-        "description": " Kabar duka datang dari Kabinet Indonesia Maju, Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Tjahjo Kumolo meninggal."
-    },
-    {
-        "title": "Singapura Tak Lockdown Meski Covid \"Meledak\", Ini Kondisinya",
-        "link": "https://www.cnbcindonesia.com/news/20220701111306-8-352084/singapura-tak-lockdown-meski-covid-meledak-ini-kondisinya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTExMTMwNi04LTM1MjA4NC9zaW5nYXB1cmEtdGFrLWxvY2tkb3duLW1lc2tpLWNvdmlkLW1lbGVkYWstaW5pLWtvbmRpc2lueWE=",
-        "description": " Tak Ada Lockdown Meski Covid-19 Singapura \"Meledak\", Ini Alasannya"
-    },
-    {
-        "title": "Korut Sebut Benda 'Alien' Biang Kerok Penyebaran Covid",
-        "link": "https://www.cnbcindonesia.com/news/20220701113850-4-352107/korut-sebut-benda-alien-biang-kerok-penyebaran-covid",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTExMzg1MC00LTM1MjEwNy9rb3J1dC1zZWJ1dC1iZW5kYS1hbGllbi1iaWFuZy1rZXJvay1wZW55ZWJhcmFuLWNvdmlk",
-        "description": " Korea Utara menyatakan bahwa wabah Covid-19 pertama di negara itu dimulai dengan pasien yang menyentuh \"benda asing\" di dekat perbatasan dengan Korea Selatan."
-    },
-    {
-        "title": "Tjahjo Kumolo Meninggal Dunia, Jenazah Dibawa ke Rumah Dinas",
-        "link": "https://www.cnbcindonesia.com/news/20220701115552-4-352114/tjahjo-kumolo-meninggal-dunia-jenazah-dibawa-ke-rumah-dinas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTExNTU1Mi00LTM1MjExNC90amFoam8ta3Vtb2xvLW1lbmluZ2dhbC1kdW5pYS1qZW5hemFoLWRpYmF3YS1rZS1ydW1haC1kaW5hcw==",
-        "description": " Jenazah akan dibawa ke rumah dinas yang berlokasi di Jalan Widya Candra IV, Jakarta."
-    },
-    {
-        "title": "Singapura Impor Ayam Indonesia, Siapa Saja Yang Masuk?",
-        "link": "https://www.cnbcindonesia.com/news/20220701102005-8-352044/singapura-impor-ayam-indonesia-siapa-saja-yang-masuk",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTEwMjAwNS04LTM1MjA0NC9zaW5nYXB1cmEtaW1wb3ItYXlhbS1pbmRvbmVzaWEtc2lhcGEtc2FqYS15YW5nLW1hc3Vr",
-        "description": " Singapura telah memberikan izin impor atas daging ayam dan produk daging ayam dari Indonesia"
-    },
-    {
-        "title": "Alert! RI Bisa Krisis Daging, Harga 'Terbang' ke Rp170.000",
-        "link": "https://www.cnbcindonesia.com/news/20220701111627-4-352087/alert-ri-bisa-krisis-daging-harga-terbang-ke-rp170000",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTExMTYyNy00LTM1MjA4Ny9hbGVydC1yaS1iaXNhLWtyaXNpcy1kYWdpbmctaGFyZ2EtdGVyYmFuZy1rZS1ycDE3MDAwMA==",
-        "description": " \u00c2\u00a0Penyakit mulut dan kuku (PMK) yang kini mewabah ke 19 provinsi bisa mengancam ketersediaan daging di Indonesia."
-    },
-    {
-        "title": "Berita Duka: Menteri PAN dan RB Tjahjo Kumolo Meninggal Dunia",
-        "link": "https://www.cnbcindonesia.com/news/20220701114458-4-352110/berita-duka-menteri-pan-rb-tjahjo-kumolo-meninggal-dunia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTExNDQ1OC00LTM1MjExMC9iZXJpdGEtZHVrYS1tZW50ZXJpLXBhbi1yYi10amFoam8ta3Vtb2xvLW1lbmluZ2dhbC1kdW5pYQ==",
-        "description": " Tjahjo wafat di RS Abdi Waluyo Jakarta."
-    },
-    {
-        "title": "Momen Kemesraan Jokowi-Putin",
-        "link": "https://www.cnbcindonesia.com/news/20220701105656-8-352073/momen-kemesraan-jokowi-putin",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTEwNTY1Ni04LTM1MjA3My9tb21lbi1rZW1lc3JhYW4tam9rb3dpLXB1dGlu",
-        "description": " Presiden Joko Widodo tiba di Istana Kremlin, Kamis (30/6/22).\u00c2\u00a0Terlihat \"kemesraan\" Jokowi dan Putin saat tiba.\u00c2\u00a0Jokowi mendapat sambutan hangat dari Putin."
     }
 ]
