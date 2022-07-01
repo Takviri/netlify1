@@ -1,10 +1,45 @@
 [
     {
-        "title": "Negara Hadir! Kompensasi ke Pertamina Buat Proteksi Daya Beli",
-        "link": "https://www.cnbcindonesia.com/news/20220701145101-4-352208/negara-hadir-kompensasi-ke-pertamina-buat-proteksi-daya-beli",
+        "title": "New Honda ADV160 Meluncur, Harga Nempel Rp 40 Juta",
+        "link": "https://www.cnbcindonesia.com/news/20220701164853-4-352267/new-honda-adv160-meluncur-harga-nempel-rp-40-juta",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE0NTEwMS00LTM1MjIwOC9uZWdhcmEtaGFkaXIta29tcGVuc2FzaS1rZS1wZXJ0YW1pbmEtYnVhdC1wcm90ZWtzaS1kYXlhLWJlbGk=",
-        "description": " Pemerintah dan Pertamina berkomitmen dalam penyediaan dan penyaluran BBM dan LPG bersubsidi\u00c2\u00a0bagi masyarakat miskin, menengah, rentan dan UMKM.\u00c2\u00a0"
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE2NDg1My00LTM1MjI2Ny9uZXctaG9uZGEtYWR2MTYwLW1lbHVuY3VyLWhhcmdhLW5lbXBlbC1ycC00MC1qdXRh",
+        "description": " PT Astra Honda Motor (AHM) meluncurkan motor skutik baru New Honda ADV160."
+    },
+    {
+        "title": "Sri Mulyani Siap Suntik Rp 7,5 T Demi Garuda Terbang Lagi",
+        "link": "https://www.cnbcindonesia.com/news/20220701154030-4-352231/sri-mulyani-siap-suntik-rp-75-t-demi-garuda-terbang-lagi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE1NDAzMC00LTM1MjIzMS9zcmktbXVseWFuaS1zaWFwLXN1bnRpay1ycC03NS10LWRlbWktZ2FydWRhLXRlcmJhbmctbGFnaQ==",
+        "description": " Pemerintah berkomitmen untuk menyalurkan penyertaan modal negara (PMN) sebesar Rp 7,5 triliun kepada PT Garuda Indonesia (Persero)"
+    },
+    {
+        "title": "Perhatian! Harga BBM Shell Naik Lagi Jadi Rp 18.500/Liter",
+        "link": "https://www.cnbcindonesia.com/news/20220701162547-7-352251/perhatian-harga-bbm-shell-naik-lagi-jadi-rp-18500-liter",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE2MjU0Ny03LTM1MjI1MS9wZXJoYXRpYW4taGFyZ2EtYmJtLXNoZWxsLW5haWstbGFnaS1qYWRpLXJwLTE4NTAwLWxpdGVy",
+        "description": " Shell Indonesia per 1 Juli 2022 ini kembali melakukan penyesuaian harga bahan bakar minyak (BBM) di Stasiun Pengisian Bahan Bakar Umum (SPBU)."
+    },
+    {
+        "title": "Terus Turun, Kasus Covid-19 di RI Bertambah 2.049 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220701164513-4-352264/terus-turun-kasus-covid-19-di-ri-bertambah-2049-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE2NDUxMy00LTM1MjI2NC90ZXJ1cy10dXJ1bi1rYXN1cy1jb3ZpZC0xOS1kaS1yaS1iZXJ0YW1iYWgtMjA0OS1oYXJpLWluaQ==",
+        "description": " Total kasus konfirmasi mencapai 6.090.509."
+    },
+    {
+        "title": "Rusia 'Menang' Lawan Covid! Cabut Semua Aturan Pembatasan",
+        "link": "https://www.cnbcindonesia.com/news/20220701153729-4-352230/rusia-menang-lawan-covid-cabut-semua-aturan-pembatasan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE1MzcyOS00LTM1MjIzMC9ydXNpYS1tZW5hbmctbGF3YW4tY292aWQtY2FidXQtc2VtdWEtYXR1cmFuLXBlbWJhdGFzYW4=",
+        "description": " Rusia telah mengakhiri semua aturan pembatasan untuk menekan penyebaran Covid-19, termasuk persyaratan untuk memakai masker, pada Jumat (1/7/2022)."
+    },
+    {
+        "title": "Perang Rusia Ukraina Makan \"Korban\" Baru Lagi? Jepang",
+        "link": "https://www.cnbcindonesia.com/news/20220701150720-4-352225/perang-rusia-ukraina-makan-korban-baru-lagi-jepang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE1MDcyMC00LTM1MjIyNS9wZXJhbmctcnVzaWEtdWtyYWluYS1tYWthbi1rb3JiYW4tYmFydS1sYWdpLWplcGFuZw==",
+        "description": " Perang Rusia Ukraina sepertinya memakan \"korban\" negara baru. Kali ini Jepang."
     },
     {
         "title": "Suasana Rumah Duka Menteri Tjahjo Kumolo",
@@ -21,10 +56,10 @@
         "description": " Sektor pariwisata di Bali mulai bergeliat, namun masih jauh dari normal."
     },
     {
-        "title": "Wow, PII DukungPembiayaan Kreatif 41 Proyek Hijau",
-        "link": "https://www.cnbcindonesia.com/news/20220701160109-4-352237/wow-pii-dukungpembiayaan-kreatif-41-proyek-hijau",
+        "title": "Wow, PII Dukung Pembiayaan Kreatif 41 Proyek Hijau",
+        "link": "https://www.cnbcindonesia.com/news/20220701160109-4-352237/wow-pii-dukung-pembiayaan-kreatif-41-proyek-hijau",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE2MDEwOS00LTM1MjIzNy93b3ctcGlpLWR1a3VuZ3BlbWJpYXlhYW4ta3JlYXRpZi00MS1wcm95ZWstaGlqYXU=",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE2MDEwOS00LTM1MjIzNy93b3ctcGlpLWR1a3VuZy1wZW1iaWF5YWFuLWtyZWF0aWYtNDEtcHJveWVrLWhpamF1",
         "description": " Direktur Utama Penjaminan Infrastruktur Indonesia, (PII) Wahid Sutopo telah menyokong 41 proyek dengan skema pembiayaan kreatif,"
     },
     {
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE0NDU0Mi00LTM1MjIwOS9kYXRhLWluaS1iaWtpbi1tYWtpbi15YWtpbi1hbWVyaWthLWtheWFrbnlhLWJha2FsLXJlc2VzaQ==",
         "description": " Belanja konsumen Amerika Serikat (AS) tercatat melambat."
-    },
-    {
-        "title": "Tolong, Pak Jokowi! Harga Sembako Makin 'Gila'...",
-        "link": "https://www.cnbcindonesia.com/news/20220701155048-4-352236/tolong-pak-jokowi-harga-sembako-makin-gila",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE1NTA0OC00LTM1MjIzNi90b2xvbmctcGFrLWpva293aS1oYXJnYS1zZW1iYWtvLW1ha2luLWdpbGE=",
-        "description": " Inflasi kelompok harga bergejolak atau volatil terus merangkak naik pada tahun ini."
-    },
-    {
-        "title": "Suasana Terkini Rumah Duka Menpan RB, Tjahjo Kumolo",
-        "link": "https://www.cnbcindonesia.com/news/20220701153357-8-352228/suasana-terkini-rumah-duka-menpan-rb-tjahjo-kumolo",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE1MzM1Ny04LTM1MjIyOC9zdWFzYW5hLXRlcmtpbmktcnVtYWgtZHVrYS1tZW5wYW4tcmItdGphaGpvLWt1bW9sbw==",
-        "description": " Suasana Terkini Rumah Duka Menpan RB, Tjahjo Kumolo"
-    },
-    {
-        "title": "Produksi Migas Minarak Brantas Menciut Drastis, Kok Bisa?",
-        "link": "https://www.cnbcindonesia.com/news/20220701144104-4-352205/produksi-migas-minarak-brantas-menciut-drastis-kok-bisa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE0NDEwNC00LTM1MjIwNS9wcm9kdWtzaS1taWdhcy1taW5hcmFrLWJyYW50YXMtbWVuY2l1dC1kcmFzdGlzLWtvay1iaXNh",
-        "description": " SKK Migas mencatat produksi Minarak Grantas mengalami penciutan produksi migas yang cukup dalam"
-    },
-    {
-        "title": "Beda Gaya! Kala Putin Ketemu Jokowi vs Macron",
-        "link": "https://www.cnbcindonesia.com/news/20220701140443-7-352176/beda-gaya-kala-putin-ketemu-jokowi-vs-macron",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE0MDQ0My03LTM1MjE3Ni9iZWRhLWdheWEta2FsYS1wdXRpbi1rZXRlbXUtam9rb3dpLXZzLW1hY3Jvbg==",
-        "description": " Ini gaya Presiden Rusia Vladimir Putin bertemu Presiden RI Joko Widodo vs Presiden Prancis Emmanuel Macron."
-    },
-    {
-        "title": "Tetap Ada Resiko, Ini Tantangan Pembiayaan di Sektor Hijau",
-        "link": "https://www.cnbcindonesia.com/news/20220701151308-4-352218/tetap-ada-resiko-ini-tantangan-pembiayaan-di-sektor-hijau",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTE1MTMwOC00LTM1MjIxOC90ZXRhcC1hZGEtcmVzaWtvLWluaS10YW50YW5nYW4tcGVtYmlheWFhbi1kaS1zZWt0b3ItaGlqYXU=",
-        "description": " Perbankan memiliki standarisasi pengukuran dan pemetaan yang ketat dalam melakukan pembiayaan."
     }
 ]

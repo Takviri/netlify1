@@ -1,5 +1,12 @@
 [
     {
+        "title": "Filipina: 'Warisan berdarah' kepresidenan Rodrigo Duterte",
+        "link": "https://www.bbc.com/indonesia/dunia-61992416",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE5OTI0MTY=",
+        "description": "Salah satu sosok terkuat di Filipina telah berakhir masa kepresidenannya. Kebijakannya melawan narkoba dan kejahatan telah menewaskan ribuan orang."
+    },
+    {
         "title": "Jokowi temui Putin, bawa pesan dari Zelensky: 'Saya siap jadi jembatan komunikasi'",
         "link": "https://www.bbc.com/indonesia/indonesia-61972096",
         "image": "static/images/bbc_indonesia.png",
@@ -7,18 +14,18 @@
         "description": "Presiden Joko Widodo menegaskan situasi pasok pangan global tidak akan membaik jika pupuk dari Rusia dan gandum dari Ukraina tak tersedia."
     },
     {
-        "title": "MyPertamina untuk penyaluran subsidi BBM 'berpotensi blunder karena masyarakat kelas bawah belum siap'",
-        "link": "https://www.bbc.com/indonesia/indonesia-61977270",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYxOTc3Mjcw",
-        "description": "Penerapan sistem pendaftaran online demi mengontrol penyaluran BBM bersubsidi dinilai pengamat energi sebagai \"kebijakan yang berpotensi blunder\" dan justru mempersulit masyarakat kelas menengah ke bawah yang tidak memiliki akses internet."
-    },
-    {
         "title": "FBI menempatkan 'Ratu Kripto' ke daftar 10 buronan paling dicari, siap beri hadiah Rp1,5 miliar",
         "link": "https://www.bbc.com/indonesia/dunia-61972100",
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE5NzIxMDA=",
         "description": "Ruja Ignatova dituduh menggelapkan uang para korbannya senilai Rp59,8 triliun melalui tipu daya cryptocurrency."
+    },
+    {
+        "title": "MyPertamina untuk penyaluran subsidi BBM 'berpotensi blunder karena masyarakat kelas bawah belum siap'",
+        "link": "https://www.bbc.com/indonesia/indonesia-61977270",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYxOTc3Mjcw",
+        "description": "Penerapan sistem pendaftaran online demi mengontrol penyaluran BBM bersubsidi dinilai pengamat energi sebagai \"kebijakan yang berpotensi blunder\" dan justru mempersulit masyarakat kelas menengah ke bawah yang tidak memiliki akses internet."
     },
     {
         "title": "Vladimir Putin saling ejek dengan para pemimpin G7 soal foto telanjang dada",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYxOTgwNTE5",
         "description": "Kebijakan pembelian Bahan Bakar Minyak (BBM) bersubsidi dengan menggunakan aplikasi digital dikritisi pengamat energi dan lembaga konsumen karena bakal merugikan kelompok masyarakat miskin sebagai pihak yang berhak menerima subsidi."
-    },
-    {
-        "title": "Ferdinand Marcos Jr resmi menjadi presiden Filipina, minta publik jangan menatap masa lalu \u2018dengan amarah\u2019",
-        "link": "https://www.bbc.com/indonesia/dunia-61990521",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE5OTA1MjE=",
-        "description": "Ferdinand \"Bongbong\" Marcos Jr resmi menggantikan Rodrigo Duterte sebagai presiden Filipina."
     }
 ]

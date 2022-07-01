@@ -1,5 +1,19 @@
 [
     {
+        "title": "Raden Said Soekanto Kapolri Pertama, Penggagas Markas Polri di Trunojoyo Kebayoran Baru",
+        "link": "https://nasional.tempo.co/read/1607673/raden-said-soekanto-kapolri-pertama-penggagas-markas-polri-di-trunojoyo-kebayoran-baru",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDc2NzMvcmFkZW4tc2FpZC1zb2VrYW50by1rYXBvbHJpLXBlcnRhbWEtcGVuZ2dhZ2FzLW1hcmthcy1wb2xyaS1kaS10cnVub2pveW8ta2ViYXlvcmFuLWJhcnU=",
+        "description": "Raden Said Soekanto Tjokrodiatmodjo diangkat Kapolri oleh Presiden Soekarno pada 29 September 1945. Ia penggagas markas Polri di Trunojoyo, Kebayoran."
+    },
+    {
+        "title": "Tjahjo Kumolo Meninggal, Megawati Minta Kader Kibarkan Bendera Setengah Tiang",
+        "link": "https://nasional.tempo.co/read/1607670/tjahjo-kumolo-meninggal-megawati-minta-kader-kibarkan-bendera-setengah-tiang",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDc2NzAvdGphaGpvLWt1bW9sby1tZW5pbmdnYWwtbWVnYXdhdGktbWludGEta2FkZXIta2liYXJrYW4tYmVuZGVyYS1zZXRlbmdhaC10aWFuZw==",
+        "description": "Ketua Umum PDIP Megawati Soekarnoputri menginstruksikan seluruh kadernya untuk mengibarkan bendera setelah tiang atas meninggalnya Tjahjo Kumolo."
+    },
+    {
         "title": "Jokowi: Almarhum Tjahjo Kumolo Berpulang di Puncak Pengabdian kepada Negara",
         "link": "https://nasional.tempo.co/read/1607659/jokowi-almarhum-tjahjo-kumolo-berpulang-di-puncak-pengabdian-kepada-negara",
         "image": "static/images/tempo_nasional.png",
@@ -49,24 +63,10 @@
         "description": "Kerja sama dengan BNPB, PMI dan semua pihak dibutuhkan dalam menghadapi serangan wabah PMK."
     },
     {
-        "title": "Tjahjo Kumolo, Kembalikan Perda Diskriminatif hingga Menata Birokrasi",
-        "link": "https://nasional.tempo.co/read/1607623/tjahjo-kumolo-kembalikan-perda-diskriminatif-hingga-menata-birokrasi",
+        "title": "Tjahjo Kumolo, Hapus Perda Diskriminatif hingga Menata Birokrasi",
+        "link": "https://nasional.tempo.co/read/1607623/tjahjo-kumolo-hapus-perda-diskriminatif-hingga-menata-birokrasi",
         "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDc2MjMvdGphaGpvLWt1bW9sby1rZW1iYWxpa2FuLXBlcmRhLWRpc2tyaW1pbmF0aWYtaGluZ2dhLW1lbmF0YS1iaXJva3Jhc2k=",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDc2MjMvdGphaGpvLWt1bW9sby1oYXB1cy1wZXJkYS1kaXNrcmltaW5hdGlmLWhpbmdnYS1tZW5hdGEtYmlyb2tyYXNp",
         "description": "Tjahjo Kumolo wafat pada hari ini. Berikut perjalanan karier dia hingga terakhir menjadi MenPAN RB di Kabinet Presiden Joko Widodo."
-    },
-    {
-        "title": "Inovasi Kartu Emas Pegadaian Raih Penghargaan",
-        "link": "https://nasional.tempo.co/read/1607632/inovasi-kartu-emas-pegadaian-raih-penghargaan",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDc2MzIvaW5vdmFzaS1rYXJ0dS1lbWFzLXBlZ2FkYWlhbi1yYWloLXBlbmdoYXJnYWFu",
-        "description": "Produk merupakan alat pembayaran layaknya kartu kredit berbasis saldo tabungan emas."
-    },
-    {
-        "title": "Budayawan: Tokoh Betawi Jadi Nama Jalan untuk Bekal Sejarah",
-        "link": "https://nasional.tempo.co/read/1607618/budayawan-tokoh-betawi-jadi-nama-jalan-untuk-bekal-sejarah",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDc2MTgvYnVkYXlhd2FuLXRva29oLWJldGF3aS1qYWRpLW5hbWEtamFsYW4tdW50dWstYmVrYWwtc2VqYXJhaA==",
-        "description": "Warga dapat mengubah data di administrasi kependudukan secara gratis dan mudah."
     }
 ]
