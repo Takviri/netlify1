@@ -1,5 +1,40 @@
 [
     {
+        "title": "Meski Covid-19 Kembali Naik, Bali \"Pede\" Pariwisata Pulih!",
+        "link": "https://www.cnbcindonesia.com/news/20220701114844-8-352111/meski-covid-19-kembali-naik-bali-pede-pariwisata-pulih",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTExNDg0NC04LTM1MjExMS9tZXNraS1jb3ZpZC0xOS1rZW1iYWxpLW5haWstYmFsaS1wZWRlLXBhcml3aXNhdGEtcHVsaWg=",
+        "description": " Siap Antisipasi Covid-19, Bali \"Pede\" Pariwisata Kembali Pulih!"
+    },
+    {
+        "title": "Daftar Beli Pertalite Baru di 11 Wilayah, Jabodetabek Kapan?",
+        "link": "https://www.cnbcindonesia.com/news/20220701110453-4-352081/daftar-beli-pertalite-baru-di-11-wilayah-jabodetabek-kapan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTExMDQ1My00LTM1MjA4MS9kYWZ0YXItYmVsaS1wZXJ0YWxpdGUtYmFydS1kaS0xMS13aWxheWFoLWphYm9kZXRhYmVrLWthcGFu",
+        "description": " Pertamina menetapkan 11 Wilayah kabupaten/kota untuk mendaftar di MyPertamina. Lalu kapan Jabodetabek?"
+    },
+    {
+        "title": "Tjahjo Kumolo Wafat: Aktivis dan Politisi yang Jadi Menteri",
+        "link": "https://www.cnbcindonesia.com/news/20220701115037-4-352116/tjahjo-kumolo-wafat-aktivis-politisi-yang-jadi-menteri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTExNTAzNy00LTM1MjExNi90amFoam8ta3Vtb2xvLXdhZmF0LWFrdGl2aXMtcG9saXRpc2kteWFuZy1qYWRpLW1lbnRlcmk=",
+        "description": " Kabar duka datang dari Kabinet Indonesia Maju, Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Tjahjo Kumolo meninggal."
+    },
+    {
+        "title": "Singapura Tak Lockdown Meski Covid \"Meledak\", Ini Kondisinya",
+        "link": "https://www.cnbcindonesia.com/news/20220701111306-8-352084/singapura-tak-lockdown-meski-covid-meledak-ini-kondisinya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTExMTMwNi04LTM1MjA4NC9zaW5nYXB1cmEtdGFrLWxvY2tkb3duLW1lc2tpLWNvdmlkLW1lbGVkYWstaW5pLWtvbmRpc2lueWE=",
+        "description": " Tak Ada Lockdown Meski Covid-19 Singapura \"Meledak\", Ini Alasannya"
+    },
+    {
+        "title": "Korut Sebut Benda 'Alien' Biang Kerok Penyebaran Covid",
+        "link": "https://www.cnbcindonesia.com/news/20220701113850-4-352107/korut-sebut-benda-alien-biang-kerok-penyebaran-covid",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTExMzg1MC00LTM1MjEwNy9rb3J1dC1zZWJ1dC1iZW5kYS1hbGllbi1iaWFuZy1rZXJvay1wZW55ZWJhcmFuLWNvdmlk",
+        "description": " Korea Utara menyatakan bahwa wabah Covid-19 pertama di negara itu dimulai dengan pasien yang menyentuh \"benda asing\" di dekat perbatasan dengan Korea Selatan."
+    },
+    {
         "title": "Tjahjo Kumolo Meninggal Dunia, Jenazah Dibawa ke Rumah Dinas",
         "link": "https://www.cnbcindonesia.com/news/20220701115552-4-352114/tjahjo-kumolo-meninggal-dunia-jenazah-dibawa-ke-rumah-dinas",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTEwNTY1Ni04LTM1MjA3My9tb21lbi1rZW1lc3JhYW4tam9rb3dpLXB1dGlu",
         "description": " Presiden Joko Widodo tiba di Istana Kremlin, Kamis (30/6/22).\u00c2\u00a0Terlihat \"kemesraan\" Jokowi dan Putin saat tiba.\u00c2\u00a0Jokowi mendapat sambutan hangat dari Putin."
-    },
-    {
-        "title": "BBM Shell Naik, Cek Harga Pertamax dan Pertalite di Semua SPBU",
-        "link": "https://www.cnbcindonesia.com/news/20220701103242-4-352056/bbm-shell-naik-cek-harga-pertamax-pertalite-di-semua-spbu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTEwMzI0Mi00LTM1MjA1Ni9iYm0tc2hlbGwtbmFpay1jZWstaGFyZ2EtcGVydGFtYXgtcGVydGFsaXRlLWRpLXNlbXVhLXNwYnU=",
-        "description": " Sehll Indonesia resmi menaikkan harga BBM menjadi Rp 18.500/Liter untuk Shell Super setara Pertamax. Bagaimana Pertamina?"
-    },
-    {
-        "title": "Putin Senang Dikunjungi Jokowi, Saat Barat Beri Sanksi",
-        "link": "https://www.cnbcindonesia.com/news/20220701101811-8-352045/putin-senang-dikunjungi-jokowi-saat-barat-beri-sanksi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTEwMTgxMS04LTM1MjA0NS9wdXRpbi1zZW5hbmctZGlrdW5qdW5naS1qb2tvd2ktc2FhdC1iYXJhdC1iZXJpLXNhbmtzaQ==",
-        "description": " Jokowi membawa misi perdamaian antara Ukraina-Rusia ini disambut hangat oleh Putin"
-    },
-    {
-        "title": "Siapa Penerima Hoegeng Awards 2022? Saksikan di detikcom",
-        "link": "https://www.cnbcindonesia.com/news/20220701112034-4-352089/siapa-penerima-hoegeng-awards-2022-saksikan-di-detikcom",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTExMjAzNC00LTM1MjA4OS9zaWFwYS1wZW5lcmltYS1ob2VnZW5nLWF3YXJkcy0yMDIyLXNha3Npa2FuLWRpLWRldGlrY29t",
-        "description": " Hoegeng Awards 2022 digelar untuk mencari sosok polisi dengan tiga kategori, yakni Polisi Berintegritas, Polisi Inovatif, dan Polisi Berdedikasi."
-    },
-    {
-        "title": "Jokowi Kebut Proyek 'Jalan Lingkar Raksasa' di Tepi Samudra",
-        "link": "https://www.cnbcindonesia.com/news/20220701110147-7-352075/jokowi-kebut-proyek-jalan-lingkar-raksasa-di-tepi-samudra",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTExMDE0Ny03LTM1MjA3NS9qb2tvd2kta2VidXQtcHJveWVrLWphbGFuLWxpbmdrYXItcmFrc2FzYS1kaS10ZXBpLXNhbXVkcmE=",
-        "description": " Presiden Jokowi memperhatikan pembangunan pulau-pulau terpencil termasuk infrastruktur di Pulau Nias, Sumut yang di tepi Samudra Hindia."
-    },
-    {
-        "title": "Sri Mulyani Ramal Ekonomi RI Tahun Ini Tumbuh 4,9-5,4%",
-        "link": "https://www.cnbcindonesia.com/news/20220701111855-4-352088/sri-mulyani-ramal-ekonomi-ri-tahun-ini-tumbuh-49-54",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTExMTg1NS00LTM1MjA4OC9zcmktbXVseWFuaS1yYW1hbC1la29ub21pLXJpLXRhaHVuLWluaS10dW1idWgtNDktNTQ=",
-        "description": " Meningkatnya konsumsi dan investasi serta ekspor yang masih kuat diperkirakan dapat menopang pertumbuhan ekonomi tahun 2022 pada kisaran 4,9% sampai 5,4%."
     }
 ]

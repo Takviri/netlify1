@@ -1,5 +1,12 @@
 [
     {
+        "title": "BPS: Kenaikan Tarif Listrik Bakal Picu Inflasi Juli",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220701100101-92-815889/bps-kenaikan-tarif-listrik-bakal-picu-inflasi-juli",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzAxMTAwMTAxLTkyLTgxNTg4OS9icHMta2VuYWlrYW4tdGFyaWYtbGlzdHJpay1iYWthbC1waWN1LWluZmxhc2ktanVsaQ==",
+        "description": " Badan Pusat Statistik (BPS) melihat kenaikan tarif listrik golongan pelanggan dengan daya 3.500 VA ke atas bakal mengerek inflasi Juli 2022."
+    },
+    {
         "title": "Kunjungan Turis Tertinggi Sejak Pandemi, Pariwisata RI Bangkit?",
         "link": "https://www.cnnindonesia.com/ekonomi/20220701114509-92-815954/kunjungan-turis-tertinggi-sejak-pandemi-pariwisata-ri-bangkit",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzAxMDY1OTUxLTg1LTgxNTgyNS9oYXJnYS1taW55YWstZHVuaWEtYW5qbG9rLWRpLXRlbmdhaC1rZWtoYXdhdGlyYW4tcmVzZXNpLWVrb25vbWk=",
         "description": " Harga minyak dunia anjlok 3,7 persen pada akhir perdagangan karena OPEC dan sekutunya akan menggenjot produksi pada Agustus."
-    },
-    {
-        "title": "Inflasi Juni Tembus 4,35 Persen, Tertinggi Sejak 2017",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220701093610-92-815872/inflasi-juni-tembus-435-persen-tertinggi-sejak-2017",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzAxMDkzNjEwLTkyLTgxNTg3Mi9pbmZsYXNpLWp1bmktdGVtYnVzLTQzNS1wZXJzZW4tdGVydGluZ2dpLXNlamFrLTIwMTc=",
-        "description": " BPS mencatat inflasi pada Juni 2022 tembus 4,35 persen, tertinggi sejak 2017 silam."
     }
 ]
