@@ -1,5 +1,54 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503597/telementoring-echo-didorong-untuk-digunakan-pada-penyakit-lain-disamping-kanker",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNTk3L3RlbGVtZW50b3JpbmctZWNoby1kaWRvcm9uZy11bnR1ay1kaWd1bmFrYW4tcGFkYS1wZW55YWtpdC1sYWluLWRpc2FtcGluZy1rYW5rZXI=",
+        "description": "KEMENTERIAN Kesehatan (Kemenkes) mendukung program Telementoring ECHO (Extension of Community Healthcare Outcomes), yang dinilai mampu meningkatkan kapasitas tenaga kesehatan, serta mengurangi ketimpangan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503596/dampak-dob-di-papua-revisi-uu-pemilu-dibicarakan-setelah-reses",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM1OTYvZGFtcGFrLWRvYi1kaS1wYXB1YS1yZXZpc2ktdXUtcGVtaWx1LWRpYmljYXJha2FuLXNldGVsYWgtcmVzZXM=",
+        "description": "DPR dan pemerintah akan segera duduk bersama untuk membahas rencana revisi Undang-Undang 7 Tahun 2017 tentang Pemilu. Ketua Komisi II Ahmad Doli Kurnia memastikan kelanjutan rencana revisi UU Pemilu&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/503595/eksekusi-mati-di-iran-melonjak-lebih-dari-dua-kali-lipat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzU5NS9la3Nla3VzaS1tYXRpLWRpLWlyYW4tbWVsb25qYWstbGViaWgtZGFyaS1kdWEta2FsaS1saXBhdA==",
+        "description": "EKSEKUSI di Iran meningkat lebih dari dua kali lipat pada paruh pertama 2022. Lembaga swadaya masyarakat (LSM) memperingatkan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/503592/basianyuik-atraksi-menyusuri-terowongan-air-yang-menantang-di-pesisir-selatan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNTkyL2Jhc2lhbnl1aWstYXRyYWtzaS1tZW55dXN1cmktdGVyb3dvbmdhbi1haXIteWFuZy1tZW5hbnRhbmctZGktcGVzaXNpci1zZWxhdGFu",
+        "description": "WISATAWAN kini sudah bisa menikmati wisata alam Nagari Salido Sari Bulan, Kecamatan IV Jurai, Kabupaten Pesisir Selatan, Sumatra Barat, dengan melakukan atraksi menyusuri dam terowongan air yang cukup&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/503593/sulteng-akan-kembangkan-pertanian-kedelai",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNTkzL3N1bHRlbmctYWthbi1rZW1iYW5na2FuLXBlcnRhbmlhbi1rZWRlbGFp",
+        "description": "PEMERINTAH Provinsi Sulawesi Tengah (Pemprov Sulteng) menyiapkan 1.500 hektare lahan untuk mengembangkan produk pangan lokal. Salah satunya kedelai. Kepala Bidang Produksi Tanaman Pangan, Dinas&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/503591/liburan-sekolah-kawasan-wisata-dieng-dipadati-pengunjung",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNTkxL2xpYnVyYW4tc2Vrb2xhaC1rYXdhc2FuLXdpc2F0YS1kaWVuZy1kaXBhZGF0aS1wZW5ndW5qdW5n",
+        "description": "LIBURAN sekolah dan adanya fenomena embun es akibat suhu ekstrem jadi membuat di kawasan dataran tinggi Dieng, Banjarnegara, Jawa Tengah (Jateng) di banjiri pengunjung. Jika biasanya, kunjungan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503590/pimpinan-dpr-sampaikan-duka-cita-atas-wafatnya-menpan-rb-tjahjo-kumolo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM1OTAvcGltcGluYW4tZHByLXNhbXBhaWthbi1kdWthLWNpdGEtYXRhcy13YWZhdG55YS1tZW5wYW4tcmItdGphaGpvLWt1bW9sbw==",
+        "description": "WAKIL Ketua DPR RI Kordinator Bidang Ekonomi dan Keuangan (Korekku) Sufmi Dasco Ahmad mengungkapkan rasa dukanya yang mendalam atas wafatnya Menteri Pendayagunaan Aparatur negara dan Reformasi Birokrasi&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/503589/literasi-digital-jadikan-penjual-dan-pembeli-di-ranah-dsring-lebih-terlindungi",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNTg3L3Nvc29rLXRqYWhqby1rdW1vbG8tcGFudXRhbi1iYWdpLWd1YmVybnVyLXdhdGVycGF1dw==",
         "description": "PENJABAT (Pj) Guberur Provinsi Papua Barat, Komjen Pol (Purn) Drs Paulus Waterpauw, M.Si mengenang sosok mendiang Menteri PAN RB, Tjahjo Kumolo, sebagai seorang bapak dan kakak yang baik hati.&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/503586/bruno-fernandes-yakin-ronaldo-tidak-akan-tinggalkan-old-trafford",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzU4Ni9icnVuby1mZXJuYW5kZXMteWFraW4tcm9uYWxkby10aWRhay1ha2FuLXRpbmdnYWxrYW4tb2xkLXRyYWZmb3Jk",
-        "description": "GELANDANG Manchester United, Bruno Fernandes meyakini kompatriotnya, Cristiano Ronaldo, akan bertahan di Old Trafford musim panas ini. Ronaldo mencetak 24 gol dan tiga assist dalam 38 penampilan&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/503585/pelaku-jambret-di-spbu-tomang-ditangkap-polisi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDM1ODUvcGVsYWt1LWphbWJyZXQtZGktc3BidS10b21hbmctZGl0YW5na2FwLXBvbGlzaQ==",
-        "description": "POLISI menangkap seorang berinisial AS, usai menjambret ponsel milik seorang wanita saat berada di stasiun pengisian bahan bakar umum (SPBU) Jalan Tomang Raya, Jatipulo, Palmerah, Jakarta Barat.&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/503584/pt-timah-bangun-rumah-korban-puting-beliung-di-bangka-tengah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNTg0L3B0LXRpbWFoLWJhbmd1bi1ydW1haC1rb3JiYW4tcHV0aW5nLWJlbGl1bmctZGktYmFuZ2thLXRlbmdhaA==",
-        "description": "PT.Timah Tbk membangun Rumah Layak Huni untuk Hatijah (65) korban puting Beliung di Desa Kebintik, Kecamatan Pangkalan Baru, Kabupaten Bangka Tengah, Jumat (1/7). Rumah milik Hatijah sebelumnya rata&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/503583/singkirkan-unggulan-utama-apriyanisiti-lolos-ke-semifinal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM1ODMvc2luZ2tpcmthbi11bmdndWxhbi11dGFtYS1hcHJpeWFuaXNpdGktbG9sb3Mta2Utc2VtaWZpbmFs",
-        "description": "GANDA putri Indonesia Apriyani Rahayu/Siti Fadia Silfa Ramadhanti tampil memukau di babak perempat final turnamen bulutangkis Malaysia Terbuka 2022. Menghadapi unggulan utama asal Tiongkok, Chen Qing&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503581/bank-mandiri-minta-titan-segera-selesaikan-kredit-macetnya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzU4MS9iYW5rLW1hbmRpcmktbWludGEtdGl0YW4tc2VnZXJhLXNlbGVzYWlrYW4ta3JlZGl0LW1hY2V0bnlh",
-        "description": "KREDIT macet PT Titan Infra Energy anak usaha dari Titan Group senilai USD 450 juta kepada sejumlah kreditur sindikasi yang terdiri dari PT Bank CIMB Niaga Tbk, PT Bank Mandiri (Persero) Tbk, Credit&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/503582/jonatan-christie-tantang-axelsen-di-semifinal-malaysia-terbuka-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM1ODIvam9uYXRhbi1jaHJpc3RpZS10YW50YW5nLWF4ZWxzZW4tZGktc2VtaWZpbmFsLW1hbGF5c2lhLXRlcmJ1a2EtMjAyMg==",
-        "description": "PERJALANAN pebulu tangkis tunggal putra Indonesia, Jonatan Christie, berlanjut ke babak semifinal Malaysia Terbuka 2022, usai merebut kemenangan atas wakil India Prannoy H S, hari ini. Melakoni&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/503579/holywings-dituntut-rp355-triliun-oleh-pemuda-islam-kristen",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDM1NzkvaG9seXdpbmdzLWRpdHVudHV0LXJwMzU1LXRyaWxpdW4tb2xlaC1wZW11ZGEtaXNsYW0ta3Jpc3Rlbg==",
-        "description": "PT Aneka Bintang Gading yang menaungkan operasional Holywings digugat Rp 35.5 Triliun oleh organisasi kepemudaan Islam dan Kristen Aliansi Pemuda Nusantara ke Pengadilan Negeri (PN) Jakarta Pusat.&nbsp;&#8230;"
     }
 ]

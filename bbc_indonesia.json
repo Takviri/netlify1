@@ -1,5 +1,12 @@
 [
     {
+        "title": "Penyerahan Hong Kong: Akan seperti apa kota ini 25 tahun lagi?",
+        "link": "https://www.bbc.com/indonesia/dunia-62006972",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjIwMDY5NzI=",
+        "description": "Di titik tengah percobaan \"satu negara, dua sistem\", keraguan membayangi salah satu kota paling hidup di Asia."
+    },
+    {
         "title": "Filipina: 'Warisan berdarah' kepresidenan Rodrigo Duterte",
         "link": "https://www.bbc.com/indonesia/dunia-61992416",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvdmVydC10cmEtNjE5MzYyNTg=",
         "description": "Sebuah fenomena meteorologi yang jarang diketahui khalayak membuat sebuah desa kecil di kawasan Arktik Swedia menjadi salah satu tempat terbaik di Bumi untuk menyaksikan Aurora Borealis."
-    },
-    {
-        "title": "MyPertamina untuk beli Pertalite, bagaimana kalau tidak punya smartphone?",
-        "link": "https://www.bbc.com/indonesia/indonesia-61980519",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYxOTgwNTE5",
-        "description": "Kebijakan pembelian Bahan Bakar Minyak (BBM) bersubsidi dengan menggunakan aplikasi digital dikritisi pengamat energi dan lembaga konsumen karena bakal merugikan kelompok masyarakat miskin sebagai pihak yang berhak menerima subsidi."
     }
 ]
