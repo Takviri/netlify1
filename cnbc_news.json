@@ -1,5 +1,19 @@
 [
     {
+        "title": "Gangguan Server, Warga Sukabumi Terkendala Daftar MyPertamina",
+        "link": "https://www.cnbcindonesia.com/news/20220702160007-8-352415/gangguan-server-warga-sukabumi-terkendala-daftar-mypertamina",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjE2MDAwNy04LTM1MjQxNS9nYW5nZ3Vhbi1zZXJ2ZXItd2FyZ2Etc3VrYWJ1bWktdGVya2VuZGFsYS1kYWZ0YXItbXlwZXJ0YW1pbmE=",
+        "description": " Sejumlah warga pendaftar aplikasi MyPertamina di spbu Pertamina Citamiang, Kota Sukabumi, Jawa Barat, kecewa lantaran untuk mendaftar aplikasi masih error."
+    },
+    {
+        "title": "Luluh Lantak! Potret Serangan Rudal Rusia di Pemukiman Odesa",
+        "link": "https://www.cnbcindonesia.com/news/20220702141641-7-352394/luluh-lantak-potret-serangan-rudal-rusia-di-pemukiman-odesa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjE0MTY0MS03LTM1MjM5NC9sdWx1aC1sYW50YWstcG90cmV0LXNlcmFuZ2FuLXJ1ZGFsLXJ1c2lhLWRpLXBlbXVraW1hbi1vZGVzYQ==",
+        "description": " Sedikitnya 21 orang tewas dan 38 lainnya cedera dalam serangan rudal Rusia di sebuah blok apartemen dan pusat rekreasi di kota resor barat daya Odessa"
+    },
+    {
         "title": "Ini Jurus Luhut Perbaiki Harga TBS di Petani Kelapa Sawit",
         "link": "https://www.cnbcindonesia.com/news/20220702113944-4-352384/ini-jurus-luhut-perbaiki-harga-tbs-di-petani-kelapa-sawit",
         "image": "static/images/cnbc_news.png",
@@ -42,31 +56,17 @@
         "description": " Hasil pemikiran para pemuda dalam forum Y20 bisa terus berkelanjutan dan tidak terputus hingga bisa mewariskan masa depan yang damai."
     },
     {
+        "title": "B20 Dukung Inklusi Keuangan UMKM dan Petani",
+        "link": "https://www.cnbcindonesia.com/news/20220702155626-4-352414/b20-dukung-inklusi-keuangan-umkm-dan-petani",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjE1NTYyNi00LTM1MjQxNC9iMjAtZHVrdW5nLWlua2x1c2kta2V1YW5nYW4tdW1rbS1kYW4tcGV0YW5p",
+        "description": " Rendahnya literasi petani dan UMKM membuat mereka sulit mengakses pembiayaan karena minimnya pengetahuan untuk mengikuti prosedur yang dijalankan perbankan."
+    },
+    {
         "title": "Ledakan Guncang Mykolaiv Ukraina, 21 Orang Tewas Kena Rudal",
         "link": "https://www.cnbcindonesia.com/news/20220702134136-4-352392/ledakan-guncang-mykolaiv-ukraina-21-orang-tewas-kena-rudal",
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjEzNDEzNi00LTM1MjM5Mi9sZWRha2FuLWd1bmNhbmctbXlrb2xhaXYtdWtyYWluYS0yMS1vcmFuZy10ZXdhcy1rZW5hLXJ1ZGFs",
         "description": " Ledakan dahsyat mengguncang kota Mykolaiv, Ukraina, pada Sabtu (2/7/2022) pagi waktu setempat."
-    },
-    {
-        "title": "Kabar Baik! Pengguna Booster Pfizer dan Astrazeneca Bakal Happy",
-        "link": "https://www.cnbcindonesia.com/news/20220702112506-4-352377/kabar-baik-pengguna-booster-pfizer-astrazeneca-bakal-happy",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjExMjUwNi00LTM1MjM3Ny9rYWJhci1iYWlrLXBlbmdndW5hLWJvb3N0ZXItcGZpemVyLWFzdHJhemVuZWNhLWJha2FsLWhhcHB5",
-        "description": " Studi terbaru membawa kabar menggembirakan bagi mereka yang mendapatkan vaksin booster Pfizer dan Astrazeneca."
-    },
-    {
-        "title": "Pandemi Melandai, Hunian Berbasis TOD Mulai Banyak Dicari?",
-        "link": "https://www.cnbcindonesia.com/news/20220630123649-8-351764/pandemi-melandai-hunian-berbasis-tod-mulai-banyak-dicari",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEyMzY0OS04LTM1MTc2NC9wYW5kZW1pLW1lbGFuZGFpLWh1bmlhbi1iZXJiYXNpcy10b2QtbXVsYWktYmFueWFrLWRpY2FyaQ==",
-        "description": " Pandemi Melandai, Hunian Berbasis TOD Mulai Banyak Dicari?"
-    },
-    {
-        "title": "Bersama FIC, SMI Beberkan Upaya Pembangunan Indonesia ke PBB",
-        "link": "https://www.cnbcindonesia.com/news/20220702123041-4-352386/bersama-fic-smi-beberkan-upaya-pembangunan-indonesia-ke-pbb",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjEyMzA0MS00LTM1MjM4Ni9iZXJzYW1hLWZpYy1zbWktYmViZXJrYW4tdXBheWEtcGVtYmFuZ3VuYW4taW5kb25lc2lhLWtlLXBiYg==",
-        "description": " PBB meminta agar para pemimpin di FIC dapat lebih memperkuat perannya untuk semakin aktif sehingga dapat memberikan dampak lebih besar kepada masyarakat."
     }
 ]
