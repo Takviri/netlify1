@@ -1,5 +1,47 @@
 [
     {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/503712/rumuskan-kebijakan-publik-pemprov-dki-libatkan-generasi-muda",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDM3MTIvcnVtdXNrYW4ta2ViaWpha2FuLXB1Ymxpay1wZW1wcm92LWRraS1saWJhdGthbi1nZW5lcmFzaS1tdWRh",
+        "description": "PEMERINTAH Provinsi DKI Jakarta melibatkan generasi muda dalam merumuskan kebijakan publik dan pembangunan di Ibu Kota karena kelompok usia tersebut memiliki kreativitas serta inovasi. &#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503716/masyarakat-diminta-patuh-kebijakan-pengendalian-covid-19",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNzE2L21hc3lhcmFrYXQtZGltaW50YS1wYXR1aC1rZWJpamFrYW4tcGVuZ2VuZGFsaWFuLWNvdmlkLTE5",
+        "description": "PERKEMBANGAN Covid-19 di Indonesia berjalan cukup dinamis. Perkembangan kasus positif saat ini mengalami tren kenaikan, yang berdampak meningkatnya keterisian tempat tidur (BOR) pasien di RSDC Wisma&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/503714/pendaftaran-nominator-zayed-award-untuk-persaudaraan-manusia-2023-dibuka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzcxNC9wZW5kYWZ0YXJhbi1ub21pbmF0b3ItemF5ZWQtYXdhcmQtdW50dWstcGVyc2F1ZGFyYWFuLW1hbnVzaWEtMjAyMy1kaWJ1a2E=",
+        "description": "PANITIA Penyelenggara Zayed Award untuk Persaudaraan Manusia 2023 mulai membuka pendaftaram nominator. Pendaftaran event kali keempat ini dibuka sejak 1 Juli sampai 31 Oktober 2022. Zayed Award&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503713/pakai-masker-dan-vaksinasi-sama-penting-dalam-cegah-covid-19",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNzEzL3Bha2FpLW1hc2tlci1kYW4tdmFrc2luYXNpLXNhbWEtcGVudGluZy1kYWxhbS1jZWdhaC1jb3ZpZC0xOQ==",
+        "description": "JURU Bicara Pemerintah untuk Penanganan Covid-19 Prof. Wiku Adisasmito menyebut, bahwa vaksin Covid-19 sama pentingnya dengan memakai masker. Sebab, vaksin melindungi masyarakat secara menyeluruh&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/503705/transjakarta-sediakan-layanan-wara-wiri-royal-untuk-pengunjung-ancol",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDM3MDUvdHJhbnNqYWthcnRhLXNlZGlha2FuLWxheWFuYW4td2FyYS13aXJpLXJveWFsLXVudHVrLXBlbmd1bmp1bmctYW5jb2w=",
+        "description": "PT Transportasi Jakarta (Transjakarta) menyediakan layanan khusus Wara Wiri Royal yang akan melayani akses transportasi bagi pengunjung di kawasan wisata Ancol, Jakarta Utara. Layanan ini merupakan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503710/gaungkan-kebangkitan-kehutanan-melalui-green-environment-and-forestry-expo-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNzEwL2dhdW5na2FuLWtlYmFuZ2tpdGFuLWtlaHV0YW5hbi1tZWxhbHVpLWdyZWVuLWVudmlyb25tZW50LWFuZC1mb3Jlc3RyeS1leHBvLTIwMjI=",
+        "description": "SEKRETARIS Jenderal KLHK Bambang Hendroyono membuka Indonesia Green Environment and Forestry Expo 2022 di Jakarta Convention Center, Jumat (1/7). Melalui pameran ini Kementerian Lingkungan&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/503709/3-pengemudi-mobil-yang-balap-liar-tutup-jalan-di-senayan-ditangkap",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDM3MDQvc29waXItdHJhdmVsLXRld2FzLWRpdGFicmFrLW1vYmlsLXNhYXQtdHVydW5rYW4tcGVudW1wYW5nLWRpLWpha3NlbA==",
         "description": "SOPIR travel berinisial AS (34) tewas setelah ditabrak oleh mobil di Jalan Raya Lenteng Agung, Jagakarsa, Jakarta Selatan, Sabtu (2/7) dini hari WIB. Kanit Laka Lantas Polres Jakarta Selatan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/503703/pemkot-sukabumi-komitmen-penuhi-indikator-kota-layak-anak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNzAzL3BlbWtvdC1zdWthYnVtaS1rb21pdG1lbi1wZW51aGktaW5kaWthdG9yLWtvdGEtbGF5YWstYW5haw==",
-        "description": "TIM verifikasi Kota Layak Anak Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (Kemen-PPA) melakukan verifikasi di Kota Sukabumi, &nbsp;Jawa Barat, Kamis (30/6). Verifikasi tersebut untuk&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503702/kemenag-apresiasi-inovasi-rompi-penurun-suhu-untuk-jemaah-haji-yang-sakit",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNzAyL2tlbWVuYWctYXByZXNpYXNpLWlub3Zhc2ktcm9tcGktcGVudXJ1bi1zdWh1LXVudHVrLWplbWFhaC1oYWppLXlhbmctc2FraXQ=",
-        "description": "SEKRETARIS Jenderal Kementerian Agama Prof Nizar Ali bersama Dirjen Penyelenggaraan Haji dan Umroh Prof Hilman Latief beserta rombongan berkunjung ke Kantor Kesehatan Haji Indonesia (KKHI) Mekah. Dalam&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503701/dpr-dan-pemerintah-sepakati-realisasi-defisit-apbn-tahun-2022-di-angka-45",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzcwMS9kcHItZGFuLXBlbWVyaW50YWgtc2VwYWthdGktcmVhbGlzYXNpLWRlZmlzaXQtYXBibi10YWh1bi0yMDIyLWRpLWFuZ2thLTQ1",
-        "description": "BADAN Anggaran (Banggar) DPR RI bersama pemerintah menyepakati realisasi defisit sampai dengan akhir tahun 2022 diperkirakan mencapai angka 4,5%&nbsp;terhadap Produk Domestik Bruto (PDB). Namun&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503700/subvarian-omikron-naikkan-kasus-harian-pemerintah-optimalkan-penanganan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNzAwL3N1YnZhcmlhbi1vbWlrcm9uLW5haWtrYW4ta2FzdXMtaGFyaWFuLXBlbWVyaW50YWgtb3B0aW1hbGthbi1wZW5hbmdhbmFu",
-        "description": "TREN kenaikan kasus Covid-19 secara global maupun nasional saat ini dipicu munculnya subvarian baru Omikron yaitu BA.4 dan BA.5. Dari data GISAID, dalam 1 bulan terakhir ada 99% lebih varian&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503699/kementan-dan-icmi-bogor-gelar-pelatihan-pertanian-geo-ekonomi-hijau",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzY5OS9rZW1lbnRhbi1kYW4taWNtaS1ib2dvci1nZWxhci1wZWxhdGloYW4tcGVydGFuaWFuLWdlby1la29ub21pLWhpamF1",
-        "description": "KEMENTERIAN Pertanian (Kementan) berkolaborasi dengan Ikatan Cendikiawan Muslim Indonesia (ICMI)&nbsp;Orwilsus Bogor menggelar pelatihan pertanian Geo Ekonomi Hijau. Pelatihan yang menggandeng&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/503698/lolos-ke-16-besar-wimbledon-djokovic-merasa-semakin-prima",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM2OTgvbG9sb3Mta2UtMTYtYmVzYXItd2ltYmxlZG9uLWRqb2tvdmljLW1lcmFzYS1zZW1ha2luLXByaW1h",
-        "description": "LANGKAH juara grand slam 20 kali, Novak Djokovic, terus berlanjut di turnamen Wimbledon 2022. Menang atas rekan senegara Miomir Kecmanovic di putaran ketiga, Djokovic berhak atas satu tempat di babak&#8230;"
     }
 ]
