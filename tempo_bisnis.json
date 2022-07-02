@@ -1,5 +1,12 @@
 [
     {
+        "title": "Situs Program Pengungkapan Sukarela Diretas, Dirjen Pajak: Hacker Bertebaran di Mana-mana",
+        "link": "https://bisnis.tempo.co/read/1607969/situs-program-pengungkapan-sukarela-diretas-dirjen-pajak-hacker-bertebaran-di-mana-mana",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3OTY5L3NpdHVzLXByb2dyYW0tcGVuZ3VuZ2thcGFuLXN1a2FyZWxhLWRpcmV0YXMtZGlyamVuLXBhamFrLWhhY2tlci1iZXJ0ZWJhcmFuLWRpLW1hbmEtbWFuYQ==",
+        "description": "Ditjen Pajak menyebut bahwa terjadi upaya peretasan oleh hacker pada hari terakhir pelaksanaan program pengungkapan sukarela atau PPS."
+    },
+    {
         "title": "Jasa Marga Lakukan Pekerjaan di Tol Padaleunyi Mulai Lusa, Jalur Ini Tak Dapat Dilewati",
         "link": "https://bisnis.tempo.co/read/1607965/jasa-marga-lakukan-pekerjaan-di-tol-padaleunyi-mulai-lusa-jalur-ini-tak-dapat-dilewati",
         "image": "static/images/tempo_bisnis.png",
@@ -12,6 +19,13 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3OTYwL2JhbmstbWFuZGlyaS1iZWJlcmthbi1rcm9ub2xvZ2kta3JlZGl0LW1hY2V0LXRpdGFuLWVuZXJneS1ycC02Ny10cmlsaXVu",
         "description": "Bank Mandiri blak-blakan menjelaskan soal kredit macet perusahaan batu bara PT Titan Infra Energy senilai US$ 450 juta atau sekitar Rp 6,7 triliun."
+    },
+    {
+        "title": "BPDPKS Kembangkan Kompetensi Petani Lewat Pelatihan",
+        "link": "https://bisnis.tempo.co/read/1607973/bpdpks-kembangkan-kompetensi-petani-lewat-pelatihan",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3OTczL2JwZHBrcy1rZW1iYW5na2FuLWtvbXBldGVuc2ktcGV0YW5pLWxld2F0LXBlbGF0aWhhbg==",
+        "description": "BPPSDMP terus menggenjot kemampuan SDM agar sektor kelapa sawit semakin maksimal"
     },
     {
         "title": "OJK Terbitkan Aturan Baru tentang Pengawasan LPEI, Ini 8 Poin Utamanya",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3OTA5L3RlcmtpbmktYmlzbmlzY2VyaXRhLXNhbmRpYWdhLXJlbmFuZy1kaS1sYXV0LTIta2lsb21ldGVyLXBlbmdlY2VyLW1pZ29yLWJlbHVtLXBha2FpLXFyLWNvZGU=",
         "description": "Berita terkini ekonomi dan bisnis hingga Sabtu siang 2 Juli 2022 dimulai dengan Sandiaga menceritakan pengalamannya berenang di laut 2 kilometer."
-    },
-    {
-        "title": "Bitcoin Anjlok, Indodax: Siklus Empat Tahunan Terulang setelah Harga Naik Tinggi",
-        "link": "https://bisnis.tempo.co/read/1607906/bitcoin-anjlok-indodax-siklus-empat-tahunan-terulang-setelah-harga-naik-tinggi",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3OTA2L2JpdGNvaW4tYW5qbG9rLWluZG9kYXgtc2lrbHVzLWVtcGF0LXRhaHVuYW4tdGVydWxhbmctc2V0ZWxhaC1oYXJnYS1uYWlrLXRpbmdnaQ==",
-        "description": "CEO Indodax Oscar Darmawan menilai penurunan harga Bitcoin yang saat ini berada pada level sekitar Rp300 jutaan masih dalam batas wajar."
-    },
-    {
-        "title": "Gandeng Calidus LLC Uni Emirat Arab, PT Pindad Kembangkan Kendaraan Tempur 8x8",
-        "link": "https://bisnis.tempo.co/read/1607903/gandeng-calidus-llc-uni-emirat-arab-pt-pindad-kembangkan-kendaraan-tempur-8x8",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA3OTAzL2dhbmRlbmctY2FsaWR1cy1sbGMtdW5pLWVtaXJhdC1hcmFiLXB0LXBpbmRhZC1rZW1iYW5na2FuLWtlbmRhcmFhbi10ZW1wdXItOHg4",
-        "description": "PT Pindad dari Indonesia dan Calidus LLC dari Uni Emirat Arab (UEA) menandatangani Nota Kesepahaman untuk kerja sama pengembangan kendaraan tempur 8x8"
     }
 ]

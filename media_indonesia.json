@@ -1,6 +1,20 @@
 [
     {
         "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503757/duta-palma-group-bisa-jadi-tersangka-korporasi-korupsi-penguasaan-lahan-sawit",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM3NTcvZHV0YS1wYWxtYS1ncm91cC1iaXNhLWphZGktdGVyc2FuZ2thLWtvcnBvcmFzaS1rb3J1cHNpLXBlbmd1YXNhYW4tbGFoYW4tc2F3aXQ=",
+        "description": "MESKI baru ditingkatkan ke penyidikan umum pada awal pekan lalu, jajaran Jaksa Agung Muda Bidang Tindak Pidana Khusus (JAM-Pidsus) Kejaksaan Agung membuka kemungkinan menetapkan PT Duta Palma Group&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503756/masuk-status-darurat-daerah-dapat-geser-anggaran-untuk-wabah-pmk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzc1Ni9tYXN1ay1zdGF0dXMtZGFydXJhdC1kYWVyYWgtZGFwYXQtZ2VzZXItYW5nZ2FyYW4tdW50dWstd2FiYWgtcG1r",
+        "description": "PEMERINTAH telah menetapkan status darurat terhadap wabah penyakit mulut dan kuku (PMK) pada ternak. Keputusan itu termaktub dalam Surat Keputusan Kepala Badan Nasional Penanggulangan Bencana (BNPB)&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/503749/moeldoko-kunjungan-presiden-jokowi-murni-demi-kemanusiaan",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM3NDkvbW9lbGRva28ta3VuanVuZ2FuLXByZXNpZGVuLWpva293aS1tdXJuaS1kZW1pLWtlbWFudXNpYWFu",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzc1Mi90aWdhLWthbGktZ2VtcGEta3VhdC1ndW5jYW5nLWlyYW4tbGltYS1vcmFuZy1kaWxhcG9ya2FuLXRld2Fz",
         "description": "SEDIKITNYA lima orang tewas setelah gempa berkekuatan magnitudo 6,1 mengguncang Iran selatan pada Sabtu, media pemerintah melaporkan. Kawasan itu juga dilanda dua gempa susulan berkekuatan hingga magnitudo&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/503750/kini-ada-wadah-transaksi-barang-antik-lewat-aplikasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNzUwL2tpbmktYWRhLXdhZGFoLXRyYW5zYWtzaS1iYXJhbmctYW50aWstbGV3YXQtYXBsaWthc2k=",
-        "description": "SEBUAH perusahaan rintisan atau startup lahir di kota budaya, Yogyakarta, bernama Hobikoe. CEO sekaligus Founder Hobikoe, Mukhammad Washar Wasesa, menceritakan, Hobikoe memiliki misi menjadi satu-satunya&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503751/sandiaga-apresiasi-umkm-dan-dukung-yayasan-yatim-dhuafa-di-yogyakarta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNzUxL3NhbmRpYWdhLWFwcmVzaWFzaS11bWttLWRhbi1kdWt1bmcteWF5YXNhbi15YXRpbS1kaHVhZmEtZGkteW9neWFrYXJ0YQ==",
-        "description": "MENTERI Pariwisata dan Ekonomi Kreatif Sandiaga Uno mengunjungi&nbsp; pelaku UMKM di Yogyakarta yang merupakan peserta dari&#8230;"
     }
 ]
