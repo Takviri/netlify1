@@ -1,5 +1,19 @@
 [
     {
+        "title": "Inflasi Memanas Bikin Rupiah Makin Loyo, Mendekati 15.000",
+        "link": "https://www.cnbcindonesia.com/market/20220702161909-20-352418/inflasi-memanas-bikin-rupiah-makin-loyo-mendekati-15000",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAyMTYxOTA5LTIwLTM1MjQxOC9pbmZsYXNpLW1lbWFuYXMtYmlraW4tcnVwaWFoLW1ha2luLWxveW8tbWVuZGVrYXRpLTE1MDAw",
+        "description": " Sepekan ini, rupiah loyo di hadapan dolar Amerika Serikat."
+    },
+    {
+        "title": "Investor Takut Ancaman Resesi, IHSG Ambrol 3,5%",
+        "link": "https://www.cnbcindonesia.com/market/20220702162337-20-352420/investor-takut-ancaman-resesi-ihsg-ambrol-35",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAyMTYyMzM3LTIwLTM1MjQyMC9pbnZlc3Rvci10YWt1dC1hbmNhbWFuLXJlc2VzaS1paHNnLWFtYnJvbC0zNQ==",
+        "description": " Pasar saham Indonesia sepanjang pekan ini melemah\u00c2\u00a0terbebani\u00c2\u00a0ketakutan akan resesi."
+    },
+    {
         "title": "Terancam Kehilangan Pekerjaan, Intip Gaji Karyawan Holywings",
         "link": "https://www.cnbcindonesia.com/market/20220702150356-17-352411/terancam-kehilangan-pekerjaan-intip-gaji-karyawan-holywings",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAyMTEwNDI4LTE3LTM1MjM3NC9yYXR1LWtyaXB0by1pbmktamFkaS1idXJvbmFuLXBhbGluZy1kaWNhcmktZmJpLXJwNjAtdC1yYWli",
         "description": " Ratu Kripto menjadi buron karena melakukan kejahatan penipuan mata uang kripto yang dikenal sebagai OneCoin."
-    },
-    {
-        "title": "Ini Penjelasan BNI Soal Hoaks Kredit Tanpa Jaminan",
-        "link": "https://www.cnbcindonesia.com/market/20220702114052-17-352378/ini-penjelasan-bni-soal-hoaks-kredit-tanpa-jaminan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAyMTE0MDUyLTE3LTM1MjM3OC9pbmktcGVuamVsYXNhbi1ibmktc29hbC1ob2Frcy1rcmVkaXQtdGFucGEtamFtaW5hbg==",
-        "description": " BNI memastikan, penyaluran kredit ke pihak mana pun pasti melewati proses legal, termasuk persyaratan agunan yang sesuai dengan nilai fasilitas pinjaman."
-    },
-    {
-        "title": "5 Perusahaan Teknologi yang Jadi 'Tambang Emas' Dunia",
-        "link": "https://www.cnbcindonesia.com/market/20220701200534-20-352338/5-perusahaan-teknologi-yang-jadi-tambang-emas-dunia",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAxMjAwNTM0LTIwLTM1MjMzOC81LXBlcnVzYWhhYW4tdGVrbm9sb2dpLXlhbmctamFkaS10YW1iYW5nLWVtYXMtZHVuaWE=",
-        "description": " Pada tahun 2021, ada 5 perusahaan teknologi raksasa yang menghasilkan pendapatan lebih dari US$1,4 triliun, lebih banyak dari keseluruhan GDP Meksiko."
     }
 ]
