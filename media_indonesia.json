@@ -1,5 +1,33 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/503829/ac-milan-permanenkan-florenzi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzgyOS9hYy1taWxhbi1wZXJtYW5lbmthbi1mbG9yZW56aQ==",
+        "description": "BEK Italia Alessandro Florenzi, yang dipinjam AC Milan dari AS Roma musim lalu, akhirnya menjadi pemain permanen klub juara Serie&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/503794/sudoku-edisi-03-juli-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMzc5NC9zdWRva3UtZWRpc2ktMDMtanVsaS0yMDIy",
+        "description": "SUDOKU atau dikenal juga dengan tebak angka (number place)"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/503793/jon-bodo-sweeping-rumah-koruptor",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMzc5My9qb24tYm9kby1zd2VlcGluZy1ydW1haC1rb3J1cHRvcg==",
+        "description": "AYO Nen.. kita sweeping tempat maksiat dan barang haram!!!"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/503791/bung-sentil-rabuk-semangat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMzc5MS9idW5nLXNlbnRpbC1yYWJ1ay1zZW1hbmdhdA==",
+        "description": "WUAAAH, hebat ya...Presiden kita dikagumi dunia. Sangat berani dan serius mau mendamaikan perang Rusia-Ukraina"
+    },
+    {
         "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/503821/kukuk-botol-air-khas-badui",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDM4MDEvaXJvbmktZGktYmFsaWstaW5mbGFzaQ==",
         "description": "SUATU kali saya menemukan tempe goreng yang ukurannya lebih tipis daripada biasanya. &ldquo;Biasa, Bang, harga-harga sekarang mahal,&rdquo; kata si penjual menerangkan. Kedelai, bahan baku tempe-tahu,&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/503828/cornet-hentikan-rekor-37-kemenangan-beruntun-swiatek",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM4MjgvY29ybmV0LWhlbnRpa2FuLXJla29yLTM3LWtlbWVuYW5nYW4tYmVydW50dW4tc3dpYXRlaw==",
-        "description": "IGA Swiatek mengakui dirinya tampil buruk saat rekor 37 kemenangan beruntunnya dihentikan oleh petenis Prancis Alize Cornet di putaran ketiga Wimbledon,&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/503827/ronaldo-dilaporkan-ingin-tinggalkan-manchester-united",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzgyNy9yb25hbGRvLWRpbGFwb3JrYW4taW5naW4tdGluZ2dhbGthbi1tYW5jaGVzdGVyLXVuaXRlZA==",
-        "description": "CRISTIANO Ronaldo siap meninggalkan Manchester United pada musim panas ini jika ada tawaran yang pantas. Hal itu dilaporkan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/503826/newcastle-resmi-datangkan-botman-dari-lille",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzgyNi9uZXdjYXN0bGUtcmVzbWktZGF0YW5na2FuLWJvdG1hbi1kYXJpLWxpbGxl",
-        "description": "NEWCASTLE United telah merampungkan transfer bek Belanda Sven Botman dari Lille dengan kontrak lima tahun. Hal itu dikatakan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/503825/kalahkan-kvitova-badosa-melaju-ke-16-besar-wimbledon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM4MjUva2FsYWhrYW4ta3ZpdG92YS1iYWRvc2EtbWVsYWp1LWtlLTE2LWJlc2FyLXdpbWJsZWRvbg==",
-        "description": "PETENIS peringkat empat dunia Paula Badosa mengalahkan juara dua kali Petra Kvitova, Sabtu (2/7), untuk melaju ke babak 16 besar Wimbledon&#8230;"
     }
 ]
