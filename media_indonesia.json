@@ -1,5 +1,33 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503679/rayakan-ulang-tahun-ke-3-asdp-gelar-talk-show",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzY3OS9yYXlha2FuLXVsYW5nLXRhaHVuLWtlLTMtYXNkcC1nZWxhci10YWxrLXNob3c=",
+        "description": "ANGKASA Pura Sarana Digital (APSD) menyelenggarakan talk show nasional untuk merayakan hari ulang tahunnya yang ke-3. Tema perayaan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/503678/jika-tak-mau-ke-mu-chelsea-siap-ambil-de-jong",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzY3OC9qaWthLXRhay1tYXUta2UtbXUtY2hlbHNlYS1zaWFwLWFtYmlsLWRlLWpvbmc=",
+        "description": "CHELSEA kabarnya bersiap menikung playmaker Frenkie de Jong sebelum direkrut Manchester United &nbsp;(MU) dari Barcelona. Pemain berusia 25 tahun itu saat ini sedang membicarakan syarat-syarat&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503677/pemerintah-diminta-perjelas-aturan-ganja-untuk-medis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM2NzcvcGVtZXJpbnRhaC1kaW1pbnRhLXBlcmplbGFzLWF0dXJhbi1nYW5qYS11bnR1ay1tZWRpcw==",
+        "description": "BELUM lama ini, pasangan suami istri Santi Warastuti dan Sunarta disorot lantaran menanti keputusan Mahkamah Konstitusi (MK) berkenaan dengan uji materi Undang-Undang Nomor 35 Tahun 2009 tentang <a&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503660/54-perguruan-tinggi-siap-bersaing-di-kontes-robot-indonesia-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNjYwLzU0LXBlcmd1cnVhbi10aW5nZ2ktc2lhcC1iZXJzYWluZy1kaS1rb250ZXMtcm9ib3QtaW5kb25lc2lhLTIwMjI=",
+        "description": "KONTES Robot Indonesia (KRI) 2022 tingkat nasional resmi digelar luring setelah dua tahun dilaksanakan daring akibat pandemi covid-19. Institut Teknologi Sepuluh Nopember (ITS) sebagai tuan rumah penyelenggara&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/503676/menyelamatkan-danau-maninjau-objek-wisata-unggulan-di-agam",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzY2NS9hc2EtdGVuLWhhZy1rZXBhZGEtZGUtam9uZw==",
         "description": "PUTUSAN Erik ten Hag untuk mau mengambil jabatan sebagai pelatih Manchester United bukanlah keputusan yang tidak memiliki risiko. Nama besar &lsquo;Setan Merah&rsquo; bukan hanya menjadi beban, tetapi&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503661/jelang-puncak-haji-pemerintah-mantapkan-manasik-setiap-hari",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNjYxL2plbGFuZy1wdW5jYWstaGFqaS1wZW1lcmludGFoLW1hbnRhcGthbi1tYW5hc2lrLXNldGlhcC1oYXJp",
-        "description": "ARAB Saudi telah menetapkan waktu wukuf di Arafah pada Jumat, 8 Juli 2022. Menjelang puncak pelaksanaan ibadah haji tersebut, pemeritah Indonesia memberikan perhatian khusus terkait dengan manasik&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503673/perjanjian-dagang-ri-uea-zulhas-upaya-meningkatkan-ekspor-ke-kawasan-teluk-dan-timur-tengah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzY3My9wZXJqYW5qaWFuLWRhZ2FuZy1yaS11ZWEtenVsaGFzLXVwYXlhLW1lbmluZ2thdGthbi1la3Nwb3Ita2Uta2F3YXNhbi10ZWx1ay1kYW4tdGltdXItdGVuZ2Fo",
-        "description": "MENTERI Perdagangan (Mendag) Zulkifli Hasan menandatangani Persetujuan Kemitraan Ekonomi Komprehensif Indonesia&ndash;Uni Emirat Arab (Indonesia&ndash;United Arab Emirates Comprehensive Economic Partnership&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/503668/misi-damai-jokowi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDM2NjgvbWlzaS1kYW1haS1qb2tvd2k=",
-        "description": "USAI sudah kunjungan Presiden Jokowi ke Ukraina dan Rusia untuk bertemu langsung dengan Presiden Ukraina Volodymyr Zelensky dan Presiden Rusia Vladimir Putin pada 29-30 Juni 2022 kemarin. Presiden&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/503669/salah-bertahan-di-liverpool-hingga-2025",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzY2OS9zYWxhaC1iZXJ0YWhhbi1kaS1saXZlcnBvb2wtaGluZ2dhLTIwMjU=",
-        "description": "SPEKULASI kebersamaan Mohamed Salah dengan Liverpool berakhir sudah. Jumat (2/7), striker Mesir itu sepakat memperpanjang kontrak dengan Si Merah yang membuatnya akan bertahan hingga 2025 mendatang.&#8230;"
     }
 ]
