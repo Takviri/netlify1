@@ -1,6 +1,27 @@
 [
     {
         "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503674/presiden-jokowi-bertemu-presiden-uea-bahas-tindak-lanjut-investasi-ikn",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzY3NC9wcmVzaWRlbi1qb2tvd2ktYmVydGVtdS1wcmVzaWRlbi11ZWEtYmFoYXMtdGluZGFrLWxhbmp1dC1pbnZlc3Rhc2ktaWtu",
+        "description": "PRESIDEN Joko Widodo bertemu dengan Presiden Persatuan Emirat Arab (UEA) Sheikh Mohamed bin Zayed bin Sultan Al Nahyan untuk membahas tindak lanjut investasi di Ibu Kota Negara (IKN) baru. Menteri&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/503665/asa-ten-hag-kepada-de-jong",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzY2NS9hc2EtdGVuLWhhZy1rZXBhZGEtZGUtam9uZw==",
+        "description": "PUTUSAN Erik ten Hag untuk mau mengambil jabatan sebagai pelatih Manchester United bukanlah keputusan yang tidak memiliki risiko. Nama besar &lsquo;Setan Merah&rsquo; bukan hanya menjadi beban, tetapi&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503661/jelang-puncak-haji-pemerintah-mantapkan-manasik-setiap-hari",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNjYxL2plbGFuZy1wdW5jYWstaGFqaS1wZW1lcmludGFoLW1hbnRhcGthbi1tYW5hc2lrLXNldGlhcC1oYXJp",
+        "description": "ARAB Saudi telah menetapkan waktu wukuf di Arafah pada Jumat, 8 Juli 2022. Menjelang puncak pelaksanaan ibadah haji tersebut, pemeritah Indonesia memberikan perhatian khusus terkait dengan manasik&#8230;"
+    },
+    {
+        "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/503673/perjanjian-dagang-ri-uea-zulhas-upaya-meningkatkan-ekspor-ke-kawasan-teluk-dan-timur-tengah",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzY3My9wZXJqYW5qaWFuLWRhZ2FuZy1yaS11ZWEtenVsaGFzLXVwYXlhLW1lbmluZ2thdGthbi1la3Nwb3Ita2Uta2F3YXNhbi10ZWx1ay1kYW4tdGltdXItdGVuZ2Fo",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDM2NTgvcGVtcHJvdi1ka2ktcHVzYXRrYW4tc2FsYXQtaWR1bGFkaGEtZGktamFrYXJ0YS1pbnRlcm5hdGlvbmFsLXN0YWRpdW0=",
         "description": "PEMERINTAH Provinsi (Pemprov) DKI Jakarta memusatkan ibadah salat Iduladha 1443 Hijriah di Jakarta International Stadium (JIS), Jakarta Utara, pada Minggu (10/7). &quot;Sesuai arahan pimpinan,&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/503663/presiden-kembali-ke-tanah-air-dari-abu-dhabi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzY2My9wcmVzaWRlbi1rZW1iYWxpLWtlLXRhbmFoLWFpci1kYXJpLWFidS1kaGFiaQ==",
-        "description": "PRESIDEN RI Joko Widodo dan Ibu Negara Iriana Joko Widodo beserta rombongan bertolak menuju Tanah Air dari Bandar Udara Internasional Abu Dhabi, Persatuan Emirat Arab (PEA), Jumat (1/7) petang waktu&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503662/sinar-mas-land-raih-lamudi-awards-di-lima-kategori",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzY2Mi9zaW5hci1tYXMtbGFuZC1yYWloLWxhbXVkaS1hd2FyZHMtZGktbGltYS1rYXRlZ29yaQ==",
-        "description": "SINAR Mas Land kembali sukses menorehkan prestasi di tingkat nasional melalui ajang Lamudi Property Awards&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/503659/indonesia-kalah-lagi-dari-arab-saudi-di-kualifikasi-piala-dunia-fiba",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM2NTkvaW5kb25lc2lhLWthbGFoLWxhZ2ktZGFyaS1hcmFiLXNhdWRpLWRpLWt1YWxpZmlrYXNpLXBpYWxhLWR1bmlhLWZpYmE=",
-        "description": "INDONESIA kembali menelan kekalahan dari Arab Saudi setelah takluk 67-69 dalam lanjutan Kualifikasi Piala Dunia FIBA 2023 di Istora Gelora Bung Karno, Jakarta, Jumat (1/7). Hasil itu menjadi&#8230;"
     }
 ]
