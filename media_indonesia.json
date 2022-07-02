@@ -1,6 +1,27 @@
 [
     {
         "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/503826/newcastle-resmi-datangkan-botman-dari-lille",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzgyNi9uZXdjYXN0bGUtcmVzbWktZGF0YW5na2FuLWJvdG1hbi1kYXJpLWxpbGxl",
+        "description": "NEWCASTLE United telah merampungkan transfer bek Belanda Sven Botman dari Lille dengan kontrak lima tahun. Hal itu dikatakan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/503825/kalahkan-kvitova-badosa-melaju-ke-16-besar-wimbledon",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM4MjUva2FsYWhrYW4ta3ZpdG92YS1iYWRvc2EtbWVsYWp1LWtlLTE2LWJlc2FyLXdpbWJsZWRvbg==",
+        "description": "PETENIS peringkat empat dunia Paula Badosa mengalahkan juara dua kali Petra Kvitova, Sabtu (2/7), untuk melaju ke babak 16 besar Wimbledon&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503824/calon-haji-bervisa-tidak-resmi-dipulangkan-ke-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzODI0L2NhbG9uLWhhamktYmVydmlzYS10aWRhay1yZXNtaS1kaXB1bGFuZ2thbi1rZS1pbmRvbmVzaWE=",
+        "description": "DIREKTUR Jenderal Penyelenggaraan Haji dan Umrah Kementerian Agama RI Hilman Latief mengatakan sebanyak 46 calon haji furoda, yang menggunakan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/503823/inter-milan-datangkan-onana-secara-bebas-transfer",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzgyMy9pbnRlci1taWxhbi1kYXRhbmdrYW4tb25hbmEtc2VjYXJhLWJlYmFzLXRyYW5zZmVy",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM4MTQvaHV0LWtlLTEwLXRlY2hub2Jpa2UtZ2VsYXItdGVjaG5vZmVzdDEwLWRhbi1nb3dlcy1iZXJzYW1hLWF0bGV0LXBhcmFjeWNsaW5nLW0tZmFkbGk=",
         "description": "MERAYAKAN HUT ke-10, jaringan toko sepeda, Technobike, mengadakan rangkaian acara untuk menyemarakkan hari jadinya yang bertajuk technofest10. Rangkaian acaranya mulai dari gowes bersama komunitas,&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/503806/komik-digital-jalan-bagi-komikus-berkarya-hingga-kancah-dunia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMzgwNi9rb21pay1kaWdpdGFsLWphbGFuLWJhZ2kta29taWt1cy1iZXJrYXJ5YS1oaW5nZ2Eta2FuY2FoLWR1bmlh",
-        "description": "ILUSTRATOR dan komikus Indonesia Is Yuniarto mengatakan komik digital menjadi peluang bagi seniman dan komikus nasional untuk berkarya bahkan hingga internasional. &quot;Saya melihat ada peluang&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/503813/ongen-menang-di-pertandingan-tinju-internasional-tokoh-maluku-ini-berikan-bonus-rp25-juta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM4MTMvb25nZW4tbWVuYW5nLWRpLXBlcnRhbmRpbmdhbi10aW5qdS1pbnRlcm5hc2lvbmFsLXRva29oLW1hbHVrdS1pbmktYmVyaWthbi1ib251cy1ycDI1LWp1dGE=",
-        "description": "KEMENANGAN petinju asal Pulau Buru, Maluku, Ongen Saknosiwi atas petinju Thailnad Jirawat Thammachot di ajang MPRO Evolution Fight Series 2022 di Jakarta, Jumat (1/7), diapresiasi banyak pihak. Salah&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/503808/3-tersangka-kasus-korupsi-pembangunan-pagar-puskesmas-di-ntt-ditahan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzODA4LzMtdGVyc2FuZ2thLWthc3VzLWtvcnVwc2ktcGVtYmFuZ3VuYW4tcGFnYXItcHVza2VzbWFzLWRpLW50dC1kaXRhaGFu",
-        "description": "KEJAKSAAN menahan tiga tersangka kasus korupsi pembangunan selasar dan pagar Puskesmas Sotimori, Kecamatan Landu Leko, Rote Ndao, Nusa Tenggara Timur (NTT) pada 2019 yang diduga merugikan negara sekitar&#8230;"
     }
 ]
