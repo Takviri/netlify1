@@ -1,5 +1,12 @@
 [
     {
+        "title": "Bukan Avanza, Ini Kendaraan Paling Banyak Diproduksi di RI",
+        "link": "https://www.cnbcindonesia.com/news/20220702195204-4-352459/bukan-avanza-ini-kendaraan-paling-banyak-diproduksi-di-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjE5NTIwNC00LTM1MjQ1OS9idWthbi1hdmFuemEtaW5pLWtlbmRhcmFhbi1wYWxpbmctYmFueWFrLWRpcHJvZHVrc2ktZGktcmk=",
+        "description": " Sempat Susut, Produksi Kendaraan Bermotor RI Kembali Melonjak Capai 6,18 juta unit!"
+    },
+    {
         "title": "Bukti Covid BA.4-BA.5 di RI Menuju Puncak Kasus, Siap-siap!",
         "link": "https://www.cnbcindonesia.com/news/20220702194632-4-352458/bukti-covid-ba4-ba5-di-ri-menuju-puncak-kasus-siap-siap",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjE5MDExMC00LTM1MjQ1Mi9jb3ZpZC1kaS1ka2ktcHVuLXR1cnVuLWluaS01LXByb3ZpbnNpLWRlbmdhbi1rYXN1cy10ZXJiYW55YWs=",
         "description": " Jakarta masih jadi provinsi dengan kasus konfirmasi positif Covid-19 terbanyak."
-    },
-    {
-        "title": "Ini Ciri-ciri Anda Positif Omicron Varian Baru, Jangan Abai!",
-        "link": "https://www.cnbcindonesia.com/news/20220702173115-4-352437/ini-ciri-ciri-anda-positif-omicron-varian-baru-jangan-abai",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjE3MzExNS00LTM1MjQzNy9pbmktY2lyaS1jaXJpLWFuZGEtcG9zaXRpZi1vbWljcm9uLXZhcmlhbi1iYXJ1LWphbmdhbi1hYmFp",
-        "description": " Jika alami gejala berikut, baiknya jangan diabaikan. Waspada Omicron varian baru."
     }
 ]
