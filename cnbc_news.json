@@ -1,5 +1,26 @@
 [
     {
+        "title": "Happy Weekend! Hari Ini Kasus Harian Covid-19 Turun",
+        "link": "https://www.cnbcindonesia.com/news/20220702184314-4-352451/happy-weekend-hari-ini-kasus-harian-covid-19-turun",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjE4NDMxNC00LTM1MjQ1MS9oYXBweS13ZWVrZW5kLWhhcmktaW5pLWthc3VzLWhhcmlhbi1jb3ZpZC0xOS10dXJ1bg==",
+        "description": " Hari ini kasus harian Covid-19 turun."
+    },
+    {
+        "title": "Muncul 'Penghancur' Avanza dan Veloz, Harga Jauh Lebih Murah?",
+        "link": "https://www.cnbcindonesia.com/news/20220702171547-4-352427/muncul-penghancur-avanza-veloz-harga-jauh-lebih-murah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjE3MTU0Ny00LTM1MjQyNy9tdW5jdWwtcGVuZ2hhbmN1ci1hdmFuemEtdmVsb3otaGFyZ2EtamF1aC1sZWJpaC1tdXJhaA==",
+        "description": " Mobil-mobil baru siap bikiin Avanza keok, mungkin gak?"
+    },
+    {
+        "title": "Dorong Kemajuan UMKM, Event BRI Ini Raih Penghargaan",
+        "link": "https://www.cnbcindonesia.com/news/20220702182604-4-352450/dorong-kemajuan-umkm-event-bri-ini-raih-penghargaan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjE4MjYwNC00LTM1MjQ1MC9kb3Jvbmcta2VtYWp1YW4tdW1rbS1ldmVudC1icmktaW5pLXJhaWgtcGVuZ2hhcmdhYW4=",
+        "description": " BRI UMKM EXPO(RT) BRILIANPRENEUR merupakan signature event BRI yang bertujuan menjadi wadah bagi UMKM untuk dapat berkarya lebih baik."
+    },
+    {
         "title": "Gak Cuma India! Ini Negara Udah Larang Pakai Plastik, Ada RI?",
         "link": "https://www.cnbcindonesia.com/news/20220702163310-4-352422/gak-cuma-india-ini-negara-udah-larang-pakai-plastik-ada-ri",
         "image": "static/images/cnbc_news.png",
@@ -7,11 +28,11 @@
         "description": " India memutuskan melarang penggunaan\u00c2\u00a019 item plastik pemicu penumpukan sampah."
     },
     {
-        "title": "Pacu Pendidikan, CT Arsa Foundation Gandeng Yayasan Prasetya",
-        "link": "https://www.cnbcindonesia.com/news/20220702174430-7-352441/pacu-pendidikan-ct-arsa-foundation-gandeng-yayasan-prasetya",
+        "title": "Pacu Pendidikan, CT Arsa Foundation Gandeng Prasetiya Mulya",
+        "link": "https://www.cnbcindonesia.com/news/20220702174430-7-352441/pacu-pendidikan-ct-arsa-foundation-gandeng-prasetiya-mulya",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjE3NDQzMC03LTM1MjQ0MS9wYWN1LXBlbmRpZGlrYW4tY3QtYXJzYS1mb3VuZGF0aW9uLWdhbmRlbmcteWF5YXNhbi1wcmFzZXR5YQ==",
-        "description": " CT Arsa Foundation dengan Yayasan Prasetiya Mulya melakukan penandatanganan kerjasama di SMA Unggulan CT Arsa di Sukoharjo."
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjE3NDQzMC03LTM1MjQ0MS9wYWN1LXBlbmRpZGlrYW4tY3QtYXJzYS1mb3VuZGF0aW9uLWdhbmRlbmctcHJhc2V0aXlhLW11bHlh",
+        "description": " CT Arsa Foundation dengan Universitas Prasetiya Mulya melakukan\u00c2\u00a0Penandatanganan MoU Beasiswa Bakti Indonesia Universitas Prasetiya Mulya dengan CT Arsa Foundation."
     },
     {
         "title": "Susah Daftar MyPertamina? Jangan Panik, Ini Solusinya",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjE0NDkxNi00LTM1MjQwOS9rYWJhci1nZW1iaXJhLWx1aHV0LW1hdS1iaWtpbi1oYXJnYS1jcG8tbWVyb2tldC1sYWdp",
         "description": " Luhut gencarkan jurus-jurus baru atasi kemelut minyak goreng dan sawit petani."
-    },
-    {
-        "title": "Gangguan Server, Warga Sukabumi Terkendala Daftar MyPertamina",
-        "link": "https://www.cnbcindonesia.com/news/20220702160007-8-352415/gangguan-server-warga-sukabumi-terkendala-daftar-mypertamina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjE2MDAwNy04LTM1MjQxNS9nYW5nZ3Vhbi1zZXJ2ZXItd2FyZ2Etc3VrYWJ1bWktdGVya2VuZGFsYS1kYWZ0YXItbXlwZXJ0YW1pbmE=",
-        "description": " Sejumlah warga pendaftar aplikasi MyPertamina di spbu Pertamina Citamiang, Kota Sukabumi, Jawa Barat, kecewa lantaran untuk mendaftar aplikasi masih error."
-    },
-    {
-        "title": "Luluh Lantak! Potret Serangan Rudal Rusia di Pemukiman Odesa",
-        "link": "https://www.cnbcindonesia.com/news/20220702141641-7-352394/luluh-lantak-potret-serangan-rudal-rusia-di-pemukiman-odesa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjE0MTY0MS03LTM1MjM5NC9sdWx1aC1sYW50YWstcG90cmV0LXNlcmFuZ2FuLXJ1ZGFsLXJ1c2lhLWRpLXBlbXVraW1hbi1vZGVzYQ==",
-        "description": " Sedikitnya 21 orang tewas dan 38 lainnya cedera dalam serangan rudal Rusia di sebuah blok apartemen dan pusat rekreasi di kota resor barat daya Odessa"
-    },
-    {
-        "title": "Ini Jurus Luhut Perbaiki Harga TBS di Petani Kelapa Sawit",
-        "link": "https://www.cnbcindonesia.com/news/20220702113944-4-352384/ini-jurus-luhut-perbaiki-harga-tbs-di-petani-kelapa-sawit",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjExMzk0NC00LTM1MjM4NC9pbmktanVydXMtbHVodXQtcGVyYmFpa2ktaGFyZ2EtdGJzLWRpLXBldGFuaS1rZWxhcGEtc2F3aXQ=",
-        "description": " Luhut akan meminta Kementerian Perdagangan (Kemendag) untuk meningkatkan pengali ekspor menjadi 7 kali"
     }
 ]
