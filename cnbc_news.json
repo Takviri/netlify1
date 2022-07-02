@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kabar Baik! Pengguna Booster Pfizer dan Astrazeneca Bakal Happy",
+        "link": "https://www.cnbcindonesia.com/news/20220702112506-4-352377/kabar-baik-pengguna-booster-pfizer-astrazeneca-bakal-happy",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjExMjUwNi00LTM1MjM3Ny9rYWJhci1iYWlrLXBlbmdndW5hLWJvb3N0ZXItcGZpemVyLWFzdHJhemVuZWNhLWJha2FsLWhhcHB5",
+        "description": " Studi terbaru membawa kabar menggembirakan bagi mereka yang mendapatkan vaksin booster Pfizer dan Astrazeneca."
+    },
+    {
+        "title": "Pandemi Melandai, Hunian Berbasis TOD Mulai Banyak Dicari?",
+        "link": "https://www.cnbcindonesia.com/news/20220630123649-8-351764/pandemi-melandai-hunian-berbasis-tod-mulai-banyak-dicari",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDYzMDEyMzY0OS04LTM1MTc2NC9wYW5kZW1pLW1lbGFuZGFpLWh1bmlhbi1iZXJiYXNpcy10b2QtbXVsYWktYmFueWFrLWRpY2FyaQ==",
+        "description": " Pandemi Melandai, Hunian Berbasis TOD Mulai Banyak Dicari?"
+    },
+    {
         "title": "Bersama FIC, SMI Beberkan Upaya Pembangunan Indonesia ke PBB",
         "link": "https://www.cnbcindonesia.com/news/20220702123041-4-352386/bersama-fic-smi-beberkan-upaya-pembangunan-indonesia-ke-pbb",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjA5MDgzNC00LTM1MjM1NS9wZXJqYW5qaWFuLWluZG9uZXNpYS11YWUtY2VwYS1hcGEtdW50dW5nbnlhLWJ1YXQtcmk=",
         "description": " Apa untungnya memiliki perjanjian kerjasama tersebut bagi Indonesia?"
-    },
-    {
-        "title": "Awas Putin! 3 Negara Ini Bisa Serang Rusia Duluan Jika PD III",
-        "link": "https://www.cnbcindonesia.com/news/20220702090444-4-352353/awas-putin-3-negara-ini-bisa-serang-rusia-duluan-jika-pd-iii",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjA5MDQ0NC00LTM1MjM1My9hd2FzLXB1dGluLTMtbmVnYXJhLWluaS1iaXNhLXNlcmFuZy1ydXNpYS1kdWx1YW4tamlrYS1wZC1paWk=",
-        "description": " Konflik yang terjadi antara Ukraina dan Rusia telah membawa ancaman Perang Dunia (PD) III ke permukaan"
-    },
-    {
-        "title": "Simak! Jenis Sepeda Motor Ini Bakal Dilarang Minum Pertalite",
-        "link": "https://www.cnbcindonesia.com/news/20220702085123-4-352352/simak-jenis-sepeda-motor-ini-bakal-dilarang-minum-pertalite",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjA4NTEyMy00LTM1MjM1Mi9zaW1hay1qZW5pcy1zZXBlZGEtbW90b3ItaW5pLWJha2FsLWRpbGFyYW5nLW1pbnVtLXBlcnRhbGl0ZQ==",
-        "description": " Sepeda motor dengan mesin di atas 250 cc dilarang menggunakan bensin jenis Pertalite."
     }
 ]
