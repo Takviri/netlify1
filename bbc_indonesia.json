@@ -7,6 +7,13 @@
         "description": "Para pengemudi taksi dan penjual mobil terpaksa mengantre selama dua hari demi mendapatkan bahan bakar minyak yang langka di Sri Lanka."
     },
     {
+        "title": "Kehidupan di zona 'gempa bumi' Belanda akibat ladang gas, warga merasa hidup 'seperti di koloni'",
+        "link": "https://www.bbc.com/indonesia/majalah-62006963",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MjAwNjk2Mw==",
+        "description": "Warga di desa-desa di wilayah ekstraksi gas alam merasa dirugikan karena gempa bumi yang merusak rumah mereka dan berdampak buruk pada kesehatan mereka."
+    },
+    {
         "title": "Penyerahan Hong Kong: Akan seperti apa kota ini 25 tahun lagi?",
         "link": "https://www.bbc.com/indonesia/dunia-62006972",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE5Nzg4NTg=",
         "description": "Selama beberapa dekade Swedia dan Finlandia menyandang status sebagai negara netral. Invasi Rusia terhadap Ukraina pada Februari 2022 telah mengubah semuanya."
-    },
-    {
-        "title": "Penelitian umur fosil berusia 3,4 juta tahun merevisi pemahaman tentang asal-usul manusia",
-        "link": "https://www.bbc.com/indonesia/majalah-61978850",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MTk3ODg1MA==",
-        "description": "Spesies yang awalnya dianggap terlalu muda untuk 'melahirkan' manusia awal ternyata lebih tua dari yang diperkirakan sebelumnya, memperumit pemahaman mengenai asal-usul manusia."
     }
 ]

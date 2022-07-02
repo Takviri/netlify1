@@ -1,5 +1,33 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/503694/masuk-16-besar-wimbledon-alcaraz-makin-nyaman-dengan-lapangan-rumput",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM2OTQvbWFzdWstMTYtYmVzYXItd2ltYmxlZG9uLWFsY2FyYXotbWFraW4tbnlhbWFuLWRlbmdhbi1sYXBhbmdhbi1ydW1wdXQ=",
+        "description": "PETENIS muda Spanyol, Carlos Alcaraz Garfia, menyatakan dirinya semakin nyaman dengan penampilannya di lapangan rumput. Hal itu terbukti saat Alcaraz berhasil menumbangkan petenis Jerman Oscar&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503693/pemerintah-cari-keseimbangan-pengendalian-minyak-goreng",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzY5My9wZW1lcmludGFoLWNhcmkta2VzZWltYmFuZ2FuLXBlbmdlbmRhbGlhbi1taW55YWstZ29yZW5n",
+        "description": "MENTERI Koordinator Bidang Kemaritiman dan Investasi (Menko Marves) Luhut Binsar Pandjaitan memastikan pemerintah saat ini tengah berupaya menemukan keseimbangan antara target dari sisi hulu hingga&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503692/presiden-jokowi-dan-ibu-iriana-tiba-di-tanah-air",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM2OTIvcHJlc2lkZW4tam9rb3dpLWRhbi1pYnUtaXJpYW5hLXRpYmEtZGktdGFuYWgtYWly",
+        "description": "PRESIDEN Joko Widodo dan Ibu Iriana Joko Widodo beserta rombongan tiba di Indonesia pada Sabtu ( 2/7) usai melakukan kunjungan kerja ke Jerman, Ukraina, Rusia, dan Persatuan Emirat Arab (PEA) selama&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503691/ptk-dukung-pengembangan-industri-hulu-migas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzY5MS9wdGstZHVrdW5nLXBlbmdlbWJhbmdhbi1pbmR1c3RyaS1odWx1LW1pZ2Fz",
+        "description": "PT Pertamina Trans Kontinental (PTK), anak usaha PT Pertamina International Shipping (PIS), mendukung pengembangan industri hulu migas dengan mengikuti ajang Pra Forum Kapasitas Nasional (Kapnas) wilayah&#8230;"
+    },
+    {
         "title": "Teknologi",
         "link": "https://m.mediaindonesia.com/teknologi/503690/waspada-adware-jangan-instal-aplikasi-beriklan",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzY4NS9pbmZsYXNpLTIwMjItZGlwZXJraXJha2FuLWxld2F0aS1raXNhcmFuLXRhcmdldA==",
         "description": "BANK Indonesia (BI) memprediksi tingkat inflasi hingga akhir tahun akan melewati batas atas kisaran target 2%-4%. Hal ini dipicu oleh gejolak harga komoditas global dan pangan. &quot;Pada akhir&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503651/cara-penularan-hepatitis-akut-misterius-mirip-hepatitis-a",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNjUxL2NhcmEtcGVudWxhcmFuLWhlcGF0aXRpcy1ha3V0LW1pc3Rlcml1cy1taXJpcC1oZXBhdGl0aXMtYQ==",
-        "description": "KETUA Unit Kerja Koordinasi (UKK) Gastro-Hepatologi IDAI, Dr Muzal Kadim mengatakan hepatitis akut misterius yang menjangkiti Indonesia saat ini memiliki kemiripan gejala dan cara penularan dengan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503684/komisi-v-dpr-dorong-pembangunan-bendungan-mujur-tepat-waktu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzY4NC9rb21pc2ktdi1kcHItZG9yb25nLXBlbWJhbmd1bmFuLWJlbmR1bmdhbi1tdWp1ci10ZXBhdC13YWt0dQ==",
-        "description": "WAKIL&nbsp;Ketua komisi V DPR RI Andi Iwan Darmawan Aras mengatakan tujuan pihaknya melakukan kunjungan kerja spesifik&nbsp;kali ini, khusus ke Kabupaten Lombok Tengah dalam upaya mendorong pemerintah&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/503683/retno-sebut-semua-menlu-g20-cari-solusi-bagi-dunia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzY4My9yZXRuby1zZWJ1dC1zZW11YS1tZW5sdS1nMjAtY2FyaS1zb2x1c2ktYmFnaS1kdW5pYQ==",
-        "description": "MENTERI Luar Negeri (Menlu) Retno Marsudi mengungkapkan Pertemuan Para Menlu (Foreign Ministrial Meeting/FMM) G20 yang akan digelar pada 7-8 Juni 2022 di Bali akan dihadiri seluruh undangan. Itu menyusul&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503682/bpjs-ketenagakerjaan-bayar-rp443-miliar-manfaat-program-selama-setahun-di-provinsi-ntb",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzY4Mi9icGpzLWtldGVuYWdha2VyamFhbi1iYXlhci1ycDQ0My1taWxpYXItbWFuZmFhdC1wcm9ncmFtLXNlbGFtYS1zZXRhaHVuLWRpLXByb3ZpbnNpLW50Yg==",
-        "description": "WAKIL Presiden (Wapres) Ma'ruf Amin menyerahkan santunan program BPJS Ketenagakerjaan (BPJAMSOSTEK) senilai Rp443 miliar yang secara simbolis diterima oleh Gubernur Nusa Tenggara Barat (NTB) Zulkieflimansyah.&#8230;"
     }
 ]
