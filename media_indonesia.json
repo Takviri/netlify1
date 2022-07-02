@@ -1,6 +1,41 @@
 [
     {
         "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503684/komisi-v-dpr-dorong-pembangunan-bendungan-mujur-tepat-waktu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzY4NC9rb21pc2ktdi1kcHItZG9yb25nLXBlbWJhbmd1bmFuLWJlbmR1bmdhbi1tdWp1ci10ZXBhdC13YWt0dQ==",
+        "description": "WAKIL&nbsp;Ketua komisi V DPR RI Andi Iwan Darmawan Aras mengatakan tujuan pihaknya melakukan kunjungan kerja spesifik&nbsp;kali ini, khusus ke Kabupaten Lombok Tengah dalam upaya mendorong pemerintah&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/503683/retno-sebut-semua-menlu-g20-cari-solusi-bagi-dunia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzY4My9yZXRuby1zZWJ1dC1zZW11YS1tZW5sdS1nMjAtY2FyaS1zb2x1c2ktYmFnaS1kdW5pYQ==",
+        "description": "MENTERI Luar Negeri (Menlu) Retno Marsudi mengungkapkan Pertemuan Para Menlu (Foreign Ministrial Meeting/FMM) G20 yang akan digelar pada 7-8 Juni 2022 di Bali akan dihadiri seluruh undangan. Itu menyusul&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503682/bpjs-ketenagakerjaan-bayar-rp443-miliar-manfaat-program-selama-setahun-di-provinsi-ntb",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzY4Mi9icGpzLWtldGVuYWdha2VyamFhbi1iYXlhci1ycDQ0My1taWxpYXItbWFuZmFhdC1wcm9ncmFtLXNlbGFtYS1zZXRhaHVuLWRpLXByb3ZpbnNpLW50Yg==",
+        "description": "WAKIL Presiden (Wapres) Ma'ruf Amin menyerahkan santunan program BPJS Ketenagakerjaan (BPJAMSOSTEK) senilai Rp443 miliar yang secara simbolis diterima oleh Gubernur Nusa Tenggara Barat (NTB) Zulkieflimansyah.&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503681/presiden-jokowi-dan-ibu-iriana-takziah-ke-rumah-almarhum-tjahjo-kumolo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM2ODEvcHJlc2lkZW4tam9rb3dpLWRhbi1pYnUtaXJpYW5hLXRha3ppYWgta2UtcnVtYWgtYWxtYXJodW0tdGphaGpvLWt1bW9sbw==",
+        "description": "PRESIDEN Joko Widodo dan Ibu Iriana Joko Widodo berkunjung ke rumah almarhum Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (Menpan RB) Tjahjo Kumolo di kompleks Menteri Widya Chandra,&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/503680/penanganan-stunting-jadi-prioritas-pemprov-kalsel",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNjgwL3BlbmFuZ2FuYW4tc3R1bnRpbmctamFkaS1wcmlvcml0YXMtcGVtcHJvdi1rYWxzZWw=",
+        "description": "MESKI tercatat sebagai daerah dengan tingkat kemiskinan terkecil di Indonesia, kasus stunting masih menjadi masalah serius di provinsi yang kaya tambang batubara dan sawit, Kalimantan Selatan. Penanganan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/503679/rayakan-ulang-tahun-ke-3-asdp-gelar-talk-show",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzY3OS9yYXlha2FuLXVsYW5nLXRhaHVuLWtlLTMtYXNkcC1nZWxhci10YWxrLXNob3c=",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNjc2L21lbnllbGFtYXRrYW4tZGFuYXUtbWFuaW5qYXUtb2JqZWstd2lzYXRhLXVuZ2d1bGFuLWRpLWFnYW0=",
         "description": "KEMENTERIAN Pekerjaan Umum dan Perumahan Rakyat (PUPR) menggelar konsultasi publik dalam penyelamatan Danau Maninjau, yang jadi danau prioritas secara nasional. Danau Maninjau merupakan objek wisata&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/503610/robot-nasa-untuk-deteksi-alien-bawah-air",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTAzNjEwL3JvYm90LW5hc2EtdW50dWstZGV0ZWtzaS1hbGllbi1iYXdhaC1haXI=",
-        "description": "EKSPLORASI lembaga penelitian antariksa Amerika Serikat, NASA, untuk mengetahui lebih dalam tentang alien tak pernah henti dilakukan. Meski hingga saat ini belum ditemukan bukti konkret akan keberadaan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503675/apresiasi-tim-kesehatan-jemaah-rasakan-layanan-terbaik-di-klinik-haji",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNjc1L2FwcmVzaWFzaS10aW0ta2VzZWhhdGFuLWplbWFhaC1yYXNha2FuLWxheWFuYW4tdGVyYmFpay1kaS1rbGluaWstaGFqaQ==",
-        "description": "KETUA Tim Pengawas Internal Pelaksanaan Haji Nizar Ali mengapresiasi kinerja tim kesehatan haji. Menurut dia, kinerja tim di bawah Klinik Kesehatan Haji Indonesia (KKHI) ini sangat memuaskan. &ldquo;Pertama&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/503607/megaproyek-nan-ambisius",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTAzNjA3L21lZ2Fwcm95ZWstbmFuLWFtYmlzaXVz",
-        "description": "DINYATAKAN sebagai orang terkaya di dunia pada 2022 versi Forbes tak membuat Elon Musk menyantai dalam membangun berbagai bidang usaha baru. Kekayaannya yang mencapai sekitar Rp3 kuadriliun&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503674/presiden-jokowi-bertemu-presiden-uea-bahas-tindak-lanjut-investasi-ikn",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzY3NC9wcmVzaWRlbi1qb2tvd2ktYmVydGVtdS1wcmVzaWRlbi11ZWEtYmFoYXMtdGluZGFrLWxhbmp1dC1pbnZlc3Rhc2ktaWtu",
-        "description": "PRESIDEN Joko Widodo bertemu dengan Presiden Persatuan Emirat Arab (UEA) Sheikh Mohamed bin Zayed bin Sultan Al Nahyan untuk membahas tindak lanjut investasi di Ibu Kota Negara (IKN) baru. Menteri&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/503665/asa-ten-hag-kepada-de-jong",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzY2NS9hc2EtdGVuLWhhZy1rZXBhZGEtZGUtam9uZw==",
-        "description": "PUTUSAN Erik ten Hag untuk mau mengambil jabatan sebagai pelatih Manchester United bukanlah keputusan yang tidak memiliki risiko. Nama besar &lsquo;Setan Merah&rsquo; bukan hanya menjadi beban, tetapi&#8230;"
     }
 ]
