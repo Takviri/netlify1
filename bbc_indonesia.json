@@ -1,5 +1,12 @@
 [
     {
+        "title": "Covid-19: Seberapa bahaya subvarian terbaru Omicron BA.4 dan BA.5?",
+        "link": "https://www.bbc.com/indonesia/majalah-61951604",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MTk1MTYwNA==",
+        "description": "Jumlah kasus positif Covid-19 melonjak di hampir seluruh dunia. Subvarian terbaru Omicron merupakan pemicunya."
+    },
+    {
         "title": "Krisis BBM di Sri Lanka: 'Saya tidur selama dua hari di mobil demi mendapatkan bensin'",
         "link": "https://www.bbc.com/indonesia/majalah-62005337",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYxOTc3Mjcw",
         "description": "Penerapan sistem pendaftaran online demi mengontrol penyaluran BBM bersubsidi dinilai pengamat energi sebagai \"kebijakan yang berpotensi blunder\" dan justru mempersulit masyarakat kelas menengah ke bawah yang tidak memiliki akses internet."
-    },
-    {
-        "title": "Vladimir Putin saling ejek dengan para pemimpin G7 soal foto telanjang dada",
-        "link": "https://www.bbc.com/indonesia/dunia-62005275",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjIwMDUyNzU=",
-        "description": "Presiden Rusia, Vladimir Putin, mengatakan bakal \"jijik\" jika melihat Boris Johnson dan pemimpin G7 lainnya telanjang."
     }
 ]

@@ -1,5 +1,12 @@
 [
     {
+        "title": "Kabar Gembira! Luhut Mau Bikin Harga CPO Meroket Lagi",
+        "link": "https://www.cnbcindonesia.com/news/20220702144916-4-352409/kabar-gembira-luhut-mau-bikin-harga-cpo-meroket-lagi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjE0NDkxNi00LTM1MjQwOS9rYWJhci1nZW1iaXJhLWx1aHV0LW1hdS1iaWtpbi1oYXJnYS1jcG8tbWVyb2tldC1sYWdp",
+        "description": " Luhut gencarkan jurus-jurus baru atasi kemelut minyak goreng dan sawit petani."
+    },
+    {
         "title": "Gangguan Server, Warga Sukabumi Terkendala Daftar MyPertamina",
         "link": "https://www.cnbcindonesia.com/news/20220702160007-8-352415/gangguan-server-warga-sukabumi-terkendala-daftar-mypertamina",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjE1NTYyNi00LTM1MjQxNC9iMjAtZHVrdW5nLWlua2x1c2kta2V1YW5nYW4tdW1rbS1kYW4tcGV0YW5p",
         "description": " Rendahnya literasi petani dan UMKM membuat mereka sulit mengakses pembiayaan karena minimnya pengetahuan untuk mengikuti prosedur yang dijalankan perbankan."
-    },
-    {
-        "title": "Ledakan Guncang Mykolaiv Ukraina, 21 Orang Tewas Kena Rudal",
-        "link": "https://www.cnbcindonesia.com/news/20220702134136-4-352392/ledakan-guncang-mykolaiv-ukraina-21-orang-tewas-kena-rudal",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMjEzNDEzNi00LTM1MjM5Mi9sZWRha2FuLWd1bmNhbmctbXlrb2xhaXYtdWtyYWluYS0yMS1vcmFuZy10ZXdhcy1rZW5hLXJ1ZGFs",
-        "description": " Ledakan dahsyat mengguncang kota Mykolaiv, Ukraina, pada Sabtu (2/7/2022) pagi waktu setempat."
     }
 ]
