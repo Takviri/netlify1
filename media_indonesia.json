@@ -1,6 +1,34 @@
 [
     {
         "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/503698/lolos-ke-16-besar-wimbledon-djokovic-merasa-semakin-prima",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM2OTgvbG9sb3Mta2UtMTYtYmVzYXItd2ltYmxlZG9uLWRqb2tvdmljLW1lcmFzYS1zZW1ha2luLXByaW1h",
+        "description": "LANGKAH juara grand slam 20 kali, Novak Djokovic, terus berlanjut di turnamen Wimbledon 2022. Menang atas rekan senegara Miomir Kecmanovic di putaran ketiga, Djokovic berhak atas satu tempat di babak&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/503696/kota-depok-kembali-terima-16450-dosis-vaksin-sinovac",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDM2OTYva290YS1kZXBvay1rZW1iYWxpLXRlcmltYS0xNjQ1MC1kb3Npcy12YWtzaW4tc2lub3ZhYw==",
+        "description": "PEMERINTAH Kota (Pemkot) Depok kembali menerima sebanyak 1.645 vial atau 16.450 dosis vaksin covid-19 Sinovac dari Pemerintah Provinsi (Pemprov) Jawa Barat untuk program vaksinasi yang terkait pelayananan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/503697/ac-milan-perpanjang-kontrak-paolo-maldini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzY5Ny9hYy1taWxhbi1wZXJwYW5qYW5nLWtvbnRyYWstcGFvbG8tbWFsZGluaQ==",
+        "description": "AC Milan mengumukan bahwa Paolo Maldini akan kembali menjadi Direktur teknik untuk Rossoneri -julukkan AC Milan- hingga 2024 mendatang, di mana klub menyatakan telah menandatangani kontrak baru dengan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/503695/kasus-aktif-covid-19-kota-bekasi-tembus-755-pasien",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDM2OTUva2FzdXMtYWt0aWYtY292aWQtMTkta290YS1iZWthc2ktdGVtYnVzLTc1NS1wYXNpZW4=",
+        "description": "PERKEMBANGAN kasus aktif Covid-19 di Kota Bekasi terus bertambah. Hingga update terakhir per 30 Juni 2022, terdapat penambahan baru terkonfirmasi positif Covid-19 sebanyak 130 pasien, sembuh sebanyak&#8230;"
+    },
+    {
+        "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/503694/masuk-16-besar-wimbledon-alcaraz-makin-nyaman-dengan-lapangan-rumput",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM2OTQvbWFzdWstMTYtYmVzYXItd2ltYmxlZG9uLWFsY2FyYXotbWFraW4tbnlhbWFuLWRlbmdhbi1sYXBhbmdhbi1ydW1wdXQ=",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM2ODkvdGFuZ2dhcGktZG9iLXBhcHVhLXBnaS1wYXB1YS1pbmdhdGthbi1tYXNpaC1hZGEtdWppLW1hdGVyaS1iZXJsYW5nc3VuZy1kaS1taw==",
         "description": "PERSEKUTUAN Gereja-Gereja Indonesia (PGI) meminta semua pihak untuk menghormati proses pengujian Undang-Undang Nomor 2 Tahun 2021 tentang Perubahan Kedua Atas Undang-Undang Nomor 21 Tahun 2001 tentang&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503688/dpr-dorong-pln-cari-inovasi-untuk-hasilkan-teknologi-ebt",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzY4OC9kcHItZG9yb25nLXBsbi1jYXJpLWlub3Zhc2ktdW50dWstaGFzaWxrYW4tdGVrbm9sb2dpLWVidA==",
-        "description": "ANGGOTA Komisi VII DPR RI Andi Yuliani Paris mendorong PT Perusahaan Listrik Negara (PLN) untuk mencari inovasi untuk menghasilkan teknologi energi baru dan terbarukan (EBT). Ia menilai Indonesia&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503687/mabes-polri-gelar-doa-lintas-agama-untuk-indonesia-yang-lebih-baik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNjg3L21hYmVzLXBvbHJpLWdlbGFyLWRvYS1saW50YXMtYWdhbWEtdW50dWstaW5kb25lc2lhLXlhbmctbGViaWgtYmFpaw==",
-        "description": "Mabes Polri menggelar kegiatan doa bersama lintas agama di tengah momentum peringatan Hari Ulang Tahun (HUT) Bhayangkara ke-76. Acara ini merupakan upaya ikhtiar batiniah untuk kebaikan Bangsa Indonesia.&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/503686/usk-dan-pemkab-aceh-selatan-kerja-sama-peta-risiko-bencana",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNjg2L3Vzay1kYW4tcGVta2FiLWFjZWgtc2VsYXRhbi1rZXJqYS1zYW1hLXBldGEtcmlzaWtvLWJlbmNhbmE=",
-        "description": "UNIVERSITAS Syiah Kuala (USK) Aceh melalui Pusat Riset Tsunami dan Mitigasi Bencana atau Tsunami and Disaster Mitigation Research Center (TDMRC) melakukan Perjanjian Kerja Sama (PKS) dengan Badan Penanggulangan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503685/inflasi-2022-diperkirakan-lewati-kisaran-target",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzY4NS9pbmZsYXNpLTIwMjItZGlwZXJraXJha2FuLWxld2F0aS1raXNhcmFuLXRhcmdldA==",
-        "description": "BANK Indonesia (BI) memprediksi tingkat inflasi hingga akhir tahun akan melewati batas atas kisaran target 2%-4%. Hal ini dipicu oleh gejolak harga komoditas global dan pangan. &quot;Pada akhir&#8230;"
     }
 ]
