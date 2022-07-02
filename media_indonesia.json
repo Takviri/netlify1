@@ -1,5 +1,40 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503730/swiss-cafe-restaurant-pondok-indah-gelar-chef-collaboration-series",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNzMwL3N3aXNzLWNhZmUtcmVzdGF1cmFudC1wb25kb2staW5kYWgtZ2VsYXItY2hlZi1jb2xsYWJvcmF0aW9uLXNlcmllcw==",
+        "description": "SWISS Cafe Restaurant, Swiss-Belhotel Pondok Indah, menyelengarakan kembali kegiatan demo masak bersama Swiss-Belresidences Rasuna Epicentrum yang diberi judul &ldquo;Executive Chef Series in Collaboration&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503729/204-orang-calon-haji-ikut-safari-wukuf",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNzI5LzIwNC1vcmFuZy1jYWxvbi1oYWppLWlrdXQtc2FmYXJpLXd1a3Vm",
+        "description": "KANTOR Kesehatan Haji Indonesia (KKHI) Daerah Kerja Mekkah telah melakukan proses skrining lebih dari 1.000 jemaah yang resiko tinggi (risti).&nbsp; &ldquo;Dari 1.000 jemaah yang risti kita&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503728/pertontonkan-keindahan-indonesia-lewat-digitalisasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNzI4L3BlcnRvbnRvbmthbi1rZWluZGFoYW4taW5kb25lc2lhLWxld2F0LWRpZ2l0YWxpc2FzaQ==",
+        "description": "Perkembangan teknologi membuat dunia digital menjadi dunia kedua bagi setiap orang. Hal tersebut membuat jati diri dalam ruang budaya digital tidak berbeda dengan budaya nondigital. Digitalisasi&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/503727/109-jemaah-haji-dari-kota-tegal-diberangkatkan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNzI3LzEwOS1qZW1hYWgtaGFqaS1kYXJpLWtvdGEtdGVnYWwtZGliZXJhbmdrYXRrYW4=",
+        "description": "SEBANYAK 109 calon jemaah haji Kota Tegal dan satu orang petugas Tim Pemandu Haji Daerah (TPHD) Kota Tegal, Jawa Tengah diberangkatkan Jumat (1/7) malam, pukul 23.00 WIB. Mereka menumpang tiga&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/503726/sidang-yustisi-digelar-35-tempat-usaha-di-jaksel-ditindak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDM3MjYvc2lkYW5nLXl1c3Rpc2ktZGlnZWxhci0zNS10ZW1wYXQtdXNhaGEtZGktamFrc2VsLWRpdGluZGFr",
+        "description": "SATUAN Polisi Pamong Praja (Satpol PP) Jakarta Selatan menyelenggarakan sidang yustisi dengan menindak pemilik 35 tempat usaha yang melanggar Peraturan Daerah (Perda) DKI Jakarta Nomor 8/2007 di Pengadilan&#8230;"
+    },
+    {
         "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/503715/yang-harus-diperhatikan-pemakai-lensa-kontak-agar-mata-tetap-sehat",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzcyMy90cmlrLWFrdGlmLWRhbi1wcm9kdWt0aWYtYmVyanVhbGFuLWRpLW1lZHNvcw==",
         "description": "Perkembangan teknologi informasi di dunia terus berkembang secara masif. Perubahan gaya hidup menjadi serba digital menawarkan kemudahan dan kepraktisan dalam melakukan berbagai aktivitas. Survei&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/503721/bengkel-mime-theatre-bakal-iringi-penampilan-trio-lestari-di-prambanan-jazz-festival-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMzcyMS9iZW5na2VsLW1pbWUtdGhlYXRyZS1iYWthbC1pcmluZ2ktcGVuYW1waWxhbi10cmlvLWxlc3RhcmktZGktcHJhbWJhbmFuLWphenotZmVzdGl2YWwtMjAyMg==",
-        "description": "Bengkel Mime Theatre besutan Andy Sri Wahyudi bakal tampil mengiringi Trio Lestari dalam perhelatan Prambanan Jazz Festival 2022, hari terakhir, Minggu (3/7). Andy Eswe, demikian sutradara teater,&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/503720/khofifah-berharap-kuota-haji-untuk-indonesia-terus-meningkat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzNzIwL2tob2ZpZmFoLWJlcmhhcmFwLWt1b3RhLWhhamktdW50dWstaW5kb25lc2lhLXRlcnVzLW1lbmluZ2thdA==",
-        "description": "GUBERNUR Jawa Timur Khofifah Indar Parawansa berharap kuota ibadah haji untuk Indonesia pada tahun berikutnya bisa terus meningkat sehingga umat Islam yang berangkat ibadah ke Tanah Suci menjadi lebih&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503719/bnpb-tetapkan-status-keadaan-tertentu-darurat-pmk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNzE5L2JucGItdGV0YXBrYW4tc3RhdHVzLWtlYWRhYW4tdGVydGVudHUtZGFydXJhdC1wbWs=",
-        "description": "PEMERINTAH Indonesia melalui Badan Nasional Penanggulangan Bencana (BNPB) telah menetapkan Status Keadaan Tertentu Darurat Penyakit Mulut dan Kuku (PMK) pada hewan ternak melalui Surat Keputusan Kepala&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503717/dosen-ipb-ingatkan-proses-penyembelihan-berpotensi-timbulkan-pencemaran-wabah-pmk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzNzE3L2Rvc2VuLWlwYi1pbmdhdGthbi1wcm9zZXMtcGVueWVtYmVsaWhhbi1iZXJwb3RlbnNpLXRpbWJ1bGthbi1wZW5jZW1hcmFuLXdhYmFoLXBtaw==",
-        "description": "INDONESIA masih dilanda wabah PMK (Penyakit Mulut dan Kuku) menjelang hari raya Idul Adha. Berkaitan dengan itu, Dosen IPB University dari Sekolah Kedokteran Hewan dan Biomedis (SKHB) Herwin Pisestyanti&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/503711/nasa-rancang-robot-untuk-selidiki-kehidupan-alien-di-bawah-air",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMzcxMS9uYXNhLXJhbmNhbmctcm9ib3QtdW50dWstc2VsaWRpa2kta2VoaWR1cGFuLWFsaWVuLWRpLWJhd2FoLWFpcg==",
-        "description": "Eksplorasi lembaga penelitian antariksa AS (NASA) untuk mengetahui lebih dalam tentang alien tak pernah henti dilakukan. Meski hingga saat ini belum ditemukan bukti konkret akan keberadaan alien, berbagai&#8230;"
     }
 ]
