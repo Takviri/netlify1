@@ -1,5 +1,12 @@
 [
     {
+        "title": "Para detektif yang berburu gunung berapi bawah laut",
+        "link": "https://www.bbc.com/indonesia/vert-fut-61907303",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvdmVydC1mdXQtNjE5MDczMDM=",
+        "description": "Pada Januari 2022, ledakan gunung berapi bawah laut raksasa mengguncang Tonga di Pasifik. Bagaimana para ilmuwan menemukan di mana dan kapan gunung api yang berikutnya akan meledak?"
+    },
+    {
         "title": "Alat yang membuat bos bisa awasi pekerjaan anak buah",
         "link": "https://www.bbc.com/indonesia/vert-cap-61956649",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjIwMDY5NzI=",
         "description": "Di titik tengah percobaan \"satu negara, dua sistem\", keraguan membayangi salah satu kota paling hidup di Asia."
-    },
-    {
-        "title": "Filipina: 'Warisan berdarah' kepresidenan Rodrigo Duterte",
-        "link": "https://www.bbc.com/indonesia/dunia-61992416",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE5OTI0MTY=",
-        "description": "Salah satu sosok terkuat di Filipina telah berakhir masa kepresidenannya. Kebijakannya melawan narkoba dan kejahatan telah menewaskan ribuan orang."
     }
 ]

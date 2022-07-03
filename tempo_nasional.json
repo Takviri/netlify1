@@ -1,10 +1,31 @@
 [
     {
         "title": "Warga Semoyo Heran Lihat Jembatan yang Dibangun Mas Dhito",
-        "link": "https://nasional.tempo.co/read/1608158/warga-semoyo-heran-lihat-jembatan-yang-dibangun-mas-dhito",
+        "link": "https://nasional.tempo.co/read/1608176/warga-semoyo-heran-lihat-jembatan-yang-dibangun-mas-dhito",
         "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgxNTgvd2FyZ2Etc2Vtb3lvLWhlcmFuLWxpaGF0LWplbWJhdGFuLXlhbmctZGliYW5ndW4tbWFzLWRoaXRv",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgxNzYvd2FyZ2Etc2Vtb3lvLWhlcmFuLWxpaGF0LWplbWJhdGFuLXlhbmctZGliYW5ndW4tbWFzLWRoaXRv",
         "description": "Warga Dusun Semoyo, Desa Blimbing, Kecamatan Mojo tak menduga melihat hasil akhir pembangunan jembatan di daerahnya."
+    },
+    {
+        "title": "Pakar Ungkap Elektabilitas Puan Bisa Terkatrol Jika Dapat Dukungan dari Jokowi",
+        "link": "https://nasional.tempo.co/read/1608173/pakar-ungkap-elektabilitas-puan-bisa-terkatrol-jika-dapat-dukungan-dari-jokowi",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgxNzMvcGFrYXItdW5na2FwLWVsZWt0YWJpbGl0YXMtcHVhbi1iaXNhLXRlcmthdHJvbC1qaWthLWRhcGF0LWR1a3VuZ2FuLWRhcmktam9rb3dp",
+        "description": "Adi Prayitno, menyebut elektabilitas Puan Maharani bisa terkatrol, jika Presiden Jokowi memberikan dukungannya. Menurut Adi, para pendukung Jokowi bakal beralih mendukung Ketua DPR RI itu"
+    },
+    {
+        "title": "Mentan Monitor Penanganan PMK di Kabupaten Sumedang",
+        "link": "https://nasional.tempo.co/read/1608168/mentan-monitor-penanganan-pmk-di-kabupaten-sumedang",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgxNjgvbWVudGFuLW1vbml0b3ItcGVuYW5nYW5hbi1wbWstZGkta2FidXBhdGVuLXN1bWVkYW5n",
+        "description": "Di Sumedang ada total sapi yang sembuh PMK sudah mencapai 629 ekor. Sedangkan sapi mati 9 ekor dan sapi potong paksa mencapai 39 ekor."
+    },
+    {
+        "title": "Sektor Pertanian Penggerak Ekonomi dan Membuka Lapangan Pekerjaan",
+        "link": "https://nasional.tempo.co/read/1608166/sektor-pertanian-penggerak-ekonomi-dan-membuka-lapangan-pekerjaan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgxNjYvc2VrdG9yLXBlcnRhbmlhbi1wZW5nZ2VyYWstZWtvbm9taS1kYW4tbWVtYnVrYS1sYXBhbmdhbi1wZWtlcmphYW4=",
+        "description": "Di Kabupaten Sumedang, sektor pertanian  menjadi salah satu penyumbang terbesar terhadap PDRB, kontribusinya mencapai 18 persen."
     },
     {
         "title": "Mardani Maming Ajukan Praperadilan, KPK Terus Kumpulkan Alat Bukti",
@@ -28,17 +49,10 @@
         "description": "Partai NasDem menjadi salah satu partai yang intensif menjalin komunikasi dengan PKS."
     },
     {
-        "title": "Sektor Pertanian Penggerak Ekonomi dan Membuka Lapangan Pekerjaan",
-        "link": "https://nasional.tempo.co/read/1608134/sektor-pertanian-penggerak-ekonomi-dan-membuka-lapangan-pekerjaan",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgxMzQvc2VrdG9yLXBlcnRhbmlhbi1wZW5nZ2VyYWstZWtvbm9taS1kYW4tbWVtYnVrYS1sYXBhbmdhbi1wZWtlcmphYW4=",
-        "description": "Di Kabupaten Sumedang, sektor pertanian  menjadi salah satu penyumbang terbesar terhadap PDRB, kontribusinya mencapai 18 persen."
-    },
-    {
         "title": "Panen Raya Cabai di Sumedang, Mentan: Ketersediaan Cukup",
-        "link": "https://nasional.tempo.co/read/1608132/panen-raya-cabai-di-sumedang-mentan-ketersediaan-cukup",
+        "link": "https://nasional.tempo.co/read/1608164/panen-raya-cabai-di-sumedang-mentan-ketersediaan-cukup",
         "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgxMzIvcGFuZW4tcmF5YS1jYWJhaS1kaS1zdW1lZGFuZy1tZW50YW4ta2V0ZXJzZWRpYWFuLWN1a3Vw",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgxNjQvcGFuZW4tcmF5YS1jYWJhaS1kaS1zdW1lZGFuZy1tZW50YW4ta2V0ZXJzZWRpYWFuLWN1a3Vw",
         "description": "Panen cabai di Sumedang dukung produksi cabai besar nasional pada bulan Juni sebesar 78.040 ton dan cabai rawit 1.723 ton."
     },
     {
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgxMTgvcGVtYmltYmluZy1pYmFkYWgtZGlpbWJhdS1iaWtpbi1rZWdpYXRhbi15YW5nLXRpbmdrYXRrYW4taW11bml0YXMtamFtYWFoLWplbGFuZy1wdW5jYWstaGFqaQ==",
         "description": "Jamaah haji diimbau tidak memaksakan diri ke Masjidil Haram, karena akan menguras tenaga. Puncak haji membutuhkan fisik prima."
-    },
-    {
-        "title": "Hasto Kristiyanto Sampaikan Pesan Megawati di Konsolidasi PDIP Sumatera Barat",
-        "link": "https://nasional.tempo.co/read/1608113/hasto-kristiyanto-sampaikan-pesan-megawati-di-konsolidasi-pdip-sumatera-barat",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgxMTMvaGFzdG8ta3Jpc3RpeWFudG8tc2FtcGFpa2FuLXBlc2FuLW1lZ2F3YXRpLWRpLWtvbnNvbGlkYXNpLXBkaXAtc3VtYXRlcmEtYmFyYXQ=",
-        "description": "Megawati menyampaikan bahwa semua kader PDIP pasti mengalami banyak tantangan di Sumatera Barat. Menjadi bagian dari ujian perjuangan."
-    },
-    {
-        "title": "Laporan AIDP: 7 Fakta Penjualan Senjata Api di Papua 10 Tahun Terakhir",
-        "link": "https://nasional.tempo.co/read/1608099/laporan-aidp-7-fakta-penjualan-senjata-api-di-papua-10-tahun-terakhir",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgwOTkvbGFwb3Jhbi1haWRwLTctZmFrdGEtcGVuanVhbGFuLXNlbmphdGEtYXBpLWRpLXBhcHVhLTEwLXRhaHVuLXRlcmFraGly",
-        "description": "Laporan AIDP, 51 orang kena jerat pidana dengan keuntungan miliaran rupiah dalam perdagangan senjata api ilegal di Papua 10 tahun terakhir."
     }
 ]
