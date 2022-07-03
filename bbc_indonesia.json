@@ -1,5 +1,12 @@
 [
     {
+        "title": "Apa yang terjadi jika kita berhenti menggunakan plastik",
+        "link": "https://www.bbc.com/indonesia/vert-fut-61976487",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvdmVydC1mdXQtNjE5NzY0ODc=",
+        "description": "Plastik telah merasuk ke dalam setiap aspek kehidupan kita. Bisakah kita hidup tanpanya?"
+    },
+    {
         "title": "Jepang dilanda cuaca panas hingga 47 derajat celsius, 'saya bisa meninggal jika tidak hidupkan AC'",
         "link": "https://www.bbc.com/indonesia/majalah-62005330",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYxOTcyMDk2",
         "description": "Presiden Joko Widodo menegaskan situasi pasok pangan global tidak akan membaik jika pupuk dari Rusia dan gandum dari Ukraina tak tersedia."
-    },
-    {
-        "title": "FBI menempatkan 'Ratu Kripto' ke daftar 10 buronan paling dicari, siap beri hadiah Rp1,5 miliar",
-        "link": "https://www.bbc.com/indonesia/dunia-61972100",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE5NzIxMDA=",
-        "description": "Ruja Ignatova dituduh menggelapkan uang para korbannya senilai Rp59,8 triliun melalui tipu daya cryptocurrency."
     }
 ]
