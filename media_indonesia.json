@@ -1,5 +1,19 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503925/kominfo-perhumas-mitra-strategis-pemerintah-dalam-memperluas-kepemimpinan-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzOTI1L2tvbWluZm8tcGVyaHVtYXMtbWl0cmEtc3RyYXRlZ2lzLXBlbWVyaW50YWgtZGFsYW0tbWVtcGVybHVhcy1rZXBlbWltcGluYW4taW5kb25lc2lh",
+        "description": "PERHIMPUNAN Hubungan Masyarakat Indonesia (Perhumas) merupakan mitra pemerintah yang strategis untuk memperluas pengaruh kepemimpinan Indonesia di kancah global. Hal itu ditekankan Direktur&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/503924/proses-naturalisasi-jordi-amat-terus-berjalan-di-tengah-pro-dan-kontra",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzkyNC9wcm9zZXMtbmF0dXJhbGlzYXNpLWpvcmRpLWFtYXQtdGVydXMtYmVyamFsYW4tZGktdGVuZ2FoLXByby1kYW4ta29udHJh",
+        "description": "MESKI menuai pro dan kontra, PSSI dan pelatih timnas Shin Tae-yong memutuskan untuk tetap melanjutkan proses naturalisasi Jordi Amat. Shin Tae-yong menulis langsung surat yang ditujukan kepada&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/503923/jokowi-harus-perkuat-daya-tawar-untuk-jadi-king-maker-2024",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzOTE2L2Frc2ktc29zaWFsLXdhcm5haS1rZWdpYXRhbi1zb2JhdC1lcmljay1kaS1qYXdhLXRpbXVy",
         "description": "SOBAT Erick melakukan Roadshow di Provinsi Jawa Timur untuk mengenalkan sosok Menteri BUMN Erick Thohir ke mata masyarakat dan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/503915/teman-sandi-ajarkan-hidroponik-di-binjai",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzOTE1L3RlbWFuLXNhbmRpLWFqYXJrYW4taGlkcm9wb25pay1kaS1iaW5qYWk=",
-        "description": "RELAWAN Teman Sandi menggelar ragam kegiatan sosial serta aneka lomba di Kota Binjai, Sumatra Utara, Minggu (3/7). Ratusan masyarakat&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503914/insav-festival-diharapkan-cerdaskan-masyarakat-tangkal-investasi-bodong",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzkxNC9pbnNhdi1mZXN0aXZhbC1kaWhhcmFwa2FuLWNlcmRhc2thbi1tYXN5YXJha2F0LXRhbmdrYWwtaW52ZXN0YXNpLWJvZG9uZw==",
-        "description": "INDONESIA Sharia Invesment Festival (Insav Festival) yang berlangsung Minggu (3/7) dinilai sebagai upaya penguatan mutu preferensi masyarakat dalam keterlibatan membangun ekonomi syariah di tengah&#8230;"
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kecelakaan Bus vs Truk Ayam di Tol Cipali, Lalin Macet Total",
+        "link": "https://www.cnnindonesia.com/nasional/20220703181123-20-816686/kecelakaan-bus-vs-truk-ayam-di-tol-cipali-lalin-macet-total",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwMzE4MTEyMy0yMC04MTY2ODYva2VjZWxha2Fhbi1idXMtdnMtdHJ1ay1heWFtLWRpLXRvbC1jaXBhbGktbGFsaW4tbWFjZXQtdG90YWw=",
+        "description": " Kecelakaan yang melibatkan bus dengan truk pengangkut ayam terjadi di ruas Jalan Tol Cikampek-Palimanan (Cipali), Jawa Barat, Minggu (3/7)."
+    },
+    {
+        "title": "Gelombang Tinggi Terjang Masjid di Palabuhanratu, 16 Rumah Rusak",
+        "link": "https://www.cnnindonesia.com/nasional/20220703174834-20-816684/gelombang-tinggi-terjang-masjid-di-palabuhanratu-16-rumah-rusak",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwMzE3NDgzNC0yMC04MTY2ODQvZ2Vsb21iYW5nLXRpbmdnaS10ZXJqYW5nLW1hc2ppZC1kaS1wYWxhYnVoYW5yYXR1LTE2LXJ1bWFoLXJ1c2Fr",
+        "description": " Sedikitnya 16 rumah warga dan sebuah bangunan masjid terdampak akibat terjangan gelombang tinggi di kawasan pesisir Teluk Palabuhanratu, Kabupaten Sukabumi."
+    },
+    {
         "title": "Dugaan Pelecehan Anggota JKT48 di Mal Solo, Gibran Klarifikasi Berita",
         "link": "https://www.cnnindonesia.com/nasional/20220703173652-20-816680/dugaan-pelecehan-anggota-jkt48-di-mal-solo-gibran-klarifikasi-berita",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwMzE1MTgzNy0yMC04MTY2NDMvaWRpLXNlYnV0LWF0dXJhbi1nYW5qYS11bnR1ay1tZWRpcy1zZWRhbmctZGlrYWpp",
         "description": " Proses kajian meliputi kajian literatur maupun riset diperlukan demi keamanan pasien (patient safety)."
-    },
-    {
-        "title": "Gibran: Dugaan Pelecehan Seksual Anggota JKT48 di Mal Sukoharjo",
-        "link": "https://www.cnnindonesia.com/nasional/20220703150137-20-816641/gibran-dugaan-pelecehan-seksual-anggota-jkt48-di-mal-sukoharjo",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwMzE1MDEzNy0yMC04MTY2NDEvZ2licmFuLWR1Z2Fhbi1wZWxlY2VoYW4tc2Vrc3VhbC1hbmdnb3RhLWprdDQ4LWRpLW1hbC1zdWtvaGFyam8=",
-        "description": " Walkot Solo Gibran Rakabuming Raka mengatakan dugaan pelecehan seksual anggota JKT48 terjadi di sebuah mal yang ada di Kabupaten Sukoharjo, Jateng."
-    },
-    {
-        "title": "Fatwa MUI: Vaksin Covid CanSino Asal China Haram",
-        "link": "https://www.cnnindonesia.com/nasional/20220703151744-20-816645/fatwa-mui-vaksin-covid-cansino-asal-china-haram",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwMzE1MTc0NC0yMC04MTY2NDUvZmF0d2EtbXVpLXZha3Npbi1jb3ZpZC1jYW5zaW5vLWFzYWwtY2hpbmEtaGFyYW0=",
-        "description": " MUI\u00c2\u00a0menerbitkan fatwa bahwa vaksin virus corona produksi CanSino Biologics Inc. asal China atau yang dikenal dengan vaksin Convidecia hukumnya adalah haram."
     }
 ]
