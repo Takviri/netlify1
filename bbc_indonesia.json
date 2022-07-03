@@ -1,5 +1,12 @@
 [
     {
+        "title": "Jepang dilanda cuaca panas hingga 47 derajat celsius, 'saya bisa meninggal jika tidak hidupkan AC'",
+        "link": "https://www.bbc.com/indonesia/majalah-62005330",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MjAwNTMzMA==",
+        "description": "Jepang mengalami panas ekstrem \"agak menakutkan\" yang mencapai 47C dan sudah memecahkan rekor - dan musim panas baru saja dimulai."
+    },
+    {
         "title": "Covid-19: Seberapa bahaya subvarian terbaru Omicron BA.4 dan BA.5?",
         "link": "https://www.bbc.com/indonesia/majalah-61951604",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE5NzIxMDA=",
         "description": "Ruja Ignatova dituduh menggelapkan uang para korbannya senilai Rp59,8 triliun melalui tipu daya cryptocurrency."
-    },
-    {
-        "title": "MyPertamina untuk penyaluran subsidi BBM 'berpotensi blunder karena masyarakat kelas bawah belum siap'",
-        "link": "https://www.bbc.com/indonesia/indonesia-61977270",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYxOTc3Mjcw",
-        "description": "Penerapan sistem pendaftaran online demi mengontrol penyaluran BBM bersubsidi dinilai pengamat energi sebagai \"kebijakan yang berpotensi blunder\" dan justru mempersulit masyarakat kelas menengah ke bawah yang tidak memiliki akses internet."
     }
 ]
