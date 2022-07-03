@@ -1,6 +1,48 @@
 [
     {
         "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/503851/sainz-berteima-kasih-atas-dukungan-penonton-di-kualifikasi-gp-inggris",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM4NTEvc2FpbnotYmVydGVpbWEta2FzaWgtYXRhcy1kdWt1bmdhbi1wZW5vbnRvbi1kaS1rdWFsaWZpa2FzaS1ncC1pbmdncmlz",
+        "description": "CARLOS Sainz berhasil meraih posisi pole pertama sepanjang karier pembalap Ferrari itu di Formula 1 setelah menjadi yang tercepat&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/503866/iran-nilai-serangan-baru-turki-di-suriah-kacaukan-kawasan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzg2Ni9pcmFuLW5pbGFpLXNlcmFuZ2FuLWJhcnUtdHVya2ktZGktc3VyaWFoLWthY2F1a2FuLWthd2FzYW4=",
+        "description": "MENTERI Luar Negeri Iran Hossein Amir-Abdollahian pada Sabtu (2/7) memperingatkan pada kunjungan ke Damaskus bahwa tindakan militer Turki di Suriah akan mengacaukan kawasan itu. Peringatan ini dirilis&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503865/bupati-sumedang-terima-kasih-kementan-sektor-pertanian-buka-lapangan-pekerjaan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzg2NS9idXBhdGktc3VtZWRhbmctdGVyaW1hLWthc2loLWtlbWVudGFuLXNla3Rvci1wZXJ0YW5pYW4tYnVrYS1sYXBhbmdhbi1wZWtlcmphYW4=",
+        "description": "PERTANIAN adalah sektor unggulan yang banyak membuka lapangan pekerjaan dan menyerap tenaga kerja. Hal itu disampaikan Bupati Sumedang, Dony Ahmad Munir saat menyampaikan sambutan di hadapan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503862/panen-raya-cabai-di-sumedang-mentan-syl-tegaskan-ketersediaan-cukup",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzg2Mi9wYW5lbi1yYXlhLWNhYmFpLWRpLXN1bWVkYW5nLW1lbnRhbi1zeWwtdGVnYXNrYW4ta2V0ZXJzZWRpYWFuLWN1a3Vw",
+        "description": "MENTERI Pertanian (Mentan) Syahrul Yasin Limpo (SYL) melakukan kunjungan di Desa Sukawangi, Kecamatan Pamulihan, Kabupaten Sumedang, Jawa Barat dalam rangka meninjau ketersediaan cabai sekaligus melakukan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/503849/shin-akui-penyelesaian-akhir-timnas-u-19-kontra-vietnam-buruk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzg0OS9zaGluLWFrdWktcGVueWVsZXNhaWFuLWFraGlyLXRpbW5hcy11LTE5LWtvbnRyYS12aWV0bmFtLWJ1cnVr",
+        "description": "PELATIH timnas U-19 Indonesia Shin Tae-yong mengakui penyelesaian akhir skuatnya buruk saat bertanding kontra Vietnam di laga Grup A Piala&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/503861/israel-jatuhkan-tiga-drone-hizbullah-intai-ladang-gas-karish",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzg2MS9pc3JhZWwtamF0dWhrYW4tdGlnYS1kcm9uZS1oaXpidWxsYWgtaW50YWktbGFkYW5nLWdhcy1rYXJpc2g=",
+        "description": "TENTARA Israel mengatakan pada Sabtu (2/7) bahwa mereka mencegat tiga pesawat tak berawak yang diluncurkan oleh&#8230;"
+    },
+    {
+        "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/503848/tampil-di-kejuaraan-dunia-renang-gladies-lariesa-mengaku-dapat-pelajaran-berharga",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM4NDgvdGFtcGlsLWRpLWtlanVhcmFhbi1kdW5pYS1yZW5hbmctZ2xhZGllcy1sYXJpZXNhLW1lbmdha3UtZGFwYXQtcGVsYWphcmFuLWJlcmhhcmdh",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM4NTcvaGFsZXAtbWVsYWp1LWtlLTE2LWJlc2FyLXdpbWJsZWRvbg==",
         "description": "MANTAN juara Simona Halep melaju ke putaran keempat Wimbledon setelah mengalahkan petenis Polandia Magdalena French, Sabtu (2/7).&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503847/komitmen-pemanfaatan-energi-hijau-mengemuka-dalam-psn-kereta-cepat-jakarta-bandung",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzg0Ny9rb21pdG1lbi1wZW1hbmZhYXRhbi1lbmVyZ2ktaGlqYXUtbWVuZ2VtdWthLWRhbGFtLXBzbi1rZXJldGEtY2VwYXQtamFrYXJ0YS1iYW5kdW5n",
-        "description": "PROYEK stategis nasional (PSN) High Speed Railway (HSR) atau Kereta Cepat Jakarta-Bandung (KCJB), yang dinilai akan meningkatkan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503855/suryacipta-dukung-peran-pelaku-industri-dalam-penerimaan-pajak-negara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzg1NS9zdXJ5YWNpcHRhLWR1a3VuZy1wZXJhbi1wZWxha3UtaW5kdXN0cmktZGFsYW0tcGVuZXJpbWFhbi1wYWphay1uZWdhcmE=",
-        "description": "TERCAPAINYA target penerimaan pajak dipengaruhi oleh banyak faktor, di antaranya peningkatan kepatuhan Wajib Pajak (WP). Dalam meningkatkan kepatuhan WP, salah satu upaya yang dilakukan pemerintah&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/503846/hamilton-minta-penonton-gp-inggris-tidak-cemooh-verstappen",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM4NDYvaGFtaWx0b24tbWludGEtcGVub250b24tZ3AtaW5nZ3Jpcy10aWRhay1jZW1vb2gtdmVyc3RhcHBlbg==",
-        "description": "LEWIS Hamilton mengaku sedih hanya akan start di GP Inggris dari posisi kelima di sesi kualifikasi, Sabtu (2/7). Pembalap Inggris&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/503844/aprifadia-janji-tampil-habis-habisan-di-final-malaysia-terbuka",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM4NDQvYXByaWZhZGlhLWphbmppLXRhbXBpbC1oYWJpcy1oYWJpc2FuLWRpLWZpbmFsLW1hbGF5c2lhLXRlcmJ1a2E=",
-        "description": "MESKI baru rampung memenangi babak semifinal, pasangan Apriyani Rahayu/Siti Fadia Silva Ramadhanti begitu bersemangat menyongsong babak final <a href=\"http://mediaindonesia.com/tag/malaysia-terbuka\"&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/503842/menteri-ekonomi-argentina-mengundurkan-diri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzg0Mi9tZW50ZXJpLWVrb25vbWktYXJnZW50aW5hLW1lbmd1bmR1cmthbi1kaXJp",
-        "description": "MENTERI Ekonomi Argentina Martin Guzman, yang memimpin perundingan utang negara Amerika Latin itu dengan IMF, Sabtu (2/7), mengundurkan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/503850/kalahkan-gauff-anisimova-ke-16-besar-wimbledon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM4NTAva2FsYWhrYW4tZ2F1ZmYtYW5pc2ltb3ZhLWtlLTE2LWJlc2FyLXdpbWJsZWRvbg==",
-        "description": "AMANDA Anisimova bangkit dari ketertinggalan untuk mengalahkan unggulan ke-11 Coco Gauff 6-7 (4/7), 6-2, dan 6-1 dalam laga All-American di putaran ketiga <a href=\"http://mediaindonesia.com/tag/wimbledon\"&#8230;"
     }
 ]
