@@ -1,5 +1,12 @@
 [
     {
+        "title": "Alat yang membuat bos bisa awasi pekerjaan anak buah",
+        "link": "https://www.bbc.com/indonesia/vert-cap-61956649",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvdmVydC1jYXAtNjE5NTY2NDk=",
+        "description": "Semakin banyak perusahaan yang memasang peranti lunak pengawasan terhadap para pegawai sejak era pandemi. Bisakah perangkat lunak semacam itu menggerus kepercayaan dan moral para pegawai?"
+    },
+    {
         "title": "Apa yang terjadi jika kita berhenti menggunakan plastik",
         "link": "https://www.bbc.com/indonesia/vert-fut-61976487",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE5OTI0MTY=",
         "description": "Salah satu sosok terkuat di Filipina telah berakhir masa kepresidenannya. Kebijakannya melawan narkoba dan kejahatan telah menewaskan ribuan orang."
-    },
-    {
-        "title": "Jokowi temui Putin, bawa pesan dari Zelensky: 'Saya siap jadi jembatan komunikasi'",
-        "link": "https://www.bbc.com/indonesia/indonesia-61972096",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYxOTcyMDk2",
-        "description": "Presiden Joko Widodo menegaskan situasi pasok pangan global tidak akan membaik jika pupuk dari Rusia dan gandum dari Ukraina tak tersedia."
     }
 ]

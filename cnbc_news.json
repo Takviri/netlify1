@@ -1,5 +1,26 @@
 [
     {
+        "title": "Besok Lewat Bunderan HI? Awas Ada Pengalihan Arus",
+        "link": "https://www.cnbcindonesia.com/news/20220703125913-4-352499/besok-lewat-bunderan-hi-awas-ada-pengalihan-arus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMzEyNTkxMy00LTM1MjQ5OS9iZXNvay1sZXdhdC1idW5kZXJhbi1oaS1hd2FzLWFkYS1wZW5nYWxpaGFuLWFydXM=",
+        "description": " Dinas Perhubungan (Dishub) DKI Jakarta memberlakukan uji coba rekayasa lalu lintas di kawasan Bundaran Hotel Indonesia"
+    },
+    {
+        "title": "Pandemi Covid-19 Sudah Usai? Cek Dulu Datanya!",
+        "link": "https://www.cnbcindonesia.com/news/20220703120513-4-352494/pandemi-covid-19-sudah-usai-cek-dulu-datanya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMzEyMDUxMy00LTM1MjQ5NC9wYW5kZW1pLWNvdmlkLTE5LXN1ZGFoLXVzYWktY2VrLWR1bHUtZGF0YW55YQ==",
+        "description": " Penyebaran kasus Covid-19 di Indonesia belum mereda."
+    },
+    {
+        "title": "Wagub Bali : Tiket Pesawat Mahal Hambat Pemulihan Pariwisata",
+        "link": "https://www.cnbcindonesia.com/news/20220701124608-8-352132/wagub-bali-tiket-pesawat-mahal-hambat-pemulihan-pariwisata",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMTEyNDYwOC04LTM1MjEzMi93YWd1Yi1iYWxpLXRpa2V0LXBlc2F3YXQtbWFoYWwtaGFtYmF0LXBlbXVsaWhhbi1wYXJpd2lzYXRh",
+        "description": " Wagub Bali : Tiket Pesawat Mahal Hambat Pemulihan Pariwisata"
+    },
+    {
         "title": "Ledakan Hancurkan Kota Rusia, Ukraina Bilang Karma",
         "link": "https://www.cnbcindonesia.com/news/20220703121631-4-352495/ledakan-hancurkan-kota-rusia-ukraina-bilang-karma",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMzEwMTUzNi00LTM1MjQ3Ny8zLW5lZ2FyYS1pbmktYmFrYWwta2VkaW5naW5hbi1qaWthLXRhay1kaXN1cGxhaS1nYXMtcnVzaWE=",
         "description": " Rusia mulai menghentikan suplai pasokan gas alamnya ke beberapa negara Eropa sebagai balasan Presiden Rusia Vladimir Putin."
-    },
-    {
-        "title": "Ukraina Bantah Zelensky Titip Pesan ke Jokowi untuk Putin",
-        "link": "https://www.cnbcindonesia.com/news/20220703100126-4-352475/ukraina-bantah-zelensky-titip-pesan-ke-jokowi-untuk-putin",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMzEwMDEyNi00LTM1MjQ3NS91a3JhaW5hLWJhbnRhaC16ZWxlbnNreS10aXRpcC1wZXNhbi1rZS1qb2tvd2ktdW50dWstcHV0aW4=",
-        "description": " Hal tersebut disampaikan oleh Serhii Nikiforov, sekretaris pers untuk Kantor Presiden Ukraina."
-    },
-    {
-        "title": "Fakta MyPertamina Syarat Beli BBM Subsidi, Baca Biar Paham",
-        "link": "https://www.cnbcindonesia.com/news/20220703095214-4-352474/fakta-mypertamina-syarat-beli-bbm-subsidi-baca-biar-paham",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMzA5NTIxNC00LTM1MjQ3NC9mYWt0YS1teXBlcnRhbWluYS1zeWFyYXQtYmVsaS1iYm0tc3Vic2lkaS1iYWNhLWJpYXItcGFoYW0=",
-        "description": " Pembeli Pertalite diwajibkan untuk mendaftar ke website MyPertamina mulai 1 Juli 2022 ini."
-    },
-    {
-        "title": "Polisi India Ciduk Dalang Pembunuhan Pendukung Penghina Nabi",
-        "link": "https://www.cnbcindonesia.com/news/20220703090027-4-352473/polisi-india-ciduk-dalang-pembunuhan-pendukung-penghina-nabi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMzA5MDAyNy00LTM1MjQ3My9wb2xpc2ktaW5kaWEtY2lkdWstZGFsYW5nLXBlbWJ1bnVoYW4tcGVuZHVrdW5nLXBlbmdoaW5hLW5hYmk=",
-        "description": " Polisi India melakukan penangkapan dalang utama dalam kasus pembunuhan seorang penjahit di Rajasthan, Sabtu (2/7)."
     }
 ]
