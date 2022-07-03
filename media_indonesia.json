@@ -1,5 +1,40 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/503888/emotional-oranges-rilis-lagu-make-me-wanna",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMzg4OC9lbW90aW9uYWwtb3Jhbmdlcy1yaWxpcy1sYWd1LW1ha2UtbWUtd2FubmE=",
+        "description": "DUO R&amp;B Los Angeles misterius, Emotional Oranges, kembali meramaikan kancah musik global lewat lagu terbaru mereka, Make Me Wanna.&nbsp;&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503901/pdip-belum-tentukan-pengganti-tjahjo-kumolo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM5MDEvcGRpcC1iZWx1bS10ZW50dWthbi1wZW5nZ2FudGktdGphaGpvLWt1bW9sbw==",
+        "description": "PDI Perjuangan (PDIP) belum memilih nama pengganti Tjahjo Kumolo sebagai Menteri Pemberdayaan Aparatur Negara dan Reformasi Birokrasi (PAN-RB). Diketahui, Tjahjo meninggal dunia pada 1 Juli&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/503887/ioh-dan-google-cloud-lanjutkan-kerja-sama-strategis-kembangkan-inovasi-solusi-digital",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTAzODg3L2lvaC1kYW4tZ29vZ2xlLWNsb3VkLWxhbmp1dGthbi1rZXJqYS1zYW1hLXN0cmF0ZWdpcy1rZW1iYW5na2FuLWlub3Zhc2ktc29sdXNpLWRpZ2l0YWw=",
+        "description": "INDOSAT Ooredoo Hutchison (IOH), melalui Indosat Business, bersama Google Cloud menyediakan solusi-solusi yang sesuai bagi pelanggan&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/503900/pentingnya-paham-xdr-untuk-antisipasi-ancaman-siber-yang-berkembang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTAzOTAwL3BlbnRpbmdueWEtcGFoYW0teGRyLXVudHVrLWFudGlzaXBhc2ktYW5jYW1hbi1zaWJlci15YW5nLWJlcmtlbWJhbmc=",
+        "description": "TRELIX, perusahaan keamanan siber yang menghadirkan Extended Detection and Response&nbsp;(XDR),&nbsp;Minggu (3/7),&nbsp;memberikan pemahaman tentang XDR. Trelix juga menjelaskan mengenai&nbsp;manfaatan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503899/lewat-diversifikasi-produk-perikanan-kkp-harap-aki-meningkat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzg5OS9sZXdhdC1kaXZlcnNpZmlrYXNpLXByb2R1ay1wZXJpa2FuYW4ta2twLWhhcmFwLWFraS1tZW5pbmdrYXQ=",
+        "description": "KEMENTERIAN Kelautan dan Perikanan (KKP) melalui Badan Riset dan Sumber Daya Manusia Kelautan dan Perikanan (BRSDM) secara berkelanjutan berupaya meningkatkan Angka Konsumsi Ikan (AKI). Salah satunya,&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/503898/tarung-derajat-dki-seleksi-atlet-untuk-pomnas-xvii",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzODk2L3dhbGkta290YS1iYXRhbS1wZW1iYW5ndW5hbi1pbmZyYXN0cnVrdHVyLWVyYS1qb2tvd2ktcGVybXVkYWgtYWtzZXMtcmFreWF0",
         "description": "AKSELERASI pembangunan infrastruktur yang digencarkan Presiden Joko Widodo (Jokowi) menciptakan beragam kebermanfaatan bagi masyarakat. Kehadirannya dinilai menjadi pelumas perekonomian masyarakat.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503883/naib-amirul-hajj-minta-pemberangkatan-haji-tahun-depan-lebih-selektif",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzODgzL25haWItYW1pcnVsLWhhamotbWludGEtcGVtYmVyYW5na2F0YW4taGFqaS10YWh1bi1kZXBhbi1sZWJpaC1zZWxla3RpZg==",
-        "description": "NAIB Amirul Hajj sekaligus Wakil Menteri Agama Zainut Tauhid Sa'adi berharap ke depan agar lebih selektif memberangkatkan jamaah calon haji&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/503895/positivity-rate-dki-113-kasus-aktif-tembus-9363-orang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDM4OTUvcG9zaXRpdml0eS1yYXRlLWRraS0xMTMta2FzdXMtYWt0aWYtdGVtYnVzLTkzNjMtb3Jhbmc=",
-        "description": "PEMPROV DKI Jakarta terus melaporkan jumlah kasus baru covid-19. Data per Sabtu (2/7) malam, kasus aktif covid-19 sudah tembus angka 9.363 orang.&nbsp; &quot;Jumlah kasus aktif kini sebanyak&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/503882/film-kau-dia-2-sudah-tayang-di-max-stream-sejak-1-juli",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMzg4Mi9maWxtLWthdS1kaWEtMi1zdWRhaC10YXlhbmctZGktbWF4LXN0cmVhbS1zZWphay0xLWp1bGk=",
-        "description": "FILM Kau &amp; Dia 2 sudah tayang di Max Stream sejak Jumat (1/7) lalu. &quot;Saya percaya yang kedua ini punya kesuksesan yang&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503894/ksad-manfaatkan-lahan-tidur-untuk-antisipasi-krisis-pangan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM4OTQva3NhZC1tYW5mYWF0a2FuLWxhaGFuLXRpZHVyLXVudHVrLWFudGlzaXBhc2kta3Jpc2lzLXBhbmdhbg==",
-        "description": "KEPALA Staf Angkatan Darat Dudung Abdurachman menginstruksikan seluruh jajarannya untuk memaksimalkan lahan-lahan tidur milik TNI AD di berbagai daerah di Tanah Air. Tanah-tanah kosong yang&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503881/dokter-ingatkan-agar-segera-sikat-gigi-setelah-makan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzODgxL2Rva3Rlci1pbmdhdGthbi1hZ2FyLXNlZ2VyYS1zaWthdC1naWdpLXNldGVsYWgtbWFrYW4=",
-        "description": "KETUA Pengurus Besar Persatuan Dokter Gigi Indonesia (PB PDGI) Usman Sumantri mengingatkan masyarakat agar rutin menyikat gigi&#8230;"
     }
 ]
