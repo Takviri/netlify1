@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sektor Pertanian Penggerak Ekonomi dan Membuka Lapangan Pekerjaan",
+        "link": "https://nasional.tempo.co/read/1608134/sektor-pertanian-penggerak-ekonomi-dan-membuka-lapangan-pekerjaan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgxMzQvc2VrdG9yLXBlcnRhbmlhbi1wZW5nZ2VyYWstZWtvbm9taS1kYW4tbWVtYnVrYS1sYXBhbmdhbi1wZWtlcmphYW4=",
+        "description": "Di Kabupaten Sumedang, sektor pertanian  menjadi salah satu penyumbang terbesar terhadap PDRB, kontribusinya mencapai 18 persen."
+    },
+    {
+        "title": "Panen Raya Cabai di Sumedang, Mentan: Ketersediaan Cukup",
+        "link": "https://nasional.tempo.co/read/1608132/panen-raya-cabai-di-sumedang-mentan-ketersediaan-cukup",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgxMzIvcGFuZW4tcmF5YS1jYWJhaS1kaS1zdW1lZGFuZy1tZW50YW4ta2V0ZXJzZWRpYWFuLWN1a3Vw",
+        "description": "Panen cabai di Sumedang dukung produksi cabai besar nasional pada bulan Juni sebesar 78.040 ton dan cabai rawit 1.723 ton."
+    },
+    {
         "title": "Ada 3 Provinsi Baru di Papua, Jokowi Disarankan Keluarkan Perpu soal Pemilu 2024",
         "link": "https://nasional.tempo.co/read/1608124/ada-3-provinsi-baru-di-papua-jokowi-disarankan-keluarkan-perpu-soal-pemilu-2024",
         "image": "static/images/tempo_nasional.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgwNTQvcG9saXRpa3VzLXBrcy1uaWxhaS1iZWxpLXBlcnRhbGl0ZS1wYWthaS1teXBlcnRhbWluYS1tZW5hbWJhaC1iZWJhbi1yYWt5YXQ=",
         "description": "Pemerintah mengumumkan kebijakan beli Pertalite pakai MyPertamina per 1 Juli 2022. Bertujuan mengatur distribusi biar tepat sasaran."
-    },
-    {
-        "title": "46 Jemaah Calon Haji Bervisa Tak Resmi Dipulangkan ke Tanah Air",
-        "link": "https://nasional.tempo.co/read/1608060/46-jemaah-calon-haji-bervisa-tak-resmi-dipulangkan-ke-tanah-air",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgwNjAvNDYtamVtYWFoLWNhbG9uLWhhamktYmVydmlzYS10YWstcmVzbWktZGlwdWxhbmdrYW4ta2UtdGFuYWgtYWly",
-        "description": "Perusahaan yang memberangkatkan jemaah calon haji non-kuota tidak resmi itu adalah PT Alfatih Indonesia Travel. Tidak terdaftar di Kementerian Agama."
-    },
-    {
-        "title": "Jemaah Calon Haji yang Sakit Jalani Terapi Thibbun Nabawi",
-        "link": "https://nasional.tempo.co/read/1608052/jemaah-calon-haji-yang-sakit-jalani-terapi-thibbun-nabawi",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgwNTIvamVtYWFoLWNhbG9uLWhhamkteWFuZy1zYWtpdC1qYWxhbmktdGVyYXBpLXRoaWJidW4tbmFiYXdp",
-        "description": "Dalam penanganan luka, jika jemaah calon haji merasa takut atau cemas, tahap pertama dianjurkan membaca Al Fatihah dan rukiah."
     }
 ]
