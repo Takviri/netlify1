@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sudah Kronis, Sri Lanka Sampai Tak Mampu Beli BBM",
+        "link": "https://www.cnbcindonesia.com/news/20220703193918-4-352563/sudah-kronis-sri-lanka-sampai-tak-mampu-beli-bbm",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMzE5MzkxOC00LTM1MjU2My9zdWRhaC1rcm9uaXMtc3JpLWxhbmthLXNhbXBhaS10YWstbWFtcHUtYmVsaS1iYm0=",
+        "description": " Sri Lanka sedang berjuang untuk mengumpulkan US$ 587 juta untuk membayar pengiriman bahan bakar."
+    },
+    {
+        "title": "Melandai, Ini Pergerakan Kasus Harian Covid-19 di RI Sepekan",
+        "link": "https://www.cnbcindonesia.com/news/20220703203807-16-352566/melandai-ini-pergerakan-kasus-harian-covid-19-di-ri-sepekan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMzIwMzgwNy0xNi0zNTI1NjYvbWVsYW5kYWktaW5pLXBlcmdlcmFrYW4ta2FzdXMtaGFyaWFuLWNvdmlkLTE5LWRpLXJpLXNlcGVrYW4=",
+        "description": " Kasus konfirmasi Covid-19 di tanah air masih bertambah, namun cenderung menyusut"
+    },
+    {
+        "title": "Makin Ganas! Rusia Sudah Kepung Kota Lisichansk, Ukraina",
+        "link": "https://www.cnbcindonesia.com/news/20220703173543-4-352551/makin-ganas-rusia-sudah-kepung-kota-lisichansk-ukraina",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMzE3MzU0My00LTM1MjU1MS9tYWtpbi1nYW5hcy1ydXNpYS1zdWRhaC1rZXB1bmcta290YS1saXNpY2hhbnNrLXVrcmFpbmE=",
+        "description": " Kementerian Pertahanan Rusia mengklaim pasukan Rusia telah mengepung Kota Lysychansk, Ukraina Timur"
+    },
+    {
         "title": "Ikatan Dokter RI Ikut Kaji Ganja Untuk Kebutuhan Medis",
         "link": "https://www.cnbcindonesia.com/news/20220703172609-4-352550/ikatan-dokter-ri-ikut-kaji-ganja-untuk-kebutuhan-medis",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMzE2NDI1NC00LTM1MjUzOS9zaXR1YXNpLW1ha2luLWhvcm9yLTUtbmVnYXJhLWVyb3BhLWluaS1zdWRhaC10ZXJpYWsta3Jpc2lz",
         "description": " Lima negara Eropa sudah teriak krisis khususnya perihal pasokan energi seperti gas dan batu bara"
-    },
-    {
-        "title": "Terungkap! Alasan Gas Rusia Penting Buat Negara di Eropa",
-        "link": "https://www.cnbcindonesia.com/news/20220703161905-4-352536/terungkap-alasan-gas-rusia-penting-buat-negara-di-eropa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMzE2MTkwNS00LTM1MjUzNi90ZXJ1bmdrYXAtYWxhc2FuLWdhcy1ydXNpYS1wZW50aW5nLWJ1YXQtbmVnYXJhLWRpLWVyb3Bh",
-        "description": " Negara-negara Eropa sangat bergantung pada pasokan gas Rusia"
-    },
-    {
-        "title": "Jos! Ganda Putri RI Apri-Fadia Juara di Malaysia Open 2022",
-        "link": "https://www.cnbcindonesia.com/news/20220703164730-4-352540/jos-ganda-putri-ri-apri-fadia-juara-di-malaysia-open-2022",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMzE2NDczMC00LTM1MjU0MC9qb3MtZ2FuZGEtcHV0cmktcmktYXByaS1mYWRpYS1qdWFyYS1kaS1tYWxheXNpYS1vcGVuLTIwMjI=",
-        "description": " Apriyani Rahayu dan Siti Fadia Silva sebagai ganda putri Ri memenangkan Malaysia Open 2022"
-    },
-    {
-        "title": "Waspada Potensi Kenaikan Covid di Libur Sekolah-Idul Adha",
-        "link": "https://www.cnbcindonesia.com/news/20220703143047-8-352520/waspada-potensi-kenaikan-covid-di-libur-sekolah-idul-adha",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMzE0MzA0Ny04LTM1MjUyMC93YXNwYWRhLXBvdGVuc2kta2VuYWlrYW4tY292aWQtZGktbGlidXItc2Vrb2xhaC1pZHVsLWFkaGE=",
-        "description": " Jangan Lengah! Libur Anak Sekolah - Idul Adha Potensi Kenaikan Kasus"
     }
 ]
