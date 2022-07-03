@@ -1,5 +1,26 @@
 [
     {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/503964/rusia-klaim-sudah-kuasai-wilayah-timur-ukraina",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzk2NC9ydXNpYS1rbGFpbS1zdWRhaC1rdWFzYWktd2lsYXlhaC10aW11ci11a3JhaW5h",
+        "description": "RUSIA menyatakan bahwa pasukan dan sekutunya telah mengambil alih kendali di wilayah Luhansk, Ukraina bagian timur. Tepatnya, setelah mereka merebut benteng pertahanan terakhir Ukraina, yakni Lysychansk.&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/503963/wisma-atlet-kemayoran-rawat-173-pasien-covid-19",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDM5NjMvd2lzbWEtYXRsZXQta2VtYXlvcmFuLXJhd2F0LTE3My1wYXNpZW4tY292aWQtMTk=",
+        "description": "SEBANYAK 173 orang dirawat di Rumah Sakit Darurat (RSD) Wisma Atlet Kemayoran Jakarta pada Minggu (3/7). Seluruh pasien rawat inap menempati Tower 5, 6, dan 7. &quot;Jumlah itu bertambah lima&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503962/diskusi-terbatas-pertanahan-letter-c-tidak-ada-yang-asli",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM5NjIvZGlza3VzaS10ZXJiYXRhcy1wZXJ0YW5haGFuLWxldHRlci1jLXRpZGFrLWFkYS15YW5nLWFzbGk=",
+        "description": "LETTER C atau girik, petok, verponding, dan segala dokumen tanah yang lama sudah tidak berlaku sejak Oktober 1987. Batas waktunya sudah lewat 35 tahun, tapi masih saja ada yang menggunakan&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/503961/psis-tantang-arema-di-semifinal-piala-presiden",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzOTU1L21lbnBhcmVrcmFmLWlrdXQtdHJhZGlzaS1wb3RvbmctcmFtYnV0LWdpbWJhbC1kaS1kaWVuZw==",
         "description": "MENTERI Pariwisata dan Ekonomi Kreatif (Menparekraf) Sandiaga Uno didaulat mengawali pemotongan rambut gimbal kepada peserta ritual ruwat rambul gimbal di kawasan Dieng, Kabupaten Wonosobo, Jawa Tengah.&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/503953/menakar-arah-kebijakan-e-commerce-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDM5NTMvbWVuYWthci1hcmFoLWtlYmlqYWthbi1lLWNvbW1lcmNlLWluZG9uZXNpYQ==",
-        "description": "PERDAGANGAN melalui sistem elektronik atau biasa disebut niaga elektronik/e-commerce menjadi penyumbang pertumbuhan terbesar ekonomi digital di Indonesia. Pada 2030 peran e-commerce diperkirakan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503952/perbanas-institute-sediakan-rp25-miliar-beasiswa-untuk-mahasiswa-baru",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzOTUyL3BlcmJhbmFzLWluc3RpdHV0ZS1zZWRpYWthbi1ycDI1LW1pbGlhci1iZWFzaXN3YS11bnR1ay1tYWhhc2lzd2EtYmFydQ==",
-        "description": "PERBANAS Institute Jakarta menyediakan beasiswa senilai Rp2,5 miliar untuk calon mahasiswa baru tahun ini. Hal itu diungkapkan Rektor Perbanas Institute Jakarta Prof. Dr. Hermanto Siregar pada Open&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503951/alissa-wahid-minta-petugas-bimbingan-ibadah-haji-perempuan-ditambah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzOTUxL2FsaXNzYS13YWhpZC1taW50YS1wZXR1Z2FzLWJpbWJpbmdhbi1pYmFkYWgtaGFqaS1wZXJlbXB1YW4tZGl0YW1iYWg=",
-        "description": "ANGGOTA Tim Pemantauan dan Evaluasi Kemenag Alissa Qotrunnada Munawaroh Wahid meminta kepada Kementerian Agama untuk menambah petugas di bidang Bimbingan Ibadah (Bimbad) dari unsur perempuan. Selama&#8230;"
     }
 ]
