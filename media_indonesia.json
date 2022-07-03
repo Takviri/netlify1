@@ -1,5 +1,40 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503968/indonesia-catat-tambahan-1614-kasus-baru",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzOTY4L2luZG9uZXNpYS1jYXRhdC10YW1iYWhhbi0xNjE0LWthc3VzLWJhcnU=",
+        "description": "KASUS Covid-19 di Indonesia kembali meningkat dalam beberapa hari terakhir. Hingga hari ini, Minggu (3/7), Kementerian Kesehatan (Kemenkes) melaporkan kasus konfirmasi positif bertambah 1.614 kasus.&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/503969/senang-mengekspresikan-diri-jangan-kebablasan-unggah-data-pribadi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTAzOTY5L3NlbmFuZy1tZW5nZWtzcHJlc2lrYW4tZGlyaS1qYW5nYW4ta2ViYWJsYXNhbi11bmdnYWgtZGF0YS1wcmliYWRp",
+        "description": "Masyarakat digital memiliki ciri senang mengekspresikan diri, selain itu berinteraksi di media sosial juga sudah menjadi bagian dari keseharian yang hampir tak bisa dilepaskan. Namun mengingat aktivitas&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/503965/usaha-rintisan-belajar-dari-sebuah-karya-seni",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDM5NjUvdXNhaGEtcmludGlzYW4tYmVsYWphci1kYXJpLXNlYnVhaC1rYXJ5YS1zZW5p",
+        "description": "SUDAH hampir sebulan terakhir berita tentang start up (perusahaan rintisan) yang melakukan pemutusan hubungan kerja (PHK) karyawan, menutup beberapa wilayah operasionalnya, dan bahkan mengumumkan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/503967/gelombang-setinggi-6-meter-ancam-perairan-selatan-jawa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzOTY3L2dlbG9tYmFuZy1zZXRpbmdnaS02LW1ldGVyLWFuY2FtLXBlcmFpcmFuLXNlbGF0YW4tamF3YQ==",
+        "description": "GELOMBANG setinggi 6 meter mengancam perairan selatan Jawa mulai Jawa Barat, Jawa Tengah dan Daerah Istimewa Yogyakarta (DIY). Tingginya gelombang akibat adanya pola angin. Pengamat cuaca Stasiun&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503966/kpu-berkomitmen-perkuat-literasi-pemilh",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM5NjYva3B1LWJlcmtvbWl0bWVuLXBlcmt1YXQtbGl0ZXJhc2ktcGVtaWxo",
+        "description": "KOMISI Pemilihan Umum (KPU) RI menyatakan akan meningkatkan literasi elektoral bagi pemilih guna menyukseskan Pemilu 2024. Menurut Komisioner KPU, Idham Holik, pendidikan pemilih itu merupakan&#8230;"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/503964/rusia-klaim-sudah-kuasai-wilayah-timur-ukraina",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzOTYwL2tob2ZpZmFoLWliYWRhaC1oYWppLWVtaWwtZGFyZGFrLWphYmF0LXBsdC1ndWJlcm51ci1qYXRpbQ==",
         "description": "WAKIL Gubernur Jawa Timur Emil Elestianto Dardak menjabat sebagai Plt Gubernur mengisi posisi Khofifah Indar Parawansa selama 20 hari. Sebab, Khofifah menunaikan ibadah haji ke Tanah Suci. &quot;Bahwa&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503959/investasi-berkelanjutan-jadi-topik-pertemuan-tiiwg-g20-kedua-di-surakarta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzk1OS9pbnZlc3Rhc2ktYmVya2VsYW5qdXRhbi1qYWRpLXRvcGlrLXBlcnRlbXVhbi10aWl3Zy1nMjAta2VkdWEtZGktc3VyYWthcnRh",
-        "description": "Kementerian Investasi/Badan Koordinasi Penanaman Modal (BKPM) bersama dengan Kementerian Perdagangan dan Kementerian Perindustrian selaku anggota G20 Trade, Investment, and Industry Working Group&#8230;"
-    },
-    {
-        "title": "Sajak Kofe",
-        "link": "https://m.mediaindonesia.com/sajak-kofe/503954/sajak-sajak-boris-pasternak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zYWphay1rb2ZlLzUwMzk1NC9zYWphay1zYWphay1ib3Jpcy1wYXN0ZXJuYWs=",
-        "description": "Boris Pasternak (1890-1960)&nbsp; Mimpi&nbsp; Aku memimpikan cahaya musim gugur&nbsp; ada kau dan temanmu di kerumunan badut.&nbsp;<br&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/503957/holding-bumn-farmasi-turut-meriahkan-jakarta-fair-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDM5NTcvaG9sZGluZy1idW1uLWZhcm1hc2ktdHVydXQtbWVyaWFoa2FuLWpha2FydGEtZmFpci0yMDIy",
-        "description": "SETELAH vakum selama 2 tahun karena pandemi Covid-19, Jakarta Fair 2022 kembali digelar. Bertempat di JIExpo Kemayoran Jakarta Pusat, Pekan Raya Jakarta atau PRJ yang merupakan rangkaian dari perayaan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/503956/program-jawara-telah-bukukan-penjualan-rp25-m",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzk1Ni9wcm9ncmFtLWphd2FyYS10ZWxhaC1idWt1a2FuLXBlbmp1YWxhbi1ycDI1LW0=",
-        "description": "Jaring Pangan Warung Rakyat (Jawara) sebuah inisiasi program permodalan yang diadakan oleh PT Jaring Pangan Indonesia telah berhasil membukukan penjualan hingga US$160 ribu atau setara hampir Rp 2,5&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/503955/menparekraf-ikut-tradisi-potong-rambut-gimbal-di-dieng",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzOTU1L21lbnBhcmVrcmFmLWlrdXQtdHJhZGlzaS1wb3RvbmctcmFtYnV0LWdpbWJhbC1kaS1kaWVuZw==",
-        "description": "MENTERI Pariwisata dan Ekonomi Kreatif (Menparekraf) Sandiaga Uno didaulat mengawali pemotongan rambut gimbal kepada peserta ritual ruwat rambul gimbal di kawasan Dieng, Kabupaten Wonosobo, Jawa Tengah.&#8230;"
     }
 ]
