@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/503976/borneo-fc-jumpa-pss-sleman-di-semifinal-piala-presiden",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzk3Ni9ib3JuZW8tZmMtanVtcGEtcHNzLXNsZW1hbi1kaS1zZW1pZmluYWwtcGlhbGEtcHJlc2lkZW4=",
+        "description": "BORNEO FC memastikan tiket semifinal Piala Presiden 2022 setelah berhasil mengalahkan PSM Makassar dengan skor 2-1 pada pertandingan babak delapan besar di Stadion Segiri Samarinda, Kalimantan Timur,&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/503974/laju-vaksinasi-covid-19-di-luar-jawa-dan-bali-tergolong-rendah",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM5NjYva3B1LWJlcmtvbWl0bWVuLXBlcmt1YXQtbGl0ZXJhc2ktcGVtaWxo",
         "description": "KOMISI Pemilihan Umum (KPU) RI menyatakan akan meningkatkan literasi elektoral bagi pemilih guna menyukseskan Pemilu 2024. Menurut Komisioner KPU, Idham Holik, pendidikan pemilih itu merupakan&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/503964/rusia-klaim-sudah-kuasai-wilayah-timur-ukraina",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzk2NC9ydXNpYS1rbGFpbS1zdWRhaC1rdWFzYWktd2lsYXlhaC10aW11ci11a3JhaW5h",
-        "description": "RUSIA menyatakan bahwa pasukan dan sekutunya telah mengambil alih kendali di wilayah Luhansk, Ukraina bagian timur. Tepatnya, setelah mereka merebut benteng pertahanan terakhir Ukraina, yakni Lysychansk.&#8230;"
     }
 ]
