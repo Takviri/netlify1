@@ -1,5 +1,26 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/503910/kampiun-di-tour-de-france-bikin-fabio-jakobsen-merasa-kembali-hidup",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM5MTAva2FtcGl1bi1kaS10b3VyLWRlLWZyYW5jZS1iaWtpbi1mYWJpby1qYWtvYnNlbi1tZXJhc2Eta2VtYmFsaS1oaWR1cA==",
+        "description": "PEMBALAP sepeda asal Belanda Fabio Jakobsen, menorehkan hasil apik finis posisi pertama pada etape kedua Tour de France 2022 yang digelar Sabtu (2/7) waktu setempat. Kemenangan itu menjadi sejarah&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/503909/tingkatkan-daya-saing-nasional-rerie-manfaatkan-potensi-kelautan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzOTA5L3RpbmdrYXRrYW4tZGF5YS1zYWluZy1uYXNpb25hbC1yZXJpZS1tYW5mYWF0a2FuLXBvdGVuc2kta2VsYXV0YW4=",
+        "description": "POTENSI sumber daya alam seharusnya dimanfaatkan, agar bangsa Indonesia memiliki daya saing di kancah global. Sumber daya alam di laut nusantara juga menunggu peningkatan pemanfaatan oleh anak bangsa.&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503908/kpu-mau-tampilkan-infografis-sipol-khusus-untuk-publik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM5MDgva3B1LW1hdS10YW1waWxrYW4taW5mb2dyYWZpcy1zaXBvbC1raHVzdXMtdW50dWstcHVibGlr",
+        "description": "KOMISI Pemilihan Umum (KPU) RI segera menampilkan infografis Sistem Informasi Partai Politik (Sipol) yang bisa diakses oleh publik. &quot;Info soal partai politik (parpol) dan lainnya akan ditampilkan.&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/503907/berjiwa-santri-erick-thohir-jadi-harapan-ulama",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMzg4OC9lbW90aW9uYWwtb3Jhbmdlcy1yaWxpcy1sYWd1LW1ha2UtbWUtd2FubmE=",
         "description": "DUO R&amp;B Los Angeles misterius, Emotional Oranges, kembali meramaikan kancah musik global lewat lagu terbaru mereka, Make Me Wanna.&nbsp;&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/503901/pdip-belum-tentukan-pengganti-tjahjo-kumolo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDM5MDEvcGRpcC1iZWx1bS10ZW50dWthbi1wZW5nZ2FudGktdGphaGpvLWt1bW9sbw==",
-        "description": "PDI Perjuangan (PDIP) belum memilih nama pengganti Tjahjo Kumolo sebagai Menteri Pemberdayaan Aparatur Negara dan Reformasi Birokrasi (PAN-RB). Diketahui, Tjahjo meninggal dunia pada 1 Juli&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/503887/ioh-dan-google-cloud-lanjutkan-kerja-sama-strategis-kembangkan-inovasi-solusi-digital",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTAzODg3L2lvaC1kYW4tZ29vZ2xlLWNsb3VkLWxhbmp1dGthbi1rZXJqYS1zYW1hLXN0cmF0ZWdpcy1rZW1iYW5na2FuLWlub3Zhc2ktc29sdXNpLWRpZ2l0YWw=",
-        "description": "INDOSAT Ooredoo Hutchison (IOH), melalui Indosat Business, bersama Google Cloud menyediakan solusi-solusi yang sesuai bagi pelanggan&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/503900/pentingnya-paham-xdr-untuk-antisipasi-ancaman-siber-yang-berkembang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTAzOTAwL3BlbnRpbmdueWEtcGFoYW0teGRyLXVudHVrLWFudGlzaXBhc2ktYW5jYW1hbi1zaWJlci15YW5nLWJlcmtlbWJhbmc=",
-        "description": "TRELIX, perusahaan keamanan siber yang menghadirkan Extended Detection and Response&nbsp;(XDR),&nbsp;Minggu (3/7),&nbsp;memberikan pemahaman tentang XDR. Trelix juga menjelaskan mengenai&nbsp;manfaatan&#8230;"
     }
 ]
