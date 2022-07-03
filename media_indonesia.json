@@ -1,5 +1,47 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/503892/ribuan-ulama-dan-santri-di-surabaya-gelar-istighosah-doakan-ganjar-jadi-presiden-2024",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTAzODkyL3JpYnVhbi11bGFtYS1kYW4tc2FudHJpLWRpLXN1cmFiYXlhLWdlbGFyLWlzdGlnaG9zYWgtZG9ha2FuLWdhbmphci1qYWRpLXByZXNpZGVuLTIwMjQ=",
+        "description": "BARISAN Santriwan dan Santriwati Indonesia (BSSI) bersama alim ulama beserta habaib menggelar Istighosah Akbar dan Doa untuk Negeri. Dalam acara itu, semuanya mendoakan Gubernur Jawa Tengah Ganjar&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/503878/taylor-swift-dikabarkan-diam-diam-bertunangan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMzg3OC90YXlsb3Itc3dpZnQtZGlrYWJhcmthbi1kaWFtLWRpYW0tYmVydHVuYW5nYW4=",
+        "description": "PENYANYI Taylor Swift dikabarkan telah bertunangan secara diam-diam dengan sang kekasih, yang merupakan seorang aktor, Joe Alwyn.&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503891/dpr-harap-bendungan-mujur-terintegrasi-dengan-mandalika",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzg5MS9kcHItaGFyYXAtYmVuZHVuZ2FuLW11anVyLXRlcmludGVncmFzaS1kZW5nYW4tbWFuZGFsaWth",
+        "description": "ANGGOTA Komisi V DPR RI Mulyadi mengatakan masyarakat Lombok tengah berharap pembangunan bendungan Mujur harus segera terealisasi dan terintegarsi dangan Mandalika. Dikarenakan keberadaan bendungan&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/503875/lindsay-lohan-menikah-di-hari-ulang-tahun",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMzg3NS9saW5kc2F5LWxvaGFuLW1lbmlrYWgtZGktaGFyaS11bGFuZy10YWh1bg==",
+        "description": "AKTRIS Lindsay Lohan merayakan ulang tahunnya yang ke-36, Sabtu (2/7) waktu setempat, dengan melangsungkan pernikahan. Bintang&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503890/b20-dukung-inklusi-keuangan-dan-pemberdayaan-umkm-dan-petani",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzg5MC9iMjAtZHVrdW5nLWlua2x1c2kta2V1YW5nYW4tZGFuLXBlbWJlcmRheWFhbi11bWttLWRhbi1wZXRhbmk=",
+        "description": "B20 Trade and Investment Task Force bersama dengan Partnership for Indonesia's Sustainable Agriculture (PISAgro) menggelar forum side events B20 Indonesia bertajuk &ldquo;Unlocking&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503889/dpr-minta-pertamina-sosialisasikan-aturan-pendaftaran-penerima-bbm-subsidi-secara-masif",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzg4OS9kcHItbWludGEtcGVydGFtaW5hLXNvc2lhbGlzYXNpa2FuLWF0dXJhbi1wZW5kYWZ0YXJhbi1wZW5lcmltYS1iYm0tc3Vic2lkaS1zZWNhcmEtbWFzaWY=",
+        "description": "WAKIL Ketua Komisi VI DPR RI Martin Manurung meminta Pertamina untuk melakukan sosialisasi yang masif terkait pendaftaran penerima BBM Subsidi di laman atau aplikasi <a href=\"http://mediaindonesia.com/tag/mypertamina\"&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/503874/lisandro-martinez-mengaku-ingin-merumput-di-liga-primer-inggris",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMzg2NC9iaWNlcC1yaWxpcy1zaW5nbGUtbWVsaS1paQ==",
         "description": "DUO elektronik Inggris Bicep merilis single Meli (II), lagu 4x4 yang menjadi highlight penampilan live mereka akhir-akhir ini termasuk&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/503863/lenglet-semakin-merapat-ke-spurs",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzg2My9sZW5nbGV0LXNlbWFraW4tbWVyYXBhdC1rZS1zcHVycw==",
-        "description": "KLUB Liga Primer Inggris Tottenham Hotspur dikabarkan menjalin komunikasi dengan Barcelona untuk peminjaman bek Clement&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/503860/harden-siap-terima-gaji-lebih-kecil-agar-sixers-bisa-perkuat-skuat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM4NjAvaGFyZGVuLXNpYXAtdGVyaW1hLWdhamktbGViaWgta2VjaWwtYWdhci1zaXhlcnMtYmlzYS1wZXJrdWF0LXNrdWF0",
-        "description": "BINTANG Philadelphia 76ers James Harden menolak memanfaatkan opsi kontrak US$47,36 juta pada musim depan agar klub NBA itu memiliki lebih&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/503856/ricky-martin-terancam-ditahan-di-puerto-rico",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMzg1Ni9yaWNreS1tYXJ0aW4tdGVyYW5jYW0tZGl0YWhhbi1kaS1wdWVydG8tcmljbw==",
-        "description": "SEORANG hakim Puerto Rico telah mengeluarkan perintah penahanan terhadap penyanyi Latin kenamaan Ricky Martin. Perintah&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503879/tim-mahasiswa-its-raih-juara-umum-irc-2022-di-florida-as",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzODc5L3RpbS1tYWhhc2lzd2EtaXRzLXJhaWgtanVhcmEtdW11bS1pcmMtMjAyMi1kaS1mbG9yaWRhLWFz",
-        "description": "TIM Barunastra ITS (Institut Teknologi Sepuluh Nopember) Surabaya yang terdiri dari 5 orang mahasiswa sukses menyabet juara umum dalam ajang International Roboboat Competition (IRC) 2022 di Amerika&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503876/deforestasi-karena-kelapa-sawit-jauh-lebih-kecil-daripada-komoditas-lain",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzODc2L2RlZm9yZXN0YXNpLWthcmVuYS1rZWxhcGEtc2F3aXQtamF1aC1sZWJpaC1rZWNpbC1kYXJpcGFkYS1rb21vZGl0YXMtbGFpbg==",
-        "description": "DATA kehilangan tutupan hutan yang disampaikan Satelligence mengungkapkan industri kelapa sawit bukanlah industri utama penyebab deforestasi di Indonesia. Hal ini disampaikan Founder &amp; CEO Satelligence,&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/503854/kementan-kebut-penanganan-pmk-jelang-iduladha",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTAzODU0L2tlbWVudGFuLWtlYnV0LXBlbmFuZ2FuYW4tcG1rLWplbGFuZy1pZHVsYWRoYQ==",
-        "description": "PEMERINTAH telah membentuk Satgas Penanganan Penyakit Mulut dan Kuku (PMK). Tim tersebut bakal menggandeng pemangku&#8230;"
     }
 ]
