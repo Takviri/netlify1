@@ -1,5 +1,19 @@
 [
     {
+        "title": "Dengan Co-Firing, PLN Beri Solusi Soal Sampah di Indramayu",
+        "link": "https://www.cnbcindonesia.com/news/20220703191151-4-352562/dengan-co-firing-pln-beri-solusi-soal-sampah-di-indramayu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMzE5MTE1MS00LTM1MjU2Mi9kZW5nYW4tY28tZmlyaW5nLXBsbi1iZXJpLXNvbHVzaS1zb2FsLXNhbXBhaC1kaS1pbmRyYW1heXU=",
+        "description": " PLN\u00c2\u00a0PT Pembangkitan Jawa Bali (PJB), menggandeng Pemkab Indramayu untuk mengelola sampah kota menjadi biomassa untuk bahan bakar PLTU."
+    },
+    {
+        "title": "Menkes Bawa Kabar Tak Sedap Soal Virus BA.4 dan BA.5, Waspada!",
+        "link": "https://www.cnbcindonesia.com/news/20220703180543-4-352552/menkes-bawa-kabar-tak-sedap-soal-virus-ba4-ba5-waspada",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMzE4MDU0My00LTM1MjU1Mi9tZW5rZXMtYmF3YS1rYWJhci10YWstc2VkYXAtc29hbC12aXJ1cy1iYTQtYmE1LXdhc3BhZGE=",
+        "description": " Menkes RI Budi Gunadi Sadikin menyatakan puncak Covid BA.4 dan BA.5 bisa terjadi dua pekan lagi"
+    },
+    {
         "title": "Situasi Makin Horor, 5 Negara Eropa Ini Sudah 'Teriak' Krisis",
         "link": "https://www.cnbcindonesia.com/news/20220703164254-4-352539/situasi-makin-horor-5-negara-eropa-ini-sudah-teriak-krisis",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMzE0MzAwMi00LTM1MjUyMS9pbmRvbmVzaWEtc2VsYW1hdC1zZWRlcmV0LW5lZ2FyYS1pbmktYW1icnVrLWdlZ2FyYS11dGFuZw==",
         "description": " Sejumlah negara diperkirakanbisa ambruk akibat keputusan kenaikan suku bunga acuan"
-    },
-    {
-        "title": "Kasus Covid-19 RI Terus Turun, Hari Ini Positif 1.614 Orang",
-        "link": "https://www.cnbcindonesia.com/news/20220703153459-4-352534/kasus-covid-19-ri-terus-turun-hari-ini-positif-1614-orang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMzE1MzQ1OS00LTM1MjUzNC9rYXN1cy1jb3ZpZC0xOS1yaS10ZXJ1cy10dXJ1bi1oYXJpLWluaS1wb3NpdGlmLTE2MTQtb3Jhbmc=",
-        "description": " Satgas Covid-19 RI mencatat pada Minggu 3 Juli 2022 ini kasus Covid bertambah 1.614 kasus"
-    },
-    {
-        "title": "Lampu Hijau! Menkes Sebut Regulasi Ganja Medis Bakal Keluar",
-        "link": "https://www.cnbcindonesia.com/news/20220703145905-4-352523/lampu-hijau-menkes-sebut-regulasi-ganja-medis-bakal-keluar",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwMzE0NTkwNS00LTM1MjUyMy9sYW1wdS1oaWphdS1tZW5rZXMtc2VidXQtcmVndWxhc2ktZ2FuamEtbWVkaXMtYmFrYWwta2VsdWFy",
-        "description": " Menteri Kesehatan Budi Gunadi Sadikin dikabarkan akan mengeluarkan aturan berkenaan dengan ganja medis"
     }
 ]
