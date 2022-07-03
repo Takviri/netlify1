@@ -1,6 +1,27 @@
 [
     {
         "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/503838/bulls-perpanjang-kontrak-lavine",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM4MzgvYnVsbHMtcGVycGFuamFuZy1rb250cmFrLWxhdmluZQ==",
+        "description": "CHICAGO Bulls dan pemain All-Star dua kali Zach LaVine, Sabtu (2/7) WIB, menyetujui perpanjangan kontrak senilai US4215 juta (Rp3,2 triliun), yang merupakan bayaran termahal <a href=\"http://mediaindonesia.com/tag/nba\"&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/503837/lukashenko-klaim-ukraina-tembakkan-rudal-ke-belarus",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwMzgzNy9sdWthc2hlbmtvLWtsYWltLXVrcmFpbmEtdGVtYmFra2FuLXJ1ZGFsLWtlLWJlbGFydXM=",
+        "description": "PRESIDEN Belarus Alexander Lukashenko, Sabtu (2/7), mengatakan militernya telah menembak jatuh rudal yang ditembakkan ke wilayah mereka dari Ukraina&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/503845/ketua-kip-apresiasi-pemanfaatan-it-dalam-pengelolaan-informasi-di-kementan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwMzg0NS9rZXR1YS1raXAtYXByZXNpYXNpLXBlbWFuZmFhdGFuLWl0LWRhbGFtLXBlbmdlbG9sYWFuLWluZm9ybWFzaS1kaS1rZW1lbnRhbg==",
+        "description": "KETUA Komisi Informasi Pusat (KIP) Donny Yoesgiantoro menyambangi Kantor Pusat Kementerian Pertanian (Kementan) Jakarta pada Jumat (1/7). Dalam kunjungan kerjanya kali ini Donny Yoesgiantoro&#8230;"
+    },
+    {
+        "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/503836/williamson-sepakati-perpanjangan-kontrak-lima-tahun-dengan-pelicans",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM4MzYvd2lsbGlhbXNvbi1zZXBha2F0aS1wZXJwYW5qYW5nYW4ta29udHJhay1saW1hLXRhaHVuLWRlbmdhbi1wZWxpY2Fucw==",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM4MzIvdHNpdHNpcGFzLXNlYnV0LWt5cmdpb3MtYWRhbGFoLXBlcnVuZHVuZw==",
         "description": "STEFANOS Tsitsipas menuding Nick Kyrgios sebagai seorang perundung yang jahat setelah kalah dalam laga di Wimbledon, Sabtu (2/7).&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/503831/lawson-gantikan-vips-jadi-pembalap-cadangan-red-bull",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM4MzEvbGF3c29uLWdhbnRpa2FuLXZpcHMtamFkaS1wZW1iYWxhcC1jYWRhbmdhbi1yZWQtYnVsbA==",
-        "description": "PEMBALAP Selandia Baru Liam Lawson mendapat tugas baru sebagai pebalap cadangan tim Red Bull setelah tim pemuncak klasemen Formula&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/503829/ac-milan-permanenkan-florenzi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwMzgyOS9hYy1taWxhbi1wZXJtYW5lbmthbi1mbG9yZW56aQ==",
-        "description": "BEK Italia Alessandro Florenzi, yang dipinjam AC Milan dari AS Roma musim lalu, akhirnya menjadi pemain permanen klub juara Serie&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/503794/sudoku-edisi-03-juli-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwMzc5NC9zdWRva3UtZWRpc2ktMDMtanVsaS0yMDIy",
-        "description": "SUDOKU atau dikenal juga dengan tebak angka (number place)"
     }
 ]
