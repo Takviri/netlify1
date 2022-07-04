@@ -1,5 +1,40 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504230/tanoto-foundation-dorong-peningkatan-kompetensi-guru-di-provinsi-riau",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MjMwL3Rhbm90by1mb3VuZGF0aW9uLWRvcm9uZy1wZW5pbmdrYXRhbi1rb21wZXRlbnNpLWd1cnUtZGktcHJvdmluc2ktcmlhdQ==",
+        "description": "Tonoto Foundation mendorong peningkatan kompetensi guru dan pendidik di Kabupaten Kampar, Provinsi Riau melalui Program Pengembangan Inovasi untuk Kualitas Pembelajaran (Pintar) Penggerak. Program&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/504198/nasionalisme-kemanusiaan-jokowi-di-ukraina-dan-rusia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDQxOTgvbmFzaW9uYWxpc21lLWtlbWFudXNpYWFuLWpva293aS1kaS11a3JhaW5hLWRhbi1ydXNpYQ==",
+        "description": "SEUSAI kunjungannya ke Jerman menghadiri pertemuan G-7, Jokowi melanjutkan perjalanannya ke Ukraina dan Rusia. Perjalanan antara hidup dan mati. Betapa tidak, tempat yang dikunjungi itu masih menjadi&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/504243/penembakan-saat-parade-hari-kemerdekaan-as-enam-orang-tewas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNDI0My9wZW5lbWJha2FuLXNhYXQtcGFyYWRlLWhhcmkta2VtZXJkZWthYW4tYXMtZW5hbS1vcmFuZy10ZXdhcw==",
+        "description": "SEORANG pria bersenjata senapan menembak mati sedikitnya enam orang dalam parade hari kemerdekaan Amerika Serikat (AS) di Chicago,&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/504241/pss-lebih-dulu-jadi-tuan-rumah-di-semifinal-piala-presiden-kontra-borneo-fc",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDI0MS9wc3MtbGViaWgtZHVsdS1qYWRpLXR1YW4tcnVtYWgtZGktc2VtaWZpbmFsLXBpYWxhLXByZXNpZGVuLWtvbnRyYS1ib3JuZW8tZmM=",
+        "description": "PSS Sleman mengawali laga semifinal Piala Presiden 2022 dengan bertindak sebagai tuan rumah di laga leg pertama melawan Borneo&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/504242/nadal-melaju-ke-perempat-final-wimbledon",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQyNDIvbmFkYWwtbWVsYWp1LWtlLXBlcmVtcGF0LWZpbmFsLXdpbWJsZWRvbg==",
+        "description": "RAFAEL Nadal melaju ke perempat final Wimbledon, Senin (4/7), dengan mengalahkan petenis Belanda Botic van de Zandschulp. Petenis&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/504240/psis-akan-jamu-arema-fc-di-laga-leg-pertama-semifinal-piala-presiden",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQyMzYvZHJhZ2ljLXRla2VuLWtvbnRyYWstc2V0YWh1bi1kZW5nYW4tYnVsbHM=",
         "description": "PEBASKET gaek Goran Dragic dilaporkan telah hijrah ke Chicago Bulls dan meneken kontrak pendek berdurasi satu tahun. Seturut&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504229/kejaksaan-diminta-bentuk-timsus-usut-kredit-macet-titan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQyMjkva2VqYWtzYWFuLWRpbWludGEtYmVudHVrLXRpbXN1cy11c3V0LWtyZWRpdC1tYWNldC10aXRhbg==",
-        "description": "KASUS dugaan kredit macet PT Titan Infra Energy di Bank Mandiri harus dituntaskan. Korps Adhyaksa didesak segera membentuk tim khusus (timsus) untuk mengungkap perkara tersebut. &quot;Kejaksaan&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/504227/mengenal-fitur-adaptive-cruise-control-chery-tiggo-7-pro",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MDQyMjcvbWVuZ2VuYWwtZml0dXItYWRhcHRpdmUtY3J1aXNlLWNvbnRyb2wtY2hlcnktdGlnZ28tNy1wcm8=",
-        "description": "FITUR Cruise Control memang bukan sesuatu yang baru dalam teknologi kendaraan dan biasanya tersemat di mobil-mobil premium. Keberadaan Cruise Control memungkinkan pengendara untuk mengatur kecepatan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/504226/mendag-klaim-harga-minyak-goreng-curah-sudah-rp14-ribu-per-liter",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDIyNi9tZW5kYWcta2xhaW0taGFyZ2EtbWlueWFrLWdvcmVuZy1jdXJhaC1zdWRhaC1ycDE0LXJpYnUtcGVyLWxpdGVy",
-        "description": "MENTERI Perdagangan Zulkifli Hasan menyatakan bahwa harga minyak goreng curah telah menyentuh kisaran Rp14 ribu per liter di sejumlah wilayah.&nbsp; Menurutnya, hal tersebut merupakan progres&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/504225/354-juta-masyarakat-rentan-dan-umum-sudah-divaksin-booster",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MjI1LzM1NC1qdXRhLW1hc3lhcmFrYXQtcmVudGFuLWRhbi11bXVtLXN1ZGFoLWRpdmFrc2luLWJvb3N0ZXI=",
-        "description": "SEBANYAK lebih dari 35 juta masyarakat rentan dan umum sudah menerima vaksin covid-19 dosis ketiga atau booster per Senin (4/7).&nbsp; &ldquo;Jumlahnya sebanyak 35.449.155 orang,&rdquo; tulis&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/504224/vaksin-booster-untuk-syarat-mobilitas-berlaku-dua-minggu-lagi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MjI0L3Zha3Npbi1ib29zdGVyLXVudHVrLXN5YXJhdC1tb2JpbGl0YXMtYmVybGFrdS1kdWEtbWluZ2d1LWxhZ2k=",
-        "description": "PENERAPAN vaksin covid-19 dosis booster sebagai syarat mobilitas akan diterapkan paling lama dua minggu lagi. Hal itu diungkapkan Koordinator PPKM Jawa-Bali Luhut Binsar Pandjaitan. Berdasarkan&#8230;"
     }
 ]
