@@ -1,5 +1,26 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/503995/minions-puncaki-box-office",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwMzk5NS9taW5pb25zLXB1bmNha2ktYm94LW9mZmljZQ==",
+        "description": "MINIONS: The Rise of Gru, film teranyar dalam serial Despicable Me, memuncaki Box Office Amerika Utara dengan raihan sebesar US$127,9&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/503994/hamilton-berterima-kasih-atas-dukungan-penonton-gp-inggris",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM5OTQvaGFtaWx0b24tYmVydGVyaW1hLWthc2loLWF0YXMtZHVrdW5nYW4tcGVub250b24tZ3AtaW5nZ3Jpcw==",
+        "description": "LEWIS Hamilton berterima kasih kepada para penonton dan tim Mercedes usai naik podium untuk ke-13 kalinya di GP Inggris, torehan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/503993/zhou-sebut-halo-selamatkan-nyawanya-dalam-kecelakaan-di-gp-inggris",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM5OTMvemhvdS1zZWJ1dC1oYWxvLXNlbGFtYXRrYW4tbnlhd2FueWEtZGFsYW0ta2VjZWxha2Fhbi1kaS1ncC1pbmdncmlz",
+        "description": "ZHOU Guanyu menyebut halo menyelamatkan nyawanya setelah pembalap Alfa Romeo itu tidak mengalami cedera apa pun dalam kecelakaan beruntun di awal <a href=\"http://mediaindonesia.com/tag/gp-inggris\"&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/503992/sainz-raih-kemenangan-pertama-dalam-kariernya-di-gp-inggris",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM5ODcvZ29mZmluLXRhbnRhbmctbm9ycmllLWRpLXBlcmVtcGF0LWZpbmFsLXdpbWJsZWRvbg==",
         "description": "PETENIS Belgia David Goffin mengalahkan unggulan ke-23 dari Amerika Serikat (AS), Frances Tiafoe, dalam pertandingan lima set, Minggu (3/7) waktu setempat, untuk menyamai penampilannya dalam perempat&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/503975/pelibatan-siswa-untuk-bina-damai",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDM5NzUvcGVsaWJhdGFuLXNpc3dhLXVudHVrLWJpbmEtZGFtYWk=",
-        "description": "PERAN serta anak dalam kehidupan bermasyarakat sudah dijamin dalam Pasal 4 Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak serta diperkuat dengan Peraturan Menteri Pemberdayaan Perempuan&#8230;"
-    },
-    {
-        "title": "Kolom Pakar",
-        "link": "https://m.mediaindonesia.com/kolom-pakar/503973/dari-ri-untuk-dunia-solusi-krisis-pangan-hingga-misi-perdamaian",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9rb2xvbS1wYWthci81MDM5NzMvZGFyaS1yaS11bnR1ay1kdW5pYS1zb2x1c2kta3Jpc2lzLXBhbmdhbi1oaW5nZ2EtbWlzaS1wZXJkYW1haWFu",
-        "description": "PRESIDEN Joko Widodo (Jokowi) dan Ibu Negara Iriana menjadi pemimpin negara pertama dari kawasan Asia yang mengunjungi Ukraina dan Rusia sejak konflik terjadi. Kedatangan pemimpin Indonesia tersebut&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/503986/jabeur-melaju-ke-perempat-final-wimbledon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDM5ODYvamFiZXVyLW1lbGFqdS1rZS1wZXJlbXBhdC1maW5hbC13aW1ibGVkb24=",
-        "description": "ASA Ons Jabeur menjadi petenis Afrika pertama yang mengangkat trofi Rosewater Dish sebagai perlambang juara tunggal putri Wimbledon&#8230;"
     }
 ]

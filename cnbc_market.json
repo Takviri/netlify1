@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sudah Longsor Seminggu Penuh, Saatnya IHSG Balik Arah?",
+        "link": "https://www.cnbcindonesia.com/market/20220704011859-17-352574/sudah-longsor-seminggu-penuh-saatnya-ihsg-balik-arah",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MDExODU5LTE3LTM1MjU3NC9zdWRhaC1sb25nc29yLXNlbWluZ2d1LXBlbnVoLXNhYXRueWEtaWhzZy1iYWxpay1hcmFo",
+        "description": " Ke mana arah IHSG hari ini ?"
+    },
+    {
         "title": "Dunia Diramal Resesi Tahun Depan, Amankan Duit di Mana Nih?",
         "link": "https://www.cnbcindonesia.com/market/20220703211925-17-352567/dunia-diramal-resesi-tahun-depan-amankan-duit-di-mana-nih",
         "image": "static/images/cnbc_market.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAzMTIyNDMyLTE3LTM1MjQ5Ni9idWthbGFwYWstZGlndWdhdC1nYW50aS1ydWdpLXJwLTExLXRyaWxpdW4tZ2FyYS1nYXJhLWFwYQ==",
         "description": " PT Harmas Jalesveva menggugat PT Bukalapak.com Tbk ke Pengadilan Negeri (PN) Jakarta Selatan (Jaksel)."
-    },
-    {
-        "title": "Raih Talangan 6 T, Startup Pinjol Kripto Dijual Seharga 3,6 T",
-        "link": "https://www.cnbcindonesia.com/market/20220703103437-17-352479/raih-talangan-6-t-startup-pinjol-kripto-dijual-seharga-36-t",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzAzMTAzNDM3LTE3LTM1MjQ3OS9yYWloLXRhbGFuZ2FuLTYtdC1zdGFydHVwLXBpbmpvbC1rcmlwdG8tZGlqdWFsLXNlaGFyZ2EtMzYtdA==",
-        "description": " Bursa perdagangan aset kripto FTX pada Jumat (1/7) telah menandatangani kesepakatan opsi\u00c2\u00a0mengakuisisi perusahaan pemberi pinjaman aset kripto bernama BlockFi."
     }
 ]
