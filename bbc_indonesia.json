@@ -14,6 +14,13 @@
         "description": "Para pengunjung melarikan diri saat terjadi peristiwa penembakan di salah satu pusat perbelanjaan terbesar di Denmark. Tiga orang tewas dan banyak korban terluka."
     },
     {
+        "title": "Kapan hobi menimbun barang menjadi masalah?",
+        "link": "https://www.bbc.com/indonesia/majalah-61993058",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MTk5MzA1OA==",
+        "description": "Beberapa orang mengalami gangguan kesehatan jiwa yang membuat mereka sulit melepas barang yang bagi banyak orang tak berguna. Para ilmuwan masih berusaha memahami sifat kondisi ini."
+    },
+    {
         "title": "Ben & Jerry's mengkritik dimulainya kembali penjualan es krim di daerah pendudukan, Tepi Barat",
         "link": "https://www.bbc.com/indonesia/dunia-61993063",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MTk1MTYwNA==",
         "description": "Jumlah kasus positif Covid-19 melonjak di hampir seluruh dunia. Subvarian terbaru Omicron merupakan pemicunya."
-    },
-    {
-        "title": "Krisis BBM di Sri Lanka: 'Saya tidur selama dua hari di mobil demi mendapatkan bensin'",
-        "link": "https://www.bbc.com/indonesia/majalah-62005337",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MjAwNTMzNw==",
-        "description": "Para pengemudi taksi dan penjual mobil terpaksa mengantre selama dua hari demi mendapatkan bahan bakar minyak yang langka di Sri Lanka."
     }
 ]
