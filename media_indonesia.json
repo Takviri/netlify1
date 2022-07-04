@@ -1,6 +1,55 @@
 [
     {
         "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/504160/omnichannel-e-commerce-integrasikan-marketplace-agar-lebih-praktis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDE2MC9vbW5pY2hhbm5lbC1lLWNvbW1lcmNlLWludGVncmFzaWthbi1tYXJrZXRwbGFjZS1hZ2FyLWxlYmloLXByYWt0aXM=",
+        "description": "LUASNYA penggunaan internet saat ini menjadikannya peluang besar bagi bisnis untuk meraih lebih banyak pelanggan. Bisnis dapat meraih lebih banyak potensi pendapatan dan pemasaran yang lebih luas untuk&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/504159/vaksinasi-pmk-di-sumsel-baru-80-dari-target",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MTU5L3Zha3NpbmFzaS1wbWstZGktc3Vtc2VsLWJhcnUtODAtZGFyaS10YXJnZXQ=",
+        "description": "PEMERINTAH Provinsi Sumatera Selatan (Sumsel) telah mendapatkan 12.200 vaksin Penyakit Mulut dan Kuku (PMK) dari pemerintah pusat. Vaksinasi PMK sudah dilakukan di 17 kabupaten dan kota di Sumsel.&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/504158/atlet-junior-limitless-indonesia-taklukan-pantai-muaya-jimbaran-bali",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQxNTgvYXRsZXQtanVuaW9yLWxpbWl0bGVzcy1pbmRvbmVzaWEtdGFrbHVrYW4tcGFudGFpLW11YXlhLWppbWJhcmFuLWJhbGk=",
+        "description": "ATLET&nbsp;Junior Limitless Indonesia berhasil taklukan pantai Muaya Jimbaran bali dalam kompetisi Oceanman Bali 2022 dengan jarak 2000 M Junior dan 1000 M Kids. Terdapat lima&nbsp;anak&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504157/pb-idi-bersama-wma-review-kode-etik-kedokteran",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MTU3L3BiLWlkaS1iZXJzYW1hLXdtYS1yZXZpZXcta29kZS1ldGlrLWtlZG9rdGVyYW4=",
+        "description": "ASOSIASI Dokter Sedunia (World Medical Association/WMA) dan Pengurus Besar Ikatan Dokter Indonesia (PB IDI) melakukan review terhadap kode etik kedokteran yang akan diterapkan oleh dokter seluruh dunia.&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/504156/napoli-berminat-untuk-datangkan-paulo-dybala",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDE1Ni9uYXBvbGktYmVybWluYXQtdW50dWstZGF0YW5na2FuLXBhdWxvLWR5YmFsYQ==",
+        "description": "KLUB Liga Italia Napoli dikabarkan turut meramaikan persaingan untuk mendapatkan jasa penyerang Paulo Dybala yang kini berstatus bebas agen pada bursa transfer pemain musim panas ini. Dikutip&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504155/teks-eksposisi-unsur-utama-ciri-ciri-struktur-dan-contoh",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MTU1L3Rla3MtZWtzcG9zaXNpLXVuc3VyLXV0YW1hLWNpcmktY2lyaS1zdHJ1a3R1ci1kYW4tY29udG9o",
+        "description": "TEKS eksposisi adalah jenis teks nonfiksi yang berisi tentang penjelasan dari suatu informasi atau pengetahuan. Dalam teks eksposisi, penulis menjelaskan suatu informasi dengan jelas, objektif, dan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504154/komunitas-anggur-tangsel-berharap-dukungan-penuh-pemerintah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MTU0L2tvbXVuaXRhcy1hbmdndXItdGFuZ3NlbC1iZXJoYXJhcC1kdWt1bmdhbi1wZW51aC1wZW1lcmludGFo",
+        "description": "KOMUNITAS Anggur Tangsel (KAT) terus melakukan kegiatan untuk mengembangkan tanaman anggur di Indonesia. Minggu (3/7), KAT menggelar diskusi dengan tema 'Pertanian Moderen dan Problematika Budi&#8230;"
+    },
+    {
+        "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/504153/dpr-setujui-pmn-2023-ke-bumn-senilai-rp6982-triliun",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDE1My9kcHItc2V0dWp1aS1wbW4tMjAyMy1rZS1idW1uLXNlbmlsYWktcnA2OTgyLXRyaWxpdW4=",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MTUwL3ByZXNpZGVuLWluc3RydWtzaWthbi1ldmFsdWFzaS1rZWJpamFrYW4tcHBrbQ==",
         "description": "PRESIDEN Joko Widodo memerintahkan jajaran menterinya untuk mengevaluasi kebijakan Pemberlakukan Pembatasan Kegiatan Masyarakat (PPKM) seiring kembali meningginya kasus harian covid-19. Instruksi&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504149/pemkab-bandung-barat-data-jumlah-ternak-mati-akibat-pmk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MTQ5L3BlbWthYi1iYW5kdW5nLWJhcmF0LWRhdGEtanVtbGFoLXRlcm5hay1tYXRpLWFraWJhdC1wbWs=",
-        "description": "PEMKAB Bandung Barat, Jawa Barat masih melakukan pendataan jumlah hewan ternak yang mati karena terjangkit penyakit mulut dan kuku (PMK). Hingga saat ini, pemerintah pusat tengah menggodok aturan teknis&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504148/dpr-pilih-perppu-untuk-ubah-uu-pemilu-ini-respons-kpu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQxNDgvZHByLXBpbGloLXBlcnBwdS11bnR1ay11YmFoLXV1LXBlbWlsdS1pbmktcmVzcG9ucy1rcHU=",
-        "description": "KOMISI Pemilihan Umum (KPU) RI merespons rencana Dewan Perwakilan Rakyat (DPR) yang memilih gunakan peraturan pemerintah pengganti undang-undang (perppu) terkait perlunya aturan pada Pemilu 2024 di&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504147/pengamat-korban-jalan-rusak-bisa-ajukan-tuntutan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQxNDcvcGVuZ2FtYXQta29yYmFuLWphbGFuLXJ1c2FrLWJpc2EtYWp1a2FuLXR1bnR1dGFu",
-        "description": "MASYARATAKAT bisa menuntut pemerintah atau penyelenggara jalan, jika terlibat kecelakaan imbas jalan yang rusak. Hal itu ditekankan pengamat transportasi Djoko Setijowarno. Pasalnya, penyelenggara&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504146/hewan-kurban-di-sulawesi-tengah-cukup-dan-bebas-pmk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MTQ2L2hld2FuLWt1cmJhbi1kaS1zdWxhd2VzaS10ZW5nYWgtY3VrdXAtZGFuLWJlYmFzLXBtaw==",
-        "description": "MASYARAKAT di Sulawesi Tengah diminta tidak khawatir dengan wabah penyakit mulut dan kuku (PMK) yang dapat menjangkit hewan ternak jelang perayaaan hari raya Idul Adha. Kepala Bidang Kesehatan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504145/orangtua-tidak-mampu-bayar-bayi-ditahan-rs-manggarai-ntt",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MTQ1L29yYW5ndHVhLXRpZGFrLW1hbXB1LWJheWFyLWJheWktZGl0YWhhbi1ycy1tYW5nZ2FyYWktbnR0",
-        "description": "BAYI berusia tiga bulan asal Kabupaten Manggarai Timur, Nusa Tenggara Timur, masih tertahan di RSUD Ben Mboi Ruteng, Kabupaten Manggarai. Orangtua bayi tak mampu membayar tagihan sebesar Rp14 juta&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504144/pemkab-muba-gencarkan-vaksinasi-suku-anak-dalam",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MTQ0L3BlbWthYi1tdWJhLWdlbmNhcmthbi12YWtzaW5hc2ktc3VrdS1hbmFrLWRhbGFt",
-        "description": "PEMERINTAH Kabupaten Musi Banyuasin, Sumsel, terus menggencarkan vaksinasi kepada masyarakat di daerahnya, termasuk untuk waarga Suku Anak Dalam (SAD) di Kecamatan Buyung Lencir. Hal itu sebagai upaya&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/504143/pengguna-internet-perlu-waspada-penipuan-di-dunia-maya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA0MTQzL3BlbmdndW5hLWludGVybmV0LXBlcmx1LXdhc3BhZGEtcGVuaXB1YW4tZGktZHVuaWEtbWF5YQ==",
-        "description": "Individu yang cakap bermedia digital dinilai mampu mengetahui, memahami, dan menggunakan perangkat dalam lanskap digital, mesin pencarian untuk mencari informasi, aplikasi percakapan dan media sosial&#8230;"
     }
 ]
