@@ -1,5 +1,12 @@
 [
     {
+        "title": "Mendag Klaim Minyak Goreng Curah Kurang dari Rp14 Ribu di Jawa-Bali",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220704170402-92-817087/mendag-klaim-minyak-goreng-curah-kurang-dari-rp14-ribu-di-jawa-bali",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTcwNDAyLTkyLTgxNzA4Ny9tZW5kYWcta2xhaW0tbWlueWFrLWdvcmVuZy1jdXJhaC1rdXJhbmctZGFyaS1ycDE0LXJpYnUtZGktamF3YS1iYWxp",
+        "description": " Menteri Perdagangan Zulkifli Hasan mengklaim harga minyak goreng curah di bawah Rp14 ribu di kawasan Jawa dan Bali."
+    },
+    {
         "title": "Pengusaha Minta Kaji Ulang Wacana Cuti Melahirkan Hingga 6 Bulan",
         "link": "https://www.cnnindonesia.com/ekonomi/20220704154943-92-817053/pengusaha-minta-kaji-ulang-wacana-cuti-melahirkan-hingga-6-bulan",
         "image": "static/images/cnn_ekonomi.png",
@@ -7,11 +14,11 @@
         "description": " Apindo meminta pemerintah mengkaji ulang usulan cuti selama 6 bulan bagi pekerja yang melahirkan."
     },
     {
-        "title": "Kelas Standar BPJS Kesehatan Mundur Berlaku Serempak 2024",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220704160715-78-817060/kelas-standar-bpjs-kesehatan-mundur-berlaku-serempak-2024",
+        "title": "Diundur, Kelas Standar BPJS Kesehatan Berlaku Serempak 2024",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220704160715-78-817060/diundur-kelas-standar-bpjs-kesehatan-berlaku-serempak-2024",
         "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTYwNzE1LTc4LTgxNzA2MC9rZWxhcy1zdGFuZGFyLWJwanMta2VzZWhhdGFuLW11bmR1ci1iZXJsYWt1LXNlcmVtcGFrLTIwMjQ=",
-        "description": " DJSN mengungkap penerapan kelas standar BPJS Kesehatan ditargetkan serentak pada semester II 2024."
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTYwNzE1LTc4LTgxNzA2MC9kaXVuZHVyLWtlbGFzLXN0YW5kYXItYnBqcy1rZXNlaGF0YW4tYmVybGFrdS1zZXJlbXBhay0yMDI0",
+        "description": " Penerapan kelas standar BPJS Kesehatan ditargetkan serentak pada semester II 2024. Padahal sebelumnya sempat diwacanakan berlaku mulai 1 Juli 2022."
     },
     {
         "title": "Vaksin Booster Bakal Jadi Syarat Perjalanan dan Masuk Mal",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTQyNjA5LTkyLTgxNzAwMS9oYXJnYS1taW55YWstZ29yZW5nLXR1cnVuLWphZGktcnAxOS1yaWJ1YW4tZGktaW5kb21hcmV0LWRhbi1hbGZhbWFydA==",
         "description": " Harga minyak goreng kemasan di Indomaret dan Alfamart Bintaro dibanderol turun jadi Rp19 ribu-an."
-    },
-    {
-        "title": "Mayoritas Harga Bahan Pokok Turun Kecuali Cabai-cabaian",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220704130140-92-816952/mayoritas-harga-bahan-pokok-turun-kecuali-cabai-cabaian",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTMwMTQwLTkyLTgxNjk1Mi9tYXlvcml0YXMtaGFyZ2EtYmFoYW4tcG9rb2stdHVydW4ta2VjdWFsaS1jYWJhaS1jYWJhaWFu",
-        "description": " Rata-rata nasional harga\u00c2\u00a0bahan pokok nasional turun\u00c2\u00a0kecuali cabai segala jenis dan bawang merah. Berikut rinciannya."
     }
 ]

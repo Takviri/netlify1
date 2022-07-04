@@ -1,5 +1,12 @@
 [
     {
+        "title": "Perang Ukraina: Turki menahan kapal berbendera Rusia pengangkut biji-bijian dari Ukraina",
+        "link": "https://www.bbc.com/indonesia/dunia-62036680",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjIwMzY2ODA=",
+        "description": "Alat pelacakan mengungkap rute pengiriman biji-bijian darei kawasan Ukraina yang diduduki Rusia."
+    },
+    {
         "title": "Ukraina: Para guru dan dosen yang mengajar di balik garis depan perang melawan Rusia",
         "link": "https://www.bbc.com/indonesia/majalah-62033111",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvdmVydC1mdXQtNjE5NzY0ODc=",
         "description": "Plastik telah merasuk ke dalam setiap aspek kehidupan kita. Bisakah kita hidup tanpanya?"
-    },
-    {
-        "title": "Jepang dilanda cuaca panas hingga 47 derajat celsius, 'saya bisa meninggal jika tidak hidupkan AC'",
-        "link": "https://www.bbc.com/indonesia/majalah-62005330",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MjAwNTMzMA==",
-        "description": "Jepang mengalami panas ekstrem \"agak menakutkan\" yang mencapai 47C dan sudah memecahkan rekor - dan musim panas baru saja dimulai."
     }
 ]
