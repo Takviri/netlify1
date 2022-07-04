@@ -1,5 +1,40 @@
 [
     {
+        "title": "Siaga Puncak Penyebaran \"Anak Omicron\"",
+        "link": "https://www.cnbcindonesia.com/news/20220704101223-8-352649/siaga-puncak-penyebaran-anak-omicron",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEwMTIyMy04LTM1MjY0OS9zaWFnYS1wdW5jYWstcGVueWViYXJhbi1hbmFrLW9taWNyb24=",
+        "description": " Omicron BA-4 dan BA-5 akan terjadi pada pekan kedua dan ketiga di bulan Juli"
+    },
+    {
+        "title": "Terungkap Fakta Konsumsi Pertalite dan Solar Sudah Meledak!",
+        "link": "https://www.cnbcindonesia.com/news/20220704101940-4-352657/terungkap-fakta-konsumsi-pertalite-solar-sudah-meledak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEwMTk0MC00LTM1MjY1Ny90ZXJ1bmdrYXAtZmFrdGEta29uc3Vtc2ktcGVydGFsaXRlLXNvbGFyLXN1ZGFoLW1lbGVkYWs=",
+        "description": " Ketua Komisi VII DPR mengungkapkan fakta bahwa, baru 6 bulan konsumsi Pertalite sudah tersedot 2/3"
+    },
+    {
+        "title": "Tuai Respon Positif, Ini Kata Pelanggan PLN Mobile",
+        "link": "https://www.cnbcindonesia.com/news/20220704102946-4-352664/tuai-respon-positif-ini-kata-pelanggan-pln-mobile",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEwMjk0Ni00LTM1MjY2NC90dWFpLXJlc3Bvbi1wb3NpdGlmLWluaS1rYXRhLXBlbGFuZ2dhbi1wbG4tbW9iaWxl",
+        "description": " Aplikasi PLN Mobile dari PT PLN (Persero) mendapatkan pengakuan positif dari masyarakat"
+    },
+    {
+        "title": "Awal Bulan, Cek dan Bayar Tagihan Listrik PLN Online Terbaru",
+        "link": "https://www.cnbcindonesia.com/news/20220704101211-4-352652/awal-bulan-cek-dan-bayar-tagihan-listrik-pln-online-terbaru",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEwMTIxMS00LTM1MjY1Mi9hd2FsLWJ1bGFuLWNlay1kYW4tYmF5YXItdGFnaWhhbi1saXN0cmlrLXBsbi1vbmxpbmUtdGVyYmFydQ==",
+        "description": " Simak cara cek tagihan Listrik PLN secara online lewat Website dan Aplikasi dengan mudah. Intip selengkapnya"
+    },
+    {
+        "title": "Jokowi dan Mohamed Bin Zayed \"Kopdar\", Bahas Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220704101017-8-352648/jokowi-mohamed-bin-zayed-kopdar-bahas-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEwMTAxNy04LTM1MjY0OC9qb2tvd2ktbW9oYW1lZC1iaW4temF5ZWQta29wZGFyLWJhaGFzLWFwYQ==",
+        "description": " Presiden Joko Widodo bertemu Presiden Uni Emirat Arab Pangeran Mohamed Bin Zayed di Abu Dhab"
+    },
+    {
         "title": "Siap-siap Warga Jabodetabek Daftar MyPertamina, Kapan?",
         "link": "https://www.cnbcindonesia.com/news/20220704094741-4-352638/siap-siap-warga-jabodetabek-daftar-mypertamina-kapan",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDA5NTQxNi00LTM1MjY0Mi91a3JhaW5hLWJhbGFzLWRlbmRhbS1ydWRhbC1zZXJhbmcta290YS1ydXNpYS0zLXRld2Fz",
         "description": " Rusia mengklaim Ukraina melakukan serangan rudal ke kota Belgorod, Minggu (3/7/2022)."
-    },
-    {
-        "title": "Pesan Tak Tertulis Zelensky Buat Putin Lewat Jokowi, Apa Itu?",
-        "link": "https://www.cnbcindonesia.com/news/20220704090129-4-352626/pesan-tak-tertulis-zelensky-buat-putin-lewat-jokowi-apa-itu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDA5MDEyOS00LTM1MjYyNi9wZXNhbi10YWstdGVydHVsaXMtemVsZW5za3ktYnVhdC1wdXRpbi1sZXdhdC1qb2tvd2ktYXBhLWl0dQ==",
-        "description": " Zelensky menitipkan sebuah pesan kepada Putin melalui Jokowi"
-    },
-    {
-        "title": "40% Subsidi BBM Tak Tepat Sasaran, MyPertamina Jadi Solusi?",
-        "link": "https://www.cnbcindonesia.com/news/20220704090552-8-352622/40-subsidi-bbm-tak-tepat-sasaran-mypertamina-jadi-solusi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDA5MDU1Mi04LTM1MjYyMi80MC1zdWJzaWRpLWJibS10YWstdGVwYXQtc2FzYXJhbi1teXBlcnRhbWluYS1qYWRpLXNvbHVzaQ==",
-        "description": " DPR: 40% Subsidi BBM Tak Tepat Sasaran, MyPertamina Jadi Solusi"
-    },
-    {
-        "title": "Ribuan Orang Diperintahkan Mengungsi di Sydney, Kenapa?",
-        "link": "https://www.cnbcindonesia.com/news/20220704093104-4-352634/ribuan-orang-diperintahkan-mengungsi-di-sydney-kenapa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDA5MzEwNC00LTM1MjYzNC9yaWJ1YW4tb3JhbmctZGlwZXJpbnRhaGthbi1tZW5ndW5nc2ktZGktc3lkbmV5LWtlbmFwYQ==",
-        "description": " Layanan darurat Australia memerintahkan ribuan orang di Sydney, negara bagian New South Wales, mengungsi Senin (4/7/2022)."
-    },
-    {
-        "title": "Asik! Ini Daftar Bansos yang Cair di Juli 2022, Anda Dapat?",
-        "link": "https://www.cnbcindonesia.com/news/20220704084551-4-352617/asik-ini-daftar-bansos-yang-cair-di-juli-2022-anda-dapat",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDA4NDU1MS00LTM1MjYxNy9hc2lrLWluaS1kYWZ0YXItYmFuc29zLXlhbmctY2Fpci1kaS1qdWxpLTIwMjItYW5kYS1kYXBhdA==",
-        "description": " Berikut daftar bansos yang akan cair pada Juli 2022"
-    },
-    {
-        "title": "Sudah Masuk indonesia, Ketahui Gejala Omicron Baru BA.4-BA.5",
-        "link": "https://www.cnbcindonesia.com/news/20220704083803-4-352615/sudah-masuk-indonesia-ketahui-gejala-omicron-baru-ba4-ba5",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDA4MzgwMy00LTM1MjYxNS9zdWRhaC1tYXN1ay1pbmRvbmVzaWEta2V0YWh1aS1nZWphbGEtb21pY3Jvbi1iYXJ1LWJhNC1iYTU=",
-        "description": " Berikut gejala Omicron varian BA.4 dan BA.5"
     }
 ]
