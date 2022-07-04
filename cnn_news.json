@@ -1,5 +1,26 @@
 [
     {
+        "title": "RS Siloam Sriwijaya Kebakaran, Diduga Genset Meledak",
+        "link": "https://www.cnnindonesia.com/nasional/20220704233226-20-817201/rs-siloam-sriwijaya-kebakaran-diduga-genset-meledak",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNDIzMzIyNi0yMC04MTcyMDEvcnMtc2lsb2FtLXNyaXdpamF5YS1rZWJha2FyYW4tZGlkdWdhLWdlbnNldC1tZWxlZGFr",
+        "description": " Kebakaran terjadi di RS Siloam Sriwijaya di Palembang, Sumatera Selatan (Sumsel) pada Senin (4/7) malam. Puluhan pasien dievakuasi karena peristiwa tersebut."
+    },
+    {
+        "title": "Puan Klaim Ditugaskan Megawati Muter-muter Jumpa Kader PDIP Daerah",
+        "link": "https://www.cnnindonesia.com/nasional/20220704131612-32-816970/puan-klaim-ditugaskan-megawati-muter-muter-jumpa-kader-pdip-daerah",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNDEzMTYxMi0zMi04MTY5NzAvcHVhbi1rbGFpbS1kaXR1Z2Fza2FuLW1lZ2F3YXRpLW11dGVyLW11dGVyLWp1bXBhLWthZGVyLXBkaXAtZGFlcmFo",
+        "description": " Puan mengklaim Ketua Umum Megawati memintanya untuk muter-muter, agar ketemu sama keluarga besar PDI Perjuangan."
+    },
+    {
+        "title": "Prabowo: Jokowi Dinilai Negara Lain Sukses Hadapi Pandemi dan Ekonomi",
+        "link": "https://www.cnnindonesia.com/nasional/20220704112624-32-816907/prabowo-jokowi-dinilai-negara-lain-sukses-hadapi-pandemi-dan-ekonomi",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNDExMjYyNC0zMi04MTY5MDcvcHJhYm93by1qb2tvd2ktZGluaWxhaS1uZWdhcmEtbGFpbi1zdWtzZXMtaGFkYXBpLXBhbmRlbWktZGFuLWVrb25vbWk=",
+        "description": " Menhan Prabowo Subianto mengklaim negara lain menganggap Pemerintahan Presiden Jokowi berhasil menghadapi pandemi dan dampak ekonomi yang ditimbulkan."
+    },
+    {
         "title": "Viral Penumpang LRT Palembang Jalan Kaki Gegara Listrik Padam",
         "link": "https://www.cnnindonesia.com/nasional/20220704225452-20-817197/viral-penumpang-lrt-palembang-jalan-kaki-gegara-listrik-padam",
         "image": "static/images/cnn_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNDIxMTkwNi0zMi04MTcxODQvY2FrLWltaW4tZGlhZHVrYW4ta2UtbWtkLXRlcmthaXQtcGFuamEtdmFrc2luLWNvdmlkLTE5",
         "description": " Cak Imin dilaporkan ke MKD terkait dugaan pelanggaran kode etik persoalan rekomendasi Panja Vaksin DPR Komisi IX DPR ke Kemenkes."
-    },
-    {
-        "title": "KMP Rajabasa Tabrak Dermaga di Pelabuhan Bakauheni",
-        "link": "https://www.cnnindonesia.com/nasional/20220704202525-20-817170/kmp-rajabasa-tabrak-dermaga-di-pelabuhan-bakauheni",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNDIwMjUyNS0yMC04MTcxNzAva21wLXJhamFiYXNhLXRhYnJhay1kZXJtYWdhLWRpLXBlbGFidWhhbi1iYWthdWhlbmk=",
-        "description": " Kapal Rajabasa menabrak fender atau bantalan sandar kapal di Dermaga 1, Pelabuhan Bakauheni, Lampung."
-    },
-    {
-        "title": "Surya Paloh Bantah Bajak Ganjar Pranowo dari PDIP",
-        "link": "https://www.cnnindonesia.com/nasional/20220704205009-32-817180/surya-paloh-bantah-bajak-ganjar-pranowo-dari-pdip",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNDIwNTAwOS0zMi04MTcxODAvc3VyeWEtcGFsb2gtYmFudGFoLWJhamFrLWdhbmphci1wcmFub3dvLWRhcmktcGRpcA==",
-        "description": " Ketua Umum Partai NasDem Surya Paloh membantah tudingan membajak Ganjar Pranowo dari PDIP."
-    },
-    {
-        "title": "ACT Akui Ambil 13,5 Persen Donasi: Kami Bukan Lembaga Zakat",
-        "link": "https://www.cnnindonesia.com/nasional/20220704190750-20-817143/act-akui-ambil-135-persen-donasi-kami-bukan-lembaga-zakat",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNDE5MDc1MC0yMC04MTcxNDMvYWN0LWFrdWktYW1iaWwtMTM1LXBlcnNlbi1kb25hc2kta2FtaS1idWthbi1sZW1iYWdhLXpha2F0",
-        "description": " Aksi Cepat Tanggap (ACT) mengakui mengambil lebih dari 12,5 persen untuk operasional lembaga dari jumlah donasi yang berhasil dikumpulkan."
     }
 ]
