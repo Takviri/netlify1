@@ -1,5 +1,19 @@
 [
     {
+        "title": "KMP Rajabasa Tabrak Dermaga di Pelabuhan Bakauheni",
+        "link": "https://www.cnnindonesia.com/nasional/20220704202525-20-817170/kmp-rajabasa-tabrak-dermaga-di-pelabuhan-bakauheni",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNDIwMjUyNS0yMC04MTcxNzAva21wLXJhamFiYXNhLXRhYnJhay1kZXJtYWdhLWRpLXBlbGFidWhhbi1iYWthdWhlbmk=",
+        "description": " Kapal Rajabasa menabrak fender atau bantalan sandar kapal di Dermaga 1, Pelabuhan Bakauheni, Lampung."
+    },
+    {
+        "title": "Surya Paloh Bantah Bajak Ganjar Pranowo dari PDIP",
+        "link": "https://www.cnnindonesia.com/nasional/20220704205009-32-817180/surya-paloh-bantah-bajak-ganjar-pranowo-dari-pdip",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNDIwNTAwOS0zMi04MTcxODAvc3VyeWEtcGFsb2gtYmFudGFoLWJhamFrLWdhbmphci1wcmFub3dvLWRhcmktcGRpcA==",
+        "description": " Ketua Umum Partai NasDem Surya Paloh membantah tudingan membajak Ganjar Pranowo dari PDIP."
+    },
+    {
         "title": "ACT Akui Ambil 13,5 Persen Donasi: Kami Bukan Lembaga Zakat",
         "link": "https://www.cnnindonesia.com/nasional/20220704190750-20-817143/act-akui-ambil-135-persen-donasi-kami-bukan-lembaga-zakat",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNDE4NTQyOS0xMi04MTcxNDQvbWVuYWctZGFuLW1lbmt1bWhhbS10b2xhay1sZWdhbGthbi1uaWthaC1iZWRhLWFnYW1hLWRpLXNpZGFuZy1taw==",
         "description": " Menkumham Yasonna Laoly dan Menag Yaqut mengatakan setiap agama yang dianut masyarakat memiliki hukum perkawinan yang mengatur syarat dan cara pernikahan."
-    },
-    {
-        "title": "ACT Bantah PPATK: Kita Tak Pernah Ada Bantuan ke Teroris",
-        "link": "https://www.cnnindonesia.com/nasional/20220704184122-20-817133/act-bantah-ppatk-kita-tak-pernah-ada-bantuan-ke-teroris",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNDE4NDEyMi0yMC04MTcxMzMvYWN0LWJhbnRhaC1wcGF0ay1raXRhLXRhay1wZXJuYWgtYWRhLWJhbnR1YW4ta2UtdGVyb3Jpcw==",
-        "description": " Presiden ACT Ibnu Khajar mempertanyakan laporan PPATK yang menemukan indikasi transaksi keuangan lembaganya untuk pendanaan aktivitas terorisme."
-    },
-    {
-        "title": "ACT Tegaskan Tak Akan Lagi Pakai Uang Donasi untuk Operasional",
-        "link": "https://www.cnnindonesia.com/nasional/20220704182141-20-817126/act-tegaskan-tak-akan-lagi-pakai-uang-donasi-untuk-operasional",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNDE4MjE0MS0yMC04MTcxMjYvYWN0LXRlZ2Fza2FuLXRhay1ha2FuLWxhZ2ktcGFrYWktdWFuZy1kb25hc2ktdW50dWstb3BlcmFzaW9uYWw=",
-        "description": " Presiden ACT Ibnu Khajar mengaku pihaknya selama ini memakai uang donasi masyarakat untuk dana operasional lembaga sampai 13,5 persen atau lebih."
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "Listrik Padam, Kota Palembang Gelap Gulita",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220704211741-85-817183/listrik-padam-kota-palembang-gelap-gulita",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MjExNzQxLTg1LTgxNzE4My9saXN0cmlrLXBhZGFtLWtvdGEtcGFsZW1iYW5nLWdlbGFwLWd1bGl0YQ==",
+        "description": " Aliran listrik di Kota Palembang, Sumatera Selatan (Sumsel) padam pada Senin (4/7) malam hingga menyebabkan kemacetan di sejumlah titik."
+    },
+    {
+        "title": "Pengusaha Merasa Tenang Usai Pengampunan Pajak Jilid II Kelar",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220704150334-92-817020/pengusaha-merasa-tenang-usai-pengampunan-pajak-jilid-ii-kelar",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTUwMzM0LTkyLTgxNzAyMC9wZW5ndXNhaGEtbWVyYXNhLXRlbmFuZy11c2FpLXBlbmdhbXB1bmFuLXBhamFrLWppbGlkLWlpLWtlbGFy",
+        "description": " Pengusaha merasa tenang usai Pengampunan Pajak Jilid II 30 Juni kemarin. Berikut alasannya."
+    },
+    {
         "title": "DPR Setujui PMN Rp73 Triliun untuk 10 BUMN Pada 2023",
         "link": "https://www.cnnindonesia.com/ekonomi/20220704175544-92-817107/dpr-setujui-pmn-rp73-triliun-untuk-10-bumn-pada-2023",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTIxMDQ4LTg1LTgxNjkyMC9pbWJhcy1iYW5na3J1dC1zcmktbGFua2Eta2VrdXJhbmdhbi11YW5nLXVudHVrLWJheWFyLWltcG9yLWJibQ==",
         "description": " Sri Lanka tengah berjuang mengumpulkan Rp8,7 triliun\u00c2\u00a0guna membayar setengah lusin pengiriman impor BBM karena bank sentral hanya menyediakan Rp1,8 triliun."
-    },
-    {
-        "title": "Kemendag Luncurkan Minyak Goreng Curah Kemasan Sederhana 6 Juli",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220704174909-92-817104/kemendag-luncurkan-minyak-goreng-curah-kemasan-sederhana-6-juli",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTc0OTA5LTkyLTgxNzEwNC9rZW1lbmRhZy1sdW5jdXJrYW4tbWlueWFrLWdvcmVuZy1jdXJhaC1rZW1hc2FuLXNlZGVyaGFuYS02LWp1bGk=",
-        "description": " Kementerian Perdagangan akan meluncurkan minyak goreng curah kemasan sederhana mulai 6 Juli 2022."
-    },
-    {
-        "title": "Zulhas soal Petani Jual Sawit ke Malaysia: Wajar di sana Mahal",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220704173354-92-817099/zulhas-soal-petani-jual-sawit-ke-malaysia-wajar-di-sana-mahal",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTczMzU0LTkyLTgxNzA5OS96dWxoYXMtc29hbC1wZXRhbmktanVhbC1zYXdpdC1rZS1tYWxheXNpYS13YWphci1kaS1zYW5hLW1haGFs",
-        "description": " Mendag Zulkifli Hasan menilai wajar petani jual sawit ke Malaysia, mengingat harga di Malaysia bisa mahal, sedang di RI murah."
     }
 ]
