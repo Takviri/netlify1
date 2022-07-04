@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kasus Aktif Covid-19 Harian Makin Turun, Sehari Berkurang 443 Orang",
+        "link": "https://www.jawapos.com/nasional/04/07/2022/kasus-aktif-covid-19-harian-makin-turun-sehari-berkurang-443-orang/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMDQvMDcvMjAyMi9rYXN1cy1ha3RpZi1jb3ZpZC0xOS1oYXJpYW4tbWFraW4tdHVydW4tc2VoYXJpLWJlcmt1cmFuZy00NDMtb3Jhbmcv",
+        "description": "Kasus positif Covid-19 dalam sehari pada Senin (4/7) bertambah 1.434 orang sehari. Kini totalnya sudah 6.095.351 orang terinfeksi Covid-19 sejak awal pandemi"
+    },
+    {
+        "title": "Kemenkes Sebut 87 Persen Kasus Covid-19 di Indonesia BA.5",
+        "link": "https://www.jawapos.com/nasional/04/07/2022/kemenkes-sebut-87-persen-kasus-covid-19-di-indonesia-ba-5/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMDQvMDcvMjAyMi9rZW1lbmtlcy1zZWJ1dC04Ny1wZXJzZW4ta2FzdXMtY292aWQtMTktZGktaW5kb25lc2lhLWJhLTUv",
+        "description": "Meskipun sub-varian BA.5 sudah mendominasi, namun gejala yang ditimbulkan pada pasien Covid-19 tidak lebih berat dibandingkan dengan varian Omicron."
+    },
+    {
         "title": "Luhut: Vaksin booster Diterapkan Jadi Syarat Mobilitas Dua Minggu Lagi",
         "link": "https://www.jawapos.com/nasional/04/07/2022/luhut-vaksin-booster-diterapkan-jadi-syarat-mobilitas-dua-minggu-lagi/?page=all",
         "image": "static/images/jawapos_nasional.png",
@@ -54,19 +68,5 @@
         "image": "static/images/jawapos_nasional.png",
         "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMDQvMDcvMjAyMi9jdWFjYS1la3N0cmVtLWxhbmRhLXRpbW9yLXRlbmdhaC1zZWxhdGFuLWR1YS1vcmFuZy10ZXdhcy1zYXR1LWhpbGFuZy8=",
         "description": "Cuaca ekstrem melanda wilayah Kabupaten Timor Tengah Selatan, Provinsi Nusa Tenggara Timur sejak Kamis, (29/6). Akibat peristiwa ini, korban jiwa pun muncul"
-    },
-    {
-        "title": "LPDP Buka Pendaftaran Beasiswa Tahap II Mulai 4 Juli hingga 5 Agustus",
-        "link": "https://www.jawapos.com/nasional/04/07/2022/lpdp-buka-pendaftaran-beasiswa-tahap-ii-mulai-4-juli-hingga-5-agustus/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMDQvMDcvMjAyMi9scGRwLWJ1a2EtcGVuZGFmdGFyYW4tYmVhc2lzd2EtdGFoYXAtaWktbXVsYWktNC1qdWxpLWhpbmdnYS01LWFndXN0dXMv",
-        "description": "Beasiswa LPDP merupakan bentuk keberpihakan APBN terhadap pendidikan dan pengembangan sumber daya manusia (SDM) dalam mendukung visi Indonesia Maju 2045."
-    },
-    {
-        "title": "Airlangga Sebut Vaksin Booster akan jadi Syarat Perjalanan dan Lainnya",
-        "link": "https://www.jawapos.com/nasional/04/07/2022/airlangga-sebut-vaksin-booster-akan-jadi-syarat-perjalanan-dan-lainnya/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMDQvMDcvMjAyMi9haXJsYW5nZ2Etc2VidXQtdmFrc2luLWJvb3N0ZXItYWthbi1qYWRpLXN5YXJhdC1wZXJqYWxhbmFuLWRhbi1sYWlubnlhLw==",
-        "description": "\"Nah, tentunya dosis ketiga ini akan dipersyaratkan untuk berbagai kegiatan yang melibatkan masyarakat banyak dan juga untuk berbagai perjalanan,\" katanya."
     }
 ]
