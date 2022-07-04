@@ -1,5 +1,47 @@
 [
     {
+        "title": "Harga Sepeda Sudah Hancur, Kini Ada yang Diskon Sampai 50%",
+        "link": "https://www.cnbcindonesia.com/news/20220704122452-4-352709/harga-sepeda-sudah-hancur-kini-ada-yang-diskon-sampai-50",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEyMjQ1Mi00LTM1MjcwOS9oYXJnYS1zZXBlZGEtc3VkYWgtaGFuY3VyLWtpbmktYWRhLXlhbmctZGlza29uLXNhbXBhaS01MA==",
+        "description": " Tren gowes jauh menurun dibandingkan saat awal pandemi."
+    },
+    {
+        "title": "Dubes UE Ungkap Efek Perang, Krisis Energi - Lonjakan Inflasi",
+        "link": "https://www.cnbcindonesia.com/news/20220704100440-8-352644/dubes-ue-ungkap-efek-perang-krisis-energi--lonjakan-inflasi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEwMDQ0MC04LTM1MjY0NC9kdWJlcy11ZS11bmdrYXAtZWZlay1wZXJhbmcta3Jpc2lzLWVuZXJnaS0tbG9uamFrYW4taW5mbGFzaQ==",
+        "description": " Dubes UE Ungkap Efek Perang, Krisis Energi Hingga Lonjakan Inflasi"
+    },
+    {
+        "title": "RS Ini Terapkan Kelas Standar BPJS Kesehatan, Iuran Berubah?",
+        "link": "https://www.cnbcindonesia.com/news/20220704115027-4-352697/rs-ini-terapkan-kelas-standar-bpjs-kesehatan-iuran-berubah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDExNTAyNy00LTM1MjY5Ny9ycy1pbmktdGVyYXBrYW4ta2VsYXMtc3RhbmRhci1icGpzLWtlc2VoYXRhbi1pdXJhbi1iZXJ1YmFo",
+        "description": " Sebanyak lima Rumah Sakit (RS) pada hari ini akan memulai uji coba Kelas Rawat Inap Standar (KRIS) peserta BPJS Kesehatan."
+    },
+    {
+        "title": "Tahun Lalu Dihantam Delta, Kini BA4-BA5, RI Siap Pak Jokowi?",
+        "link": "https://www.cnbcindonesia.com/news/20220704111203-4-352687/tahun-lalu-dihantam-delta-kini-ba4-ba5-ri-siap-pak-jokowi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDExMTIwMy00LTM1MjY4Ny90YWh1bi1sYWx1LWRpaGFudGFtLWRlbHRhLWtpbmktYmE0LWJhNS1yaS1zaWFwLXBhay1qb2tvd2k=",
+        "description": " Setelah gelombang Delta, banyak perbaikan yang sudah dilakukan terkait upaya pencegahan kasus Covid-19."
+    },
+    {
+        "title": "Ahli: Ganja Medis Hanya Alternatif, Waspada \"Penumpang Gelap\"",
+        "link": "https://www.cnbcindonesia.com/news/20220704113536-8-352690/ahli-ganja-medis-hanya-alternatif-waspada-penumpang-gelap",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDExMzUzNi04LTM1MjY5MC9haGxpLWdhbmphLW1lZGlzLWhhbnlhLWFsdGVybmF0aWYtd2FzcGFkYS1wZW51bXBhbmctZ2VsYXA=",
+        "description": " Ahli Soal Ganja Medis: Hanya Alternatif Obat, Waspada \"Penumpang Gelap\""
+    },
+    {
+        "title": "Duh! Baru Foto Dekat Xi Jinping, Pejabat Hong Kong Kena Covid",
+        "link": "https://www.cnbcindonesia.com/news/20220704115254-4-352702/duh-baru-foto-dekat-xi-jinping-pejabat-hong-kong-kena-covid",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDExNTI1NC00LTM1MjcwMi9kdWgtYmFydS1mb3RvLWRla2F0LXhpLWppbnBpbmctcGVqYWJhdC1ob25nLWtvbmcta2VuYS1jb3ZpZA==",
+        "description": " Seorang anggota parlemen Hong Kong dikonfirmasi positif Covid-19, Minggu (3/7/2022)."
+    },
+    {
         "title": "Mispersepsi MyPertamina Picu Kegaduhan, YLKI Sarankan Ini",
         "link": "https://www.cnbcindonesia.com/news/20220704094914-8-352639/mispersepsi-mypertamina-picu-kegaduhan-ylki-sarankan-ini",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEwMDc0OS04LTM1MjY0Ny9iaWRlbi1taW50YS1oYXJnYS1iYm0tZGlwYW5na2Fz",
         "description": " Joe Biden meminta kepada perusahaan-perusahaan yang menjalankan bisnis bensin untuk segera menurunkan harga BBM"
-    },
-    {
-        "title": "Ini Biang Kerok Kasus Covid di Dunia dan RI Tiba-tiba 'Meledak'",
-        "link": "https://www.cnbcindonesia.com/news/20220704113149-4-352689/ini-biang-kerok-kasus-covid-di-dunia-ri-tiba-tiba-meledak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDExMzE0OS00LTM1MjY4OS9pbmktYmlhbmcta2Vyb2sta2FzdXMtY292aWQtZGktZHVuaWEtcmktdGliYS10aWJhLW1lbGVkYWs=",
-        "description": " Simak penjelasan Menteri Kesehatan Budi Gunadi Sadikin berikut ini."
-    },
-    {
-        "title": "Ngeri 'Hantu' Inflasi, Malaysia Mau Kerek Suku Bunga (Lagi)",
-        "link": "https://www.cnbcindonesia.com/news/20220704112102-4-352684/ngeri-hantu-inflasi-malaysia-mau-kerek-suku-bunga--lagi-",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDExMjEwMi00LTM1MjY4NC9uZ2VyaS1oYW50dS1pbmZsYXNpLW1hbGF5c2lhLW1hdS1rZXJlay1zdWt1LWJ1bmdhLS1sYWdpLQ==",
-        "description": " Bank Sentral Malaysia akan menaikkan suku bunga sebesar 25 basis poin atau 0,25% pada Rabu mendatang"
-    },
-    {
-        "title": "Syarat Hadir Acara Keramaian: Wajib Vaksin Dosis Ketiga!",
-        "link": "https://www.cnbcindonesia.com/news/20220704112926-4-352686/syarat-hadir-acara-keramaian-wajib-vaksin-dosis-ketiga",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDExMjkyNi00LTM1MjY4Ni9zeWFyYXQtaGFkaXItYWNhcmEta2VyYW1haWFuLXdhamliLXZha3Npbi1kb3Npcy1rZXRpZ2E=",
-        "description": " Pemerintah mengeluarkan aturan terbaru dalam pengendalian penyebaran kasus covid-19. Apa itu?"
-    },
-    {
-        "title": "Heboh! Harga Hancur, Petani RI Ramai Jual Sawit ke Malaysia",
-        "link": "https://www.cnbcindonesia.com/news/20220704111204-4-352677/heboh-harga-hancur-petani-ri-ramai-jual-sawit-ke-malaysia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDExMTIwNC00LTM1MjY3Ny9oZWJvaC1oYXJnYS1oYW5jdXItcGV0YW5pLXJpLXJhbWFpLWp1YWwtc2F3aXQta2UtbWFsYXlzaWE=",
-        "description": " Di medial sosial viral penampakan video yang menunjukkan kegiatan diduga pengiriman Tandan Buah Segar (TBS) dari Indonesia ke Malaysia."
-    },
-    {
-        "title": "Salah Kaprah MyPertamina, YLKI: Komunikasi Pemerintah Kurang!",
-        "link": "https://www.cnbcindonesia.com/news/20220704105043-4-352671/salah-kaprah-mypertamina-ylki-komunikasi-pemerintah-kurang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEwNTA0My00LTM1MjY3MS9zYWxhaC1rYXByYWgtbXlwZXJ0YW1pbmEteWxraS1rb211bmlrYXNpLXBlbWVyaW50YWgta3VyYW5n",
-        "description": " YLKI menilai komunikasi pemerintah kurang baik dalam mensosialisasikan pendaftaraan MyPertamina bagi pengguna Pertalite"
-    },
-    {
-        "title": "Tok! PPKM Luar Jawa dan Bali Diperpanjang Hingga 1 Agustus 2022",
-        "link": "https://www.cnbcindonesia.com/news/20220704112231-4-352681/tok-ppkm-luar-jawa-bali-diperpanjang-hingga-1-agustus-2022",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDExMjIzMS00LTM1MjY4MS90b2stcHBrbS1sdWFyLWphd2EtYmFsaS1kaXBlcnBhbmphbmctaGluZ2dhLTEtYWd1c3R1cy0yMDIy",
-        "description": " Simak kata Menko Bidang Perekonomian Airlangga Hartarto dalam konferensi pers usai rapat terbatas di Istana Kepresidenan Jakarta, Senin (4/7/2022)."
     }
 ]
