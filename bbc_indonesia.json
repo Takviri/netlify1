@@ -1,10 +1,24 @@
 [
     {
+        "title": "Mohamed Salah: Bagaimana pemain Liverpool ini menghapus stigma negatif warga Inggris mengenai Islam dan orang Arab",
+        "link": "https://www.bbc.com/indonesia/olahraga-62035320",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvb2xhaHJhZ2EtNjIwMzUzMjA=",
+        "description": "Mohamed Salah kerap dipuji-puji atas kepribadian dan perilakunya di luar lapangan, yang telah mengubah persepsi terkait kesan elit pesepakbola sekaligus mendobrak batasan budaya."
+    },
+    {
         "title": "Perang Ukraina: Turki menahan kapal berbendera Rusia pengangkut biji-bijian dari Ukraina",
         "link": "https://www.bbc.com/indonesia/dunia-62036680",
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjIwMzY2ODA=",
         "description": "Alat pelacakan mengungkap rute pengiriman biji-bijian dari kawasan Ukraina yang diduduki Rusia."
+    },
+    {
+        "title": "Penembakan di Denmark: Tersangka dengan 'gangguan jiwa' dihadirkan ke pangadilan, 'tak ada unsur teror' dalam serangan",
+        "link": "https://www.bbc.com/indonesia/dunia-62032479",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjIwMzI0Nzk=",
+        "description": "Seorang pria berusia 22 tahun yang dicurigai menewaskan tiga orang di pertokoan di ibu kota Denmark, Kopenhagen, akan dihadirkan di pengadilan untuk diperiksa. Tersangka disebut memiliki gangguan jiwa dan bertindak sendiri."
     },
     {
         "title": "Ukraina: Para guru dan dosen yang mengajar di balik garis depan perang melawan Rusia",
@@ -19,13 +33,6 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYxOTc3Mjcx",
         "description": "Izin riset ganja medis yang akan segera diterbitkan oleh Menteri Kesehatan Budi Gunadi Sadikin disambut baik oleh para peneliti, tetapi pemanfaatannya akan sulit direalisasikan tanpa mengubah UU Narkotika yang masih melarang ganja digunakan dalam pelayanan kesehatan."
-    },
-    {
-        "title": "Penembakan di Denmark: Tersangka dengan 'gangguan jiwa' dihadirkan ke pangadilan, 'tak ada unsur teror' dalam serangan",
-        "link": "https://www.bbc.com/indonesia/dunia-62032479",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjIwMzI0Nzk=",
-        "description": "Seorang pria berusia 22 tahun yang dicurigai menewaskan tiga orang di pertokoan di ibu kota Denmark, Kopenhagen, akan dihadirkan di pengadilan untuk diperiksa. Tersangka disebut memiliki gangguan jiwa dan bertindak sendiri."
     },
     {
         "title": "Kapan hobi menimbun barang menjadi masalah?",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvdmVydC1jYXAtNjE5NTY2NDk=",
         "description": "Semakin banyak perusahaan yang memasang peranti lunak pengawasan terhadap para pegawai sejak era pandemi. Bisakah perangkat lunak semacam itu menggerus kepercayaan dan moral para pegawai?"
-    },
-    {
-        "title": "Apa yang terjadi jika kita berhenti menggunakan plastik",
-        "link": "https://www.bbc.com/indonesia/vert-fut-61976487",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvdmVydC1mdXQtNjE5NzY0ODc=",
-        "description": "Plastik telah merasuk ke dalam setiap aspek kehidupan kita. Bisakah kita hidup tanpanya?"
     }
 ]
