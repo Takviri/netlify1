@@ -1,6 +1,48 @@
 [
     {
         "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504206/kemenkes-ganja-medis-hanya-untuk-riset-tidak-perlu-revisi-uu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MjA2L2tlbWVua2VzLWdhbmphLW1lZGlzLWhhbnlhLXVudHVrLXJpc2V0LXRpZGFrLXBlcmx1LXJldmlzaS11dQ==",
+        "description": "WAKIL Menteri Kesehatan Dr Dante Saksono Harbuwono menegaskan regulasi pemanfaatan tanaman ganja medis hanya untuk riset dan bukan untuk konsumsi masyarakat. Karena itu, tidak perlu mengubah undang-undang&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/504205/gunduli-brunei-7-0-timnas-u-19-indonesia-perbesar-asa-ke-semifinal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDIwNS9ndW5kdWxpLWJydW5laS03LTAtdGltbmFzLXUtMTktaW5kb25lc2lhLXBlcmJlc2FyLWFzYS1rZS1zZW1pZmluYWw=",
+        "description": " EMPAT gol Hokky Caraka mewarnai kemenangan Indonesia dengan skor 7-0 atas Brunei Darussalam pada laga Grup A Piala AFF U-19 2022 di Stadion Patriot Candrabhaga, Bekasi, Senin (4/7). Tiga gol&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/504204/iran-rusia-turki-pertimbangkan-produksi-mobil-bersama",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDIwNC9pcmFuLXJ1c2lhLXR1cmtpLXBlcnRpbWJhbmdrYW4tcHJvZHVrc2ktbW9iaWwtYmVyc2FtYQ==",
+        "description": "PEJABAT industri mobil dari Iran, Rusia, dan Turki sedang mempertimbangkan desain dan pembuatan mobil bersama setelah sanksi terhadap Moskow dan Teheran mengerem produksi. Media pemerintah Iran melaporkan&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/504202/fenomena-hijrah-akibat-sadar-atau-cemas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDQyMDIvZmVub21lbmEtaGlqcmFoLWFraWJhdC1zYWRhci1hdGF1LWNlbWFz",
+        "description": "HIJRAH telah menjadi istilah populer yang akhir-akhir ini terdengar di televisi dan artikel popular. Konsep hijrah mengacu pada transformasi dari orang yang kurang religius menjadi lebih saleh. Perubahan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504201/drrahmat-dwi-putranto-teknologi-pengaruhi-eksistensi-hukum-di-masyarakat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQyMDEvZHJyYWhtYXQtZHdpLXB1dHJhbnRvLXRla25vbG9naS1wZW5nYXJ1aGktZWtzaXN0ZW5zaS1odWt1bS1kaS1tYXN5YXJha2F0",
+        "description": "CEO LegalGo dan Ketua Yayasan Sekolah Tinggi Ilmu Hukum (STIH) IBLAM, Rahmat Dwi Putranto, meraih gelar Doktor Ilmu Hukum di Fakultas Hukum Universitas Padjadjaran (Unpad) dengan predikat Cum Laude.&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/504200/as-sebut-jurnalis-al-jazeera-mungkin-ditembak-israel-tetapi-tidak-sengaja",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNDIwMC9hcy1zZWJ1dC1qdXJuYWxpcy1hbC1qYXplZXJhLW11bmdraW4tZGl0ZW1iYWstaXNyYWVsLXRldGFwaS10aWRhay1zZW5nYWph",
+        "description": "AMERIKA Serikat mengatakan pada Senin (4/7) bahwa jurnalis Al Jazeera Shireen Abu Akleh kemungkinan terbunuh oleh tembakan dari&#8230;"
+    },
+    {
+        "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/504199/menko-pmk-minta-kampus-ikut-tangani-wabah-pmk",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MTk5L21lbmtvLXBtay1taW50YS1rYW1wdXMtaWt1dC10YW5nYW5pLXdhYmFoLXBtaw==",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MTk0L2xhbmdrYWgtc3RyYXRlZ2lzLWtzYWQtbWFuZmFhdGthbi1sYWhhbi10aWR1cg==",
         "description": "PROGRAM ketahanan pangan sudah menjadi domain banyak pihak karena posisi tersebut sangat strategis untuk mewujudkan swasembada pangan dan meningkatkan kesejahteraan masyarakat. Kepala Staf Angkatan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504193/banjir-terjang-nagekeo-jalan-antardesa-terputus",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MTkzL2Jhbmppci10ZXJqYW5nLW5hZ2VrZW8tamFsYW4tYW50YXJkZXNhLXRlcnB1dHVz",
-        "description": "RUAS jalan antardesa di Kecamaan Keo Tengah dan Kecamatan Nangaroro,&nbsp; Kabupaten Nagekeo, Nusa Tenggara Timur putus akibat banjir yang&nbsp; menerjang wilayah itu, Senin (4/7). Jalan putus&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504192/angka-prevalensi-stunting-di-buleleng-turun-signifikan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MTkyL2FuZ2thLXByZXZhbGVuc2ktc3R1bnRpbmctZGktYnVsZWxlbmctdHVydW4tc2lnbmlmaWthbg==",
-        "description": "ANGKA prevalensi stunting di Kabupaten Buleleng, Bali terus mengalami penurunan yang signifikan dalam tiga tahun terakhir. Ditargetkan, pada 2024, angka pravelensi stunting di Buleleng berada di kisaran&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/504191/christian-eriksen-gabung-ke-setan-merah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDE5MS9jaHJpc3RpYW4tZXJpa3Nlbi1nYWJ1bmcta2Utc2V0YW4tbWVyYWg=",
-        "description": "PEMAIN asal Denmark, Christian Eriksen telah mencapai kesepakatan lisan untuk bergabung dengan Manchester United. Demikian diberitakan, Senin (4/7). Eriksen memutuskan untuk tidak melanjutkan&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/504190/menlu-libanon-kritik-misi-drone-hizbullah-ke-blok-gas-israel",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNDE5MC9tZW5sdS1saWJhbm9uLWtyaXRpay1taXNpLWRyb25lLWhpemJ1bGxhaC1rZS1ibG9rLWdhcy1pc3JhZWw=",
-        "description": "MENTERI Luar Negeri Libanon, Senin (4/7), mengatakan campur tangan apapun dalam pembicaraan yang dimediasi AS untuk membatasi perbatasan maritimnya dengan negara musuh Israel tidak dapat diterima.&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504189/pemkab-lembata-tertibkan-antrean-panjang-di-apms",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MTg5L3BlbWthYi1sZW1iYXRhLXRlcnRpYmthbi1hbnRyZWFuLXBhbmphbmctZGktYXBtcw==",
-        "description": "&nbsp; PEMERINTAH Kabupaten Lembata, Nusa Tenggara Timur, mulai mengurai kemacetan yang terus terjadi di Agen Pengisian Minyak dan solar (APMS) Lamahora. Sudah lebih dari&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504188/sri-sultan-proses-hukum-pelaku-kerusuhan-di-babarsari",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MTg4L3NyaS1zdWx0YW4tcHJvc2VzLWh1a3VtLXBlbGFrdS1rZXJ1c3VoYW4tZGktYmFiYXJzYXJp",
-        "description": "GUBERNUR DIY, Sri Sultan HB X meminta pelaku kerusuhan di kawasan Babarsari, Sleman, ditindak secara hukum. Pelaku harus diproses&nbsp; hukum sesuai aturan yang ada. &quot;Karena ini pelanggaran&#8230;"
     }
 ]
