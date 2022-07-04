@@ -1,5 +1,47 @@
 [
     {
+        "title": "Perhatian! PPKM Luar Jawa-Bali Diperpanjang hingga Agustus",
+        "link": "https://www.cnbcindonesia.com/news/20220704132406-8-352742/perhatian-ppkm-luar-jawa-bali-diperpanjang-hingga-agustus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEzMjQwNi04LTM1Mjc0Mi9wZXJoYXRpYW4tcHBrbS1sdWFyLWphd2EtYmFsaS1kaXBlcnBhbmphbmctaGluZ2dhLWFndXN0dXM=",
+        "description": " PPKM di wilayah luar Jawa-Bali hingga awal Agustus mendatang."
+    },
+    {
+        "title": "Ukraina-Rusia Masih Memanas, Misi Damai Jokowi Gagal?",
+        "link": "https://www.cnbcindonesia.com/news/20220704151332-4-352801/ukraina-rusia-masih-memanas-misi-damai-jokowi-gagal",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDE1MTMzMi00LTM1MjgwMS91a3JhaW5hLXJ1c2lhLW1hc2loLW1lbWFuYXMtbWlzaS1kYW1haS1qb2tvd2ktZ2FnYWw=",
+        "description": " Jokowi ingin kedua negara berdamai. Sebab, perang telah menyebabkan krisis pangan yang dikhawatirkan akan merembet ke Indonesia."
+    },
+    {
+        "title": "Dunia Sedang Problem, DPR: Subsidi BBM Harus Tepat Sasaran!",
+        "link": "https://www.cnbcindonesia.com/news/20220704142635-4-352765/dunia-sedang-problem-dpr-subsidi-bbm-harus-tepat-sasaran",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDE0MjYzNS00LTM1Mjc2NS9kdW5pYS1zZWRhbmctcHJvYmxlbS1kcHItc3Vic2lkaS1iYm0taGFydXMtdGVwYXQtc2FzYXJhbg==",
+        "description": " Komisi VII DPR RI mendorong supaya penyaluran Bahan Bakar Minyak (BBM) jenis penugasan seperti Pertalite dan Solar Subsidi dapat lebih tepat sasaran"
+    },
+    {
+        "title": "Krisis Energi Mengancam Eropa, Target Emisi Karbon Meleset?",
+        "link": "https://www.cnbcindonesia.com/news/20220704132403-8-352740/krisis-energi-mengancam-eropa-target-emisi-karbon-meleset",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEzMjQwMy04LTM1Mjc0MC9rcmlzaXMtZW5lcmdpLW1lbmdhbmNhbS1lcm9wYS10YXJnZXQtZW1pc2kta2FyYm9uLW1lbGVzZXQ=",
+        "description": " Krisis Energi Mengancam Eropa, Target Emisi Karbon Meleset?"
+    },
+    {
+        "title": "Ngeri! Inflasi Turki Menggila 78,6%, Tertinggi di Dua Dekade",
+        "link": "https://www.cnbcindonesia.com/news/20220704150053-4-352796/ngeri-inflasi-turki-menggila-786-tertinggi-di-dua-dekade",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDE1MDA1My00LTM1Mjc5Ni9uZ2VyaS1pbmZsYXNpLXR1cmtpLW1lbmdnaWxhLTc4Ni10ZXJ0aW5nZ2ktZGktZHVhLWRla2FkZQ==",
+        "description": " Pemerintah Turki merilis data inflasi negara itu di Juni 2022, Senin (4/7/2022). Tercatat, inflasi melonjak menjadi 78,6% pada Juni dalam basis tahunan."
+    },
+    {
+        "title": "Ramalan Ngeri! Dunia Resesi Tahun Depan, Ini Penyebabnya",
+        "link": "https://www.cnbcindonesia.com/news/20220704141845-4-352759/ramalan-ngeri-dunia-resesi-tahun-depan-ini-penyebabnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDE0MTg0NS00LTM1Mjc1OS9yYW1hbGFuLW5nZXJpLWR1bmlhLXJlc2VzaS10YWh1bi1kZXBhbi1pbmktcGVueWViYWJueWE=",
+        "description": " Isu resesi semakin meluas, tidak hanya Amerika Serikat (AS) dunia juga diramal akan mengalami resesi tahun depan"
+    },
+    {
         "title": "Jokowi Wanti-wanti: Jangan Sampai Covid Ganggu Laju Ekonomi!",
         "link": "https://www.cnbcindonesia.com/news/20220704145506-4-352785/jokowi-wanti-wanti-jangan-sampai-covid-ganggu-laju-ekonomi",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDExNTMwOS04LTM1MjY5OS91cmdlbnNpLWdhbmphLW1lZGlzLWd1cnUtYmVzYXItdWdtLWphZGktcGlsaWhhbi10ZXJha2hpcg==",
         "description": " Urgensi Ganja Medis, Guru Besar UGM: Harus Jadi Pilihan Terakhir!"
-    },
-    {
-        "title": "Catat! Pertamina Beri Waktu 1 Bulan Daftar MyPertamina",
-        "link": "https://www.cnbcindonesia.com/news/20220704134623-4-352750/catat-pertamina-beri-waktu-1-bulan-daftar-mypertamina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEzNDYyMy00LTM1Mjc1MC9jYXRhdC1wZXJ0YW1pbmEtYmVyaS13YWt0dS0xLWJ1bGFuLWRhZnRhci1teXBlcnRhbWluYQ==",
-        "description": " Pertamina\u00c2\u00a0tengah mengevaluasi proses pendaftaran bagi pengguna bahan bakar minyak (BBM) jenis Pertalite dan Solar Subsidi yang sudah berlaku sejak 1 Juli lalu"
-    },
-    {
-        "title": "AS Terancam Resesi, Petani RI Yang Jadi Tumbal Harga CPO",
-        "link": "https://www.cnbcindonesia.com/news/20220704140904-4-352754/as-terancam-resesi-petani-ri-yang-jadi-tumbal-harga-cpo",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDE0MDkwNC00LTM1Mjc1NC9hcy10ZXJhbmNhbS1yZXNlc2ktcGV0YW5pLXJpLXlhbmctamFkaS10dW1iYWwtaGFyZ2EtY3Bv",
-        "description": " Harga minyak sawit mentah (crude palm oil/ CPO) diprediksi bakal anjlok dalam."
-    },
-    {
-        "title": "Wabah Penyakit Kuku Mengganas, Produksi Susu Anjlok Parah",
-        "link": "https://www.cnbcindonesia.com/news/20220704135623-4-352752/wabah-penyakit-kuku-mengganas-produksi-susu-anjlok-parah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEzNTYyMy00LTM1Mjc1Mi93YWJhaC1wZW55YWtpdC1rdWt1LW1lbmdnYW5hcy1wcm9kdWtzaS1zdXN1LWFuamxvay1wYXJhaA==",
-        "description": " Susu sapi di dalam negeri mengalami penurunan produksi secara tajam akibat penyakit mulut dan kuku (PMK)."
-    },
-    {
-        "title": "Menkes Beberkan Tahapan Kelas Standar BPJS Kesehatan",
-        "link": "https://www.cnbcindonesia.com/news/20220704141005-4-352755/menkes-beberkan-tahapan-kelas-standar-bpjs-kesehatan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDE0MTAwNS00LTM1Mjc1NS9tZW5rZXMtYmViZXJrYW4tdGFoYXBhbi1rZWxhcy1zdGFuZGFyLWJwanMta2VzZWhhdGFu",
-        "description": " Begini tahapan Kelas Rawat Inap Standar (KRIS) peserta BPJS Kesehatan."
-    },
-    {
-        "title": "Ukraina Serang Pasukan Rusia di Wilayah Kota Melitopol",
-        "link": "https://www.cnbcindonesia.com/news/20220704113343-8-352693/ukraina-serang-pasukan-rusia-di-wilayah-kota-melitopol",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDExMzM0My04LTM1MjY5My91a3JhaW5hLXNlcmFuZy1wYXN1a2FuLXJ1c2lhLWRpLXdpbGF5YWgta290YS1tZWxpdG9wb2w=",
-        "description": " Militer Ukraina dikabarkan telah melakukan serangan balasan terhadap Rusia"
-    },
-    {
-        "title": "Jepang Panas ke Militer China, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220704132157-4-352745/jepang-panas-ke-militer-china-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEzMjE1Ny00LTM1Mjc0NS9qZXBhbmctcGFuYXMta2UtbWlsaXRlci1jaGluYS1hZGEtYXBh",
-        "description": " Jepang panas ke militer China dan mengajukan protes, Senin (4/7/2022)."
     }
 ]

@@ -1,5 +1,40 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/504105/raih-podium-di-trofeo-destate-night-race-qarrar-firhand-akui-ingin-tampil-lebih-baik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQxMDUvcmFpaC1wb2RpdW0tZGktdHJvZmVvLWRlc3RhdGUtbmlnaHQtcmFjZS1xYXJyYXItZmlyaGFuZC1ha3VpLWluZ2luLXRhbXBpbC1sZWJpaC1iYWlr",
+        "description": "PEMBALAP Indonesia, Qarrar Firhand Ali tampil gemilang di ajang balap ROK Cup bertajuk &lsquo;Trofeo d&rsquo;Estate Night Race 2022&rsquo; di Sirkuit South Garda, Lonato, Italia, Sabtu-Minggu dini&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504104/soal-pengganti-anies-kemendagri-tergantung-presiden",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQxMDQvc29hbC1wZW5nZ2FudGktYW5pZXMta2VtZW5kYWdyaS10ZXJnYW50dW5nLXByZXNpZGVu",
+        "description": "KEMENTERIAN Dalam Negeri (Kemendagri) menyatakan bahwa penunjukan nama penjabat (Pj) pengganti Gubernur DKI Jakarta Anies Baswedan merupakan hak preogratif Presiden sebagai kepala negara dan pemerintahan.&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/504103/literasi-finansial-digital-julo-gelar-kampanye-siap-melesat-dan-gelar-charity-run-bantu-umkm",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDEwMy9saXRlcmFzaS1maW5hbnNpYWwtZGlnaXRhbC1qdWxvLWdlbGFyLWthbXBhbnllLXNpYXAtbWVsZXNhdC1kYW4tZ2VsYXItY2hhcml0eS1ydW4tYmFudHUtdW1rbQ==",
+        "description": "PERUSAHAAN teknologi asal Indonesia, PT. JULO Teknologi Finansial (JULO) meluncurkan kampanye Siap Melesat, sebagai bentuk komitmen untuk membuat seluruh masyarakat Indonesia semakin mampu tingkatkan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504102/semarakkan-libur-sekolah-pullman-jakarta-hadirkan-shcolo-holiyay",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MTAyL3NlbWFyYWtrYW4tbGlidXItc2Vrb2xhaC1wdWxsbWFuLWpha2FydGEtaGFkaXJrYW4tc2hjb2xvLWhvbGl5YXk=",
+        "description": "MEMASUKI masa libur sekolah menyambut tahun ajaran baru, Hotel Pullman Jakarta menghadirkan promo paket menginap &quot;Schooll HoliYay&quot;. Dalam School HoliYay, setiap Sabtu dan Minggu, Pullman&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504100/tanggapi-dino-djalal-djumala-diplomasi-perdamaian-bukan-pabrik-tempe",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQxMDAvdGFuZ2dhcGktZGluby1kamFsYWwtZGp1bWFsYS1kaXBsb21hc2ktcGVyZGFtYWlhbi1idWthbi1wYWJyaWstdGVtcGU=",
+        "description": "KUNJUNGAN Presiden Joko Widodo Jokowi ke Ukraina dan Rusia usai menghadiri Pertemuan G7 di Jerman banyak mendapat reaksi dari publik Indonesia. &nbsp; Dino Patti Djalal, mantan Wakil Menteri&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/504099/inflasi-turki-sentuh-level-tertinggi-dalam-dua-dekade",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDQwOTUvZ3ViZXJudXItZGtpLWFuaWVzLWJhc3dlZGFuLWFwcmVzaWFzaS1sYW5na2FoLWNlcGF0LWtlbWVudGFuLXNpYXBrYW4tcGFuZ2FuLWplbGFuZy1pZHVsLWFkaGE=",
         "description": "GUBERNUR DKI Jakarta, Anies Rasyid Baswedan mengapresiasi langkah cepat jajaran Kementerian Pertanian (Kementan) dalam menyediakan kebutuhan pangan dan hewan ternak jelang hari raya idul adha mendatang.&nbsp;&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/504080/pekan-depan-riau-bakal-diguyur-hujan-buatan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MDgwL3Bla2FuLWRlcGFuLXJpYXUtYmFrYWwtZGlndXl1ci1odWphbi1idWF0YW4=",
-        "description": "OPERASI teknologi modifikasi cuaca (TMC) dengan menyemai garam di awan untuk pencegahan kebakaran hutan dan lahan akan kembali dilaksanakan di Riau mulai pekan depan. &quot;Kami sedang siapkan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/504094/tren-kasus-meningkat-kemenkes-ingatkan-jangan-kendurkan-prokes",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MDk0L3RyZW4ta2FzdXMtbWVuaW5na2F0LWtlbWVua2VzLWluZ2F0a2FuLWphbmdhbi1rZW5kdXJrYW4tcHJva2Vz",
-        "description": "MENTERI Kesehatan (Meneks) Budi Gunadi Sadikin mengingatkan masyarakat tetap disiplin protokol kesehatan (prokes). Supaya lonjakan kasus covid-19 yang terjadi segera melandai. &ldquo;Tetap jalankan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/504085/investasi-harus-bisa-tumbuhka-umkm",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDA4NS9pbnZlc3Rhc2ktaGFydXMtYmlzYS10dW1idWhrYS11bWtt",
-        "description": " Kamar Dagang dan Industri (Kadin) Indonesia memproyeksikan adanya potensi investasi masuk Indonesia dari berbagai sektor sebesar Rp1.800 triliun.&nbsp; Tingginya potensi investasi tersebut&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/504093/pengguna-internet-meningkat-sdm-indonesia-dituntut-cakap-bermedia-digital",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA0MDkzL3BlbmdndW5hLWludGVybmV0LW1lbmluZ2thdC1zZG0taW5kb25lc2lhLWRpdHVudHV0LWNha2FwLWJlcm1lZGlhLWRpZ2l0YWw=",
-        "description": "Pemerintah melalui Kementerian Komunikasi dan Informatika (Kominfo) merespons perkembangan TIK, bersama Gerakan Nasional Literasi Digital (GNLD) Siberkreasi melakukan kolaborasi dan mencanangkan program&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/504092/anies-pasokan-hewan-kurban-di-dki-aman-dan-terkendali",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDQwOTIvYW5pZXMtcGFzb2thbi1oZXdhbi1rdXJiYW4tZGktZGtpLWFtYW4tZGFuLXRlcmtlbmRhbGk=",
-        "description": "GUBERNUR DKI Jakarta Anies Baswedan memastikan sebanyak 47 ribu ekor yang diperkirakan untuk kebutuhan kurban Idul Adha, aman dan terkendali dari Penyakit Mulut dan Kuku (PMK). &quot;Yang sudah&#8230;"
     }
 ]
