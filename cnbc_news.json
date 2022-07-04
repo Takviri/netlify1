@@ -1,5 +1,33 @@
 [
     {
+        "title": "Menkes Beberkan Tahapan Kelas Standar BPJS Kesehatan",
+        "link": "https://www.cnbcindonesia.com/news/20220704141005-4-352755/menkes-beberkan-tahapan-kelas-standar-bpjs-kesehatan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDE0MTAwNS00LTM1Mjc1NS9tZW5rZXMtYmViZXJrYW4tdGFoYXBhbi1rZWxhcy1zdGFuZGFyLWJwanMta2VzZWhhdGFu",
+        "description": " Begini tahapan Kelas Rawat Inap Standar (KRIS) peserta BPJS Kesehatan."
+    },
+    {
+        "title": "Ukraina Serang Pasukan Rusia di Wilayah Kota Melitopol",
+        "link": "https://www.cnbcindonesia.com/news/20220704113343-8-352693/ukraina-serang-pasukan-rusia-di-wilayah-kota-melitopol",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDExMzM0My04LTM1MjY5My91a3JhaW5hLXNlcmFuZy1wYXN1a2FuLXJ1c2lhLWRpLXdpbGF5YWgta290YS1tZWxpdG9wb2w=",
+        "description": " Militer Ukraina dikabarkan telah melakukan serangan balasan terhadap Rusia"
+    },
+    {
+        "title": "Jepang Panas ke Militer China, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220704132157-4-352745/jepang-panas-ke-militer-china-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEzMjE1Ny00LTM1Mjc0NS9qZXBhbmctcGFuYXMta2UtbWlsaXRlci1jaGluYS1hZGEtYXBh",
+        "description": " Jepang panas ke militer China dan mengajukan protes, Senin (4/7/2022)."
+    },
+    {
+        "title": "Hancur Lebur, Potret Ukraina \"Balas Dendam\" ke Kota Rusia",
+        "link": "https://www.cnbcindonesia.com/news/20220704122141-7-352714/hancur-lebur-potret-ukraina-balas-dendam-ke-kota-rusia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEyMjE0MS03LTM1MjcxNC9oYW5jdXItbGVidXItcG90cmV0LXVrcmFpbmEtYmFsYXMtZGVuZGFtLWtlLWtvdGEtcnVzaWE=",
+        "description": " Ukraina diyakini Rusia menyerang rudal ke kota Belgorod. Akibatnya tiga orang tewas dan 14 orang lainnya terluka."
+    },
+    {
         "title": "Ini Target Baru Rusia Usai Rebut Kota Lysychansk di Ukraina",
         "link": "https://www.cnbcindonesia.com/news/20220704132756-4-352743/ini-target-baru-rusia-usai-rebut-kota-lysychansk-di-ukraina",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEyNTUzNC00LTM1MjczMi9wcGttLWphd2EtYmFsaS1kaXBlcnBhbmphbmctc2F0dS1idWxhbi1oaW5nZ2EtMS1hZ3VzdHVzLTIwMjI=",
         "description": " Dengan demikian, maka PPKM di seluruh Indonesia diperpanjang hingga satu bulan"
-    },
-    {
-        "title": "Kasus Covid-19 Naik, Warga Masih Diperbolehkan Bebas Masker",
-        "link": "https://www.cnbcindonesia.com/news/20220704125106-4-352728/kasus-covid-19-naik-warga-masih-diperbolehkan-bebas-masker",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEyNTEwNi00LTM1MjcyOC9rYXN1cy1jb3ZpZC0xOS1uYWlrLXdhcmdhLW1hc2loLWRpcGVyYm9sZWhrYW4tYmViYXMtbWFza2Vy",
-        "description": " Pemerintah tetap memperbolehkan masyarakat melepas masker di ruangan terbuka"
-    },
-    {
-        "title": "China Kurung 1,7 Juta Warga, Covid Makin Ngeri?",
-        "link": "https://www.cnbcindonesia.com/news/20220704130147-4-352733/china-kurung-17-juta-warga-covid-makin-ngeri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEzMDE0Ny00LTM1MjczMy9jaGluYS1rdXJ1bmctMTctanV0YS13YXJnYS1jb3ZpZC1tYWtpbi1uZ2VyaQ==",
-        "description": " China mengunci 1,7 juta warganya di Provinsi Ahui tengah"
-    },
-    {
-        "title": "Cegah Kecelakaan, Jasa Raharja Gelar JR Show Safety Riding",
-        "link": "https://www.cnbcindonesia.com/news/20220704094742-4-352640/cegah-kecelakaan-jasa-raharja-gelar-jr-show-safety-riding",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDA5NDc0Mi00LTM1MjY0MC9jZWdhaC1rZWNlbGFrYWFuLWphc2EtcmFoYXJqYS1nZWxhci1qci1zaG93LXNhZmV0eS1yaWRpbmc=",
-        "description": " Kecelakaan lalu lintas menjadi salah satu penyebab kematian terbesar, Diperkirakan ada dua orang meninggal dunia setiap jamnya akibat kecelakaan lalu lintas."
-    },
-    {
-        "title": "Detik-detik Penembakan Massal Denmark, Beberapa Orang Tewas",
-        "link": "https://www.cnbcindonesia.com/news/20220704123928-8-352723/detik-detik-penembakan-massal-denmark-beberapa-orang-tewas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDEyMzkyOC04LTM1MjcyMy9kZXRpay1kZXRpay1wZW5lbWJha2FuLW1hc3NhbC1kZW5tYXJrLWJlYmVyYXBhLW9yYW5nLXRld2Fz",
-        "description": " Suasana panik menyelimuti sebuah pusat perbelanjaan di ibukota Kopenhagen, Denmark pada Minggu (3/7). Terdapat beberapa korban tewas atas insiden tersebut."
     }
 ]
