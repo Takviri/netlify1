@@ -1,5 +1,19 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/504237/rumah-sakit-siloam-palembang-terbakar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MjM3L3J1bWFoLXNha2l0LXNpbG9hbS1wYWxlbWJhbmctdGVyYmFrYXI=",
+        "description": "RUMAH Sakit Siloam Palembang terbakar, Senin (4/7) sekitar pukul 20.45 WIB. Diduga api berasal dari genset di ruangan lantai dua&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/504236/dragic-teken-kontrak-setahun-dengan-bulls",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQyMzYvZHJhZ2ljLXRla2VuLWtvbnRyYWstc2V0YWh1bi1kZW5nYW4tYnVsbHM=",
+        "description": "PEBASKET gaek Goran Dragic dilaporkan telah hijrah ke Chicago Bulls dan meneken kontrak pendek berdurasi satu tahun. Seturut&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/504229/kejaksaan-diminta-bentuk-timsus-usut-kredit-macet-titan",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDIyMS9iZXJuYXJkby1zaWx2YS11bmdrYXAta2VpbmdpbmFuLXBpbmRhaC1rZS1iYXJjZWxvbmE=",
         "description": "GELANDANG Manchester City Bernardo Silva dikabarkan mengungkapkan keinginan untuk bergabung dengan Barcelona pada bursa transfer pemain musim panas ini. Dikutip dari Football Espana, Senin (4/7)&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504220/pengadilan-putuskan-tonny-permana-sah-pemilik-tanah-salembaran-jaya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQyMjAvcGVuZ2FkaWxhbi1wdXR1c2thbi10b25ueS1wZXJtYW5hLXNhaC1wZW1pbGlrLXRhbmFoLXNhbGVtYmFyYW4tamF5YQ==",
-        "description": "MAJELIS Pengadilan Negeri Jakarta Utara memutuskan menolak gugatan perkara dengan nomor 438/Pdt.G/2021/PN Jkt yang diajukan oleh Ahmad Ghozali terkait kepemilikan tanah di Salembaran Jaya terhadap&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/504219/program-juragan-lele-sandiaga-uno-berhasil-dorong-warga-buka-usaha",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDIxOS9wcm9ncmFtLWp1cmFnYW4tbGVsZS1zYW5kaWFnYS11bm8tYmVyaGFzaWwtZG9yb25nLXdhcmdhLWJ1a2EtdXNhaGE=",
-        "description": "PROGRAM Juragan Lele dari Menteri Pariwisata dan Ekonomi Kreatif Sandiaga Uno yang dijalankan oleh Rumah SandiUno Indonesia (RSI) dan Rumah Siap Kerja (RSK) telah berhasil mendorong warga membuka usaha.&#8230;"
     }
 ]
