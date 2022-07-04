@@ -1,5 +1,19 @@
 [
     {
+        "title": "PKS Tolak PMN untuk Kereta Cepat Jakarta-Bandung",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220704180419-92-817116/pks-tolak-pmn-untuk-kereta-cepat-jakarta-bandung",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTgwNDE5LTkyLTgxNzExNi9wa3MtdG9sYWstcG1uLXVudHVrLWtlcmV0YS1jZXBhdC1qYWthcnRhLWJhbmR1bmc=",
+        "description": " PKS menolak Penyertaan Modal Negara (PMN) untuk PT KAI sebesar Rp4,1 triliun untuk membiayai proyek Kereta Cepat Jakarta-Bandung."
+    },
+    {
+        "title": "Imbas Bangkrut, Sri Lanka Kekurangan Uang untuk Bayar Impor BBM",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220704121048-85-816920/imbas-bangkrut-sri-lanka-kekurangan-uang-untuk-bayar-impor-bbm",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTIxMDQ4LTg1LTgxNjkyMC9pbWJhcy1iYW5na3J1dC1zcmktbGFua2Eta2VrdXJhbmdhbi11YW5nLXVudHVrLWJheWFyLWltcG9yLWJibQ==",
+        "description": " Sri Lanka tengah berjuang mengumpulkan Rp8,7 triliun\u00c2\u00a0guna membayar setengah lusin pengiriman impor BBM karena bank sentral hanya menyediakan Rp1,8 triliun."
+    },
+    {
         "title": "Kemendag Luncurkan Minyak Goreng Curah Kemasan Sederhana 6 Juli",
         "link": "https://www.cnnindonesia.com/ekonomi/20220704174909-92-817104/kemendag-luncurkan-minyak-goreng-curah-kemasan-sederhana-6-juli",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTMzNDQ0LTkyLTgxNjk3Mi9wZW5qdWFsLW1lbmdlbHVoLXJpYmV0LWRhZ2FuZy1taW55YWstZ29yZW5nLWN1cmFoLXBha2FpLXBlZHVsaWxpbmR1bmdp",
         "description": " Sejumlah pedagang minyak goreng curah\u00c2\u00a0belum mau menggunakan aplikasi PeduliLindungi karena dinilai cukup ribet."
-    },
-    {
-        "title": "Rupiah Dekati Rp15 Ribu per Dolar AS, Tertinggi Setahun Terakhir",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220704154409-78-817048/rupiah-dekati-rp15-ribu-per-dolar-as-tertinggi-setahun-terakhir",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTU0NDA5LTc4LTgxNzA0OC9ydXBpYWgtZGVrYXRpLXJwMTUtcmlidS1wZXItZG9sYXItYXMtdGVydGluZ2dpLXNldGFodW4tdGVyYWtoaXI=",
-        "description": " Rupiah melemah 29 poin atau 0,19 persen ke posisi Rp14.971 per dolar AS pada Senin (4/7)."
-    },
-    {
-        "title": "Pendaftaran LPDP 2022 Tahap 2 Telah Dibuka",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220704150940-532-817025/pendaftaran-lpdp-2022-tahap-2-telah-dibuka",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTUwOTQwLTUzMi04MTcwMjUvcGVuZGFmdGFyYW4tbHBkcC0yMDIyLXRhaGFwLTItdGVsYWgtZGlidWth",
-        "description": " Pendaftaran LPDP tahap II dibuka mulai 4 Juli hingga 5 Agustus 2022."
     }
 ]

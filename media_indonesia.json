@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/504153/dpr-setujui-pmn-2023-ke-bumn-senilai-rp6982-triliun",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDE1My9kcHItc2V0dWp1aS1wbW4tMjAyMy1rZS1idW1uLXNlbmlsYWktcnA2OTgyLXRyaWxpdW4=",
+        "description": "KOMISI VI DPR menyetujui usulan penyertaan modal negara (PMN) tunai untuk anggaran 2023 kepada sepuluh BUMN senilai Rp69,82 triliun. Adapun perusahaan negara itu ialah PT PLN, Rajawali Nusantara&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504151/puskapol-ui-susi-pudjiastuti-layak-jadi-cawapres-2024",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQxNTEvcHVza2Fwb2wtdWktc3VzaS1wdWRqaWFzdHV0aS1sYXlhay1qYWRpLWNhd2FwcmVzLTIwMjQ=",
+        "description": "DIREKTUR Eksekutif Pusat Kajian Politik UI (Puskapol UI) Aditya Perdana menilai bahwa mantan Menteri Kelautan dan Perikanan Susi Pudjiastuti layak bersaing dalam Pemilu 2024. &ldquo;Apakah beliau&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504150/presiden-instruksikan-evaluasi-kebijakan-ppkm",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MTUwL3ByZXNpZGVuLWluc3RydWtzaWthbi1ldmFsdWFzaS1rZWJpamFrYW4tcHBrbQ==",
+        "description": "PRESIDEN Joko Widodo memerintahkan jajaran menterinya untuk mengevaluasi kebijakan Pemberlakukan Pembatasan Kegiatan Masyarakat (PPKM) seiring kembali meningginya kasus harian covid-19. Instruksi&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/504149/pemkab-bandung-barat-data-jumlah-ternak-mati-akibat-pmk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MTQ5L3BlbWthYi1iYW5kdW5nLWJhcmF0LWRhdGEtanVtbGFoLXRlcm5hay1tYXRpLWFraWJhdC1wbWs=",
+        "description": "PEMKAB Bandung Barat, Jawa Barat masih melakukan pendataan jumlah hewan ternak yang mati karena terjangkit penyakit mulut dan kuku (PMK). Hingga saat ini, pemerintah pusat tengah menggodok aturan teknis&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504148/dpr-pilih-perppu-untuk-ubah-uu-pemilu-ini-respons-kpu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQxNDgvZHByLXBpbGloLXBlcnBwdS11bnR1ay11YmFoLXV1LXBlbWlsdS1pbmktcmVzcG9ucy1rcHU=",
+        "description": "KOMISI Pemilihan Umum (KPU) RI merespons rencana Dewan Perwakilan Rakyat (DPR) yang memilih gunakan peraturan pemerintah pengganti undang-undang (perppu) terkait perlunya aturan pada Pemilu 2024 di&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504147/pengamat-korban-jalan-rusak-bisa-ajukan-tuntutan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQxNDcvcGVuZ2FtYXQta29yYmFuLWphbGFuLXJ1c2FrLWJpc2EtYWp1a2FuLXR1bnR1dGFu",
+        "description": "MASYARATAKAT bisa menuntut pemerintah atau penyelenggara jalan, jika terlibat kecelakaan imbas jalan yang rusak. Hal itu ditekankan pengamat transportasi Djoko Setijowarno. Pasalnya, penyelenggara&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/504146/hewan-kurban-di-sulawesi-tengah-cukup-dan-bebas-pmk",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA0MTQzL3BlbmdndW5hLWludGVybmV0LXBlcmx1LXdhc3BhZGEtcGVuaXB1YW4tZGktZHVuaWEtbWF5YQ==",
         "description": "Individu yang cakap bermedia digital dinilai mampu mengetahui, memahami, dan menggunakan perangkat dalam lanskap digital, mesin pencarian untuk mencari informasi, aplikasi percakapan dan media sosial&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/504141/newcastle-dekati-striker-muda-chelsea",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDE0MS9uZXdjYXN0bGUtZGVrYXRpLXN0cmlrZXItbXVkYS1jaGVsc2Vh",
-        "description": "NEWCASTLE United dikabarkan tertarik untuk meminjam penyerang muda Armando Broja dari Chelsea pada bursa transfer pemain musim panas ini. Dikutip dari Sky Sports, Senin (4/7) dikabarkan Newcastle&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/504140/chelsea-gandakan-tawaran-untuk-matthijs-de-ligt",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDE0MC9jaGVsc2VhLWdhbmRha2FuLXRhd2FyYW4tdW50dWstbWF0dGhpanMtZGUtbGlndA==",
-        "description": "CHELSEA dikabarkan telah melayangkan tawaran anyar kepada klub Liga Italia Juventus untuk memboyong Matthijs de Ligt pada bursa transfer pemain musim panas ini. Dikutip dari Football Italia,&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/504138/mangkir-latihan-ronaldo-tegaskan-sikap-ingin-tinggalkan-old-trafford",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDEzOC9tYW5na2lyLWxhdGloYW4tcm9uYWxkby10ZWdhc2thbi1zaWthcC1pbmdpbi10aW5nZ2Fsa2FuLW9sZC10cmFmZm9yZA==",
-        "description": "CRISTIANO Ronaldo dilaporkan tidak mengikuti sesi latihan pramusim Manchester United pekan ini di tengah rumor menyangkut masa depannya di Old Trafford. Sabtu (2/7), ada kabar yang mengatakan superstar&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504139/capaian-vaksinasi-pmk-di-klaten-tahap-pertama-2700-sapi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MTM5L2NhcGFpYW4tdmFrc2luYXNpLXBtay1kaS1rbGF0ZW4tdGFoYXAtcGVydGFtYS0yNzAwLXNhcGk=",
-        "description": "Capaian Vaksinasi PMK di Klaten Tahap Pertama 2.700 Sapi VAKSINASI penyakit mulut dan kuku (PMK) hewan ternak di Kabupaten Klaten, Jawa Tengah, tahap pertama telah selesai dengan capaian&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504137/saroni-disabilitas-mandiri-bersama-semen-gresik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MTM3L3Nhcm9uaS1kaXNhYmlsaXRhcy1tYW5kaXJpLWJlcnNhbWEtc2VtZW4tZ3Jlc2lr",
-        "description": " TERLAHIR&nbsp; dari keluarga petani dan menyandang disabilitas, tak menghalangi Saroni untuk berdikari, mengubah keadaan. Di tengah keterbatasan, lelaki kelahiran Rembang, 11 Januari&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/504136/pengusaha-pertanyakan-kewenangan-dlh-larang-bongkar-muat-pelabuhan-marunda",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDQxMzYvcGVuZ3VzYWhhLXBlcnRhbnlha2FuLWtld2VuYW5nYW4tZGxoLWxhcmFuZy1ib25na2FyLW11YXQtcGVsYWJ1aGFuLW1hcnVuZGE=",
-        "description": "SALAH satu tenant atau pengguna jasa kepelabuhanan terminal milik PT Karya Cipta Nusantara (KCN), PT Rajawali Surabaya, mempertanyakan kewenangan Dinas Lingkungan Hidup (DLH) DKI Jakarta yang memberlakukan&#8230;"
     }
 ]
