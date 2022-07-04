@@ -1,5 +1,61 @@
 [
     {
+        "title": "Bamsoet Dorong Lahirnya Perusahaan Digital Mining Baru",
+        "link": "https://nasional.tempo.co/read/1608413/bamsoet-dorong-lahirnya-perusahaan-digital-mining-baru",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDg0MTMvYmFtc29ldC1kb3JvbmctbGFoaXJueWEtcGVydXNhaGFhbi1kaWdpdGFsLW1pbmluZy1iYXJ1",
+        "description": "PT. Tambang Digital Internasional merupakan perusahaan digital mining dan penjualan langsung produk-produk skin-care merek D'BEAUTYSKIN."
+    },
+    {
+        "title": "KPK Tetapkan Wali Kota Ambon Richard Louhenapessy Sebagai Tersangka TPPU",
+        "link": "https://nasional.tempo.co/read/1608410/kpk-tetapkan-wali-kota-ambon-richard-louhenapessy-sebagai-tersangka-tppu",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDg0MTAva3BrLXRldGFwa2FuLXdhbGkta290YS1hbWJvbi1yaWNoYXJkLWxvdWhlbmFwZXNzeS1zZWJhZ2FpLXRlcnNhbmdrYS10cHB1",
+        "description": "Wali Kota Ambon Richard Louhenapessy dijerat dengan Undang-Undang Tindak Pidana Pencucian Uang."
+    },
+    {
+        "title": "Bamsoet Juara Pertama Kejuaraan Menembak Jaksa Agung Cup 2022",
+        "link": "https://nasional.tempo.co/read/1608407/bamsoet-juara-pertama-kejuaraan-menembak-jaksa-agung-cup-2022",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDg0MDcvYmFtc29ldC1qdWFyYS1wZXJ0YW1hLWtlanVhcmFhbi1tZW5lbWJhay1qYWtzYS1hZ3VuZy1jdXAtMjAyMg==",
+        "description": "Kejuaraan menembak ini dalam rangka memperingati Hari Bhakti Adhyaksa ke-62."
+    },
+    {
+        "title": "Aksi Cepat Tanggap Punya Hutang Rp 56 Miliar dari Program Keluarga Korban Pesawat Lion Air",
+        "link": "https://nasional.tempo.co/read/1608402/aksi-cepat-tanggap-punya-hutang-rp-56-miliar-dari-program-keluarga-korban-pesawat-lion-air",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDg0MDIvYWtzaS1jZXBhdC10YW5nZ2FwLXB1bnlhLWh1dGFuZy1ycC01Ni1taWxpYXItZGFyaS1wcm9ncmFtLWtlbHVhcmdhLWtvcmJhbi1wZXNhd2F0LWxpb24tYWly",
+        "description": "Aksi Cepat Tanggap menggarap proyek yang didanai dari kompensasi keluarga korban jatuhnya pesawat Lion Air JT-610."
+    },
+    {
+        "title": "Bamsoet: Menpan-RB Tjahjo Kumolo Beri Kontribusi Besar untuk Pembangunan",
+        "link": "https://nasional.tempo.co/read/1608403/bamsoet-menpan-rb-tjahjo-kumolo-beri-kontribusi-besar-untuk-pembangunan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDg0MDMvYmFtc29ldC1tZW5wYW4tcmItdGphaGpvLWt1bW9sby1iZXJpLWtvbnRyaWJ1c2ktYmVzYXItdW50dWstcGVtYmFuZ3VuYW4=",
+        "description": "Tjahjo Kumolo telah menjadi masinis yang andal dalam membawa perubahan kecepatan layanan publik hingga perubahan budaya birokrat."
+    },
+    {
+        "title": "Jasindo dan Pemkot Padang Panjang Perkuat Pertanian",
+        "link": "https://nasional.tempo.co/read/1608400/jasindo-dan-pemkot-padang-panjang-perkuat-pertanian",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDg0MDAvamFzaW5kby1kYW4tcGVta290LXBhZGFuZy1wYW5qYW5nLXBlcmt1YXQtcGVydGFuaWFu",
+        "description": "Kerja sama ini bertujuan untuk meringankan petani dalam pembayaran premi 20 persen yang seharusnya dibayar oleh petani secara mandiri."
+    },
+    {
+        "title": "Laskar Ganjar-Puan Sebut PDIP Pantas Bersyukur Punya Kader Ideologis dan Biologis",
+        "link": "https://nasional.tempo.co/read/1608391/laskar-ganjar-puan-sebut-pdip-pantas-bersyukur-punya-kader-ideologis-dan-biologis",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgzOTEvbGFza2FyLWdhbmphci1wdWFuLXNlYnV0LXBkaXAtcGFudGFzLWJlcnN5dWt1ci1wdW55YS1rYWRlci1pZGVvbG9naXMtZGFuLWJpb2xvZ2lz",
+        "description": "LGP sebut PDIP patut bersyukur memiliki kader ideologis dan biologis. Dia optimis partai itu bisa memenangi Pemilu dan Pilpres yang mendalami konsep Trisakti Soekarno."
+    },
+    {
+        "title": "Penyelewengan Dana Aksi Cepat Tanggap, Begini Ceritanya",
+        "link": "https://nasional.tempo.co/read/1608389/penyelewengan-dana-aksi-cepat-tanggap-begini-ceritanya",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgzODkvcGVueWVsZXdlbmdhbi1kYW5hLWFrc2ktY2VwYXQtdGFuZ2dhcC1iZWdpbmktY2VyaXRhbnlh",
+        "description": "Miliaran dana masyarakat yang dikumpulkan oleh lembaga filantropi Aksi Cepat Tanggap diduga diselewengkan petingginya."
+    },
+    {
         "title": "Nama Mardani H Maming Muncul di BAP Henry Soetio,  Disebut Terima Uang Rp 2 Miliar Sebelum Jadi Bupati",
         "link": "https://nasional.tempo.co/read/1608378/nama-mardani-h-maming-muncul-di-bap-henry-soetiodisebut-terima-uang-rp-2-miliar-sebelum-jadi-bupati",
         "image": "static/images/tempo_nasional.png",
@@ -12,61 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgzNTYvYmFuZ3VuYW4tZGlkdWdhLWNhZ2FyLWJ1ZGF5YS1kaS1rZWRpcmktZGlib25na2FyLWRlbWktcmVzdG9yYW4tY2VwYXQtc2FqaQ==",
         "description": "Sebuah Objek Diduga Cagar Budaya (ODCB) berupa bangunan cagar budaya dI Kediri dibongkar pemiliknya untuk drive thru restoran cepat saji Mc Donald's."
-    },
-    {
-        "title": "Penolak Tambang Mas Sangihe Dikriminalisasi, Save Sangihe Island Akan Sambangi Mabes Polri",
-        "link": "https://nasional.tempo.co/read/1608367/penolak-tambang-mas-sangihe-dikriminalisasi-save-sangihe-island-akan-sambangi-mabes-polri",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgzNjcvcGVub2xhay10YW1iYW5nLW1hcy1zYW5naWhlLWRpa3JpbWluYWxpc2FzaS1zYXZlLXNhbmdpaGUtaXNsYW5kLWFrYW4tc2FtYmFuZ2ktbWFiZXMtcG9scmk=",
-        "description": "Kasus kriminalisasi terhadap seorang warga penolak tambang mas Sangihe akan dibawa ke Mabes Polri."
-    },
-    {
-        "title": "46 Jemaah Haji Plus Dipulangkan, Kemenag Belum Akan Tindak Pihak Agen Perjalanan",
-        "link": "https://nasional.tempo.co/read/1608362/46-jemaah-haji-plus-dipulangkan-kemenag-belum-akan-tindak-pihak-agen-perjalanan",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgzNjIvNDYtamVtYWFoLWhhamktcGx1cy1kaXB1bGFuZ2thbi1rZW1lbmFnLWJlbHVtLWFrYW4tdGluZGFrLXBpaGFrLWFnZW4tcGVyamFsYW5hbg==",
-        "description": "46 Jemaah Haji plus dipulangkan oleh pemerintah Arab Saudi karena visanya tak terdaftar."
-    },
-    {
-        "title": "Tim Ekspedisi Sungai Nusantara Temukan Sungai Siak Tercemar Klorin dan Fosfat",
-        "link": "https://nasional.tempo.co/read/1608361/tim-ekspedisi-sungai-nusantara-temukan-sungai-siak-tercemar-klorin-dan-fosfat",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgzNjEvdGltLWVrc3BlZGlzaS1zdW5nYWktbnVzYW50YXJhLXRlbXVrYW4tc3VuZ2FpLXNpYWstdGVyY2VtYXIta2xvcmluLWRhbi1mb3NmYXQ=",
-        "description": "Penelitian Tim Ekspedisi Sungai Nusantara (ESN) menemukan fakta bahwa Sungai Siak di Riau tercemar bahan kimia klorin dan fosfat. Penelitian ini dilakukan ESN bersama dengan Mahasiswa Pecinta Alam Fakultas Ekonomi Universitas Negeri Riau dan Badan Teritori Telapak Riau pada 1 - 3 Juli 2022."
-    },
-    {
-        "title": "Pemekaran Papua, Ini Rincian 3 Provinsi Baru",
-        "link": "https://nasional.tempo.co/read/1608348/pemekaran-papua-ini-rincian-3-provinsi-baru",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgzNDgvcGVtZWthcmFuLXBhcHVhLWluaS1yaW5jaWFuLTMtcHJvdmluc2ktYmFydQ==",
-        "description": "Provinsi Papua Selatan dengan Ibukota Merauke, Provinsi Papua Tengah dengan Ibukota Nabire, dan Provinsi Papua Pegunungan dengan Ibukota Jaya Wijaya."
-    },
-    {
-        "title": "Kisah Kesaksian Soeharto di Balik Kudeta 3 Juli 1946",
-        "link": "https://nasional.tempo.co/read/1608323/kisah-kesaksian-soeharto-di-balik-kudeta-3-juli-1946",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgzMjMva2lzYWgta2VzYWtzaWFuLXNvZWhhcnRvLWRpLWJhbGlrLWt1ZGV0YS0zLWp1bGktMTk0Ng==",
-        "description": "Letkol Soeharto ditugasi menangkap Jenderal Soedarsono, dari pergerakan Persatuan Perjuangan, dalang kudeta yang tak puas ke PM Sutan Sjahrir."
-    },
-    {
-        "title": "Anggota DPR: Diskusi Komisi II Sepakat Usulkan Perpu soal Pemilu 2024",
-        "link": "https://nasional.tempo.co/read/1608282/anggota-dpr-diskusi-komisi-ii-sepakat-usulkan-perpu-soal-pemilu-2024",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgyODIvYW5nZ290YS1kcHItZGlza3VzaS1rb21pc2ktaWktc2VwYWthdC11c3Vsa2FuLXBlcnB1LXNvYWwtcGVtaWx1LTIwMjQ=",
-        "description": "Guspardi Gaus, mengatakan, sejauh ini pembicaraan di Komisi II DPR disepakati akan mengusulkan penerbitan perpu berkaitan dengan Pemilu 2024"
-    },
-    {
-        "title": "Penduduk RI yang Disuntik Vaksin Booster Capai 50,91 Juta Orang",
-        "link": "https://nasional.tempo.co/read/1608275/penduduk-ri-yang-disuntik-vaksin-booster-capai-5091-juta-orang",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgyNzUvcGVuZHVkdWstcmkteWFuZy1kaXN1bnRpay12YWtzaW4tYm9vc3Rlci1jYXBhaS01MDkxLWp1dGEtb3Jhbmc=",
-        "description": "Satgas COVID-19 melaporkan jumlah warga Indonesia yang telah menerima dosis ketiga atau booster mencapai 50,91 juta jiwa hingga Minggu 3 Juli 2022"
-    },
-    {
-        "title": "Wamenag Kunjungi Hotel Jamaah Minta Masukan Soal Layanan Haji",
-        "link": "https://nasional.tempo.co/read/1608273/wamenag-kunjungi-hotel-jamaah-minta-masukan-soal-layanan-haji",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDgyNzMvd2FtZW5hZy1rdW5qdW5naS1ob3RlbC1qYW1hYWgtbWludGEtbWFzdWthbi1zb2FsLWxheWFuYW4taGFqaQ==",
-        "description": "Wakil Menteri Agama RI Zainut Tauhid Sa'adi mendatangi di hotel tempat jamaah haji menginap untuk memastikan layanan yang didapat terbaik"
     }
 ]
