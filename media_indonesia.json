@@ -1,6 +1,41 @@
 [
     {
         "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/504101/zhou-guanyu-puji-pelindung-halo-selamatkannya-dari-kecelakaan-horor",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQxMDEvemhvdS1ndWFueXUtcHVqaS1wZWxpbmR1bmctaGFsby1zZWxhbWF0a2FubnlhLWRhcmkta2VjZWxha2Fhbi1ob3Jvcg==",
+        "description": "PEMBALAP Alfa Romeo Zhou Guanyu memuji teknologi halo yang menyelamatkannya dari kecelakaan horor pada seri Formula 1 GP Inggris di Sirkuit Silverstone. Meski mobilnya remuk, pembalap asal Tiongkok&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/504109/jesus-resmi-berseragam-arsenal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDEwOS9qZXN1cy1yZXNtaS1iZXJzZXJhZ2FtLWFyc2VuYWw=",
+        "description": "KLUB Liga Inggris Arsenal secara resmi telah merampungkan transfer penyerang Gabriel Jesus dari Manchester City pada bursa transfer pemain musim panas ini. Dikutip dari Sky Sports, hari ini,&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504110/covid-19-kembali-naik-perketat-prokes-dan-gencarkan-3t",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MTEwL2NvdmlkLTE5LWtlbWJhbGktbmFpay1wZXJrZXRhdC1wcm9rZXMtZGFuLWdlbmNhcmthbi0zdA==",
+        "description": "PEMERINTAH mewajibkan vaksinasi dosis ketiga atau booster untuk setiap ijin keramaian dan syarat perjalanan. Menko Perekonomian Airlangga Hartarto juga menkankan penggunaan aplikasi Peduli Lindungi&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/504107/didukung-ganjar-kontingen-esports-jawa-tengah-yakin-juara-fornas-iv-palembang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MTA3L2RpZHVrdW5nLWdhbmphci1rb250aW5nZW4tZXNwb3J0cy1qYXdhLXRlbmdhaC15YWtpbi1qdWFyYS1mb3JuYXMtaXYtcGFsZW1iYW5n",
+        "description": "GUBERNUR Jawa Tengah Ganjar Pranowo menyebut, kancah dunia esports yang digandrungi milenial terbilang menjanjikan untuk jadi kegiatan bermanfaat, baik untuk diri sendiri dan lebih luas untuk daerah&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/504106/program-juragan-lele-sandiaga-sukses-hasilkan-panen-ratusan-kilo-ikan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDEwNi9wcm9ncmFtLWp1cmFnYW4tbGVsZS1zYW5kaWFnYS1zdWtzZXMtaGFzaWxrYW4tcGFuZW4tcmF0dXNhbi1raWxvLWlrYW4=",
+        "description": "MENTERI Pariwisata dan Ekonomi Kreatif Sandiaga Uno memanen ratusan kilo ikan lele bersama warga RW01 Kelurahan Pesanggrahan, Jakarta Selatan. Panen kali ini merupakan kegiatan lanjutan dari&#8230;"
+    },
+    {
+        "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/504105/raih-podium-di-trofeo-destate-night-race-qarrar-firhand-akui-ingin-tampil-lebih-baik",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQxMDUvcmFpaC1wb2RpdW0tZGktdHJvZmVvLWRlc3RhdGUtbmlnaHQtcmFjZS1xYXJyYXItZmlyaGFuZC1ha3VpLWluZ2luLXRhbXBpbC1sZWJpaC1iYWlr",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQxMDAvdGFuZ2dhcGktZGluby1kamFsYWwtZGp1bWFsYS1kaXBsb21hc2ktcGVyZGFtYWlhbi1idWthbi1wYWJyaWstdGVtcGU=",
         "description": "KUNJUNGAN Presiden Joko Widodo Jokowi ke Ukraina dan Rusia usai menghadiri Pertemuan G7 di Jerman banyak mendapat reaksi dari publik Indonesia. &nbsp; Dino Patti Djalal, mantan Wakil Menteri&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/504099/inflasi-turki-sentuh-level-tertinggi-dalam-dua-dekade",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDA5OS9pbmZsYXNpLXR1cmtpLXNlbnR1aC1sZXZlbC10ZXJ0aW5nZ2ktZGFsYW0tZHVhLWRla2FkZQ==",
-        "description": "INFLASI tahunan di Turki pada Juni melonjak ke 78,6%. Angka ini tertinggi dalam 24 tahun terakhir.&nbsp; Itu karena kebijakan ekonomi tidak konvensional Presiden Recep Tayyip Erdogan yang dinilai&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/504098/menteri-esdm-respon-ketertarikan-rusia-kembangkan-nuklir-di-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDA5OC9tZW50ZXJpLWVzZG0tcmVzcG9uLWtldGVydGFyaWthbi1ydXNpYS1rZW1iYW5na2FuLW51a2xpci1kaS1pbmRvbmVzaWE=",
-        "description": "MENTERI Energi dan Sumber Daya Mineral (ESDM) Arifin Tasrif merespon ketertarikan perusahaan energi Rusia untuk mengembangkan industri pembangkit listrik tenaga nuklir atau PLTN di Indonesia.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/504097/94-ribu-dosis-vaksin-pmk-tiba-di-bandara-soetta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MDk3Lzk0LXJpYnUtZG9zaXMtdmFrc2luLXBtay10aWJhLWRpLWJhbmRhcmEtc29ldHRh",
-        "description": "SEBANYAK 94 ribu dosis vaksin penyakit mulut dan kuku (PMK) tiba di Indonesia melalui Bandara Soekarno-Hatta, Tangerang, Banten. Puluhan ribu dosis vaksin tersebut merupakan kedatangan tahap ketiga&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/504096/belajar-bahasa-inggris-makin-mudah-dan-efektif-dengan-sistem-auto-pilot",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MDk2L2JlbGFqYXItYmFoYXNhLWluZ2dyaXMtbWFraW4tbXVkYWgtZGFuLWVmZWt0aWYtZGVuZ2FuLXNpc3RlbS1hdXRvLXBpbG90",
-        "description": "PEMBELAJARAN dengan sistem hybrid atau virtual menjadi kebutuhan tersendiri bagi dunia pendidikan, setidaknya dalam dua tahun terakhir. Selain lebih aman, pembelajaran melalui metode&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/504095/gubernur-dki-anies-baswedan-apresiasi-langkah-cepat-kementan-siapkan-pangan-jelang-idul-adha",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDQwOTUvZ3ViZXJudXItZGtpLWFuaWVzLWJhc3dlZGFuLWFwcmVzaWFzaS1sYW5na2FoLWNlcGF0LWtlbWVudGFuLXNpYXBrYW4tcGFuZ2FuLWplbGFuZy1pZHVsLWFkaGE=",
-        "description": "GUBERNUR DKI Jakarta, Anies Rasyid Baswedan mengapresiasi langkah cepat jajaran Kementerian Pertanian (Kementan) dalam menyediakan kebutuhan pangan dan hewan ternak jelang hari raya idul adha mendatang.&nbsp;&#8230;"
     }
 ]
