@@ -1,16 +1,58 @@
 [
     {
-        "title": "Menakar Arah Laju Komoditas Semester II 2022",
+        "title": "Dolar AS Kian Ganas, Rupiah Kian Tertindas",
+        "link": "https://www.cnbcindonesia.com/market/20220704100604-17-352646/dolar-as-kian-ganas-rupiah-kian-tertindas",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTAwNjA0LTE3LTM1MjY0Ni9kb2xhci1hcy1raWFuLWdhbmFzLXJ1cGlhaC1raWFuLXRlcnRpbmRhcw==",
+        "description": " Kurs rupiah sempat menguat di hadapan dolar AS tapi kemudian berbalik arah hingga di pertengahan perdagangan hari ini."
+    },
+    {
+        "title": "Setelah Lepas Bank Permata, Grup Astra Beli Bank Lagi",
+        "link": "https://www.cnbcindonesia.com/market/20220704121141-17-352706/setelah-lepas-bank-permata-grup-astra-beli-bank-lagi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTIxMTQxLTE3LTM1MjcwNi9zZXRlbGFoLWxlcGFzLWJhbmstcGVybWF0YS1ncnVwLWFzdHJhLWJlbGktYmFuay1sYWdp",
+        "description": " PT Astra International Tbk (ASII), kembali menambahkan perusahaan perbankan dalam portofolio bisnisnya"
+    },
+    {
+        "title": "Berlayar! Batu Bara RI Siap Selamatkan Eropa Dari Kedinginan",
+        "link": "https://www.cnbcindonesia.com/market/20220704131516-17-352738/berlayar-batu-bara-ri-siap-selamatkan-eropa-dari-kedinginan",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTMxNTE2LTE3LTM1MjczOC9iZXJsYXlhci1iYXR1LWJhcmEtcmktc2lhcC1zZWxhbWF0a2FuLWVyb3BhLWRhcmkta2VkaW5naW5hbg==",
+        "description": " Beberapa perusahaan batu bara kabarnya sedang mengirim batu bara ke Eropa"
+    },
+    {
+        "title": "Ambrol Parah, Tipis Harapan IHSG Bisa Hijau di Sesi 2..",
+        "link": "https://www.cnbcindonesia.com/market/20220704124258-17-352725/ambrol-parah-tipis-harapan-ihsg-bisa-hijau-di-sesi-2",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTI0MjU4LTE3LTM1MjcyNS9hbWJyb2wtcGFyYWgtdGlwaXMtaGFyYXBhbi1paHNnLWJpc2EtaGlqYXUtZGktc2VzaS0y",
+        "description": " Ke mana arah IHSG di sesi 2 ?"
+    },
+    {
+        "title": "Makin Dekat Rp 15.000/US$, Rupiah Aman di Semester II?",
+        "link": "https://www.cnbcindonesia.com/market/20220704124829-17-352731/makin-dekat-rp-15000-us--rupiah-aman-di-semester-ii",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTI0ODI5LTE3LTM1MjczMS9tYWtpbi1kZWthdC1ycC0xNTAwMC11cy0tcnVwaWFoLWFtYW4tZGktc2VtZXN0ZXItaWk=",
+        "description": " Rupiah belum menunjukkan kinerja yang bagus melawan dolar Amerika Serikat (AS) memasuki semester II-2022."
+    },
+    {
+        "title": "Intip Keseruan Live Trading Bersama Mega Capital Sekuritas",
+        "link": "https://www.cnbcindonesia.com/market/20220704125148-19-352727/intip-keseruan-live-trading-bersama-mega-capital-sekuritas",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTI1MTQ4LTE5LTM1MjcyNy9pbnRpcC1rZXNlcnVhbi1saXZlLXRyYWRpbmctYmVyc2FtYS1tZWdhLWNhcGl0YWwtc2VrdXJpdGFz",
+        "description": " Yuk Intip Keseruan Live Trading Bersama Mega Capital Sekuritas"
+    },
+    {
+        "title": "Menakar Arah Laju Komoditas Semester II-2022",
         "link": "https://www.cnbcindonesia.com/market/20220704115410-17-352700/menakar-arah-laju-komoditas-semester-ii-2022",
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTE1NDEwLTE3LTM1MjcwMC9tZW5ha2FyLWFyYWgtbGFqdS1rb21vZGl0YXMtc2VtZXN0ZXItaWktMjAyMg==",
         "description": " Harga komoditas dunia menguat sepanjang semester pertama 2022 dan diperkirakan berlanjut"
     },
     {
-        "title": "Di Eropa, Rupiah Keok Dihadapan 2 Mata Uang Ini...",
-        "link": "https://www.cnbcindonesia.com/market/20220704122520-17-352710/di-eropa-rupiah-keok-dihadapan-2-mata-uang-ini",
+        "title": "Di Eropa, Rupiah Keok di Hadapan 2 Mata Uang Ini...",
+        "link": "https://www.cnbcindonesia.com/market/20220704122520-17-352710/di-eropa-rupiah-keok-di-hadapan-2-mata-uang-ini",
         "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTIyNTIwLTE3LTM1MjcxMC9kaS1lcm9wYS1ydXBpYWgta2Vvay1kaWhhZGFwYW4tMi1tYXRhLXVhbmctaW5p",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTIyNTIwLTE3LTM1MjcxMC9kaS1lcm9wYS1ydXBpYWgta2Vvay1kaS1oYWRhcGFuLTItbWF0YS11YW5nLWluaQ==",
         "description": " Kurs rupiah tak berdaya di hadapan euro dan dolar franc swiss pada perdagangan hari ini. Namun, rupiah menguat terhadap poundsterling."
     },
     {
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTIzNDQ0LTE3LTM1MjcyMi9zZWRlcmV0LWJpYW5nLWtlbGFkaS15YW5nLWJpa2luLWhhcmdhLW1pbnlhay1yaS1tYWtpbi1wYW5hcw==",
         "description": " Executive Summarry Tim Harga Minyak Mentah Indonesia membeberkan biang keladi naiknya harga ICP"
-    },
-    {
-        "title": "ARTO-GOTO-BUKA Masuk Top Losers, Giliran PICO Paling Cuan!",
-        "link": "https://www.cnbcindonesia.com/market/20220704122121-17-352708/arto-goto-buka-masuk-top-losers-giliran-pico-paling-cuan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTIyMTIxLTE3LTM1MjcwOC9hcnRvLWdvdG8tYnVrYS1tYXN1ay10b3AtbG9zZXJzLWdpbGlyYW4tcGljby1wYWxpbmctY3Vhbg==",
-        "description": " Di tengah melemahnya IHSG siang ini terdapat 5 saham yang tampil perkasa dan 5 saham yang masuk top losers."
-    },
-    {
-        "title": "Khawatir Efek Lonjakan Inflasi, IHSG Sesi I Terkoreksi 2,5%",
-        "link": "https://www.cnbcindonesia.com/market/20220704122945-19-352711/khawatir-efek-lonjakan-inflasi-ihsg-sesi-i-terkoreksi-25",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTIyOTQ1LTE5LTM1MjcxMS9raGF3YXRpci1lZmVrLWxvbmpha2FuLWluZmxhc2ktaWhzZy1zZXNpLWktdGVya29yZWtzaS0yNQ==",
-        "description": " Pasar Khawatir Efek Lonjakan Inflasi, IHSG Sesi I Terkoreksi 2,53%"
-    },
-    {
-        "title": "Simak! Ini Penjelasan 5 Analis Soal Kejatuhan IHSG Hari Ini",
-        "link": "https://www.cnbcindonesia.com/market/20220704121001-17-352712/simak-ini-penjelasan-5-analis-soal-kejatuhan-ihsg-hari-ini",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTIxMDAxLTE3LTM1MjcxMi9zaW1hay1pbmktcGVuamVsYXNhbi01LWFuYWxpcy1zb2FsLWtlamF0dWhhbi1paHNnLWhhcmktaW5p",
-        "description": " dipicu oleh inflasi tahunan pada Juni mencapai 4,4% atau lebih besar dari ekspektasi pelaku pasar."
-    },
-    {
-        "title": "Ekonomi Memburuk, IHSG Sesi I Ditutup Longsor 2,5%!",
-        "link": "https://www.cnbcindonesia.com/market/20220704113858-17-352694/ekonomi-memburuk-ihsg-sesi-i-ditutup-longsor-25",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTEzODU4LTE3LTM1MjY5NC9la29ub21pLW1lbWJ1cnVrLWloc2ctc2VzaS1pLWRpdHV0dXAtbG9uZ3Nvci0yNQ==",
-        "description": " Indeks Harga Saham Gabungan (IHSG) berakhir ambles 2,53% pada penutupan perdagangan sesi I Senin (4/7/2022)"
-    },
-    {
-        "title": "Harga Minyak Mentah RI Makin Mendidih, Jadi US$ 117,62/Barel",
-        "link": "https://www.cnbcindonesia.com/market/20220704120904-17-352705/harga-minyak-mentah-ri-makin-mendidih-jadi-us--11762-barel",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTIwOTA0LTE3LTM1MjcwNS9oYXJnYS1taW55YWstbWVudGFoLXJpLW1ha2luLW1lbmRpZGloLWphZGktdXMtLTExNzYyLWJhcmVs",
-        "description": " Kementerian ESDM menetapkan harga minyak mentah Indonesia atau Indonesian Crude Price (ICP) Juni 2022 ditetapkan naik menjadi US$ 117,62 per barel"
-    },
-    {
-        "title": "IHSG Tumbang, Kekayaan Konglomerat Ini Ikut 'ARB'",
-        "link": "https://www.cnbcindonesia.com/market/20220704112644-17-352685/ihsg-tumbang-kekayaan-konglomerat-ini-ikut-arb",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTEyNjQ0LTE3LTM1MjY4NS9paHNnLXR1bWJhbmcta2VrYXlhYW4ta29uZ2xvbWVyYXQtaW5pLWlrdXQtYXJi",
-        "description": " IHSG tumbang ke level 6.600 setelah sepekan lalu IHSG konsisten berakhir di zona merah."
     }
 ]
