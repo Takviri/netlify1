@@ -1,5 +1,40 @@
 [
     {
+        "title": "Dilelang, 8 Tol Sepi Peminat, Kok Bisa?",
+        "link": "https://www.cnbcindonesia.com/news/20220705174405-8-353187/dilelang-8-tol-sepi-peminat-kok-bisa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE3NDQwNS04LTM1MzE4Ny9kaWxlbGFuZy04LXRvbC1zZXBpLXBlbWluYXQta29rLWJpc2E=",
+        "description": " Dilelang, 8 Tol Sepi Peminat, Kok Bisa?"
+    },
+    {
+        "title": "Kian Dekat Gabung NATO, Ratifikasi Swedia dan Finlandia Dimulai",
+        "link": "https://www.cnbcindonesia.com/news/20220705170759-4-353178/kian-dekat-gabung-nato-ratifikasi-swedia-finlandia-dimulai",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE3MDc1OS00LTM1MzE3OC9raWFuLWRla2F0LWdhYnVuZy1uYXRvLXJhdGlmaWthc2ktc3dlZGlhLWZpbmxhbmRpYS1kaW11bGFp",
+        "description": " Proses untuk meratifikasi Swedia dan Finlandia sebagai anggota terbaru alinasi Pakta Pertahanan Atlantik Utara (NATO) secara resmi diluncurkan."
+    },
+    {
+        "title": "Ramai-ramai Fraksi di DPR Kritik Rasio Utang Pemerintah Naik",
+        "link": "https://www.cnbcindonesia.com/news/20220705175250-4-353188/ramai-ramai-fraksi-di-dpr-kritik-rasio-utang-pemerintah-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE3NTI1MC00LTM1MzE4OC9yYW1haS1yYW1haS1mcmFrc2ktZGktZHByLWtyaXRpay1yYXNpby11dGFuZy1wZW1lcmludGFoLW5haWs=",
+        "description": " Kritik itu mengemuka dalam rapat paripurna hari ini."
+    },
+    {
+        "title": "Beda Harga, Ini Tampang Honda ADV 160 Vs ADV 150",
+        "link": "https://www.cnbcindonesia.com/news/20220704165649-7-352830/beda-harga-ini-tampang-honda-adv-160-vs-adv-150",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDE2NTY0OS03LTM1MjgzMC9iZWRhLWhhcmdhLWluaS10YW1wYW5nLWhvbmRhLWFkdi0xNjAtdnMtYWR2LTE1MA==",
+        "description": " New Honda ADV 160 meluncur dengan sejumlah penambahan fitur dan dapur pacu yang baru dengan mengalami kenaikan antara Rp 300-400 ribuan."
+    },
+    {
+        "title": "Ternyata Ini Penampakan 'Tol Atlantis' Terbaru di Jawa",
+        "link": "https://www.cnbcindonesia.com/news/20220705084519-7-352973/ternyata-ini-penampakan-tol-atlantis-terbaru-di-jawa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA4NDUxOS03LTM1Mjk3My90ZXJueWF0YS1pbmktcGVuYW1wYWthbi10b2wtYXRsYW50aXMtdGVyYmFydS1kaS1qYXdh",
+        "description": " Pembangunan Jalan Tol yang terintegrasi tanggul laut ini permasalahan banjir rob di Semarang Timur khususnya Kaligawe - Sayung."
+    },
+    {
         "title": "Begini Penampakan Uji Emisi Kendaraan Gratis di Jakarta",
         "link": "https://www.cnbcindonesia.com/news/20220705165715-7-353168/begini-penampakan-uji-emisi-kendaraan-gratis-di-jakarta",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE3Mjk0My04LTM1MzE4MS9wZW1iYW5ndW5hbi1zZWp1bWxhaC1qYWxhbi10b2wtZGlrZWJ1dC1tZW5qZWxhbmctMjAyNA==",
         "description": " Pembangunan Sejumlah Jalan Tol Dikebut Menjelang 2024"
-    },
-    {
-        "title": "Tangkal Ancaman Resesi, Subsidi Pangan dan Energi Jadi Solusi?",
-        "link": "https://www.cnbcindonesia.com/news/20220705164217-8-353155/tangkal-ancaman-resesi-subsidi-pangan-energi-jadi-solusi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE2NDIxNy04LTM1MzE1NS90YW5na2FsLWFuY2FtYW4tcmVzZXNpLXN1YnNpZGktcGFuZ2FuLWVuZXJnaS1qYWRpLXNvbHVzaQ==",
-        "description": " Tangkal Ancaman Resesi, Subsidi Pangan dan Energi Jadi Solusi?"
-    },
-    {
-        "title": "Harga Sepeda Hancur, Sparepart Diobral Diskon Sampai 80%",
-        "link": "https://www.cnbcindonesia.com/news/20220705164237-4-353157/harga-sepeda-hancur-sparepart-diobral-diskon-sampai-80",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE2NDIzNy00LTM1MzE1Ny9oYXJnYS1zZXBlZGEtaGFuY3VyLXNwYXJlcGFydC1kaW9icmFsLWRpc2tvbi1zYW1wYWktODA=",
-        "description": " Anjloknya harga bukan hanya terjadi pada sepeda utuh atau full bike, melainkan juga pada sparepart sepeda."
-    },
-    {
-        "title": "Duh! Belum Ada Tanda Harga Sawit Petani Bisa Langsung Terbang",
-        "link": "https://www.cnbcindonesia.com/news/20220705164459-4-353164/duh-belum-ada-tanda-harga-sawit-petani-bisa-langsung-terbang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE2NDQ1OS00LTM1MzE2NC9kdWgtYmVsdW0tYWRhLXRhbmRhLWhhcmdhLXNhd2l0LXBldGFuaS1iaXNhLWxhbmdzdW5nLXRlcmJhbmc=",
-        "description": " Jual Sawit ke Malaysia, Pengusaha Pesimis Harga TBS Petani Bisa Normal Cepat"
-    },
-    {
-        "title": "Sedih! Petani Padi RI Merugi Rp250 Ribuan Setiap Musim Tanam",
-        "link": "https://www.cnbcindonesia.com/news/20220705163143-4-353152/sedih-petani-padi-ri-merugi-rp250-ribuan-setiap-musim-tanam",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE2MzE0My00LTM1MzE1Mi9zZWRpaC1wZXRhbmktcGFkaS1yaS1tZXJ1Z2ktcnAyNTAtcmlidWFuLXNldGlhcC1tdXNpbS10YW5hbQ==",
-        "description": " Nasib petani di RI, HPP gabah dan beras hanya naik 27% selama 10 tahun."
-    },
-    {
-        "title": "Pasar Khawatir Resesi, The Fed Bakal Lebih Galak atau Tidak?",
-        "link": "https://www.cnbcindonesia.com/news/20220705141157-4-353105/pasar-khawatir-resesi-the-fed-bakal-lebih-galak-atau-tidak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE0MTE1Ny00LTM1MzEwNS9wYXNhci1raGF3YXRpci1yZXNlc2ktdGhlLWZlZC1iYWthbC1sZWJpaC1nYWxhay1hdGF1LXRpZGFr",
-        "description": " Pelaku pasar global sedang dicekam kekhawatiran melihat kondisi perekonomian global yang tengah dibayangi resesi."
     }
 ]
