@@ -1,5 +1,33 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/504516/daging-kurban-dan-zakat-fitrah-untuk-mengatasi-kemiskinan-dan-stunting",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDQ1MTYvZGFnaW5nLWt1cmJhbi1kYW4temFrYXQtZml0cmFoLXVudHVrLW1lbmdhdGFzaS1rZW1pc2tpbmFuLWRhbi1zdHVudGluZw==",
+        "description": "HARI-HARI ini, ratusan ribu jemaah haji dari Indonesia kembali menyusuri tapak tilas jalan Nabi Ibrahim di kota suci Mekah. Jutaan lainnya dari seluruh sudut dunia memenuhi Masjid Haram tawaf mengelilingi&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/504533/apple-miliki-paten-baru-layar-yang-memungkinkan-mengetik-di-tengah-hujan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA0NTMzL2FwcGxlLW1pbGlraS1wYXRlbi1iYXJ1LWxheWFyLXlhbmctbWVtdW5na2lua2FuLW1lbmdldGlrLWRpLXRlbmdhaC1odWphbg==",
+        "description": "Apple baru saja memiliki paten baru untuk teknologi yang memungkinkan gawai iPhone dapat digunakan untuk mengetik di tengah hujan dengan lebih optimal. Paten tersebut dikeluarkan oleh Kantor&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/504549/melaju-ke-semifinal-wimbledon-jabeur-cetak-sejarah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQ1NDkvbWVsYWp1LWtlLXNlbWlmaW5hbC13aW1ibGVkb24tamFiZXVyLWNldGFrLXNlamFyYWg=",
+        "description": "PETENIS peringkat dua dunia Ons Jabeur mencetak sejarah sebagai petenis putri Arab pertama yang berhasil mencapai babak semifinal Wimbledon,&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/504548/michael-akui-bolden-berperan-penting-untuk-timnas-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQ1NDgvbWljaGFlbC1ha3VpLWJvbGRlbi1iZXJwZXJhbi1wZW50aW5nLXVudHVrLXRpbW5hcy1pbmRvbmVzaWE=",
+        "description": "PEBASKET Tanah Air Derrick Michael meyakini kehadiran pemain naturalisasi Marques Bolden di dalam tim berperan penting terhadap permainan Indonesia di ajang <a href=\"http://mediaindonesia.com/tag/fiba-asia-cup\"&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/504547/apjii-gelar-pelatihan-k3-dan-sertifikasi-mikrotik-untuk-penyelenggara-internet",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDU0Mi9wc2ctdHVuanVrLWdhbHRpZXItZ2FudGlrYW4tcG9jaGV0dGlubw==",
         "description": "PARIS Saint-Germain, Selasa (5/7),mengumumkan Christophe Galtier sebagai manajer baru mereka, tidak lama setelah juara&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/504541/psg-resmi-pecat-pochettino",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDU0MS9wc2ctcmVzbWktcGVjYXQtcG9jaGV0dGlubw==",
-        "description": "PARIS Saint-Germain resmi membuat Mauricio Pochettino menjadi pengangguran lagi setelah memecatnya dari jabatan manajer.&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/504539/pelatih-timnas-kamboja-u-19-sesalkan-kekalahan-dengan-malaysia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDUzOS9wZWxhdGloLXRpbW5hcy1rYW1ib2phLXUtMTktc2VzYWxrYW4ta2VrYWxhaGFuLWRlbmdhbi1tYWxheXNpYQ==",
-        "description": "Pelatih Timnas Kamboja U-19 Gyotoku Koji menyesalkan kekalahan 1-2 yang diderita timnya dari Malaysia pada pertandingan Grup B Piala AFF U-19 di Stadion Madya, Jakarta, Selasa (5/7). &quot;Pertandingan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504540/kemendagri-tegaskan-penjabat-gubernur-aceh-bukan-perwira-tni-aktif",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQ1NDAva2VtZW5kYWdyaS10ZWdhc2thbi1wZW5qYWJhdC1ndWJlcm51ci1hY2VoLWJ1a2FuLXBlcndpcmEtdG5pLWFrdGlm",
-        "description": "MENANGGAPI kabar akan dilantiknya Mayjen TNI (Purn) Achmad Marzuki menjadi Penjabat Gubernur Aceh, Kepala Pusat Penerangan Kementerian Dalam Negeri (Kapuspen Kemendagri) Benni Irwan menegaskan tidak&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504536/mahfud-md-act-harus-diproses-hukum-jika-terbukti-selewengkan-dana-kemanusiaan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQ1MzYvbWFoZnVkLW1kLWFjdC1oYXJ1cy1kaXByb3Nlcy1odWt1bS1qaWthLXRlcmJ1a3RpLXNlbGV3ZW5na2FuLWRhbmEta2VtYW51c2lhYW4=",
-        "description": "Menteri Koordinator Bidang Politik, Hukum, dan Keamanan (Menko Polhukam) Mahfud MD menilai organisasi sosial Aksi Cepat Tanggap (ACT) harus diproses hukum jika terbukti menyelewengkan dana kemanusiaan.&#8230;"
     }
 ]
