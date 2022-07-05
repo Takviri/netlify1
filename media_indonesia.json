@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/504547/apjii-gelar-pelatihan-k3-dan-sertifikasi-mikrotik-untuk-penyelenggara-internet",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDU0Ny9hcGppaS1nZWxhci1wZWxhdGloYW4tazMtZGFuLXNlcnRpZmlrYXNpLW1pa3JvdGlrLXVudHVrLXBlbnllbGVuZ2dhcmEtaW50ZXJuZXQ=",
+        "description": "ASOSIASI Penyelenggara Jasa Internet Indonesia (APJII) menyelenggarakan kegiatan Seminar K3 (Keselamatan dan Kesehatan Kerja ), Pelatihan FTTH ( Fiber to the Home ) dan Training Sertifikasi MikroTik&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/504546/samba-bergabung-dengan-lens-dari-forest",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDU0Ni9zYW1iYS1iZXJnYWJ1bmctZGVuZ2FuLWxlbnMtZGFyaS1mb3Jlc3Q=",
+        "description": "LENS mendatangkan penjaga gawang Brice Samba dengan kontrak selama lima tahun, Selasa (5/7). Samba diplot untuk menggantikan penjaga&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/504545/sempat-tertinggal-dua-set-djokovic-melaju-ke-semifinal-wimbledon",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQ1NDUvc2VtcGF0LXRlcnRpbmdnYWwtZHVhLXNldC1kam9rb3ZpYy1tZWxhanUta2Utc2VtaWZpbmFsLXdpbWJsZWRvbg==",
+        "description": "NOVAK Djokovic mengamankan peluang untuk titel Wimbledon keempatnya setelah bangkit dari ketertinggalan dua set untuk mengalahkan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/504544/sandiaga-uno-bagikan-tips-fast-ke-santri-di-tanah-datar-sumbar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0NTQ0L3NhbmRpYWdhLXVuby1iYWdpa2FuLXRpcHMtZmFzdC1rZS1zYW50cmktZGktdGFuYWgtZGF0YXItc3VtYmFy",
+        "description": "MENTERI Pariwisata dan Ekonomi Kreatif Sandiaga Uno mendatangi Pondok Pesantren Modern Nurul Ikhlas (PPMNI) di Kabupaten Tanah Datar, Sumatra Barat. Sandiaga memberikan beberapa tips ke para santri&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/504543/menang-di-etape-keempat-van-aert-perlebar-jarak-di-puncak-klasemen-tour-de-france",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQ1NDMvbWVuYW5nLWRpLWV0YXBlLWtlZW1wYXQtdmFuLWFlcnQtcGVybGViYXItamFyYWstZGktcHVuY2FrLWtsYXNlbWVuLXRvdXItZGUtZnJhbmNl",
+        "description": "WOUT van Aert memperlebar jarak sebagai pemuncak klasemen umum Tour de France saat menyelesaikan kerja sama timnya dengan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/504542/psg-tunjuk-galtier-gantikan-pochettino",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDU0Mi9wc2ctdHVuanVrLWdhbHRpZXItZ2FudGlrYW4tcG9jaGV0dGlubw==",
+        "description": "PARIS Saint-Germain, Selasa (5/7),mengumumkan Christophe Galtier sebagai manajer baru mereka, tidak lama setelah juara&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/504541/psg-resmi-pecat-pochettino",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQ1MzYvbWFoZnVkLW1kLWFjdC1oYXJ1cy1kaXByb3Nlcy1odWt1bS1qaWthLXRlcmJ1a3RpLXNlbGV3ZW5na2FuLWRhbmEta2VtYW51c2lhYW4=",
         "description": "Menteri Koordinator Bidang Politik, Hukum, dan Keamanan (Menko Polhukam) Mahfud MD menilai organisasi sosial Aksi Cepat Tanggap (ACT) harus diproses hukum jika terbukti menyelewengkan dana kemanusiaan.&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/504538/etiket-berinteraksi-di-dunia-maya-perlu-untuk-hindari-perselisihan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA0NTM4L2V0aWtldC1iZXJpbnRlcmFrc2ktZGktZHVuaWEtbWF5YS1wZXJsdS11bnR1ay1oaW5kYXJpLXBlcnNlbGlzaWhhbg==",
-        "description": "Ruang digital dihuni banyak orang yang memiliki kultur berbeda-beda. Sehingga setiap orang harus memiliki etiket berinternet agar bisa berkolaborasi data dan informasi secara aman dan nyaman untuk&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/504535/mahfud-act-harus-diproses-hukum-jika-terbukti-selewengkan-dana",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDQ1MzUvbWFoZnVkLWFjdC1oYXJ1cy1kaXByb3Nlcy1odWt1bS1qaWthLXRlcmJ1a3RpLXNlbGV3ZW5na2FuLWRhbmE=",
-        "description": "MENTERI Koordinator Bidang Politik, Hukum, dan Keamanan (Menko Polhukam) Mahfud MD menilai organisasi sosial Aksi Cepat Tanggap (ACT) harus diproses hukum jika terbukti menyelewengkan dana kemanusiaan.<br&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/504532/putin-perintahkan-pasukan-rusia-kuasai-ukraina-timur",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNDUzMi9wdXRpbi1wZXJpbnRhaGthbi1wYXN1a2FuLXJ1c2lhLWt1YXNhaS11a3JhaW5hLXRpbXVy",
-        "description": "USAI mendeklarasikan penguasaan wilayah Luhansk, Presiden Rusia Vladimir Putin menyampaikan kepada seluruh pasukannya untuk merebut Donetsk. Putin berjanji akan membalas jasa para serdadunya yang berperang&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504531/jk-resmikan-masjid-islamic-center-nurul-yaqin-di-kota-palu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0NTMxL2prLXJlc21pa2FuLW1hc2ppZC1pc2xhbWljLWNlbnRlci1udXJ1bC15YXFpbi1kaS1rb3RhLXBhbHU=",
-        "description": " KETUA Umum Dewan Masjid Indonesia (DMI) Jusuf Kalla atau JK meresmikan Masjid Islamic Center Nurul Yaqin, yang berada di Jalan Mamboro, Kecamatan Palu Utara, Kota Palu, Sulawesi Tengah, Selasa&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/504530/tyrell-malacia-jadi-rekrutan-pertama-mu-di-era-erik-ten-hag",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDUzMC90eXJlbGwtbWFsYWNpYS1qYWRpLXJla3J1dGFuLXBlcnRhbWEtbXUtZGktZXJhLWVyaWstdGVuLWhhZw==",
-        "description": "MANCHESTER United resmi merekrut bek kiri Belanda Tyrell Malacia dari Feyenoord hingga Juni 2026 dengan opsi perpanjangan kontrak satu tahun. Malacia menjadi pemain pertama yang direkrut era pelatih&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/504529/polisi-selidiki-penemuan-mayat-pria-di-gang-kecil-jakbar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDQ1MjkvcG9saXNpLXNlbGlkaWtpLXBlbmVtdWFuLW1heWF0LXByaWEtZGktZ2FuZy1rZWNpbC1qYWtiYXI=",
-        "description": "SEORANG pria berinisial SM, 49, ditemukan tergeletak tak bernyawa di sebuah gang kecil di Jalan Krendang, Tambora, Jakarta Barat, Selasa (5/7). Kanit Reserse Kriminal Umum Polres Metro Jakarta&#8230;"
     }
 ]
