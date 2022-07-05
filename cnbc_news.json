@@ -1,5 +1,47 @@
 [
     {
+        "title": "Potret Penembakan Maut Hari Kemerdekaan AS, Ada Wajah Pelaku",
+        "link": "https://www.cnbcindonesia.com/news/20220705063921-7-352923/potret-penembakan-maut-hari-kemerdekaan-as-ada-wajah-pelaku",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA2MzkyMS03LTM1MjkyMy9wb3RyZXQtcGVuZW1iYWthbi1tYXV0LWhhcmkta2VtZXJkZWthYW4tYXMtYWRhLXdhamFoLXBlbGFrdQ==",
+        "description": " Seorang pria bersenjata senapan berkekuatan tinggi menembak mati sedikitnya enam orang saat parade Hari Kemerdekaan AS, di\u00c2\u00a0Highland Park, Chicago, Illinois."
+    },
+    {
+        "title": "Booming Sepeda Turun, Harga Sepeda Anjlok Sisa Segini",
+        "link": "https://www.cnbcindonesia.com/news/20220705012337-4-352898/booming-sepeda-turun-harga-sepeda-anjlok-sisa-segini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTAxMjMzNy00LTM1Mjg5OC9ib29taW5nLXNlcGVkYS10dXJ1bi1oYXJnYS1zZXBlZGEtYW5qbG9rLXNpc2Etc2VnaW5p",
+        "description": " Harga sepeda terpantau turun, bahkan terdiskon hingga setengahnya."
+    },
+    {
+        "title": "PPKM Diperpanjang 1 Bulan, Jabodetabek Masuk Level 2 (Lagi)",
+        "link": "https://www.cnbcindonesia.com/news/20220705064911-4-352934/ppkm-diperpanjang-1-bulan-jabodetabek-masuk-level-2--lagi-",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA2NDkxMS00LTM1MjkzNC9wcGttLWRpcGVycGFuamFuZy0xLWJ1bGFuLWphYm9kZXRhYmVrLW1hc3VrLWxldmVsLTItLWxhZ2kt",
+        "description": " Wilayah Jabodetabek kembali berstatus PPKM level 2"
+    },
+    {
+        "title": "Penampakan Kapal Kargo Patah dan Tenggelam di Laut Cina Selatan",
+        "link": "https://www.cnbcindonesia.com/news/20220705010626-7-352893/penampakan-kapal-kargo-patah-tenggelam-di-laut-cina-selatan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTAxMDYyNi03LTM1Mjg5My9wZW5hbXBha2FuLWthcGFsLWthcmdvLXBhdGFoLXRlbmdnZWxhbS1kaS1sYXV0LWNpbmEtc2VsYXRhbg==",
+        "description": " Kapal kargo tenggelam di Laut China Selatan (LCS). Sedikitnya 12 jasad korban ditemukan dan 14 orang lainnya masih hilang."
+    },
+    {
+        "title": "Heboh Aksi Nekat Petani Sawit RI 'Adu Pantat' di Malaysia",
+        "link": "https://www.cnbcindonesia.com/news/20220705011408-4-352897/heboh-aksi-nekat-petani-sawit-ri-adu-pantat-di-malaysia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTAxMTQwOC00LTM1Mjg5Ny9oZWJvaC1ha3NpLW5la2F0LXBldGFuaS1zYXdpdC1yaS1hZHUtcGFudGF0LWRpLW1hbGF5c2lh",
+        "description": " 'Adu pantat' truk di perbatasan Indonesia-Malaysia jadi aksi berbahaya yang dilakukan petani sawit di Kalimantan dalam beberapa waktu terakhir."
+    },
+    {
+        "title": "Ukraina Bantah Titip Pesan ke Putin Via Jokowi, Ini Katanya",
+        "link": "https://www.cnbcindonesia.com/news/20220705063416-4-352920/ukraina-bantah-titip-pesan-ke-putin-via-jokowi-ini-katanya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA2MzQxNi00LTM1MjkyMC91a3JhaW5hLWJhbnRhaC10aXRpcC1wZXNhbi1rZS1wdXRpbi12aWEtam9rb3dpLWluaS1rYXRhbnlh",
+        "description": " Kedatangan Presiden RI ke Ukraina pekan lalu membawa cerita tersendiri. Ukraina membantah ada pesan yang dititip Zelensky ke Putin via Jokowi."
+    },
+    {
         "title": "AS Ngeri! Penembakan Maut di Parade Hari Kemerdekaan, 6 Tewas",
         "link": "https://www.cnbcindonesia.com/news/20220705061552-4-352916/as-ngeri-penembakan-maut-di-parade-hari-kemerdekaan-6-tewas",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDE4NTkyNS04LTM1Mjg3My9ob3QtbmV3cy1wdXRpbi1kaWRlc2FrLXBha2FpLW51a2xpci1oaW5nZ2EtaWhzZy1hbWJsZXM=",
         "description": " Presiden Belarusia Alexander Lukashenko dilaporkan mendesak Presiden Rusia Vladimir Putin untuk mengakhiri tekanan dari barat dengan serangan nuklir."
-    },
-    {
-        "title": "Parlemen Rusia Usulkan Label 'Negara Teroris' untuk AS",
-        "link": "https://www.cnbcindonesia.com/news/20220704194858-4-352882/parlemen-rusia-usulkan-label-negara-teroris-untuk-as",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDE5NDg1OC00LTM1Mjg4Mi9wYXJsZW1lbi1ydXNpYS11c3Vsa2FuLWxhYmVsLW5lZ2FyYS10ZXJvcmlzLXVudHVrLWFz",
-        "description": " Seorang anggota parlemen Rusia mengusulkan label \"negara teroris\" untuk Amerika Serikat (AS)."
-    },
-    {
-        "title": "Uji Coba BPJS Kesehatan Tanpa Kelas, Tarif Masih Sama?",
-        "link": "https://www.cnbcindonesia.com/news/20220704185827-8-352872/uji-coba-bpjs-kesehatan-tanpa-kelas-tarif-masih-sama",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDE4NTgyNy04LTM1Mjg3Mi91amktY29iYS1icGpzLWtlc2VoYXRhbi10YW5wYS1rZWxhcy10YXJpZi1tYXNpaC1zYW1h",
-        "description": " Komisi IX DPR RI memanggil BPJS Kesehatan, Menteri Kesehatan hingga Dewan Jaminan Sosial terkait uji coba Kelas Rawat Inap Standar (KRIS) BPJS Kesehatan."
-    },
-    {
-        "title": "Pendaftar BBM Subsidi Tembus 50 Ribu Kendaraan dalam 4 Hari!",
-        "link": "https://www.cnbcindonesia.com/news/20220704204910-4-352890/pendaftar-bbm-subsidi-tembus-50-ribu-kendaraan-dalam-4-hari",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDIwNDkxMC00LTM1Mjg5MC9wZW5kYWZ0YXItYmJtLXN1YnNpZGktdGVtYnVzLTUwLXJpYnUta2VuZGFyYWFuLWRhbGFtLTQtaGFyaQ==",
-        "description": " Konsumen yang sudah mendaftar di MyPertamina mencapai 50 ribu."
-    },
-    {
-        "title": "Bos BPJS Kesehatan: Rawat Inap Standar Tak Diperlukan Lagi",
-        "link": "https://www.cnbcindonesia.com/news/20220704203931-4-352889/bos-bpjs-kesehatan-rawat-inap-standar-tak-diperlukan-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDIwMzkzMS00LTM1Mjg4OS9ib3MtYnBqcy1rZXNlaGF0YW4tcmF3YXQtaW5hcC1zdGFuZGFyLXRhay1kaXBlcmx1a2FuLWxhZ2k=",
-        "description": " Direktur Utama BPJS Kesehatan Ali Ghufron Mukti buka suara terkait rencana penerapan rawat inap standar pada program Jaminan Kesehatan Nasional (KRIS JKN)."
-    },
-    {
-        "title": "Inflasi Turki Meroket, Nyaris Tembus 79% (yoy)",
-        "link": "https://www.cnbcindonesia.com/news/20220704185727-8-352871/inflasi-turki-meroket-nyaris-tembus-79--yoy-",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDE4NTcyNy04LTM1Mjg3MS9pbmZsYXNpLXR1cmtpLW1lcm9rZXQtbnlhcmlzLXRlbWJ1cy03OS0teW95LQ==",
-        "description": " \u00c2\u00a0Inflasi di Turki di Juni 2022 meroket nyaris menyentuh 79%. Laju inflasi ini menjadi yang tertinggi negara itu dalam seperempat abad."
-    },
-    {
-        "title": "MyPertamina Bisa 'Tiru' PeduliLindungi? Ini Kata Erick Thohir",
-        "link": "https://www.cnbcindonesia.com/news/20220704202806-4-352888/mypertamina-bisa-tiru-pedulilindungi-ini-kata-erick-thohir",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDIwMjgwNi00LTM1Mjg4OC9teXBlcnRhbWluYS1iaXNhLXRpcnUtcGVkdWxpbGluZHVuZ2ktaW5pLWthdGEtZXJpY2stdGhvaGly",
-        "description": " Aplikasi MyPertamina akan terus dikembangkan."
     }
 ]
