@@ -1,5 +1,40 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/504265/lewat-single-semoga-atmojo-sindir-mantan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNDI2NS9sZXdhdC1zaW5nbGUtc2Vtb2dhLWF0bW9qby1zaW5kaXItbWFudGFu",
+        "description": "KAKUNG Triadmojo, yang kembali muncul dengan nama belakangnya yang disederhanakan, Atmojo, merilis karya baru berupa single berjudul&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/504259/indosat-ooredoo-hutchison-raih-penghargaan-asia-pacific-stevie-awards-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDI1OS9pbmRvc2F0LW9vcmVkb28taHV0Y2hpc29uLXJhaWgtcGVuZ2hhcmdhYW4tYXNpYS1wYWNpZmljLXN0ZXZpZS1hd2FyZHMtMjAyMg==",
+        "description": "INDOSAT Ooredoo Hutchison (IOH) meraih emas untuk kategori Excellence in Innovation in Technology Industries dan perunggu untuk kategori&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/504272/waktu-makan-tepat-agar-berat-badan-tidak-meroket",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNDI3Mi93YWt0dS1tYWthbi10ZXBhdC1hZ2FyLWJlcmF0LWJhZGFuLXRpZGFrLW1lcm9rZXQ=",
+        "description": "Banyak orang dengan seksama memikirkan daftar menu makanan sehat untuk mendukung program diet. Tapi, mereka lupa mengatur waktu makan. Padahal, waktu makan yang teratur memainkan peran penting dalam&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504212/anak-disabilitas-dua-kali-lipat-lebih-rentan-alami-kekerasan-seksual",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MjEyL2FuYWstZGlzYWJpbGl0YXMtZHVhLWthbGktbGlwYXQtbGViaWgtcmVudGFuLWFsYW1pLWtla2VyYXNhbi1zZWtzdWFs",
+        "description": "DATA Sistem Informasi Online Perlindungan Perempuan dan Anak (SIMFONI PPA) menunjukkan, telah terjadi 987 kasus kekerasan terhadap anak penyandang disabilitas yang dialami oleh 264 anak laki-laki dan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504270/dpr-apresiasi-gerakan-bisa-dan-wisata-edukasi-kampung-kang-bejo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MjcwL2Rwci1hcHJlc2lhc2ktZ2VyYWthbi1iaXNhLWRhbi13aXNhdGEtZWR1a2FzaS1rYW1wdW5nLWthbmctYmVqbw==",
+        "description": "WAKIL&nbsp;Ketua Komisi X DPR RI Hetifah Sjaifudian memberikan apresiasi gerakan BISA (Gerakan Bersih Indah Sehat dan Aman) dan wisata edukasi Kampung Kang Bejo di Kelurahan Sumber Rejo, Balikpapan,&#8230;"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/504269/polisi-tangkap-tersangka-penembakan-saat-parade-hari-kemerdekaan-as",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDI2Ni9iYWtuLWRwci1yaS1hcHJlc2lhc2ktbWVuaW5na2F0bnlhLWtlc2VqYWh0ZXJhbi1wZXRhbmk=",
         "description": "WAKIL Ketua Komisi XI DPR RI Amir Uskara mengapresiasi kinerja Kementerian Pertanian (Kementan) dalam meningkatkan kesejahteraan petani. Hal tersebut menurut Uskara, dapat dilihat dari naiknya nilai&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/504257/leeds-segera-daratkan-adams-dari-leipzig",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDI1Ny9sZWVkcy1zZWdlcmEtZGFyYXRrYW4tYWRhbXMtZGFyaS1sZWlwemln",
-        "description": "LEEDS United di ambang mengontrak gelandang timnas Amerika Serikat (AS) Tyler Adams, yang bermain di RB Leipzig, dengan biaya&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/504256/unesco-tetapkan-borshch-sebagai-warisan-budaya-ukraina",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNDI1Ni91bmVzY28tdGV0YXBrYW4tYm9yc2hjaC1zZWJhZ2FpLXdhcmlzYW4tYnVkYXlhLXVrcmFpbmE=",
-        "description": "UKRAINA meraih kemenangan soal budaya di tengah perselisihan dengan Rusia setelah Organisasi Pendidikan Keilmuan dan Kebudayaan PBB&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504264/densus-88-usut-dugaan-dana-umat-di-act-mengalir-ke-teroris",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQyNjQvZGVuc3VzLTg4LXVzdXQtZHVnYWFuLWRhbmEtdW1hdC1kaS1hY3QtbWVuZ2FsaXIta2UtdGVyb3Jpcw==",
-        "description": "DETASEMEN Khusus (Densus) 88 Antiteror Polri telah menerima informasi dugaan dana umat di yayasan Aksi Cepat Tanggap (ACT)&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/504263/ppkm-jawa-bali-diperpanjang-jabodetabek-naik-jadi-level-2",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MjYzL3Bwa20tamF3YS1iYWxpLWRpcGVycGFuamFuZy1qYWJvZGV0YWJlay1uYWlrLWphZGktbGV2ZWwtMg==",
-        "description": "PEMERINTAH memperpanjang pemberlakuan pembatasan kegiatan masyarakat (PPKM) di luar Pulau Jawa dan Bali mulai 5 Juli hingga 1 Agustus&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/504210/percepat-penanganan-pmk-kemendikbud-ristek-mobilisasi-kampus-hingga-ke-daerah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MjEwL3BlcmNlcGF0LXBlbmFuZ2FuYW4tcG1rLWtlbWVuZGlrYnVkLXJpc3Rlay1tb2JpbGlzYXNpLWthbXB1cy1oaW5nZ2Eta2UtZGFlcmFo",
-        "description": "KEMENTERIAN Pendidikan, Kebudayaan, Riset dan Teknologi (Kemendikbud-Ristek) tengah memobilisasi perguruan tinggi di Tanah Air untuk mempercepat penanganan penyakit mulut dan kuku (PMK). &quot;Saat&#8230;"
     }
 ]

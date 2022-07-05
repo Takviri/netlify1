@@ -1,5 +1,12 @@
 [
     {
+        "title": "ACT Akui Laporan Majalah Tempo Ada Benarnya, Tapi...",
+        "link": "https://nasional.tempo.co/read/1608762/act-akui-laporan-majalah-tempo-ada-benarnya-tapi",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDg3NjIvYWN0LWFrdWktbGFwb3Jhbi1tYWphbGFoLXRlbXBvLWFkYS1iZW5hcm55YS10YXBp",
+        "description": "ACT mengakui sebagian isi laporan Majalah Tempo pekan ini benar, namun membantah sebagian lainnya."
+    },
+    {
         "title": "KPK Akan Berikan Pendampingan ke Lili Pintauli Siregar dalam Sidang Etik",
         "link": "https://nasional.tempo.co/read/1608752/kpk-akan-berikan-pendampingan-ke-lili-pintauli-siregar-dalam-sidang-etik",
         "image": "static/images/tempo_nasional.png",
@@ -61,12 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDg3MDUvc29hbC1rZXB1dHVzYW4ta29hbGlzaS1kZW1va3JhdC1pbmdpbi1zZXJhcC1hc3BpcmFzaS1rYWRlci1kYW4tcmVzcG9ucy1wdWJsaWs=",
         "description": "Demokrat sudah memiliki skema koalisi untuk Pemilu 2024. Ada agenda pertemuan terbuka lanjutan, namun jadwal masih dirahasiakan."
-    },
-    {
-        "title": "Bareskrim Kumpulkan Data Usut Dugaan Penyelewengan Dana Umat oleh ACT",
-        "link": "https://nasional.tempo.co/read/1608704/bareskrim-kumpulkan-data-usut-dugaan-penyelewengan-dana-umat-oleh-act",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDg3MDQvYmFyZXNrcmltLWt1bXB1bGthbi1kYXRhLXVzdXQtZHVnYWFuLXBlbnllbGV3ZW5nYW4tZGFuYS11bWF0LW9sZWgtYWN0",
-        "description": "Bareskrim Polri membuka penyelidikan soal dugaan penyelewengan dana umat oleh organisasi sosial Aksi Cepat Tanggap (ACT)"
     }
 ]
