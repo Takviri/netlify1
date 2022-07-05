@@ -1,5 +1,47 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/504257/leeds-segera-daratkan-adams-dari-leipzig",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDI1Ny9sZWVkcy1zZWdlcmEtZGFyYXRrYW4tYWRhbXMtZGFyaS1sZWlwemln",
+        "description": "LEEDS United di ambang mengontrak gelandang timnas Amerika Serikat (AS) Tyler Adams, yang bermain di RB Leipzig, dengan biaya&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/504256/unesco-tetapkan-borshch-sebagai-warisan-budaya-ukraina",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNDI1Ni91bmVzY28tdGV0YXBrYW4tYm9yc2hjaC1zZWJhZ2FpLXdhcmlzYW4tYnVkYXlhLXVrcmFpbmE=",
+        "description": "UKRAINA meraih kemenangan soal budaya di tengah perselisihan dengan Rusia setelah Organisasi Pendidikan Keilmuan dan Kebudayaan PBB&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504264/densus-88-usut-dugaan-dana-umat-di-act-mengalir-ke-teroris",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQyNjQvZGVuc3VzLTg4LXVzdXQtZHVnYWFuLWRhbmEtdW1hdC1kaS1hY3QtbWVuZ2FsaXIta2UtdGVyb3Jpcw==",
+        "description": "DETASEMEN Khusus (Densus) 88 Antiteror Polri telah menerima informasi dugaan dana umat di yayasan Aksi Cepat Tanggap (ACT)&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504263/ppkm-jawa-bali-diperpanjang-jabodetabek-naik-jadi-level-2",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MjYzL3Bwa20tamF3YS1iYWxpLWRpcGVycGFuamFuZy1qYWJvZGV0YWJlay1uYWlrLWphZGktbGV2ZWwtMg==",
+        "description": "PEMERINTAH memperpanjang pemberlakuan pembatasan kegiatan masyarakat (PPKM) di luar Pulau Jawa dan Bali mulai 5 Juli hingga 1 Agustus&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504210/percepat-penanganan-pmk-kemendikbud-ristek-mobilisasi-kampus-hingga-ke-daerah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MjEwL3BlcmNlcGF0LXBlbmFuZ2FuYW4tcG1rLWtlbWVuZGlrYnVkLXJpc3Rlay1tb2JpbGlzYXNpLWthbXB1cy1oaW5nZ2Eta2UtZGFlcmFo",
+        "description": "KEMENTERIAN Pendidikan, Kebudayaan, Riset dan Teknologi (Kemendikbud-Ristek) tengah memobilisasi perguruan tinggi di Tanah Air untuk mempercepat penanganan penyakit mulut dan kuku (PMK). &quot;Saat&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504262/hari-keluarga-nasional-bkkbn-beri-nib-untuk-keluarga-akseptor-kb",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MjYyL2hhcmkta2VsdWFyZ2EtbmFzaW9uYWwtYmtrYm4tYmVyaS1uaWItdW50dWsta2VsdWFyZ2EtYWtzZXB0b3Ita2I=",
+        "description": "BADAN Kependudukan dan Keluarga Berencana Nasional (BKKBN) terus membantu meningkatkan usaha rumah tangga dan pendapatan ekonomi keluarga akseptor KB (<a href=\"http://mediaindonesia.com/tag/keluarga-berencana\"&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/504261/sandiaga-sebut-harga-tiket-masuk-pulau-komodo-rp37-juta-masih-dibahas",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MjMyL21lbnVqdS1tdXNldW0tZ2VvbG9naS15YW5nLXJhbWFoLWRpc2FiaWxpdGFz",
         "description": "SUDAH sejatinya akses infomrasi dan pengetahuan di ruang publik menjadi hak semua orang. Hal itu berlaku pula di Museum Geologi sebagai salah satu ruang publik yang menyimpan informasi penting terkait&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/504255/penyanyi-bob-tutupoly-tutup-usia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNDI1NS9wZW55YW55aS1ib2ItdHV0dXBvbHktdHV0dXAtdXNpYQ==",
-        "description": "KABAR duka menyelimuti dunia musik Tanah Air. Penyanyi legendaris Indonesia, Bob Tutupoly meninggal dunia. Berita meninggalnya&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/504254/shin-tegaskan-indonesia-masih-perlu-berbenah-usai-menang-telak-atas-brunei",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDI1NC9zaGluLXRlZ2Fza2FuLWluZG9uZXNpYS1tYXNpaC1wZXJsdS1iZXJiZW5haC11c2FpLW1lbmFuZy10ZWxhay1hdGFzLWJydW5laQ==",
-        "description": "PELATIH timnas U-19 Indonesia Shin Tae-yong mengatakan skuatnya masih perlu berbenah meski mereka menundukkan Brunei Darussalam dengan skor telak 7-0 pada laga Grup A <a href=\"http://mediaindonesia.com/tag/piala-aff-u-19\"&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504214/kemendagri-minta-pemda-buat-kebijakan-berbasis-riset",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQyMTQva2VtZW5kYWdyaS1taW50YS1wZW1kYS1idWF0LWtlYmlqYWthbi1iZXJiYXNpcy1yaXNldA==",
-        "description": "KEMENTERIAN Dalam Negeri (Kemendagri) meminta agar pemerintah daerah (Pemda) membuat kebijakan berbasis riset. Sebab, dengan berorientasi kepada kebutuhan masyarakat, riset bisa menjadikan pelayanan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/504233/pakar-gizi-daun-kelor-miliki-banyak-manfaat-untuk-kesehatan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MjMzL3Bha2FyLWdpemktZGF1bi1rZWxvci1taWxpa2ktYmFueWFrLW1hbmZhYXQtdW50dWsta2VzZWhhdGFu",
-        "description": "Ketua Umum Perhimpunan Pakar Gizi (PERGIZI) dan Pangan Indonesia Prof. Hardinsyah mengatakan daun kelor memiliki manfaat yang sangat baik untuk kesehatan, salah satunya adalah membantu mengontrol tekanan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/504253/chevron-merestorasi-mangrove-di-riau-dan-muara-angke-jakarta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MjUzL2NoZXZyb24tbWVyZXN0b3Jhc2ktbWFuZ3JvdmUtZGktcmlhdS1kYW4tbXVhcmEtYW5na2UtamFrYXJ0YQ==",
-        "description": "CHEVRON merupakan salah satu anggota pendiri AVPN Healthcare Pooled Fund, yang bertujuan untuk memperkuat layanan kesehatan primer di daerah pedesaan dan perkotaan yang sulit dijangkau di Asia Tenggara.&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/504235/disney-dan-howard-university-dukung-pendongeng-berkulit-hitam",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNDIzNS9kaXNuZXktZGFuLWhvd2FyZC11bml2ZXJzaXR5LWR1a3VuZy1wZW5kb25nZW5nLWJlcmt1bGl0LWhpdGFt",
-        "description": "Disney dan Howard University meluncurkan program multi-tahun untuk mendukung para pendongeng berkulit hitam. Mengutip laporan dari Hollywood Reporter, Senin, Disney diketahui telah bermitra degan Howard&#8230;"
     }
 ]
