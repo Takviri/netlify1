@@ -1,5 +1,19 @@
 [
     {
+        "title": "Rupiah Dibuka Melemah Dekati Level Psikologis Rp 15.000 Per USD",
+        "link": "https://www.jawapos.com/ekonomi/05/07/2022/rupiah-dibuka-melemah-dekati-level-psikologis-rp-15-000-per-usd/?page=all",
+        "image": "static/images/jawapos_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS8wNS8wNy8yMDIyL3J1cGlhaC1kaWJ1a2EtbWVsZW1haC1kZWthdGktbGV2ZWwtcHNpa29sb2dpcy1ycC0xNS0wMDAtcGVyLXVzZC8=",
+        "description": "Pelemahan rupiah masih terpengaruh sentimen inflasi Indonesia. Nilai inflasi yang diumumkan pekan lalu lebih tinggi dari perkiraan."
+    },
+    {
+        "title": "Bank DKI Ajak Pedagang Manfaatkan KUR dan Layanan Digital",
+        "link": "https://www.jawapos.com/ekonomi/finance/05/07/2022/bank-dki-ajak-pedagang-manfaatkan-kur-dan-layanan-digital/?page=all",
+        "image": "static/images/jawapos_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS9maW5hbmNlLzA1LzA3LzIwMjIvYmFuay1ka2ktYWphay1wZWRhZ2FuZy1tYW5mYWF0a2FuLWt1ci1kYW4tbGF5YW5hbi1kaWdpdGFsLw==",
+        "description": "Aktivitas sehari-hari saat ini semakin mudah karena semua sudah serba digital, termasuk layanan perbankan."
+    },
+    {
         "title": "Erick Thohir: Rasio Utang BUMN Turun dari 39 Persen jadi 35 Persen",
         "link": "https://www.jawapos.com/ekonomi/bisnis/05/07/2022/erick-thohir-rasio-utang-bumn-turun-dari-39-persen-jadi-35-persen/?page=all",
         "image": "static/images/jawapos_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/jawapos_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS8wNC8wNy8yMDIyL3N1cnZlaS1zZWJ1dC1iZWxhbmphLW1hc2tlci1tZWRpcy1wYWxpbmctbGFyaXMtc2FhdC1wYW5kZW1pLWNvdmlkLTE5Lw==",
         "description": "Dari hasil survei, konsumsi belanja pada era pandemi lebih didominasi pembelian masker medis oleh konsumen dengan tren pembelian bergeser dari offline ke online"
-    },
-    {
-        "title": "Peluang Usaha: Mengais Rezeki dari Cuci Sepatu",
-        "link": "https://www.jawapos.com/ekonomi/bisnis/03/07/2022/peluang-usaha-mengais-rezeki-dari-cuci-sepatu/?page=all",
-        "image": "static/images/jawapos_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS9iaXNuaXMvMDMvMDcvMjAyMi9wZWx1YW5nLXVzYWhhLW1lbmdhaXMtcmV6ZWtpLWRhcmktY3VjaS1zZXBhdHUv",
-        "description": "Kembalinya kegiatan di luar rumah membuat beberapa ide bisnis kembali muncul. Jasa cuci sepatu, salah satunya. Laundry alas kaki banyak dicari lagi."
-    },
-    {
-        "title": "Isi Saldo MyPertamina Hanya Gunakan LinkAja",
-        "link": "https://www.jawapos.com/ekonomi/energi/03/07/2022/isi-saldo-mypertamina-hanya-gunakan-linkaja/?page=all",
-        "image": "static/images/jawapos_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS9lbmVyZ2kvMDMvMDcvMjAyMi9pc2ktc2FsZG8tbXlwZXJ0YW1pbmEtaGFueWEtZ3VuYWthbi1saW5rYWphLw==",
-        "description": "Implementasi program pembelian melalui aplikasi MyPertamina tak semulus yang diharapkan. Pada hari pertama pendaftaran (1/7), terjadi error pada server."
     }
 ]
