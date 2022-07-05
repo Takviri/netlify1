@@ -1,5 +1,40 @@
 [
     {
+        "title": "Pasar Khawatir Resesi, The Fed Bakal Lebih Galak atau Tidak?",
+        "link": "https://www.cnbcindonesia.com/news/20220705141157-4-353105/pasar-khawatir-resesi-the-fed-bakal-lebih-galak-atau-tidak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE0MTE1Ny00LTM1MzEwNS9wYXNhci1raGF3YXRpci1yZXNlc2ktdGhlLWZlZC1iYWthbC1sZWJpaC1nYWxhay1hdGF1LXRpZGFr",
+        "description": " Pelaku pasar global sedang dicekam kekhawatiran melihat kondisi perekonomian global yang tengah dibayangi resesi."
+    },
+    {
+        "title": "Saat Jokowi Dikeluhkan Pedagang Soal Harga Cabai 'Menggila'",
+        "link": "https://www.cnbcindonesia.com/news/20220705160145-4-353138/saat-jokowi-dikeluhkan-pedagang-soal-harga-cabai-menggila",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE2MDE0NS00LTM1MzEzOC9zYWF0LWpva293aS1kaWtlbHVoa2FuLXBlZGFnYW5nLXNvYWwtaGFyZ2EtY2FiYWktbWVuZ2dpbGE=",
+        "description": " Jokowi menyebut harga bahan pokok saat ini sudah kembali normal"
+    },
+    {
+        "title": "Kasus Covid-19 di RI 'Meledak', Tambah 2.577 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220705164337-4-353158/kasus-covid-19-di-ri-meledak-tambah-2577-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE2NDMzNy00LTM1MzE1OC9rYXN1cy1jb3ZpZC0xOS1kaS1yaS1tZWxlZGFrLXRhbWJhaC0yNTc3LWhhcmktaW5p",
+        "description": " Simak data terbaru Covid-19 di Indonesia."
+    },
+    {
+        "title": "Status Darurat! Kekeringan Parah Landa Italia",
+        "link": "https://www.cnbcindonesia.com/news/20220705125520-8-353080/status-darurat-kekeringan-parah-landa-italia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEyNTUyMC04LTM1MzA4MC9zdGF0dXMtZGFydXJhdC1rZWtlcmluZ2FuLXBhcmFoLWxhbmRhLWl0YWxpYQ==",
+        "description": " Pemerintah Italia mengumumkan keadaan darurat kekeringan daerah sekitar Sungai Po, menyusul debit air yang terus menyusut akibat kekeringan."
+    },
+    {
+        "title": "Dulu Sarang Ular, Kini Lokasi Ini Jadi Pusat Mobil Listrik RI",
+        "link": "https://www.cnbcindonesia.com/news/20220705154418-7-353140/dulu-sarang-ular-kini-lokasi-ini-jadi-pusat-mobil-listrik-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE1NDQxOC03LTM1MzE0MC9kdWx1LXNhcmFuZy11bGFyLWtpbmktbG9rYXNpLWluaS1qYWRpLXB1c2F0LW1vYmlsLWxpc3RyaWstcmk=",
+        "description": " xEV Center didirikan di lokasi pabrik PT Toyota Motor Manufacturing Indonesia (TMMIN) Karawang 3 Jabar, luas area saat ini 600 m2."
+    },
+    {
         "title": "Potret Pilu Kota Sloviansk Usai Diserang Roket Rusia",
         "link": "https://www.cnbcindonesia.com/news/20220705012828-7-352899/potret-pilu-kota-sloviansk-usai-diserang-roket-rusia",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEzMjg1MC00LTM1MzA4Ni9oYW50dS1pbmZsYXNpLWdlbnRheWFuZ2FuLWRpLXRoYWlsYW5kLWNhdGF0LXJla29yLTE0LXRhaHVu",
         "description": " Inflasi Thailand pada Juni melampaui perkiraan, mencapai level tertinggi hampir 14 tahun."
-    },
-    {
-        "title": "6 Hari Melemah, IHSG Kembali ke Zona Hijau",
-        "link": "https://www.cnbcindonesia.com/news/20220705152426-8-353131/6-hari-melemah-ihsg-kembali-ke-zona-hijau",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE1MjQyNi04LTM1MzEzMS82LWhhcmktbWVsZW1haC1paHNnLWtlbWJhbGkta2Utem9uYS1oaWphdQ==",
-        "description": " 6 Hari Melemah, IHSG Kembali ke Zona Hijau"
-    },
-    {
-        "title": "Covid Minggir, Babi Bikin China Pening Lagi",
-        "link": "https://www.cnbcindonesia.com/news/20220705135330-4-353092/covid-minggir-babi-bikin-china-pening-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEzNTMzMC00LTM1MzA5Mi9jb3ZpZC1taW5nZ2lyLWJhYmktYmlraW4tY2hpbmEtcGVuaW5nLWxhZ2k=",
-        "description": " China memang lolos dari kenaikan inflasi. Tapi babi bisa menjadi masalah baru di negara itu."
-    },
-    {
-        "title": "Jatuh Banget! Sepeda Lipat Lagi Pada Diskon Nih",
-        "link": "https://www.cnbcindonesia.com/news/20220705144358-4-353124/jatuh-banget-sepeda-lipat-lagi-pada-diskon-nih",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE0NDM1OC00LTM1MzEyNC9qYXR1aC1iYW5nZXQtc2VwZWRhLWxpcGF0LWxhZ2ktcGFkYS1kaXNrb24tbmlo",
-        "description": " Demam sepeda lipat Brompton di masyarakat sudah jauh menurun jika dibandingkan tahun lalu."
-    },
-    {
-        "title": "Kemensos Ancam Cabut Izin ACT, Ini Sebabnya",
-        "link": "https://www.cnbcindonesia.com/news/20220705125521-8-353081/kemensos-ancam-cabut-izin-act-ini-sebabnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEyNTUyMS04LTM1MzA4MS9rZW1lbnNvcy1hbmNhbS1jYWJ1dC1pemluLWFjdC1pbmktc2ViYWJueWE=",
-        "description": " Kementerian Sosial mengatakan bisa membekukan atau mencabut izin lembaga ACT apabila terbukti melakukan tindakan penyimpangan."
-    },
-    {
-        "title": "Bandara London Chaos dan 100 Ribu Penumpang Terlantar, Kenapa?",
-        "link": "https://www.cnbcindonesia.com/news/20220705143417-4-353112/bandara-london-chaos-100-ribu-penumpang-terlantar-kenapa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE0MzQxNy00LTM1MzExMi9iYW5kYXJhLWxvbmRvbi1jaGFvcy0xMDAtcmlidS1wZW51bXBhbmctdGVybGFudGFyLWtlbmFwYQ==",
-        "description": " Kekurangan staf penerbangan masih terjadi di Inggris. Ini berdampak ke penumpang di dua bandara London, Heathrow dan Gatwick."
     }
 ]
