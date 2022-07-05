@@ -1,5 +1,19 @@
 [
     {
+        "title": "Bank Dunia Kucurkan Pinjaman Rp5,25 T untuk Indonesia",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220705195815-532-817680/bank-dunia-kucurkan-pinjaman-rp525-t-untuk-indonesia",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTk1ODE1LTUzMi04MTc2ODAvYmFuay1kdW5pYS1rdWN1cmthbi1waW5qYW1hbi1ycDUyNS10LXVudHVrLWluZG9uZXNpYQ==",
+        "description": " Bank Dunia mengucurkan pinjaman senilai US$350 juta setara Rp5,25 triliun kepada Indonesia untuk pembangunan modal manusia."
+    },
+    {
+        "title": "Pemerintah Akan Sebar MinyaKita Rp14 Ribu per Liter ke Indonesia Timur",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220705152502-92-817532/pemerintah-akan-sebar-minyakita-rp14-ribu-per-liter-ke-indonesia-timur",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTUyNTAyLTkyLTgxNzUzMi9wZW1lcmludGFoLWFrYW4tc2ViYXItbWlueWFraXRhLXJwMTQtcmlidS1wZXItbGl0ZXIta2UtaW5kb25lc2lhLXRpbXVy",
+        "description": " Kemendag akan mendistribusikan minyak goreng curah kemasan sederhana bertajuk MinyaKita ke Indonesia Timur demi pemerataan harga."
+    },
+    {
         "title": "Mengenal Ancaman Resesi Global yang Diperingatkan Bank Dunia",
         "link": "https://www.cnnindonesia.com/ekonomi/20220705163318-532-817577/mengenal-ancaman-resesi-global-yang-diperingatkan-bank-dunia",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTMwNzI3LTUzMi04MTc0MzUvNTYtanV0YS1wbnMtZGFuLXBlbnNpdW5hbi1zdWRhaC10ZXJpbWEtZ2FqaS1rZS0xMw==",
         "description": " Kementerian Keuangan telah mencairkan gaji ke-13 kepada 5.653.570 PNS dan pensiunan. Total anggaran yang sudah digelontorkan Rp20,9 triliun."
-    },
-    {
-        "title": "Nasabah Kresna Life Gugat OJK Atas Tuduhan Tak Jalankan Tugas Maksimal",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220705130459-78-817434/nasabah-kresna-life-gugat-ojk-atas-tuduhan-tak-jalankan-tugas-maksimal",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTMwNDU5LTc4LTgxNzQzNC9uYXNhYmFoLWtyZXNuYS1saWZlLWd1Z2F0LW9qay1hdGFzLXR1ZHVoYW4tdGFrLWphbGFua2FuLXR1Z2FzLW1ha3NpbWFs",
-        "description": " Nasabah asuransi Kresna Life menggugat OJK terkait gagal bayar yang dilakukan perusahaan asuransi tersebut. Berikut alasannya"
-    },
-    {
-        "title": "PMK Mewabah di Bali, Pemprov Gandeng Polda Bentuk Satgas",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220705132811-92-817454/pmk-mewabah-di-bali-pemprov-gandeng-polda-bentuk-satgas",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTMyODExLTkyLTgxNzQ1NC9wbWstbWV3YWJhaC1kaS1iYWxpLXBlbXByb3YtZ2FuZGVuZy1wb2xkYS1iZW50dWstc2F0Z2Fz",
-        "description": " Pemerintah Provinsi Bali menggandeng Polda Bali membentuk satuan tugas (satgas) untuk mengantisipasi penyebaran\u00c2\u00a0PMK hewan ternak."
     }
 ]
