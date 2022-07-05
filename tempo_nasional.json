@@ -1,5 +1,12 @@
 [
     {
+        "title": "Ini Temuan Majalah Tempo dan Tanggapan ACT Soal Isu Penyelewengan Dana Donasi Hingga Konflik di Internal",
+        "link": "https://nasional.tempo.co/read/1608805/ini-temuan-majalah-tempo-dan-tanggapan-act-soal-isu-penyelewengan-dana-donasi-hingga-konflik-di-internal",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDg4MDUvaW5pLXRlbXVhbi1tYWphbGFoLXRlbXBvLWRhbi10YW5nZ2FwYW4tYWN0LXNvYWwtaXN1LXBlbnllbGV3ZW5nYW4tZGFuYS1kb25hc2ktaGluZ2dhLWtvbmZsaWstZGktaW50ZXJuYWw=",
+        "description": "ACT menanggapi sejumlah masalah yang diungkap dalam laporan Majalah Tempo."
+    },
+    {
         "title": "Presiden Jokowi Minta Polri Kawal Pembangunan IKN, Pemilu 2024, Hingga G20",
         "link": "https://nasional.tempo.co/read/1608791/presiden-jokowi-minta-polri-kawal-pembangunan-ikn-pemilu-2024-hingga-g20",
         "image": "static/images/tempo_nasional.png",
@@ -14,6 +21,13 @@
         "description": "Presiden Jokowi mengingatkan bahwa masih ada masyarakat yang belum puas dengan kinerja Polri."
     },
     {
+        "title": "Kemendagri Minta Daerah Segera Bentuk BRIDA",
+        "link": "https://nasional.tempo.co/read/1608807/kemendagri-minta-daerah-segera-bentuk-brida",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDg4MDcva2VtZW5kYWdyaS1taW50YS1kYWVyYWgtc2VnZXJhLWJlbnR1ay1icmlkYQ==",
+        "description": "Baru beberapa daerah yang sudah membentuk BRIDA. Pembentukan BRIDA sejalan dengan tujuan otonomi daerah."
+    },
+    {
         "title": "PPKM Jawa Bali Diperpanjang, Jabodetabek Naik ke Level 2",
         "link": "https://nasional.tempo.co/read/1608778/ppkm-jawa-bali-diperpanjang-jabodetabek-naik-ke-level-2",
         "image": "static/images/tempo_nasional.png",
@@ -21,10 +35,10 @@
         "description": "Pemerintah memperpanjang PPKM Jawa Bali dengan menaikkan level wilayah Jabodetabek ke level 2."
     },
     {
-        "title": "ACT Akui Laporan Majalah Tempo Ada Benarnya, Tapi...",
-        "link": "https://nasional.tempo.co/read/1608762/act-akui-laporan-majalah-tempo-ada-benarnya-tapi",
+        "title": "Dugaan penyelewengan dana sumbangan, Ini Pengakuan Petinggi ACT",
+        "link": "https://nasional.tempo.co/read/1608762/dugaan-penyelewengan-dana-sumbangan-ini-pengakuan-petinggi-act",
         "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDg3NjIvYWN0LWFrdWktbGFwb3Jhbi1tYWphbGFoLXRlbXBvLWFkYS1iZW5hcm55YS10YXBp",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDg3NjIvZHVnYWFuLXBlbnllbGV3ZW5nYW4tZGFuYS1zdW1iYW5nYW4taW5pLXBlbmdha3Vhbi1wZXRpbmdnaS1hY3Q=",
         "description": "ACT mengakui sebagian isi laporan Majalah Tempo pekan ini benar, namun membantah sebagian lainnya."
     },
     {
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDg2NDMvcGtiLXRldGFwLWt1a3VoLXVzdW5nLW11aGFpbWluLWRhbXBpbmdpLXByYWJvd28tZGktcGlscHJlcy0yMDI0",
         "description": "Pernyataan Jazilul tersebut menjawab spekulasi bahwa Prabowo Subianto lebih baik didampingi Khofifah Indar Parawansa sebagai wakil presiden."
-    },
-    {
-        "title": "Airlangga Instruksikan Pengurus Golkar Jalin Kerja Sama KIB hingga Akar Rumput",
-        "link": "https://nasional.tempo.co/read/1608710/airlangga-instruksikan-pengurus-golkar-jalin-kerja-sama-kib-hingga-akar-rumput",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDg3MTAvYWlybGFuZ2dhLWluc3RydWtzaWthbi1wZW5ndXJ1cy1nb2xrYXItamFsaW4ta2VyamEtc2FtYS1raWItaGluZ2dhLWFrYXItcnVtcHV0",
-        "description": "Airlangga menginstruksikan pengurus partainya untuk menjalin kerja sama politik Koalisi Indonesia Bersatu (KIB) dengan PPP dan PAN hingga akar rumput"
-    },
-    {
-        "title": "Wamenkes Sebut Kasus Covid-19 Landai, tapi Tetap Harus Pakai Masker",
-        "link": "https://nasional.tempo.co/read/1608708/wamenkes-sebut-kasus-covid-19-landai-tapi-tetap-harus-pakai-masker",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDg3MDgvd2FtZW5rZXMtc2VidXQta2FzdXMtY292aWQtMTktbGFuZGFpLXRhcGktdGV0YXAtaGFydXMtcGFrYWktbWFza2Vy",
-        "description": "Kasus COVID-19 di Indonesia tercatat masih mengalami penambahan dengan jumlah 1.434 kasus baru terkonfirmasi pada Senin, 4 Juli 2022."
     }
 ]
