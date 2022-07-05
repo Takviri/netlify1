@@ -1,5 +1,26 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/504261/sandiaga-sebut-harga-tiket-masuk-pulau-komodo-rp37-juta-masih-dibahas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MjYxL3NhbmRpYWdhLXNlYnV0LWhhcmdhLXRpa2V0LW1hc3VrLXB1bGF1LWtvbW9kby1ycDM3LWp1dGEtbWFzaWgtZGliYWhhcw==",
+        "description": "MENTERI Pariwisata dan Ekonomi Kreatif (Menparekraf) Sandiaga Salahuddin Uno menjelaskan wacana tiket terusan seharga Rp3.750.000 bagi wisatawan yang ingin berkunjung ke <a href=\"http://mediaindonesia.com/tag/tn-komodo\"&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/504260/pertamina-pendaftar-bbm-subsidi-sudah-mencapai-50-ribu-kendaraan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDI2MC9wZXJ0YW1pbmEtcGVuZGFmdGFyLWJibS1zdWJzaWRpLXN1ZGFoLW1lbmNhcGFpLTUwLXJpYnUta2VuZGFyYWFu",
+        "description": "EMPAT hari sejak pendaftaran dibuka bagi konsumen yang ingin mendaftarkan kendaraannya sebagai pengguna BBM Subsidi (Biosolar&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504234/perlindungan-hak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MjM0L3BlcmxpbmR1bmdhbi1oYWs=",
+        "description": "SEJAK 1974, International Council of Museum (ICOM) telah mendefinisikan museum sebagai salah satu fasilitas publik yang memiliki tujuan melayani masyarakat dan perkembangannya, terbuka untuk umum,&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/504232/menuju-museum-geologi-yang-ramah-disabilitas",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNDIzNS9kaXNuZXktZGFuLWhvd2FyZC11bml2ZXJzaXR5LWR1a3VuZy1wZW5kb25nZW5nLWJlcmt1bGl0LWhpdGFt",
         "description": "Disney dan Howard University meluncurkan program multi-tahun untuk mendukung para pendongeng berkulit hitam. Mengutip laporan dari Hollywood Reporter, Senin, Disney diketahui telah bermitra degan Howard&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/504252/presiden-act-bantah-paksa-ahyudin-tanda-tangani-surat-pengunduran-diri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MjUyL3ByZXNpZGVuLWFjdC1iYW50YWgtcGFrc2EtYWh5dWRpbi10YW5kYS10YW5nYW5pLXN1cmF0LXBlbmd1bmR1cmFuLWRpcmk=",
-        "description": "PRESIDEN Aksi Cepat Tanggap (ACT) Ibnu Khajar menampik kabar bahwa presiden sebelumnya, Ahyudin, dipaksa menandatangani surat pengunduran&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/504249/fiorentina-datangkan-mandragora-dari-juventus",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDI0OS9maW9yZW50aW5hLWRhdGFuZ2thbi1tYW5kcmFnb3JhLWRhcmktanV2ZW50dXM=",
-        "description": "FIORENTINA mendatangkan Rolando Mandragora dari Juventus. Hal itu diumumkan kedua klub Serie A itu, Senin (4/7). &quot;Fiorentina&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/504251/atasi-cedera-kyrgios-melaju-ke-perempat-final-wimbledon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQyNTEvYXRhc2ktY2VkZXJhLWt5cmdpb3MtbWVsYWp1LWtlLXBlcmVtcGF0LWZpbmFsLXdpbWJsZWRvbg==",
-        "description": "NICK Kyrgios sukses mengatasi cedera bahu untuk mengalahkan Brandon Nakashima dalam pertarungan lima set untuk melaju ke perempat final Wimbledon,&#8230;"
     }
 ]

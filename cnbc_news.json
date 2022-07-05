@@ -1,5 +1,19 @@
 [
     {
+        "title": "Harap Tenang, Varian BA.4 dan BA.5 Ternyata Tak Seseram Itu...",
+        "link": "https://www.cnbcindonesia.com/news/20220705070818-4-352938/harap-tenang-varian-ba4-ba5-ternyata-tak-seseram-itu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA3MDgxOC00LTM1MjkzOC9oYXJhcC10ZW5hbmctdmFyaWFuLWJhNC1iYTUtdGVybnlhdGEtdGFrLXNlc2VyYW0taXR1",
+        "description": " Masa puncak kasus BA.4 dan BA.5 diperkirakan lebih cepat dibandingkan varian sebelumnya"
+    },
+    {
+        "title": "Eropa Makin Ngeri? Italia Umumkan Status Darurat di Sini",
+        "link": "https://www.cnbcindonesia.com/news/20220705071207-4-352940/eropa-makin-ngeri-italia-umumkan-status-darurat-di-sini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA3MTIwNy00LTM1Mjk0MC9lcm9wYS1tYWtpbi1uZ2VyaS1pdGFsaWEtdW11bWthbi1zdGF0dXMtZGFydXJhdC1kaS1zaW5p",
+        "description": " Pemerintah Italia mengumumkan keadaan darurat, Senin (4/7/2022)."
+    },
+    {
         "title": "Ini Nih yang Jadi Biang Kerok PPKM Jabodetabek Naik Level 2",
         "link": "https://www.cnbcindonesia.com/news/20220705065259-4-352935/ini-nih-yang-jadi-biang-kerok-ppkm-jabodetabek-naik-level-2",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTAxMTQwOC00LTM1Mjg5Ny9oZWJvaC1ha3NpLW5la2F0LXBldGFuaS1zYXdpdC1yaS1hZHUtcGFudGF0LWRpLW1hbGF5c2lh",
         "description": " 'Adu pantat' truk di perbatasan Indonesia-Malaysia jadi aksi berbahaya yang dilakukan petani sawit di Kalimantan dalam beberapa waktu terakhir."
-    },
-    {
-        "title": "Ukraina Bantah Titip Pesan ke Putin Via Jokowi, Ini Katanya",
-        "link": "https://www.cnbcindonesia.com/news/20220705063416-4-352920/ukraina-bantah-titip-pesan-ke-putin-via-jokowi-ini-katanya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA2MzQxNi00LTM1MjkyMC91a3JhaW5hLWJhbnRhaC10aXRpcC1wZXNhbi1rZS1wdXRpbi12aWEtam9rb3dpLWluaS1rYXRhbnlh",
-        "description": " Kedatangan Presiden RI ke Ukraina pekan lalu membawa cerita tersendiri. Ukraina membantah ada pesan yang dititip Zelensky ke Putin via Jokowi."
-    },
-    {
-        "title": "AS Ngeri! Penembakan Maut di Parade Hari Kemerdekaan, 6 Tewas",
-        "link": "https://www.cnbcindonesia.com/news/20220705061552-4-352916/as-ngeri-penembakan-maut-di-parade-hari-kemerdekaan-6-tewas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA2MTU1Mi00LTM1MjkxNi9hcy1uZ2VyaS1wZW5lbWJha2FuLW1hdXQtZGktcGFyYWRlLWhhcmkta2VtZXJkZWthYW4tNi10ZXdhcw==",
-        "description": " Penembakan maut di Amerika Serikat (AS) terjadi lagi. Kali ini di Hari Kemerdekaan."
     }
 ]
