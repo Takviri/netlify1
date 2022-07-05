@@ -1,5 +1,19 @@
 [
     {
+        "title": "Viral Warga Depok Digeruduk Emak-Emak Gegara Singgung Rizieq Shihab",
+        "link": "https://www.cnnindonesia.com/nasional/20220705193136-20-817663/viral-warga-depok-digeruduk-emak-emak-gegara-singgung-rizieq-shihab",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNTE5MzEzNi0yMC04MTc2NjMvdmlyYWwtd2FyZ2EtZGVwb2stZGlnZXJ1ZHVrLWVtYWstZW1hay1nZWdhcmEtc2luZ2d1bmctcml6aWVxLXNoaWhhYg==",
+        "description": " Sebuah video yang memperlihatkan aksi emak-emak menggeruduk rumah warga di daerah Bojongsari, Depok, Jawa Barat beredar di media sosial."
+    },
+    {
+        "title": "Satu Warga Terluka Diseruduk Kerbau Saat Upacara Rambu Solok",
+        "link": "https://www.cnnindonesia.com/nasional/20220705191928-20-817658/satu-warga-terluka-diseruduk-kerbau-saat-upacara-rambu-solok",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNTE5MTkyOC0yMC04MTc2NTgvc2F0dS13YXJnYS10ZXJsdWthLWRpc2VydWR1ay1rZXJiYXUtc2FhdC11cGFjYXJhLXJhbWJ1LXNvbG9r",
+        "description": " Seorang terluka akibat amukan seekor kerbau di upacara Rambu Solok di Kecamatan Bastem, Kabupaten Luwu, Sulawesi Selatan."
+    },
+    {
         "title": "Fadli Zon Kritik Syarat Vaksin Booster Jokowi: Kenapa Persulit Rakyat?",
         "link": "https://www.cnnindonesia.com/nasional/20220705125711-32-817432/fadli-zon-kritik-syarat-vaksin-booster-jokowi-kenapa-persulit-rakyat",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNTE4MzkwOC0yMC04MTc2NDEvc3VsdGFuLWhiLXgtbWludGEtcGVsYWt1LWtlcnVzdWhhbi1iYWJhcnNhcmktZGl0aW5kYWstdGVnYXM=",
         "description": " Gubernur DIY mengklaim bersama Kapolda sekitar 4 tahun lalu pernah mendatangi wilayah Babarsari yang kerap terjadi konflik untuk berdialog."
-    },
-    {
-        "title": "Komisi VIII DPR Soroti Dugaan Penyelewengan ACT, Minta Diusut Tuntas",
-        "link": "https://www.cnnindonesia.com/nasional/20220705123914-32-817426/komisi-viii-dpr-soroti-dugaan-penyelewengan-act-minta-diusut-tuntas",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNTEyMzkxNC0zMi04MTc0MjYva29taXNpLXZpaWktZHByLXNvcm90aS1kdWdhYW4tcGVueWVsZXdlbmdhbi1hY3QtbWludGEtZGl1c3V0LXR1bnRhcw==",
-        "description": " Ketua Komisi VIII DPR meminta dugaan penyelewengan dana sumbangan masyarakat yang dilakukan lembaga Aksi Cepat Tanggap (ACT) diusut secara tuntas."
-    },
-    {
-        "title": "Sidang Kasus Investasi Bodong Quotex Doni Salmanan Ditangani 17 Jaksa",
-        "link": "https://www.cnnindonesia.com/nasional/20220705172126-12-817604/sidang-kasus-investasi-bodong-quotex-doni-salmanan-ditangani-17-jaksa",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNTE3MjEyNi0xMi04MTc2MDQvc2lkYW5nLWthc3VzLWludmVzdGFzaS1ib2RvbmctcXVvdGV4LWRvbmktc2FsbWFuYW4tZGl0YW5nYW5pLTE3LWpha3Nh",
-        "description": " Sebanyak 17 orang jaksa akan menangani persidangan dengan tersangka Doni Salmanan dalam kasus\u00c2\u00a0dugaan penipuan investasi opsi biner aplikasi Quotex."
     }
 ]

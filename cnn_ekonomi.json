@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sri Lanka Diperkirakan Bangkrut Sampai 2023",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220705181748-532-817634/sri-lanka-diperkirakan-bangkrut-sampai-2023",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTgxNzQ4LTUzMi04MTc2MzQvc3JpLWxhbmthLWRpcGVya2lyYWthbi1iYW5na3J1dC1zYW1wYWktMjAyMw==",
+        "description": " PM Sri Lanka Ranil Wickremesinghe mengakui negaranya bangkrut dan kondisi ini akan bertahan hingga 2023."
+    },
+    {
+        "title": "PAM Jaya Gandeng BPKP untuk Perkuat Tata Kelola Perusahaan",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220705193217-97-817666/pam-jaya-gandeng-bpkp-untuk-perkuat-tata-kelola-perusahaan",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTkzMjE3LTk3LTgxNzY2Ni9wYW0tamF5YS1nYW5kZW5nLWJwa3AtdW50dWstcGVya3VhdC10YXRhLWtlbG9sYS1wZXJ1c2FoYWFu",
+        "description": " PAM Jaya menggandeng BPKP DKI dalam pengembangan dan penguatan tata kelola perusahaan,\u00c2\u00a0karena di masa transisi pelayanan langsung diperlukan pendampingan."
+    },
+    {
+        "title": "Peternak Malaysia 'Marah-marah', Singapura Bakal Impor Ayam dari RI",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220705184210-92-817647/peternak-malaysia-marah-marah-singapura-bakal-impor-ayam-dari-ri",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTg0MjEwLTkyLTgxNzY0Ny9wZXRlcm5hay1tYWxheXNpYS1tYXJhaC1tYXJhaC1zaW5nYXB1cmEtYmFrYWwtaW1wb3ItYXlhbS1kYXJpLXJp",
+        "description": " Peternak ayam mendesak pemerintah Malaysia mencabut larangan ekspor karena khawatir\u00c2\u00a0kehilangan pasar di Singapura."
+    },
+    {
         "title": "Izin Dicabut, 31 Perusahaan Tambang Gugat Kementerian ESDM",
         "link": "https://www.cnnindonesia.com/ekonomi/20220705155025-85-817553/izin-dicabut-31-perusahaan-tambang-gugat-kementerian-esdm",
         "image": "static/images/cnn_ekonomi.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTYwOTE5LTc4LTgxNzU2NS9wcGF0ay1pbWJhdS13YXJnYS1iaWphay1iZXJkb25hc2ktaW1iYXMtcGVueWVsZXdlbmdhbi1hY3Q=",
         "description": " PPATK mengimbau warga lebih bijak dalam berdonasi usai dugaan penyelewengan dana oleh lembaga ACT."
-    },
-    {
-        "title": "Pemerintah Tak Ganti Rugi Semua Sapi Korban PMK ke Peternak",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220705151812-92-817521/pemerintah-tak-ganti-rugi-semua-sapi-korban-pmk-ke-peternak",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTUxODEyLTkyLTgxNzUyMS9wZW1lcmludGFoLXRhay1nYW50aS1ydWdpLXNlbXVhLXNhcGkta29yYmFuLXBtay1rZS1wZXRlcm5haw==",
-        "description": " Pemerintah tak akan mengganti rugi semua sapi yang terkena PMK. Mereka menetapkan beberapa syarat agar sapi terkena PMK dapat ganti rugi. Ini rinciannya."
-    },
-    {
-        "title": "FOTO: Melawat Industri Pemintal Benang di Ciledug",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220705142449-94-817479/foto-melawat-industri-pemintal-benang-di-ciledug",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTQyNDQ5LTk0LTgxNzQ3OS9mb3RvLW1lbGF3YXQtaW5kdXN0cmktcGVtaW50YWwtYmVuYW5nLWRpLWNpbGVkdWc=",
-        "description": " Industri pemintal benang di Ciledug masih menggunakan alat tradisional dalam proses pengerjaannya."
-    },
-    {
-        "title": "Jokowi Bagi-bagi Bansos dan Cek Harga Pangan di Pasar Peterongan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220705155850-92-817557/jokowi-bagi-bagi-bansos-dan-cek-harga-pangan-di-pasar-peterongan",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTU1ODUwLTkyLTgxNzU1Ny9qb2tvd2ktYmFnaS1iYWdpLWJhbnNvcy1kYW4tY2VrLWhhcmdhLXBhbmdhbi1kaS1wYXNhci1wZXRlcm9uZ2Fu",
-        "description": " Presiden Jokowi membagikan bantuan sosial (bansos) dan meninjau harga pangan di pasar Peterongan, Semarang."
     }
 ]
