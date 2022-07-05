@@ -1,5 +1,47 @@
 [
     {
+        "title": "PLN Tingkatkan Electrifying Lifestyle di NTT",
+        "link": "https://www.cnbcindonesia.com/news/20220705085435-4-352981/pln-tingkatkan-electrifying-lifestyle-di-ntt",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA4NTQzNS00LTM1Mjk4MS9wbG4tdGluZ2thdGthbi1lbGVjdHJpZnlpbmctbGlmZXN0eWxlLWRpLW50dA==",
+        "description": " Selain kendaraan listrik, PLN juga mendorong penggunaan kompor induksi. Hingga Juni 2022, ada 769 pelanggan PLN yang beralih menggunakan kompor induksi di NTT."
+    },
+    {
+        "title": "Orang Terkaya Dunia Tiba-tiba Kecam Joe Biden, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220705074445-4-352946/orang-terkaya-dunia-tiba-tiba-kecam-joe-biden-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA3NDQ0NS00LTM1Mjk0Ni9vcmFuZy10ZXJrYXlhLWR1bmlhLXRpYmEtdGliYS1rZWNhbS1qb2UtYmlkZW4tYWRhLWFwYQ==",
+        "description": " Pendiri Amazon yang juga salah satu miliarder terkaya asal Amerika Serikat (AS), Jeff Bezos mengecam Presiden Joe Biden"
+    },
+    {
+        "title": "Warga Jakarta Simak! Ini Aturan Terbaru WFO dan WFH Terbaru",
+        "link": "https://www.cnbcindonesia.com/news/20220705080650-4-352954/warga-jakarta-simak-ini-aturan-terbaru-wfo-wfh-terbaru",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA4MDY1MC00LTM1Mjk1NC93YXJnYS1qYWthcnRhLXNpbWFrLWluaS1hdHVyYW4tdGVyYmFydS13Zm8td2ZoLXRlcmJhcnU=",
+        "description": " DKI Jakarta dan wilayah Bodetabek kini kembali menerapkan PPKM level 2 selama satu bulan ke depan"
+    },
+    {
+        "title": "Jokowi Tunjuk Tito Karnavian Jadi MenPANRB Ad Interim",
+        "link": "https://www.cnbcindonesia.com/news/20220705081903-4-352971/jokowi-tunjuk-tito-karnavian-jadi-menpanrb-ad-interim",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA4MTkwMy00LTM1Mjk3MS9qb2tvd2ktdHVuanVrLXRpdG8ta2FybmF2aWFuLWphZGktbWVucGFucmItYWQtaW50ZXJpbQ==",
+        "description": " Menteri Dalam Negeri Tito Karnavian akan menjadi MenPANRB Ad Interim hingga 15 Juli 2022 mendatang"
+    },
+    {
+        "title": "Cek Besaran Iuran BPJS Kesehatan per Juli 2022, Jadi Segini?",
+        "link": "https://www.cnbcindonesia.com/news/20220705075752-4-352953/cek-besaran-iuran-bpjs-kesehatan-per-juli-2022-jadi-segini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA3NTc1Mi00LTM1Mjk1My9jZWstYmVzYXJhbi1pdXJhbi1icGpzLWtlc2VoYXRhbi1wZXItanVsaS0yMDIyLWphZGktc2VnaW5p",
+        "description": " BPJS Kesehatan memastikan belum ada perubahan iuran peserta."
+    },
+    {
+        "title": "Lowongan CPNS 2022 Segera Dibuka, Segera Lengkapi Syaratnya",
+        "link": "https://www.cnbcindonesia.com/news/20220705073842-4-352943/lowongan-cpns-2022-segera-dibuka-segera-lengkapi-syaratnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA3Mzg0Mi00LTM1Mjk0My9sb3dvbmdhbi1jcG5zLTIwMjItc2VnZXJhLWRpYnVrYS1zZWdlcmEtbGVuZ2thcGktc3lhcmF0bnlh",
+        "description": " Pemerintah akan kembali membuka lowongan CPNS dan PPPK untuk tahun anggaran 2022"
+    },
+    {
         "title": "Jokowi Prediksi Puncak Kasus Covid-19 di RI, Siap-siap Ya",
         "link": "https://www.cnbcindonesia.com/news/20220705072252-4-352942/jokowi-prediksi-puncak-kasus-covid-19-di-ri-siap-siap-ya",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA3MTIwNy00LTM1Mjk0MC9lcm9wYS1tYWtpbi1uZ2VyaS1pdGFsaWEtdW11bWthbi1zdGF0dXMtZGFydXJhdC1kaS1zaW5p",
         "description": " Pemerintah Italia mengumumkan keadaan darurat, Senin (4/7/2022)."
-    },
-    {
-        "title": "Ini Nih yang Jadi Biang Kerok PPKM Jabodetabek Naik Level 2",
-        "link": "https://www.cnbcindonesia.com/news/20220705065259-4-352935/ini-nih-yang-jadi-biang-kerok-ppkm-jabodetabek-naik-level-2",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA2NTI1OS00LTM1MjkzNS9pbmktbmloLXlhbmctamFkaS1iaWFuZy1rZXJvay1wcGttLWphYm9kZXRhYmVrLW5haWstbGV2ZWwtMg==",
-        "description": " Sebaran kasus BA.4 dan BA.5 menjadi salah satu penyebab sejumlah wilayah di Jawa Bali kembali naik statusnya menjadi PPKM level 2"
-    },
-    {
-        "title": "Jangan Kaget! Inflasi di Negara Ini Tembus 200%",
-        "link": "https://www.cnbcindonesia.com/news/20220705070907-4-352939/jangan-kaget-inflasi-di-negara-ini-tembus-200",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA3MDkwNy00LTM1MjkzOS9qYW5nYW4ta2FnZXQtaW5mbGFzaS1kaS1uZWdhcmEtaW5pLXRlbWJ1cy0yMDA=",
-        "description": " Inflasi menjadi masalah baru bagi perekonomian dunia."
-    },
-    {
-        "title": "Wabah Makin Liar, 2.000 Ekor Lebih Ternak Mati Terinfeksi PMK",
-        "link": "https://www.cnbcindonesia.com/news/20220705012853-4-352900/wabah-makin-liar-2000-ekor-lebih-ternak-mati-terinfeksi-pmk",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTAxMjg1My00LTM1MjkwMC93YWJhaC1tYWtpbi1saWFyLTIwMDAtZWtvci1sZWJpaC10ZXJuYWstbWF0aS10ZXJpbmZla3NpLXBtaw==",
-        "description": " Jumlah ternak yang mati karena PMK terus bertambah."
-    },
-    {
-        "title": "Potret Penembakan Maut Hari Kemerdekaan AS, Ada Wajah Pelaku",
-        "link": "https://www.cnbcindonesia.com/news/20220705063921-7-352923/potret-penembakan-maut-hari-kemerdekaan-as-ada-wajah-pelaku",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA2MzkyMS03LTM1MjkyMy9wb3RyZXQtcGVuZW1iYWthbi1tYXV0LWhhcmkta2VtZXJkZWthYW4tYXMtYWRhLXdhamFoLXBlbGFrdQ==",
-        "description": " Seorang pria bersenjata senapan berkekuatan tinggi menembak mati sedikitnya enam orang saat parade Hari Kemerdekaan AS, di\u00c2\u00a0Highland Park, Chicago, Illinois."
-    },
-    {
-        "title": "Booming Sepeda Turun, Harga Sepeda Anjlok Sisa Segini",
-        "link": "https://www.cnbcindonesia.com/news/20220705012337-4-352898/booming-sepeda-turun-harga-sepeda-anjlok-sisa-segini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTAxMjMzNy00LTM1Mjg5OC9ib29taW5nLXNlcGVkYS10dXJ1bi1oYXJnYS1zZXBlZGEtYW5qbG9rLXNpc2Etc2VnaW5p",
-        "description": " Harga sepeda terpantau turun, bahkan terdiskon hingga setengahnya."
-    },
-    {
-        "title": "PPKM Diperpanjang 1 Bulan, Jabodetabek Masuk Level 2 (Lagi)",
-        "link": "https://www.cnbcindonesia.com/news/20220705064911-4-352934/ppkm-diperpanjang-1-bulan-jabodetabek-masuk-level-2--lagi-",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA2NDkxMS00LTM1MjkzNC9wcGttLWRpcGVycGFuamFuZy0xLWJ1bGFuLWphYm9kZXRhYmVrLW1hc3VrLWxldmVsLTItLWxhZ2kt",
-        "description": " Wilayah Jabodetabek kembali berstatus PPKM level 2"
     }
 ]
