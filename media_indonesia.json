@@ -1,6 +1,34 @@
 [
     {
         "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504232/menuju-museum-geologi-yang-ramah-disabilitas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MjMyL21lbnVqdS1tdXNldW0tZ2VvbG9naS15YW5nLXJhbWFoLWRpc2FiaWxpdGFz",
+        "description": "SUDAH sejatinya akses infomrasi dan pengetahuan di ruang publik menjadi hak semua orang. Hal itu berlaku pula di Museum Geologi sebagai salah satu ruang publik yang menyimpan informasi penting terkait&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/504255/penyanyi-bob-tutupoly-tutup-usia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNDI1NS9wZW55YW55aS1ib2ItdHV0dXBvbHktdHV0dXAtdXNpYQ==",
+        "description": "KABAR duka menyelimuti dunia musik Tanah Air. Penyanyi legendaris Indonesia, Bob Tutupoly meninggal dunia. Berita meninggalnya&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/504254/shin-tegaskan-indonesia-masih-perlu-berbenah-usai-menang-telak-atas-brunei",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDI1NC9zaGluLXRlZ2Fza2FuLWluZG9uZXNpYS1tYXNpaC1wZXJsdS1iZXJiZW5haC11c2FpLW1lbmFuZy10ZWxhay1hdGFzLWJydW5laQ==",
+        "description": "PELATIH timnas U-19 Indonesia Shin Tae-yong mengatakan skuatnya masih perlu berbenah meski mereka menundukkan Brunei Darussalam dengan skor telak 7-0 pada laga Grup A <a href=\"http://mediaindonesia.com/tag/piala-aff-u-19\"&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504214/kemendagri-minta-pemda-buat-kebijakan-berbasis-riset",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQyMTQva2VtZW5kYWdyaS1taW50YS1wZW1kYS1idWF0LWtlYmlqYWthbi1iZXJiYXNpcy1yaXNldA==",
+        "description": "KEMENTERIAN Dalam Negeri (Kemendagri) meminta agar pemerintah daerah (Pemda) membuat kebijakan berbasis riset. Sebab, dengan berorientasi kepada kebutuhan masyarakat, riset bisa menjadikan pelayanan&#8230;"
+    },
+    {
+        "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/504233/pakar-gizi-daun-kelor-miliki-banyak-manfaat-untuk-kesehatan",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MjMzL3Bha2FyLWdpemktZGF1bi1rZWxvci1taWxpa2ktYmFueWFrLW1hbmZhYXQtdW50dWsta2VzZWhhdGFu",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQyNTEvYXRhc2ktY2VkZXJhLWt5cmdpb3MtbWVsYWp1LWtlLXBlcmVtcGF0LWZpbmFsLXdpbWJsZWRvbg==",
         "description": "NICK Kyrgios sukses mengatasi cedera bahu untuk mengalahkan Brandon Nakashima dalam pertarungan lima set untuk melaju ke perempat final Wimbledon,&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/504250/ganjar-buka-pekan-special-olympics-nasional-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQyNTAvZ2FuamFyLWJ1a2EtcGVrYW4tc3BlY2lhbC1vbHltcGljcy1uYXNpb25hbC0yMDIy",
-        "description": "KEHADIRAN Gubernur Jawa Tengah Ganjar Pranowo dalam pembukaan Pekan Special Olympics Nasional (PeSOnas) 2022 di Holy Stadium, Kota Semarang, Senin (4/7/2022) malam, mampu membakar semangat para atlet&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504231/cuaca-buruk-ratusan-nelayan-di-aceh-barat-tidak-melaut",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MjMxL2N1YWNhLWJ1cnVrLXJhdHVzYW4tbmVsYXlhbi1kaS1hY2VoLWJhcmF0LXRpZGFrLW1lbGF1dA==",
-        "description": "Ratusan nelayan di Kecamatan Samatiga, Kabupaten Aceh Barat sejak tiga hari terakhir tidak melaut akibat cuaca buruk, berupa angin kencang dan gelombang tinggi di perairan barat dan selatan Aceh yang&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/504248/tomljanovic-melaju-ke-perempat-final-wimbledon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQyNDgvdG9tbGphbm92aWMtbWVsYWp1LWtlLXBlcmVtcGF0LWZpbmFsLXdpbWJsZWRvbg==",
-        "description": "AJLA Tomljanovic berhasil melaju ke perempat final Wimbledon untuk kali kedua secara beruntun setelah mengalahkan petenis veteran&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/504247/as-simpulkan-abu-akleh-kemungkinan-besar-ditembak-militer-israel-namun-tidak-disengaja",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNDI0Ny9hcy1zaW1wdWxrYW4tYWJ1LWFrbGVoLWtlbXVuZ2tpbmFuLWJlc2FyLWRpdGVtYmFrLW1pbGl0ZXItaXNyYWVsLW5hbXVuLXRpZGFrLWRpc2VuZ2FqYQ==",
-        "description": "AMERIKA Serikat (AS), Senin (4/7), menyimpulkan bahwa wartawan Al Jazeera Shireen Abu Akleh kemungkinan besar tewas karena&#8230;"
     }
 ]

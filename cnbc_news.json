@@ -1,5 +1,26 @@
 [
     {
+        "title": "Ini Nih yang Jadi Biang Kerok PPKM Jabodetabek Naik Level 2",
+        "link": "https://www.cnbcindonesia.com/news/20220705065259-4-352935/ini-nih-yang-jadi-biang-kerok-ppkm-jabodetabek-naik-level-2",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA2NTI1OS00LTM1MjkzNS9pbmktbmloLXlhbmctamFkaS1iaWFuZy1rZXJvay1wcGttLWphYm9kZXRhYmVrLW5haWstbGV2ZWwtMg==",
+        "description": " Sebaran kasus BA.4 dan BA.5 menjadi salah satu penyebab sejumlah wilayah di Jawa Bali kembali naik statusnya menjadi PPKM level 2"
+    },
+    {
+        "title": "Jangan Kaget! Inflasi di Negara Ini Tembus 200%",
+        "link": "https://www.cnbcindonesia.com/news/20220705070907-4-352939/jangan-kaget-inflasi-di-negara-ini-tembus-200",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA3MDkwNy00LTM1MjkzOS9qYW5nYW4ta2FnZXQtaW5mbGFzaS1kaS1uZWdhcmEtaW5pLXRlbWJ1cy0yMDA=",
+        "description": " Inflasi menjadi masalah baru bagi perekonomian dunia."
+    },
+    {
+        "title": "Wabah Makin Liar, 2.000 Ekor Lebih Ternak Mati Terinfeksi PMK",
+        "link": "https://www.cnbcindonesia.com/news/20220705012853-4-352900/wabah-makin-liar-2000-ekor-lebih-ternak-mati-terinfeksi-pmk",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTAxMjg1My00LTM1MjkwMC93YWJhaC1tYWtpbi1saWFyLTIwMDAtZWtvci1sZWJpaC10ZXJuYWstbWF0aS10ZXJpbmZla3NpLXBtaw==",
+        "description": " Jumlah ternak yang mati karena PMK terus bertambah."
+    },
+    {
         "title": "Potret Penembakan Maut Hari Kemerdekaan AS, Ada Wajah Pelaku",
         "link": "https://www.cnbcindonesia.com/news/20220705063921-7-352923/potret-penembakan-maut-hari-kemerdekaan-as-ada-wajah-pelaku",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA2MTU1Mi00LTM1MjkxNi9hcy1uZ2VyaS1wZW5lbWJha2FuLW1hdXQtZGktcGFyYWRlLWhhcmkta2VtZXJkZWthYW4tNi10ZXdhcw==",
         "description": " Penembakan maut di Amerika Serikat (AS) terjadi lagi. Kali ini di Hari Kemerdekaan."
-    },
-    {
-        "title": "Beda 5 Ekonom RI Soal Inflasi RI, Gawat atau Biasa Saja Sih?",
-        "link": "https://www.cnbcindonesia.com/news/20220704185528-4-352874/beda-5-ekonom-ri-soal-inflasi-ri-gawat-atau-biasa-saja-sih",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDE4NTUyOC00LTM1Mjg3NC9iZWRhLTUtZWtvbm9tLXJpLXNvYWwtaW5mbGFzaS1yaS1nYXdhdC1hdGF1LWJpYXNhLXNhamEtc2lo",
-        "description": " Lampu kuning perekonomian Indonesia sudah menyala."
-    },
-    {
-        "title": "Yuk Intip Keseruan Live Trading Bersama 'Investasiku'",
-        "link": "https://www.cnbcindonesia.com/news/20220704190303-8-352878/yuk-intip-keseruan-live-trading-bersama-investasiku",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDE5MDMwMy04LTM1Mjg3OC95dWstaW50aXAta2VzZXJ1YW4tbGl2ZS10cmFkaW5nLWJlcnNhbWEtaW52ZXN0YXNpa3U=",
-        "description": " 'Investasiku' bersama komunitas trading Logicuan mengadakan live trading."
-    },
-    {
-        "title": "Hot News: Putin Didesak Pakai Nuklir, Hingga IHSG Ambles",
-        "link": "https://www.cnbcindonesia.com/news/20220704185925-8-352873/hot-news-putin-didesak-pakai-nuklir-hingga-ihsg-ambles",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNDE4NTkyNS04LTM1Mjg3My9ob3QtbmV3cy1wdXRpbi1kaWRlc2FrLXBha2FpLW51a2xpci1oaW5nZ2EtaWhzZy1hbWJsZXM=",
-        "description": " Presiden Belarusia Alexander Lukashenko dilaporkan mendesak Presiden Rusia Vladimir Putin untuk mengakhiri tekanan dari barat dengan serangan nuklir."
     }
 ]

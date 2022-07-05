@@ -1,5 +1,33 @@
 [
     {
+        "title": "Lesu, Harga Emas Turun Lagi...",
+        "link": "https://www.cnbcindonesia.com/market/20220705062156-17-352918/lesu-harga-emas-turun-lagi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA1MDYyMTU2LTE3LTM1MjkxOC9sZXN1LWhhcmdhLWVtYXMtdHVydW4tbGFnaQ==",
+        "description": " Harga emas belum juga membaik."
+    },
+    {
+        "title": "IHSG Kayaknya Bakal Merah Lagi, Gara-gara Ini",
+        "link": "https://www.cnbcindonesia.com/market/20220705014013-17-352907/ihsg-kayaknya-bakal-merah-lagi-gara-gara-ini",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA1MDE0MDEzLTE3LTM1MjkwNy9paHNnLWtheWFrbnlhLWJha2FsLW1lcmFoLWxhZ2ktZ2FyYS1nYXJhLWluaQ==",
+        "description": " IHSG ambles 2,28% ke 6.639,17 seiring dengan aksi jual bersih asing di pasar reguler yang mencapai Rp 572 miliar."
+    },
+    {
+        "title": "Harga Batu Bara Melesat 4%, Dikit Lagi US$ 400/Ton",
+        "link": "https://www.cnbcindonesia.com/market/20220705054322-17-352915/harga-batu-bara-melesat-4-dikit-lagi-us--400-ton",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA1MDU0MzIyLTE3LTM1MjkxNS9oYXJnYS1iYXR1LWJhcmEtbWVsZXNhdC00LWRpa2l0LWxhZ2ktdXMtLTQwMC10b24=",
+        "description": " Harga batu bara langsung terbang\u00c2\u00a0pada awal pekan."
+    },
+    {
+        "title": "Ini Penyebab IHSG Jatuh 6 Hari Beruntun",
+        "link": "https://www.cnbcindonesia.com/market/20220705012047-17-352906/ini-penyebab-ihsg-jatuh-6-hari-beruntun",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA1MDEyMDQ3LTE3LTM1MjkwNi9pbmktcGVueWViYWItaWhzZy1qYXR1aC02LWhhcmktYmVydW50dW4=",
+        "description": " IHSG terkoreksi parah 6 hari beruntun, karena apa ?"
+    },
+    {
         "title": "IHSG Sudah Jeblok 7%, Indonesia Tak Lagi \"Surga\" Investasi?",
         "link": "https://www.cnbcindonesia.com/market/20220704230250-17-352892/ihsg-sudah-jeblok-7-indonesia-tak-lagi-surga-investasi",
         "image": "static/images/cnbc_market.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTgxMzE3LTE3LTM1Mjg1Ny9lbWlyYXRlcy1kYW4tZXRpaGFkLWphZGktaW52ZXN0b3ItYmFydS1nYXJ1ZGEtaW5pLWthdGEtZXJpY2s=",
         "description": " Erick Ingin Investor Garuda Bisa Dukung Perbaikan Logistik Udara RI"
-    },
-    {
-        "title": "BRMS Masih Untung Meski Harga Emas Turun ke Bawah USD 1.800",
-        "link": "https://www.cnbcindonesia.com/market/20220704161948-19-352820/brms-masih-untung-meski-harga-emas-turun-ke-bawah-usd-1800",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTYxOTQ4LTE5LTM1MjgyMC9icm1zLW1hc2loLXVudHVuZy1tZXNraS1oYXJnYS1lbWFzLXR1cnVuLWtlLWJhd2FoLXVzZC0xODAw",
-        "description": " BRMS Masih Untung Meski Harga Emas Turun ke Bawah USD 1.800"
-    },
-    {
-        "title": "Tok! DPR Setujui PMN Garuda Rp 7,5 T, Bentar Lagi Cair Nih..",
-        "link": "https://www.cnbcindonesia.com/market/20220704174739-17-352853/tok-dpr-setujui-pmn-garuda-rp-75-t-bentar-lagi-cair-nih",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTc0NzM5LTE3LTM1Mjg1My90b2stZHByLXNldHVqdWktcG1uLWdhcnVkYS1ycC03NS10LWJlbnRhci1sYWdpLWNhaXItbmlo",
-        "description": " DPR Setujui PMN Tahun 2023 dan Aksi Korporasi BUMN Tahun 2022"
-    },
-    {
-        "title": "Ini Alasan Jasa Marga Divestasi 40% Saham Jalan Layang MBZ",
-        "link": "https://www.cnbcindonesia.com/market/20220704172123-17-352844/ini-alasan-jasa-marga-divestasi-40-saham-jalan-layang-mbz",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTcyMTIzLTE3LTM1Mjg0NC9pbmktYWxhc2FuLWphc2EtbWFyZ2EtZGl2ZXN0YXNpLTQwLXNhaGFtLWphbGFuLWxheWFuZy1tYno=",
-        "description": " BUMN jalan tol PT Jasa Marga (Persero) Tbk (JSMR) kembali melakukan asset recycling sebagai bagian dari strategi korporasi"
-    },
-    {
-        "title": "Bunga KPR Siap Naik, Bisnis Properti Cemas Penjualan Anjlok",
-        "link": "https://www.cnbcindonesia.com/market/20220704154655-19-352811/bunga-kpr-siap-naik-bisnis-properti-cemas-penjualan-anjlok",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA0MTU0NjU1LTE5LTM1MjgxMS9idW5nYS1rcHItc2lhcC1uYWlrLWJpc25pcy1wcm9wZXJ0aS1jZW1hcy1wZW5qdWFsYW4tYW5qbG9r",
-        "description": " Bunga KPR Siap Naik, Bisnis Properti Cemas Penjualan Anjlok"
     }
 ]
