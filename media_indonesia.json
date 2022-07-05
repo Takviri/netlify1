@@ -1,5 +1,47 @@
 [
     {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/504339/lonjakan-wisatawan-musim-panas-terjadi-di-tiongkok",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNDMzOS9sb25qYWthbi13aXNhdGF3YW4tbXVzaW0tcGFuYXMtdGVyamFkaS1kaS10aW9uZ2tvaw==",
+        "description": "Musim panas ini, bukan hanya suhu yang diperkirakan akan melonjak di Tiongkok, permintaan perjalanan domestik diperkirakan akan pulih dari dampak berbulan-bulan pembatasan sosial akibat dari kebangkitan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/504338/pemkot-tangsel-dan-kemenkominfo-gelar-pelatihan-tingkatkan-kompetensi-pegawai",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDQzMzgvcGVta290LXRhbmdzZWwtZGFuLWtlbWVua29taW5mby1nZWxhci1wZWxhdGloYW4tdGluZ2thdGthbi1rb21wZXRlbnNpLXBlZ2F3YWk=",
+        "description": "Wali Kota&nbsp; Tangsel Benyamin Davnie membuka pelatihan program Government Transformation Academy, hasil kerja sama antara Pemerintah Kota Tangerang Selatan ( Pemkot Tangsel)&nbsp; dengan Kementrian&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504337/ppatk-imbau-masyarakat-berhati-hati-saat-berdonasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MzM3L3BwYXRrLWltYmF1LW1hc3lhcmFrYXQtYmVyaGF0aS1oYXRpLXNhYXQtYmVyZG9uYXNp",
+        "description": "KEPALA Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK) Ivan Yustiavandana mengimbau masyarakat agar lebih berhati-hati saat berdonasi. Yayasan Aksi Cepat Tanggap (ACT) tengah disorot oleh publik&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/504336/pt-dwb-buka-penawaran-tender-wajib-saham-restoran-lucy-in-the-sky",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDMzNi9wdC1kd2ItYnVrYS1wZW5hd2FyYW4tdGVuZGVyLXdhamliLXNhaGFtLXJlc3RvcmFuLWx1Y3ktaW4tdGhlLXNreQ==",
+        "description": "PT Delta Wibawa Bersama (DWB) pemegang saham Lucy&nbsp;sebesar 7,29%&nbsp;tengah melakukan penawaran tender wajib saham yang dimiliki pemegang saham PT Lima Dua Lima Tiga Tbk dengan ticker saham (Lucy)&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504335/waspadai-penyakit-paru-usai-puncak-haji",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MzM1L3dhc3BhZGFpLXBlbnlha2l0LXBhcnUtdXNhaS1wdW5jYWstaGFqaQ==",
+        "description": "SPESIALIS Paru dan Anggota Tim dokter Kantor Kesehatan Haji Indonesia (KKHI) Mekah Andy Siregar mewanti-wanti jemaah haji soal potensi penyakit setelah puncak haji. Cuaca ekstrem menjadi salah satu&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/504334/kontribusi-bumn-makin-besar-kebijakan-menteri-erick-dinilai-tepat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDMzNC9rb250cmlidXNpLWJ1bW4tbWFraW4tYmVzYXIta2ViaWpha2FuLW1lbnRlcmktZXJpY2stZGluaWxhaS10ZXBhdA==",
+        "description": "DI bawah kepemimpinan Menteri BUMN Erick Thohir, kontribusi BUMN terus mengalami peningkatan. Sepanjang 10 tahun terakhir sumbangan yang diberikan BUMN mencapai Rp4.013 triliun. Jumlah tersebut&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/504332/kemenkes-vaksin-booster-untuk-syarat-perjalanan-karena-kasus-meningkat",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNDMyOC9pbmktcGVueWViYWItbWVuZ2FwYS1haXItbGF1dC1yYXNhbnlhLWFzaW4=",
         "description": "Tahukah Anda bahwa 70% permukaan Bumi merupakan lautan dan sekitar 97% air yang ada di Bumi tergolong asin sehingga tak biasa diminum. Lalu apa yang menjadi penyebab hal ini bisa terjadi? Air&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/504329/file-polisi-xinjiang-resahkan-etnis-uighur",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNDMyOS9maWxlLXBvbGlzaS14aW5qaWFuZy1yZXNhaGthbi1ldG5pcy11aWdodXI=",
-        "description": "JUTAAN etnis Uighur dan kelompok muslim lainnya di Tiongkok/China, kembali resah setelah mengetahui isi pidato pejabat tinggi&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/504315/jeon-jong-seo-akui-adegan-pembuka-money-heist-korea-tidak-terlupakan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNDMxNS9qZW9uLWpvbmctc2VvLWFrdWktYWRlZ2FuLXBlbWJ1a2EtbW9uZXktaGVpc3Qta29yZWEtdGlkYWstdGVybHVwYWthbg==",
-        "description": "AKTRIS Jeon Jong-seo mengakui dia tidak akan melupakan adegan pembuka di serial drama Korea Money Heist: Korea - Joint Economic Area,&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/504327/kebutuhan-hewan-kurban-jakarta-diprediksi-capai-47000-ekor",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDQzMjcva2VidXR1aGFuLWhld2FuLWt1cmJhbi1qYWthcnRhLWRpcHJlZGlrc2ktY2FwYWktNDcwMDAtZWtvcg==",
-        "description": "KEBUTUHAN hewan ternak kurban untuk Idul Adha di wilayah DKI Jakarta diperkirakan mencapai 47.000 ekor. Saat ini, ketersediaan ternak kurban di Ibu Kota tercatat baru sekitar 42.000 ekor. Kepala&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/504313/dokter-ingatkan-masyarakat-tidak-makan-berlebihan-saat-iduladha",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MzEzL2Rva3Rlci1pbmdhdGthbi1tYXN5YXJha2F0LXRpZGFrLW1ha2FuLWJlcmxlYmloYW4tc2FhdC1pZHVsYWRoYQ==",
-        "description": "MENJELANG Hari Raya Iduladha, yang jatuh pada Minggu (10/7), Dokter Spesialis Gizi Klinik dari Perhimpunan Dokter Spesialis Gizi&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504326/tapanuli-utara-terus-berbenah-demi-pemulihan-ekonomi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MzI2L3RhcGFudWxpLXV0YXJhLXRlcnVzLWJlcmJlbmFoLWRlbWktcGVtdWxpaGFuLWVrb25vbWk=",
-        "description": " PEMERINTAH Kabupaten Tapanuli Utara, Sumatra Utara, berbenah untuk pemulihan ekonomi masyarakat, setelah diguncang covid-19. Pemulihan ekonomi dilakukan di berbagai sektor, khususnya&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/504325/apple-watch-8-akan-hadir-dengan-pengukur-suhu-tubuh",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNDMyNS9hcHBsZS13YXRjaC04LWFrYW4taGFkaXItZGVuZ2FuLXBlbmd1a3VyLXN1aHUtdHVidWg=",
-        "description": "Suhu tubuh merupakan hal sangat krusial untuk terus dipantau di era pandemi saat ini. Kondisi itu rupanya juga disadari oleh Apple. Mereka berencana menghadirkan fitur pengukur atau termometer untuk&#8230;"
     }
 ]

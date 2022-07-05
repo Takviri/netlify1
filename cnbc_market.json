@@ -1,16 +1,44 @@
 [
     {
-        "title": "Saham Global Mediacom Menguat, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/market/20220705125131-17-353077/saham-global-mediacom-menguat-ada-apa",
+        "title": "Perak Bangkit! PHP Nggak Nih?",
+        "link": "https://www.cnbcindonesia.com/market/20220705135135-17-353091/perak-bangkit-php-nggak-nih",
         "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA1MTI1MTMxLTE3LTM1MzA3Ny9zYWhhbS1nbG9iYWwtbWVkaWFjb20tbWVuZ3VhdC1hZGEtYXBh",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA1MTM1MTM1LTE3LTM1MzA5MS9wZXJhay1iYW5na2l0LXBocC1uZ2dhay1uaWg=",
+        "description": " Harga perak dunia menguat didukung oleh mata uang dolar AS yang melandai."
+    },
+    {
+        "title": "Naik Lagi, Dolar Singapura Dekati Rekor 2022 di Rp 10.750",
+        "link": "https://www.cnbcindonesia.com/market/20220705124619-17-353076/naik-lagi-dolar-singapura-dekati-rekor-2022-di-rp-10750",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA1MTI0NjE5LTE3LTM1MzA3Ni9uYWlrLWxhZ2ktZG9sYXItc2luZ2FwdXJhLWRla2F0aS1yZWtvci0yMDIyLWRpLXJwLTEwNzUw",
+        "description": " Nilai tukar dolar Singapura menguat melawan rupiah pada perdagangan Selasa (5/7/2022),"
+    },
+    {
+        "title": "Dunia Menuju Resesi, di Mana \"Ternak\" Duit yang Tepat?",
+        "link": "https://www.cnbcindonesia.com/market/20220705111947-17-353039/dunia-menuju-resesi-di-mana-ternak-duit-yang-tepat",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA1MTExOTQ3LTE3LTM1MzAzOS9kdW5pYS1tZW51anUtcmVzZXNpLWRpLW1hbmEtdGVybmFrLWR1aXQteWFuZy10ZXBhdA==",
+        "description": " Ancaman resesi dunia semakin menjadi nyata akibat tingginya inflasi."
+    },
+    {
+        "title": "RBA Kerek Suku Bunga Lagi, Dolar Australia Naik ke Rp 10.300",
+        "link": "https://www.cnbcindonesia.com/market/20220705120724-17-353062/rba-kerek-suku-bunga-lagi-dolar-australia-naik-ke-rp-10300",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA1MTIwNzI0LTE3LTM1MzA2Mi9yYmEta2VyZWstc3VrdS1idW5nYS1sYWdpLWRvbGFyLWF1c3RyYWxpYS1uYWlrLWtlLXJwLTEwMzAw",
+        "description": " Bank sentral Australia (Reserve Bank of Australia/RBA) sesuai dengan prediksi pasar kembali menaikkan suku bunga pada Selasa (5/7/2022)."
+    },
+    {
+        "title": "Saham BMTR Menguat, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/market/20220705125131-17-353077/saham-bmtr-menguat-ada-apa",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA1MTI1MTMxLTE3LTM1MzA3Ny9zYWhhbS1ibXRyLW1lbmd1YXQtYWRhLWFwYQ==",
         "description": " Data bursa mencatat, saham BMTR naik 2,17% ke posisi Rp 282/saham."
     },
     {
-        "title": "Rakyat RI Doyan Jajan, GoFood Dominasi Layanan Pesan Antar",
-        "link": "https://www.cnbcindonesia.com/market/20220705114017-17-353052/rakyat-ri-doyan-jajan-gofood-dominasi-layanan-pesan-antar",
+        "title": "Rakyat RI Doyan Jajan, Ini Layanan yang Sering Digunakan",
+        "link": "https://www.cnbcindonesia.com/market/20220705114017-17-353052/rakyat-ri-doyan-jajan-ini-layanan-yang-sering-digunakan",
         "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA1MTE0MDE3LTE3LTM1MzA1Mi9yYWt5YXQtcmktZG95YW4tamFqYW4tZ29mb29kLWRvbWluYXNpLWxheWFuYW4tcGVzYW4tYW50YXI=",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA1MTE0MDE3LTE3LTM1MzA1Mi9yYWt5YXQtcmktZG95YW4tamFqYW4taW5pLWxheWFuYW4teWFuZy1zZXJpbmctZGlndW5ha2Fu",
         "description": " Hasilnya, GoFood menjadi aplikasi Online Food Delivery (OFD) paling banyak digunakan konsumen."
     },
     {
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA1MTIzMDU5LTE3LTM1MzA3Mi9zaW1hay1zZXBla2FuLWxvbmdzb3ItaW5pLWFyYWgtaGFyZ2Etc2FoYW0tcG5icw==",
         "description": " Ke mana arah saham PNBS?"
-    },
-    {
-        "title": "Caplok Jalan Layang MBZ, Saham META Terbang 33,6%",
-        "link": "https://www.cnbcindonesia.com/market/20220705120357-17-353059/caplok-jalan-layang-mbz-saham-meta-terbang-336",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA1MTIwMzU3LTE3LTM1MzA1OS9jYXBsb2stamFsYW4tbGF5YW5nLW1iei1zYWhhbS1tZXRhLXRlcmJhbmctMzM2",
-        "description": " Emiten infrastruktur milik Salim melesat, ada apa ?"
-    },
-    {
-        "title": "IHSG Balas Dendam, tapi Apa Kuat ke 7.000 Lagi?",
-        "link": "https://www.cnbcindonesia.com/market/20220705114240-18-353044/ihsg-balas-dendam-tapi-apa-kuat-ke-7000-lagi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA1MTE0MjQwLTE4LTM1MzA0NC9paHNnLWJhbGFzLWRlbmRhbS10YXBpLWFwYS1rdWF0LWtlLTcwMDAtbGFnaQ==",
-        "description": " IHSG\u00c2\u00a0berakhir menguat pada penutupan perdagangan sesi I Selasa (5/7/2022) pasca mengalami koreksi 6 hari beruntun di tengah kekhawatiran kondisi ekonomi global."
-    },
-    {
-        "title": "Pelita Samudera Jual Aset Ratu Kumala, Cuan Rp 152 M",
-        "link": "https://www.cnbcindonesia.com/market/20220705105957-17-353031/pelita-samudera-jual-aset-ratu-kumala-cuan-rp-152-m",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA1MTA1OTU3LTE3LTM1MzAzMS9wZWxpdGEtc2FtdWRlcmEtanVhbC1hc2V0LXJhdHUta3VtYWxhLWN1YW4tcnAtMTUyLW0=",
-        "description": " Aset tersebut adalah, Ratu Kumala Floating Facility."
-    },
-    {
-        "title": "Ini Deretan Saham Paling Cuan Saat IHSG Melesat, Kamu Pegang?",
-        "link": "https://www.cnbcindonesia.com/market/20220705120431-17-353061/ini-deretan-saham-paling-cuan-saat-ihsg-melesat-kamu-pegang",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA1MTIwNDMxLTE3LTM1MzA2MS9pbmktZGVyZXRhbi1zYWhhbS1wYWxpbmctY3Vhbi1zYWF0LWloc2ctbWVsZXNhdC1rYW11LXBlZ2FuZw==",
-        "description": " Di tengah menguatnya IHSG siang ini terdapat 5 saham yang tampil perkasa dan 5 saham yang masuk top losers."
     }
 ]
