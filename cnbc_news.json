@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ngeri Inflasi! Australia Kerek Suku Bunga 3 Bulan Beruntun",
+        "link": "https://www.cnbcindonesia.com/news/20220705133503-4-353089/ngeri-inflasi-australia-kerek-suku-bunga-3-bulan-beruntun",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEzMzUwMy00LTM1MzA4OS9uZ2VyaS1pbmZsYXNpLWF1c3RyYWxpYS1rZXJlay1zdWt1LWJ1bmdhLTMtYnVsYW4tYmVydW50dW4=",
+        "description": " Bank Sentral Australia kembali menaikkan suku bunga acuan guna menekan inflasi yang terus melambung."
+    },
+    {
+        "title": "Tawaran Putin Bangun Pembangkit Nuklir di IKN Layak Diterima?",
+        "link": "https://www.cnbcindonesia.com/news/20220705132931-4-353087/tawaran-putin-bangun-pembangkit-nuklir-di-ikn-layak-diterima",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEzMjkzMS00LTM1MzA4Ny90YXdhcmFuLXB1dGluLWJhbmd1bi1wZW1iYW5na2l0LW51a2xpci1kaS1pa24tbGF5YWstZGl0ZXJpbWE=",
+        "description": " Presiden Vladimir Putin menawarkan untuk membangun PLTN di IKN Nusantara, layak diterima?"
+    },
+    {
+        "title": "PLN Beri Bantuan Sarana Elektrifikasi di Tanjungpinang",
+        "link": "https://www.cnbcindonesia.com/news/20220705140136-4-353096/pln-beri-bantuan-sarana-elektrifikasi-di-tanjungpinang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE0MDEzNi00LTM1MzA5Ni9wbG4tYmVyaS1iYW50dWFuLXNhcmFuYS1lbGVrdHJpZmlrYXNpLWRpLXRhbmp1bmdwaW5hbmc=",
+        "description": " PT PLN (Persero) terus mendukung perkembangan pariwisata ramah lingkungan dan ekonomi kreatif warga Pulau Penyengat, Kota Tanjungpinang."
+    },
+    {
+        "title": "Kuasai Kota Strategis, Putin Minta Lanjut Serang Ukraina",
+        "link": "https://www.cnbcindonesia.com/news/20220705125518-8-353078/kuasai-kota-strategis-putin-minta-lanjut-serang-ukraina",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEyNTUxOC04LTM1MzA3OC9rdWFzYWkta290YS1zdHJhdGVnaXMtcHV0aW4tbWludGEtbGFuanV0LXNlcmFuZy11a3JhaW5h",
+        "description": " Putin meminta Shoigu, agar operasi militer dilanjutkan,"
+    },
+    {
+        "title": "Proyek China Spionase Terselubung?",
+        "link": "https://www.cnbcindonesia.com/news/20220705131301-4-353084/proyek-china-spionase-terselubung",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEzMTMwMS00LTM1MzA4NC9wcm95ZWstY2hpbmEtc3Bpb25hc2UtdGVyc2VsdWJ1bmc=",
+        "description": " investasi China dalam bidang pertanian di luar negeri telah meningkat menjadi sekitar US$ 95 miliar sejak 2010."
+    },
+    {
+        "title": "\"Teror\" Inflasi Makan Korban Lagi: Korea Selatan",
+        "link": "https://www.cnbcindonesia.com/news/20220705135525-4-353093/teror-inflasi-makan-korban-lagi-korea-selatan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEzNTUyNS00LTM1MzA5My90ZXJvci1pbmZsYXNpLW1ha2FuLWtvcmJhbi1sYWdpLWtvcmVhLXNlbGF0YW4=",
+        "description": " Inflasi tinggi kembali dilaporkan terjadi di negara maju. Kali ini, korban kenaikan harga barang-barang itu terjadi di Korea Selatan (Korsel)."
+    },
+    {
         "title": "Heboh Petani RI Jual Sawit ke Malaysia, Ini Biang Keroknya",
         "link": "https://www.cnbcindonesia.com/news/20220705132446-4-353088/heboh-petani-ri-jual-sawit-ke-malaysia-ini-biang-keroknya",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTExNTQ0Ni04LTM1MzA1NS9hbnRpc2lwYXNpLXJlc2VzaS1yaS1oYXJ1cy1tYWtzaW1hbGthbi1iZXJrYWgta29tb2RpdGFz",
         "description": " Ekonom: RI Harus Maksimalkan Berkah Komoditas Hadapi Ancaman Resesi"
-    },
-    {
-        "title": "Batu Bara RI Jadi 'Super Hero' Untuk Eropa, Ini Buktinya..",
-        "link": "https://www.cnbcindonesia.com/news/20220705120221-4-353058/batu-bara-ri-jadi-super-hero-untuk-eropa-ini-buktinya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEyMDIyMS00LTM1MzA1OC9iYXR1LWJhcmEtcmktamFkaS1zdXBlci1oZXJvLXVudHVrLWVyb3BhLWluaS1idWt0aW55YQ==",
-        "description": " Kemendag mencatat sudah ada ekspor batu bara ke Eropa khususnya Polandia sebanyak 53.230 ton"
-    },
-    {
-        "title": "Jangan Khawatir, Daging danSusu Sapi Terkena PMK Aman Dimakan",
-        "link": "https://www.cnbcindonesia.com/news/20220705115112-4-353056/jangan-khawatir-daging-susu-sapi-terkena-pmk-aman-dimakan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTExNTExMi00LTM1MzA1Ni9qYW5nYW4ta2hhd2F0aXItZGFnaW5nLXN1c3Utc2FwaS10ZXJrZW5hLXBtay1hbWFuLWRpbWFrYW4=",
-        "description": " Penyakit mulut dan kuku (PMK) pada hewan ternak tidak akan menular kepada manusia."
-    },
-    {
-        "title": "Peritel Tagih Utang Rp 130 M Program Migor Murah, Kenapa?",
-        "link": "https://www.cnbcindonesia.com/news/20220705121635-8-353067/peritel-tagih-utang-rp-130-m-program-migor-murah-kenapa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEyMTYzNS04LTM1MzA2Ny9wZXJpdGVsLXRhZ2loLXV0YW5nLXJwLTEzMC1tLXByb2dyYW0tbWlnb3ItbXVyYWgta2VuYXBh",
-        "description": " Peritel Tagih Sisa Utang Rp 130 Miliar Program Minyak Goreng Murah"
-    },
-    {
-        "title": "Tiba-tiba Janet Yellen Telepon Wakil PM China, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220705114625-4-353060/tiba-tiba-janet-yellen-telepon-wakil-pm-china-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTExNDYyNS00LTM1MzA2MC90aWJhLXRpYmEtamFuZXQteWVsbGVuLXRlbGVwb24td2FraWwtcG0tY2hpbmEtYWRhLWFwYQ==",
-        "description": " Menteri Keuangan Amerika Serikat (AS) Janet Yellen mengadakan pertemuan virtual dengan Wakil Perdana Menteri China Liu He, Selasa (5/7/2022)."
-    },
-    {
-        "title": "RI Tak Masuk Daftar Negara Diramal Ambruk, Apa Rahasianya?",
-        "link": "https://www.cnbcindonesia.com/news/20220705115722-4-353057/ri-tak-masuk-daftar-negara-diramal-ambruk-apa-rahasianya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTExNTcyMi00LTM1MzA1Ny9yaS10YWstbWFzdWstZGFmdGFyLW5lZ2FyYS1kaXJhbWFsLWFtYnJ1ay1hcGEtcmFoYXNpYW55YQ==",
-        "description": " Indonesia tidak masuk dalam daftar negara yang terancam ambruk karena tumpukan utang."
-    },
-    {
-        "title": "Angkat Harga TBS Sawit, Petani Minta Relaksasi Kebijakan DMO",
-        "link": "https://www.cnbcindonesia.com/news/20220705110110-8-353030/angkat-harga-tbs-sawit-petani-minta-relaksasi-kebijakan-dmo",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTExMDExMC04LTM1MzAzMC9hbmdrYXQtaGFyZ2EtdGJzLXNhd2l0LXBldGFuaS1taW50YS1yZWxha3Nhc2kta2ViaWpha2FuLWRtbw==",
-        "description": " Angkat Harga TBS Sawit, Petani Minta Relaksasi Kebijakan DMO"
     }
 ]
