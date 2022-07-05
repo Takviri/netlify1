@@ -1,5 +1,47 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504332/kemenkes-vaksin-booster-untuk-syarat-perjalanan-karena-kasus-meningkat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MzMyL2tlbWVua2VzLXZha3Npbi1ib29zdGVyLXVudHVrLXN5YXJhdC1wZXJqYWxhbmFuLWthcmVuYS1rYXN1cy1tZW5pbmdrYXQ=",
+        "description": "JURU Bicara Kementerian Kesehatan RI Mohammad Syahril mengatakan rencana pemerintah menerapkan vaksin dosis penguat atau booster sebagai syarat perjalanan merupakan bentuk pengetatan protokol kesehatan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504331/mahasiswa-president-university-bedah-kinerja-kppu-di-bandung",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MzMxL21haGFzaXN3YS1wcmVzaWRlbnQtdW5pdmVyc2l0eS1iZWRhaC1raW5lcmphLWtwcHUtZGktYmFuZHVuZw==",
+        "description": "PERAN perguruan tinggi dalam membantu tugas Komisi Pengawas Persaingan Usaha (KPPU) terutama&nbsp;dalam melakukan pengawasan persaingan usaha dirasa kian penting. Hal tersebut dikatakan Kepala&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/504330/mendag-ri-harus-percepat-pengesahan-ruu-rcep-dan-ruu-ik-cepa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDMzMC9tZW5kYWctcmktaGFydXMtcGVyY2VwYXQtcGVuZ2VzYWhhbi1ydXUtcmNlcC1kYW4tcnV1LWlrLWNlcGE=",
+        "description": "MENTERI Perdagangan Zulkifli Hasan menyatakan bahwa pemerintah tengah berupaya mempercepat pengesahan Rancangan Undang-Undang tentang Pengesahan Regional Comprehensive Economic Partnership Agreement&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/504328/ini-penyebab-mengapa-air-laut-rasanya-asin",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNDMyOC9pbmktcGVueWViYWItbWVuZ2FwYS1haXItbGF1dC1yYXNhbnlhLWFzaW4=",
+        "description": "Tahukah Anda bahwa 70% permukaan Bumi merupakan lautan dan sekitar 97% air yang ada di Bumi tergolong asin sehingga tak biasa diminum. Lalu apa yang menjadi penyebab hal ini bisa terjadi? Air&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/504329/file-polisi-xinjiang-resahkan-etnis-uighur",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNDMyOS9maWxlLXBvbGlzaS14aW5qaWFuZy1yZXNhaGthbi1ldG5pcy11aWdodXI=",
+        "description": "JUTAAN etnis Uighur dan kelompok muslim lainnya di Tiongkok/China, kembali resah setelah mengetahui isi pidato pejabat tinggi&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/504315/jeon-jong-seo-akui-adegan-pembuka-money-heist-korea-tidak-terlupakan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNDMxNS9qZW9uLWpvbmctc2VvLWFrdWktYWRlZ2FuLXBlbWJ1a2EtbW9uZXktaGVpc3Qta29yZWEtdGlkYWstdGVybHVwYWthbg==",
+        "description": "AKTRIS Jeon Jong-seo mengakui dia tidak akan melupakan adegan pembuka di serial drama Korea Money Heist: Korea - Joint Economic Area,&#8230;"
+    },
+    {
         "title": "Megapolitan",
         "link": "https://m.mediaindonesia.com/megapolitan/504327/kebutuhan-hewan-kurban-jakarta-diprediksi-capai-47000-ekor",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNDMyNS9hcHBsZS13YXRjaC04LWFrYW4taGFkaXItZGVuZ2FuLXBlbmd1a3VyLXN1aHUtdHVidWg=",
         "description": "Suhu tubuh merupakan hal sangat krusial untuk terus dipantau di era pandemi saat ini. Kondisi itu rupanya juga disadari oleh Apple. Mereka berencana menghadirkan fitur pengukur atau termometer untuk&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/504324/status-ppkm-dki-jadi-level-2-anies-segera-koordinasi-dengan-pusat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDQzMjQvc3RhdHVzLXBwa20tZGtpLWphZGktbGV2ZWwtMi1hbmllcy1zZWdlcmEta29vcmRpbmFzaS1kZW5nYW4tcHVzYXQ=",
-        "description": "MULAI Selasa (5/7) ini, DKI Jakarta berstatus Pemberlakuan Pembatasan Kegiatan Masyarakat (PPKM) level dua. Gubernur DKI Anies Baswedan pun segera koordinasi dengan pemerintah pusat. &quot;Nanti&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/504310/zohri-akan-tampil-di-kejuaraan-dunia-atletik-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQzMTAvem9ocmktYWthbi10YW1waWwtZGkta2VqdWFyYWFuLWR1bmlhLWF0bGV0aWstMjAyMg==",
-        "description": "LALU Muhammad Zohri bakal mewakili Indonesia di Kejuaraan Atletik Dunia 2022 di Eugene, Oregon, Amerika Serikat (AS) pada 15-24 Juli&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/504322/italia-alami-kekeringan-terburuk-dalam-70-tahun-terakhir",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNDMyMi9pdGFsaWEtYWxhbWkta2VrZXJpbmdhbi10ZXJidXJ1ay1kYWxhbS03MC10YWh1bi10ZXJha2hpcg==",
-        "description": "Pemerintah Italia mengumumkan keadaan darurat di lima wilayah yakni Friuli-Romagna, Friuli-Venezia Giulia, Lombardy, Piedmont dan Veneto hingga 31 Desember. Italia juga menyatakan akan menggelontorkan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504323/pelangi-hotel-dapat-kepercayaan-kelola-balian-paradise-resort-bali",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0MzIzL3BlbGFuZ2ktaG90ZWwtZGFwYXQta2VwZXJjYXlhYW4ta2Vsb2xhLWJhbGlhbi1wYXJhZGlzZS1yZXNvcnQtYmFsaQ==",
-        "description": " PT Pelangi Hotel Internasional (PHI) terus melebarkan sayap usahanya. Yang terkini, kelompok usaha itu menandatangani MoU dengan Balian Paradise Resort Bali. Kerja sama diteken di Hotel&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/504321/tontowi-ahmad-luncurkan-nft-bertemakan-the-world-campion-of-badminton",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQzMjEvdG9udG93aS1haG1hZC1sdW5jdXJrYW4tbmZ0LWJlcnRlbWFrYW4tdGhlLXdvcmxkLWNhbXBpb24tb2YtYmFkbWludG9u",
-        "description": "MANTAN pebulu tangkis Indonesia Tontowi Ahmad meluncurkan Non-Fungible Token (NFT) dengan tema The World Champion Of Badminton.&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/504308/ingin-tetap-bermain-di-italia-romagnoli-siap-tolak-fulham",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDMwOC9pbmdpbi10ZXRhcC1iZXJtYWluLWRpLWl0YWxpYS1yb21hZ25vbGktc2lhcC10b2xhay1mdWxoYW0=",
-        "description": "BEK Alessio Romagnoli dikabarkan siap menolak pinangan klub Liga Primer Inggris Fulham demi dapat bertahan di Serie A musim depan&#8230;"
     }
 ]
