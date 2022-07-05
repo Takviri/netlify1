@@ -1,5 +1,47 @@
 [
     {
+        "title": "Kacau! Orang-Orang Tajir ini Jadi Miskin Gegara Kripto Ambruk",
+        "link": "https://www.cnbcindonesia.com/news/20220705105311-4-353027/kacau-orang-orang-tajir-ini-jadi-miskin-gegara-kripto-ambruk",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEwNTMxMS00LTM1MzAyNy9rYWNhdS1vcmFuZy1vcmFuZy10YWppci1pbmktamFkaS1taXNraW4tZ2VnYXJhLWtyaXB0by1hbWJydWs=",
+        "description": " Jatuhnya harga kripto telah membuat kekayaan para miliarder tergerus"
+    },
+    {
+        "title": "Harga Cabai Terbang ke Rp130.000, Zulhas Bilang Petani Untung",
+        "link": "https://www.cnbcindonesia.com/news/20220705103736-4-353033/harga-cabai-terbang-ke-rp130000-zulhas-bilang-petani-untung",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEwMzczNi00LTM1MzAzMy9oYXJnYS1jYWJhaS10ZXJiYW5nLWtlLXJwMTMwMDAwLXp1bGhhcy1iaWxhbmctcGV0YW5pLXVudHVuZw==",
+        "description": " Harga cabai meledak, Zulhas bilang untung buat petani."
+    },
+    {
+        "title": "Penguatan Kerjasama Regional, Jurus Antisipasi Resesi Global",
+        "link": "https://www.cnbcindonesia.com/news/20220705115311-8-353053/penguatan-kerjasama-regional-jurus-antisipasi-resesi-global",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTExNTMxMS04LTM1MzA1My9wZW5ndWF0YW4ta2VyamFzYW1hLXJlZ2lvbmFsLWp1cnVzLWFudGlzaXBhc2ktcmVzZXNpLWdsb2JhbA==",
+        "description": " Penguatan Kerjasama Regional, Jurus Tekan Risiko Resesi Global"
+    },
+    {
+        "title": "Jadi Syarat Ekspor Minyak Sawit, Besok Zulhas Rilis Minyakita",
+        "link": "https://www.cnbcindonesia.com/news/20220705112318-4-353041/jadi-syarat-ekspor-minyak-sawit-besok-zulhas-rilis-minyakita",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTExMjMxOC00LTM1MzA0MS9qYWRpLXN5YXJhdC1la3Nwb3ItbWlueWFrLXNhd2l0LWJlc29rLXp1bGhhcy1yaWxpcy1taW55YWtpdGE=",
+        "description": " 28\u00c2\u00a0perusahaan ikut produksi Minyakita."
+    },
+    {
+        "title": "Gawat! Cadangan BBM Sri Lanka Tersisa Satu Hari",
+        "link": "https://www.cnbcindonesia.com/news/20220705094932-8-353010/gawat-cadangan-bbm-sri-lanka-tersisa-satu-hari",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA5NDkzMi04LTM1MzAxMC9nYXdhdC1jYWRhbmdhbi1iYm0tc3JpLWxhbmthLXRlcnNpc2Etc2F0dS1oYXJp",
+        "description": " Daya tahan stok bahan bakar di Sri Lanka saat ini hanya cukup untuk satu hari"
+    },
+    {
+        "title": "Sri Lanka Makin Nelangsa, Warga Mengular \"Nginep\" di SPBU",
+        "link": "https://www.cnbcindonesia.com/news/20220705020325-7-352908/sri-lanka-makin-nelangsa-warga-mengular-nginep-di-spbu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTAyMDMyNS03LTM1MjkwOC9zcmktbGFua2EtbWFraW4tbmVsYW5nc2Etd2FyZ2EtbWVuZ3VsYXItbmdpbmVwLWRpLXNwYnU=",
+        "description": " Sri Lanka makin nelangsa. Demi mendapat BBM, warga harus rela menginap di sebuah SPBU yang berada di ibu kota Kolombo."
+    },
+    {
         "title": "Jual TBS Sawit ke Malaysia, Petani: Kami Siap Kena Sanksi!",
         "link": "https://www.cnbcindonesia.com/news/20220705104742-8-353025/jual-tbs-sawit-ke-malaysia-petani-kami-siap-kena-sanksi",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTExMjExNC00LTM1MzAzNy9wdXRpbi1tYXUtYmFuZ3VuLXBlbWJhbmdraXQtbnVrbGlyLWRpLWlrbi1wZW1lcmludGFoLXNldHVqdQ==",
         "description": " Kementerian ESDM merespon minat Presiden Rusia Vladimir Putin yang berkeinginan membangun Pembangkit NukLir di IKN"
-    },
-    {
-        "title": "Tok! 10 BUMN Dapat PMN Rp 73 Triliun Tahun Depan",
-        "link": "https://www.cnbcindonesia.com/news/20220705094618-8-353007/tok-10-bumn-dapat-pmn-rp-73-triliun-tahun-depan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA5NDYxOC04LTM1MzAwNy90b2stMTAtYnVtbi1kYXBhdC1wbW4tcnAtNzMtdHJpbGl1bi10YWh1bi1kZXBhbg==",
-        "description": " Komisi Enam DPR RI menyetujui penyertaan modal negara untuk tahun 2023 kepada BUMN"
-    },
-    {
-        "title": "MyPertamina Jadi Syarat Beli Pertalite, Data Pribadi Aman?",
-        "link": "https://www.cnbcindonesia.com/news/20220705095658-4-353013/mypertamina-jadi-syarat-beli-pertalite-data-pribadi-aman",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA5NTY1OC00LTM1MzAxMy9teXBlcnRhbWluYS1qYWRpLXN5YXJhdC1iZWxpLXBlcnRhbGl0ZS1kYXRhLXByaWJhZGktYW1hbg==",
-        "description": " Pertamina memastikan data pribadi para pendaftar pembeli Pertalite di MyPertamina dijamin keamanannya"
-    },
-    {
-        "title": "Pertama Dalam 30 Tahun Terakhir, Perdagangan Jerman Defisit",
-        "link": "https://www.cnbcindonesia.com/news/20220705094210-8-353005/pertama-dalam-30-tahun-terakhir-perdagangan-jerman-defisit",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA5NDIxMC04LTM1MzAwNS9wZXJ0YW1hLWRhbGFtLTMwLXRhaHVuLXRlcmFraGlyLXBlcmRhZ2FuZ2FuLWplcm1hbi1kZWZpc2l0",
-        "description": " Efek harga minyak dan gas impor yang melonjak akibat perang Rusia dan Ukraina membuat Jerman mencatatkan defisit perdagangan"
-    },
-    {
-        "title": "Menggiurkan, Segini Gaji ke-13 yang Diterima oleh Ketua MPR",
-        "link": "https://www.cnbcindonesia.com/news/20220705091402-4-352990/menggiurkan-segini-gaji-ke-13-yang-diterima-oleh-ketua-mpr",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA5MTQwMi00LTM1Mjk5MC9tZW5nZ2l1cmthbi1zZWdpbmktZ2FqaS1rZS0xMy15YW5nLWRpdGVyaW1hLW9sZWgta2V0dWEtbXBy",
-        "description": " Gaji ke-13 Aparatur Sipil Negara (ASN) sudah mulai dicairkan."
-    },
-    {
-        "title": "Arab Saudi Krisis? Raja Salman Sebar BLT Rp 82 T ke Warga",
-        "link": "https://www.cnbcindonesia.com/news/20220705102619-4-353020/arab-saudi-krisis-raja-salman-sebar-blt-rp-82-t-ke-warga",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEwMjYxOS00LTM1MzAyMC9hcmFiLXNhdWRpLWtyaXNpcy1yYWphLXNhbG1hbi1zZWJhci1ibHQtcnAtODItdC1rZS13YXJnYQ==",
-        "description": " Pemerintah Kerajaan Arab Saudi memberikan bantuan senilai 20 miliar riyal atau setara Rp 82 triliun kepada warganya."
-    },
-    {
-        "title": "Semalam Listrik Sumatera dan Bangka Padam, Ini Alasan PLN",
-        "link": "https://www.cnbcindonesia.com/news/20220705093359-4-352999/semalam-listrik-sumatera-bangka-padam-ini-alasan-pln",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTA5MzM1OS00LTM1Mjk5OS9zZW1hbGFtLWxpc3RyaWstc3VtYXRlcmEtYmFuZ2thLXBhZGFtLWluaS1hbGFzYW4tcGxu",
-        "description": " PLN berhasil memulihkan 100% listrik yang padam di wilayah Sumatera dan Bangka"
     }
 ]

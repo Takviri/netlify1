@@ -1,5 +1,54 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/504308/ingin-tetap-bermain-di-italia-romagnoli-siap-tolak-fulham",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDMwOC9pbmdpbi10ZXRhcC1iZXJtYWluLWRpLWl0YWxpYS1yb21hZ25vbGktc2lhcC10b2xhay1mdWxoYW0=",
+        "description": "BEK Alessio Romagnoli dikabarkan siap menolak pinangan klub Liga Primer Inggris Fulham demi dapat bertahan di Serie A musim depan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/504320/timnas-basket-basket-berbenah-jelang-piala-asia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQzMjAvdGltbmFzLWJhc2tldC1iYXNrZXQtYmVyYmVuYWgtamVsYW5nLXBpYWxhLWFzaWE=",
+        "description": "TIMNAS basket perlu segera melakukan pembenahan menghadapi Piala Asia FIBA yang mulai bergulir pekan depan. Berkaca dari kekalahan dua laga kualifikasi Piala Dunia FIBA jendela III atas Arab Saudi&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504319/baiq-nuril-dan-korban-lainnya-minta-revisi-uu-ite-segera-dilakukan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQzMTkvYmFpcS1udXJpbC1kYW4ta29yYmFuLWxhaW5ueWEtbWludGEtcmV2aXNpLXV1LWl0ZS1zZWdlcmEtZGlsYWt1a2Fu",
+        "description": "BADAN Legislasi (Baleg) DPR menggelar audiensi dengan Paguyuban Korban Undang-Undang Nomor 19 Tahun 2016 tentang Informasi dan Transaksi Elektronik (Paku<a href=\"http://mediaindonesia.com/tag/uu-ite\"&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504318/kpu-minta-perppu-pemilu-segera-diterbitkan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQzMTgva3B1LW1pbnRhLXBlcnBwdS1wZW1pbHUtc2VnZXJhLWRpdGVyYml0a2Fu",
+        "description": "KOMISI Pemilihan Umum (KPU) RI meminta agar Peraturan Pengganti Undang-Undang (Perppu) segera diterbitkan.&nbsp; Adapun kebijakan&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/504302/kara-chenoa-hadirkan-lagu-dansa-untuk-semua-lewat-shoe",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNDMwMi9rYXJhLWNoZW5vYS1oYWRpcmthbi1sYWd1LWRhbnNhLXVudHVrLXNlbXVhLWxld2F0LXNob2U=",
+        "description": "PENYANYI solo Kara Chenoa merilis single terbarunya bertajuk Shoe, yang bisa menjadi lagu dansa bagi semua orang dan pendengar lagunya.&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/504317/budiman-sudjatmiko-mengenang-bob-tutupoli-harry-belafonte-nya-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNDMxNy9idWRpbWFuLXN1ZGphdG1pa28tbWVuZ2VuYW5nLWJvYi10dXR1cG9saS1oYXJyeS1iZWxhZm9udGUtbnlhLWluZG9uZXNpYQ==",
+        "description": "PENYANYI legendaris Indonesia Bob Tutupoly meninggal dunia, Selasa (5/7) dini hari. Pelantun lagu Widuri tersebut wafat di usia&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504305/dosen-umy-banyak-dampak-negatif-dari-perkawinan-beda-agama",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0MzA1L2Rvc2VuLXVteS1iYW55YWstZGFtcGFrLW5lZ2F0aWYtZGFyaS1wZXJrYXdpbmFuLWJlZGEtYWdhbWE=",
+        "description": "DOSEN Program Studi Ilmu Hukum, Universitas Muhammadiyah Yogyakarta (UMY), Ahdiana Yuni Lestari, S.H., M.Hum., masyarakat harus diberi pemahaman&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/504316/hakim-tolak-tiga-praperadilan-eks-dirut-taspen",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA0MzE0L2VtcGF0LWJ1bGFuLWxhZ2ktc2VsdXJ1aC1pbmRvbmVzaWEtdHYtYW5hbG9nLXBlbnNpdW4teXVray1iZXJzaWFw",
         "description": "PEMERINTAH melalui Kementerian Komunikasi dan Informatika (Kominfo) memiliki program kerja yaitu mengajak masyarakat untuk beralih dari TV Analog ke TV Digital. Pada tahap pertama, siaran TV analog&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/504292/eriksen-dilaporkan-sepakat-bergabung-dengan-mu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDI5Mi9lcmlrc2VuLWRpbGFwb3JrYW4tc2VwYWthdC1iZXJnYWJ1bmctZGVuZ2FuLW11",
-        "description": "GELANDANG Christian Eriksen dikabarkan telah sepakat untuk bergabung dengan klub Liga Primer Ingggris Manchester United&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504312/presiden-minta-polri-kawal-seluruh-tahapan-pemilu-2024",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQzMTIvcHJlc2lkZW4tbWludGEtcG9scmkta2F3YWwtc2VsdXJ1aC10YWhhcGFuLXBlbWlsdS0yMDI0",
-        "description": "PRESIDEN Joko Widodo menginstruksikan Polri untuk mengawal gelaran pemilihan umum 2024 secara maksimal. Setiap tahapan yang saat ini sudah berlangsung harus betul-betul diawasi sehingga seluruh&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/504311/komisi-v-dpr-minta-ditjen-perhubungan-laut-untuk-evaluasi-program-tol-laut",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDMxMS9rb21pc2ktdi1kcHItbWludGEtZGl0amVuLXBlcmh1YnVuZ2FuLWxhdXQtdW50dWstZXZhbHVhc2ktcHJvZ3JhbS10b2wtbGF1dA==",
-        "description": "Rapat Dengar Pendapat Komisi V DPR RI dengan Ditjen Perhubungan Laut, PT Pelindo, dan PT Pelni melakukan upaya evalusi program tol laut. Komisi V beranggapan program tol laut harus dievalusi, mengingat&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/504298/azotobacter-si-bakteri-baik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0Mjk4L2F6b3RvYmFjdGVyLXNpLWJha3RlcmktYmFpaw==",
-        "description": "BIOREMEDIASI atau penggunaan mikroorganisme untuk mengurangi polutan seperti logam berat bisa dilakukan untuk memulihkan lingkungan. Pasalnya, tanah yang terkontaminasi logam berat mengandung racun&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/504309/keluarga-shireen-abu-akleh-siap-tuntut-israel-di-pengadilan-internasional",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNDMwOS9rZWx1YXJnYS1zaGlyZWVuLWFidS1ha2xlaC1zaWFwLXR1bnR1dC1pc3JhZWwtZGktcGVuZ2FkaWxhbi1pbnRlcm5hc2lvbmFs",
-        "description": "KELUARGA Shireen Abu Akleh merasa terpukul oleh hasil investigasi Amerika Serikat (AS). Washington menyatakan Jurnalis Aljazeera itu meninggal karena peluru nyasar yang dilepaskan tentara Israel.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/504284/ini-8-tips-dan-langkah-mencegah-stunting",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0Mjg0L2luaS04LXRpcHMtZGFuLWxhbmdrYWgtbWVuY2VnYWgtc3R1bnRpbmc=",
-        "description": "STUNTING merupakan gangguan pertumbuhan dan perkembangan anak akibat kekurangan gizi kronis dan infeksi berulang dan stimulasi lingkungan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504307/presiden-tegaskan-polisi-harus-humanis",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQzMDcvcHJlc2lkZW4tdGVnYXNrYW4tcG9saXNpLWhhcnVzLWh1bWFuaXM=",
-        "description": "Presiden Joko Widodo menegaskan bahwa Kepolisian Republik Indonesia (Polri), dalam menjalankan tugas di lapangan, harus mengedepankan sikap humanisme. Para petugas harus bisa memosisikan diri&#8230;"
     }
 ]
