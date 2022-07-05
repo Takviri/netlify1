@@ -1,5 +1,19 @@
 [
     {
+        "title": "DKI Terus Kembangkan Complete Street",
+        "link": "https://nasional.tempo.co/read/1608889/dki-terus-kembangkan-complete-street",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDg4ODkvZGtpLXRlcnVzLWtlbWJhbmdrYW4tY29tcGxldGUtc3RyZWV0",
+        "description": "Jakarta disiapkan menjadi kota yang ramah untuk pejalan kaki dan terintegrasi dengan sarana lainnya, termasuk kemudahan mengakses transportasi publik."
+    },
+    {
+        "title": "2 Petinggi ACT Pernah Dilaporkan PT Hydro Kasus Penipuan Akta, Polisi: Masih Penyelidikan",
+        "link": "https://nasional.tempo.co/read/1609077/2-petinggi-act-pernah-dilaporkan-pt-hydro-kasus-penipuan-akta-polisi-masih-penyelidikan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDkwNzcvMi1wZXRpbmdnaS1hY3QtcGVybmFoLWRpbGFwb3JrYW4tcHQtaHlkcm8ta2FzdXMtcGVuaXB1YW4tYWt0YS1wb2xpc2ktbWFzaWgtcGVueWVsaWRpa2Fu",
+        "description": "Dua petinggi ACT Ibnu Khadjar dan Ahyudin pernah dilaporkan ke Bareskrim Polri dalam perkara dugaan penipuan akta oleh PT Hydro pada Juni 2021."
+    },
+    {
         "title": "Sosiolog UGM: Kerusuhan Babarsari Cermin Yogyakarta Istimewa Tapi Regulasi Tak Istimewa",
         "link": "https://nasional.tempo.co/read/1609069/sosiolog-ugm-kerusuhan-babarsari-cermin-yogyakarta-istimewa-tapi-regulasi-tak-istimewa",
         "image": "static/images/tempo_nasional.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDkwMTkvcG9saXNpLWhhZGlyLWRpLWRhbGFtLW1hc3lhcmFrYXQtY2VybWluYW4taG9lZ2VuZy1hd2FyZHM=",
         "description": "Sejak 2017 program Geserin sudah tercipta"
-    },
-    {
-        "title": "Sidak Penyelenggara Haji, Anggota DPR Temukan Makanan Jemaah Haji Basi",
-        "link": "https://nasional.tempo.co/read/1609006/sidak-penyelenggara-haji-anggota-dpr-temukan-makanan-jemaah-haji-basi",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDkwMDYvc2lkYWstcGVueWVsZW5nZ2FyYS1oYWppLWFuZ2dvdGEtZHByLXRlbXVrYW4tbWFrYW5hbi1qZW1hYWgtaGFqaS1iYXNp",
-        "description": "Anggota DPR Bukhori Yusuf menemukan makanan yang disediakan oleh otoritas Arab Saudi kepada jemaah haji Indonesia kurang layak bahkan basi."
-    },
-    {
-        "title": "Polda Papua Bantah Klaim OPM Bunuh Intel yang Menyamar: Pedagang Kelontong",
-        "link": "https://nasional.tempo.co/read/1609003/polda-papua-bantah-klaim-opm-bunuh-intel-yang-menyamar-pedagang-kelontong",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDkwMDMvcG9sZGEtcGFwdWEtYmFudGFoLWtsYWltLW9wbS1idW51aC1pbnRlbC15YW5nLW1lbnlhbWFyLXBlZGFnYW5nLWtlbG9udG9uZw==",
-        "description": "Sebby mendesak pemerintah mencabut UU DOB Papua. Ia mengancam OPM akan membunuh siapa saja orang asing yang memasuki Papua."
     }
 ]
