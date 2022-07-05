@@ -1,5 +1,26 @@
 [
     {
+        "title": "Jatuh Banget! Sepeda Lipat Lagi Pada Diskon Nih",
+        "link": "https://www.cnbcindonesia.com/news/20220705144358-4-353124/jatuh-banget-sepeda-lipat-lagi-pada-diskon-nih",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE0NDM1OC00LTM1MzEyNC9qYXR1aC1iYW5nZXQtc2VwZWRhLWxpcGF0LWxhZ2ktcGFkYS1kaXNrb24tbmlo",
+        "description": " Demam sepeda lipat Brompton di masyarakat sudah jauh menurun jika dibandingkan tahun lalu."
+    },
+    {
+        "title": "Kemensos Ancam Cabut Izin ACT, Ini Sebabnya",
+        "link": "https://www.cnbcindonesia.com/news/20220705125521-8-353081/kemensos-ancam-cabut-izin-act-ini-sebabnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEyNTUyMS04LTM1MzA4MS9rZW1lbnNvcy1hbmNhbS1jYWJ1dC1pemluLWFjdC1pbmktc2ViYWJueWE=",
+        "description": " Kementerian Sosial mengatakan bisa membekukan atau mencabut izin lembaga ACT apabila terbukti melakukan tindakan penyimpangan."
+    },
+    {
+        "title": "Bandara London Chaos dan 100 Ribu Penumpang Terlantar, Kenapa?",
+        "link": "https://www.cnbcindonesia.com/news/20220705143417-4-353112/bandara-london-chaos-100-ribu-penumpang-terlantar-kenapa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE0MzQxNy00LTM1MzExMi9iYW5kYXJhLWxvbmRvbi1jaGFvcy0xMDAtcmlidS1wZW51bXBhbmctdGVybGFudGFyLWtlbmFwYQ==",
+        "description": " Kekurangan staf penerbangan masih terjadi di Inggris. Ini berdampak ke penumpang di dua bandara London, Heathrow dan Gatwick."
+    },
+    {
         "title": "Zulhas Bilang Harga Pangan Menggila Petani Untung, Beneran?",
         "link": "https://www.cnbcindonesia.com/news/20220705141830-4-353106/zulhas-bilang-harga-pangan-menggila-petani-untung-beneran",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE0MDEzNi00LTM1MzA5Ni9wbG4tYmVyaS1iYW50dWFuLXNhcmFuYS1lbGVrdHJpZmlrYXNpLWRpLXRhbmp1bmdwaW5hbmc=",
         "description": " PT PLN (Persero) terus mendukung perkembangan pariwisata ramah lingkungan dan ekonomi kreatif warga Pulau Penyengat, Kota Tanjungpinang."
-    },
-    {
-        "title": "Kuasai Kota Strategis, Putin Minta Lanjut Serang Ukraina",
-        "link": "https://www.cnbcindonesia.com/news/20220705125518-8-353078/kuasai-kota-strategis-putin-minta-lanjut-serang-ukraina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEyNTUxOC04LTM1MzA3OC9rdWFzYWkta290YS1zdHJhdGVnaXMtcHV0aW4tbWludGEtbGFuanV0LXNlcmFuZy11a3JhaW5h",
-        "description": " Putin meminta Shoigu, agar operasi militer dilanjutkan,"
-    },
-    {
-        "title": "Proyek China Spionase Terselubung?",
-        "link": "https://www.cnbcindonesia.com/news/20220705131301-4-353084/proyek-china-spionase-terselubung",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEzMTMwMS00LTM1MzA4NC9wcm95ZWstY2hpbmEtc3Bpb25hc2UtdGVyc2VsdWJ1bmc=",
-        "description": " investasi China dalam bidang pertanian di luar negeri telah meningkat menjadi sekitar US$ 95 miliar sejak 2010."
-    },
-    {
-        "title": "\"Teror\" Inflasi Makan Korban Lagi: Korea Selatan",
-        "link": "https://www.cnbcindonesia.com/news/20220705135525-4-353093/teror-inflasi-makan-korban-lagi-korea-selatan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEzNTUyNS00LTM1MzA5My90ZXJvci1pbmZsYXNpLW1ha2FuLWtvcmJhbi1sYWdpLWtvcmVhLXNlbGF0YW4=",
-        "description": " Inflasi tinggi kembali dilaporkan terjadi di negara maju. Kali ini, korban kenaikan harga barang-barang itu terjadi di Korea Selatan (Korsel)."
     }
 ]
