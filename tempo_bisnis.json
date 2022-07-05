@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kementan Gelar Pelatihan Vaksinasi PMK untuk Anggota Polri",
+        "link": "https://bisnis.tempo.co/read/1608896/kementan-gelar-pelatihan-vaksinasi-pmk-untuk-anggota-polri",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA4ODk2L2tlbWVudGFuLWdlbGFyLXBlbGF0aWhhbi12YWtzaW5hc2ktcG1rLXVudHVrLWFuZ2dvdGEtcG9scmk=",
+        "description": "Kementan melakukan pelatihan secara offline tentang tata cara vaksinasi PMK selama tiga hari di BBPKH Cinagara Bogor."
+    },
+    {
+        "title": "BNI Perkuat Bisnis Global di HUT Ke-76",
+        "link": "https://bisnis.tempo.co/read/1608894/bni-perkuat-bisnis-global-di-hut-ke-76",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA4ODk0L2JuaS1wZXJrdWF0LWJpc25pcy1nbG9iYWwtZGktaHV0LWtlLTc2",
+        "description": "Sejak awal BNI telah didesain sebagai bank di Indonesia yang berjaringan internasional."
+    },
+    {
         "title": "Luhut Sebut RI Ada di Posisi Terendah pada Kasus Harian terhadap Populasi",
         "link": "https://bisnis.tempo.co/read/1608883/luhut-sebut-ri-ada-di-posisi-terendah-pada-kasus-harian-terhadap-populasi",
         "image": "static/images/tempo_bisnis.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA4ODI5L3NhbXVlbC1zZWt1cml0YXMtaWhzZy1iYW5na2l0LTE1Mi1wZXJzZW4tc2VqdW1sYWgtc2FoYW0tZW1pdGVuLWJhdHUtYmFyYS1tZW5ndWF0",
         "description": "IHSG menutup sesi pertama di level 6.740 atau 1,52 persen lebih tinggi dari angka penutupan kemarin di level 6.639,1."
-    },
-    {
-        "title": "Terkini Bisnis: Muncul Nama-nama Baru Ojol, Petani Sawit Panik",
-        "link": "https://bisnis.tempo.co/read/1608816/terkini-bisnis-muncul-nama-nama-baru-ojol-petani-sawit-panik",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA4ODE2L3RlcmtpbmktYmlzbmlzLW11bmN1bC1uYW1hLW5hbWEtYmFydS1vam9sLXBldGFuaS1zYXdpdC1wYW5paw==",
-        "description": "Berita terkini ekonomi dan bisnis hingga Selasa siang, 5 Juli 2022 antara lain tentang munculnya nama-nama baru ojek online atau ojol."
-    },
-    {
-        "title": "KUR BRI Berpotensi Serap 32,1 Juta Lapangan Kerja",
-        "link": "https://bisnis.tempo.co/read/1608815/kur-bri-berpotensi-serap-321-juta-lapangan-kerja",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA4ODE1L2t1ci1icmktYmVycG90ZW5zaS1zZXJhcC0zMjEtanV0YS1sYXBhbmdhbi1rZXJqYQ==",
-        "description": "Estimasi berdasarkan hasil riset BRIN bahwa UMKM yang menggunakan KUR dapat menyerap tenaga kerja rata-rata 3 orang."
     }
 ]

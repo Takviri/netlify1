@@ -1,5 +1,19 @@
 [
     {
+        "title": "Intip Besaran Gaji Karyawan ACT",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220705154101-92-817549/intip-besaran-gaji-karyawan-act",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTU0MTAxLTkyLTgxNzU0OS9pbnRpcC1iZXNhcmFuLWdhamkta2FyeWF3YW4tYWN0",
+        "description": " Gaji karyawan lembaga donasi ACT hanya berkisar Rp2 juta hingga Rp5 jutaan saja per bulan bergantung pada posisinya."
+    },
+    {
+        "title": "Daftar Harga BBM Terbaru per 5 Juli 2022, Shell dan BP Naik",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220705122029-85-817415/daftar-harga-bbm-terbaru-per-5-juli-2022-shell-dan-bp-naik",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTIyMDI5LTg1LTgxNzQxNS9kYWZ0YXItaGFyZ2EtYmJtLXRlcmJhcnUtcGVyLTUtanVsaS0yMDIyLXNoZWxsLWRhbi1icC1uYWlr",
+        "description": " Harga BBM di sejumlah SPBU swasta seperti Shell dan BP mengalami kenaikan. Berikut rinciannya."
+    },
+    {
         "title": "IHSG Bangkit Dari Kejatuhan, Tembus 6.703 Pada 5 Juli",
         "link": "https://www.cnnindonesia.com/ekonomi/20220705151108-92-817517/ihsg-bangkit-dari-kejatuhan-tembus-6703-pada-5-juli",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTg1MTE3LTkyLTgxNzEzNi9rZW1lbmRhZy1wZXJiZXNhci1qYXRhaC1la3Nwb3ItY3BvLWRlbmdhbi1zeWFyYXQ=",
         "description": " Kemendag menaikkan jatah ekspor\u00c2\u00a0CPO bagi perusahaan yang memproduksi dan mendistribusikan minyak goreng curah kemasan sederhana."
-    },
-    {
-        "title": "Kasus PMK Tembus 136 Ribu, DPRD Jatim Minta Pemprov Bantu Peternak",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220704154028-92-817046/kasus-pmk-tembus-136-ribu-dprd-jatim-minta-pemprov-bantu-peternak",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTU0MDI4LTkyLTgxNzA0Ni9rYXN1cy1wbWstdGVtYnVzLTEzNi1yaWJ1LWRwcmQtamF0aW0tbWludGEtcGVtcHJvdi1iYW50dS1wZXRlcm5haw==",
-        "description": " Wakil ketua DPRD Jawa Timur Anwar Sadad meminta pemerintah provinsi Jatim membantu peternak yang terimbas wabah PMK."
-    },
-    {
-        "title": "UE Wajibkan Pedagang Kripto Buka Konsumsi Energi dan Dampak Lingkungan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220704114057-92-816910/ue-wajibkan-pedagang-kripto-buka-konsumsi-energi-dan-dampak-lingkungan",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTE0MDU3LTkyLTgxNjkxMC91ZS13YWppYmthbi1wZWRhZ2FuZy1rcmlwdG8tYnVrYS1rb25zdW1zaS1lbmVyZ2ktZGFuLWRhbXBhay1saW5na3VuZ2Fu",
-        "description": " Uni Eropa sedang membuat aturan yang\u00c2\u00a0bakal mewajibkan penjual\u00c2\u00a0kripto\u00c2\u00a0melaporkan konsumsi energi dan dampak lingkungan\u00c2\u00a0usaha mereka."
     }
 ]

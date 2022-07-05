@@ -1,5 +1,26 @@
 [
     {
+        "title": "'Hantu' Inflasi Gentayangan di Thailand, Catat Rekor 14 Tahun",
+        "link": "https://www.cnbcindonesia.com/news/20220705132850-4-353086/hantu-inflasi-gentayangan-di-thailand-catat-rekor-14-tahun",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEzMjg1MC00LTM1MzA4Ni9oYW50dS1pbmZsYXNpLWdlbnRheWFuZ2FuLWRpLXRoYWlsYW5kLWNhdGF0LXJla29yLTE0LXRhaHVu",
+        "description": " Inflasi Thailand pada Juni melampaui perkiraan, mencapai level tertinggi hampir 14 tahun."
+    },
+    {
+        "title": "6 Hari Melemah, IHSG Kembali ke Zona Hijau",
+        "link": "https://www.cnbcindonesia.com/news/20220705152426-8-353131/6-hari-melemah-ihsg-kembali-ke-zona-hijau",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE1MjQyNi04LTM1MzEzMS82LWhhcmktbWVsZW1haC1paHNnLWtlbWJhbGkta2Utem9uYS1oaWphdQ==",
+        "description": " 6 Hari Melemah, IHSG Kembali ke Zona Hijau"
+    },
+    {
+        "title": "Covid Minggir, Babi Bikin China Pening Lagi",
+        "link": "https://www.cnbcindonesia.com/news/20220705135330-4-353092/covid-minggir-babi-bikin-china-pening-lagi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEzNTMzMC00LTM1MzA5Mi9jb3ZpZC1taW5nZ2lyLWJhYmktYmlraW4tY2hpbmEtcGVuaW5nLWxhZ2k=",
+        "description": " China memang lolos dari kenaikan inflasi. Tapi babi bisa menjadi masalah baru di negara itu."
+    },
+    {
         "title": "Jatuh Banget! Sepeda Lipat Lagi Pada Diskon Nih",
         "link": "https://www.cnbcindonesia.com/news/20220705144358-4-353124/jatuh-banget-sepeda-lipat-lagi-pada-diskon-nih",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEzNTkwNC00LTM1MzA5NS9ib3MtYnBqcy1rZXNlaGF0YW4tdW5na2FwLWFsYXNhbi1rZWxhcy1zdGFuZGFyLXRhay1wZXJsdS1sYWdp",
         "description": " Kelas Rawat Inap Standar (KRIS) BPJS Kesehatan dianggap sudah tidak relevan dalam kondisi sekarang."
-    },
-    {
-        "title": "Ngeri Inflasi! Australia Kerek Suku Bunga 3 Bulan Beruntun",
-        "link": "https://www.cnbcindonesia.com/news/20220705133503-4-353089/ngeri-inflasi-australia-kerek-suku-bunga-3-bulan-beruntun",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEzMzUwMy00LTM1MzA4OS9uZ2VyaS1pbmZsYXNpLWF1c3RyYWxpYS1rZXJlay1zdWt1LWJ1bmdhLTMtYnVsYW4tYmVydW50dW4=",
-        "description": " Bank Sentral Australia kembali menaikkan suku bunga acuan guna menekan inflasi yang terus melambung."
-    },
-    {
-        "title": "Tawaran Putin Bangun Pembangkit Nuklir di IKN Layak Diterima?",
-        "link": "https://www.cnbcindonesia.com/news/20220705132931-4-353087/tawaran-putin-bangun-pembangkit-nuklir-di-ikn-layak-diterima",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTEzMjkzMS00LTM1MzA4Ny90YXdhcmFuLXB1dGluLWJhbmd1bi1wZW1iYW5na2l0LW51a2xpci1kaS1pa24tbGF5YWstZGl0ZXJpbWE=",
-        "description": " Presiden Vladimir Putin menawarkan untuk membangun PLTN di IKN Nusantara, layak diterima?"
-    },
-    {
-        "title": "PLN Beri Bantuan Sarana Elektrifikasi di Tanjungpinang",
-        "link": "https://www.cnbcindonesia.com/news/20220705140136-4-353096/pln-beri-bantuan-sarana-elektrifikasi-di-tanjungpinang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTE0MDEzNi00LTM1MzA5Ni9wbG4tYmVyaS1iYW50dWFuLXNhcmFuYS1lbGVrdHJpZmlrYXNpLWRpLXRhbmp1bmdwaW5hbmc=",
-        "description": " PT PLN (Persero) terus mendukung perkembangan pariwisata ramah lingkungan dan ekonomi kreatif warga Pulau Penyengat, Kota Tanjungpinang."
     }
 ]
