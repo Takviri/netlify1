@@ -1,5 +1,26 @@
 [
     {
+        "title": "DKI Siagakan Petugas Kebersihan Buntut Kepungan Bocah Citayam",
+        "link": "https://www.cnnindonesia.com/nasional/20220705182208-20-817639/dki-siagakan-petugas-kebersihan-buntut-kepungan-bocah-citayam",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNTE4MjIwOC0yMC04MTc2MzkvZGtpLXNpYWdha2FuLXBldHVnYXMta2ViZXJzaWhhbi1idW50dXQta2VwdW5nYW4tYm9jYWgtY2l0YXlhbQ==",
+        "description": " Petugas kebersihan disiagakan di sekitar Dukuh Atas, Sudirman\u00c2\u00a0mengantisipasi penumpukan sampah akibat\u00c2\u00a0fenomena perkumpulan remaja asal Citayam di wilayah itu."
+    },
+    {
+        "title": "Tebet Eco Park Jadi Zona Emisi Rendah, Dilarang Bawa Kendaraan Pribadi",
+        "link": "https://www.cnnindonesia.com/nasional/20220705163715-20-817580/tebet-eco-park-jadi-zona-emisi-rendah-dilarang-bawa-kendaraan-pribadi",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNTE2MzcxNS0yMC04MTc1ODAvdGViZXQtZWNvLXBhcmstamFkaS16b25hLWVtaXNpLXJlbmRhaC1kaWxhcmFuZy1iYXdhLWtlbmRhcmFhbi1wcmliYWRp",
+        "description": " Pemprov\u00c2\u00a0DKI Jakarta menyiapkan Tebet Eco Park menjadi kawasan rendah emisi atau low emission zone (LEZ)."
+    },
+    {
+        "title": "Gempa M 5 Guncang Maluku Tenggara, Tak Berpotensi Tsunami",
+        "link": "https://www.cnnindonesia.com/nasional/20220705221359-20-817711/gempa-m-5-guncang-maluku-tenggara-tak-berpotensi-tsunami",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNTIyMTM1OS0yMC04MTc3MTEvZ2VtcGEtbS01LWd1bmNhbmctbWFsdWt1LXRlbmdnYXJhLXRhay1iZXJwb3RlbnNpLXRzdW5hbWk=",
+        "description": " Gempa bumi berkekuatan magnitudo5 mengguncang barat laut Maluku Tenggara, Maluku, pada Selasa (5/7) malam."
+    },
+    {
         "title": "Tujuh Penambang Batu Seram Barat Tertimbun Longsor, 2 Tewas 3 Hilang",
         "link": "https://www.cnnindonesia.com/nasional/20220705194550-20-817677/tujuh-penambang-batu-seram-barat-tertimbun-longsor-2-tewas-3-hilang",
         "image": "static/images/cnn_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNTIwNDI1Ny0xMi04MTc2OTYvcHJlbWFuLWRpLXJhbmNhZWtlay1iYW5kdW5nLWJhY29rLWthZGVyLXBhcnRhaS1kZW1va3JhdC1oaW5nZ2EtdGV3YXM=",
         "description": " Misa Munggara (33) yang tewas dibacok dua preman di Rancaekek, Kabupaten Bandung, Jawa Barat merupakan kader Partai Demokrat."
-    },
-    {
-        "title": "Jelang Idul Adha, Ada 2.000 Lebih Ternak di Banten Terjangkit PMK",
-        "link": "https://www.cnnindonesia.com/nasional/20220705204437-20-817694/jelang-idul-adha-ada-2000-lebih-ternak-di-banten-terjangkit-pmk",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNTIwNDQzNy0yMC04MTc2OTQvamVsYW5nLWlkdWwtYWRoYS1hZGEtMjAwMC1sZWJpaC10ZXJuYWstZGktYmFudGVuLXRlcmphbmdraXQtcG1r",
-        "description": " Pemprov Banten mengatakan ada 2.057 hewan ternak yang terjangkit Penyakit Mulut dan Kuku (PMK), di mana 853 di antaranya di Tangerang Raya."
-    },
-    {
-        "title": "Edy Rahmayadi Sebut Kedatangan Jokowi Tambah Semangat Perangi Stunting",
-        "link": "https://www.cnnindonesia.com/nasional/20220705200317-20-817681/edy-rahmayadi-sebut-kedatangan-jokowi-tambah-semangat-perangi-stunting",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNTIwMDMxNy0yMC04MTc2ODEvZWR5LXJhaG1heWFkaS1zZWJ1dC1rZWRhdGFuZ2FuLWpva293aS10YW1iYWgtc2VtYW5nYXQtcGVyYW5naS1zdHVudGluZw==",
-        "description": " Gubernur Sumatera Utara Edy Rahmayadi menyambut langsung kedatangan Jokowi\u00c2\u00a0dan ibu negara di Medan."
-    },
-    {
-        "title": "Jokowi Kurban Sapi 1 Ton di Seluruh Provinsi pada Iduladha Tahun Ini",
-        "link": "https://www.cnnindonesia.com/nasional/20220705193149-20-817664/jokowi-kurban-sapi-1-ton-di-seluruh-provinsi-pada-iduladha-tahun-ini",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNTE5MzE0OS0yMC04MTc2NjQvam9rb3dpLWt1cmJhbi1zYXBpLTEtdG9uLWRpLXNlbHVydWgtcHJvdmluc2ktcGFkYS1pZHVsYWRoYS10YWh1bi1pbmk=",
-        "description": " Kasetpres mengatakan distribusi sapi-sapi presiden itu akan ditangani gubernur masing-masing, juga tempat penyembelihannya."
     }
 ]
