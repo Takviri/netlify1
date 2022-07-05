@@ -1,5 +1,19 @@
 [
     {
+        "title": "Daftar Harga Bahan Pangan di Pasar DKI yang Harganya Tinggi",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220705142634-92-817487/daftar-harga-bahan-pangan-di-pasar-dki-yang-harganya-tinggi",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTQyNjM0LTkyLTgxNzQ4Ny9kYWZ0YXItaGFyZ2EtYmFoYW4tcGFuZ2FuLWRpLXBhc2FyLWRraS15YW5nLWhhcmdhbnlhLXRpbmdnaQ==",
+        "description": " Harga sejumlah bahan pokok di pasar DKI Jakarta masih tinggi. Bahkan, cabai rawit merah dibanderol lebih dari Rp100 ribu per kg."
+    },
+    {
+        "title": "Harga Gandum Naik, Warga Pantai Gading Buat Roti dengan Tepung Sinkong",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220705131608-92-817444/harga-gandum-naik-warga-pantai-gading-buat-roti-dengan-tepung-sinkong",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTMxNjA4LTkyLTgxNzQ0NC9oYXJnYS1nYW5kdW0tbmFpay13YXJnYS1wYW50YWktZ2FkaW5nLWJ1YXQtcm90aS1kZW5nYW4tdGVwdW5nLXNpbmtvbmc=",
+        "description": " Pantai Gading Afrika Barat mulai mengganti dari tepung gandum menjadi tepung singkong sebagai bahan dasar roti."
+    },
+    {
         "title": "BPN Sertifikasi Ulang Tanah Sitaan BLBI Pemberian Jokowi di Jasinga",
         "link": "https://www.cnnindonesia.com/ekonomi/20220705120806-92-817411/bpn-sertifikasi-ulang-tanah-sitaan-blbi-pemberian-jokowi-di-jasinga",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTA0MzMzLTg1LTgxNzM1NC9pbWJhcy1iYW5na3J1dC1zdG9rLWJibS1zcmktbGFua2EtaGFueWEtY3VrdXAtdW50dWstc2F0dS1oYXJp",
         "description": " Pasokan bahan bakar minyak di Sri Lanka hanya cukup untuk kurang dari satu hari. Hal itu merupakan imbas dari krisis ekonomi yang melanda negara tersebut."
-    },
-    {
-        "title": "Mentan Klaim 3 Juta Vaksin PMK Masuk ke Indonesia",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220704134448-92-816978/mentan-klaim-3-juta-vaksin-pmk-masuk-ke-indonesia",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTM0NDQ4LTkyLTgxNjk3OC9tZW50YW4ta2xhaW0tMy1qdXRhLXZha3Npbi1wbWstbWFzdWsta2UtaW5kb25lc2lh",
-        "description": " Menteri Pertanian Syahrul Yasin Limpo mengklaim 3 juta vaksin penyakit mulut dan kuku (PMK) pada hewan ternak sudah masuk ke Indonesia."
-    },
-    {
-        "title": "Unduh Allo Bank Sekarang, Langsung Dapat Sushi Gratis",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220704165032-97-817083/unduh-allo-bank-sekarang-langsung-dapat-sushi-gratis",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA0MTY1MDMyLTk3LTgxNzA4My91bmR1aC1hbGxvLWJhbmstc2VrYXJhbmctbGFuZ3N1bmctZGFwYXQtc3VzaGktZ3JhdGlz",
-        "description": " Pengguna baru Allo Bank punya kesempatan\u00c2\u00a0dapat sushi gratis di\u00c2\u00a0outlet Gyu Katsu Nikaido seluruh Indonesia. Simak caranya di sini."
     }
 ]
