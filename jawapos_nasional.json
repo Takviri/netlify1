@@ -1,5 +1,12 @@
 [
     {
+        "title": "Covid-19 Naik Lagi, Sehari 2.577 Orang Positif, Kasus Aktif 878",
+        "link": "https://www.jawapos.com/nasional/05/07/2022/covid-19-naik-lagi-sehari-2-577-orang-positif-kasus-aktif-878/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMDUvMDcvMjAyMi9jb3ZpZC0xOS1uYWlrLWxhZ2ktc2VoYXJpLTItNTc3LW9yYW5nLXBvc2l0aWYta2FzdXMtYWt0aWYtODc4Lw==",
+        "description": "Setelah sempat landai beberapa hari, Covid-19 harian kembali naik pada Selasa (5/7). Kenaikan terjadi baik pada kasus aktif maupun angka terkonfirmasi positif."
+    },
+    {
         "title": "Buntut Skandal ACT, Lembaga Filantropi Diminta Jaga Kode Etik",
         "link": "https://www.jawapos.com/nasional/hukum-kriminal/05/07/2022/buntut-skandal-act-lembaga-filantropi-diminta-jaga-kode-etik/?page=all",
         "image": "static/images/jawapos_nasional.png",
@@ -61,12 +68,5 @@
         "image": "static/images/jawapos_nasional.png",
         "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMDUvMDcvMjAyMi9rZW1lbmtlcy1zdXN1bi1wZXRhLWphbGFuLXVudHVrLXBlcnNpYXBrYW4ta2VsYXMtcmF3YXQtaW5hcC1zdGFuZGFyLw==",
         "description": "Pemerintah terus melakukan perbaikan kelas rawat inap standar (KRIS) jaminan kesehatan nasional (JKN). Ditargetkan, pada 2024 seluruh RS sudah memiliki KRIS."
-    },
-    {
-        "title": "Kemenhub Siapkan Penerapan Vaksin Booster untuk Syarat Perjalanan",
-        "link": "https://www.jawapos.com/nasional/05/07/2022/kemenhub-siapkan-penerapan-vaksin-booster-untuk-syarat-perjalanan/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMDUvMDcvMjAyMi9rZW1lbmh1Yi1zaWFwa2FuLXBlbmVyYXBhbi12YWtzaW4tYm9vc3Rlci11bnR1ay1zeWFyYXQtcGVyamFsYW5hbi8=",
-        "description": "Kementerian Perhubungan (Kemenhub) menyatakan sedang menyiapkan aturan dan mekanisme penerapan vaksin ketiga (booster) sebagai syarat perjalanan transportasi."
     }
 ]
