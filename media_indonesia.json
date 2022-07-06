@@ -1,6 +1,20 @@
 [
     {
         "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504836/kemenkominfo-ajak-masyarakat-bermedia-digital-dengan-baik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0ODM2L2tlbWVua29taW5mby1hamFrLW1hc3lhcmFrYXQtYmVybWVkaWEtZGlnaXRhbC1kZW5nYW4tYmFpaw==",
+        "description": "TIDAK bisa dipungkiri, perkembangan digital sangatlah pesat ke segala sisi kehidupan. Namun, masih banyak pengguna internet yang hanya mampu menerima informasi. Namun mereka tanpa memiliki kemampuan&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/504835/rihanna-wanita-muda-paling-kaya-di-amerika-serikat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNDgzNS9yaWhhbm5hLXdhbml0YS1tdWRhLXBhbGluZy1rYXlhLWRpLWFtZXJpa2Etc2VyaWthdA==",
+        "description": "ARTIS Rihanna secara resmi telah dinobatkan menjadi wanita muda terkaya di Amerika Serikat setelah mengumpulkan kekayaan bersih senilai US$1,4 miliar (sekitar Rp21 triliun) pada usia 34 tahun.&#8230;"
+    },
+    {
+        "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/504834/jemaah-bersiap-melaksanakan-puncak-ibadah-haji-kamis-pagi",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0ODM0L2plbWFhaC1iZXJzaWFwLW1lbGFrc2FuYWthbi1wdW5jYWstaWJhZGFoLWhhamkta2FtaXMtcGFnaQ==",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0ODI3L2tvbWluZm8tbWFzeWFyYWthdC1zaWFwLWJlcmFsaWgta2Utc2lhcmFuLXR2LWRpZ2l0YWw=",
         "description": "KEMENTERIAN Komunikasi dan Informatika (Kominfo) menyatakan bahwa sebagian besar masyarakat di Indonesia sudah siap beralih dari siaran analog ke siaran televisi (TV) digital.&nbsp; Hal itu&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/504826/presiden-sri-lanka-minta-bantuan-putin-untuk-impor-bahan-bakar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNDgyNi9wcmVzaWRlbi1zcmktbGFua2EtbWludGEtYmFudHVhbi1wdXRpbi11bnR1ay1pbXBvci1iYWhhbi1iYWthcg==",
-        "description": "PRESIDEN Sri Lanka Gotabaya Rajapaksa pada Rabu (6/7) mengatakan pihaknya meminta pemimpin Rusia Vladimir Putin untuk membantu negara kepulauan yang kekurangan uang itu mengimpor bahan bakar di saat&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/504825/tahun-depan-indonesia-larang-ekspor-timah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDgyNS90YWh1bi1kZXBhbi1pbmRvbmVzaWEtbGFyYW5nLWVrc3Bvci10aW1haA==",
-        "description": "SETELAH&nbsp;nikel, Menteri Investasi/Kepala Badan Koordinasi Penanaman Modal (BKPM) Bahlil Lahadalia mengungkapkan, pemerintah Indonesia berencana melarang ekspor timah pada tahun depan. Larangan&#8230;"
     }
 ]
