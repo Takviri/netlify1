@@ -1,5 +1,47 @@
 [
     {
+        "title": "Kalah di MA, Antam Dimnta Bayar 2.2T",
+        "link": "https://www.cnbcindonesia.com/market/20220706123131-17-353385/kalah-di-ma-antam-dimnta-bayar-22t",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTIzMTMxLTE3LTM1MzM4NS9rYWxhaC1kaS1tYS1hbnRhbS1kaW1udGEtYmF5YXItMjJ0",
+        "description": " Perseteruan kali ini dimenangkan oleh crazy rich asal Surabaya tersebut."
+    },
+    {
+        "title": "IHSG Merah, Saham BRMS Ikut Melemah 3,45%",
+        "link": "https://www.cnbcindonesia.com/market/20220706130928-17-353401/ihsg-merah-saham-brms-ikut-melemah-345",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTMwOTI4LTE3LTM1MzQwMS9paHNnLW1lcmFoLXNhaGFtLWJybXMtaWt1dC1tZWxlbWFoLTM0NQ==",
+        "description": " Harga saham emiten tambang mineral Grup Bakrie, PT Bumi Resources Minerals Tbk (BRMS) terpantau melemah pada akhir sesi I perdagangan Rabu (6/7/2022)"
+    },
+    {
+        "title": "Sudah 3 Pekan Dolar Singapura Volatil di Rp 10.650-Rp 10.750",
+        "link": "https://www.cnbcindonesia.com/market/20220706113928-17-353369/sudah-3-pekan-dolar-singapura-volatil-di-rp-10650-rp-10750",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTEzOTI4LTE3LTM1MzM2OS9zdWRhaC0zLXBla2FuLWRvbGFyLXNpbmdhcHVyYS12b2xhdGlsLWRpLXJwLTEwNjUwLXJwLTEwNzUw",
+        "description": " Kurs Dolar Singapura menguat melawan rupiah pada perdagangan Rabu (6/7/2022) setelah merosot Selasa kemarin"
+    },
+    {
+        "title": "Laba Bersih Moncer, Saham Yenny Wahid Cs Malah Ambles 4,5%",
+        "link": "https://www.cnbcindonesia.com/market/20220706125548-17-353398/laba-bersih-moncer-saham-yenny-wahid-cs-malah-ambles-45",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTI1NTQ4LTE3LTM1MzM5OC9sYWJhLWJlcnNpaC1tb25jZXItc2FoYW0teWVubnktd2FoaWQtY3MtbWFsYWgtYW1ibGVzLTQ1",
+        "description": " Pada pukul 11.30 WIB, saham WIRG melemah 4,5% ke level Rp 530 per saham."
+    },
+    {
+        "title": "IPO, Agung Menjangan Mas Tawarkan Rp 100 - Rp 150/Saham",
+        "link": "https://www.cnbcindonesia.com/market/20220706113206-17-353356/ipo-agung-menjangan-mas-tawarkan-rp-100--rp-150-saham",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTEzMjA2LTE3LTM1MzM1Ni9pcG8tYWd1bmctbWVuamFuZ2FuLW1hcy10YXdhcmthbi1ycC0xMDAtLXJwLTE1MC1zYWhhbQ==",
+        "description": " Saham yang ditawarkan kepada masyarakat di kisaran Rp 100 - Rp 150 per saham"
+    },
+    {
+        "title": "KB Bukopin-CIMBNiaga Luncurkan Tarik Tunai Tanpa Kartu",
+        "link": "https://www.cnbcindonesia.com/market/20220706123606-17-353395/kb-bukopin-cimbniaga-luncurkan-tarik-tunai-tanpa-kartu",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTIzNjA2LTE3LTM1MzM5NS9rYi1idWtvcGluLWNpbWJuaWFnYS1sdW5jdXJrYW4tdGFyaWstdHVuYWktdGFucGEta2FydHU=",
+        "description": " KB Bukopin Tbk (BBKP), Bank CIMB Niaga Tbk (BNGA), PT Artajasa Pembayaran Elektronis (Artajasa) meresmikan Implementasi Layanan Tarik Tunai Tanpa Kartu"
+    },
+    {
         "title": "IHSG Longsor, Bisa Makin Dalam di Sesi Kedua?",
         "link": "https://www.cnbcindonesia.com/market/20220706123258-17-353383/ihsg-longsor-bisa-makin-dalam-di-sesi-kedua",
         "image": "static/images/cnbc_market.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTIxNTA4LTE3LTM1MzM3NC9paHNnLXJvbnRvay1pbmktc2FoYW0tc2FoYW0teWFuZy1wYWxpbmctamVibG9r",
         "description": " Di tengah melemahnya IHSG siang ini terdapat 5 saham yang tampil perkasa dan 5 saham yang masuk top losers."
-    },
-    {
-        "title": "\"Sri Mulyani\" Inggris Resign! Kurs Poundsterling Jeblok",
-        "link": "https://www.cnbcindonesia.com/market/20220706112900-17-353355/sri-mulyani-inggris-resign-kurs-poundsterling-jeblok",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTEyOTAwLTE3LTM1MzM1NS9zcmktbXVseWFuaS1pbmdncmlzLXJlc2lnbi1rdXJzLXBvdW5kc3RlcmxpbmctamVibG9r",
-        "description": " Nilai tukar poundsterling merosot melawan dolar Amerika Serikat (AS) dan rupiah pada Selasa kemarin."
-    },
-    {
-        "title": "Izin Dicabut Mensos. ACT Masih Diinvestigasi",
-        "link": "https://www.cnbcindonesia.com/market/20220706102422-19-353328/izin-dicabut-mensos-act-masih-diinvestigasi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTAyNDIyLTE5LTM1MzMyOC9pemluLWRpY2FidXQtbWVuc29zLWFjdC1tYXNpaC1kaWludmVzdGlnYXNp",
-        "description": " Kisruh terkait pengelolaan dana Yayasan Aksi Cepat Tanggap (ACT) masih terus berlanjut"
-    },
-    {
-        "title": "PMN Ke BTN Direstui DPR Hingga Vale Kerek Produksi 3x Lipat",
-        "link": "https://www.cnbcindonesia.com/market/20220706101632-19-353321/pmn-ke-btn-direstui-dpr-hingga-vale-kerek-produksi-3x-lipat",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTAxNjMyLTE5LTM1MzMyMS9wbW4ta2UtYnRuLWRpcmVzdHVpLWRwci1oaW5nZ2EtdmFsZS1rZXJlay1wcm9kdWtzaS0zeC1saXBhdA==",
-        "description": " PT Bank Tabungan Negara Persero Tbk atau BTN akhirnya mengantongi izin untuk aksi penambahan modal lewat skema rights issue oleh Komisi Enam DPR RI."
-    },
-    {
-        "title": "Tenang! Rupiah Masih Kuat Terhadap Dua Mata Uang di Eropa Ini",
-        "link": "https://www.cnbcindonesia.com/market/20220706112859-17-353354/tenang-rupiah-masih-kuat-terhadap-dua-mata-uang-di-eropa-ini",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTEyODU5LTE3LTM1MzM1NC90ZW5hbmctcnVwaWFoLW1hc2loLWt1YXQtdGVyaGFkYXAtZHVhLW1hdGEtdWFuZy1kaS1lcm9wYS1pbmk=",
-        "description": " Kurs rupiah berhasil melibas poundsterling dan dolar franc swiss pada perdagangan hari ini, tapi\u00c2\u00a0tertekan oleh euro."
-    },
-    {
-        "title": "Multistrada (MASA) Resmi Genggam 99,93% Saham Michelin",
-        "link": "https://www.cnbcindonesia.com/market/20220706110550-17-353344/multistrada--masa--resmi-genggam-9993-saham-michelin",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTEwNTUwLTE3LTM1MzM0NC9tdWx0aXN0cmFkYS0tbWFzYS0tcmVzbWktZ2VuZ2dhbS05OTkzLXNhaGFtLW1pY2hlbGlu",
-        "description": " PT Multistrada Arah Sarana Tbk (MASA) sejak 20 Juni 2022 dipastikan memiliki 99,93% saham PT Michelin Indonesia."
-    },
-    {
-        "title": "Pandu Sjahrir Mundur dari Komisaris Digital Mediatama (DMMX)",
-        "link": "https://www.cnbcindonesia.com/market/20220706112902-17-353361/pandu-sjahrir-mundur-dari-komisaris-digital-mediatama--dmmx-",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTEyOTAyLTE3LTM1MzM2MS9wYW5kdS1zamFocmlyLW11bmR1ci1kYXJpLWtvbWlzYXJpcy1kaWdpdGFsLW1lZGlhdGFtYS0tZG1teC0=",
-        "description": " PT Digital Mediatama Maxima Tbk (DMMX) mengumumkan pengunduran diri Pandu Patria Sjahrir sebagai Komisaris"
     }
 ]

@@ -1,6 +1,13 @@
 [
     {
-        "title": "Izin Aksi Cepat Tanggap dicabut usai polemik di publik, 'pengawasan pemerintah selama ini lemah'",
+        "title": "Inflasi di Turki meroket sampai 78%, WNI gulung tikar dan dikenakan harga lebih tinggi ketimbang warga lokal",
+        "link": "https://www.bbc.com/indonesia/dunia-62036682",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjIwMzY2ODI=",
+        "description": "Inflasi di Turki mencapai 78% dan harga-harga semakin melambung, yang diperparah perang di Ukraina"
+    },
+    {
+        "title": "ACT: Izin pengumpulan dana publik dicabut usai polemik di publik, 'pengawasan pemerintah selama ini lemah'",
         "link": "https://www.bbc.com/indonesia/indonesia-62046881",
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYyMDQ2ODgx",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjIwMzI0OTI=",
         "description": "Polisi menangkap dan menahan seseorang yang diduga sebagai pria bersenjata yang menembak dari atap, menyebabkan enam orang tewas, saat parade Hari Kemerdekaan AS di dekat kota Chicago."
-    },
-    {
-        "title": "Perang Ukraina: Turki menahan kapal berbendera Rusia pengangkut biji-bijian dari Ukraina",
-        "link": "https://www.bbc.com/indonesia/dunia-62036680",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjIwMzY2ODA=",
-        "description": "Alat pelacakan mengungkap rute pengiriman biji-bijian dari kawasan Ukraina yang diduduki Rusia."
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "Zulhas soal Sering Dicecar: Harga Pangan Bukan Urusan Kemendag",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220706125957-92-817970/zulhas-soal-sering-dicecar-harga-pangan-bukan-urusan-kemendag",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA2MTI1OTU3LTkyLTgxNzk3MC96dWxoYXMtc29hbC1zZXJpbmctZGljZWNhci1oYXJnYS1wYW5nYW4tYnVrYW4tdXJ1c2FuLWtlbWVuZGFn",
+        "description": " Menteri Perdagangan Zulkifli Hasan mengaku sering dicecar perihal harga pangan meski menurutnya masalah tersebut bukan urusan Kemendag."
+    },
+    {
+        "title": "Sri Mulyani soal Pajak bagi Masyarakat: Listrik, Gas, Itu Subsidi",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220706125248-532-817969/sri-mulyani-soal-pajak-bagi-masyarakat-listrik-gas-itu-subsidi",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA2MTI1MjQ4LTUzMi04MTc5Njkvc3JpLW11bHlhbmktc29hbC1wYWphay1iYWdpLW1hc3lhcmFrYXQtbGlzdHJpay1nYXMtaXR1LXN1YnNpZGk=",
+        "description": " Menkeu Sri Mulyani menyebut fungsi bayar pajak bagi masyarakat, salah satunya subsidi dari listrik dan gas oleh pemerintah."
+    },
+    {
         "title": "Antam Kalah Kasasi, Dituntut Ganti Rugi 1,13 Ton Emas Batangan",
         "link": "https://www.cnnindonesia.com/ekonomi/20220706122421-92-817945/antam-kalah-kasasi-dituntut-ganti-rugi-113-ton-emas-batangan",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTcyNTQ3LTk3LTgxNzYwOS9qYWphbi1ib2JhLWRpLXRzbS1zYW1wYWktdHJhbnNtYXJ0LWRpc2tvbi0zMC1wZXJzZW4tcGFrYWktYWxsby1iYW5r",
         "description": " Penggemar minuman kekinian wajib tahu kalau jajan boba di merchant yang ada di Trans Studio Mall (TSM), Transpark, sampai Transmart ada diskon 30 persen, lho."
-    },
-    {
-        "title": "Pengelola Dukung Vaksin Booster Jadi Syarat Masuk Mal",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220705170201-92-817587/pengelola-dukung-vaksin-booster-jadi-syarat-masuk-mal",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTcwMjAxLTkyLTgxNzU4Ny9wZW5nZWxvbGEtZHVrdW5nLXZha3Npbi1ib29zdGVyLWphZGktc3lhcmF0LW1hc3VrLW1hbA==",
-        "description": " Pengelola pusat perbelanjaan mendukung rencana pemerintah untuk menjadikan vaksin booster sebagai syarat masuk mal."
-    },
-    {
-        "title": "Kripto Keok, Harga Bitcoin Turun Terus hingga US$19 Ribu-an",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220706101137-92-817862/kripto-keok-harga-bitcoin-turun-terus-hingga-us-19-ribu-an",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA2MTAxMTM3LTkyLTgxNzg2Mi9rcmlwdG8ta2Vvay1oYXJnYS1iaXRjb2luLXR1cnVuLXRlcnVzLWhpbmdnYS11cy0xOS1yaWJ1LWFu",
-        "description": " Mayoritas harga kripto rontok pada Rabu (6/7) pagi. Mata uang digital bitcoin, misalnya, kembali turun ke level US$19 ribu-an."
     }
 ]

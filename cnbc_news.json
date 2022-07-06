@@ -1,5 +1,12 @@
 [
     {
+        "title": "Jengjeng.. AS Terjunkan Pesawat Siluman ke Korea, Mau Perang?",
+        "link": "https://www.cnbcindonesia.com/news/20220706124832-4-353399/jengjeng-as-terjunkan-pesawat-siluman-ke-korea-mau-perang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjEyNDgzMi00LTM1MzM5OS9qZW5namVuZy1hcy10ZXJqdW5rYW4tcGVzYXdhdC1zaWx1bWFuLWtlLWtvcmVhLW1hdS1wZXJhbmc=",
+        "description": " Amerika Serikat (AS) menerjunkan pesawat siluman F-35 ke wilayah Korea. Ada apa?"
+    },
+    {
         "title": "Kata Zulhas Petani Sawit Malaysia Bahagia, di RI Menderita",
         "link": "https://www.cnbcindonesia.com/news/20220706120428-4-353370/kata-zulhas-petani-sawit-malaysia-bahagia-di-ri-menderita",
         "image": "static/images/cnbc_news.png",
@@ -49,10 +56,10 @@
         "description": " China kembali memberlakukan penguncian (lockdown) pada beberapa wilayahnya."
     },
     {
-        "title": "Menteri ESDMdan BahlilBahas Tindak Lanjut Pencabutan Tambang",
-        "link": "https://www.cnbcindonesia.com/news/20220706115035-4-353365/menteri-esdm-bahlilbahas-tindak-lanjut-pencabutan-tambang",
+        "title": "Menteri ESDM dan Bahlil Bahas Tindak Lanjut Pencabutan Tambang",
+        "link": "https://www.cnbcindonesia.com/news/20220706115035-4-353365/menteri-esdm-bahlil-bahas-tindak-lanjut-pencabutan-tambang",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjExNTAzNS00LTM1MzM2NS9tZW50ZXJpLWVzZG0tYmFobGlsYmFoYXMtdGluZGFrLWxhbmp1dC1wZW5jYWJ1dGFuLXRhbWJhbmc=",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjExNTAzNS00LTM1MzM2NS9tZW50ZXJpLWVzZG0tYmFobGlsLWJhaGFzLXRpbmRhay1sYW5qdXQtcGVuY2FidXRhbi10YW1iYW5n",
         "description": " Kementerian ESDM dan BKPM membicarakan proses tindak lanjut dari pencabutan tambang mineral dan batu bara"
     },
     {
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjEyMjQ0NS00LTM1MzM3Ny9qYWJvZGV0YWJlay1iYXRhbC1wcGttLWxldmVsLTIta2VtYmFsaS1sYWdpLWtlLWxldmVsLTE=",
         "description": " Aturan Jabodetabek masuk ke dalam PPKM level 1 dituangkan dalam Inmendagri 35/2022."
-    },
-    {
-        "title": "Resesi Dunia Ngeri, Orang Bakal Sampai Susah Dapat Makan?",
-        "link": "https://www.cnbcindonesia.com/news/20220706113913-4-353363/resesi-dunia-ngeri-orang-bakal-sampai-susah-dapat-makan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjExMzkxMy00LTM1MzM2My9yZXNlc2ktZHVuaWEtbmdlcmktb3JhbmctYmFrYWwtc2FtcGFpLXN1c2FoLWRhcGF0LW1ha2Fu",
-        "description": " Dunia akan segera memasuki resesi."
     }
 ]
