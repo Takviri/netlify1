@@ -1,5 +1,54 @@
 [
     {
+        "title": "'Apartemen Hantu' Pelan-Pelan Hilang di DKI, Ini Sebabnya",
+        "link": "https://www.cnbcindonesia.com/news/20220706111130-4-353362/apartemen-hantu-pelan-pelan-hilang-di-dki-ini-sebabnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjExMTEzMC00LTM1MzM2Mi9hcGFydGVtZW4taGFudHUtcGVsYW4tcGVsYW4taGlsYW5nLWRpLWRraS1pbmktc2ViYWJueWE=",
+        "description": " Tingkat hunian apartemen servis di Jakarta naik tipis pada kuartal II tahun ini."
+    },
+    {
+        "title": "Rupiah Tembus RP 15.000/USD, Waspada Inflasi Barang Impor!",
+        "link": "https://www.cnbcindonesia.com/news/20220706114717-8-353364/rupiah-tembus-rp-15000-usd-waspada-inflasi-barang-impor",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjExNDcxNy04LTM1MzM2NC9ydXBpYWgtdGVtYnVzLXJwLTE1MDAwLXVzZC13YXNwYWRhLWluZmxhc2ktYmFyYW5nLWltcG9y",
+        "description": " Ekonom: Rupiah Tembus RP 15.000/USD, Waspada Inflasi Barang Impor"
+    },
+    {
+        "title": "Apa yang Bikin PPKM Jabodetabek Naik Jadi Level 2? Ini Dia!",
+        "link": "https://www.cnbcindonesia.com/news/20220706111522-4-353347/apa-yang-bikin-ppkm-jabodetabek-naik-jadi-level-2-ini-dia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjExMTUyMi00LTM1MzM0Ny9hcGEteWFuZy1iaWtpbi1wcGttLWphYm9kZXRhYmVrLW5haWstamFkaS1sZXZlbC0yLWluaS1kaWE=",
+        "description": " Peningkatan kasus Covid-19 dalam beberapa waktu terakhir menjadi biang kerok status PPKM di wilayah aglomerasi kembali naik."
+    },
+    {
+        "title": "Perhatian! Ada Minyakita, Minyak Goreng Curah Gak Dihapus",
+        "link": "https://www.cnbcindonesia.com/news/20220706112833-4-353352/perhatian-ada-minyakita-minyak-goreng-curah-gak-dihapus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjExMjgzMy00LTM1MzM1Mi9wZXJoYXRpYW4tYWRhLW1pbnlha2l0YS1taW55YWstZ29yZW5nLWN1cmFoLWdhay1kaWhhcHVz",
+        "description": " Menteri Perdagangan Zulkifli Hasan mengatakan, pemerintah tidak melarang peredaran minyak goreng curah."
+    },
+    {
+        "title": "Demi Perang, Rusia Paksa Dunia Usaha Pasok Senjata",
+        "link": "https://www.cnbcindonesia.com/news/20220706100048-8-353314/demi-perang-rusia-paksa-dunia-usaha-pasok-senjata",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjEwMDA0OC04LTM1MzMxNC9kZW1pLXBlcmFuZy1ydXNpYS1wYWtzYS1kdW5pYS11c2FoYS1wYXNvay1zZW5qYXRh",
+        "description": " Parlemen Rusia memberikan persetujuan pertama untuk dua RUU terkait ekonomi selama perang berlangsung"
+    },
+    {
+        "title": "PPATK Ungkap Dugaan Tindak Pidana Penyelewangan Dana ACT",
+        "link": "https://www.cnbcindonesia.com/news/20220706104337-8-353337/ppatk-ungkap-dugaan-tindak-pidana-penyelewangan-dana-act",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjEwNDMzNy04LTM1MzMzNy9wcGF0ay11bmdrYXAtZHVnYWFuLXRpbmRhay1waWRhbmEtcGVueWVsZXdhbmdhbi1kYW5hLWFjdA==",
+        "description": " PPATK Ungkap Dugaan Tindak Pidana Penyelewangan Dana ACT"
+    },
+    {
+        "title": "Punya Dua Kendaraan, Apakah Bisa Daftar MyPertamina Keduanya?",
+        "link": "https://www.cnbcindonesia.com/news/20220706105445-4-353339/punya-dua-kendaraan-apakah-bisa-daftar-mypertamina-keduanya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjEwNTQ0NS00LTM1MzMzOS9wdW55YS1kdWEta2VuZGFyYWFuLWFwYWthaC1iaXNhLWRhZnRhci1teXBlcnRhbWluYS1rZWR1YW55YQ==",
+        "description": " Pertamina memastikan pemilik dua kendaraan bisa terdaftar di MyPertamina dalam satu akun"
+    },
+    {
         "title": "Jelang Idul Adha, 800 Ribu Dosis Vaksin PMK Sudah Disebar",
         "link": "https://www.cnbcindonesia.com/news/20220706102254-8-353326/jelang-idul-adha-800-ribu-dosis-vaksin-pmk-sudah-disebar",
         "image": "static/images/cnbc_news.png",
@@ -19,54 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjExMDMyOC00LTM1MzM0My9jb3ZpZC1pdGFsaWEtbWVsZWRhay1sYWdpLXRlbWJ1cy0xMDAwMDAta2FzdXMtc2VoYXJp",
         "description": " Italia melaporkan kenaikan kasus Covid-19, Selasa (5/7/2022). Pemerintah mencatat terdapat 132.274 kasus baru."
-    },
-    {
-        "title": "Cegah Kerusakan Lingkungan, Tugu Insurance Tanam Mangrove",
-        "link": "https://www.cnbcindonesia.com/news/20220706110229-4-353342/cegah-kerusakan-lingkungan-tugu-insurance-tanam-mangrove",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjExMDIyOS00LTM1MzM0Mi9jZWdhaC1rZXJ1c2FrYW4tbGluZ2t1bmdhbi10dWd1LWluc3VyYW5jZS10YW5hbS1tYW5ncm92ZQ==",
-        "description": " Tugu Insurance berkomitmen mengimplementasikan tanggung jawab sosial dan lingkungan (TJSL) di berbagai daerah."
-    },
-    {
-        "title": "Putin Umumkan Kemenangan Rusia, Kota Ukraina Ini Hujan Rudal",
-        "link": "https://www.cnbcindonesia.com/news/20220706103221-4-353332/putin-umumkan-kemenangan-rusia-kota-ukraina-ini-hujan-rudal",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjEwMzIyMS00LTM1MzMzMi9wdXRpbi11bXVta2FuLWtlbWVuYW5nYW4tcnVzaWEta290YS11a3JhaW5hLWluaS1odWphbi1ydWRhbA==",
-        "description": " Pasukan Rusia kini menyerang sararan baru di Ukraina Timur, wilayah Donestk."
-    },
-    {
-        "title": "Meski Bisa 'Minum' Pertalite, Angkot Tetap Daftar MyPertamina",
-        "link": "https://www.cnbcindonesia.com/news/20220706102022-4-353323/meski-bisa-minum-pertalite-angkot-tetap-daftar-mypertamina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjEwMjAyMi00LTM1MzMyMy9tZXNraS1iaXNhLW1pbnVtLXBlcnRhbGl0ZS1hbmdrb3QtdGV0YXAtZGFmdGFyLW15cGVydGFtaW5h",
-        "description": " Pertamina menyebutkan pendaftaran sebagai jalan untuk melindungi hak subsidi para supir angkot"
-    },
-    {
-        "title": "Waduh! Turki Disebut Lakukan Genosida, Begini Ceritanya",
-        "link": "https://www.cnbcindonesia.com/news/20220706103358-4-353334/waduh-turki-disebut-lakukan-genosida-begini-ceritanya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjEwMzM1OC00LTM1MzMzNC93YWR1aC10dXJraS1kaXNlYnV0LWxha3VrYW4tZ2Vub3NpZGEtYmVnaW5pLWNlcml0YW55YQ==",
-        "description": " Turki dinilai harus menghadapi dakwaan di depan pengadilan internasional karena terlibat dalam tindakan genosida terhadap orang-orang Yazidi."
-    },
-    {
-        "title": "Buka-Bukaan Mendag Soal Penanganan Migor",
-        "link": "https://www.cnbcindonesia.com/news/20220706102100-8-353325/buka-bukaan-mendag-soal-penanganan-migor",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjEwMjEwMC04LTM1MzMyNS9idWthLWJ1a2Fhbi1tZW5kYWctc29hbC1wZW5hbmdhbmFuLW1pZ29y",
-        "description": " Zulkifli Hasan mengungkapkan keberhasilannya menyelesaikan permasalahan minyak goreng bahkan sebelum sebulan menjabat"
-    },
-    {
-        "title": "Tok! Kemensos Cabut Izin Pengumpulan Uang dan Barang Oleh ACT",
-        "link": "https://www.cnbcindonesia.com/news/20220706103157-4-353331/tok-kemensos-cabut-izin-pengumpulan-uang-barang-oleh-act",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjEwMzE1Ny00LTM1MzMzMS90b2sta2VtZW5zb3MtY2FidXQtaXppbi1wZW5ndW1wdWxhbi11YW5nLWJhcmFuZy1vbGVoLWFjdA==",
-        "description": " Hal itu tertuang dalam Keputusan Menteri Sosial Republik Indonesia Nomor 133/HUK/2022 tanggal 5 Juli 2022."
-    },
-    {
-        "title": "Desa Energi Berdikari Cilacap Hadirkan Inovasi Green Energy",
-        "link": "https://www.cnbcindonesia.com/news/20220706102317-4-353327/desa-energi-berdikari-cilacap-hadirkan-inovasi-green-energy",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjEwMjMxNy00LTM1MzMyNy9kZXNhLWVuZXJnaS1iZXJkaWthcmktY2lsYWNhcC1oYWRpcmthbi1pbm92YXNpLWdyZWVuLWVuZXJneQ==",
-        "description": " Pengembangan energi baru terbarukan dalam program Desa Berdikari Cilacap, merupakan upaya Pertamina mengurangi jejak emisi dalam kerangka ESG."
     }
 ]

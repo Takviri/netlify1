@@ -1,5 +1,19 @@
 [
     {
+        "title": "Bank Sentral Filipina Akan Naikkan Suku Bunga 100 Bps Tahun Ini",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220706113551-78-817919/bank-sentral-filipina-akan-naikkan-suku-bunga-100-bps-tahun-ini",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA2MTEzNTUxLTc4LTgxNzkxOS9iYW5rLXNlbnRyYWwtZmlsaXBpbmEtYWthbi1uYWlra2FuLXN1a3UtYnVuZ2EtMTAwLWJwcy10YWh1bi1pbmk=",
+        "description": " Bank sentral Filipina kemungkinan menaikkan suku bunga acuan hingga 100 basis poin (bps) atau 1 persen pada tahun ini."
+    },
+    {
+        "title": "Warisan untuk Menkeu Baru Inggris: Inflasi dan Perlambatan PDB",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220706102544-532-817877/warisan-untuk-menkeu-baru-inggris-inflasi-dan-perlambatan-pdb",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA2MTAyNTQ0LTUzMi04MTc4Nzcvd2FyaXNhbi11bnR1ay1tZW5rZXUtYmFydS1pbmdncmlzLWluZmxhc2ktZGFuLXBlcmxhbWJhdGFuLXBkYg==",
+        "description": " Menkeu baru Inggris Nadhim Zahawi mendapat warisan inflasi yang tinggi dan perlambatan ekonomi di tengah kekhwatiran resesi ekonomi global."
+    },
+    {
         "title": "Petani Wanti-wanti Pemerintah soal Lonjakan Biaya Produksi",
         "link": "https://www.cnnindonesia.com/ekonomi/20220705211835-92-817705/petani-wanti-wanti-pemerintah-soal-lonjakan-biaya-produksi",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA2MDkyODQ5LTUzMi04MTc4MjgvcGVsdWFuZy1yZXNlc2ktZWtvbm9taS1nbG9iYWwtY2FwYWktNTAtcGVyc2Vu",
         "description": " Ekonom Citigroup memproyeksikan peluang resesi ekonomi global mencapai 50 persen karena lonjakan inflasi dan kebijakan moneter yang ketat."
-    },
-    {
-        "title": "Harga Sawit Anjlok, Gubernur Riau Surati Jokowi",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220706084346-92-817811/harga-sawit-anjlok-gubernur-riau-surati-jokowi",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA2MDg0MzQ2LTkyLTgxNzgxMS9oYXJnYS1zYXdpdC1hbmpsb2stZ3ViZXJudXItcmlhdS1zdXJhdGktam9rb3dp",
-        "description": " Gubernur Riau Syamsuar menyurati Presiden Jokowi meminta percepatan ekspor CPO demi meningkatkan harga TBS sawit."
-    },
-    {
-        "title": "Rupiah Tembus Rp15.001 per Dolar AS, Pertama dalam Setahun Terakhir",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220706085919-78-817817/rupiah-tembus-rp15001-per-dolar-as-pertama-dalam-setahun-terakhir",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA2MDg1OTE5LTc4LTgxNzgxNy9ydXBpYWgtdGVtYnVzLXJwMTUwMDEtcGVyLWRvbGFyLWFzLXBlcnRhbWEtZGFsYW0tc2V0YWh1bi10ZXJha2hpcg==",
-        "description": " Rupiah melemah 0,05 persen ke posisi Rp15.001 per dolar AS pada Rabu (6/7) pagi. Ini pertama kalinya rupiah tembus Rp15 ribu dalam setahun terakhir."
     }
 ]
