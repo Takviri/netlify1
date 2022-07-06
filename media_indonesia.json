@@ -1,6 +1,27 @@
 [
     {
         "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/504852/shin-tegaskan-indonesia-wajib-lolos-ke-semifinal-piala-aff-u-19",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDg1Mi9zaGluLXRlZ2Fza2FuLWluZG9uZXNpYS13YWppYi1sb2xvcy1rZS1zZW1pZmluYWwtcGlhbGEtYWZmLXUtMTk=",
+        "description": "PELATIH timnas U-19 Indonesia Shin Tae-yong menegaskan skuatnya wajib lolos ke semifinal Piala AFF U-19 2022 meski saat ini&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504855/para-guru-harus-arahkan-anak-didik-cara-gunakan-teknologi-digital-secara-baik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0ODU1L3BhcmEtZ3VydS1oYXJ1cy1hcmFoa2FuLWFuYWstZGlkaWstY2FyYS1ndW5ha2FuLXRla25vbG9naS1kaWdpdGFsLXNlY2FyYS1iYWlr",
+        "description": "ERA digital adalah masa ketika informasi mudah dan cepat diperoleh serta disebarluaskan menggunakan teknologi digital. Internet menjadi gaya hidup, bahkan hampir semua bidang kehidupan manusia kini&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/504850/atletico-madrid-resmi-datangkan-witsel-secara-bebas-transfer",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDg1MC9hdGxldGljby1tYWRyaWQtcmVzbWktZGF0YW5na2FuLXdpdHNlbC1zZWNhcmEtYmViYXMtdHJhbnNmZXI=",
+        "description": "GELANDANG veteran Belgia Axel Witsel resmi bergabung dengan Atletico Madrid dengan status bebas transfer dari Borussia Dortmund.&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/504849/haller-resmi-bergabung-dengan-dortmund",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDg0OS9oYWxsZXItcmVzbWktYmVyZ2FidW5nLWRlbmdhbi1kb3J0bXVuZA==",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQ4NDgvbWVuYW5nLXN0cmFpZ2h0LXNldC1hdGFzLWdhcmluLWt5cmdpb3Mta2Utc2VtaWZpbmFsLXdpbWJsZWRvbg==",
         "description": "NICK Kyrgios mencapai semifinal Grand Slam pertama dalam kariernya setelah menang 6-4, 6-3, 7-6 (5) atas petenis Cile Cristian Garin di laga perempatfinal <a href=\"http://mediaindonesia.com/tag/wimbledon\"&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/504847/rybakina-bangkit-untuk-kalahkan-tomljanovic-di-perempat-final-wimbledon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQ4NDcvcnliYWtpbmEtYmFuZ2tpdC11bnR1ay1rYWxhaGthbi10b21samFub3ZpYy1kaS1wZXJlbXBhdC1maW5hbC13aW1ibGVkb24=",
-        "description": "ELENA Rybakina bangkit setelah kalah di set pembuka untuk balik menundukkan petenis Australia Ajla Tomljanovic dengan skor 4-6, 6-2, dan 6-3 di perempat final <a href=\"http://mediaindonesia.com/tag/wimbledon\"&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/504846/clarke-juarai-etape-kelima-tour-de-france",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQ4NDYvY2xhcmtlLWp1YXJhaS1ldGFwZS1rZWxpbWEtdG91ci1kZS1mcmFuY2U=",
-        "description": "PEMBALAP sepeda Australia Simon Clarke menjuarai etape kelima Tour de France sejauh 157 km dari Lille. Tetapi, pembalap sepeda&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/504845/tekuk-anisimova-halep-melaju-ke-semifinal-wimbledon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQ4NDUvdGVrdWstYW5pc2ltb3ZhLWhhbGVwLW1lbGFqdS1rZS1zZW1pZmluYWwtd2ltYmxlZG9u",
-        "description": "MANTAN juara Wimbledon Simona Halep mengalahkan Amanda Anisimova 6-2 dan 6-4 untuk mencapai semifinal Wimbledon ketiganya, Rabu&#8230;"
     }
 ]
