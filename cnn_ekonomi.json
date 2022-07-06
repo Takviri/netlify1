@@ -1,5 +1,26 @@
 [
     {
+        "title": "Modal Goceng Bisa Makan Pasta dan Minum di The Coffee Bean",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220705171111-97-817599/modal-goceng-bisa-makan-pasta-dan-minum-di-the-coffee-bean",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTcxMTExLTk3LTgxNzU5OS9tb2RhbC1nb2NlbmctYmlzYS1tYWthbi1wYXN0YS1kYW4tbWludW0tZGktdGhlLWNvZmZlZS1iZWFu",
+        "description": " Mau makan enak\u00c2\u00a0tapi murah?\u00c2\u00a0Yuk, unduh Allo Bank dan manfaatkan promo diskon bayar Rp5 ribu untuk dapetin menu\u00c2\u00a0pasta sekaligus minuman di The Coffee Bean."
+    },
+    {
+        "title": "Sri Mulyani Siapkan Dana Pemilu 3 Provinsi Baru Papua",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220705213236-532-817706/sri-mulyani-siapkan-dana-pemilu-3-provinsi-baru-papua",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MjEzMjM2LTUzMi04MTc3MDYvc3JpLW11bHlhbmktc2lhcGthbi1kYW5hLXBlbWlsdS0zLXByb3ZpbnNpLWJhcnUtcGFwdWE=",
+        "description": " Menteri Keuangan Sri Mulyani tengah mempersiapkan anggaran pemilihan umum (Pemilu) 2024 untuk tiga provinsi baru Papua."
+    },
+    {
+        "title": "Harga Sawit Masih di Bawah Rp1.000 per Kg Imbas Tangki Penuh",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220705203616-92-817692/harga-sawit-masih-di-bawah-rp1000-per-kg-imbas-tangki-penuh",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MjAzNjE2LTkyLTgxNzY5Mi9oYXJnYS1zYXdpdC1tYXNpaC1kaS1iYXdhaC1ycDEwMDAtcGVyLWtnLWltYmFzLXRhbmdraS1wZW51aA==",
+        "description": " Petani sawit menyebut harga buah\u00c2\u00a0TBS kelapa sawit masih berada di bawah Rp1.000 per kg imbas tangki pabrik yang penuh."
+    },
+    {
         "title": "Daftar Negara yang Terancam Resesi",
         "link": "https://www.cnnindonesia.com/ekonomi/20220706075635-532-817792/daftar-negara-yang-terancam-resesi",
         "image": "static/images/cnn_ekonomi.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTc1MTA4LTkyLTgxNzYyOS90ZXJ1cy1iZXJ0YW1iYWgtdG90YWwta2FzdXMtcG1rLWRpLWJhbGktY2FwYWktMTI4LWVrb3Itc2FwaQ==",
         "description": " Jumlah hewan ternak yang terdampak wabah penyakit mulut dan kuku (PMK) di Bali mencapai 128 ekor sapi."
-    },
-    {
-        "title": "Sri Mulyani Tak Khawatir Meski Rupiah Dekati Rp15 Ribu per Dolar AS",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220705185816-532-817648/sri-mulyani-tak-khawatir-meski-rupiah-dekati-rp15-ribu-per-dolar-as",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTg1ODE2LTUzMi04MTc2NDgvc3JpLW11bHlhbmktdGFrLWtoYXdhdGlyLW1lc2tpLXJ1cGlhaC1kZWthdGktcnAxNS1yaWJ1LXBlci1kb2xhci1hcw==",
-        "description": " Menkeu Sri Mulyani menyebut fundamental perekonomian RI cukup baik, meskipun nilai tukar rupiah nyaris menyentuh Rp15 ribu per dolar AS."
-    },
-    {
-        "title": "IHSG Diproyeksi Menguat Terbatas Dibayangi Inflasi",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220706023927-92-817732/ihsg-diproyeksi-menguat-terbatas-dibayangi-inflasi",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA2MDIzOTI3LTkyLTgxNzczMi9paHNnLWRpcHJveWVrc2ktbWVuZ3VhdC10ZXJiYXRhcy1kaWJheWFuZ2ktaW5mbGFzaQ==",
-        "description": " Indeks Harga Saham Gabungan (IHSG) diperkirakan menanjak pada perdagangan Rabu (6/7)."
-    },
-    {
-        "title": "Sri Mulyani Serahkan Masalah Pelantikan Dewan Komisioner OJK ke MA",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220705181911-78-817636/sri-mulyani-serahkan-masalah-pelantikan-dewan-komisioner-ojk-ke-ma",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTgxOTExLTc4LTgxNzYzNi9zcmktbXVseWFuaS1zZXJhaGthbi1tYXNhbGFoLXBlbGFudGlrYW4tZGV3YW4ta29taXNpb25lci1vamsta2UtbWE=",
-        "description": " Menteri Keuangan Sri Mulyani menyerahkan masalah pelantikan dewan komisioner OJK ke Mahkamah Agung."
     }
 ]

@@ -1,5 +1,26 @@
 [
     {
+        "title": "Alert Untuk IHSG, Bursa Asia Dibuka Melemah!",
+        "link": "https://www.cnbcindonesia.com/market/20220706083625-17-353284/alert-untuk-ihsg-bursa-asia-dibuka-melemah",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MDgzNjI1LTE3LTM1MzI4NC9hbGVydC11bnR1ay1paHNnLWJ1cnNhLWFzaWEtZGlidWthLW1lbGVtYWg=",
+        "description": " Mayoritas bursa Asia-Pasifik dibuka cenderung melemah, di tengah cerahnya bursa saham Amerika Serikat pada perdagangan Selasa kemarin."
+    },
+    {
+        "title": "Wajib Baca! Berikut Kabar Pasar Hari Ini",
+        "link": "https://www.cnbcindonesia.com/market/20220706083551-17-353287/wajib-baca-berikut-kabar-pasar-hari-ini",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MDgzNTUxLTE3LTM1MzI4Ny93YWppYi1iYWNhLWJlcmlrdXQta2FiYXItcGFzYXItaGFyaS1pbmk=",
+        "description": " Sebelum memulai perdangan Rabu (6/7/2022), berikut kabar emiten yang telah CNBC Indonesia rangkum."
+    },
+    {
+        "title": "Segini Banyaknya Dana Asing yang Kabur Tinggalkan RI",
+        "link": "https://www.cnbcindonesia.com/market/20220706080942-17-353278/segini-banyaknya-dana-asing-yang-kabur-tinggalkan-ri",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MDgwOTQyLTE3LTM1MzI3OC9zZWdpbmktYmFueWFrbnlhLWRhbmEtYXNpbmcteWFuZy1rYWJ1ci10aW5nZ2Fsa2FuLXJp",
+        "description": " Kenaikan suku bunga acuan bank sentral negara maju serta lonjakan inflasi membuat investor asing memilih kabur dari Asia, termasuk dari Indonesia."
+    },
+    {
         "title": "Intip Gaji Fantastis Karyawan Freeport, Miliaran Per Bulan?",
         "link": "https://www.cnbcindonesia.com/market/20220706074549-17-353270/intip-gaji-fantastis-karyawan-freeport-miliaran-per-bulan",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA1MjA1MTQwLTE3LTM1MzIwOC9hbWVyaWthLWJha2FsLXJlc2VzaS1pbnZlc3Rvci1rb2stbWFsYWgtYm9yb25nLWRvbGFyLWFz",
         "description": " Negeri adikuasa Amerika Serikat (AS) akan kembali mengalami resesi."
-    },
-    {
-        "title": "Harga Emas Turun Terus, Sudah di Bawah US$ 1.800/Ons",
-        "link": "https://www.cnbcindonesia.com/market/20220706070030-17-353262/harga-emas-turun-terus-sudah-di-bawah-us--1800-ons",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MDcwMDMwLTE3LTM1MzI2Mi9oYXJnYS1lbWFzLXR1cnVuLXRlcnVzLXN1ZGFoLWRpLWJhd2FoLXVzLS0xODAwLW9ucw==",
-        "description": " Harga emas terus mengalami tekanan hingga jatuh ke bawah level US$ 1.800 per troy ons."
-    },
-    {
-        "title": "Harga Batu Bara Naik Lagi, Hampir Sentuh US$ 400/Ton",
-        "link": "https://www.cnbcindonesia.com/market/20220706062812-17-353260/harga-batu-bara-naik-lagi-hampir-sentuh-us--400-ton",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MDYyODEyLTE3LTM1MzI2MC9oYXJnYS1iYXR1LWJhcmEtbmFpay1sYWdpLWhhbXBpci1zZW50dWgtdXMtLTQwMC10b24=",
-        "description": " Harga batu bara masih betah dalam tren pendakian"
-    },
-    {
-        "title": "Ini Saham Tercuan dan Terbuntung Saat IHSG Rebound",
-        "link": "https://www.cnbcindonesia.com/market/20220706053640-17-353256/ini-saham-tercuan-terbuntung-saat-ihsg-rebound",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MDUzNjQwLTE3LTM1MzI1Ni9pbmktc2FoYW0tdGVyY3Vhbi10ZXJidW50dW5nLXNhYXQtaWhzZy1yZWJvdW5k",
-        "description": " Nilai transaksi indeks pada perdagangan kemarin mencapai sekitaran Rp 11 triliun dengan melibatkan 20 miliaran saham yang berpindah tangan."
     }
 ]
