@@ -1,5 +1,47 @@
 [
     {
+        "title": "Anak Buah Jokowi Ajak Jangan Bergantung ke China, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220706093053-4-353313/anak-buah-jokowi-ajak-jangan-bergantung-ke-china-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjA5MzA1My00LTM1MzMxMy9hbmFrLWJ1YWgtam9rb3dpLWFqYWstamFuZ2FuLWJlcmdhbnR1bmcta2UtY2hpbmEtYWRhLWFwYQ==",
+        "description": " Menteri Perindustrian Agus Gumiwang mengatakan, perang Rusia-Ukraina mengganggu kestabilan pasar."
+    },
+    {
+        "title": "Vatikan Tiba-tiba Warning soal China di Hong Kong, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220706100825-4-353317/vatikan-tiba-tiba-warning-soal-china-di-hong-kong-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjEwMDgyNS00LTM1MzMxNy92YXRpa2FuLXRpYmEtdGliYS13YXJuaW5nLXNvYWwtY2hpbmEtZGktaG9uZy1rb25nLWFkYS1hcGE=",
+        "description": " Vatikan tiba-tiba memberi peringatan soal China. Ini dilakukan perwakilan tidak resminya di Hong Kong"
+    },
+    {
+        "title": "Daftar Mobil yang 'Haram' Isi Pertalite, Ada Innova-Fortuner?",
+        "link": "https://www.cnbcindonesia.com/news/20220706092552-4-353304/daftar-mobil-yang-haram-isi-pertalite-ada-innova-fortuner",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjA5MjU1Mi00LTM1MzMwNC9kYWZ0YXItbW9iaWwteWFuZy1oYXJhbS1pc2ktcGVydGFsaXRlLWFkYS1pbm5vdmEtZm9ydHVuZXI=",
+        "description": " Pemerintah bakal melarang kendaraan mewah dengan spesifikasi mesin 2.000 cc ke atas"
+    },
+    {
+        "title": "Waspada! Krisis Energi Eropa di Depan Mata",
+        "link": "https://www.cnbcindonesia.com/news/20220706095446-8-353312/waspada-krisis-energi-eropa-di-depan-mata",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjA5NTQ0Ni04LTM1MzMxMi93YXNwYWRhLWtyaXNpcy1lbmVyZ2ktZXJvcGEtZGktZGVwYW4tbWF0YQ==",
+        "description": " Krisis energi di Eropa di depan mata"
+    },
+    {
+        "title": "Bukan Rusia, Krisis Eropa Bisa Makin Ngeri karena Negara Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220706093038-4-353306/bukan-rusia-krisis-eropa-bisa-makin-ngeri-karena-negara-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjA5MzAzOC00LTM1MzMwNi9idWthbi1ydXNpYS1rcmlzaXMtZXJvcGEtYmlzYS1tYWtpbi1uZ2VyaS1rYXJlbmEtbmVnYXJhLWluaQ==",
+        "description": " Eropa saat ini masih dihantui oleh krisis gas. Terbaru, ancaman krisis ini disebabkan oleh Norwegia."
+    },
+    {
+        "title": "Merapat Bunda! Harga Minyak Goreng Beneran Turun, Jadi Segini",
+        "link": "https://www.cnbcindonesia.com/news/20220706090852-4-353301/merapat-bunda-harga-minyak-goreng-beneran-turun-jadi-segini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjA5MDg1Mi00LTM1MzMwMS9tZXJhcGF0LWJ1bmRhLWhhcmdhLW1pbnlhay1nb3JlbmctYmVuZXJhbi10dXJ1bi1qYWRpLXNlZ2luaQ==",
+        "description": " Harga minyak goreng kini semakin turun, bahkan ada yang sudah di bawah Rp40.000 per 2 liter."
+    },
+    {
         "title": "Libur Idul Adha 2022 Tanggal berapa? Ini Jadwal Lengkapnya",
         "link": "https://www.cnbcindonesia.com/news/20220706084028-4-353285/libur-idul-adha-2022-tanggal-berapa-ini-jadwal-lengkapnya",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjA4NDI0NS00LTM1MzI4OS9rYXRhLTUtZWtvbm9tLXNvYWwtcmVzZXNpLWR1bmlhLXNlbWVuZ2VyaWthbi1hcGE=",
         "description": " Situasi sepanjang 2022 semuanya serba tak pasti, berbagai perkembangan menebar kekhawatiran."
-    },
-    {
-        "title": "Harga Bensin Termahal Sepanjang Sejarah! Raisa Pun Istighfar",
-        "link": "https://www.cnbcindonesia.com/news/20220706080105-4-353275/harga-bensin-termahal-sepanjang-sejarah-raisa-pun-istighfar",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjA4MDEwNS00LTM1MzI3NS9oYXJnYS1iZW5zaW4tdGVybWFoYWwtc2VwYW5qYW5nLXNlamFyYWgtcmFpc2EtcHVuLWlzdGlnaGZhcg==",
-        "description": " Harga\u00c2\u00a0BBM di Indonesia naik tajam tembus Rp 21.000-an per liter, tertinggi sepanjang sejarah"
-    },
-    {
-        "title": "Rusia Mulai Menang di Ukraina? Ini 6 Faktanya",
-        "link": "https://www.cnbcindonesia.com/news/20220706085029-4-353291/rusia-mulai-menang-di-ukraina-ini-6-faktanya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjA4NTAyOS00LTM1MzI5MS9ydXNpYS1tdWxhaS1tZW5hbmctZGktdWtyYWluYS1pbmktNi1mYWt0YW55YQ==",
-        "description": " Rusia disebut-sebut mulai mencetak kemenangan dalam serangannya ke Ukraina. Berikut fakta-faktanya."
-    },
-    {
-        "title": "Majukan Pendidikan, Pelindo Gandeng Unsoed dan UNU",
-        "link": "https://www.cnbcindonesia.com/news/20220706084854-4-353290/majukan-pendidikan-pelindo-gandeng-unsoed-unu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjA4NDg1NC00LTM1MzI5MC9tYWp1a2FuLXBlbmRpZGlrYW4tcGVsaW5kby1nYW5kZW5nLXVuc29lZC11bnU=",
-        "description": " Pelindo menandatangani Nota Kesepahaman tentang Pendidikan, Penelitian dan Pengabdian Kepada Masyarakat dengan dua universitas negeri"
-    },
-    {
-        "title": "Ini 6 Negara-Wilayah yang Kena Resesi Tahun Depan, Ada RI?",
-        "link": "https://www.cnbcindonesia.com/news/20220706082432-4-353282/ini-6-negara-wilayah-yang-kena-resesi-tahun-depan-ada-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjA4MjQzMi00LTM1MzI4Mi9pbmktNi1uZWdhcmEtd2lsYXlhaC15YW5nLWtlbmEtcmVzZXNpLXRhaHVuLWRlcGFuLWFkYS1yaQ==",
-        "description": " Para ekonomi dari perusahaan pialang Nomura holdings mengatakan akan ada\u00c2\u00a0enam, lima negara dan satu wilayah, yang masuk ke jurang resesi tahun depan."
-    },
-    {
-        "title": "Organda Manado Apresiasi Subsidi Tepat Sasaran Pertamina",
-        "link": "https://www.cnbcindonesia.com/news/20220706084053-4-353286/organda-manado-apresiasi-subsidi-tepat-sasaran-pertamina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjA4NDA1My00LTM1MzI4Ni9vcmdhbmRhLW1hbmFkby1hcHJlc2lhc2ktc3Vic2lkaS10ZXBhdC1zYXNhcmFuLXBlcnRhbWluYQ==",
-        "description": " Ketua Dewan Pimpinan Cabang Organisasi Angkutan Darat (Organda) Manado, Khazali mengapresiasi program pendaftaran kendaraan pengguna BBM Subsidi"
-    },
-    {
-        "title": "Booster Jadi Syarat Naik Pesawat Hingga Mal, Kapan Berlaku?",
-        "link": "https://www.cnbcindonesia.com/news/20220706080845-4-353277/booster-jadi-syarat-naik-pesawat-hingga-mal-kapan-berlaku",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjA4MDg0NS00LTM1MzI3Ny9ib29zdGVyLWphZGktc3lhcmF0LW5haWstcGVzYXdhdC1oaW5nZ2EtbWFsLWthcGFuLWJlcmxha3U=",
-        "description": " Pemerintah dalam waktu dekat akan memberlakukan vaksin booster menjadi syarat perjalanan dan kegiatan masyarakat terbaru"
     }
 ]
