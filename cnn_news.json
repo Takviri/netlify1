@@ -1,5 +1,40 @@
 [
     {
+        "title": "Gempa Magnitudo 5,3 Guncang Pulau Enggano Bengkulu",
+        "link": "https://www.cnnindonesia.com/nasional/20220706142554-20-818021/gempa-magnitudo-53-guncang-pulau-enggano-bengkulu",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNjE0MjU1NC0yMC04MTgwMjEvZ2VtcGEtbWFnbml0dWRvLTUzLWd1bmNhbmctcHVsYXUtZW5nZ2Fuby1iZW5na3VsdQ==",
+        "description": " BMKG menyatakan gempa magnitudo 5,3 di Pulau Enggano, Bengkulu, siang tadi tidak berpotensi tsunami. Namun warga diminta waspada gempa susulan."
+    },
+    {
+        "title": "PKS Resmi Gugat Ambang Batas Capres 20 Persen ke MK",
+        "link": "https://www.cnnindonesia.com/nasional/20220706141142-32-818012/pks-resmi-gugat-ambang-batas-capres-20-persen-ke-mk",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNjE0MTE0Mi0zMi04MTgwMTIvcGtzLXJlc21pLWd1Z2F0LWFtYmFuZy1iYXRhcy1jYXByZXMtMjAtcGVyc2VuLWtlLW1r",
+        "description": " PKS resmi mengajukan gugatan soal ambang batas pencalonan presiden atau presidential threshold (PT) ke Mahkamah Konstitusi (MK)."
+    },
+    {
+        "title": "Riwayat Babarsari, Arena Kericuhan Menahun Hingga Dijuluki Gotham City",
+        "link": "https://www.cnnindonesia.com/nasional/20220617141805-12-810264/riwayat-babarsari-arena-kericuhan-menahun-hingga-dijuluki-gotham-city",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYxNzE0MTgwNS0xMi04MTAyNjQvcml3YXlhdC1iYWJhcnNhcmktYXJlbmEta2VyaWN1aGFuLW1lbmFodW4taGluZ2dhLWRpanVsdWtpLWdvdGhhbS1jaXR5",
+        "description": " Bukan pekan ini saja kawasan Babarsari di Sleman, DIY, menjadi titik kericuhan antarkelompok dalam sejarah Yogyakarta modern."
+    },
+    {
+        "title": "KPK: Acara Lili Pintauli di Bali Sudah Terjadwal Sejak Awal 2022",
+        "link": "https://www.cnnindonesia.com/nasional/20220706133613-12-817994/kpk-acara-lili-pintauli-di-bali-sudah-terjadwal-sejak-awal-2022",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNjEzMzYxMy0xMi04MTc5OTQva3BrLWFjYXJhLWxpbGktcGludGF1bGktZGktYmFsaS1zdWRhaC10ZXJqYWR3YWwtc2VqYWstYXdhbC0yMDIy",
+        "description": " Plt Jubir KPK Ali Fikri mengatakan Wakil Ketua KPK Lili Pintauli menjadi narasumber dalam acara\u00c2\u00a0putaran kedua ACWG G20 di Nusa Dua, Bali, Selasa (5/7)."
+    },
+    {
+        "title": "Kemenag: Izin Global Zakat ACT Sudah Berakhir 2021",
+        "link": "https://www.cnnindonesia.com/nasional/20220706135034-20-818003/kemenag-izin-global-zakat-act-sudah-berakhir-2021",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNjEzNTAzNC0yMC04MTgwMDMva2VtZW5hZy1pemluLWdsb2JhbC16YWthdC1hY3Qtc3VkYWgtYmVyYWtoaXItMjAyMQ==",
+        "description": " Izin Lembaga Amil Zakat (LAZ) Global Zakat yang berada di bawah naungan Aksi Cepat Tanggap (ACT) telah berakhir pada 2021 lalu."
+    },
+    {
         "title": "Kemensos Minta Warga Tak Lagi Salurkan Sumbangan ke ACT",
         "link": "https://www.cnnindonesia.com/nasional/20220706131859-20-817985/kemensos-minta-warga-tak-lagi-salurkan-sumbangan-ke-act",
         "image": "static/images/cnn_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNjEyMDcwMS0yMC04MTc5MzgvYmFydS0zMi1wZXJzZW4td2FyZ2EtZGtpLXNlc3VhaWthbi1kYXRhLWt0cC11c2FpLXBlcnViYWhhbi1uYW1hLWphbGFu",
         "description": " Baru 959 orang dari target 2.909 warga Jakarta yang menyesuaikan data KTP akibat perubahan 22 nama jalan di Ibu Kota."
-    },
-    {
-        "title": "FOTO: Geliat Revitalisasi Permukiman Pasar Gembrong yang Terbakar",
-        "link": "https://www.cnnindonesia.com/nasional/20220706124839-22-817959/foto-geliat-revitalisasi-permukiman-pasar-gembrong-yang-terbakar",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNjEyNDgzOS0yMi04MTc5NTkvZm90by1nZWxpYXQtcmV2aXRhbGlzYXNpLXBlcm11a2ltYW4tcGFzYXItZ2VtYnJvbmcteWFuZy10ZXJiYWthcg==",
-        "description": " DKI merevitalisasi permukiman di Pasar Gembrong yang terbakar dengan konsep pembangunan menghadap sungai (water front) dan akan jadi contoh buat kampung lain."
-    },
-    {
-        "title": "Citayam Fashion Week di Sudirman dan 'Love-Hate' dari Netizen",
-        "link": "https://www.cnnindonesia.com/nasional/20220706102421-20-817956/citayam-fashion-week-di-sudirman-dan-love-hate-dari-netizen",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNjEwMjQyMS0yMC04MTc5NTYvY2l0YXlhbS1mYXNoaW9uLXdlZWstZGktc3VkaXJtYW4tZGFuLWxvdmUtaGF0ZS1kYXJpLW5ldGl6ZW4=",
-        "description": " Remaja asal Citayam, Bekasi hingga Bojong Gede membanjiri Taman Sudirman. Sebagian netizen mencibir fenomena ini merusak citra Sudirman sebagai kawasan elite."
-    },
-    {
-        "title": "Kemenkes Ungkap Alasan Booster Jadi Syarat Perjalanan",
-        "link": "https://www.cnnindonesia.com/nasional/20220706122820-20-817944/kemenkes-ungkap-alasan-booster-jadi-syarat-perjalanan",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNjEyMjgyMC0yMC04MTc5NDQva2VtZW5rZXMtdW5na2FwLWFsYXNhbi1ib29zdGVyLWphZGktc3lhcmF0LXBlcmphbGFuYW4=",
-        "description": " Pemerintah memberlakukan vaksin Booster sebagai syarat perjalanan lantaran terdapat peningkatan laju kasus Covid-19 di sejumlah daerah."
-    },
-    {
-        "title": "Gerindra Umumkan Cawapres Pendamping Prabowo Usai Rapimnas Akhir Juli",
-        "link": "https://www.cnnindonesia.com/nasional/20220706124310-32-817954/gerindra-umumkan-cawapres-pendamping-prabowo-usai-rapimnas-akhir-juli",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNjEyNDMxMC0zMi04MTc5NTQvZ2VyaW5kcmEtdW11bWthbi1jYXdhcHJlcy1wZW5kYW1waW5nLXByYWJvd28tdXNhaS1yYXBpbW5hcy1ha2hpci1qdWxp",
-        "description": " DPP Partai Gerinda bakal mengumumkan nama cawapres pendamping Prabowo Subianto usai pelaksanaan Rapimnas pada akhir Juli 2022."
-    },
-    {
-        "title": "Warga Temukan 43 Kg Kokain Tercecer di Pinggir Pantai Anambas Kepri",
-        "link": "https://www.cnnindonesia.com/nasional/20220706123931-12-817953/warga-temukan-43-kg-kokain-tercecer-di-pinggir-pantai-anambas-kepri",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNjEyMzkzMS0xMi04MTc5NTMvd2FyZ2EtdGVtdWthbi00My1rZy1rb2thaW4tdGVyY2VjZXItZGktcGluZ2dpci1wYW50YWktYW5hbWJhcy1rZXByaQ==",
-        "description": " Bareskim Polri menyatakan 43 paket kokain dengan berat total 43 kg diduga kuat milik jaringan narkoba internasional yang sengaja dibuang di perairan Indonesia."
     }
 ]
