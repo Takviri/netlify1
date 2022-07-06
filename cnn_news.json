@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sapi Kurban 1 Ton Jokowi Dikurbankan di Selayar Sulsel",
+        "link": "https://www.cnnindonesia.com/nasional/20220706213223-20-818245/sapi-kurban-1-ton-jokowi-dikurbankan-di-selayar-sulsel",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNjIxMzIyMy0yMC04MTgyNDUvc2FwaS1rdXJiYW4tMS10b24tam9rb3dpLWRpa3VyYmFua2FuLWRpLXNlbGF5YXItc3Vsc2Vs",
+        "description": " Sapi berbobot 1 ton dari Presiden Joko Widodo akan dikurbankan pada Hari Raya Iduladha 1433 H di Kabupaten Kepulauan Selayar, Sulawesi Selatan (Sulsel)."
+    },
+    {
+        "title": "Koalisi Sipil Desak Pemerintah dan DPR Bahas RKUHP Secara Terbuka",
+        "link": "https://www.cnnindonesia.com/nasional/20220706204400-32-818238/koalisi-sipil-desak-pemerintah-dan-dpr-bahas-rkuhp-secara-terbuka",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNjIwNDQwMC0zMi04MTgyMzgva29hbGlzaS1zaXBpbC1kZXNhay1wZW1lcmludGFoLWRhbi1kcHItYmFoYXMtcmt1aHAtc2VjYXJhLXRlcmJ1a2E=",
+        "description": " Sejumlah LSM dan kelompok mahasiswa mendesak pemerintah dan DPR segera membahas RKUHP secara terbuka."
+    },
+    {
         "title": "ACT Kirim Surat ke Kemensos Minta Batalkan Cabut Izin Besok",
         "link": "https://www.cnnindonesia.com/nasional/20220706191858-20-818207/act-kirim-surat-ke-kemensos-minta-batalkan-cabut-izin-besok",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNjE5MzEzMC0yMC04MTgyMTIvdHJhdmVsLWRpLWthcmF3YW5nLWtlbWJhbGlrYW4tdWFuZy1jYWxvbi1qZW1hYWgtYmF0YWwtaGFqaS1mdXJvZGE=",
         "description": " Salah satu travel yang melayani haji furoda di Karawang, Jawa Barat, mengembalikan uang jamaah calon haji yang gagal berangkat."
-    },
-    {
-        "title": "DPR Aceh Minta Pj Gubernur Marzuki Lobi Pusat Perpanjang Dana Otsus",
-        "link": "https://www.cnnindonesia.com/nasional/20220706133258-12-818006/dpr-aceh-minta-pj-gubernur-marzuki-lobi-pusat-perpanjang-dana-otsus",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNjEzMzI1OC0xMi04MTgwMDYvZHByLWFjZWgtbWludGEtcGotZ3ViZXJudXItbWFyenVraS1sb2JpLXB1c2F0LXBlcnBhbmphbmctZGFuYS1vdHN1cw==",
-        "description": " Usai pelantikan penjabat gubernur Aceh, Ketua DPR Aceh meminta pejabat tersebut ikut memperjuangkan perpanjangan dana Otsus Aceh ke pusat."
-    },
-    {
-        "title": "Satu Keluarga Diusir dari Rusunawa karena Buang Bayi di Kali Ciliwung",
-        "link": "https://www.cnnindonesia.com/nasional/20220706191841-20-818209/satu-keluarga-diusir-dari-rusunawa-karena-buang-bayi-di-kali-ciliwung",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNjE5MTg0MS0yMC04MTgyMDkvc2F0dS1rZWx1YXJnYS1kaXVzaXItZGFyaS1ydXN1bmF3YS1rYXJlbmEtYnVhbmctYmF5aS1kaS1rYWxpLWNpbGl3dW5n",
-        "description": " Warga atas nama AM dan keluarganya terancam diusir dari Rusunawa Jatinegara Barat buntut kasus dugaan pembuangan bayi yang dilakukan oleh anak AM."
     }
 ]
