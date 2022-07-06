@@ -1,5 +1,19 @@
 [
     {
+        "title": "Daftar Negara yang Terancam Resesi",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220706075635-532-817792/daftar-negara-yang-terancam-resesi",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA2MDc1NjM1LTUzMi04MTc3OTIvZGFmdGFyLW5lZ2FyYS15YW5nLXRlcmFuY2FtLXJlc2VzaQ==",
+        "description": " Bank Dunia menyebut resesi ekonomi global sudah di depan mata. Bahkan, beberapa negara tidak bisa menghindari resesi."
+    },
+    {
+        "title": "Booster Jadi Syarat Penerbangan Jika Diikuti Vaksinasi di Bandara",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220705191320-92-817655/booster-jadi-syarat-penerbangan-jika-diikuti-vaksinasi-di-bandara",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTkxMzIwLTkyLTgxNzY1NS9ib29zdGVyLWphZGktc3lhcmF0LXBlbmVyYmFuZ2FuLWppa2EtZGlpa3V0aS12YWtzaW5hc2ktZGktYmFuZGFyYQ==",
+        "description": " Kemenhub mengatakan penerapan vaksin booster sebagai syarat penerbangan akan diikuti dengan vaksinasi di sejumlah simpul transportasi."
+    },
+    {
         "title": "Harga Minyak Jatuh ke Bawah US$100 per Barel Dihantui Resesi",
         "link": "https://www.cnnindonesia.com/ekonomi/20220706072647-85-817775/harga-minyak-jatuh-ke-bawah-us-100-per-barel-dihantui-resesi",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTgxOTExLTc4LTgxNzYzNi9zcmktbXVseWFuaS1zZXJhaGthbi1tYXNhbGFoLXBlbGFudGlrYW4tZGV3YW4ta29taXNpb25lci1vamsta2UtbWE=",
         "description": " Menteri Keuangan Sri Mulyani menyerahkan masalah pelantikan dewan komisioner OJK ke Mahkamah Agung."
-    },
-    {
-        "title": "Mendag Ungkap Sederet Keuntungan Kerja Sama Dagang dengan Korsel",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220705161028-92-817564/mendag-ungkap-sederet-keuntungan-kerja-sama-dagang-dengan-korsel",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTYxMDI4LTkyLTgxNzU2NC9tZW5kYWctdW5na2FwLXNlZGVyZXQta2V1bnR1bmdhbi1rZXJqYS1zYW1hLWRhZ2FuZy1kZW5nYW4ta29yc2Vs",
-        "description": " Mendag Zulkifli Hasan mengatakan banyak keuntungan dari kerja sama di sektor perdagangan dengan Korea Selatan."
-    },
-    {
-        "title": "Bank Dunia Kucurkan Pinjaman Rp5,25 T untuk Indonesia",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220705195815-532-817680/bank-dunia-kucurkan-pinjaman-rp525-t-untuk-indonesia",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA1MTk1ODE1LTUzMi04MTc2ODAvYmFuay1kdW5pYS1rdWN1cmthbi1waW5qYW1hbi1ycDUyNS10LXVudHVrLWluZG9uZXNpYQ==",
-        "description": " Bank Dunia mengucurkan pinjaman senilai US$350 juta setara Rp5,25 triliun kepada Indonesia untuk pembangunan modal manusia."
     }
 ]
