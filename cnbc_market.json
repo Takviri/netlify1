@@ -1,5 +1,26 @@
 [
     {
+        "title": "Bank Sentral Australia Naikkan Suku Bunga 50 Bps",
+        "link": "https://www.cnbcindonesia.com/market/20220706101148-19-353319/bank-sentral-australia-naikkan-suku-bunga-50-bps",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTAxMTQ4LTE5LTM1MzMxOS9iYW5rLXNlbnRyYWwtYXVzdHJhbGlhLW5haWtrYW4tc3VrdS1idW5nYS01MC1icHM=",
+        "description": " Bank Sentral Australia kembali menaikkan suku bunga acuan untuk ketiga kalinya"
+    },
+    {
+        "title": "Bank Besar Indonesia Sudah Jual Dolar Di Atas Rp 15.000",
+        "link": "https://www.cnbcindonesia.com/market/20220706103857-17-353336/bank-besar-indonesia-sudah-jual-dolar-di-atas-rp-15000",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTAzODU3LTE3LTM1MzMzNi9iYW5rLWJlc2FyLWluZG9uZXNpYS1zdWRhaC1qdWFsLWRvbGFyLWRpLWF0YXMtcnAtMTUwMDA=",
+        "description": " Bagi anda yang ingin melakukan penukaran valuta asing (valas) dollar Amerika Serikat, referensi kurs dari perbankan patut anda ikuti."
+    },
+    {
+        "title": "Jebol Lagi, IHSG Jatuh 1,3% Karena Ini",
+        "link": "https://www.cnbcindonesia.com/market/20220706103150-17-353330/jebol-lagi-ihsg-jatuh-13-karena-ini",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTAzMTUwLTE3LTM1MzMzMC9qZWJvbC1sYWdpLWloc2ctamF0dWgtMTMta2FyZW5hLWluaQ==",
+        "description": " Indeks Harga Saham gabungan (IHSG) jebol. Hingga pukul 10.27, indeks amblas 1,3% ke level 6.610,05."
+    },
+    {
         "title": "Fitch Ratings: BUMN Dominasi Gagal Bayar Utang Korporasi 2022",
         "link": "https://www.cnbcindonesia.com/market/20220706095212-19-353311/fitch-ratings-bumn-dominasi-gagal-bayar-utang-korporasi-2022",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MDkyNDE2LTE3LTM1MzMwMy9rcmlwdG8ta2VtYmFsaS1sZXN1LWJpdGNvaW4ta2Uta2lzYXJhbi11cy0tMTkwMDAtbGFnaQ==",
         "description": " Harga mayoritas kripto utama berbalik melemah, menandakan bahwa investor hanya memburu dalam jangka pendek."
-    },
-    {
-        "title": "Baru Sehari Rebound, IHSG Kembali Dibuka Melemah",
-        "link": "https://www.cnbcindonesia.com/market/20220706092153-19-353302/baru-sehari-rebound-ihsg-kembali-dibuka-melemah",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MDkyMTUzLTE5LTM1MzMwMi9iYXJ1LXNlaGFyaS1yZWJvdW5kLWloc2cta2VtYmFsaS1kaWJ1a2EtbWVsZW1haA==",
-        "description": " Kembali Melemah, IHSG"
-    },
-    {
-        "title": "Harga CPO Ambles 2,68%! Ini Penyebabnya...",
-        "link": "https://www.cnbcindonesia.com/market/20220706090326-17-353297/harga-cpo-ambles-268-ini-penyebabnya",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MDkwMzI2LTE3LTM1MzI5Ny9oYXJnYS1jcG8tYW1ibGVzLTI2OC1pbmktcGVueWViYWJueWE=",
-        "description": " Harga minyak sawit mentah ambles di sesi awal perdagangan hari ini. Harga CPO telah terkoreksi selama tiga hari beruntun."
-    },
-    {
-        "title": "Breaking: Pertama Sejak Mei 2020, Rupiah Tembus Rp 15.000/US$",
-        "link": "https://www.cnbcindonesia.com/market/20220706091216-17-353299/breaking-pertama-sejak-mei-2020-rupiah-tembus-rp-15000-us-",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MDkxMjE2LTE3LTM1MzI5OS9icmVha2luZy1wZXJ0YW1hLXNlamFrLW1laS0yMDIwLXJ1cGlhaC10ZW1idXMtcnAtMTUwMDAtdXMt",
-        "description": " Rupiah berfluktuasi melawan dolar Amerika Serikat (AS) di pembukaan perdagangan Senin (6/7/2022)"
     }
 ]
