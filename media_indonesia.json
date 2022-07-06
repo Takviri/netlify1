@@ -1,6 +1,48 @@
 [
     {
         "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504827/kominfo-masyarakat-siap-beralih-ke-siaran-tv-digital",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0ODI3L2tvbWluZm8tbWFzeWFyYWthdC1zaWFwLWJlcmFsaWgta2Utc2lhcmFuLXR2LWRpZ2l0YWw=",
+        "description": "KEMENTERIAN Komunikasi dan Informatika (Kominfo) menyatakan bahwa sebagian besar masyarakat di Indonesia sudah siap beralih dari siaran analog ke siaran televisi (TV) digital.&nbsp; Hal itu&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/504826/presiden-sri-lanka-minta-bantuan-putin-untuk-impor-bahan-bakar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNDgyNi9wcmVzaWRlbi1zcmktbGFua2EtbWludGEtYmFudHVhbi1wdXRpbi11bnR1ay1pbXBvci1iYWhhbi1iYWthcg==",
+        "description": "PRESIDEN Sri Lanka Gotabaya Rajapaksa pada Rabu (6/7) mengatakan pihaknya meminta pemimpin Rusia Vladimir Putin untuk membantu negara kepulauan yang kekurangan uang itu mengimpor bahan bakar di saat&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/504825/tahun-depan-indonesia-larang-ekspor-timah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDgyNS90YWh1bi1kZXBhbi1pbmRvbmVzaWEtbGFyYW5nLWVrc3Bvci10aW1haA==",
+        "description": "SETELAH&nbsp;nikel, Menteri Investasi/Kepala Badan Koordinasi Penanaman Modal (BKPM) Bahlil Lahadalia mengungkapkan, pemerintah Indonesia berencana melarang ekspor timah pada tahun depan. Larangan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/504824/jojo-kecewa-dengan-sikap-wasit-di-malaysia-masters",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQ4MjQvam9qby1rZWNld2EtZGVuZ2FuLXNpa2FwLXdhc2l0LWRpLW1hbGF5c2lhLW1hc3RlcnM=",
+        "description": "PEBULU tangkis tunggal putra Jonatan Christie menilai wasit yang menangani pertandingannya melawan Wang Tzu Wei di babak pertama Malaysia Masters, bersikap kurang adil. Dalam hal ini, Jojo,&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/504822/pedagang-di-kota-palu-tolak-hewan-ternak-dari-luar-sulawesi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0ODIyL3BlZGFnYW5nLWRpLWtvdGEtcGFsdS10b2xhay1oZXdhbi10ZXJuYWstZGFyaS1sdWFyLXN1bGF3ZXNp",
+        "description": "MENJELANG perayaan Hari Raya Idul Adha 1443 Hijriah, pasar hewan ternak di Kota Palu, Sulawesi Tengah, mulai dipadati pedagang. Mereka pun menjamin hewan ternak yang dijual sehat dan terbebas dari&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/504823/pengendara-moge-penabrak-anak-kembar-hingga-tewas-di-ciamis-divonis-4-bulan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0ODIzL3BlbmdlbmRhcmEtbW9nZS1wZW5hYnJhay1hbmFrLWtlbWJhci1oaW5nZ2EtdGV3YXMtZGktY2lhbWlzLWRpdm9uaXMtNC1idWxhbg==",
+        "description": "MAJELIS hakim Pengadilan Negeri (PN) Ciamis menjatuhkan vonis dua terdakwa pengendara motor gede (Harley Davidson) yang menabrak dua anak kembar hingga tewas dihukum empat bulan penjara dan denda 12&#8230;"
+    },
+    {
+        "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/504821/tim-genesis-wakili-indonesia-ikuti-southeast-asia-grand-showdown",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0ODIxL3RpbS1nZW5lc2lzLXdha2lsaS1pbmRvbmVzaWEtaWt1dGktc291dGhlYXN0LWFzaWEtZ3JhbmQtc2hvd2Rvd24=",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQ4MTMvcGVuZ2FkaWxhbi1uZWdlcmktbWFub2t3YXJpLWJhdGFsa2FuLXB1dHVzYW4tbWE=",
         "description": "KEMENANGAN perkara perdata antara Rico Sia melawan Pemerintah Provinsi Papua Barat yang telah mempunyai kekuatan hukum tetap (inkrah) di putusan Mahkamah Agung, ternyata dimentahkan kembali oleh Pengadilan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504815/bmkg-ingatkan-bahaya-gelombang-tinggi-di-pantai-barat-aceh",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0ODE1L2Jta2ctaW5nYXRrYW4tYmFoYXlhLWdlbG9tYmFuZy10aW5nZ2ktZGktcGFudGFpLWJhcmF0LWFjZWg=",
-        "description": "BADAN Meteorologi Klimatologi dan Geofisika (BMKG) mengingatkan bahaya gelombang tinggi di wilayah pantai barat selatan Aceh khususnya Aceh Barat mencapai 5 meter. &nbsp; &quot;Kondisi&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/504814/tim-honda-racing-indonesia-panen-kemenangan-di-seri-kedua-issom-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MDQ4MTQvdGltLWhvbmRhLXJhY2luZy1pbmRvbmVzaWEtcGFuZW4ta2VtZW5hbmdhbi1kaS1zZXJpLWtlZHVhLWlzc29tLTIwMjI=",
-        "description": "PARA pembalap dari tim Honda Racing Indonesia masing-masing berhasil meraih kemenangan pada seri kedua ajang Indonesian Sentul Series of Motorsports (ISSOM) 2022 yang digelar Minggu (3/7). di Sirkuit&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/504811/pemprov-dki-jakarta-tidak-pernah-kerjsama-dengan-act",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDQ4MTEvcGVtcHJvdi1ka2ktamFrYXJ0YS10aWRhay1wZXJuYWgta2VyanNhbWEtZGVuZ2FuLWFjdA==",
-        "description": "WAKIL Gubernur DKI Jakarta, Ahmad Riza Patria mengatakan pihaknya tidak pernah bekerja sama secara langsung dengan Lembaga Kemanusiaan Aksi Cepat Tanggap (ACT). Dia mengatakan yang bekerja sama&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/504809/pemprov-dki-jakarta-masih-berupaya-kendalikan-covid-19",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDQ4MDkvcGVtcHJvdi1ka2ktamFrYXJ0YS1tYXNpaC1iZXJ1cGF5YS1rZW5kYWxpa2FuLWNvdmlkLTE5",
-        "description": " PEMPROV DKI Jakarta masih terus berupaya mengendalikan pandemi Covid-19. Dengan terus menggencarkan program vaksinasi Covid-19 kepada masyarakat, serta berkolaborasi dengan Dinas Kesehatan DKI&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/504807/kessie-akui-tak-sabar-bermain-untuk-barcelona",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDgwNy9rZXNzaWUtYWt1aS10YWstc2FiYXItYmVybWFpbi11bnR1ay1iYXJjZWxvbmE=",
-        "description": "GELANDANG Franck Kessie mengakui tak sabar untuk segera bermain bersama klub anyarnya Barcelona setelah merampungkan kepindahan pada beberapa waktu lalu.  &quot;Ini adalah kesempatan luar&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/504806/pemerintah-segera-batasi-ekspor-sejumlah-bahan-mentah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDgwNi9wZW1lcmludGFoLXNlZ2VyYS1iYXRhc2ktZWtzcG9yLXNlanVtbGFoLWJhaGFuLW1lbnRhaA==",
-        "description": "PEMERINTAH Republik Indonesia segera membatasi ekspor sejumlah bahan mentah untuk memastikan terjaganya hilirisasi di dalam negeri. Menteri Investasi Bahlil Lahadalia pada pertemuan Trade, Investment,&#8230;"
     }
 ]
