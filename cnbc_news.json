@@ -1,5 +1,54 @@
 [
     {
+        "title": "Resesi Ancam Dunia, Indonesia Aman?",
+        "link": "https://www.cnbcindonesia.com/news/20220706133524-8-353406/resesi-ancam-dunia-indonesia-aman",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjEzMzUyNC04LTM1MzQwNi9yZXNlc2ktYW5jYW0tZHVuaWEtaW5kb25lc2lhLWFtYW4=",
+        "description": " Peluang resesi ekonomi global diproyeksikan mencapai 50%, seiring dengan kebijakan sejumlah bank sentral dunia menaikkan suku bunga acuan secara agresif."
+    },
+    {
+        "title": "Harga Sepeda Ambruk, Diskon Toko Gede-Gedean",
+        "link": "https://www.cnbcindonesia.com/news/20220706150717-7-353449/harga-sepeda-ambruk-diskon-toko-gede-gedean",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE1MDcxNy03LTM1MzQ0OS9oYXJnYS1zZXBlZGEtYW1icnVrLWRpc2tvbi10b2tvLWdlZGUtZ2VkZWFu",
+        "description": " Penjualan sepeda di masyarakat sudah jauh menurun akibatnya, harga pun ikut turun."
+    },
+    {
+        "title": "Kala Jokowi Borong Cabai yang Harganya Makin 'Pedas'",
+        "link": "https://www.cnbcindonesia.com/news/20220706153005-4-353463/kala-jokowi-borong-cabai-yang-harganya-makin-pedas",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE1MzAwNS00LTM1MzQ2My9rYWxhLWpva293aS1ib3JvbmctY2FiYWkteWFuZy1oYXJnYW55YS1tYWtpbi1wZWRhcw==",
+        "description": " Jokowi mengecek sekaligus membeli dagangan pedagang pasar seperti pisang, kacang, hingga cabai"
+    },
+    {
+        "title": "Mobil cc di Atas 1.500 Nekat Beli Pertalite, Ini yang Terjadi",
+        "link": "https://www.cnbcindonesia.com/news/20220706153341-4-353465/mobil-cc-di-atas-1500-nekat-beli-pertalite-ini-yang-terjadi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE1MzM0MS00LTM1MzQ2NS9tb2JpbC1jYy1kaS1hdGFzLTE1MDAtbmVrYXQtYmVsaS1wZXJ0YWxpdGUtaW5pLXlhbmctdGVyamFkaQ==",
+        "description": " Sesuai dalam Rakortas, mobil dengan kriteria cc\u00c2\u00a0di bawah 1.500 masih bisa membeli Pertalite"
+    },
+    {
+        "title": "Menteri Inggris Resign Berjamaah, Pemerintah Limbung",
+        "link": "https://www.cnbcindonesia.com/news/20220706155830-4-353473/menteri-inggris-resign-berjamaah-pemerintah-limbung",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE1NTgzMC00LTM1MzQ3My9tZW50ZXJpLWluZ2dyaXMtcmVzaWduLWJlcmphbWFhaC1wZW1lcmludGFoLWxpbWJ1bmc=",
+        "description": " Posisi Boris Johnson kian terjepit setelah gelombang pengunduran diri menerpa kabinetnya."
+    },
+    {
+        "title": "Hasil Rakortas, Mobil 1.500 cc ke Bawah Bisa Isi Pertalite",
+        "link": "https://www.cnbcindonesia.com/news/20220706151724-4-353446/hasil-rakortas-mobil-1500-cc-ke-bawah-bisa-isi-pertalite",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE1MTcyNC00LTM1MzQ0Ni9oYXNpbC1yYWtvcnRhcy1tb2JpbC0xNTAwLWNjLWtlLWJhd2FoLWJpc2EtaXNpLXBlcnRhbGl0ZQ==",
+        "description": " Dirut Pertamina Nicke widyawati membeberkan paparan hasil rakortas berkenaan dengan pengguna Pertalite"
+    },
+    {
+        "title": "Nih Tampang Mobil Listrik SUV dari Huawei",
+        "link": "https://www.cnbcindonesia.com/news/20220705205620-7-353209/nih-tampang-mobil-listrik-suv-dari-huawei",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTIwNTYyMC03LTM1MzIwOS9uaWgtdGFtcGFuZy1tb2JpbC1saXN0cmlrLXN1di1kYXJpLWh1YXdlaQ==",
+        "description": " Huawei Technologies Co meluncurkan mobil listrik terbarunya AITO M7 yang dikembangkan bersama dengan produsen mobil China Seres."
+    },
+    {
         "title": "Pembeli Pertalite Dibatasi, Konsumsi Bisa Susut 1,78 Juta KL",
         "link": "https://www.cnbcindonesia.com/news/20220706143752-4-353435/pembeli-pertalite-dibatasi-konsumsi-bisa-susut-178-juta-kl",
         "image": "static/images/cnbc_news.png",
@@ -19,54 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE0NDAyNi00LTM1MzQzNi9zZWxhbWF0LXdhcmdhLWRraS1kYXJpLWtlbWF5b3Jhbi1oYWxpbS1iYWthbC1iaXNhLW5haWstbHJ0",
         "description": " Pengembangan kereta lintas rel terpadu (LRT) Jakarta akan tersambung dari Kemayoran hingga Halim."
-    },
-    {
-        "title": "Ada Angin Segar Buat RI Kala Dunia Diramal Resesi",
-        "link": "https://www.cnbcindonesia.com/news/20220706150556-4-353443/ada-angin-segar-buat-ri-kala-dunia-diramal-resesi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE1MDU1Ni00LTM1MzQ0My9hZGEtYW5naW4tc2VnYXItYnVhdC1yaS1rYWxhLWR1bmlhLWRpcmFtYWwtcmVzZXNp",
-        "description": " Ada angin segar bagi RI saat dunia diramal bakal resesi."
-    },
-    {
-        "title": "Teror Inflasi \"Makan Korban\" Baru: Anak-anak Jepang",
-        "link": "https://www.cnbcindonesia.com/news/20220706152900-4-353462/teror-inflasi-makan-korban-baru-anak-anak-jepang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE1MjkwMC00LTM1MzQ2Mi90ZXJvci1pbmZsYXNpLW1ha2FuLWtvcmJhbi1iYXJ1LWFuYWstYW5hay1qZXBhbmc=",
-        "description": " Anak-anak Jepang menjadi korban nyata \"inflasi\"."
-    },
-    {
-        "title": "Rupiah Melemah, Profit Importir Daging Diproyeksi Tinggal 4%",
-        "link": "https://www.cnbcindonesia.com/news/20220706135311-8-353418/rupiah-melemah-profit-importir-daging-diproyeksi-tinggal-4",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjEzNTMxMS04LTM1MzQxOC9ydXBpYWgtbWVsZW1haC1wcm9maXQtaW1wb3J0aXItZGFnaW5nLWRpcHJveWVrc2ktdGluZ2dhbC00",
-        "description": " Rupiah Melemah, Profit Importir Daging Diproyeksi Tinggal 4%"
-    },
-    {
-        "title": "Menteri Biden hingga Xi Jinping Datang ke RI Besok, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220706133216-4-353403/menteri-biden-hingga-xi-jinping-datang-ke-ri-besok-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjEzMzIxNi00LTM1MzQwMy9tZW50ZXJpLWJpZGVuLWhpbmdnYS14aS1qaW5waW5nLWRhdGFuZy1rZS1yaS1iZXNvay1hZGEtYXBh",
-        "description": " RI\u00c2\u00a0 menggelar G20 Foreign Ministers' Meeting (FMM) di Bali besok. Di mana para menteri luar negeri (menlu) anggota akan membahas upaya pemulihan global."
-    },
-    {
-        "title": "5 Orang Eks Eselon-I Diperiksa Soal Perkara Impor Garam",
-        "link": "https://www.cnbcindonesia.com/news/20220706150524-4-353442/5-orang-eks-eselon-i-diperiksa-soal-perkara-impor-garam",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE1MDUyNC00LTM1MzQ0Mi81LW9yYW5nLWVrcy1lc2Vsb24taS1kaXBlcmlrc2Etc29hbC1wZXJrYXJhLWltcG9yLWdhcmFt",
-        "description": " Kejaksaan Agung melakukan pemeriksaan atas 5 orang terkait perkara impor garam industri."
-    },
-    {
-        "title": "Industri Jerman Membaik, tapi Pasokan Gas Masih 'Menakutkan'",
-        "link": "https://www.cnbcindonesia.com/news/20220706143450-4-353434/industri-jerman-membaik-tapi-pasokan-gas-masih-menakutkan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE0MzQ1MC00LTM1MzQzNC9pbmR1c3RyaS1qZXJtYW4tbWVtYmFpay10YXBpLXBhc29rYW4tZ2FzLW1hc2loLW1lbmFrdXRrYW4=",
-        "description": " Pesanan industri Jerman tumbuh pada Mei 2022."
-    },
-    {
-        "title": "Ekonom Sebut Subsidi BBM Sebagai Pemborosan APBN, Kenapa?",
-        "link": "https://www.cnbcindonesia.com/news/20220706120736-8-353371/ekonom-sebut-subsidi-bbm-sebagai-pemborosan-apbn-kenapa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjEyMDczNi04LTM1MzM3MS9la29ub20tc2VidXQtc3Vic2lkaS1iYm0tc2ViYWdhaS1wZW1ib3Jvc2FuLWFwYm4ta2VuYXBh",
-        "description": " Ekonom Sebut Subsidi BBM Sebagai Pemborosan APBN, Ini Efeknya!"
     }
 ]
