@@ -1,5 +1,47 @@
 [
     {
+        "title": "Paus Fransiskus Dukung Perempuan Jadi Pejabat Vatikan",
+        "link": "https://www.cnbcindonesia.com/news/20220706175731-4-353508/paus-fransiskus-dukung-perempuan-jadi-pejabat-vatikan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE3NTczMS00LTM1MzUwOC9wYXVzLWZyYW5zaXNrdXMtZHVrdW5nLXBlcmVtcHVhbi1qYWRpLXBlamFiYXQtdmF0aWthbg==",
+        "description": " Paus Fransiskus mengatakan dia ingin memberi perempuan lebih banyak posisi tingkat tinggi di Tahkta Suci."
+    },
+    {
+        "title": "Covid RI Tembus 2.577 Kasus, Menuju Puncak?",
+        "link": "https://www.cnbcindonesia.com/news/20220706174042-16-353504/covid-ri-tembus-2577-kasus-menuju-puncak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE3NDA0Mi0xNi0zNTM1MDQvY292aWQtcmktdGVtYnVzLTI1Nzcta2FzdXMtbWVudWp1LXB1bmNhaw==",
+        "description": " Kasus konfirmasi harian Covid-19 di tanah air terus menunjukkan tren meningkat."
+    },
+    {
+        "title": "Perlahan-lahan, Konsumsi BBM RI Diramal Menciut",
+        "link": "https://www.cnbcindonesia.com/news/20220706174219-4-353505/perlahan-lahan-konsumsi-bbm-ri-diramal-menciut",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE3NDIxOS00LTM1MzUwNS9wZXJsYWhhbi1sYWhhbi1rb25zdW1zaS1iYm0tcmktZGlyYW1hbC1tZW5jaXV0",
+        "description": " Dirut Pertamina, Nicke Widyawati meramal konsumsi Bahan Bakar Minyak (BBM) di Indonesia diprediksi akan mengalami penurunan"
+    },
+    {
+        "title": "Simak! Update Wabah Penyakit Mulut dan Kuku Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220706174842-4-353507/simak-update-wabah-penyakit-mulut-kuku-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE3NDg0Mi00LTM1MzUwNy9zaW1hay11cGRhdGUtd2FiYWgtcGVueWFraXQtbXVsdXQta3VrdS1oYXJpLWluaQ==",
+        "description": " Penyebaran virus penyakit mulut dan kuku (PMK) semakin meluas."
+    },
+    {
+        "title": "Pertamina Gas Mulai Proyek Pipa Gas 78 Km Senipah-Balikpapan",
+        "link": "https://www.cnbcindonesia.com/news/20220706173547-4-353503/pertamina-gas-mulai-proyek-pipa-gas-78-km-senipah-balikpapan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE3MzU0Ny00LTM1MzUwMy9wZXJ0YW1pbmEtZ2FzLW11bGFpLXByb3llay1waXBhLWdhcy03OC1rbS1zZW5pcGFoLWJhbGlrcGFwYW4=",
+        "description": " Pembangunan pipa gas sepanjang 78 km dengan diameter 20 inci tersebut dilaksanakan oleh PT Pertamina Gas (Pertagas)."
+    },
+    {
+        "title": "Para Tahanan Rusia Ditawari Rp 47 Juta untuk Membelot",
+        "link": "https://www.cnbcindonesia.com/news/20220706172143-4-353501/para-tahanan-rusia-ditawari-rp-47-juta-untuk-membelot",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE3MjE0My00LTM1MzUwMS9wYXJhLXRhaGFuYW4tcnVzaWEtZGl0YXdhcmktcnAtNDctanV0YS11bnR1ay1tZW1iZWxvdA==",
+        "description": " Para tahanan di kota St. Petersburg, Rusia ditawari kebebasan dan uang jika mereka bergabung dengan perang Presiden Vladimir Putin di Ukraina."
+    },
+    {
         "title": "Ancaman Resesi Meluas, Pengusaha Ekspor-Impor Cemas!",
         "link": "https://www.cnbcindonesia.com/news/20220706145353-8-353441/ancaman-resesi-meluas-pengusaha-ekspor-impor-cemas",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjEzMzUyMy04LTM1MzQwOC9zdWNvci1ibW9yZS1maXRodWItaGFkaXJrYW4tZml0bmVzcy1zdG9jay1kaS1qYWthcnRh",
         "description": " Belajar investasi bisa dipelajari sambil berolahraga di Fitness Stock Jakarta."
-    },
-    {
-        "title": "Bos Pertamina: Harga BBM Pertalite dan Solar Tak Akan Naik!",
-        "link": "https://www.cnbcindonesia.com/news/20220706163030-4-353481/bos-pertamina-harga-bbm-pertalite-dan-solar-tak-akan-naik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE2MzAzMC00LTM1MzQ4MS9ib3MtcGVydGFtaW5hLWhhcmdhLWJibS1wZXJ0YWxpdGUtZGFuLXNvbGFyLXRhay1ha2FuLW5haWs=",
-        "description": " Dirut Pertamina Nicke Widyawati memastikan BBM Pertalite dan Solar Subsidi tidak akan mengalami penyesuaian kenaikan harga"
-    },
-    {
-        "title": "Redam Inflasi, Biden Siap Potong Tarif Impor China?",
-        "link": "https://www.cnbcindonesia.com/news/20220706155726-4-353472/redam-inflasi-biden-siap-potong-tarif-impor-china",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE1NTcyNi00LTM1MzQ3Mi9yZWRhbS1pbmZsYXNpLWJpZGVuLXNpYXAtcG90b25nLXRhcmlmLWltcG9yLWNoaW5h",
-        "description": " AS masih pikir-pikir untuk memangkas tarif impor China"
-    },
-    {
-        "title": "Di Forum B20 Indonesia Bahas Rekomendasi Transformasi Digital",
-        "link": "https://www.cnbcindonesia.com/news/20220706165425-4-353492/di-forum-b20-indonesia-bahas-rekomendasi-transformasi-digital",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE2NTQyNS00LTM1MzQ5Mi9kaS1mb3J1bS1iMjAtaW5kb25lc2lhLWJhaGFzLXJla29tZW5kYXNpLXRyYW5zZm9ybWFzaS1kaWdpdGFs",
-        "description": " Indonesia berperan aktif untuk mengakselerasi transformasi digital sebagai pendukung pemulihan ekonomi pasca-pandemi Covid-19 pada tatanan global"
-    },
-    {
-        "title": "Buntut Dugaan Penyalahgunaan Dana, Kemensos Cabut Izin ACT",
-        "link": "https://www.cnbcindonesia.com/news/20220706133523-8-353414/buntut-dugaan-penyalahgunaan-dana-kemensos-cabut-izin-act",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjEzMzUyMy04LTM1MzQxNC9idW50dXQtZHVnYWFuLXBlbnlhbGFoZ3VuYWFuLWRhbmEta2VtZW5zb3MtY2FidXQtaXppbi1hY3Q=",
-        "description": " Kementerian Sosial mencabut izin pengumpulan uang dan barang, Yayasan Aksi Cepat Tanggap (ACT)."
-    },
-    {
-        "title": "Tok! Malaysia Kerek Suku Bunga 25 Bps jadi 2,25%, RI Kapan?",
-        "link": "https://www.cnbcindonesia.com/news/20220706165825-4-353493/tok-malaysia-kerek-suku-bunga-25-bps-jadi-225-ri-kapan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE2NTgyNS00LTM1MzQ5My90b2stbWFsYXlzaWEta2VyZWstc3VrdS1idW5nYS0yNS1icHMtamFkaS0yMjUtcmkta2FwYW4=",
-        "description": " Bank sentral Malaysia kembali menaikkan suku bunga sebesar 25 basis poin menjadi 2,25% pada Rabu (6/7/2022)."
-    },
-    {
-        "title": "Terus Nanjak, Kasus Harian Covid di RI Nambah 2.743 Hari Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220706165847-4-353495/terus-nanjak-kasus-harian-covid-di-ri-nambah-2743-hari-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE2NTg0Ny00LTM1MzQ5NS90ZXJ1cy1uYW5qYWsta2FzdXMtaGFyaWFuLWNvdmlkLWRpLXJpLW5hbWJhaC0yNzQzLWhhcmktaW5p",
-        "description": " Simak data terbaru Covid-19."
     }
 ]
