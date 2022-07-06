@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sudah Tembus Rp 15.000/US$, Rupiah Terburuk di Asia Juga?",
+        "link": "https://www.cnbcindonesia.com/market/20220706102708-17-353329/sudah-tembus-rp-15000-us--rupiah-terburuk-di-asia-juga",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTAyNzA4LTE3LTM1MzMyOS9zdWRhaC10ZW1idXMtcnAtMTUwMDAtdXMtLXJ1cGlhaC10ZXJidXJ1ay1kaS1hc2lhLWp1Z2E=",
+        "description": " Rupiah akhirnya menembus ke atas Rp 15.000/US$ di awal perdagangan Rabu (6/7/2022)"
+    },
+    {
+        "title": "Inflasi Thailand Pecah Rekor, Tembus 7,66% (yoy)",
+        "link": "https://www.cnbcindonesia.com/market/20220706101018-19-353318/inflasi-thailand-pecah-rekor-tembus-766--yoy-",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTAxMDE4LTE5LTM1MzMxOC9pbmZsYXNpLXRoYWlsYW5kLXBlY2FoLXJla29yLXRlbWJ1cy03NjYtLXlveS0=",
+        "description": " Inflasi Thailand pada Juni mencapai level tertinggi hampir 14 tahun terakhir"
+    },
+    {
+        "title": "Help! Rupiah Kian Terpuruk, Sentuh Rp 15.020/US$",
+        "link": "https://www.cnbcindonesia.com/market/20220706101906-17-353322/help-rupiah-kian-terpuruk-sentuh-rp-15020-us-",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTAxOTA2LTE3LTM1MzMyMi9oZWxwLXJ1cGlhaC1raWFuLXRlcnB1cnVrLXNlbnR1aC1ycC0xNTAyMC11cy0=",
+        "description": " Kurs rupiah kembali tertekan oleh dolar AS hingga di pertengahan perdagangan hari ini."
+    },
+    {
         "title": "Bank Sentral Australia Naikkan Suku Bunga 50 Bps",
         "link": "https://www.cnbcindonesia.com/market/20220706101148-19-353319/bank-sentral-australia-naikkan-suku-bunga-50-bps",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MDkyNDM5LTE3LTM1MzMwNS9nYWppLWFjdC1zZW1wYXQtcnAtMjUwLWp1dGEtaW5pLXNldGFyYS1wZXRpbmdnaS1idW1u",
         "description": " Aksi Cepat Tanggap (ACT) saat ini mendapat sorotan karena gaji para petingginya selangit hingga mencapai Rp 250 juta per bulan pada 2021."
-    },
-    {
-        "title": "Hotman Paris Bilang Begini Soal Holywings Ditutup Anies",
-        "link": "https://www.cnbcindonesia.com/market/20220706093351-17-353307/hotman-paris-bilang-begini-soal-holywings-ditutup-anies",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MDkzMzUxLTE3LTM1MzMwNy9ob3RtYW4tcGFyaXMtYmlsYW5nLWJlZ2luaS1zb2FsLWhvbHl3aW5ncy1kaXR1dHVwLWFuaWVz",
-        "description": " Penutupan ini menyusul viralnya promosi minuman keras yang berbau sara."
-    },
-    {
-        "title": "Kalau Jual Emas Hari Ini, Anda Rugi Rp 16.000 per Gram",
-        "link": "https://www.cnbcindonesia.com/market/20220706085421-17-353292/kalau-jual-emas-hari-ini-anda-rugi-rp-16000-per-gram",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MDg1NDIxLTE3LTM1MzI5Mi9rYWxhdS1qdWFsLWVtYXMtaGFyaS1pbmktYW5kYS1ydWdpLXJwLTE2MDAwLXBlci1ncmFt",
-        "description": " Harga emas antam drop hingga Rp 12.000 per gram"
-    },
-    {
-        "title": "Kripto Kembali Lesu, Bitcoin Ke Kisaran US$ 19.000 Lagi",
-        "link": "https://www.cnbcindonesia.com/market/20220706092416-17-353303/kripto-kembali-lesu-bitcoin-ke-kisaran-us--19000-lagi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MDkyNDE2LTE3LTM1MzMwMy9rcmlwdG8ta2VtYmFsaS1sZXN1LWJpdGNvaW4ta2Uta2lzYXJhbi11cy0tMTkwMDAtbGFnaQ==",
-        "description": " Harga mayoritas kripto utama berbalik melemah, menandakan bahwa investor hanya memburu dalam jangka pendek."
     }
 ]
