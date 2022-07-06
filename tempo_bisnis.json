@@ -1,5 +1,47 @@
 [
     {
+        "title": "Kehadiran Shopee Center di Pekalongan Beri Harapan untuk UMKM",
+        "link": "https://bisnis.tempo.co/read/1609408/kehadiran-shopee-center-di-pekalongan-beri-harapan-untuk-umkm",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA5NDA4L2tlaGFkaXJhbi1zaG9wZWUtY2VudGVyLWRpLXBla2Fsb25nYW4tYmVyaS1oYXJhcGFuLXVudHVrLXVta20=",
+        "description": "Shopee Center Pekalongan menyediakan berbagai fasilitas untuk UMKM, antara lain studio foto dan studio live streaming."
+    },
+    {
+        "title": "Total Pajak Digital hingga Juni Terkumpul Rp 7,1 Triliun",
+        "link": "https://bisnis.tempo.co/read/1609395/total-pajak-digital-hingga-juni-terkumpul-rp-71-triliun",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA5Mzk1L3RvdGFsLXBhamFrLWRpZ2l0YWwtaGluZ2dhLWp1bmktdGVya3VtcHVsLXJwLTcxLXRyaWxpdW4=",
+        "description": "Jumlah penyelenggara PMSE yang telah ditunjuk untuk memungut pajak digital dan menyetornya ke kas negara sampai Juni 2022 sebanyak 119 entitas."
+    },
+    {
+        "title": "Rupiah Tembus Rp 15 Ribu, Ekonom: Waspada Pembengkakan Kredit Macet",
+        "link": "https://bisnis.tempo.co/read/1609368/rupiah-tembus-rp-15-ribu-ekonom-waspada-pembengkakan-kredit-macet",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA5MzY4L3J1cGlhaC10ZW1idXMtcnAtMTUtcmlidS1la29ub20td2FzcGFkYS1wZW1iZW5na2FrYW4ta3JlZGl0LW1hY2V0",
+        "description": "Rupiah yang ditransaksikan antar-bank loyo hingga menyentuh level psikologis Rp 15 ribu per dolar Amerika Serikat."
+    },
+    {
+        "title": "Porsi Kredit ke UMKM Baru 18,7 Persen, Bahlil: Negara Belum Hadir Maksimal",
+        "link": "https://bisnis.tempo.co/read/1609380/porsi-kredit-ke-umkm-baru-187-persen-bahlil-negara-belum-hadir-maksimal",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA5MzgwL3BvcnNpLWtyZWRpdC1rZS11bWttLWJhcnUtMTg3LXBlcnNlbi1iYWhsaWwtbmVnYXJhLWJlbHVtLWhhZGlyLW1ha3NpbWFs",
+        "description": "Menteri Bahlil Lahadalia mengatakan negara belum hadir maksimal dalam mengurus usaha mikro kecil dan menengah atau UMKM. Apa maksudnya?"
+    },
+    {
+        "title": "Kelas Rawat Inap Dihapus, BPJS Kesehatan Salurkan Pembiayaan Darurat ke RS dan Faskes",
+        "link": "https://bisnis.tempo.co/read/1609372/kelas-rawat-inap-dihapus-bpjs-kesehatan-salurkan-pembiayaan-darurat-ke-rs-dan-faskes",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA5MzcyL2tlbGFzLXJhd2F0LWluYXAtZGloYXB1cy1icGpzLWtlc2VoYXRhbi1zYWx1cmthbi1wZW1iaWF5YWFuLWRhcnVyYXQta2UtcnMtZGFuLWZhc2tlcw==",
+        "description": "BPJS Kesehatan tengah berinovasi menyalurkan pembiayaan darurat bagi rumah sakit (RS) maupun fasilitas kesehatan yang tengah merenovasi bangunan."
+    },
+    {
+        "title": "Ekonomi Indonesia Terpecah Belah, Faisal Basri: Kita Tidak Terintegrasi",
+        "link": "https://bisnis.tempo.co/read/1609310/ekonomi-indonesia-terpecah-belah-faisal-basri-kita-tidak-terintegrasi",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA5MzEwL2Vrb25vbWktaW5kb25lc2lhLXRlcnBlY2FoLWJlbGFoLWZhaXNhbC1iYXNyaS1raXRhLXRpZGFrLXRlcmludGVncmFzaQ==",
+        "description": "Ekonom Senior Universitas Indonesia Faisal Basri menyoroti ihwal derajat integrasi ekonomi Indonesia yang relatif rendah."
+    },
+    {
         "title": "Sri Mulyani: Masyarakat Makin Sulit Membeli Rumah",
         "link": "https://bisnis.tempo.co/read/1609356/sri-mulyani-masyarakat-makin-sulit-membeli-rumah",
         "image": "static/images/tempo_bisnis.png",
@@ -26,47 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA5Mjg2L3RlcmtpbmktYmlzbmlzLW1pbnlha2l0YS1tdWxhaS1kaXNlYmFyLWhpbmdnYS1wcmVkaWtzaS1wZW5kdWR1ay1kaS1pa24tbnVzYW50YXJh",
         "description": "Berita terkini ekonomi bisnis hingga Rabu sore, 6 Juli 2022 antara lain Kementerian Perdagangan meluncurkan Minyakita seharga Rp 14 ribu per liter."
-    },
-    {
-        "title": "Transaksi Aset Kripto Terbanyak di RI: Tether Rp 42,3 T, Bitcoin Rp 18,5 T dan Ethereum Rp 14,2 T",
-        "link": "https://bisnis.tempo.co/read/1609332/transaksi-aset-kripto-terbanyak-di-ri-tether-rp-423-t-bitcoin-rp-185-t-dan-ethereum-rp-142-t",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA5MzMyL3RyYW5zYWtzaS1hc2V0LWtyaXB0by10ZXJiYW55YWstZGktcmktdGV0aGVyLXJwLTQyMy10LWJpdGNvaW4tcnAtMTg1LXQtZGFuLWV0aGVyZXVtLXJwLTE0Mi10",
-        "description": "Tether menjadi aset kripto dengan nilai transaksi tertinggi di Indonesia."
-    },
-    {
-        "title": "Pemilik Akun Klarifikasi, BNI Pastikan Beri Pinjaman dengan Agunan",
-        "link": "https://bisnis.tempo.co/read/1609350/pemilik-akun-klarifikasi-bni-pastikan-beri-pinjaman-dengan-agunan",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA5MzUwL3BlbWlsaWstYWt1bi1rbGFyaWZpa2FzaS1ibmktcGFzdGlrYW4tYmVyaS1waW5qYW1hbi1kZW5nYW4tYWd1bmFu",
-        "description": "Penyaluran kredit ke pihak mana pun pasti melewati proses pemenuhan seluruh persyaratan kredit."
-    },
-    {
-        "title": "Pertamina Ungkap Pertamax Dijual di Bawah Harga Keekonomian dan Tidak Diganti Pemerintah",
-        "link": "https://bisnis.tempo.co/read/1609342/pertamina-ungkap-pertamax-dijual-di-bawah-harga-keekonomian-dan-tidak-diganti-pemerintah",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA5MzQyL3BlcnRhbWluYS11bmdrYXAtcGVydGFtYXgtZGlqdWFsLWRpLWJhd2FoLWhhcmdhLWtlZWtvbm9taWFuLWRhbi10aWRhay1kaWdhbnRpLXBlbWVyaW50YWg=",
-        "description": "Direktur Utama PT Pertamina (Persero) Nicke Widyawati membeberkan pemerintah tidak ikut mengganti beban selisih harga keekonomian Pertamax."
-    },
-    {
-        "title": "Wajib Vaksin Booster Sebagai Syarat Perjalanan, Kemenhub: Surat Edaran Disiapkan",
-        "link": "https://bisnis.tempo.co/read/1609256/wajib-vaksin-booster-sebagai-syarat-perjalanan-kemenhub-surat-edaran-disiapkan",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA5MjU2L3dhamliLXZha3Npbi1ib29zdGVyLXNlYmFnYWktc3lhcmF0LXBlcmphbGFuYW4ta2VtZW5odWItc3VyYXQtZWRhcmFuLWRpc2lhcGthbg==",
-        "description": "Rencana penerapan vaksin booster sebagai syarat perjalanan akan diikuti dengan pelaksanaan vaksinasi di berbagai tempat."
-    },
-    {
-        "title": "Tak Hanya Timah, Pemerintah Akan Ekspor Komoditas Ini",
-        "link": "https://bisnis.tempo.co/read/1609317/tak-hanya-timah-pemerintah-akan-ekspor-komoditas-ini",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA5MzE3L3Rhay1oYW55YS10aW1haC1wZW1lcmludGFoLWFrYW4tZWtzcG9yLWtvbW9kaXRhcy1pbmk=",
-        "description": "Menteri Investasi/Kepala Badan Koordinasi Penanaman Modal (BKPM) Bahlil Lahadalia menyampaikan pelarangan ekspor timah berlaku tahun depan."
-    },
-    {
-        "title": "Samuel Sekuritas: IHSG Turun 0,84 Persen, Indeks Sektor Industri Melemah Paling Dalam",
-        "link": "https://bisnis.tempo.co/read/1609315/samuel-sekuritas-ihsg-turun-084-persen-indeks-sektor-industri-melemah-paling-dalam",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA5MzE1L3NhbXVlbC1zZWt1cml0YXMtaWhzZy10dXJ1bi0wODQtcGVyc2VuLWluZGVrcy1zZWt0b3ItaW5kdXN0cmktbWVsZW1haC1wYWxpbmctZGFsYW0=",
-        "description": "Indeks Harga Saham Gabungan atau IHSG masih terus ada di zona merah pada sesi kedua perdagangan Rabu, 6 Juli 2022."
     }
 ]

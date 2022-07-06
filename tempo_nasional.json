@@ -1,5 +1,61 @@
 [
     {
+        "title": "Ricuh Babarsari, Tokoh Masyarakat Tiga Daerah Bertemu di Polda DIY",
+        "link": "https://nasional.tempo.co/read/1609409/ricuh-babarsari-tokoh-masyarakat-tiga-daerah-bertemu-di-polda-diy",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDk0MDkvcmljdWgtYmFiYXJzYXJpLXRva29oLW1hc3lhcmFrYXQtdGlnYS1kYWVyYWgtYmVydGVtdS1kaS1wb2xkYS1kaXk=",
+        "description": "Keban meminta para mahasiswa tidak gampang terprovokasi unggahan media sosial soal ricuh Babarsari."
+    },
+    {
+        "title": "PPATK Ungkap ACT Kelola Donasi Masyarakat untuk Bisnis",
+        "link": "https://nasional.tempo.co/read/1609407/ppatk-ungkap-act-kelola-donasi-masyarakat-untuk-bisnis",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDk0MDcvcHBhdGstdW5na2FwLWFjdC1rZWxvbGEtZG9uYXNpLW1hc3lhcmFrYXQtdW50dWstYmlzbmlz",
+        "description": "Ivan menjelaskan, setiap tahunnya jumlah uang sumbangan masyarakat yang dikelola ACT nilainya mencapai Rp1 triliun."
+    },
+    {
+        "title": "PPATK Sebut ACT 2 ribu Kali Terima Transfer Dana dari 10 Negara",
+        "link": "https://nasional.tempo.co/read/1609403/ppatk-sebut-act-2-ribu-kali-terima-transfer-dana-dari-10-negara",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDk0MDMvcHBhdGstc2VidXQtYWN0LTItcmlidS1rYWxpLXRlcmltYS10cmFuc2Zlci1kYW5hLWRhcmktMTAtbmVnYXJh",
+        "description": "Dari hasil analisis PPATK, total ACT melakukan transfer sebanyak 450 kali ke luar negeri dengan total sekitar Rp52 miliar."
+    },
+    {
+        "title": "Pegadaian-DJKN Perpanjang Kerja Sama Akurasi Data Bea Lelang",
+        "link": "https://nasional.tempo.co/read/1609400/pegadaian-djkn-perpanjang-kerja-sama-akurasi-data-bea-lelang",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDk0MDAvcGVnYWRhaWFuLWRqa24tcGVycGFuamFuZy1rZXJqYS1zYW1hLWFrdXJhc2ktZGF0YS1iZWEtbGVsYW5n",
+        "description": "PKS ini sebagai wujud komitmen bersama antara Pegadaian dan DJKN dalam meningkatkan akurasi data bea lelang."
+    },
+    {
+        "title": "Buntut Kericuhan Babarsari, Polda Yogyakarta Tetapkan 2 Tersangka",
+        "link": "https://nasional.tempo.co/read/1609396/buntut-kericuhan-babarsari-polda-yogyakarta-tetapkan-2-tersangka",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDkzOTYvYnVudHV0LWtlcmljdWhhbi1iYWJhcnNhcmktcG9sZGEteW9neWFrYXJ0YS10ZXRhcGthbi0yLXRlcnNhbmdrYQ==",
+        "description": "Kericuhan di Babarsari berawal dari keributan di karaoke. Dua tersangka itu belum ditahan."
+    },
+    {
+        "title": "KPU Jawab Kegusaran soal Pemerintahan Jokowi Jadi Bebek Lumpuh Usai Pilpres 2024",
+        "link": "https://nasional.tempo.co/read/1609386/kpu-jawab-kegusaran-soal-pemerintahan-jokowi-jadi-bebek-lumpuh-usai-pilpres-2024",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDkzODYva3B1LWphd2FiLWtlZ3VzYXJhbi1zb2FsLXBlbWVyaW50YWhhbi1qb2tvd2ktamFkaS1iZWJlay1sdW1wdWgtdXNhaS1waWxwcmVzLTIwMjQ=",
+        "description": "Ada jeda waktu 8 bulan antara Pilpres 2024 dan pelantikan presiden terpilih. Adanya dualisme kepemimpinan jadi kekhawatiran."
+    },
+    {
+        "title": "Bareskrim Percayakan Penanganan Kasus Pencabulan Santriwati Jombang ke Polda Jatim",
+        "link": "https://nasional.tempo.co/read/1609361/bareskrim-percayakan-penanganan-kasus-pencabulan-santriwati-jombang-ke-polda-jatim",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDkzNjEvYmFyZXNrcmltLXBlcmNheWFrYW4tcGVuYW5nYW5hbi1rYXN1cy1wZW5jYWJ1bGFuLXNhbnRyaXdhdGktam9tYmFuZy1rZS1wb2xkYS1qYXRpbQ==",
+        "description": "Bareskrim Mabes Polri tidak melakukan asistensi karena meyakini Polda Jatim mampu menangani kasus pencabulan santriwati tersebut."
+    },
+    {
+        "title": "Tahapan Pemilu 2024 Sudah Dimulai: Revisi UU Belum Jelas, Anggaran Masih Kurang",
+        "link": "https://nasional.tempo.co/read/1609363/tahapan-pemilu-2024-sudah-dimulai-revisi-uu-belum-jelas-anggaran-masih-kurang",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDkzNjMvdGFoYXBhbi1wZW1pbHUtMjAyNC1zdWRhaC1kaW11bGFpLXJldmlzaS11dS1iZWx1bS1qZWxhcy1hbmdnYXJhbi1tYXNpaC1rdXJhbmc=",
+        "description": "Pemekaran wilayah di Papua memberi konsekuensi pada jumlah daerah pemilihan di Pemilu 2024. Anggota DPR mengusulkan Presiden mengeluarkan perpu."
+    },
+    {
         "title": "Rapat Monev Inpres 2/2021 Dorong Pekerja Terlindungi BPJS Ketenagakerjaan",
         "link": "https://nasional.tempo.co/read/1609360/rapat-monev-inpres-22021-dorong-pekerja-terlindungi-bpjs-ketenagakerjaan",
         "image": "static/images/tempo_nasional.png",
@@ -12,61 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDkzNTcvc2VsdXJ1aC1mcmFrc2ktZHByLXNlcGFrYXQtcnV1LXBlbWFzeWFyYWthdGFuLWRpc2Foa2FuLWJha2FsLWRpa2V0b2stYmVzb2s=",
         "description": "RUU Pemasyarakatan sebelumnya batal disahkan pada 2019, karena masifnya penolakan dari masyarakat."
-    },
-    {
-        "title": "Survei LSI Denny JA Beberkan Alasan Poros Ketiga Tak Kunjung Terbentuk",
-        "link": "https://nasional.tempo.co/read/1609353/survei-lsi-denny-ja-beberkan-alasan-poros-ketiga-tak-kunjung-terbentuk",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDkzNTMvc3VydmVpLWxzaS1kZW5ueS1qYS1iZWJlcmthbi1hbGFzYW4tcG9yb3Mta2V0aWdhLXRhay1rdW5qdW5nLXRlcmJlbnR1aw==",
-        "description": "Dalam rilis survei terbarunya, LSI Denny JA menyebut poros ketiga menjelang Pilpres 2024 hingga kini belum terbentuk karena masih terlihat rumit."
-    },
-    {
-        "title": "Kementan Pastikan Penanganan PMK Maksimal",
-        "link": "https://nasional.tempo.co/read/1609354/kementan-pastikan-penanganan-pmk-maksimal",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDkzNTQva2VtZW50YW4tcGFzdGlrYW4tcGVuYW5nYW5hbi1wbWstbWFrc2ltYWw=",
-        "description": "Kementan terus melakukan penanganan, termasuk pendistribusian vaksin."
-    },
-    {
-        "title": "Mas Dhito Penuhi Janji Pasang Palang Pintu Kereta Api",
-        "link": "https://nasional.tempo.co/read/1609351/mas-dhito-penuhi-janji-pasang-palang-pintu-kereta-api",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDkzNTEvbWFzLWRoaXRvLXBlbnVoaS1qYW5qaS1wYXNhbmctcGFsYW5nLXBpbnR1LWtlcmV0YS1hcGk=",
-        "description": "Pintu perlintasan di Branggahan ditargetkan rampung Agustus."
-    },
-    {
-        "title": "PPATK Jelaskan Alasan Baru Blokir Rekening ACT Setelah Ada Pemberitaan Tempo",
-        "link": "https://nasional.tempo.co/read/1609339/ppatk-jelaskan-alasan-baru-blokir-rekening-act-setelah-ada-pemberitaan-tempo",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDkzMzkvcHBhdGstamVsYXNrYW4tYWxhc2FuLWJhcnUtYmxva2lyLXJla2VuaW5nLWFjdC1zZXRlbGFoLWFkYS1wZW1iZXJpdGFhbi10ZW1wbw==",
-        "description": "Adanya pemberitaan yang masif soal dugaan penyelewengan dana ACT oleh Majalah Tempo, juga mendorong beberapa pihak memberikan bukti tambahan ke PPATK."
-    },
-    {
-        "title": "Draf Final RKUHP: Menghina Presiden Diancam Penjara 3,5 Tahun",
-        "link": "https://nasional.tempo.co/read/1609334/draf-final-rkuhp-menghina-presiden-diancam-penjara-35-tahun",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDkzMzQvZHJhZi1maW5hbC1ya3VocC1tZW5naGluYS1wcmVzaWRlbi1kaWFuY2FtLXBlbmphcmEtMzUtdGFodW4=",
-        "description": "Perubahan delik penghinaan presiden menjadi delik aduan pada RKUHP dianggap tak menghilangkan masalah utama pada pasal anti-demokrasi itu."
-    },
-    {
-        "title": "KPU Minta Bantuan Kominfo agar Pengiriman Hasil Pemilu 2024 Semakin Cepat",
-        "link": "https://nasional.tempo.co/read/1609333/kpu-minta-bantuan-kominfo-agar-pengiriman-hasil-pemilu-2024-semakin-cepat",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDkzMzMva3B1LW1pbnRhLWJhbnR1YW4ta29taW5mby1hZ2FyLXBlbmdpcmltYW4taGFzaWwtcGVtaWx1LTIwMjQtc2VtYWtpbi1jZXBhdA==",
-        "description": "KPU meminta bantuan penguatan jaringan internet ke Kementerian Komunikasi dan Informatika agar pengiriman hasil rekapitulasi suara di TPS lebih cepat"
-    },
-    {
-        "title": "PPATK Ungkap Jumlah Dana yang Dikelola ACT Setiap Tahun Capai Rp 1 Triliun",
-        "link": "https://nasional.tempo.co/read/1609328/ppatk-ungkap-jumlah-dana-yang-dikelola-act-setiap-tahun-capai-rp-1-triliun",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDkzMjgvcHBhdGstdW5na2FwLWp1bWxhaC1kYW5hLXlhbmctZGlrZWxvbGEtYWN0LXNldGlhcC10YWh1bi1jYXBhaS1ycC0xLXRyaWxpdW4=",
-        "description": "PPATK mengatakan langkah pengurus ACT mengelola dana hasil sumbangan untuk bisnis telah melanggar Peraturan Presiden nomor 18 Tahun 2017."
-    },
-    {
-        "title": "Draf RKUHP Final: Kumpul Kebo Diancam Pidana 6 Bulan, Zina Dipenjara 1 Tahun",
-        "link": "https://nasional.tempo.co/read/1609326/draf-rkuhp-final-kumpul-kebo-diancam-pidana-6-bulan-zina-dipenjara-1-tahun",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDkzMjYvZHJhZi1ya3VocC1maW5hbC1rdW1wdWwta2Viby1kaWFuY2FtLXBpZGFuYS02LWJ1bGFuLXppbmEtZGlwZW5qYXJhLTEtdGFodW4=",
-        "description": "Dalam draf final RKUHP yang dikirim pemerintah ke DPR memuat pasal soal kumpul kebo dan perzinahan. Kumpul kebo dihukum 6 bulan."
     }
 ]
