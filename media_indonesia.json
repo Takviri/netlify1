@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/504896/pasokan-melimpah-harga-cabai-telah-turun",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDg5Ni9wYXNva2FuLW1lbGltcGFoLWhhcmdhLWNhYmFpLXRlbGFoLXR1cnVu",
+        "description": "Harga cabai di pasar mulai berangsur turun menyusul pasokan yang melimpah, dari harga tertinggi yang mencapai Rp130.000 per kilogram beberapa waktu lalu kini menjadi di kisaran Rp80.000 per kilogram.&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504895/prof-mompang-panggabean-wujudkan-budaya-hukum-ri-dengan-landasan-pancasila",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0ODk1L3Byb2YtbW9tcGFuZy1wYW5nZ2FiZWFuLXd1anVka2FuLWJ1ZGF5YS1odWt1bS1yaS1kZW5nYW4tbGFuZGFzYW4tcGFuY2FzaWxh",
+        "description": "TIDAK semua masalah hukum pidana yang ada di dalam masyarakat dapat diselesaikan dengan KUHP sebagai hukum pidana substansial. &quot;Sering terjadi permasalahan dalam dinamika kehidupan masyarakat&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504877/ini-tips-untuk-mengurangi-konsumsi-garam",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0ODc3L2luaS10aXBzLXVudHVrLW1lbmd1cmFuZ2kta29uc3Vtc2ktZ2FyYW0=",
+        "description": "DOKTER umum sekaligus pembuat konten Kesehatan, Kevin Mak, mengatakan penggunaan MSG dalam kadar yang wajar relatif aman bahkan efektif dalam menurunkan konsumsi <a href=\"http://mediaindonesia.com/tag/garam\"&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504894/menag-cek-kesiapan-posko-kesehatan-di-mina",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0ODk0L21lbmFnLWNlay1rZXNpYXBhbi1wb3Nrby1rZXNlaGF0YW4tZGktbWluYQ==",
+        "description": "MENTERI Agama Yaqut Cholil Qoumas mengecek kesiapan pos layanan kesehatan di Mina, yang menurut dia sudah layak untuk menangani siapa pun termasuk jamaah calon <a href=\"http://mediaindonesia.com/tag/haji\"&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/504875/wonho-akan-gelar-tur-eropa-akhir-agustus",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNDg3NS93b25oby1ha2FuLWdlbGFyLXR1ci1lcm9wYS1ha2hpci1hZ3VzdHVz",
+        "description": "MUSISI Korea Selatan (Korsel) Wonho secara resmi telah mengumumkan dirinya akan melakukan tur di Eropa bertajuk FACADE, yang akan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/504892/aprifadia-bertekad-tetap-kompetitif-di-malaysia-masters",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQ4OTIvYXByaWZhZGlhLWJlcnRla2FkLXRldGFwLWtvbXBldGl0aWYtZGktbWFsYXlzaWEtbWFzdGVycw==",
+        "description": "GANDA putri Indonesia Apriyani Rahayu/Siti Fadia Silva Ramadhanti tengah berusaha menjaga pikiran untuk tetap kompetitif di tengah jadwal pertandingan yang semakin padat di ajang <a href=\"http://mediaindonesia.com/tag/malaysia-masters\"&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/504889/di-sleman-tercatat-62-titik-penjualan-hewan-kurban-perorangan",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0ODg3L3BvbnBlcy1yYXVkbGF0dWwtaXJmYW4tc3Vrc2VzLW9sYWgtbGltYmFoLWFyZW4tdW50dWstYnVkaWRheWEtamFtdXItbWVyYW5n",
         "description": "PONDOK Pesantren (Ponpres) Raudlatul Irfan di Dusun Sarayuda, Desa Kertaharja, Kecamatan Cijengjeung, Kabupaten Ciamis, Jawa Barat, memanfaatkan pengolahan limbah serabut aren untuk media jamur merang.&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504886/gebyar-salawat-dan-doa-untuk-ganjar-menggema-di-bandung",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0ODg2L2dlYnlhci1zYWxhd2F0LWRhbi1kb2EtdW50dWstZ2FuamFyLW1lbmdnZW1hLWRpLWJhbmR1bmc=",
-        "description": "RIBUAN santri, kiyai, ulama, aktivis agama, ibu-ibu majelis taklim perwakilan kabupaten/kota di Jawa Barat (Jabar), dan masyarakat umum berkumpul untuk mendoakan Gubernur Jawa Tengah (Jateng) Ganjar&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/504872/mathaus-minta-bayern-datangkan-ronaldo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDg3Mi9tYXRoYXVzLW1pbnRhLWJheWVybi1kYXRhbmdrYW4tcm9uYWxkbw==",
-        "description": "MANTAN gelandang klub Bundesliga Bayern Muenchen Lothar Matthaus meminta mantan klubnya tersebut untuk memboyong Cristiano&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/504885/bahlil-bakal-sidak-langsung-holywings-untuk-periksa-izin-usaha",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDQ4ODUvYmFobGlsLWJha2FsLXNpZGFrLWxhbmdzdW5nLWhvbHl3aW5ncy11bnR1ay1wZXJpa3NhLWl6aW4tdXNhaGE=",
-        "description": "MENTERI Investasi/ Kepala Badan Koordinasi Penanaman Modal (BKPM) Bahlil Lahadalia berencana memeriksa langsung izin usaha Holywings&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504884/kpk-pastikan-tindaklanjuti-laporan-dugaan-korupsi-impor-bawang-putih",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQ4ODQva3BrLXBhc3Rpa2FuLXRpbmRha2xhbmp1dGktbGFwb3Jhbi1kdWdhYW4ta29ydXBzaS1pbXBvci1iYXdhbmctcHV0aWg=",
-        "description": "MASYARAKAT Anti-Korupsi Indonesia (MAKI) melaporkan dugaan korupsi impor bawang putih ke Komisi Pemberantasan Korupsi (KPK). Laporan tersebut merupakan kasus dugaan korupsi impor bawang putih&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/504883/warga-yang-akan-salat-iduladha-di-jis-diimbau-pakai-masker-dan-sudah-vaksin-booster",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDQ4ODMvd2FyZ2EteWFuZy1ha2FuLXNhbGF0LWlkdWxhZGhhLWRpLWppcy1kaWltYmF1LXBha2FpLW1hc2tlci1kYW4tc3VkYWgtdmFrc2luLWJvb3N0ZXI=",
-        "description": "PEMERINTAH Provinsi (Pemprov) DKI Jakarta akan kembali menggelar salat Ied berjamaah bersama warga sekitar di Jakarta International&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/504882/komisi-v-dpr-dorong-evaluasi-pelayanan-masyarakat-sektor-perkeretaapian",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDg4Mi9rb21pc2ktdi1kcHItZG9yb25nLWV2YWx1YXNpLXBlbGF5YW5hbi1tYXN5YXJha2F0LXNla3Rvci1wZXJrZXJldGFhcGlhbg==",
-        "description": "WAKIL Ketua Komisi V DPR RI Andi Iwan Darmawan Aras memimpin rapat dengar pendapat dengan Ditjen Perkeretaapian, Dirut PT Kereta Api Indonesia (KAI), Dirut PT Kereta Commuter Indonesia (KCI), Dirut&#8230;"
     }
 ]
