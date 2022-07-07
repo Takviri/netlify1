@@ -1,5 +1,47 @@
 [
     {
+        "title": "Harga BBM Melejit, Konsumen Menjerit",
+        "link": "https://www.cnbcindonesia.com/news/20220707124323-8-353709/harga-bbm-melejit-konsumen-menjerit",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEyNDMyMy04LTM1MzcwOS9oYXJnYS1iYm0tbWVsZWppdC1rb25zdW1lbi1tZW5qZXJpdA==",
+        "description": " Tingginya harga minyak dunia mengerek harga Bahan Bakar Minyak (BBM) di seluruh dunia."
+    },
+    {
+        "title": "AP II-India Bikin JV, Mau Jadikan Kualanamu Hub Internasional",
+        "link": "https://www.cnbcindonesia.com/news/20220707151326-4-353781/ap-ii-india-bikin-jv-mau-jadikan-kualanamu-hub-internasional",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE1MTMyNi00LTM1Mzc4MS9hcC1paS1pbmRpYS1iaWtpbi1qdi1tYXUtamFkaWthbi1rdWFsYW5hbXUtaHViLWludGVybmFzaW9uYWw=",
+        "description": " Bandara International Kualanamu, Sumatera Utara resmi dikelola bersama dengan pihak India."
+    },
+    {
+        "title": "Produksi Minyak Mentah RI Masih Loyo, Sulit Kejar Target?",
+        "link": "https://www.cnbcindonesia.com/news/20220707143326-4-353759/produksi-minyak-mentah-ri-masih-loyo-sulit-kejar-target",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE0MzMyNi00LTM1Mzc1OS9wcm9kdWtzaS1taW55YWstbWVudGFoLXJpLW1hc2loLWxveW8tc3VsaXQta2VqYXItdGFyZ2V0",
+        "description": " SKK Migas mengatakan bahwa blok migas yang menjadi andalan RI sudah masuk dalam fase decline"
+    },
+    {
+        "title": "Janji Kementan, Petani Tembakau Dapat Jaminan Perlindungan",
+        "link": "https://www.cnbcindonesia.com/news/20220707160947-4-353802/janji-kementan-petani-tembakau-dapat-jaminan-perlindungan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE2MDk0Ny00LTM1MzgwMi9qYW5qaS1rZW1lbnRhbi1wZXRhbmktdGVtYmFrYXUtZGFwYXQtamFtaW5hbi1wZXJsaW5kdW5nYW4=",
+        "description": " Kementerian Pertanian melalui Direktur Jenderal Perkebunan tengah menyiapkan program jaminan perlindungan produk tembakau"
+    },
+    {
+        "title": "Lawan Rusia dan China, Uni Eropa Investasi 'Senjata' Baru",
+        "link": "https://www.cnbcindonesia.com/news/20220706193955-4-353532/lawan-rusia-china-uni-eropa-investasi-senjata-baru",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE5Mzk1NS00LTM1MzUzMi9sYXdhbi1ydXNpYS1jaGluYS11bmktZXJvcGEtaW52ZXN0YXNpLXNlbmphdGEtYmFydQ==",
+        "description": " Uni Eropa (UE) berencana untuk menjadi investor teratas bendungan tertinggi di dunia yang berada di Tajikistan."
+    },
+    {
+        "title": "Harga Sepeda Lipat Makin Jatuh, Brompton Jadi 'Murah'",
+        "link": "https://www.cnbcindonesia.com/news/20220707141227-7-353749/harga-sepeda-lipat-makin-jatuh-brompton-jadi-murah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE0MTIyNy03LTM1Mzc0OS9oYXJnYS1zZXBlZGEtbGlwYXQtbWFraW4tamF0dWgtYnJvbXB0b24tamFkaS1tdXJhaA==",
+        "description": " Seiring menurunnya permintaan harga sepeda lipat menurun, termasuk Brompton."
+    },
+    {
         "title": "Menlu Rusia Tiba di Bali, Siap Hadiri Pertemuan G20",
         "link": "https://www.cnbcindonesia.com/news/20220707155308-4-353796/menlu-rusia-tiba-di-bali-siap-hadiri-pertemuan-g20",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE1MjgyMy00LTM1Mzc4My9icmVha2luZy1uZXdzLXBtLWluZ2dyaXMtZGlsYXBvcmthbi1tdW5kdXI=",
         "description": " PM Inggris sepakat mundur dari jabatannya."
-    },
-    {
-        "title": "Rumah Makin Mahal dan Awas Ada Ancaman Subprime Morgate di RI",
-        "link": "https://www.cnbcindonesia.com/news/20220707131743-4-353724/rumah-makin-mahal-awas-ada-ancaman-subprime-morgate-di-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEzMTc0My00LTM1MzcyNC9ydW1haC1tYWtpbi1tYWhhbC1hd2FzLWFkYS1hbmNhbWFuLXN1YnByaW1lLW1vcmdhdGUtZGktcmk=",
-        "description": " Tren kenaikan suku bunga acuan serta mahalnya harga membuat masyarakat Indonesia semakin sulit membeli rumah."
-    },
-    {
-        "title": "Proyek Tol Cincin ke-3 Jakarta Dibangun, Ini Rute-Tutenya",
-        "link": "https://www.cnbcindonesia.com/news/20220707151018-4-353780/proyek-tol-cincin-ke-3-jakarta-dibangun-ini-rute-tutenya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE1MTAxOC00LTM1Mzc4MC9wcm95ZWstdG9sLWNpbmNpbi1rZS0zLWpha2FydGEtZGliYW5ndW4taW5pLXJ1dGUtdHV0ZW55YQ==",
-        "description": " Kota Jakarta bakal dikelilingi 'cincin' tol yang ketiga atau Jakarta Outer Ring Road (JORR) III."
-    },
-    {
-        "title": "Harga Bensin RI Rekor Sejarah, Harga BBM Pesawat Juga Pecah!",
-        "link": "https://www.cnbcindonesia.com/news/20220707133008-4-353729/harga-bensin-ri-rekor-sejarah-harga-bbm-pesawat-juga-pecah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEzMzAwOC00LTM1MzcyOS9oYXJnYS1iZW5zaW4tcmktcmVrb3Itc2VqYXJhaC1oYXJnYS1iYm0tcGVzYXdhdC1qdWdhLXBlY2Fo",
-        "description": " Bahkan bahan bakar minyak (BBM) pesawat atau avtur juga mengalami lonjakan yang signifikan."
-    },
-    {
-        "title": "Beli Pertalite Tanpa Aplikasi, Bos Pertamina: QR Code Diprint",
-        "link": "https://www.cnbcindonesia.com/news/20220707151337-4-353774/beli-pertalite-tanpa-aplikasi-bos-pertamina-qr-code-diprint",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE1MTMzNy00LTM1Mzc3NC9iZWxpLXBlcnRhbGl0ZS10YW5wYS1hcGxpa2FzaS1ib3MtcGVydGFtaW5hLXFyLWNvZGUtZGlwcmludA==",
-        "description": " Dirut Pertamina Nicke Widyawati menyatakan pengguna Pertalite tak wajib memakai aplikasi dalam pembelian bisa menggunakan QR Code yang diprint"
-    },
-    {
-        "title": "Audit Sawit Dimulai, Begini Peringatan Keras Dari Luhut",
-        "link": "https://www.cnbcindonesia.com/news/20220707144836-4-353768/audit-sawit-dimulai-begini-peringatan-keras-dari-luhut",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE0NDgzNi00LTM1Mzc2OC9hdWRpdC1zYXdpdC1kaW11bGFpLWJlZ2luaS1wZXJpbmdhdGFuLWtlcmFzLWRhcmktbHVodXQ=",
-        "description": " Menko Luhut memberi peringatan keras kepada kepala daerah terkait data sawit."
-    },
-    {
-        "title": "Inggris Makin Gonjang-ganjing, 53 Menteri dan Pejabat 'Resign'",
-        "link": "https://www.cnbcindonesia.com/news/20220707150648-4-353769/inggris-makin-gonjang-ganjing-53-menteri-pejabat-resign",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE1MDY0OC00LTM1Mzc2OS9pbmdncmlzLW1ha2luLWdvbmphbmctZ2FuamluZy01My1tZW50ZXJpLXBlamFiYXQtcmVzaWdu",
-        "description": " Pemerintahan Inggris makin gonjang-ganjing. Arus pengunduran diri anggota kabinet masih terus terjadi, di mana saat ini ada 53 total pejabat mundur."
     }
 ]
