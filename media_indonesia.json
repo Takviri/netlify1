@@ -1,5 +1,61 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/504901/ac-milan-masih-bertekad-datangkan-renato-sanches",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDkwMS9hYy1taWxhbi1tYXNpaC1iZXJ0ZWthZC1kYXRhbmdrYW4tcmVuYXRvLXNhbmNoZXM=",
+        "description": "JUARA Serie A AC Milan dikabarkan belum menyerah untuk mendaratkan gelandang Renato Sanches dari Lille pada bursa transfer pemain&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/504924/ruang-pertemuan-di-fkip-uns-hangus-terbakar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0OTI0L3J1YW5nLXBlcnRlbXVhbi1kaS1ma2lwLXVucy1oYW5ndXMtdGVyYmFrYXI=",
+        "description": "SATU ruangan gedung lantai satu Fakultas Keguruan Ilmu Pendidikan (FKPI) Universitas Sebelas Maret (UNS) Surakarta hangus dilalap api,&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/504923/mau-ke-mal-di-bandung-kini-wajib-vaksin-booster-covid",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0OTIzL21hdS1rZS1tYWwtZGktYmFuZHVuZy1raW5pLXdhamliLXZha3Npbi1ib29zdGVyLWNvdmlk",
+        "description": "PEMERINTAH Kota (Pemkot) Bandung, Jawa Barat menetapkan syarat wajib vaksin booster atau dosis ketiga untuk masuk ke ruang publik. Hal ini demi menekan penyebaran Covid-19 sub varian baru BA.4 dan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/504899/guru-besar-ugm-minta-ganja-tidak-dilegalkan-meski-untuk-tujuan-medis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0ODk5L2d1cnUtYmVzYXItdWdtLW1pbnRhLWdhbmphLXRpZGFrLWRpbGVnYWxrYW4tbWVza2ktdW50dWstdHVqdWFuLW1lZGlz",
+        "description": "GURU Besar Fakultas Farmasi Universitas Gadjah Mada (UGM) Prof Zullies Ikawati mengusulkan ganja tidak dilegalkan meski untuk tujuan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/504922/demokrat-bantah-mensyaratkan-ahy-jadi-capres-atau-cawapres-dalam-penjajakan-koalisi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDQ5MjIvZGVtb2tyYXQtYmFudGFoLW1lbnN5YXJhdGthbi1haHktamFkaS1jYXByZXMtYXRhdS1jYXdhcHJlcy1kYWxhbS1wZW5qYWpha2FuLWtvYWxpc2k=",
+        "description": "PARTAI Demokrat dituding mensyaratkan Agus Harimurti Yudhoyono (AHY) dalam membangun koalisi. Tudingan tersebut pun langsung dibantah.&nbsp;&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/504921/kabareskrim-polri-minta-kemenag-cabut-izin-ponpes-shiddiqiyyah-ploso",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0OTIxL2thYmFyZXNrcmltLXBvbHJpLW1pbnRhLWtlbWVuYWctY2FidXQtaXppbi1wb25wZXMtc2hpZGRpcWl5eWFoLXBsb3Nv",
+        "description": "KABARESKRIM Polri Komjen Agus Andrianto geram dengan perbuatan dugaan pencabulan santriwati oleh MSAT, 42, putra kiai ternama di Kabupaten Jombang, Jawa Timur (Jatim). Dia meminta Kementerian Agama&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/504920/pembelian-minyak-goreng-curah-dengan-aplikasi-masih-tahap-sosialisasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0OTIwL3BlbWJlbGlhbi1taW55YWstZ29yZW5nLWN1cmFoLWRlbmdhbi1hcGxpa2FzaS1tYXNpaC10YWhhcC1zb3NpYWxpc2FzaQ==",
+        "description": "Dinas Perindustrian dan Perdagangan Daerah Istimewa Yogyakarta memastikan bahwa syarat pembelian minyak goreng curah dengan aplikasi PediliLindungi hingga kini masih tahap sosialisasi. &quot;Sampai&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/504919/wijayakusuma-tandai-kebangkitan-kembali-aksara-records",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNDkxOS93aWpheWFrdXN1bWEtdGFuZGFpLWtlYmFuZ2tpdGFuLWtlbWJhbGktYWtzYXJhLXJlY29yZHM=",
+        "description": "Single Wijayakusuma yang rilis pada hari ini, kamis (7/7), menjadi penanda kembalinya dua hal. Satu, label rekaman Aksara Records yang sudah lama tidak beroperasi, dan kedua Ardhito Pramono&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/504897/toxic-parenting-sebabkan-anak-kurang-percaya-diri",
         "image": "static/images/media_indonesia.png",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDkxOC9kaS10ZW5nYWgtaW5mbGFzaS10aW5nZ2ktYmFobGlsLW9wdGltaXN0aXMtdGFyZ2V0LWludmVzdGFzaS1ycDEyMDAtdC10ZXJjYXBhaQ==",
         "description": "MENTERI Investasi/Kepala Badan Koordinasi Penanaman Modal (BKPM) Bahlil Lahdalia optimistis target investasi sebesar Rp1.200 triliun&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/504917/hujan-deras-di-sydney-mereda-warga-periksa-kerusakan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNDkxNy9odWphbi1kZXJhcy1kaS1zeWRuZXktbWVyZWRhLXdhcmdhLXBlcmlrc2Eta2VydXNha2Fu",
-        "description": "Hujan deras yang melanda Sydney selama lima hari terakhir mereda pada Kamis sehingga warga yang terdampak banjir berusaha kembali ke rumah untuk memeriksa kerusakan. Menurut citra satelit, badai&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/504916/survei-pengetahuan-masyarakat-tentang-siaran-tv-digital-meningkat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA0OTE2L3N1cnZlaS1wZW5nZXRhaHVhbi1tYXN5YXJha2F0LXRlbnRhbmctc2lhcmFuLXR2LWRpZ2l0YWwtbWVuaW5na2F0",
-        "description": "HASIL survei Multi Utama Risetindo dan Litbang Kompas menunjukkan bahwa pengetahuan masyarakat mengenai siaran TV digital menjelang penghentian siaran analog atau Analog Switch Off (ASO) oleh pemerintah&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/504915/menelusuri-artefak-seni-taman-ismail-marzuki",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNDkxNS9tZW5lbHVzdXJpLWFydGVmYWstc2VuaS10YW1hbi1pc21haWwtbWFyenVraQ==",
-        "description": "Koleksi seni dan arsip menjadi satu kesatuan yang saling berhubungan. Ia menjadi bahan pengetahuan yang dapat membantu seniman dalam menggali isu yang ingin dibicarakan lewat karyanya. Arsip bahkan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/504914/pakar-pembelian-pertalite-dengan-print-out-qr-code-mudah-dan-aman",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDkxNC9wYWthci1wZW1iZWxpYW4tcGVydGFsaXRlLWRlbmdhbi1wcmludC1vdXQtcXItY29kZS1tdWRhaC1kYW4tYW1hbg==",
-        "description": "DIREKTUR Eksekutif Indonesia Information and Communication Technology (ICT) Institute, Heru Sutadi mendukung cara pembelian Pertalite melalui print out QR Code. Cetakan QR Code tersebut, kemudian&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/504913/pm-inggris-menolak-untuk-mundur-meski-banyak-tekanan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNDkxMy9wbS1pbmdncmlzLW1lbm9sYWstdW50dWstbXVuZHVyLW1lc2tpLWJhbnlhay10ZWthbmFu",
-        "description": "Perdana Menteri Inggris Boris Johnson pada Rabu (6/7) menentang tekanan untuk mundur dari anggota kabinet dan partainya sendiri. Dia menegaskan bahwa dirinya akan melawan segala upaya untuk&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/504910/netflix-bakal-sajikan-stranger-things-dalam-bentuk-spin-off",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNDkxMC9uZXRmbGl4LWJha2FsLXNhamlrYW4tc3RyYW5nZXItdGhpbmdzLWRhbGFtLWJlbnR1ay1zcGluLW9mZg==",
-        "description": "Netflix memberikan kabar baik untuk pencinta dunia Upside Down karena kisah &quot;Stranger Things&quot; akan lebih dieksplorasi dalam bentuk serial sempalan (spin-off) dan sandiwara baru. Serial&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/504911/lindungi-data-pribadi-jangan-berlebihan-berbagi-informasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA0OTExL2xpbmR1bmdpLWRhdGEtcHJpYmFkaS1qYW5nYW4tYmVybGViaWhhbi1iZXJiYWdpLWluZm9ybWFzaQ==",
-        "description": "Head of Creative Visual Brand Hello Monday Morning, Andry Hamida mengungkapkan individu yang cakap bermedia digital dianggap memiliki kompetensi dalam hal mengetahui, memahami, dan menggunakan perangkat&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/504893/sterling-semakin-merapat-ke-chelsea",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDg5My9zdGVybGluZy1zZW1ha2luLW1lcmFwYXQta2UtY2hlbHNlYQ==",
-        "description": "PEMAIN sayap Manchester City Raheem Sterling di ambang bergabung dengan Chelsea setelah menyetujui syarat-syarat pribadi dalam sebuah&#8230;"
     }
 ]
