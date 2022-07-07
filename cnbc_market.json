@@ -1,5 +1,47 @@
 [
     {
+        "title": "Wow! 1.000 Perusahaan Antre IPO di China",
+        "link": "https://www.cnbcindonesia.com/market/20220707195748-17-353868/wow-1000-perusahaan-antre-ipo-di-china",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTk1NzQ4LTE3LTM1Mzg2OC93b3ctMTAwMC1wZXJ1c2FoYWFuLWFudHJlLWlwby1kaS1jaGluYQ==",
+        "description": " Kandidat perusahaan yang akan melakukan penawaran umum perdana atau IPO di China melonjak menjadi hampir 1.000 aplikasi pada Juni."
+    },
+    {
+        "title": "Bank Neo Proyeksikan Semester I Masih Rugi Rp 606 M",
+        "link": "https://www.cnbcindonesia.com/market/20220707190302-17-353860/bank-neo-proyeksikan-semester-i-masih-rugi-rp-606-m",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTkwMzAyLTE3LTM1Mzg2MC9iYW5rLW5lby1wcm95ZWtzaWthbi1zZW1lc3Rlci1pLW1hc2loLXJ1Z2ktcnAtNjA2LW0=",
+        "description": " Sedangkan pada semester 1 (diperkirakan) membukukan loss Rp 606 miliar"
+    },
+    {
+        "title": "Produksi Naik, Penjualan Baja KRAS Tembus 1 Juta Ton",
+        "link": "https://www.cnbcindonesia.com/market/20220707172619-17-353825/produksi-naik-penjualan-baja-kras-tembus-1-juta-ton",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTcyNjE5LTE3LTM1MzgyNS9wcm9kdWtzaS1uYWlrLXBlbmp1YWxhbi1iYWphLWtyYXMtdGVtYnVzLTEtanV0YS10b24=",
+        "description": " PT Krakatau Steel (Persero) Tbk (KRAS) terus meningkatkan produktivitasnya di Semester I-2022, dan tercermin dari peningkatan volume penjualan dan produksi."
+    },
+    {
+        "title": "Yield Treasury AS Menguat, Eh Yield SBN Ikutan Juga",
+        "link": "https://www.cnbcindonesia.com/market/20220707180835-17-353844/yield-treasury-as-menguat-eh-yield-sbn-ikutan-juga",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTgwODM1LTE3LTM1Mzg0NC95aWVsZC10cmVhc3VyeS1hcy1tZW5ndWF0LWVoLXlpZWxkLXNibi1pa3V0YW4tanVnYQ==",
+        "description": " Harga mayoritas Surat Berharga Negara (SBN) ditutup melemah pada perdagangan Kamis (7/7/2022), di tengah terjadinya inversi yield obligasi pemerintah AS"
+    },
+    {
+        "title": "Dow Futures Menguat, Pertanda Kebangkitan Wall Street?",
+        "link": "https://www.cnbcindonesia.com/market/20220707173236-17-353827/dow-futures-menguat-pertanda-kebangkitan-wall-street",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTczMjM2LTE3LTM1MzgyNy9kb3ctZnV0dXJlcy1tZW5ndWF0LXBlcnRhbmRhLWtlYmFuZ2tpdGFuLXdhbGwtc3RyZWV0",
+        "description": " Kontrak berjangka (futures) indeks bursa AS bergerak menguat pada perdagangan hari ini, berusaha untuk keluar dari bear market."
+    },
+    {
+        "title": "Agresif, Bank Neo Incar Tambahan Modal Rp 5 Triliun",
+        "link": "https://www.cnbcindonesia.com/market/20220707180314-17-353843/agresif-bank-neo-incar-tambahan-modal-rp-5-triliun",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTgwMzE0LTE3LTM1Mzg0My9hZ3Jlc2lmLWJhbmstbmVvLWluY2FyLXRhbWJhaGFuLW1vZGFsLXJwLTUtdHJpbGl1bg==",
+        "description": " Bank Neo Commerce Mau Rights Issue dan Private Placement, Target Tambahan Modal Rp 5 T"
+    },
+    {
         "title": "OJK Bisa Periksa Direksi dan Komisaris Perusahaan Efek, Kalau..",
         "link": "https://www.cnbcindonesia.com/market/20220707172950-17-353826/ojk-bisa-periksa-direksi-komisaris-perusahaan-efek-kalau",
         "image": "static/images/cnbc_market.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTYzNTIxLTE3LTM1MzgwOS9idXJzYS1hc2lhLWRpdHV0dXAtY2VyYWgtYmVyZ2FpcmFoLWtvc3BpLW1lbGVzYXQtbnlhcmlzLTI=",
         "description": " Bursa Asia-Pasifik ditutup cerah bergairah pada perdagangan Kamis (7/7/2022), di mana investor sedikit bereaksi setelah dirilisnya hasil rapat The Fed"
-    },
-    {
-        "title": "Timah Merekah! Harga Naik 4% Lebih",
-        "link": "https://www.cnbcindonesia.com/market/20220707164017-17-353811/timah-merekah-harga-naik-4-lebih",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTY0MDE3LTE3LTM1MzgxMS90aW1haC1tZXJla2FoLWhhcmdhLW5haWstNC1sZWJpaA==",
-        "description": " Tren penurunan harga terhenti, timah menguat 4% lebih."
-    },
-    {
-        "title": "Bukan Rp15.000/US$, Segini Rupiah Diramal Hingga Akhir Tahun",
-        "link": "https://www.cnbcindonesia.com/market/20220707164154-17-353810/bukan-rp15000-us--segini-rupiah-diramal-hingga-akhir-tahun",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTY0MTU0LTE3LTM1MzgxMC9idWthbi1ycDE1MDAwLXVzLS1zZWdpbmktcnVwaWFoLWRpcmFtYWwtaGluZ2dhLWFraGlyLXRhaHVu",
-        "description": " Nilai tukar rupiah diperkirakan akan mengakhiri tren pelemahan dalam waktu dekat."
-    },
-    {
-        "title": "Summarecon Bagi Dividen Rp 99 Miliar atau Rp 6/Saham",
-        "link": "https://www.cnbcindonesia.com/market/20220707160332-17-353798/summarecon-bagi-dividen-rp-99-miliar-atau-rp-6-saham",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTYwMzMyLTE3LTM1Mzc5OC9zdW1tYXJlY29uLWJhZ2ktZGl2aWRlbi1ycC05OS1taWxpYXItYXRhdS1ycC02LXNhaGFt",
-        "description": " PT Summarecon Agung Tbk (SMRA) akan membagikan dividen sebesar Rp 6 per lembar saham atau total sebesar Rp 99 miliar."
-    },
-    {
-        "title": "Saham dan Rupiah Bergejolak, Kebijakan Suku Bunga BI Dinanti",
-        "link": "https://www.cnbcindonesia.com/market/20220707154345-19-353786/saham-rupiah-bergejolak-kebijakan-suku-bunga-bi-dinanti",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTU0MzQ1LTE5LTM1Mzc4Ni9zYWhhbS1ydXBpYWgtYmVyZ2Vqb2xhay1rZWJpamFrYW4tc3VrdS1idW5nYS1iaS1kaW5hbnRp",
-        "description": " Saham dan Rupiah Bergejolak, Kebijakan Suku Bunga BI Dinanti"
-    },
-    {
-        "title": "Sri Mulyani Sebut Beli Rumah Makin Sulit, BTN Saran PPN 0%",
-        "link": "https://www.cnbcindonesia.com/market/20220707145214-17-353764/sri-mulyani-sebut-beli-rumah-makin-sulit-btn-saran-ppn-0",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTQ1MjE0LTE3LTM1Mzc2NC9zcmktbXVseWFuaS1zZWJ1dC1iZWxpLXJ1bWFoLW1ha2luLXN1bGl0LWJ0bi1zYXJhbi1wcG4tMA==",
-        "description": " permintaan pembelian rumah dapat didorong melalui stimulus pemerintah, yaitu PPN."
-    },
-    {
-        "title": "Dolar AS Melandai, Harga Perak Hampir 1%",
-        "link": "https://www.cnbcindonesia.com/market/20220707161140-17-353804/dolar-as-melandai-harga-perak-hampir-1",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTYxMTQwLTE3LTM1MzgwNC9kb2xhci1hcy1tZWxhbmRhaS1oYXJnYS1wZXJhay1oYW1waXItMQ==",
-        "description": " Harga perak dunia menguat pada didukung oleh pelemahan mata uang dolar Amerika Serikat."
     }
 ]
