@@ -1,5 +1,19 @@
 [
     {
+        "title": "Masih Kuat Nanjak, Harga Batu Bara Naik 7,6% dalam Seminggu",
+        "link": "https://www.cnbcindonesia.com/market/20220707055526-17-353546/masih-kuat-nanjak-harga-batu-bara-naik-76-dalam-seminggu",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MDU1NTI2LTE3LTM1MzU0Ni9tYXNpaC1rdWF0LW5hbmphay1oYXJnYS1iYXR1LWJhcmEtbmFpay03Ni1kYWxhbS1zZW1pbmdndQ==",
+        "description": " Harga batu bara terus melesat."
+    },
+    {
+        "title": "Breaking News: Harga Minyak Anjlok ke Bawah US$ 100/Barel",
+        "link": "https://www.cnbcindonesia.com/market/20220707071053-17-353558/breaking-news-harga-minyak-anjlok-ke-bawah-us--100-barel",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MDcxMDUzLTE3LTM1MzU1OC9icmVha2luZy1uZXdzLWhhcmdhLW1pbnlhay1hbmpsb2sta2UtYmF3YWgtdXMtLTEwMC1iYXJlbA==",
+        "description": " Harga minyak dunia anjlok. Bahkan ada yang sampai ke bawah US$ 100/barel."
+    },
+    {
         "title": "\"Resesi Sudah Terjadi, Rakyat Amerika Serikat Makin Miskin!\"",
         "link": "https://www.cnbcindonesia.com/market/20220706210801-17-353540/resesi-sudah-terjadi-rakyat-amerika-serikat-makin-miskin",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTU1MDMzLTE5LTM1MzQ3MC9pbmZsYXNpLW1lcmFqYWxlbGEtcnVwaWFoLW1lcmFuYS1rYXBhbi1zdWt1LWJ1bmdhLWJpLW5haWs=",
         "description": " Inflasi Merajalela dan Rupiah Merana, Kapan Suku Bunga BI Naik?"
-    },
-    {
-        "title": "Harga Karet Ambles 3%, Gara-gara China Nih...",
-        "link": "https://www.cnbcindonesia.com/market/20220706172730-17-353502/harga-karet-ambles-3-gara-gara-china-nih",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTcyNzMwLTE3LTM1MzUwMi9oYXJnYS1rYXJldC1hbWJsZXMtMy1nYXJhLWdhcmEtY2hpbmEtbmlo",
-        "description": " Prinsip nol-Covid yang dianut China membuat pasar komoditas menjadi sangat tidak pasti"
-    },
-    {
-        "title": "Pemula Wajib Baca! Ini Tiga Kunci Sukses Startup dari Erick",
-        "link": "https://www.cnbcindonesia.com/market/20220706171334-17-353500/pemula-wajib-baca-ini-tiga-kunci-sukses-startup-dari-erick",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTcxMzM0LTE3LTM1MzUwMC9wZW11bGEtd2FqaWItYmFjYS1pbmktdGlnYS1rdW5jaS1zdWtzZXMtc3RhcnR1cC1kYXJpLWVyaWNr",
-        "description": " Menteri Badan Usaha Milik Negara (BUMN) mengungkapkan ada tiga kunci sukses untuk perusahaan rintisan atau startup"
     }
 ]
