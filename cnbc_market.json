@@ -1,5 +1,47 @@
 [
     {
+        "title": "Cadev RI Naik Saat Rupiah Babak Belur, Jadi Kabar Baik?",
+        "link": "https://www.cnbcindonesia.com/market/20220707112456-17-353658/cadev-ri-naik-saat-rupiah-babak-belur-jadi-kabar-baik",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTEyNDU2LTE3LTM1MzY1OC9jYWRldi1yaS1uYWlrLXNhYXQtcnVwaWFoLWJhYmFrLWJlbHVyLWphZGkta2FiYXItYmFpaw==",
+        "description": " Bank Indonesia (BI) hari ini melaporkan cadangan devisa Juni yang mengalami kenaikan dari bulan sebelumnya."
+    },
+    {
+        "title": "Saham PGAS Berbalik Arah, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/market/20220707124254-17-353712/saham-pgas-berbalik-arah-ada-apa",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTI0MjU0LTE3LTM1MzcxMi9zYWhhbS1wZ2FzLWJlcmJhbGlrLWFyYWgtYWRhLWFwYQ==",
+        "description": " Berdasarkan data RTI, PGAS parkir dengan penurunan 15 poin atau setara 0,98% ke level Rp 1.515 per saham di jeda siang ini."
+    },
+    {
+        "title": "Vaksin Booster Jadi Syarat Terbang, Penumpang Bakal Turun?",
+        "link": "https://www.cnbcindonesia.com/market/20220707105257-19-353641/vaksin-booster-jadi-syarat-terbang-penumpang-bakal-turun",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTA1MjU3LTE5LTM1MzY0MS92YWtzaW4tYm9vc3Rlci1qYWRpLXN5YXJhdC10ZXJiYW5nLXBlbnVtcGFuZy1iYWthbC10dXJ1bg==",
+        "description": " Vaksin Booster Jadi Syarat Terbang, Penumpang Bakal Turun?"
+    },
+    {
+        "title": "Volatil Sejak Pagi, IHSG Kayanya Mau Nyantai Dulu di Sesi 2",
+        "link": "https://www.cnbcindonesia.com/market/20220707123021-17-353693/volatil-sejak-pagi-ihsg-kayanya-mau-nyantai-dulu-di-sesi-2",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTIzMDIxLTE3LTM1MzY5My92b2xhdGlsLXNlamFrLXBhZ2ktaWhzZy1rYXlhbnlhLW1hdS1ueWFudGFpLWR1bHUtZGktc2VzaS0y",
+        "description": " Ke mana arah IHSG sesi kedua ?"
+    },
+    {
+        "title": "Orang Makin Susah Beli Rumah, Solusinya Apa Bu Sri Mulyani?",
+        "link": "https://www.cnbcindonesia.com/market/20220707123934-17-353696/orang-makin-susah-beli-rumah-solusinya-apa-bu-sri-mulyani",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTIzOTM0LTE3LTM1MzY5Ni9vcmFuZy1tYWtpbi1zdXNhaC1iZWxpLXJ1bWFoLXNvbHVzaW55YS1hcGEtYnUtc3JpLW11bHlhbmk=",
+        "description": " Masyarakat Indonesia akan semakin sulit memiliki rumah di tengah tren kenaikan suku bunga acuan."
+    },
+    {
+        "title": "KB Bukopin-KB Valbury Sekuritas Kolaborasi Tingkatkan Layanan",
+        "link": "https://www.cnbcindonesia.com/market/20220707121952-17-353689/kb-bukopin-kb-valbury-sekuritas-kolaborasi-tingkatkan-layanan",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTIxOTUyLTE3LTM1MzY4OS9rYi1idWtvcGluLWtiLXZhbGJ1cnktc2VrdXJpdGFzLWtvbGFib3Jhc2ktdGluZ2thdGthbi1sYXlhbmFu",
+        "description": " PT Bank KB Bukopin Tbk (BBKP) menjalin nota kesepahaman strategis bersama KB Valbury Sekuritas (KBVS) untuk menunjang layanannya."
+    },
+    {
         "title": "Gak Cuma Dolar AS, Rupiah Juga Libas Mata Uang di Eropa!",
         "link": "https://www.cnbcindonesia.com/market/20220707105359-17-353643/gak-cuma-dolar-as-rupiah-juga-libas-mata-uang-di-eropa",
         "image": "static/images/cnbc_market.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTEzOTM4LTE3LTM1MzY2NS9kaWJ1a2EtbWVyYWgtaWhzZy1wYXJraXItZGktamFsdXItaGlqYXU=",
         "description": " Indeks Harga Saham Gabungan (IHSG) berakhir menguat 0,12% pada penutupan perdagangan sesi I Kamis (7/7/2022)."
-    },
-    {
-        "title": "Begini Cara Garuda Bayar Utang ke SMI Senilai Rp 1 T",
-        "link": "https://www.cnbcindonesia.com/market/20220707112000-17-353652/begini-cara-garuda-bayar-utang-ke-smi-senilai-rp-1-t",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTEyMDAwLTE3LTM1MzY1Mi9iZWdpbmktY2FyYS1nYXJ1ZGEtYmF5YXItdXRhbmcta2Utc21pLXNlbmlsYWktcnAtMS10",
-        "description": " PT Garuda Indonesia Tbk (Persero) Tbk (GIAA) juga akan melaksanakan konversi Obligasi Wajib Konversi (OWK) yang diterbitkan Perseroan pada tahun 2021."
-    },
-    {
-        "title": "ANTAM Dituntut 1 Ton Emas dan KB Bukopin-CIMB Niaga Kolaborasi",
-        "link": "https://www.cnbcindonesia.com/market/20220707101747-19-353623/antam-dituntut-1-ton-emas-kb-bukopin-cimb-niaga-kolaborasi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTAxNzQ3LTE5LTM1MzYyMy9hbnRhbS1kaXR1bnR1dC0xLXRvbi1lbWFzLWtiLWJ1a29waW4tY2ltYi1uaWFnYS1rb2xhYm9yYXNp",
-        "description": " Perseteruan antara pengusaha Budi Said dan PT Aneka Tambang Tbk atau ANTAM masih berlanjut"
-    },
-    {
-        "title": "Cadangan Devisa RI Naik, Rupiah Ngegas Lagi!",
-        "link": "https://www.cnbcindonesia.com/market/20220707083429-17-353575/cadangan-devisa-ri-naik-rupiah-ngegas-lagi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MDgzNDI5LTE3LTM1MzU3NS9jYWRhbmdhbi1kZXZpc2EtcmktbmFpay1ydXBpYWgtbmdlZ2FzLWxhZ2k=",
-        "description": " Kurs rupiah berhasil mempertahankan penguatannya di hadapan dolar AS hingga di pertengahan perdagangan hari ini."
-    },
-    {
-        "title": "BUMI Targetkan Produksi 80 Juta Ton Batu Bara",
-        "link": "https://www.cnbcindonesia.com/market/20220707100925-19-353619/bumi-targetkan-produksi-80-juta-ton-batu-bara",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTAwOTI1LTE5LTM1MzYxOS9idW1pLXRhcmdldGthbi1wcm9kdWtzaS04MC1qdXRhLXRvbi1iYXR1LWJhcmE=",
-        "description": " PT Bumi Resources optimistis produksi batu bara perseroan dapat mencapai target"
-    },
-    {
-        "title": "Begini Strategi Sunarso Jadikan BRI Motor Pertumbuhan Ekonomi",
-        "link": "https://www.cnbcindonesia.com/market/20220707101537-17-353622/begini-strategi-sunarso-jadikan-bri-motor-pertumbuhan-ekonomi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTAxNTM3LTE3LTM1MzYyMi9iZWdpbmktc3RyYXRlZ2ktc3VuYXJzby1qYWRpa2FuLWJyaS1tb3Rvci1wZXJ0dW1idWhhbi1la29ub21p",
-        "description": " Pada saat yang sama, pemberdayaan ekonomi masyarakat juga menjadi salah satu strategi Direktur Utama BRI Sunarso untuk menjaga perusahaan tetap tumbuh."
-    },
-    {
-        "title": "Ini Cara Garuda Bayar Utang ke Boeing, Airbus dkk",
-        "link": "https://www.cnbcindonesia.com/market/20220707103427-17-353631/ini-cara-garuda-bayar-utang-ke-boeing-airbus-dkk",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTAzNDI3LTE3LTM1MzYzMS9pbmktY2FyYS1nYXJ1ZGEtYmF5YXItdXRhbmcta2UtYm9laW5nLWFpcmJ1cy1ka2s=",
-        "description": " Selain rights issue, PT Garuda Indonesia (Persero) Tbk (GIAA) juga akan menambah modal tanpa memberikan HMETD (PMTHMETD) sebagai cara membayar utang"
     }
 ]
