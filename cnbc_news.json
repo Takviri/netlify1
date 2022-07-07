@@ -1,5 +1,33 @@
 [
     {
+        "title": "Kasus Aktif Covid DKI Nyaris 10.000, PPKM Mendadak ke Level 1",
+        "link": "https://www.cnbcindonesia.com/news/20220707083815-4-353579/kasus-aktif-covid-dki-nyaris-10000-ppkm-mendadak-ke-level-1",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA4MzgxNS00LTM1MzU3OS9rYXN1cy1ha3RpZi1jb3ZpZC1ka2ktbnlhcmlzLTEwMDAwLXBwa20tbWVuZGFkYWsta2UtbGV2ZWwtMQ==",
+        "description": " Sebelumnya, pemerintah pusat menetapkan PPKM di DKI Jakarta menjadi level 2, setelah kenaikan kasus dalam beberapa waktu terakhir"
+    },
+    {
+        "title": "Pemda Dukung Penyaluran Subsidi Listrik Tepat Sasaran",
+        "link": "https://www.cnbcindonesia.com/news/20220707084550-4-353581/pemda-dukung-penyaluran-subsidi-listrik-tepat-sasaran",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA4NDU1MC00LTM1MzU4MS9wZW1kYS1kdWt1bmctcGVueWFsdXJhbi1zdWJzaWRpLWxpc3RyaWstdGVwYXQtc2FzYXJhbg==",
+        "description": " Pemerintah memutuskan untuk memberlakukan tarif adjustment bagi pelanggan rumah tangga menengah ke atas dengan daya listrik 3.500 Volt Ampere (VA) ke atas."
+    },
+    {
+        "title": "Covid DKI Naik Lagi, Waspadai Gejala yang Terasa Saat BAB Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220707081415-4-353568/covid-dki-naik-lagi-waspadai-gejala-yang-terasa-saat-bab-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA4MTQxNS00LTM1MzU2OC9jb3ZpZC1ka2ktbmFpay1sYWdpLXdhc3BhZGFpLWdlamFsYS15YW5nLXRlcmFzYS1zYWF0LWJhYi1pbmk=",
+        "description": " Perkembangan kasus Covid-19 di kawasan Ibu Kota terus menanjak"
+    },
+    {
+        "title": "Tak Cuma Raisa, Jeff Bezos 'Ribut' ke Biden Gegara Harga BBM",
+        "link": "https://www.cnbcindonesia.com/news/20220707082409-4-353572/tak-cuma-raisa-jeff-bezos-ribut-ke-biden-gegara-harga-bbm",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA4MjQwOS00LTM1MzU3Mi90YWstY3VtYS1yYWlzYS1qZWZmLWJlem9zLXJpYnV0LWtlLWJpZGVuLWdlZ2FyYS1oYXJnYS1iYm0=",
+        "description": " Media sosial viral karena unggahan penyanyi Raisa Andriana soal harga BBM. Sebenarnya hal sama juga terjadi ke Jeff Bezos, saat ia ribut soal harga BBM ke Biden"
+    },
+    {
         "title": "Sering Dikira Flu Ringan, Ini Tanda-tanda Omicron BA.4-BA.5",
         "link": "https://www.cnbcindonesia.com/news/20220707080925-4-353566/sering-dikira-flu-ringan-ini-tanda-tanda-omicron-ba4-ba5",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA3NTI1Ny00LTM1MzU2Mi9uZ2VyaS1zcmktbGFuZ2thLWRpcGVya2lyYWthbi1iYW5na3J1dC1zYW1wYWktdGFodW4tMjAyMw==",
         "description": " Krisis ekonomi Sri Lanka diproyeksikan akan dialami negara itu hingga 2023 mendatang"
-    },
-    {
-        "title": "Alert! Bos IMF Bawa Kabar Buruk soal Resesi Global",
-        "link": "https://www.cnbcindonesia.com/news/20220707071750-4-353559/alert-bos-imf-bawa-kabar-buruk-soal-resesi-global",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA3MTc1MC00LTM1MzU1OS9hbGVydC1ib3MtaW1mLWJhd2Eta2FiYXItYnVydWstc29hbC1yZXNlc2ktZ2xvYmFs",
-        "description": " Direktur Dana Moneter Internasional (IMF), Kristalina Georgieva, kembali buka suara terkait ancaman resesi yang melanda dunia."
-    },
-    {
-        "title": "Inflasi AS Masih Ngeri, The Fed Sinyal Naik Suku Bunga Lagi",
-        "link": "https://www.cnbcindonesia.com/news/20220707070724-4-353557/inflasi-as-masih-ngeri-the-fed-sinyal-naik-suku-bunga-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA3MDcyNC00LTM1MzU1Ny9pbmZsYXNpLWFzLW1hc2loLW5nZXJpLXRoZS1mZWQtc2lueWFsLW5haWstc3VrdS1idW5nYS1sYWdp",
-        "description": " Bank Sentral Amerika Serikat (AS) atau The Fed kembali memberikan sinyal kenaikan suku bunga di bulan ini."
-    },
-    {
-        "title": "Panas! Rusia Ngamuk ke Jepang, Ada Apa Mr Putin?",
-        "link": "https://www.cnbcindonesia.com/news/20220707063843-4-353556/panas-rusia-ngamuk-ke-jepang-ada-apa-mr-putin",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA2Mzg0My00LTM1MzU1Ni9wYW5hcy1ydXNpYS1uZ2FtdWsta2UtamVwYW5nLWFkYS1hcGEtbXItcHV0aW4=",
-        "description": " Rusia mengkritik keras Jepang. Kremlin bahkan menuding Tokyo \"sangat tidak bersahabat\"."
-    },
-    {
-        "title": "Harga Sepeda Lipat Hancur-hancuran, Brompton Jadi Segini?",
-        "link": "https://www.cnbcindonesia.com/news/20220707041440-4-353544/harga-sepeda-lipat-hancur-hancuran-brompton-jadi-segini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA0MTQ0MC00LTM1MzU0NC9oYXJnYS1zZXBlZGEtbGlwYXQtaGFuY3VyLWhhbmN1cmFuLWJyb21wdG9uLWphZGktc2VnaW5p",
-        "description": " Harga sepeda lipat lagi diskon besar-besaran."
     }
 ]

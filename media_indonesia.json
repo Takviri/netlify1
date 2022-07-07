@@ -1,6 +1,20 @@
 [
     {
         "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/504867/tiga-lagu-michael-jackson-ditarik-dari-layanan-streaming",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNDg2Ny90aWdhLWxhZ3UtbWljaGFlbC1qYWNrc29uLWRpdGFyaWstZGFyaS1sYXlhbmFuLXN0cmVhbWluZw==",
+        "description": "TIGA lagu Michael Jackson telah ditarik dari layanan streaming terkait sengketa lama bahwa lagu itu dinyanyikan oleh orang lain. Hal&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/504866/forest-datangkan-niakhate-dari-mainz",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDg2Ni9mb3Jlc3QtZGF0YW5na2FuLW5pYWtoYXRlLWRhcmktbWFpbno=",
+        "description": "NOTTINGHAM Forest merekrut bek Prancis Moussa Niakhate dari klub Bundesliga Mainz 05 dengan kontrak selama tiga tahun.&#8230;"
+    },
+    {
+        "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/504861/bumilangit-rilis-teaser-sri-asih",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNDg2MS9idW1pbGFuZ2l0LXJpbGlzLXRlYXNlci1zcmktYXNpaA==",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDg1Ny9wdXR1c2thbi1rb250cmFrLWRlbmdhbi1tYXJzZWlsbGUtbWFuZGFuZGEtYmVyZ2FidW5nLWRlbmdhbi1yZW5uZXM=",
         "description": "PENJAGA gawang Steve Mandanda, Rabu (6/7), meneken kontrak selama dua tahun dengan Rennes setelah memutus kontraknya dengan Marseille.&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/504854/nadal-tidak-yakin-bisa-hadapi-kyrgios-di-semifinal-wimbledon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQ4NTQvbmFkYWwtdGlkYWsteWFraW4tYmlzYS1oYWRhcGkta3lyZ2lvcy1kaS1zZW1pZmluYWwtd2ltYmxlZG9u",
-        "description": "RAFAEL Nadal mengakui dirinya tidak yakin apakah dirinya bisa fit untuk menghadapi Nick Kyrgios di laga semifinal Wimbledon, Jumat&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/504859/keterampilan-yang-perlu-dibangun-untuk-menguatkan-mental-anak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNDg1OS9rZXRlcmFtcGlsYW4teWFuZy1wZXJsdS1kaWJhbmd1bi11bnR1ay1tZW5ndWF0a2FuLW1lbnRhbC1hbmFr",
-        "description": "Peristiwa-peristiwa yang terjadi beberapa tahun terakhir mulai dari pandemi covid-19 hingga kekerasan terhadap anak dapat meresahkan dan berdampak bagi anak-anak. Apabila tidak adanya penanganan yang&#8230;"
     }
 ]
