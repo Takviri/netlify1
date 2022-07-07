@@ -1,5 +1,26 @@
 [
     {
+        "title": "Presiden Jokowi Ajak Pemda Manfaatkan Lahan Kosong untuk Bercocok Tanam",
+        "link": "https://nasional.tempo.co/read/1609639/presiden-jokowi-ajak-pemda-manfaatkan-lahan-kosong-untuk-bercocok-tanam",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDk2MzkvcHJlc2lkZW4tam9rb3dpLWFqYWstcGVtZGEtbWFuZmFhdGthbi1sYWhhbi1rb3NvbmctdW50dWstYmVyY29jb2stdGFuYW0=",
+        "description": "Presiden Jokowi menyatakan bahwa lahan kosong bisa digunakan untuk bercocok tanam demi memenuhi kebutuhan pangan keluarga."
+    },
+    {
+        "title": "DPR Resmi Sahkan RUU Pendidikan dan Layanan Psikologi Menjadi UU",
+        "link": "https://nasional.tempo.co/read/1609637/dpr-resmi-sahkan-ruu-pendidikan-dan-layanan-psikologi-menjadi-uu",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDk2MzcvZHByLXJlc21pLXNhaGthbi1ydXUtcGVuZGlkaWthbi1kYW4tbGF5YW5hbi1wc2lrb2xvZ2ktbWVuamFkaS11dQ==",
+        "description": "RUU Pendidikan dan Layanan Psikologi resmi menjadi UU."
+    },
+    {
+        "title": "Densus 88 Telisik Transaksi ACT ke Negara Rawan Terorisme",
+        "link": "https://nasional.tempo.co/read/1609632/densus-88-telisik-transaksi-act-ke-negara-rawan-terorisme",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDk2MzIvZGVuc3VzLTg4LXRlbGlzaWstdHJhbnNha3NpLWFjdC1rZS1uZWdhcmEtcmF3YW4tdGVyb3Jpc21l",
+        "description": "Densus 88 menyatakan sedang menelusuri transaksi ACT ke negara rawan terorisme."
+    },
+    {
         "title": "Presiden Apresiasi Petani dan Mentan Jaga Ketersediaan Pangan",
         "link": "https://nasional.tempo.co/read/1609626/presiden-apresiasi-petani-dan-mentan-jaga-ketersediaan-pangan",
         "image": "static/images/tempo_nasional.png",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDk1OTYvam9rb3dpLWFqYWstbWFzeWFyYWthdC1iZXJzeXVrdXItaGFyZ2EtYmVyYXMtdGFrLW5haWstc2FhdC1rcmlzaXMtcGFuZ2FuLWR1bmlh",
         "description": "Jokowi menyebut saat ini stok beras di Indonesia masih terbilang cukup aman. Ia bahkan mengklaim dalam 3 tahun terakhir tidak mengimpor beras."
-    },
-    {
-        "title": "Subsidi Harga BBM Semakin Membengkak, Jokowi: Kalau APBN Sudah Tak Kuat, Gimana Lagi?",
-        "link": "https://nasional.tempo.co/read/1609581/subsidi-harga-bbm-semakin-membengkak-jokowi-kalau-apbn-sudah-tak-kuat-gimana-lagi",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDk1ODEvc3Vic2lkaS1oYXJnYS1iYm0tc2VtYWtpbi1tZW1iZW5na2FrLWpva293aS1rYWxhdS1hcGJuLXN1ZGFoLXRhay1rdWF0LWdpbWFuYS1sYWdp",
-        "description": "Menurut Jokowi, saat ini harga BBM di Indonesia masih cukup murah, walaupun harga minyak dunia saat ini cukup tinggi."
-    },
-    {
-        "title": "Hukuman Mati Masih Diatur di RKUHP",
-        "link": "https://nasional.tempo.co/read/1609577/hukuman-mati-masih-diatur-di-rkuhp",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDk1NzcvaHVrdW1hbi1tYXRpLW1hc2loLWRpYXR1ci1kaS1ya3VocA==",
-        "description": "Ancaman pidana hukuman mati masih tercantum dalam final Rancangan Kitab Undang-undang Hukum Pidana (RKUHP) yang diserahkan pemerintah kepada DPR, kemarin."
-    },
-    {
-        "title": "Draf Final RKUHP: Hina DPR, Polri, dan Lembaga Negara Diancam Penjara 1,5 Tahun",
-        "link": "https://nasional.tempo.co/read/1609565/draf-final-rkuhp-hina-dpr-polri-dan-lembaga-negara-diancam-penjara-15-tahun",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MDk1NjUvZHJhZi1maW5hbC1ya3VocC1oaW5hLWRwci1wb2xyaS1kYW4tbGVtYmFnYS1uZWdhcmEtZGlhbmNhbS1wZW5qYXJhLTE1LXRhaHVu",
-        "description": "Draf final RKUHP tetap mempertahankan pasal penghinaan terhadap kekuasaan umum dan lembaga negara. Ketentuan tersebut diatur dalam dalam Pasal 351."
     }
 ]
