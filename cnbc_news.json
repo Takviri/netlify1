@@ -1,5 +1,40 @@
 [
     {
+        "title": "Sering Dikira Flu Ringan, Ini Tanda-tanda Omicron BA.4-BA.5",
+        "link": "https://www.cnbcindonesia.com/news/20220707080925-4-353566/sering-dikira-flu-ringan-ini-tanda-tanda-omicron-ba4-ba5",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA4MDkyNS00LTM1MzU2Ni9zZXJpbmctZGlraXJhLWZsdS1yaW5nYW4taW5pLXRhbmRhLXRhbmRhLW9taWNyb24tYmE0LWJhNQ==",
+        "description": " Berikut tanda-tanda dan gejala yang dialami pasien Omicron BA.4 dan BA.5"
+    },
+    {
+        "title": "Terungkap! Alasan Perubahan 'Kilat' PPKM Level 2 Jabodetabek",
+        "link": "https://www.cnbcindonesia.com/news/20220707080336-4-353564/terungkap-alasan-perubahan-kilat-ppkm-level-2-jabodetabek",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA4MDMzNi00LTM1MzU2NC90ZXJ1bmdrYXAtYWxhc2FuLXBlcnViYWhhbi1raWxhdC1wcGttLWxldmVsLTItamFib2RldGFiZWs=",
+        "description": " Berikut sejumlah alasan PPKM Jabodetabek tiba-tiba berubah dari level 2 menjadi level 1"
+    },
+    {
+        "title": "Cek Iuran Resmi BPJS Kesehatan per Juli 2022, Jadi Segini?",
+        "link": "https://www.cnbcindonesia.com/news/20220707080222-4-353563/cek-iuran-resmi-bpjs-kesehatan-per-juli-2022-jadi-segini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA4MDIyMi00LTM1MzU2My9jZWstaXVyYW4tcmVzbWktYnBqcy1rZXNlaGF0YW4tcGVyLWp1bGktMjAyMi1qYWRpLXNlZ2luaQ==",
+        "description": " BPJS Kesehatan memastikan tidak ada wacana untuk perubahan iuran peserta."
+    },
+    {
+        "title": "Sri Lanka, Mungkin Nasibmu Bakal Makin Menderita...",
+        "link": "https://www.cnbcindonesia.com/news/20220707063656-4-353553/sri-lanka-mungkin-nasibmu-bakal-makin-menderita",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA2MzY1Ni00LTM1MzU1My9zcmktbGFua2EtbXVuZ2tpbi1uYXNpYm11LWJha2FsLW1ha2luLW1lbmRlcml0YQ==",
+        "description": " Sri Lanka tengah menghadapi krisis ekonomi terburuk sedangkan bank sentral justru berencana menaikan suku bunga untuk meredam Inflasi."
+    },
+    {
+        "title": "Awas PD 3, Perang Rusia-AS Bisa Pecah di Alaska",
+        "link": "https://www.cnbcindonesia.com/news/20220707074602-4-353561/awas-pd-3-perang-rusia-as-bisa-pecah-di-alaska",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA3NDYwMi00LTM1MzU2MS9hd2FzLXBkLTMtcGVyYW5nLXJ1c2lhLWFzLWJpc2EtcGVjYWgtZGktYWxhc2th",
+        "description": " Ketua Parlemen Rusia, menyebutkan bahwa wilayah Alaska, merupakan milik Rusia bukan Amerika Serikat (AS)."
+    },
+    {
         "title": "Ngeri! Sri Langka Diperkirakan Bangkrut Sampai Tahun 2023",
         "link": "https://www.cnbcindonesia.com/news/20220707075257-4-353562/ngeri-sri-langka-diperkirakan-bangkrut-sampai-tahun-2023",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA0MTQ0MC00LTM1MzU0NC9oYXJnYS1zZXBlZGEtbGlwYXQtaGFuY3VyLWhhbmN1cmFuLWJyb21wdG9uLWphZGktc2VnaW5p",
         "description": " Harga sepeda lipat lagi diskon besar-besaran."
-    },
-    {
-        "title": "Alert RI, Singapura Konfirmasi Cacar Monyet Sebaran Lokal",
-        "link": "https://www.cnbcindonesia.com/news/20220707062912-4-353551/alert-ri-singapura-konfirmasi-cacar-monyet-sebaran-lokal",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA2MjkxMi00LTM1MzU1MS9hbGVydC1yaS1zaW5nYXB1cmEta29uZmlybWFzaS1jYWNhci1tb255ZXQtc2ViYXJhbi1sb2thbA==",
-        "description": " Singapura mengonfirmasi kasus cacar monyet (monkeypox) lokal pertama"
-    },
-    {
-        "title": "Rupiah Tembus Rp 15.000, Harga Barang-barang Ini Bisa Terbang",
-        "link": "https://www.cnbcindonesia.com/news/20220707041920-4-353545/rupiah-tembus-rp-15000-harga-barang-barang-ini-bisa-terbang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA0MTkyMC00LTM1MzU0NS9ydXBpYWgtdGVtYnVzLXJwLTE1MDAwLWhhcmdhLWJhcmFuZy1iYXJhbmctaW5pLWJpc2EtdGVyYmFuZw==",
-        "description": " Pelemahan rupiah bisa bikin harga sejumlah bahan pangan melonjak."
-    },
-    {
-        "title": "Inggris Gonjang-ganjing: 38 Menteri Resign, PM Diminta Mundur",
-        "link": "https://www.cnbcindonesia.com/news/20220707061044-4-353548/inggris-gonjang-ganjing-38-menteri-resign-pm-diminta-mundur",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA2MTA0NC00LTM1MzU0OC9pbmdncmlzLWdvbmphbmctZ2FuamluZy0zOC1tZW50ZXJpLXJlc2lnbi1wbS1kaW1pbnRhLW11bmR1cg==",
-        "description": " Pemerintah Inggris kini gonjang-ganjing. Sebanyk 38 menteri munudr. Bahkan Perdana Menteri (PM) Boris Johnson diminta mundur."
-    },
-    {
-        "title": "Rusia Jengkel Berat dengan Jepang, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220706192053-4-353529/rusia-jengkel-berat-dengan-jepang-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE5MjA1My00LTM1MzUyOS9ydXNpYS1qZW5na2VsLWJlcmF0LWRlbmdhbi1qZXBhbmctYWRhLWFwYQ==",
-        "description": " Rusia mengkritik sikap Jepang karena tidak bersahabat terhadap Moskow."
-    },
-    {
-        "title": "Ini Ternyata Senjata AS yang Dipakai Ukraina Lawan Rusia",
-        "link": "https://www.cnbcindonesia.com/news/20220706205454-4-353538/ini-ternyata-senjata-as-yang-dipakai-ukraina-lawan-rusia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjIwNTQ1NC00LTM1MzUzOC9pbmktdGVybnlhdGEtc2VuamF0YS1hcy15YW5nLWRpcGFrYWktdWtyYWluYS1sYXdhbi1ydXNpYQ==",
-        "description": " Berkat bobotnya yang ringan, HIMARS juga mudah diangkut sehingga dapat digunakan di lokasi yang sulit dijangkau."
     }
 ]
