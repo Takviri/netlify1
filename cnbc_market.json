@@ -1,5 +1,12 @@
 [
     {
+        "title": "Pagi Ini Naik, Tapi Harga Emas Masih Minus 3,8% dalam Sepekan",
+        "link": "https://www.cnbcindonesia.com/market/20220707064800-17-353555/pagi-ini-naik-tapi-harga-emas-masih-minus-38-dalam-sepekan",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MDY0ODAwLTE3LTM1MzU1NS9wYWdpLWluaS1uYWlrLXRhcGktaGFyZ2EtZW1hcy1tYXNpaC1taW51cy0zOC1kYWxhbS1zZXBla2Fu",
+        "description": " Harga emas tetap amblas meskipun pagi hari ini menguat tipis."
+    },
+    {
         "title": "Masih Kuat Nanjak, Harga Batu Bara Naik 7,6% dalam Seminggu",
         "link": "https://www.cnbcindonesia.com/market/20220707055526-17-353546/masih-kuat-nanjak-harga-batu-bara-naik-76-dalam-seminggu",
         "image": "static/images/cnbc_market.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTc0NTQxLTE3LTM1MzUwNi9pbnZlc3Rvci1tYXNpaC10dW5nZ3UtcmlzYWxhaC1mb21jLWRvdy1mdXR1cmVzLWJlcmdlcmFrLWZsYXQ=",
         "description": " Kontrak berjangka (futures) indeks bursa AS bergerak stagnan pada perdagangan hari ini, setelah bursa saham AS mayoritas menguat kemarin"
-    },
-    {
-        "title": "Inflasi Merajalela dan Rupiah Merana, Kapan Suku Bunga BI Naik?",
-        "link": "https://www.cnbcindonesia.com/market/20220706155033-19-353470/inflasi-merajalela-rupiah-merana-kapan-suku-bunga-bi-naik",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA2MTU1MDMzLTE5LTM1MzQ3MC9pbmZsYXNpLW1lcmFqYWxlbGEtcnVwaWFoLW1lcmFuYS1rYXBhbi1zdWt1LWJ1bmdhLWJpLW5haWs=",
-        "description": " Inflasi Merajalela dan Rupiah Merana, Kapan Suku Bunga BI Naik?"
     }
 ]
