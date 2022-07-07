@@ -1,9 +1,30 @@
 [
     {
-        "title": "Siap-siap! Rupiah Loyo, Harga Barang-barang Ini Bakal Terbang",
-        "link": "https://www.cnbcindonesia.com/news/20220707041920-4-353545/siap-siap-rupiah-loyo-harga-barang-barang-ini-bakal-terbang",
+        "title": "Panas! Rusia Ngamuk ke Jepang, Ada Apa Mr Putin?",
+        "link": "https://www.cnbcindonesia.com/news/20220707063843-4-353556/panas-rusia-ngamuk-ke-jepang-ada-apa-mr-putin",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA0MTkyMC00LTM1MzU0NS9zaWFwLXNpYXAtcnVwaWFoLWxveW8taGFyZ2EtYmFyYW5nLWJhcmFuZy1pbmktYmFrYWwtdGVyYmFuZw==",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA2Mzg0My00LTM1MzU1Ni9wYW5hcy1ydXNpYS1uZ2FtdWsta2UtamVwYW5nLWFkYS1hcGEtbXItcHV0aW4=",
+        "description": " Rusia mengkritik keras Jepang. Kremlin bahkan menuding Tokyo \"sangat tidak bersahabat\"."
+    },
+    {
+        "title": "Harga Sepeda Lipat Hancur-hancuran, Brompton Jadi Segini?",
+        "link": "https://www.cnbcindonesia.com/news/20220707041440-4-353544/harga-sepeda-lipat-hancur-hancuran-brompton-jadi-segini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA0MTQ0MC00LTM1MzU0NC9oYXJnYS1zZXBlZGEtbGlwYXQtaGFuY3VyLWhhbmN1cmFuLWJyb21wdG9uLWphZGktc2VnaW5p",
+        "description": " Harga sepeda lipat lagi diskon besar-besaran."
+    },
+    {
+        "title": "Alert RI, Singapura Konfirmasi Cacar Monyet Sebaran Lokal",
+        "link": "https://www.cnbcindonesia.com/news/20220707062912-4-353551/alert-ri-singapura-konfirmasi-cacar-monyet-sebaran-lokal",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA2MjkxMi00LTM1MzU1MS9hbGVydC1yaS1zaW5nYXB1cmEta29uZmlybWFzaS1jYWNhci1tb255ZXQtc2ViYXJhbi1sb2thbA==",
+        "description": " Singapura mengonfirmasi kasus cacar monyet (monkeypox) lokal pertama"
+    },
+    {
+        "title": "Rupiah Tembus Rp 15.000, Harga Barang-barang Ini Bisa Terbang",
+        "link": "https://www.cnbcindonesia.com/news/20220707041920-4-353545/rupiah-tembus-rp-15000-harga-barang-barang-ini-bisa-terbang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA0MTkyMC00LTM1MzU0NS9ydXBpYWgtdGVtYnVzLXJwLTE1MDAwLWhhcmdhLWJhcmFuZy1iYXJhbmctaW5pLWJpc2EtdGVyYmFuZw==",
         "description": " Pelemahan rupiah bisa bikin harga sejumlah bahan pangan melonjak."
     },
     {
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE5MzQyNC04LTM1MzUzMS9wcGF0ay1ibG9raXItNjAtcmVrZW5pbmctbWlsaWstYWN0",
         "description": " Menteri Pusat Pelaporan dan Analisis Transaksi Keuangan PPATK memblokir 60 rekening atas nama yayasan Aksi Cepat Tanggap (ACT)."
-    },
-    {
-        "title": "Bos KAI Akui Proyek LRT Beban, Desain Tak Benar Sejak Awal",
-        "link": "https://www.cnbcindonesia.com/news/20220706203650-4-353535/bos-kai-akui-proyek-lrt-beban-desain-tak-benar-sejak-awal",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjIwMzY1MC00LTM1MzUzNS9ib3Mta2FpLWFrdWktcHJveWVrLWxydC1iZWJhbi1kZXNhaW4tdGFrLWJlbmFyLXNlamFrLWF3YWw=",
-        "description": " Direktur Utama PT Kereta Api Indonesia (Persero) Didiek Hartantyo blak-blakan mengenai proyek kereta layang ringan atau LRT"
-    },
-    {
-        "title": "Pemerintah Kantongi Pajak Rp 7,1 T dari Platform Digital",
-        "link": "https://www.cnbcindonesia.com/news/20220706203031-4-353534/pemerintah-kantongi-pajak-rp-71-t-dari-platform-digital",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjIwMzAzMS00LTM1MzUzNC9wZW1lcmludGFoLWthbnRvbmdpLXBhamFrLXJwLTcxLXQtZGFyaS1wbGF0Zm9ybS1kaWdpdGFs",
-        "description": " Pemerintah berhasil mengantongi Rp 7,1 triliun dari pengenaan\u00c2\u00a0PPN dari jasa perdagangan yang menggunakan sistem elektronik (PMSE)."
-    },
-    {
-        "title": "Ini 6 Negara-Wilayah yang Kena Resesi Tahun Depan, RI Masuk?",
-        "link": "https://www.cnbcindonesia.com/news/20220706180304-16-353509/ini-6-negara-wilayah-yang-kena-resesi-tahun-depan-ri-masuk",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNjE4MDMwNC0xNi0zNTM1MDkvaW5pLTYtbmVnYXJhLXdpbGF5YWgteWFuZy1rZW5hLXJlc2VzaS10YWh1bi1kZXBhbi1yaS1tYXN1aw==",
-        "description": " Para ekonomi dari perusahaan pialang Nomura holdings mengatakan akan ada enam, lima negara dan satu wilayah, yang akan masuk jurang resesi ekonomi tahun depan."
     }
 ]
