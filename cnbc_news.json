@@ -1,5 +1,26 @@
 [
     {
+        "title": "Pupuk Subsidi Dicabut, Petani Tembakau di Wonogiri Menjerit",
+        "link": "https://www.cnbcindonesia.com/news/20220707210442-4-353873/pupuk-subsidi-dicabut-petani-tembakau-di-wonogiri-menjerit",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzIxMDQ0Mi00LTM1Mzg3My9wdXB1ay1zdWJzaWRpLWRpY2FidXQtcGV0YW5pLXRlbWJha2F1LWRpLXdvbm9naXJpLW1lbmplcml0",
+        "description": " Petani tembakau mengeluh pupuk bersubsidi dihapus, karena ongkos membeli pupuk ZA yang non subsidi harganya hampir 4 kali lipat."
+    },
+    {
+        "title": "Cadev Indonesia Naik USD 800 Juta, Hingga Kabar Resesi Global",
+        "link": "https://www.cnbcindonesia.com/news/20220707193546-8-353865/cadev-indonesia-naik-usd-800-juta-hingga-kabar-resesi-global",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE5MzU0Ni04LTM1Mzg2NS9jYWRldi1pbmRvbmVzaWEtbmFpay11c2QtODAwLWp1dGEtaGluZ2dhLWthYmFyLXJlc2VzaS1nbG9iYWw=",
+        "description": " Posisi cadangan devisa Indonesia pada akhir Juni 2022 mencapai USD136,4 miliar."
+    },
+    {
+        "title": "4 Update Perang Rusia-Ukraina, Ada Kebangkitan Pemuda Soviet",
+        "link": "https://www.cnbcindonesia.com/news/20220707205543-4-353872/4-update-perang-rusia-ukraina-ada-kebangkitan-pemuda-soviet",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzIwNTU0My00LTM1Mzg3Mi80LXVwZGF0ZS1wZXJhbmctcnVzaWEtdWtyYWluYS1hZGEta2ViYW5na2l0YW4tcGVtdWRhLXNvdmlldA==",
+        "description": " Perang di Ukraina belum usai. Serangan Rusia ke negara itu masih terus dilancarkan."
+    },
+    {
         "title": "Pimpinan FBI dan MI5 Peringatkan Ancaman Spionase China",
         "link": "https://www.cnbcindonesia.com/news/20220707164818-8-353815/pimpinan-fbi-mi5-peringatkan-ancaman-spionase-china",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE5NDkyMC04LTM1Mzg2Ny9pbmktNS1qdXJ1cy1wcmFib3dvLWxhd2FuLWtyaXNpcy1nbG9iYWw=",
         "description": " Ini 5 Jurus Prabowo Lawan Krisis Global"
-    },
-    {
-        "title": "Kronologi PM Inggris Mundur: Ada Skandal hingga Resign Massal",
-        "link": "https://www.cnbcindonesia.com/news/20220707160814-4-353799/kronologi-pm-inggris-mundur-ada-skandal-hingga-resign-massal",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE2MDgxNC00LTM1Mzc5OS9rcm9ub2xvZ2ktcG0taW5nZ3Jpcy1tdW5kdXItYWRhLXNrYW5kYWwtaGluZ2dhLXJlc2lnbi1tYXNzYWw=",
-        "description": " Pemerintahan Inggris memanas. Perdana Menteri (PM) Boris Johnson akhirnya setuju untuk lengser dari jabatannya."
-    },
-    {
-        "title": "Rumah Mewah Seken Banyak Dicari, Segini Harganya",
-        "link": "https://www.cnbcindonesia.com/news/20220707182948-8-353847/rumah-mewah-seken-banyak-dicari-segini-harganya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE4Mjk0OC04LTM1Mzg0Ny9ydW1haC1tZXdhaC1zZWtlbi1iYW55YWstZGljYXJpLXNlZ2luaS1oYXJnYW55YQ==",
-        "description": " Rumah Mewah Seken Banyak Dicari, Segini Harganya"
-    },
-    {
-        "title": "Singapura Eksekusi Mati 2 Pengedar Narkoba!",
-        "link": "https://www.cnbcindonesia.com/news/20220707170757-4-353820/singapura-eksekusi-mati-2-pengedar-narkoba",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE3MDc1Ny00LTM1MzgyMC9zaW5nYXB1cmEtZWtzZWt1c2ktbWF0aS0yLXBlbmdlZGFyLW5hcmtvYmE=",
-        "description": " Singapura mengeksekusi dua pengedar narkoba dengan hukuman gantung, Kamis (7/7/2022)."
     }
 ]
