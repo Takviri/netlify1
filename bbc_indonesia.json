@@ -1,5 +1,12 @@
 [
     {
+        "title": "Hari Cokelat Sedunia: Apakah kudapan manis ini merugikan orang lain dan lingkungan?",
+        "link": "https://www.bbc.com/indonesia/dunia-62059844",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjIwNTk4NDQ=",
+        "description": "Anda mungkin menikmati setiap suapan kegembiraan yang tak tertahankan ketika menikmati cokelat, tetapi industri cokelat dituduh menutup mata terhadap isu-isu seperti penggundulan hutan dan eksploitasi anak."
+    },
+    {
         "title": "Di balik harga cabai yang meroket, 'petani kelimpungan dan kekacauan di pasar'",
         "link": "https://www.bbc.com/indonesia/indonesia-62046296",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYyMDQ2ODgx",
         "description": "Kemensos menyebut ACT lewati batas maksimal penggunaan sumbangan publik untuk keperluan internal. Sebelum polemik ini, pemerintah tidak pernah jatuhkan sanksi ke lembaga filantropi, kata YLKI."
-    },
-    {
-        "title": "China sukses turunkan hampir setengah polusi udara dalam waktu tujuh tahun, bagaimana caranya?",
-        "link": "https://www.bbc.com/indonesia/dunia-62046737",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjIwNDY3Mzc=",
-        "description": "Harapan hidup warga China bertambah sekitar 2 tahun lantaran polusi udara turun pesat sebanyak 40% dalam kurun waktu 2013 hingga 2020, menurut studi terbaru."
     }
 ]
