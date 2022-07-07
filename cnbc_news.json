@@ -1,10 +1,38 @@
 [
     {
-        "title": "Breaking News: PM Inggris Mundur!",
-        "link": "https://www.cnbcindonesia.com/news/20220707152823-4-353783/breaking-news-pm-inggris-mundur",
+        "title": "Menlu Rusia Tiba di Bali, Siap Hadiri Pertemuan G20",
+        "link": "https://www.cnbcindonesia.com/news/20220707155308-4-353796/menlu-rusia-tiba-di-bali-siap-hadiri-pertemuan-g20",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE1MjgyMy00LTM1Mzc4My9icmVha2luZy1uZXdzLXBtLWluZ2dyaXMtbXVuZHVy",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE1NTMwOC00LTM1Mzc5Ni9tZW5sdS1ydXNpYS10aWJhLWRpLWJhbGktc2lhcC1oYWRpcmktcGVydGVtdWFuLWcyMA==",
+        "description": " Rusia dipastikan ikut berpartisipasi dalam rangkaian pertemuan G20 di Bali. Hal itu ditandai oleh kedatangan Menteri Luar Negeri Rusia Sergei Lavrov."
+    },
+    {
+        "title": "LCGC, Mobil Murah Yang Tak Lagi Murah! Kini Tembus Rp190 Juta",
+        "link": "https://www.cnbcindonesia.com/news/20220707141050-4-353750/lcgc-mobil-murah-yang-tak-lagi-murah-kini-tembus-rp190-juta",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE0MTA1MC00LTM1Mzc1MC9sY2djLW1vYmlsLW11cmFoLXlhbmctdGFrLWxhZ2ktbXVyYWgta2luaS10ZW1idXMtcnAxOTAtanV0YQ==",
+        "description": " Mobil LCGC Gak Lagi Murah! Ada yang Hampir Tembus Rp 190 Juta, nih Daftar Lengkapnya"
+    },
+    {
+        "title": "Duh, Produksi Minyak RI Kehilangan Momentum Harga Tinggi",
+        "link": "https://www.cnbcindonesia.com/news/20220707135848-4-353740/duh-produksi-minyak-ri-kehilangan-momentum-harga-tinggi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEzNTg0OC00LTM1Mzc0MC9kdWgtcHJvZHVrc2ktbWlueWFrLXJpLWtlaGlsYW5nYW4tbW9tZW50dW0taGFyZ2EtdGluZ2dp",
+        "description": " SKK Migas tak menampik bahwa produksi minyak mentah RI belum sesuai yang diharapkan"
+    },
+    {
+        "title": "Breaking News: PM Inggris Dilaporkan Mundur!",
+        "link": "https://www.cnbcindonesia.com/news/20220707152823-4-353783/breaking-news-pm-inggris-dilaporkan-mundur",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE1MjgyMy00LTM1Mzc4My9icmVha2luZy1uZXdzLXBtLWluZ2dyaXMtZGlsYXBvcmthbi1tdW5kdXI=",
         "description": " PM Inggris sepakat mundur dari jabatannya."
+    },
+    {
+        "title": "Rumah Makin Mahal dan Awas Ada Ancaman Subprime Morgate di RI",
+        "link": "https://www.cnbcindonesia.com/news/20220707131743-4-353724/rumah-makin-mahal-awas-ada-ancaman-subprime-morgate-di-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEzMTc0My00LTM1MzcyNC9ydW1haC1tYWtpbi1tYWhhbC1hd2FzLWFkYS1hbmNhbWFuLXN1YnByaW1lLW1vcmdhdGUtZGktcmk=",
+        "description": " Tren kenaikan suku bunga acuan serta mahalnya harga membuat masyarakat Indonesia semakin sulit membeli rumah."
     },
     {
         "title": "Proyek Tol Cincin ke-3 Jakarta Dibangun, Ini Rute-Tutenya",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE1MDY0OC00LTM1Mzc2OS9pbmdncmlzLW1ha2luLWdvbmphbmctZ2FuamluZy01My1tZW50ZXJpLXBlamFiYXQtcmVzaWdu",
         "description": " Pemerintahan Inggris makin gonjang-ganjing. Arus pengunduran diri anggota kabinet masih terus terjadi, di mana saat ini ada 53 total pejabat mundur."
-    },
-    {
-        "title": "Warning! Covid-19 di Singapura Meledak Lagi",
-        "link": "https://www.cnbcindonesia.com/news/20220707124322-8-353710/warning-covid-19-di-singapura-meledak-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEyNDMyMi04LTM1MzcxMC93YXJuaW5nLWNvdmlkLTE5LWRpLXNpbmdhcHVyYS1tZWxlZGFrLWxhZ2k=",
-        "description": " Kasus Covid-19 di Singapura meledak."
-    },
-    {
-        "title": "Made in RI! RI Punya Mesin Canggih Cegah Stunting",
-        "link": "https://www.cnbcindonesia.com/news/20220707140349-7-353742/made-in-ri-ri-punya-mesin-canggih-cegah-stunting",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE0MDM0OS03LTM1Mzc0Mi9tYWRlLWluLXJpLXJpLXB1bnlhLW1lc2luLWNhbmdnaWgtY2VnYWgtc3R1bnRpbmc=",
-        "description": " Minyak makan merah merupakan inovasi minyak sawit yang digunakan sebagai pangan fungsional dalam membantu pencegahan stunting"
-    },
-    {
-        "title": "Krisis Energi di Asean, Tetangga RI Mau Beli Minyak Rusia",
-        "link": "https://www.cnbcindonesia.com/news/20220707120859-4-353686/krisis-energi-di-asean-tetangga-ri-mau-beli-minyak-rusia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEyMDg1OS00LTM1MzY4Ni9rcmlzaXMtZW5lcmdpLWRpLWFzZWFuLXRldGFuZ2dhLXJpLW1hdS1iZWxpLW1pbnlhay1ydXNpYQ==",
-        "description": " Laos telah memulai pembicaraan dengan Rusia mengenai pembelian minyak bumi."
-    },
-    {
-        "title": "Rusia Temukan Cadangan Minyak 82 Juta Ton, Ini Lokasinya",
-        "link": "https://www.cnbcindonesia.com/news/20220707124320-8-353706/rusia-temukan-cadangan-minyak-82-juta-ton-ini-lokasinya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEyNDMyMC04LTM1MzcwNi9ydXNpYS10ZW11a2FuLWNhZGFuZ2FuLW1pbnlhay04Mi1qdXRhLXRvbi1pbmktbG9rYXNpbnlh",
-        "description": " Perusahaan migas Rusia, Rosneft mengumumkan menemukan ladang minyak bar."
     }
 ]

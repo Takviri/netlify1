@@ -1,5 +1,40 @@
 [
     {
+        "title": "CSIS: Jurnalis Target Utama Pasal-pasal Karet di RKUHP",
+        "link": "https://www.cnnindonesia.com/nasional/20220707131956-20-818485/csis-jurnalis-target-utama-pasal-pasal-karet-di-rkuhp",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNzEzMTk1Ni0yMC04MTg0ODUvY3Npcy1qdXJuYWxpcy10YXJnZXQtdXRhbWEtcGFzYWwtcGFzYWwta2FyZXQtZGktcmt1aHA=",
+        "description": " CSIS menilai pasal-pasal terkait penghinaan lembaga negara, termasuk presiden dalam RKUHP akan membuat tingkat demokrasi di Indonesia semakin mundur."
+    },
+    {
+        "title": "PPATK Kembali Blokir 300 Lebih Rekening ACT",
+        "link": "https://www.cnnindonesia.com/nasional/20220707153309-20-818590/ppatk-kembali-blokir-300-lebih-rekening-act",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNzE1MzMwOS0yMC04MTg1OTAvcHBhdGsta2VtYmFsaS1ibG9raXItMzAwLWxlYmloLXJla2VuaW5nLWFjdA==",
+        "description": " PPATK menghentikan sementara transaksi 141 CIF pada lebih dari 300 rekening yang dimiliki oleh lembaga filantropi Aksi Cepat Tanggap (ACT)."
+    },
+    {
+        "title": "Total 60 Simpatisan Anak Kiai Jombang Mas Bechi Ditangkap",
+        "link": "https://www.cnnindonesia.com/nasional/20220707152809-12-818592/total-60-simpatisan-anak-kiai-jombang-mas-bechi-ditangkap",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNzE1MjgwOS0xMi04MTg1OTIvdG90YWwtNjAtc2ltcGF0aXNhbi1hbmFrLWtpYWktam9tYmFuZy1tYXMtYmVjaGktZGl0YW5na2Fw",
+        "description": " Polda Jatim mengatakan puluhan orang yang ditangkap itu merupakan simpatisan tersangka pencabulan Bechi (42) dari luar Ponpes Shiddiqiyyah, Jombang."
+    },
+    {
+        "title": "Putra Haji Lulung Ditunjuk Jadi Ketua DPW PPP DKI Jakarta",
+        "link": "https://www.cnnindonesia.com/nasional/20220707151524-32-818582/putra-haji-lulung-ditunjuk-jadi-ketua-dpw-ppp-dki-jakarta",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNzE1MTUyNC0zMi04MTg1ODIvcHV0cmEtaGFqaS1sdWx1bmctZGl0dW5qdWstamFkaS1rZXR1YS1kcHctcHBwLWRraS1qYWthcnRh",
+        "description": " PPP menunjuk putra almarhum Abraham Lunggana atau Haji Lulung, Guruh Tirta Lunggana sebagai Ketua Dewan Pimpinan Wilayah (DPW) DKI Jakarta."
+    },
+    {
+        "title": "Anies Wacanakan Terowongan Penghubung Stasiun MRT-Gedung Thamrin",
+        "link": "https://www.cnnindonesia.com/nasional/20220707135343-20-818509/anies-wacanakan-terowongan-penghubung-stasiun-mrt-gedung-thamrin",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNzEzNTM0My0yMC04MTg1MDkvYW5pZXMtd2FjYW5ha2FuLXRlcm93b25nYW4tcGVuZ2h1YnVuZy1zdGFzaXVuLW1ydC1nZWR1bmctdGhhbXJpbg==",
+        "description": " Gubernur DKI Jakarta Anies Baswedan menginisiasi pembangunan terowongan bawah tanah penghubung Stasiun Dukuh Atas BNI dengan Gedung Thamrin Nine UOB."
+    },
+    {
         "title": "H-1 Puncak Haji, 24 Jemaah RI Meninggal di Saudi",
         "link": "https://www.cnnindonesia.com/nasional/20220707145723-20-818569/h-1-puncak-haji-24-jemaah-ri-meninggal-di-saudi",
         "image": "static/images/cnn_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNzE0MTEwOS0yMC04MTg1MzUva2VtZW5hZy1rYWppLXVzdWwta2FiYXJlc2tyaW0tY2FidXQtaXppbi1wb25wZXMtc2hpZGRpcWl5eWFoLWpvbWJhbmc=",
         "description": " Kemenag\u00c2\u00a0menyatakan tiap lembaga harus memiliki jiwa pesantren atau Ruhul Ma'had. Jika prinsip itu tak dijalankan, maka tak lagi bisa disebut pesantren."
-    },
-    {
-        "title": "Iqlima Kim Diperiksa Bareskrim Terkait Laporan Hotman Paris",
-        "link": "https://www.cnnindonesia.com/nasional/20220707134648-12-818503/iqlima-kim-diperiksa-bareskrim-terkait-laporan-hotman-paris",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNzEzNDY0OC0xMi04MTg1MDMvaXFsaW1hLWtpbS1kaXBlcmlrc2EtYmFyZXNrcmltLXRlcmthaXQtbGFwb3Jhbi1ob3RtYW4tcGFyaXM=",
-        "description": " Mantan asisten pengacara kondang Hotman Paris, Iqlima Kim memenuhi panggilan pemeriksaan oleh penyidik Bareskrim Mabes Polri, Kamis (7/7)."
-    },
-    {
-        "title": "Ponpes Shiddiqiyah Jombang Dikepung, Anak Kiai Dicari Sampai ke Toilet",
-        "link": "https://www.cnnindonesia.com/nasional/20220707141513-12-818537/ponpes-shiddiqiyah-jombang-dikepung-anak-kiai-dicari-sampai-ke-toilet",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNzE0MTUxMy0xMi04MTg1MzcvcG9ucGVzLXNoaWRkaXFpeWFoLWpvbWJhbmctZGlrZXB1bmctYW5hay1raWFpLWRpY2FyaS1zYW1wYWkta2UtdG9pbGV0",
-        "description": " Salah seorang saksi di lokasi mengatakan DPO kasus pencabulan santriwati, Bechi, kabur melalui jalur-jalur tikus di pesantren untuk bersembunyi."
-    },
-    {
-        "title": "Tersangka Pemicu Kerusuhan Babarsari Menyerahkan Diri",
-        "link": "https://www.cnnindonesia.com/nasional/20220707140820-12-818538/tersangka-pemicu-kerusuhan-babarsari-menyerahkan-diri",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNzE0MDgyMC0xMi04MTg1MzgvdGVyc2FuZ2thLXBlbWljdS1rZXJ1c3VoYW4tYmFiYXJzYXJpLW1lbnllcmFoa2FuLWRpcmk=",
-        "description": " Satu dari dua tersangka kasus penyerangan tiga orang di Jambusari, yang menjadi salah satu pemicu kerusuhan di daerah Babarsari, menyerahkan diri."
-    },
-    {
-        "title": "Medina Zein Tersangka Dua Kasus Terkait Marissya Icha dan Uci Flowdea",
-        "link": "https://www.cnnindonesia.com/nasional/20220707140816-12-818531/medina-zein-tersangka-dua-kasus-terkait-marissya-icha-dan-uci-flowdea",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNzE0MDgxNi0xMi04MTg1MzEvbWVkaW5hLXplaW4tdGVyc2FuZ2thLWR1YS1rYXN1cy10ZXJrYWl0LW1hcmlzc3lhLWljaGEtZGFuLXVjaS1mbG93ZGVh",
-        "description": " Selebgram Medina Zein ditetapkan sebagai tersangka terkait dua laporan dugaan pencemaran nama baik yang dilaporkan oleh pihak berbeda."
-    },
-    {
-        "title": "Aparat Bubarkan Paksa Aksi Tolak RKUHP saat Kunjungan Jokowi di Medan",
-        "link": "https://www.cnnindonesia.com/nasional/20220707135748-20-818517/aparat-bubarkan-paksa-aksi-tolak-rkuhp-saat-kunjungan-jokowi-di-medan",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwNzEzNTc0OC0yMC04MTg1MTcvYXBhcmF0LWJ1YmFya2FuLXBha3NhLWFrc2ktdG9sYWstcmt1aHAtc2FhdC1rdW5qdW5nYW4tam9rb3dpLWRpLW1lZGFu",
-        "description": " Massa dari Aksi Kamisan dibubarkan paksa oleh polisi saat memprotes RKUHP di sela kunjungan Jokowi di Medan."
     }
 ]
