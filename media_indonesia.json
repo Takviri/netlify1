@@ -1,5 +1,26 @@
 [
     {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/505159/pemkot-beijing-bakal-dibagikan-kupon-makan-dan-minum-senilai-rp2238-miliar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTE1OS9wZW1rb3QtYmVpamluZy1iYWthbC1kaWJhZ2lrYW4ta3Vwb24tbWFrYW4tZGFuLW1pbnVtLXNlbmlsYWktcnAyMjM4LW1pbGlhcg==",
+        "description": "Pemerintah Kota Beijing akan membagikan kupon makanan dan minuman senilai 100 juta yuan atau sekitar Rp223,8 miliar untuk mendongkrak tingkat konsumsi masyarakat pada sektor kuliner di ibu kota Tiongkok&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505197/edukasi-pertahanan-diri-bisa-cegah-pelecehan-seksual",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1MTk3L2VkdWthc2ktcGVydGFoYW5hbi1kaXJpLWJpc2EtY2VnYWgtcGVsZWNlaGFuLXNla3N1YWw=",
+        "description": "MASIH tingginya kasus pelecehan seksual di Indonesia membuat psikolog Lia Sutisna Latif menyerukan perlu adanya edukasi&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/505196/kalahkan-halep-rybakina-melaju-ke-final-wimbledon",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDUxOTYva2FsYWhrYW4taGFsZXAtcnliYWtpbmEtbWVsYWp1LWtlLWZpbmFsLXdpbWJsZWRvbg==",
+        "description": "PETENIS kelahiran Rusia Elena Rybakina tampil dominan untuk mengalahkan mantan juara Simona Halep 6-3 dan 6-3, Kamis (7/7), untuk melaju ke final Wimbledon.&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/505195/ronaldo-tidak-ikut-tur-pramusim-manchester-united",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTE5Mi9kaS1tYXJpYS10aWJhLWRpLXR1cmluLWplbGFuZy1rZXBpbmRhaGFuLWtlLWp1dmVudHVz",
         "description": "ANGEL Di Maria telah tiba di Turin, Kamis (7/7), menjelang kepindahannya ke Juventus setelah dilepas Paris Saint-Germain, akhir&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/505191/chauvin-kembali-divonis-20-tahun-terkait-kematian-floyd",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTE5MS9jaGF1dmluLWtlbWJhbGktZGl2b25pcy0yMC10YWh1bi10ZXJrYWl0LWtlbWF0aWFuLWZsb3lk",
-        "description": "DEREK Chauvin, mantan polisi Minneapolis yang bertanggung jawab atas kematian George Floyd, divonis penjara selama 20 tahun&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/505190/menang-di-etape-keenam-pogacar-puncaki-klasemen-tour-de-france",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDUxOTAvbWVuYW5nLWRpLWV0YXBlLWtlZW5hbS1wb2dhY2FyLXB1bmNha2kta2xhc2VtZW4tdG91ci1kZS1mcmFuY2U=",
-        "description": "JUARA bertahan Tadej Pogacar melancarkan serangan di tanjakan terakhir untuk memenangi etape keenam Tour de France dan merebut&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/505189/jabeur-jadi-petenis-arab-pertama-yang-capai-final-wimbledon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDUxODkvamFiZXVyLWphZGktcGV0ZW5pcy1hcmFiLXBlcnRhbWEteWFuZy1jYXBhaS1maW5hbC13aW1ibGVkb24=",
-        "description": "KETIKA Ons Jabeur menyegel match point, yang menjadikannya sebagai orang Arab pertama yang mencapai final Grand Slam di Wimbledon,&#8230;"
     }
 ]
