@@ -1,5 +1,12 @@
 [
     {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/505181/ini-risiko-dari-penggunaan-toilet-yang-buruk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNTE4MS9pbmktcmlzaWtvLWRhcmktcGVuZ2d1bmFhbi10b2lsZXQteWFuZy1idXJ1aw==",
+        "description": " Toilet yang kotor dan penggunaan toilet yang tidak sesuai, seperti melakukan flushing toilet dalam keadaan yang tidak tertutup, dapat berisiko pada kesehatan. Selain kondisi toilet dan cara&#8230;"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/505183/indonesia-dan-afrika-selatan-perkuat-kerja-sama",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTE3NS9pbmdncmlzLWRhbi1hbWVyaWthLXdhc3BhZGFpLXNlcmFuZ2FuLXNwaW9uYXNlLXRpb25na29r",
         "description": "KEPALA MI5 dan FBI memperingatkan negara-negara Barat terhadap potensi spionase Tiongkok. Intelijen Tiongkok sangat istimewa dari negara lain karena lebih jeli dan sabar dalam menggali informasi.&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505173/kejagung-belum-butuh-kesaksian-tambahan-m-lutfi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDUxNzMva2VqYWd1bmctYmVsdW0tYnV0dWgta2VzYWtzaWFuLXRhbWJhaGFuLW0tbHV0Zmk=",
-        "description": "PENYIDIK Jaksa Agung Muda Bidang Tindak Pidana Khusus (JAM-Pidsus) Kejaksaan Agung belum berencana memanggil mantan Menteri Perdagangan Muhammad Lutfi lagi setelah diperiksa sebagai saksi pada Rabu&#8230;"
     }
 ]
