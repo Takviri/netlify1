@@ -1,5 +1,47 @@
 [
     {
+        "title": "Bursa Asia Ditutup Cerah Bergairah, KOSPI Melesat Nyaris 2%",
+        "link": "https://www.cnbcindonesia.com/market/20220707163521-17-353809/bursa-asia-ditutup-cerah-bergairah-kospi-melesat-nyaris-2",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTYzNTIxLTE3LTM1MzgwOS9idXJzYS1hc2lhLWRpdHV0dXAtY2VyYWgtYmVyZ2FpcmFoLWtvc3BpLW1lbGVzYXQtbnlhcmlzLTI=",
+        "description": " Bursa Asia-Pasifik ditutup cerah bergairah pada perdagangan Kamis (7/7/2022), di mana investor sedikit bereaksi setelah dirilisnya hasil rapat The Fed"
+    },
+    {
+        "title": "Timah Merekah! Harga Naik 4% Lebih",
+        "link": "https://www.cnbcindonesia.com/market/20220707164017-17-353811/timah-merekah-harga-naik-4-lebih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTY0MDE3LTE3LTM1MzgxMS90aW1haC1tZXJla2FoLWhhcmdhLW5haWstNC1sZWJpaA==",
+        "description": " Tren penurunan harga terhenti, timah menguat 4% lebih."
+    },
+    {
+        "title": "Bukan Rp15.000/US$, Segini Rupiah Diramal Hingga Akhir Tahun",
+        "link": "https://www.cnbcindonesia.com/market/20220707164154-17-353810/bukan-rp15000-us--segini-rupiah-diramal-hingga-akhir-tahun",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTY0MTU0LTE3LTM1MzgxMC9idWthbi1ycDE1MDAwLXVzLS1zZWdpbmktcnVwaWFoLWRpcmFtYWwtaGluZ2dhLWFraGlyLXRhaHVu",
+        "description": " Nilai tukar rupiah diperkirakan akan mengakhiri tren pelemahan dalam waktu dekat."
+    },
+    {
+        "title": "Summarecon Bagi Dividen Rp 99 Miliar atau Rp 6/Saham",
+        "link": "https://www.cnbcindonesia.com/market/20220707160332-17-353798/summarecon-bagi-dividen-rp-99-miliar-atau-rp-6-saham",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTYwMzMyLTE3LTM1Mzc5OC9zdW1tYXJlY29uLWJhZ2ktZGl2aWRlbi1ycC05OS1taWxpYXItYXRhdS1ycC02LXNhaGFt",
+        "description": " PT Summarecon Agung Tbk (SMRA) akan membagikan dividen sebesar Rp 6 per lembar saham atau total sebesar Rp 99 miliar."
+    },
+    {
+        "title": "Saham dan Rupiah Bergejolak, Kebijakan Suku Bunga BI Dinanti",
+        "link": "https://www.cnbcindonesia.com/market/20220707154345-19-353786/saham-rupiah-bergejolak-kebijakan-suku-bunga-bi-dinanti",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTU0MzQ1LTE5LTM1Mzc4Ni9zYWhhbS1ydXBpYWgtYmVyZ2Vqb2xhay1rZWJpamFrYW4tc3VrdS1idW5nYS1iaS1kaW5hbnRp",
+        "description": " Saham dan Rupiah Bergejolak, Kebijakan Suku Bunga BI Dinanti"
+    },
+    {
+        "title": "Sri Mulyani Sebut Beli Rumah Makin Sulit, BTN Saran PPN 0%",
+        "link": "https://www.cnbcindonesia.com/market/20220707145214-17-353764/sri-mulyani-sebut-beli-rumah-makin-sulit-btn-saran-ppn-0",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTQ1MjE0LTE3LTM1Mzc2NC9zcmktbXVseWFuaS1zZWJ1dC1iZWxpLXJ1bWFoLW1ha2luLXN1bGl0LWJ0bi1zYXJhbi1wcG4tMA==",
+        "description": " permintaan pembelian rumah dapat didorong melalui stimulus pemerintah, yaitu PPN."
+    },
+    {
         "title": "Dolar AS Melandai, Harga Perak Hampir 1%",
         "link": "https://www.cnbcindonesia.com/market/20220707161140-17-353804/dolar-as-melandai-harga-perak-hampir-1",
         "image": "static/images/cnbc_market.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTQwNTMwLTE3LTM1Mzc0Ny90aGUtZmVkLWJha2FsLW1ha2luLWdhbGFrLXJlc2VzaS1tYWtpbi1kZWthdA==",
         "description": " Pejabat bank sentral AS The Fed kembali menekankan perlunya memerangi inflasi, bahkan jika dapat memperlambat ekonomi."
-    },
-    {
-        "title": "PM Inggris Boris Johnson Resign, Kurs Poundsterling Melesat!",
-        "link": "https://www.cnbcindonesia.com/market/20220707160047-17-353797/pm-inggris-boris-johnson-resign-kurs-poundsterling-melesat",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTYwMDQ3LTE3LTM1Mzc5Ny9wbS1pbmdncmlzLWJvcmlzLWpvaG5zb24tcmVzaWduLWt1cnMtcG91bmRzdGVybGluZy1tZWxlc2F0",
-        "description": " Dunia politik Inggris bergejolak di pekan ini, setelah puluhan menteri dan pembatunya di kabinet yang dipimpin Perdana Menteri (PM) Boris Johnson"
-    },
-    {
-        "title": "Hitung Mundur Kenaikan Suku Bunga The Fed, Nikel Drop 1%!",
-        "link": "https://www.cnbcindonesia.com/market/20220707154923-17-353795/hitung-mundur-kenaikan-suku-bunga-the-fed-nikel-drop-1",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTU0OTIzLTE3LTM1Mzc5NS9oaXR1bmctbXVuZHVyLWtlbmFpa2FuLXN1a3UtYnVuZ2EtdGhlLWZlZC1uaWtlbC1kcm9wLTE=",
-        "description": " Suku bunga bakal naik lagi menekan harga nikel dunia."
-    },
-    {
-        "title": "Serah Terima Pengelolaan Bandara Kualanamu, Ini Harapan Erick",
-        "link": "https://www.cnbcindonesia.com/market/20220707152840-17-353784/serah-terima-pengelolaan-bandara-kualanamu-ini-harapan-erick",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTUyODQwLTE3LTM1Mzc4NC9zZXJhaC10ZXJpbWEtcGVuZ2Vsb2xhYW4tYmFuZGFyYS1rdWFsYW5hbXUtaW5pLWhhcmFwYW4tZXJpY2s=",
-        "description": " Pengelolaan Bandara Kualanamu, Medan diserahkan dari PT Angkasa Pura II atau AP II kepada PT Angkasa Pura Aviasi (APA), Kamis (7/7/2022)."
-    },
-    {
-        "title": "Market Focus: IHSG dan Rupiah Kian Tertekan, Cadev Masih Tebal",
-        "link": "https://www.cnbcindonesia.com/market/20220707152048-19-353777/market-focus-ihsg-rupiah-kian-tertekan-cadev-masih-tebal",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTUyMDQ4LTE5LTM1Mzc3Ny9tYXJrZXQtZm9jdXMtaWhzZy1ydXBpYWgta2lhbi10ZXJ0ZWthbi1jYWRldi1tYXNpaC10ZWJhbA==",
-        "description": " Market Focus: IHSG - Rupiah Kian Tertekan, Cadev Masih Tebal"
-    },
-    {
-        "title": "Galau Seharian, IHSG Hanya Mampu Menguat Tipis",
-        "link": "https://www.cnbcindonesia.com/market/20220707152344-17-353779/galau-seharian-ihsg-hanya-mampu-menguat-tipis",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTUyMzQ0LTE3LTM1Mzc3OS9nYWxhdS1zZWhhcmlhbi1paHNnLWhhbnlhLW1hbXB1LW1lbmd1YXQtdGlwaXM=",
-        "description": " Indeks Harga Saham Gabungan (IHSG) ditutup menguat tipis 0,09% ke 6.652,59 pada perdagangan Kamis (7/7/2022)."
-    },
-    {
-        "title": "Disebut Akal Resesi, Dolar Australia Susah Payah Rp 10.200",
-        "link": "https://www.cnbcindonesia.com/market/20220707131948-17-353728/disebut-akal-resesi-dolar-australia-susah-payah-rp-10200",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTMxOTQ4LTE3LTM1MzcyOC9kaXNlYnV0LWFrYWwtcmVzZXNpLWRvbGFyLWF1c3RyYWxpYS1zdXNhaC1wYXlhaC1ycC0xMDIwMA==",
-        "description": " Nilai tukar dolar Australia menguat melawan rupiah pada perdagangan Kamis (7/7/2022)"
     }
 ]
