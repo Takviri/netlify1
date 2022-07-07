@@ -1,5 +1,33 @@
 [
     {
+        "title": "Ketika Raisa 'Menjerit' Lihat Mahalnya Harga BBM di Indonesia",
+        "link": "https://www.cnbcindonesia.com/news/20220707090002-4-353588/ketika-raisa-menjerit-lihat-mahalnya-harga-bbm-di-indonesia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA5MDAwMi00LTM1MzU4OC9rZXRpa2EtcmFpc2EtbWVuamVyaXQtbGloYXQtbWFoYWxueWEtaGFyZ2EtYmJtLWRpLWluZG9uZXNpYQ==",
+        "description": " Raisa sampai mengucap istighfar lantaran harus membayar 1,24 juta ketika mengisi bensin di SPBU"
+    },
+    {
+        "title": "Didesak Mundur, PM Inggris Pecat Pejabat Senior",
+        "link": "https://www.cnbcindonesia.com/news/20220707095544-8-353608/didesak-mundur-pm-inggris-pecat-pejabat-senior",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA5NTU0NC04LTM1MzYwOC9kaWRlc2FrLW11bmR1ci1wbS1pbmdncmlzLXBlY2F0LXBlamFiYXQtc2VuaW9y",
+        "description": " Gelombang seruan untuk Boris Johnson mengundurkan diri semakin deras seiring terus bertambahnya menteri dan pejabat yang mengundurkan diri"
+    },
+    {
+        "title": "PPKM Level 2 Batal, Covid-19 di Kota Tangerang Makin Ngeri!",
+        "link": "https://www.cnbcindonesia.com/news/20220707090742-4-353597/ppkm-level-2-batal-covid-19-di-kota-tangerang-makin-ngeri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA5MDc0Mi00LTM1MzU5Ny9wcGttLWxldmVsLTItYmF0YWwtY292aWQtMTktZGkta290YS10YW5nZXJhbmctbWFraW4tbmdlcmk=",
+        "description": " Kota Tangerang Selatan, Banten menjadi satu-satunya wilayah yang kini masuk dalam kategori risiko sedang penularan Covid-19"
+    },
+    {
+        "title": "Ini Skandal yang Buat PM Inggris Boris Johnson Diminta Mundur",
+        "link": "https://www.cnbcindonesia.com/news/20220707092408-4-353596/ini-skandal-yang-buat-pm-inggris-boris-johnson-diminta-mundur",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA5MjQwOC00LTM1MzU5Ni9pbmktc2thbmRhbC15YW5nLWJ1YXQtcG0taW5nZ3Jpcy1ib3Jpcy1qb2huc29uLWRpbWludGEtbXVuZHVy",
+        "description": " Pemerintahan Perdana Menteri (PM) Boris Johnson kini gonjang-ganjing. Ia bahkan diminta mundur. Skandal ini penyebabnya."
+    },
+    {
         "title": "Libur Idul Adha 2022 Tanggal Berapa? Cek Jadwalnya di Sini",
         "link": "https://www.cnbcindonesia.com/news/20220707084225-4-353580/libur-idul-adha-2022-tanggal-berapa-cek-jadwalnya-di-sini",
         "image": "static/images/cnbc_news.png",
@@ -7,10 +35,10 @@
         "description": " Berikut jadwal lengkap Hari Raya Idul Adha 202"
     },
     {
-        "title": "Perang Minggir, Rusia Temukan Cadangan Minyak Baru 82 Juta To",
-        "link": "https://www.cnbcindonesia.com/news/20220707084814-4-353587/perang-minggir-rusia-temukan-cadangan-minyak-baru-82-juta-to",
+        "title": "Perang Minggir, Rusia Ketemu Cadangan Minyak Baru 82 Juta Ton",
+        "link": "https://www.cnbcindonesia.com/news/20220707084814-4-353587/perang-minggir-rusia-ketemu-cadangan-minyak-baru-82-juta-ton",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA4NDgxNC00LTM1MzU4Ny9wZXJhbmctbWluZ2dpci1ydXNpYS10ZW11a2FuLWNhZGFuZ2FuLW1pbnlhay1iYXJ1LTgyLWp1dGEtdG8=",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA4NDgxNC00LTM1MzU4Ny9wZXJhbmctbWluZ2dpci1ydXNpYS1rZXRlbXUtY2FkYW5nYW4tbWlueWFrLWJhcnUtODItanV0YS10b24=",
         "description": " Rusia dilaporkan telah menemukan sebuah ladang minyak baru. Ladang baru itu disebut memiliki deposit hingga 82 juta ton."
     },
     {
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA4MjQwOS00LTM1MzU3Mi90YWstY3VtYS1yYWlzYS1qZWZmLWJlem9zLXJpYnV0LWtlLWJpZGVuLWdlZ2FyYS1oYXJnYS1iYm0=",
         "description": " Media sosial viral karena unggahan penyanyi Raisa Andriana soal harga BBM. Sebenarnya hal sama juga terjadi ke Jeff Bezos, saat ia ribut soal harga BBM ke Biden"
-    },
-    {
-        "title": "Sering Dikira Flu Ringan, Ini Tanda-tanda Omicron BA.4-BA.5",
-        "link": "https://www.cnbcindonesia.com/news/20220707080925-4-353566/sering-dikira-flu-ringan-ini-tanda-tanda-omicron-ba4-ba5",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA4MDkyNS00LTM1MzU2Ni9zZXJpbmctZGlraXJhLWZsdS1yaW5nYW4taW5pLXRhbmRhLXRhbmRhLW9taWNyb24tYmE0LWJhNQ==",
-        "description": " Berikut tanda-tanda dan gejala yang dialami pasien Omicron BA.4 dan BA.5"
-    },
-    {
-        "title": "Terungkap! Alasan Perubahan 'Kilat' PPKM Level 2 Jabodetabek",
-        "link": "https://www.cnbcindonesia.com/news/20220707080336-4-353564/terungkap-alasan-perubahan-kilat-ppkm-level-2-jabodetabek",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA4MDMzNi00LTM1MzU2NC90ZXJ1bmdrYXAtYWxhc2FuLXBlcnViYWhhbi1raWxhdC1wcGttLWxldmVsLTItamFib2RldGFiZWs=",
-        "description": " Berikut sejumlah alasan PPKM Jabodetabek tiba-tiba berubah dari level 2 menjadi level 1"
-    },
-    {
-        "title": "Cek Iuran Resmi BPJS Kesehatan per Juli 2022, Jadi Segini?",
-        "link": "https://www.cnbcindonesia.com/news/20220707080222-4-353563/cek-iuran-resmi-bpjs-kesehatan-per-juli-2022-jadi-segini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA4MDIyMi00LTM1MzU2My9jZWstaXVyYW4tcmVzbWktYnBqcy1rZXNlaGF0YW4tcGVyLWp1bGktMjAyMi1qYWRpLXNlZ2luaQ==",
-        "description": " BPJS Kesehatan memastikan tidak ada wacana untuk perubahan iuran peserta."
-    },
-    {
-        "title": "Sri Lanka, Mungkin Nasibmu Bakal Makin Menderita...",
-        "link": "https://www.cnbcindonesia.com/news/20220707063656-4-353553/sri-lanka-mungkin-nasibmu-bakal-makin-menderita",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA2MzY1Ni00LTM1MzU1My9zcmktbGFua2EtbXVuZ2tpbi1uYXNpYm11LWJha2FsLW1ha2luLW1lbmRlcml0YQ==",
-        "description": " Sri Lanka tengah menghadapi krisis ekonomi terburuk sedangkan bank sentral justru berencana menaikan suku bunga untuk meredam Inflasi."
     }
 ]
