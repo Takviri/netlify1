@@ -1,72 +1,72 @@
 [
     {
+        "title": "Breaking News: PM Inggris Mundur!",
+        "link": "https://www.cnbcindonesia.com/news/20220707152823-4-353783/breaking-news-pm-inggris-mundur",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE1MjgyMy00LTM1Mzc4My9icmVha2luZy1uZXdzLXBtLWluZ2dyaXMtbXVuZHVy",
+        "description": " PM Inggris sepakat mundur dari jabatannya."
+    },
+    {
+        "title": "Proyek Tol Cincin ke-3 Jakarta Dibangun, Ini Rute-Tutenya",
+        "link": "https://www.cnbcindonesia.com/news/20220707151018-4-353780/proyek-tol-cincin-ke-3-jakarta-dibangun-ini-rute-tutenya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE1MTAxOC00LTM1Mzc4MC9wcm95ZWstdG9sLWNpbmNpbi1rZS0zLWpha2FydGEtZGliYW5ndW4taW5pLXJ1dGUtdHV0ZW55YQ==",
+        "description": " Kota Jakarta bakal dikelilingi 'cincin' tol yang ketiga atau Jakarta Outer Ring Road (JORR) III."
+    },
+    {
+        "title": "Harga Bensin RI Rekor Sejarah, Harga BBM Pesawat Juga Pecah!",
+        "link": "https://www.cnbcindonesia.com/news/20220707133008-4-353729/harga-bensin-ri-rekor-sejarah-harga-bbm-pesawat-juga-pecah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEzMzAwOC00LTM1MzcyOS9oYXJnYS1iZW5zaW4tcmktcmVrb3Itc2VqYXJhaC1oYXJnYS1iYm0tcGVzYXdhdC1qdWdhLXBlY2Fo",
+        "description": " Bahkan bahan bakar minyak (BBM) pesawat atau avtur juga mengalami lonjakan yang signifikan."
+    },
+    {
+        "title": "Beli Pertalite Tanpa Aplikasi, Bos Pertamina: QR Code Diprint",
+        "link": "https://www.cnbcindonesia.com/news/20220707151337-4-353774/beli-pertalite-tanpa-aplikasi-bos-pertamina-qr-code-diprint",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE1MTMzNy00LTM1Mzc3NC9iZWxpLXBlcnRhbGl0ZS10YW5wYS1hcGxpa2FzaS1ib3MtcGVydGFtaW5hLXFyLWNvZGUtZGlwcmludA==",
+        "description": " Dirut Pertamina Nicke Widyawati menyatakan pengguna Pertalite tak wajib memakai aplikasi dalam pembelian bisa menggunakan QR Code yang diprint"
+    },
+    {
+        "title": "Audit Sawit Dimulai, Begini Peringatan Keras Dari Luhut",
+        "link": "https://www.cnbcindonesia.com/news/20220707144836-4-353768/audit-sawit-dimulai-begini-peringatan-keras-dari-luhut",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE0NDgzNi00LTM1Mzc2OC9hdWRpdC1zYXdpdC1kaW11bGFpLWJlZ2luaS1wZXJpbmdhdGFuLWtlcmFzLWRhcmktbHVodXQ=",
+        "description": " Menko Luhut memberi peringatan keras kepada kepala daerah terkait data sawit."
+    },
+    {
+        "title": "Inggris Makin Gonjang-ganjing, 53 Menteri dan Pejabat 'Resign'",
+        "link": "https://www.cnbcindonesia.com/news/20220707150648-4-353769/inggris-makin-gonjang-ganjing-53-menteri-pejabat-resign",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE1MDY0OC00LTM1Mzc2OS9pbmdncmlzLW1ha2luLWdvbmphbmctZ2FuamluZy01My1tZW50ZXJpLXBlamFiYXQtcmVzaWdu",
+        "description": " Pemerintahan Inggris makin gonjang-ganjing. Arus pengunduran diri anggota kabinet masih terus terjadi, di mana saat ini ada 53 total pejabat mundur."
+    },
+    {
+        "title": "Warning! Covid-19 di Singapura Meledak Lagi",
+        "link": "https://www.cnbcindonesia.com/news/20220707124322-8-353710/warning-covid-19-di-singapura-meledak-lagi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEyNDMyMi04LTM1MzcxMC93YXJuaW5nLWNvdmlkLTE5LWRpLXNpbmdhcHVyYS1tZWxlZGFrLWxhZ2k=",
+        "description": " Kasus Covid-19 di Singapura meledak."
+    },
+    {
+        "title": "Made in RI! RI Punya Mesin Canggih Cegah Stunting",
+        "link": "https://www.cnbcindonesia.com/news/20220707140349-7-353742/made-in-ri-ri-punya-mesin-canggih-cegah-stunting",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE0MDM0OS03LTM1Mzc0Mi9tYWRlLWluLXJpLXJpLXB1bnlhLW1lc2luLWNhbmdnaWgtY2VnYWgtc3R1bnRpbmc=",
+        "description": " Minyak makan merah merupakan inovasi minyak sawit yang digunakan sebagai pangan fungsional dalam membantu pencegahan stunting"
+    },
+    {
+        "title": "Krisis Energi di Asean, Tetangga RI Mau Beli Minyak Rusia",
+        "link": "https://www.cnbcindonesia.com/news/20220707120859-4-353686/krisis-energi-di-asean-tetangga-ri-mau-beli-minyak-rusia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEyMDg1OS00LTM1MzY4Ni9rcmlzaXMtZW5lcmdpLWRpLWFzZWFuLXRldGFuZ2dhLXJpLW1hdS1iZWxpLW1pbnlhay1ydXNpYQ==",
+        "description": " Laos telah memulai pembicaraan dengan Rusia mengenai pembelian minyak bumi."
+    },
+    {
         "title": "Rusia Temukan Cadangan Minyak 82 Juta Ton, Ini Lokasinya",
         "link": "https://www.cnbcindonesia.com/news/20220707124320-8-353706/rusia-temukan-cadangan-minyak-82-juta-ton-ini-lokasinya",
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEyNDMyMC04LTM1MzcwNi9ydXNpYS10ZW11a2FuLWNhZGFuZ2FuLW1pbnlhay04Mi1qdXRhLXRvbi1pbmktbG9rYXNpbnlh",
         "description": " Perusahaan migas Rusia, Rosneft mengumumkan menemukan ladang minyak bar."
-    },
-    {
-        "title": "Terungkap! Ada Obrolan 'Rahasia' antara Jokowi-Zelensky-Putin",
-        "link": "https://www.cnbcindonesia.com/news/20220707142739-4-353758/terungkap-ada-obrolan-rahasia-antara-jokowi-zelensky-putin",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE0MjczOS00LTM1Mzc1OC90ZXJ1bmdrYXAtYWRhLW9icm9sYW4tcmFoYXNpYS1hbnRhcmEtam9rb3dpLXplbGVuc2t5LXB1dGlu",
-        "description": " Jokowi membuka sebuah pembicaraan rahasia antara dirinya dengan Zelensky dan Putin"
-    },
-    {
-        "title": "'Tsunami' Inflasi Sudah Sampai di ASEAN! Termasuk RI Dong?",
-        "link": "https://www.cnbcindonesia.com/news/20220707122007-4-353692/tsunami-inflasi-sudah-sampai-di-asean-termasuk-ri-dong",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEyMjAwNy00LTM1MzY5Mi90c3VuYW1pLWluZmxhc2ktc3VkYWgtc2FtcGFpLWRpLWFzZWFuLXRlcm1hc3VrLXJpLWRvbmc=",
-        "description": " Inflasi Indonesia melesat pada periode Juni 2022."
-    },
-    {
-        "title": "Cuan Cuan Cuan! Potensi Katering di IKN Bisa Rp10 Miliar/Hari",
-        "link": "https://www.cnbcindonesia.com/news/20220707122003-4-353691/cuan-cuan-cuan-potensi-katering-di-ikn-bisa-rp10-miliar-hari",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEyMjAwMy00LTM1MzY5MS9jdWFuLWN1YW4tY3Vhbi1wb3RlbnNpLWthdGVyaW5nLWRpLWlrbi1iaXNhLXJwMTAtbWlsaWFyLWhhcmk=",
-        "description": " Isran menambahkan, pemerintah pusat dan Tim Transisi IKN sudah mulai melakukan pelatihan-pelatihan agar masyarakat bisa terlibat dalam proses ini."
-    },
-    {
-        "title": "Kemensos Cabut Izin ACT Karena Dugaan Penyelewengan Dana Umat",
-        "link": "https://www.cnbcindonesia.com/news/20220707114559-8-353667/kemensos-cabut-izin-act-karena-dugaan-penyelewengan-dana-umat",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzExNDU1OS04LTM1MzY2Ny9rZW1lbnNvcy1jYWJ1dC1pemluLWFjdC1rYXJlbmEtZHVnYWFuLXBlbnllbGV3ZW5nYW4tZGFuYS11bWF0",
-        "description": " Kementerian Sosial mencabut izin lembaga kemanusiaan aksi cepat tanggap atau ACT"
-    },
-    {
-        "title": "Sobat Putin Sebut Rusia Menuju Tatanan Dunia Baru, Apa Itu?",
-        "link": "https://www.cnbcindonesia.com/news/20220707115057-4-353670/sobat-putin-sebut-rusia-menuju-tatanan-dunia-baru-apa-itu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzExNTA1Ny00LTM1MzY3MC9zb2JhdC1wdXRpbi1zZWJ1dC1ydXNpYS1tZW51anUtdGF0YW5hbi1kdW5pYS1iYXJ1LWFwYS1pdHU=",
-        "description": " Menteri Luar Negeri Venezuela, Carlos Faria, mengatakan Rusia sedang menuju tatanan dunia baru yang akan meminimalkan relevansi AS di panggung global."
-    },
-    {
-        "title": "Erick Bandingkan MyPertamina vs PeduliLindungi, Hasilnya...",
-        "link": "https://www.cnbcindonesia.com/news/20220707121338-4-353688/erick-bandingkan-mypertamina-vs-pedulilindungi-hasilnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEyMTMzOC00LTM1MzY4OC9lcmljay1iYW5kaW5na2FuLW15cGVydGFtaW5hLXZzLXBlZHVsaWxpbmR1bmdpLWhhc2lsbnlh",
-        "description": " Menteri BUMN Erick Thohir menyebutkan belajar dari aolikasi PeduliLindungi, MyPertamina akan membawa kemudahan pembelian Pertalite"
-    },
-    {
-        "title": "Ternyata Resesi Dunia Semengerikan Ini Loh Gaes",
-        "link": "https://www.cnbcindonesia.com/news/20220707120416-16-353683/ternyata-resesi-dunia-semengerikan-ini-loh-gaes",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEyMDQxNi0xNi0zNTM2ODMvdGVybnlhdGEtcmVzZXNpLWR1bmlhLXNlbWVuZ2VyaWthbi1pbmktbG9oLWdhZXM=",
-        "description": " World Bank atau Bank Dunia dalam laporan terbarunya bertajuk Global Economic Prospects edisi Juni 2022 menggambarkan rumitnya kondisi saat ini."
-    },
-    {
-        "title": "Geger! Penampakan Baru Jet Tempur Buatan RI-Korsel Keluyuran",
-        "link": "https://www.cnbcindonesia.com/news/20220707135047-7-353733/geger-penampakan-baru-jet-tempur-buatan-ri-korsel-keluyuran",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEzNTA0Ny03LTM1MzczMy9nZWdlci1wZW5hbXBha2FuLWJhcnUtamV0LXRlbXB1ci1idWF0YW4tcmkta29yc2VsLWtlbHV5dXJhbg==",
-        "description": " KF-21 Boramae merupakan jet tempur generasi 4,5 yang memiliki kemampuan canggih kerja sama Indonesia dan Korsel."
-    },
-    {
-        "title": "Ada RI, China Panas AS Gelar Latihan Militer Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220707132649-4-353725/ada-ri-china-panas-as-gelar-latihan-militer-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEzMjY0OS00LTM1MzcyNS9hZGEtcmktY2hpbmEtcGFuYXMtYXMtZ2VsYXItbGF0aWhhbi1taWxpdGVyLWluaQ==",
-        "description": " Sebuah surat kabar resmi milik Pemerintah China, China Daily, menyebutkan bahwa latihan militer yang diadakan AS di Pasifik merupakan bentuk intimidasi."
     }
 ]
