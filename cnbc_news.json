@@ -1,5 +1,54 @@
 [
     {
+        "title": "Jokowi: Semua Negara Tidak Dalam Posisi Aman Sekarang!",
+        "link": "https://www.cnbcindonesia.com/news/20220707104452-4-353639/jokowi-semua-negara-tidak-dalam-posisi-aman-sekarang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEwNDQ1Mi00LTM1MzYzOS9qb2tvd2ktc2VtdWEtbmVnYXJhLXRpZGFrLWRhbGFtLXBvc2lzaS1hbWFuLXNla2FyYW5n",
+        "description": " Jokowi menyebut tidak ada satupun negara yang aman saat ini"
+    },
+    {
+        "title": "Covid China Tak Kunjung Usai, Beijing Wajibkan Vaksin Warga",
+        "link": "https://www.cnbcindonesia.com/news/20220707103818-4-353636/covid-china-tak-kunjung-usai-beijing-wajibkan-vaksin-warga",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEwMzgxOC00LTM1MzYzNi9jb3ZpZC1jaGluYS10YWsta3VuanVuZy11c2FpLWJlaWppbmctd2FqaWJrYW4tdmFrc2luLXdhcmdh",
+        "description": " Ibu kota China, Beijing, membuat aturan baru bagi warga terkait Covid-19."
+    },
+    {
+        "title": "Krisis Ekonomi, Sri Lanka Minta Bantuan Rusia",
+        "link": "https://www.cnbcindonesia.com/news/20220707100005-8-353614/krisis-ekonomi-sri-lanka-minta-bantuan-rusia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEwMDAwNS04LTM1MzYxNC9rcmlzaXMtZWtvbm9taS1zcmktbGFua2EtbWludGEtYmFudHVhbi1ydXNpYQ==",
+        "description": " Sri Lanka meminta bantuan Rusia"
+    },
+    {
+        "title": "Siap-siap! Pembatasan Pengguna Pertalite Berlaku 1 Agustus",
+        "link": "https://www.cnbcindonesia.com/news/20220707103733-4-353635/siap-siap-pembatasan-pengguna-pertalite-berlaku-1-agustus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEwMzczMy00LTM1MzYzNS9zaWFwLXNpYXAtcGVtYmF0YXNhbi1wZW5nZ3VuYS1wZXJ0YWxpdGUtYmVybGFrdS0xLWFndXN0dXM=",
+        "description": " Dirut Pertamina memprediksi pembatasan pembelian Pertalite dan Solar Subsidi bisa berlaku 1 Agustus apabila revisi Perpres 191/2022 sudah rampung"
+    },
+    {
+        "title": "Cek! Daftar Terbaru Kendaraan yang 'Diharamkan' Isi Pertalite",
+        "link": "https://www.cnbcindonesia.com/news/20220707091852-4-353593/cek-daftar-terbaru-kendaraan-yang-diharamkan-isi-pertalite",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA5MTg1Mi00LTM1MzU5My9jZWstZGFmdGFyLXRlcmJhcnUta2VuZGFyYWFuLXlhbmctZGloYXJhbWthbi1pc2ktcGVydGFsaXRl",
+        "description": " Pemerintah sedang menggodok revisi Perpres 191/2014 berkenaan dengan kriteria kendaraan yang 'diharamkan' isi Pertalite dan Solar Subsidi"
+    },
+    {
+        "title": "Calon 'Penghancur' Avanza Tebar Pesona, Harga Lebih Murah?",
+        "link": "https://www.cnbcindonesia.com/news/20220707095616-4-353609/calon-penghancur-avanza-tebar-pesona-harga-lebih-murah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA5NTYxNi00LTM1MzYwOS9jYWxvbi1wZW5naGFuY3VyLWF2YW56YS10ZWJhci1wZXNvbmEtaGFyZ2EtbGViaWgtbXVyYWg=",
+        "description": " Calon pesaing baru Avanza bermunculan tahun ini."
+    },
+    {
+        "title": "Mantan Mentan: Harga TBS Sawit Anjlok Efek Aturan DMO dan DPO",
+        "link": "https://www.cnbcindonesia.com/news/20220707101044-8-353620/mantan-mentan-harga-tbs-sawit-anjlok-efek-aturan-dmo-dan-dpo",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEwMTA0NC04LTM1MzYyMC9tYW50YW4tbWVudGFuLWhhcmdhLXRicy1zYXdpdC1hbmpsb2stZWZlay1hdHVyYW4tZG1vLWRhbi1kcG8=",
+        "description": " Mantan Mentan: Harga TBS Sawit Anjlok Efek Larangan Ekspor CPO"
+    },
+    {
         "title": "Harga Sparepart dan Sepeda Lipat Terjun Bebas Borong Sekarang!",
         "link": "https://www.cnbcindonesia.com/news/20220707094845-4-353606/harga-sparepart-sepeda-lipat-terjun-bebas-borong-sekarang",
         "image": "static/images/cnbc_news.png",
@@ -19,54 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA5NDIwNy00LTM1MzYwMi9zZXN1bWJhci16dWxoYXMtaGFyZ2EtbWlueWFraXRhLXJwMTQwMDAtbGl0ZXItZGktbWFuYXB1bg==",
         "description": " Mendag Zulkifli Hasan mengatakan terus berusaha menurunkan harga minyak goreng di seluruh Indonesia."
-    },
-    {
-        "title": "Pertemuan Menlu G20 Dimulai, Ukraina dan Rusia Hadir",
-        "link": "https://www.cnbcindonesia.com/news/20220707095831-8-353612/pertemuan-menlu-g20-dimulai-ukraina-rusia-hadir",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA5NTgzMS04LTM1MzYxMi9wZXJ0ZW11YW4tbWVubHUtZzIwLWRpbXVsYWktdWtyYWluYS1ydXNpYS1oYWRpcg==",
-        "description": " Ukraina dan Rusia dipastikan hadir ke G20"
-    },
-    {
-        "title": "Ketika Raisa 'Menjerit' Lihat Mahalnya Harga BBM di Indonesia",
-        "link": "https://www.cnbcindonesia.com/news/20220707090002-4-353588/ketika-raisa-menjerit-lihat-mahalnya-harga-bbm-di-indonesia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA5MDAwMi00LTM1MzU4OC9rZXRpa2EtcmFpc2EtbWVuamVyaXQtbGloYXQtbWFoYWxueWEtaGFyZ2EtYmJtLWRpLWluZG9uZXNpYQ==",
-        "description": " Raisa sampai mengucap istighfar lantaran harus membayar 1,24 juta ketika mengisi bensin di SPBU"
-    },
-    {
-        "title": "Didesak Mundur, PM Inggris Pecat Pejabat Senior",
-        "link": "https://www.cnbcindonesia.com/news/20220707095544-8-353608/didesak-mundur-pm-inggris-pecat-pejabat-senior",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA5NTU0NC04LTM1MzYwOC9kaWRlc2FrLW11bmR1ci1wbS1pbmdncmlzLXBlY2F0LXBlamFiYXQtc2VuaW9y",
-        "description": " Gelombang seruan untuk Boris Johnson mengundurkan diri semakin deras seiring terus bertambahnya menteri dan pejabat yang mengundurkan diri"
-    },
-    {
-        "title": "PPKM Level 2 Batal, Covid-19 di Kota Tangerang Makin Ngeri!",
-        "link": "https://www.cnbcindonesia.com/news/20220707090742-4-353597/ppkm-level-2-batal-covid-19-di-kota-tangerang-makin-ngeri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA5MDc0Mi00LTM1MzU5Ny9wcGttLWxldmVsLTItYmF0YWwtY292aWQtMTktZGkta290YS10YW5nZXJhbmctbWFraW4tbmdlcmk=",
-        "description": " Kota Tangerang Selatan, Banten menjadi satu-satunya wilayah yang kini masuk dalam kategori risiko sedang penularan Covid-19"
-    },
-    {
-        "title": "Ini Skandal yang Buat PM Inggris Boris Johnson Diminta Mundur",
-        "link": "https://www.cnbcindonesia.com/news/20220707092408-4-353596/ini-skandal-yang-buat-pm-inggris-boris-johnson-diminta-mundur",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA5MjQwOC00LTM1MzU5Ni9pbmktc2thbmRhbC15YW5nLWJ1YXQtcG0taW5nZ3Jpcy1ib3Jpcy1qb2huc29uLWRpbWludGEtbXVuZHVy",
-        "description": " Pemerintahan Perdana Menteri (PM) Boris Johnson kini gonjang-ganjing. Ia bahkan diminta mundur. Skandal ini penyebabnya."
-    },
-    {
-        "title": "Libur Idul Adha 2022 Tanggal Berapa? Cek Jadwalnya di Sini",
-        "link": "https://www.cnbcindonesia.com/news/20220707084225-4-353580/libur-idul-adha-2022-tanggal-berapa-cek-jadwalnya-di-sini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA4NDIyNS00LTM1MzU4MC9saWJ1ci1pZHVsLWFkaGEtMjAyMi10YW5nZ2FsLWJlcmFwYS1jZWstamFkd2FsbnlhLWRpLXNpbmk=",
-        "description": " Berikut jadwal lengkap Hari Raya Idul Adha 202"
-    },
-    {
-        "title": "Perang Minggir, Rusia Ketemu Cadangan Minyak Baru 82 Juta Ton",
-        "link": "https://www.cnbcindonesia.com/news/20220707084814-4-353587/perang-minggir-rusia-ketemu-cadangan-minyak-baru-82-juta-ton",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzA4NDgxNC00LTM1MzU4Ny9wZXJhbmctbWluZ2dpci1ydXNpYS1rZXRlbXUtY2FkYW5nYW4tbWlueWFrLWJhcnUtODItanV0YS10b24=",
-        "description": " Rusia dilaporkan telah menemukan sebuah ladang minyak baru. Ladang baru itu disebut memiliki deposit hingga 82 juta ton."
     }
 ]

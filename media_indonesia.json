@@ -1,5 +1,54 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/504904/sandiaga-uno-bawa-kakek-yang-rajin-ngaji-ke-dokter-di-desa-silokek",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0OTA0L3NhbmRpYWdhLXVuby1iYXdhLWtha2VrLXlhbmctcmFqaW4tbmdhamkta2UtZG9rdGVyLWRpLWRlc2Etc2lsb2tlaw==",
+        "description": "MENPAREKRAF Sandiaga Uno meminta timnya membawa Jilus, 72, ke dokter telinga, hidung, dan tenggorokan (THT). Hal itu dilakukan&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/504890/lawan-aplikasi-spyware-apple-hadirkan-lockdown-mode",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA0ODkwL2xhd2FuLWFwbGlrYXNpLXNweXdhcmUtYXBwbGUtaGFkaXJrYW4tbG9ja2Rvd24tbW9kZQ==",
+        "description": "APPLE dikabarkan berencana merilis lockdown mode, sebuah fitur pada perangkat komunikasi besutannya dengan menambah lapisan perlindungan&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/504905/menghukum-negara-nuklir-berpotensi-mengancam-keberadaan-manusia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNDkwNS9tZW5naHVrdW0tbmVnYXJhLW51a2xpci1iZXJwb3RlbnNpLW1lbmdhbmNhbS1rZWJlcmFkYWFuLW1hbnVzaWE=",
+        "description": "Upaya Barat untuk menghukum negara nuklir seperti Rusia membahayakan umat manusia, kata mantan presiden Rusia Dmitry Medvedev, Rabu (7/7). Invasi Rusia di Ukraina pada 24 Februari telah memicu&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/504902/memasuki-panen-raya-harga-cabai-berangsur-turun",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDkwMi9tZW1hc3VraS1wYW5lbi1yYXlhLWhhcmdhLWNhYmFpLWJlcmFuZ3N1ci10dXJ1bg==",
+        "description": "BERDASARKAN data Pusat Informasi Harga Pangan Strategis (PIHPS) Nasional, terjadi penurunan harga cabai secara rata-rata nasional. Penurunan tersebut terjadi karena beberapa sentra cabai mengalami&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/504880/kembali-single-debut-heavenex",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNDg4MC9rZW1iYWxpLXNpbmdsZS1kZWJ1dC1oZWF2ZW5leA==",
+        "description": "RAPPER/vokalis Heavenex merilis single debutnya yang diberi judul Kembali. Lagu Kembali sudah digarap oleh Hevenex sejak awal&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/504900/harga-cabai-turun-pedagang-sebut-karena-pasokan-cabai-melimpah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDkwMC9oYXJnYS1jYWJhaS10dXJ1bi1wZWRhZ2FuZy1zZWJ1dC1rYXJlbmEtcGFzb2thbi1jYWJhaS1tZWxpbXBhaA==",
+        "description": "PARA pedagang di sejumlah pasar mulai hari ini serentak menjual cabai dengan harga Rata-rata Rp 80 ribu perkilogram. Harga tersebut turun cukup jauh bila dibandingkan harga cabai sebelumnya yang mencapai&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/504898/keren-kredit-bjb-mesra-masuk-nominasi-finalis-top-inovasi-pelayanan-publik-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNDg5OC9rZXJlbi1rcmVkaXQtYmpiLW1lc3JhLW1hc3VrLW5vbWluYXNpLWZpbmFsaXMtdG9wLWlub3Zhc2ktcGVsYXlhbmFuLXB1Ymxpay0yMDIy",
+        "description": "BERBAGAI inovasi dan terobosan penting sektor keuangan terus dilakukan Pemerintah Provinsi Jawa Barat bersama bank bjb untuk menggenjot ekonomi kerakyatan. Tujuannya agar masyarakat sejahtera, menjalani&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/504896/pasokan-melimpah-harga-cabai-telah-turun",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0ODc3L2luaS10aXBzLXVudHVrLW1lbmd1cmFuZ2kta29uc3Vtc2ktZ2FyYW0=",
         "description": "DOKTER umum sekaligus pembuat konten Kesehatan, Kevin Mak, mengatakan penggunaan MSG dalam kadar yang wajar relatif aman bahkan efektif dalam menurunkan konsumsi <a href=\"http://mediaindonesia.com/tag/garam\"&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/504894/menag-cek-kesiapan-posko-kesehatan-di-mina",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA0ODk0L21lbmFnLWNlay1rZXNpYXBhbi1wb3Nrby1rZXNlaGF0YW4tZGktbWluYQ==",
-        "description": "MENTERI Agama Yaqut Cholil Qoumas mengecek kesiapan pos layanan kesehatan di Mina, yang menurut dia sudah layak untuk menangani siapa pun termasuk jamaah calon <a href=\"http://mediaindonesia.com/tag/haji\"&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/504875/wonho-akan-gelar-tur-eropa-akhir-agustus",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNDg3NS93b25oby1ha2FuLWdlbGFyLXR1ci1lcm9wYS1ha2hpci1hZ3VzdHVz",
-        "description": "MUSISI Korea Selatan (Korsel) Wonho secara resmi telah mengumumkan dirinya akan melakukan tur di Eropa bertajuk FACADE, yang akan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/504892/aprifadia-bertekad-tetap-kompetitif-di-malaysia-masters",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDQ4OTIvYXByaWZhZGlhLWJlcnRla2FkLXRldGFwLWtvbXBldGl0aWYtZGktbWFsYXlzaWEtbWFzdGVycw==",
-        "description": "GANDA putri Indonesia Apriyani Rahayu/Siti Fadia Silva Ramadhanti tengah berusaha menjaga pikiran untuk tetap kompetitif di tengah jadwal pertandingan yang semakin padat di ajang <a href=\"http://mediaindonesia.com/tag/malaysia-masters\"&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504889/di-sleman-tercatat-62-titik-penjualan-hewan-kurban-perorangan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0ODg5L2RpLXNsZW1hbi10ZXJjYXRhdC02Mi10aXRpay1wZW5qdWFsYW4taGV3YW4ta3VyYmFuLXBlcm9yYW5nYW4=",
-        "description": "DINAS Pertanian, Pangan dan Perikanan Kabupaten Sleman mendata hingga Rabu (6/7) tercatat tempat penjualan ada di 89 titik, diantaranya da 62 titik milik peroarangan. Kadis Pertanian, Pangan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/504873/jesus-sebut-arteta-buat-dirinya-pilih-arsenal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNDg3My9qZXN1cy1zZWJ1dC1hcnRldGEtYnVhdC1kaXJpbnlhLXBpbGloLWFyc2VuYWw=",
-        "description": "PENYERANG Gabriel Jesus mengatakan kehadiran pelatih Mikel Arteta menjadi salah satu faktor yang membuat dirinya memilih bergabung ke Arsenal&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504888/pemkot-tikep-hibahkan-5-hektare-tanah-kepada-universitas-khairun-ternate",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0ODg4L3BlbWtvdC10aWtlcC1oaWJhaGthbi01LWhla3RhcmUtdGFuYWgta2VwYWRhLXVuaXZlcnNpdGFzLWtoYWlydW4tdGVybmF0ZQ==",
-        "description": "SEBAGAI upaya untuk meningkatkan kualitas sumber daya manusia dan pendidikan di Provinsi Maluku Utara, Wali Kota Tidore Kepulauan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/504887/ponpes-raudlatul-irfan-sukses-olah-limbah-aren-untuk-budidaya-jamur-merang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA0ODg3L3BvbnBlcy1yYXVkbGF0dWwtaXJmYW4tc3Vrc2VzLW9sYWgtbGltYmFoLWFyZW4tdW50dWstYnVkaWRheWEtamFtdXItbWVyYW5n",
-        "description": "PONDOK Pesantren (Ponpres) Raudlatul Irfan di Dusun Sarayuda, Desa Kertaharja, Kecamatan Cijengjeung, Kabupaten Ciamis, Jawa Barat, memanfaatkan pengolahan limbah serabut aren untuk media jamur merang.&#8230;"
     }
 ]
