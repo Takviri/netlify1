@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pengusaha Minyak Goreng Bantah Punya Utang Rp130 M ke Peritel",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220707195432-92-818724/pengusaha-minyak-goreng-bantah-punya-utang-rp130-m-ke-peritel",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA3MTk1NDMyLTkyLTgxODcyNC9wZW5ndXNhaGEtbWlueWFrLWdvcmVuZy1iYW50YWgtcHVueWEtdXRhbmctcnAxMzAtbS1rZS1wZXJpdGVs",
+        "description": " Pengusaha minyak goreng membantah punya utang kepada peritel Rp130 miliar."
+    },
+    {
+        "title": "Pedagang Ragu MinyaKita Sampai ke Pasar Rp14 Ribu",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220707143517-92-818550/pedagang-ragu-minyakita-sampai-ke-pasar-rp14-ribu",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA3MTQzNTE3LTkyLTgxODU1MC9wZWRhZ2FuZy1yYWd1LW1pbnlha2l0YS1zYW1wYWkta2UtcGFzYXItcnAxNC1yaWJ1",
+        "description": " Pedagang pasar ragu MinyaKita bisa sampai tersebar dengan harga Rp14 ribu per liter karena rantai distribusi masih rumit."
+    },
+    {
         "title": "IHSG Berpotensi Berotot di Akhir Pekan",
         "link": "https://www.cnnindonesia.com/ekonomi/20220708043230-92-818766/ihsg-berpotensi-berotot-di-akhir-pekan",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA3MTgyNTU2LTkyLTgxODY5MS9rZW1lbnRhbi1wbWstYmFrYWwtaGFtYmF0LXBlcmRhZ2FuZ2FuLWRhbi1la3Nwb3I=",
         "description": " Kementan mengatakan aktivitas perdagangan dan ekspor dari negara yang terpapar PMK berpotensi terganggu."
-    },
-    {
-        "title": "Harga Minyak Goreng di Indomaret Turun Setelah Minyakita 'Lahir'",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220707183930-92-818697/harga-minyak-goreng-di-indomaret-turun-setelah-minyakita-lahir",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA3MTgzOTMwLTkyLTgxODY5Ny9oYXJnYS1taW55YWstZ29yZW5nLWRpLWluZG9tYXJldC10dXJ1bi1zZXRlbGFoLW1pbnlha2l0YS1sYWhpcg==",
-        "description": " Harga minyak goreng kemasan di Indomaret turun usai peluncuran MinyaKita seharga Rp14 ribu."
-    },
-    {
-        "title": "Pemerintah Daerah Apresiasi Subsidi Listrik Tepat Sasaran",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220707191455-90-818713/pemerintah-daerah-apresiasi-subsidi-listrik-tepat-sasaran",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA3MTkxNDU1LTkwLTgxODcxMy9wZW1lcmludGFoLWRhZXJhaC1hcHJlc2lhc2ktc3Vic2lkaS1saXN0cmlrLXRlcGF0LXNhc2FyYW4=",
-        "description": " keputusan pemerintah melalui PLN menyesuaikan tarif lisktrik pelanggan mampu agar subsidi listrik tepat sasaran didukung pemerintah daerah."
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "title": "Harga Sepeda Sudah Hancur, Ada yang Diskon Sampai 50% Loh",
+        "link": "https://www.cnbcindonesia.com/news/20220708005111-4-353878/harga-sepeda-sudah-hancur-ada-yang-diskon-sampai-50-loh",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODAwNTExMS00LTM1Mzg3OC9oYXJnYS1zZXBlZGEtc3VkYWgtaGFuY3VyLWFkYS15YW5nLWRpc2tvbi1zYW1wYWktNTAtbG9o",
+        "description": " Di saat harga berbagai produk komoditas melonjak gila-gilaan, harga sepeda justru tengah anjlok parah."
+    },
+    {
+        "title": "RI di Ambang 'Kiamat' Gula, Impor Gede-Gedean Produksi Drop",
+        "link": "https://www.cnbcindonesia.com/news/20220708004614-4-353877/ri-di-ambang-kiamat-gula-impor-gede-gedean-produksi-drop",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODAwNDYxNC00LTM1Mzg3Ny9yaS1kaS1hbWJhbmcta2lhbWF0LWd1bGEtaW1wb3ItZ2VkZS1nZWRlYW4tcHJvZHVrc2ktZHJvcA==",
+        "description": " Produksi gula diprediksi bakal drop atau maksimal hanya bisa seperti tahun lalu."
+    },
+    {
+        "title": "Ngeri! Putin Ancam Barat, Ukraina Bisa Jadi Tragedi",
+        "link": "https://www.cnbcindonesia.com/news/20220708063300-4-353888/ngeri-putin-ancam-barat-ukraina-bisa-jadi-tragedi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODA2MzMwMC00LTM1Mzg4OC9uZ2VyaS1wdXRpbi1hbmNhbS1iYXJhdC11a3JhaW5hLWJpc2EtamFkaS10cmFnZWRp",
+        "description": " Presiden Rusia Vladimir Putin mengancam Barat. Ia mengatakan Ukraina bisa menjadi \"tragedi\"."
+    },
+    {
+        "title": "Waspada, Singapura Konfirmasi Lagi Kasus Baru Cacar Monyet",
+        "link": "https://www.cnbcindonesia.com/news/20220708062947-4-353886/waspada-singapura-konfirmasi-lagi-kasus-baru-cacar-monyet",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODA2Mjk0Ny00LTM1Mzg4Ni93YXNwYWRhLXNpbmdhcHVyYS1rb25maXJtYXNpLWxhZ2kta2FzdXMtYmFydS1jYWNhci1tb255ZXQ=",
+        "description": " Pemerintah mengonfirmasi satu kasus impor baru terkait pria berkebangsaan India berusia 36 tahun yang tinggal di Singapura dan baru saja kembali dari AS."
+    },
+    {
         "title": "Bye Boris Johnson, Ini Kronologi dan Penyebab PM Inggris Mundur",
         "link": "https://www.cnbcindonesia.com/news/20220708061404-4-353883/bye-boris-johnson-ini-kronologi-penyebab-pm-inggris-mundur",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzIwNTU0My00LTM1Mzg3Mi80LXVwZGF0ZS1wZXJhbmctcnVzaWEtdWtyYWluYS1hZGEta2ViYW5na2l0YW4tcGVtdWRhLXNvdmlldA==",
         "description": " Perang di Ukraina belum usai. Serangan Rusia ke negara itu masih terus dilancarkan."
-    },
-    {
-        "title": "Pimpinan FBI dan MI5 Peringatkan Ancaman Spionase China",
-        "link": "https://www.cnbcindonesia.com/news/20220707164818-8-353815/pimpinan-fbi-mi5-peringatkan-ancaman-spionase-china",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE2NDgxOC04LTM1MzgxNS9waW1waW5hbi1mYmktbWk1LXBlcmluZ2F0a2FuLWFuY2FtYW4tc3Bpb25hc2UtY2hpbmE=",
-        "description": " FBI dan Kepala Dinas Intelijen Domestik Inggris atau MI5 sama-sama memperingatkan ancaman spionase komersial oleh China"
-    },
-    {
-        "title": "Ngeri Covid China 'Meledak' Lagi, Ada Aturan Baru Soal Vaksin",
-        "link": "https://www.cnbcindonesia.com/news/20220707174457-4-353839/ngeri-covid-china-meledak-lagi-ada-aturan-baru-soal-vaksin",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE3NDQ1Ny00LTM1MzgzOS9uZ2VyaS1jb3ZpZC1jaGluYS1tZWxlZGFrLWxhZ2ktYWRhLWF0dXJhbi1iYXJ1LXNvYWwtdmFrc2lu",
-        "description": " Beijing menjadi kota pertama di China mengumumkan mandat vaksin Covid-19 bagi penduduknya."
-    },
-    {
-        "title": "Defisit Perdagangan AS Menyempit, Ada Harapan Ekonomi Membaik",
-        "link": "https://www.cnbcindonesia.com/news/20220707203628-4-353871/defisit-perdagangan-as-menyempit-ada-harapan-ekonomi-membaik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzIwMzYyOC00LTM1Mzg3MS9kZWZpc2l0LXBlcmRhZ2FuZ2FuLWFzLW1lbnllbXBpdC1hZGEtaGFyYXBhbi1la29ub21pLW1lbWJhaWs=",
-        "description": " Defisit perdagangan Amerika Serikat (AS) menyempit pada Mei 2022."
-    },
-    {
-        "title": "Menkeu : Masyarakat Semakin Sulit Untuk Mendapatkan Rumah",
-        "link": "https://www.cnbcindonesia.com/news/20220707164802-8-353813/menkeu-masyarakat-semakin-sulit-untuk-mendapatkan-rumah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzE2NDgwMi04LTM1MzgxMy9tZW5rZXUtbWFzeWFyYWthdC1zZW1ha2luLXN1bGl0LXVudHVrLW1lbmRhcGF0a2FuLXJ1bWFo",
-        "description": " Sri Mulyani Indrawati menyebut masyarakat Indonesia terancam makin sulit mendapatkan rumah"
     }
 ]
