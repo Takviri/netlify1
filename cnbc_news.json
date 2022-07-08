@@ -1,5 +1,47 @@
 [
     {
+        "title": "Virus Mengerikan 'Marburg' Makan Dua Korban di Ghana",
+        "link": "https://www.cnbcindonesia.com/news/20220708192619-4-354182/virus-mengerikan-marburg-makan-dua-korban-di-ghana",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODE5MjYxOS00LTM1NDE4Mi92aXJ1cy1tZW5nZXJpa2FuLW1hcmJ1cmctbWFrYW4tZHVhLWtvcmJhbi1kaS1naGFuYQ==",
+        "description": " WHO mencatat ada dua orang di Ghana, Afrika yang meninggal karena terserang virus marburg"
+    },
+    {
+        "title": "Menteri Basuki Blak-blakan Faktor Atasi Krisis Pangan",
+        "link": "https://www.cnbcindonesia.com/news/20220708191644-4-354180/menteri-basuki-blak-blakan-faktor-atasi-krisis-pangan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODE5MTY0NC00LTM1NDE4MC9tZW50ZXJpLWJhc3VraS1ibGFrLWJsYWthbi1mYWt0b3ItYXRhc2kta3Jpc2lzLXBhbmdhbg==",
+        "description": " Menteri Pekerjaan Umum dan Perumahan Rakyat (PUPR) Basuki Hadimuljono mengungkapkan salah satu faktor krusial dalam mengatasi krisis pangan."
+    },
+    {
+        "title": "Mantap, Implementasi ESG Pertamina Diakui Secara Global",
+        "link": "https://www.cnbcindonesia.com/news/20220708195455-4-354189/mantap-implementasi-esg-pertamina-diakui-secara-global",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODE5NTQ1NS00LTM1NDE4OS9tYW50YXAtaW1wbGVtZW50YXNpLWVzZy1wZXJ0YW1pbmEtZGlha3VpLXNlY2FyYS1nbG9iYWw=",
+        "description": " Beberapa hal yang sudah dilakukan Pertamina antara lain berkontribusi dalam penurunan emisi karbon, menjaga keberagaman Hayati hingga penerapan GCG."
+    },
+    {
+        "title": "Waspada! Harga Terigu Mie Instan Naik",
+        "link": "https://www.cnbcindonesia.com/news/20220708192728-8-354183/waspada-harga-terigu-mie-instan-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODE5MjcyOC04LTM1NDE4My93YXNwYWRhLWhhcmdhLXRlcmlndS1taWUtaW5zdGFuLW5haWs=",
+        "description": " Perang Rusia-Ukraina telah membuat produksi dan distribusi berbagai komoditas terganggu salah satunya adalah komoditas gandum"
+    },
+    {
+        "title": "Penjualan Rumah Mewah Terseok-seok, Gak ada yang Minat?",
+        "link": "https://www.cnbcindonesia.com/news/20220708191059-4-354179/penjualan-rumah-mewah-terseok-seok-gak-ada-yang-minat",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODE5MTA1OS00LTM1NDE3OS9wZW5qdWFsYW4tcnVtYWgtbWV3YWgtdGVyc2Vvay1zZW9rLWdhay1hZGEteWFuZy1taW5hdA==",
+        "description": " Colliers Indonesia mencatat banyak perumahan elit yang sedang dijual"
+    },
+    {
+        "title": "Potret Boris Johnson dan Gonjang-ganjing Pemerintahan Inggris",
+        "link": "https://www.cnbcindonesia.com/news/20220708140022-7-354055/potret-boris-johnson-gonjang-ganjing-pemerintahan-inggris",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODE0MDAyMi03LTM1NDA1NS9wb3RyZXQtYm9yaXMtam9obnNvbi1nb25qYW5nLWdhbmppbmctcGVtZXJpbnRhaGFuLWluZ2dyaXM=",
+        "description": " Pemerintahan Inggris goyang. Bahkan Boris Johnson akhirnya setuju untuk mundur dari jabatannya sebagai Perdana Menteri Inggris."
+    },
+    {
         "title": "Raisa Jangan Kaget, Harga BBM Shell Naik Lagi Rp18.990/Liter",
         "link": "https://www.cnbcindonesia.com/news/20220708185122-4-354178/raisa-jangan-kaget-harga-bbm-shell-naik-lagi-rp18990-liter",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODE4MjUwNi00LTM1NDE3My90YXJnZXQtbGlmdGluZy1taW55YWstcmktMjAyMi1hbWJsZXMtamFkaS02NDAtcmlidS1iYXJlbC1oYXJp",
         "description": " SKK Migas mencatat target lifting minyak Indonesia pada tahun 2022 ini hanya mampu mengejar 640 ribu barel per hari"
-    },
-    {
-        "title": "Shinzo Abe Meninggal, Chairul Tanjung: Saya Merasa Kehilangan",
-        "link": "https://www.cnbcindonesia.com/news/20220708193007-4-354185/shinzo-abe-meninggal-chairul-tanjung-saya-merasa-kehilangan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODE5MzAwNy00LTM1NDE4NS9zaGluem8tYWJlLW1lbmluZ2dhbC1jaGFpcnVsLXRhbmp1bmctc2F5YS1tZXJhc2Eta2VoaWxhbmdhbg==",
-        "description": " Chairman CT Corp Chairul Tanjung mengungkapkan rasa duka atas meninggalnya Shinzo Abe."
-    },
-    {
-        "title": "Shinzo Abe Meninggal, Putin dan Para Pemimpin Dunia Berduka",
-        "link": "https://www.cnbcindonesia.com/news/20220708184002-4-354175/shinzo-abe-meninggal-putin-dan-para-pemimpin-dunia-berduka",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODE4NDAwMi00LTM1NDE3NS9zaGluem8tYWJlLW1lbmluZ2dhbC1wdXRpbi1kYW4tcGFyYS1wZW1pbXBpbi1kdW5pYS1iZXJkdWth",
-        "description": " Kabar meninggalnya mantan Perdana Menteri (PM) Jepang Shinzo Abe menuai respons dari berbagai kalangan, tidak terkecuali para pemimpin negara lain."
-    },
-    {
-        "title": "Lifting Minyak Semakin Mini, Bagaimana Prospek Hulu Migas RI?",
-        "link": "https://www.cnbcindonesia.com/news/20220708175709-4-354167/lifting-minyak-semakin-mini-bagaimana-prospek-hulu-migas-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODE3NTcwOS00LTM1NDE2Ny9saWZ0aW5nLW1pbnlhay1zZW1ha2luLW1pbmktYmFnYWltYW5hLXByb3NwZWstaHVsdS1taWdhcy1yaQ==",
-        "description": " Praktisi Sektor Hulu Migas menilai iklim investasi migas di RI masih kurang menarik bagi investor"
-    },
-    {
-        "title": "Panas! Dicecar soal Ukraina di G20, Menlu Rusia Walk Out",
-        "link": "https://www.cnbcindonesia.com/news/20220708174116-4-354164/panas-dicecar-soal-ukraina-di-g20-menlu-rusia-walk-out",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODE3NDExNi00LTM1NDE2NC9wYW5hcy1kaWNlY2FyLXNvYWwtdWtyYWluYS1kaS1nMjAtbWVubHUtcnVzaWEtd2Fsay1vdXQ=",
-        "description": " Menteri Luar Negeri (Menlu) Rusia Sergei Lavrov keluar (walk out) saat negara-negara Barat mengkritik Moskow atas serangannya ke Ukraina."
-    },
-    {
-        "title": "Sempat Dilarikan ke Rumah Sakit, Shinzo Abe Meninggal Dunia",
-        "link": "https://www.cnbcindonesia.com/news/20220708161838-8-354126/sempat-dilarikan-ke-rumah-sakit-shinzo-abe-meninggal-dunia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODE2MTgzOC04LTM1NDEyNi9zZW1wYXQtZGlsYXJpa2FuLWtlLXJ1bWFoLXNha2l0LXNoaW56by1hYmUtbWVuaW5nZ2FsLWR1bmlh",
-        "description": " Mantan Perdana Menteri Jepang, Shinzo Abe dilaporkan meninggal dunia"
-    },
-    {
-        "title": "Alert! Lifting Minyak Mentah RI Semakin Susut",
-        "link": "https://www.cnbcindonesia.com/news/20220708181324-4-354171/alert-lifting-minyak-mentah-ri-semakin-susut",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODE4MTMyNC00LTM1NDE3MS9hbGVydC1saWZ0aW5nLW1pbnlhay1tZW50YWgtcmktc2VtYWtpbi1zdXN1dA==",
-        "description": " SKK Migas mencatat tahun ini lifting minyak mentah Indonesia hanya bisa mencapai 640.000 barel per hari di bawah target 703.000 barel/hari"
     }
 ]
