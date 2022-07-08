@@ -1,5 +1,19 @@
 [
     {
+        "title": "Harga Kripto Menghijau Dipimpin Bitcoin",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220708093341-92-818833/harga-kripto-menghijau-dipimpin-bitcoin",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA4MDkzMzQxLTkyLTgxODgzMy9oYXJnYS1rcmlwdG8tbWVuZ2hpamF1LWRpcGltcGluLWJpdGNvaW4=",
+        "description": " Mayoritas harga kripto menghijau pada Jumat (8/7) pagi, dipimpin bitcoin\u00c2\u00a0 yang naik ke ke level US$22.227 atau Rp332,6 juta. Berikut rinciannya."
+    },
+    {
+        "title": "Harga Emas Antam Mogok di Rp969 Ribu",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220708083629-92-818813/harga-emas-antam-mogok-di-rp969-ribu",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA4MDgzNjI5LTkyLTgxODgxMy9oYXJnYS1lbWFzLWFudGFtLW1vZ29rLWRpLXJwOTY5LXJpYnU=",
+        "description": " Harga emas Antam bertengger di level Rp969 ribu per gram pada Jumat (8/7). Harga emas tercatat stagnan pada perdagangan sebelumnya."
+    },
+    {
         "title": "Rupiah Kembali Berbalik Menguat ke Bawah Level Rp15 Ribu",
         "link": "https://www.cnnindonesia.com/ekonomi/20220708085434-78-818817/rupiah-kembali-berbalik-menguat-ke-bawah-level-rp15-ribu",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA3MTQzNTE3LTkyLTgxODU1MC9wZWRhZ2FuZy1yYWd1LW1pbnlha2l0YS1zYW1wYWkta2UtcGFzYXItcnAxNC1yaWJ1",
         "description": " Pedagang pasar ragu MinyaKita bisa sampai tersebar dengan harga Rp14 ribu per liter karena rantai distribusi masih rumit."
-    },
-    {
-        "title": "IHSG Berpotensi Berotot di Akhir Pekan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220708043230-92-818766/ihsg-berpotensi-berotot-di-akhir-pekan",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA4MDQzMjMwLTkyLTgxODc2Ni9paHNnLWJlcnBvdGVuc2ktYmVyb3RvdC1kaS1ha2hpci1wZWthbg==",
-        "description": " Indeks Harga Saham Gabungan (IHSG) berpeluang menguat pada perdagangan Jumat (8/7)."
-    },
-    {
-        "title": "Sampoerna Bermitra dengan Petani Tembakau, Pemerintah Minta Transparan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220707190516-92-818707/sampoerna-bermitra-dengan-petani-tembakau-pemerintah-minta-transparan",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA3MTkwNTE2LTkyLTgxODcwNy9zYW1wb2VybmEtYmVybWl0cmEtZGVuZ2FuLXBldGFuaS10ZW1iYWthdS1wZW1lcmludGFoLW1pbnRhLXRyYW5zcGFyYW4=",
-        "description": " HM Sampoerna bermitra dengan 21 ribu petani untuk menyerap hasil panen tembakau."
     }
 ]
