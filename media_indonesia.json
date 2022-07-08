@@ -1,5 +1,19 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/505439/lolos-ke-final-djokovic-incar-gelar-keempat-beruntun-di-wimbledon",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU0MzkvbG9sb3Mta2UtZmluYWwtZGpva292aWMtaW5jYXItZ2VsYXIta2VlbXBhdC1iZXJ1bnR1bi1kaS13aW1ibGVkb24=",
+        "description": "NOVAK Djokovic lolos ke final tunggal putra grand slam Wimbledon setelah mengalahkan petenis Inggris, Cameron Norrie di semifinal, Jumat (8/7). Kalah di set pertama, petenis Serbia itu mampu bangkit&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/505434/kenali-pemahaman-healing-yang-tepat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDU0MzQva2VuYWxpLXBlbWFoYW1hbi1oZWFsaW5nLXlhbmctdGVwYXQ=",
+        "description": "DAMPAK perubahan dari situasi kehidupan pada masa pandemi dua tahun belakangan ini memberikan banyak sekali pengaruh bagi kehidupan setiap orang. Hal tersebut dapat dilihat dari perubahan dari konstruk&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/505433/dorong-pengelolaan-dana-desa-lebih-baik",
         "image": "static/images/media_indonesia.png",
@@ -43,9 +57,9 @@
     },
     {
         "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/505426/kemenparekraf-dukung-ayoternakid-terus-berkembang-hingga-jadi-unicoorn",
+        "link": "https://m.mediaindonesia.com/teknologi/505426/kemenparekraf-dukung-ayoternakid-terus-berkembang-hingga-jadi-unicorn",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1NDI2L2tlbWVucGFyZWtyYWYtZHVrdW5nLWF5b3Rlcm5ha2lkLXRlcnVzLWJlcmtlbWJhbmctaGluZ2dhLWphZGktdW5pY29vcm4=",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1NDI2L2tlbWVucGFyZWtyYWYtZHVrdW5nLWF5b3Rlcm5ha2lkLXRlcnVzLWJlcmtlbWJhbmctaGluZ2dhLWphZGktdW5pY29ybg==",
         "description": "PERKEMBANGAN teknologi dan transformasi digital memberikan kemudahan bagi setiap orang untuk berkomunikasi dan berinteraksi. Hal ini yang kemudian coba dimanfaatkan oleh pemerintah melalui Kementerian&#8230;"
     },
     {
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTQyNS9rZXBlcmNheWFhbi1rb25zdW1lbi1zdGFiaWwtc2VwYW5qYW5nLTIwMjI=",
         "description": "INDEKS Keyakinan Konsumen (IKK) Indonesia pada Juni 2022 mengindikasikan optimisme pada kondisi ekonomi tetap kuat. Hal ini terlihat dari survei konsumen yang dilakukan Bank Indonesia, di mana IKK&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/505424/piala-aff-libas-filipina-timnas-jaga-asa-ke-semifinal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTQyNC9waWFsYS1hZmYtbGliYXMtZmlsaXBpbmEtdGltbmFzLWphZ2EtYXNhLWtlLXNlbWlmaW5hbA==",
-        "description": "TAMBAHAN tiga poin di laga keempat membuat timnas U-19 menjaga peluang untuk lolos ke semifinal Piala AFF U-19 2022. Melawan Filipina di Stadion Patriot Candrabhaga, Bekasi, Jawa Barat, Jumat (8/7)&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505423/aturan-tarif-baru-diharapkan-genjot-kinerja-lelang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTQyMy9hdHVyYW4tdGFyaWYtYmFydS1kaWhhcmFwa2FuLWdlbmpvdC1raW5lcmphLWxlbGFuZw==",
-        "description": "PEMERINTAH berharap ada kenaikan signifikan pencapaian lelang tahun ini. Sebab, pengambil kebijakan telah menerbitkan peraturan baru yang diharapkan mampu mendongkrak kinerja lelang negara. Beleid&#8230;"
     }
 ]
