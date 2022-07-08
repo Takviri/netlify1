@@ -1,5 +1,47 @@
 [
     {
+        "title": "Haji Jadi Sumber Kekayaan Tak Terbatas Arab Saudi",
+        "link": "https://www.cnbcindonesia.com/news/20220708141550-8-354054/haji-jadi-sumber-kekayaan-tak-terbatas-arab-saudi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODE0MTU1MC04LTM1NDA1NC9oYWppLWphZGktc3VtYmVyLWtla2F5YWFuLXRhay10ZXJiYXRhcy1hcmFiLXNhdWRp",
+        "description": " Arab Saudi memulai proyek ambisius untuk mendiversifikasi sumber pendapatan di masa depan pascaminyak"
+    },
+    {
+        "title": "Jokowi Tak Main-main Soal Krisis Pangan, Ini Buktinya!",
+        "link": "https://www.cnbcindonesia.com/news/20220708133615-4-354042/jokowi-tak-main-main-soal-krisis-pangan-ini-buktinya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODEzMzYxNS00LTM1NDA0Mi9qb2tvd2ktdGFrLW1haW4tbWFpbi1zb2FsLWtyaXNpcy1wYW5nYW4taW5pLWJ1a3Rpbnlh",
+        "description": " Pandemi Covid-19 dan perang Rusia-Ukraina mengakibatkan jutaan warga dunia terdampak kelaparan."
+    },
+    {
+        "title": "HM Sampoerna Permudah Petani Tembakau Jual Hasil Panen",
+        "link": "https://www.cnbcindonesia.com/news/20220708144841-4-354085/hm-sampoerna-permudah-petani-tembakau-jual-hasil-panen",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODE0NDg0MS00LTM1NDA4NS9obS1zYW1wb2VybmEtcGVybXVkYWgtcGV0YW5pLXRlbWJha2F1LWp1YWwtaGFzaWwtcGFuZW4=",
+        "description": " Pelaksanaan program kemitraan diwujudkan melalui pendampingan, bimbingan teknis, akses mudah terhadap permodalan hingga jaminan pembelian tembakau."
+    },
+    {
+        "title": "Pemerintah Blak-blakan Soal Tantangan RI Kembangkan EBT",
+        "link": "https://www.cnbcindonesia.com/news/20220708144156-4-354082/pemerintah-blak-blakan-soal-tantangan-ri-kembangkan-ebt",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODE0NDE1Ni00LTM1NDA4Mi9wZW1lcmludGFoLWJsYWstYmxha2FuLXNvYWwtdGFudGFuZ2FuLXJpLWtlbWJhbmdrYW4tZWJ0",
+        "description": " Di tengah pengembangan pembangkit EBT, RI sedang dihadapi dengan over suplai listrik"
+    },
+    {
+        "title": "Menlu Biden dan Menlu Putin Hadiri G20, Mau Ketemu 4 Mata?",
+        "link": "https://www.cnbcindonesia.com/news/20220708134109-8-354040/menlu-biden-menlu-putin-hadiri-g20-mau-ketemu-4-mata",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODEzNDEwOS04LTM1NDA0MC9tZW5sdS1iaWRlbi1tZW5sdS1wdXRpbi1oYWRpcmktZzIwLW1hdS1rZXRlbXUtNC1tYXRh",
+        "description": " Antoy Blinken dan Sergei Lavrov akan bertemu di Bali"
+    },
+    {
+        "title": "Kuota Pertalite Terancam Habis, Banggar DPR Tolak Penambahan!",
+        "link": "https://www.cnbcindonesia.com/news/20220708143219-4-354072/kuota-pertalite-terancam-habis-banggar-dpr-tolak-penambahan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODE0MzIxOS00LTM1NDA3Mi9rdW90YS1wZXJ0YWxpdGUtdGVyYW5jYW0taGFiaXMtYmFuZ2dhci1kcHItdG9sYWstcGVuYW1iYWhhbg==",
+        "description": " BPH Migas sebelumnya mencatat kuota Pertalite dan Solar Subsidi bisa habis sebelum akhir tahun"
+    },
+    {
         "title": "MIND ID: Raja Mineral Andalan Program Dekarbonisasi RI",
         "link": "https://www.cnbcindonesia.com/news/20220708130321-4-354034/mind-id-raja-mineral-andalan-program-dekarbonisasi-ri",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODEzMzYzNy00LTM1NDAzNi9yaS1rZXJlay1zdWJzaWRpLWVuZXJnaS13YW1lbmtldS1pbmktYmVudHVrLXN1cnZpdmFsLWtpdGE=",
         "description": " Simak penjelasan Wakil Menteri Keuangan Suahasil Nazara."
-    },
-    {
-        "title": "Harga Sepeda Lipat Jatuh, Cek Harga Brompton di Sini",
-        "link": "https://www.cnbcindonesia.com/news/20220708133349-4-354035/harga-sepeda-lipat-jatuh-cek-harga-brompton-di-sini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODEzMzM0OS00LTM1NDAzNS9oYXJnYS1zZXBlZGEtbGlwYXQtamF0dWgtY2VrLWhhcmdhLWJyb21wdG9uLWRpLXNpbmk=",
-        "description": " Harga Brompton di Indonesia sempat mencapai titik tertinggi kala trennya sedang tidak normal."
-    },
-    {
-        "title": "Bayar Gaji ke-13 PNS, Sri Mulyani Sudah Cairkan Rp27,4 T",
-        "link": "https://www.cnbcindonesia.com/news/20220708133013-4-354031/bayar-gaji-ke-13-pns-sri-mulyani-sudah-cairkan-rp274-t",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODEzMzAxMy00LTM1NDAzMS9iYXlhci1nYWppLWtlLTEzLXBucy1zcmktbXVseWFuaS1zdWRhaC1jYWlya2FuLXJwMjc0LXQ=",
-        "description": " Pembayaran anggaran sebesar Rp 27,4 triliun tersebut dibayarkan kepada 6.943.885 ASN dan pensiunan."
-    },
-    {
-        "title": "Shinzo Abe Ditembak, Ini Respons Menlu RI hingga Gedung Putih",
-        "link": "https://www.cnbcindonesia.com/news/20220708131849-4-354028/shinzo-abe-ditembak-ini-respons-menlu-ri-hingga-gedung-putih",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODEzMTg0OS00LTM1NDAyOC9zaGluem8tYWJlLWRpdGVtYmFrLWluaS1yZXNwb25zLW1lbmx1LXJpLWhpbmdnYS1nZWR1bmctcHV0aWg=",
-        "description": " Ini reaksi berbagai pihak atas insiden penembakan mantan Perdana Menteri Jepang, Shinzo Abe."
-    },
-    {
-        "title": "Mengenal Chris Pincher, Buat Inggris Heboh sampai PM Mundur",
-        "link": "https://www.cnbcindonesia.com/news/20220708133531-4-354033/mengenal-chris-pincher-buat-inggris-heboh-sampai-pm-mundur",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODEzMzUzMS00LTM1NDAzMy9tZW5nZW5hbC1jaHJpcy1waW5jaGVyLWJ1YXQtaW5nZ3Jpcy1oZWJvaC1zYW1wYWktcG0tbXVuZHVy",
-        "description": " Ini sosok Chris Pincher yang membuat heboh dengan skandalnya di pemerintahan Inggris dan membuat PM Boris Johnson sepakat mundur."
-    },
-    {
-        "title": "Perpres Tarif EBT di Depan Mata, Semua Menteri Sudah Teken",
-        "link": "https://www.cnbcindonesia.com/news/20220708131828-4-354029/perpres-tarif-ebt-di-depan-mata-semua-menteri-sudah-teken",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODEzMTgyOC00LTM1NDAyOS9wZXJwcmVzLXRhcmlmLWVidC1kaS1kZXBhbi1tYXRhLXNlbXVhLW1lbnRlcmktc3VkYWgtdGVrZW4=",
-        "description": " Kementerian ESDM menyebutkan Perpres tarif EBT sudah hampir final"
-    },
-    {
-        "title": "Campuran Minyak Sawit 35% ke BBM (B35) Siap Jalan Akhir Juli",
-        "link": "https://www.cnbcindonesia.com/news/20220708132837-4-354032/campuran-minyak-sawit-35-ke-bbm--b35--siap-jalan-akhir-juli",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODEzMjgzNy00LTM1NDAzMi9jYW1wdXJhbi1taW55YWstc2F3aXQtMzUta2UtYmJtLS1iMzUtLXNpYXAtamFsYW4tYWtoaXItanVsaQ==",
-        "description": " Pemerintah mempercepat penerapan biodiesel campuran minyak sawit 35% atau B35 pada akhir Juli 2022."
     }
 ]
