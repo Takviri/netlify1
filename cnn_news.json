@@ -1,5 +1,12 @@
 [
     {
+        "title": "Polisi Sebut JLS Cilegon Sumbang 40 Persen Kecelakaan",
+        "link": "https://www.cnnindonesia.com/nasional/20220708204009-20-819282/polisi-sebut-jls-cilegon-sumbang-40-persen-kecelakaan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwODIwNDAwOS0yMC04MTkyODIvcG9saXNpLXNlYnV0LWpscy1jaWxlZ29uLXN1bWJhbmctNDAtcGVyc2VuLWtlY2VsYWthYW4=",
+        "description": " Polres Cilegon menyatakan Jalan Lingkar Selatan menyumbang sekitar 40 persen kecelakaan di Kota Baja tersebut."
+    },
+    {
         "title": "Kemenkes Berharap Puncak BA.4 dan BA.5 Tak Capai 20 Ribu Kasus Sehari",
         "link": "https://www.cnnindonesia.com/nasional/20220708145725-12-819062/kemenkes-berharap-puncak-ba4-dan-ba5-tak-capai-20-ribu-kasus-sehari",
         "image": "static/images/cnn_news.png",
@@ -35,10 +42,10 @@
         "description": " Kejaksaan menyatakan berkas perkara kasus dugaan penipuan investasi aplikasi Evotrade dengan tersangka Anang Diantoko telah lengkap atau P21."
     },
     {
-        "title": "3 Pengunjung Karaoke Tewas, Ayu Ting Ting Dipolisikan",
-        "link": "https://www.cnnindonesia.com/nasional/20220708200243-12-819264/3-pengunjung-karaoke-tewas-ayu-ting-ting-dipolisikan",
+        "title": "3 Orang Tewas di Karaoke, Ayu Ting Ting Dipolisikan",
+        "link": "https://www.cnnindonesia.com/nasional/20220708200243-12-819264/3-orang-tewas-di-karaoke-ayu-ting-ting-dipolisikan",
         "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwODIwMDI0My0xMi04MTkyNjQvMy1wZW5ndW5qdW5nLWthcmFva2UtdGV3YXMtYXl1LXRpbmctdGluZy1kaXBvbGlzaWthbg==",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwODIwMDI0My0xMi04MTkyNjQvMy1vcmFuZy10ZXdhcy1kaS1rYXJhb2tlLWF5dS10aW5nLXRpbmctZGlwb2xpc2lrYW4=",
         "description": " Kuasa hukum keluarga korban SA, Reno Ardiansyah mengatakan Ayu Ting Ting dilaporkan atas tuduhan tindakan kelalaian, sehingga menyebabkan tiga orang tewas."
     },
     {
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwODE5NDc1Ni0xMi04MTkyNTYvZmlybGktYmFodXJpLWxhbnRpay1qZW5kZXJhbC1wb2xpc2ktamFkaS1kZXB1dGkta29yc3VwLWtwaw==",
         "description": " Ketua KPK Firli Bahuri melantik Deputi Pendidikan dan Peran Serta Masyarakat Wawan Wardiana dan Deputi Bidang Koordinasi dan Supervisi Didik Agung Widjanarko."
-    },
-    {
-        "title": "Daftar Lokasi Salat Iduladha Muhammadiyah di Makassar",
-        "link": "https://www.cnnindonesia.com/nasional/20220708192832-20-819246/daftar-lokasi-salat-iduladha-muhammadiyah-di-makassar",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcwODE5MjgzMi0yMC04MTkyNDYvZGFmdGFyLWxva2FzaS1zYWxhdC1pZHVsYWRoYS1tdWhhbW1hZGl5YWgtZGktbWFrYXNzYXI=",
-        "description": " Muhammadiyah menggelar Salat Iduladha, Sabtu (9/7).\u00c2\u00a0Berikut daftar lengkap lokasi pelaksanaan Salat Iduladha yang digelar Muhammadiyah Kota Makassar."
     }
 ]
