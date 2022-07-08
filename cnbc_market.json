@@ -1,5 +1,26 @@
 [
     {
+        "title": "Bukan Cuma Kota Pelajar, Emiten di Yogyakarta Juga Tersebar",
+        "link": "https://www.cnbcindonesia.com/market/20220708073018-17-353894/bukan-cuma-kota-pelajar-emiten-di-yogyakarta-juga-tersebar",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA4MDczMDE4LTE3LTM1Mzg5NC9idWthbi1jdW1hLWtvdGEtcGVsYWphci1lbWl0ZW4tZGkteW9neWFrYXJ0YS1qdWdhLXRlcnNlYmFy",
+        "description": " Saat ini, setidaknya terdapat lima emiten asal Yogyakarta dan bergerak di lintas sektor."
+    },
+    {
+        "title": "Ini Bursa Saham Juara Dunia! Kebal Krisis Ekonomi dan Inflasi",
+        "link": "https://www.cnbcindonesia.com/market/20220708011008-17-353881/ini-bursa-saham-juara-dunia-kebal-krisis-ekonomi-inflasi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA4MDExMDA4LTE3LTM1Mzg4MS9pbmktYnVyc2Etc2FoYW0tanVhcmEtZHVuaWEta2ViYWwta3Jpc2lzLWVrb25vbWktaW5mbGFzaQ==",
+        "description": " Indeks saham acuan Turki BIST100 tercatat melesat 30,1% sepanjang tahun ini dan menjadi indeks saham dengan kinerja terbaik di dunia."
+    },
+    {
+        "title": "Siapa Budi Said 'Crazy Rich' Surabaya Beli Emas Antam 7 Ton?",
+        "link": "https://www.cnbcindonesia.com/market/20220708072129-17-353899/siapa-budi-said-crazy-rich-surabaya-beli-emas-antam-7-ton",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA4MDcyMTI5LTE3LTM1Mzg5OS9zaWFwYS1idWRpLXNhaWQtY3JhenktcmljaC1zdXJhYmF5YS1iZWxpLWVtYXMtYW50YW0tNy10b24=",
+        "description": " Pasalnya jumlah emas yang dibeli Budi dari Antam cukup besar, sebanyak 7 ton atau nyaris senilai Rp 6,5 triliun."
+    },
+    {
         "title": "Ada BRPT di Top Gainers, NANO Betah di Top Losers",
         "link": "https://www.cnbcindonesia.com/market/20220707215229-17-353876/ada-brpt-di-top-gainers-nano-betah-di-top-losers",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTkwMzAyLTE3LTM1Mzg2MC9iYW5rLW5lby1wcm95ZWtzaWthbi1zZW1lc3Rlci1pLW1hc2loLXJ1Z2ktcnAtNjA2LW0=",
         "description": " Sedangkan pada semester 1 (diperkirakan) membukukan loss Rp 606 miliar"
-    },
-    {
-        "title": "Produksi Naik, Penjualan Baja KRAS Tembus 1 Juta Ton",
-        "link": "https://www.cnbcindonesia.com/market/20220707172619-17-353825/produksi-naik-penjualan-baja-kras-tembus-1-juta-ton",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTcyNjE5LTE3LTM1MzgyNS9wcm9kdWtzaS1uYWlrLXBlbmp1YWxhbi1iYWphLWtyYXMtdGVtYnVzLTEtanV0YS10b24=",
-        "description": " PT Krakatau Steel (Persero) Tbk (KRAS) terus meningkatkan produktivitasnya di Semester I-2022, dan tercermin dari peningkatan volume penjualan dan produksi."
-    },
-    {
-        "title": "Yield Treasury AS Menguat, Eh Yield SBN Ikutan Juga",
-        "link": "https://www.cnbcindonesia.com/market/20220707180835-17-353844/yield-treasury-as-menguat-eh-yield-sbn-ikutan-juga",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTgwODM1LTE3LTM1Mzg0NC95aWVsZC10cmVhc3VyeS1hcy1tZW5ndWF0LWVoLXlpZWxkLXNibi1pa3V0YW4tanVnYQ==",
-        "description": " Harga mayoritas Surat Berharga Negara (SBN) ditutup melemah pada perdagangan Kamis (7/7/2022), di tengah terjadinya inversi yield obligasi pemerintah AS"
-    },
-    {
-        "title": "Dow Futures Menguat, Pertanda Kebangkitan Wall Street?",
-        "link": "https://www.cnbcindonesia.com/market/20220707173236-17-353827/dow-futures-menguat-pertanda-kebangkitan-wall-street",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA3MTczMjM2LTE3LTM1MzgyNy9kb3ctZnV0dXJlcy1tZW5ndWF0LXBlcnRhbmRhLWtlYmFuZ2tpdGFuLXdhbGwtc3RyZWV0",
-        "description": " Kontrak berjangka (futures) indeks bursa AS bergerak menguat pada perdagangan hari ini, berusaha untuk keluar dari bear market."
     }
 ]
