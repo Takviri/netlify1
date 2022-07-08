@@ -1,5 +1,33 @@
 [
     {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/505272/mengenal-perilaku-konsumen-melalui-data-digital-marketing",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1MjcyL21lbmdlbmFsLXBlcmlsYWt1LWtvbnN1bWVuLW1lbGFsdWktZGF0YS1kaWdpdGFsLW1hcmtldGluZw==",
+        "description": "DALAM dunia bisnis, penggunaan internet telah bergeser fungsinya dari media untuk bersosialisasi menjadi media untuk strategi bisnis mulai dari promosi, pemasaran hingga penjualan dan pelayanan pelanggan.&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505271/ngopi-bareng-labrak-squads-di-jambuluwuk-convention-hall-resort-puncak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1MjcxL25nb3BpLWJhcmVuZy1sYWJyYWstc3F1YWRzLWRpLWphbWJ1bHV3dWstY29udmVudGlvbi1oYWxsLXJlc29ydC1wdW5jYWs=",
+        "description": "MENGHADAPI beban kehidupan sehari-hari memang perlu triknya tersendiri untuk bisa healing. Walaupun hanya sesaat, rasanya luar biasa kalau bisa lari dari aktivitas yang bikin bosan selama&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/505270/alami-cedera-otot-perut-nadal-gagal-akhiri-puasa-gelar-di-wimbledon",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDUyNzAvYWxhbWktY2VkZXJhLW90b3QtcGVydXQtbmFkYWwtZ2FnYWwtYWtoaXJpLXB1YXNhLWdlbGFyLWRpLXdpbWJsZWRvbg==",
+        "description": "Mimpi petenis Spanyol Rafael Nadal untuk mengakhiri puasa gelar sejak 2010 di grand slam Wimbledon harus berakhir. Cedera otot perut yang di alami petenis unggulan kedua itu pada pertandingan perempat&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/505269/wahana-air-rooptop-pertama-di-bekasi-hadir-di-grand-metropolitan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDUyNjkvd2FoYW5hLWFpci1yb29wdG9wLXBlcnRhbWEtZGktYmVrYXNpLWhhZGlyLWRpLWdyYW5kLW1ldHJvcG9saXRhbg==",
+        "description": "GRAND&nbsp;Metropolitan menghadirkan wahana permainan air anak yaitu Waterplay. Fasilitas tambahan yang berada di atap gedung parkir (rooftop) lantai 9 dengan ketinggian kurang lebih&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/505268/panitia-penyelenggara-pastikan-persiapan-isg-2022-berjalan-lancar",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTI2My9lcndpbi1ndXRhd2EtcmlsaXMtdWxhbmctbGFndS1zZXB1dGloLWthc2loLWRhbGFtLXZlcnN0aS1uZnQ=",
         "description": "KOMPONIS Erwin Gutawa merilis kembali lagu Seputih Kasih, yang digubah menjadi versi orkestra instrumental dalam medium Non-Fungible Token (NFT) bekerja sama&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505262/inggris-dukung-indonesia-kembangkan-energi-hijau",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTI2Mi9pbmdncmlzLWR1a3VuZy1pbmRvbmVzaWEta2VtYmFuZ2thbi1lbmVyZ2ktaGlqYXU=",
-        "description": "Menteri Luar Negeri (Menlu) Inggris Elizabeth Truss menyampaikan negaranya mendukung Indonesia untuk mengembangkan energi terbarukan. Inggris dan Indonesia berkomitmen menyemai perdamaian di Ukraina.&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/505256/anya-geraldine-dan-jolene-marie-berebut-omar-daniel-di-serial-the-sexy-doctor-is-mine",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTI1Ni9hbnlhLWdlcmFsZGluZS1kYW4tam9sZW5lLW1hcmllLWJlcmVidXQtb21hci1kYW5pZWwtZGktc2VyaWFsLXRoZS1zZXh5LWRvY3Rvci1pcy1taW5l",
-        "description": "ANYA Geraldine akan berseteru dengan Jolene Marie memperebutkan Omar Daniel dalam proyek baru berjudul The Sexy Doctor is Mine yang&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/505261/rawan-terjadi-pelecehan-seksual-wagub-minta-masyarakat-waspada-saat-naik-angkot",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDUyNjEvcmF3YW4tdGVyamFkaS1wZWxlY2VoYW4tc2Vrc3VhbC13YWd1Yi1taW50YS1tYXN5YXJha2F0LXdhc3BhZGEtc2FhdC1uYWlrLWFuZ2tvdA==",
-        "description": "WAKIL Gubernur (Wagub) DKI Jakarta Ahmad Riza Patria (Ariza) meminta warga ibu kota waspada ketika berada di transportasi umum yang berdesak-desakan, terutama angkutan umum (angkot). Pasalnya, kondisi&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505260/lpsk-korban-pencabulan-anak-kiai-di-jombang-dibujuk-tidak-lanjutkan-proses-hukum",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDUyNjAvbHBzay1rb3JiYW4tcGVuY2FidWxhbi1hbmFrLWtpYWktZGktam9tYmFuZy1kaWJ1anVrLXRpZGFrLWxhbmp1dGthbi1wcm9zZXMtaHVrdW0=",
-        "description": "WAKIL Ketua Lembaga Perlindungan Saksi dan Korban (LPSK) Antonius PS Wibowo mengatakan para korban dari tersangka kasus pencabulan&#8230;"
     }
 ]

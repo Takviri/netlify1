@@ -1,5 +1,26 @@
 [
     {
+        "title": "China Rawan \"Digembok\" Lagi, Harga Temabaga Anjlok!",
+        "link": "https://www.cnbcindonesia.com/market/20220708130733-17-354024/china-rawan-digembok-lagi-harga-temabaga-anjlok",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA4MTMwNzMzLTE3LTM1NDAyNC9jaGluYS1yYXdhbi1kaWdlbWJvay1sYWdpLWhhcmdhLXRlbWFiYWdhLWFuamxvaw==",
+        "description": " Kekhawatiran lockdown di China menyeret harga tembaga turun."
+    },
+    {
+        "title": "Duh Kacau, Saham INTP Terus Longsor! Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/market/20220708125305-17-354018/duh-kacau-saham-intp-terus-longsor-ada-apa",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA4MTI1MzA1LTE3LTM1NDAxOC9kdWgta2FjYXUtc2FoYW0taW50cC10ZXJ1cy1sb25nc29yLWFkYS1hcGE=",
+        "description": " INTP terus terkoreksi, ada apa ?"
+    },
+    {
+        "title": "Lagi Diskon, Ini Sederet Keuntungan Investasi Emas Antam",
+        "link": "https://www.cnbcindonesia.com/market/20220708120036-17-354003/lagi-diskon-ini-sederet-keuntungan-investasi-emas-antam",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA4MTIwMDM2LTE3LTM1NDAwMy9sYWdpLWRpc2tvbi1pbmktc2VkZXJldC1rZXVudHVuZ2FuLWludmVzdGFzaS1lbWFzLWFudGFt",
+        "description": " Harga emas Antam murah jadi kesempatan investor beli murah untuk investasi"
+    },
+    {
         "title": "Sudah Naik Kencang, IHSG Mau Ambil Pit Stop Dulu di Sesi 2",
         "link": "https://www.cnbcindonesia.com/market/20220708123001-17-354012/sudah-naik-kencang-ihsg-mau-ambil-pit-stop-dulu-di-sesi-2",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA4MTAwMTE3LTE3LTM1Mzk1My9oaW5nZ2EtdGVuZ2FoLWhhcmktamVsYW5nLXdlZWtlbmQtcnVwaWFoLW1hc2loLWt1YXQtbmFuamFr",
         "description": " Kurs rupiah berhasil mempertahankan penguatannya di hadapan dolar AS hingga di pertengahan perdagangan hari ini"
-    },
-    {
-        "title": "Rajin Bawa UMKM Naik Kelas, BRI Sabet 2 Penghargaan",
-        "link": "https://www.cnbcindonesia.com/market/20220708114232-17-353995/rajin-bawa-umkm-naik-kelas-bri-sabet-2-penghargaan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA4MTE0MjMyLTE3LTM1Mzk5NS9yYWppbi1iYXdhLXVta20tbmFpay1rZWxhcy1icmktc2FiZXQtMi1wZW5naGFyZ2Fhbg==",
-        "description": " PT Bank Rakyat Indonesia (Persero) Tbk secara konsisten berupaya membawa pelaku UMKM 'naik kelas' dan meraih dua penghargaan"
-    },
-    {
-        "title": "Kurs Dolar Australia Nanjak Dekati Rp 10.300, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/market/20220708101157-17-353962/kurs-dolar-australia-nanjak-dekati-rp-10300-ada-apa",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA4MTAxMTU3LTE3LTM1Mzk2Mi9rdXJzLWRvbGFyLWF1c3RyYWxpYS1uYW5qYWstZGVrYXRpLXJwLTEwMzAwLWFkYS1hcGE=",
-        "description": " Nilai tukar dolar Australia menguat melawan rupiah pada perdagangan Jumat (8/7/2022)"
-    },
-    {
-        "title": "Happy Weekend! IHSG Rehat di Jalur Hijau",
-        "link": "https://www.cnbcindonesia.com/market/20220708113948-17-353994/happy-weekend-ihsg-rehat-di-jalur-hijau",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA4MTEzOTQ4LTE3LTM1Mzk5NC9oYXBweS13ZWVrZW5kLWloc2ctcmVoYXQtZGktamFsdXItaGlqYXU=",
-        "description": " Indeks Harga Saham Gabungan (IHSG) berakhir menguat 0,82% pada penutupan perdagangan sesi I."
     }
 ]
