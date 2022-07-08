@@ -1,6 +1,13 @@
 [
     {
         "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/505421/makna-dan-tantangan-ruu-kesejahteraan-ibu-dan-anak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDU0MjEvbWFrbmEtZGFuLXRhbnRhbmdhbi1ydXUta2VzZWphaHRlcmFhbi1pYnUtZGFuLWFuYWs=",
+        "description": "&ldquo;IBU memasak di dapur dan ayah membaca koran,&rdquo; merupakan ungkapan yang tampak lumrah. Sepintas, itu hanya sebuah kalimat tanpa makna lain yang perlu didiskusikan lebih lanjut. Pada kenyataannya&#8230;"
+    },
+    {
+        "title": "Opini",
         "link": "https://m.mediaindonesia.com/opini/505429/ulama-sudan-apresiasi-perluasan-waktu-haji-kiai-masdar",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDU0MjkvdWxhbWEtc3VkYW4tYXByZXNpYXNpLXBlcmx1YXNhbi13YWt0dS1oYWppLWtpYWktbWFzZGFy",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDU0MjcvcGVsYWphci1wYW5jYXNpbGE=",
         "description": "PANCASILA, sebagai dasar, falsafah negara sekaligus pandangan hidup (weltanschauung) bangsa Indonesia selama ini terasa kurang 'terbumikan'. Ia seumpama konsep yang bersemayam di atas petala&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/505426/kemenparekraf-dukung-ayoternakid-terus-berkembang-hingga-jadi-unicorn",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1NDI2L2tlbWVucGFyZWtyYWYtZHVrdW5nLWF5b3Rlcm5ha2lkLXRlcnVzLWJlcmtlbWJhbmctaGluZ2dhLWphZGktdW5pY29ybg==",
-        "description": "PERKEMBANGAN teknologi dan transformasi digital memberikan kemudahan bagi setiap orang untuk berkomunikasi dan berinteraksi. Hal ini yang kemudian coba dimanfaatkan oleh pemerintah melalui Kementerian&#8230;"
     }
 ]
