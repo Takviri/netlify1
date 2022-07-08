@@ -7,6 +7,13 @@
         "description": "Boris Johnson mencapai puncak karier politik di Inggris dengan mematahkan praktik-praktik maupun konvensi normal. Namun pada akhirnya 'keberuntungannya' habis dan harus mundur."
     },
     {
+        "title": "Shinzo Abe: Mantan Perdana Menteri Jepang ditembak, pelaku tak melarikan diri dan telah ditangkap",
+        "link": "https://www.bbc.com/indonesia/dunia-62089962",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjIwODk5NjI=",
+        "description": "Shinzo Abe ditembak saat tengah berpidato untuk calon pejabat pemerintahan tingkat lokal."
+    },
+    {
         "title": "Hewan ternak PMK: Merayakan Iduladha di tengah meluasnya virus PMK: 'Ini harusnya panen tetapi kita prihatin'",
         "link": "https://www.bbc.com/indonesia/indonesia-62084385",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWVkaWEtNjIwODI4MDU=",
         "description": "Perdana Menteri Inggris Boris Johnson mengumumkan pengunduran dirinya menyusul gelombang mundurnya para menteri dan eksekutif di kabinetnya terkait cara Johnson menangani kasus pelecehan seksual seorang anggota parlemen."
-    },
-    {
-        "title": "Spesies baru teratai raksasa dengan daun selebar 3 meter ditemukan setelah 177 tahun salah identifikasi",
-        "link": "https://www.bbc.com/indonesia/majalah-62046732",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MjA0NjczMg==",
-        "description": "Para ilmuwan menemukan spesies baru tanaman teratai raksasa dengan lebar daun 3 meter, setelah selama 177 tahun tanaman itu salah diidentifikasi dengan spesies lain."
     }
 ]
