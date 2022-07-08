@@ -1,5 +1,40 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505433/dorong-pengelolaan-dana-desa-lebih-baik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTQzMy9kb3JvbmctcGVuZ2Vsb2xhYW4tZGFuYS1kZXNhLWxlYmloLWJhaWs=",
+        "description": "WAKIL Menteri Keuangan Suahasil Nazara mendorong desa mengelola serta memanfaatkan dana desa dengan baik. Dengen begitu, dana desa diharapkan dapat memberikan manfaat kepada masyarakat pedesaan.&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505432/masa-liburan-kunjungan-wisatawan-di-dataran-tinggi-dieng-meningkat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NDMyL21hc2EtbGlidXJhbi1rdW5qdW5nYW4td2lzYXRhd2FuLWRpLWRhdGFyYW4tdGluZ2dpLWRpZW5nLW1lbmluZ2thdA==",
+        "description": "KAWASAN wisata dataran tinggi Dieng yang berada di perbatasan Wonosobo dan Banjarnegara, Jawa Tengah (Jateng) dIserbu pengunjung. Tidak hanya tempat wisata candi di Kompleks Candi Arjuna saja, melainkan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/505431/persita-masih-buru-pemain-baru",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTQzMS9wZXJzaXRhLW1hc2loLWJ1cnUtcGVtYWluLWJhcnU=",
+        "description": "PERSITA Tangerang masih menunggu kedatangan pemain baru untuk memaksimalkan kekuatan dalam melakoni Liga 1 2022/2023 yang mulai bergulir 23 Juli mendatang. Dengan masih tersisanya satu slot pemain&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/505430/pengadilan-swiss-putuskan-blatter-dan-platini-tidak-bersalah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTQzMC9wZW5nYWRpbGFuLXN3aXNzLXB1dHVza2FuLWJsYXR0ZXItZGFuLXBsYXRpbmktdGlkYWstYmVyc2FsYWg=",
+        "description": "MANTAN Presiden dan Wakil Presiden FIFA, Sepp Blatter dan Michel Platini dinyatakan tidak bersalah atas kasus dugaan korupsi oleh pengadilan Swiss, Jumat (8/7). Keduanya, yang dilarang beraktivitas&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505428/pemkot-tangsel-gencarkan-aksi-penanganan-stunting",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NDI4L3BlbWtvdC10YW5nc2VsLWdlbmNhcmthbi1ha3NpLXBlbmFuZ2FuYW4tc3R1bnRpbmc=",
+        "description": "PEMERINTAH Kota Tangerang Selatan (Tangsel), Banten berkomitmen melakukan berbagai langkah aksi untuk mencegah dan menekan angka stunting. Pencegahan stunting harus dilakukan sejak dini. Hal&#8230;"
+    },
+    {
         "title": "Opini",
         "link": "https://m.mediaindonesia.com/opini/505427/pelajar-pancasila",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTQyMy9hdHVyYW4tdGFyaWYtYmFydS1kaWhhcmFwa2FuLWdlbmpvdC1raW5lcmphLWxlbGFuZw==",
         "description": "PEMERINTAH berharap ada kenaikan signifikan pencapaian lelang tahun ini. Sebab, pengambil kebijakan telah menerbitkan peraturan baru yang diharapkan mampu mendongkrak kinerja lelang negara. Beleid&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/505422/jk-kenang-abe-sebagai-tokoh-asia-sekaligus-sahabat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTQyMi9qay1rZW5hbmctYWJlLXNlYmFnYWktdG9rb2gtYXNpYS1zZWthbGlndXMtc2FoYWJhdA==",
-        "description": "MANTAN Wakil presiden Jusuf Kalla menyampaikan belasungkawa atas wafatnya mantan Perdana Menteri Jepang Shinzo Abe karena ditembak oleh seorang pria saat berkampanye di sekat Stasiun Yamatosaidaiji,&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505420/tekan-penularan-pmk-sumut-distribusikan-11600-dosis-vaksin",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NDIwL3Rla2FuLXBlbnVsYXJhbi1wbWstc3VtdXQtZGlzdHJpYnVzaWthbi0xMTYwMC1kb3Npcy12YWtzaW4=",
-        "description": "PEMPROV Sumatera Utara telah mendistribusikan total 11.600 dosis vaksin penyakit mulut dan kuku (PMK) untuk hewan ternak. Mengingat, belakangan terjadi penularan PMK di sejumlah wilayah. Kepala&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/505418/massa-brmb-desak-aparat-usut-tuntas-pt-bajamarga-kharisma-utama",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU0MTgvbWFzc2EtYnJtYi1kZXNhay1hcGFyYXQtdXN1dC10dW50YXMtcHQtYmFqYW1hcmdhLWtoYXJpc21hLXV0YW1h",
-        "description": "RATUSAN orang mengatasnamakan Barisan Rakyat Menggugat Bajamarga (BRMB) berunjuk rasa di depan Kantor Pemerintahan Walikota Jakarta Utara dan PT. Bajamarga Kharisma Utama (BMKU), Jumat (8/7/2022).&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505417/industri-mainan-lokal-mampubersaing-dengan-mainan-impor",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTQxNy9pbmR1c3RyaS1tYWluYW4tbG9rYWwtbWFtcHViZXJzYWluZy1kZW5nYW4tbWFpbmFuLWltcG9y",
-        "description": "PANDEMI covid-19 tidak berdampak pada penjualan industri mainan anak-anak. Sebaliknya kondisi pandemi justru menaikkan tren penjualan mainan anak karena anak-anak banyak bermain dengan orang tua mereka&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/505416/sambut-iduladha-donna-prive-luncurkan-koleksi-monogram",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNTQxNi9zYW1idXQtaWR1bGFkaGEtZG9ubmEtcHJpdmUtbHVuY3Vya2FuLWtvbGVrc2ktbW9ub2dyYW0=",
-        "description": "Jenama busana modest asal Banjarmasin, Donna Prive, meluncurkan koleksi terbaru mereka dalam rangka menyambut momen Iduladha 2022. Koleksi bernama Tadhia Series tersebut memiliki ciri khas desain dengan&#8230;"
     }
 ]
