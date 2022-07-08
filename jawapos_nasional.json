@@ -1,5 +1,40 @@
 [
     {
+        "title": "Dikepung, Bechi Akhirnya Menyerahkan Diri",
+        "link": "https://www.jawapos.com/nasional/hukum-kriminal/08/07/2022/dikepung-bechi-akhirnya-menyerahkan-diri/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvaHVrdW0ta3JpbWluYWwvMDgvMDcvMjAyMi9kaWtlcHVuZy1iZWNoaS1ha2hpcm55YS1tZW55ZXJhaGthbi1kaXJpLw==",
+        "description": "MSAT (Moch. Subchi Azal Tsani) atau Mas Bechi, kasus pencabulan dan perundungan, akhirnya menyerahkan diri tadi malam. Dia langsung dibawa ke Polda."
+    },
+    {
+        "title": "BPJS Ketenagakerjaan Serahkan Manfaat Santunan Hingga Rp 4,4 Miliar",
+        "link": "https://www.jawapos.com/nasional/08/07/2022/bpjs-ketenagakerjaan-serahkan-manfaat-santunan-hingga-rp-44-miliar/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMDgvMDcvMjAyMi9icGpzLWtldGVuYWdha2VyamFhbi1zZXJhaGthbi1tYW5mYWF0LXNhbnR1bmFuLWhpbmdnYS1ycC00NC1taWxpYXIv",
+        "description": "BPJS Keetenagakerjaan memberikan santunan kepada ahli waris yang berhak atas manfaat program jaminan sosial ketenagakerjaan dengan nilai mencapai Rp 4,4 miliar"
+    },
+    {
+        "title": "Mardani Maming Jadi Tersangka, PBNU Didesak Ambil Sikap Tegas",
+        "link": "https://www.jawapos.com/nasional/hukum-kriminal/08/07/2022/mardani-maming-jadi-tersangka-pbnu-didesak-ambil-sikap-tegas/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvaHVrdW0ta3JpbWluYWwvMDgvMDcvMjAyMi9tYXJkYW5pLW1hbWluZy1qYWRpLXRlcnNhbmdrYS1wYm51LWRpZGVzYWstYW1iaWwtc2lrYXAtdGVnYXMv",
+        "description": "Maming masih menjabat sebagai Bandahara Umum Pengurus Besar Nahdlatul Ulama (PBNU)."
+    },
+    {
+        "title": "Kasus Pengelolaan Dana Umat, Bareskrim Polri Panggil Presiden ACT",
+        "link": "https://www.jawapos.com/nasional/hukum-kriminal/08/07/2022/kasus-pengelolaan-dana-umat-bareskrim-polri-panggil-presiden-act/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvaHVrdW0ta3JpbWluYWwvMDgvMDcvMjAyMi9rYXN1cy1wZW5nZWxvbGFhbi1kYW5hLXVtYXQtYmFyZXNrcmltLXBvbHJpLXBhbmdnaWwtcHJlc2lkZW4tYWN0Lw==",
+        "description": "\"Karena hari ini (Jumat) dipanggil juga ketua atau presidennya, kalau tak salah untuk dimintai keterangan,\""
+    },
+    {
+        "title": "KPK Telisik Aliran Suap untuk Muluskan Pembahasan APBD Tulungagung",
+        "link": "https://www.jawapos.com/nasional/hukum-kriminal/08/07/2022/kpk-telisik-aliran-suap-untuk-muluskan-pembahasan-apbd-tulungagung/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvaHVrdW0ta3JpbWluYWwvMDgvMDcvMjAyMi9rcGstdGVsaXNpay1hbGlyYW4tc3VhcC11bnR1ay1tdWx1c2thbi1wZW1iYWhhc2FuLWFwYmQtdHVsdW5nYWd1bmcv",
+        "description": "KPK kembali memeriksa anggota DPRD Tulungagung periode 2014-2019."
+    },
+    {
         "title": "Program Minyakita Diharapkan Bukan Sekadar Pencitraan Zulkifli Hasan",
         "link": "https://www.jawapos.com/nasional/08/07/2022/program-minyakita-diharapkan-bukan-sekadar-pencitraan-zulkifli-hasan/?page=all",
         "image": "static/images/jawapos_nasional.png",
@@ -7,10 +42,10 @@
         "description": "Diharapkan program ini dapat terus berjalan secara konsisten dan bukan sekedar pencitraan untuk menyenangkan masyarakat sesaat."
     },
     {
-        "title": "Pimpinannya Jadi DPO, Kemenag Cabut Izin Pesantren Shiddiqiyyah",
-        "link": "https://www.jawapos.com/nasional/hukum-kriminal/08/07/2022/pimpinannya-jadi-dpo-kemenag-cabut-izin-pesantren-shiddiqiyyah/?page=all",
+        "title": "Pimpinan Pesantren Shiddiqiyyah Jadi DPO, Kemenag Cabut Izin",
+        "link": "https://www.jawapos.com/nasional/hukum-kriminal/08/07/2022/pimpinan-pesantren-shiddiqiyyah-jadi-dpo-kemenag-cabut-izin/?page=all",
         "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvaHVrdW0ta3JpbWluYWwvMDgvMDcvMjAyMi9waW1waW5hbm55YS1qYWRpLWRwby1rZW1lbmFnLWNhYnV0LWl6aW4tcGVzYW50cmVuLXNoaWRkaXFpeXlhaC8=",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvaHVrdW0ta3JpbWluYWwvMDgvMDcvMjAyMi9waW1waW5hbi1wZXNhbnRyZW4tc2hpZGRpcWl5eWFoLWphZGktZHBvLWtlbWVuYWctY2FidXQtaXppbi8=",
         "description": "Kemenag secara resmi mencabut izin operasional Pesantren Majma\u00e2\u0080\u0099al Bahrain Shiddiqiyyah, Jombang, Jawa Timur."
     },
     {
@@ -33,40 +68,5 @@
         "image": "static/images/jawapos_nasional.png",
         "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMDgvMDcvMjAyMi9raXNhaC1zbGFtZXQtc2FwaS1zZWhhcmdhLXJwLTEwMC1qdXRhLXlhbmctZGliZWxpLWpva293aS11bnR1ay1rdXJiYW4v",
         "description": "Sapi yang diberi nama Slamet itu berusia 2,5 tahun dengan bobot 1,1 ton dan sering menjuarai kontes sapi yang digelar di sejumlah daerah"
-    },
-    {
-        "title": "320 Simpatisan Mas Bechi Ditangkap, Terancam 5 Tahun Penjara",
-        "link": "https://www.jawapos.com/nasional/08/07/2022/320-simpatisan-mas-bechi-ditangkap-terancam-5-tahun-penjara/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMDgvMDcvMjAyMi8zMjAtc2ltcGF0aXNhbi1tYXMtYmVjaGktZGl0YW5na2FwLXRlcmFuY2FtLTUtdGFodW4tcGVuamFyYS8=",
-        "description": "Kami sampaikan di dalam banyak simpatisan. Sekitar 320 simpatisan kita amankan ke Polres Jombang, sebanyak 20 simpatisan di antaranya anak-anak."
-    },
-    {
-        "title": "Usai Menyerahkan Diri, Subchi DPO Kasus Pencabulan Langsung Ditahan",
-        "link": "https://www.jawapos.com/nasional/08/07/2022/usai-menyerahkan-diri-subchi-dpo-kasus-pencabulan-langsung-ditahan/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMDgvMDcvMjAyMi91c2FpLW1lbnllcmFoa2FuLWRpcmktc3ViY2hpLWRwby1rYXN1cy1wZW5jYWJ1bGFuLWxhbmdzdW5nLWRpdGFoYW4v",
-        "description": "\"MSAT sudah di Polda Jatim dan langsung ditahan,\" kata Kabid Humas Polda Jatim Kombes Pol Dirmanto di Mapolda setempat, Jumat (8/7) dini hari"
-    },
-    {
-        "title": "Ortu Lindungi Subchi, Kemenag Cabut Izin Ponpes Shiddiqiyyah",
-        "link": "https://www.jawapos.com/nasional/08/07/2022/ortu-lindungi-subchi-kemenag-cabut-izin-ponpes-shiddiqiyyah/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMDgvMDcvMjAyMi9vcnR1LWxpbmR1bmdpLXN1YmNoaS1rZW1lbmFnLWNhYnV0LWl6aW4tcG9ucGVzLXNoaWRkaXFpeXlhaC8=",
-        "description": "\u00e2\u0080\u009cSebagai regulator, Kemenag memiliki kuasa administratif untuk membatasi ruang gerak lembaga yang di dalamnya diduga melakukan pelanggaran hukum berat,\u00e2\u0080\u009d"
-    },
-    {
-        "title": "Menyerahkan Diri, Subchi Tersangka Pencabulan Santri Segera Diadili",
-        "link": "https://www.jawapos.com/nasional/08/07/2022/menyerahkan-diri-subchi-tersangka-pencabulan-santri-segera-diadili/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMDgvMDcvMjAyMi9tZW55ZXJhaGthbi1kaXJpLXN1YmNoaS10ZXJzYW5na2EtcGVuY2FidWxhbi1zYW50cmktc2VnZXJhLWRpYWRpbGkv",
-        "description": "Hari ini sejak jam 08.00 WIB kami melakukan komunikasi dengan orang tua dan akhirnya yang bersangkutan (MSAT) menyerahkan diri."
-    },
-    {
-        "title": "Hari Ini MSAT Diserahkan Polisi ke Kejaksaan Tinggi Jawa Timur",
-        "link": "https://www.jawapos.com/nasional/hukum-kriminal/08/07/2022/hari-ini-msat-diserahkan-polisi-ke-kejaksaan-tinggi-jawa-timur/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvaHVrdW0ta3JpbWluYWwvMDgvMDcvMjAyMi9oYXJpLWluaS1tc2F0LWRpc2VyYWhrYW4tcG9saXNpLWtlLWtlamFrc2Fhbi10aW5nZ2ktamF3YS10aW11ci8=",
-        "description": "Polda Jatim akan menyerahkan tersangka pencabulan dan kekerasan seksual pada santri, Mas Subchi Azal Tsani (MSAT) ke Kejaksaan Tinggi (Kejati) Jawa Timur"
     }
 ]

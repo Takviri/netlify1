@@ -1,5 +1,47 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505252/kendala-logistik-hambat-ekspor-cpo-dari-babel",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1MjUyL2tlbmRhbGEtbG9naXN0aWstaGFtYmF0LWVrc3Bvci1jcG8tZGFyaS1iYWJlbA==",
+        "description": "HINGGA saat ini ekspor minyak sawit mentah atau crude palm oil (CPO) belum lancar akibat ketersediaan kapal yang masih minim. Hal ini tentu berimbas pada kapasitas tangki minyak sawit&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/505248/gobert-tegaskan-tekad-antar-timberwolves-juara-nba",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDUyNDgvZ29iZXJ0LXRlZ2Fza2FuLXRla2FkLWFudGFyLXRpbWJlcndvbHZlcy1qdWFyYS1uYmE=",
+        "description": "RUDY Gobert tidak membutuhkan waktu lama untuk menetapkan targetnya untuk meraih gelar juara NBA saat diperkenalkan secara resmi oleh&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505251/korea-selatan-tawarkan-pesona-pariwisata-dengan-konsep-glocal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1MjUxL2tvcmVhLXNlbGF0YW4tdGF3YXJrYW4tcGVzb25hLXBhcml3aXNhdGEtZGVuZ2FuLWtvbnNlcC1nbG9jYWw=",
+        "description": "KOREAN Tourism Organisation (KTO) memperkenalkan konsep seru dalam berwisata ke Korea Selatan. Umumnya, wisatawan akan mengunjungi kota-kota besar atau resor. Sementara itu, tren yang berkembang&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/505240/aulia-sarah-mengaku-pilih-transportasi-daring-ketimbang-nyetir-sendiri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTI0MC9hdWxpYS1zYXJhaC1tZW5nYWt1LXBpbGloLXRyYW5zcG9ydGFzaS1kYXJpbmcta2V0aW1iYW5nLW55ZXRpci1zZW5kaXJp",
+        "description": "AKTRIS Aulia Sarah mengatakan dirinya lebih memilih naik transportasi daring daripada membawa mobil sendiri dalam bepergian untuk&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505250/perubahan-iklim-berdampak-luas-pada-masalah-ketenagakerjaan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTI1MC9wZXJ1YmFoYW4taWtsaW0tYmVyZGFtcGFrLWx1YXMtcGFkYS1tYXNhbGFoLWtldGVuYWdha2VyamFhbg==",
+        "description": " PERUBAHAN iklim merupakan tantangan yang membutuhkan respons global, lantaran bisa menyebabkan masalah lingkungan maupun masalah sosial dan ekonomi. Perubahan iklim juga berdampak luas pada&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505249/anggota-dpr-andi-akmal-soroti-melambungnya-harga-pangan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTI0OS9hbmdnb3RhLWRwci1hbmRpLWFrbWFsLXNvcm90aS1tZWxhbWJ1bmdueWEtaGFyZ2EtcGFuZ2Fu",
+        "description": "Anggota Komisi IV DPR RI Andi Akmal Pasluddin menyoroti semakin melambungnya harga pangan di seluruh pelosok wilayah Indonesia. Akmal menyebut, persoalan naiknya harga pangan ini bukan saja&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/505238/ini-model-wisata-favorit-generasi-milenial",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTI0NS9rZW1lbnRhbi1qZWxhc2thbi10aWdhLXRhaHVuLXRlcmFraGlyLW1lbWFuZy10aWRhay1hZGEtaW1wb3ItYmVyYXM=",
         "description": "KEPALA Biro Humas dan Informasi Publik, Kementerin Pertanian (Kementan), Kuntoro Boga Andri mengungkapkan data yang dirilis BPS bahwa sejak tahun 2019 hingga saat ini, Indonesia belum melakukan impor&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/505244/kemenkominfo-migrasi-siaran-tv-digital-akan-jangkau-daerah-blank-spot",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1MjQ0L2tlbWVua29taW5mby1taWdyYXNpLXNpYXJhbi10di1kaWdpdGFsLWFrYW4tamFuZ2thdS1kYWVyYWgtYmxhbmstc3BvdA==",
-        "description": "KEMENTERIAN Komunikasi dan Informatika (Kemenkominfo) mencatat hingga kini masih terdapat 226 daerah yang belum terjangkau siaran televisi (TV) analog. Daerah yang belum terjangkau siaran TV (blank&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505243/pasal-penghinaan-presiden-tidak-seharusnya-jadi-polemik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDUyNDMvcGFzYWwtcGVuZ2hpbmFhbi1wcmVzaWRlbi10aWRhay1zZWhhcnVzbnlhLWphZGktcG9sZW1paw==",
-        "description": "WAKIL Ketua Umum dan Juru Bicara Partai Garuda Teddy Gusnaidi mengatakan pasal menghina presiden di Rancangan Kitab Undang-undang Hukum Pidana (RKUHP)&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505242/tindak-lanjut-arahan-presiden-mentan-syl-targetkan-produksi-1-juta-benih-kelapa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTI0Mi90aW5kYWstbGFuanV0LWFyYWhhbi1wcmVzaWRlbi1tZW50YW4tc3lsLXRhcmdldGthbi1wcm9kdWtzaS0xLWp1dGEtYmVuaWgta2VsYXBh",
-        "description": "MENTERI Pertanian Syahrul Yasin Limpo (Mentan SYL) bergerak cepat menindaklanjuti arahan Presiden Joko Widodo untuk mengembangkan dan menyebarkan benih kelapa genjah varietas pandan wangi Sumatera&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505241/konsisten-hadirkan-program-csr-inklusif-bca-diganjar-gold-champion-dalam-bisra-award-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTI0MS9rb25zaXN0ZW4taGFkaXJrYW4tcHJvZ3JhbS1jc3ItaW5rbHVzaWYtYmNhLWRpZ2FuamFyLWdvbGQtY2hhbXBpb24tZGFsYW0tYmlzcmEtYXdhcmQtMjAyMg==",
-        "description": "PT Bank Central Asia Tbk. (BCA) kembali mendapatkan apresiasi atas inisiatif Corporate Social Responsibility (CSR) dalam ajang Bisnis Indonesia Corporate Social Responsibility Award (BISRA) 2022 yang&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/505233/prilly-latuconsina-mengaku-lebih-senang-bekerja-di-belakang-layar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTIzMy9wcmlsbHktbGF0dWNvbnNpbmEtbWVuZ2FrdS1sZWJpaC1zZW5hbmctYmVrZXJqYS1kaS1iZWxha2FuZy1sYXlhcg==",
-        "description": "AKTRIS sekaligus sineas muda Prilly Latuconsina mengungkapkan dirinya sekarang lebih menikmati bekerja di balik layar dengan menjadi&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505239/jelang-idul-adha-kementan-turunkan-tim-pemantau-hewan-kurban",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTIzOS9qZWxhbmctaWR1bC1hZGhhLWtlbWVudGFuLXR1cnVua2FuLXRpbS1wZW1hbnRhdS1oZXdhbi1rdXJiYW4=",
-        "description": "MENJELANG pelaksanaan Idul Adha 1443 H, Kementerian Pertanian (Kementan) menugaskan Tim Pemantau Hewan Kurban untuk memantau agar penyediaan ternak hewan kurban sehat dan menjamin daging kurban yang&#8230;"
     }
 ]
