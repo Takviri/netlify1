@@ -1,5 +1,47 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505220/brin-dorong-pemanfaatan-teknologi-pengolahan-air-bersih",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1MjIwL2JyaW4tZG9yb25nLXBlbWFuZmFhdGFuLXRla25vbG9naS1wZW5nb2xhaGFuLWFpci1iZXJzaWg=",
+        "description": "BERTAMBAHNYA penduduk yang semakin pesat, dan berkembangnya jumlah permukiman baru di berbagai tempat dapat menimbulkan menurunnya kualitas air bersih. Hal ini karena proses penyaringan air secara&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/505172/serial-cinta-di-balik-awan-yang-diproduseri-prilly-latuconsina-dirilis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTE3Mi9zZXJpYWwtY2ludGEtZGktYmFsaWstYXdhbi15YW5nLWRpcHJvZHVzZXJpLXByaWxseS1sYXR1Y29uc2luYS1kaXJpbGlz",
+        "description": "Vision+ merilis original series terbarunya yang berjudul Cinta Di Balik Awan. Serial ini diproduksi oleh Sinemaku Pictures, serta merupakan karya produser Prilly Latuconsina dan sutradara Umay Shahab.&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505223/kirab-budaya-dekatkan-hati-delegasi-g20-dengan-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1MjIzL2tpcmFiLWJ1ZGF5YS1kZWthdGthbi1oYXRpLWRlbGVnYXNpLWcyMC1kZW5nYW4taW5kb25lc2lh",
+        "description": "Pertemuan kedua Trade, Investment, and Industry Working Group (TIIWG) Presidensi G20 Indonesia di Surakarta, Jawa Tengah, Kamis (7/6) ditutup dengan kirab kebudayaan.&nbsp; Agenda iring-iringan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505219/srikandi-jabar-helat-west-java-dance-festival-gaungkan-ganjar-ke-milenial",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1MjE5L3NyaWthbmRpLWphYmFyLWhlbGF0LXdlc3QtamF2YS1kYW5jZS1mZXN0aXZhbC1nYXVuZ2thbi1nYW5qYXIta2UtbWlsZW5pYWw=",
+        "description": "DUKUNGAN untuk Gubernur Jawa tengah,Ganjar Prano di Purwakarta, Jawa Barat semakin masif. Perempuan milenial, mahasiswa, aktivis muda, dan influencer yang tergabung dalam Srikandi Ganjar Jawa Barat&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/505211/umay-shahab-sutradarai-serial-cinta-di-balik-awan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTIxMS91bWF5LXNoYWhhYi1zdXRyYWRhcmFpLXNlcmlhbC1jaW50YS1kaS1iYWxpay1hd2Fu",
+        "description": "SINEAS muda Umay Shahab kembali berada di balik layar untuk produksi serial original Vision+ bertajuk Cinta di Balik Awan, yang tayang&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/505209/ini-penyebab-munculnya-rasa-tidak-nyaman-saat-naik-pesawat-dan-cara-mengatasinya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNTIwOS9pbmktcGVueWViYWItbXVuY3VsbnlhLXJhc2EtdGlkYWstbnlhbWFuLXNhYXQtbmFpay1wZXNhd2F0LWRhbi1jYXJhLW1lbmdhdGFzaW55YQ==",
+        "description": "TUBUH manusia yang biasa menjalankan aktivitas di darat harus menyesuaikan diri ketika berada di tempat yang asing seperti saat naik pesawat&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/505218/pencabul-enam-santri-ditangkap-setelah-kabur-ke-lampung-utara",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNTIxNi9uYXNhLXNlZ2VyYS1yaWxpcy1nYW1iYXItcGVydGFtYS1hbGFtLXNlbWVzdGEteWFuZy1kaWFtYmlsLWRhcmktdGVsZXNrb3Atd2ViYg==",
         "description": "Luas alam semesta tidaklah terhingga. Setidaknya, sejauh ini para ilmuwan hanya mampu melihat objek terjauh yang berjarak 13.8 miliar tahun cahaya. Berdasarkan itu pula mereka memerkirakan alam semesta.&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505214/polda-jatim-tahan-msat-tersangka-pencabulan-santriwati-jombang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1MjE0L3BvbGRhLWphdGltLXRhaGFuLW1zYXQtdGVyc2FuZ2thLXBlbmNhYnVsYW4tc2FudHJpd2F0aS1qb21iYW5n",
-        "description": "KEPOLISIAN Darah Jawa Timur langsung menahan MSAT, 42, putra kiai ternama yang menjadi tersangka kasus dugaan pencabulan&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/505168/film-perjalanan-pertama-kolaborasi-dengan-malaysia-bakal-dirilis",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTE2OC9maWxtLXBlcmphbGFuYW4tcGVydGFtYS1rb2xhYm9yYXNpLWRlbmdhbi1tYWxheXNpYS1iYWthbC1kaXJpbGlz",
-        "description": "Mahakarya Pictures akan merilis film Perjalanan Pertama, setelah sebelumnya merilis Surau dan Sek pada 2017. Film Perjalanan pertama merupakan hasil kerja sama dua rumah produksi Mahakarya Pictures&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505213/tersangka-pencabulan-santriwati-jombang-msat-serahkan-diri-ke-polisi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1MjEzL3RlcnNhbmdrYS1wZW5jYWJ1bGFuLXNhbnRyaXdhdGktam9tYmFuZy1tc2F0LXNlcmFoa2FuLWRpcmkta2UtcG9saXNp",
-        "description": "TERSANGKA dugaan kasus pencabulan santriwati, MSAT, 42, yang merupakan putra kiai ternama di Jombang akhirnya menyerahkan diri kepada pihak kepolisian pada Kamis (7/7) malam atau sekitar pukul&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505202/pertamina-tegaskan-komitmen-salurkan-solar-kepada-nelayan-di-kota-tegal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1MjAyL3BlcnRhbWluYS10ZWdhc2thbi1rb21pdG1lbi1zYWx1cmthbi1zb2xhci1rZXBhZGEtbmVsYXlhbi1kaS1rb3RhLXRlZ2Fs",
-        "description": "PERTAMINA terus berkomitmen menyalurkan bahan bakar mesin (BBM) bersubsidi jenis solar bagi masyarakat nelayan, khususnya di Kota&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505208/komisi-iv-dpr-minta-pemerintah-tindak-pelanggar-perizinan-kawasan-hutan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1MjA4L2tvbWlzaS1pdi1kcHItbWludGEtcGVtZXJpbnRhaC10aW5kYWstcGVsYW5nZ2FyLXBlcml6aW5hbi1rYXdhc2FuLWh1dGFu",
-        "description": "PANJA Penyelesaian Penggunaan dan Pelepasan Kawasan Hutan Komisi IV DPR RI meminta Kementerian Lingkungan Hidup dan Kehutanan (KLHK) untuk melakukan langkah antisipatif terhadap modus penggunaaan bentuk&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/505201/avalanche-single-baru-the-midnight-yang-membakar-semangat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTIwMS9hdmFsYW5jaGUtc2luZ2xlLWJhcnUtdGhlLW1pZG5pZ2h0LXlhbmctbWVtYmFrYXItc2VtYW5nYXQ=",
-        "description": "BAND asal Los Angeles, Amerika Serikat (AS) The Midnight merilis single terbaru mereka yang memukau, Avalanche, yang merupakan single&#8230;"
     }
 ]

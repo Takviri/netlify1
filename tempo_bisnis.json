@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kemenko Perekonomian Ungkap 3 Cara Cegah Badai Inflasi",
+        "link": "https://bisnis.tempo.co/read/1609823/kemenko-perekonomian-ungkap-3-cara-cegah-badai-inflasi",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA5ODIzL2tlbWVua28tcGVyZWtvbm9taWFuLXVuZ2thcC0zLWNhcmEtY2VnYWgtYmFkYWktaW5mbGFzaQ==",
+        "description": "Untuk mengatasi inflasi, negara dianggap perlu mengetahui sumber penyebabnya."
+    },
+    {
+        "title": "Kepala SKK MIgas Tak Pernah Menduga Harga Minyak Dulu Anjlok ke USD 20, Kini di Atas USD 120",
+        "link": "https://bisnis.tempo.co/read/1609857/kepala-skk-migas-tak-pernah-menduga-harga-minyak-dulu-anjlok-ke-usd-20-kini-di-atas-usd-120",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA5ODU3L2tlcGFsYS1za2stbWlnYXMtdGFrLXBlcm5haC1tZW5kdWdhLWhhcmdhLW1pbnlhay1kdWx1LWFuamxvay1rZS11c2QtMjAta2luaS1kaS1hdGFzLXVzZC0xMjA=",
+        "description": "Kepala SKK Migas menyatakan peta energi kocar-kacir karena ketergantungan negara di Eropa terhadap energi dan memicu lonjakan harga minyak."
+    },
+    {
         "title": "KAI Targetkan Waktu Tunggu KRL Jadi 3 Menit",
         "link": "https://bisnis.tempo.co/read/1609820/kai-targetkan-waktu-tunggu-krl-jadi-3-menit",
         "image": "static/images/tempo_bisnis.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA5ODAxL2JhbmRhcmEta3VhbGFuYW11LWJ1a2EtNy1ydXRlLXBlbmVyYmFuZ2FuLWtlLWFzaWEtc2VsYXRhbmhpbmdnYS1ha2hpci10YWh1bg==",
         "description": "AP II akan mengembangkan Bandara Kualanamu dengan konsep Airport City."
-    },
-    {
-        "title": "Kemenhub Pastikan Stasiun Manggarai Tetap Jadi Stasiun Sentral pada 2025",
-        "link": "https://bisnis.tempo.co/read/1609790/kemenhub-pastikan-stasiun-manggarai-tetap-jadi-stasiun-sentral-pada-2025",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA5NzkwL2tlbWVuaHViLXBhc3Rpa2FuLXN0YXNpdW4tbWFuZ2dhcmFpLXRldGFwLWphZGktc3Rhc2l1bi1zZW50cmFsLXBhZGEtMjAyNQ==",
-        "description": "Kementerian Perhubungan juga mengubah perpindahan penumpang KRL di Stasiun Manggarai yang awalnya horizontal menjadi vertikal."
-    },
-    {
-        "title": "BPKP Persoalkan Data yang Tak Sinkron dalam Proses Audit Perusahaan Sawit",
-        "link": "https://bisnis.tempo.co/read/1609785/bpkp-persoalkan-data-yang-tak-sinkron-dalam-proses-audit-perusahaan-sawit",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjA5Nzg1L2Jwa3AtcGVyc29hbGthbi1kYXRhLXlhbmctdGFrLXNpbmtyb24tZGFsYW0tcHJvc2VzLWF1ZGl0LXBlcnVzYWhhYW4tc2F3aXQ=",
-        "description": "Data yang terkumpul dalam proses audit perusahaan sawit masih tidak sinkron antar-lembaga dan kementerian."
     }
 ]
