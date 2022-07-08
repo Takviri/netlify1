@@ -1,9 +1,51 @@
 [
     {
         "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/505272/mengenal-perilaku-konsumen-melalui-data-digital-marketing",
+        "link": "https://m.mediaindonesia.com/teknologi/505278/aplikasi-pintu-beri-edukasi-cara-hadapi-volatilitas-market-kripto",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1MjcyL21lbmdlbmFsLXBlcmlsYWt1LWtvbnN1bWVuLW1lbGFsdWktZGF0YS1kaWdpdGFsLW1hcmtldGluZw==",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1Mjc4L2FwbGlrYXNpLXBpbnR1LWJlcmktZWR1a2FzaS1jYXJhLWhhZGFwaS12b2xhdGlsaXRhcy1tYXJrZXQta3JpcHRv",
+        "description": "INVESTASI aset kripto yang tengah populer dan menyita perhatian masyarakat dalam beberapa tahun ini sedang memasuki fase yang disebut &ldquo;Crypto Winter&rdquo;. Berbagai aset kripto&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505277/kejagung-kerugian-korupsi-cpo-berupa-keuangan-dan-perekonomian",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDUyNzcva2VqYWd1bmcta2VydWdpYW4ta29ydXBzaS1jcG8tYmVydXBhLWtldWFuZ2FuLWRhbi1wZXJla29ub21pYW4=",
+        "description": "DIREKTUR Penyidikan Jaksa Agung Muda Bidang Tindak Pidana Khusus (JAM-Pidsus) Kejaksaan Agung Supardi menyebut perhitungan kerugian negara dalam kasus dugaan korupsi pemberian fasilitas ekspor minyak&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505275/korban-mafia-tanah-geruduk-kementerian-atrbpn",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDUyNzUva29yYmFuLW1hZmlhLXRhbmFoLWdlcnVkdWsta2VtZW50ZXJpYW4tYXRyYnBu",
+        "description": "SEJUMLAH korban mafia tanah yang tergabung dalam Forum Korban Mafia Tanah Indonesia (FKMTI), kemarin, mendatangi kantor Kementerian ATR/BPN. Kepada Menteri ATR/BPN yang baru, Hadi Tjahjanto, mereka&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505276/kampanye-1000-tanaman-sejuta-kebaikan-dukung-konservasi-hutan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1Mjc2L2thbXBhbnllLTEwMDAtdGFuYW1hbi1zZWp1dGEta2ViYWlrYW4tZHVrdW5nLWtvbnNlcnZhc2ktaHV0YW4=",
+        "description": "MEMPERINGATI Hari Lingkungan Hidup Sedunia, MS Glow&nbsp;sebagai salah satu brand kecantikan lokal di Indonesia mengadakan kampanye 1000 Tanaman Sejuta Kebaikan. Sebuah kampanye yang didasari&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505274/rat-paripurna-ksp-sb-komitmen-jalankan-putusan-pkpu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTI3NC9yYXQtcGFyaXB1cm5hLWtzcC1zYi1rb21pdG1lbi1qYWxhbmthbi1wdXR1c2FuLXBrcHU=",
+        "description": "PENGURUS Koperasi Simpan Pinjam Sejahtera Bersama (KSP SB) menegaskan untuk tetap konsisten memenuhi pengembalian dana anggotanya sesuai skema perdamaian&nbsp; PKPU. Agar upaya tersebut berjalan lancar,&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505273/guru-besar-ugm-legalisasi-tanaman-ganja-tidak-mendesak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1MjczL2d1cnUtYmVzYXItdWdtLWxlZ2FsaXNhc2ktdGFuYW1hbi1nYW5qYS10aWRhay1tZW5kZXNhaw==",
+        "description": "GURU Besar Fakultas Ilmu Farmasi Universitas Gajah Mada Zullies Ikawati mengungkapkan, urgensi ganja medis pada dunia medis sebenarnya tidak besar. Adanya ganja medis, kata dia, lebih kepada memberikan&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/505272/kenali-perilaku-konsumen-lewat-monitoring-media-sosial",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1MjcyL2tlbmFsaS1wZXJpbGFrdS1rb25zdW1lbi1sZXdhdC1tb25pdG9yaW5nLW1lZGlhLXNvc2lhbA==",
         "description": "DALAM dunia bisnis, penggunaan internet telah bergeser fungsinya dari media untuk bersosialisasi menjadi media untuk strategi bisnis mulai dari promosi, pemasaran hingga penjualan dan pelayanan pelanggan.&#8230;"
     },
     {
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDUyNjkvd2FoYW5hLWFpci1yb29wdG9wLXBlcnRhbWEtZGktYmVrYXNpLWhhZGlyLWRpLWdyYW5kLW1ldHJvcG9saXRhbg==",
         "description": "GRAND&nbsp;Metropolitan menghadirkan wahana permainan air anak yaitu Waterplay. Fasilitas tambahan yang berada di atap gedung parkir (rooftop) lantai 9 dengan ketinggian kurang lebih&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/505268/panitia-penyelenggara-pastikan-persiapan-isg-2022-berjalan-lancar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDUyNjgvcGFuaXRpYS1wZW55ZWxlbmdnYXJhLXBhc3Rpa2FuLXBlcnNpYXBhbi1pc2ctMjAyMi1iZXJqYWxhbi1sYW5jYXI=",
-        "description": "Turkey Islamic Solidarity Games Organizing Committee (TISGOC) menyatakan, segala persiapan terkait penyelenggaraan Islamic Solidarity Games (ISG) 2021 Konya berjalan lancar. TISGOC juga memastikan&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/505267/masyarakat-perlu-waspadai-pelecehan-di-ranah-daring",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1MjY3L21hc3lhcmFrYXQtcGVybHUtd2FzcGFkYWktcGVsZWNlaGFuLWRpLXJhbmFoLWRhcmluZw==",
-        "description": "Survei dari Plan Internasional pada 14.000 perempuan usia 14-25 tahun di 22 negara pada 2019 menyatakan sebanyak 59% perempuan mengalami pelecehan daring. Sementara itu 50% partisipan menyatakan lebih&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505266/dafam-hotel-management-menggelar-hari-ulang-tahun-ke-12",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1MjY2L2RhZmFtLWhvdGVsLW1hbmFnZW1lbnQtbWVuZ2dlbGFyLWhhcmktdWxhbmctdGFodW4ta2UtMTI=",
-        "description": "PADA hari Kamis (7/8/2022) adalah ulang tahun Dafam Hotel Management (DHM) yang ke-12, yang dirayakan dengan suasana penuh kebersamaan dan kekeluargaan ditandai dengan potong tumpeng dan doa bersama.&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/505265/dorong-konsumsi-di-sektor-horeka-dan-wisata-beijing-terbitkan-kupon-30-juta-yuan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTI2NS9kb3Jvbmcta29uc3Vtc2ktZGktc2VrdG9yLWhvcmVrYS1kYW4td2lzYXRhLWJlaWppbmctdGVyYml0a2FuLWt1cG9uLTMwLWp1dGEteXVhbg==",
-        "description": "Beijing telah meluncurkan serangkaian langkah-langkah dalam upaya untuk mendorong pemulihan konsumsi di ibukota Tiongkok, menurut perencana ekonomi setempat. Langkah-langkah tersebut, yang diluncurkan&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/505264/tiongkok-menghargai-peran-indonesia-dalam-persatuan-g20",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTI2NC90aW9uZ2tvay1tZW5naGFyZ2FpLXBlcmFuLWluZG9uZXNpYS1kYWxhbS1wZXJzYXR1YW4tZzIw",
-        "description": "Penasihat Negara dan Menteri Luar Negeri Tiongkok Wang Yi pada hari Kamis (7/7) mengatakan bahwa Tiongkok menghargai peran Indonesia dalam menjaga kesatuan G20 karena memegang kursi presidensi forum&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/505263/erwin-gutawa-rilis-ulang-lagu-seputih-kasih-dalam-versti-nft",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTI2My9lcndpbi1ndXRhd2EtcmlsaXMtdWxhbmctbGFndS1zZXB1dGloLWthc2loLWRhbGFtLXZlcnN0aS1uZnQ=",
-        "description": "KOMPONIS Erwin Gutawa merilis kembali lagu Seputih Kasih, yang digubah menjadi versi orkestra instrumental dalam medium Non-Fungible Token (NFT) bekerja sama&#8230;"
     }
 ]
