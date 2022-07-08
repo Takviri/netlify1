@@ -1,5 +1,40 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/505427/pelajar-pancasila",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDU0MjcvcGVsYWphci1wYW5jYXNpbGE=",
+        "description": "PANCASILA, sebagai dasar, falsafah negara sekaligus pandangan hidup (weltanschauung) bangsa Indonesia selama ini terasa kurang 'terbumikan'. Ia seumpama konsep yang bersemayam di atas petala&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/505426/kemenparekraf-dukung-ayoternakid-terus-berkembang-hingga-jadi-unicoorn",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1NDI2L2tlbWVucGFyZWtyYWYtZHVrdW5nLWF5b3Rlcm5ha2lkLXRlcnVzLWJlcmtlbWJhbmctaGluZ2dhLWphZGktdW5pY29vcm4=",
+        "description": "PERKEMBANGAN teknologi dan transformasi digital memberikan kemudahan bagi setiap orang untuk berkomunikasi dan berinteraksi. Hal ini yang kemudian coba dimanfaatkan oleh pemerintah melalui Kementerian&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505425/kepercayaan-konsumen-stabil-sepanjang-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTQyNS9rZXBlcmNheWFhbi1rb25zdW1lbi1zdGFiaWwtc2VwYW5qYW5nLTIwMjI=",
+        "description": "INDEKS Keyakinan Konsumen (IKK) Indonesia pada Juni 2022 mengindikasikan optimisme pada kondisi ekonomi tetap kuat. Hal ini terlihat dari survei konsumen yang dilakukan Bank Indonesia, di mana IKK&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/505424/piala-aff-libas-filipina-timnas-jaga-asa-ke-semifinal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTQyNC9waWFsYS1hZmYtbGliYXMtZmlsaXBpbmEtdGltbmFzLWphZ2EtYXNhLWtlLXNlbWlmaW5hbA==",
+        "description": "TAMBAHAN tiga poin di laga keempat membuat timnas U-19 menjaga peluang untuk lolos ke semifinal Piala AFF U-19 2022. Melawan Filipina di Stadion Patriot Candrabhaga, Bekasi, Jawa Barat, Jumat (8/7)&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505423/aturan-tarif-baru-diharapkan-genjot-kinerja-lelang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTQyMy9hdHVyYW4tdGFyaWYtYmFydS1kaWhhcmFwa2FuLWdlbmpvdC1raW5lcmphLWxlbGFuZw==",
+        "description": "PEMERINTAH berharap ada kenaikan signifikan pencapaian lelang tahun ini. Sebab, pengambil kebijakan telah menerbitkan peraturan baru yang diharapkan mampu mendongkrak kinerja lelang negara. Beleid&#8230;"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/505422/jk-kenang-abe-sebagai-tokoh-asia-sekaligus-sahabat",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNTQxNi9zYW1idXQtaWR1bGFkaGEtZG9ubmEtcHJpdmUtbHVuY3Vya2FuLWtvbGVrc2ktbW9ub2dyYW0=",
         "description": "Jenama busana modest asal Banjarmasin, Donna Prive, meluncurkan koleksi terbaru mereka dalam rangka menyambut momen Iduladha 2022. Koleksi bernama Tadhia Series tersebut memiliki ciri khas desain dengan&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/505415/jk-shinzo-abe-sosok-sahabat-bagi-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTQxNS9qay1zaGluem8tYWJlLXNvc29rLXNhaGFiYXQtYmFnaS1pbmRvbmVzaWE=",
-        "description": "MANTAN Wakil Presiden RI Jusuf Kalla menilai mantan Perdana Menteri (PM) Jepang Shinzo Abe sebagai sosok pemimpin yang baik. Serta, merupakan sahabat bagi Indonesia, karena selalu mendorong hubungan&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/505414/jk-nilai-shinzo-abe-selalu-ingin-membantu-bila-dibutuhkan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTQxNC9qay1uaWxhaS1zaGluem8tYWJlLXNlbGFsdS1pbmdpbi1tZW1iYW50dS1iaWxhLWRpYnV0dWhrYW4=",
-        "description": "WAKIL Presiden ke-10 dan ke-12 RI Jusuf Kalla (JK) menilai mantan Perdana Menteri Jepang Shinzo Abe ialah&nbsp;sosok pemimpin yang baik dan merupakan sahabat Indonesia karena selalu mendorong hubungan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505413/ckb-group-dukung-peningkatan-skill-tenaga-pendidik-di-sekolah-autis",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NDEzL2NrYi1ncm91cC1kdWt1bmctcGVuaW5na2F0YW4tc2tpbGwtdGVuYWdhLXBlbmRpZGlrLWRpLXNla29sYWgtYXV0aXM=",
-        "description": "PENDIDIKAN memegang peranan penting dalam menciptakan sumber daya manusia (SDM) unggul, tanpa terkecuali bagi anak berkebutuhan khusus (ABK) penyandang autis. Terlebih, mereka memiliki perbedaan&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/505412/sby-kenang-shinzo-abe-sebagai-pemimpin-besar-saat-menjabat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTQxMi9zYnkta2VuYW5nLXNoaW56by1hYmUtc2ViYWdhaS1wZW1pbXBpbi1iZXNhci1zYWF0LW1lbmphYmF0",
-        "description": "MANTAN Presiden Indonesia Susilo Bambang Yudhoyono (SBY) menyampaikan belasungkawa atas meninggalnya mantan Perdana Menteri (PM) Jepang Shinzo Abe. SBY menyebutnya sebagai teman baik. &quot;Saya&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505411/bnpt-dan-pejabat-senior-asean-bahas-penanggulangan-terorisme",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU0MTEvYm5wdC1kYW4tcGVqYWJhdC1zZW5pb3ItYXNlYW4tYmFoYXMtcGVuYW5nZ3VsYW5nYW4tdGVyb3Jpc21l",
-        "description": "BADAN Nasional Penanggulangan Terorisme (BNPT) dan Kelompok Kerja Pejabat Senior ASEAN Bahas Penanggulangan Terorisme di Bogor, Jawa Barat. Acara bertajuk Pertemuan Kelompok Kerja Pejabat Senior&#8230;"
     }
 ]
