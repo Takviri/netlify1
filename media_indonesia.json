@@ -1,5 +1,54 @@
 [
     {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/505463/positivity-rate-12-kasus-covid-19-jakarta-10018",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU0NjMvcG9zaXRpdml0eS1yYXRlLTEyLWthc3VzLWNvdmlkLTE5LWpha2FydGEtMTAwMTg=",
+        "description": "Pemprov DKI Jakarta terus melaporkan tren kasus baru covid-19. Data terbaru per Jumat (8/7), kini kasus aktif covid-19 sudah tembus angka 10.018kasus. Hal ini disampaikan oleh Kepala Bidang Pencegahan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505462/kemenkop-ukm-ajak-dekopin-terlibat-dalam-proses-pembahasan-ruu-perkoperasian",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTQ2Mi9rZW1lbmtvcC11a20tYWphay1kZWtvcGluLXRlcmxpYmF0LWRhbGFtLXByb3Nlcy1wZW1iYWhhc2FuLXJ1dS1wZXJrb3BlcmFzaWFu",
+        "description": "Kementerian Koperasi dan UKM saat ini tengah menyusun draft Rancangan Undang-Undang Perkoperasian untuk mengganti UU Nomor 25 Tahun 1992. Dengan harapan RUU ini dapat menjadi landasan hukum progresif&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505461/lagi-pemprov-kep-babel-gelar-rakor-untuk-perbaiki-tata-kelola-pertambangan-timah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NDYxL2xhZ2ktcGVtcHJvdi1rZXAtYmFiZWwtZ2VsYXItcmFrb3ItdW50dWstcGVyYmFpa2ktdGF0YS1rZWxvbGEtcGVydGFtYmFuZ2FuLXRpbWFo",
+        "description": "UPAYA dan komitmen Pemerintah Provinsi Kepulauan Bangka Belitung (Pemprov. Kep. Babel) memperbaiki tata kelola pertambangan timah, pada prinsipnya bertujuan semata-mata untuk mensejahterakan masyarakat.&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/505459/rahasia-empuknya-daging-kambing-ada-di-sini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNTQ1OS9yYWhhc2lhLWVtcHVrbnlhLWRhZ2luZy1rYW1iaW5nLWFkYS1kaS1zaW5p",
+        "description": "Cara memotong daging kambing ternyata berpengaruh terhadap tekstur akhirnya. Memotong asal-asalan bisa membuat daging kambing jadi alot, susah dikunyah dan pada akhirnya sulit untuk dinikmati semua&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505458/negara-anggota-g20-ikut-dorong-pembelajaran-tatap-muka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NDU4L25lZ2FyYS1hbmdnb3RhLWcyMC1pa3V0LWRvcm9uZy1wZW1iZWxhamFyYW4tdGF0YXAtbXVrYQ==",
+        "description": "Hadirnya pandemi Covid-19, telah memperparah krisis pembelajaran yang sebelumnya terjadi kepada anak-anak, terutama pada kelompok rentan yang menghadapi risiko kehilangan pembelajaran (learning loss)&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505457/cegah-radikalisme-lppm-iblam-dan-sma-muhammadiyah-4-jakarta-sosialisasi-kebangsaan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NDU3L2NlZ2FoLXJhZGlrYWxpc21lLWxwcG0taWJsYW0tZGFuLXNtYS1tdWhhbW1hZGl5YWgtNC1qYWthcnRhLXNvc2lhbGlzYXNpLWtlYmFuZ3NhYW4=",
+        "description": "KEGIATAN pengabdian kepada masyarakat di Gedung Perguruan Muhammadiyah 4 Jakarta membahas wawasan kebangsaan mencegah radikalisme. Khususnya untuk&nbsp; mewujudkan sekolah berkemajuan, ramah anak dan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505456/green-hajj-apps-tingkatkan-kesadaran-dan-wawasan-lingkungan-bagi-jemaah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NDU2L2dyZWVuLWhhamotYXBwcy10aW5na2F0a2FuLWtlc2FkYXJhbi1kYW4td2F3YXNhbi1saW5na3VuZ2FuLWJhZ2ktamVtYWFo",
+        "description": "UMMAH for Earth dan Greenpeace Indonesia meluncurkan aplikasi Green Hajj. Aplikasi ini hadir sebagai bentuk nyata dukungan umat Islam dalam upaya mengatasi perubahan iklim. Sebelumnya Ummah for Earth&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/505455/pesona-empat-zona-kawasan-pariwisata-di-otorita-labuan-bajo",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NDUyL3Rlcm55YXRhLWJ1a2FuLWtlY2FwZWthbi1wZW55ZWJhYi10aXBlcw==",
         "description": "SALAH kaprah mengenai penyakit Demam Tifoid atau yang akrab disebut tipes, hingga kini terjadi. Terutama terkait penyebab utama penyakit tersebut. Masyarakat pada umumnya, menganggap bahwa penyebab&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/505451/menlu-g20-suarakan-kekhawatiran-melonjaknya-harga-pangan-dan-energi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTQ1MS9tZW5sdS1nMjAtc3VhcmFrYW4ta2VraGF3YXRpcmFuLW1lbG9uamFrbnlhLWhhcmdhLXBhbmdhbi1kYW4tZW5lcmdp",
-        "description": "SEMUA anggota G20 mengungkapkan kekhawatiran tentang melonjaknya harga pangan dan energi, yang dipicu oleh perang antara Rusia dan Ukraina. Menteri Luar Negeri RI Retno Marsudi mengatakan bahwa&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505449/inilah-4-persiapan-bidang-kesehatan-menyambut-ktt-g20-di-bali",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NDQ5L2luaWxhaC00LXBlcnNpYXBhbi1iaWRhbmcta2VzZWhhdGFuLW1lbnlhbWJ1dC1rdHQtZzIwLWRpLWJhbGk=",
-        "description": "BERBAGAI kesiapan terus dimatangkan pemerintah jelang gelaran KTT G20 di Bali pada Oktober mendatang.&nbsp; Di bidang kesehatan, Kemenkes akan fokus memperkuat 4 hal untuk memastikan momentum&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/505450/iqbaal-ramadhan-berbagi-cerita-bertemu-chris-hemsworth",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTQ1MC9pcWJhYWwtcmFtYWRoYW4tYmVyYmFnaS1jZXJpdGEtYmVydGVtdS1jaHJpcy1oZW1zd29ydGg=",
-        "description": "Aktor Indonesia Iqbaal Ramadhan membagi ceritanya saat bertemu dan berbincang bersama aktor Chris Hemsworth dan sutradara Taika Waititi di sela perilisan perdana &quot;Thor: Love &amp; Thunder&quot;&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/505448/rusia-tingkatkan-pemantauan-transaksi-kripto-saat-regulasi-kian-ketat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTQ0OC9ydXNpYS10aW5na2F0a2FuLXBlbWFudGF1YW4tdHJhbnNha3NpLWtyaXB0by1zYWF0LXJlZ3VsYXNpLWtpYW4ta2V0YXQ=",
-        "description": "Badan pemantau keuangan Rusia, Rosfinmonitoring, mengatakan pada Jumat (8/7) bahwa pihaknya menggunakan perangkat lunak untuk melacak transaksi mata uang kripto dan berharap untuk meningkatkan kemampuannya,&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/505447/djokovic-hadapi-kyrgios-di-final-wimbledon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU0NDcvZGpva292aWMtaGFkYXBpLWt5cmdpb3MtZGktZmluYWwtd2ltYmxlZG9u",
-        "description": "NOVAK Djokovic melenggang ke partai final Wimbledon 2022. Tiket ke partai puncak diraihnya usai menyisihkan petenis tuan rumah Cameron Norrie pada laga semifinal, Jumat (8/7) waktu setempat. Pada&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/505446/jokowi-sampaikan-belasungkawa-atas-meninggalnya-shinzo-abe",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTQ0Ni9qb2tvd2ktc2FtcGFpa2FuLWJlbGFzdW5na2F3YS1hdGFzLW1lbmluZ2dhbG55YS1zaGluem8tYWJl",
-        "description": "PRESIDEN Joko Widodo (Jokowi) turut menyampaikan belasungkawa atas meninggalnya mantan Perdana Menteri (PM) Jepang Shinzo Abe. Ucapan itu diutarakan presiden melalui akun Twitter pribadinya @jokowi,&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/505445/bav-kembali-sulap-kabin-new-mercedes-sprinter-menjadi-lebih-mewah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MDU0NDUvYmF2LWtlbWJhbGktc3VsYXAta2FiaW4tbmV3LW1lcmNlZGVzLXNwcmludGVyLW1lbmphZGktbGViaWgtbWV3YWg=",
-        "description": "SPESIALIS interior VIP kendaraan ternama di Indonesia, BAV Luxury Auto Design (BAV), kembali mempersembahkan karya terbaiknya dalam menggarap interior Mercedes-Benz Sprinter. Kali ini Multi Purpose&#8230;"
     }
 ]
