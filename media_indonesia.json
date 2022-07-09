@@ -1,5 +1,26 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/505507/chico-ke-final-malaysia-masters-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU1MDcvY2hpY28ta2UtZmluYWwtbWFsYXlzaWEtbWFzdGVycy0yMDIy",
+        "description": "TUNGGAL putra Indonesia Chico Aura Dwi Wardoyo berhasil melenggang ke partai final Malaysia Masters 2022. Tiket ke laga puncak diraih Chico usai mengalahkan wakil Tiongkok, Lu Guang Zu, di Axiata Arena,&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505508/perkuat-inovasi-bskdn-kemendagri-gandeng-lima-perguruan-tinggi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NTA4L3Blcmt1YXQtaW5vdmFzaS1ic2tkbi1rZW1lbmRhZ3JpLWdhbmRlbmctbGltYS1wZXJndXJ1YW4tdGluZ2dp",
+        "description": "BADAN Strategi Kebijakan Dalam Negeri (BSKDN) Kementerian Dalam Negeri (Kemendagri) menandatangani perjanjian kerja sama dengan lima perguruan tinggi di berbagai wilayah Indonesia untuk meningkatkan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/505506/gregoria-takluk-atas-an-se-young-di-semifinal-malaysia-masters",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU1MDYvZ3JlZ29yaWEtdGFrbHVrLWF0YXMtYW4tc2UteW91bmctZGktc2VtaWZpbmFsLW1hbGF5c2lhLW1hc3RlcnM=",
+        "description": "PEBULU tangkis tunggal putri Indonesia Gregoria Mariska Tunjung dihentikan wakil Korea Selatan, An Se Young pada babak semifinal Malaysia Masters 2022 dalam rubber game 18-21, 21-13, 8-21. Berlaga&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/505499/ditemukan-bocah-tewas-mengapung-di-perairan-tanjungpinang",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTUwMS9ibmktYmFudHUtcGVsYWt1LXVta20tZ28tZ2xvYmFs",
         "description": "Ekspansi kinerja internasional banking PT Bank Negara Indonesia (Persero) Tbk. atau BNI terus bertumbuh pesat khususnya dalam membantu pelaku UMKM Go Global. Kamar Dagang dan Industri (Kadin)&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/505500/jangan-sekadar-viral-konten-media-sosial-juga-perlu-konsisten",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1NTAwL2phbmdhbi1zZWthZGFyLXZpcmFsLWtvbnRlbi1tZWRpYS1zb3NpYWwtanVnYS1wZXJsdS1rb25zaXN0ZW4=",
-        "description": "Media sosial merupakan teknologi interaktif yang memungkinkan penciptaan, berbagi/pertukaran informasi, ide, minat karier, dan bentuk ekspresi lainnya melalui komunitas dan jaringan virtual. Tujuan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505496/longsor-timpa-rumah-anggota-kodam-pattimura-seorang-bocah-tewas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NDk2L2xvbmdzb3ItdGltcGEtcnVtYWgtYW5nZ290YS1rb2RhbS1wYXR0aW11cmEtc2VvcmFuZy1ib2NhaC10ZXdhcw==",
-        "description": "SEORANG bocah tewas dan tiga lain mengalami luka akibat longsor di kawasan kampus Institut Agama Islam Negeri (IAIN) Ambon di Batu Merah, Kecamatan Sirimau, Kota Ambon, Maluku, Jumat (8/7). Longsor&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/505498/atlet-panjat-tebing-indonesia-pecahkan-rekor-dunia-di-prancis",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU0OTgvYXRsZXQtcGFuamF0LXRlYmluZy1pbmRvbmVzaWEtcGVjYWhrYW4tcmVrb3ItZHVuaWEtZGktcHJhbmNpcw==",
-        "description": "Atlet nasional Federasi Panjat Tebing Indonesia (FPTI) Kiromal Katibin memecahkan rekor dunia di babak kualifikasi International Federation of Sport Climbing (IFSC) World Cup 2022 di Chamonix, Perancis,&#8230;"
     }
 ]
