@@ -1,5 +1,47 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505525/hipmi-jaya-womenpreneur-kampanyekan-supportpower-edukasi-seks-untuk-hindari-pelecehan-seksual",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NTI1L2hpcG1pLWpheWEtd29tZW5wcmVuZXVyLWthbXBhbnlla2FuLXN1cHBvcnRwb3dlci1lZHVrYXNpLXNla3MtdW50dWstaGluZGFyaS1wZWxlY2VoYW4tc2Vrc3VhbA==",
+        "description": "PELECEHAN seksual terhadap perempuan telah menjadi polemik yang terjadi di masyarakat. Tidak hanya terjadi di tingkat masyarakat kurang mampu, namun juga terjadi di institusi pendidikan. Pelecehan&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/505519/16-tewas-dalam-banjir-bandang-dekat-kuil-amarnath-india",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTUxOS8xNi10ZXdhcy1kYWxhbS1iYW5qaXItYmFuZGFuZy1kZWthdC1rdWlsLWFtYXJuYXRoLWluZGlh",
+        "description": "SEBANYAK 16 orang tewas di Kashmir yang dikelola India. Tim penyelamat mencari puluhan lain hilang. Ini setelah banjir bandang menyapu ratusan tenda di dekat situs ziarah Hindu yang populer. Sekitar&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/505523/inilah-manfaat-autentifikasi-dua-faktor",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1NTIzL2luaWxhaC1tYW5mYWF0LWF1dGVudGlmaWthc2ktZHVhLWZha3Rvcg==",
+        "description": "Perubahan gaya hidup serba digital terjadi seiring perkembangan teknologi. Kehadiran internet dan ponsel membuat dunia seakan berada dalam satu genggaman. Situasi ini membuat masyarakat harus memahami&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505522/presiden-jokowi-akan-salat-iduladha-1443-h-di-masjid-istiqlal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NTIyL3ByZXNpZGVuLWpva293aS1ha2FuLXNhbGF0LWlkdWxhZGhhLTE0NDMtaC1kaS1tYXNqaWQtaXN0aXFsYWw=",
+        "description": "PRESIDEN Joko Widodo direncanakan akan melaksanakan salat Iduladha 1443 Hijriah pada Minggu, ( 10/7) di Masjid Istiqlal, Jakarta. Kepala Sekretariat Presiden (Kasetpres) Heru Budi Hartono memastikan&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/505521/kerabat-jurnalis-al-jazeera-yang-terbunuh-minta-bertemu-biden",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTUyMS9rZXJhYmF0LWp1cm5hbGlzLWFsLWphemVlcmEteWFuZy10ZXJidW51aC1taW50YS1iZXJ0ZW11LWJpZGVu",
+        "description": "KELUARGA jurnalis Palestina-Amerika Serikat terkemuka Shireen Abu Akleh, yang ditembak mati di Tepi Barat yang diduduki, meminta Presiden AS Joe Biden pada Jumat (8/7) untuk bertemu selama kunjungannya&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505520/nasdem-dan-pdip-buka-peluang-berkoalisi-demi-usung-ganjar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU1MjAvbmFzZGVtLWRhbi1wZGlwLWJ1a2EtcGVsdWFuZy1iZXJrb2FsaXNpLWRlbWktdXN1bmctZ2FuamFy",
+        "description": "PARTAI NasDem menyatakan terbuka mengenai peluang membangun kolisi dengan Partai Demokrasi Indonesia Perjuangan (PDIP) dalam perhelatan Pemilu 2024 demi mengusung Gubernur Jawa Tengah (Jateng) Ganjar&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/505515/bmkg-catat-ada-49-gempa-susulan-di-jawa-timur",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTUxMS9pcmFuLXRhbmdrYXAtdG9rb2gtcmVmb3JtaXMtdGVya2VtdWth",
         "description": "PIHAK berwenang Iran menangkap politikus reformis Mostafa Tajzadeh, Jumat (8/7) malam. Ia dituduh melakukan konspirasi untuk bertindak melawan keamanan negara. Tajzadeh juga menghadapi tuduhan,&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/505510/act-penyelewengan-donasi-dan-terorisme",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDU1MTAvYWN0LXBlbnllbGV3ZW5nYW4tZG9uYXNpLWRhbi10ZXJvcmlzbWU=",
-        "description": "Aksi Cepat Tanggap atau lebih dikenal dengan ACT tengah menjadi sorotan. Bermula dari&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505509/polri-selidiki-penyimpangan-dana-korban-kecelakaan-lion-air-oleh-act",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU1MDkvcG9scmktc2VsaWRpa2ktcGVueWltcGFuZ2FuLWRhbmEta29yYmFuLWtlY2VsYWthYW4tbGlvbi1haXItb2xlaC1hY3Q=",
-        "description": "BARESKRIM Polri menyelidiki dugaan penyimpangan dana bantuan oleh pengurus Yayasan Aksi Cepat Tanggap (ACT) untuk disalurkan kepada ahli waris korban kecelakaan pesawat Lion Air JT-610 yang terjadi&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505517/ketua-bem-ri-sepakat-dengan-ajakan-kolaborasi-erik-thohir-pada-mahasiswa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NTE3L2tldHVhLWJlbS1yaS1zZXBha2F0LWRlbmdhbi1hamFrYW4ta29sYWJvcmFzaS1lcmlrLXRob2hpci1wYWRhLW1haGFzaXN3YQ==",
-        "description": "KETUA BEM Republik Indonesia Muhamad Abdul Muhtar menanggapi ajakan Menteri BUMN Erick Thohir agar mahasiswa tidak hanya sibuk di pergerakan tetapi harus mampu mengisi peluang-peluang yang ada untuk&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/505507/chico-ke-final-malaysia-masters-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU1MDcvY2hpY28ta2UtZmluYWwtbWFsYXlzaWEtbWFzdGVycy0yMDIy",
-        "description": "TUNGGAL putra Indonesia Chico Aura Dwi Wardoyo berhasil melenggang ke partai final Malaysia Masters 2022. Tiket ke laga puncak diraih Chico usai mengalahkan wakil Tiongkok, Lu Guang Zu, di Axiata Arena,&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505508/perkuat-inovasi-bskdn-kemendagri-gandeng-lima-perguruan-tinggi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NTA4L3Blcmt1YXQtaW5vdmFzaS1ic2tkbi1rZW1lbmRhZ3JpLWdhbmRlbmctbGltYS1wZXJndXJ1YW4tdGluZ2dp",
-        "description": "BADAN Strategi Kebijakan Dalam Negeri (BSKDN) Kementerian Dalam Negeri (Kemendagri) menandatangani perjanjian kerja sama dengan lima perguruan tinggi di berbagai wilayah Indonesia untuk meningkatkan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/505506/gregoria-takluk-atas-an-se-young-di-semifinal-malaysia-masters",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU1MDYvZ3JlZ29yaWEtdGFrbHVrLWF0YXMtYW4tc2UteW91bmctZGktc2VtaWZpbmFsLW1hbGF5c2lhLW1hc3RlcnM=",
-        "description": "PEBULU tangkis tunggal putri Indonesia Gregoria Mariska Tunjung dihentikan wakil Korea Selatan, An Se Young pada babak semifinal Malaysia Masters 2022 dalam rubber game 18-21, 21-13, 8-21. Berlaga&#8230;"
     }
 ]

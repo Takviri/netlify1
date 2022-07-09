@@ -1,5 +1,19 @@
 [
     {
+        "title": "Inflasi Merajalela, Pengusaha Antisipasi Kenaikan Harga",
+        "link": "https://www.cnbcindonesia.com/news/20220707130734-8-353720/inflasi-merajalela-pengusaha-antisipasi-kenaikan-harga",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEzMDczNC04LTM1MzcyMC9pbmZsYXNpLW1lcmFqYWxlbGEtcGVuZ3VzYWhhLWFudGlzaXBhc2kta2VuYWlrYW4taGFyZ2E=",
+        "description": " Inflasi Merajalela, Pengusaha Antisipasi Kenaikan Harga"
+    },
+    {
+        "title": "Covid-19 RI Nanjak Terus! Tembus 2.705 Kasus Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220709163656-4-354289/covid-19-ri-nanjak-terus-tembus-2705-kasus-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE2MzY1Ni00LTM1NDI4OS9jb3ZpZC0xOS1yaS1uYW5qYWstdGVydXMtdGVtYnVzLTI3MDUta2FzdXMtaGFyaS1pbmk=",
+        "description": " Perkembangan kasus Covid-19 hari ini kembali meningkat"
+    },
+    {
         "title": "Penghormatan Terakhir Untuk Shinzo Abe",
         "link": "https://www.cnbcindonesia.com/news/20220709160840-8-354280/penghormatan-terakhir-untuk-shinzo-abe",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTEyNTE0Ny00LTM1NDI0OC91cGRhdGUtaXVyYW4tcmVzbWktYnBqcy1rZXNlaGF0YW4tanVsaS0yMDIyLWphZGktc2VnaW5p",
         "description": " Skema dan besaran iuran masih sama dengan sebelumnya"
-    },
-    {
-        "title": "Harga Sepeda Brompton Terbaru, Turun Drastis dari Tahun Lalu?",
-        "link": "https://www.cnbcindonesia.com/news/20220709124547-4-354247/harga-sepeda-brompton-terbaru-turun-drastis-dari-tahun-lalu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTEyNDU0Ny00LTM1NDI0Ny9oYXJnYS1zZXBlZGEtYnJvbXB0b24tdGVyYmFydS10dXJ1bi1kcmFzdGlzLWRhcmktdGFodW4tbGFsdQ==",
-        "description": " Harga sepeda Brompton anjlok dalam beberapa waktu terakhir. Padahal saat pandemi lalu harganya terbilang mahal."
-    },
-    {
-        "title": "Orang RI Disebut Bakal Makin Susah Beli Rumah, Ini Sebabnya",
-        "link": "https://www.cnbcindonesia.com/news/20220709123250-4-354245/orang-ri-disebut-bakal-makin-susah-beli-rumah-ini-sebabnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTEyMzI1MC00LTM1NDI0NS9vcmFuZy1yaS1kaXNlYnV0LWJha2FsLW1ha2luLXN1c2FoLWJlbGktcnVtYWgtaW5pLXNlYmFibnlh",
-        "description": " Masyarakat Indonesia dinilai akan semakin sulit memiliki rumah di tengah tren kenaikan suku bunga acuan"
     }
 ]
