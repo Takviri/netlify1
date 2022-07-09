@@ -1,10 +1,24 @@
 [
     {
+        "title": "Sri Lanka Chaos Ribuan Warga Paksa Dobrak Rumah Presiden!",
+        "link": "https://www.cnbcindonesia.com/news/20220709155335-7-354271/sri-lanka-chaos-ribuan-warga-paksa-dobrak-rumah-presiden",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE1NTMzNS03LTM1NDI3MS9zcmktbGFua2EtY2hhb3MtcmlidWFuLXdhcmdhLXBha3NhLWRvYnJhay1ydW1haC1wcmVzaWRlbg==",
+        "description": " Presiden Gotabaya Rajapaksa dipindahkan dari tempat resmi pada hari Jumat untuk keselamatannya"
+    },
+    {
         "title": "Naik Terus! Berikut Grafik Pergerakan Kasus Covid RI Hari Ini",
         "link": "https://www.cnbcindonesia.com/news/20220709171525-16-354306/naik-terus-berikut-grafik-pergerakan-kasus-covid-ri-hari-ini",
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE3MTUyNS0xNi0zNTQzMDYvbmFpay10ZXJ1cy1iZXJpa3V0LWdyYWZpay1wZXJnZXJha2FuLWthc3VzLWNvdmlkLXJpLWhhcmktaW5p",
         "description": " Berdasarkan data Satuan Tugas Penanganan Covid-19, kasus konfirmasi harian pada hari ini mencapai 2.705 kasus."
+    },
+    {
+        "title": "Aturan Naik Pesawat Terbaru: Belum Booster, Wajib PCR!",
+        "link": "https://www.cnbcindonesia.com/news/20220709160130-4-354279/aturan-naik-pesawat-terbaru-belum-booster-wajib-pcr",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE2MDEzMC00LTM1NDI3OS9hdHVyYW4tbmFpay1wZXNhd2F0LXRlcmJhcnUtYmVsdW0tYm9vc3Rlci13YWppYi1wY3I=",
+        "description": " Berikut aturan terbaru syarat perjalanan naik pesawat yang dirilis Satgas Penanganan Covid-19"
     },
     {
         "title": "Yuk Simak! Suasana Idul Adha di Filipina",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE2MDg0MC04LTM1NDI4MC9wZW5naG9ybWF0YW4tdGVyYWtoaXItdW50dWstc2hpbnpvLWFiZQ==",
         "description": " Penghormatan Terakhir Untuk Shinzo Abe"
-    },
-    {
-        "title": "Eks Presiden Angola Wafat, Wariskan Jejak Korupsi Mendunia!",
-        "link": "https://www.cnbcindonesia.com/news/20220709141232-4-354261/eks-presiden-angola-wafat-wariskan-jejak-korupsi-mendunia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE0MTIzMi00LTM1NDI2MS9la3MtcHJlc2lkZW4tYW5nb2xhLXdhZmF0LXdhcmlza2FuLWplamFrLWtvcnVwc2ktbWVuZHVuaWE=",
-        "description": " Eks Presiden Angola Jose Eduardo dos Santos meninggal dunia pada usia 79 tahun"
-    },
-    {
-        "title": "Lagi Cari Fortuner dan Pajero Bekas? Segini Harganya Sekarang",
-        "link": "https://www.cnbcindonesia.com/news/20220709135827-4-354254/lagi-cari-fortuner-dan-pajero-bekas-segini-harganya-sekarang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTEzNTgyNy00LTM1NDI1NC9sYWdpLWNhcmktZm9ydHVuZXItZGFuLXBhamVyby1iZWthcy1zZWdpbmktaGFyZ2FueWEtc2VrYXJhbmc=",
-        "description": " Penjualan mobil bekas semakin meningkat di mana mobil yang terjual didominasi oleh mobil dengan segmentasi menengah ke bawah"
     }
 ]
