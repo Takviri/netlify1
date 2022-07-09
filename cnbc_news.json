@@ -1,5 +1,40 @@
 [
     {
+        "title": "Naik Terus! Berikut Grafik Pergerakan Kasus Covid RI Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220709171525-16-354306/naik-terus-berikut-grafik-pergerakan-kasus-covid-ri-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE3MTUyNS0xNi0zNTQzMDYvbmFpay10ZXJ1cy1iZXJpa3V0LWdyYWZpay1wZXJnZXJha2FuLWthc3VzLWNvdmlkLXJpLWhhcmktaW5p",
+        "description": " Berdasarkan data Satuan Tugas Penanganan Covid-19, kasus konfirmasi harian pada hari ini mencapai 2.705 kasus."
+    },
+    {
+        "title": "Yuk Simak! Suasana Idul Adha di Filipina",
+        "link": "https://www.cnbcindonesia.com/news/20220709160934-8-354281/yuk-simak-suasana-idul-adha-di-filipina",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE2MDkzNC04LTM1NDI4MS95dWstc2ltYWstc3Vhc2FuYS1pZHVsLWFkaGEtZGktZmlsaXBpbmE=",
+        "description": " Inilah suasana ratusan Muslim Filipina berkumpul di sebuah taman umum di Kota Quezon"
+    },
+    {
+        "title": "Jokowi dan iriana Dipastikan Salat Idul Adha di Masjid Istiqlal",
+        "link": "https://www.cnbcindonesia.com/news/20220709171636-4-354305/jokowi-iriana-dipastikan-salat-idul-adha-di-masjid-istiqlal",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE3MTYzNi00LTM1NDMwNS9qb2tvd2ktaXJpYW5hLWRpcGFzdGlrYW4tc2FsYXQtaWR1bC1hZGhhLWRpLW1hc2ppZC1pc3RpcWxhbA==",
+        "description": " Jokowi untuk pertama kalinya sejak pandemi akan melaksanakan salat Idul Adha di Masjid Istiqlal"
+    },
+    {
+        "title": "Ini Dia Mesin Pembunuh Rusia yang Paling Ditakuti Ukraina",
+        "link": "https://www.cnbcindonesia.com/news/20220709154728-4-354270/ini-dia-mesin-pembunuh-rusia-yang-paling-ditakuti-ukraina",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE1NDcyOC00LTM1NDI3MC9pbmktZGlhLW1lc2luLXBlbWJ1bnVoLXJ1c2lhLXlhbmctcGFsaW5nLWRpdGFrdXRpLXVrcmFpbmE=",
+        "description": " Ada salah satu jenis persenjataan Rusia yang ditakuti pasukan Ukraina di medan perang"
+    },
+    {
+        "title": "Momen Tangis Prabowo Tumpah Disambut Penerbang Jet Tempur",
+        "link": "https://www.cnbcindonesia.com/news/20220709141001-7-354255/momen-tangis-prabowo-tumpah-disambut-penerbang-jet-tempur",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE0MTAwMS03LTM1NDI1NS9tb21lbi10YW5naXMtcHJhYm93by10dW1wYWgtZGlzYW1idXQtcGVuZXJiYW5nLWpldC10ZW1wdXI=",
+        "description": " Sambutan kedatangan Prabowo dari para penerbang jet tempur Lapangan Udara Iswahjudi."
+    },
+    {
         "title": "Inflasi Merajalela, Pengusaha Antisipasi Kenaikan Harga",
         "link": "https://www.cnbcindonesia.com/news/20220707130734-8-353720/inflasi-merajalela-pengusaha-antisipasi-kenaikan-harga",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTEzNTgyNy00LTM1NDI1NC9sYWdpLWNhcmktZm9ydHVuZXItZGFuLXBhamVyby1iZWthcy1zZWdpbmktaGFyZ2FueWEtc2VrYXJhbmc=",
         "description": " Penjualan mobil bekas semakin meningkat di mana mobil yang terjual didominasi oleh mobil dengan segmentasi menengah ke bawah"
-    },
-    {
-        "title": "Luhut Ngamuk, Minyak Sawit Indonesia Malah Diatur Malaysia",
-        "link": "https://www.cnbcindonesia.com/news/20220709133605-4-354253/luhut-ngamuk-minyak-sawit-indonesia-malah-diatur-malaysia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTEzMzYwNS00LTM1NDI1My9sdWh1dC1uZ2FtdWstbWlueWFrLXNhd2l0LWluZG9uZXNpYS1tYWxhaC1kaWF0dXItbWFsYXlzaWE=",
-        "description": " Menko Marves\u00c2\u00a0Luhut Binsar Pandjaitan jengkel karena harga sawit masih mengikuti standar yang ditetapkan Malaysia"
-    },
-    {
-        "title": "PLN Siaga Penuh Jaga Keandalan Pasokan Listrik di Idul Adha",
-        "link": "https://www.cnbcindonesia.com/news/20220709150308-4-354265/pln-siaga-penuh-jaga-keandalan-pasokan-listrik-di-idul-adha",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE1MDMwOC00LTM1NDI2NS9wbG4tc2lhZ2EtcGVudWgtamFnYS1rZWFuZGFsYW4tcGFzb2thbi1saXN0cmlrLWRpLWlkdWwtYWRoYQ==",
-        "description": " Pasokan listrik dipastikan dalam kondisi aman untuk melayani kebutuhan masyarakat dengan total daya mampu pembangkit di Indonesia mencapai 45,1 gigawatt (GW)."
-    },
-    {
-        "title": "Pengusaha Khawatir Wajib Vaksin Booster Tekan Kunjungan Mal",
-        "link": "https://www.cnbcindonesia.com/news/20220707120820-8-353685/pengusaha-khawatir-wajib-vaksin-booster-tekan-kunjungan-mal",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNzEyMDgyMC04LTM1MzY4NS9wZW5ndXNhaGEta2hhd2F0aXItd2FqaWItdmFrc2luLWJvb3N0ZXItdGVrYW4ta3VuanVuZ2FuLW1hbA==",
-        "description": " Pengusaha Khawatir Wajib Vaksin Booster Tekan Kunjungan Mal"
-    },
-    {
-        "title": "Tangis Prabowo Pecah Kala Disambut Jet Tempur Lanud Iswahjudi",
-        "link": "https://www.cnbcindonesia.com/news/20220709142240-4-354262/tangis-prabowo-pecah-kala-disambut-jet-tempur-lanud-iswahjudi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE0MjI0MC00LTM1NDI2Mi90YW5naXMtcHJhYm93by1wZWNhaC1rYWxhLWRpc2FtYnV0LWpldC10ZW1wdXItbGFudWQtaXN3YWhqdWRp",
-        "description": " Prabowo terharu bangga saat disambut sejumlah penerbang pesawat jet tempur TNI AL"
-    },
-    {
-        "title": "Update Iuran Resmi BPJS Kesehatan Juli 2022, Jadi Segini?",
-        "link": "https://www.cnbcindonesia.com/news/20220709125147-4-354248/update-iuran-resmi-bpjs-kesehatan-juli-2022-jadi-segini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTEyNTE0Ny00LTM1NDI0OC91cGRhdGUtaXVyYW4tcmVzbWktYnBqcy1rZXNlaGF0YW4tanVsaS0yMDIyLWphZGktc2VnaW5p",
-        "description": " Skema dan besaran iuran masih sama dengan sebelumnya"
     }
 ]
