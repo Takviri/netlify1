@@ -1,5 +1,19 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505562/erick-thohir-lampung-potensial-jadi-pusat-ekonomi-baru",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NTYyL2VyaWNrLXRob2hpci1sYW1wdW5nLXBvdGVuc2lhbC1qYWRpLXB1c2F0LWVrb25vbWktYmFydQ==",
+        "description": "MENTERI BUMN Erick Thohir meyakini Provinsi Lampung akan menjadi pusat pertumbuhan ekonomi baru di Indonesia karena lokasinya berada strategis menghubungkan Pulau Sumatera dan Pulau Jawa. &quot;Lampung&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505561/liburan-panjang-hunian-hotel-di-cipanas-puncak-naik-65-persen",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NTYxL2xpYnVyYW4tcGFuamFuZy1odW5pYW4taG90ZWwtZGktY2lwYW5hcy1wdW5jYWstbmFpay02NS1wZXJzZW4=",
+        "description": "PERHIMPUNAN Hotel dan Restoran Indonesia (PHRI) Cianjur, Jawa Barat, mencatat tingkat hunian hotel di kawasan Cipanas-Puncak mengalami peningkatan sebesar 65 persen saat libur sekolah dan Hari Raya&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/505560/ketum-pp-muhammadiyah-idul-adha-hidupkan-kembali-jiwa-dan-semangat-berbagi",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NTU0L3NhdGdhcy1rYXN1cy1wb3NpdGlmLWNvdmlkLTE5LWJlcnRhbWJhaC0yNzA1",
         "description": "SATUAN Tugas (Satgas) Penanganan Covid-19 mencatat kasus positif di Indonesia bertambah sebanyak 2.705 kasus hingga pukul 12.00 WIB. Menurut data Satgas yang diterima ANTARA di Jakarta, Sabtu,&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/505548/laporta-ultimatum-dembele-terima-tawaran-barcelona-atau-hengkang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTU0OC9sYXBvcnRhLXVsdGltYXR1bS1kZW1iZWxlLXRlcmltYS10YXdhcmFuLWJhcmNlbG9uYS1hdGF1LWhlbmdrYW5n",
-        "description": "MASA depan Ousmane Dembele di Barcelona masih belum jelas. Ia belum memutuskan apakah akan bertahan atau memilih hengkang. Kontrak pemain internasional Prancis itu sebenarnya telah habis bulan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505555/pelaku-penyelewengan-dana-umat-di-act-terancam-20-tahun-penjara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU1NTUvcGVsYWt1LXBlbnllbGV3ZW5nYW4tZGFuYS11bWF0LWRpLWFjdC10ZXJhbmNhbS0yMC10YWh1bi1wZW5qYXJh",
-        "description": "BADAN Reserse Kriminal (Bareskrim) Polri belum mengungkap tersangka penyelewengan dana umat di lembaga filantropi Aksi Cepat Tanggap (ACT). Namun, para pelaku dalam kasus itu terancam pasal berlapis.&#8230;"
     }
 ]
