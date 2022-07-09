@@ -1,5 +1,47 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505499/ditemukan-bocah-tewas-mengapung-di-perairan-tanjungpinang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NDk5L2RpdGVtdWthbi1ib2NhaC10ZXdhcy1tZW5nYXB1bmctZGktcGVyYWlyYW4tdGFuanVuZ3BpbmFuZw==",
+        "description": "SEORANG bocah laki-laki ditemukan tewas mengapung di sekitar perairan Pelabuhan Sri Bintan Pura (SBP)&nbsp;Tanjungpinang, Provinsi Kepulauan Riau (Kepri), Sabtu (9/7), sekitar pukul 11.40 WIB.&nbsp;&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505505/wapres-berkurban-dengan-hewan-terjangkit-pmk-hukumnya-tidak-sah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NTA1L3dhcHJlcy1iZXJrdXJiYW4tZGVuZ2FuLWhld2FuLXRlcmphbmdraXQtcG1rLWh1a3VtbnlhLXRpZGFrLXNhaA==",
+        "description": "WAKIL Presiden (Wapres) mengingatkan umat muslim untuk berkurban dengan hewan yang sehat. Dipastikan hewan tersebut tidak mengalami penyakit mulut dan kuku (PMK). &quot;Bekurban dengan hewan&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/505495/empat-tewas-dalam-penusukan-di-rumah-sakit-shanghai",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTQ5NS9lbXBhdC10ZXdhcy1kYWxhbS1wZW51c3VrYW4tZGktcnVtYWgtc2FraXQtc2hhbmdoYWk=",
+        "description": "EMPAT orang tewas ditikam dalam rumah sakit besar di Shanghai, Tiongkok, pada Sabtu (9/7) pagi. Penyerang yang menggunakan pisau lantas ditembak dan dilumpuhkan oleh petugas. Polisi distrik&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/505504/kiat-agar-mudah-beradaptasi-di-era-digitalisasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1NTA0L2tpYXQtYWdhci1tdWRhaC1iZXJhZGFwdGFzaS1kaS1lcmEtZGlnaXRhbGlzYXNp",
+        "description": "Pengguna internet setiap tahun terus meningkat. Menurut survei We Are Social dan HootSuit pada 2022, ada sebanyak 204,7 juta pengguna internet yang setara dengan 73,7% dari populasi penduduk Indonesia.&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/505503/ratusan-keong-darat-raksasa-afrika-muncul-di-florida",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTUwMy9yYXR1c2FuLWtlb25nLWRhcmF0LXJha3Nhc2EtYWZyaWthLW11bmN1bC1kaS1mbG9yaWRh",
+        "description": "Keong darat raksasa Afrika muncul di Pantai Teluk, Florida, menurut pihak berwenang pada Jumat (8/7). Kehadiran hewan itu mengancam tanaman dan pohon dan berisiko menularkan sejenis penyakit meningitis&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505502/mentan-syl-lepas-kembali-ekspor-porang-ke-tiongkok",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTUwMi9tZW50YW4tc3lsLWxlcGFzLWtlbWJhbGktZWtzcG9yLXBvcmFuZy1rZS10aW9uZ2tvaw==",
+        "description": "MENTERI Pertanian Syahrul Yasin Limpo (Mentan SYL) melepas ekspor chip porang ke Tiongkok sebanyak 110 ton, nilanya Rp4 miliar di pabrik porang PT Insan Agro Sejahtera di Dusun Panjojo, Desa Lassang&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/505501/bni-bantu-pelaku-umkm-go-global",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU0OTgvYXRsZXQtcGFuamF0LXRlYmluZy1pbmRvbmVzaWEtcGVjYWhrYW4tcmVrb3ItZHVuaWEtZGktcHJhbmNpcw==",
         "description": "Atlet nasional Federasi Panjat Tebing Indonesia (FPTI) Kiromal Katibin memecahkan rekor dunia di babak kualifikasi International Federation of Sport Climbing (IFSC) World Cup 2022 di Chamonix, Perancis,&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/505497/tips-produktif-dan-menghasilkan-dari-media-sosial-untuk-pemula",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1NDk3L3RpcHMtcHJvZHVrdGlmLWRhbi1tZW5naGFzaWxrYW4tZGFyaS1tZWRpYS1zb3NpYWwtdW50dWstcGVtdWxh",
-        "description": "Internet telah menjembatani orang dari berbagai penjuru dunia untuk berkomunikasi dan berinteraksi. memungkinan penggunanya untuk memanfaatkan peluang yang ada di dalamnya untuk berkarya, bahkan menghasilkan&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/505493/polisi-tahan-pria-yang-viral-masturbasi-di-krl",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU0OTMvcG9saXNpLXRhaGFuLXByaWEteWFuZy12aXJhbC1tYXN0dXJiYXNpLWRpLWtybA==",
-        "description": "POLRES Jakarta Selatan menahan pria yang viral karena pernah masturbasi di kereta rel listrik atau KRL. Sebelumnya, pria tersebut diserahkan ke polisi oleh petugas keamanan Trans-Jakarta. Kasat&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505494/pelaku-perjalanan-kini-wajib-vaksinasi-booster",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NDk0L3BlbGFrdS1wZXJqYWxhbmFuLWtpbmktd2FqaWItdmFrc2luYXNpLWJvb3N0ZXI=",
-        "description": "SATGAS Covid-19 mengeluarkan aturan baru terkait dengan pelaku perjalanan dalam negeri (PPDN). Hal itu tertuang dalam SE No.21/2022 terkait PPDN, terdapat beberapa penyesuaian. Salah satunya yakni&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505492/keuntungan-peternak-merosot-saat-idul-adha-akibat-pmk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NDkyL2tldW50dW5nYW4tcGV0ZXJuYWstbWVyb3NvdC1zYWF0LWlkdWwtYWRoYS1ha2liYXQtcG1r",
-        "description": "PETERNAK&nbsp;Okky Pratama biasanya menjual lusinan sapi untuk Idul Adha. Namun tahun ini ia hanya menjual lima ekor. Wabah penyakit mulut dan kuku (PMK) melanda dua provinsi di Indonesia sejak&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505491/tim-temukan-wisatawan-yang-hilang-di-pantai-madasari-pangandaran",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NDkxL3RpbS10ZW11a2FuLXdpc2F0YXdhbi15YW5nLWhpbGFuZy1kaS1wYW50YWktbWFkYXNhcmktcGFuZ2FuZGFyYW4=",
-        "description": "TIM SAR Gabungan menemukan korban atas nama Sahrul Hidayah, 13, wisatawan yang dilaporkan terseret arus di Pantai Madasari saat berenang bersama rekannya pada Kamis (7/7) sekitar pukul 04.00 WIB. Penemuan&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/505490/presiden-jokowi-berencana-kunjungi-jepang-akhir-juli",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTQ5MC9wcmVzaWRlbi1qb2tvd2ktYmVyZW5jYW5hLWt1bmp1bmdpLWplcGFuZy1ha2hpci1qdWxp",
-        "description": "PRESIDEN Joko Widodo berencana untuk mengunjungi Jepang pada akhir Juli 2022, menurut Kementerian Luar Negeri dalam keterangan tertulis, hari ini. Rencana kunjungan tersebut dibahas dalam pertemuan&#8230;"
     }
 ]
