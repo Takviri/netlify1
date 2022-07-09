@@ -1,6 +1,20 @@
 [
     {
         "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505470/dianugerahi-akhlak-award-2-ini-komitmen-holding-bumn-farmasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NDcwL2RpYW51Z2VyYWhpLWFraGxhay1hd2FyZC0yLWluaS1rb21pdG1lbi1ob2xkaW5nLWJ1bW4tZmFybWFzaQ==",
+        "description": "Holding BUMN Farmasi (Bio Farma, Kimia Farma dan Indofarma) mendapatkan anugerah AKHLAK Award 2, dari Kementerian BUMN, pada acara Refleksi 2 Tahun AKHLAK BUMN-AKHLAK Award 2022,di Jakarta, Selasa&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/505469/as-buka-penyelidikan-kecelakaan-tesla-yang-mencelakakan-pejalan-kaki",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTQ2OS9hcy1idWthLXBlbnllbGlkaWthbi1rZWNlbGFrYWFuLXRlc2xhLXlhbmctbWVuY2VsYWtha2FuLXBlamFsYW4ta2FraQ==",
+        "description": "Badan Keselamatan Lalu Lintas Jalan Raya Nasional Amerika Serikat (NHTSA) telah membuka penyelidikan khusus terhadap kecelakaan pejalan kaki yang fatal di California yang melibatkan Tesla Model 3 2018,&#8230;"
+    },
+    {
+        "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/505460/google-bagikan-kiat-manfaatkan-fitur-bagi-anak-dan-orang-tua",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NDYwL2dvb2dsZS1iYWdpa2FuLWtpYXQtbWFuZmFhdGthbi1maXR1ci1iYWdpLWFuYWstZGFuLW9yYW5nLXR1YQ==",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU0NjMvcG9zaXRpdml0eS1yYXRlLTEyLWthc3VzLWNvdmlkLTE5LWpha2FydGEtMTAwMTg=",
         "description": "Pemprov DKI Jakarta terus melaporkan tren kasus baru covid-19. Data terbaru per Jumat (8/7), kini kasus aktif covid-19 sudah tembus angka 10.018kasus. Hal ini disampaikan oleh Kepala Bidang Pencegahan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505462/kemenkop-ukm-ajak-dekopin-terlibat-dalam-proses-pembahasan-ruu-perkoperasian",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTQ2Mi9rZW1lbmtvcC11a20tYWphay1kZWtvcGluLXRlcmxpYmF0LWRhbGFtLXByb3Nlcy1wZW1iYWhhc2FuLXJ1dS1wZXJrb3BlcmFzaWFu",
-        "description": "Kementerian Koperasi dan UKM saat ini tengah menyusun draft Rancangan Undang-Undang Perkoperasian untuk mengganti UU Nomor 25 Tahun 1992. Dengan harapan RUU ini dapat menjadi landasan hukum progresif&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505461/lagi-pemprov-kep-babel-gelar-rakor-untuk-perbaiki-tata-kelola-pertambangan-timah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NDYxL2xhZ2ktcGVtcHJvdi1rZXAtYmFiZWwtZ2VsYXItcmFrb3ItdW50dWstcGVyYmFpa2ktdGF0YS1rZWxvbGEtcGVydGFtYmFuZ2FuLXRpbWFo",
-        "description": "UPAYA dan komitmen Pemerintah Provinsi Kepulauan Bangka Belitung (Pemprov. Kep. Babel) memperbaiki tata kelola pertambangan timah, pada prinsipnya bertujuan semata-mata untuk mensejahterakan masyarakat.&#8230;"
     }
 ]
