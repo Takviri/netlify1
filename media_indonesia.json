@@ -1,6 +1,27 @@
 [
     {
         "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/505441/memahami-hubungan-antara-orang-ekstrovert-dan-introvert",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNTQ0MS9tZW1haGFtaS1odWJ1bmdhbi1hbnRhcmEtb3JhbmctZWtzdHJvdmVydC1kYW4taW50cm92ZXJ0",
+        "description": "Apakah orang introvert dan ekstrovert dapat hidup bersama secara harmonis mengingat mereka memiliki sifat berbeda?&nbsp; &quot;Seorang introvert bukan hanya orang yang pemalu. Sebaliknya, seorang&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505442/program-hijau-biru-babelku-perbaiki-kualitas-lingkungan-di-babel",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NDQyL3Byb2dyYW0taGlqYXUtYmlydS1iYWJlbGt1LXBlcmJhaWtpLWt1YWxpdGFzLWxpbmdrdW5nYW4tZGktYmFiZWw=",
+        "description": "PENJABAT (Pj) Gubernur Kepulauan Bangka Belitung (Kep. Babel), Ridwan Djamaluddin kembali menggagas program penanaman hutan di Kep. Babel.&nbsp; Program yang akan dinamai 'Hijau Biru Babelku'&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/505438/amarah-bora-chung-dalam-cursed-bunny",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNTQzOC9hbWFyYWgtYm9yYS1jaHVuZy1kYWxhbS1jdXJzZWQtYnVubnk=",
+        "description": "RANAH sastra Asia kembali dikejutkan kehadiran Cursed Bunny. Buku tersebut merupakan kumpulan cerita pendek karya penulis perempuan asal Korea Selatan, Bora Chung. Setelah pertama kali&#8230;"
+    },
+    {
+        "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/505437/kompleksitas-perjumpaan-al-quran-dan-perempuan-di-era-kiwari",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNTQzNy9rb21wbGVrc2l0YXMtcGVyanVtcGFhbi1hbC1xdXJhbi1kYW4tcGVyZW1wdWFuLWRpLWVyYS1raXdhcmk=",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDU0MzQva2VuYWxpLXBlbWFoYW1hbi1oZWFsaW5nLXlhbmctdGVwYXQ=",
         "description": "DAMPAK perubahan dari situasi kehidupan pada masa pandemi dua tahun belakangan ini memberikan banyak sekali pengaruh bagi kehidupan setiap orang. Hal tersebut dapat dilihat dari perubahan dari konstruk&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505433/dorong-pengelolaan-dana-desa-lebih-baik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTQzMy9kb3JvbmctcGVuZ2Vsb2xhYW4tZGFuYS1kZXNhLWxlYmloLWJhaWs=",
-        "description": "WAKIL Menteri Keuangan Suahasil Nazara mendorong desa mengelola serta memanfaatkan dana desa dengan baik. Dengen begitu, dana desa diharapkan dapat memberikan manfaat kepada masyarakat pedesaan.&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505432/masa-liburan-kunjungan-wisatawan-di-dataran-tinggi-dieng-meningkat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NDMyL21hc2EtbGlidXJhbi1rdW5qdW5nYW4td2lzYXRhd2FuLWRpLWRhdGFyYW4tdGluZ2dpLWRpZW5nLW1lbmluZ2thdA==",
-        "description": "KAWASAN wisata dataran tinggi Dieng yang berada di perbatasan Wonosobo dan Banjarnegara, Jawa Tengah (Jateng) dIserbu pengunjung. Tidak hanya tempat wisata candi di Kompleks Candi Arjuna saja, melainkan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/505431/persita-masih-buru-pemain-baru",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTQzMS9wZXJzaXRhLW1hc2loLWJ1cnUtcGVtYWluLWJhcnU=",
-        "description": "PERSITA Tangerang masih menunggu kedatangan pemain baru untuk memaksimalkan kekuatan dalam melakoni Liga 1 2022/2023 yang mulai bergulir 23 Juli mendatang. Dengan masih tersisanya satu slot pemain&#8230;"
     }
 ]
