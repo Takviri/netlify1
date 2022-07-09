@@ -1,5 +1,26 @@
 [
     {
+        "title": "Ini Hasil Rekomendasi Dialog B20-G20 Indonesia",
+        "link": "https://www.cnbcindonesia.com/news/20220709191239-4-354328/ini-hasil-rekomendasi-dialog-b20-g20-indonesia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE5MTIzOS00LTM1NDMyOC9pbmktaGFzaWwtcmVrb21lbmRhc2ktZGlhbG9nLWIyMC1nMjAtaW5kb25lc2lh",
+        "description": " Pemerintah sangat terbantu dengan bahasan dan rekomendasi dari B20 Digitalization Task Force yang sejalan dengan visi utama Presidensi G20 Indonesia."
+    },
+    {
+        "title": "Lokasi Pembunuhan Shinzo Abe Dibanjiri Karangan Bunga",
+        "link": "https://www.cnbcindonesia.com/news/20220709175705-4-354318/lokasi-pembunuhan-shinzo-abe-dibanjiri-karangan-bunga",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE3NTcwNS00LTM1NDMxOC9sb2thc2ktcGVtYnVudWhhbi1zaGluem8tYWJlLWRpYmFuamlyaS1rYXJhbmdhbi1idW5nYQ==",
+        "description": " Terlihat lebih dari 100 orang mengantre untuk meletakan bunga di tengah hari pada sebuah meja yang disediakan"
+    },
+    {
+        "title": "Potret Menlu Rusia 'Diteriaki', Hingga Walkout dari G20 Bali",
+        "link": "https://www.cnbcindonesia.com/news/20220705214524-7-353218/potret-menlu-rusia-diteriaki-hingga-walkout-dari-g20-bali",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwNTIxNDUyNC03LTM1MzIxOC9wb3RyZXQtbWVubHUtcnVzaWEtZGl0ZXJpYWtpLWhpbmdnYS13YWxrb3V0LWRhcmktZzIwLWJhbGk=",
+        "description": " Menteri Luar Negeri (Menlu) Rusia Sergei Lavrov keluar (walk out) saat negara-negara Barat mengkritik Moskow"
+    },
+    {
         "title": "Bukan Demam, Ini Gejala Awal Saat Kasus Covid RI Meledak Lagi",
         "link": "https://www.cnbcindonesia.com/news/20220709170931-4-354304/bukan-demam-ini-gejala-awal-saat-kasus-covid-ri-meledak-lagi",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE2MDEzMC00LTM1NDI3OS9hdHVyYW4tbmFpay1wZXNhd2F0LXRlcmJhcnUtYmVsdW0tYm9vc3Rlci13YWppYi1wY3I=",
         "description": " Berikut aturan terbaru syarat perjalanan naik pesawat yang dirilis Satgas Penanganan Covid-19"
-    },
-    {
-        "title": "Yuk Simak! Suasana Idul Adha di Filipina",
-        "link": "https://www.cnbcindonesia.com/news/20220709160934-8-354281/yuk-simak-suasana-idul-adha-di-filipina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE2MDkzNC04LTM1NDI4MS95dWstc2ltYWstc3Vhc2FuYS1pZHVsLWFkaGEtZGktZmlsaXBpbmE=",
-        "description": " Inilah suasana ratusan Muslim Filipina berkumpul di sebuah taman umum di Kota Quezon"
-    },
-    {
-        "title": "Jokowi dan iriana Dipastikan Salat Idul Adha di Masjid Istiqlal",
-        "link": "https://www.cnbcindonesia.com/news/20220709171636-4-354305/jokowi-iriana-dipastikan-salat-idul-adha-di-masjid-istiqlal",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE3MTYzNi00LTM1NDMwNS9qb2tvd2ktaXJpYW5hLWRpcGFzdGlrYW4tc2FsYXQtaWR1bC1hZGhhLWRpLW1hc2ppZC1pc3RpcWxhbA==",
-        "description": " Jokowi untuk pertama kalinya sejak pandemi akan melaksanakan salat Idul Adha di Masjid Istiqlal"
-    },
-    {
-        "title": "Ini Dia Mesin Pembunuh Rusia yang Paling Ditakuti Ukraina",
-        "link": "https://www.cnbcindonesia.com/news/20220709154728-4-354270/ini-dia-mesin-pembunuh-rusia-yang-paling-ditakuti-ukraina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE1NDcyOC00LTM1NDI3MC9pbmktZGlhLW1lc2luLXBlbWJ1bnVoLXJ1c2lhLXlhbmctcGFsaW5nLWRpdGFrdXRpLXVrcmFpbmE=",
-        "description": " Ada salah satu jenis persenjataan Rusia yang ditakuti pasukan Ukraina di medan perang"
     }
 ]
