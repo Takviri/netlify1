@@ -1,6 +1,41 @@
 [
     {
         "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505544/kasus-positif-covid-19-di-diy-alami-peningkatan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NTQ0L2thc3VzLXBvc2l0aWYtY292aWQtMTktZGktZGl5LWFsYW1pLXBlbmluZ2thdGFu",
+        "description": "DALAM tiga hari terakhir kasus terkonfirmasi positif covid-19 di Daerah Istimewa Yogyakarta (DIY) terus meningkat. Namun, kasus sembuh juga mengalami peningkatan. Kabag Humas Pemda DIY, Ditya&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505549/komnas-ham-desak-polri-terapkan-uu-tpks-jerat-pelaku-kejahatan-seksual",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU1NDkva29tbmFzLWhhbS1kZXNhay1wb2xyaS10ZXJhcGthbi11dS10cGtzLWplcmF0LXBlbGFrdS1rZWphaGF0YW4tc2Vrc3VhbA==",
+        "description": "KOMISI Nasional Hak Asasi Manusia (Komnas HAM) RI mendesak Kepolisian Republik Indonesia (Polri) segera menerapkan Undang-Undang Tindak Pidana Kekerasan Seksual (TPKS) untuk menjerat pelaku kejahatan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505534/cabai-rawit-merah-di-kudus-tembus-rp100-ribu-per-kilogram",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NTM0L2NhYmFpLXJhd2l0LW1lcmFoLWRpLWt1ZHVzLXRlbWJ1cy1ycDEwMC1yaWJ1LXBlci1raWxvZ3JhbQ==",
+        "description": "JELANG Hari Raya Idul Adha harga kebutuhan pokok di Pasar Tradisional Bitingan Kudus, Jawa Tengah, masih cukup tinggi. Kebutuhan pokok yang cukup tinggi terjadi pada komoditas cabai dan bawang merah.&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/505539/pss-usung-misi-balas-dendam-di-kandang-borneo-fc",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTUzOS9wc3MtdXN1bmctbWlzaS1iYWxhcy1kZW5kYW0tZGkta2FuZGFuZy1ib3JuZW8tZmM=",
+        "description": "PSS Sleman mengusung misi balas dendam saat melawat ke kandang Borneo FC pada leg kedua semifinal Piala Presiden 2022 di Stadion Segiri Samarinda, Senin (11/7) mendatang. Kalah 0-2 di lega pertama,&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505545/publik-diminta-bijak-sikapi-pembentukan-opini-act-terkait-terorisme",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU1NDUvcHVibGlrLWRpbWludGEtYmlqYWstc2lrYXBpLXBlbWJlbnR1a2FuLW9waW5pLWFjdC10ZXJrYWl0LXRlcm9yaXNtZQ==",
+        "description": "PAKAR komunikasi dari Universitas Sahid Jakarta Dr Algooth Putranto meminta publik lebih bijaksana dalam menyikapi pembentukan opini publik yang mengaitkan Yayasan Aksi Cepat Tanggap (ACT) dengan kelompok&#8230;"
+    },
+    {
+        "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/505538/apdesi-ingin-mainkan-peran-dalam-pembangunan-ikn",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NTM4L2FwZGVzaS1pbmdpbi1tYWlua2FuLXBlcmFuLWRhbGFtLXBlbWJhbmd1bmFuLWlrbg==",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1NTQxL3JvYWRzaG93LWJsb2NrY2hhaW4tNTAtcmVsaWN0dW1pby1zYW1idXQtZ3RuLW5haWstZGktbGJhbms=",
         "description": "PADA pekan lalu,&nbsp;Digital Asset Academy menyelenggarakan puncak Roadshow GTN (Genesis Token) Blokchain 5.0 Relictum.io di Hotel MaxOne Malang, Jawa Timur. Kegiatan ini merupakan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/505535/indonesia-belum-pasti-ke-semifinal-aff-u-19-meskipun-kalahkan-myanmar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU1MzUvaW5kb25lc2lhLWJlbHVtLXBhc3RpLWtlLXNlbWlmaW5hbC1hZmYtdS0xOS1tZXNraXB1bi1rYWxhaGthbi1teWFubWFy",
-        "description": "TIM nasional U-19 Indonesia belum tentu lolos ke semifinal Piala AFF U-19 2022 andai mengalahkan Myanmar pada laga pamungkas Grup A di Stadion Patriot Candrabhaga, Bekasi, Minggu (10/7). Hal&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505540/terinspirasi-perjuangan-ke-sekolah-mak-ganjar-beri-bantuan-dan-gelar-bansos",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NTQwL3Rlcmluc3BpcmFzaS1wZXJqdWFuZ2FuLWtlLXNla29sYWgtbWFrLWdhbmphci1iZXJpLWJhbnR1YW4tZGFuLWdlbGFyLWJhbnNvcw==",
-        "description": "DUA bersaudara, warga Desa Tapong, Kecamatan Tellu Limpoe, Kabupaten Bone, Sulawesi Selatan, yaitu Yusddin dan Nursabbi, menjadi inspirasi emak-emak pendukung Gubernur Jawa Tengah Ganjar Pranowo menjadi&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505530/act-diduga-intervensi-keluarga-korban-lion-air-agar-ditunjuk-boeing",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU1MzAvYWN0LWRpZHVnYS1pbnRlcnZlbnNpLWtlbHVhcmdhLWtvcmJhbi1saW9uLWFpci1hZ2FyLWRpdHVuanVrLWJvZWluZw==",
-        "description": "LEMBAGA pengumpul donasi Aksi Cepat Tanggap (ACT) diduga mengintervensi keluarga atau ahli waris korban kecelakaan pesawat Lion Air JT-610 pada 2018. Intervensi itu diduga terkait penunjukkan lembaga&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505524/inflasi-tiongkok-naik-di-juni-akibat-harga-daging-babi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTUyNC9pbmZsYXNpLXRpb25na29rLW5haWstZGktanVuaS1ha2liYXQtaGFyZ2EtZGFnaW5nLWJhYmk=",
-        "description": "INFLASI konsumen Tiongkok naik pada Juni ke titik tertinggi dalam dua tahun. Ini disebabkan kenaikan harga makanan karena biaya daging babi melonjak akibat pasokan yang lebih ketat. Ekonomi&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505537/jakarta-sumbang-1476-kasus-covid-19",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NTM3L2pha2FydGEtc3VtYmFuZy0xNDc2LWthc3VzLWNvdmlkLTE5",
-        "description": "SEBANYAK 1.476 kasus dari 2.705 kasus covid-19 nasional ditemukan di Provinsi DKI Jakarta Sabtu (9/7). Angka itu meningkat dari Jumat, 8 Juli sebanyak 1.153 kasus. &ldquo;Kasus covid-19 hari&#8230;"
     }
 ]
