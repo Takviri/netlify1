@@ -1,5 +1,40 @@
 [
     {
+        "title": "Presiden Jokowi Berkurban 2 Ekor Sapi di Solo",
+        "link": "https://nasional.tempo.co/read/1610325/presiden-jokowi-berkurban-2-ekor-sapi-di-solo",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTAzMjUvcHJlc2lkZW4tam9rb3dpLWJlcmt1cmJhbi0yLWVrb3Itc2FwaS1kaS1zb2xv",
+        "description": "Presiden Jokowi memberikan dua sapi kurban di Kota Solo, masing-masing di Masjid Agung Surakarta dan Masjid Al Wustho Mangkunegaran, pada Hari Raya Idul Adha 2022."
+    },
+    {
+        "title": "Bamsoet Dorong Pemerintah dan Pertamina Atasi Kenaikan Harga Avtur",
+        "link": "https://nasional.tempo.co/read/1610321/bamsoet-dorong-pemerintah-dan-pertamina-atasi-kenaikan-harga-avtur",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTAzMjEvYmFtc29ldC1kb3JvbmctcGVtZXJpbnRhaC1kYW4tcGVydGFtaW5hLWF0YXNpLWtlbmFpa2FuLWhhcmdhLWF2dHVy",
+        "description": "Indonesia sudah bisa memproduksi avtur sejak 2021. Namun terkadang harganya justru lebih tinggi dibanding negara tetangga."
+    },
+    {
+        "title": "Bamsoet Dukung PT Prowell Energy Indonesia Kembangkan Manufaktur dan Jasa",
+        "link": "https://nasional.tempo.co/read/1610320/bamsoet-dukung-pt-prowell-energy-indonesia-kembangkan-manufaktur-dan-jasa",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTAzMjAvYmFtc29ldC1kdWt1bmctcHQtcHJvd2VsbC1lbmVyZ3ktaW5kb25lc2lhLWtlbWJhbmdrYW4tbWFudWZha3R1ci1kYW4tamFzYQ==",
+        "description": "Perusahaan nasional tersebut bergerak di industri minyak dan gas bumi."
+    },
+    {
+        "title": "RKUHP Sebut Menghina Presiden Terancam Penjara Asal Presiden Lapor Lebih Dahulu, Kenapa?",
+        "link": "https://nasional.tempo.co/read/1610311/rkuhp-sebut-menghina-presiden-terancam-penjara-asal-presiden-lapor-lebih-dahulu-kenapa",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTAzMTEvcmt1aHAtc2VidXQtbWVuZ2hpbmEtcHJlc2lkZW4tdGVyYW5jYW0tcGVuamFyYS1hc2FsLXByZXNpZGVuLWxhcG9yLWxlYmloLWRhaHVsdS1rZW5hcGE=",
+        "description": "RKUHP memuat pasal penghinan Presiden, Namun pasal ini akan terlaksana semisal Presiden dan Wakil Presiden yang melapor. Mengapa?"
+    },
+    {
+        "title": "BPBD Malang Sebut Belum Ada Laporan Kerusakan Dampak Gempa Lumajang",
+        "link": "https://nasional.tempo.co/read/1610318/bpbd-malang-sebut-belum-ada-laporan-kerusakan-dampak-gempa-lumajang",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTAzMTgvYnBiZC1tYWxhbmctc2VidXQtYmVsdW0tYWRhLWxhcG9yYW4ta2VydXNha2FuLWRhbXBhay1nZW1wYS1sdW1hamFuZw==",
+        "description": "BPBD Kabupaten Malang menyatakan belum menerima laporan adanya dampak kerusakan akibat gempa Lumajang, Jawa Timur, Sabtu 9 Juli 2022"
+    },
+    {
         "title": "Komisi II DPR Usulkan Perpu untuk Pemilu 2024 Bulan Depan",
         "link": "https://nasional.tempo.co/read/1610307/komisi-ii-dpr-usulkan-perpu-untuk-pemilu-2024-bulan-depan",
         "image": "static/images/tempo_nasional.png",
@@ -33,40 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTAyODMvcHJlc2lkZW4tc2VyYWhrYW4tYmFuc29zLWRpLXBhc2FyLXBldGlzYWgtbWVkYW4=",
         "description": "Jokowi dalam kunjungannya sekaligus memastikan bahwa seluruh bantuan sosial sudah tepat sasaran."
-    },
-    {
-        "title": "Putra Paku Alam X Jadi Khatib Salat Idul Adha di Alun-alun Puro Pakualaman",
-        "link": "https://nasional.tempo.co/read/1610278/putra-paku-alam-x-jadi-khatib-salat-idul-adha-di-alun-alun-puro-pakualaman",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTAyNzgvcHV0cmEtcGFrdS1hbGFtLXgtamFkaS1raGF0aWItc2FsYXQtaWR1bC1hZGhhLWRpLWFsdW4tYWx1bi1wdXJvLXBha3VhbGFtYW4=",
-        "description": "Putra Paku Alam X BPH Kusumo Bimantoro menjadi imam sekaligus khatib dalam pelaksanaan salat Idul Adha 1443 Hijriah di Alun-alun Sewandanan"
-    },
-    {
-        "title": "Jelaskan soal Properti Prabowo di Paris, Dasco: Dilaporkan di LKHPN Sebagai Aset Perusahaan",
-        "link": "https://nasional.tempo.co/read/1610273/jelaskan-soal-properti-prabowo-di-paris-dasco-dilaporkan-di-lkhpn-sebagai-aset-perusahaan",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTAyNzMvamVsYXNrYW4tc29hbC1wcm9wZXJ0aS1wcmFib3dvLWRpLXBhcmlzLWRhc2NvLWRpbGFwb3JrYW4tZGktbGtocG4tc2ViYWdhaS1hc2V0LXBlcnVzYWhhYW4=",
-        "description": "Ketua Harian DPP Partai Gerindra Sufmi Dasco Ahmad memberi penjelasan soal properti Prabowo Subianto berupa sebuah apartemen di Paris, Prancis."
-    },
-    {
-        "title": "Firli Bahuri Lantik Brigjen Didik Agung dan Wawan Wardhiana Jadi Deputi di KPK",
-        "link": "https://nasional.tempo.co/read/1610268/firli-bahuri-lantik-brigjen-didik-agung-dan-wawan-wardhiana-jadi-deputi-di-kpk",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTAyNjgvZmlybGktYmFodXJpLWxhbnRpay1icmlnamVuLWRpZGlrLWFndW5nLWRhbi13YXdhbi13YXJkaGlhbmEtamFkaS1kZXB1dGktZGkta3Br",
-        "description": "Firli Bahuri mengingatkan kepada dua deputi baru dan juga seluruh insan KPK agar bekerja seperti air di sumur."
-    },
-    {
-        "title": "Wali Kota Surabaya Imbau Warga Taati Prosedur Pemotongan Hewan Kurban",
-        "link": "https://nasional.tempo.co/read/1610266/wali-kota-surabaya-imbau-warga-taati-prosedur-pemotongan-hewan-kurban",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTAyNjYvd2FsaS1rb3RhLXN1cmFiYXlhLWltYmF1LXdhcmdhLXRhYXRpLXByb3NlZHVyLXBlbW90b25nYW4taGV3YW4ta3VyYmFu",
-        "description": "Wali Kota Surabaya Eri Cahyadi mengimbau warganya menaati aturan mengenai prosedur pemotongan hewan kurban pada Hari Raya Idul Adha 1443 Hijriah."
-    },
-    {
-        "title": "Waketum MUI Berharap Pesantren Shiddiqiyyah Jombang Lakukan Pembenahan",
-        "link": "https://nasional.tempo.co/read/1610253/waketum-mui-berharap-pesantren-shiddiqiyyah-jombang-lakukan-pembenahan",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTAyNTMvd2FrZXR1bS1tdWktYmVyaGFyYXAtcGVzYW50cmVuLXNoaWRkaXFpeXlhaC1qb21iYW5nLWxha3VrYW4tcGVtYmVuYWhhbg==",
-        "description": "Anwar Abbas mendorong pengurus Pesantren Shiddiqiyyah menyerahkan sepenuhnya penanganan kasus pencabulan santriwati kepada penegak hukum"
     }
 ]
