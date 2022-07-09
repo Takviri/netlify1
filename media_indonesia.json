@@ -1,5 +1,19 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/505585/verstappen-menangi-sprint-race-di-austria",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU1ODUvdmVyc3RhcHBlbi1tZW5hbmdpLXNwcmludC1yYWNlLWRpLWF1c3RyaWE=",
+        "description": "Max Verstappen memenangi sprint race pada GP Austria di Sirkuit Red Bull Ring, Sabtu (9/7). Kemenangan ini membuat sang pembalap Red Bull Racing mengamankan posisi start terdepan untuk sesi balapan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505582/resmikan-masjid-at-thohir-lampung-erick-kenang-kegigihan-sang-ayah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NTgyL3Jlc21pa2FuLW1hc2ppZC1hdC10aG9oaXItbGFtcHVuZy1lcmljay1rZW5hbmcta2VnaWdpaGFuLXNhbmctYXlhaA==",
+        "description": "MENTERI Badan Usaha Milik Negara (BUMN) Erick Thohir meresmikan Masjid At-Thohir di Kecamatan Gunung Sugih, Kabupaten Lampung Tengah, Provinsi Lampung, Sabtu (9/7/2022) sore. Masjid At-Thohir Lampung&#8230;"
+    },
+    {
         "title": "Megapolitan",
         "link": "https://m.mediaindonesia.com/megapolitan/505584/primaya-hospital-bekasi-timur-jadi-mitra-medis-resmi-asosiasi-lari-trail-indonesia",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTU3NC9oYW5kYW5vdmljLXNlZ2VyYS1wZXJwYW5qYW5nLWtvbnRyYWstZGVuZ2FuLWludGVyLW1pbGFu",
         "description": "SABTU (9/7), tepat sepuluh tahun kedatangan Samir Handanovic di Inter Milan. Kiper asal Slovenia itu akan segera memperpanjang kontraknya di klub. Handanovic bergabung dengan Nerazzurri pada&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/505573/as-israel-tekan-sekutu-arab-bangun-pertahanan-udara-lawan-iran",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTU3My9hcy1pc3JhZWwtdGVrYW4tc2VrdXR1LWFyYWItYmFuZ3VuLXBlcnRhaGFuYW4tdWRhcmEtbGF3YW4taXJhbg==",
-        "description": "AMERIKA Serikat dan Israel&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/505577/chico-ditantang-ng-ka-long-final-malaysia-masters",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU1NzcvY2hpY28tZGl0YW50YW5nLW5nLWthLWxvbmctZmluYWwtbWFsYXlzaWEtbWFzdGVycw==",
-        "description": "TUNGGAL putra Indonesia Chico Aura Dwi Wardoyo berhasil melenggang ke partai final Malaysia Masters 2022. Di partai puncak besok, Chico akan berhadapan dengan pebulu tangkis Hong Kong, Ng Ka&#8230;"
     }
 ]
