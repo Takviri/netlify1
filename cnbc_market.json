@@ -1,5 +1,12 @@
 [
     {
+        "title": "Pasar Kripto Cerah Lagi Pekan Ini, Krisis Sudah Berakhir?",
+        "link": "https://www.cnbcindonesia.com/market/20220709153220-17-354268/pasar-kripto-cerah-lagi-pekan-ini-krisis-sudah-berakhir",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA5MTUzMjIwLTE3LTM1NDI2OC9wYXNhci1rcmlwdG8tY2VyYWgtbGFnaS1wZWthbi1pbmkta3Jpc2lzLXN1ZGFoLWJlcmFraGly",
+        "description": " Pasar kripto melanjutkan penguatannya pada pekan ini, meski secara harian kripto masih cenderung volatil."
+    },
+    {
         "title": "Ini Deretan Saham Tercuan dan Terboncos, Ada Punya Kamu?",
         "link": "https://www.cnbcindonesia.com/market/20220709151642-20-354266/ini-deretan-saham-tercuan-terboncos-ada-punya-kamu",
         "image": "static/images/cnbc_market.png",
@@ -12,6 +19,13 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA5MTQyNzEwLTE3LTM1NDI2My9zaW1hay1pbmktZGlhLWRlcmV0YW4tc2FoYW0tdGVyY3Vhbi10ZXJib25jb3Mtc2VwZWthbg==",
         "description": " Kinerja IHSG pada pekan ini masih cenderung kurang baik, tetapi lebih baik jika dibandingkan dengan pekan sebelumnya."
+    },
+    {
+        "title": "Raih Pinjaman, PP Presisi Kebut Proyek Tol Cinere-Jagorawi",
+        "link": "https://www.cnbcindonesia.com/market/20220709180434-17-354321/raih-pinjaman-pp-presisi-kebut-proyek-tol-cinere-jagorawi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA5MTgwNDM0LTE3LTM1NDMyMS9yYWloLXBpbmphbWFuLXBwLXByZXNpc2kta2VidXQtcHJveWVrLXRvbC1jaW5lcmUtamFnb3Jhd2k=",
+        "description": " Pinjaman yang diraih perusahaan akan membantu dalam mempercepat proses penyelesaian proyek yang direncanakan selesai pada awal kuartal 4-2022."
     },
     {
         "title": "Terancam Kehilangan Pekerjaan, Segini Gaji Karyawan Holywings",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA5MTA0NTUyLTE3LTM1NDIzNS9oYXJpLWtlLWhhcmktdGVydXMtdm9sYXRpbC1paHNnLXNlcGVrYW4tbWFzaWgtbWVyb3NvdC0wOA==",
         "description": " Kinerja Indeks Harga Saham Gabungan (IHSG) pada pekan ini masih cenderung kurang baik, tetapi lebih baik jika dibandingkan dengan pekan sebelumnya."
-    },
-    {
-        "title": "Tiga Bulan Pertama, Laba Bersih WIKA Ambles Jadi Rp 1,3 M",
-        "link": "https://www.cnbcindonesia.com/market/20220709065755-17-354199/tiga-bulan-pertama-laba-bersih-wika-ambles-jadi-rp-13-m",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA5MDY1NzU1LTE3LTM1NDE5OS90aWdhLWJ1bGFuLXBlcnRhbWEtbGFiYS1iZXJzaWgtd2lrYS1hbWJsZXMtamFkaS1ycC0xMy1t",
-        "description": " Laba bersih WIKA ambles 98,3% secara tahunan (yoy) menjadi Rp 1,32 miliar, dari periode yang sama tahun lalu Rp 78,16 miliar."
-    },
-    {
-        "title": "BRI Sediakan Layanan Perbankan dalam Ekosistem Kesehatan",
-        "link": "https://www.cnbcindonesia.com/market/20220709104212-17-354234/bri-sediakan-layanan-perbankan-dalam-ekosistem-kesehatan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzA5MTA0MjEyLTE3LTM1NDIzNC9icmktc2VkaWFrYW4tbGF5YW5hbi1wZXJiYW5rYW4tZGFsYW0tZWtvc2lzdGVtLWtlc2VoYXRhbg==",
-        "description": " Digitalisasi layanan yang disajikan BRI ini diharapkan dapat semakin meningkatkan kepuasan masyarakat Ketika melakukan pengobatan."
     }
 ]
