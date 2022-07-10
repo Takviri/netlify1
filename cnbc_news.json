@@ -1,5 +1,19 @@
 [
     {
+        "title": "Penampakan Massa yang Bobol Istana Presiden Sri Lanka",
+        "link": "https://www.cnbcindonesia.com/news/20220710105126-7-354389/penampakan-massa-yang-bobol-istana-presiden-sri-lanka",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDEwNTEyNi03LTM1NDM4OS9wZW5hbXBha2FuLW1hc3NhLXlhbmctYm9ib2wtaXN0YW5hLXByZXNpZGVuLXNyaS1sYW5rYQ==",
+        "description": " Istana kepresidenan di Kolombo diserbu oleh ratusan orang pada Sabtu (9/7/2022)."
+    },
+    {
+        "title": "DPR: Terbebani BBM Subsidi, Pertamina Rugi dan Sulit Ekspansi",
+        "link": "https://www.cnbcindonesia.com/news/20220708105113-8-353977/dpr-terbebani-bbm-subsidi-pertamina-rugi-sulit-ekspansi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwODEwNTExMy04LTM1Mzk3Ny9kcHItdGVyYmViYW5pLWJibS1zdWJzaWRpLXBlcnRhbWluYS1ydWdpLXN1bGl0LWVrc3BhbnNp",
+        "description": " Komisi VI: Terbebani BBM Subsidi, Pertamina Rugi dan Sulit Ekspansi"
+    },
+    {
         "title": "Tahu Tidak, Ternyata Resesi Dunia Bisa Semengerikan Ini Loh",
         "link": "https://www.cnbcindonesia.com/news/20220710100034-4-354369/tahu-tidak-ternyata-resesi-dunia-bisa-semengerikan-ini-loh",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDA5MzIzMi00LTM1NDM2NS9tb2JpbC1wZW5naGFuY3VyLWF2YW56YS1tYWtpbi1uZ2VyaS1wYWthaS1jYXB0YWluLXNlYXQ=",
         "description": " PT Hyundai Motors Indonesia (HMID) terus membocorkan tampilan dan spesifikasi Low MPV andalan mereka, Hyundai Stargazer."
-    },
-    {
-        "title": "Foto Sepekan: Banjir Sidney hingga Penembakan Shinzo Abe",
-        "link": "https://www.cnbcindonesia.com/news/20220709164822-7-354291/foto-sepekan-banjir-sidney-hingga-penembakan-shinzo-abe",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcwOTE2NDgyMi03LTM1NDI5MS9mb3RvLXNlcGVrYW4tYmFuamlyLXNpZG5leS1oaW5nZ2EtcGVuZW1iYWthbi1zaGluem8tYWJl",
-        "description": " Berikut peristiwa berita foto sepekan yang dirangkum CNBC Indonesia."
-    },
-    {
-        "title": "China Sebut Hubungannya dengan AS dalam Bahaya, Ini Alasannya",
-        "link": "https://www.cnbcindonesia.com/news/20220710075404-4-354360/china-sebut-hubungannya-dengan-as-dalam-bahaya-ini-alasannya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDA3NTQwNC00LTM1NDM2MC9jaGluYS1zZWJ1dC1odWJ1bmdhbm55YS1kZW5nYW4tYXMtZGFsYW0tYmFoYXlhLWluaS1hbGFzYW5ueWE=",
-        "description": " Menteri Luar Negeri China Wang Yi mengatakan bahwa arah hubungan negaranya dengan Amerika Serikat (AS) berada dalam bahaya."
     }
 ]
