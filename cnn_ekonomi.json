@@ -1,5 +1,12 @@
 [
     {
+        "title": "Membedah Inflasi Indonesia 5 Tahun Terakhir",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220708174429-96-819200/membedah-inflasi-indonesia-5-tahun-terakhir",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA4MTc0NDI5LTk2LTgxOTIwMC9tZW1iZWRhaC1pbmZsYXNpLWluZG9uZXNpYS01LXRhaHVuLXRlcmFraGly",
+        "description": " BPS mencatat Inflasi tahunan di level 4,35 persen pada Juni 2022, angkanya tertinggi dalam lima tahun terakhir."
+    },
+    {
         "title": "Bangkrut, PM Sri Lanka Akui Sulit Hidupkan Kembali Ekonomi yang Runtuh",
         "link": "https://www.cnnindonesia.com/ekonomi/20220710065830-532-819569/bangkrut-pm-sri-lanka-akui-sulit-hidupkan-kembali-ekonomi-yang-runtuh",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA5MTMxNDQ5LTkyLTgxOTQyMy9zaW5nYXB1cmEtdGFyaWstcGVyZWRhcmFuLWR1YS1qZW5pcy1oYWFnZW4tZGF6cy1rYXJlbmEtcGVzdGlzaWRh",
         "description": " Badan Pangan Singapura mencabut peredaran es krim Haagen Dazs asal Prancis karena mengandung pastisida, etilen oksida."
-    },
-    {
-        "title": "Temukan Pelanggaran, OJK Larang Iklan Produk Investasi Luar Negeri",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220709125459-78-819418/temukan-pelanggaran-ojk-larang-iklan-produk-investasi-luar-negeri",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA5MTI1NDU5LTc4LTgxOTQxOC90ZW11a2FuLXBlbGFuZ2dhcmFuLW9qay1sYXJhbmctaWtsYW4tcHJvZHVrLWludmVzdGFzaS1sdWFyLW5lZ2VyaQ==",
-        "description": " OJK menerbitkan larangan bagi PUJK untuk\u00c2\u00a0melakukan pemasaran, promosi, atau iklan terhadap produk dan layanan jasa keuangan yang belum memiliki izin."
     }
 ]
