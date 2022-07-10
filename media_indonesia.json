@@ -1,5 +1,47 @@
 [
     {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505637/lestari-moerdijat-semangat-berbagi-harus-terus-dihidupkan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU2MzcvbGVzdGFyaS1tb2VyZGlqYXQtc2VtYW5nYXQtYmVyYmFnaS1oYXJ1cy10ZXJ1cy1kaWhpZHVwa2Fu",
+        "description": "SEMANGAT&nbsp;berbagi untuk menebar kebaikan &nbsp;kepada sesama harus terus dipertahankan dalam keseharian, sehingga mampu melestarikan semangat persatuan yang merupakan nilai-nilai warisan dari pendahulu&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/505646/chico-persembahkan-gelar-juara-malaysia-masters-untuk-papua",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU2NDYvY2hpY28tcGVyc2VtYmFoa2FuLWdlbGFyLWp1YXJhLW1hbGF5c2lhLW1hc3RlcnMtdW50dWstcGFwdWE=",
+        "description": "PEBULU tangkis tunggal putra Indonesia Chico Aura Dwi Wardoyo mencatatkan sejarah baru dalam kariernya. Ia sukses merengkuh gelar juara di turnamen BWF World Tour Super 500 untuk pertama kalinya, tepatnya&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/505644/anies-ajak-wilayah-di-luar-dki-bertanggung-jawab-pada-kualitas-udara",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU2NDQvYW5pZXMtYWphay13aWxheWFoLWRpLWx1YXItZGtpLWJlcnRhbmdndW5nLWphd2FiLXBhZGEta3VhbGl0YXMtdWRhcmE=",
+        "description": "GUBERNUR DKI Jakarta Anies Baswedan menjelaskan situasi kualitas udara Jakarta hari ini saat bertemu awak media setelah salat Idul Adha di Jakarta International Stadium (JIS). Saat ditanya awak&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/505641/ayah-oprah-winfrey-meninggal-dunia-usai-berjuang-melawan-kanker",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTY0MS9heWFoLW9wcmFoLXdpbmZyZXktbWVuaW5nZ2FsLWR1bmlhLXVzYWktYmVyanVhbmctbWVsYXdhbi1rYW5rZXI=",
+        "description": "OPRAH Winfrey mengonfirmasi bahwa sang ayah, Vernon Wifrey, meninggal pada Jumat (8/7) waktu setempat dalam usia 89 tahun setelah berjuang melawan kanker.  &quot;Kemarin, bersama keluarga&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505640/sapi-kurban-anies-bernomor-024-apa-hubungannya-dengan-pilpres-2024",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU2NDAvc2FwaS1rdXJiYW4tYW5pZXMtYmVybm9tb3ItMDI0LWFwYS1odWJ1bmdhbm55YS1kZW5nYW4tcGlscHJlcy0yMDI0",
+        "description": "GUBERNUR DKI Jakarta Anies Rasyid Baswedan berkurban sapi limosin berbobot 1,2 ton. Sapi seberat itu diserahkan Anies kepada panitia kurban di Jakarta International Stadium (JIS), Jakarta Utara, Jumat&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505639/investor-jepang-jajaki-pembangkit-bio-energi-di-mentawai",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NjM5L2ludmVzdG9yLWplcGFuZy1qYWpha2ktcGVtYmFuZ2tpdC1iaW8tZW5lcmdpLWRpLW1lbnRhd2Fp",
+        "description": "INVESTOR asal Jepang menyambangi Sumatra Barat untuk menjajaki investasi di bidang bio energi di Kepulauan Mentawai. Ketiga investor itu disambut Gubernur Sumatra Barat (Sumbar) Buya Mahyeldi di Istana&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/505633/fase-mabit-mina-dirjen-haji-minta-petugas-siaga-layanan",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTYzMC9zYW5kaWFnYS11bm8tdGVycHVrYXUtZGVuZ2FuLWxhbmdrYWgtaXJqZW4tZmFkaWwtZ2VsYXItc3RyZWV0LXJhY2U=",
         "description": "MENTERI Pariwisata dan Ekonomi Kreatif Sandiaga Uno menyanjung Kapolda Metro Jaya Irjen M Fadil Imran terkait gelaran Street Race atau ajang balapan resmi untuk para pembalap liar. Baca&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/505631/borneo-fc-waspadai-kebangkitan-pss",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTYzMS9ib3JuZW8tZmMtd2FzcGFkYWkta2ViYW5na2l0YW4tcHNz",
-        "description": "PELATIH Borneo FC Milomir Seslija meminta pemainnya untuk mewaspadai kebangkitan PSS Sleman di leg kedua semi final Piala Presiden 2022 yang akan digelar di Stadion Segiri Samarinda, Senin (11/7).&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/505629/tayang-di-netflix-film-kadet-1947-raih-respons-positif",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTYyOS90YXlhbmctZGktbmV0ZmxpeC1maWxtLWthZGV0LTE5NDctcmFpaC1yZXNwb25zLXBvc2l0aWY=",
-        "description": "Film produksi Temata Studio dan Legacy Pictures, serta didukung oleh TNI Angkatan Udara berjudul Kadet 1947 kembali meraih respon positif dari pecinta film Indonesia, usai tayang di platform digital&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505628/warga-masih-sulit-beralih-dari-plastik-sekali-pakai-untuk-distribusi-hewan-kurban",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NjI4L3dhcmdhLW1hc2loLXN1bGl0LWJlcmFsaWgtZGFyaS1wbGFzdGlrLXNla2FsaS1wYWthaS11bnR1ay1kaXN0cmlidXNpLWhld2FuLWt1cmJhbg==",
-        "description": "PLASTIK-PLASTIK&nbsp;berukuran kecil berisi daging kurban terlihat berjejer di bentangan terpal dan siap dibagikan kepada warga. Pemandangan itu terlihat di sejumlah tempat pemotongan hewan kurban&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505625/mulai-17-juli-penumpang-ka-jarak-jauh-wajib-vaksin-booster",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NjI1L211bGFpLTE3LWp1bGktcGVudW1wYW5nLWthLWphcmFrLWphdWgtd2FqaWItdmFrc2luLWJvb3N0ZXI=",
-        "description": "PENUMPANG kereta api (KA) jarak jauh diminta menunjukkan hasil vaksinasi ketiga atau booster mulai Minggu, 17 Juli 2022 sesuai persyarakat perjalanan dalam negeri.&nbsp; Bagi yang belum mendapatkan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505627/gempa-bumi-lumajang-tak-timbulkan-kerusakan-dan-korban-jiwa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NjI3L2dlbXBhLWJ1bWktbHVtYWphbmctdGFrLXRpbWJ1bGthbi1rZXJ1c2FrYW4tZGFuLWtvcmJhbi1qaXdh",
-        "description": "GEMPA bumi tektonik dengan kekuatan magnitudo 5.4 terjadi di selatan Pulau Jawa bagian timur, Sabtu (9/7) pukul 03.17 WIB. Menurut hasil monitoring Badan Meteorologi Klimatologi dan Geofisika (BMKG),&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/505624/pabrik-tesla-di-berlin-hentikan-produksi-selama-dua-pekan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MDU2MjQvcGFicmlrLXRlc2xhLWRpLWJlcmxpbi1oZW50aWthbi1wcm9kdWtzaS1zZWxhbWEtZHVhLXBla2Fu",
-        "description": "PRODUSEN mobil listrik asal Amerika Serikat Tesla akan menghentikan produksi mereka selama dua minggu di pabrik manufaktur barunya di&nbsp;Gigafactory Berlin-Brandenburg.&nbsp;  Laporan&#8230;"
     }
 ]
