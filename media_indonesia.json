@@ -1,5 +1,12 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/505685/membangun-keunggulan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDU2ODUvbWVtYmFuZ3VuLWtldW5nZ3VsYW4=",
+        "description": "MELIHAT perkembangan Sekolah Sukma Bangsa (SSB) saat ini ialah suatu kebersyukuran yang tak habis-habisnya mengingat awal berdirinya sekolah ini 16 tahun silam. Awal sekolah itu dibangun pada 2015,&#8230;"
+    },
+    {
         "title": "Kolom Pakar",
         "link": "https://m.mediaindonesia.com/kolom-pakar/505679/abe-san-kami-sudah-sangat-kehilanganmu",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU3MDMvaWR1bGFkaGEtamFkaS1zcGlyaXQtbWFzYS1kZXBhbi1pbmRvbmVzaWE=",
         "description": "HARI Raya Idulaadha kali ini terasa spesial, karena berlangsung hampir di masa akhir pandemi Covid-19. Anggota DPR RI Heri Gunawan menilai, inilah momentum Iduladha yang membawa sprit bagi masa depan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/505702/leclerc-bungkam-suporter-verstappen-dengan-kemenangan-di-gp-austria",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU3MDIvbGVjbGVyYy1idW5na2FtLXN1cG9ydGVyLXZlcnN0YXBwZW4tZGVuZ2FuLWtlbWVuYW5nYW4tZGktZ3AtYXVzdHJpYQ==",
-        "description": "PEMBALAP Ferrari Charles Leclerc mencuri kemenangan di kandang tim Red Bull setelah mengalahkan Max Verstappen pada balapan Formula 1 Grand Prix Austria pada Minggu (10/7). &nbsp; Tidak&#8230;"
     }
 ]
