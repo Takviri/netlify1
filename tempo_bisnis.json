@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cek Daftar Sepeda Motor yang Akan Dilarang Beli Pertalite",
+        "link": "https://bisnis.tempo.co/read/1610653/cek-daftar-sepeda-motor-yang-akan-dilarang-beli-pertalite",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjEwNjUzL2Nlay1kYWZ0YXItc2VwZWRhLW1vdG9yLXlhbmctYWthbi1kaWxhcmFuZy1iZWxpLXBlcnRhbGl0ZQ==",
+        "description": "Sepeda motor 250 cc ke atas akan dilarang membeli Pertalite."
+    },
+    {
         "title": "Terkini Bisnis:  Harga Pertamax Turbo Naik, Prediksi Inflasi Indonesia 3,6 Persen",
         "link": "https://bisnis.tempo.co/read/1610661/terkini-bisnisharga-pertamax-turbo-naik-prediksi-inflasi-indonesia-36-persen",
         "image": "static/images/tempo_bisnis.png",
@@ -61,12 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjEwNTk5L3Rlc2xhLWhlbnRpa2FuLXByb2R1a3NpLXVudHVrLXBhYnJpay1kaS1qZXJtYW4tc2VsYW1hLTItcGVrYW4=",
         "description": "Tesla saat ini memiliki pabrik mobil listrik di Amerika Serikat, Cina, dan Jerman."
-    },
-    {
-        "title": "Riset BRIN: Pendapatan Usaha Meningkat 50 Persen karena KUR BRI",
-        "link": "https://bisnis.tempo.co/read/1610591/riset-brin-pendapatan-usaha-meningkat-50-persen-karena-kur-bri",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjEwNTkxL3Jpc2V0LWJyaW4tcGVuZGFwYXRhbi11c2FoYS1tZW5pbmdrYXQtNTAtcGVyc2VuLWthcmVuYS1rdXItYnJp",
-        "description": "Target utama penyaluran KUR BRI selama masa pandemi adalah UMKM yang menjadi segmen rentan."
     }
 ]
