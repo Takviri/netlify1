@@ -1,5 +1,12 @@
 [
     {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/505710/kesenjangan-teknologi-masih-hantui-akselerasi-5g-di-asia-pasifik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1NzEwL2tlc2VuamFuZ2FuLXRla25vbG9naS1tYXNpaC1oYW50dWktYWtzZWxlcmFzaS01Zy1kaS1hc2lhLXBhc2lmaWs=",
+        "description": "LAPORAN dari Asosiasi Sistem Komunikasi Mobile Global (GSMA) menyebutkan bahwa cakupan jaringan 5G diatur untuk dipercepat di seluruh kawasan Asia Pasifik, namun kesenjangan penggunaan akan tetap signifikan.&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/505709/juara-wimbledon-djokovic-dekati-rekor-nadal",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NzAxL2hld2FuLWt1cmJhbi1kaS1sYW1vbmdhbi1iZWJhcy1wbWstZGFuLWFtYW4tZGlrb25zdW1zaQ==",
         "description": "KENDATI wabah Penyakit Mulut dan Kuku (PMK) di Lamongan, Jawa Timur tengah berlangsung namun, dipastikan hewan kurban yang disembelih sehat dan aman serta memenuhi syarat untuk dikonsumsi. &quot;Semua&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/505699/sherpa-g20-bahas-pengakuan-sertifikat-vaksinasi-antarnegara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTY5OS9zaGVycGEtZzIwLWJhaGFzLXBlbmdha3Vhbi1zZXJ0aWZpa2F0LXZha3NpbmFzaS1hbnRhcm5lZ2FyYQ==",
-        "description": "KERJA sama pengakuan sertifikat vaksinasi antarnegara guna&nbsp; memfasilitasi pergerakan manusia, khususnya di bidang pariwisata, menjadi salah satu topik pembahasan dalam pertemuan kedua Sherpa kelompok&#8230;"
     }
 ]
