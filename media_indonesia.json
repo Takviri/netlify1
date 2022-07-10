@@ -1,5 +1,26 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505622/idul-adha-sarana-dekatkan-diri-kepada-allah-dan-sesama-manusia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NjIyL2lkdWwtYWRoYS1zYXJhbmEtZGVrYXRrYW4tZGlyaS1rZXBhZGEtYWxsYWgtZGFuLXNlc2FtYS1tYW51c2lh",
+        "description": "HARI raya Idul Adha merupakan sarana mendekatkan diri kepada Allah dan sesama manusia. Selalu mendekati diri kepada Allah menjadi hal yang paling penting karena tanpa disadari dalam keseharian sering&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/505621/piala-presiden-psis-janjikan-permainan-berbeda-di-leg-kedua-melawan-arema-fc",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTYyMS9waWFsYS1wcmVzaWRlbi1wc2lzLWphbmppa2FuLXBlcm1haW5hbi1iZXJiZWRhLWRpLWxlZy1rZWR1YS1tZWxhd2FuLWFyZW1hLWZj",
+        "description": "MISI berat menanti PSIS Semarang di leg kedua semifinal Piala Presiden 2022 melawan Arema FC yang akan digelar di Stadion Kanjuruhan Malang, Senin (11/7). Kalah 0-2 di kandang sendiri pada leg pertama&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505620/jokowi-dinilai-telah-siapkan-semua-perangkat-menuju-indonesia-emas-2045",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU2MjAvam9rb3dpLWRpbmlsYWktdGVsYWgtc2lhcGthbi1zZW11YS1wZXJhbmdrYXQtbWVudWp1LWluZG9uZXNpYS1lbWFzLTIwNDU=",
+        "description": "PEMERINTAHAN Joko Widodo (Jokowi) telah membuat berbagai strategi untuk mewujudkan visi Indonesia Emas 2045.&nbsp; Pembina Himpunan Mahasiswa Pascasarjana (HMP) Universitas Gadjah Mada (UGM),&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/505619/ganjar-berharap-ada-nilai-solidaritas-yang-diteladani-dari-semangat-berkurban",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NjEzL3Bhc2FyLW1hbmRlaGUtZGlrdW5qdW5naS1qb2tvd2ktc2VqYXJhaC1kaS1lcmEta2VwZW1pbXBpbmFuLWJ1cGF0aS1raGVub2tp",
         "description": "PRESIDEN Joko Widodo melakukan kunjungan kerja di Kabupaten Nias Barat, Sumatra Utara. Jokowi langsung mengunjungi Pasar Rakyat Mandrehe selain memantau Jalan Nasional Lingkar Nias dan Jembatan Idano&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505612/bupati-bersama-forkopimda-klaten-salat-idul-adha-di-masjid-raya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NjEyL2J1cGF0aS1iZXJzYW1hLWZvcmtvcGltZGEta2xhdGVuLXNhbGF0LWlkdWwtYWRoYS1kaS1tYXNqaWQtcmF5YQ==",
-        "description": " BUPATI Sri Mulyani bersama Forkopimda Klaten, Jawa Tengah, melaksanakan salat Idul Adha 1443 Hijriah di Masjid Raya Klaten, Minggu (10/7). Salat Idul Adha yang diadakan di halaman&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505611/wagub-jabar-perkuat-dan-perluas-peluang-kerja-sama-jabar-jepang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NjExL3dhZ3ViLWphYmFyLXBlcmt1YXQtZGFuLXBlcmx1YXMtcGVsdWFuZy1rZXJqYS1zYW1hLWphYmFyLWplcGFuZw==",
-        "description": "WAKIL Gubernur Jawa Barat Uu Ruzhanul Ulum melakukan kunjungan kerja ke Jepang pada 1-2 Juli 2022 untuk memperkuat sekaligus memperluas kerja sama antara Jepang dan Jabar.&nbsp; Uu menuturkan,&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/505610/anies-terimakasih-yang-sudah-tunaikan-shalat-idul-adha-di-jis",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU2MTAvYW5pZXMtdGVyaW1ha2FzaWgteWFuZy1zdWRhaC10dW5haWthbi1zaGFsYXQtaWR1bC1hZGhhLWRpLWppcw==",
-        "description": "GUBERNUR Anies Baswedan mengucapkan terima kasih kepada warga Jakarta yamg menghadiri shalat Idul Adha di Jakarta International Stadium (JIS). &quot;Kami atas nama pemerintah Provinsi DKI Jakarta&#8230;"
     }
 ]
