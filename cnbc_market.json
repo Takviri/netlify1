@@ -1,5 +1,12 @@
 [
     {
+        "title": "Penuh Gejolak, Mampukah Pasar Keuangan RI Ceria Lagi?",
+        "link": "https://www.cnbcindonesia.com/market/20220710232125-17-354459/penuh-gejolak-mampukah-pasar-keuangan-ri-ceria-lagi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEwMjMyMTI1LTE3LTM1NDQ1OS9wZW51aC1nZWpvbGFrLW1hbXB1a2FoLXBhc2FyLWtldWFuZ2FuLXJpLWNlcmlhLWxhZ2k=",
+        "description": " Bagaimana kabar pasar keuangan RI pekan ini ?"
+    },
+    {
         "title": "Simak! Ini Sentimen-sentimen Penggerak Pasar Pekan Depan",
         "link": "https://www.cnbcindonesia.com/market/20220710173543-17-354443/simak-ini-sentimen-sentimen-penggerak-pasar-pekan-depan",
         "image": "static/images/cnbc_market.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEwMTAwODQwLTE3LTM1NDM3NC9ib3Mtc2F3aXQtcHVzaW5nLWhhcmdhLWNwby1sb25nc29yLTExLXBla2FuLWluaQ==",
         "description": " Harga CPO terkoreksi parah pekan ini"
-    },
-    {
-        "title": "Sepekan Berjaya, Batu Bara Kembali ke Atas US$ 400/ton",
-        "link": "https://www.cnbcindonesia.com/market/20220710101025-17-354375/sepekan-berjaya-batu-bara-kembali-ke-atas-us--400-ton",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEwMTAxMDI1LTE3LTM1NDM3NS9zZXBla2FuLWJlcmpheWEtYmF0dS1iYXJhLWtlbWJhbGkta2UtYXRhcy11cy0tNDAwLXRvbg==",
-        "description": " Harga batu bara menghijau pekan ini."
     }
 ]
