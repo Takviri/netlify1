@@ -1,5 +1,12 @@
 [
     {
+        "title": "Pos Indonesia Luncurkan Layanan Pospay Syariah",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220710141639-97-819665/pos-indonesia-luncurkan-layanan-pospay-syariah",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEwMTQxNjM5LTk3LTgxOTY2NS9wb3MtaW5kb25lc2lhLWx1bmN1cmthbi1sYXlhbmFuLXBvc3BheS1zeWFyaWFo",
+        "description": " Melalui Pospay, Pos Indonesia perluas layanan keuangan digital di sektor syariah dengan menyematkan fitur Pospay Syariah, yang resmi berjalan sejak April 2021."
+    },
+    {
         "title": "IMF Berharap Bailout Dapat Menjadi Solusi Krisis Sri Lanka",
         "link": "https://www.cnnindonesia.com/ekonomi/20220710121823-78-819637/imf-berharap-bailout-dapat-menjadi-solusi-krisis-sri-lanka",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA5MTkyMDQ0LTkyLTgxOTUwMC9zdGFiaWxrYW4taGFyZ2EtbWVuZGFnLW1pbnRhLXBhYnJpay1iZWxpLXNhd2l0LXBldGFuaS1ycDE2MDAtcGVyLWtn",
         "description": " Menteri Perdagangan Zulkifli Hasan meminta pabrik pengolahan sawit membeli dari petani minimal Rp1.600 per kg untuk menjaga stabilitas harga."
-    },
-    {
-        "title": "DPR Kritik Luhut Sebut Harga Sawit RI Anjlok karena Ukraina",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220709171143-92-819474/dpr-kritik-luhut-sebut-harga-sawit-ri-anjlok-karena-ukraina",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA5MTcxMTQzLTkyLTgxOTQ3NC9kcHIta3JpdGlrLWx1aHV0LXNlYnV0LWhhcmdhLXNhd2l0LXJpLWFuamxvay1rYXJlbmEtdWtyYWluYQ==",
-        "description": " Anggota DPR RI meminta pemerintah jangan buang badan dan menyalahkan kebijakan ekspor Ukraina terkait harga sawit Indonesia yang anjlok."
     }
 ]
