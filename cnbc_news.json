@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pengumuman! Tol Serpong Makin Panjang, Ini Dia Rutenya",
+        "link": "https://www.cnbcindonesia.com/news/20220710180057-4-354446/pengumuman-tol-serpong-makin-panjang-ini-dia-rutenya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDE4MDA1Ny00LTM1NDQ0Ni9wZW5ndW11bWFuLXRvbC1zZXJwb25nLW1ha2luLXBhbmphbmctaW5pLWRpYS1ydXRlbnlh",
+        "description": " Tol menuju Serpong Tangerang Selatan akan bertambah rute."
+    },
+    {
+        "title": "Duh! Ledakan Harga Pangan Ancam 323 Juta Warga Dunia",
+        "link": "https://www.cnbcindonesia.com/news/20220710191750-4-354458/duh-ledakan-harga-pangan-ancam-323-juta-warga-dunia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDE5MTc1MC00LTM1NDQ1OC9kdWgtbGVkYWthbi1oYXJnYS1wYW5nYW4tYW5jYW0tMzIzLWp1dGEtd2FyZ2EtZHVuaWE=",
+        "description": " Indonesia mengajak kerja sama global untuk mengatasi krisis yang tengah mengancam."
+    },
+    {
         "title": "Asik! Harga Minyak Goreng Beneran Turun, Sepekan Jadi Segini!",
         "link": "https://www.cnbcindonesia.com/news/20220710174342-4-354444/asik-harga-minyak-goreng-beneran-turun-sepekan-jadi-segini",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDE2NDkxMi00LTM1NDQzNy9pcmFuLXNlYnV0LWFzLXNla3V0dS10aW11ci10ZW5nYWgtYW5jYW1hbi1hZGEtYXBh",
         "description": " Iran menganggap rencana Amerika Serikat (AS) meningkatkan kerja sama pertahanan udara dengan sekutu Timur Tengahnya adalah sebuah ancaman."
-    },
-    {
-        "title": "Jokowi: Masker di Luar Ruangan Keharusan",
-        "link": "https://www.cnbcindonesia.com/news/20220710154543-8-354430/jokowi-masker-di-luar-ruangan-keharusan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDE1NDU0My04LTM1NDQzMC9qb2tvd2ktbWFza2VyLWRpLWx1YXItcnVhbmdhbi1rZWhhcnVzYW4=",
-        "description": " Sabtu kemarin (09/07/2022), kasus covid 19 tercatat naik 2.705 kasus.\u00c2\u00a0Jokowi menyebut suatu keharusan memakai masker di dalam dan luar ruangan."
-    },
-    {
-        "title": "6 Orang Tewas Akibat Roket Rusia Hantam Apartemen di Ukraina",
-        "link": "https://www.cnbcindonesia.com/news/20220710163128-4-354435/6-orang-tewas-akibat-roket-rusia-hantam-apartemen-di-ukraina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDE2MzEyOC00LTM1NDQzNS82LW9yYW5nLXRld2FzLWFraWJhdC1yb2tldC1ydXNpYS1oYW50YW0tYXBhcnRlbWVuLWRpLXVrcmFpbmE=",
-        "description": " Roket Uragan milik Rusia dilaporkan menghantam sebuah blok apartemen lima lantai di wilayah Donetsk Ukraina."
     }
 ]
