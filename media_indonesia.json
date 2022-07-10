@@ -1,10 +1,24 @@
 [
     {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/505624/pabrik-tesla-di-berlin-hentikan-produksi-selama-dua-pekan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MDU2MjQvcGFicmlrLXRlc2xhLWRpLWJlcmxpbi1oZW50aWthbi1wcm9kdWtzaS1zZWxhbWEtZHVhLXBla2Fu",
+        "description": "PRODUSEN mobil listrik asal Amerika Serikat Tesla akan menghentikan produksi mereka selama dua minggu di pabrik manufaktur barunya di&nbsp;Gigafactory Berlin-Brandenburg.&nbsp;  Laporan&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/505622/idul-adha-sarana-dekatkan-diri-kepada-allah-dan-sesama-manusia",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NjIyL2lkdWwtYWRoYS1zYXJhbmEtZGVrYXRrYW4tZGlyaS1rZXBhZGEtYWxsYWgtZGFuLXNlc2FtYS1tYW51c2lh",
         "description": "HARI raya Idul Adha merupakan sarana mendekatkan diri kepada Allah dan sesama manusia. Selalu mendekati diri kepada Allah menjadi hal yang paling penting karena tanpa disadari dalam keseharian sering&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/505623/sambut-idul-adha-baguna-dpc-pdip-tangsel-bagikan-hewan-kurban",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU2MjMvc2FtYnV0LWlkdWwtYWRoYS1iYWd1bmEtZHBjLXBkaXAtdGFuZ3NlbC1iYWdpa2FuLWhld2FuLWt1cmJhbg==",
+        "description": "IDUL Adha setiap 10 Zulhijah juga dikenal dengan sebutan Hari Raya Haji karena sebagian kaum muslimin menunaikan haji yang utama, yaitu wukuf di Arafah. Mereka semua memakai pakaian serbaputih dan&#8230;"
     },
     {
         "title": "Sepak Bola",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NjE1L3B1YW4tbWFoYXJhbmktZHByLWFrYW4tZXZhbHVhc2ktcGVueWVsZW5nZ2FyYWFuLWhhamktMjAyMg==",
         "description": "KETUA DPR RI Puan Maharani memastikan akan mengevaluasi penyelenggaraan ibadah haji 1443H/2022 M yang dilaksanakan Kementerian Agama (Kemenag) karena Komisi VIII DPR telah memiliki catatan terkait&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505614/wisatawan-ikut-shalat-idul-adha-bersama-ribuan-umat-islam-di-labuan-bajo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NjE0L3dpc2F0YXdhbi1pa3V0LXNoYWxhdC1pZHVsLWFkaGEtYmVyc2FtYS1yaWJ1YW4tdW1hdC1pc2xhbS1kaS1sYWJ1YW4tYmFqbw==",
-        "description": "WISATAWAN domestik dan mancanegara mengikuti shalat Idul Adha 1443 H&nbsp; bersama lebih dari 10 ribu umat muslim lainnya di Waterfront City Labuan Bajo, Kabupaten Manggarai Barat NTT, Minggu (10/7).&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505613/pasar-mandehe-dikunjungi-jokowi-sejarah-di-era-kepemimpinan-bupati-khenoki",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NjEzL3Bhc2FyLW1hbmRlaGUtZGlrdW5qdW5naS1qb2tvd2ktc2VqYXJhaC1kaS1lcmEta2VwZW1pbXBpbmFuLWJ1cGF0aS1raGVub2tp",
-        "description": "PRESIDEN Joko Widodo melakukan kunjungan kerja di Kabupaten Nias Barat, Sumatra Utara. Jokowi langsung mengunjungi Pasar Rakyat Mandrehe selain memantau Jalan Nasional Lingkar Nias dan Jembatan Idano&#8230;"
     }
 ]
