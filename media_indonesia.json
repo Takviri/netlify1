@@ -1,10 +1,45 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/505629/tayang-di-netflix-film-kadet-1947-raih-respons-positif",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTYyOS90YXlhbmctZGktbmV0ZmxpeC1maWxtLWthZGV0LTE5NDctcmFpaC1yZXNwb25zLXBvc2l0aWY=",
+        "description": "Film produksi Temata Studio dan Legacy Pictures, serta didukung oleh TNI Angkatan Udara berjudul Kadet 1947 kembali meraih respon positif dari pecinta film Indonesia, usai tayang di platform digital&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505628/warga-masih-sulit-beralih-dari-plastik-sekali-pakai-untuk-distribusi-hewan-kurban",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NjI4L3dhcmdhLW1hc2loLXN1bGl0LWJlcmFsaWgtZGFyaS1wbGFzdGlrLXNla2FsaS1wYWthaS11bnR1ay1kaXN0cmlidXNpLWhld2FuLWt1cmJhbg==",
+        "description": "PLASTIK-PLASTIK&nbsp;berukuran kecil berisi daging kurban terlihat berjejer di bentangan terpal dan siap dibagikan kepada warga. Pemandangan itu terlihat di sejumlah tempat pemotongan hewan kurban&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505625/mulai-17-juli-penumpang-ka-jarak-jauh-wajib-vaksin-booster",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NjI1L211bGFpLTE3LWp1bGktcGVudW1wYW5nLWthLWphcmFrLWphdWgtd2FqaWItdmFrc2luLWJvb3N0ZXI=",
+        "description": "PENUMPANG kereta api (KA) jarak jauh diminta menunjukkan hasil vaksinasi ketiga atau booster mulai Minggu, 17 Juli 2022 sesuai persyarakat perjalanan dalam negeri.&nbsp; Bagi yang belum mendapatkan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505627/gempa-bumi-lumajang-tak-timbulkan-kerusakan-dan-korban-jiwa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NjI3L2dlbXBhLWJ1bWktbHVtYWphbmctdGFrLXRpbWJ1bGthbi1rZXJ1c2FrYW4tZGFuLWtvcmJhbi1qaXdh",
+        "description": "GEMPA bumi tektonik dengan kekuatan magnitudo 5.4 terjadi di selatan Pulau Jawa bagian timur, Sabtu (9/7) pukul 03.17 WIB. Menurut hasil monitoring Badan Meteorologi Klimatologi dan Geofisika (BMKG),&#8230;"
+    },
+    {
         "title": "Otomotif",
         "link": "https://m.mediaindonesia.com/otomotif/505624/pabrik-tesla-di-berlin-hentikan-produksi-selama-dua-pekan",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MDU2MjQvcGFicmlrLXRlc2xhLWRpLWJlcmxpbi1oZW50aWthbi1wcm9kdWtzaS1zZWxhbWEtZHVhLXBla2Fu",
         "description": "PRODUSEN mobil listrik asal Amerika Serikat Tesla akan menghentikan produksi mereka selama dua minggu di pabrik manufaktur barunya di&nbsp;Gigafactory Berlin-Brandenburg.&nbsp;  Laporan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505626/mayora-indah-gandeng-it-del-manfaatkan-eceng-gondok-danau-toba",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTYyNi9tYXlvcmEtaW5kYWgtZ2FuZGVuZy1pdC1kZWwtbWFuZmFhdGthbi1lY2VuZy1nb25kb2stZGFuYXUtdG9iYQ==",
+        "description": "PT Mayora Indah Tbk dan Institut Teknologi Del bekerja sama membangun fasilitas pengolahan eceng gondok menjadi pupuk cair dan pupuk padat. Usaha pengolahan ini akan membawa dampak positif dalam mengurangi&#8230;"
     },
     {
         "title": "Humaniora",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU2MjAvam9rb3dpLWRpbmlsYWktdGVsYWgtc2lhcGthbi1zZW11YS1wZXJhbmdrYXQtbWVudWp1LWluZG9uZXNpYS1lbWFzLTIwNDU=",
         "description": "PEMERINTAHAN Joko Widodo (Jokowi) telah membuat berbagai strategi untuk mewujudkan visi Indonesia Emas 2045.&nbsp; Pembina Himpunan Mahasiswa Pascasarjana (HMP) Universitas Gadjah Mada (UGM),&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505619/ganjar-berharap-ada-nilai-solidaritas-yang-diteladani-dari-semangat-berkurban",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NjE5L2dhbmphci1iZXJoYXJhcC1hZGEtbmlsYWktc29saWRhcml0YXMteWFuZy1kaXRlbGFkYW5pLWRhcmktc2VtYW5nYXQtYmVya3VyYmFu",
-        "description": "&nbsp; GUBERNUR Jawa Tengah Ganjar Pranowo melaksanakan salat Iduladha 1443 hijiriah di Lapangan Pancasila, Simpang Lima, Kota Semarang, Minggu (10/7). Ganjar berharap ada nilai solidaritas&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505618/para-pencipta-lagu-keluhkanlembaga-manajemen-kolektif-nasional-lmkn",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NjE4L3BhcmEtcGVuY2lwdGEtbGFndS1rZWx1aGthbmxlbWJhZ2EtbWFuYWplbWVuLWtvbGVrdGlmLW5hc2lvbmFsLWxta24=",
-        "description": "STAF Ahli Kedeputian II Kantor Staf Kepresidenan (KSP) Yenny Sucipto mengatakan, menyatakan KSP hadir untuk menyelesaikan permasalahan yang terjadi di masyarakat. Hal itu terkait adanya aduan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505617/altus-klarifikasi-soal-hotel-westin-ubud-bali",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NjE3L2FsdHVzLWtsYXJpZmlrYXNpLXNvYWwtaG90ZWwtd2VzdGluLXVidWQtYmFsaQ==",
-        "description": "ALTUS melayangkan gugatan perlawanan terhadap Kepolisian Negara Republik Indonesia c.q. Bareskrim Polri dan Kejaksaan Agung c.q. Kejaksaan Negeri Pekanbaru terkait penyitaan atas aset satu unit hotel,&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505616/legislator-minta-pelaku-kekerasan-seksual-di-hukum-berat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU2MTYvbGVnaXNsYXRvci1taW50YS1wZWxha3Uta2VrZXJhc2FuLXNla3N1YWwtZGktaHVrdW0tYmVyYXQ=",
-        "description": "ANGGOTA DPR RI Komisi VIII Hasbi Asyidiki Jayabaya meminta aparat penegak hukum menjatuhkan hukuman berat terhadap pelaku kekerasan seksual sesuai dengan peraturan perundang-undangan bila terbukti&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505615/puan-maharani-dpr-akan-evaluasi-penyelenggaraan-haji-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NjE1L3B1YW4tbWFoYXJhbmktZHByLWFrYW4tZXZhbHVhc2ktcGVueWVsZW5nZ2FyYWFuLWhhamktMjAyMg==",
-        "description": "KETUA DPR RI Puan Maharani memastikan akan mengevaluasi penyelenggaraan ibadah haji 1443H/2022 M yang dilaksanakan Kementerian Agama (Kemenag) karena Komisi VIII DPR telah memiliki catatan terkait&#8230;"
     }
 ]
