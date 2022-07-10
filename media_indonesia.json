@@ -1,5 +1,12 @@
 [
     {
+        "title": "Kolom Pakar",
+        "link": "https://m.mediaindonesia.com/kolom-pakar/505679/abe-san-kami-sudah-sangat-kehilanganmu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9rb2xvbS1wYWthci81MDU2NzkvYWJlLXNhbi1rYW1pLXN1ZGFoLXNhbmdhdC1rZWhpbGFuZ2FubXU=",
+        "description": "PENEMBAKAN itu tak biasa. Jepang yang selama saya tinggali kurang lebih 5 tahun hampir tak pernah memunculkan berita serupa. Suatu waktu pernah dengar di kantor polisi, kasus-kasus yang keluar dari&#8230;"
+    },
+    {
         "title": "Teknologi",
         "link": "https://m.mediaindonesia.com/teknologi/505710/kesenjangan-teknologi-masih-hantui-akselerasi-5g-di-asia-pasifik",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU3MDIvbGVjbGVyYy1idW5na2FtLXN1cG9ydGVyLXZlcnN0YXBwZW4tZGVuZ2FuLWtlbWVuYW5nYW4tZGktZ3AtYXVzdHJpYQ==",
         "description": "PEMBALAP Ferrari Charles Leclerc mencuri kemenangan di kandang tim Red Bull setelah mengalahkan Max Verstappen pada balapan Formula 1 Grand Prix Austria pada Minggu (10/7). &nbsp; Tidak&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505701/hewan-kurban-di-lamongan-bebas-pmk-dan-aman-dikonsumsi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NzAxL2hld2FuLWt1cmJhbi1kaS1sYW1vbmdhbi1iZWJhcy1wbWstZGFuLWFtYW4tZGlrb25zdW1zaQ==",
-        "description": "KENDATI wabah Penyakit Mulut dan Kuku (PMK) di Lamongan, Jawa Timur tengah berlangsung namun, dipastikan hewan kurban yang disembelih sehat dan aman serta memenuhi syarat untuk dikonsumsi. &quot;Semua&#8230;"
     }
 ]
