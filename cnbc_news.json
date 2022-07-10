@@ -1,5 +1,26 @@
 [
     {
+        "title": "Ini 5 Provinsi Dengan Kasus Positif Covid-19 Tertinggi",
+        "link": "https://www.cnbcindonesia.com/news/20220710172644-4-354441/ini-5-provinsi-dengan-kasus-positif-covid-19-tertinggi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDE3MjY0NC00LTM1NDQ0MS9pbmktNS1wcm92aW5zaS1kZW5nYW4ta2FzdXMtcG9zaXRpZi1jb3ZpZC0xOS10ZXJ0aW5nZ2k=",
+        "description": " Jakarta masih provinsi dengan kasus positif Covid-19 terbanyak."
+    },
+    {
+        "title": "Kabar Baik! Hari Ini Kasus Baru Covid-19 RI Turun",
+        "link": "https://www.cnbcindonesia.com/news/20220710171817-4-354440/kabar-baik-hari-ini-kasus-baru-covid-19-ri-turun",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDE3MTgxNy00LTM1NDQ0MC9rYWJhci1iYWlrLWhhcmktaW5pLWthc3VzLWJhcnUtY292aWQtMTktcmktdHVydW4=",
+        "description": " Kasus harian Covid-19 turun hari ini."
+    },
+    {
+        "title": "Iran Sebut AS dan Sekutu Timur Tengah Ancaman, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220710164912-4-354437/iran-sebut-as-sekutu-timur-tengah-ancaman-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDE2NDkxMi00LTM1NDQzNy9pcmFuLXNlYnV0LWFzLXNla3V0dS10aW11ci10ZW5nYWgtYW5jYW1hbi1hZGEtYXBh",
+        "description": " Iran menganggap rencana Amerika Serikat (AS) meningkatkan kerja sama pertahanan udara dengan sekutu Timur Tengahnya adalah sebuah ancaman."
+    },
+    {
         "title": "Jokowi: Masker di Luar Ruangan Keharusan",
         "link": "https://www.cnbcindonesia.com/news/20220710154543-8-354430/jokowi-masker-di-luar-ruangan-keharusan",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDE0NDUzNi0xNi0zNTQ0MjcvYmVnaW5pLWF0dXJhbi10ZXJiYXJ1LXN5YXJhdC1wZXJqYWxhbmFuLWRhbGFtLWRhbi1sdWFyLW5lZ2VyaQ==",
         "description": " Setelah aturan pelonggaran masker di ruang terbuka, makin banyak orang berpergian dan melakukan mobilisasi hampir seperti sebelum masa Covid-19."
-    },
-    {
-        "title": "Biden Puji CIA Soal Rusia-Ukraina: Bisa Peringatkan Dunia",
-        "link": "https://www.cnbcindonesia.com/news/20220710101833-4-354378/biden-puji-cia-soal-rusia-ukraina-bisa-peringatkan-dunia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDEwMTgzMy00LTM1NDM3OC9iaWRlbi1wdWppLWNpYS1zb2FsLXJ1c2lhLXVrcmFpbmEtYmlzYS1wZXJpbmdhdGthbi1kdW5pYQ==",
-        "description": " Presiden Joe Biden berterima kasih kepada para staf CIA karena memperingatkan dunia tentang rencana Presiden Rusia Vladimir Putin menyerang Ukraina."
-    },
-    {
-        "title": "Menlu AS Antony Blinken Puji Thailand, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220710143422-4-354426/menlu-as-antony-blinken-puji-thailand-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDE0MzQyMi00LTM1NDQyNi9tZW5sdS1hcy1hbnRvbnktYmxpbmtlbi1wdWppLXRoYWlsYW5kLWFkYS1hcGE=",
-        "description": " Menteri Luar Negeri\u00c2\u00a0AS Antony Blinken memuji peran Thailand membantu Negeri Paman Sam itu masuk Asia Tenggara."
-    },
-    {
-        "title": "Harga 3 Jenis BBM Pertamina Ini Naik! Cek Harganya",
-        "link": "https://www.cnbcindonesia.com/news/20220710145932-4-354428/harga-3-jenis-bbm-pertamina-ini-naik-cek-harganya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDE0NTkzMi00LTM1NDQyOC9oYXJnYS0zLWplbmlzLWJibS1wZXJ0YW1pbmEtaW5pLW5haWstY2VrLWhhcmdhbnlh",
-        "description": " PT Pertamina (Persero) resmi menaikkan harga tiga jenis produk Bahan Bakar Minyak (BBM) non subsidi pada hari ini."
     }
 ]
