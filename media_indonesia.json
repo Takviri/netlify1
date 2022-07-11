@@ -1,9 +1,16 @@
 [
     {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505933/polri-diminta-usut-penembakan-ajudan-kadiv-propam-secara-transparan",
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505934/petrokimia-gresik-bukukan-laba-rp194-triliun",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU5MzMvcG9scmktZGltaW50YS11c3V0LXBlbmVtYmFrYW4tYWp1ZGFuLWthZGl2LXByb3BhbS1zZWNhcmEtdHJhbnNwYXJhbg==",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTkzNC9wZXRyb2tpbWlhLWdyZXNpay1idWt1a2FuLWxhYmEtcnAxOTQtdHJpbGl1bg==",
+        "description": "&nbsp; PETROKIMIA Gresik berhasil membukukan laba sebesar Rp1,94 triliun pada 2021. Raihan tersebut 175% lebih tinggi dibandingkan Rencana Kerja dan Anggaran Perusahaan (RKAP) yang hanya ditetapkan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/505933/kasus-penembakan-ajudan-kadiv-propam-isess-prajurit-tamtama-tak-dibekali-senjata",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU5MzMva2FzdXMtcGVuZW1iYWthbi1hanVkYW4ta2FkaXYtcHJvcGFtLWlzZXNzLXByYWp1cml0LXRhbXRhbWEtdGFrLWRpYmVrYWxpLXNlbmphdGE=",
         "description": "PENGAMAT dari Institute for Security and Strategic Studies (ISESS), Khairul Fahmi,&nbsp;mendesak&nbsp;Mabes Polri dapat mengusut secara transparan penggunan senjata api dalam kasus penembakan ajudan&#8230;"
     },
     {
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU5MTkvY3VyaS1iYXJhbmctbWlsaWstcGVudW1wYW5nLXNvcGlyLXRha3NpLWRhcmluZy1kaWNpZHVr",
         "description": "KASI Humas Polres Metro Jakarta Barat, Komisaris Moch Taufik Iksan, membenarkan pihaknya telah melakukan penangkapan sopir taksi daring (online) berinisial CNT, 23, terkait kasus mencuri barang milik&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/505920/banyak-ikan-sapu-sapu-mati-di-sungai-dki-lakukan-uji-sampel-air",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU5MjAvYmFueWFrLWlrYW4tc2FwdS1zYXB1LW1hdGktZGktc3VuZ2FpLWRraS1sYWt1a2FuLXVqaS1zYW1wZWwtYWly",
-        "description": "BELAKANGAN, beredar video di media sosial yang menunjukkan ribuan ikan sapu-sapu mati di sepanjang Sungai Kali Baru Barat, tepatnya di depan Rt.001/08 Kelurahan Tengah, Kramat Jati, Jakarta. Humas&#8230;"
     }
 ]
