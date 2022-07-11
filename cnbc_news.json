@@ -1,5 +1,47 @@
 [
     {
+        "title": "Hiii! Begini Ramalan Seram MenPUPR Basuki Soal Jakarta",
+        "link": "https://www.cnbcindonesia.com/news/20220711150434-4-354692/hiii-begini-ramalan-seram-menpupr-basuki-soal-jakarta",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE1MDQzNC00LTM1NDY5Mi9oaWlpLWJlZ2luaS1yYW1hbGFuLXNlcmFtLW1lbnB1cHItYmFzdWtpLXNvYWwtamFrYXJ0YQ==",
+        "description": " Daya dukung Jakarta sudah berat, biaya untuk memperbaikinya pun terbilang mahal"
+    },
+    {
+        "title": "RI \"Pede\" Ekonomi Digital Bakal Terus Melejit",
+        "link": "https://www.cnbcindonesia.com/news/20220711131415-8-354634/ri-pede-ekonomi-digital-bakal-terus-melejit",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTEzMTQxNS04LTM1NDYzNC9yaS1wZWRlLWVrb25vbWktZGlnaXRhbC1iYWthbC10ZXJ1cy1tZWxlaml0",
+        "description": " Airlangga Hartarto mengatakan, ekonomi digital bisa menjadi sumber pertumbuhan ekonomi baru Indonesia."
+    },
+    {
+        "title": "Jurus Baru Jokowi Tarik Investor di IKN: Sebar 'Bonus'!",
+        "link": "https://www.cnbcindonesia.com/news/20220711160724-4-354730/jurus-baru-jokowi-tarik-investor-di-ikn-sebar-bonus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE2MDcyNC00LTM1NDczMC9qdXJ1cy1iYXJ1LWpva293aS10YXJpay1pbnZlc3Rvci1kaS1pa24tc2ViYXItYm9udXM=",
+        "description": " Pemerintah akan mengatur tentang pemberian insentif bagi para investor yang tertarik menanamkan modalnya di Indonesia."
+    },
+    {
+        "title": "Melandai, Kasus Covid-19 di RI Bertambah 1.681 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220711154034-4-354698/melandai-kasus-covid-19-di-ri-bertambah-1681-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE1NDAzNC00LTM1NDY5OC9tZWxhbmRhaS1rYXN1cy1jb3ZpZC0xOS1kaS1yaS1iZXJ0YW1iYWgtMTY4MS1oYXJpLWluaQ==",
+        "description": " Simak data terbaru Covid-19."
+    },
+    {
+        "title": "Menteri Jokowi Bikin Heboh, Dukung Duet Puan-Anies di 2024!",
+        "link": "https://www.cnbcindonesia.com/news/20220711163521-4-354719/menteri-jokowi-bikin-heboh-dukung-duet-puan-anies-di-2024",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE2MzUyMS00LTM1NDcxOS9tZW50ZXJpLWpva293aS1iaWtpbi1oZWJvaC1kdWt1bmctZHVldC1wdWFuLWFuaWVzLWRpLTIwMjQ=",
+        "description": " Tidak hanya itu, menurut Bahlil, ada satu hal lain yang lebih penting dari pasangan Puan-Anies, yaitu mengakhiri dikotomi cebong dan kampret."
+    },
+    {
+        "title": "Jangan Kaget! 2 Tetangga Dekat RI Mau Bangkrut, Siapa?",
+        "link": "https://www.cnbcindonesia.com/news/20220711163010-4-354716/jangan-kaget-2-tetangga-dekat-ri-mau-bangkrut-siapa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE2MzAxMC00LTM1NDcxNi9qYW5nYW4ta2FnZXQtMi10ZXRhbmdnYS1kZWthdC1yaS1tYXUtYmFuZ2tydXQtc2lhcGE=",
+        "description": " Sri Lanka bukanlah satu-satunya negara yang terancam bangkrut. Dua tetangga RI juga bernasip serupa."
+    },
+    {
         "title": "Perusahaan Inggris Temukan 'Harta Karun' Migas di Aceh",
         "link": "https://www.cnbcindonesia.com/news/20220711161900-4-354713/perusahaan-inggris-temukan-harta-karun-migas-di-aceh",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE0MTY1OC00LTM1NDY1OS9pbmkteWFuZy1iaWtpbi1zcmktbGFua2EtY2hhb3Mtc2Vtb2dhLXRhay10ZXJqYWRpLWRpLXJp",
         "description": " Sri Lanka mengalami krisis ekonomi akibat gejolak yang penuh komplikasi."
-    },
-    {
-        "title": "Dukung Putin, Presiden Ini Ditentang Tentaranya Sendiri",
-        "link": "https://www.cnbcindonesia.com/news/20220711144053-4-354671/dukung-putin-presiden-ini-ditentang-tentaranya-sendiri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE0NDA1My00LTM1NDY3MS9kdWt1bmctcHV0aW4tcHJlc2lkZW4taW5pLWRpdGVudGFuZy10ZW50YXJhbnlhLXNlbmRpcmk=",
-        "description": " Presiden Belarusia Alexander Lukashenko kini berada di posisi sulit."
-    },
-    {
-        "title": "Pertamina Kembali Mengerek Harga BBM Non Subsidi",
-        "link": "https://www.cnbcindonesia.com/news/20220711114434-8-354585/pertamina-kembali-mengerek-harga-bbm-non-subsidi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTExNDQzNC04LTM1NDU4NS9wZXJ0YW1pbmEta2VtYmFsaS1tZW5nZXJlay1oYXJnYS1iYm0tbm9uLXN1YnNpZGk=",
-        "description": " Pemerintah berencana mempercepat implementasi penerapan dari biodiesel campuran minyak sawit"
-    },
-    {
-        "title": "Ngeri! Ancaman Kebangkrutan Laos, Myanmar, Hingga Argentina",
-        "link": "https://www.cnbcindonesia.com/news/20220711160456-4-354707/ngeri-ancaman-kebangkrutan-laos-myanmar-hingga-argentina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE2MDQ1Ni00LTM1NDcwNy9uZ2VyaS1hbmNhbWFuLWtlYmFuZ2tydXRhbi1sYW9zLW15YW5tYXItaGluZ2dhLWFyZ2VudGluYQ==",
-        "description": " Sri Lanka menjadi negara yang saat ini di ujung tanduk karena menghadapi krisis ekonomi terburuknya"
-    },
-    {
-        "title": "Harapan Palsu! Harga Emas Naik Sebentar, Eh Turun Lagi...",
-        "link": "https://www.cnbcindonesia.com/news/20220711155554-4-354703/harapan-palsu-harga-emas-naik-sebentar-eh-turun-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE1NTU1NC00LTM1NDcwMy9oYXJhcGFuLXBhbHN1LWhhcmdhLWVtYXMtbmFpay1zZWJlbnRhci1laC10dXJ1bi1sYWdp",
-        "description": " Harga emas kembali melemah setelah sempat menguat pada dua hari perdagangan."
-    },
-    {
-        "title": "Bukan China, Ini Negara Penduduk Terbanyak Dunia 2023",
-        "link": "https://www.cnbcindonesia.com/news/20220711153434-4-354694/bukan-china-ini-negara-penduduk-terbanyak-dunia-2023",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE1MzQzNC00LTM1NDY5NC9idWthbi1jaGluYS1pbmktbmVnYXJhLXBlbmR1ZHVrLXRlcmJhbnlhay1kdW5pYS0yMDIz",
-        "description": " Posisi China tergeser. Negara itu diyakini tak akan menjadi negara dengan populasi terbanyak dunia lagi di 2023."
-    },
-    {
-        "title": "Terbukti Jadi Korban Perang, Krisis Energi Mulai Hinggapi RI?",
-        "link": "https://www.cnbcindonesia.com/news/20220711153515-4-354700/terbukti-jadi-korban-perang-krisis-energi-mulai-hinggapi-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE1MzUxNS00LTM1NDcwMC90ZXJidWt0aS1qYWRpLWtvcmJhbi1wZXJhbmcta3Jpc2lzLWVuZXJnaS1tdWxhaS1oaW5nZ2FwaS1yaQ==",
-        "description": " Efek harga minyak mentah dunia yang tinggi, Pertamina mengerek harga BBM dan LPG non penugasan atau non subsidi"
     }
 ]
