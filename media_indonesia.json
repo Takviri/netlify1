@@ -1,5 +1,33 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/505947/liga-sepak-bola-ukraina-akan-bergulir-mulai-agustus-di-tengah-perang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTk0Ny9saWdhLXNlcGFrLWJvbGEtdWtyYWluYS1ha2FuLWJlcmd1bGlyLW11bGFpLWFndXN0dXMtZGktdGVuZ2FoLXBlcmFuZw==",
+        "description": "MUSIM baru Liga Sepak Bola Ukraina akan bergulir di tengah invasi Rusia. Hal itu ditegaskan Menteri Olahraga Ukraina Vadym Gutsait,&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/505958/inilah-cara-sukses-berjualan-di-marketplace",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1OTU4L2luaWxhaC1jYXJhLXN1a3Nlcy1iZXJqdWFsYW4tZGktbWFya2V0cGxhY2U=",
+        "description": "Marketplace memiliki potensi besar di era digital sekarang ini. Sebagai platform digital yang mempertemukan antara penjual dan pembeli di era digital diibaratkan sebagai pasar besar. &quot;Menurut&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505946/sebagian-besar-jamaah-haji-indonesia-belum-bayar-dam-lewat-jalur-resmi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1OTQ2L3NlYmFnaWFuLWJlc2FyLWphbWFhaC1oYWppLWluZG9uZXNpYS1iZWx1bS1iYXlhci1kYW0tbGV3YXQtamFsdXItcmVzbWk=",
+        "description": "WAKIL Ketua Baznas Mokhamad Mahdum mengatakan sebagian besar jamaah haji Indonesia belum membayar dam atau denda melalui jalur yang&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505953/pemeriksaan-pengurus-dan-petinggi-act-dilanjutkan-hari-ini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU5NTMvcGVtZXJpa3NhYW4tcGVuZ3VydXMtZGFuLXBldGluZ2dpLWFjdC1kaWxhbmp1dGthbi1oYXJpLWluaQ==",
+        "description": "Penyidik Direktorat Tindak Pidana Ekonomi Khusus (Dittipideksus) Bareskrim Polri kembali melanjutkan pemeriksaan terhadap pengurus dan petinggi Aksi Cepat Tanggap (ACT) hari ini Selasa (12/7).&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/505937/pendiri-act-jelaskan-pemeriksaan-bareskrim-terkait-csr-boeing-untuk-korban-lion-air",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTkzNi9wZXRyb2tpbWlhLWdyZXNpay1idWt1a2FuLWxhYmEtcnAxOTQtdHJpbGl1bg==",
         "description": "Petrokimia Gresik berhasil membukukan laba sebesar Rp1,94 triliun pada 2021. Raihan tersebut 175% lebih tinggi dibandingkan Rencana Kerja dan Anggaran Perusahaan (RKAP) yang hanya ditetapkan sebesar&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/505929/filantropis-pelayan-publik-dan-malaadministrasi-negara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDU5MjkvZmlsYW50cm9waXMtcGVsYXlhbi1wdWJsaWstZGFuLW1hbGFhZG1pbmlzdHJhc2ktbmVnYXJh",
-        "description": "KEBIJAKAN pemerintah (baca: Menteri Sosial RI), yang mencabut izin operasional Yayasan Aksi Cepat Tanggap&nbsp;(ACT) sesuai keputusan No 133/HUK/2022 telah menimbulkan&nbsp;kontroversi di masyarakat.&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/505942/sehari-jelang-kejuaraan-asia-timnas-indonesia-ganti-pelatih",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU5NDIvc2VoYXJpLWplbGFuZy1rZWp1YXJhYW4tYXNpYS10aW1uYXMtaW5kb25lc2lhLWdhbnRpLXBlbGF0aWg=",
-        "description": "PENGURUS Pusat Persatuan Bola Basket Seluruh Indonesia (PP Perbasi), Senin (11/7), mengumumkan telah menunjuk Milos Pejic untuk menangani timnas <a href=\"http://mediaindonesia.com/tag/bola-basket\"&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505943/ini-kata-ahyudin-soal-dana-csr-boeing-untuk-korban-lion-air-jt-610",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU5NDMvaW5pLWthdGEtYWh5dWRpbi1zb2FsLWRhbmEtY3NyLWJvZWluZy11bnR1ay1rb3JiYW4tbGlvbi1haXItanQtNjEw",
-        "description": "PENDIRI Yayasan Aksi Cepat Tanggap (ACT) Ahyudin menjelaskan tentang pemeriksaan yang dijalaninya di Bareskrim Polri, Senin (11/7), terkait&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/505941/meski-jadi-juara-di-wimbledon-djokovic-turun-peringkat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU5NDEvbWVza2ktamFkaS1qdWFyYS1kaS13aW1ibGVkb24tZGpva292aWMtdHVydW4tcGVyaW5na2F0",
-        "description": "NOVAK Djokovic, Senin (11/7), tergelincir empat peringkat meskipun berhasil mempertahankan gelar Wimbledon menyusul keputusan&nbsp;kontroversial&#8230;"
     }
 ]
