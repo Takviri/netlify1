@@ -1,6 +1,62 @@
 [
     {
         "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505760/perusahaan-batu-bara-dorong-revitalisasi-ekosistem-mangrove-di-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NzYwL3BlcnVzYWhhYW4tYmF0dS1iYXJhLWRvcm9uZy1yZXZpdGFsaXNhc2ktZWtvc2lzdGVtLW1hbmdyb3ZlLWRpLWluZG9uZXNpYQ==",
+        "description": "ANAK Usaha MMS Group Indonesia (MMSGI), PT Multi Harapan Utama (MHU), melaksanakan inisiatif penanaman mangrove di Pantai Mertasari Sanur, Bali, beberapa hari&nbsp;lalu. Kegiatan yang bertajuk&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/505759/kawasan-dukuh-atas-ramai-dikunjungi-remaja-scbd-wagub-dki-kami-senang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU3NTkva2F3YXNhbi1kdWt1aC1hdGFzLXJhbWFpLWRpa3VuanVuZ2ktcmVtYWphLXNjYmQtd2FndWItZGtpLWthbWktc2VuYW5n",
+        "description": "WAKIL Gubernur DKI Jakarta Ahmad Riza Patria tidak mempersoalkan kawasan Dukuh Atas kini menjadi destinasi wisata para remaja 'Sudirman, Citayam, Bojonggede, Depok' (SCBD). &quot;Sekali&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505758/presiden-jokowi-bersiap-berkunjung-ke-tiongkok",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU3NTgvcHJlc2lkZW4tam9rb3dpLWJlcnNpYXAtYmVya3VuanVuZy1rZS10aW9uZ2tvaw==",
+        "description": "KEPALA Staf Kepresidenan Heru Budi Hartono mengonfirmasi rencana lawatan Presiden Joko Widodo ke Tiongkok akhir Juli mendatang. Ia menyebut pihak Istana tengah membahas dan menyiapkan hal-hal yang&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505757/subsidi-gula-diprediksi-tidak-efektif-redam-kenaikan-harga",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTc1Ny9zdWJzaWRpLWd1bGEtZGlwcmVkaWtzaS10aWRhay1lZmVrdGlmLXJlZGFtLWtlbmFpa2FuLWhhcmdh",
+        "description": "RENCANA Kementerian Perdagangan untuk memberikan subsidi gula petani sebesar Rp1.000 per kilogram berpotensi tidak efektif untuk meredam kenaikan harga. &quot;Pemerintah perlu memberikan solusi&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/505756/korut-terprovokasi-keberadaan-jet-canggih-as-di-korsel",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTc1Ni9rb3J1dC10ZXJwcm92b2thc2kta2ViZXJhZGFhbi1qZXQtY2FuZ2dpaC1hcy1kaS1rb3JzZWw=",
+        "description": "KOREA Utara (Korut) berang dengan keputusan Amerika Serikat (AS) yang menempatkan jet canggih dalam latihan bersama dengan Korea Selatan (Korsel). Pyongyang pun menggelar latihan penembakan artileri.&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505755/rayakan-idul-adha-maucash-salurkan-hewan-kurban-untuk-masyarakat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NzU1L3JheWFrYW4taWR1bC1hZGhhLW1hdWNhc2gtc2FsdXJrYW4taGV3YW4ta3VyYmFuLXVudHVrLW1hc3lhcmFrYXQ=",
+        "description": "SEBELUMNYA Maucash telah menyelenggarakan kegiatan sosial lewat pemberian santunan kepada anak yatim pada&nbsp;bulan April 2022. Kali ini Maucash kembali berbagi kepada masyarakat dengan menyalurkan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505754/libur-idul-adha-penumpang-ka-jarak-jauh-naik-46",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NzU0L2xpYnVyLWlkdWwtYWRoYS1wZW51bXBhbmcta2EtamFyYWstamF1aC1uYWlrLTQ2",
+        "description": "PT Kereta Api Indonesia (Persero) melayani sebanyak 398.260 pelanggan atau rata-rata 132.753 pelanggan Kereta Api (KA) Jarak Jauh per libur Idul Adha, yakni Jumat (8/7) hingga Minggu (10/7). Angka&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505753/anggota-dpr-dorong-peningkatan-layanan-transportasi-di-maluku-utara",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTc1My9hbmdnb3RhLWRwci1kb3JvbmctcGVuaW5na2F0YW4tbGF5YW5hbi10cmFuc3BvcnRhc2ktZGktbWFsdWt1LXV0YXJh",
+        "description": "ANGGOTA Komisi V DPR RI Fadholi mendorong percepatan infrastruktur perhubungan di Provinsi Maluku Utara, terutama layanan penerbangan dan penyeberangan. Menurutnya, jika kedua layanan di Maluku&#8230;"
+    },
+    {
+        "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/505752/lorin-sentul-hotel-ajak-tingkatkan-keimanan-dan-solidaritas-dalam-berkurban",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NzUyL2xvcmluLXNlbnR1bC1ob3RlbC1hamFrLXRpbmdrYXRrYW4ta2VpbWFuYW4tZGFuLXNvbGlkYXJpdGFzLWRhbGFtLWJlcmt1cmJhbg==",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTc1MS9tZW5rby1haXJsYW5nZ2EtbWludGEtbmVnYXJhLWFuZ2dvdGEtZzIwLWJlcnNhdHUtYXRhc2ktcGVybWFzYWxhaGFuLWdsb2JhbA==",
         "description": "PRESIDENSI G20 Indonesia meyakini bahwa konsensus akan dicapai para delegasi dalam mempertimbangkan jalan keluar untuk isu-isu yang menjadi prioritas. Keyakinan tersebut disampaikan oleh Menteri&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505750/pemerintah-mulai-bangun-kavling-di-ikn-nusantara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTc1MC9wZW1lcmludGFoLW11bGFpLWJhbmd1bi1rYXZsaW5nLWRpLWlrbi1udXNhbnRhcmE=",
-        "description": "KEMENTERIAN Pekerjaan Umum dan Perumahan Rakyat (PUPR) mulai membangun kavling untuk sejumlah gedung pemerintahan kawasan di Ibu Kota Negara (IKN) Nusantara pada 15 Juli mendatang. Menteri PUPR&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/505749/ini-alasan-anggota-polsek-cakung-todong-pengendara-motor-dengan-pistol",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU3NDkvaW5pLWFsYXNhbi1hbmdnb3RhLXBvbHNlay1jYWt1bmctdG9kb25nLXBlbmdlbmRhcmEtbW90b3ItZGVuZ2FuLXBpc3RvbA==",
-        "description": "VIDIO unggahan akun Instagram @jakarta.terkini menggambarkan situasi adu mulut dua orang pengendara, salah satu pengendara tersebut menodongkan senjata api. Kejadian ini terjadi pada Senin (11/7) pagi,&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505740/cerah-prospek-ekonomi-dan-keuangan-digital-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTc0MC9jZXJhaC1wcm9zcGVrLWVrb25vbWktZGFuLWtldWFuZ2FuLWRpZ2l0YWwtaW5kb25lc2lh",
-        "description": "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto mengungkapkan, ekonomi dan keuangan digital Indonesia memiliki prospek yang cerah sebagai sumber pertumbuhan baru. Hal itu terlihat dari nilai&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505748/terapkan-gizi-seimbang-kurangi-konsumsi-garam-dan-pakai-bumbu-umami",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NzQ4L3RlcmFwa2FuLWdpemktc2VpbWJhbmcta3VyYW5naS1rb25zdW1zaS1nYXJhbS1kYW4tcGFrYWktYnVtYnUtdW1hbWk=",
-        "description": "TAK dapat dipungkiri, Natrium memiliki peranan penting yang dibutuhkan tubuh sebagai zat gizi esensial untuk mewujudkan hidup sehat, kuat, dan aktif. &nbsp;Kelebihan maupun kekurangan (defisiensi)&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505747/presiden-jokowi-setujui-pengunduran-diri-lili-pintauli-dari-kpk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU3NDcvcHJlc2lkZW4tam9rb3dpLXNldHVqdWktcGVuZ3VuZHVyYW4tZGlyaS1saWxpLXBpbnRhdWxpLWRhcmkta3Br",
-        "description": "PRESIDEN Joko Widodo telah menyetujui pengunduran diri Lili Pintauli Siregar dari jabatan wakil ketua Komisi Pemberantasan Korupsi (KPK). Hal tersebut disampaikan Staf Khusus Menteri Sekretaris&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505746/imigrasi-entikong-berupaya-ungkap-sindikat-pemalsu-paspor-ri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NzQ2L2ltaWdyYXNpLWVudGlrb25nLWJlcnVwYXlhLXVuZ2thcC1zaW5kaWthdC1wZW1hbHN1LXBhc3Bvci1yaQ==",
-        "description": "KEPALA Kantor Imigrasi Kelas II TPI Entikong Sam Fernando &nbsp;mengatakan, Seksi Intelijen dan Penindakan Imigrasi Entikong berupaya mengungkap kasus dugaan pemalsuan paspor Indonesia. Sebagaimana&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505745/warga-yogyakarta-sudah-bisa-daftar-subsidi-bbm-di-mypertamina",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1NzQ1L3dhcmdhLXlvZ3lha2FydGEtc3VkYWgtYmlzYS1kYWZ0YXItc3Vic2lkaS1iYm0tZGktbXlwZXJ0YW1pbmE=",
-        "description": "AREA Manager Communication, Relations, &amp; Corporate Social Responsibility (CSR) Regional Jawa Bagian Tengah PT Pertamina Patra Niaga, Brasto Galih Nugroho, menjelaskan warga yang berdomisili atau&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505744/restorasi-ekosistem-jadi-kunci-untuk-tingkatkan-cadangan-karbon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NzQ0L3Jlc3RvcmFzaS1la29zaXN0ZW0tamFkaS1rdW5jaS11bnR1ay10aW5na2F0a2FuLWNhZGFuZ2FuLWthcmJvbg==",
-        "description": "INDONESIA mengupayakan strategi jangka panjang pembangunan berkelanjutan yang tertuang dalam dokumen Indonesia FoLU Net Sink 2030. Dalam dokumen tersebut, Indonesia menargetkan untuk mencapai puncak&#8230;"
     }
 ]
