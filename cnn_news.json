@@ -1,5 +1,26 @@
 [
     {
+        "title": "Kasus Kematian Mingguan Naik, Jumlah Tes Covid-19 Menurun",
+        "link": "https://www.cnnindonesia.com/nasional/20220711083802-20-819815/kasus-kematian-mingguan-naik-jumlah-tes-covid-19-menurun",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTA4MzgwMi0yMC04MTk4MTUva2FzdXMta2VtYXRpYW4tbWluZ2d1YW4tbmFpay1qdW1sYWgtdGVzLWNvdmlkLTE5LW1lbnVydW4=",
+        "description": " Jumlah tes terhadap warga terkait Covid-19 menurun sekitar 6,24 persen. Sementara kasus harian dan kematian naik."
+    },
+    {
+        "title": "Adik Benny Tjokro Hadapi Sidang Tuntutan Kasus ASABRI",
+        "link": "https://www.cnnindonesia.com/nasional/20220711084340-12-819817/adik-benny-tjokro-hadapi-sidang-tuntutan-kasus-asabri",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTA4NDM0MC0xMi04MTk4MTcvYWRpay1iZW5ueS10am9rcm8taGFkYXBpLXNpZGFuZy10dW50dXRhbi1rYXN1cy1hc2Ficmk=",
+        "description": " Teddy Tjokrosapoetro, adik dari Benny Tjokrosaputro, akan menjalani sidang tuntutan terkait kasus dugaan korupsi di PT ASABRI."
+    },
+    {
+        "title": "Bareskrim Periksa Presiden hingga Manajer Operasional ACT",
+        "link": "https://www.cnnindonesia.com/nasional/20220711082611-12-819814/bareskrim-periksa-presiden-hingga-manajer-operasional-act",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTA4MjYxMS0xMi04MTk4MTQvYmFyZXNrcmltLXBlcmlrc2EtcHJlc2lkZW4taGluZ2dhLW1hbmFqZXItb3BlcmFzaW9uYWwtYWN0",
+        "description": " Penyidik polisi bakal melanjutkan pemeriksaan kasus penyelewengan donasi ACT. Hari ini, polisi memanggil empat petinggi ACT."
+    },
+    {
         "title": "Seorang Jemaah Haji dari Aceh Wafat di Mekah",
         "link": "https://www.cnnindonesia.com/nasional/20220711080702-20-819812/seorang-jemaah-haji-dari-aceh-wafat-di-mekah",
         "image": "static/images/cnn_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTA2MzgzMi0yMC04MTk3OTcva2FwYWwtbWF0aS1tZXNpbi1kaS1wZXJhaXJhbi1uYXR1bmEtMy1uZWxheWFuLWRpZXZha3Vhc2k=",
         "description": " Tiga nelayan diselamatkan Basarnas Natuna setelah kapal mereka mengalami mati mesin di Perairan Natuna, Minggu (10/7) malam."
-    },
-    {
-        "title": "Lili Pintauli Jalani Sidang Etik Kasus MotoGP Mandalika Hari Ini",
-        "link": "https://www.cnnindonesia.com/nasional/20220711062307-12-819793/lili-pintauli-jalani-sidang-etik-kasus-motogp-mandalika-hari-ini",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTA2MjMwNy0xMi04MTk3OTMvbGlsaS1waW50YXVsaS1qYWxhbmktc2lkYW5nLWV0aWsta2FzdXMtbW90b2dwLW1hbmRhbGlrYS1oYXJpLWluaQ==",
-        "description": " Komisioner KPK Lili Pintauli Siregar\u00c2\u00a0Akan menjalani sidang dugaan pelanggaran kode etik terkait penerimaan fasilitas akomodasi hotel dan tiket MotoGP Mandalika."
-    },
-    {
-        "title": "Eks Presiden ACT Ahyudin Bakal Kembali Diperiksa Polisi Hari Ini",
-        "link": "https://www.cnnindonesia.com/nasional/20220710202626-12-819747/eks-presiden-act-ahyudin-bakal-kembali-diperiksa-polisi-hari-ini",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMDIwMjYyNi0xMi04MTk3NDcvZWtzLXByZXNpZGVuLWFjdC1haHl1ZGluLWJha2FsLWtlbWJhbGktZGlwZXJpa3NhLXBvbGlzaS1oYXJpLWluaQ==",
-        "description": " Mantan Presiden Aksi Cepat Tanggap (ACT) Ahyudin kembali dijadwalkan diperiksa oleh penyidik Bareskrim Polri hari ini, Senin (11/7)."
-    },
-    {
-        "title": "Polda Bagi 11 Ton Daging Rendang ke Warga Jakarta saat Iduladha",
-        "link": "https://www.cnnindonesia.com/nasional/20220711022729-20-819773/polda-bagi-11-ton-daging-rendang-ke-warga-jakarta-saat-iduladha",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTAyMjcyOS0yMC04MTk3NzMvcG9sZGEtYmFnaS0xMS10b24tZGFnaW5nLXJlbmRhbmcta2Utd2FyZ2EtamFrYXJ0YS1zYWF0LWlkdWxhZGhh",
-        "description": " Polda Metro Jaya menyalurkan 11 ton daging sapi yang telah diolah menjadi rendang bagi warga Jakarta dalam rangka memperingati Hari Iduladha pada Minggu (10/7)."
     }
 ]
