@@ -1,5 +1,12 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505711/bmkg-waspada-gelombang-sangat-tinggi-hingga-6-meter",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1NzExL2Jta2ctd2FzcGFkYS1nZWxvbWJhbmctc2FuZ2F0LXRpbmdnaS1oaW5nZ2EtNi1tZXRlcg==",
+        "description": "BADAN Meteorologi Klimatologi, dan Geofisika (BMKG) mengeluarkan peringatan dini gelombang tinggi yang berpotensi terjadi di beberapa wilayah perairan pada 11 - 12 Juli 2022. Pola angin di wilayah&#8230;"
+    },
+    {
         "title": "Opini",
         "link": "https://m.mediaindonesia.com/opini/505685/membangun-keunggulan",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTcwNC9rZW1lbmFuZ2FuLXRlbGFrLWF0YXMtbXlhbm1hci1nYWdhbC1hbnRhci1pbmRvbmVzaWEta2Utc2VtaWZpbmFs",
         "description": "TIM Indonesia usia di bawah 19 tahun (U-19) gagal melaju ke semifinal Piala AFF U-19 2022 meski berhasil mengalahkan Myanmar dengan skor 5-1 pada laga pamungkas Grup A di Stadion Patriot Candrabhaga,&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505703/iduladha-jadi-spirit-masa-depan-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU3MDMvaWR1bGFkaGEtamFkaS1zcGlyaXQtbWFzYS1kZXBhbi1pbmRvbmVzaWE=",
-        "description": "HARI Raya Idulaadha kali ini terasa spesial, karena berlangsung hampir di masa akhir pandemi Covid-19. Anggota DPR RI Heri Gunawan menilai, inilah momentum Iduladha yang membawa sprit bagi masa depan&#8230;"
     }
 ]

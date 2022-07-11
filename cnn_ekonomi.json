@@ -1,5 +1,12 @@
 [
     {
+        "title": "Harga Minyak Dunia Jatuh Lebih dari 4 Persen Pekan Lalu",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220711063023-85-819794/harga-minyak-dunia-jatuh-lebih-dari-4-persen-pekan-lalu",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzExMDYzMDIzLTg1LTgxOTc5NC9oYXJnYS1taW55YWstZHVuaWEtamF0dWgtbGViaWgtZGFyaS00LXBlcnNlbi1wZWthbi1sYWx1",
+        "description": " Harga minyak dunia menurun lebih dari 4 persen sepanjang pekan lalu karena kekhawatiran pasar terhadap penurunan permintaan BBM."
+    },
+    {
         "title": "Harga BBM Terbaru, Pertamax Turbo hingga Dexlite Naik",
         "link": "https://www.cnnindonesia.com/ekonomi/20220711062129-85-819792/harga-bbm-terbaru-pertamax-turbo-hingga-dexlite-naik",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEwMTIxODIzLTc4LTgxOTYzNy9pbWYtYmVyaGFyYXAtYmFpbG91dC1kYXBhdC1tZW5qYWRpLXNvbHVzaS1rcmlzaXMtc3JpLWxhbmth",
         "description": " IMF menawarkan dana talangan alias bailout kepada Sri Lanka untuk mengatasi krisis ekonomi yang kini telah menjalar menjadi krisis politik."
-    },
-    {
-        "title": "Eks Ekonom IMF Ungkap Resesi AS Bak Buah Simalakama",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220710115157-532-819631/eks-ekonom-imf-ungkap-resesi-as-bak-buah-simalakama",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEwMTE1MTU3LTUzMi04MTk2MzEvZWtzLWVrb25vbS1pbWYtdW5na2FwLXJlc2VzaS1hcy1iYWstYnVhaC1zaW1hbGFrYW1h",
-        "description": " Eks Ekonom\u00c2\u00a0IMF Ken Rogoff mengungkapkan The Fed, bank sentral AS, tidak mungkin menurunkan inflasi tanpa risiko resesi."
     }
 ]
