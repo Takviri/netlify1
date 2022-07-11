@@ -1,72 +1,72 @@
 [
     {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505843/bandara-ap-ii-buka-sentra-vaksinasi-booster-bagi-penumpang-pesawat",
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505853/ketahui-cara-memilih-daycare-yang-baik",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTg0My9iYW5kYXJhLWFwLWlpLWJ1a2Etc2VudHJhLXZha3NpbmFzaS1ib29zdGVyLWJhZ2ktcGVudW1wYW5nLXBlc2F3YXQ=",
-        "description": "PT Angkasa Pura (AP) II mulai 17 Juli 2022 menerapkan regulasi terbaru terkait Pelaku Perjalanan Dalam Negeri (PPDN) dan Pelaku Perjalanan Luar Negeri (PPLN) yang menjadikan vaksin dosis ketiga (booster)&#8230;"
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1ODUzL2tldGFodWktY2FyYS1tZW1pbGloLWRheWNhcmUteWFuZy1iYWlr",
+        "description": "Ketua Lembaga Perlindungan Anak Indonesia (LPAI) Prof. Dr. Seto Mulyadi S. Psi M. Si (Kak Seto) berpesan agar orangtua lebih selektif memilih daycare (tempat penitipan dan pengasuhan anak) dengan mengedepankan&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/505858/praktisi-penuhi-ruang-digital-dengan-semangat-pancasila",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1ODU4L3ByYWt0aXNpLXBlbnVoaS1ydWFuZy1kaWdpdGFsLWRlbmdhbi1zZW1hbmdhdC1wYW5jYXNpbGE=",
+        "description": "Nilai-nilai berbangsa dan bernegara dalam konteks digital di Indonesia tak lepas dari Pancasila dan Bhinneka Tunggal Ika. Hal tersebut perlu dipahami masyarakat agar berpendapat dalam koridor berbudaya&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505851/pemerintah-siapkan-inpres-percepat-penggunaan-mobil-listrik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTg1MS9wZW1lcmludGFoLXNpYXBrYW4taW5wcmVzLXBlcmNlcGF0LXBlbmdndW5hYW4tbW9iaWwtbGlzdHJpaw==",
+        "description": "KEPALA Staf Kepresidenan Moeldoko mengatakan pemerintah saat ini tengah menyiapkan Instruksi Presiden (Inpres) untuk percepatan penggunaan kendaraan listrik, khususnya di lingkungan pemerintah.<br&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/505856/presiden-pertamina-mandalika-dukung-street-race-di-sirkuit-formula-e",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU4NTYvcHJlc2lkZW4tcGVydGFtaW5hLW1hbmRhbGlrYS1kdWt1bmctc3RyZWV0LXJhY2UtZGktc2lya3VpdC1mb3JtdWxhLWU=",
+        "description": "PRESIDEN&nbsp;Pertamina Mandalika Racing Team, Muhammad Rapsel Ali, mendukung penuh penyelenggaraan street race di Jakarta. Termasuk jika itu diadakan di Sirkuit Formula E, Jakarta International&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505855/pengamat-zulkifli-hasan-tak-cakap-dalam-memposisikan-peran",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU4NTUvcGVuZ2FtYXQtenVsa2lmbGktaGFzYW4tdGFrLWNha2FwLWRhbGFtLW1lbXBvc2lzaWthbi1wZXJhbg==",
+        "description": "PENGAMAT politik Indonesia Political Opinion (IPO) Dedi Kurnia Syah Putra menilai Zulkifli Hasan seharusnya jelas dalam menempatkan posisi sebagai Ketua Umum PAN dan Menteri Perdagangan saat hadir&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505854/sandiaga-uno-dapat-dukungan-dari-teman-sandi-dan-masyarakat-bojonegoro",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1ODU0L3NhbmRpYWdhLXVuby1kYXBhdC1kdWt1bmdhbi1kYXJpLXRlbWFuLXNhbmRpLWRhbi1tYXN5YXJha2F0LWJvam9uZWdvcm8=",
+        "description": "SENIN (11/7), Sandiaga Uno memperoleh dukungan dari masyarakat dan millenial Bojonegoro. Mereka meyakini Sandiaga mampu membangkitkan ekonomi dan UMKM di tahun 2024 mendatang. Kali ini, aneka kegiatan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505852/bupati-jayapura-mathius-awoitauw-rangkul-tokoh-adat-biak-dorong-penguatan-masyarakat-adat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1ODUyL2J1cGF0aS1qYXlhcHVyYS1tYXRoaXVzLWF3b2l0YXV3LXJhbmdrdWwtdG9rb2gtYWRhdC1iaWFrLWRvcm9uZy1wZW5ndWF0YW4tbWFzeWFyYWthdC1hZGF0",
+        "description": "BUPATI Jayapura, Mathius Awoitauw hadir di Kabupaten Biak Numfor beberapa waktu lalu atas undangan Lembaga Masyarakat Adat Biak pada agenda Rapat Kerja (Raker) terkait pokok pikiran dalam rangka pengusulan&#8230;"
     },
     {
         "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505846/pakar-laporkan-temuan-jenis-subvarian-ba275-di-india-centaurus",
+        "link": "https://m.mediaindonesia.com/humaniora/505850/ketua-iluni-ui-andre-nilai-tim-akbar-guyub",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1ODQ2L3Bha2FyLWxhcG9ya2FuLXRlbXVhbi1qZW5pcy1zdWJ2YXJpYW4tYmEyNzUtZGktaW5kaWEtY2VudGF1cnVz",
-        "description": "Direktur Pasca Sarjana Universitas YARSI Prof Tjandra Yoga Aditama melaporkan temuan terbaru jenis subvarian BA.2.75 di India yang oleh sebagian pihak disebut sebagai Centaurus. &quot;India&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/505845/mobil-listrik-air-ev-menandai-peringatan-lustrum-pertama-wuling",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MDU4NDUvbW9iaWwtbGlzdHJpay1haXItZXYtbWVuYW5kYWktcGVyaW5nYXRhbi1sdXN0cnVtLXBlcnRhbWEtd3VsaW5n",
-        "description": "SETELAH awal Juni lalu memperkenalkan eksterior kendaraan listrik terbaru yang akan diluncurkan dalam acara bertajuk 'ELectrify Your World', kini giliran Wuling Motors mengungkap berbagai informasi&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/505844/coinex-gelar-kompetisi-video-dengan-total-hadiah-sebesar-us1500",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1ODQ0L2NvaW5leC1nZWxhci1rb21wZXRpc2ktdmlkZW8tZGVuZ2FuLXRvdGFsLWhhZGlhaC1zZWJlc2FyLXVzMTUwMA==",
-        "description": "BERDASARKAN beberapa data, perdagangan kontrak berjangka kripto telah menjadi arus utama, melampaui pasar perdagangan spot dalam hal volume transaksi. Menjadi bagian dari produk derivatif, kontrak&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/505842/wisata-ke-pulau-panjang-disebut-lebih-murah-dengan-helikopter",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU4NDIvd2lzYXRhLWtlLXB1bGF1LXBhbmphbmctZGlzZWJ1dC1sZWJpaC1tdXJhaC1kZW5nYW4taGVsaWtvcHRlcg==",
-        "description": "BUPATI Kepulauan Seribu Junaedi mengatakan lebih murah menggunakan transportasi helikopter jika ingin mengunjungi Pulau Panjang. &quot;Kalau menurut saya lebih murah, cuma dari kapasitasnya&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/505841/semua-punya-peluang-yang-sama-di-era-digital",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1ODQxL3NlbXVhLXB1bnlhLXBlbHVhbmcteWFuZy1zYW1hLWRpLWVyYS1kaWdpdGFs",
-        "description": "Masyarakat sudah masuk ke era transformasi digital yang membawa peluang. Di mana ruang digital dapat membawa nilai kebaikan bagi masyarakat jika memanfaatkannya secara positif. &quot;Nah ternyata&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/505840/pemanfaatan-media-sosial-perlu-perhatikan-etika-dan-hak-digital",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1ODQwL3BlbWFuZmFhdGFuLW1lZGlhLXNvc2lhbC1wZXJsdS1wZXJoYXRpa2FuLWV0aWthLWRhbi1oYWstZGlnaXRhbA==",
-        "description": "MEDIA sosial bisa menjadi etalase karya pribadi seseorang, baik itu berupa hard skill ataupun soft skill. Begitu juga etalase untuk praktik jual beli barang semacam lokapasar. Dengan pemanfaatan yang&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/505837/kemenlu-pastikan-340-wni-di-sri-lanka-aman",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTgzNy9rZW1lbmx1LXBhc3Rpa2FuLTM0MC13bmktZGktc3JpLWxhbmthLWFtYW4=",
-        "description": "KEMENTERIAN Luar Negeri Republik Indonesia memantau kondisi keamanan Sri Lanka yang sedang bergejolak. Sebanyak 340 warga negara Indonesia (WNI) yang berada di sana dilaporkan belum membutuhkan evakuasi.&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/505839/medina-zein-diperiksa-terkait-dugaan-laporan-palsu-pada-marissya-icha",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU4MzkvbWVkaW5hLXplaW4tZGlwZXJpa3NhLXRlcmthaXQtZHVnYWFuLWxhcG9yYW4tcGFsc3UtcGFkYS1tYXJpc3N5YS1pY2hh",
-        "description": "KUASA hukum Marissya Icha, Ahmad Ramzy, mendatangi Polda Metro Jaya terkait laporan polisi yang dibuat oleh kliennya soal laporan palsu. &quot;Jadi saya datang ke Polda menanyakan perkembangan&#8230;"
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1ODUwL2tldHVhLWlsdW5pLXVpLWFuZHJlLW5pbGFpLXRpbS1ha2Jhci1ndXl1Yg==",
+        "description": "KETUA Ikatan Alumni Universitas Indonesia (Iluni UI) Andre Rahadian menyambut hangat kehadiran tim Ahmad Akbar bersama Campaign Manager Arvan Pradiansyah. Akbar menyambangi Sekretariat ILUNI&#8230;"
     },
     {
         "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505838/xplorin-fasilitasi-wisatawan-asing-transaksi-dengan-qris-di-fekdi-2022",
+        "link": "https://m.mediaindonesia.com/ekonomi/505849/bi-prediksi-penjualan-eceran-juni-tumbuh-154",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTgzOC94cGxvcmluLWZhc2lsaXRhc2ktd2lzYXRhd2FuLWFzaW5nLXRyYW5zYWtzaS1kZW5nYW4tcXJpcy1kaS1mZWtkaS0yMDIy",
-        "description": "BANK Indonesia (BI) bersama Kementerian Koordinator Bidang (Kemenkon) Perekonomian&nbsp;serta asosiasi kembali menyelenggarakan Festival Ekonomi Keuangan Digital Indonesia (FEKDI) 2022 pada 11 &ndash;&#8230;"
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTg0OS9iaS1wcmVkaWtzaS1wZW5qdWFsYW4tZWNlcmFuLWp1bmktdHVtYnVoLTE1NA==",
+        "description": "BANK Indonesia (BI) memperkirakan kinerja penjualan eceran pada Juni 2022 akan meningkat, sebagaimana tercermin dari Indeks Penjualan Riil (IPR) Juni 2022 sebesar 229,1 atau tumbuh 15,4% secara tahunan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/505847/jasad-terduga-tersengat-arus-listrik-ditemukan-di-pinggir-tol-jagorawi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU4NDcvamFzYWQtdGVyZHVnYS10ZXJzZW5nYXQtYXJ1cy1saXN0cmlrLWRpdGVtdWthbi1kaS1waW5nZ2lyLXRvbC1qYWdvcmF3aQ==",
+        "description": "JASAD seorang pira diduga tersengat arus listrik ditemukan di Tol Jagorawi, Jakarta Timur, pada Sabtu (9/7), pukul 15.00 WIB. Korban berjenis kelamin laki-laki. Kanit Reskrim Polsek Makassar&#8230;"
     }
 ]
