@@ -1,5 +1,12 @@
 [
     {
+        "title": "Penjualan Eceran Meningkat Juni 2022",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220711165938-532-820079/penjualan-eceran-meningkat-juni-2022",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzExMTY1OTM4LTUzMi04MjAwNzkvcGVuanVhbGFuLWVjZXJhbi1tZW5pbmdrYXQtanVuaS0yMDIy",
+        "description": " Bank Indonesia menyebut kinerja penjualan eceran meningkat secara tahunan pada Juni kemarin, meski secara bulanan turun 2,1 persen."
+    },
+    {
         "title": "Bappenas Tetapkan 24 'Syarat' Bagi Investor yang Mau Masuk ke IKN",
         "link": "https://www.cnnindonesia.com/ekonomi/20220711202047-532-820173/bappenas-tetapkan-24-syarat-bagi-investor-yang-mau-masuk-ke-ikn",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzExMTQyNjAzLTc4LTgxOTk5NS9uYXNhYmFoLWRlbW8tZGktYmFuay1jaGluYS1kaXNlcmFuZy1rZWxvbXBvay1iYWp1LXB1dGlo",
         "description": " Ribuan nasabah bank yang tengah berdemo di depan cabang Bank Rakyat China pada Minggu (10/7), diserang oleh kelompok berkaos putih."
-    },
-    {
-        "title": "Jhonlin Agro Raya Milik Haji Isam Bakal IPO, Incar Rp366,8 Miliar",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220711151602-92-820015/jhonlin-agro-raya-milik-haji-isam-bakal-ipo-incar-rp3668-miliar",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzExMTUxNjAyLTkyLTgyMDAxNS9qaG9ubGluLWFncm8tcmF5YS1taWxpay1oYWppLWlzYW0tYmFrYWwtaXBvLWluY2FyLXJwMzY2OC1taWxpYXI=",
-        "description": " PT Jhonlin Agro Raya Tbk (JARR) akan melakukan penawaran umum perdana saham sebanyak-banyaknya 1.222.950.000 saham dengan target Rp366,8 miliar."
     }
 ]

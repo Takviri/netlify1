@@ -1,5 +1,19 @@
 [
     {
+        "title": "Laporan Kekerasan Gender di Media Sosial Capai Ribuan dalam Setahun",
+        "link": "https://www.cnnindonesia.com/nasional/20220711220759-12-820194/laporan-kekerasan-gender-di-media-sosial-capai-ribuan-dalam-setahun",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTIyMDc1OS0xMi04MjAxOTQvbGFwb3Jhbi1rZWtlcmFzYW4tZ2VuZGVyLWRpLW1lZGlhLXNvc2lhbC1jYXBhaS1yaWJ1YW4tZGFsYW0tc2V0YWh1bg==",
+        "description": " Komnas Perempuan, Safenet hingga LBH Apik menerima laporan kekerasan berbasis gender online (KBGO) paling banyak selama pandemi Covid-19."
+    },
+    {
+        "title": "Kronologi Pemotor Tewas Usai Terobos Perlintasan Kereta di Bintaro",
+        "link": "https://www.cnnindonesia.com/nasional/20220711205352-20-820185/kronologi-pemotor-tewas-usai-terobos-perlintasan-kereta-di-bintaro",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTIwNTM1Mi0yMC04MjAxODUva3Jvbm9sb2dpLXBlbW90b3ItdGV3YXMtdXNhaS10ZXJvYm9zLXBlcmxpbnRhc2FuLWtlcmV0YS1kaS1iaW50YXJv",
+        "description": " Seorang pemotor meninggal dunia setelah menerobos perlintasan dan tertabrak kereta api di Pintu Perlintasan KA Bintaro Permai, Jakarta."
+    },
+    {
         "title": "Alasan Polri Baru Ungkap Kasus Brigadir J di Rumah Irjen Ferdy Sambo",
         "link": "https://www.cnnindonesia.com/nasional/20220711211249-12-820187/alasan-polri-baru-ungkap-kasus-brigadir-j-di-rumah-irjen-ferdy-sambo",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTE5NTkwOS0xMi04MjAxNjUvanVsaWFudG8tZWthLXB1dHJhLWRpamVibG9za2FuLWtlLXBlbmphcmEta2FyZW5hLWludGltaWRhc2kta29yYmFu",
         "description": " Julianto Eka Putra (JEP) akhirnya ditangkap setelah diduga beberapa kali melakukan intimidasi terhadap sejumlah korbannya."
-    },
-    {
-        "title": "Empat Saksi Kasus Kasus Mardani Maming Kompak Tak Datang ke KPK",
-        "link": "https://www.cnnindonesia.com/nasional/20220711193905-12-820160/empat-saksi-kasus-kasus-mardani-maming-kompak-tak-datang-ke-kpk",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTE5MzkwNS0xMi04MjAxNjAvZW1wYXQtc2Frc2kta2FzdXMta2FzdXMtbWFyZGFuaS1tYW1pbmcta29tcGFrLXRhay1kYXRhbmcta2Uta3Br",
-        "description": " Sebanyak empat saksi kasus dugaan korupsi yang menyeret Bendahara Umum\u00c2\u00a0PBNU\u00c2\u00a0Mardani Maming kompak\u00c2\u00a0datang ke\u00c2\u00a0KPK. Salah satunya adik Mardani Maming."
-    },
-    {
-        "title": "Polri: Brigadir J Masuk Kamar Istri Kadiv Propam dan Lakukan Pelecehan",
-        "link": "https://www.cnnindonesia.com/nasional/20220711194451-12-820159/polri-brigadir-j-masuk-kamar-istri-kadiv-propam-dan-lakukan-pelecehan",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTE5NDQ1MS0xMi04MjAxNTkvcG9scmktYnJpZ2FkaXItai1tYXN1ay1rYW1hci1pc3RyaS1rYWRpdi1wcm9wYW0tZGFuLWxha3VrYW4tcGVsZWNlaGFu",
-        "description": " Polri menyatakan Brigadir J ditembak setelah memasuki kamar istri Kadiv Propam Irjen Ferdy Sambo dan melakukan pelecehan, Jumat (8/7) lalu."
     }
 ]

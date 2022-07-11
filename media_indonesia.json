@@ -1,5 +1,47 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505901/pencapaian-vaksinasi-dosis-ketiga-di-bengkulu-rendah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1OTAxL3BlbmNhcGFpYW4tdmFrc2luYXNpLWRvc2lzLWtldGlnYS1kaS1iZW5na3VsdS1yZW5kYWg=",
+        "description": "PENCAPAIAN vaksinasi dosis ketiga di Provinsi&nbsp;Bengkulu, masih rendah atau baru 17,81 persen.&nbsp;Pencapaian vaksinasi booster dosis ketiga di Bengkulu, tidak&nbsp;mengalami kenaikan signifikan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505899/122-lembaga-pemantau-pemilu-konsultasi-ke-bawaslu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU4OTkvMTIyLWxlbWJhZ2EtcGVtYW50YXUtcGVtaWx1LWtvbnN1bHRhc2kta2UtYmF3YXNsdQ==",
+        "description": "HAMPIR sebulan setelah peluncuran Meja Layanan Pemantau Pemilu 2024, Bawaslu telah menerima setidaknya 122 lembaga pemantau pemilu untuk berkonsultasi. Selain itu, 7 lembaga pemantau telah mendaftar&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505898/aturan-baru-perjalanan-ka-wajib-antigen-bagi-penumpang-vaksin-dua-kali",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1ODk4L2F0dXJhbi1iYXJ1LXBlcmphbGFuYW4ta2Etd2FqaWItYW50aWdlbi1iYWdpLXBlbnVtcGFuZy12YWtzaW4tZHVhLWthbGk=",
+        "description": "PT Kereta Api Indonesia (KAI) kembali memberlakukan tes antigen untuk penumpang yang belum melaksanakan vaksin ketigaa atau booster. Di sisi lain, PT KAI Daerah Operasi (Daop) 5 Purwokerto menyediakan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/505897/rencana-aturan-pemisah-tempat-duduk-wanita-pria-di-angkot-dipertanyakan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU4OTcvcmVuY2FuYS1hdHVyYW4tcGVtaXNhaC10ZW1wYXQtZHVkdWstd2FuaXRhLXByaWEtZGktYW5na290LWRpcGVydGFueWFrYW4=",
+        "description": "ANGGOTA&nbsp;DPRD DKI Jakarta dari Fraksi PSI Eneng Malianasari meragukan kebijakan Dinas Perhubungan DKI Jakarta&nbsp;memisahkan tempat duduk pria dan wanita di angkot bisa efektif mencegah&nbsp;tindakan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/505893/perbasi-tunjuk-milos-pejic-kepalai-timnas-indonesia-untuk-fiba-asia-cup-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU4OTMvcGVyYmFzaS10dW5qdWstbWlsb3MtcGVqaWMta2VwYWxhaS10aW1uYXMtaW5kb25lc2lhLXVudHVrLWZpYmEtYXNpYS1jdXAtMjAyMg==",
+        "description": "PENGURUS Pusat Persatuan Bola Basket Seluruh Indonesia (PP Perbasi) mengungkapkan, Pelatih timnas bola basket Indonesia, Rajko Toroman, tidak lagi melatih Indonesia untuk FIBA Asia Cup 2022. Ia digantikan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/505895/timnas-ri-siap-tempur-untuk-tiket-perempat-final-fiba-asia-cup",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU4OTUvdGltbmFzLXJpLXNpYXAtdGVtcHVyLXVudHVrLXRpa2V0LXBlcmVtcGF0LWZpbmFsLWZpYmEtYXNpYS1jdXA=",
+        "description": "TIMNAS bola basket putra Indonesia siap mengarungi perjalanan di FIBA Asia Cup 2022, yang akan bergulir pada 12-24 Juli 2022 di Istora GBK, Senayan, Jakarta. Tergabung dalam grup A, yang berisikan&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/505894/wajib-dikunjungi-ini-8-rekomendasi-wisata-alam-terbaik-di-taiwan",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU4ODcvamFkd2FsLWxlbmdrYXAtZmliYS1hc2lhLWN1cC0yMDIyLWluZG9uZXNpYS1oYWRhcGktYXJhYi1zYXVkaS1kaS1sYWdhLXBlcnRhbWE=",
         "description": "INDONESIA bakal mengawali perjalanan FIBA Asia Cup 2022 berhadapan dengan Arab Saudi pada babak penyisihan Grup A di Istora Gelora Bung Karno (GBK), Senayan, Jakarta, Selasa (12/7). &nbsp;<br&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/505890/kedubes-as-di-jerusalem-pada-tanah-palestina-yang-direbut-israel",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTg5MC9rZWR1YmVzLWFzLWRpLWplcnVzYWxlbS1wYWRhLXRhbmFoLXBhbGVzdGluYS15YW5nLWRpcmVidXQtaXNyYWVs",
-        "description": "KEDUTAAN AS permanen baru di Jerusalem akan dibangun di atas properti pribadi warga Palestina yang disita oleh&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/505889/ortuseight-luncurkan-catalyst-meister-sepatu-bola-dengan-bahan-kulit-kanguru-yang-ringan-dan-kuat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTg4OS9vcnR1c2VpZ2h0LWx1bmN1cmthbi1jYXRhbHlzdC1tZWlzdGVyLXNlcGF0dS1ib2xhLWRlbmdhbi1iYWhhbi1rdWxpdC1rYW5ndXJ1LXlhbmctcmluZ2FuLWRhbi1rdWF0",
-        "description": "PRODUSEN apparel olahraga lokal, Ortuseight meluncurkan Catalyst Meister. Sepatu sepak bola pertama yang merupakan produk edisi spesial dengan material full kangaroo leather.&nbsp; Product Development&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505888/tni-selesai-bangun-16-sumur-bor-untuk-eks-pengungsi-timtim",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1ODg4L3RuaS1zZWxlc2FpLWJhbmd1bi0xNi1zdW11ci1ib3ItdW50dWstZWtzLXBlbmd1bmdzaS10aW10aW0=",
-        "description": "TNI Angkatan Darat selesai membangun 16 sumur bor untuk menyediakan air bersih bagi eks pengungsi Timtim yang tersebar di lima kabupaten di Nusa Tenggara Timur (NTT). Sumur bor yang selesai&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/505886/legislator-logistik-wni-di-srilanka-harus-dijamin-pemerintah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTg4Ni9sZWdpc2xhdG9yLWxvZ2lzdGlrLXduaS1kaS1zcmlsYW5rYS1oYXJ1cy1kaWphbWluLXBlbWVyaW50YWg=",
-        "description": "TERKAIT adanya krisis politik yang tengah terjadi di Srilanka beberapa waktu terakhir, Anggota Komisi I DPR RI Christina Aryani mengingatkan pemerintah untuk menjamin perlindungan terhadap WNI utamanya&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505885/pt-agm-bagikan-59-ekor-sapi-kurban-untuk-29-desa-binaan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1ODg1L3B0LWFnbS1iYWdpa2FuLTU5LWVrb3Itc2FwaS1rdXJiYW4tdW50dWstMjktZGVzYS1iaW5hYW4=",
-        "description": "PERUSAHAAN tambang batubara PT Antang Gunung Meratus (AGM) yang beroperasi di Provinsi Kalimantan Selatan membagikan 59 sapi qurban pada Idul Adha 1443 hijriah tahun ini. Adapun 59 sapi tersebut&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505884/bumn-amka-salurkan-daging-kurban-untuk-yayasan-yatim-piatu-di-kota-bekasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1ODg0L2J1bW4tYW1rYS1zYWx1cmthbi1kYWdpbmcta3VyYmFuLXVudHVrLXlheWFzYW4teWF0aW0tcGlhdHUtZGkta290YS1iZWthc2k=",
-        "description": "DALAM rangka Hari Raya Idul Adha 1443 Hijriah, Komite Tanggung Jawab Sosial dan Lingkungan PT Amarta Karya (AMKA) melakukan penyembelihan hewan qurban dan menyalurkannya kepada yayasan yatim piatu&#8230;"
     }
 ]
