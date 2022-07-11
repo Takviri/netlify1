@@ -1,5 +1,19 @@
 [
     {
+        "title": "Alert! Pandemi Belum Kelar, Varian Covid Ganas Muncul Lagi",
+        "link": "https://www.cnbcindonesia.com/news/20220711185709-4-354771/alert-pandemi-belum-kelar-varian-covid-ganas-muncul-lagi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE4NTcwOS00LTM1NDc3MS9hbGVydC1wYW5kZW1pLWJlbHVtLWtlbGFyLXZhcmlhbi1jb3ZpZC1nYW5hcy1tdW5jdWwtbGFnaQ==",
+        "description": " Sebuah mutan Covid-19 kembali memunculkan kekhawatiran dunia."
+    },
+    {
+        "title": "Pembalasan Rusia Nyata? Nord Stream Setop Gas Eropa Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220711193336-4-354773/pembalasan-rusia-nyata-nord-stream-setop-gas-eropa-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE5MzMzNi00LTM1NDc3My9wZW1iYWxhc2FuLXJ1c2lhLW55YXRhLW5vcmQtc3RyZWFtLXNldG9wLWdhcy1lcm9wYS1oYXJpLWluaQ==",
+        "description": " Pipa yang mengalirkan gas dari Rusia, Nord Stream I, akan mulai menyetop aliran ke Eropa hari ini Senin, (11/7/2022)"
+    },
+    {
         "title": "Jokowi Teken Inpres Percepatan Penghapusan Kemiskinan Ekstrem",
         "link": "https://www.cnbcindonesia.com/news/20220711183315-4-354768/jokowi-teken-inpres-percepatan-penghapusan-kemiskinan-ekstrem",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE3Mjc1OC00LTM1NDc1Ni9zdXNhaC1sYWt1LW1vYmlsLWhvbmRhLWluaS1jdW1hLXRlcmp1YWwtMS11bml0LWRpLXJp",
         "description": " Honda berhasil menjual 53.910 unit untuk periode bulan Januari hingga Juni 2022 atau naik 9%."
-    },
-    {
-        "title": "Update Covid di RI 11 Juli 2022: Kasus Baru Bertambah 1.681",
-        "link": "https://www.cnbcindonesia.com/news/20220711172920-16-354753/update-covid-di-ri-11-juli-2022-kasus-baru-bertambah-1681",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE3MjkyMC0xNi0zNTQ3NTMvdXBkYXRlLWNvdmlkLWRpLXJpLTExLWp1bGktMjAyMi1rYXN1cy1iYXJ1LWJlcnRhbWJhaC0xNjgx",
-        "description": " Total kasus konfirmasi mencapai 6.112.986."
-    },
-    {
-        "title": "Warga +62 Mulai Rajin Menabung, Siap-Siap Resesi?",
-        "link": "https://www.cnbcindonesia.com/news/20220711180617-8-354763/warga--62-mulai-rajin-menabung-siap-siap-resesi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE4MDYxNy04LTM1NDc2My93YXJnYS0tNjItbXVsYWktcmFqaW4tbWVuYWJ1bmctc2lhcC1zaWFwLXJlc2VzaQ==",
-        "description": " Warga +62 Mulai Rajin Menabung, Siap-Siap Resesi?"
     }
 ]
