@@ -1,6 +1,41 @@
 [
     {
         "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505813/angka-pasien-covid-19-sidoarjo-kembali-naik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1ODEzL2FuZ2thLXBhc2llbi1jb3ZpZC0xOS1zaWRvYXJqby1rZW1iYWxpLW5haWs=",
+        "description": "ANGKA kasus positif covid-19 di Kabupaten Sidoarjo kembali meningkat dibandingkan bulan sebelumnya. Saat ini jumlah pasien aktif covid-19 sebanyak 55 orang. Angka ini naik dibandingkan bulan sebelumnya&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/505811/dishub-dki-perpanjang-rekayasa-lalin-di-bundaran-hi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU4MTEvZGlzaHViLWRraS1wZXJwYW5qYW5nLXJla2F5YXNhLWxhbGluLWRpLWJ1bmRhcmFuLWhp",
+        "description": "DINAS Perhubungan DKI Jakarta memperpanjang uji coba rekayasa lalu lintas di kawasan Bundaran Hotel Indonesia yakni di persilangan arus kendaraan dari Jalan MH Thamrin menuju Jalan Sudirman dan Jalan&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/505812/afrika-selatan-mengonfirmasi-kasus-ketiga-cacar-monyet",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTgxMi9hZnJpa2Etc2VsYXRhbi1tZW5nb25maXJtYXNpLWthc3VzLWtldGlnYS1jYWNhci1tb255ZXQ=",
+        "description": "Afrika Selatan telah mengonfirmasi kasus ketiga cacar monyet yang terjadi pada seorang turis pria berusia 42 tahun dari Swiss, kata departemen kesehatan provinsi Limpopo. Turis yang sedang berlibur&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505809/kpu-antisipasi-data-ganda-peserta-pemilu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU4MDkva3B1LWFudGlzaXBhc2ktZGF0YS1nYW5kYS1wZXNlcnRhLXBlbWlsdQ==",
+        "description": "KOMISI Pemilihan Umum (KPU) RI memastikan sudah mengantisipasi data pengurus parpol fiktif atau ganda sebagai syarat pendaftaran parpol peserta Pemilu 2024. &quot;Antisipasi data ganda, terkait&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505808/bank-indonesia-penjualan-eceran-meningkat-pada-juni-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTgwOC9iYW5rLWluZG9uZXNpYS1wZW5qdWFsYW4tZWNlcmFuLW1lbmluZ2thdC1wYWRhLWp1bmktMjAyMg==",
+        "description": "Bank Indonesia memperkirakan kinerja penjualan eceran pada Juni 2022 meningkat sebagaimana tercermin dari Indeks Penjualan Riil (IPR) Juni 2022 sebesar 229,1 atau tumbuh 15,4 persen year on year.&#8230;"
+    },
+    {
+        "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/505805/lebaran-usai-harga-cabai-rawit-di-kota-palu-masih-mahal",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1ODA1L2xlYmFyYW4tdXNhaS1oYXJnYS1jYWJhaS1yYXdpdC1kaS1rb3RhLXBhbHUtbWFzaWgtbWFoYWw=",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTgwMy9jdWFwLWN1YXAtY3Vhbi1iYWhhcy1jcnlwdG8td2ludGVyLWRhbi1wZW50aW5nbnlhLWVkdWthc2ktYmFnaS1pbnZlc3Rvcg==",
         "description": "Investasi aset kripto disebut sedang memasuki fase &quot;Crypto Winter&quot; di mana harga kripto terkontraksi dan tetap rendah untuk waktu yang lama. Berbagai aset kripto salah satunya Bitcoin&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505802/charly-akan-dipanggil-polisi-terkait-kecelakaan-di-cipularang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1ODAyL2NoYXJseS1ha2FuLWRpcGFuZ2dpbC1wb2xpc2ktdGVya2FpdC1rZWNlbGFrYWFuLWRpLWNpcHVsYXJhbmc=",
-        "description": "VOKALIS Setia Band Charly Van Houten akan dipanggil pihak kepolisian untuk diminta keterangan terkait kecelakaan di ruas Tol Cipularang KM 102 arah Jakarta menuju Bandung, tepatnya di Kampung Cileunca,&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505801/bertambahnya-parpol-dalam-kib-dinilai-hal-yang-positif",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU4MDEvYmVydGFtYmFobnlhLXBhcnBvbC1kYWxhbS1raWItZGluaWxhaS1oYWwteWFuZy1wb3NpdGlm",
-        "description": "DIREKTUR Eksekutif Indonesia Political Review Ujang Komarudin menyebut kemungkinan bertambahnya partai politik di dalam Koalisi Indonesia Bersatu (KIB) sebagai hal yang positif. &quot;Saya melihatnya&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/505800/nongkrong-hingga-larut-malam-di-kawasan-dukuh-atas-2-abg-jadi-korban-perampasan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU4MDAvbm9uZ2tyb25nLWhpbmdnYS1sYXJ1dC1tYWxhbS1kaS1rYXdhc2FuLWR1a3VoLWF0YXMtMi1hYmctamFkaS1rb3JiYW4tcGVyYW1wYXNhbg==",
-        "description": "SELASAR Stasiun Mass Rapid Transit (MRT) Dukuh Atas dan Stasiun Sudirman akhir-akhir ini menjadi tempat nongkrong bagi mereka anak baru gede (ABG) dari berbagi penjuru Jakarta. Sebelumnya, pihak&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505798/ketegasan-ksop-batam-tolak-kapal-tak-bersertifikat-mendapat-apresiasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1Nzk4L2tldGVnYXNhbi1rc29wLWJhdGFtLXRvbGFrLWthcGFsLXRhay1iZXJzZXJ0aWZpa2F0LW1lbmRhcGF0LWFwcmVzaWFzaQ==",
-        "description": "PENGAMAT maritim Marcellus Hakeng Jayawibawa mengapresiasi tindakan Kesyahbandaran dan Otoritas Pelabuhan (KSOP) Khusus Batam yang menertibkan kapal asing yang beroperasi tanpa izin di Perairan Batu&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505796/masyarakat-akui-kinerja-erick-thohir-bangun-ekonomi-lokal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU3OTYvbWFzeWFyYWthdC1ha3VpLWtpbmVyamEtZXJpY2stdGhvaGlyLWJhbmd1bi1la29ub21pLWxva2Fs",
-        "description": "MASYARAKAT di berbagai daerah mengakui kerja nyata Menteri BUMN Erick Thohir dalam membangun ekonomi lokal. Di antaranya diungkapkan oleh Ketua Koordinator Kampung Lawas Maspati, Kota Surabay&nbsp;&#8230;"
     }
 ]
