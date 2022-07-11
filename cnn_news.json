@@ -1,5 +1,40 @@
 [
     {
+        "title": "Presiden ACT Ibnu Khajar Hadiri Pemeriksaan di Bareskrim Polri",
+        "link": "https://www.cnnindonesia.com/nasional/20220711130520-12-819946/presiden-act-ibnu-khajar-hadiri-pemeriksaan-di-bareskrim-polri",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTEzMDUyMC0xMi04MTk5NDYvcHJlc2lkZW4tYWN0LWlibnUta2hhamFyLWhhZGlyaS1wZW1lcmlrc2Fhbi1kaS1iYXJlc2tyaW0tcG9scmk=",
+        "description": " Presiden Aksi Cepat Tanggap (ACT) Ibnu Khajar menghadiri pemeriksaan di Badan Reserse Kriminal (Bareskrim) Polri hari ini."
+    },
+    {
+        "title": "Menteri Basuki soal Maju Gubernur: Astaghfirullah, Sudah 70 Tahun Bos",
+        "link": "https://www.cnnindonesia.com/nasional/20220711125129-32-819957/menteri-basuki-soal-maju-gubernur-astaghfirullah-sudah-70-tahun-bos",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTEyNTEyOS0zMi04MTk5NTcvbWVudGVyaS1iYXN1a2ktc29hbC1tYWp1LWd1YmVybnVyLWFzdGFnaGZpcnVsbGFoLXN1ZGFoLTcwLXRhaHVuLWJvcw==",
+        "description": " Menteri PUPR Basuki Hadimuljono\u00c2\u00a0respons isu mau jadi kepala daerah atau calon gubernur pada 2024 usai jadi kader PDIP."
+    },
+    {
+        "title": "Geger Seruan Perang Bela Ponpes Shiddiqiyyah, Pengurus Buka Suara",
+        "link": "https://www.cnnindonesia.com/nasional/20220711125242-20-819956/geger-seruan-perang-bela-ponpes-shiddiqiyyah-pengurus-buka-suara",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTEyNTI0Mi0yMC04MTk5NTYvZ2VnZXItc2VydWFuLXBlcmFuZy1iZWxhLXBvbnBlcy1zaGlkZGlxaXl5YWgtcGVuZ3VydXMtYnVrYS1zdWFyYQ==",
+        "description": " Pengurus Organisasi Shiddiqiah\u00c2\u00a0mengklarifikasi seruan bela perang adalah ajakan kepada ratusan santri yang baru dibebaskan polisi agar bisa menahan hawa nafsu."
+    },
+    {
+        "title": "Korban Dugaan Kekerasan Seksual Julianto Eka Diduga Lebih 15 Orang",
+        "link": "https://www.cnnindonesia.com/nasional/20220711124956-12-819942/korban-dugaan-kekerasan-seksual-julianto-eka-diduga-lebih-15-orang",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTEyNDk1Ni0xMi04MTk5NDIva29yYmFuLWR1Z2Fhbi1rZWtlcmFzYW4tc2Vrc3VhbC1qdWxpYW50by1la2EtZGlkdWdhLWxlYmloLTE1LW9yYW5n",
+        "description": " Kementerian PPPA mengatakan sebanyak 15 korban telah diminta keterangannya selama proses penyidikan hingga persidangan kasus dugaan kekerasan seksual."
+    },
+    {
+        "title": "Gelora Mau Gugat Lagi UU Pemilu, Fahri Hamzah Tantang MK Debat Terbuka",
+        "link": "https://www.cnnindonesia.com/nasional/20220711123434-32-819938/gelora-mau-gugat-lagi-uu-pemilu-fahri-hamzah-tantang-mk-debat-terbuka",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTEyMzQzNC0zMi04MTk5MzgvZ2Vsb3JhLW1hdS1ndWdhdC1sYWdpLXV1LXBlbWlsdS1mYWhyaS1oYW16YWgtdGFudGFuZy1tay1kZWJhdC10ZXJidWth",
+        "description": " Partai Gelora akan menggugat kembali UU Nomor 7 Tahun 2017 tentang Pemilihan Umum (Pemilu) ke MK, khususnya terkait aturan keserentakan pemilu."
+    },
+    {
         "title": "Dewas KPK Putuskan Tak Lanjutkan Sidang Etik Lili Pintauli",
         "link": "https://www.cnnindonesia.com/nasional/20220711104519-12-819876/dewas-kpk-putuskan-tak-lanjutkan-sidang-etik-lili-pintauli",
         "image": "static/images/cnn_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTEyMTQxMy0xMi04MTk5MjIvam9rb3dpLXRla2VuLWtlcHByZXMtcGVtYmVyaGVudGlhbi1rb21pc2lvbmVyLWtway1saWxpLXBpbnRhdWxp",
         "description": " Presiden Jokowi dipastikan sudah menandatangani Keppres pemberhentian Lili Pintauli Siregar dari kursi wakil ketua KPK."
-    },
-    {
-        "title": "Banyak Ikan Mati di Kali Baru Jaktim, Diduga Akibat Pencemaran Limbah",
-        "link": "https://www.cnnindonesia.com/nasional/20220711121343-20-819920/banyak-ikan-mati-di-kali-baru-jaktim-diduga-akibat-pencemaran-limbah",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTEyMTM0My0yMC04MTk5MjAvYmFueWFrLWlrYW4tbWF0aS1kaS1rYWxpLWJhcnUtamFrdGltLWRpZHVnYS1ha2liYXQtcGVuY2VtYXJhbi1saW1iYWg=",
-        "description": " Ikan-ikan jenis sapu-sapu\u00c2\u00a0terlihat mati dan mengapung di Kali Baru, tepatnya di sepanjang Jalan Raya Bogor, Jakarta Timur."
-    },
-    {
-        "title": "Keluarga Korban Lion Air JT-610 Respons Dugaan Penyelewengan ACT",
-        "link": "https://www.cnnindonesia.com/nasional/20220711115039-20-819918/keluarga-korban-lion-air-jt-610-respons-dugaan-penyelewengan-act",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTExNTAzOS0yMC04MTk5MTgva2VsdWFyZ2Eta29yYmFuLWxpb24tYWlyLWp0LTYxMC1yZXNwb25zLWR1Z2Fhbi1wZW55ZWxld2VuZ2FuLWFjdA==",
-        "description": " Keluarga korban Lion Air JT-610 menilai ACT telah bertindak sangat tidak manusiawi jika terbukti menyelewengkan dana CSR korban kecelakaan Lion Air."
-    },
-    {
-        "title": "Istana Resmi Perkenalkan Logo HUT Kemerdekaan ke-77 RI",
-        "link": "https://www.cnnindonesia.com/nasional/20220711114422-20-819906/istana-resmi-perkenalkan-logo-hut-kemerdekaan-ke-77-ri",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTExNDQyMi0yMC04MTk5MDYvaXN0YW5hLXJlc21pLXBlcmtlbmFsa2FuLWxvZ28taHV0LWtlbWVyZGVrYWFuLWtlLTc3LXJp",
-        "description": " Tema peringatan HUT RI pada tahun ini adalah \"Pulih Lebih Cepat, Bangkit Lebih Kuat\"."
-    },
-    {
-        "title": "Kesaksian Damkar Subang Padamkan Mobil Terbakar Tewaskan 4 Orang",
-        "link": "https://www.cnnindonesia.com/nasional/20220711112711-12-819905/kesaksian-damkar-subang-padamkan-mobil-terbakar-tewaskan-4-orang",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTExMjcxMS0xMi04MTk5MDUva2VzYWtzaWFuLWRhbWthci1zdWJhbmctcGFkYW1rYW4tbW9iaWwtdGVyYmFrYXItdGV3YXNrYW4tNC1vcmFuZw==",
-        "description": " Mobil pikap di Subang, Jabar, kecelakaan lalu terbakar dan menewaskan empat orang. Petugas Damkar kaget menemukan banyak korban jiwa setelah api padam."
-    },
-    {
-        "title": "Dewas KPK Gelar Musyawarah Putuskan Nasib Lili Pintauli",
-        "link": "https://www.cnnindonesia.com/nasional/20220711112903-12-819901/dewas-kpk-gelar-musyawarah-putuskan-nasib-lili-pintauli",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTExMjkwMy0xMi04MTk5MDEvZGV3YXMta3BrLWdlbGFyLW11c3lhd2FyYWgtcHV0dXNrYW4tbmFzaWItbGlsaS1waW50YXVsaQ==",
-        "description": " Saat ini sidang etik Lili Pintauli sedang diskors.\u00c2\u00a0Dewas KPK tengah bermusyawarah dan sidang dibuka lagi pukul 12.00 WIB."
     }
 ]
