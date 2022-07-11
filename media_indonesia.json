@@ -1,5 +1,19 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505715/presidensi-g20-dinilai-mampu-pulihkan-pariwisata-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTcxNS9wcmVzaWRlbnNpLWcyMC1kaW5pbGFpLW1hbXB1LXB1bGloa2FuLXBhcml3aXNhdGEtaW5kb25lc2lh",
+        "description": "PRESIDENSI G20 Indonesia 2022 membawa dampak positif bagi pemulihan pariwisata dan ekonomi kreatif (Parekraf) di Indonesia. Berbagai event yang diselenggarakan dalam rangkaian kegiatan G20, diikuti&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505714/sidang-etik-kpk-tak-bisa-sembarangan-digelar-tanpa-kehadiran-lili",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU3MTQvc2lkYW5nLWV0aWsta3BrLXRhay1iaXNhLXNlbWJhcmFuZ2FuLWRpZ2VsYXItdGFucGEta2VoYWRpcmFuLWxpbGk=",
+        "description": "DEWAN Pengawas (Dewas) Komisi Pemberantasan Korupsi (KPK) tidak bisa sembarangan menyidangkan dugaan pelanggaran etik penerimaan fasilitas menonton MotoGP di Mandalika tanpa Komisioner Lili Pintauli&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/505713/icw-minta-firli-mendorong-kehadiran-lili-dalam-sidang-etik",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU3MDgvYnBiZC1ka2ktaW1iYXUtd2FyZ2Etd2FzcGFkYWktcm9iLWhpbmdnYS0xNy1qdWxpLWRpLWpha2FydGEtdXRhcmE=",
         "description": "BADAN Penanggulangan Bencana Daerah (BPBD) DKI Jakarta meminta masyarakat mewaspadai potensi rob yang diperkirakan terjadi 8-17 Juli 2022 di beberapa wilayah Jakarta Utara dan Kepulauan Seribu karena&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/505707/jaringan-rogers-terganggu-layanan-internet-dan-ponsel-di-kanada-terdampak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1NzA3L2phcmluZ2FuLXJvZ2Vycy10ZXJnYW5nZ3UtbGF5YW5hbi1pbnRlcm5ldC1kYW4tcG9uc2VsLWRpLWthbmFkYS10ZXJkYW1wYWs=",
-        "description": "GANGGUAN jaringan masif yang dialami raksasa telekomunikasi Kanada, Rogers telah menyebabkan masalah pada layanan seluler dan&nbsp; konektivitas internet di seluruh negara itu sejak Jumat (8/7) pagi&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/505706/richarlison-berambisi-bantu-spurs-cetak-sejarah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTcwNi9yaWNoYXJsaXNvbi1iZXJhbWJpc2ktYmFudHUtc3B1cnMtY2V0YWstc2VqYXJhaA==",
-        "description": "STRIKER anyar Tottenham Hotspur Richarlison berambisi untuk mencetak sejarah bersama klubnya tersebut setelah didatangkan dari Everton pada bursa transfer pemain musim panas ini. &quot;Sekarang&#8230;"
     }
 ]
