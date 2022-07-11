@@ -1,5 +1,12 @@
 [
     {
+        "title": "Penumpang KRL Wajib Vaksin Covid-19",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220711105019-92-819879/penumpang-krl-wajib-vaksin-covid-19",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzExMTA1MDE5LTkyLTgxOTg3OS9wZW51bXBhbmcta3JsLXdhamliLXZha3Npbi1jb3ZpZC0xOQ==",
+        "description": " KAI Commuter mewajibkan penumpang\u00c2\u00a0KRL untuk vaksin covid-19 sesuai Surat Edaran Kemenhub Nomor 72/2022."
+    },
+    {
         "title": "Harga Cabai Merah Kian Menggigit, Tembus Rp155 Ribu di Tasik",
         "link": "https://www.cnnindonesia.com/ekonomi/20220711112840-92-819903/harga-cabai-merah-kian-menggigit-tembus-rp155-ribu-di-tasik",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA4MjExNTE2LTk3LTgxOTI5MS9iYXlhci1kZW5nYW4tYWxsby1iYW5rLWNoaWNrZW4tYnVja2V0LXdlbmR5cy1kaXNrb24tMzAtcGVyc2Vu",
         "description": " Pengguna Allo Bank bisa dapat diskon 30 persen untuk\u00c2\u00a0pembelian chicken bucket\u00c2\u00a0Wendy's, dari harga Rp145 ribu menjadi Rp101.500 saja."
-    },
-    {
-        "title": "Daftar Negara yang Terancam Bangkrut Susul Sri Lanka",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220711093602-532-819837/daftar-negara-yang-terancam-bangkrut-susul-sri-lanka",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzExMDkzNjAyLTUzMi04MTk4MzcvZGFmdGFyLW5lZ2FyYS15YW5nLXRlcmFuY2FtLWJhbmdrcnV0LXN1c3VsLXNyaS1sYW5rYQ==",
-        "description": " Krisis ekonomi Sri Lanka membunyikan alarm 'bahaya' di banyak negara lainnya di dunia. Mulai dari Laos, Myanmar, Pakistan, hingga Venezuela."
     }
 ]
