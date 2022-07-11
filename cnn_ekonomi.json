@@ -1,5 +1,12 @@
 [
     {
+        "title": "IHSG Layu ke 6.722 di Awal Pekan",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220711145017-92-820000/ihsg-layu-ke-6722-di-awal-pekan",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzExMTQ1MDE3LTkyLTgyMDAwMC9paHNnLWxheXUta2UtNjcyMi1kaS1hd2FsLXBla2Fu",
+        "description": " IHSG ditutup di level 6.722 pada Senin (11/7), melemah 18,07 poin atau 0,27 persen dibandingkan perdagangan sebelumnya."
+    },
+    {
         "title": "FOTO: Deret Negara yang Krisis dan Terancam Bangkrut Seperti Sri Lanka",
         "link": "https://www.cnnindonesia.com/ekonomi/20220711130828-534-819947/foto-deret-negara-yang-krisis-dan-terancam-bangkrut-seperti-sri-lanka",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzExMTEyNjE0LTUzMi04MTk5MDAvc3JpLW11bHlhbmktdW5na2FwLW1lbmtvbWluZm8tam9obm55LWctcGxhdGUtaWt1dC10YXgtYW1uZXN0eQ==",
         "description": " Menkeu Sri Mulyani mengungkap Menkominfo Johnny G Plate mengikuti program pengungkapan sukarela atau tax amnesty jilid II."
-    },
-    {
-        "title": "RI Catat Ada 2.391 Perusahaan Startup",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220711103702-532-819863/ri-catat-ada-2391-perusahaan-startup",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzExMTAzNzAyLTUzMi04MTk4NjMvcmktY2F0YXQtYWRhLTIzOTEtcGVydXNhaGFhbi1zdGFydHVw",
-        "description": " Menko Airlangga\u00c2\u00a0mengatakan total startup di\u00c2\u00a0RI saat ini\u00c2\u00a0mencapai 2.391 perusahaan. Dua diantaranya berstatus decacorn atau bernilai lebih dari US$10 miliar."
     }
 ]
