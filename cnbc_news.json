@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pengumuman! Harga BBM Pertamina Jenis Ini Naik, Jadi Segini..",
+        "link": "https://www.cnbcindonesia.com/news/20220711100440-4-354538/pengumuman-harga-bbm-pertamina-jenis-ini-naik-jadi-segini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTEwMDQ0MC00LTM1NDUzOC9wZW5ndW11bWFuLWhhcmdhLWJibS1wZXJ0YW1pbmEtamVuaXMtaW5pLW5haWstamFkaS1zZWdpbmk=",
+        "description": " Pertamina menaikkan harga tiga jenis BBM per 10 Juli 2022"
+    },
+    {
+        "title": "Kabar Baik, Penjualan Ritel RI Naik",
+        "link": "https://www.cnbcindonesia.com/news/20220711102500-4-354557/kabar-baik-penjualan-ritel-ri-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTEwMjUwMC00LTM1NDU1Ny9rYWJhci1iYWlrLXBlbmp1YWxhbi1yaXRlbC1yaS1uYWlr",
+        "description": " Penjualan eceran atau ritel Indonesia pada Mei 2022 tumbuh positif."
+    },
+    {
         "title": "Ingat! Kelompok Ini Wajib Tes Antigen dan PCR Saat Perjalanan",
         "link": "https://www.cnbcindonesia.com/news/20220711094111-4-354527/ingat-kelompok-ini-wajib-tes-antigen-pcr-saat-perjalanan",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTA5MjcwNS00LTM1NDUxNy9qb2tvd2kteWFuZy1rZW1iYWxpLW1pbnRhLXdhcmdhLXBha2FpLW1hc2tlci1kaS1sdWFyLXJ1YW5nYW4=",
         "description": " Jokowi berubah pikiran, dan meminta masyarakat tetap menggunakan masker di luar ruangan"
-    },
-    {
-        "title": "IMF Beri Warning soal Utang China dan Dunia, Seperti Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220711084712-4-354497/imf-beri-warning-soal-utang-china-dan-dunia-seperti-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTA4NDcxMi00LTM1NDQ5Ny9pbWYtYmVyaS13YXJuaW5nLXNvYWwtdXRhbmctY2hpbmEtZGFuLWR1bmlhLXNlcGVydGktYXBh",
-        "description": " Direktur Pelaksana Dana Moneter Internasional (IMF), Kristalina Georgieva, meminta China dan negara anggota G20 untuk membantu percepat pengurangan utang global"
-    },
-    {
-        "title": "Harga Minyak Dunia Melonjak, BBM Hijau Jadi Solusi?",
-        "link": "https://www.cnbcindonesia.com/news/20220711085957-8-354502/harga-minyak-dunia-melonjak-bbm-hijau-jadi-solusi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTA4NTk1Ny04LTM1NDUwMi9oYXJnYS1taW55YWstZHVuaWEtbWVsb25qYWstYmJtLWhpamF1LWphZGktc29sdXNp",
-        "description": " Harga Minyak Dunia Melonjak, BBM Hijau Jadi Solusi?"
     }
 ]
