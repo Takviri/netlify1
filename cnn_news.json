@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sidang Anak Kyai Jombang Kasus Cabul Digelar di Surabaya Senin 18 Juli",
+        "link": "https://www.cnnindonesia.com/nasional/20220711141206-12-819997/sidang-anak-kyai-jombang-kasus-cabul-digelar-di-surabaya-senin-18-juli",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTE0MTIwNi0xMi04MTk5OTcvc2lkYW5nLWFuYWsta3lhaS1qb21iYW5nLWthc3VzLWNhYnVsLWRpZ2VsYXItZGktc3VyYWJheWEtc2VuaW4tMTgtanVsaQ==",
+        "description": " Sidang pelaku pencabulan dan persetubuhan pada santriwati dengan tersanga anak Kiai Jombang, Mas Bechi akan segera disidang."
+    },
+    {
+        "title": "Viral Ojol Dikabarkan Tewas saat Terobos Perlintasan Kereta di Bintaro",
+        "link": "https://www.cnnindonesia.com/nasional/20220711141939-20-819983/viral-ojol-dikabarkan-tewas-saat-terobos-perlintasan-kereta-di-bintaro",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTE0MTkzOS0yMC04MTk5ODMvdmlyYWwtb2pvbC1kaWthYmFya2FuLXRld2FzLXNhYXQtdGVyb2Jvcy1wZXJsaW50YXNhbi1rZXJldGEtZGktYmludGFybw==",
+        "description": " Seorang pengemudi ojek online (ojol) dikabarkan meninggal dunia karena menerobos perlintasan rel kereta api di Bintaro, Jakarta Selatan, Senin (11/7)."
+    },
+    {
+        "title": "PKS Kecewa Mayoritas Fraksi di DPR Tak Mau Revisi UU Pemilu",
+        "link": "https://www.cnnindonesia.com/nasional/20220711142732-32-819987/pks-kecewa-mayoritas-fraksi-di-dpr-tak-mau-revisi-uu-pemilu",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTE0MjczMi0zMi04MTk5ODcvcGtzLWtlY2V3YS1tYXlvcml0YXMtZnJha3NpLWRpLWRwci10YWstbWF1LXJldmlzaS11dS1wZW1pbHU=",
+        "description": " Menurut PKS, kini satu-satunya cara untuk mengubah ambang batas presiden 20% yaitu melalui uji materiil di MK."
+    },
+    {
         "title": "Sopir Bus Penyebab Kecelakaan Beruntun Tol Cipularang Resmi Tersangka",
         "link": "https://www.cnnindonesia.com/nasional/20220711135731-12-819978/sopir-bus-penyebab-kecelakaan-beruntun-tol-cipularang-resmi-tersangka",
         "image": "static/images/cnn_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTEzMDUyMC0xMi04MTk5NDYvcHJlc2lkZW4tYWN0LWlibnUta2hhamFyLWhhZGlyaS1wZW1lcmlrc2Fhbi1kaS1iYXJlc2tyaW0tcG9scmk=",
         "description": " Presiden Aksi Cepat Tanggap (ACT) Ibnu Khajar menghadiri pemeriksaan di Badan Reserse Kriminal (Bareskrim) Polri hari ini."
-    },
-    {
-        "title": "Menteri Basuki soal Maju Gubernur: Astaghfirullah, Sudah 70 Tahun Bos",
-        "link": "https://www.cnnindonesia.com/nasional/20220711125129-32-819957/menteri-basuki-soal-maju-gubernur-astaghfirullah-sudah-70-tahun-bos",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTEyNTEyOS0zMi04MTk5NTcvbWVudGVyaS1iYXN1a2ktc29hbC1tYWp1LWd1YmVybnVyLWFzdGFnaGZpcnVsbGFoLXN1ZGFoLTcwLXRhaHVuLWJvcw==",
-        "description": " Menteri PUPR Basuki Hadimuljono\u00c2\u00a0respons isu mau jadi kepala daerah atau calon gubernur pada 2024 usai jadi kader PDIP."
-    },
-    {
-        "title": "Geger Seruan Perang Bela Ponpes Shiddiqiyyah, Pengurus Buka Suara",
-        "link": "https://www.cnnindonesia.com/nasional/20220711125242-20-819956/geger-seruan-perang-bela-ponpes-shiddiqiyyah-pengurus-buka-suara",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTEyNTI0Mi0yMC04MTk5NTYvZ2VnZXItc2VydWFuLXBlcmFuZy1iZWxhLXBvbnBlcy1zaGlkZGlxaXl5YWgtcGVuZ3VydXMtYnVrYS1zdWFyYQ==",
-        "description": " Pengurus Organisasi Shiddiqiah\u00c2\u00a0mengklarifikasi seruan bela perang adalah ajakan kepada ratusan santri yang baru dibebaskan polisi agar bisa menahan hawa nafsu."
-    },
-    {
-        "title": "Korban Dugaan Kekerasan Seksual Julianto Eka Diduga Lebih 15 Orang",
-        "link": "https://www.cnnindonesia.com/nasional/20220711124956-12-819942/korban-dugaan-kekerasan-seksual-julianto-eka-diduga-lebih-15-orang",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMTEyNDk1Ni0xMi04MTk5NDIva29yYmFuLWR1Z2Fhbi1rZWtlcmFzYW4tc2Vrc3VhbC1qdWxpYW50by1la2EtZGlkdWdhLWxlYmloLTE1LW9yYW5n",
-        "description": " Kementerian PPPA mengatakan sebanyak 15 korban telah diminta keterangannya selama proses penyidikan hingga persidangan kasus dugaan kekerasan seksual."
     }
 ]
