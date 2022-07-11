@@ -1,5 +1,40 @@
 [
     {
+        "title": "Borong Sekarang! Harga Sepeda dan Sparepart Ada yang Diskon 80%",
+        "link": "https://www.cnbcindonesia.com/news/20220711075722-4-354487/borong-sekarang-harga-sepeda-sparepart-ada-yang-diskon-80",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTA3NTcyMi00LTM1NDQ4Ny9ib3Jvbmctc2VrYXJhbmctaGFyZ2Etc2VwZWRhLXNwYXJlcGFydC1hZGEteWFuZy1kaXNrb24tODA=",
+        "description": " Harga sepeda dan sparepartnya tengah anjlok."
+    },
+    {
+        "title": "Menteri, Gubernur BI dan Ekonom Dunia Kumpul di Bali, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220711081038-4-354488/menteri-gubernur-bi-ekonom-dunia-kumpul-di-bali-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTA4MTAzOC00LTM1NDQ4OC9tZW50ZXJpLWd1YmVybnVyLWJpLWVrb25vbS1kdW5pYS1rdW1wdWwtZGktYmFsaS1hZGEtYXBh",
+        "description": " Rangkaian pelaksanaan Presidensi G20 dimulai hari ini, Senin (11/7/200)"
+    },
+    {
+        "title": "Jaga Keandalan Pasokan Listrik, PLN Kerahkan 50.268 Personel",
+        "link": "https://www.cnbcindonesia.com/news/20220711075258-4-354484/jaga-keandalan-pasokan-listrik-pln-kerahkan-50268-personel",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTA3NTI1OC00LTM1NDQ4NC9qYWdhLWtlYW5kYWxhbi1wYXNva2FuLWxpc3RyaWstcGxuLWtlcmFoa2FuLTUwMjY4LXBlcnNvbmVs",
+        "description": " PT PLN (Persero) menyiapkan personil dan infrastruktur tambahan untuk memastikan keamanan pasokan listrik. PLN mengerahkan 50.268 personel"
+    },
+    {
+        "title": "Simak! Jadwal Pemberlakuan Ganjil Genap Jakarta Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220711074736-4-354486/simak-jadwal-pemberlakuan-ganjil-genap-jakarta-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTA3NDczNi00LTM1NDQ4Ni9zaW1hay1qYWR3YWwtcGVtYmVybGFrdWFuLWdhbmppbC1nZW5hcC1qYWthcnRhLWhhcmktaW5p",
+        "description": " Sistem ganjil genap kini diberlakukan di 26 ruas jalan. Dari sebelumnya hanya 13 titik."
+    },
+    {
+        "title": "Makin Panas! Putin Tantang AS dan NATO Perang Lawan Rusia",
+        "link": "https://www.cnbcindonesia.com/news/20220711072905-4-354476/makin-panas-putin-tantang-as-dan-nato-perang-lawan-rusia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTA3MjkwNS00LTM1NDQ3Ni9tYWtpbi1wYW5hcy1wdXRpbi10YW50YW5nLWFzLWRhbi1uYXRvLXBlcmFuZy1sYXdhbi1ydXNpYQ==",
+        "description": " Presiden Rusia Vladimir Putin menantang negara-negara Barat yang mendukung Ukraina untuk \"mencoba\" melawan negaranya di medan perang."
+    },
+    {
         "title": "Zelensky Tiba-tiba Pecat 5 Diplomat Ukraina, Ada Apa?",
         "link": "https://www.cnbcindonesia.com/news/20220711070715-4-354471/zelensky-tiba-tiba-pecat-5-diplomat-ukraina-ada-apa",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTA2MDM0NC00LTM1NDQ2NS9pbmkteWFuZy1iaWtpbi1odWJ1bmdhbi1jaGluYS1kZW5nYW4tYXMtZGFsYW0tYmFoYXlhLWJlc2Fy",
         "description": " Hubungan antara Amerika Serikat dan China kerap memanas."
-    },
-    {
-        "title": "3 Senjata Ini Bisa Bantu Ukraina 'Hancurkan' Rusia",
-        "link": "https://www.cnbcindonesia.com/news/20220711055115-4-354463/3-senjata-ini-bisa-bantu-ukraina-hancurkan-rusia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTA1NTExNS00LTM1NDQ2My8zLXNlbmphdGEtaW5pLWJpc2EtYmFudHUtdWtyYWluYS1oYW5jdXJrYW4tcnVzaWE=",
-        "description": " Ukraina membutuhkan tiga jenis senjata untuk membantu mengakhiri perang."
-    },
-    {
-        "title": "Ini Dia Bandara Terpendek di Dunia, Mendarat Butuh 'Top Gun'",
-        "link": "https://www.cnbcindonesia.com/news/20220710185116-4-354457/ini-dia-bandara-terpendek-di-dunia-mendarat-butuh-top-gun",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDE4NTExNi00LTM1NDQ1Ny9pbmktZGlhLWJhbmRhcmEtdGVycGVuZGVrLWRpLWR1bmlhLW1lbmRhcmF0LWJ1dHVoLXRvcC1ndW4=",
-        "description": " Bandara Juancho Yrausquin yang terletak di Pulau Saba di Karibia menjadi bandara dengan landasan komersial terpendek di dunia."
-    },
-    {
-        "title": "Gaji Profesi Ini Ternyata Paling Tinggi Se-Indonesia, Anda?",
-        "link": "https://www.cnbcindonesia.com/news/20220710182843-4-354449/gaji-profesi-ini-ternyata-paling-tinggi-se-indonesia-anda",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDE4Mjg0My00LTM1NDQ0OS9nYWppLXByb2Zlc2ktaW5pLXRlcm55YXRhLXBhbGluZy10aW5nZ2ktc2UtaW5kb25lc2lhLWFuZGE=",
-        "description": " Bekerja bukan hanya menjadi jembatan penunjang karir, namun juga menjadi penopang hidup melalui gaji."
-    },
-    {
-        "title": "Pengumuman! Tol Serpong Makin Panjang, Ini Dia Rutenya",
-        "link": "https://www.cnbcindonesia.com/news/20220710180057-4-354446/pengumuman-tol-serpong-makin-panjang-ini-dia-rutenya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDE4MDA1Ny00LTM1NDQ0Ni9wZW5ndW11bWFuLXRvbC1zZXJwb25nLW1ha2luLXBhbmphbmctaW5pLWRpYS1ydXRlbnlh",
-        "description": " Tol menuju Serpong Tangerang Selatan akan bertambah rute."
-    },
-    {
-        "title": "Duh! Ledakan Harga Pangan Ancam 323 Juta Warga Dunia",
-        "link": "https://www.cnbcindonesia.com/news/20220710191750-4-354458/duh-ledakan-harga-pangan-ancam-323-juta-warga-dunia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMDE5MTc1MC00LTM1NDQ1OC9kdWgtbGVkYWthbi1oYXJnYS1wYW5nYW4tYW5jYW0tMzIzLWp1dGEtd2FyZ2EtZHVuaWE=",
-        "description": " Indonesia mengajak kerja sama global untuk mengatasi krisis yang tengah mengancam."
     }
 ]
