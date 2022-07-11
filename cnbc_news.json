@@ -1,5 +1,12 @@
 [
     {
+        "title": "PBB: Tahun Ini, Populasi Manusia  Bumi Tembus 8 Miliar Orang",
+        "link": "https://www.cnbcindonesia.com/news/20220711202738-8-354781/pbb-tahun-ini-populasi-manusia-bumi-tembus-8-miliar-orang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTIwMjczOC04LTM1NDc4MS9wYmItdGFodW4taW5pLXBvcHVsYXNpLW1hbnVzaWEtYnVtaS10ZW1idXMtOC1taWxpYXItb3Jhbmc=",
+        "description": " Laporan terbaru Perserikatan Bangsa-Bangsa memperkirakan bahwa populasi dunia akan mencapai angka 8 Miliar pada akhir tahun ini."
+    },
+    {
         "title": "Hot News! Dampak Resesi Ri Hingga Rusia Kirim Rudal Ke Ukrain",
         "link": "https://www.cnbcindonesia.com/news/20220711202021-8-354777/hot-news-dampak-resesi-ri-hingga-rusia-kirim-rudal-ke-ukrain",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE4NTcwOS00LTM1NDc3MS9hbGVydC1wYW5kZW1pLWJlbHVtLWtlbGFyLXZhcmlhbi1jb3ZpZC1nYW5hcy1tdW5jdWwtbGFnaQ==",
         "description": " Sebuah mutan Covid-19 kembali memunculkan kekhawatiran dunia."
-    },
-    {
-        "title": "Pembalasan Rusia Nyata? Nord Stream Setop Gas Eropa Hari Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220711193336-4-354773/pembalasan-rusia-nyata-nord-stream-setop-gas-eropa-hari-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE5MzMzNi00LTM1NDc3My9wZW1iYWxhc2FuLXJ1c2lhLW55YXRhLW5vcmQtc3RyZWFtLXNldG9wLWdhcy1lcm9wYS1oYXJpLWluaQ==",
-        "description": " Pipa yang mengalirkan gas dari Rusia, Nord Stream I, akan mulai menyetop aliran ke Eropa hari ini Senin, (11/7/2022)"
     }
 ]
