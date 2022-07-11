@@ -1,5 +1,33 @@
 [
     {
+        "title": "Potret Demo Sri Lanka Seperti \"Berwisata\" di Istana Presiden",
+        "link": "https://www.cnbcindonesia.com/news/20220711165305-7-354740/potret-demo-sri-lanka-seperti-berwisata-di-istana-presiden",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE2NTMwNS03LTM1NDc0MC9wb3RyZXQtZGVtby1zcmktbGFua2Etc2VwZXJ0aS1iZXJ3aXNhdGEtZGktaXN0YW5hLXByZXNpZGVu",
+        "description": " Massa yang berdemo mengantri masuk ke kantor Presiden Sri Lanka Gotabaya Rajapaksa di Kolombo, Senin (11/7/2022)."
+    },
+    {
+        "title": "Usai B35 Akhir Bulan Juli, B40 Jalan di Akhir tahun!",
+        "link": "https://www.cnbcindonesia.com/news/20220711174023-4-354758/usai-b35-akhir-bulan-juli-b40-jalan-di-akhir-tahun",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE3NDAyMy00LTM1NDc1OC91c2FpLWIzNS1ha2hpci1idWxhbi1qdWxpLWI0MC1qYWxhbi1kaS1ha2hpci10YWh1bg==",
+        "description": " Kementerian ESDM bakal mengimplementasikan penggunaan B40 pada akhir tahun ini"
+    },
+    {
+        "title": "Siap-siap! Kelompok PNS Ini Bakal 'Ditendang', Kok Bisa?",
+        "link": "https://www.cnbcindonesia.com/news/20220711165434-4-354737/siap-siap-kelompok-pns-ini-bakal-ditendang-kok-bisa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE2NTQzNC00LTM1NDczNy9zaWFwLXNpYXAta2Vsb21wb2stcG5zLWluaS1iYWthbC1kaXRlbmRhbmcta29rLWJpc2E=",
+        "description": " Ada beberapa kelompok PNS yang terancam digantikan oleh teknologi mutakhir"
+    },
+    {
+        "title": "Dunia Waspada, Mutasi Covid Omicron Super Ditemukan di India",
+        "link": "https://www.cnbcindonesia.com/news/20220711183505-4-354769/dunia-waspada-mutasi-covid-omicron-super-ditemukan-di-india",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE4MzUwNS00LTM1NDc2OS9kdW5pYS13YXNwYWRhLW11dGFzaS1jb3ZpZC1vbWljcm9uLXN1cGVyLWRpdGVtdWthbi1kaS1pbmRpYQ==",
+        "description": " Mutasi Covid-19 Omicron super kembali memunculkan kekhawatiran dunia"
+    },
+    {
         "title": "Beli BBM Pakai MyPertamina, Menteri Bahlil: Kita Diolok-olok",
         "link": "https://www.cnbcindonesia.com/news/20220711173518-4-354757/beli-bbm-pakai-mypertamina-menteri-bahlil-kita-diolok-olok",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE3MTU1My00LTM1NDc1MS90ZXJueWF0YS1pbmktYWxhc2FuLWpva293aS1oYXB1cy1ob25vcmVyLXBucy1tYXUtZGlnYW50aS1pbmk=",
         "description": " Pemerintah menegaskan rencana penghapusan tenaga honorer bukan kebijakan yang tiba-tiba. Tetapi sudah ada sejak tahun 2005 silam."
-    },
-    {
-        "title": "ASEAN Terancam Badai Inflasi, RI Aman?",
-        "link": "https://www.cnbcindonesia.com/news/20220711172941-8-354754/asean-terancam-badai-inflasi-ri-aman",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE3Mjk0MS04LTM1NDc1NC9hc2Vhbi10ZXJhbmNhbS1iYWRhaS1pbmZsYXNpLXJpLWFtYW4=",
-        "description": " ASEAN Terancam Badai Inflasi, RI Aman?"
-    },
-    {
-        "title": "Harga LPG Non Subsidi Melejit, Ternyata Ini Biang Keroknya...",
-        "link": "https://www.cnbcindonesia.com/news/20220711164407-4-354733/harga-lpg-non-subsidi-melejit-ternyata-ini-biang-keroknya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE2NDQwNy00LTM1NDczMy9oYXJnYS1scGctbm9uLXN1YnNpZGktbWVsZWppdC10ZXJueWF0YS1pbmktYmlhbmcta2Vyb2tueWE=",
-        "description": " Kenaikan harga LPG non subsidi dipicu tingginya harga bahan baku gas melalui Contract Price Aramco (CPA)"
-    },
-    {
-        "title": "Ketentuan PPLN yang Belum Vaksin 2x: Wajib Karantina 5 Hari",
-        "link": "https://www.cnbcindonesia.com/news/20220711164515-4-354734/ketentuan-ppln-yang-belum-vaksin-2x-wajib-karantina-5-hari",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE2NDUxNS00LTM1NDczNC9rZXRlbnR1YW4tcHBsbi15YW5nLWJlbHVtLXZha3Npbi0yeC13YWppYi1rYXJhbnRpbmEtNS1oYXJp",
-        "description": " Ingat! Datang Dari Luar Negeri Belum Vaksin 2x Wajib Karantina 5 Hari"
-    },
-    {
-        "title": "Jokowi \"4 Mata\" dengan Xi Jinping Akhir Juli, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220711164758-4-354736/jokowi-4-mata-dengan-xi-jinping-akhir-juli-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE2NDc1OC00LTM1NDczNi9qb2tvd2ktNC1tYXRhLWRlbmdhbi14aS1qaW5waW5nLWFraGlyLWp1bGktYWRhLWFwYQ==",
-        "description": " Presiden Republik Indonesia Joko Widodo (Jokowi) akan melakukan bertemu dengan Presiden China Xi Jinping akhir Juli 2022."
     }
 ]
