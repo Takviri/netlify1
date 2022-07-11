@@ -1,5 +1,19 @@
 [
     {
+        "title": "Rupiah Melemah ke Rp14.984 per Dolar AS Dibayangi Inflasi Juni",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220711090610-78-819823/rupiah-melemah-ke-rp14984-per-dolar-as-dibayangi-inflasi-juni",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzExMDkwNjEwLTc4LTgxOTgyMy9ydXBpYWgtbWVsZW1haC1rZS1ycDE0OTg0LXBlci1kb2xhci1hcy1kaWJheWFuZ2ktaW5mbGFzaS1qdW5p",
+        "description": " Rupiah melemah 0,03 persen ke posisi Rp14.984 per dolar AS pada Senin (11/7) karena kekhawatiran lonjakan inflasi."
+    },
+    {
+        "title": "Belanja Hemat di Transmart, Mumpung Frozen Food Masih Diskon",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220708210724-97-819288/belanja-hemat-di-transmart-mumpung-frozen-food-masih-diskon",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA4MjEwNzI0LTk3LTgxOTI4OC9iZWxhbmphLWhlbWF0LWRpLXRyYW5zbWFydC1tdW1wdW5nLWZyb3plbi1mb29kLW1hc2loLWRpc2tvbg==",
+        "description": " Transmart memberikan potongan harga spesial untuk berbagai macam produk khusus buat pengguna Allo Bank."
+    },
+    {
         "title": "Harga Emas Mandek di Posisi Rp969 Ribu per Gram",
         "link": "https://www.cnnindonesia.com/ekonomi/20220711085020-92-819819/harga-emas-mandek-di-posisi-rp969-ribu-per-gram",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzExMDYwNjE0LTkyLTgxOTc5MC9tb2RhbC1hc2luZy1tZW5nYWxpci1tYXN1ay1paHNnLWRpcHJlZGlrc2ktZ2FnYWgtcGVya2FzYQ==",
         "description": " IHSG\u00c2\u00a0diproyeksi menguat pada perdagangan hari ini, Senin (11/7), ditopang aliran modal masuk ke pasar modal."
-    },
-    {
-        "title": "Alasan Pertamina Naikkan Harga Pertamax Turbo hingga LPG Nonsubsidi",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220710192220-85-819738/alasan-pertamina-naikkan-harga-pertamax-turbo-hingga-lpg-nonsubsidi",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEwMTkyMjIwLTg1LTgxOTczOC9hbGFzYW4tcGVydGFtaW5hLW5haWtrYW4taGFyZ2EtcGVydGFtYXgtdHVyYm8taGluZ2dhLWxwZy1ub25zdWJzaWRp",
-        "description": " Pertamina mengklaim kenaikan harga Pertamax Turbo masih kompetitif dibandingkan produk sejenis yang dijual perusahaan lain."
-    },
-    {
-        "title": "Mulai Hari Ini, Harga LPG Nonsubsidi Juga Naik Rp2 Ribu per Kilogram",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220710174847-85-819721/mulai-hari-ini-harga-lpg-nonsubsidi-juga-naik-rp2-ribu-per-kilogram",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEwMTc0ODQ3LTg1LTgxOTcyMS9tdWxhaS1oYXJpLWluaS1oYXJnYS1scGctbm9uc3Vic2lkaS1qdWdhLW5haWstcnAyLXJpYnUtcGVyLWtpbG9ncmFt",
-        "description": " Pertamina mengumumkan kenaikan harga elpiji nonsubsidi Bright Gas senilai Rp2 ribu per kilogram mulai hari ini, Minggu (10/7)."
     }
 ]
