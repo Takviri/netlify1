@@ -1,9 +1,23 @@
 [
     {
-        "title": "Hiii! Begini Ramalan Seram MenPUPR Basuki Soal Jakarta",
-        "link": "https://www.cnbcindonesia.com/news/20220711150434-4-354692/hiii-begini-ramalan-seram-menpupr-basuki-soal-jakarta",
+        "title": "Hore! IKN Siap Dibangun, Seperti Apa Kesiapannya?",
+        "link": "https://www.cnbcindonesia.com/news/20220711164939-8-354735/hore-ikn-siap-dibangun-seperti-apa-kesiapannya",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE1MDQzNC00LTM1NDY5Mi9oaWlpLWJlZ2luaS1yYW1hbGFuLXNlcmFtLW1lbnB1cHItYmFzdWtpLXNvYWwtamFrYXJ0YQ==",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE2NDkzOS04LTM1NDczNS9ob3JlLWlrbi1zaWFwLWRpYmFuZ3VuLXNlcGVydGktYXBhLWtlc2lhcGFubnlh",
+        "description": " Hore! IKN Siap Dibangun, Seperti Apa Kesiapannya?"
+    },
+    {
+        "title": "Ada Kuburan Massal Tentara Mesir di Israel? Begini Faktanya",
+        "link": "https://www.cnbcindonesia.com/news/20220711160312-4-354706/ada-kuburan-massal-tentara-mesir-di-israel-begini-faktanya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE2MDMxMi00LTM1NDcwNi9hZGEta3VidXJhbi1tYXNzYWwtdGVudGFyYS1tZXNpci1kaS1pc3JhZWwtYmVnaW5pLWZha3Rhbnlh",
+        "description": " Perdana Menteri Israel Yair Lapid mengatakan kantornya akan menyelidiki laporan kuburan massal di Israel tengah yang berisi mayat pasukan komando Mesir."
+    },
+    {
+        "title": "Hiii! Begini Ramalan Seram Menteri PUPR Basuki Soal Jakarta",
+        "link": "https://www.cnbcindonesia.com/news/20220711150434-4-354692/hiii-begini-ramalan-seram-menteri-pupr-basuki-soal-jakarta",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE1MDQzNC00LTM1NDY5Mi9oaWlpLWJlZ2luaS1yYW1hbGFuLXNlcmFtLW1lbnRlcmktcHVwci1iYXN1a2ktc29hbC1qYWthcnRh",
         "description": " Daya dukung Jakarta sudah berat, biaya untuk memperbaikinya pun terbilang mahal"
     },
     {
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE1MDYyNy03LTM1NDY4Mi9taXJpcy10b2tvLWJ1a3Utb2ZmbGluZS1kaS1qYWthcnRhLXNlcGktcGFyYWg=",
         "description": " Para pedagang mengeluhkan sepinya penjualan buku di area tersebut."
-    },
-    {
-        "title": "Anak Buah Jokowi Ini Janji Harga Sawit Rp1.600, Cek Faktanya",
-        "link": "https://www.cnbcindonesia.com/news/20220711153909-4-354697/anak-buah-jokowi-ini-janji-harga-sawit-rp1600-cek-faktanya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE1MzkwOS00LTM1NDY5Ny9hbmFrLWJ1YWgtam9rb3dpLWluaS1qYW5qaS1oYXJnYS1zYXdpdC1ycDE2MDAtY2VrLWZha3Rhbnlh",
-        "description": " Petani sawit menjerit gegar harga TBS masih juga rendah."
-    },
-    {
-        "title": "Ini yang Bikin Sri Lanka Chaos, Semoga Tak Terjadi di RI",
-        "link": "https://www.cnbcindonesia.com/news/20220711141658-4-354659/ini-yang-bikin-sri-lanka-chaos-semoga-tak-terjadi-di-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTE0MTY1OC00LTM1NDY1OS9pbmkteWFuZy1iaWtpbi1zcmktbGFua2EtY2hhb3Mtc2Vtb2dhLXRhay10ZXJqYWRpLWRpLXJp",
-        "description": " Sri Lanka mengalami krisis ekonomi akibat gejolak yang penuh komplikasi."
     }
 ]

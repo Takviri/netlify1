@@ -1,6 +1,62 @@
 [
     {
         "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505805/lebaran-usai-harga-cabai-rawit-di-kota-palu-masih-mahal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1ODA1L2xlYmFyYW4tdXNhaS1oYXJnYS1jYWJhaS1yYXdpdC1kaS1rb3RhLXBhbHUtbWFzaWgtbWFoYWw=",
+        "description": "HARGA cabai rawit di Kota Palu, Sulawesi Tengah, belum turun. Meski perayaan Hari Raya Idul Adha 1443 hijriah telah usai, salah satu&nbsp; kebutuhan pokok masyarakat itu masih bertahan di harga Rp100&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/505807/roy-suryo-diperiksa-kembali-atas-laporan-pengunggah-pertama-meme-stupa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU4MDcvcm95LXN1cnlvLWRpcGVyaWtzYS1rZW1iYWxpLWF0YXMtbGFwb3Jhbi1wZW5ndW5nZ2FoLXBlcnRhbWEtbWVtZS1zdHVwYQ==",
+        "description": "MANTAN Menpora Roy Suryo kembali mendatangi Polda Metro Jaya pada Senin (11/7). Roy Suryo diperiksa atas laporannya soal kasus meme stupa Candi Borobudur yang diedit mirip wajah Presiden Jokowi.&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/505806/karyawan-twitter-dilarang-berkicau-terkait-elon-musk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTgwNi9rYXJ5YXdhbi10d2l0dGVyLWRpbGFyYW5nLWJlcmtpY2F1LXRlcmthaXQtZWxvbi1tdXNr",
+        "description": "Twitter meminta karyawan tidak berkicau soal Elon Musk batal membeli perusahaan tersebut, keputusan mengejutkan sang miliuner sejak pekan lalu. Baca juga: Elon&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505804/aktivis-khawatir-penundaan-pencairan-dana-kpu-berujung-pemilu-diundur",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU4MDQvYWt0aXZpcy1raGF3YXRpci1wZW51bmRhYW4tcGVuY2FpcmFuLWRhbmEta3B1LWJlcnVqdW5nLXBlbWlsdS1kaXVuZHVy",
+        "description": "PENUNDAAN pelaksanaan Pemilu 2024 yang sempat menjadi wacana, ternyata masih menjadi kekhawatiran sejumlah kalangan. Alasannya, pemerintah belum mencairkan dana kebutuhan pemilu yang diajukan Komisi&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505803/cuap-cuap-cuan-bahas-crypto-winter-dan-pentingnya-edukasi-bagi-investor",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTgwMy9jdWFwLWN1YXAtY3Vhbi1iYWhhcy1jcnlwdG8td2ludGVyLWRhbi1wZW50aW5nbnlhLWVkdWthc2ktYmFnaS1pbnZlc3Rvcg==",
+        "description": "Investasi aset kripto disebut sedang memasuki fase &quot;Crypto Winter&quot; di mana harga kripto terkontraksi dan tetap rendah untuk waktu yang lama. Berbagai aset kripto salah satunya Bitcoin&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505802/charly-akan-dipanggil-polisi-terkait-kecelakaan-di-cipularang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1ODAyL2NoYXJseS1ha2FuLWRpcGFuZ2dpbC1wb2xpc2ktdGVya2FpdC1rZWNlbGFrYWFuLWRpLWNpcHVsYXJhbmc=",
+        "description": "VOKALIS Setia Band Charly Van Houten akan dipanggil pihak kepolisian untuk diminta keterangan terkait kecelakaan di ruas Tol Cipularang KM 102 arah Jakarta menuju Bandung, tepatnya di Kampung Cileunca,&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505801/bertambahnya-parpol-dalam-kib-dinilai-hal-yang-positif",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU4MDEvYmVydGFtYmFobnlhLXBhcnBvbC1kYWxhbS1raWItZGluaWxhaS1oYWwteWFuZy1wb3NpdGlm",
+        "description": "DIREKTUR Eksekutif Indonesia Political Review Ujang Komarudin menyebut kemungkinan bertambahnya partai politik di dalam Koalisi Indonesia Bersatu (KIB) sebagai hal yang positif. &quot;Saya melihatnya&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/505800/nongkrong-hingga-larut-malam-di-kawasan-dukuh-atas-2-abg-jadi-korban-perampasan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU4MDAvbm9uZ2tyb25nLWhpbmdnYS1sYXJ1dC1tYWxhbS1kaS1rYXdhc2FuLWR1a3VoLWF0YXMtMi1hYmctamFkaS1rb3JiYW4tcGVyYW1wYXNhbg==",
+        "description": "SELASAR Stasiun Mass Rapid Transit (MRT) Dukuh Atas dan Stasiun Sudirman akhir-akhir ini menjadi tempat nongkrong bagi mereka anak baru gede (ABG) dari berbagi penjuru Jakarta. Sebelumnya, pihak&#8230;"
+    },
+    {
+        "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/505798/ketegasan-ksop-batam-tolak-kapal-tak-bersertifikat-mendapat-apresiasi",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1Nzk4L2tldGVnYXNhbi1rc29wLWJhdGFtLXRvbGFrLWthcGFsLXRhay1iZXJzZXJ0aWZpa2F0LW1lbmRhcGF0LWFwcmVzaWFzaQ==",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU3OTYvbWFzeWFyYWthdC1ha3VpLWtpbmVyamEtZXJpY2stdGhvaGlyLWJhbmd1bi1la29ub21pLWxva2Fs",
         "description": "MASYARAKAT di berbagai daerah mengakui kerja nyata Menteri BUMN Erick Thohir dalam membangun ekonomi lokal. Di antaranya diungkapkan oleh Ketua Koordinator Kampung Lawas Maspati, Kota Surabay&nbsp;&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/505794/tantangan-berat-menanti-fajarrian-dan-chico-di-singapura-terbuka-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU3OTQvdGFudGFuZ2FuLWJlcmF0LW1lbmFudGktZmFqYXJyaWFuLWRhbi1jaGljby1kaS1zaW5nYXB1cmEtdGVyYnVrYS0yMDIy",
-        "description": "USAI sukses memboyong dua gelar juara di nomor tunggal putra dan ganda putra pada kejuaraan bulu tangkis Malaysia Masters 2022, tim bulu tangkis Indonesia langsung kembali bersiap untuk berkompetisi&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505793/anggota-dpr-tolak-kenaikan-harga-bbm-dan-gas-nonsubsidi-karena-bisa-picu-inflasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTc5My9hbmdnb3RhLWRwci10b2xhay1rZW5haWthbi1oYXJnYS1iYm0tZGFuLWdhcy1ub25zdWJzaWRpLWthcmVuYS1iaXNhLXBpY3UtaW5mbGFzaQ==",
-        "description": "Anggota Komisi VII DPR Mulyanto, menolak kenaikan harga bahan bakar minyak (BBM) dan LPG nonsubsidi pada akhir pekan kemarin yang secara resmi dilakukan oleh PT. Pertamina (Persero), pada Minggu (10/7).&nbsp;&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505792/gerakan-literasi-nasional-butuh-dukungan-semua-pihak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU3OTIvZ2VyYWthbi1saXRlcmFzaS1uYXNpb25hbC1idXR1aC1kdWt1bmdhbi1zZW11YS1waWhhaw==",
-        "description": "GERAKAN Literasi Nasional harus mendapat dukungan penuh semua pihak agar tercipta akselerasi pertumbuhan minat baca di seluruh Indonesia sejak dini.&nbsp; &quot;Bila tidak segera melakukan langkah-langkah&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/505791/rooney-akan-jadi-manajer-dc-united",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTc5MS9yb29uZXktYWthbi1qYWRpLW1hbmFqZXItZGMtdW5pdGVk",
-        "description": "MANTAN penyerang Manchester United Wayne Rooney dilaporkan akan menjadi manajer baru tim Major League Soccer (MLS), DC United. Rooney sebelumnya bermain untuk DC United pada 2018 dan 2019. Saat&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505790/indonesia-kucurkan-us50-juta-untuk-pencegahan-kesiapsiagaan-respons-pandemi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTc5MC9pbmRvbmVzaWEta3VjdXJrYW4tdXM1MC1qdXRhLXVudHVrLXBlbmNlZ2FoYW4ta2VzaWFwc2lhZ2Fhbi1yZXNwb25zLXBhbmRlbWk=",
-        "description": "MENTERI Kesehatan Budi Gunadi Sadikin dan Menteri Keuangan Sri Mulyani Indrawati, yang mengepalai Pertemuan Bersama Menteri Keuangan dan Menteri Kesehatan G20 (JFHMM) Pertama, menyampaikan komitmen&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505789/67-titik-panas-terpantau-di-sumatera-utara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1Nzg5LzY3LXRpdGlrLXBhbmFzLXRlcnBhbnRhdS1kaS1zdW1hdGVyYS11dGFyYQ==",
-        "description": "BADAN Meteorologi Klimatologi dan Geofisika (BMKG) menyebutkan terpantau 67 titik panas atau&nbsp;hot spot&nbsp;di sejumlah wilayah di Sumatera Utara pada Senin.  &quot;Ke-67 titik&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505788/dkpp-kota-bandung-musnahkan-jeroan-sapi-hewan-kurban",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1Nzg4L2RrcHAta290YS1iYW5kdW5nLW11c25haGthbi1qZXJvYW4tc2FwaS1oZXdhbi1rdXJiYW4=",
-        "description": "DINAS Ketahanan Pangan dan Pertanian Kota Bandung, Jawa Barat, menyarankan jeroan sapi harus dipisahkan dan dimusnahkan dengan cara dikubur lantaran tidak layak konsumsi. &quot;Petugas postmortem&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505787/polri-segera-gelar-perkara-penyelewengan-dana-umat-oleh-act",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU3ODcvcG9scmktc2VnZXJhLWdlbGFyLXBlcmthcmEtcGVueWVsZXdlbmdhbi1kYW5hLXVtYXQtb2xlaC1hY3Q=",
-        "description": "PENYIDIK Direktorat Tindak Pidana Ekonomi Khusus (Dittipideksus) Bareskrim Polri segera melakukan gelar perkara kasus penyalahgunaan dana sosial di Yayasan Aksi Cepat Tanggap (ACT) guna meningkatkan&#8230;"
     }
 ]
