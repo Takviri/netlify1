@@ -1,5 +1,26 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505944/jelang-berakhirnya-fase-puncak-haji-total-41-jemaah-indonesia-wafat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1OTQ0L2plbGFuZy1iZXJha2hpcm55YS1mYXNlLXB1bmNhay1oYWppLXRvdGFsLTQxLWplbWFhaC1pbmRvbmVzaWEtd2FmYXQ=",
+        "description": "FASE puncak haji hampir berakhir. Sebagian jemaah yang mengambil Nafar Awal, hari ini, sudah mulai kembali ke hotel mereka di Makkah.&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/505935/manipulasi-kekerasan-seksual-di-lembaga-pendidikan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDU5MzUvbWFuaXB1bGFzaS1rZWtlcmFzYW4tc2Vrc3VhbC1kaS1sZW1iYWdhLXBlbmRpZGlrYW4=",
+        "description": "PENANGKAPAN pelaku pencabulan, Much Subchi Azal Tsani (MSAT), anak pimpinan salah satu pesantren di Jombang, Jawa Timur, pada 7 Juli lalu bukan akhir dari kisah kekerasan seksual di lembaga pendidikan.&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/505900/mengawal-uu-tpks",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDU5MDAvbWVuZ2F3YWwtdXUtdHBrcw==",
+        "description": "SETELAH penantian yang cukup panjang, RUU Tindak Pidana Kekerasan Seksual (TPKS) akhirnya disahkan sebagai undang-undang pada 9 Mei 2022, yaitu UU Nomor 12 Tahun 2022 tentang Tindak Pidana Kekerasan&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/505936/petrokimia-gresik-bukukan-laba-rp194-triliun",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTkzOS9jaGlsd2VsbC10ZWdhc2thbi10ZWthZC1qYWRpLXN0YXJ0ZXItZGktcGlhbGEtZHVuaWEtMjAyMg==",
         "description": "BEK kiri Chelsea Ben Chilwell mengatakan ia bertekad mendapat tempat sebagai starter di timnas Inggris untuk Piala Dunia 2022&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505938/maknai-iduladha-firli-penggal-sifat-tamak-dalam-diri-supaya-tidak-korupsi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU5MzgvbWFrbmFpLWlkdWxhZGhhLWZpcmxpLXBlbmdnYWwtc2lmYXQtdGFtYWstZGFsYW0tZGlyaS1zdXBheWEtdGlkYWsta29ydXBzaQ==",
-        "description": "PERAYAAN Iduladha punya makna tersendiri bagi Ketua Komisi Pemberantasan Korupsi (KPK) Firli Bahuri. Ia mengaku takjub dengan kisah di balik perayaan tersebut karena mengajarkan banyak hal, utamanya&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505934/petrokimia-gresik-bukukan-laba-rp194-triliun",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTkzNC9wZXRyb2tpbWlhLWdyZXNpay1idWt1a2FuLWxhYmEtcnAxOTQtdHJpbGl1bg==",
-        "description": "&nbsp; PETROKIMIA Gresik berhasil membukukan laba sebesar Rp1,94 triliun pada 2021. Raihan tersebut 175% lebih tinggi dibandingkan Rencana Kerja dan Anggaran Perusahaan (RKAP) yang hanya ditetapkan&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/505933/kasus-penembakan-ajudan-kadiv-propam-isess-prajurit-tamtama-tak-dibekali-senjata",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU5MzMva2FzdXMtcGVuZW1iYWthbi1hanVkYW4ta2FkaXYtcHJvcGFtLWlzZXNzLXByYWp1cml0LXRhbXRhbWEtdGFrLWRpYmVrYWxpLXNlbmphdGE=",
-        "description": "PENGAMAT dari Institute for Security and Strategic Studies (ISESS), Khairul Fahmi,&nbsp;mendesak&nbsp;Mabes Polri dapat mengusut secara transparan penggunan senjata api dalam kasus penembakan ajudan&#8230;"
     }
 ]
