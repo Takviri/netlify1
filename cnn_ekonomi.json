@@ -1,5 +1,19 @@
 [
     {
+        "title": "Harga Emas Antam Jatuh Jadi Rp966 Ribu per Gram",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220712085301-92-820294/harga-emas-antam-jatuh-jadi-rp966-ribu-per-gram",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMDg1MzAxLTkyLTgyMDI5NC9oYXJnYS1lbWFzLWFudGFtLWphdHVoLWphZGktcnA5NjYtcmlidS1wZXItZ3JhbQ==",
+        "description": " Harga emas Antam jatuh Rp3.000 per gram menjadi Rp966 ribu pada Selasa (12/7)."
+    },
+    {
+        "title": "Beda Bunga Paylater, Kartu Kredit, dan Pinjol",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220711200222-78-820166/beda-bunga-paylater-kartu-kredit-dan-pinjol",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzExMjAwMjIyLTc4LTgyMDE2Ni9iZWRhLWJ1bmdhLXBheWxhdGVyLWthcnR1LWtyZWRpdC1kYW4tcGluam9s",
+        "description": " Layanan paylater memiliki perbedaan dengan kartu kredit dan pinjol. Berikut daftar bedanya."
+    },
+    {
         "title": "Harga Minyak Suam-suam Kuku di Tengah Penguatan Dolar AS",
         "link": "https://www.cnnindonesia.com/ekonomi/20220712073856-85-820267/harga-minyak-suam-suam-kuku-di-tengah-penguatan-dolar-as",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMDYxMjEzLTkyLTgyMDIyOC9pbnZlc3Rvci13YWl0LWFuZC1zZWUtaWhzZy1kaXByZWRpa3NpLW1ha2luLXRlcmthcGFyLWhhcmktaW5p",
         "description": " IHSG diprediksi semakin jatuh ke zona merah pada perdagangan hari ini, Selasa (12/7), karena aksi wait and see pelaku pasar modal."
-    },
-    {
-        "title": "Pengusaha Travel Minta Pemerintah Pertimbangkan Vaksin Booster Kedua",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220711192405-92-820148/pengusaha-travel-minta-pemerintah-pertimbangkan-vaksin-booster-kedua",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzExMTkyNDA1LTkyLTgyMDE0OC9wZW5ndXNhaGEtdHJhdmVsLW1pbnRhLXBlbWVyaW50YWgtcGVydGltYmFuZ2thbi12YWtzaW4tYm9vc3Rlci1rZWR1YQ==",
-        "description": " Asosiasi Travel Agent Indonesia meminta pemerintah mempertimbangkan pemberian vaksin booster kedua, terutama untuk tenaga kesehatan dan pariwisata."
-    },
-    {
-        "title": "Penjualan Eceran Meningkat Juni 2022",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220711165938-532-820079/penjualan-eceran-meningkat-juni-2022",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzExMTY1OTM4LTUzMi04MjAwNzkvcGVuanVhbGFuLWVjZXJhbi1tZW5pbmdrYXQtanVuaS0yMDIy",
-        "description": " Bank Indonesia menyebut kinerja penjualan eceran meningkat secara tahunan pada Juni kemarin, meski secara bulanan turun 2,1 persen."
     }
 ]

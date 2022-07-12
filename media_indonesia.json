@@ -1,5 +1,47 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505987/izin-operasional-shiddiqiyah-batal-dicabut-alasannya-demi-santri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1OTg3L2l6aW4tb3BlcmFzaW9uYWwtc2hpZGRpcWl5YWgtYmF0YWwtZGljYWJ1dC1hbGFzYW5ueWEtZGVtaS1zYW50cmk=",
+        "description": "MENTERI Agama Ad Interim Muhadjir Effendy menjelaskan pembatalan pencabutan izin operasional Pesantren Majma'al&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/505986/pelecehan-istri-kadiv-propam-disebut-masuk-kategori-kekerasan-seksual",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU5ODYvcGVsZWNlaGFuLWlzdHJpLWthZGl2LXByb3BhbS1kaXNlYnV0LW1hc3VrLWthdGVnb3JpLWtla2VyYXNhbi1zZWtzdWFs",
+        "description": "KOMISI Kepolisian Nasional (Kompolnas) menyoroti peristiwa yang menimpa istri Kepala Divisi dan Pengamanan (Kadiv Propam) Polri Irjen Ferdy Sambo, Putri Ferdy Sambo. Bhayangkari itu mengalami pelecehan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/505969/jaksel-dan-jaktim-diprakirakan-hujan-pada-malam-hari",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU5NjkvamFrc2VsLWRhbi1qYWt0aW0tZGlwcmFraXJha2FuLWh1amFuLXBhZGEtbWFsYW0taGFyaQ==",
+        "description": "Badan Meteorologi, Klimatologi dan Geofisika (BMKG) memprakirakan, wilayah Jakarta Selatan dan Timur akan diguyur hujan pada malam ini. Warga diimbau mewaspadai perubahan cuaca yang terjadi.&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505985/teddy-tjokrosapoetro-dituntut-18-tahun-penjara-di-kasus-korupsi-asabri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU5ODUvdGVkZHktdGpva3Jvc2Fwb2V0cm8tZGl0dW50dXQtMTgtdGFodW4tcGVuamFyYS1kaS1rYXN1cy1rb3J1cHNpLWFzYWJyaQ==",
+        "description": "JAKSA penuntut umum (JPU) menuntut Presiden Direktur PT Rimo International Lestari Teddy Tjokrosapoetro dengan pidana 18 tahun penjara, denda Rp5 miliar, dan membayar uang pengganti sebesar Rp20,83&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/505957/vtss-akan-rilis-ep-circulus-vitiosus-september-mendatang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTk1Ny92dHNzLWFrYW4tcmlsaXMtZXAtY2lyY3VsdXMtdml0aW9zdXMtc2VwdGVtYmVyLW1lbmRhdGFuZw==",
+        "description": "MELANJUTKAN proyek elektronik dari EP Projections, yang sebelumnya dirilis melalui Technicolour, awal tahun ini, musisi techno asal Polandia, VTSS mengumumkan <a href=\"http://mediaindonesia.com/tag/musik\"&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505982/jokowi-akan-serahkan-bansos-dan-tinjau-bbpadi-di-subang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1OTgyL2pva293aS1ha2FuLXNlcmFoa2FuLWJhbnNvcy1kYW4tdGluamF1LWJicGFkaS1kaS1zdWJhbmc=",
+        "description": "PRESIDEN Joko Widodo bertolak menuju Kabupaten Subang, Jawa Barat, Selasa (12/7), untuk melakukan serangkaian kunjungan kerja. Dari Pangkalan TNI AU Atang Sendjaja, Kabupaten Bogor, Jokowi demikian&#8230;"
+    },
+    {
         "title": "Sajak Kofe",
         "link": "https://m.mediaindonesia.com/sajak-kofe/505973/puisi-yang-terposkan-dari-benua-biru",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTk4MC9oYWphci1ub3J3ZWdpYS10aW1uYXMtcHV0cmktaW5nZ3Jpcy1wZWNhaGthbi1yZWtvci1waWFsYS1lcm9wYQ==",
         "description": "TIMNAS&nbsp;Inggris mencatat kemenangan terbesar dalam sejarah Piala Eropa Putri ketika hattrick Beth Mead mengilhami kemenangan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505952/jangan-tunggu-sakit-untuk-ajak-anak-ke-dokter-gigi-untuk-pertama-kali",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1OTUyL2phbmdhbi10dW5nZ3Utc2FraXQtdW50dWstYWphay1hbmFrLWtlLWRva3Rlci1naWdpLXVudHVrLXBlcnRhbWEta2FsaQ==",
-        "description": "DOKTER gigi dari Klinik Rata Gita Caesaria mengingatkan para orangtua agar tidak mengajak anak ke dokter gigi pertama kali saat&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/505972/inilah-yang-akan-dibahas-menkeu-as-dan-jepang-saat-bertemu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTk3Mi9pbmlsYWgteWFuZy1ha2FuLWRpYmFoYXMtbWVua2V1LWFzLWRhbi1qZXBhbmctc2FhdC1iZXJ0ZW11",
-        "description": "Menteri Keuangan AS Janet Yellen akan membahas cara-cara untuk lebih memperkuat sanksi Barat terhadap Rusia atas perangnya di Ukraina ketika nanti bertemu dengan Menteri Keuangan Jepang Shunichi Suzuki&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505978/dukung-pemulihan-ekonomi-food-hotel-indonesia-kembali-hadir-di-jiexpo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTk3OC9kdWt1bmctcGVtdWxpaGFuLWVrb25vbWktZm9vZC1ob3RlbC1pbmRvbmVzaWEta2VtYmFsaS1oYWRpci1kaS1qaWV4cG8=",
-        "description": "PAMERAN Food &amp; Hotel Indonesia (FHI) akan kembali digelar pada 26 - 29 Juli 2022 di Jakarta International Expo (JIExpo), Kemayoran, setelah tahun sebelumnya diadakan secara virtual (online)&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/505975/bpkp-desak-bpjn-evaluasi-kontraktor-jalan-dan-jembatan-di-kalsel",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1OTc1L2Jwa3AtZGVzYWstYnBqbi1ldmFsdWFzaS1rb250cmFrdG9yLWphbGFuLWRhbi1qZW1iYXRhbi1kaS1rYWxzZWw=",
-        "description": "BALAI Pelaksanaan Jalan Nasional (BPJN) Kalimantan Selatan diminta segera melakukan pengendalian proyek dan mengevaluasi kontraktor pembangunan jalan dan jembatan di wilayah. Hal ini lantaran Badan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/505951/malacia-optimistis-segera-nyaman-di-old-trafford",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTk1MS9tYWxhY2lhLW9wdGltaXN0aXMtc2VnZXJhLW55YW1hbi1kaS1vbGQtdHJhZmZvcmQ=",
-        "description": "BEK sayap Tyrell Malacia percaya dirinya bisa segera merasa nyaman di klub Liga Inggris Manchester United usai resmi bergabung,&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/505976/museum-london-bakal-dipindah-akhir-tahun-ini",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNTk3Ni9tdXNldW0tbG9uZG9uLWJha2FsLWRpcGluZGFoLWFraGlyLXRhaHVuLWluaQ==",
-        "description": "SEBUAH pesta perpisahan yang epik bakal digelar untuk publik di Museum London sebelum bangunan bersejarah itu dihancurkan. Selanjutnya, bangunanmuseum yang baru akan dibuat di kawasan dekat Smithfield.&#8230;"
     }
 ]
