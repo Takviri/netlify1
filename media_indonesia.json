@@ -1,5 +1,19 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/506258/113-tahun-muhammadiyah-gerakan-dakwah-yang-memberi-bukti",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDYyNTgvMTEzLXRhaHVuLW11aGFtbWFkaXlhaC1nZXJha2FuLWRha3dhaC15YW5nLW1lbWJlcmktYnVrdGk=",
+        "description": "PADA Kamis, 7 Juli 2022, atau bertepatan dengan 8 Zulhijah 1443 Hijriah, Muhammadiyah memasuki usia yang ke-113 dalam hitungan kalender Hijriah. Suatu usia yang cukup matang bagi organisasi gerakan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/506289/datangkan-lewis-potter-brentford-pecahkan-rekor-transfer-klub",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjI4OS9kYXRhbmdrYW4tbGV3aXMtcG90dGVyLWJyZW50Zm9yZC1wZWNhaGthbi1yZWtvci10cmFuc2Zlci1rbHVi",
+        "description": "BRENTFORD, Selasa (12/7), mengumumkan mereka telah mendatangkan penyerang timnas Inggris U-21 Keane Lewis-Potter dari Hull City&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/506288/pejic-tidak-ubah-sistem-permainan-timnas-indonesia",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2MjgxL3Bhc3Rpa2FuLXRpZHVyLWN1a3VwLXNlYmVsdW0tb2xhaHJhZ2EtcGFnaQ==",
         "description": "MEMILIKI kualitas tidur yang baik merupakan salah satu hal yang penting untuk diperhatikan sebelum memulai olahraga berlari di pagi hari, menurut pelatih dan pelari senior Hendri Pardede. <br&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/506280/dukung-syarat-perjalanan-terbaru-ap-ii-pastikan-kesiapan-bandara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjI4MC9kdWt1bmctc3lhcmF0LXBlcmphbGFuYW4tdGVyYmFydS1hcC1paS1wYXN0aWthbi1rZXNpYXBhbi1iYW5kYXJh",
-        "description": "PT Angkasa Pura II (Persero) memastikan kesiapan bandara yang dikelolanya dalam mendukung penerapan regulasi terbaru bagi Pelaku Perjalanan Dalam Negeri (PPDN). Berdasarkan Surat Edaran Kementerian&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/506279/liverpool-digasak-setan-merah-klopp-ini-proses-pembelajaran",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjI3OS9saXZlcnBvb2wtZGlnYXNhay1zZXRhbi1tZXJhaC1rbG9wcC1pbmktcHJvc2VzLXBlbWJlbGFqYXJhbg==",
-        "description": "HASIL negatif didapat Liverpool di laga para musim saat menghadapi Manchester United. Bermain di Stadion Rajamangala, Bangkok, Thailand, Selasa (12/7), Si Merah menyerah empat gol tanpa balas.&#8230;"
     }
 ]
