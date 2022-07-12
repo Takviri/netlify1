@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kabareskrim Pimpin Langsung Olah TKP Rumah Ferdy Sambo",
+        "link": "https://www.cnnindonesia.com/nasional/20220712213849-12-820731/kabareskrim-pimpin-langsung-olah-tkp-rumah-ferdy-sambo",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMjIxMzg0OS0xMi04MjA3MzEva2FiYXJlc2tyaW0tcGltcGluLWxhbmdzdW5nLW9sYWgtdGtwLXJ1bWFoLWZlcmR5LXNhbWJv",
+        "description": " Kabareskrim Polri Komjen Agus Andrianto memimpin langsung olah TKP kasus polisi tembak polisi di kediaman Irjen Ferdy Sambo di Kalibata, Jakarta Selatan."
+    },
+    {
+        "title": "Lokasi Penembakan Brigadir J Hanya Rumah Singgah Keluarga Ferdy Sambo",
+        "link": "https://www.cnnindonesia.com/nasional/20220712144922-12-820486/lokasi-penembakan-brigadir-j-hanya-rumah-singgah-keluarga-ferdy-sambo",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMjE0NDkyMi0xMi04MjA0ODYvbG9rYXNpLXBlbmVtYmFrYW4tYnJpZ2FkaXItai1oYW55YS1ydW1haC1zaW5nZ2FoLWtlbHVhcmdhLWZlcmR5LXNhbWJv",
+        "description": " Polisi menyebut kediaman Kadiv Propam Irjen Ferdy Sambo yang menjadi lokasi polisi tembak polisi hanya digunakan untuk rumah singgah."
+    },
+    {
         "title": "Polisi: Direktur PDAM Solo 12 Kali Cabuli Anak di Bawah Umur",
         "link": "https://www.cnnindonesia.com/nasional/20220712202719-12-820701/polisi-direktur-pdam-solo-12-kali-cabuli-anak-di-bawah-umur",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMjIwMDY1Ni0xMi04MjA2ODMva3BrLWJ1a2Etc3VhcmEtdHVkaW5nYW4tbWFtaW5nLXNvYWwtaGFqaS1pc2FtLWRpLWJhbGlrLWthc3VzLXRhbWJhbmc=",
         "description": " KPK menepis tudingan kuasa hukum Maming, Denny Indrayana, yang menyebut KPK memproses hukum Mardani Maming lantaran kepentingan Haji Isam."
-    },
-    {
-        "title": "Komnas Perempuan: Pemisahan Tempat Duduk di Angkot Bukan Solusi",
-        "link": "https://www.cnnindonesia.com/nasional/20220712195121-20-820656/komnas-perempuan-pemisahan-tempat-duduk-di-angkot-bukan-solusi",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMjE5NTEyMS0yMC04MjA2NTYva29tbmFzLXBlcmVtcHVhbi1wZW1pc2FoYW4tdGVtcGF0LWR1ZHVrLWRpLWFuZ2tvdC1idWthbi1zb2x1c2k=",
-        "description": " Komisi Nasional Perempuan menilai pemisahan tempat duduk antara penumpang perempuan dan pria di angkutan kota (angkot) bukan solusi cegah kekerasan seksual."
-    },
-    {
-        "title": "Kemenkes Beri 'Warning' Jakarta, Jabar, Banten soal Kenaikan Covid",
-        "link": "https://www.cnnindonesia.com/nasional/20220712200419-20-820678/kemenkes-beri-warning-jakarta-jabar-banten-soal-kenaikan-covid",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxMjIwMDQxOS0yMC04MjA2Nzgva2VtZW5rZXMtYmVyaS13YXJuaW5nLWpha2FydGEtamFiYXItYmFudGVuLXNvYWwta2VuYWlrYW4tY292aWQ=",
-        "description": " Kemenkes\u00c2\u00a0memperingatkan masing-masing kepala daerah dari DKI Jakarta, Jawa Barat (Jabar), dan Banten untuk waspada kenaikan Covid di wilayah tersebut."
     }
 ]
