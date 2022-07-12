@@ -1,5 +1,40 @@
 [
     {
+        "title": "Ngeri! Tanda-Tanda Harga Tiket Pesawat Makin 'Meledak'",
+        "link": "https://www.cnbcindonesia.com/news/20220712155301-4-355025/ngeri-tanda-tanda-harga-tiket-pesawat-makin-meledak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE1NTMwMS00LTM1NTAyNS9uZ2VyaS10YW5kYS10YW5kYS1oYXJnYS10aWtldC1wZXNhd2F0LW1ha2luLW1lbGVkYWs=",
+        "description": " Maskapai penerbangan meminta agar aturan Tarif Batas Atas (TBA) dan tarif tuslah atau fuel surcharge dievaluasi."
+    },
+    {
+        "title": "Inflasi Tinggi, Uni Eropa Pangkas Proyeksi Ekonomi",
+        "link": "https://www.cnbcindonesia.com/news/20220712130710-8-354958/inflasi-tinggi-uni-eropa-pangkas-proyeksi-ekonomi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjEzMDcxMC04LTM1NDk1OC9pbmZsYXNpLXRpbmdnaS11bmktZXJvcGEtcGFuZ2thcy1wcm95ZWtzaS1la29ub21p",
+        "description": " Uni Eropa memangkas perkiraan pertumbuhan ekonomi tahun 2022 menjadi 2,7%."
+    },
+    {
+        "title": "Keras! Gegara 1 Kasus Covid-19, China Lockdown 1 Kota",
+        "link": "https://www.cnbcindonesia.com/news/20220712150128-4-355000/keras-gegara-1-kasus-covid-19-china-lockdown-1-kota",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE1MDEyOC00LTM1NTAwMC9rZXJhcy1nZWdhcmEtMS1rYXN1cy1jb3ZpZC0xOS1jaGluYS1sb2NrZG93bi0xLWtvdGE=",
+        "description": " China kembali mengunci (lockdown) wilayahnya akibat kasus Covid-19."
+    },
+    {
+        "title": "Ini 4 Pembalasan Putin ke Eropa: Nord Stream 1 sampai Nuklir",
+        "link": "https://www.cnbcindonesia.com/news/20220712163116-4-355045/ini-4-pembalasan-putin-ke-eropa-nord-stream-1-sampai-nuklir",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE2MzExNi00LTM1NTA0NS9pbmktNC1wZW1iYWxhc2FuLXB1dGluLWtlLWVyb3BhLW5vcmQtc3RyZWFtLTEtc2FtcGFpLW51a2xpcg==",
+        "description": " Presiden Rusia Vladimir Putin juga melakukan sejumlah hal untuk membalas sanksi yang diberikan Eropa. Apa saja?"
+    },
+    {
+        "title": "Mulai Besok, Bandara Halim Kembali Beroperasi! Cek Jadwalnya",
+        "link": "https://www.cnbcindonesia.com/news/20220712162532-4-355039/mulai-besok-bandara-halim-kembali-beroperasi-cek-jadwalnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE2MjUzMi00LTM1NTAzOS9tdWxhaS1iZXNvay1iYW5kYXJhLWhhbGltLWtlbWJhbGktYmVyb3BlcmFzaS1jZWstamFkd2Fsbnlh",
+        "description": " Bandara Halim Perdana Kusuma bakal kembali beroperasi komersial pada September 2022."
+    },
+    {
         "title": "Aliran Gas Nord Stream I Berhenti Mulai 11 Juli",
         "link": "https://www.cnbcindonesia.com/news/20220712100234-8-354865/aliran-gas-nord-stream-i-berhenti-mulai-11-juli",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE2MzExNC00LTM1NTA0NC9jb3ZpZC0xOS1kaS1yaS1tZWxlZGFrLS1sYWdpLS1rYXN1cy1iYXJ1LWJlcnRhbWJhaC0zMzYx",
         "description": " Simak data terbaru Covid-19."
-    },
-    {
-        "title": "Aliran Gas Rusia ke Eropa Berhenti, Apa Untungnya Buat RI?",
-        "link": "https://www.cnbcindonesia.com/news/20220712130430-4-354956/aliran-gas-rusia-ke-eropa-berhenti-apa-untungnya-buat-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjEzMDQzMC00LTM1NDk1Ni9hbGlyYW4tZ2FzLXJ1c2lhLWtlLWVyb3BhLWJlcmhlbnRpLWFwYS11bnR1bmdueWEtYnVhdC1yaQ==",
-        "description": " Aliran gas Rusia ke Eropa mulai dihentikan bisa membuat harga gas dunia naik sehingga berpengaruh terhadap Indonesia"
-    },
-    {
-        "title": "Harga Tiket Pesawat Makin 'Meledak', JKT-Bali Rp 1,5 Juta",
-        "link": "https://www.cnbcindonesia.com/news/20220712152402-4-355008/harga-tiket-pesawat-makin-meledak-jkt-bali-rp-15-juta",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE1MjQwMi00LTM1NTAwOC9oYXJnYS10aWtldC1wZXNhd2F0LW1ha2luLW1lbGVkYWstamt0LWJhbGktcnAtMTUtanV0YQ==",
-        "description": " Harga tiket pesawat masih terpantau mahal."
-    },
-    {
-        "title": "BI Rilis Panduan Rupiah Digital Akhir 2022, Simak Bocorannya!",
-        "link": "https://www.cnbcindonesia.com/news/20220712131500-8-354964/bi-rilis-panduan-rupiah-digital-akhir-2022-simak-bocorannya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjEzMTUwMC04LTM1NDk2NC9iaS1yaWxpcy1wYW5kdWFuLXJ1cGlhaC1kaWdpdGFsLWFraGlyLTIwMjItc2ltYWstYm9jb3Jhbm55YQ==",
-        "description": " Penyelenggaraan G20 di Nusa Dua Bali, pada hari ini, Selasa 12 Juli fokus membahas topik di lingkup teknologi keuangan."
-    },
-    {
-        "title": "BBM dan LPG yang Naik Tetap Lebih Rendah, Cek Harga Aslinya..",
-        "link": "https://www.cnbcindonesia.com/news/20220712144913-4-354996/bbm-lpg-yang-naik-tetap-lebih-rendah-cek-harga-aslinya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE0NDkxMy00LTM1NDk5Ni9iYm0tbHBnLXlhbmctbmFpay10ZXRhcC1sZWJpaC1yZW5kYWgtY2VrLWhhcmdhLWFzbGlueWE=",
-        "description": " Pertamina resmi menaikkan harga BBM BBM dan LPG non subsidi pada 10 Juli 2022"
-    },
-    {
-        "title": "6 Negara Ini Pernah Bangkrut, Rusia 'Jeblos' 9 Kali",
-        "link": "https://www.cnbcindonesia.com/news/20220712133539-4-354976/6-negara-ini-pernah-bangkrut-rusia-jeblos-9-kali",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjEzMzUzOS00LTM1NDk3Ni82LW5lZ2FyYS1pbmktcGVybmFoLWJhbmdrcnV0LXJ1c2lhLWplYmxvcy05LWthbGk=",
-        "description": " Isu negara-negara yang rentan mengalami kebangkrutan makin kencang."
     }
 ]
