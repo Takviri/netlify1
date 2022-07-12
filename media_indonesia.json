@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/506295/dc-united-resmi-perkenalkan-rooney-sebagai-pelatih",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjI5NS9kYy11bml0ZWQtcmVzbWktcGVya2VuYWxrYW4tcm9vbmV5LXNlYmFnYWktcGVsYXRpaA==",
+        "description": "MANTAN bintang timnas Inggris dan Manchester United Wayne Rooney, Selasa (12/7), diperkenalkan sebagai pelatih kepala baru DC United&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/506294/successionraih-25-nominasi-penghargaan-emmy",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNjI5NC9zdWNjZXNzaW9ucmFpaC0yNS1ub21pbmFzaS1wZW5naGFyZ2Fhbi1lbW15",
+        "description": "SERIAL HBO Succession meraih penghargaan Emmy terbanyak tahun ini dengan meraih 25 nominasi. Sementara itu, Squid Game mencetak&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/506278/sri-sultan-hb-x-dorong-petani-milenial-berinovasi",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDYyODgvcGVqaWMtdGlkYWstdWJhaC1zaXN0ZW0tcGVybWFpbmFuLXRpbW5hcy1pbmRvbmVzaWE=",
         "description": "PEBASKET Tanah Air Abraham Damar Grahita menyebut sistem permainan timnas tidak banyak berubah dan masih menerapkan pola pelatih sebelumnya, Rajko Toroman, yang telah menyatakan mundur dari jabatan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/506287/menpora-puas-dengan-kemenangan-indonesia-atas-arab-saudi-di-fiba-asia-cup",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDYyODcvbWVucG9yYS1wdWFzLWRlbmdhbi1rZW1lbmFuZ2FuLWluZG9uZXNpYS1hdGFzLWFyYWItc2F1ZGktZGktZmliYS1hc2lhLWN1cA==",
-        "description": "MENTERI Pemuda dan Olahraga Zainudin Amali menilai kemenangan timnas bola basket putra atas Arab Saudi 80-54 di laga penyisihan Grup A Piala Asia FIBA (<a href=\"http://mediaindonesia.com/tag/fiba-asia-cup\"&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/506286/wolves-tolak-tawaran-everton-untuk-gibbs-white",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjI4Ni93b2x2ZXMtdG9sYWstdGF3YXJhbi1ldmVydG9uLXVudHVrLWdpYmJzLXdoaXRl",
-        "description": "WOLVERHAMPTON Wanderers dikabarkan menolak tawaran sebesar 25 juta pound sterling atau sekitar Rp443 miliar dari sesama klub Liga Primer Inggris, Everton,&#8230;"
     }
 ]
