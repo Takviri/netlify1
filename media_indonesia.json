@@ -1,5 +1,33 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/505979/kang-seung-yoon-cedera-kaki-winner-putuskan-hiatus",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTk3OS9rYW5nLXNldW5nLXlvb24tY2VkZXJhLWtha2ktd2lubmVyLXB1dHVza2FuLWhpYXR1cw==",
+        "description": "AGENSI YG Entertainment mengumumkan grup K-pop Winner akan hiatus sementara karena Kang Seung Yoon mengalami cedera pergelangan kaki.&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505990/komisi-ii-dpr-temukan-faktor-penyebab-rtrw-di-kalteng-belum-berjalan-baik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU5OTAva29taXNpLWlpLWRwci10ZW11a2FuLWZha3Rvci1wZW55ZWJhYi1ydHJ3LWRpLWthbHRlbmctYmVsdW0tYmVyamFsYW4tYmFpaw==",
+        "description": "ANGGOTA Komisi II DPR RI Mardani Ali Sera menemukan tiga faktor yang menyebabkan Rencana Tata Ruang Wilayah (RTRW) di Provinsi Kalimantan Tengah belum berjalan dengan baik. Mardani menekankan,&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/505977/album-terbaru-enhypen-terjual-hampir-2-juta-kopi-dalam-tempo-sepekan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTk3Ny9hbGJ1bS10ZXJiYXJ1LWVuaHlwZW4tdGVyanVhbC1oYW1waXItMi1qdXRhLWtvcGktZGFsYW0tdGVtcG8tc2VwZWthbg==",
+        "description": "ALBUM terbaru dari grup K-pop Enhypen, yang bertajuk MANIFESTO: DAY 1 telah sukses terjual hampir 2 juta kopi dalam sepekan.&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505989/hadapi-pemilu-2024-dpr-dorong-penyelenggara-sosialisasikan-peraturan-kpu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU5ODkvaGFkYXBpLXBlbWlsdS0yMDI0LWRwci1kb3JvbmctcGVueWVsZW5nZ2FyYS1zb3NpYWxpc2FzaWthbi1wZXJhdHVyYW4ta3B1",
+        "description": "PENYELENGGARAAN pemilihan umum (pemilu) 2024 akan segera berlangsung, oleh karena itu diharapkan persiapan pelaksanaannya dapat berjalan dengan lancar. Dalam kunjungan kerja (kunker) reses Komisi&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/505987/izin-operasional-shiddiqiyah-batal-dicabut-alasannya-demi-santri",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1OTgyL2pva293aS1ha2FuLXNlcmFoa2FuLWJhbnNvcy1kYW4tdGluamF1LWJicGFkaS1kaS1zdWJhbmc=",
         "description": "PRESIDEN Joko Widodo bertolak menuju Kabupaten Subang, Jawa Barat, Selasa (12/7), untuk melakukan serangkaian kunjungan kerja. Dari Pangkalan TNI AU Atang Sendjaja, Kabupaten Bogor, Jokowi demikian&#8230;"
-    },
-    {
-        "title": "Sajak Kofe",
-        "link": "https://m.mediaindonesia.com/sajak-kofe/505973/puisi-yang-terposkan-dari-benua-biru",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zYWphay1rb2ZlLzUwNTk3My9wdWlzaS15YW5nLXRlcnBvc2thbi1kYXJpLWJlbnVhLWJpcnU=",
-        "description": "MEMBACA buku kumpulan puisi berjudul Puisi dari Lima Benua&nbsp;karya Emji Alif membawa kita seakan sedang berada di negara-negara berbeda. Ada sebuah benang merah bahwa puisi&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505956/ioh-dan-voxox-bermitra-untuk-berdayakan-usaha-kecil-di-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTk1Ni9pb2gtZGFuLXZveG94LWJlcm1pdHJhLXVudHVrLWJlcmRheWFrYW4tdXNhaGEta2VjaWwtZGktaW5kb25lc2lh",
-        "description": "DALAM rangka meningkatkan perekonomian Indonesia melalui pemberdayaan UMKM, Indosat Ooredoo Hutchison (IOH), melalui Indosat Business,&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505954/warga-diingatkan-tetap-memakai-masker-kala-melakukan-penerbangan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1OTU0L3dhcmdhLWRpaW5nYXRrYW4tdGV0YXAtbWVtYWthaS1tYXNrZXIta2FsYS1tZWxha3VrYW4tcGVuZXJiYW5nYW4=",
-        "description": "SPESIALIS Kedokteran Penerbangan Daniel Hadinoto dari Ikatan Dokter Indonesia (IDI) menyarankan calon penumpang pesawat untuk tetap melindungi diri dan sekitar mereka dengan memakai masker selama <a&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/505980/hajar-norwegia-timnas-putri-inggris-pecahkan-rekor-piala-eropa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTk4MC9oYWphci1ub3J3ZWdpYS10aW1uYXMtcHV0cmktaW5nZ3Jpcy1wZWNhaGthbi1yZWtvci1waWFsYS1lcm9wYQ==",
-        "description": "TIMNAS&nbsp;Inggris mencatat kemenangan terbesar dalam sejarah Piala Eropa Putri ketika hattrick Beth Mead mengilhami kemenangan&#8230;"
     }
 ]
