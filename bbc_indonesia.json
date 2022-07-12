@@ -1,5 +1,12 @@
 [
     {
+        "title": "Shinzo Abe: Duka ribuan warga Jepang saat pemakaman mantan perdana menteri dengan masa jabatan terlama",
+        "link": "https://www.bbc.com/indonesia/dunia-62089962",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjIwODk5NjI=",
+        "description": "Ribuan orang menghadiri upacara pemakaman Shinzo Abe untuk memberikan penghormatan terakhir bagi perdana menteri dengan masa jabatan terlama negara tersebut."
+    },
+    {
         "title": "Para perempuan jadi korban gempa Afghanistan 'lebih menderita' karena dokter perempuan sangat terbatas",
         "link": "https://www.bbc.com/indonesia/dunia-62089965",
         "image": "static/images/bbc_indonesia.png",
@@ -7,7 +14,7 @@
         "description": "Menurut kultur di Afghanistan, perempuan hanya boleh ditangani dokter perempuan. Tapi saat gempa mengguncang Provinsi Paktika, hanya ada dua dokter perempuan di lokasi itu."
     },
     {
-        "title": "Anak kiai Jombang mendekam di rutan, 'orang-orang tak dikenal, diduga para pendukung disebut masih coba ancam korban cabut laporan'",
+        "title": "Kemenag batalkan pencabutan izin Ponpes Shiddiqiyyah saat anak kiai Jombang mendekam di rutan - 'Mereka yang menghalangi petugas sudah ditangkap'",
         "link": "https://www.bbc.com/indonesia/majalah-62040492",
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MjA0MDQ5Mg==",
@@ -19,13 +26,6 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjIxMjc4MTM=",
         "description": "Uang tunai sebesar 17,85 juta rupee atau lebih dari Rp750 juta diserahkan oleh warga Sri Lanka ke polisi, uang kertas baru yang mereka temukan saat menyerbu istana presiden."
-    },
-    {
-        "title": "KPK: Dewan Pengawas komisi diminta umumkan hasil penyelidikan dugaan gratifikasi tiket MotoGP, walau Lili Pintauli 'undur diri'",
-        "link": "https://www.bbc.com/indonesia/indonesia-62117929",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYyMTE3OTI5",
-        "description": "Dewan Pengawas KPK diminta mengumumkan hasil penyelidikannya terkait dugaan pelanggaran etik Lili Pintauli Siregar, walaupun dia sudah mundur dari posisi Wakil Ketua KPK, kata pegiat anti korupsi."
     },
     {
         "title": "Dokumen Uber bocor: Ribuan dokumen ungkap keterlibatan politisi top Eropa membantu Uber diam-diam",
@@ -63,10 +63,10 @@
         "description": "Para korban diyakini berusia antara 19 dan 35 tahun, dengan beberapa orang lainnya dalam kondisi kritis di rumah sakit. Mengapa mereka ditembak mati?"
     },
     {
-        "title": "Shinzo Abe: Apa motif di balik pembunuhan mantan PM Jepang dan mengapa polisi akui ada 'kelemahan' pengamanan?",
-        "link": "https://www.bbc.com/indonesia/dunia-62089962",
+        "title": "Lili Pintauli: Dewan Pengawas komisi diminta umumkan hasil penyelidikan dugaan gratifikasi tiket MotoGP",
+        "link": "https://www.bbc.com/indonesia/indonesia-62117929",
         "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjIwODk5NjI=",
-        "description": "Kepolisian Jepang mengakui ada kekurangan dalam pengamanan mantan Perdana Menteri Jepang, Shinzo Abe, yang ditembak mati di kota Nara. Apakah pembunuhan ini berdampak pada dukungan bagi Partai Demokrat Liberal (LDP)?"
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYyMTE3OTI5",
+        "description": "Dewan Pengawas KPK diminta mengumumkan hasil penyelidikannya terkait dugaan pelanggaran etik Lili Pintauli Siregar, walaupun dia sudah mundur dari posisi Wakil Ketua KPK, kata pegiat anti korupsi."
     }
 ]

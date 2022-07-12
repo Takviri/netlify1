@@ -1,5 +1,19 @@
 [
     {
+        "title": "IMF Was-was Uang Digital Ancam Krisis Keuangan",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220712123915-78-820401/imf-was-was-uang-digital-ancam-krisis-keuangan",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMTIzOTE1LTc4LTgyMDQwMS9pbWYtd2FzLXdhcy11YW5nLWRpZ2l0YWwtYW5jYW0ta3Jpc2lzLWtldWFuZ2Fu",
+        "description": " IMF menyebut mata uang digital bank sentral (CBDC) mengancam keberadaan bank komersial dan memicu serta krisis keuangan."
+    },
+    {
+        "title": "Tiket Pesawat Makin Mahal Imbas Kenaikan Harga Minyak Dunia",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220712094648-92-820313/tiket-pesawat-makin-mahal-imbas-kenaikan-harga-minyak-dunia",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMDk0NjQ4LTkyLTgyMDMxMy90aWtldC1wZXNhd2F0LW1ha2luLW1haGFsLWltYmFzLWtlbmFpa2FuLWhhcmdhLW1pbnlhay1kdW5pYQ==",
+        "description": " Harga tiket pesawat diprediksi akan naik seiring dengan lonjakan minyak dunia akibat perang Rusia-Ukraina yang tak kunjung selesai."
+    },
+    {
         "title": "Anak Haji Isam Baru 21 Tahun Jadi Komut Jhonlin Agro Raya",
         "link": "https://www.cnnindonesia.com/ekonomi/20220712101430-92-820331/anak-haji-isam-baru-21-tahun-jadi-komut-jhonlin-agro-raya",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMTAxMzI3LTUzMi04MjAzMjEvbWVua2V1LWFzLXlha2luLWVrb25vbWkta3VhdC1tZXNraS1pbmZsYXNpLWRhbi1wZW5nYW5nZ3VyYW4tdGluZ2dp",
         "description": " Menteri Keuangan AS Janet Yellen menekankan kekuatan ekonomi Amerika, meskipun inflasi tinggi dan tingkat pengangguran nyaris menyentuh rekor."
-    },
-    {
-        "title": "Syarat dan Cara Membuat Surat Izin Usaha Dagang",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220707170958-97-819996/syarat-dan-cara-membuat-surat-izin-usaha-dagang",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzA3MTcwOTU4LTk3LTgxOTk5Ni9zeWFyYXQtZGFuLWNhcmEtbWVtYnVhdC1zdXJhdC1pemluLXVzYWhhLWRhZ2FuZw==",
-        "description": " Berkas yang dibutuhkan untuk membuat surat izin usaha dagang berbeda-beda bergantung skala usaha. Berikut syarat dan cara mengurusnya."
-    },
-    {
-        "title": "Daftar Terbaru Harga LPG Nonsubsidi, Termahal Rp270 Ribu",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220711184730-85-820136/daftar-terbaru-harga-lpg-nonsubsidi-termahal-rp270-ribu",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzExMTg0NzMwLTg1LTgyMDEzNi9kYWZ0YXItdGVyYmFydS1oYXJnYS1scGctbm9uc3Vic2lkaS10ZXJtYWhhbC1ycDI3MC1yaWJ1",
-        "description": " Pertamina menaikkan harga LPG nonsubsidi sebesar Rp2.000 per kg mulai Minggu (10/7). Dengan kenaikan itu, berikut daftar harga terbaru LPG non subsidi."
     }
 ]
