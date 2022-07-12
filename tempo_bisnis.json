@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sri Mulyani: Presidensi G20 Dorong UMKM Indonesia Punya Modal dan Pasar yang Luas",
+        "link": "https://bisnis.tempo.co/read/1611376/sri-mulyani-presidensi-g20-dorong-umkm-indonesia-punya-modal-dan-pasar-yang-luas",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExMzc2L3NyaS1tdWx5YW5pLXByZXNpZGVuc2ktZzIwLWRvcm9uZy11bWttLWluZG9uZXNpYS1wdW55YS1tb2RhbC1kYW4tcGFzYXIteWFuZy1sdWFz",
+        "description": "Sri Mulyani mengungkapkan Presidensi G20 Indonesia akan mendorong lembaga keuangan dan UMKM untuk memiliki akses permodalan dan pasar yang lebih luas."
+    },
+    {
+        "title": "Profil Jhony Saputra, Anak Haji Isam yang Jadi Komut Jhonlin Agro Raya",
+        "link": "https://bisnis.tempo.co/read/1611370/profil-jhony-saputra-anak-haji-isam-yang-jadi-komut-jhonlin-agro-raya",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExMzcwL3Byb2ZpbC1qaG9ueS1zYXB1dHJhLWFuYWstaGFqaS1pc2FtLXlhbmctamFkaS1rb211dC1qaG9ubGluLWFncm8tcmF5YQ==",
+        "description": "Jhony Saputra, putra kedua pengusaha batu bara asal Kalimantan Selatan Haji Isam menjabat Komisaris Utama PT Jhonlin Agro Raya Tbk (JARR)."
+    },
+    {
+        "title": "Menilik Peran Identitas Digital di Indonesia Setelah Pandemi Covid-19",
+        "link": "https://bisnis.tempo.co/read/1611379/menilik-peran-identitas-digital-di-indonesia-setelah-pandemi-covid-19",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExMzc5L21lbmlsaWstcGVyYW4taWRlbnRpdGFzLWRpZ2l0YWwtZGktaW5kb25lc2lhLXNldGVsYWgtcGFuZGVtaS1jb3ZpZC0xOQ==",
+        "description": "Identitas digital diperlukan untuk mengakses berbagai layanan digital"
+    },
+    {
         "title": "Tawarkan Beasiswa ke Roy Citayam, Sandiaga Berharap Adanya Konten Berkualitas",
         "link": "https://bisnis.tempo.co/read/1611362/tawarkan-beasiswa-ke-roy-citayam-sandiaga-berharap-adanya-konten-berkualitas",
         "image": "static/images/tempo_bisnis.png",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExMzA5L2JpYXlhLWtvbnNlcnZhc2ktcnAtMzc1LWp1dGEtaGFueWEtdW50dWstcHVsYXUta29tb2RvLWRhbi1wdWxhdS1wYWRhcg==",
         "description": "Biaya konservasi Rp 3,75 juta hanya untuk Pulau Komodo dan Pulau Padar."
-    },
-    {
-        "title": "Dukungan untuk Petani Milenial di Lumbung Mataram Expo",
-        "link": "https://bisnis.tempo.co/read/1611330/dukungan-untuk-petani-milenial-di-lumbung-mataram-expo",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExMzMwL2R1a3VuZ2FuLXVudHVrLXBldGFuaS1taWxlbmlhbC1kaS1sdW1idW5nLW1hdGFyYW0tZXhwbw==",
-        "description": "Petani milenial dapat menerapkan pertanian yang modern dan serba digital."
-    },
-    {
-        "title": "Luhut: Presiden Jokowi Perintahkan Kurangi Penggunaan BBM",
-        "link": "https://bisnis.tempo.co/read/1611303/luhut-presiden-jokowi-perintahkan-kurangi-penggunaan-bbm",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExMzAzL2x1aHV0LXByZXNpZGVuLWpva293aS1wZXJpbnRhaGthbi1rdXJhbmdpLXBlbmdndW5hYW4tYmJt",
-        "description": "Menteri Luhut Binsar Pandjaitan mengatakan Presiden Joko Widodo telah memerintahkan untuk mengurangi penggunaan bahan bakar minyak (BBM)."
-    },
-    {
-        "title": "Jokowi Yakin Swasembada Beras Segera Tercapai Karena 3 Tahun Tak Impor",
-        "link": "https://bisnis.tempo.co/read/1611296/jokowi-yakin-swasembada-beras-segera-tercapai-karena-3-tahun-tak-impor",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExMjk2L2pva293aS15YWtpbi1zd2FzZW1iYWRhLWJlcmFzLXNlZ2VyYS10ZXJjYXBhaS1rYXJlbmEtMy10YWh1bi10YWstaW1wb3I=",
-        "description": "Jokowi kembali menyinggung soal swasembada, target yang dulu pernah diungkap kepala negara di tempat yang sama."
     }
 ]
