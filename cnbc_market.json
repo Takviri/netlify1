@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sempat Menghijau, IHSG Ditutup Memerah",
+        "link": "https://www.cnbcindonesia.com/market/20220712154228-19-355012/sempat-menghijau-ihsg-ditutup-memerah",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTU0MjI4LTE5LTM1NTAxMi9zZW1wYXQtbWVuZ2hpamF1LWloc2ctZGl0dXR1cC1tZW1lcmFo",
+        "description": " Sempat Menghijau, IHSG Ditutup Memerah"
+    },
+    {
+        "title": "Crazy Rich! Begini Sepak Terjang dan Gurita Bisnis Haji Isam",
+        "link": "https://www.cnbcindonesia.com/market/20220712133202-17-354975/crazy-rich-begini-sepak-terjang-dan-gurita-bisnis-haji-isam",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTMzMjAyLTE3LTM1NDk3NS9jcmF6eS1yaWNoLWJlZ2luaS1zZXBhay10ZXJqYW5nLWRhbi1ndXJpdGEtYmlzbmlzLWhhamktaXNhbQ==",
+        "description": " Haji Isam juga disebut-sebut sebagai Crazy Rich Batulicin."
+    },
+    {
+        "title": "Nggak Lolos Rekrutmen BUMN? Tenang, Masih Ada Kesempatan Kok!",
+        "link": "https://www.cnbcindonesia.com/market/20220712151751-17-355005/nggak-lolos-rekrutmen-bumn-tenang-masih-ada-kesempatan-kok",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTUxNzUxLTE3LTM1NTAwNS9uZ2dhay1sb2xvcy1yZWtydXRtZW4tYnVtbi10ZW5hbmctbWFzaWgtYWRhLWtlc2VtcGF0YW4ta29r",
+        "description": " Perusahaan BUMN juga diberikan kesempatan untuk melakukan perekrutan karyawan secara mandiri."
+    },
+    {
         "title": "Jelang Rilis Data Inflasi AS, Bursa Eropa Dibuka Merah!",
         "link": "https://www.cnbcindonesia.com/market/20220712153220-17-355009/jelang-rilis-data-inflasi-as-bursa-eropa-dibuka-merah",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTUwOTI3LTE3LTM1NTAwNC9ydXBpYWgtdGVyYmFpay1rZWR1YS1kaS1hc2lhLW1lc2tpLWdhZ2FsLWNldGFrLWhhdC10cmljaw==",
         "description": " Rupiah melemah lagi melawan dolar Amerika Serikat (AS) pada perdagangan Selasa (12/7/2022)"
-    },
-    {
-        "title": "Sarana Multi Incar Total Rp 25 T dari Obligasi dan Sukuk",
-        "link": "https://www.cnbcindonesia.com/market/20220712113544-17-354910/sarana-multi-incar-total-rp-25-t-dari-obligasi-dan-sukuk",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTEzNTQ0LTE3LTM1NDkxMC9zYXJhbmEtbXVsdGktaW5jYXItdG90YWwtcnAtMjUtdC1kYXJpLW9ibGlnYXNpLWRhbi1zdWt1aw==",
-        "description": " PT Sarana Multi Infrastruktur (Persero) atau SMI mengincar dana hingga total Rp 25 triliun dari Penawaran Umum Berkelanjutan (PUB) obligasi dan sukuk mudharabah"
-    },
-    {
-        "title": "IHSG Mulai Bangkit, Bank Mini Mulai Banyak Dilirik",
-        "link": "https://www.cnbcindonesia.com/market/20220712132511-19-354966/ihsg-mulai-bangkit-bank-mini-mulai-banyak-dilirik",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTMyNTExLTE5LTM1NDk2Ni9paHNnLW11bGFpLWJhbmdraXQtYmFuay1taW5pLW11bGFpLWJhbnlhay1kaWxpcmlr",
-        "description": " Hari Kedua Perdagangan, IHSG Mulai Bangkit"
-    },
-    {
-        "title": "Jhonlin Baru Bagikan Dividen di 2024, Maksimal 20% Dari Laba",
-        "link": "https://www.cnbcindonesia.com/market/20220712130457-17-354957/jhonlin-baru-bagikan-dividen-di-2024-maksimal-20-dari-laba",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTMwNDU3LTE3LTM1NDk1Ny9qaG9ubGluLWJhcnUtYmFnaWthbi1kaXZpZGVuLWRpLTIwMjQtbWFrc2ltYWwtMjAtZGFyaS1sYWJh",
-        "description": " Emiten perkebunan asal Kalimantan ini bakal menggunakan kode JARR saat pencatatan saham nanti."
     }
 ]
