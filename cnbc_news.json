@@ -1,5 +1,47 @@
 [
     {
+        "title": "RI Banjir Pasokan CPO, Produksi Bisa Naik Tembus 51 Juta Ton",
+        "link": "https://www.cnbcindonesia.com/news/20220712100642-4-354868/ri-banjir-pasokan-cpo-produksi-bisa-naik-tembus-51-juta-ton",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjEwMDY0Mi00LTM1NDg2OC9yaS1iYW5qaXItcGFzb2thbi1jcG8tcHJvZHVrc2ktYmlzYS1uYWlrLXRlbWJ1cy01MS1qdXRhLXRvbg==",
+        "description": " Produksi minyak sawit Indonesia tahun ini melimpah."
+    },
+    {
+        "title": "Jokowi Belum Putuskan Calon Pengganti Tjahjo Kumolo",
+        "link": "https://www.cnbcindonesia.com/news/20220712101822-4-354872/jokowi-belum-putuskan-calon-pengganti-tjahjo-kumolo",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjEwMTgyMi00LTM1NDg3Mi9qb2tvd2ktYmVsdW0tcHV0dXNrYW4tY2Fsb24tcGVuZ2dhbnRpLXRqYWhqby1rdW1vbG8=",
+        "description": " Jokowi menyebut saat ini pemerintah masih dalam suasana duka"
+    },
+    {
+        "title": "Twitter Tolak Pembatalan Akuisisi",
+        "link": "https://www.cnbcindonesia.com/news/20220712094551-8-354852/twitter-tolak-pembatalan-akuisisi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjA5NDU1MS04LTM1NDg1Mi90d2l0dGVyLXRvbGFrLXBlbWJhdGFsYW4tYWt1aXNpc2k=",
+        "description": " Pengajuan pembatalan akuisisi Twitter mendapat perlawanan"
+    },
+    {
+        "title": "Menkes Geram! Temukan Pasien Status 'Hitam' Tak Dilaporkan",
+        "link": "https://www.cnbcindonesia.com/news/20220712100128-4-354861/menkes-geram-temukan-pasien-status-hitam-tak-dilaporkan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjEwMDEyOC00LTM1NDg2MS9tZW5rZXMtZ2VyYW0tdGVtdWthbi1wYXNpZW4tc3RhdHVzLWhpdGFtLXRhay1kaWxhcG9ya2Fu",
+        "description": " Menkes menemukan kasus pasien yang mengeluh sakit, namun tidak dilaporkan dan bebas berkeliaran."
+    },
+    {
+        "title": "Perusahaan Inggris Temukan 'Harta Karun' Migas Jumbo di Aceh",
+        "link": "https://www.cnbcindonesia.com/news/20220712093430-4-354855/perusahaan-inggris-temukan-harta-karun-migas-jumbo-di-aceh",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjA5MzQzMC00LTM1NDg1NS9wZXJ1c2FoYWFuLWluZ2dyaXMtdGVtdWthbi1oYXJ0YS1rYXJ1bi1taWdhcy1qdW1iby1kaS1hY2Vo",
+        "description": " SKK Migas mengungkapkan perusahaan raksasa migas asal Inggris yakni Premier Oil berhasil menemukan cadangan migas di lepas pantai Aceh"
+    },
+    {
+        "title": "Intip Perjalanan Wuling Motors Selama Lima Tahun",
+        "link": "https://www.cnbcindonesia.com/news/20220712092151-4-354843/intip-perjalanan-wuling-motors-selama-lima-tahun",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjA5MjE1MS00LTM1NDg0My9pbnRpcC1wZXJqYWxhbmFuLXd1bGluZy1tb3RvcnMtc2VsYW1hLWxpbWEtdGFodW4=",
+        "description": " Produsen kendaraan bermotor China, Wuling Motors, telah meramaikan pasar otomotif di Indonesia"
+    },
+    {
         "title": "Cek! Harga 3 Jenis BBM Pertamina Ini Naik, Ada Pertalite?",
         "link": "https://www.cnbcindonesia.com/news/20220712092809-4-354845/cek-harga-3-jenis-bbm-pertamina-ini-naik-ada-pertalite",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjA3NTYxMi00LTM1NDgxNi9kYWZ0YXItMTEtY2Fsb24tcGVuZ2dhbnRpLXBtLWluZ2dyaXMtYWRhLXlhbmctbXVzbGlt",
         "description": " Sejak Perdana Menteri (PM) Inggris Boris Johnson mengundurkan diri, nama-nama calon penggantinya mulai bermunculan."
-    },
-    {
-        "title": "Naik! Cek Daftar Harga Terbaru BBM dan LPG Pertamina",
-        "link": "https://www.cnbcindonesia.com/news/20220712091651-4-354842/naik-cek-daftar-harga-terbaru-bbm-dan-lpg-pertamina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjA5MTY1MS00LTM1NDg0Mi9uYWlrLWNlay1kYWZ0YXItaGFyZ2EtdGVyYmFydS1iYm0tZGFuLWxwZy1wZXJ0YW1pbmE=",
-        "description": " Pertamina resmi menaikkan harga BBM dan LPG khususnya non subsidi di seluruh RI"
-    },
-    {
-        "title": "Disuntik PMN, Kinerja BUMN Ngegas?",
-        "link": "https://www.cnbcindonesia.com/news/20220712091817-8-354841/disuntik-pmn-kinerja-bumn-ngegas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjA5MTgxNy04LTM1NDg0MS9kaXN1bnRpay1wbW4ta2luZXJqYS1idW1uLW5nZWdhcw==",
-        "description": " Disuntik PMN, Kinerja BUMN Ngegas?"
-    },
-    {
-        "title": "Catat! Syarat Naik Pesawat Kini Wajib Tes PCR-Antigen (Lagi)",
-        "link": "https://www.cnbcindonesia.com/news/20220712091544-4-354840/catat-syarat-naik-pesawat-kini-wajib-tes-pcr-antigen--lagi-",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjA5MTU0NC00LTM1NDg0MC9jYXRhdC1zeWFyYXQtbmFpay1wZXNhd2F0LWtpbmktd2FqaWItdGVzLXBjci1hbnRpZ2VuLS1sYWdpLQ==",
-        "description": " Para pelaku perjalanan yang belum mendapatkan vaksinasi booster kini diwajibkan melampirkan tes negatif antigen atau PCR"
-    },
-    {
-        "title": "Kiamat PNS Direstui Jokowi, Posisi Ini Akan Tersingkir Duluan",
-        "link": "https://www.cnbcindonesia.com/news/20220712091000-4-354839/kiamat-pns-direstui-jokowi-posisi-ini-akan-tersingkir-duluan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjA5MTAwMC00LTM1NDgzOS9raWFtYXQtcG5zLWRpcmVzdHVpLWpva293aS1wb3Npc2ktaW5pLWFrYW4tdGVyc2luZ2tpci1kdWx1YW4=",
-        "description": " Birokrasi pemerintah akan memasuki era baru Pegawai Negeri Sipil (PNS) akan terus dikurangi dan diganti dengan pemanfaatan teknologi"
-    },
-    {
-        "title": "Terbaru! Ini Daftar Mobil yang Masih Boleh Isi BBM Pertalite",
-        "link": "https://www.cnbcindonesia.com/news/20220712090549-4-354835/terbaru-ini-daftar-mobil-yang-masih-boleh-isi-bbm-pertalite",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjA5MDU0OS00LTM1NDgzNS90ZXJiYXJ1LWluaS1kYWZ0YXItbW9iaWwteWFuZy1tYXNpaC1ib2xlaC1pc2ktYmJtLXBlcnRhbGl0ZQ==",
-        "description": " Sesuai dengan hasil Rapat Koordinasi Terbatas (Rakortas) mobil yang masih boleh isi Pertalite adalah mobil dengan cc 1.500 ke bawah"
-    },
-    {
-        "title": "Update Iuran Resmi BPJS Kesehatan Juli 2022, Lebih Murah?",
-        "link": "https://www.cnbcindonesia.com/news/20220712084748-4-354831/update-iuran-resmi-bpjs-kesehatan-juli-2022-lebih-murah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjA4NDc0OC00LTM1NDgzMS91cGRhdGUtaXVyYW4tcmVzbWktYnBqcy1rZXNlaGF0YW4tanVsaS0yMDIyLWxlYmloLW11cmFo",
-        "description": " Beberapa waktu terakhir ramai dibicarakan mengenai iuran terbaru peserta BPJS Kesehatan. Seperti apa faktanya?"
     }
 ]
