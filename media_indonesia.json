@@ -1,5 +1,47 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/506000/ini-tips-sukses-dapat-kerja-untuk-para-lulusan-baru",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2MDAwL2luaS10aXBzLXN1a3Nlcy1kYXBhdC1rZXJqYS11bnR1ay1wYXJhLWx1bHVzYW4tYmFydQ==",
+        "description": "TAHUN ajaran baru telah dimulai. Itu artinya ada ratusan ribu pelajar dan mahasiswa yang akan menjalani hari pertama masuk sekolah, hari pertama naik kelas, dan hari pertama menjadi lulusan baru. Selepas&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/506018/sma-negeri-di-kota-depok-gelar-mpls-2022-secara-tatap-muka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDYwMTgvc21hLW5lZ2VyaS1kaS1rb3RhLWRlcG9rLWdlbGFyLW1wbHMtMjAyMi1zZWNhcmEtdGF0YXAtbXVrYQ==",
+        "description": "HARI ini (12/7), Sekolah Menengah Atas (SMA) Negeri di Kota Depok, Jawa Barat menggelar Masa Pengenalan Lingkungan Sekolah (MPLS) secara tatap muka. Salah satunya SMA Negeri 1 Kota Depok. Kepala&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/505999/randy-pangalila-sebut-film-perjalanan-pertama-mirip-kisah-cintanya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTk5OS9yYW5keS1wYW5nYWxpbGEtc2VidXQtZmlsbS1wZXJqYWxhbmFuLXBlcnRhbWEtbWlyaXAta2lzYWgtY2ludGFueWE=",
+        "description": "AKTOR Randy Pangalila mengatakan kisah cintanya dengan sang istri mirip dengan kisah di film Perjalanan Pertama, yang ia bintangi.&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/506015/kebijakan-jokowi-optimalkan-peran-umkm-untuk-perkuat-ekonomi-masyarakat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjAxNS9rZWJpamFrYW4tam9rb3dpLW9wdGltYWxrYW4tcGVyYW4tdW1rbS11bnR1ay1wZXJrdWF0LWVrb25vbWktbWFzeWFyYWthdA==",
+        "description": "PELBAGAI kebijakan yang diluncurkan Presiden Joko Widodo (Jokowi) dinilai mampu membuat peran Usaha Mikro Kecil Menengah (UMKM) lebih optimal. Kehadirannya diyakini memperkuat ekonomi masyarakat.&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/506013/presiden-kelebihan-dana-apbn-untuk-tambahan-bansos",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjAxMy9wcmVzaWRlbi1rZWxlYmloYW4tZGFuYS1hcGJuLXVudHVrLXRhbWJhaGFuLWJhbnNvcw==",
+        "description": "PRESIDEN Joko Widodo memastikan bahwa pemerintah akan menggunakan kelebihan dana dari APBN untuk memperkuat daya beli masyarakat. Hal tersebut disampaikan Kepala Negara saat menyerahkan bantuan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/506012/bpjamsostek-serahkan-santunan-rp-737-juta-kepada-ahli-waris-karyawan-bri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjAxMi9icGphbXNvc3Rlay1zZXJhaGthbi1zYW50dW5hbi1ycC03MzctanV0YS1rZXBhZGEtYWhsaS13YXJpcy1rYXJ5YXdhbi1icmk=",
+        "description": "BPJS Ketenagakerjaan Kantor Cabang Grha BpJamsostek menyerahkan santunan program Jaminan Kecelakaan Kerja (JKK), Jaminan Hari Tua (JHT) senilai Rp 737 juta . Tak hanya itu, juga diserahkan manfaat&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/505998/fariz-rm-deddy-dhukun-dan-mus-mujiono-akan-konser-bareng-pada-29-juli",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDYwMDkvcHJlc2lkZW4tcGFzdGlrYW4tcGVuZ2dhbnRpLW1lbmRpYW5nLXRqYWhqby1rdW1vbG8tbWFzaWgtZGFsYW0tcHJvc2Vz",
         "description": "PRESIDEN Joko Widodo menyebut penggantian posisi mendiang Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi, Tjahjo&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/506008/jokowi-ingatkan-mendag-agar-fokus-urus-harga-minyak-goreng",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjAwOC9qb2tvd2ktaW5nYXRrYW4tbWVuZGFnLWFnYXItZm9rdXMtdXJ1cy1oYXJnYS1taW55YWstZ29yZW5n",
-        "description": "PRESIDEN Joko Widodo meminta agar para menterinya fokus bekerja, termasuk Menteri Perdagangan Zulkifli Hasan yang dituntutnya&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/505994/perpustakaan-umum-tim-kembali-dibuka",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU5OTQvcGVycHVzdGFrYWFuLXVtdW0tdGltLWtlbWJhbGktZGlidWth",
-        "description": "PENGELOLA membuka kembali Perpustakaan Umum Taman Ismail Marzuki (TIM) DKI Jakarta untuk umum setelah diresmikan oleh Gubernur&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/505993/bolden-dan-abraham-siap-tampil-di-fiba-asia-cup",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU5OTMvYm9sZGVuLWRhbi1hYnJhaGFtLXNpYXAtdGFtcGlsLWRpLWZpYmEtYXNpYS1jdXA=",
-        "description": "MANAJER timnas bola basket Indonesia Jeremy Santoso memastikan Marques Bolden dan Abraham Damar Grahita dalam kondisi fit dan diyakini dapat menunjukkan performa terbaik di ajang <a href=\"http://mediaindonesia.com/tag/fiba-asia-cup\"&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506006/zulhas-bagikan-minyak-goreng-gratis-ini-dalih-pan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDYwMDYvenVsaGFzLWJhZ2lrYW4tbWlueWFrLWdvcmVuZy1ncmF0aXMtaW5pLWRhbGloLXBhbg==",
-        "description": "PARTAI Amanat Nasional (PAN) membela pimpinan mereka Zulkifli Hasan (Zulhas) soal polemik bagi-bagi minyak goreng gratis sembari&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/506005/positivity-rate-13-kasus-covid-19-jakarta-10462",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDYwMDUvcG9zaXRpdml0eS1yYXRlLTEzLWthc3VzLWNvdmlkLTE5LWpha2FydGEtMTA0NjI=",
-        "description": "PEMERINTAH Provinsi (Pemprov) DKI Jakarta terus melaporkan tren kasus baru covid-19. Data terbaru, per Senin (12/7), kasus aktif&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/506004/transporta-terpilih-ikuti-inkubasi-startup-studio-indonesia-batch-4",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA2MDA0L3RyYW5zcG9ydGEtdGVycGlsaWgtaWt1dGktaW5rdWJhc2ktc3RhcnR1cC1zdHVkaW8taW5kb25lc2lhLWJhdGNoLTQ=",
-        "description": "PERUSAHAAN&nbsp;startup&nbsp;teknologi di&nbsp;Indonesia, Transporta, terpilih menjadi salah satu dari 15 perusahaan startup untuk berpartisipasi dalam&nbsp;<a href=\"https://startupstudio.id/\"&#8230;"
     }
 ]
