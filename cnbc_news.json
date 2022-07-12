@@ -1,5 +1,54 @@
 [
     {
+        "title": "Jadi Miliarder Berkat Hewan Kurban? Intip Bisnisnya Yuk",
+        "link": "https://www.cnbcindonesia.com/news/20220712145855-8-354999/jadi-miliarder-berkat-hewan-kurban-intip-bisnisnya-yuk",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE0NTg1NS04LTM1NDk5OS9qYWRpLW1pbGlhcmRlci1iZXJrYXQtaGV3YW4ta3VyYmFuLWludGlwLWJpc25pc255YS15dWs=",
+        "description": " Jadi Miliarder Berkat Hewan Kurban? Seperti Apa ya Rasanya"
+    },
+    {
+        "title": "Erick Ungkap RI Rugi dari Kebiasaan Ekspor Via Singapura",
+        "link": "https://www.cnbcindonesia.com/news/20220712161934-4-355040/erick-ungkap-ri-rugi-dari-kebiasaan-ekspor-via-singapura",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE2MTkzNC00LTM1NTA0MC9lcmljay11bmdrYXAtcmktcnVnaS1kYXJpLWtlYmlhc2Fhbi1la3Nwb3ItdmlhLXNpbmdhcHVyYQ==",
+        "description": " Menteri BUMN Erick Thohir mengungkapkan fakta bahwa saat ini 95% kargo asal Pelabuhan Belawan, Medan, Sumatera Utara tidak langsung menuju negara tujuan."
+    },
+    {
+        "title": "Di Kota Tetangga DKI Ini Masih Ada Rumah Rp 200 Jutaan, Mau?",
+        "link": "https://www.cnbcindonesia.com/news/20220712160234-4-355028/di-kota-tetangga-dki-ini-masih-ada-rumah-rp-200-jutaan-mau",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE2MDIzNC00LTM1NTAyOC9kaS1rb3RhLXRldGFuZ2dhLWRraS1pbmktbWFzaWgtYWRhLXJ1bWFoLXJwLTIwMC1qdXRhYW4tbWF1",
+        "description": " Harga rumah di kawasan penyangga Jakarta seperti Depok sudah beranjak naik, rata-rata sudah berada di atas Rp 500 juta."
+    },
+    {
+        "title": "Duh! Ada 2.700 Lebih Pertambangan Tanpa Izin Di RI",
+        "link": "https://www.cnbcindonesia.com/news/20220712171211-8-355054/duh-ada-2700-lebih-pertambangan-tanpa-izin-di-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE3MTIxMS04LTM1NTA1NC9kdWgtYWRhLTI3MDAtbGViaWgtcGVydGFtYmFuZ2FuLXRhbnBhLWl6aW4tZGktcmk=",
+        "description": " ESDM mencatat terdaat lebih dari 2.700 lokasi pertambangan tanpa izin."
+    },
+    {
+        "title": "Ada D100, Program Biodiesel Hanya Cukup Sampai B40?",
+        "link": "https://www.cnbcindonesia.com/news/20220712162314-4-355036/ada-d100-program-biodiesel-hanya-cukup-sampai-b40",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE2MjMxNC00LTM1NTAzNi9hZGEtZDEwMC1wcm9ncmFtLWJpb2RpZXNlbC1oYW55YS1jdWt1cC1zYW1wYWktYjQw",
+        "description": " Pemerintah terus menggenjot pengembangan green diesel atau D100 sebagai bahan campuran untuk program bahan bakar nabati biodiesel"
+    },
+    {
+        "title": "Multifinance Siap Geber Bisnis di Semester II-2022",
+        "link": "https://www.cnbcindonesia.com/news/20220712170443-8-355053/multifinance-siap-geber-bisnis-di-semester-ii-2022",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE3MDQ0My04LTM1NTA1My9tdWx0aWZpbmFuY2Utc2lhcC1nZWJlci1iaXNuaXMtZGktc2VtZXN0ZXItaWktMjAyMg==",
+        "description": " Multifinance Siap Geber Bisnis di Semester II-2022"
+    },
+    {
+        "title": "Ngeri, Jenderal Junta Myanmar Bakal ke Rusia Bahas Nuklir",
+        "link": "https://www.cnbcindonesia.com/news/20220712171040-4-355061/ngeri-jenderal-junta-myanmar-bakal-ke-rusia-bahas-nuklir",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE3MTA0MC00LTM1NTA2MS9uZ2VyaS1qZW5kZXJhbC1qdW50YS1teWFubWFyLWJha2FsLWtlLXJ1c2lhLWJhaGFzLW51a2xpcg==",
+        "description": " Jenderal tertinggi junta militer Myanmar, Min Aung Hlaing akan mengunjungi Moskow, Rusia, Selasa (12/7/2022) ini."
+    },
+    {
         "title": "Duh! Harga Pangan Global Mulai Turun, Tapi Tidak di Asia",
         "link": "https://www.cnbcindonesia.com/news/20220712171320-8-355055/duh-harga-pangan-global-mulai-turun-tapi-tidak-di-asia",
         "image": "static/images/cnbc_news.png",
@@ -19,54 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE1NTMwMS00LTM1NTAyNS9uZ2VyaS10YW5kYS10YW5kYS1oYXJnYS10aWtldC1wZXNhd2F0LW1ha2luLW1lbGVkYWs=",
         "description": " Maskapai penerbangan meminta agar aturan Tarif Batas Atas (TBA) dan tarif tuslah atau fuel surcharge dievaluasi."
-    },
-    {
-        "title": "Inflasi Tinggi, Uni Eropa Pangkas Proyeksi Ekonomi",
-        "link": "https://www.cnbcindonesia.com/news/20220712130710-8-354958/inflasi-tinggi-uni-eropa-pangkas-proyeksi-ekonomi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjEzMDcxMC04LTM1NDk1OC9pbmZsYXNpLXRpbmdnaS11bmktZXJvcGEtcGFuZ2thcy1wcm95ZWtzaS1la29ub21p",
-        "description": " Uni Eropa memangkas perkiraan pertumbuhan ekonomi tahun 2022 menjadi 2,7%."
-    },
-    {
-        "title": "Keras! Gegara 1 Kasus Covid-19, China Lockdown 1 Kota",
-        "link": "https://www.cnbcindonesia.com/news/20220712150128-4-355000/keras-gegara-1-kasus-covid-19-china-lockdown-1-kota",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE1MDEyOC00LTM1NTAwMC9rZXJhcy1nZWdhcmEtMS1rYXN1cy1jb3ZpZC0xOS1jaGluYS1sb2NrZG93bi0xLWtvdGE=",
-        "description": " China kembali mengunci (lockdown) wilayahnya akibat kasus Covid-19."
-    },
-    {
-        "title": "Ini 4 Pembalasan Putin ke Eropa: Nord Stream 1 sampai Nuklir",
-        "link": "https://www.cnbcindonesia.com/news/20220712163116-4-355045/ini-4-pembalasan-putin-ke-eropa-nord-stream-1-sampai-nuklir",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE2MzExNi00LTM1NTA0NS9pbmktNC1wZW1iYWxhc2FuLXB1dGluLWtlLWVyb3BhLW5vcmQtc3RyZWFtLTEtc2FtcGFpLW51a2xpcg==",
-        "description": " Presiden Rusia Vladimir Putin juga melakukan sejumlah hal untuk membalas sanksi yang diberikan Eropa. Apa saja?"
-    },
-    {
-        "title": "Mulai Besok, Bandara Halim Kembali Beroperasi! Cek Jadwalnya",
-        "link": "https://www.cnbcindonesia.com/news/20220712162532-4-355039/mulai-besok-bandara-halim-kembali-beroperasi-cek-jadwalnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE2MjUzMi00LTM1NTAzOS9tdWxhaS1iZXNvay1iYW5kYXJhLWhhbGltLWtlbWJhbGktYmVyb3BlcmFzaS1jZWstamFkd2Fsbnlh",
-        "description": " Bandara Halim Perdana Kusuma bakal kembali beroperasi komersial pada September 2022."
-    },
-    {
-        "title": "Aliran Gas Nord Stream I Berhenti Mulai 11 Juli",
-        "link": "https://www.cnbcindonesia.com/news/20220712100234-8-354865/aliran-gas-nord-stream-i-berhenti-mulai-11-juli",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjEwMDIzNC04LTM1NDg2NS9hbGlyYW4tZ2FzLW5vcmQtc3RyZWFtLWktYmVyaGVudGktbXVsYWktMTEtanVsaQ==",
-        "description": " Pipa Nord Stream 1 yang mengalirkan gas dari Rusia ke Eropa akan berhenti mulai Senin 11 Juli"
-    },
-    {
-        "title": "Anies Kalah Lawan Pengusaha, UMP 2022 DKI Batal Naik 5,1%",
-        "link": "https://www.cnbcindonesia.com/news/20220712164829-4-355049/anies-kalah-lawan-pengusaha-ump-2022-dki-batal-naik-51",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE2NDgyOS00LTM1NTA0OS9hbmllcy1rYWxhaC1sYXdhbi1wZW5ndXNhaGEtdW1wLTIwMjItZGtpLWJhdGFsLW5haWstNTE=",
-        "description": " Anies merivisi kenaikan UMP sebelumnya yang hanya 0,85% sesuai rekomendasi pemerintah pusat."
-    },
-    {
-        "title": "Ada 'Harta Karun' Migas Baru di Aceh, Gairahkan Investasi RI?",
-        "link": "https://www.cnbcindonesia.com/news/20220712154214-4-355013/ada-harta-karun-migas-baru-di-aceh-gairahkan-investasi-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE1NDIxNC00LTM1NTAxMy9hZGEtaGFydGEta2FydW4tbWlnYXMtYmFydS1kaS1hY2VoLWdhaXJhaGthbi1pbnZlc3Rhc2ktcmk=",
-        "description": " Apabila penemuan harta karun migas ini merupakan world class discovery maka akan menarik perusahaan-perusahaan migas raksasa dunia lagi"
     }
 ]

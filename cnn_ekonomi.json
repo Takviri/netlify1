@@ -1,5 +1,19 @@
 [
     {
+        "title": "Daftar Harga LPG Terbaru di Ritel DKI Jakarta",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220712164838-85-820573/daftar-harga-lpg-terbaru-di-ritel-dki-jakarta",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMTY0ODM4LTg1LTgyMDU3My9kYWZ0YXItaGFyZ2EtbHBnLXRlcmJhcnUtZGktcml0ZWwtZGtpLWpha2FydGE=",
+        "description": " PT Pertamina (Persero) resmi menaikkan harga LPG nonsubsidi mulai Minggu (10/7). Berikut daftar harganya."
+    },
+    {
+        "title": "BI: Ada Lebih dari 20 Ribu Jenis Kripto di Dunia",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220712153801-78-820527/bi-ada-lebih-dari-20-ribu-jenis-kripto-di-dunia",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMTUzODAxLTc4LTgyMDUyNy9iaS1hZGEtbGViaWgtZGFyaS0yMC1yaWJ1LWplbmlzLWtyaXB0by1kaS1kdW5pYQ==",
+        "description": " Bank Indonesia (BI) memaparkan lebih dari 20 ribu jenis kripto tersebar di seluruh dunia saat ini. Investasi ke instrumen tersebut juga\u00c2\u00a0kian menanjak."
+    },
+    {
         "title": "Luhut Kaji Motor Listrik Jadi Transportasi di Tempat Wisata RI",
         "link": "https://www.cnnindonesia.com/ekonomi/20220712132002-85-820432/luhut-kaji-motor-listrik-jadi-transportasi-di-tempat-wisata-ri",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMTUyNTA1LTUzMi04MjA1MTAvam9rb3dpLWJlcmktc2lueWFsLXRhbWJhaC1iYW5zb3M=",
         "description": " Presiden Joko Widodo (Jokowi) mengisyaratkan nominal bantuan sosial (bansos) ke warga miskin akan bertambah."
-    },
-    {
-        "title": "IHSG Kian Terperosok ke 6.718 Sore Ini",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220712151447-92-820503/ihsg-kian-terperosok-ke-6718-sore-ini",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMTUxNDQ3LTkyLTgyMDUwMy9paHNnLWtpYW4tdGVycGVyb3Nvay1rZS02NzE4LXNvcmUtaW5p",
-        "description": " Indeks Harga Saham Gabungan (IHSG) melemah 0,06 persen ke level 6.718 pada Selasa (12/7) sore."
-    },
-    {
-        "title": "Bandara Halim Dibuka Kembali, Layani VIP Mulai Besok",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220712145727-92-820490/bandara-halim-dibuka-kembali-layani-vip-mulai-besok",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMTQ1NzI3LTkyLTgyMDQ5MC9iYW5kYXJhLWhhbGltLWRpYnVrYS1rZW1iYWxpLWxheWFuaS12aXAtbXVsYWktYmVzb2s=",
-        "description": " Bandara Halim Perdanakusuma kembali dibuka dan mulai melayani penerbangan VIP besok Rabu, sedangkan untuk penerbangan komersial ditargetkan September 2022."
     }
 ]
