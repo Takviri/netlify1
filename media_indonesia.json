@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505962/komite-bis-bank-bank-sentral-harus-putuskan-akses-lintas-batas-mata-uang-digital",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTk2Mi9rb21pdGUtYmlzLWJhbmstYmFuay1zZW50cmFsLWhhcnVzLXB1dHVza2FuLWFrc2VzLWxpbnRhcy1iYXRhcy1tYXRhLXVhbmctZGlnaXRhbA==",
+        "description": "Bank-bank sentral harus membuat keputusan &quot;fundamental&quot; tentang akses lintas batas untuk versi mata uang digital mereka agar berfungsi sebagai alat pembayaran secara efektif, sebuah komite&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505955/penjemput-jemaah-haji-mesti-patuhi-prokes",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1OTU1L3BlbmplbXB1dC1qZW1hYWgtaGFqaS1tZXN0aS1wYXR1aGktcHJva2Vz",
+        "description": "Kelompok terbang (kloter) pertama jemaah haji akan pulang ke Tanah Air mulai 15 Juli 2022. Ada 4 embarkasi yang akan mengawali fase pemulangan ini, yaitu: kloter pertama&nbsp; Embarkasi Jakarta-Pondok&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505949/gara-gara-oksimeter-pasien-berkulit-gelap-dapat-oksigen-lebih-sedikit",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1OTQ5L2dhcmEtZ2FyYS1va3NpbWV0ZXItcGFzaWVuLWJlcmt1bGl0LWdlbGFwLWRhcGF0LW9rc2lnZW4tbGViaWgtc2VkaWtpdA==",
+        "description": "KELOMPOK minoritas mendapatkan pasokan oksigen lebih sedikit di ruang perawatan intensif (ICU) ketimbang pasien berkulit putih karena ada masalah pada alat medis yang digunakan di berbagai penjuru&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505960/sejuk-labuan-bajo-semoga-berlanjut-di-bali",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTk2MC9zZWp1ay1sYWJ1YW4tYmFqby1zZW1vZ2EtYmVybGFuanV0LWRpLWJhbGk=",
+        "description": "PELAKSANAAN Presidensi G20 Indonesia 2022 berlangsung dalam suasana yang tidak biasa. Didesain untuk mencari solusi&nbsp; permasalahan akibat pandemi covid-19, dalam pelaksanaannya menjadi berat karena&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/505948/jelang-bergulirnya-kembali-liga-1-alberts-genjot-fisik-pemain-persib",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTk0OC9qZWxhbmctYmVyZ3VsaXJueWEta2VtYmFsaS1saWdhLTEtYWxiZXJ0cy1nZW5qb3QtZmlzaWstcGVtYWluLXBlcnNpYg==",
+        "description": "PELATIH Persib Bandung Robert Rene Alberts terus membangun kebugaran para pemainnya menjelang kompetisi Liga 1 2022/2023, yang dijadwalkan&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/505959/arada-tarian-kedamaian-sekaligus-pendapatan-bagi-pengungsi-suriah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNTk1OS9hcmFkYS10YXJpYW4ta2VkYW1haWFuLXNla2FsaWd1cy1wZW5kYXBhdGFuLWJhZ2ktcGVuZ3VuZ3NpLXN1cmlhaA==",
+        "description": "Di Amman, ibu kota Yordania, sekelompok orang tampak bersukas cita menari sambil menabuh genderang. Mereka adalah para pengungsi Suriah yang berhasil melarikan diri dari kebrutalan perang saudara.&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/505947/liga-sepak-bola-ukraina-akan-bergulir-mulai-agustus-di-tengah-perang",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU5NTMvcGVtZXJpa3NhYW4tcGVuZ3VydXMtZGFuLXBldGluZ2dpLWFjdC1kaWxhbmp1dGthbi1oYXJpLWluaQ==",
         "description": "Penyidik Direktorat Tindak Pidana Ekonomi Khusus (Dittipideksus) Bareskrim Polri kembali melanjutkan pemeriksaan terhadap pengurus dan petinggi Aksi Cepat Tanggap (ACT) hari ini Selasa (12/7).&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505937/pendiri-act-jelaskan-pemeriksaan-bareskrim-terkait-csr-boeing-untuk-korban-lion-air",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU5MzcvcGVuZGlyaS1hY3QtamVsYXNrYW4tcGVtZXJpa3NhYW4tYmFyZXNrcmltLXRlcmthaXQtY3NyLWJvZWluZy11bnR1ay1rb3JiYW4tbGlvbi1haXI=",
-        "description": "Pendiri Yayasan Aksi Cepat Tanggap (ACT) Ahyudin menjelaskan pemeriksaan yang dijalaninya di Bareskrim Polri, Senin terkait dengan program CSR Boeing kepada ahli waris korban kecelakaan pesawat Lion&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/505945/ini-cara-mudah-mengatasi-rambut-bercabang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNTk0NS9pbmktY2FyYS1tdWRhaC1tZW5nYXRhc2ktcmFtYnV0LWJlcmNhYmFuZw==",
-        "description": "BILA kamu memiliki rambut panjang, hitam terurai, dan berkilau, tentu hal ini akan sempurna. Sayangnya, ternyata rambutmu memiiliki&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505944/jelang-berakhirnya-fase-puncak-haji-total-41-jemaah-indonesia-wafat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1OTQ0L2plbGFuZy1iZXJha2hpcm55YS1mYXNlLXB1bmNhay1oYWppLXRvdGFsLTQxLWplbWFhaC1pbmRvbmVzaWEtd2FmYXQ=",
-        "description": "FASE puncak haji hampir berakhir. Sebagian jemaah yang mengambil Nafar Awal, hari ini, sudah mulai kembali ke hotel mereka di Makkah.&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/505935/manipulasi-kekerasan-seksual-di-lembaga-pendidikan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDU5MzUvbWFuaXB1bGFzaS1rZWtlcmFzYW4tc2Vrc3VhbC1kaS1sZW1iYWdhLXBlbmRpZGlrYW4=",
-        "description": "PENANGKAPAN pelaku pencabulan, Much Subchi Azal Tsani (MSAT), anak pimpinan salah satu pesantren di Jombang, Jawa Timur, pada 7 Juli lalu bukan akhir dari kisah kekerasan seksual di lembaga pendidikan.&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/505900/mengawal-uu-tpks",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDU5MDAvbWVuZ2F3YWwtdXUtdHBrcw==",
-        "description": "SETELAH penantian yang cukup panjang, RUU Tindak Pidana Kekerasan Seksual (TPKS) akhirnya disahkan sebagai undang-undang pada 9 Mei 2022, yaitu UU Nomor 12 Tahun 2022 tentang Tindak Pidana Kekerasan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505936/petrokimia-gresik-bukukan-laba-rp194-triliun",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTkzNi9wZXRyb2tpbWlhLWdyZXNpay1idWt1a2FuLWxhYmEtcnAxOTQtdHJpbGl1bg==",
-        "description": "Petrokimia Gresik berhasil membukukan laba sebesar Rp1,94 triliun pada 2021. Raihan tersebut 175% lebih tinggi dibandingkan Rencana Kerja dan Anggaran Perusahaan (RKAP) yang hanya ditetapkan sebesar&#8230;"
     }
 ]

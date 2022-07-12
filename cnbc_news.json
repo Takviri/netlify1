@@ -1,5 +1,40 @@
 [
     {
+        "title": "Sah! Besok, Ekspor Perdana Ayam RI ke Singapura Dilaksanakan",
+        "link": "https://www.cnbcindonesia.com/news/20220712013140-4-354790/sah-besok-ekspor-perdana-ayam-ri-ke-singapura-dilaksanakan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjAxMzE0MC00LTM1NDc5MC9zYWgtYmVzb2stZWtzcG9yLXBlcmRhbmEtYXlhbS1yaS1rZS1zaW5nYXB1cmEtZGlsYWtzYW5ha2Fu",
+        "description": " Pengiriman perdana ayam dan produk ayam Indonesia ke Singapura dilakukan besok."
+    },
+    {
+        "title": "Kunjungi Arab Saudi, Biden Desak OPEC Genjot Produksi Minyak",
+        "link": "https://www.cnbcindonesia.com/news/20220712065112-4-354804/kunjungi-arab-saudi-biden-desak-opec-genjot-produksi-minyak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjA2NTExMi00LTM1NDgwNC9rdW5qdW5naS1hcmFiLXNhdWRpLWJpZGVuLWRlc2FrLW9wZWMtZ2Vuam90LXByb2R1a3NpLW1pbnlhaw==",
+        "description": " Presiden Amerika Serikat (AS) Joe Biden akan mendesak Organisasi Negara Pengekspor Minyak (OPEC) untuk menggenjot produksi minyak."
+    },
+    {
+        "title": "Dulu Selangit, Segini Harga Sepeda Lipat Brompton Sekarang",
+        "link": "https://www.cnbcindonesia.com/news/20220712012626-4-354789/dulu-selangit-segini-harga-sepeda-lipat-brompton-sekarang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjAxMjYyNi00LTM1NDc4OS9kdWx1LXNlbGFuZ2l0LXNlZ2luaS1oYXJnYS1zZXBlZGEtbGlwYXQtYnJvbXB0b24tc2VrYXJhbmc=",
+        "description": " Brompton dulu terkenal dengan harganya yang fantastis."
+    },
+    {
+        "title": "Waduh! Populasi Eropa Terus Menyusut, Ini Biang Keroknya",
+        "link": "https://www.cnbcindonesia.com/news/20220712063737-4-354801/waduh-populasi-eropa-terus-menyusut-ini-biang-keroknya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjA2MzczNy00LTM1NDgwMS93YWR1aC1wb3B1bGFzaS1lcm9wYS10ZXJ1cy1tZW55dXN1dC1pbmktYmlhbmcta2Vyb2tueWE=",
+        "description": " Populasi Uni Eropa menyusut dalam dua tahun berturut-turut seiring dengan jutaan kematian akibat kasus Covid-19."
+    },
+    {
+        "title": "Intelijen AS Ungkap Iran Siap Pasok Ratusan Drone untuk Rusia",
+        "link": "https://www.cnbcindonesia.com/news/20220712061842-4-354798/intelijen-as-ungkap-iran-siap-pasok-ratusan-drone-untuk-rusia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjA2MTg0Mi00LTM1NDc5OC9pbnRlbGlqZW4tYXMtdW5na2FwLWlyYW4tc2lhcC1wYXNvay1yYXR1c2FuLWRyb25lLXVudHVrLXJ1c2lh",
+        "description": " Intelijen Amerika Serikat mengungkapkan bahwa Iran akan memasok Rusia dengan ratusan drone."
+    },
+    {
         "title": "Update Chaos Sri Lanka, Ini Jadwal Pemilihan Presiden Baru",
         "link": "https://www.cnbcindonesia.com/news/20220712060455-4-354797/update-chaos-sri-lanka-ini-jadwal-pemilihan-presiden-baru",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTIwMzExMS04LTM1NDc4Mi9zYWJhci1oYXJnYS1iYm0tbmFpay1oaW5nZ2EtaW1mLWJlcmktcGVyaW5nYXRhbi1odXRhbmctY2hpbmE=",
         "description": " Pertamina kembali menaikkan harga bahan bakar minyak nonsubsidi"
-    },
-    {
-        "title": "Love and Thunder Film Thor dengan Debut Box Office Tertinggi",
-        "link": "https://www.cnbcindonesia.com/news/20220711202503-8-354779/love-and-thunder-film-thor-dengan-debut-box-office-tertinggi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTIwMjUwMy04LTM1NDc3OS9sb3ZlLWFuZC10aHVuZGVyLWZpbG0tdGhvci1kZW5nYW4tZGVidXQtYm94LW9mZmljZS10ZXJ0aW5nZ2k=",
-        "description": " Film Love and Thunder sukses mendulang Box Office dengan pendapatan akhir pekan pertama alias debut mencapai 143 juta US dollar"
-    },
-    {
-        "title": "China Warning Negara-negara ASEAN, Ada Apa Xi Jinping?",
-        "link": "https://www.cnbcindonesia.com/news/20220711204116-4-354783/china-warning-negara-negara-asean-ada-apa-xi-jinping",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTIwNDExNi00LTM1NDc4My9jaGluYS13YXJuaW5nLW5lZ2FyYS1uZWdhcmEtYXNlYW4tYWRhLWFwYS14aS1qaW5waW5n",
-        "description": " Pemerintah China memberikan peringatan kepada negara-negara ASEAN. Kenapa?"
-    },
-    {
-        "title": "Covid Bikin Pening, Shanghai Pengujian Massal Lagi",
-        "link": "https://www.cnbcindonesia.com/news/20220711205628-4-354787/covid-bikin-pening-shanghai-pengujian-massal-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTIwNTYyOC00LTM1NDc4Ny9jb3ZpZC1iaWtpbi1wZW5pbmctc2hhbmdoYWktcGVuZ3VqaWFuLW1hc3NhbC1sYWdp",
-        "description": " Pemerintah kota Shanghai, China, memutuskan untuk kembali melakukan pengujian massal kepada warganya."
-    },
-    {
-        "title": "Ukraina \"Ngamuk\",1 Juta Tentara Siap Rebut Wilayah dari Putin",
-        "link": "https://www.cnbcindonesia.com/news/20220711204524-4-354785/ukraina-ngamuk1-juta-tentara-siap-rebut-wilayah-dari-putin",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTIwNDUyNC00LTM1NDc4NS91a3JhaW5hLW5nYW11azEtanV0YS10ZW50YXJhLXNpYXAtcmVidXQtd2lsYXlhaC1kYXJpLXB1dGlu",
-        "description": " Ukraina dilaporkan telah mengumpulkan hingga satu juta tentara untuk merebut wilayah Selatannya yang dikuasai Rusia."
-    },
-    {
-        "title": "Bukan Cuma Sri Lanka, Ada 9 Negara Lagi yang di Ujung Tanduk",
-        "link": "https://www.cnbcindonesia.com/news/20220711202203-16-354778/bukan-cuma-sri-lanka-ada-9-negara-lagi-yang-di-ujung-tanduk",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTIwMjIwMy0xNi0zNTQ3NzgvYnVrYW4tY3VtYS1zcmktbGFua2EtYWRhLTktbmVnYXJhLWxhZ2kteWFuZy1kaS11anVuZy10YW5kdWs=",
-        "description": " Sri Lanka kini menjadi sorotan karena krisis ekonomi. Negara itu bahkan terancam bangkrut. Namun ada sembilan negara lain yang mendapat ancaman sama."
     }
 ]
