@@ -1,72 +1,72 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/505980/hajar-norwegia-timnas-putri-inggris-pecahkan-rekor-piala-eropa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTk4MC9oYWphci1ub3J3ZWdpYS10aW1uYXMtcHV0cmktaW5nZ3Jpcy1wZWNhaGthbi1yZWtvci1waWFsYS1lcm9wYQ==",
+        "description": "TIMNAS&nbsp;Inggris mencatat kemenangan terbesar dalam sejarah Piala Eropa Putri ketika hattrick Beth Mead mengilhami kemenangan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505952/jangan-tunggu-sakit-untuk-ajak-anak-ke-dokter-gigi-untuk-pertama-kali",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1OTUyL2phbmdhbi10dW5nZ3Utc2FraXQtdW50dWstYWphay1hbmFrLWtlLWRva3Rlci1naWdpLXVudHVrLXBlcnRhbWEta2FsaQ==",
+        "description": "DOKTER gigi dari Klinik Rata Gita Caesaria mengingatkan para orangtua agar tidak mengajak anak ke dokter gigi pertama kali saat&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/505972/inilah-yang-akan-dibahas-menkeu-as-dan-jepang-saat-bertemu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTk3Mi9pbmlsYWgteWFuZy1ha2FuLWRpYmFoYXMtbWVua2V1LWFzLWRhbi1qZXBhbmctc2FhdC1iZXJ0ZW11",
+        "description": "Menteri Keuangan AS Janet Yellen akan membahas cara-cara untuk lebih memperkuat sanksi Barat terhadap Rusia atas perangnya di Ukraina ketika nanti bertemu dengan Menteri Keuangan Jepang Shunichi Suzuki&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505978/dukung-pemulihan-ekonomi-food-hotel-indonesia-kembali-hadir-di-jiexpo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTk3OC9kdWt1bmctcGVtdWxpaGFuLWVrb25vbWktZm9vZC1ob3RlbC1pbmRvbmVzaWEta2VtYmFsaS1oYWRpci1kaS1qaWV4cG8=",
+        "description": "PAMERAN Food &amp; Hotel Indonesia (FHI) akan kembali digelar pada 26 - 29 Juli 2022 di Jakarta International Expo (JIExpo), Kemayoran, setelah tahun sebelumnya diadakan secara virtual (online)&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/505975/bpkp-desak-bpjn-evaluasi-kontraktor-jalan-dan-jembatan-di-kalsel",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA1OTc1L2Jwa3AtZGVzYWstYnBqbi1ldmFsdWFzaS1rb250cmFrdG9yLWphbGFuLWRhbi1qZW1iYXRhbi1kaS1rYWxzZWw=",
+        "description": "BALAI Pelaksanaan Jalan Nasional (BPJN) Kalimantan Selatan diminta segera melakukan pengendalian proyek dan mengevaluasi kontraktor pembangunan jalan dan jembatan di wilayah. Hal ini lantaran Badan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/505951/malacia-optimistis-segera-nyaman-di-old-trafford",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTk1MS9tYWxhY2lhLW9wdGltaXN0aXMtc2VnZXJhLW55YW1hbi1kaS1vbGQtdHJhZmZvcmQ=",
+        "description": "BEK sayap Tyrell Malacia percaya dirinya bisa segera merasa nyaman di klub Liga Inggris Manchester United usai resmi bergabung,&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/505976/museum-london-bakal-dipindah-akhir-tahun-ini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNTk3Ni9tdXNldW0tbG9uZG9uLWJha2FsLWRpcGluZGFoLWFraGlyLXRhaHVuLWluaQ==",
+        "description": "SEBUAH pesta perpisahan yang epik bakal digelar untuk publik di Museum London sebelum bangunan bersejarah itu dihancurkan. Selanjutnya, bangunanmuseum yang baru akan dibuat di kawasan dekat Smithfield.&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/505974/kembali-ke-arsenal-wilshere-jadi-pelatih-tim-u-18",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTk3NC9rZW1iYWxpLWtlLWFyc2VuYWwtd2lsc2hlcmUtamFkaS1wZWxhdGloLXRpbS11LTE4",
+        "description": "MANTAN gelandang Arsenal Jack Wilshere kembali ke klubnya sebagai pelatih kepala tim U-18 setelah baru-baru ini menyatakan pensiun.&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/505971/inter-milan-putuskan-kontrak-artiro-vidal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTk3MS9pbnRlci1taWxhbi1wdXR1c2thbi1rb250cmFrLWFydGlyby12aWRhbA==",
+        "description": "Inter Milan memutuskan kontrak gelandang Arturo Vidal lewat kesepakatan bersama, kata klub Serie A itu seperti dilaporkan Reuters, Selasa (12/7). Media Italia melaporkan pemain internasional&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/505950/will-mara-ingatkan-agar-jalani-hidup-tanpa-bergesa-gesa-lewat-one-by-one",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTk1MC93aWxsLW1hcmEtaW5nYXRrYW4tYWdhci1qYWxhbmktaGlkdXAtdGFucGEtYmVyZ2VzYS1nZXNhLWxld2F0LW9uZS1ieS1vbmU=",
         "description": "WILL Mara kembali membawa tema cinta yang positif serta bahagia melalui single terbarunya di 2022 yaitu One By One. Single itu&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505970/icw-sebut-sidang-etik-lili-pintauli-seharusnya-dilanjutkan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU5NzAvaWN3LXNlYnV0LXNpZGFuZy1ldGlrLWxpbGktcGludGF1bGktc2VoYXJ1c255YS1kaWxhbmp1dGthbg==",
-        "description": "INDONESIA Corruption Watch (ICW) menilai sidang dugaan etik penerimaan fasilitas menonton MotoGP di Mandalika masih bisa dilanjutkan. Pasalnya, dugaan penerimaan fasilitas itu terjadi saat <a href=\"http://mediaindonesia.com/tag/lili-pintauli-siregar\"&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505968/mardani-maming-jalani-praperadilan-hari-ini",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU5NjgvbWFyZGFuaS1tYW1pbmctamFsYW5pLXByYXBlcmFkaWxhbi1oYXJpLWluaQ==",
-        "description": "BENDAHARA Umum (Bendum) Pengurus Besar Nahdlatul Ulama (PBNU) Mardani H Maming menjalani persidangan praperadilan terkait penetapan tersangka dalam perkara yang diusut Komisi Pemberantasan Korupsi&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505967/bank-artha-graha-internasional-sumbang-hewan-kurban-di-masjid-istiqlal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1OTY3L2JhbmstYXJ0aGEtZ3JhaGEtaW50ZXJuYXNpb25hbC1zdW1iYW5nLWhld2FuLWt1cmJhbi1kaS1tYXNqaWQtaXN0aXFsYWw=",
-        "description": "BANK Artha Graha Internasional turut menyampaikan dukungan dalam bentuk sumbangan hewan kurban melalui Masjid Istiqlal yang menggelar pemotongan hewan kurban dalam rangka Hari Raya Idul Adha 1443 H&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505966/sukidi-karakter-dasar-islam-lapang-dan-toleran",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1OTY2L3N1a2lkaS1rYXJha3Rlci1kYXNhci1pc2xhbS1sYXBhbmctZGFuLXRvbGVyYW4=",
-        "description": "CENDEKIAWAN Muslim Sukidi mengatakan ibadah haji seharusnya mampu melahirkan sosok Muslim yang teguh dalam menaati perintah Allah,&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505961/kpu-koordinasi-dengan-bawaslu-untuk-akses-sipol",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU5NjEva3B1LWtvb3JkaW5hc2ktZGVuZ2FuLWJhd2FzbHUtdW50dWstYWtzZXMtc2lwb2w=",
-        "description": "KOMISI Pemilihan Umum (KPU) RI telah melakukan koordinasi dengan Badan Pengawas Pemilihan Umum (Bawaslu) RI terkait akses Sistem Informasi Partai Politik (Sipol). Diketahui, Bawaslu telah mengirimkan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505896/menuju-kolaborasi-penelitian-melalui-smart-textile",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1ODk2L21lbnVqdS1rb2xhYm9yYXNpLXBlbmVsaXRpYW4tbWVsYWx1aS1zbWFydC10ZXh0aWxl",
-        "description": "INDUSTRI 4.0 memberikan dampak besar terhadap pelbagai sektor industri, tidak terkecuali sektor industri tekstil. Muncul sejak 2016, istilah industri 4.0 menggambarkan terjadinya pertemuan teknologi&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505965/kemendagri-tegaskan-peran-camat-tangani-pmk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1OTY1L2tlbWVuZGFncmktdGVnYXNrYW4tcGVyYW4tY2FtYXQtdGFuZ2FuaS1wbWs=",
-        "description": "DIREKTUR Jenderal (Dirjen) Bina Administrasi Kewilayahan (Adwil) Kementerian Dalam Negeri (Kemendagri) Safrizal ZA menegaskan peran konkret Camat dalam menangani penyakit mulut dan kuku (<a href=\"http://mediaindonesia.com/tag/penyakit-mulut-dan-kuku\"&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/505964/bisnis-alat-berat-menguat-wisl-terbitkan-obligasi-sebanyak-rp-2-triliun",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTk2NC9iaXNuaXMtYWxhdC1iZXJhdC1tZW5ndWF0LXdpc2wtdGVyYml0a2FuLW9ibGlnYXNpLXNlYmFueWFrLXJwLTItdHJpbGl1bg==",
-        "description": "MENGUATNYA&nbsp; harga sektor komoditas masih berlangsung hingga saat ini dan telah mendorong meningkatnya permintaan alat berat dan berbagai pendukung logistik di sektor tersebut. Permintaan yang&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/505963/netizen-perlu-bentengi-diri-dari-tindakan-negatif-di-ruang-digital",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1OTYzL25ldGl6ZW4tcGVybHUtYmVudGVuZ2ktZGlyaS1kYXJpLXRpbmRha2FuLW5lZ2F0aWYtZGktcnVhbmctZGlnaXRhbA==",
-        "description": "Kemajuan teknologi memudahkan masyarakat mendapatkan informasi. Sehingga setiap orang harus mampu mengakses informasi dengan benar dan tepat sesuai netiket atau tatakrama dalam penggunaan internet.&#8230;"
     }
 ]
