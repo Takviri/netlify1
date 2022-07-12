@@ -1,5 +1,19 @@
 [
     {
+        "title": "IHSG Kian Terperosok ke 6.718 Sore Ini",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220712151447-92-820503/ihsg-kian-terperosok-ke-6718-sore-ini",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMTUxNDQ3LTkyLTgyMDUwMy9paHNnLWtpYW4tdGVycGVyb3Nvay1rZS02NzE4LXNvcmUtaW5p",
+        "description": " Indeks Harga Saham Gabungan (IHSG) melemah 0,06 persen ke level 6.718 pada Selasa (12/7) sore."
+    },
+    {
+        "title": "Bandara Halim Dibuka Kembali, Layani VIP Mulai Besok",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220712145727-92-820490/bandara-halim-dibuka-kembali-layani-vip-mulai-besok",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMTQ1NzI3LTkyLTgyMDQ5MC9iYW5kYXJhLWhhbGltLWRpYnVrYS1rZW1iYWxpLWxheWFuaS12aXAtbXVsYWktYmVzb2s=",
+        "description": " Bandara Halim Perdanakusuma kembali dibuka dan mulai melayani penerbangan VIP besok Rabu, sedangkan untuk penerbangan komersial ditargetkan September 2022."
+    },
+    {
         "title": "RI Ekspor Perdana Ayam ke Singapura",
         "link": "https://www.cnnindonesia.com/ekonomi/20220712124405-92-820403/ri-ekspor-perdana-ayam-ke-singapura",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMTI1OTU4LTkyLTgyMDQxMS9hbmllcy1rYWxhaC1kaS1wdHVuLXVtcC0yMDIyLWRraS1qYWthcnRhLWJhdGFsLW5haWstNTEtcGVyc2Vu",
         "description": " Gubernur DKI Anies Baswedan kalah di PTUN Jakarta dalam gugatan revisi UMP yang diajukan pengusaha."
-    },
-    {
-        "title": "IMF Was-was Uang Digital Ancam Krisis Keuangan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220712123915-78-820401/imf-was-was-uang-digital-ancam-krisis-keuangan",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMTIzOTE1LTc4LTgyMDQwMS9pbWYtd2FzLXdhcy11YW5nLWRpZ2l0YWwtYW5jYW0ta3Jpc2lzLWtldWFuZ2Fu",
-        "description": " IMF menyebut mata uang digital bank sentral (CBDC) mengancam keberadaan bank komersial dan memicu serta krisis keuangan."
-    },
-    {
-        "title": "Tiket Pesawat Makin Mahal Imbas Kenaikan Harga Minyak Dunia",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220712094648-92-820313/tiket-pesawat-makin-mahal-imbas-kenaikan-harga-minyak-dunia",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMDk0NjQ4LTkyLTgyMDMxMy90aWtldC1wZXNhd2F0LW1ha2luLW1haGFsLWltYmFzLWtlbmFpa2FuLWhhcmdhLW1pbnlhay1kdW5pYQ==",
-        "description": " Harga tiket pesawat diprediksi akan naik seiring dengan lonjakan minyak dunia akibat perang Rusia-Ukraina yang tak kunjung selesai."
     }
 ]
