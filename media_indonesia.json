@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sajak Kofe",
+        "link": "https://m.mediaindonesia.com/sajak-kofe/505973/puisi-yang-terposkan-dari-benua-biru",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zYWphay1rb2ZlLzUwNTk3My9wdWlzaS15YW5nLXRlcnBvc2thbi1kYXJpLWJlbnVhLWJpcnU=",
+        "description": "MEMBACA buku kumpulan puisi berjudul Puisi dari Lima Benua&nbsp;karya Emji Alif membawa kita seakan sedang berada di negara-negara berbeda. Ada sebuah benang merah bahwa puisi&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/505956/ioh-dan-voxox-bermitra-untuk-berdayakan-usaha-kecil-di-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNTk1Ni9pb2gtZGFuLXZveG94LWJlcm1pdHJhLXVudHVrLWJlcmRheWFrYW4tdXNhaGEta2VjaWwtZGktaW5kb25lc2lh",
+        "description": "DALAM rangka meningkatkan perekonomian Indonesia melalui pemberdayaan UMKM, Indosat Ooredoo Hutchison (IOH), melalui Indosat Business,&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505954/warga-diingatkan-tetap-memakai-masker-kala-melakukan-penerbangan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1OTU0L3dhcmdhLWRpaW5nYXRrYW4tdGV0YXAtbWVtYWthaS1tYXNrZXIta2FsYS1tZWxha3VrYW4tcGVuZXJiYW5nYW4=",
+        "description": "SPESIALIS Kedokteran Penerbangan Daniel Hadinoto dari Ikatan Dokter Indonesia (IDI) menyarankan calon penumpang pesawat untuk tetap melindungi diri dan sekitar mereka dengan memakai masker selama <a&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/505980/hajar-norwegia-timnas-putri-inggris-pecahkan-rekor-piala-eropa",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNTk3Ni9tdXNldW0tbG9uZG9uLWJha2FsLWRpcGluZGFoLWFraGlyLXRhaHVuLWluaQ==",
         "description": "SEBUAH pesta perpisahan yang epik bakal digelar untuk publik di Museum London sebelum bangunan bersejarah itu dihancurkan. Selanjutnya, bangunanmuseum yang baru akan dibuat di kawasan dekat Smithfield.&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/505974/kembali-ke-arsenal-wilshere-jadi-pelatih-tim-u-18",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTk3NC9rZW1iYWxpLWtlLWFyc2VuYWwtd2lsc2hlcmUtamFkaS1wZWxhdGloLXRpbS11LTE4",
-        "description": "MANTAN gelandang Arsenal Jack Wilshere kembali ke klubnya sebagai pelatih kepala tim U-18 setelah baru-baru ini menyatakan pensiun.&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/505971/inter-milan-putuskan-kontrak-artiro-vidal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTk3MS9pbnRlci1taWxhbi1wdXR1c2thbi1rb250cmFrLWFydGlyby12aWRhbA==",
-        "description": "Inter Milan memutuskan kontrak gelandang Arturo Vidal lewat kesepakatan bersama, kata klub Serie A itu seperti dilaporkan Reuters, Selasa (12/7). Media Italia melaporkan pemain internasional&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/505950/will-mara-ingatkan-agar-jalani-hidup-tanpa-bergesa-gesa-lewat-one-by-one",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTk1MC93aWxsLW1hcmEtaW5nYXRrYW4tYWdhci1qYWxhbmktaGlkdXAtdGFucGEtYmVyZ2VzYS1nZXNhLWxld2F0LW9uZS1ieS1vbmU=",
-        "description": "WILL Mara kembali membawa tema cinta yang positif serta bahagia melalui single terbarunya di 2022 yaitu One By One. Single itu&#8230;"
     }
 ]
