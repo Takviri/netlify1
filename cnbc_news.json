@@ -1,5 +1,19 @@
 [
     {
+        "title": "Harga Sepeda dan Sparepart Ada yang Diskon Rp20 Jutaan, Borong!",
+        "link": "https://www.cnbcindonesia.com/news/20220712014955-4-354792/harga-sepeda-sparepart-ada-yang-diskon-rp20-jutaan-borong",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjAxNDk1NS00LTM1NDc5Mi9oYXJnYS1zZXBlZGEtc3BhcmVwYXJ0LWFkYS15YW5nLWRpc2tvbi1ycDIwLWp1dGFhbi1ib3Jvbmc=",
+        "description": " Harga sepeda dan onderdilnya terpantau didiskon habis-habisan."
+    },
+    {
+        "title": "Kacau! Ekspor Belum Maksimal, Stok CPO Bakal Rekor Lagi",
+        "link": "https://www.cnbcindonesia.com/news/20220712014140-4-354791/kacau-ekspor-belum-maksimal-stok-cpo-bakal-rekor-lagi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjAxNDE0MC00LTM1NDc5MS9rYWNhdS1la3Nwb3ItYmVsdW0tbWFrc2ltYWwtc3Rvay1jcG8tYmFrYWwtcmVrb3ItbGFnaQ==",
+        "description": " Diduga saat ini ada 8 juta ton CPO menumpuk di tangki penampungan."
+    },
+    {
         "title": "Sah! Besok, Ekspor Perdana Ayam RI ke Singapura Dilaksanakan",
         "link": "https://www.cnbcindonesia.com/news/20220712013140-4-354790/sah-besok-ekspor-perdana-ayam-ri-ke-singapura-dilaksanakan",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTIwMjczOC04LTM1NDc4MS9wYmItdGFodW4taW5pLXBvcHVsYXNpLW1hbnVzaWEtYnVtaS10ZW1idXMtOC1taWxpYXItb3Jhbmc=",
         "description": " Laporan terbaru Perserikatan Bangsa-Bangsa memperkirakan bahwa populasi dunia akan mencapai angka 8 Miliar pada akhir tahun ini."
-    },
-    {
-        "title": "Hot News! Dampak Resesi Ri Hingga Rusia Kirim Rudal Ke Ukrain",
-        "link": "https://www.cnbcindonesia.com/news/20220711202021-8-354777/hot-news-dampak-resesi-ri-hingga-rusia-kirim-rudal-ke-ukrain",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTIwMjAyMS04LTM1NDc3Ny9ob3QtbmV3cy1kYW1wYWstcmVzZXNpLXJpLWhpbmdnYS1ydXNpYS1raXJpbS1ydWRhbC1rZS11a3JhaW4=",
-        "description": " Dunia kini dikhawatirkan akan mengalami resesi."
-    },
-    {
-        "title": "Sabar! Harga BBM Naik Hingga IMF Beri Peringatan Hutang China",
-        "link": "https://www.cnbcindonesia.com/news/20220711203111-8-354782/sabar-harga-bbm-naik-hingga-imf-beri-peringatan-hutang-china",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMTIwMzExMS04LTM1NDc4Mi9zYWJhci1oYXJnYS1iYm0tbmFpay1oaW5nZ2EtaW1mLWJlcmktcGVyaW5nYXRhbi1odXRhbmctY2hpbmE=",
-        "description": " Pertamina kembali menaikkan harga bahan bakar minyak nonsubsidi"
     }
 ]
