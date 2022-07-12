@@ -1,5 +1,40 @@
 [
     {
+        "title": "Nih! Rumah Nggak Sampai Rp 1 M di Tengah DKI, Mobil Masuk",
+        "link": "https://www.cnbcindonesia.com/news/20220712145625-4-354998/nih-rumah-nggak-sampai-rp-1-m-di-tengah-dki-mobil-masuk",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE0NTYyNS00LTM1NDk5OC9uaWgtcnVtYWgtbmdnYWstc2FtcGFpLXJwLTEtbS1kaS10ZW5nYWgtZGtpLW1vYmlsLW1hc3Vr",
+        "description": " Ternyata masih ada rumah di bawah Rp 1 miliar di tengah Jakarta."
+    },
+    {
+        "title": "China Minta ASEAN Jangan Jadi Pion Kekuatan Besar",
+        "link": "https://www.cnbcindonesia.com/news/20220712130711-8-354960/china-minta-asean-jangan-jadi-pion-kekuatan-besar",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjEzMDcxMS04LTM1NDk2MC9jaGluYS1taW50YS1hc2Vhbi1qYW5nYW4tamFkaS1waW9uLWtla3VhdGFuLWJlc2Fy",
+        "description": " Pemerintah China memberikan peringatan kepada negara-negara ASEAN."
+    },
+    {
+        "title": "Begini Jurus Jokowi Penuhi Komitmen Nol Emisi Karbon",
+        "link": "https://www.cnbcindonesia.com/news/20220712144411-4-354995/begini-jurus-jokowi-penuhi-komitmen-nol-emisi-karbon",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE0NDQxMS00LTM1NDk5NS9iZWdpbmktanVydXMtam9rb3dpLXBlbnVoaS1rb21pdG1lbi1ub2wtZW1pc2kta2FyYm9u",
+        "description": " Pemerintah sepertinya berencana memperbesar penggunaan mobil listrik di Indonesia."
+    },
+    {
+        "title": "Ternyata Ini yang Bikin Mendag Zulhas Kena Tegur Jokowi",
+        "link": "https://www.cnbcindonesia.com/news/20220712142933-4-354989/ternyata-ini-yang-bikin-mendag-zulhas-kena-tegur-jokowi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE0MjkzMy00LTM1NDk4OS90ZXJueWF0YS1pbmkteWFuZy1iaWtpbi1tZW5kYWctenVsaGFzLWtlbmEtdGVndXItam9rb3dp",
+        "description": " Jokowi menegur Mendag Zulhas dan meminta yang bersangkutan untuk fokus bekerja di pemerintahan"
+    },
+    {
+        "title": "Usai Sengat Barat, Teror Inflasi \"Hantui\" Asia! Ini Buktinya",
+        "link": "https://www.cnbcindonesia.com/news/20220712143649-4-354994/usai-sengat-barat-teror-inflasi-hantui-asia-ini-buktinya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE0MzY0OS00LTM1NDk5NC91c2FpLXNlbmdhdC1iYXJhdC10ZXJvci1pbmZsYXNpLWhhbnR1aS1hc2lhLWluaS1idWt0aW55YQ==",
+        "description": " Inflasi tengah menjadi momok di sejumlah negara dan kini mulai menjalar ke negara-negara Asia Pasifik."
+    },
+    {
         "title": "Top! Pembiayaan Kendaraan Baru Multifinance Melejit",
         "link": "https://www.cnbcindonesia.com/news/20220712141834-8-354984/top-pembiayaan-kendaraan-baru-multifinance-melejit",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE0MzAwOC00LTM1NDk5MS9qYW5nYW4ta2FnZXQtdHVya2ktZGlyYW1hbC1iYW5na3J1dC1rb2stYmlzYS1tci1lcmRvZ2Fu",
         "description": " Tukri diramal juga akan menuju kebangkrutan."
-    },
-    {
-        "title": "China Panik karena Kasus Naik, Kebijakan Xi Jinping Dikritik",
-        "link": "https://www.cnbcindonesia.com/news/20220712133835-4-354977/china-panik-karena-kasus-naik-kebijakan-xi-jinping-dikritik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjEzMzgzNS00LTM1NDk3Ny9jaGluYS1wYW5pay1rYXJlbmEta2FzdXMtbmFpay1rZWJpamFrYW4teGktamlucGluZy1kaWtyaXRpaw==",
-        "description": " Tambahan kasus membuat masyarakat khawatir jika Beijing akan kembali menerapkan \"draconian\" strategi yakni lockdown total."
-    },
-    {
-        "title": "Rusia Konfirmasi Kasus Cacar Monyet Pertama di Negara Itu",
-        "link": "https://www.cnbcindonesia.com/news/20220712143554-4-354992/rusia-konfirmasi-kasus-cacar-monyet-pertama-di-negara-itu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE0MzU1NC00LTM1NDk5Mi9ydXNpYS1rb25maXJtYXNpLWthc3VzLWNhY2FyLW1vbnlldC1wZXJ0YW1hLWRpLW5lZ2FyYS1pdHU=",
-        "description": " Rusia mengumumkan telah mendeteksi kasus cacar monyet pertama di negara itu."
-    },
-    {
-        "title": "Jurang Resesi Makin Dekat! Ini Bukti Barunya...",
-        "link": "https://www.cnbcindonesia.com/news/20220712141517-4-354985/jurang-resesi-makin-dekat-ini-bukti-barunya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE0MTUxNy00LTM1NDk4NS9qdXJhbmctcmVzZXNpLW1ha2luLWRla2F0LWluaS1idWt0aS1iYXJ1bnlh",
-        "description": " Sinyal resesi semakin kuat pasca rilis\u00c2\u00a0Composite Leading Indicator/CLI negara OECD melemah."
-    },
-    {
-        "title": "Kereta Api Masuk Daftar Larangan Isi Solar Subsidi?",
-        "link": "https://www.cnbcindonesia.com/news/20220712133137-4-354967/kereta-api-masuk-daftar-larangan-isi-solar-subsidi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjEzMzEzNy00LTM1NDk2Ny9rZXJldGEtYXBpLW1hc3VrLWRhZnRhci1sYXJhbmdhbi1pc2ktc29sYXItc3Vic2lkaQ==",
-        "description": " Berdasarkan draft yang diperoleh CNBC Indonesia, ada empat kriteria kendaraan yang dilarang isi Solar Subsidi"
-    },
-    {
-        "title": "Sandi: Kunjungan Wisata RI Naik Super Tajam",
-        "link": "https://www.cnbcindonesia.com/news/20220712124646-8-354944/sandi-kunjungan-wisata-ri-naik-super-tajam",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjEyNDY0Ni04LTM1NDk0NC9zYW5kaS1rdW5qdW5nYW4td2lzYXRhLXJpLW5haWstc3VwZXItdGFqYW0=",
-        "description": " Sandi : Kunjungan Wisata RI Naik Super Tajam"
     }
 ]

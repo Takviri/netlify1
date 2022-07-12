@@ -1,5 +1,26 @@
 [
     {
+        "title": "Izin Pondok Pesantren Shiddiqiyah Jombang Batal Dicabut karena Perintah Jokowi",
+        "link": "https://nasional.tempo.co/read/1611266/izin-pondok-pesantren-shiddiqiyah-jombang-batal-dicabut-karena-perintah-jokowi",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTEyNjYvaXppbi1wb25kb2stcGVzYW50cmVuLXNoaWRkaXFpeWFoLWpvbWJhbmctYmF0YWwtZGljYWJ1dC1rYXJlbmEtcGVyaW50YWgtam9rb3dp",
+        "description": "Menteri Agama ad Interim Muhadjir Effendy menyatakan pembatalan pencabutan izin Pondok Pesantren Shiddiqiyah merupakan perintah dari Presiden Jokowi."
+    },
+    {
+        "title": "Survei Parameter Politik Indonesia: Mayoritas Masyarakat Pilih Presiden karena Alasan Emosional Ketimbang Rasional",
+        "link": "https://nasional.tempo.co/read/1611259/survei-parameter-politik-indonesia-mayoritas-masyarakat-pilih-presiden-karena-alasan-emosional-ketimbang-rasional",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTEyNTkvc3VydmVpLXBhcmFtZXRlci1wb2xpdGlrLWluZG9uZXNpYS1tYXlvcml0YXMtbWFzeWFyYWthdC1waWxpaC1wcmVzaWRlbi1rYXJlbmEtYWxhc2FuLWVtb3Npb25hbC1rZXRpbWJhbmctcmFzaW9uYWw=",
+        "description": "Parameter Politik Indonesia menyatakan mayoritas pemilih Indonesia lebih mengedepankan faktor emosional ketimbang rasional."
+    },
+    {
+        "title": "Survei Parameter: Elektabilitas Ganjar Pranowo Paling Tinggi Jika Berduet dengan Ridwan Kamil, Anies dengan AHY",
+        "link": "https://nasional.tempo.co/read/1611257/survei-parameter-elektabilitas-ganjar-pranowo-paling-tinggi-jika-berduet-dengan-ridwan-kamil-anies-dengan-ahy",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTEyNTcvc3VydmVpLXBhcmFtZXRlci1lbGVrdGFiaWxpdGFzLWdhbmphci1wcmFub3dvLXBhbGluZy10aW5nZ2ktamlrYS1iZXJkdWV0LWRlbmdhbi1yaWR3YW4ta2FtaWwtYW5pZXMtZGVuZ2FuLWFoeQ==",
+        "description": "Pasangan Gubernur Jawa Tengah Ganjar Pranowo dan Gubernur Jawa Barat Ridwan Kamil mendapatkan elektabilitas tertinggi dalam survei teranyar."
+    },
+    {
         "title": "KPK Periksa 4 Petinggi Summarecon dalam Kasus Suap Eks Wali Kota Yogyakarta Haryadi Suyuti",
         "link": "https://nasional.tempo.co/read/1611252/kpk-periksa-4-petinggi-summarecon-dalam-kasus-suap-eks-wali-kota-yogyakarta-haryadi-suyuti",
         "image": "static/images/tempo_nasional.png",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTEyMzAvamFkaS1rdWFzYS1odWt1bS1tYXJkYW5pLWgtbWFtaW5nLWluaS1rYXRhLWJhbWJhbmctd2lkam9qYW50bw==",
         "description": "Eks Wakil Ketua KPK Bambang WIdjodjanto menjadi pengacara Mardani H Maming yang mengajukan gugatan pra peradilan."
-    },
-    {
-        "title": "Kasus Penembakan di Rumah Kadiv Propam Polri, Komisi III Bakal Panggil Listyo Sigit",
-        "link": "https://nasional.tempo.co/read/1611221/kasus-penembakan-di-rumah-kadiv-propam-polri-komisi-iii-bakal-panggil-listyo-sigit",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTEyMjEva2FzdXMtcGVuZW1iYWthbi1kaS1ydW1haC1rYWRpdi1wcm9wYW0tcG9scmkta29taXNpLWlpaS1iYWthbC1wYW5nZ2lsLWxpc3R5by1zaWdpdA==",
-        "description": "Ketua Komisi III Bambang Wuryanto menilai ada banyak kejanggalan dari insiden penembakan di rumah Kadiv Propam Polri Irjen Ferdy Sambo."
-    },
-    {
-        "title": "Sidang Praperadilan Suap Mardani H Maming Ditunda Jadi Selasa Pekan Depan",
-        "link": "https://nasional.tempo.co/read/1611214/sidang-praperadilan-suap-mardani-h-maming-ditunda-jadi-selasa-pekan-depan",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTEyMTQvc2lkYW5nLXByYXBlcmFkaWxhbi1zdWFwLW1hcmRhbmktaC1tYW1pbmctZGl0dW5kYS1qYWRpLXNlbGFzYS1wZWthbi1kZXBhbg==",
-        "description": "Sidang gugatan praperadilan Mardani H Maming di PN Jakarta Selatan batal digelar hari ini. Hakim mengatakan persidangan dilanjutkan pekan depan."
-    },
-    {
-        "title": "Jokowi Segera Sodorkan Pengganti Wakil Ketua KPK Lili Pintauli ke DPR",
-        "link": "https://nasional.tempo.co/read/1611209/jokowi-segera-sodorkan-pengganti-wakil-ketua-kpk-lili-pintauli-ke-dpr",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTEyMDkvam9rb3dpLXNlZ2VyYS1zb2Rvcmthbi1wZW5nZ2FudGktd2FraWwta2V0dWEta3BrLWxpbGktcGludGF1bGkta2UtZHBy",
-        "description": "Presiden Jokowi belum menunjuk pengganti Lili Pintauli yang mundur dari pimpinan KPK. Dia mengatakan prosesnya masih berlangsung."
     }
 ]
