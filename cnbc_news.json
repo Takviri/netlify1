@@ -1,5 +1,33 @@
 [
     {
+        "title": "IMF Minta Bank Sentral Hati-Hati Terkait Aset Kripto",
+        "link": "https://www.cnbcindonesia.com/news/20220712172123-8-355058/imf-minta-bank-sentral-hati-hati-terkait-aset-kripto",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE3MjEyMy04LTM1NTA1OC9pbWYtbWludGEtYmFuay1zZW50cmFsLWhhdGktaGF0aS10ZXJrYWl0LWFzZXQta3JpcHRv",
+        "description": " Bank sental memberi perhatian khusus terhadap perkembangan aset kripto pada FMCBG Meeting G20 di Bali."
+    },
+    {
+        "title": "Direktur PLN Diangkat Jadi Ketua METI, EBT Siap Naik Daun?",
+        "link": "https://www.cnbcindonesia.com/news/20220712181845-4-355073/direktur-pln-diangkat-jadi-ketua-meti-ebt-siap-naik-daun",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE4MTg0NS00LTM1NTA3My9kaXJla3R1ci1wbG4tZGlhbmdrYXQtamFkaS1rZXR1YS1tZXRpLWVidC1zaWFwLW5haWstZGF1bg==",
+        "description": " Direktur Mega Proyek dan Energi Baru Terbarukan PT PLN (Persero) Wiluyo Kusdwiharto didaulat menjadi Ketua Umum Masyarakat Energi Terbarukan Indonesia (METI)"
+    },
+    {
+        "title": "Catat! Kalau Jadi, 1 Agustus Mulai Pembatasan Beli Pertalite",
+        "link": "https://www.cnbcindonesia.com/news/20220712174252-4-355067/catat-kalau-jadi-1-agustus-mulai-pembatasan-beli-pertalite",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE3NDI1Mi00LTM1NTA2Ny9jYXRhdC1rYWxhdS1qYWRpLTEtYWd1c3R1cy1tdWxhaS1wZW1iYXRhc2FuLWJlbGktcGVydGFsaXRl",
+        "description": " BPH Migas mengatakan kebijakan pembatasan pembelian Pertalite bisa diterapkan antara 1 Agustus dan 1 September 2022"
+    },
+    {
+        "title": "Bukan Rusia vs AS! PD 3 Diramal Terjadi Antara Rusia vs China",
+        "link": "https://www.cnbcindonesia.com/news/20220712161257-4-355029/bukan-rusia-vs-as-pd-3-diramal-terjadi-antara-rusia-vs-china",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE2MTI1Ny00LTM1NTAyOS9idWthbi1ydXNpYS12cy1hcy1wZC0zLWRpcmFtYWwtdGVyamFkaS1hbnRhcmEtcnVzaWEtdnMtY2hpbmE=",
+        "description": " Seorang pakar militer menyebut perang dunia ketiga (PD 3) justru akan terjadi antara Rusia melawan China."
+    },
+    {
         "title": "Penyebab China Tak Lagi Jadi Berpenduduk Terbanyak di Dunia",
         "link": "https://www.cnbcindonesia.com/news/20220712181947-4-355074/penyebab-china-tak-lagi-jadi-berpenduduk-terbanyak-di-dunia",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE0NTg1NS04LTM1NDk5OS9qYWRpLW1pbGlhcmRlci1iZXJrYXQtaGV3YW4ta3VyYmFuLWludGlwLWJpc25pc255YS15dWs=",
         "description": " Jadi Miliarder Berkat Hewan Kurban? Seperti Apa ya Rasanya"
-    },
-    {
-        "title": "Erick Ungkap RI Rugi dari Kebiasaan Ekspor Via Singapura",
-        "link": "https://www.cnbcindonesia.com/news/20220712161934-4-355040/erick-ungkap-ri-rugi-dari-kebiasaan-ekspor-via-singapura",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE2MTkzNC00LTM1NTA0MC9lcmljay11bmdrYXAtcmktcnVnaS1kYXJpLWtlYmlhc2Fhbi1la3Nwb3ItdmlhLXNpbmdhcHVyYQ==",
-        "description": " Menteri BUMN Erick Thohir mengungkapkan fakta bahwa saat ini 95% kargo asal Pelabuhan Belawan, Medan, Sumatera Utara tidak langsung menuju negara tujuan."
-    },
-    {
-        "title": "Di Kota Tetangga DKI Ini Masih Ada Rumah Rp 200 Jutaan, Mau?",
-        "link": "https://www.cnbcindonesia.com/news/20220712160234-4-355028/di-kota-tetangga-dki-ini-masih-ada-rumah-rp-200-jutaan-mau",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE2MDIzNC00LTM1NTAyOC9kaS1rb3RhLXRldGFuZ2dhLWRraS1pbmktbWFzaWgtYWRhLXJ1bWFoLXJwLTIwMC1qdXRhYW4tbWF1",
-        "description": " Harga rumah di kawasan penyangga Jakarta seperti Depok sudah beranjak naik, rata-rata sudah berada di atas Rp 500 juta."
-    },
-    {
-        "title": "Duh! Ada 2.700 Lebih Pertambangan Tanpa Izin Di RI",
-        "link": "https://www.cnbcindonesia.com/news/20220712171211-8-355054/duh-ada-2700-lebih-pertambangan-tanpa-izin-di-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE3MTIxMS04LTM1NTA1NC9kdWgtYWRhLTI3MDAtbGViaWgtcGVydGFtYmFuZ2FuLXRhbnBhLWl6aW4tZGktcmk=",
-        "description": " ESDM mencatat terdaat lebih dari 2.700 lokasi pertambangan tanpa izin."
-    },
-    {
-        "title": "Ada D100, Program Biodiesel Hanya Cukup Sampai B40?",
-        "link": "https://www.cnbcindonesia.com/news/20220712162314-4-355036/ada-d100-program-biodiesel-hanya-cukup-sampai-b40",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE2MjMxNC00LTM1NTAzNi9hZGEtZDEwMC1wcm9ncmFtLWJpb2RpZXNlbC1oYW55YS1jdWt1cC1zYW1wYWktYjQw",
-        "description": " Pemerintah terus menggenjot pengembangan green diesel atau D100 sebagai bahan campuran untuk program bahan bakar nabati biodiesel"
     }
 ]
