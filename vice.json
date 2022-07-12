@@ -1,5 +1,12 @@
 [
     {
+        "title": "Seperti Inilah Pengalamanku Ikut Kursus Jadi Detektif Seharian Penuh",
+        "link": "https://www.vice.com/id_id/article/m7vmz3/kursus-detektif-swasta-untuk-melacak-kasus-perselingkuhan-dan-penipuan",
+        "image": "static/images/vice.png",
+        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9tN3ZtejMva3Vyc3VzLWRldGVrdGlmLXN3YXN0YS11bnR1ay1tZWxhY2FrLWthc3VzLXBlcnNlbGluZ2t1aGFuLWRhbi1wZW5pcHVhbg==",
+        "description": "Meski targetnya kadang cuma melacak suami yang diduga selingkuh, detektif swasta memerlukan kelihaian membuntuti orang tanpa ketahuan."
+    },
+    {
         "title": "Syarat Masuk D3 Universitas Brawijaya Diperdebatkan, Pendaftar Harus 'Good Looking'",
         "link": "https://www.vice.com/id_id/article/akeg7p/syarat-masuk-prodi-d3-keuangan-perbankan-universitas-brawijaya-harus-goodlooking-dikritik-netizen",
         "image": "static/images/vice.png",
@@ -61,12 +68,5 @@
         "image": "static/images/vice.png",
         "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS81ZDNiM2svcmlzZXQtaWRocy1zaW1wdWxrYW4tbWF5b3JpdGFzLXJlbWFqYS1sYWtpLWxha2ktZGFuLXBlcmVtcHVhbi1kaS1pbmRvbmVzaWEtdGlkYWstZ3VuYWthbi1hbGF0LWtvbnRyYXNlcHNpLXNhYXQtc2Vrcw==",
         "description": "Kemauan memakai kontrasepsi bahkan mendekati 0 persen di kategori lelaki usia 15-19 tahun. Dengan situasi macam ini, RKUHP dikritik karena berniat melarang sosialisasi alat kontrasepsi."
-    },
-    {
-        "title": "Lindungi Anak dari Pelecehan, Jepang Kembangkan Aplikasi Pendeteksi Foto Vulgar",
-        "link": "https://www.vice.com/id_id/article/z34xxw/lindungi-anak-dari-pelecehan-jepang-kembangkan-aplikasi-pendeteksi-foto-vulgar",
-        "image": "static/images/vice.png",
-        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS96MzR4eHcvbGluZHVuZ2ktYW5hay1kYXJpLXBlbGVjZWhhbi1qZXBhbmcta2VtYmFuZ2thbi1hcGxpa2FzaS1wZW5kZXRla3NpLWZvdG8tdnVsZ2Fy",
-        "description": "Jika ada foto anak di hape yang terdeteksi menampilkan organ intim, aplikasi itu akan langsung menghapusnya dan mengirim pemberitahuan kepada orang tua."
     }
 ]

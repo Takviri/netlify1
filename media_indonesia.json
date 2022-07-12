@@ -1,5 +1,33 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/506003/sandiaga-tiket-masuk-komodo-naik-jadi-rp375-juta",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2MDAzL3NhbmRpYWdhLXRpa2V0LW1hc3VrLWtvbW9kby1uYWlrLWphZGktcnAzNzUtanV0YQ==",
+        "description": "MENTERI Pariwisata dan Ekonomi Kreatif (Menparekraf) Sandiaga Salahuddin Uno mengumumkan kenaikan tarif masuk Taman Nasional Komodo&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/505992/sheila-dara-dan-reza-rahardian-beradu-peran-di-serial-yang-hilang-dalam-cinta",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTk5Mi9zaGVpbGEtZGFyYS1kYW4tcmV6YS1yYWhhcmRpYW4tYmVyYWR1LXBlcmFuLWRpLXNlcmlhbC15YW5nLWhpbGFuZy1kYWxhbS1jaW50YQ==",
+        "description": "PEMAIN film Indonesia, Sheila Dara, Dion Wiyoko, dan Reza Rahardian siap beradu peran dalam serial terbatas (limited series) berjudul&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/506002/presiden-salurkan-bansos-ke-masyarakat-dan-pedagang-di-subang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2MDAyL3ByZXNpZGVuLXNhbHVya2FuLWJhbnNvcy1rZS1tYXN5YXJha2F0LWRhbi1wZWRhZ2FuZy1kaS1zdWJhbmc=",
+        "description": "PRESIDEN Joko Widodo menyalurkan bantuan modal kerja kepada para pedagang di Pasar Sukamandi, Subang, Jawa Barat, Selasa (12/7).&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/505991/kak-seto-ingatkan-orangtua-agar-seletif-pilih-daycare",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1OTkxL2thay1zZXRvLWluZ2F0a2FuLW9yYW5ndHVhLWFnYXItc2VsZXRpZi1waWxpaC1kYXljYXJl",
+        "description": "KETUA Lembaga Perlindungan Anak Indonesia (LPAI) Prof Seto Mulyadi atau yang akrab disapa Kak Seto berpesan agar orangtua lebih selektif memilih daycare&#8230;"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/505988/sutradara-iran-jafar-panahi-ditangkap",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTk4MS9pcmFuLXBlY2F0LWRyYWdhbi1za29jaWMtZW1wYXQtYnVsYW4tc2ViZWx1bS1waWFsYS1kdW5pYQ==",
         "description": "DRAGAN Skocic telah diberhentikan sebagai pelatih kepala timnas Iran, empat bulan menjelang Piala Dunia 2022 di Qatar. Hal&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/505979/kang-seung-yoon-cedera-kaki-winner-putuskan-hiatus",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTk3OS9rYW5nLXNldW5nLXlvb24tY2VkZXJhLWtha2ktd2lubmVyLXB1dHVza2FuLWhpYXR1cw==",
-        "description": "AGENSI YG Entertainment mengumumkan grup K-pop Winner akan hiatus sementara karena Kang Seung Yoon mengalami cedera pergelangan kaki.&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505990/komisi-ii-dpr-temukan-faktor-penyebab-rtrw-di-kalteng-belum-berjalan-baik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU5OTAva29taXNpLWlpLWRwci10ZW11a2FuLWZha3Rvci1wZW55ZWJhYi1ydHJ3LWRpLWthbHRlbmctYmVsdW0tYmVyamFsYW4tYmFpaw==",
-        "description": "ANGGOTA Komisi II DPR RI Mardani Ali Sera menemukan tiga faktor yang menyebabkan Rencana Tata Ruang Wilayah (RTRW) di Provinsi Kalimantan Tengah belum berjalan dengan baik. Mardani menekankan,&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/505977/album-terbaru-enhypen-terjual-hampir-2-juta-kopi-dalam-tempo-sepekan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNTk3Ny9hbGJ1bS10ZXJiYXJ1LWVuaHlwZW4tdGVyanVhbC1oYW1waXItMi1qdXRhLWtvcGktZGFsYW0tdGVtcG8tc2VwZWthbg==",
-        "description": "ALBUM terbaru dari grup K-pop Enhypen, yang bertajuk MANIFESTO: DAY 1 telah sukses terjual hampir 2 juta kopi dalam sepekan.&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/505989/hadapi-pemilu-2024-dpr-dorong-penyelenggara-sosialisasikan-peraturan-kpu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDU5ODkvaGFkYXBpLXBlbWlsdS0yMDI0LWRwci1kb3JvbmctcGVueWVsZW5nZ2FyYS1zb3NpYWxpc2FzaWthbi1wZXJhdHVyYW4ta3B1",
-        "description": "PENYELENGGARAAN pemilihan umum (pemilu) 2024 akan segera berlangsung, oleh karena itu diharapkan persiapan pelaksanaannya dapat berjalan dengan lancar. Dalam kunjungan kerja (kunker) reses Komisi&#8230;"
     }
 ]
