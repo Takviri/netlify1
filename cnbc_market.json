@@ -1,5 +1,47 @@
 [
     {
+        "title": "Jeblok Lagi! Dolar Singapura Nyaris Tembus Rp 10.600",
+        "link": "https://www.cnbcindonesia.com/market/20220712104955-17-354887/jeblok-lagi-dolar-singapura-nyaris-tembus-rp-10600",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTA0OTU1LTE3LTM1NDg4Ny9qZWJsb2stbGFnaS1kb2xhci1zaW5nYXB1cmEtbnlhcmlzLXRlbWJ1cy1ycC0xMDYwMA==",
+        "description": " Nilai tukar dolar Singapura melawan rupiah mulai lepas dari rentang Rp 10.650 - Rp 10.750/US$"
+    },
+    {
+        "title": "Galau Sejak Pagi, IHSG Rehat di Jalur Hijau",
+        "link": "https://www.cnbcindonesia.com/market/20220712113904-17-354913/galau-sejak-pagi-ihsg-rehat-di-jalur-hijau",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTEzOTA0LTE3LTM1NDkxMy9nYWxhdS1zZWphay1wYWdpLWloc2ctcmVoYXQtZGktamFsdXItaGlqYXU=",
+        "description": " Indeks Harga Saham Gabungan (IHSG) berakhir menguat 0,14% pada penutupan perdagangan sesi I."
+    },
+    {
+        "title": "Rupiah Tertekan Hingga Tengah Hari, Mendekati Level Rp 15.000",
+        "link": "https://www.cnbcindonesia.com/market/20220712101606-17-354870/rupiah-tertekan-hingga-tengah-hari-mendekati-level-rp-15000",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTAxNjA2LTE3LTM1NDg3MC9ydXBpYWgtdGVydGVrYW4taGluZ2dhLXRlbmdhaC1oYXJpLW1lbmRla2F0aS1sZXZlbC1ycC0xNTAwMA==",
+        "description": " Kurs rupiah kembali terkoreksi di hadapan dolar AS hingga di pertengahan perdagangan\u00c2\u00a0hari ini."
+    },
+    {
+        "title": "Daftar Potensi Delisting Bertambah, Ada Milik Kresna Group",
+        "link": "https://www.cnbcindonesia.com/market/20220712105311-17-354894/daftar-potensi-delisting-bertambah-ada-milik-kresna-group",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTA1MzExLTE3LTM1NDg5NC9kYWZ0YXItcG90ZW5zaS1kZWxpc3RpbmctYmVydGFtYmFoLWFkYS1taWxpay1rcmVzbmEtZ3JvdXA=",
+        "description": " Giliran PT Danasupra Erapacific Tbk (DEFI) dan PT Magna Investama Mandiri Tbk (MGNA) yang masuk daftar tersebut."
+    },
+    {
+        "title": "Saham MLIA Stock Split Mulai 15 Juli 2022, Jadi Berapa?",
+        "link": "https://www.cnbcindonesia.com/market/20220712105404-17-354890/saham-mlia-stock-split-mulai-15-juli-2022-jadi-berapa",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTA1NDA0LTE3LTM1NDg5MC9zYWhhbS1tbGlhLXN0b2NrLXNwbGl0LW11bGFpLTE1LWp1bGktMjAyMi1qYWRpLWJlcmFwYQ==",
+        "description": " PT Mulia Industrindo Tbk (MLIA) bakal melakukan pemecahan nilai nominal saham (stock split) sebesar 1:5 mulai 15 Juli 2022"
+    },
+    {
+        "title": "Lahan Bekas Tambang Timah Bisa Jadi Apa?",
+        "link": "https://www.cnbcindonesia.com/market/20220712105302-17-354889/lahan-bekas-tambang-timah-bisa-jadi-apa",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTA1MzAyLTE3LTM1NDg4OS9sYWhhbi1iZWthcy10YW1iYW5nLXRpbWFoLWJpc2EtamFkaS1hcGE=",
+        "description": " PT Timah\u00c2\u00a0melakukan pengembalian fungsi lahan bekas tambang melalui reklamasi. Salah satunya lewat pembangunan Kampung Reklamasi Air Jangkang di Pulau Bangka"
+    },
+    {
         "title": "Pieter Tanuri Jual Saham Bank Ina Lagi Rp 34 M, ke Salim Grup",
         "link": "https://www.cnbcindonesia.com/market/20220712103357-17-354882/pieter-tanuri-jual-saham-bank-ina-lagi-rp-34-m-ke-salim-grup",
         "image": "static/images/cnbc_market.png",
@@ -21,52 +63,10 @@
         "description": " PT Timah memusatkan produksi sumber daya timahnya di pulau Bangka, yang terdiri dari penambangan, pengolahan, pemurnian, peleburan, hingga penjualan."
     },
     {
-        "title": "Saham BUMI Mengoda dan Melesat 5% Lebih, Ada Apa Nih?",
-        "link": "https://www.cnbcindonesia.com/market/20220712102147-17-354873/saham-bumi-mengoda-melesat-5-lebih-ada-apa-nih",
+        "title": "Saham BUMI Menggoda dan Melesat 5% Lebih, Ada Apa Nih?",
+        "link": "https://www.cnbcindonesia.com/market/20220712102147-17-354873/saham-bumi-menggoda-melesat-5-lebih-ada-apa-nih",
         "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTAyMTQ3LTE3LTM1NDg3My9zYWhhbS1idW1pLW1lbmdvZGEtbWVsZXNhdC01LWxlYmloLWFkYS1hcGEtbmlo",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTAyMTQ3LTE3LTM1NDg3My9zYWhhbS1idW1pLW1lbmdnb2RhLW1lbGVzYXQtNS1sZWJpaC1hZGEtYXBhLW5paA==",
         "description": " Harga saham BUMI melesat pada perdagangan hari ini"
-    },
-    {
-        "title": "Ini Sederet Perusahaan Johny Saputra, Anak Taipan Haji Isam",
-        "link": "https://www.cnbcindonesia.com/market/20220712102050-17-354877/ini-sederet-perusahaan-johny-saputra-anak-taipan-haji-isam",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTAyMDUwLTE3LTM1NDg3Ny9pbmktc2VkZXJldC1wZXJ1c2FoYWFuLWpvaG55LXNhcHV0cmEtYW5hay10YWlwYW4taGFqaS1pc2Ft",
-        "description": " Sosok Jhony Saputra jadi perbincangan usai namanya mencuat sebagai Komisaris Utama PT Jhonlin Agro Raya."
-    },
-    {
-        "title": "Harga IPO Dewi Shri Farmindo Rp 100/Saham, Listing 18 Juli",
-        "link": "https://www.cnbcindonesia.com/market/20220712100244-17-354863/harga-ipo-dewi-shri-farmindo-rp-100-saham-listing-18-juli",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTAwMjQ0LTE3LTM1NDg2My9oYXJnYS1pcG8tZGV3aS1zaHJpLWZhcm1pbmRvLXJwLTEwMC1zYWhhbS1saXN0aW5nLTE4LWp1bGk=",
-        "description": " PT Dewi Shri Farmindo Tbk (DEWI) menetapkan harga penawaran umum perdana saham (Initial Public Offering/IPO) sebesar Rp 100 per saham"
-    },
-    {
-        "title": "Pembangunan IKN Dimulai, Emiten Infrastruktur Kian Menarik?",
-        "link": "https://www.cnbcindonesia.com/market/20220712094805-19-354853/pembangunan-ikn-dimulai-emiten-infrastruktur-kian-menarik",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMDk0ODA1LTE5LTM1NDg1My9wZW1iYW5ndW5hbi1pa24tZGltdWxhaS1lbWl0ZW4taW5mcmFzdHJ1a3R1ci1raWFuLW1lbmFyaWs=",
-        "description": " Pembangunan IKN Dimulai Emiten Infrastruktur Kian Menarik?"
-    },
-    {
-        "title": "Dihantam Isu Resesi, Dolar Australia Jeblok ke Rp 10.000!",
-        "link": "https://www.cnbcindonesia.com/market/20220712100630-17-354866/dihantam-isu-resesi-dolar-australia-jeblok-ke-rp-10000",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTAwNjMwLTE3LTM1NDg2Ni9kaWhhbnRhbS1pc3UtcmVzZXNpLWRvbGFyLWF1c3RyYWxpYS1qZWJsb2sta2UtcnAtMTAwMDA=",
-        "description": " Kurs Dolar Australia jeblok melawan rupiah awal pekan kemarin dan berlanjut pada perdagangan Selasa (12/7/2022) pagi"
-    },
-    {
-        "title": "Kripto Ambles Lagi, Bitcoin Kembali Sentuh Kisaran US$ 19.000",
-        "link": "https://www.cnbcindonesia.com/market/20220712092844-17-354847/kripto-ambles-lagi-bitcoin-kembali-sentuh-kisaran-us--19000",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMDkyODQ0LTE3LTM1NDg0Ny9rcmlwdG8tYW1ibGVzLWxhZ2ktYml0Y29pbi1rZW1iYWxpLXNlbnR1aC1raXNhcmFuLXVzLS0xOTAwMA==",
-        "description": " Harga mayoritas kripto utama kembali terkoreksi, menandakan bahwa investor masih belum ingin mempertahankannya dalam waktu yang lebih lama."
-    },
-    {
-        "title": "Asing Larikan Dana Rp 12 T, Saham Ini Paling Banyak Dijual",
-        "link": "https://www.cnbcindonesia.com/market/20220712093929-17-354850/asing-larikan-dana-rp-12-t-saham-ini-paling-banyak-dijual",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMDkzOTI5LTE3LTM1NDg1MC9hc2luZy1sYXJpa2FuLWRhbmEtcnAtMTItdC1zYWhhbS1pbmktcGFsaW5nLWJhbnlhay1kaWp1YWw=",
-        "description": " Pengetatan kebijakan moneter global, khususnya yang dilakukan oleh bank sentral AS The Fed menjadi salah satu pendorong utama aksi tersebut."
     }
 ]
