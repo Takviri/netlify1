@@ -1,5 +1,19 @@
 [
     {
+        "title": "Mendag: Beli Minyak Goreng Mudah, Cukup Tunjukkan KTP",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220712201037-92-820680/mendag-beli-minyak-goreng-mudah-cukup-tunjukkan-ktp",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMjAxMDM3LTkyLTgyMDY4MC9tZW5kYWctYmVsaS1taW55YWstZ29yZW5nLW11ZGFoLWN1a3VwLXR1bmp1a2thbi1rdHA=",
+        "description": " Mendag Zulkifli Hasan mengungkapkan konsumen tak perlu menggunakan PeduliLindungi saat membeli minyak goreng, tetapi cukup menunjukkan KTP."
+    },
+    {
+        "title": "Daftar Negara yang Aman dari Ancaman Resesi, Bagaimana Indonesia?",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220712193732-532-820654/daftar-negara-yang-aman-dari-ancaman-resesi-bagaimana-indonesia",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMTkzNzMyLTUzMi04MjA2NTQvZGFmdGFyLW5lZ2FyYS15YW5nLWFtYW4tZGFyaS1hbmNhbWFuLXJlc2VzaS1iYWdhaW1hbmEtaW5kb25lc2lh",
+        "description": " Sejumlah negara mampu menekan risiko resesi ekonomi di tengah pandemi covid-19 dan perang Rusia dan Ukraina. Berikut daftarnya."
+    },
+    {
         "title": "Usai Diprotes, Bank di China Kembalikan Uang Nasabahnya",
         "link": "https://www.cnnindonesia.com/ekonomi/20220712115047-78-820376/usai-diprotes-bank-di-china-kembalikan-uang-nasabahnya",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMTMyMDAyLTg1LTgyMDQzMi9sdWh1dC1rYWppLW1vdG9yLWxpc3RyaWstamFkaS10cmFuc3BvcnRhc2ktZGktdGVtcGF0LXdpc2F0YS1yaQ==",
         "description": " Menko Marinves Luhut B Panjaitan berharap motor listrik bisa menjadi kendaraan utama di tempat-tempat wisata Indonesia."
-    },
-    {
-        "title": "Beda Krisis 1998, 2008, hingga era Perang Rusia-Ukraina",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220712151413-532-820528/beda-krisis-1998-2008-hingga-era-perang-rusia-ukraina",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMTUxNDEzLTUzMi04MjA1MjgvYmVkYS1rcmlzaXMtMTk5OC0yMDA4LWhpbmdnYS1lcmEtcGVyYW5nLXJ1c2lhLXVrcmFpbmE=",
-        "description": " Indonesia sudah mengalami empat kali krisis, yaitu 1998, 2008, pandemi covid 19 di 2020 dan krisis ekonomi akibat perang Rusia-Ukraina."
-    },
-    {
-        "title": "Luhut Minta Kantor Pusat Grab Pindah ke Indonesia",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220712110536-92-820361/luhut-minta-kantor-pusat-grab-pindah-ke-indonesia",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMTEwNTM2LTkyLTgyMDM2MS9sdWh1dC1taW50YS1rYW50b3ItcHVzYXQtZ3JhYi1waW5kYWgta2UtaW5kb25lc2lh",
-        "description": " Menko Marves Luhut Binsar Panjaitan meminta Grab untuk memindahkan markasnya ke dalam negeri mengingat aplikasi itu lebih banyak mendapat untung dari Indonesia."
     }
 ]
