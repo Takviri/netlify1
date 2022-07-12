@@ -1,5 +1,12 @@
 [
     {
+        "title": "AP I Siap Implementasikan Aturan Perjalanan Udara Terbaru",
+        "link": "https://www.jawapos.com/nasional/12/07/2022/ap-i-siap-implementasikan-aturan-perjalanan-udara-terbaru/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMTIvMDcvMjAyMi9hcC1pLXNpYXAtaW1wbGVtZW50YXNpa2FuLWF0dXJhbi1wZXJqYWxhbmFuLXVkYXJhLXRlcmJhcnUv",
+        "description": "PT Angkasa Pura I (Persero) menyatakan siap mengimplementasikan aturan perjalanan udara terbaru seiring dengan terbitnya Surat Edaran (SE) Kemenhub"
+    },
+    {
         "title": "Anggota DPR Harap Pemerintah Tak Naikkan Harga BBM Bersubsidi",
         "link": "https://www.jawapos.com/nasional/12/07/2022/anggota-dpr-harap-pemerintah-tak-naikkan-harga-bbm-bersubsidi/?page=all",
         "image": "static/images/jawapos_nasional.png",
@@ -61,12 +68,5 @@
         "image": "static/images/jawapos_nasional.png",
         "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvaHVrdW0ta3JpbWluYWwvMTIvMDcvMjAyMi9rYXBvbHJpLWFraGlybnlhLWFuZ2thdC1iaWNhcmEtc29hbC1wZW5lbWJha2FuLWRpLXJ1bWFoLWlyamVuLXNhbWJvLw==",
         "description": "Kapolri Jenderal Pol. Listyo Sigit Prabowo akhirnya memberi pernyataan terkait kasus baku tembak anggota polri di rumah Kadiv Propam Polri Irjen Fredy Sambo."
-    },
-    {
-        "title": "Kapolri Janji Polisi Transparan Usut Baku Tembak di Rumah Kadiv Propam",
-        "link": "https://www.jawapos.com/nasional/hukum-kriminal/12/07/2022/kapolri-janji-polisi-transparan-usut-baku-tembak-di-rumah-kadiv-propam/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvaHVrdW0ta3JpbWluYWwvMTIvMDcvMjAyMi9rYXBvbHJpLWphbmppLXBvbGlzaS10cmFuc3BhcmFuLXVzdXQtYmFrdS10ZW1iYWstZGktcnVtYWgta2FkaXYtcHJvcGFtLw==",
-        "description": "Kapolri Jenderal Pol. Listyo Sigit Prabowo menyatakan, pihaknya bakal transparan dan objektif dalam menyelesaikan kasus baku tembak antaranggota kepolisian"
     }
 ]

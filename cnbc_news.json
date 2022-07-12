@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sini Kumpul! Ada Angin Segar Soal Harga Gandum Dunia",
+        "link": "https://www.cnbcindonesia.com/news/20220712210158-4-355095/sini-kumpul-ada-angin-segar-soal-harga-gandum-dunia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjIxMDE1OC00LTM1NTA5NS9zaW5pLWt1bXB1bC1hZGEtYW5naW4tc2VnYXItc29hbC1oYXJnYS1nYW5kdW0tZHVuaWE=",
+        "description": " Menteri Pertahanan Turki Hulusi Akar memberikan angin segar terkait persoalan gandum dunia."
+    },
+    {
         "title": "Wih! Negara Sepi Penduduk Ini Ternyata Kaya Raya",
         "link": "https://www.cnbcindonesia.com/news/20220712202545-4-355091/wih-negara-sepi-penduduk-ini-ternyata-kaya-raya",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE4MDQ0Ni00LTM1NTA3MC9oZWJvaC1rZXNlaGF0YW4tYmlkZW4tZGlsYXBvcmthbi1tZW1idXJ1ay10dW5kYS1rZS1hcmFi",
         "description": " Kondisi kesehatan Presiden Amerika Serikat (AS) Joe Biden kembali menjadi sorotan. Ia dilaporkan sempat akan menunda kunjungannya ke Arab Saudi."
-    },
-    {
-        "title": "IMF Minta Bank Sentral Hati-Hati Terkait Aset Kripto",
-        "link": "https://www.cnbcindonesia.com/news/20220712172123-8-355058/imf-minta-bank-sentral-hati-hati-terkait-aset-kripto",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE3MjEyMy04LTM1NTA1OC9pbWYtbWludGEtYmFuay1zZW50cmFsLWhhdGktaGF0aS10ZXJrYWl0LWFzZXQta3JpcHRv",
-        "description": " Bank sental memberi perhatian khusus terhadap perkembangan aset kripto pada FMCBG Meeting G20 di Bali."
     }
 ]

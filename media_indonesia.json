@@ -1,6 +1,48 @@
 [
     {
         "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/506224/sebagian-besar-harga-produk-pertambangan-masih-turun",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjIyNC9zZWJhZ2lhbi1iZXNhci1oYXJnYS1wcm9kdWstcGVydGFtYmFuZ2FuLW1hc2loLXR1cnVu",
+        "description": "PRODUK pertambangan yang dikenakan bea keluar (BK) pada periode Juli 2022, sebagian besar menunjukkan tren penurunan harga dibandingkan periode sebelumnya.&nbsp; Adapun penurunan harga ini disebabkan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/506221/pertambangan-tanpa-izin-perlu-menjadi-perhatian-bersama",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjIyMS9wZXJ0YW1iYW5nYW4tdGFucGEtaXppbi1wZXJsdS1tZW5qYWRpLXBlcmhhdGlhbi1iZXJzYW1h",
+        "description": "Pertambangan Tanpa Izin atau PETI terus menjadi perhatian Pemerintah. Diperlukan upaya bersama dan dukungan seluruh pihak untuk mendorong penanganan isu PETI beserta dampak yang ditimbulkan.&nbsp;&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/506220/hindari-komentar-dan-konten-negatif-warganet-wajib-paham-dan-terapkan-netiket",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA2MjIwL2hpbmRhcmkta29tZW50YXItZGFuLWtvbnRlbi1uZWdhdGlmLXdhcmdhbmV0LXdhamliLXBhaGFtLWRhbi10ZXJhcGthbi1uZXRpa2V0",
+        "description": "DUNIA maya tetap memiliki aturan tersendiri berdasar hukum yang berlaku. Siapapun yang berselancar di dunia maya tidak bisa bertindak sesuka hati dan tetap dibutuhkan etika berinternet. Apabila melanggar&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/506218/menteri-pertanian-australia-akan-bantu-indonesia-tangani-pmk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNjIxOC9tZW50ZXJpLXBlcnRhbmlhbi1hdXN0cmFsaWEtYWthbi1iYW50dS1pbmRvbmVzaWEtdGFuZ2FuaS1wbWs=",
+        "description": "MENTERI Pertanian, Perikanan, dan Kehutanan Australia Murray Watt akan menggelar pertemuan tatap muka dengan mitranya di Indonesia pekan ini, untuk membantu Indonesia menghentikan penyebaran penyakit&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/506219/binance-nft-luncurkan-fitur-pencetakan-atau-minting-nff",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA2MjE5L2JpbmFuY2UtbmZ0LWx1bmN1cmthbi1maXR1ci1wZW5jZXRha2FuLWF0YXUtbWludGluZy1uZmY=",
+        "description": "PLATFORM lokapasar Non-Fungible Token (NFT), Binance NFT memperkenalkan fitur Pencetakan NFT pada 30 Juni. Fitur baru ini memungkinkan pengguna untuk membuat koleksi NFT mereka sendiri dan mencetak&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/506216/menteri-pupr-renovasi-tmii-tuntas-akhir-juli-ini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2MjE2L21lbnRlcmktcHVwci1yZW5vdmFzaS10bWlpLXR1bnRhcy1ha2hpci1qdWxpLWluaQ==",
+        "description": "MENTERI Pekerjaan Umum dan Perumahan Rakyat (PUPR) Basuki Hadimuljono meninjau renovasi sarana dan prasarana di kawasan Taman Mini Indonesia Indah (TMII) di Jakarta, Selasa (12/7). Ia menyatakan, saat&#8230;"
+    },
+    {
+        "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/506215/saham-as-dibuka-lebih-tinggi-jelang-laporan-pendapatan-bank",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjIxNS9zYWhhbS1hcy1kaWJ1a2EtbGViaWgtdGluZ2dpLWplbGFuZy1sYXBvcmFuLXBlbmRhcGF0YW4tYmFuaw==",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjIxMi91ZS1iZXJpLWxhbXB1LWhpamF1LWtyb2FzaWEtZ2FidW5nLWRlbmdhbi1ldXJvLTIwMjM=",
         "description": "PARA menteri keuangan Uni Eropa (UE) pada Selasa (12/7) memberi Kroasia lampu hijau terakhir untuk mengadopsi mata uang tunggal euro pada 1 Januari 2023. Peralihan Kroasia dari kuna ke euro pada 2023&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/506210/perlu-strategi-investasi-di-tengah-kecenderungan-peningkatan-inflasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjIxMC9wZXJsdS1zdHJhdGVnaS1pbnZlc3Rhc2ktZGktdGVuZ2FoLWtlY2VuZGVydW5nYW4tcGVuaW5na2F0YW4taW5mbGFzaQ==",
-        "description": "PERANG Rusia-Ukraina yang berkepanjangan dan situasi Covid-19 di Tiongkok belum menunjukkan tanda-tanda akan berakhir. Hal itu menjadi tantangan bagi para pelaku ekonomi dan investor. Memasuki&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/506209/lewat-warmindo-ganjar-milenial-lampung-sediakan-wadah-untuk-anak-muda-dan-umkm",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2MjA5L2xld2F0LXdhcm1pbmRvLWdhbmphci1taWxlbmlhbC1sYW1wdW5nLXNlZGlha2FuLXdhZGFoLXVudHVrLWFuYWstbXVkYS1kYW4tdW1rbQ==",
-        "description": "RATUSAN mahasiswa dan milenial yang tergabung dalam Ganjar Milenial Lampung meluncurkan Waroeng Mie-Lenial Indonesia (WARMINDO) di Jalan Pangeran Antasari No 150 ABC, Kedamaian, Bandar Lampung. WARMINDO&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/506208/pulih-dari-cedera-leodaniel-tampil-prima-di-babak-pertama",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDYyMDgvcHVsaWgtZGFyaS1jZWRlcmEtbGVvZGFuaWVsLXRhbXBpbC1wcmltYS1kaS1iYWJhay1wZXJ0YW1h",
-        "description": "GANDA putra Indonesia Leo Rolly Carnando/Daniel Marthin tampil prima di babak pertama Singapore Terbuka 2022, Selasa (12/7), setelah sebelumnya sempat absen pada dua turnamen di Malaysia akibat mengalami&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/506207/fulham-puas-dapatkan-gelandang-mu-asal-brasil",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjIwNy9mdWxoYW0tcHVhcy1kYXBhdGthbi1nZWxhbmRhbmctbXUtYXNhbC1icmFzaWw=",
-        "description": "FULHAM secara resmi mengamankan jasa gelandang serang Andreas Pereira dari Manchester United pada bursa transfer pemain musim panas ini. Dikutip dari Sky Sports, Selasa (12/7), dikabarkan Fulham&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/506206/15-usaha-sosial-lolos-ajang-hyundai-start-up-challenge-indonesia-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA2MjA2LzE1LXVzYWhhLXNvc2lhbC1sb2xvcy1hamFuZy1oeXVuZGFpLXN0YXJ0LXVwLWNoYWxsZW5nZS1pbmRvbmVzaWEtMjAyMg==",
-        "description": "SEBANYAK 15 usaha sosial terpilih untuk Hyundai Start-up Challenge Indonesia 2022 (HSC 2022) pada tanggal 6 Juni lalu. Hyundai Motor Group mengundang mereka untuk mengikuti Program&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/506205/pekan-depan-presiden-rusia-putin-berkunjung-ke-iran",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNjIwNS9wZWthbi1kZXBhbi1wcmVzaWRlbi1ydXNpYS1wdXRpbi1iZXJrdW5qdW5nLWtlLWlyYW4=",
-        "description": "PRESIDEN Rusia Vladimir Putin Selasa depan (19/7) akan berkunjung ke Iran dan melakukan pertemuan dengan Presiden Iran Ebrahim Raisi, sekaligus dengan Presiden Turki Tayyip Erdogan, untuk membahas&#8230;"
     }
 ]
