@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/506008/jokowi-ingatkan-mendag-agar-fokus-urus-harga-minyak-goreng",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjAwOC9qb2tvd2ktaW5nYXRrYW4tbWVuZGFnLWFnYXItZm9rdXMtdXJ1cy1oYXJnYS1taW55YWstZ29yZW5n",
+        "description": "PRESIDEN Joko Widodo meminta agar para menterinya fokus bekerja, termasuk Menteri Perdagangan Zulkifli Hasan yang dituntutnya&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/505994/perpustakaan-umum-tim-kembali-dibuka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDU5OTQvcGVycHVzdGFrYWFuLXVtdW0tdGltLWtlbWJhbGktZGlidWth",
+        "description": "PENGELOLA membuka kembali Perpustakaan Umum Taman Ismail Marzuki (TIM) DKI Jakarta untuk umum setelah diresmikan oleh Gubernur&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/505993/bolden-dan-abraham-siap-tampil-di-fiba-asia-cup",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDU5OTMvYm9sZGVuLWRhbi1hYnJhaGFtLXNpYXAtdGFtcGlsLWRpLWZpYmEtYXNpYS1jdXA=",
+        "description": "MANAJER timnas bola basket Indonesia Jeremy Santoso memastikan Marques Bolden dan Abraham Damar Grahita dalam kondisi fit dan diyakini dapat menunjukkan performa terbaik di ajang <a href=\"http://mediaindonesia.com/tag/fiba-asia-cup\"&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506006/zulhas-bagikan-minyak-goreng-gratis-ini-dalih-pan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDYwMDYvenVsaGFzLWJhZ2lrYW4tbWlueWFrLWdvcmVuZy1ncmF0aXMtaW5pLWRhbGloLXBhbg==",
+        "description": "PARTAI Amanat Nasional (PAN) membela pimpinan mereka Zulkifli Hasan (Zulhas) soal polemik bagi-bagi minyak goreng gratis sembari&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/506005/positivity-rate-13-kasus-covid-19-jakarta-10462",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDYwMDUvcG9zaXRpdml0eS1yYXRlLTEzLWthc3VzLWNvdmlkLTE5LWpha2FydGEtMTA0NjI=",
+        "description": "PEMERINTAH Provinsi (Pemprov) DKI Jakarta terus melaporkan tren kasus baru covid-19. Data terbaru, per Senin (12/7), kasus aktif&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/506004/transporta-terpilih-ikuti-inkubasi-startup-studio-indonesia-batch-4",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA2MDA0L3RyYW5zcG9ydGEtdGVycGlsaWgtaWt1dGktaW5rdWJhc2ktc3RhcnR1cC1zdHVkaW8taW5kb25lc2lhLWJhdGNoLTQ=",
+        "description": "PERUSAHAAN&nbsp;startup&nbsp;teknologi di&nbsp;Indonesia, Transporta, terpilih menjadi salah satu dari 15 perusahaan startup untuk berpartisipasi dalam&nbsp;<a href=\"https://startupstudio.id/\"&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/506003/sandiaga-tiket-masuk-komodo-naik-jadi-rp375-juta",
         "image": "static/images/media_indonesia.png",
@@ -22,51 +64,9 @@
     },
     {
         "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/505991/kak-seto-ingatkan-orangtua-agar-seletif-pilih-daycare",
+        "link": "https://m.mediaindonesia.com/humaniora/440920/konsep-konsep-dasar-geografi-dan-contoh",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA1OTkxL2thay1zZXRvLWluZ2F0a2FuLW9yYW5ndHVhLWFnYXItc2VsZXRpZi1waWxpaC1kYXljYXJl",
-        "description": "KETUA Lembaga Perlindungan Anak Indonesia (LPAI) Prof Seto Mulyadi atau yang akrab disapa Kak Seto berpesan agar orangtua lebih selektif memilih daycare&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/505988/sutradara-iran-jafar-panahi-ditangkap",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNTk4OC9zdXRyYWRhcmEtaXJhbi1qYWZhci1wYW5haGktZGl0YW5na2Fw",
-        "description": "SUTRADARA Iran Jafar Panahi, Senin (11/7) ditangkap pemerintah 'Negeri Para Mullah' itu. Panahi menjadi sutradara ketiga yang&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/505984/crystal-palace-datangkan-doucoure-dari-lens",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTk4NC9jcnlzdGFsLXBhbGFjZS1kYXRhbmdrYW4tZG91Y291cmUtZGFyaS1sZW5z",
-        "description": "CRYSTAL Palace mendatangkan gelandang Mali Cheick Doucoure dari klub Ligue 1 RC Lens dengan kontrak selama lima tahun. Hal&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/505997/semangat-pengorbanan-untuk-penguatan-kohesi-sosial-umat-dan-bangsa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDU5OTcvc2VtYW5nYXQtcGVuZ29yYmFuYW4tdW50dWstcGVuZ3VhdGFuLWtvaGVzaS1zb3NpYWwtdW1hdC1kYW4tYmFuZ3Nh",
-        "description": "\u00d8\u00a7\u00d9\u008e\u00d9\u0084\u00d8\u00b3\u00d9\u0091\u00d9\u008e\u00d9\u0084\u00d8\u00a7\u00d9\u008e\u00d9\u0085\u00d9\u008f \u00d8\u00b9\u00d9\u008e\u00d9\u0084\u00d9\u008e\u00d9\u008a\u00d9\u0092\u00d9\u0083\u00d9\u008f\u00d9\u0085\u00d9\u0092 \u00d9\u0088\u00d9\u008e\u00d8\u00b1\u00d9\u008e\u00d8\u00ad\u00d9\u0092\u00d9\u0085\u00d9\u008e\u00d8\u00a9\u00d9\u008f \u00d8\u00a7\u00d9\u0084\u00d9\u0084\u00d9\u0087\u00d9\u0090 \u00d9\u0088\u00d9\u008e\u00d8\u00a8\u00d9\u008e\u00d8\u00b1\u00d9\u008e\u00d9\u0083\u00d9\u008e\u00d8\u00a7\u00d8\u00aa\u00d9\u008f\u00d9\u0087\u00d9\u008f &nbsp; \u00d8\u00a7\u00d9\u008e\u00d9\u0084\u00d9\u0084\u00d9\u0087\u00d9\u008f \u00d8\u00a3\u00d9\u008e\u00d9\u0083\u00d9\u0092\u00d8\u00a8\u00d9\u008e\u00d8\u00b1\u00d9\u008f\u00d8\u008c \u00d8\u00a7\u00d9\u008e\u00d9\u0084\u00d9\u0084\u00d9\u0087\u00d9\u008f \u00d8\u00a3\u00d9\u008e\u00d9\u0083\u00d9\u0092\u00d8\u00a8\u00d9\u008e\u00d8\u00b1\u00d9\u008f\u00d8\u008c \u00d8\u00a7\u00d9\u008e\u00d9\u0084\u00d9\u0084\u00d9\u0087\u00d9\u008f \u00d8\u00a3\u00d9\u008e\u00d9\u0083\u00d9\u0092\u00d8\u00a8\u00d9\u008e\u00d8\u00b1\u00d9\u008f\u00d8\u008c \u00d8\u00a7\u00d9\u008e\u00d9\u0084\u00d9\u0084\u00d9\u0087\u00d9\u008f \u00d8\u00a3\u00d9\u008e\u00d9\u0083\u00d9\u0092\u00d8\u00a8\u00d9\u008e\u00d8\u00b1\u00d9\u008f\u00d8\u008c \u00d8\u00a7\u00d9\u008e\u00d9\u0084\u00d9\u0084\u00d9\u0087\u00d9\u008f \u00d8\u00a3\u00d9\u008e\u00d9\u0083\u00d9\u0092\u00d8\u00a8\u00d9\u008e\u00d8\u00b1\u00d9\u008f\u00d8\u008c \u00d8\u00a7\u00d9\u008e\u00d9\u0084\u00d9\u0084\u00d9\u0087\u00d9\u008f \u00d8\u00a3\u00d9\u008e\u00d9\u0083\u00d9\u0092\u00d8\u00a8\u00d9\u008e\u00d8\u00b1\u00d9\u008f\u00d8\u008c \u00d8\u00a7\u00d9\u008e\u00d9\u0084\u00d9\u0084\u00d9\u0087\u00d9\u008f \u00d8\u00a3\u00d9\u008e\u00d9\u0083\u00d9\u0092\u00d8\u00a8\u00d9\u008e\u00d8\u00b1\u00d9\u008f\u00d8\u008c \u00d8\u00a7\u00d9\u008e\u00d9\u0084\u00d9\u0084\u00d9\u0087\u00d9\u008f&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/505996/tujuh-solusi-hemat-terlengkap-untuk-bisnis-umkm",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA1OTk2L3R1anVoLXNvbHVzaS1oZW1hdC10ZXJsZW5na2FwLXVudHVrLWJpc25pcy11bWtt",
-        "description": "BERDASARKAN data pelanggan Exabytes Indonesia, bahwa dari 47% total pelanggan yang merupakan pemilik bisnis atau usaha mikro kecil dan menengah (UMKM), 38% di antaranya sudah mentransformasi bisnis&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/505983/fulham-datangkan-pereira-dari-manchester-united",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTk4My9mdWxoYW0tZGF0YW5na2FuLXBlcmVpcmEtZGFyaS1tYW5jaGVzdGVyLXVuaXRlZA==",
-        "description": "FULHAM merekrut gelandang Andreas Pereira dari Manchester United dengan kontrak empat tahun. Hal itu dikatakan klub promosi Liga Primer&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/505981/iran-pecat-dragan-skocic-empat-bulan-sebelum-piala-dunia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNTk4MS9pcmFuLXBlY2F0LWRyYWdhbi1za29jaWMtZW1wYXQtYnVsYW4tc2ViZWx1bS1waWFsYS1kdW5pYQ==",
-        "description": "DRAGAN Skocic telah diberhentikan sebagai pelatih kepala timnas Iran, empat bulan menjelang Piala Dunia 2022 di Qatar. Hal&#8230;"
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNDQwOTIwL2tvbnNlcC1rb25zZXAtZGFzYXItZ2VvZ3JhZmktZGFuLWNvbnRvaA==",
+        "description": "GEOGRAFI adalah jenis ilmu pengetahuan yang mempelajari hubungan manusia dan alam.&nbsp; Istilah geografi berasal dari bahasa Yunani, yaitu &quot;Geo&quot; dan &quot;Graphein&quot;. Geo artinya&#8230;"
     }
 ]
