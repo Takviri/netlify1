@@ -1,5 +1,33 @@
 [
     {
+        "title": "Suka Tak Suka, Mau Tak Mau, Harga Gas Memang Harus Naik...",
+        "link": "https://www.cnbcindonesia.com/news/20220712112908-4-354917/suka-tak-suka-mau-tak-mau-harga-gas-memang-harus-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjExMjkwOC00LTM1NDkxNy9zdWthLXRhay1zdWthLW1hdS10YWstbWF1LWhhcmdhLWdhcy1tZW1hbmctaGFydXMtbmFpaw==",
+        "description": " Harga Elpiji 3 kg tidak pernah naik selama 15 tahun sehingga membebani anggaran negara."
+    },
+    {
+        "title": "Waspada! Ada Mutasi Baru Covid-19 Lagi",
+        "link": "https://www.cnbcindonesia.com/news/20220712095504-8-354859/waspada-ada-mutasi-baru-covid-19-lagi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjA5NTUwNC04LTM1NDg1OS93YXNwYWRhLWFkYS1tdXRhc2ktYmFydS1jb3ZpZC0xOS1sYWdp",
+        "description": " Sebuah mutan baru Covid-19 yang dikenal dengan BA.2.75 kembali ditemukan secara signifikan di India dan Amerika Serikat"
+    },
+    {
+        "title": "Jeng Jeng.. Ini Dia Kendaraan yang Dilarang Isi Solar Subsidi",
+        "link": "https://www.cnbcindonesia.com/news/20220712130246-4-354955/jeng-jeng-ini-dia-kendaraan-yang-dilarang-isi-solar-subsidi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjEzMDI0Ni00LTM1NDk1NS9qZW5nLWplbmctaW5pLWRpYS1rZW5kYXJhYW4teWFuZy1kaWxhcmFuZy1pc2ktc29sYXItc3Vic2lkaQ==",
+        "description": " Dalam draft yang diterima CNBC Indonesia, terdapat empat kendaraan yang dilarang isi Solar Subsidi"
+    },
+    {
+        "title": "Kacau! Ada 2.700 Lebih Pertambangan Tanpa Izin di RI",
+        "link": "https://www.cnbcindonesia.com/news/20220712113841-4-354912/kacau-ada-2700-lebih-pertambangan-tanpa-izin-di-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjExMzg0MS00LTM1NDkxMi9rYWNhdS1hZGEtMjcwMC1sZWJpaC1wZXJ0YW1iYW5nYW4tdGFucGEtaXppbi1kaS1yaQ==",
+        "description": " Kementerian ESDM mencatat ada sebanyak 2.700 lebih Pertambangan Tanpa Izin (PETI) di seluruh Indonesia"
+    },
+    {
         "title": "Jerman Heboh Skandal Seks, Pemerkosaan di Pesta Kanselir Olaf",
         "link": "https://www.cnbcindonesia.com/news/20220712122818-4-354932/jerman-heboh-skandal-seks-pemerkosaan-di-pesta-kanselir-olaf",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjEyMTMwNC04LTM1NDkyNi9tZW5wYXJla3JhZi1iYWthbC1iZXJpa2FuLWJlYXNpc3dhLWtlLWFiZy1jaXRheWFtLWJvam9uZw==",
         "description": " Menparekraf Bakal Berikan Beasiswa Ke \"ABG Citayam-Bojong\"?"
-    },
-    {
-        "title": "Adu Kekuatan Tempur Rusia Vs Amerika, Siapa Paling Unggul?",
-        "link": "https://www.cnbcindonesia.com/news/20220712095003-4-354854/adu-kekuatan-tempur-rusia-vs-amerika-siapa-paling-unggul",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjA5NTAwMy00LTM1NDg1NC9hZHUta2VrdWF0YW4tdGVtcHVyLXJ1c2lhLXZzLWFtZXJpa2Etc2lhcGEtcGFsaW5nLXVuZ2d1bA==",
-        "description": " Perbandingan kekuatan militer AS dan Rusia."
-    },
-    {
-        "title": "Potensi 'Harta Karun' Migas yang Perusahaan Inggris Temukan",
-        "link": "https://www.cnbcindonesia.com/news/20220712115957-4-354925/potensi-harta-karun-migas-yang-perusahaan-inggris-temukan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjExNTk1Ny00LTM1NDkyNS9wb3RlbnNpLWhhcnRhLWthcnVuLW1pZ2FzLXlhbmctcGVydXNhaGFhbi1pbmdncmlzLXRlbXVrYW4=",
-        "description": " Premier Oil akhirnya menemukan cadangan migas di Blok Andaman II di Lepas Pantai Aceh"
-    },
-    {
-        "title": "Viral Muka Jokowi di Pecahan Rp100, BI: Itu Pasti Hoaks!",
-        "link": "https://www.cnbcindonesia.com/news/20220712111629-4-354904/viral-muka-jokowi-di-pecahan-rp100-bi-itu-pasti-hoaks",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjExMTYyOS00LTM1NDkwNC92aXJhbC1tdWthLWpva293aS1kaS1wZWNhaGFuLXJwMTAwLWJpLWl0dS1wYXN0aS1ob2Frcw==",
-        "description": " Bank Indonesia (BI) memberikan respons terkait rupiah pecahan Rp 100 dengan muka Presiden Joko Widodo (Jokowi)"
-    },
-    {
-        "title": "Eropa Makin Ngeri, Rusia Matikan Selamanya Gas Nord Stream 1?",
-        "link": "https://www.cnbcindonesia.com/news/20220712114949-4-354919/eropa-makin-ngeri-rusia-matikan-selamanya-gas-nord-stream-1",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjExNDk0OS00LTM1NDkxOS9lcm9wYS1tYWtpbi1uZ2VyaS1ydXNpYS1tYXRpa2FuLXNlbGFtYW55YS1nYXMtbm9yZC1zdHJlYW0tMQ==",
-        "description": " Eropa makin terancam krisis gas. Sejak kemarin, Senin (11/7/2022), pipa terbesar yang membawa gas dari Rusia dimatikan sementara oleh Rusia."
     }
 ]
