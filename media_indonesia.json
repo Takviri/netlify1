@@ -1,6 +1,20 @@
 [
     {
         "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/506598/ini-cara-cegah-risiko-penyakit-kardiovaskular-pada-anak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2NTk4L2luaS1jYXJhLWNlZ2FoLXJpc2lrby1wZW55YWtpdC1rYXJkaW92YXNrdWxhci1wYWRhLWFuYWs=",
+        "description": "PENYAKIT kardiovaskular (PKV) merupakan penyebab kematian utama di seluruh dunia, khususnya di negara berpenghasilan rendah dan&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/506597/hakim-as-tolak-permintaan-heard-untuk-gelar-sidang-ulang-melawan-depp",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNjU5Ny9oYWtpbS1hcy10b2xhay1wZXJtaW50YWFuLWhlYXJkLXVudHVrLWdlbGFyLXNpZGFuZy11bGFuZy1tZWxhd2FuLWRlcHA=",
+        "description": "SEORANG hakim di Virginia, Amerika Serikat (AS), Rabu (13/7), menolak permintaan aktris Amber Heard untuk menggelar sidang pencemaran&#8230;"
+    },
+    {
+        "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/506600/inarie-expo-2022-pamerkan-hasil-riset-dan-inovasi-terbaik-indonesia",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2NjAwL2luYXJpZS1leHBvLTIwMjItcGFtZXJrYW4taGFzaWwtcmlzZXQtZGFuLWlub3Zhc2ktdGVyYmFpay1pbmRvbmVzaWE=",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2NTkyL25la2FkLWJhd2EtYWlyLXphbXphbS1wdWx1aGFuLWtvcGVyLWplbWFhaC1oYWppLWluZG9uZXNpYS1kaWJvbmdrYXI=",
         "description": "PULUHAN koper jamaah haji Indonesia terpaksa dibongkar petugas Air Gate, perusahaan kargo yang ditunjuk maskapai Garuda Indonesia untuk&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/506591/middleton-jalani-operasi-pergelangan-tangan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDY1OTEvbWlkZGxldG9uLWphbGFuaS1vcGVyYXNpLXBlcmdlbGFuZ2FuLXRhbmdhbg==",
-        "description": "FORWARD Milwaukee Bucks Khris Middleton menjalani operasi, awal bulan ini, untuk memperbaiki ligamen yang sobek pada pergelangan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/506590/valencia-datangkan-castillejo-dari-ac-milan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjU5MC92YWxlbmNpYS1kYXRhbmdrYW4tY2FzdGlsbGVqby1kYXJpLWFjLW1pbGFu",
-        "description": "KLUB La Liga Valencia secara resmi telah mendaratkan penyerang sayap Samuel Castillejo dari AC Milan dengan status bebas transfer&#8230;"
     }
 ]
