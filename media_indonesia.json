@@ -1,5 +1,61 @@
 [
     {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/506587/budaya-bermedia-digital-alami-banyak-tantangan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA2NTg3L2J1ZGF5YS1iZXJtZWRpYS1kaWdpdGFsLWFsYW1pLWJhbnlhay10YW50YW5nYW4=",
+        "description": "Budaya dalam bermedia digital saat ini mengalami berbagai tantangan. Seperti mengaburnya wawasan kebangsaan, menipisnya nilai kesopanan dan kesantunan, dan menghilangnya budaya Indonesia karena media&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/506586/polisi-tangkap-pencuri-besi-tower-listrik-pln-di-bengkulu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2NTg2L3BvbGlzaS10YW5na2FwLXBlbmN1cmktYmVzaS10b3dlci1saXN0cmlrLXBsbi1kaS1iZW5na3VsdQ==",
+        "description": "POLRES Rejang Lebong, Bengkulu, menangkap dua orang terduga pencuri dan penadah besi penyangga menara tower jaringan listrik milik PT PLN (Persero). Kapolres Rejang Lebong AKBP Tonny Kurniawan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/506585/borobudur-marathon-2022-kembali-berlakukan-sistem-ballot",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2NTg1L2Jvcm9idWR1ci1tYXJhdGhvbi0yMDIyLWtlbWJhbGktYmVybGFrdWthbi1zaXN0ZW0tYmFsbG90",
+        "description": "KOMPETISI lari bergengsi Borobudur Marathon 2022 kembali menerapkan sistem ballot atau pemilihan peserta melalui sistem acak. Panitia Pelaksana Borobudur Marathon 2022 Budhi Sarwiadi menyampaikan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/506582/pemerintah-yakin-penyaluran-kur-tahun-ini-capai-target",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjU4Mi9wZW1lcmludGFoLXlha2luLXBlbnlhbHVyYW4ta3VyLXRhaHVuLWluaS1jYXBhaS10YXJnZXQ=",
+        "description": "PEMERINTAH optimis penyaluran Kredit Usaha Rakyat (KUR) dapat memenuhi target pada tahun ini. KUR merupakan program yang diusung pemerintah untuk membantu pembiayaan modal kerja para pelaku UMKM.&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/506580/menparekraf-imbau-wisatawan-pakai-jonder-saat-berkunjung-ke-bukit-arang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2NTgwL21lbnBhcmVrcmFmLWltYmF1LXdpc2F0YXdhbi1wYWthaS1qb25kZXItc2FhdC1iZXJrdW5qdW5nLWtlLWJ1a2l0LWFyYW5n",
+        "description": "MENTERI Pariwisata dan Ekonomi Kreatif Sandiaga Uno menyarankan wisatawan yang hendak berkunjung ke area Bukit Arang di Desa Wisata Lonuo, Gorontalo, untuk menggunakan kendaraan khusus bernama jonder,&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506578/mangkir-tiga-saksi-kasus-mardani-maming-kena-ultimatum-kpk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDY1NzgvbWFuZ2tpci10aWdhLXNha3NpLWthc3VzLW1hcmRhbmktbWFtaW5nLWtlbmEtdWx0aW1hdHVtLWtwaw==",
+        "description": "KOMISI Pemberantasan Korupsi (KPK) memberikan ultimatum untuk tiga saksi yang dipanggil dalam kasus dugaan suap dan gratifikasi terkait pemberian izin usaha pertambangan di Kabupaten Tanah Bumbu, Kalimantan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/506581/samuel-hubarat-minta-barang-anaknya-almarhum-brigadir-yoshua-dikembalikan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2NTgxL3NhbXVlbC1odWJhcmF0LW1pbnRhLWJhcmFuZy1hbmFrbnlhLWFsbWFyaHVtLWJyaWdhZGlyLXlvc2h1YS1kaWtlbWJhbGlrYW4=",
+        "description": " LAWATAN Kapolda Jambi Irjen Albertus Rachmad Wibowo ke rumah duka mendiang Brigadir Polisi Nofrianysah Yoshua Hutabarat, membawa empati. Yoshua merupakan anggota Brimob asal Jambi yang tewas&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/506579/ganjar-dukung-zoleka-berdayakan-anak-berkebutuhan-khusus",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2NTc5L2dhbmphci1kdWt1bmctem9sZWthLWJlcmRheWFrYW4tYW5hay1iZXJrZWJ1dHVoYW4ta2h1c3Vz",
+        "description": " GANJAR Pranowo mendukung Zoleka sebagai brand Sociopreneur yang aktif peduli kepada kaum tersisih melalui pemberdayaan. Gubernur Jawa Tengah itu mengharapkan semakin banyak perusahaan&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/506575/anthony-ginting-masih-berusaha-tingkatkan-performa",
         "image": "static/images/media_indonesia.png",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjU3Ny9kaWdpdGFsLW1hcmtldGVyLWJlcmJhZ2kta2lhdC1iaXNuaXMtbXVkYWgtZGlrZW5hbA==",
         "description": "Perubahan digitalisasi setelah era transformasi digital membawa pada satu titik baru potensi ekonomi ke arah digital. Kini melalui marketplace dan media sosial seseorang bisa mempromosikan bisnisnya&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/506576/anak-bisa-menjadi-sasaran-kejahatan-di-internet",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA2NTc2L2FuYWstYmlzYS1tZW5qYWRpLXNhc2FyYW4ta2VqYWhhdGFuLWRpLWludGVybmV0",
-        "description": "Beriringan dengan pertumbuhan digital yang sangat pesat, muncul pula ancaman-ancaman yang tidak terhitung jumlahnya. Menjaga keluarga dari risiko digital yang mengancam tersebut memerlukan pemahaman&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/506574/davina-veronica-kurangi-sampah-fesyen-dengan-minta-baju-bekas-teman",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2NTc0L2RhdmluYS12ZXJvbmljYS1rdXJhbmdpLXNhbXBhaC1mZXN5ZW4tZGVuZ2FuLW1pbnRhLWJhanUtYmVrYXMtdGVtYW4=",
-        "description": "Aktris dan aktivis pembela hak hidup dan kesejahteraan hewan Davina Veronica mencoba mengurangi sampah fesyen dengan cara unik. Dia mengaku jarang membeli baju baru. &quot;Saya jarang sekali&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/506572/dua-lokasi-di-kembangan-zona-merah-covid-19",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDY1NzIvZHVhLWxva2FzaS1kaS1rZW1iYW5nYW4tem9uYS1tZXJhaC1jb3ZpZC0xOQ==",
-        "description": "PEMERINTAH Kota Jakarta Barat mencatat ada dua lokasi&nbsp;di Kecamatan Kembangan yang berstatus zona merah penyebaran virus corona (COVID-19).  &quot;Yang diumumkan provinsi periode 10-17&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/506571/9545-kasus-harian-covid-19-berasal-dari-jawa-dan-bali",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2NTcxLzk1NDUta2FzdXMtaGFyaWFuLWNvdmlkLTE5LWJlcmFzYWwtZGFyaS1qYXdhLWRhbi1iYWxp",
-        "description": "SATGAS Penanganan Covid-19 mengatakan penularan kasus covid-19 masih terjadi. Pulau Jawa dan Bali menyumbang kasus harian terbanyak secara nasional pada Selasa (12/7). &ldquo;Pulau Jawa dan&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/506570/nirina-zubir-ajak-korban-mafia-tanah-berani-bersuara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDY1NzAvbmlyaW5hLXp1YmlyLWFqYWsta29yYmFuLW1hZmlhLXRhbmFoLWJlcmFuaS1iZXJzdWFyYQ==",
-        "description": "SELEBRITAS&nbsp;Nirina Zubir mengajak masyarakat yang menjadi korban mafia tanah untuk berani bicara dan melaporkan kasusnya ke pihak Kepolisian.  Nirina mengatakan, kasus mafia tanah yang&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/506569/marak-kasus-pelecehan-seksual-sejumlah-sopir-kesal-angkot-jadi-sepi-penumpang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDY1NjkvbWFyYWsta2FzdXMtcGVsZWNlaGFuLXNla3N1YWwtc2VqdW1sYWgtc29waXIta2VzYWwtYW5na290LWphZGktc2VwaS1wZW51bXBhbmc=",
-        "description": "SEJUMLAH sopir angkutan kota di Jakarta mengaku geram dengan adanya kasus pelecehan seksual di dalam angkot karena memicu semakin sepi penumpang.  Salah seorang sopir angkutan kota jurusan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506568/selisik-tppu-nurhadi-kpk-panggil-wakil-bupati-blitar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDY1Njgvc2VsaXNpay10cHB1LW51cmhhZGkta3BrLXBhbmdnaWwtd2FraWwtYnVwYXRpLWJsaXRhcg==",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) memeriksa Wakil Bupati Blitar Rahmat Santoso, Selasa (12/7). Ia keterangan terkait dugaan aliran dana untuk pembelian aset yang masuk dalam ranah pencucian uang mantan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/506567/kepada-kapolda-jambi-keluarga-berharap-barang-barang-brigadir-yoshua-kembali",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2NTY3L2tlcGFkYS1rYXBvbGRhLWphbWJpLWtlbHVhcmdhLWJlcmhhcmFwLWJhcmFuZy1iYXJhbmctYnJpZ2FkaXIteW9zaHVhLWtlbWJhbGk=",
-        "description": "LAWATAN Kapolda Jambi Irjen Albertus Rachmad Wibowo membawa empati ke rumah duka mendiang Brigadir Nofrianysah Yoshua Hutabarat (Brigadir J), anggota Brimob asal Jambi yang tewas dalam insiden berdarah&#8230;"
     }
 ]
