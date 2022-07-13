@@ -1,5 +1,40 @@
 [
     {
+        "title": "Batu Bara Membara Nih... Sahamnya Banyak yang Murah Loh!",
+        "link": "https://www.cnbcindonesia.com/market/20220713140031-17-355334/batu-bara-membara-nih-sahamnya-banyak-yang-murah-loh",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMTQwMDMxLTE3LTM1NTMzNC9iYXR1LWJhcmEtbWVtYmFyYS1uaWgtc2FoYW1ueWEtYmFueWFrLXlhbmctbXVyYWgtbG9o",
+        "description": " Kini, harga batu bara termal ICE Newcastle sudah semakin mendekati level tertingginya sepanjang sejarah."
+    },
+    {
+        "title": "Crazy Rich Kalimantan Haji Isam vs Hasnuryadi, Siapa Terkaya?",
+        "link": "https://www.cnbcindonesia.com/market/20220713145832-17-355365/crazy-rich-kalimantan-haji-isam-vs-hasnuryadi-siapa-terkaya",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMTQ1ODMyLTE3LTM1NTM2NS9jcmF6eS1yaWNoLWthbGltYW50YW4taGFqaS1pc2FtLXZzLWhhc251cnlhZGktc2lhcGEtdGVya2F5YQ==",
+        "description": " Hasnuryadi Sulaiman mewarisi bisnis ayahnya Abdussamad Sulaiman HB alias Haji Leman dan Samsudin Andi Arsyad alias Haji Isam, keduanya dari Kalimantan"
+    },
+    {
+        "title": "Kurs Euro Tembus ke Bawah Rp 15.000, Waktunya Borong?",
+        "link": "https://www.cnbcindonesia.com/market/20220713133606-17-355308/kurs-euro-tembus-ke-bawah-rp-15000-waktunya-borong",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMTMzNjA2LTE3LTM1NTMwOC9rdXJzLWV1cm8tdGVtYnVzLWtlLWJhd2FoLXJwLTE1MDAwLXdha3R1bnlhLWJvcm9uZw==",
+        "description": " Nilai tukar euro jeblok melawan dolar Amerika Serikat (AS) hingga menyentuh level paritas"
+    },
+    {
+        "title": "Saat Dolar AS Perkasa dan Euro Melemah, Rupiah Gimana?",
+        "link": "https://www.cnbcindonesia.com/market/20220713143328-19-355348/saat-dolar-as-perkasa-euro-melemah-rupiah-gimana",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMTQzMzI4LTE5LTM1NTM0OC9zYWF0LWRvbGFyLWFzLXBlcmthc2EtZXVyby1tZWxlbWFoLXJ1cGlhaC1naW1hbmE=",
+        "description": " Saat Dolar AS Perkasa dan Euro Melemah, Rupiah Gimana?"
+    },
+    {
+        "title": "Masih Karena Sentimen Asing, IHSG Anjlok 1% di Penutupan Sore",
+        "link": "https://www.cnbcindonesia.com/market/20220713152722-17-355374/masih-karena-sentimen-asing-ihsg-anjlok-1-di-penutupan-sore",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMTUyNzIyLTE3LTM1NTM3NC9tYXNpaC1rYXJlbmEtc2VudGltZW4tYXNpbmctaWhzZy1hbmpsb2stMS1kaS1wZW51dHVwYW4tc29yZQ==",
+        "description": " IHSG drop 0,54% ke 6.681,99 di sesi I. Koreksi IHSG berlanjut hingga sesi II. IHSG harus rela terkoreksi 1,15% di 6.640,99 hari ini."
+    },
+    {
         "title": "Dana Asing Seret, Modal Ventura BNI Bisa Topang Startup Lokal",
         "link": "https://www.cnbcindonesia.com/market/20220713143811-17-355360/dana-asing-seret-modal-ventura-bni-bisa-topang-startup-lokal",
         "image": "static/images/cnbc_market.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMTQxNjIxLTE3LTM1NTM0Mi9pbmktZGVyZXRhbi1ob3RlbC1zdXBlci1tZXdhaC1taWxpay1wYXJhLXRhaXBhbi1yaQ==",
         "description": " Sebagai informasi, Park Hyatt merupakan hotel berbintang 6 yang berlokasi di Jakarta dan baru diresmikan pada Jumat pekan lalu."
-    },
-    {
-        "title": "Investor Masih Pantau Rilis Inflasi AS, Bursa Eropa Tertekan",
-        "link": "https://www.cnbcindonesia.com/market/20220713135137-17-355327/investor-masih-pantau-rilis-inflasi-as-bursa-eropa-tertekan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMTM1MTM3LTE3LTM1NTMyNy9pbnZlc3Rvci1tYXNpaC1wYW50YXUtcmlsaXMtaW5mbGFzaS1hcy1idXJzYS1lcm9wYS10ZXJ0ZWthbg==",
-        "description": " Bursa saham Eropa di sesi awal melemah pada perdagangan hari ini, di mana investor bersiap untuk rilis data inflasi di Amerika Serikat (AS) hari ini."
-    },
-    {
-        "title": "Nilai Euro Kini Setara Dolar AS, Kok Bisa?",
-        "link": "https://www.cnbcindonesia.com/market/20220713130026-19-355291/nilai-euro-kini-setara-dolar-as-kok-bisa",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMTMwMDI2LTE5LTM1NTI5MS9uaWxhaS1ldXJvLWtpbmktc2V0YXJhLWRvbGFyLWFzLWtvay1iaXNh",
-        "description": " Nilai tukar Euro terus merosot melawan Dolar Amerika Serikat (AS), saat ini 1 Euro nilainya setara 1 Dolar AS."
-    },
-    {
-        "title": "Ini Dia! Cara Investasi Saham Modal Rp 100 Ribu",
-        "link": "https://www.cnbcindonesia.com/market/20220713115832-17-355252/ini-dia-cara-investasi-saham-modal-rp-100-ribu",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMTE1ODMyLTE3LTM1NTI1Mi9pbmktZGlhLWNhcmEtaW52ZXN0YXNpLXNhaGFtLW1vZGFsLXJwLTEwMC1yaWJ1",
-        "description": " Dengan modal Rp 100.000 saja, mulai dari pelajar hingga pengusaha bisa menjadi investor."
-    },
-    {
-        "title": "Simak! Garuda Proyeksikan Kinerja Positif Pada Semester 2",
-        "link": "https://www.cnbcindonesia.com/market/20220713141212-17-355339/simak-garuda-proyeksikan-kinerja-positif-pada-semester-2",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMTQxMjEyLTE3LTM1NTMzOS9zaW1hay1nYXJ1ZGEtcHJveWVrc2lrYW4ta2luZXJqYS1wb3NpdGlmLXBhZGEtc2VtZXN0ZXItMg==",
-        "description": " PT Garuda Indonesia (Persero) Tbk (GIAA) memproyeksikan dapat mulai mencatatkan kinerja positif secara bertahap pada semester 2 tahun 2022."
-    },
-    {
-        "title": "Intip Hobi Dua Anak Haji Isam yang Jadi Komut Jhonlin Cs",
-        "link": "https://www.cnbcindonesia.com/market/20220713114608-17-355246/intip-hobi-dua-anak-haji-isam-yang-jadi-komut-jhonlin-cs",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMTE0NjA4LTE3LTM1NTI0Ni9pbnRpcC1ob2JpLWR1YS1hbmFrLWhhamktaXNhbS15YW5nLWphZGkta29tdXQtamhvbmxpbi1jcw==",
-        "description": " Rencana penawaran umum perdana perusahaan milik taipan asal Kalimantan Selatan, Samsudin Andi Arsyad alias Haji Isam, cukup menarik perhatian publik."
     }
 ]
