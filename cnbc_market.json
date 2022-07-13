@@ -1,5 +1,47 @@
 [
     {
+        "title": "Investor Waspadai Inflasi Global, IHSG Masih Galau",
+        "link": "https://www.cnbcindonesia.com/market/20220713092208-19-355157/investor-waspadai-inflasi-global-ihsg-masih-galau",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMDkyMjA4LTE5LTM1NTE1Ny9pbnZlc3Rvci13YXNwYWRhaS1pbmZsYXNpLWdsb2JhbC1paHNnLW1hc2loLWdhbGF1",
+        "description": " IHSG Menghijau, Investor \"Wait dan See\" Sentimen Inflasi Global"
+    },
+    {
+        "title": "Perdana! CPIN Ekspor 50.000 Kg Produk Unggas ke Singapura",
+        "link": "https://www.cnbcindonesia.com/market/20220713091628-17-355155/perdana-cpin-ekspor-50000-kg-produk-unggas-ke-singapura",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMDkxNjI4LTE3LTM1NTE1NS9wZXJkYW5hLWNwaW4tZWtzcG9yLTUwMDAwLWtnLXByb2R1ay11bmdnYXMta2Utc2luZ2FwdXJh",
+        "description": " PT Charoen Pokphand Indonesia Tbk (CPIN) melakukan ekspor perdana produk unggasnya ke Singapura sebanyak 50.000 Kg ekspor produk unggas."
+    },
+    {
+        "title": "Dibuka Galau, IHSG Masih Bingung Tentukan Arah Hari Ini",
+        "link": "https://www.cnbcindonesia.com/market/20220713091009-17-355153/dibuka-galau-ihsg-masih-bingung-tentukan-arah-hari-ini",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMDkxMDA5LTE3LTM1NTE1My9kaWJ1a2EtZ2FsYXUtaWhzZy1tYXNpaC1iaW5ndW5nLXRlbnR1a2FuLWFyYWgtaGFyaS1pbmk=",
+        "description": " IHSG dibuka hijau tipis hari ini"
+    },
+    {
+        "title": "Tunggu Data Inflasi yang \"Ngeri\", Rupiah Menguat Lagi",
+        "link": "https://www.cnbcindonesia.com/market/20220713090430-17-355154/tunggu-data-inflasi-yang-ngeri-rupiah-menguat-lagi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMDkwNDMwLTE3LTM1NTE1NC90dW5nZ3UtZGF0YS1pbmZsYXNpLXlhbmctbmdlcmktcnVwaWFoLW1lbmd1YXQtbGFnaQ==",
+        "description": " Rupiah menguat melawan dolar Amerika Serikat (AS) pada perdagangan Rabu (13/7/2022)."
+    },
+    {
+        "title": "Resesi Dunia di Depan Mata, Gegara China Lockdown Terus!",
+        "link": "https://www.cnbcindonesia.com/market/20220713083248-17-355141/resesi-dunia-di-depan-mata-gegara-china-lockdown-terus",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMDgzMjQ4LTE3LTM1NTE0MS9yZXNlc2ktZHVuaWEtZGktZGVwYW4tbWF0YS1nZWdhcmEtY2hpbmEtbG9ja2Rvd24tdGVydXM=",
+        "description": " China menerapkan kebijakan zero Covid-19, artinya tidak bisa mentoleransi ketika ada penambahan kasus penyakit akibat virus corona ini."
+    },
+    {
+        "title": "Geger Omnibus Law Keuangan, Aturan BI, OJK dan LPS Dirombak!",
+        "link": "https://www.cnbcindonesia.com/market/20220713090518-17-355149/geger-omnibus-law-keuangan-aturan-bi-ojk-lps-dirombak",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMDkwNTE4LTE3LTM1NTE0OS9nZWdlci1vbW5pYnVzLWxhdy1rZXVhbmdhbi1hdHVyYW4tYmktb2prLWxwcy1kaXJvbWJhaw==",
+        "description": " Omnibus law sektor keuangan mulai dibahas Dewan Perwakilan Rakyat (DPR)."
+    },
+    {
         "title": "Bursa Asia Dibuka Bervariasi Lagi, Shanghai Galau",
         "link": "https://www.cnbcindonesia.com/market/20220713083733-17-355142/bursa-asia-dibuka-bervariasi-lagi-shanghai-galau",
         "image": "static/images/cnbc_market.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMDgyNDUxLTE3LTM1NTEzNy9idXliYWNrLXNhaGFtLW11bGFpLWhhcmktaW5pLXVudHItc2lhcGthbi1kYW5hLXJwLTUtdA==",
         "description": " PT United Tractors Tbk (UNTR) menyiapkan dana hingga Rp 5 triliun untuk membeli kembali saham perseroan atau buyback saham"
-    },
-    {
-        "title": "Sama-Sama Menggiurkan, Intip Perbandingan Gaji PNS dan BUMN RI",
-        "link": "https://www.cnbcindonesia.com/market/20220713075133-17-355132/sama-sama-menggiurkan-intip-perbandingan-gaji-pns-bumn-ri",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMDc1MTMzLTE3LTM1NTEzMi9zYW1hLXNhbWEtbWVuZ2dpdXJrYW4taW50aXAtcGVyYmFuZGluZ2FuLWdhamktcG5zLWJ1bW4tcmk=",
-        "description": " Banyak para pencari kerja yang ingin menjadi Pegawai Negeri Sipil (PNS) dan pegawai Badan Usaha Milik Negara (BUMN)"
-    },
-    {
-        "title": "Dekat Level Rp 15.000/US$ Lagi, Saatnya Rupiah Menguat?",
-        "link": "https://www.cnbcindonesia.com/market/20220712161147-17-355031/dekat-level-rp-15000-us--lagi-saatnya-rupiah-menguat",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTYxMTQ3LTE3LTM1NTAzMS9kZWthdC1sZXZlbC1ycC0xNTAwMC11cy0tbGFnaS1zYWF0bnlhLXJ1cGlhaC1tZW5ndWF0",
-        "description": " Rupiah kembali melemah melawan dolar Amerika Serikat (AS) Selasa kemarin setelah mampu menguat dua hari beruntun."
-    },
-    {
-        "title": "Siap IPO, Perusahaan Haji Isam Punya Komut Muda 21 Tahun",
-        "link": "https://www.cnbcindonesia.com/market/20220713072223-17-355126/siap-ipo-perusahaan-haji-isam-punya-komut-muda-21-tahun",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMDcyMjIzLTE3LTM1NTEyNi9zaWFwLWlwby1wZXJ1c2FoYWFuLWhhamktaXNhbS1wdW55YS1rb211dC1tdWRhLTIxLXRhaHVu",
-        "description": " saat ini sedang ramai perbincangan terkait sosok Komisaris Utama yang dijabat oleh Jhony Saputra"
-    },
-    {
-        "title": "Alasan IPO Moratelindo Hingga Rencana Dividen Jhonlin Agro",
-        "link": "https://www.cnbcindonesia.com/market/20220713072118-17-355123/alasan-ipo-moratelindo-hingga-rencana-dividen-jhonlin-agro",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMDcyMTE4LTE3LTM1NTEyMy9hbGFzYW4taXBvLW1vcmF0ZWxpbmRvLWhpbmdnYS1yZW5jYW5hLWRpdmlkZW4tamhvbmxpbi1hZ3Jv",
-        "description": " Yuk simak kabar emiten berikut ini sebelum memulai perdagangan Rabu (13/7/2022)."
-    },
-    {
-        "title": "Perhatikan BBCA Hingga ADRO Saat IHSG Masih Volatil",
-        "link": "https://www.cnbcindonesia.com/market/20220713071849-17-355121/perhatikan-bbca-hingga-adro-saat-ihsg-masih-volatil",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMDcxODQ5LTE3LTM1NTEyMS9wZXJoYXRpa2FuLWJiY2EtaGluZ2dhLWFkcm8tc2FhdC1paHNnLW1hc2loLXZvbGF0aWw=",
-        "description": " Simak prediksi IHSG beserta rekomendasi saham pilihan dari sejumlah broker untuk perdagangan Rabu (13/7/2022):"
-    },
-    {
-        "title": "Naik 15 Hari Beruntun, Harga Batu Bara Dekati Rekor Tertinggi",
-        "link": "https://www.cnbcindonesia.com/market/20220713055940-17-355107/naik-15-hari-beruntun-harga-batu-bara-dekati-rekor-tertinggi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMDU1OTQwLTE3LTM1NTEwNy9uYWlrLTE1LWhhcmktYmVydW50dW4taGFyZ2EtYmF0dS1iYXJhLWRla2F0aS1yZWtvci10ZXJ0aW5nZ2k=",
-        "description": " Harga batu bara terbang dan kian mendekati level tertinggi dalam sejarah."
     }
 ]

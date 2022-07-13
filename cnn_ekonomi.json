@@ -1,5 +1,19 @@
 [
     {
+        "title": "Rupiah Menguat ke Rp14.975 Jelang Rilis Data Inflasi AS",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220713090833-78-820822/rupiah-menguat-ke-rp14975-jelang-rilis-data-inflasi-as",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMDkwODMzLTc4LTgyMDgyMi9ydXBpYWgtbWVuZ3VhdC1rZS1ycDE0OTc1LWplbGFuZy1yaWxpcy1kYXRhLWluZmxhc2ktYXM=",
+        "description": " Rupiah menguat 20 poin ke posisi Rp14.975 per dolar AS pada Rabu (13/7)."
+    },
+    {
+        "title": "Harga Emas Antam Turun Lagi, Kini Dihargai Rp964 Ribu per Gram",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220713084741-92-820816/harga-emas-antam-turun-lagi-kini-dihargai-rp964-ribu-per-gram",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMDg0NzQxLTkyLTgyMDgxNi9oYXJnYS1lbWFzLWFudGFtLXR1cnVuLWxhZ2kta2luaS1kaWhhcmdhaS1ycDk2NC1yaWJ1LXBlci1ncmFt",
+        "description": " Harga emas turun Rp2.000 per gram menjadi Rp964 ribu pada Rabu (13/7)."
+    },
+    {
         "title": "Bayar Pakai Allo Bank, Jajan Es Krim Baskin Robbins Murah Meriah",
         "link": "https://www.cnnindonesia.com/ekonomi/20220712172440-97-820587/bayar-pakai-allo-bank-jajan-es-krim-baskin-robbins-murah-meriah",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEyMTYyOTM1LTk3LTgyMDU2My9hbGxvLWJhbmsta2FzaWgtZGlza29uLXJwMTUtanV0YS11bnR1ay1iZWxpLWt1bGthcy1sZy0yLXBpbnR1",
         "description": " Dengan menggunakan Allo Bank, beli kulkas LG dua pintu side by side (SBS) di Electronic Pro bisa dapat diskon\u00c2\u00a0sampai Rp1,5 juta."
-    },
-    {
-        "title": "RI Mulai Ekspor Ayam ke Singapura, Malaysia Jangan Marah Ya",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220713065234-92-820777/ri-mulai-ekspor-ayam-ke-singapura-malaysia-jangan-marah-ya",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMDY1MjM0LTkyLTgyMDc3Ny9yaS1tdWxhaS1la3Nwb3ItYXlhbS1rZS1zaW5nYXB1cmEtbWFsYXlzaWEtamFuZ2FuLW1hcmFoLXlh",
-        "description": " Indonesia mulai mengekspor daging ayam beku ke Singapura, seiring dengan kekurangan pasokan akibat Malaysia menutup keran ekspornya."
-    },
-    {
-        "title": "Harga Minyak Dunia Ambruk, Terendah dalam Tiga Bulan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220713063434-85-820766/harga-minyak-dunia-ambruk-terendah-dalam-tiga-bulan",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMDYzNDM0LTg1LTgyMDc2Ni9oYXJnYS1taW55YWstZHVuaWEtYW1icnVrLXRlcmVuZGFoLWRhbGFtLXRpZ2EtYnVsYW4=",
-        "description": " Harga minyak dunia jatuh ke level terendah dalam tiga bulan terakhir. Brent dibanderol US$99 per barel, dan WTI hanya US$95 per barel."
     }
 ]

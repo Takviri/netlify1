@@ -1,5 +1,47 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/506314/kuasa-hukum-sebut-liga-super-eropa-bawa-reformasi-terbesar-setelah-aturan-bosman",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjMxNC9rdWFzYS1odWt1bS1zZWJ1dC1saWdhLXN1cGVyLWVyb3BhLWJhd2EtcmVmb3JtYXNpLXRlcmJlc2FyLXNldGVsYWgtYXR1cmFuLWJvc21hbg==",
+        "description": "KUASA hukum Liga Super Eropa, Juean-Louis Dupont, Selasa (12/7), mengatakan bahwa mereka hanya berusaha mendapatkan kebebasan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/506330/kemendagri-fasilitasi-penanganan-sampah-das-citarum",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2MzMwL2tlbWVuZGFncmktZmFzaWxpdGFzaS1wZW5hbmdhbmFuLXNhbXBhaC1kYXMtY2l0YXJ1bQ==",
+        "description": "KEMENTERIAN Dalam Negeri (Kemendagri), melalui Direktorat Jenderal (Ditjen) Bina Pembangunan Daerah (Bangda), memfasilitasi kerja sama antara pemerintah pusat dan daerah dalam penanganan sampah di&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/506329/puan-perbaiki-tata-kelola-komoditas-pangan-untuk-atasi-harga-yang-terus-naik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjMyOS9wdWFuLXBlcmJhaWtpLXRhdGEta2Vsb2xhLWtvbW9kaXRhcy1wYW5nYW4tdW50dWstYXRhc2ktaGFyZ2EteWFuZy10ZXJ1cy1uYWlr",
+        "description": "KETUA&nbsp;DPR RI Puan Maharani meminta pemerintah melakukan intervensi terhadap harga komoditas pangan yang terus naik sejak jelang Hari Raya Idul Adha. Harga komoditas pangan yang belum stabil&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/506311/video-buktikan-buruknya-tanggapan-polisi-terhadap-penembakan-di-uvalde",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNjMxMS92aWRlby1idWt0aWthbi1idXJ1a255YS10YW5nZ2FwYW4tcG9saXNpLXRlcmhhZGFwLXBlbmVtYmFrYW4tZGktdXZhbGRl",
+        "description": "SEBUAH video yang menampilkan insiden penembakan di sebuah sekolah di Uvalde, Texas, dirilis Selasa (12/7) dan memperlihatkan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/506327/kasus-covid-19-terus-naik-pakar-situasi-lebih-serius-dan-harus-waspada",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2MzI3L2thc3VzLWNvdmlkLTE5LXRlcnVzLW5haWstcGFrYXItc2l0dWFzaS1sZWJpaC1zZXJpdXMtZGFuLWhhcnVzLXdhc3BhZGE=",
+        "description": "PADA Selasa (12/7), kasus Covid-19 tercatat&nbsp;3.361 di Indonesia. Angka itu merupakan kasus tertinggi sejak April 2022. Mantan Direktur Penyakit Menular WHO Asia Tenggara, Prof. Tjandra Yoga&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/506325/jepang-alami-lonjakan-kasus-covid-19",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNjMyNS9qZXBhbmctYWxhbWktbG9uamFrYW4ta2FzdXMtY292aWQtMTk=",
+        "description": "PEMERINTAH Tokyo mengonfirmasi 11.511 kasus baru virus korona (Covid-19) pada Selasa (12/7). Jumlah tersebut melampaui 10.000 kasus untuk pertama kalinya sejak 16 Maret. Kasus baru di Tokyo&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/506304/citra-kirana-hanya-mau-beradu-akting-dengan-suami",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNjMyMS9tb2JpbC12YW4tb2F0c2lkZS1zZWRpYWthbi1zdXN1LWdyYXRpcy1pbmktamFkd2Fsbnlh",
         "description": "HARI Cokelat Sedunia diperingati setiap 7 Juli. Merek susu berbasis nabati dari Australia, Oatside mengajak masyarakat untuk berbagi cerita tentang susu plant-based oat cokelat. Mobil Van Oatside&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/506320/diselamatkan-delapan-abk-klm-maju-indah-yang-tenggelam",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2MzIwL2Rpc2VsYW1hdGthbi1kZWxhcGFuLWFiay1rbG0tbWFqdS1pbmRhaC15YW5nLXRlbmdnZWxhbQ==",
-        "description": "KRI Sembilang-850 Lantamal XII Pontianak menyelamatkan delapan anak buah kapal (ABK) KLM Maju Indah yang dilaporkan tenggelam di perairan Ketapang, Kalimantan Barat. Penyelamatan kedelapan awak&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/506303/uefa-sebut-liga-super-eropa-kartel",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjMwMy91ZWZhLXNlYnV0LWxpZ2Etc3VwZXItZXJvcGEta2FydGVs",
-        "description": "UEFA mengkritik Liga Super Eropa, yang menghimpun sejumlah klub elite sebagai contoh kartel, ketika badan sepak bola Eropa&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/506318/usai-dua-tahun-pandemi-artjog-2022-hadir-secara-langsung",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2MzE4L3VzYWktZHVhLXRhaHVuLXBhbmRlbWktYXJ0am9nLTIwMjItaGFkaXItc2VjYXJhLWxhbmdzdW5n",
-        "description": "SETELAH dua tahun berturut-turut digelar secara daring karena pandemi covid-19, event tahunan seni Artjog kembali digelar secara offline. Mulai dari 7 Juli-4 September, bertempat di Jogja National&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/506302/turis-rusak-situs-prasejarah-di-peru",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNjMwMi90dXJpcy1ydXNhay1zaXR1cy1wcmFzZWphcmFoLWRpLXBlcnU=",
-        "description": "TURIS meninggalkan jejak kaki mereka di Paracas Candelabra, lukisan bukit raksasa yang berusia sekitar 2.500 tahun di Peru. Hal itu&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/506317/sponsori-fiba-asia-cup-2022-indihome-beri-tiket-gratis",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDYzMTcvc3BvbnNvcmktZmliYS1hc2lhLWN1cC0yMDIyLWluZGlob21lLWJlcmktdGlrZXQtZ3JhdGlz",
-        "description": "PERHELATAN bola basket FIBA Asia Cup 2022 diselenggarakan di Istora Senayan pada 12-24 Juli 2022. Ajang bola basket se-Asia tersebut menjadi kesempatan emas bagi tim nasional bola basket Indonesia&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/506316/wall-street-terpuruk-tertekan-isu-resesi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjMxNi93YWxsLXN0cmVldC10ZXJwdXJ1ay10ZXJ0ZWthbi1pc3UtcmVzZXNp",
-        "description": "BURSA saham Amerika Serikat, Wall Street berada di wilayah negatif pada akhir perdagangan Selasa atau Rabu pagi WIB (13/7), karena tanda-tanda resesi yang berkembang membuat pembeli keluar dari pasar&#8230;"
     }
 ]
