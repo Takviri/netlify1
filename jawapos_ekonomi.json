@@ -1,5 +1,19 @@
 [
     {
+        "title": "Cinta Lingkungan, Arumi Bachsin Lebih Nyaman Pakai Kompor Induksi",
+        "link": "https://www.jawapos.com/ekonomi/energi/13/07/2022/cinta-lingkungan-arumi-bachsin-lebih-nyaman-pakai-kompor-induksi/?page=all",
+        "image": "static/images/jawapos_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS9lbmVyZ2kvMTMvMDcvMjAyMi9jaW50YS1saW5na3VuZ2FuLWFydW1pLWJhY2hzaW4tbGViaWgtbnlhbWFuLXBha2FpLWtvbXBvci1pbmR1a3NpLw==",
+        "description": "Selama pakai kompor induksi memasak menjadi lebih praktis dan makanan lebih cepat matang, sehingga lebih menghemat waktu dan energi yang digunakan untuk memasak"
+    },
+    {
+        "title": "Kemenkop UKM Targetkan 2,5 Juta UMKM Miliki NIB Tahun 2022",
+        "link": "https://www.jawapos.com/ekonomi/13/07/2022/kemenkop-ukm-targetkan-25-juta-umkm-miliki-nib-tahun-2022/?page=all",
+        "image": "static/images/jawapos_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS8xMy8wNy8yMDIyL2tlbWVua29wLXVrbS10YXJnZXRrYW4tMjUtanV0YS11bWttLW1pbGlraS1uaWItdGFodW4tMjAyMi8=",
+        "description": "Kemenkop UKM terus mendorong UMKM untuk dapat mengajukan NIB melalui aplikasi OSS (Online Single Submission) Indonesia."
+    },
+    {
         "title": "UUS Bank DKI Gaet BPRS Patriot Dukung Permodalan UMKM Bekasi",
         "link": "https://www.jawapos.com/ekonomi/finance/13/07/2022/uus-bank-dki-gaet-bprs-patriot-dukung-permodalan-umkm-bekasi/?page=all",
         "image": "static/images/jawapos_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/jawapos_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS9lbmVyZ2kvMTMvMDcvMjAyMi9iaWF5YS11bnR1ay1oaWxhbmdrYW4tMzE0LWp1dGEtdG9uLWVtaXNpLWthcmJvbi1jYXBhaS1ycC0zLTUwMC10cmlsaXVuLw==",
         "description": "Untuk mencapai target NDC yang sebesar 29 persen, sektor ketenagalistrikan perlu mengurangi emisi karbon hingga 314 juta ton setara karbondioksida."
-    },
-    {
-        "title": "Bank Sentral G20 Bakal Atur Mata Uang Digital",
-        "link": "https://www.jawapos.com/ekonomi/finance/13/07/2022/bank-sentral-g20-bakal-atur-mata-uang-digital/?page=all",
-        "image": "static/images/jawapos_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS9maW5hbmNlLzEzLzA3LzIwMjIvYmFuay1zZW50cmFsLWcyMC1iYWthbC1hdHVyLW1hdGEtdWFuZy1kaWdpdGFsLw==",
-        "description": "Deputi Gubernur Bank Indonesia (BI) Doni Primanto Joewono menyadari perkembangan cryptocurrency sebagai aset berkembang sangat pesat."
-    },
-    {
-        "title": "Mora Telematika Indonesia Incar Dana Segar Rp 1,03 Triliun dari IPO",
-        "link": "https://www.jawapos.com/ekonomi/bisnis/13/07/2022/mora-telematika-indonesia-incar-dana-segar-rp-103-triliun-dari-ipo/?page=all",
-        "image": "static/images/jawapos_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS9iaXNuaXMvMTMvMDcvMjAyMi9tb3JhLXRlbGVtYXRpa2EtaW5kb25lc2lhLWluY2FyLWRhbmEtc2VnYXItcnAtMTAzLXRyaWxpdW4tZGFyaS1pcG8v",
-        "description": "Adapun kisaran harga penawarannya yaitu Rp 368 sampai Rp 396 per lembar saham. Jumlah seluruh nilai IPO ini sebanyak-banyaknya Rp 1,03 triliun."
     }
 ]
