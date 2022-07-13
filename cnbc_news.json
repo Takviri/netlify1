@@ -1,5 +1,33 @@
 [
     {
+        "title": "Breaking News: Inflasi AS Makin Menggila, \"Meledak\" 9,1%",
+        "link": "https://www.cnbcindonesia.com/news/20220713195132-4-355443/breaking-news-inflasi-as-makin-menggila-meledak-91",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE5NTEzMi00LTM1NTQ0My9icmVha2luZy1uZXdzLWluZmxhc2ktYXMtbWFraW4tbWVuZ2dpbGEtbWVsZWRhay05MQ==",
+        "description": " Inflasi Amerika Serikat (AS) pada Juni kembali melejit."
+    },
+    {
+        "title": "Ada Omnibus Law, Aturan BI, OJK dan LPS Bakal Dirombak",
+        "link": "https://www.cnbcindonesia.com/news/20220713130057-8-355296/ada-omnibus-law-aturan-bi-ojk-lps-bakal-dirombak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEzMDA1Ny04LTM1NTI5Ni9hZGEtb21uaWJ1cy1sYXctYXR1cmFuLWJpLW9qay1scHMtYmFrYWwtZGlyb21iYWs=",
+        "description": " DPR mulai membahas RUU tentang pengembangan dan sektor keuangan atau Omnibus Law sektor keuangan."
+    },
+    {
+        "title": "Update Covid 13 Juli 2022: Kasus Baru Bertambah 3.822 Hari In",
+        "link": "https://www.cnbcindonesia.com/news/20220713181206-16-355433/update-covid-13-juli-2022-kasus-baru-bertambah-3822-hari-in",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE4MTIwNi0xNi0zNTU0MzMvdXBkYXRlLWNvdmlkLTEzLWp1bGktMjAyMi1rYXN1cy1iYXJ1LWJlcnRhbWJhaC0zODIyLWhhcmktaW4=",
+        "description": " Total kasus konfirmasi mencapai 6.120.169."
+    },
+    {
+        "title": "Sri Langka Makin Horor, Presiden Kabur Kantor PM Diserbu",
+        "link": "https://www.cnbcindonesia.com/news/20220713161026-7-355398/sri-langka-makin-horor-presiden-kabur-kantor-pm-diserbu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE2MTAyNi03LTM1NTM5OC9zcmktbGFuZ2thLW1ha2luLWhvcm9yLXByZXNpZGVuLWthYnVyLWthbnRvci1wbS1kaXNlcmJ1",
+        "description": " Massa di Sri Lanka menyerbu kantor Perdana Menteri Ranil Wickremesinghe. Mereka menuntutnya mundur setelah Presiden Gotabaya Rajapaksa melarikan diri"
+    },
+    {
         "title": "Simak! Begini Protokol Kesehatan Kepulangan Jemaah Haji di RI",
         "link": "https://www.cnbcindonesia.com/news/20220713174726-4-355428/simak-begini-protokol-kesehatan-kepulangan-jemaah-haji-di-ri",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE0MDMyNC00LTM1NTM0MS9jZWstY2lyaS1jaXJpLW5lZ2FyYS1iYW5na3J1dC1pbmRvbmVzaWEtbWFzdWs=",
         "description": " Sri Lanka bukan satu-satunya negara di dunia yang pernah dinyatakan bangkrut. Ada sejumlah negara lain. Indonesia masuk?"
-    },
-    {
-        "title": "Teror Inflasi Kian Nyata, Seberapa Tahan Ekonomi RI?",
-        "link": "https://www.cnbcindonesia.com/news/20220713181644-8-355435/teror-inflasi-kian-nyata-seberapa-tahan-ekonomi-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE4MTY0NC04LTM1NTQzNS90ZXJvci1pbmZsYXNpLWtpYW4tbnlhdGEtc2ViZXJhcGEtdGFoYW4tZWtvbm9taS1yaQ==",
-        "description": " Teror Inflasi Kian Nyata, Seberapa Tahan Ekonomi RI?"
-    },
-    {
-        "title": "Ini Update Proyek Rusun Kampung Bayam Terdampak Stadion JIS",
-        "link": "https://www.cnbcindonesia.com/news/20220713155923-7-355388/ini-update-proyek-rusun-kampung-bayam-terdampak-stadion-jis",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE1NTkyMy03LTM1NTM4OC9pbmktdXBkYXRlLXByb3llay1ydXN1bi1rYW1wdW5nLWJheWFtLXRlcmRhbXBhay1zdGFkaW9uLWppcw==",
-        "description": " Pemerintah Provinsi DKI Jakarta menargetkan pembangunan rusun tersebut selesai pada September 2022."
-    },
-    {
-        "title": "5 Jurus Para Bos Migas Cemerlangkan Kinerja Hulu",
-        "link": "https://www.cnbcindonesia.com/news/20220713175122-4-355430/5-jurus-para-bos-migas-cemerlangkan-kinerja-hulu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE3NTEyMi00LTM1NTQzMC81LWp1cnVzLXBhcmEtYm9zLW1pZ2FzLWNlbWVybGFuZ2thbi1raW5lcmphLWh1bHU=",
-        "description": " CEO Forum KKKS Migas menyodorkan lima rekomendasi untuk membuat kinerja hulu migas lebih bagus"
-    },
-    {
-        "title": "Pabrikan Mobil 'Pesta Pora', Penjualan Mobil Melonjak",
-        "link": "https://www.cnbcindonesia.com/news/20220713170719-4-355419/pabrikan-mobil-pesta-pora-penjualan-mobil-melonjak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE3MDcxOS00LTM1NTQxOS9wYWJyaWthbi1tb2JpbC1wZXN0YS1wb3JhLXBlbmp1YWxhbi1tb2JpbC1tZWxvbmphaw==",
-        "description": " Sepanjang semester I tahun 2022, pasar otomotif nasional mencatatkan penjualan ritel sekitar 465 ribu unit."
     }
 ]
