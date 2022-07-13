@@ -1,5 +1,26 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/506538/indonesia-dan-kepemimpinan-dunia-islam",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDY1MzgvaW5kb25lc2lhLWRhbi1rZXBlbWltcGluYW4tZHVuaWEtaXNsYW0=",
+        "description": "PADA 13 Juli kemarin, Presiden Amerika Serikat (AS) Joe Biden memulai kunjungan politik ke beberapa negara di Timur Tengah. Kunjungan yang akan berlangsung sampai 16 Juli mendatang itu dimulai dengan&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/506596/demonstran-di-sri-lanka-geruduk-kantor-perdana-menteri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNjU5Ni9kZW1vbnN0cmFuLWRpLXNyaS1sYW5rYS1nZXJ1ZHVrLWthbnRvci1wZXJkYW5hLW1lbnRlcmk=",
+        "description": "DEMONSTRAN di Sri Lanka mengabaikan gas air mata, meriam air, dan status negara dalam keadaan darurat untuk menggeruduk kantor&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506593/ahyudin-bersikeras-tidak-ada-penyelewengan-dana-di-act",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDY1OTMvYWh5dWRpbi1iZXJzaWtlcmFzLXRpZGFrLWFkYS1wZW55ZWxld2VuZ2FuLWRhbmEtZGktYWN0",
+        "description": "PENDIRI Yayasan Aksi Cepat Tanggap (ACT) Ahyudin bersikeras tidak ada penyelewengan dana di lembaga itu, yang dibuktikan dengan hasil&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/506592/nekad-bawa-air-zamzam-puluhan-koper-jemaah-haji-indonesia-dibongkar",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDY1ODUvYm9yb2J1ZHVyLW1hcmF0aG9uLTIwMjIta2VtYmFsaS1iZXJsYWt1a2FuLXNpc3RlbS1iYWxsb3Q=",
         "description": "KOMPETISI lari bergengsi Borobudur Marathon 2022 kembali menerapkan sistem ballot atau pemilihan peserta melalui sistem acak. Panitia Pelaksana Borobudur Marathon 2022 Budhi Sarwiadi menjelaskan&nbsp;program&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/506582/pemerintah-yakin-penyaluran-kur-tahun-ini-capai-target",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjU4Mi9wZW1lcmludGFoLXlha2luLXBlbnlhbHVyYW4ta3VyLXRhaHVuLWluaS1jYXBhaS10YXJnZXQ=",
-        "description": "PEMERINTAH optimis penyaluran Kredit Usaha Rakyat (KUR) dapat memenuhi target pada tahun ini. KUR merupakan program yang diusung pemerintah untuk membantu pembiayaan modal kerja para pelaku UMKM.&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/506580/menparekraf-imbau-wisatawan-pakai-jonder-saat-berkunjung-ke-bukit-arang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2NTgwL21lbnBhcmVrcmFmLWltYmF1LXdpc2F0YXdhbi1wYWthaS1qb25kZXItc2FhdC1iZXJrdW5qdW5nLWtlLWJ1a2l0LWFyYW5n",
-        "description": "MENTERI Pariwisata dan Ekonomi Kreatif Sandiaga Uno menyarankan wisatawan yang hendak berkunjung ke area Bukit Arang di Desa Wisata Lonuo, Gorontalo, untuk menggunakan kendaraan khusus bernama jonder,&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506578/mangkir-tiga-saksi-kasus-mardani-maming-kena-ultimatum-kpk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDY1NzgvbWFuZ2tpci10aWdhLXNha3NpLWthc3VzLW1hcmRhbmktbWFtaW5nLWtlbmEtdWx0aW1hdHVtLWtwaw==",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) memberikan ultimatum untuk tiga saksi yang dipanggil dalam kasus dugaan suap dan gratifikasi terkait pemberian izin usaha pertambangan di Kabupaten Tanah Bumbu, Kalimantan&#8230;"
     }
 ]
