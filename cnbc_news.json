@@ -1,5 +1,26 @@
 [
     {
+        "title": "Dunia Ketar-Ketir, Luhut: Ekonomi RI Salah Satu yang Terbaik",
+        "link": "https://www.cnbcindonesia.com/news/20220713081546-4-355136/dunia-ketar-ketir-luhut-ekonomi-ri-salah-satu-yang-terbaik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzA4MTU0Ni00LTM1NTEzNi9kdW5pYS1rZXRhci1rZXRpci1sdWh1dC1la29ub21pLXJpLXNhbGFoLXNhdHUteWFuZy10ZXJiYWlr",
+        "description": " Perekonomian Indonesia disebut menjadi yang terbaik di tengah krisis global yang dihadapi banyak negara"
+    },
+    {
+        "title": "Daftar Bansos yang Siap Ditambah Jokowi Tahun Ini, Apa Saja?",
+        "link": "https://www.cnbcindonesia.com/news/20220713074813-4-355131/daftar-bansos-yang-siap-ditambah-jokowi-tahun-ini-apa-saja",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzA3NDgxMy00LTM1NTEzMS9kYWZ0YXItYmFuc29zLXlhbmctc2lhcC1kaXRhbWJhaC1qb2tvd2ktdGFodW4taW5pLWFwYS1zYWph",
+        "description": " Pemerintah mengisyaratkan untuk menambah besaran penerima bansos"
+    },
+    {
+        "title": "Jokowi Beri Sinyal Naikkan Besaran Bansos, Ada Tapinya Nih",
+        "link": "https://www.cnbcindonesia.com/news/20220713074357-4-355129/jokowi-beri-sinyal-naikkan-besaran-bansos-ada-tapinya-nih",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzA3NDM1Ny00LTM1NTEyOS9qb2tvd2ktYmVyaS1zaW55YWwtbmFpa2thbi1iZXNhcmFuLWJhbnNvcy1hZGEtdGFwaW55YS1uaWg=",
+        "description": " Jokowi belum mengungkap secara pasti kapan rencana tersebut akan dieksekusi"
+    },
+    {
         "title": "Petinggi Ekonomi Dunia G20 Kumpul di Bali, Ini yang Dibahas!",
         "link": "https://www.cnbcindonesia.com/news/20220713074410-4-355130/petinggi-ekonomi-dunia-g20-kumpul-di-bali-ini-yang-dibahas",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjIzMjg1Ni00LTM1NTA5OS9pbmktcmFqYS1tb2JpbC1saXN0cmlrLWR1bmlhLXRlcmJhcnUtYnllLXRlc2xh",
         "description": " Penjualan mobil pabrikan China, BYD lampaui Tesla."
-    },
-    {
-        "title": "Harga Ayam dan Telur To The Moon, Pecah Rekor Lagi",
-        "link": "https://www.cnbcindonesia.com/news/20220713005153-4-355102/harga-ayam-dan-telur-to-the-moon-pecah-rekor-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzAwNTE1My00LTM1NTEwMi9oYXJnYS1heWFtLWRhbi10ZWx1ci10by10aGUtbW9vbi1wZWNhaC1yZWtvci1sYWdp",
-        "description": " Harga daging ayam di DKI sampai Rp70.000 per ekor."
-    },
-    {
-        "title": "Ukraina Butuh 3 Senjata Buat Akhiri Invasi Rusia, RI Punya?",
-        "link": "https://www.cnbcindonesia.com/news/20220713063206-4-355112/ukraina-butuh-3-senjata-buat-akhiri-invasi-rusia-ri-punya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzA2MzIwNi00LTM1NTExMi91a3JhaW5hLWJ1dHVoLTMtc2VuamF0YS1idWF0LWFraGlyaS1pbnZhc2ktcnVzaWEtcmktcHVueWE=",
-        "description": " Ukraina membutuhkan sejumlah senjata untuk mengimbangi gempuran Rusia."
-    },
-    {
-        "title": "Seharga Avanza Rp200 Jutaan, Ini Mobil Listrik Termurah di RI",
-        "link": "https://www.cnbcindonesia.com/news/20220712234954-4-355101/seharga-avanza-rp200-jutaan-ini-mobil-listrik-termurah-di-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjIzNDk1NC00LTM1NTEwMS9zZWhhcmdhLWF2YW56YS1ycDIwMC1qdXRhYW4taW5pLW1vYmlsLWxpc3RyaWstdGVybXVyYWgtZGktcmk=",
-        "description": " abrikan mobil asal China, Wuling merilis mobil listrik pertamanya di Indonesia, yakni Wuling Air ev."
     }
 ]
