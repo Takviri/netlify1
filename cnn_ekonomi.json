@@ -1,5 +1,40 @@
 [
     {
+        "title": "Fintech Bakal Jadi Peserta BI-FAST Tahun Depan",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220713131237-78-820947/fintech-bakal-jadi-peserta-bi-fast-tahun-depan",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMTMxMjM3LTc4LTgyMDk0Ny9maW50ZWNoLWJha2FsLWphZGktcGVzZXJ0YS1iaS1mYXN0LXRhaHVuLWRlcGFu",
+        "description": " Asosiasi Sistem Pembayaran Indonesia (ASPI) mengungkapkan perusahaan teknologi finansial (fintech) akan menjadi peserta BI-FAST pada 2023 mendatang."
+    },
+    {
+        "title": "Menteri Pertanian Lepas Ekspor 50 Ton Ayam ke Singapura",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220713135204-92-820972/menteri-pertanian-lepas-ekspor-50-ton-ayam-ke-singapura",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMTM1MjA0LTkyLTgyMDk3Mi9tZW50ZXJpLXBlcnRhbmlhbi1sZXBhcy1la3Nwb3ItNTAtdG9uLWF5YW0ta2Utc2luZ2FwdXJh",
+        "description": " Menteri Pertanian Syahrul Yasin Limpo melepas ekspor ayam sebanyak 50 ton senilai Rp2 miliar dalam bentuk daging beku dan olahan."
+    },
+    {
+        "title": "BI Siap Kerek Suku Bunga Jika Inflasi Inti Bengkak",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220713164050-78-821089/bi-siap-kerek-suku-bunga-jika-inflasi-inti-bengkak",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMTY0MDUwLTc4LTgyMTA4OS9iaS1zaWFwLWtlcmVrLXN1a3UtYnVuZ2EtamlrYS1pbmZsYXNpLWludGktYmVuZ2thaw==",
+        "description": " Bank Indonesia (BI) menyatakan siap menaikkan suku bunga acuan jika inflasi inti meningkat."
+    },
+    {
+        "title": "FOTO: PTUN Batalkan Putusan Anies Revisi Kenaikan UMP DKI Jakarta 2022",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220713183105-94-821148/foto-ptun-batalkan-putusan-anies-revisi-kenaikan-ump-dki-jakarta-2022",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMTgzMTA1LTk0LTgyMTE0OC9mb3RvLXB0dW4tYmF0YWxrYW4tcHV0dXNhbi1hbmllcy1yZXZpc2kta2VuYWlrYW4tdW1wLWRraS1qYWthcnRhLTIwMjI=",
+        "description": " PTUN Jakarta mengabulkan gugatan\u00c2\u00a0pengusaha yang mempermasalahkan revisi UMP 2022 yang dilakukan Gubernur Anies Baswedan."
+    },
+    {
+        "title": "Ada Pelanggaran, Indonesia Setop Sementara Pengiriman TKI ke Malaysia",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220713192655-92-821178/ada-pelanggaran-indonesia-setop-sementara-pengiriman-tki-ke-malaysia",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMTkyNjU1LTkyLTgyMTE3OC9hZGEtcGVsYW5nZ2FyYW4taW5kb25lc2lhLXNldG9wLXNlbWVudGFyYS1wZW5naXJpbWFuLXRraS1rZS1tYWxheXNpYQ==",
+        "description": " Indonesia akan menghentikan sementara pengiriman TKI ke Malaysia seiring adanya pelanggaran perjanjian yang dilakukan Negeri Jiran tersebut."
+    },
+    {
         "title": "Garuda Percaya Diri Catatkan Kinerja Positif di Semester II 2022",
         "link": "https://www.cnnindonesia.com/ekonomi/20220713154231-92-821046/garuda-percaya-diri-catatkan-kinerja-positif-di-semester-ii-2022",
         "image": "static/images/cnn_ekonomi.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMTQzMzU0LTUzMi04MjA5OTYvc3JpLW11bHlhbmktNjItcGVyc2VuLXBlbWJhbmdraXQtbGlzdHJpay1wbG4tbWFzaWgtYmVyYmFzaXMtYmF0dS1iYXJh",
         "description": " Menkeu Sri Mulyani mengatakan 62 pembangkit listrik milik PT PLN (Persero) saat ini masih berbasis batu bara."
-    },
-    {
-        "title": "Sri Mulyani Minta Orang RI Tak Baper Jika Dikritik soal Energi Bersih",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220713141922-532-820991/sri-mulyani-minta-orang-ri-tak-baper-jika-dikritik-soal-energi-bersih",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMTQxOTIyLTUzMi04MjA5OTEvc3JpLW11bHlhbmktbWludGEtb3JhbmctcmktdGFrLWJhcGVyLWppa2EtZGlrcml0aWstc29hbC1lbmVyZ2ktYmVyc2lo",
-        "description": " Menkeu Sri Mulyani mengungkapkan semua negara tengah berlomba-lomba untuk beralih ke energi yang lebih bersih."
-    },
-    {
-        "title": "Pengusaha Desak Anies Segera Tetapkan UMP Baru DKI Jakarta",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220713173216-92-821120/pengusaha-desak-anies-segera-tetapkan-ump-baru-dki-jakarta",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMTczMjE2LTkyLTgyMTEyMC9wZW5ndXNhaGEtZGVzYWstYW5pZXMtc2VnZXJhLXRldGFwa2FuLXVtcC1iYXJ1LWRraS1qYWthcnRh",
-        "description": " Apindo DKI Jakarta meminta Gubernur Anies Baswedan menetapkan UMP baru untuk buruh ibu kota. Desakan mereka sampaikan usai PTUN\u00c2\u00a0mengabulkan gugatan\u00c2\u00a0mereka."
-    },
-    {
-        "title": "Kemenkeu Jawab Peringatan IMF soal Tumpukan Utang RI",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220713151217-532-821036/kemenkeu-jawab-peringatan-imf-soal-tumpukan-utang-ri",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMTUxMjE3LTUzMi04MjEwMzYva2VtZW5rZXUtamF3YWItcGVyaW5nYXRhbi1pbWYtc29hbC10dW1wdWthbi11dGFuZy1yaQ==",
-        "description": " Kementerian Keuangan (Kemenkeu)\u00c2\u00a0memastikan kondisi utang Indonesia saat ini masih dalam batas aman dengan rasio utang terhadap PDB di bawah 60 persen."
-    },
-    {
-        "title": "Sri Mulyani Bakal Uji Coba Pajak Karbon di PLN",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220713154221-532-821049/sri-mulyani-bakal-uji-coba-pajak-karbon-di-pln",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMTU0MjIxLTUzMi04MjEwNDkvc3JpLW11bHlhbmktYmFrYWwtdWppLWNvYmEtcGFqYWsta2FyYm9uLWRpLXBsbg==",
-        "description": " Pemerintah akan uji coba penerapan pajak karbon dengan skema cap and trade\u00c2\u00a0pada PT PLN (Persero)."
-    },
-    {
-        "title": "Stasiun Gambir dan Pasar Senen Buka Layanan Vaksin Covid Mulai 15 Juli",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220713161841-92-821072/stasiun-gambir-dan-pasar-senen-buka-layanan-vaksin-covid-mulai-15-juli",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMTYxODQxLTkyLTgyMTA3Mi9zdGFzaXVuLWdhbWJpci1kYW4tcGFzYXItc2VuZW4tYnVrYS1sYXlhbmFuLXZha3Npbi1jb3ZpZC1tdWxhaS0xNS1qdWxp",
-        "description": " PT KAI (Persero) membuka layanan vaksin covid-19 di Stasiun Gambir dan Pasar Senen pada pukul 08.00 hingga 12.00 WIB mulai Jumat (15/7)."
     }
 ]
