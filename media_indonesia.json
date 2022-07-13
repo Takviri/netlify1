@@ -1,5 +1,40 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/506297/ini-tips-membuat-konten-yang-menarik-dari-jovial-da-lopez",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNjI5Ny9pbmktdGlwcy1tZW1idWF0LWtvbnRlbi15YW5nLW1lbmFyaWstZGFyaS1qb3ZpYWwtZGEtbG9wZXo=",
+        "description": "KREATOR konten Jovial Da Lopez berpendapat konten yang menarik adalah yang bisa menggambarkan si pembuat konten. &quot;Konten&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506310/icw-minta-dewas-kpk-laporkan-dugaan-penerimaan-gratifikasi-lili-pintauli",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDYzMTAvaWN3LW1pbnRhLWRld2FzLWtway1sYXBvcmthbi1kdWdhYW4tcGVuZXJpbWFhbi1ncmF0aWZpa2FzaS1saWxpLXBpbnRhdWxp",
+        "description": "INDONESIA Corruption Watch (ICW) meminta Dewan Pengawas (Dewas) melaporkan dugaan penerimaan fasilitas menonton MotoGP mantan Wakil Ketua Komisi Pemberantasan Korupsi (KPK) <a href=\"http://mediaindonesia.com/tag/lili-pintauli-siregar\"&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/506293/rabu-siang-bmkg-memprakirakan-sebagian-besar-wilayah-jakarta-hujan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDYyOTMvcmFidS1zaWFuZy1ibWtnLW1lbXByYWtpcmFrYW4tc2ViYWdpYW4tYmVzYXItd2lsYXlhaC1qYWthcnRhLWh1amFu",
+        "description": "Badan Meteorologi, Klimatologi dan Geofisika (BMKG) memprakirakan sebagian besar wilayah di Jakarta akan mengalami cuaca hujan di siang hari. Berdasarkan informasi prakiraan cuaca yang disampaikan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506308/nasib-pengeroyok-ade-armando-ditentukan-hari-ini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDYzMDgvbmFzaWItcGVuZ2Vyb3lvay1hZGUtYXJtYW5kby1kaXRlbnR1a2FuLWhhcmktaW5p",
+        "description": "MAJELIS hakim Pengadilan Negeri Jakarta Pusat (PN Jakpus) akan memutuskan lanjut atau tidaknya perkara enam orang pengeroyok pegiat media sosial <a href=\"http://mediaindonesia.com/tag/ade-armando\"&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/506246/perusahaan-sekelas-telkom-dan-goto-tidak-mungkin-main-main-dengan-angka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjI0Ni9wZXJ1c2FoYWFuLXNla2VsYXMtdGVsa29tLWRhbi1nb3RvLXRpZGFrLW11bmdraW4tbWFpbi1tYWluLWRlbmdhbi1hbmdrYQ==",
+        "description": "Investasi Telkomsel di PT GoTo Gojek Tokopedia Tbk (GOTO) kembali marak diperbincangkan. Hal ini terjadi setelah munculnya pesan berantai di grup WA yang menuduh GoTo menyulap pencatatan investasi&#8230;"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/506306/belanja-konsumen-turun-imf-pertumbuhan-as-23-persen",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNjI5NC9zdWNjZXNzaW9ucmFpaC0yNS1ub21pbmFzaS1wZW5naGFyZ2Fhbi1lbW15",
         "description": "SERIAL HBO Succession meraih penghargaan Emmy terbanyak tahun ini dengan meraih 25 nominasi. Sementara itu, Squid Game mencetak&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/506278/sri-sultan-hb-x-dorong-petani-milenial-berinovasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2Mjc4L3NyaS1zdWx0YW4taGIteC1kb3JvbmctcGV0YW5pLW1pbGVuaWFsLWJlcmlub3Zhc2k=",
-        "description": "Gubernur Daerah Istimewa Yogyakarta Sri Sultan Hamengku Buwono X mendorong para petani milenial di wilayahnya berinovasi membangun sistem pemasaran produk pangan lokal dengan memanfaatkan teknologi&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/506291/murray-melaju-ke-putaran-kedua-hall-of-fame-terbuka",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDYyOTEvbXVycmF5LW1lbGFqdS1rZS1wdXRhcmFuLWtlZHVhLWhhbGwtb2YtZmFtZS10ZXJidWth",
-        "description": "PETENIS Inggris Andy Murray melaju ke putaran kedua Hall of Fame Terbuka setelah menang telak 6-2 dan 6-0 atas petenis Amerika Serikat&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/506298/tesla-hentikan-produksi-di-berlin-selama-dua-pekan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjI5OC90ZXNsYS1oZW50aWthbi1wcm9kdWtzaS1kaS1iZXJsaW4tc2VsYW1hLWR1YS1wZWthbg==",
-        "description": "Produsen mobil listrik asal Amerika Serikat Tesla akan menghentikan produksi mereka selama dua minggu di pabrik manufaktur barunya di Gigafactory Berlin-Brandenburg. Laporan surat kabar Handelsblatt,&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/506290/dpr-as-cicitan-trump-picu-aksi-penyerangan-ke-gedung-capitol",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNjI5MC9kcHItYXMtY2ljaXRhbi10cnVtcC1waWN1LWFrc2ktcGVueWVyYW5nYW4ta2UtZ2VkdW5nLWNhcGl0b2w=",
-        "description": "EKSTREMIS sayap kanan dan pendukung Donald Trump melancarkan serangan ke Gedung Capitol, pada 6 Januari 2021, dipicu oleh cicitan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/506276/yki-sumatra-utara-segera-resmikan-rumah-singgah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2Mjc2L3lraS1zdW1hdHJhLXV0YXJhLXNlZ2VyYS1yZXNtaWthbi1ydW1haC1zaW5nZ2Fo",
-        "description": "Yayasan Kanker Indonesia (YKI) Sumatra Utara segera meresmikan rumah singgah untuk mempermudah pasien penyakit kanker yang akan berobat. &quot;Rumah singgah YKI itu akan segera dioperasikan,&#8230;"
     }
 ]

@@ -1,5 +1,40 @@
 [
     {
+        "title": "Naik 15 Hari Beruntun, Harga Batu Bara Dekati Rekor Tertinggi",
+        "link": "https://www.cnbcindonesia.com/market/20220713055940-17-355107/naik-15-hari-beruntun-harga-batu-bara-dekati-rekor-tertinggi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMDU1OTQwLTE3LTM1NTEwNy9uYWlrLTE1LWhhcmktYmVydW50dW4taGFyZ2EtYmF0dS1iYXJhLWRla2F0aS1yZWtvci10ZXJ0aW5nZ2k=",
+        "description": " Harga batu bara terbang dan kian mendekati level tertinggi dalam sejarah."
+    },
+    {
+        "title": "Kilau Emas Makin Pudar",
+        "link": "https://www.cnbcindonesia.com/market/20220713063215-17-355113/kilau-emas-makin-pudar",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMDYzMjE1LTE3LTM1NTExMy9raWxhdS1lbWFzLW1ha2luLXB1ZGFy",
+        "description": " Harga emas kembali\u00c2\u00a0turun."
+    },
+    {
+        "title": "Breaking News: Harga Minyak Ambles 7% ke Bawah US$ 100/Barel",
+        "link": "https://www.cnbcindonesia.com/market/20220713070432-17-355117/breaking-news-harga-minyak-ambles-7-ke-bawah-us--100-barel",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMDcwNDMyLTE3LTM1NTExNy9icmVha2luZy1uZXdzLWhhcmdhLW1pbnlhay1hbWJsZXMtNy1rZS1iYXdhaC11cy0tMTAwLWJhcmVs",
+        "description": " Harga minyak dunia ambruk. Kekhawatiran terhadap penurunan permintaan jadi penyebab koreksi harga si emas hitam."
+    },
+    {
+        "title": "AGRO-BRIS Paling Cerah, SWID-HOPE Paling Merana",
+        "link": "https://www.cnbcindonesia.com/market/20220712213852-17-355097/agro-bris-paling-cerah-swid-hope-paling-merana",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMjEzODUyLTE3LTM1NTA5Ny9hZ3JvLWJyaXMtcGFsaW5nLWNlcmFoLXN3aWQtaG9wZS1wYWxpbmctbWVyYW5h",
+        "description": " Berikut sepuluh saham yang menjadi top gainers dan top losers pada perdagangan Selasa kemarin."
+    },
+    {
+        "title": "Mantap! BTPN Syariah Masuk Bisnis Suntik Menyuntik Startup",
+        "link": "https://www.cnbcindonesia.com/market/20220713022413-17-355103/mantap-btpn-syariah-masuk-bisnis-suntik-menyuntik-startup",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEzMDIyNDEzLTE3LTM1NTEwMy9tYW50YXAtYnRwbi1zeWFyaWFoLW1hc3VrLWJpc25pcy1zdW50aWstbWVueXVudGlrLXN0YXJ0dXA=",
+        "description": " BTPS mulai masuk ke bisnis modal ventura"
+    },
+    {
         "title": "Sabar Dulu, Sepertinya IHSG Masih Akan Galau Hari Ini",
         "link": "https://www.cnbcindonesia.com/market/20220713022750-17-355104/sabar-dulu-sepertinya-ihsg-masih-akan-galau-hari-ini",
         "image": "static/images/cnbc_market.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTczMjA1LTE3LTM1NTA2Mi9kb2xhci1hcy1raWFuLXBlcmthc2EtZG93LWZ1dHVyZXMtdGVydGVrYW4tbGFnaQ==",
         "description": " Kontrak berjangka (futures) indeks bursa AS terkoreksi pada perdagangan\u00c2\u00a0hari ini"
-    },
-    {
-        "title": "Anak Eka Tjipta Widajaja Lepas Jabatannya di DSSA",
-        "link": "https://www.cnbcindonesia.com/market/20220712175310-17-355068/anak-eka-tjipta-widajaja-lepas-jabatannya-di-dssa",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTc1MzEwLTE3LTM1NTA2OC9hbmFrLWVrYS10amlwdGEtd2lkYWphamEtbGVwYXMtamFiYXRhbm55YS1kaS1kc3Nh",
-        "description": " Pada tanggal 8 Juli 2022, perseroan menerima surat permohonan pengunduran diri Indra Widjaja."
-    },
-    {
-        "title": "Tak Meyakinkan, Harga Emas Rentan Merosot Lagi",
-        "link": "https://www.cnbcindonesia.com/market/20220712173230-17-355064/tak-meyakinkan-harga-emas-rentan-merosot-lagi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTczMjMwLTE3LTM1NTA2NC90YWstbWV5YWtpbmthbi1oYXJnYS1lbWFzLXJlbnRhbi1tZXJvc290LWxhZ2k=",
-        "description": " Harga emas pelan-pelan naik."
-    },
-    {
-        "title": "Digebuk Dolar, Harga Tembaga Jatuh ke Posisi Terendah 2 Tahun",
-        "link": "https://www.cnbcindonesia.com/market/20220712162029-17-355034/digebuk-dolar-harga-tembaga-jatuh-ke-posisi-terendah-2-tahun",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTYyMDI5LTE3LTM1NTAzNC9kaWdlYnVrLWRvbGFyLWhhcmdhLXRlbWJhZ2EtamF0dWgta2UtcG9zaXNpLXRlcmVuZGFoLTItdGFodW4=",
-        "description": " Harga tembaga dunia menyentuh posisi terendah dalam dua tahun"
-    },
-    {
-        "title": "Investasi Telkomsel ke GOTO Lewati Proses Ketat",
-        "link": "https://www.cnbcindonesia.com/market/20220712180306-17-355069/investasi-telkomsel-ke-goto-lewati-proses-ketat",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTgwMzA2LTE3LTM1NTA2OS9pbnZlc3Rhc2ktdGVsa29tc2VsLWtlLWdvdG8tbGV3YXRpLXByb3Nlcy1rZXRhdA==",
-        "description": " Masuknya Telkomsel ke bisnis GOTO di nilai hal wajar dan telah melewati proses yang ketat."
-    },
-    {
-        "title": "Menang Lagi di PN, Yusuf Mansur Ancam Polisikan Balik",
-        "link": "https://www.cnbcindonesia.com/market/20220712162243-17-355038/menang-lagi-di-pn-yusuf-mansur-ancam-polisikan-balik",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzEyMTYyMjQzLTE3LTM1NTAzOC9tZW5hbmctbGFnaS1kaS1wbi15dXN1Zi1tYW5zdXItYW5jYW0tcG9saXNpa2FuLWJhbGlr",
-        "description": " Ia pun berjanji bakal mulai menyisir pihak-pihak yang dinilai menggiring opini hingga nama baiknya tercemar."
     }
 ]
