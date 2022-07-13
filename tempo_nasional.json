@@ -1,5 +1,12 @@
 [
     {
+        "title": "Aplikasi Pengaduan Online Polri Permudah Masyarakat Melapor",
+        "link": "https://nasional.tempo.co/read/1611816/aplikasi-pengaduan-online-polri-permudah-masyarakat-melapor",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTE4MTYvYXBsaWthc2ktcGVuZ2FkdWFuLW9ubGluZS1wb2xyaS1wZXJtdWRhaC1tYXN5YXJha2F0LW1lbGFwb3I=",
+        "description": "Melalui aplikasi Polri menunjukkan komitmen mereka untuk bertransformasi menjadi organisasi yang lebih unggul"
+    },
+    {
         "title": "Yasonna Serahkan Instrumen Aksesi Traktat Budapest",
         "link": "https://nasional.tempo.co/read/1611810/yasonna-serahkan-instrumen-aksesi-traktat-budapest",
         "image": "static/images/tempo_nasional.png",
@@ -61,12 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTE3NjgvYWRlLXlhc2luLWNzLXNhbWFya2FuLWR1aXQtc3VhcC1wYWthaS1rb2RlLWZvdG9rb3BpYW4=",
         "description": "KPK mendakwa Bupati Bogor nonaktif Ade Yasin menyuap sejumlah pegawai Badan Pemeriksa Keuangan Rp 1,935 miliar untuk mendapatkan opini WTP"
-    },
-    {
-        "title": "Tahanan di Lembaga Pembinaan Anak Tewas Diduga Dianiaya Sesama Napi",
-        "link": "https://nasional.tempo.co/read/1611761/tahanan-di-lembaga-pembinaan-anak-tewas-diduga-dianiaya-sesama-napi",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTE3NjEvdGFoYW5hbi1kaS1sZW1iYWdhLXBlbWJpbmFhbi1hbmFrLXRld2FzLWRpZHVnYS1kaWFuaWF5YS1zZXNhbWEtbmFwaQ==",
-        "description": "Tahanan di LPKA Kelas II Lampung, Kabupaten Pesawaran berinisial RF, 17 tahun, meninggal dunia diduga korban mengalami p"
     }
 ]
