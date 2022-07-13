@@ -1,5 +1,47 @@
 [
     {
+        "title": "Nanjak Terus, Kasus Covid di RI Bertambah 3.822 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220713172703-4-355423/nanjak-terus-kasus-covid-di-ri-bertambah-3822-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE3MjcwMy00LTM1NTQyMy9uYW5qYWstdGVydXMta2FzdXMtY292aWQtZGktcmktYmVydGFtYmFoLTM4MjItaGFyaS1pbmk=",
+        "description": " Simak data terbaru Covid-19."
+    },
+    {
+        "title": "Saat Sri Mulyani Ngobrol Bareng Menkeu China, Bahas Apa ya?",
+        "link": "https://www.cnbcindonesia.com/news/20220713153853-4-355377/saat-sri-mulyani-ngobrol-bareng-menkeu-china-bahas-apa-ya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE1Mzg1My00LTM1NTM3Ny9zYWF0LXNyaS1tdWx5YW5pLW5nb2Jyb2wtYmFyZW5nLW1lbmtldS1jaGluYS1iYWhhcy1hcGEteWE=",
+        "description": " Hari ini, Sri Mulyani bertemu secara virtual dengan dengan Menteri Keuangan Republik Rakyat Tiongkok (RRT) Liu Kun."
+    },
+    {
+        "title": "Mau Mobil Listrik Hyundai? KB Bukopin Sediakan Autoloan Nih",
+        "link": "https://www.cnbcindonesia.com/news/20220713170608-4-355422/mau-mobil-listrik-hyundai-kb-bukopin-sediakan-autoloan-nih",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE3MDYwOC00LTM1NTQyMi9tYXUtbW9iaWwtbGlzdHJpay1oeXVuZGFpLWtiLWJ1a29waW4tc2VkaWFrYW4tYXV0b2xvYW4tbmlo",
+        "description": " Kerja sama joint financing KB Bukopin dan SKBF membuka peluang untuk meningkatkan penjualan mobil Hyundai dan memberikan alternatif lain produk pembiayaan."
+    },
+    {
+        "title": "Tak Didukung Pasukannya soal Putin, Presiden Ini Balas Dendam",
+        "link": "https://www.cnbcindonesia.com/news/20220713114930-4-355244/tak-didukung-pasukannya-soal-putin-presiden-ini-balas-dendam",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExNDkzMC00LTM1NTI0NC90YWstZGlkdWt1bmctcGFzdWthbm55YS1zb2FsLXB1dGluLXByZXNpZGVuLWluaS1iYWxhcy1kZW5kYW0=",
+        "description": " Presiden Belarusia, Alexander Lukashenko, mulai melakukan tindakan brutal terhadap rakyatnya sendiri yang meninggalkan negara itu."
+    },
+    {
+        "title": "Duh, Ini yang Terjadi Jika Konsumsi BBM Subsidi Tak Dibatasi",
+        "link": "https://www.cnbcindonesia.com/news/20220713145212-4-355361/duh-ini-yang-terjadi-jika-konsumsi-bbm-subsidi-tak-dibatasi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE0NTIxMi00LTM1NTM2MS9kdWgtaW5pLXlhbmctdGVyamFkaS1qaWthLWtvbnN1bXNpLWJibS1zdWJzaWRpLXRhay1kaWJhdGFzaQ==",
+        "description": " Diperkirakan konsumsi JBKP Pertalite dan Solar Subsidi akan melebihi kuota, subsidi diperkirakan bakal semakin membengkak"
+    },
+    {
+        "title": "Bak Kota Mati, Wajah Pusat Judi Makau di Tengah Ledakan Covid",
+        "link": "https://www.cnbcindonesia.com/news/20220713133237-7-355309/bak-kota-mati-wajah-pusat-judi-makau-di-tengah-ledakan-covid",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEzMzIzNy03LTM1NTMwOS9iYWsta290YS1tYXRpLXdhamFoLXB1c2F0LWp1ZGktbWFrYXUtZGktdGVuZ2FoLWxlZGFrYW4tY292aWQ=",
+        "description": " Jalan-jalan di pusat perjudian Makao kosong bak \"kota mati\" setelah kasino dan sebagian besar bisnis lainnya diperintahkan untuk ditutup karena Covid-19."
+    },
+    {
         "title": "Kapal Perang AS Mondar-mandir di LCS, China Ngamuk!",
         "link": "https://www.cnbcindonesia.com/news/20220713135224-4-355326/kapal-perang-as-mondar-mandir-di-lcs-china-ngamuk",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE1MjgzMC04LTM1NTM3NS9kYWZ0YXItbmVnYXJhLXlhbmctdGVyYW5jYW0tbWVueXVzdWwtc3JpLWxhbmthLTItdGV0YW5nZ2Etcmk=",
         "description": " 9 Negara Terancam Bangkrut Seperti Sri Lanka, 2 Tetangga RI"
-    },
-    {
-        "title": "LCGC Minggir! Harga Mobil Listrik Ini Bisa Lebih Murah Lagi",
-        "link": "https://www.cnbcindonesia.com/news/20220713142342-4-355350/lcgc-minggir-harga-mobil-listrik-ini-bisa-lebih-murah-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE0MjM0Mi00LTM1NTM1MC9sY2djLW1pbmdnaXItaGFyZ2EtbW9iaWwtbGlzdHJpay1pbmktYmlzYS1sZWJpaC1tdXJhaC1sYWdp",
-        "description": " Harga Wuling Air ev di Indonesia Cuma Rp 200 Jutaan, Bisa Lebih Murah Lagi? Ini kata Wuling"
-    },
-    {
-        "title": "6 Negara Terancam Resesi, Seberapa Kuat Ekonomi RI?",
-        "link": "https://www.cnbcindonesia.com/news/20220713130013-8-355290/6-negara-terancam-resesi-seberapa-kuat-ekonomi-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEzMDAxMy04LTM1NTI5MC82LW5lZ2FyYS10ZXJhbmNhbS1yZXNlc2ktc2ViZXJhcGEta3VhdC1la29ub21pLXJp",
-        "description": " Sri Mulyani buka suara mengenai kemungkinan Indonesia terjerat resesi."
-    },
-    {
-        "title": "Resesi Dunia di Depan Mata, RI Bagaimana? Ini Kata Jokowi",
-        "link": "https://www.cnbcindonesia.com/news/20220713154310-4-355380/resesi-dunia-di-depan-mata-ri-bagaimana-ini-kata-jokowi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE1NDMxMC00LTM1NTM4MC9yZXNlc2ktZHVuaWEtZGktZGVwYW4tbWF0YS1yaS1iYWdhaW1hbmEtaW5pLWthdGEtam9rb3dp",
-        "description": " \"Kalau resesi terjadi di Eropa, AS, atau China terjadi, Indonesia akan berat dari sisi ekspornya,\" kata Jokowi."
-    },
-    {
-        "title": "Ekspor-Impor China Kemungkinan Lesu. Bagaimana Indonesia?",
-        "link": "https://www.cnbcindonesia.com/news/20220713140819-4-355340/ekspor-impor-china-kemungkinan-lesu-bagaimana-indonesia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE0MDgxOS00LTM1NTM0MC9la3Nwb3ItaW1wb3ItY2hpbmEta2VtdW5na2luYW4tbGVzdS1iYWdhaW1hbmEtaW5kb25lc2lh",
-        "description": " China tengah menghadapi gelombang kenaikan kasus Covid-19. Kondisi ini akan menahan laju ekspor-impor China."
-    },
-    {
-        "title": "Warga Jangan Gaptek! Pertamina Mau Beli Gas Pakai Aplikasi",
-        "link": "https://www.cnbcindonesia.com/news/20220713131353-4-355307/warga-jangan-gaptek-pertamina-mau-beli-gas-pakai-aplikasi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEzMTM1My00LTM1NTMwNy93YXJnYS1qYW5nYW4tZ2FwdGVrLXBlcnRhbWluYS1tYXUtYmVsaS1nYXMtcGFrYWktYXBsaWthc2k=",
-        "description": " Pertamina juga berencana akan melakukan skema pembelian LPG memakai MyPertamina"
-    },
-    {
-        "title": "Subsidi Dicabut, Petani Minta Stok Pupuk Mencukupi",
-        "link": "https://www.cnbcindonesia.com/news/20220713111842-8-355233/subsidi-dicabut-petani-minta-stok-pupuk-mencukupi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExMTg0Mi04LTM1NTIzMy9zdWJzaWRpLWRpY2FidXQtcGV0YW5pLW1pbnRhLXN0b2stcHVwdWstbWVuY3VrdXBp",
-        "description": " Subsidi Pupuk Dicabut, Petani Minta Stok Cukup dan Harga Terjangkau"
     }
 ]
