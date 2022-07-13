@@ -1,5 +1,47 @@
 [
     {
+        "title": "Menimbang Pelarangan Isi BBM Pertalite, 1.500 Atau 2.000 cc?",
+        "link": "https://www.cnbcindonesia.com/news/20220713115338-4-355251/menimbang-pelarangan-isi-bbm-pertalite-1500-atau-2000-cc",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExNTMzOC00LTM1NTI1MS9tZW5pbWJhbmctcGVsYXJhbmdhbi1pc2ktYmJtLXBlcnRhbGl0ZS0xNTAwLWF0YXUtMjAwMC1jYw==",
+        "description": " Pembahasan mengenai kriteria pelarangan isi BBM Pertalite alot khususnya soal spesifikasi mesin antara 1.500 cc atau 2.000 cc"
+    },
+    {
+        "title": "UMP DKI Jakarta Terancam Turun!",
+        "link": "https://www.cnbcindonesia.com/news/20220713101416-8-355190/ump-dki-jakarta-terancam-turun",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEwMTQxNi04LTM1NTE5MC91bXAtZGtpLWpha2FydGEtdGVyYW5jYW0tdHVydW4=",
+        "description": " Besaran upah minimum Provinsi DKI Jakarta terancam kembali turun"
+    },
+    {
+        "title": "Biden Terbang ke Arab, Kunjungi Saudi-Israel-Palestina",
+        "link": "https://www.cnbcindonesia.com/news/20220713130637-4-355300/biden-terbang-ke-arab-kunjungi-saudi-israel-palestina",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEzMDYzNy00LTM1NTMwMC9iaWRlbi10ZXJiYW5nLWtlLWFyYWIta3VuanVuZ2ktc2F1ZGktaXNyYWVsLXBhbGVzdGluYQ==",
+        "description": " Presiden Amerika Serikat (AS) Joe Biden bertolak ke Timur Tengah pada Selasa waktu setempat, mengunjungi Israel, Palestina, dan Arab Saudi."
+    },
+    {
+        "title": "Ada Potensi Perang Dunia Ke-3 Antara China Dan Rusia",
+        "link": "https://www.cnbcindonesia.com/news/20220713120733-8-355259/ada-potensi-perang-dunia-ke-3-antara-china-dan-rusia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEyMDczMy04LTM1NTI1OS9hZGEtcG90ZW5zaS1wZXJhbmctZHVuaWEta2UtMy1hbnRhcmEtY2hpbmEtZGFuLXJ1c2lh",
+        "description": " John Callahan mengatakan ada potensi perang dunia ketiga ditimbulkan dari perang antara China dan Rusia."
+    },
+    {
+        "title": "Harga Pertalite Tanpa Subsidi Jauh Lebih Mahal Dari Pertamax",
+        "link": "https://www.cnbcindonesia.com/news/20220713124833-4-355274/harga-pertalite-tanpa-subsidi-jauh-lebih-mahal-dari-pertamax",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEyNDgzMy00LTM1NTI3NC9oYXJnYS1wZXJ0YWxpdGUtdGFucGEtc3Vic2lkaS1qYXVoLWxlYmloLW1haGFsLWRhcmktcGVydGFtYXg=",
+        "description": " Dirut Pertamina blak-blakan soal harga keekonomian BBM Pertalite yang mencapai Rp 17.200 per liter"
+    },
+    {
+        "title": "WNI Jangan ke Korsel Dulu, PM Warning Covid Meledak 200 Ribu",
+        "link": "https://www.cnbcindonesia.com/news/20220713120624-4-355257/wni-jangan-ke-korsel-dulu-pm-warning-covid-meledak-200-ribu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEyMDYyNC00LTM1NTI1Ny93bmktamFuZ2FuLWtlLWtvcnNlbC1kdWx1LXBtLXdhcm5pbmctY292aWQtbWVsZWRhay0yMDAtcmlidQ==",
+        "description": " Pemerintah Korea Selatan (Korsel) kembali memberikan peringatan terkait kasus Covid-19 di negara itu."
+    },
+    {
         "title": "Indonesia Punya Potensi Besar Untuk Industri Elektronik",
         "link": "https://www.cnbcindonesia.com/news/20220713120839-8-355260/indonesia-punya-potensi-besar-untuk-industri-elektronik",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExMDIzNC04LTM1NTIxNS9oa3RpLXNlYnV0LTItc3lhcmF0LXJpLWJpc2EtY2FwYWktc3dhc2VtYmFkYS1wYW5nYW4tYXBhLWl0dQ==",
         "description": " HKTI Sebut 2 Syarat RI Bisa Capai Swasembada Pangan"
-    },
-    {
-        "title": "Musim Haji, Pedagang Oleh-Oleh Pondok Gede Berdenyut Lagi",
-        "link": "https://www.cnbcindonesia.com/news/20220712154519-7-355014/musim-haji-pedagang-oleh-oleh-pondok-gede-berdenyut-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE1NDUxOS03LTM1NTAxNC9tdXNpbS1oYWppLXBlZGFnYW5nLW9sZWgtb2xlaC1wb25kb2stZ2VkZS1iZXJkZW55dXQtbGFnaQ==",
-        "description": " Pemerintah Indonesia kembali memberangkatkan jemaah haji dan umrah setelah 2 tahun diberhentikan akibat pandemi."
-    },
-    {
-        "title": "Ada Fenomena Resign Massal di AS, Sekarang pada 'Nyesel'",
-        "link": "https://www.cnbcindonesia.com/news/20220713114746-4-355243/ada-fenomena-resign-massal-di-as-sekarang-pada-nyesel",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExNDc0Ni00LTM1NTI0My9hZGEtZmVub21lbmEtcmVzaWduLW1hc3NhbC1kaS1hcy1zZWthcmFuZy1wYWRhLW55ZXNlbA==",
-        "description": " Amerika Serikat dilanda fenomena pengunduran diri massal yang disebut the great resignation."
-    },
-    {
-        "title": "Bos Sawit, Ada Kabar Gak Enak Nih! Stok Banjir, Harga Tiarap",
-        "link": "https://www.cnbcindonesia.com/news/20220713115533-4-355250/bos-sawit-ada-kabar-gak-enak-nih-stok-banjir-harga-tiarap",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExNTUzMy00LTM1NTI1MC9ib3Mtc2F3aXQtYWRhLWthYmFyLWdhay1lbmFrLW5paC1zdG9rLWJhbmppci1oYXJnYS10aWFyYXA=",
-        "description": " Harga minyak sawit mentah (crude palm oil/ CPO) dunia diprediksi akan terus melemah ke bawah MYR4.000 per ton."
-    },
-    {
-        "title": "Kabar Baik! Akhir Juli Sudah Bisa Wisata Ke TMII Lagi",
-        "link": "https://www.cnbcindonesia.com/news/20220713112312-4-355237/kabar-baik-akhir-juli-sudah-bisa-wisata-ke-tmii-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExMjMxMi00LTM1NTIzNy9rYWJhci1iYWlrLWFraGlyLWp1bGktc3VkYWgtYmlzYS13aXNhdGEta2UtdG1paS1sYWdp",
-        "description": " Taman Mini Indonesia Indah tenga direnovasi."
-    },
-    {
-        "title": "Lockdown di China Kian Meluas",
-        "link": "https://www.cnbcindonesia.com/news/20220713100318-8-355180/lockdown-di-china-kian-meluas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEwMDMxOC04LTM1NTE4MC9sb2NrZG93bi1kaS1jaGluYS1raWFuLW1lbHVhcw==",
-        "description": " China menambah daftar lockdown wilayahnya akibat kasus Covid-19"
-    },
-    {
-        "title": "Sri Mulyani Buka Suara Soal Kemungkinan RI Terjerat Resesi",
-        "link": "https://www.cnbcindonesia.com/news/20220713120135-4-355253/sri-mulyani-buka-suara-soal-kemungkinan-ri-terjerat-resesi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEyMDEzNS00LTM1NTI1My9zcmktbXVseWFuaS1idWthLXN1YXJhLXNvYWwta2VtdW5na2luYW4tcmktdGVyamVyYXQtcmVzZXNp",
-        "description": " Menteri Keuangan Sri Mulyani Indrawati buka suara mengenai kemungkinan Indonesia terjerat resesi,"
     }
 ]
