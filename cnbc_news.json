@@ -1,5 +1,19 @@
 [
     {
+        "title": "Ini yang Bikin WHO Gusar soal Covid-19, Situasi Makin Suram!",
+        "link": "https://www.cnbcindonesia.com/news/20220714061054-4-355459/ini-yang-bikin-who-gusar-soal-covid-19-situasi-makin-suram",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDA2MTA1NC00LTM1NTQ1OS9pbmkteWFuZy1iaWtpbi13aG8tZ3VzYXItc29hbC1jb3ZpZC0xOS1zaXR1YXNpLW1ha2luLXN1cmFt",
+        "description": " Organisasi Kesehatan Dunia (WHO) memberi kabar kurang sedap terkait Covid-19."
+    },
+    {
+        "title": "Presiden Sri Lanka Disebut Lanjutkan Pelarian ke Tetangga RI",
+        "link": "https://www.cnbcindonesia.com/news/20220714054607-4-355458/presiden-sri-lanka-disebut-lanjutkan-pelarian-ke-tetangga-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDA1NDYwNy00LTM1NTQ1OC9wcmVzaWRlbi1zcmktbGFua2EtZGlzZWJ1dC1sYW5qdXRrYW4tcGVsYXJpYW4ta2UtdGV0YW5nZ2Etcmk=",
+        "description": " Presiden Sri Lanka Gotabaya Rajapaksa yang kabur dari negaranya ke Maladewa diperkirakan akan melanjutkan 'pelariannya' ke negara lain."
+    },
+    {
         "title": "Hot News! Mendag Tekan Harga Migor Hingga Kopi atasi Covid-19",
         "link": "https://www.cnbcindonesia.com/news/20220713204455-8-355450/hot-news-mendag-tekan-harga-migor-hingga-kopi-atasi-covid-19",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE5NTEzMi00LTM1NTQ0My9icmVha2luZy1uZXdzLWluZmxhc2ktYXMtbWFraW4tbWVuZ2dpbGEtbWVsZWRhay05MQ==",
         "description": " Inflasi Amerika Serikat (AS) pada Juni kembali melejit."
-    },
-    {
-        "title": "Ada Omnibus Law, Aturan BI, OJK dan LPS Bakal Dirombak",
-        "link": "https://www.cnbcindonesia.com/news/20220713130057-8-355296/ada-omnibus-law-aturan-bi-ojk-lps-bakal-dirombak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEzMDA1Ny04LTM1NTI5Ni9hZGEtb21uaWJ1cy1sYXctYXR1cmFuLWJpLW9qay1scHMtYmFrYWwtZGlyb21iYWs=",
-        "description": " DPR mulai membahas RUU tentang pengembangan dan sektor keuangan atau Omnibus Law sektor keuangan."
-    },
-    {
-        "title": "Update Covid 13 Juli 2022: Kasus Baru Nambah 3.822 Hari Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220713181206-16-355433/update-covid-13-juli-2022-kasus-baru-nambah-3822-hari-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE4MTIwNi0xNi0zNTU0MzMvdXBkYXRlLWNvdmlkLTEzLWp1bGktMjAyMi1rYXN1cy1iYXJ1LW5hbWJhaC0zODIyLWhhcmktaW5p",
-        "description": " Total kasus konfirmasi mencapai 6.120.169."
     }
 ]

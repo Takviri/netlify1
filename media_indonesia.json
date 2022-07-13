@@ -1,5 +1,33 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/506601/hbohbo-max-raih-140-nominasi-emmy",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNjYwMS9oYm9oYm8tbWF4LXJhaWgtMTQwLW5vbWluYXNpLWVtbXk=",
+        "description": "WARNER Bros Discovery mencatatkan 193 nominasi Primetime Emmy, dengan HBO/HBO Max meraih 140 nominasi Emmy untuk 24 program original&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/506599/yuk-mengenal-penyakit-jantung-koroner-dan-penanganannya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2NTk5L3l1ay1tZW5nZW5hbC1wZW55YWtpdC1qYW50dW5nLWtvcm9uZXItZGFuLXBlbmFuZ2FuYW5ueWE=",
+        "description": "ORGANISASI Kesehatan Dunia (WHO) menyebutkan penyakit jantung koroner (PJK) menjadi salah satu masalah kesehatan dalam sistem&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/506604/juarai-etape-ke-11-tour-de-france-vingegaard-rebut-kaus-kuning",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDY2MDQvanVhcmFpLWV0YXBlLWtlLTExLXRvdXItZGUtZnJhbmNlLXZpbmdlZ2FhcmQtcmVidXQta2F1cy1rdW5pbmc=",
+        "description": "JONAS Vingegaard menjuarai etape ke-11 Tour de France, yang mencakup trek Alpen sepanjang 151,7 km yang melelahkan dari Albertville,&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/506603/barcelona-sepakat-datangkan-raphinha-dari-leeds",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjYwMy9iYXJjZWxvbmEtc2VwYWthdC1kYXRhbmdrYW4tcmFwaGluaGEtZGFyaS1sZWVkcw==",
+        "description": "BARCELONA telah mencapai kesepakatan untuk mendatangkan pemain sayap Brasil Raphinha dari klub Liga Primer Inggris Leeds United.&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/506598/ini-cara-cegah-risiko-penyakit-kardiovaskular-pada-anak",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDY1NDIvYnJpbi1ydW1haC1wZXJqdWFuZ2FuLXBlcmlzZXQ=",
         "description": "PROSES pengalihan periset dari kementerian dan lembaga ke Badan Riset dan Inovasi Nasional (BRIN) telah memasuki tahap akhir. Berdasarkan info resmi BRIN, per 18 Juni 2022, sudah bergabung 3.621 periset&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/506538/indonesia-dan-kepemimpinan-dunia-islam",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDY1MzgvaW5kb25lc2lhLWRhbi1rZXBlbWltcGluYW4tZHVuaWEtaXNsYW0=",
-        "description": "PADA 13 Juli kemarin, Presiden Amerika Serikat (AS) Joe Biden memulai kunjungan politik ke beberapa negara di Timur Tengah. Kunjungan yang akan berlangsung sampai 16 Juli mendatang itu dimulai dengan&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/506596/demonstran-di-sri-lanka-geruduk-kantor-perdana-menteri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNjU5Ni9kZW1vbnN0cmFuLWRpLXNyaS1sYW5rYS1nZXJ1ZHVrLWthbnRvci1wZXJkYW5hLW1lbnRlcmk=",
-        "description": "DEMONSTRAN di Sri Lanka mengabaikan gas air mata, meriam air, dan status negara dalam keadaan darurat untuk menggeruduk kantor&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506593/ahyudin-bersikeras-tidak-ada-penyelewengan-dana-di-act",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDY1OTMvYWh5dWRpbi1iZXJzaWtlcmFzLXRpZGFrLWFkYS1wZW55ZWxld2VuZ2FuLWRhbmEtZGktYWN0",
-        "description": "PENDIRI Yayasan Aksi Cepat Tanggap (ACT) Ahyudin bersikeras tidak ada penyelewengan dana di lembaga itu, yang dibuktikan dengan hasil&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/506592/nekad-bawa-air-zamzam-puluhan-koper-jemaah-haji-indonesia-dibongkar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2NTkyL25la2FkLWJhd2EtYWlyLXphbXphbS1wdWx1aGFuLWtvcGVyLWplbWFhaC1oYWppLWluZG9uZXNpYS1kaWJvbmdrYXI=",
-        "description": "PULUHAN koper jamaah haji Indonesia terpaksa dibongkar petugas Air Gate, perusahaan kargo yang ditunjuk maskapai Garuda Indonesia untuk&#8230;"
     }
 ]
