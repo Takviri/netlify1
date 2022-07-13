@@ -1,5 +1,61 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/506378/chico-tersisih-di-babak-pertama-singapura-terbuka-rinovpitha-ke-16-besar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDYzNzgvY2hpY28tdGVyc2lzaWgtZGktYmFiYWstcGVydGFtYS1zaW5nYXB1cmEtdGVyYnVrYS1yaW5vdnBpdGhhLWtlLTE2LWJlc2Fy",
+        "description": "TUNGGAL putra Indonesia Chico Aura Dwi Wardoyo yang baru saja menjuarai Malaysia Masters harus tersisih di babak pertama Singapura Terbuka 2022. Langkah Chico terhenti di fase 32 besar. Chico&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/506376/kalimantan-selatan-kembangkan-ekonomi-kreatif",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2Mzc2L2thbGltYW50YW4tc2VsYXRhbi1rZW1iYW5na2FuLWVrb25vbWkta3JlYXRpZg==",
+        "description": "&nbsp; PEMERINTAH Provinsi Kalimantan Selatan terus berupaya meningkatkan ekonomi masyarakat melalui pengembangan ekonomi kreatif. Hal itu disampaikan Gubernur Sahbirin Noor, Rabu (13/7).&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/506377/desa-wisata-bilebante-spot-healing-di-lombok-tengah-yang-masih-asri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2Mzc3L2Rlc2Etd2lzYXRhLWJpbGViYW50ZS1zcG90LWhlYWxpbmctZGktbG9tYm9rLXRlbmdhaC15YW5nLW1hc2loLWFzcmk=",
+        "description": "JIKA berbicara mengenai keindahan Indonesia pasti kita akan senantiasa disuguhkan oleh beragam destinasi. Kali ini BCA ingin mengajak masyarakat untuk mengunjungi Desa Wisata Bilebante yang&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/506375/polda-sulawesi-utara-gelar-rakernis-fungsi-reskrim",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2Mzc1L3BvbGRhLXN1bGF3ZXNpLXV0YXJhLWdlbGFyLXJha2VybmlzLWZ1bmdzaS1yZXNrcmlt",
+        "description": "&nbsp; JAJARAN Kepolisian Daerah (Polda) Sulawesi Utara, menggelar rapat kerja teknis (Rakernis) fungsi reserse kriminal. Kegiatan ini dilaksanakan untuk meningkatkan kemampuan personel dalam&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/506373/gandeng-damkar-siloam-hospitals-palangkaraya-gelar-simulasi-tanggap-darurat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2MzczL2dhbmRlbmctZGFta2FyLXNpbG9hbS1ob3NwaXRhbHMtcGFsYW5na2FyYXlhLWdlbGFyLXNpbXVsYXNpLXRhbmdnYXAtZGFydXJhdA==",
+        "description": "DITENGAH aktivitas pelayanan kesehatan masyarakat, manajemen Rumah Sakit Siloam Palangkaraya (Siloam Hospitals Palangkaraya) berkesempatan melakukan latihan tanggap bencana melalui tahapan simulasi&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/506372/dalam-kunker-jokowi-kementan-pastikan-sagu-dan-kelapa-terus-dikembangkan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjM3Mi9kYWxhbS1rdW5rZXItam9rb3dpLWtlbWVudGFuLXBhc3Rpa2FuLXNhZ3UtZGFuLWtlbGFwYS10ZXJ1cy1kaWtlbWJhbmdrYW4=",
+        "description": "KEMENTERIAN Pertanian (Kementan) berkomitmen akan mengembangkan komoditas andalan lokal untuk menguatkan kebutuhan pangan dalam negeri di antaranya adalah pengembangan sagu dan kelapa genjah sebagai&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/506371/pasangan-dokter-memenangkan-giveaway-pesta-nikah-untuk-garda-depan-pandemi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNjM3MS9wYXNhbmdhbi1kb2t0ZXItbWVtZW5hbmdrYW4tZ2l2ZWF3YXktcGVzdGEtbmlrYWgtdW50dWstZ2FyZGEtZGVwYW4tcGFuZGVtaQ==",
+        "description": "RESEPSI Dream Wedding untuk pasangan dokter spesialis anak Wisvici Yosua dan dokter umum Yohana Trissya akan berlangsung pada 17 Juli 2022. Dream Wedding merupakan proyek pesta nikah gratis (&lt;i&gt;giveaway&lt;p&gt;)&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/506370/indonesia-tekankan-pentingnya-terapkan-ekonomi-berkelanjutan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjM3MC9pbmRvbmVzaWEtdGVrYW5rYW4tcGVudGluZ255YS10ZXJhcGthbi1la29ub21pLWJlcmtlbGFuanV0YW4=",
+        "description": "Ancaman lingkungan yang muncul saat ini dipandang menggambarkan kegentingan keberlanjutan ekonomi. Penerapan ekonomi biru, hijau, dan sirkular menjadi hal yang tak bisa lagi ditunda-tunda. Menteri&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/506369/ambhara-hotel-jakarta-sajikan-istimewa-barbar-atau-berbeque-bareng",
         "image": "static/images/media_indonesia.png",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjM2OC9oYXRpLWhhdGkta3VvdGEtc3Vic2lkaS1qZWJvbC1iaWxhLXBlbWJlbGlhbi10aWRhay1kaWJhdGFzaQ==",
         "description": "Inisiatif Pertamina untuk melakukan pendataan kendaraan yang mengkonsumsi produk bahan bakar minyak (BBM) jenis solar dan pertalite melalui digitalisasi dinilai sebagai langkah antisipatif dalam membatasi&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/506367/aktivis-wacana-pemisahan-kursi-angkot-belum-cukup-harus-ada-kebijakan-pendukung",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDYzNjcvYWt0aXZpcy13YWNhbmEtcGVtaXNhaGFuLWt1cnNpLWFuZ2tvdC1iZWx1bS1jdWt1cC1oYXJ1cy1hZGEta2ViaWpha2FuLXBlbmR1a3VuZw==",
-        "description": "AKTIVIS perempuan sekaligus anggota Jaringan Pembela Hak Perempuan Korban Kekerasan Seksual Sri Nurherawati&nbsp;mengusulkan ada kebijakan pendukung terhadap pemisahan tempat duduk antara penumpang&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/506364/peserta-pirn-gali-potensi-gili-meno-dan-trawangan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2MzY0L3Blc2VydGEtcGlybi1nYWxpLXBvdGVuc2ktZ2lsaS1tZW5vLWRhbi10cmF3YW5nYW4=",
-        "description": "Memasuki hari kedua Penyelenggaraan Pekan Pemuda Inovasi dan Riset Nasional (PIRN) XX, para peserta bidang ilmu pengetahuan alam dan teknologi (IPATEK) melakukan penelitian lapangan di Gili Meno dan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/506352/nba-putuskan-format-play-in-akan-terus-digunakan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDYzNTIvbmJhLXB1dHVza2FuLWZvcm1hdC1wbGF5LWluLWFrYW4tdGVydXMtZGlndW5ha2Fu",
-        "description": "PEMILIK klub NBA, Selasa (12/7), sepakat untuk menjadikan play-in sebagai jalur resmi menuju playoff dan memperketat aturan bagi pelanggaran&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506366/dpr-dukung-tim-bentukan-kapolritanganikasus-baku-tembak-di-rumah-kadiv-propam",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDYzNjYvZHByLWR1a3VuZy10aW0tYmVudHVrYW4ta2Fwb2xyaXRhbmdhbmlrYXN1cy1iYWt1LXRlbWJhay1kaS1ydW1haC1rYWRpdi1wcm9wYW0=",
-        "description": "ANGGOTA Komisi III DPR RI Sarifuddin Sudding menilai Tim Gabungan yang dibentuk Kapolri Jenderal Listyo Sigit Prabowo dapat memperkuat pengawasan penanganan kasus baku tembak antaranggota Polri di&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/506363/upaya-kurangi-lahan-kritis-klhk-tanam-20-ribu-pohon-di-brebes",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2MzYzL3VwYXlhLWt1cmFuZ2ktbGFoYW4ta3JpdGlzLWtsaGstdGFuYW0tMjAtcmlidS1wb2hvbi1kaS1icmViZXM=",
-        "description": "KEMENTERIAN Lingkungan Hidup dan Kehutanan (KLHK) terus melakukan penanaman bibit pohon di dearah. Langkah tersebut merupakan upaya mengurangi lahan kritis akibat bencana tanah longsor. Seperti&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/506365/erick-thohir-siap-terbitkan-100-ribu-nib-per-hari",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjM2NS9lcmljay10aG9oaXItc2lhcC10ZXJiaXRrYW4tMTAwLXJpYnUtbmliLXBlci1oYXJp",
-        "description": "MENTERI BUMN Erick Thohir bersama Menteri Investasi Bahlil Lahadalia dan Menteri Koperasi dan UKM Teten Masduki mengaku siap menerbitkan 100 ribu Nomor Izin Berusaha (NIB) per hari sebagaimana ditargetkan&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/506344/jaz-hayat-akan-gelar-showcase-di-bandung-pada-15-juli",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNjM0NC9qYXotaGF5YXQtYWthbi1nZWxhci1zaG93Y2FzZS1kaS1iYW5kdW5nLXBhZGEtMTUtanVsaQ==",
-        "description": "SETELAH sukses tampil di Java Jazz Festival, Jaz Hayat akan menggelar showcase di Bandung pada 15 Juli 2022. &quot;Aku sudah&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/506362/usai-penuhi-undangan-haji-wapres-tiba-kembali-di-tanah-air",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2MzYyL3VzYWktcGVudWhpLXVuZGFuZ2FuLWhhamktd2FwcmVzLXRpYmEta2VtYmFsaS1kaS10YW5haC1haXI=",
-        "description": "WAKIL Presiden (Wapres) Ma&rsquo;ruf Amin tiba di tanah air usai menunaikan prosesi ibadah haji di Saudi Arabia selama sepekan. Ma&rsquo;ruf bersama Wury Ma'ruf tiba di Terminal 3 VVIP Bandar Udara&#8230;"
     }
 ]

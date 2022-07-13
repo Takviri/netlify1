@@ -1,5 +1,47 @@
 [
     {
+        "title": "Indonesia Punya Potensi Besar Untuk Industri Elektronik",
+        "link": "https://www.cnbcindonesia.com/news/20220713120839-8-355260/indonesia-punya-potensi-besar-untuk-industri-elektronik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEyMDgzOS04LTM1NTI2MC9pbmRvbmVzaWEtcHVueWEtcG90ZW5zaS1iZXNhci11bnR1ay1pbmR1c3RyaS1lbGVrdHJvbmlr",
+        "description": " Indonesia Punya Potensi Besar Untuk Industri Elektronik"
+    },
+    {
+        "title": "Jokowi Minta UMKM Pantenkan Hak Merek Agar Tak Dicomot Asing!",
+        "link": "https://www.cnbcindonesia.com/news/20220713112425-4-355235/jokowi-minta-umkm-pantenkan-hak-merek-agar-tak-dicomot-asing",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExMjQyNS00LTM1NTIzNS9qb2tvd2ktbWludGEtdW1rbS1wYW50ZW5rYW4taGFrLW1lcmVrLWFnYXItdGFrLWRpY29tb3QtYXNpbmc=",
+        "description": " Jokowi meminta pelaku UMKM segera mematenkan HAKi terhadap produk yang mereka miliki."
+    },
+    {
+        "title": "Pertemuan FMCBD G20 Dimulai Hari Ini, Apa Saja yang Dibahas?",
+        "link": "https://www.cnbcindonesia.com/news/20220713111407-7-355227/pertemuan-fmcbd-g20-dimulai-hari-ini-apa-saja-yang-dibahas",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExMTQwNy03LTM1NTIyNy9wZXJ0ZW11YW4tZm1jYmQtZzIwLWRpbXVsYWktaGFyaS1pbmktYXBhLXNhamEteWFuZy1kaWJhaGFz",
+        "description": " Pertemuan tersebut berlangsung 13-14 Juli 2022 untuk membahas tujuh agenda utama menyangkut ekonomi global, kesehatan dan keuangan."
+    },
+    {
+        "title": "HKTI Sebut 2 Syarat RI Bisa Capai Swasembada Pangan, Apa Itu?",
+        "link": "https://www.cnbcindonesia.com/news/20220713110234-8-355215/hkti-sebut-2-syarat-ri-bisa-capai-swasembada-pangan-apa-itu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExMDIzNC04LTM1NTIxNS9oa3RpLXNlYnV0LTItc3lhcmF0LXJpLWJpc2EtY2FwYWktc3dhc2VtYmFkYS1wYW5nYW4tYXBhLWl0dQ==",
+        "description": " HKTI Sebut 2 Syarat RI Bisa Capai Swasembada Pangan"
+    },
+    {
+        "title": "Musim Haji, Pedagang Oleh-Oleh Pondok Gede Berdenyut Lagi",
+        "link": "https://www.cnbcindonesia.com/news/20220712154519-7-355014/musim-haji-pedagang-oleh-oleh-pondok-gede-berdenyut-lagi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMjE1NDUxOS03LTM1NTAxNC9tdXNpbS1oYWppLXBlZGFnYW5nLW9sZWgtb2xlaC1wb25kb2stZ2VkZS1iZXJkZW55dXQtbGFnaQ==",
+        "description": " Pemerintah Indonesia kembali memberangkatkan jemaah haji dan umrah setelah 2 tahun diberhentikan akibat pandemi."
+    },
+    {
+        "title": "Ada Fenomena Resign Massal di AS, Sekarang pada 'Nyesel'",
+        "link": "https://www.cnbcindonesia.com/news/20220713114746-4-355243/ada-fenomena-resign-massal-di-as-sekarang-pada-nyesel",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExNDc0Ni00LTM1NTI0My9hZGEtZmVub21lbmEtcmVzaWduLW1hc3NhbC1kaS1hcy1zZWthcmFuZy1wYWRhLW55ZXNlbA==",
+        "description": " Amerika Serikat dilanda fenomena pengunduran diri massal yang disebut the great resignation."
+    },
+    {
         "title": "Bos Sawit, Ada Kabar Gak Enak Nih! Stok Banjir, Harga Tiarap",
         "link": "https://www.cnbcindonesia.com/news/20220713115533-4-355250/bos-sawit-ada-kabar-gak-enak-nih-stok-banjir-harga-tiarap",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEyMDEzNS00LTM1NTI1My9zcmktbXVseWFuaS1idWthLXN1YXJhLXNvYWwta2VtdW5na2luYW4tcmktdGVyamVyYXQtcmVzZXNp",
         "description": " Menteri Keuangan Sri Mulyani Indrawati buka suara mengenai kemungkinan Indonesia terjerat resesi,"
-    },
-    {
-        "title": "BBM Naik 2 Kali Lipat, Ribuan Warga Negara Ini Turun ke Jalan",
-        "link": "https://www.cnbcindonesia.com/news/20220713101224-7-355204/bbm-naik-2-kali-lipat-ribuan-warga-negara-ini-turun-ke-jalan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEwMTIyNC03LTM1NTIwNC9iYm0tbmFpay0yLWthbGktbGlwYXQtcmlidWFuLXdhcmdhLW5lZ2FyYS1pbmktdHVydW4ta2UtamFsYW4=",
-        "description": " Demonstrasi besar-besaran di seluruh kota terjadi di Panama. Ini karena kenaikan BBM hingga dua kali lipat."
-    },
-    {
-        "title": "Ayam RI Akhirnya Resmi Tembus Pasar Singapura",
-        "link": "https://www.cnbcindonesia.com/news/20220713110249-7-355217/ayam-ri-akhirnya-resmi-tembus-pasar-singapura",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExMDI0OS03LTM1NTIxNy9heWFtLXJpLWFraGlybnlhLXJlc21pLXRlbWJ1cy1wYXNhci1zaW5nYXB1cmE=",
-        "description": " PT Charoen Pokphand Indonesia Tbk (CPIN) melakukan ekspor perdana produk unggasnya ke Singapura sebanyak 50.000 Kg ekspor produk unggas."
-    },
-    {
-        "title": "Ekonom: Waspada \"Jebakan\" Peningkatan Tren Utang Bilateral RI",
-        "link": "https://www.cnbcindonesia.com/news/20220713102554-8-355196/ekonom-waspada-jebakan-peningkatan-tren-utang-bilateral-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEwMjU1NC04LTM1NTE5Ni9la29ub20td2FzcGFkYS1qZWJha2FuLXBlbmluZ2thdGFuLXRyZW4tdXRhbmctYmlsYXRlcmFsLXJp",
-        "description": " Ekonom: Waspada \"Jebakan\" Peningkatan Tren Utang Bilateral RI"
-    },
-    {
-        "title": "Saat Jokowi Diprotes 'Rondo' Gegara Nggak Dapat Bantuan UMKM",
-        "link": "https://www.cnbcindonesia.com/news/20220713105107-4-355214/saat-jokowi-diprotes-rondo-gegara-nggak-dapat-bantuan-umkm",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEwNTEwNy00LTM1NTIxNC9zYWF0LWpva293aS1kaXByb3Rlcy1yb25kby1nZWdhcmEtbmdnYWstZGFwYXQtYmFudHVhbi11bWtt",
-        "description": " Momen itu terjadi dalam acara Pemberian Nomor Induk Berusaha (NIB) Pelaku Usaha Mikro Kecil Perseorangan Tahun 2022 di Jakarta, Rabu (13/7/2022)."
-    },
-    {
-        "title": "China Protes ke Jepang di Pemakaman Shinzo Abe, Kenapa?",
-        "link": "https://www.cnbcindonesia.com/news/20220713114811-4-355247/china-protes-ke-jepang-di-pemakaman-shinzo-abe-kenapa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExNDgxMS00LTM1NTI0Ny9jaGluYS1wcm90ZXMta2UtamVwYW5nLWRpLXBlbWFrYW1hbi1zaGluem8tYWJlLWtlbmFwYQ==",
-        "description": " Kementerian Luar Negeri China mengajukan protes ke Jepang saat pemakaman Shinzo Abe digelar. Kenapa?"
-    },
-    {
-        "title": "Iuran Kelas 1-3 Dihapus, Cek Tarif Terbaru BPJS Kesehatan",
-        "link": "https://www.cnbcindonesia.com/news/20220713111413-4-355226/iuran-kelas-1-3-dihapus-cek-tarif-terbaru-bpjs-kesehatan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExMTQxMy00LTM1NTIyNi9pdXJhbi1rZWxhcy0xLTMtZGloYXB1cy1jZWstdGFyaWYtdGVyYmFydS1icGpzLWtlc2VoYXRhbg==",
-        "description": " Pemerintah akan menghapus kelas 1,2 dan 3 BPJS Kesehatan."
     }
 ]

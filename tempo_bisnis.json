@@ -1,9 +1,23 @@
 [
     {
-        "title": "IHSG Anjlok di Sesi Pertama, Sektor Teknologi Turun Paling Dalam",
-        "link": "https://bisnis.tempo.co/read/1611567/ihsg-anjlok-di-sesi-pertama-sektor-teknologi-turun-paling-dalam",
+        "title": "Koalisi Nilai Pengenaan Pajak Seni Masih Diskriminatif dan Berpengaruh ke Investasi",
+        "link": "https://bisnis.tempo.co/read/1611578/koalisi-nilai-pengenaan-pajak-seni-masih-diskriminatif-dan-berpengaruh-ke-investasi",
         "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExNTY3L2loc2ctYW5qbG9rLWRpLXNlc2ktcGVydGFtYS1zZWt0b3ItdGVrbm9sb2dpLXR1cnVuLXBhbGluZy1kYWxhbQ==",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExNTc4L2tvYWxpc2ktbmlsYWktcGVuZ2VuYWFuLXBhamFrLXNlbmktbWFzaWgtZGlza3JpbWluYXRpZi1kYW4tYmVycGVuZ2FydWgta2UtaW52ZXN0YXNp",
+        "description": "Koalisi Seni melihat pemerintah daerah cenderung memproyeksikan bidang seni sebagai objek pajak ketimbang mendorong kemaujannya."
+    },
+    {
+        "title": "Ingatkan UMKM Gunakan Fasilitas KUR, Jokowi: Dikalkulasi, Jangan Asal Ambil",
+        "link": "https://bisnis.tempo.co/read/1611577/ingatkan-umkm-gunakan-fasilitas-kur-jokowi-dikalkulasi-jangan-asal-ambil",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExNTc3L2luZ2F0a2FuLXVta20tZ3VuYWthbi1mYXNpbGl0YXMta3VyLWpva293aS1kaWthbGt1bGFzaS1qYW5nYW4tYXNhbC1hbWJpbA==",
+        "description": "Jokowi mengatakan hingga saat ini realisasi Kredit Usaha Rakyat atau KUR per April 2022 baru mencapai 49 persen."
+    },
+    {
+        "title": "Meski IHSG Anjlok di Sesi Pertama, Emiten Sektor Industri Menguat",
+        "link": "https://bisnis.tempo.co/read/1611567/meski-ihsg-anjlok-di-sesi-pertama-emiten-sektor-industri-menguat",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExNTY3L21lc2tpLWloc2ctYW5qbG9rLWRpLXNlc2ktcGVydGFtYS1lbWl0ZW4tc2VrdG9yLWluZHVzdHJpLW1lbmd1YXQ=",
         "description": "Indeks Harga Saham Gabungan (IHSG) anjlok cukup dalam pada sesi pertama perdagangan Rabu, 13 Juli 2022, menutup sesi pertama di level 6,681,9."
     },
     {
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExNTE2L2Vrc3Bvci1sYWRhLWhpdGFtLWluZG9uZXNpYS1rdWFydGFsLWktMjAyMi11c2QtMTctanV0YS1uYWlrLTQ0NS1wZXJzZW4=",
         "description": "Ekspor lada hitam Indonesia periode Januari-Maret 2022 atau kuartal I tahun ini mencapai US$ 17 juta, atau meningkat 44,05 persen."
-    },
-    {
-        "title": "Supermarket dan Swalayan Beda Pengertiannya, Tahukah?",
-        "link": "https://bisnis.tempo.co/read/1611499/supermarket-dan-swalayan-beda-pengertiannya-tahukah",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExNDk5L3N1cGVybWFya2V0LWRhbi1zd2FsYXlhbi1iZWRhLXBlbmdlcnRpYW5ueWEtdGFodWthaA==",
-        "description": "Beberapa tahun belakangan, masyarakat akrab dengan swalayan dan supermarket. Tapi  tahukah keduanya mempunyai perbedaan yang mendasar?"
-    },
-    {
-        "title": "R. Aria Wiraatmadja Dirikan Koperasi Pertama di Indonesia 136 Tahun Lalu, Ini Alasannya",
-        "link": "https://bisnis.tempo.co/read/1611511/r-aria-wiraatmadja-dirikan-koperasi-pertama-di-indonesia-136-tahun-lalu-ini-alasannya",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExNTExL3ItYXJpYS13aXJhYXRtYWRqYS1kaXJpa2FuLWtvcGVyYXNpLXBlcnRhbWEtZGktaW5kb25lc2lhLTEzNi10YWh1bi1sYWx1LWluaS1hbGFzYW5ueWE=",
-        "description": "Kongres Nasional Koperasi pertama pada 1947 di Tasikmalaya, menjadi penanda awal peringatan hari Koperasi di Indonesia setiap 12 Juli. Ini muasalnya."
     }
 ]
