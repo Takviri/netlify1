@@ -1,9 +1,65 @@
 [
     {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/506360/spg-di-kota-tasikmalaya-ditemukan-wafat-di-kamas-kosnya",
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/506364/peserta-pirn-gali-potensi-gili-meno-dan-trawangan",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2MzYwL3NwZy1kaS1rb3RhLXRhc2lrbWFsYXlhLWRpdGVtdWthbi13YWZhdC1kaS1rYW1hcy1rb3NueWE=",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2MzY0L3Blc2VydGEtcGlybi1nYWxpLXBvdGVuc2ktZ2lsaS1tZW5vLWRhbi10cmF3YW5nYW4=",
+        "description": "Memasuki hari kedua Penyelenggaraan Pekan Pemuda Inovasi dan Riset Nasional (PIRN) XX, para peserta bidang ilmu pengetahuan alam dan teknologi (IPATEK) melakukan penelitian lapangan di Gili Meno dan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/506352/nba-putuskan-format-play-in-akan-terus-digunakan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDYzNTIvbmJhLXB1dHVza2FuLWZvcm1hdC1wbGF5LWluLWFrYW4tdGVydXMtZGlndW5ha2Fu",
+        "description": "PEMILIK klub NBA, Selasa (12/7), sepakat untuk menjadikan play-in sebagai jalur resmi menuju playoff dan memperketat aturan bagi pelanggaran&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506366/dpr-dukung-tim-bentukan-kapolritanganikasus-baku-tembak-di-rumah-kadiv-propam",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDYzNjYvZHByLWR1a3VuZy10aW0tYmVudHVrYW4ta2Fwb2xyaXRhbmdhbmlrYXN1cy1iYWt1LXRlbWJhay1kaS1ydW1haC1rYWRpdi1wcm9wYW0=",
+        "description": "ANGGOTA Komisi III DPR RI Sarifuddin Sudding menilai Tim Gabungan yang dibentuk Kapolri Jenderal Listyo Sigit Prabowo dapat memperkuat pengawasan penanganan kasus baku tembak antaranggota Polri di&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/506363/upaya-kurangi-lahan-kritis-klhk-tanam-20-ribu-pohon-di-brebes",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2MzYzL3VwYXlhLWt1cmFuZ2ktbGFoYW4ta3JpdGlzLWtsaGstdGFuYW0tMjAtcmlidS1wb2hvbi1kaS1icmViZXM=",
+        "description": "KEMENTERIAN Lingkungan Hidup dan Kehutanan (KLHK) terus melakukan penanaman bibit pohon di dearah. Langkah tersebut merupakan upaya mengurangi lahan kritis akibat bencana tanah longsor. Seperti&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/506365/erick-thohir-siap-terbitkan-100-ribu-nib-per-hari",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjM2NS9lcmljay10aG9oaXItc2lhcC10ZXJiaXRrYW4tMTAwLXJpYnUtbmliLXBlci1oYXJp",
+        "description": "MENTERI BUMN Erick Thohir bersama Menteri Investasi Bahlil Lahadalia dan Menteri Koperasi dan UKM Teten Masduki mengaku siap menerbitkan 100 ribu Nomor Izin Berusaha (NIB) per hari sebagaimana ditargetkan&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/506344/jaz-hayat-akan-gelar-showcase-di-bandung-pada-15-juli",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNjM0NC9qYXotaGF5YXQtYWthbi1nZWxhci1zaG93Y2FzZS1kaS1iYW5kdW5nLXBhZGEtMTUtanVsaQ==",
+        "description": "SETELAH sukses tampil di Java Jazz Festival, Jaz Hayat akan menggelar showcase di Bandung pada 15 Juli 2022. &quot;Aku sudah&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/506362/usai-penuhi-undangan-haji-wapres-tiba-kembali-di-tanah-air",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2MzYyL3VzYWktcGVudWhpLXVuZGFuZ2FuLWhhamktd2FwcmVzLXRpYmEta2VtYmFsaS1kaS10YW5haC1haXI=",
+        "description": "WAKIL Presiden (Wapres) Ma&rsquo;ruf Amin tiba di tanah air usai menunaikan prosesi ibadah haji di Saudi Arabia selama sepekan. Ma&rsquo;ruf bersama Wury Ma'ruf tiba di Terminal 3 VVIP Bandar Udara&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/506361/presiden-harus-ada-100-ribu-nib-terbit-setiap-hari",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjM2MS9wcmVzaWRlbi1oYXJ1cy1hZGEtMTAwLXJpYnUtbmliLXRlcmJpdC1zZXRpYXAtaGFyaQ==",
+        "description": "PRESIDEN Joko Widodo memerintahkan Menteri Investasi Bahlil Lahadalia dan seluruh kepala daerah di Tanah Air untuk bekerja lebih cepat dalam menerbitkan Nomor Izin Berusaha (NIB) bagi para pelaku usaha&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/506360/spg-di-kota-tasikmalaya-ditemukan-wafat-di-kamar-kosnya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2MzYwL3NwZy1kaS1rb3RhLXRhc2lrbWFsYXlhLWRpdGVtdWthbi13YWZhdC1kaS1rYW1hci1rb3NueWE=",
         "description": "SEORANG sales promotion girl (SPG) sebuah perusahaan produk rokok berinisial AAY, 25, warga Kampung Karangsari, Desa, Kecamatan Karangnunggal, Kabupaten Tasikmalaya, Jawa Barat, Selasa (12/7) malam&#8230;"
     },
     {
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDYzNDMvYmFydHktdGVnYXNrYW4tdGlkYWstbWVueWVzYWwtcHV0dXNrYW4tcGVuc2l1bg==",
         "description": "MANTAN petenis nomor satu dunia Ashleigh Barty memastikan dirinya tidak menyesal pensiun dari tenis pada Maret lalu di usia 25 tahun,&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/506359/pedagang-bingung-stok-cukup-harga-cabai-di-klaten-kok-masih-mahal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2MzU5L3BlZGFnYW5nLWJpbmd1bmctc3Rvay1jdWt1cC1oYXJnYS1jYWJhaS1kaS1rbGF0ZW4ta29rLW1hc2loLW1haGFs",
-        "description": "HARGA komoditas cabai di pasar tradisional Klaten, Jawa Tengah, masih tinggi pada tiga hari pasca-Hari Raya Idul Adha 1443 Hijriah. Padahal stok dan pasokan bahan pokok pangan kebutuhan sehari-hari&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/506358/mantan-pelatih-benfica-resmi-jadi-pelatih-baru-timnas-mesir",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjM1OC9tYW50YW4tcGVsYXRpaC1iZW5maWNhLXJlc21pLWphZGktcGVsYXRpaC1iYXJ1LXRpbW5hcy1tZXNpcg==",
-        "description": "MANTAN pelatih Benfica, Rui Vitoria, resmi menjadi pelatih tim nasional Mesir menggantikan Ehab Galal. Vitoria adalah pelatih ketiga timnas Mesir tahun ini, dan akan ditugaskan untuk memulihkan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/506338/ingin-lari-maraton-jangan-lupa-pemenuhan-gizi-yang-cukup",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDYzMzgvaW5naW4tbGFyaS1tYXJhdG9uLWphbmdhbi1sdXBhLXBlbWVudWhhbi1naXppLXlhbmctY3VrdXA=",
-        "description": "SEJUMLAH hal perlu diperhatikan sebelum melakukan olahraga lari maraton. Tidak hanya persiapan latihan fisik melainkan juga pemenuhan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/506357/pemkot-padang-tahun-ini-targetkan-angka-stunting-14",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2MzU3L3BlbWtvdC1wYWRhbmctdGFodW4taW5pLXRhcmdldGthbi1hbmdrYS1zdHVudGluZy0xNA==",
-        "description": "PEMERINTAH Kota Padang, Sumbar, bertekad menurunkan angka stunting menjadi 14 persen tahun ini. Target itu cukup ambisius karena di bawah angka nasional. &quot;Kita sudah bertekad tahun ini&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/506356/realisasi-kur-baru-49-presiden-manfaatkan-mumpung-bunganya-cuma-3",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjM1Ni9yZWFsaXNhc2kta3VyLWJhcnUtNDktcHJlc2lkZW4tbWFuZmFhdGthbi1tdW1wdW5nLWJ1bmdhbnlhLWN1bWEtMw==",
-        "description": "PRESIDEN Joko Widodo mengajak para pelaku usaha mikro, kecil dan menengah (UMKM) di Tanah Air untuk memanfaatkan program Kredit Usaha Rakyat (KUR) secara maksimal. Ajakan tersebut ia sampaikan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/506300/beberapa-kondisi-kesehatan-dapat-dideteksi-melalui-pemeriksaan-rongga-mulut",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2MzAwL2JlYmVyYXBhLWtvbmRpc2kta2VzZWhhdGFuLWRhcGF0LWRpZGV0ZWtzaS1tZWxhbHVpLXBlbWVyaWtzYWFuLXJvbmdnYS1tdWx1dA==",
-        "description": "Sebagai rongga pertama dari saluran pencernaan, mulut dapat menjadi pintu masuk bakteri penyebab penyakit. Namun, jika Anda dapat merawat kesehatan gigi dan mulut dengan baik, maka hal itu dapat&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/506355/harga-cabai-di-tangerang-menggigit-hingga-rp170-ribukg",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDYzNTUvaGFyZ2EtY2FiYWktZGktdGFuZ2VyYW5nLW1lbmdnaWdpdC1oaW5nZ2EtcnAxNzAtcmlidWtn",
-        "description": "HARGA cabai merah di sejumlah pasar tradisional di Tangerang, Banten, masih sangat mahal. Harga tertinggi tercatat mencapai Rp170 ribu/kilogram.&nbsp; Vivi, pedagang di Pasar Gudang Tigaraksa&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/506354/bbc-bongkarkekejian-tentara-inggris-bunuh54-tahanan-afghanistan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNjM1NC9iYmMtYm9uZ2thcmtla2VqaWFuLXRlbnRhcmEtaW5nZ3Jpcy1idW51aDU0LXRhaGFuYW4tYWZnaGFuaXN0YW4=",
-        "description": "PASUKAN khusus Inggris (SAS) menghabisi nyawa tahahan Afganistan dengan cara sadis. Biasanya operasi senyap untuk membunuh atau menangkap target Taliban ini dilakukan SAS pada malam hari. Temuan&#8230;"
     }
 ]
