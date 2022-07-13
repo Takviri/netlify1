@@ -1,6 +1,27 @@
 [
     {
         "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/506369/ambhara-hotel-jakarta-sajikan-istimewa-barbar-atau-berbeque-bareng",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2MzY5L2FtYmhhcmEtaG90ZWwtamFrYXJ0YS1zYWppa2FuLWlzdGltZXdhLWJhcmJhci1hdGF1LWJlcmJlcXVlLWJhcmVuZw==",
+        "description": "AMBHARA Hotel Jakarta siap menawarkan sajian untuk kebersamaan dengan teman,&nbsp;keluarga, dan orang terdekat. Banyak cara untuk membuat momentum tersebut tak terlupakan, salah satunya dengan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/506368/hati-hati-kuota-subsidi-jebol-bila-pembelian-tidak-dibatasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjM2OC9oYXRpLWhhdGkta3VvdGEtc3Vic2lkaS1qZWJvbC1iaWxhLXBlbWJlbGlhbi10aWRhay1kaWJhdGFzaQ==",
+        "description": "Inisiatif Pertamina untuk melakukan pendataan kendaraan yang mengkonsumsi produk bahan bakar minyak (BBM) jenis solar dan pertalite melalui digitalisasi dinilai sebagai langkah antisipatif dalam membatasi&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/506367/aktivis-wacana-pemisahan-kursi-angkot-belum-cukup-harus-ada-kebijakan-pendukung",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDYzNjcvYWt0aXZpcy13YWNhbmEtcGVtaXNhaGFuLWt1cnNpLWFuZ2tvdC1iZWx1bS1jdWt1cC1oYXJ1cy1hZGEta2ViaWpha2FuLXBlbmR1a3VuZw==",
+        "description": "AKTIVIS perempuan sekaligus anggota Jaringan Pembela Hak Perempuan Korban Kekerasan Seksual Sri Nurherawati&nbsp;mengusulkan ada kebijakan pendukung terhadap pemisahan tempat duduk antara penumpang&#8230;"
+    },
+    {
+        "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/506364/peserta-pirn-gali-potensi-gili-meno-dan-trawangan",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2MzY0L3Blc2VydGEtcGlybi1nYWxpLXBvdGVuc2ktZ2lsaS1tZW5vLWRhbi10cmF3YW5nYW4=",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2MzYyL3VzYWktcGVudWhpLXVuZGFuZ2FuLWhhamktd2FwcmVzLXRpYmEta2VtYmFsaS1kaS10YW5haC1haXI=",
         "description": "WAKIL Presiden (Wapres) Ma&rsquo;ruf Amin tiba di tanah air usai menunaikan prosesi ibadah haji di Saudi Arabia selama sepekan. Ma&rsquo;ruf bersama Wury Ma'ruf tiba di Terminal 3 VVIP Bandar Udara&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/506361/presiden-harus-ada-100-ribu-nib-terbit-setiap-hari",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjM2MS9wcmVzaWRlbi1oYXJ1cy1hZGEtMTAwLXJpYnUtbmliLXRlcmJpdC1zZXRpYXAtaGFyaQ==",
-        "description": "PRESIDEN Joko Widodo memerintahkan Menteri Investasi Bahlil Lahadalia dan seluruh kepala daerah di Tanah Air untuk bekerja lebih cepat dalam menerbitkan Nomor Izin Berusaha (NIB) bagi para pelaku usaha&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/506360/spg-di-kota-tasikmalaya-ditemukan-wafat-di-kamar-kosnya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2MzYwL3NwZy1kaS1rb3RhLXRhc2lrbWFsYXlhLWRpdGVtdWthbi13YWZhdC1kaS1rYW1hci1rb3NueWE=",
-        "description": "SEORANG sales promotion girl (SPG) sebuah perusahaan produk rokok berinisial AAY, 25, warga Kampung Karangsari, Desa, Kecamatan Karangnunggal, Kabupaten Tasikmalaya, Jawa Barat, Selasa (12/7) malam&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/506343/barty-tegaskan-tidak-menyesal-putuskan-pensiun",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDYzNDMvYmFydHktdGVnYXNrYW4tdGlkYWstbWVueWVzYWwtcHV0dXNrYW4tcGVuc2l1bg==",
-        "description": "MANTAN petenis nomor satu dunia Ashleigh Barty memastikan dirinya tidak menyesal pensiun dari tenis pada Maret lalu di usia 25 tahun,&#8230;"
     }
 ]

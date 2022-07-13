@@ -1,5 +1,47 @@
 [
     {
+        "title": "Bos Sawit, Ada Kabar Gak Enak Nih! Stok Banjir, Harga Tiarap",
+        "link": "https://www.cnbcindonesia.com/news/20220713115533-4-355250/bos-sawit-ada-kabar-gak-enak-nih-stok-banjir-harga-tiarap",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExNTUzMy00LTM1NTI1MC9ib3Mtc2F3aXQtYWRhLWthYmFyLWdhay1lbmFrLW5paC1zdG9rLWJhbmppci1oYXJnYS10aWFyYXA=",
+        "description": " Harga minyak sawit mentah (crude palm oil/ CPO) dunia diprediksi akan terus melemah ke bawah MYR4.000 per ton."
+    },
+    {
+        "title": "Kabar Baik! Akhir Juli Sudah Bisa Wisata Ke TMII Lagi",
+        "link": "https://www.cnbcindonesia.com/news/20220713112312-4-355237/kabar-baik-akhir-juli-sudah-bisa-wisata-ke-tmii-lagi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExMjMxMi00LTM1NTIzNy9rYWJhci1iYWlrLWFraGlyLWp1bGktc3VkYWgtYmlzYS13aXNhdGEta2UtdG1paS1sYWdp",
+        "description": " Taman Mini Indonesia Indah tenga direnovasi."
+    },
+    {
+        "title": "Lockdown di China Kian Meluas",
+        "link": "https://www.cnbcindonesia.com/news/20220713100318-8-355180/lockdown-di-china-kian-meluas",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEwMDMxOC04LTM1NTE4MC9sb2NrZG93bi1kaS1jaGluYS1raWFuLW1lbHVhcw==",
+        "description": " China menambah daftar lockdown wilayahnya akibat kasus Covid-19"
+    },
+    {
+        "title": "Sri Mulyani Buka Suara Soal Kemungkinan RI Terjerat Resesi",
+        "link": "https://www.cnbcindonesia.com/news/20220713120135-4-355253/sri-mulyani-buka-suara-soal-kemungkinan-ri-terjerat-resesi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEyMDEzNS00LTM1NTI1My9zcmktbXVseWFuaS1idWthLXN1YXJhLXNvYWwta2VtdW5na2luYW4tcmktdGVyamVyYXQtcmVzZXNp",
+        "description": " Menteri Keuangan Sri Mulyani Indrawati buka suara mengenai kemungkinan Indonesia terjerat resesi,"
+    },
+    {
+        "title": "BBM Naik 2 Kali Lipat, Ribuan Warga Negara Ini Turun ke Jalan",
+        "link": "https://www.cnbcindonesia.com/news/20220713101224-7-355204/bbm-naik-2-kali-lipat-ribuan-warga-negara-ini-turun-ke-jalan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEwMTIyNC03LTM1NTIwNC9iYm0tbmFpay0yLWthbGktbGlwYXQtcmlidWFuLXdhcmdhLW5lZ2FyYS1pbmktdHVydW4ta2UtamFsYW4=",
+        "description": " Demonstrasi besar-besaran di seluruh kota terjadi di Panama. Ini karena kenaikan BBM hingga dua kali lipat."
+    },
+    {
+        "title": "Ayam RI Akhirnya Resmi Tembus Pasar Singapura",
+        "link": "https://www.cnbcindonesia.com/news/20220713110249-7-355217/ayam-ri-akhirnya-resmi-tembus-pasar-singapura",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExMDI0OS03LTM1NTIxNy9heWFtLXJpLWFraGlybnlhLXJlc21pLXRlbWJ1cy1wYXNhci1zaW5nYXB1cmE=",
+        "description": " PT Charoen Pokphand Indonesia Tbk (CPIN) melakukan ekspor perdana produk unggasnya ke Singapura sebanyak 50.000 Kg ekspor produk unggas."
+    },
+    {
         "title": "Ekonom: Waspada \"Jebakan\" Peningkatan Tren Utang Bilateral RI",
         "link": "https://www.cnbcindonesia.com/news/20220713102554-8-355196/ekonom-waspada-jebakan-peningkatan-tren-utang-bilateral-ri",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExMTQxMy00LTM1NTIyNi9pdXJhbi1rZWxhcy0xLTMtZGloYXB1cy1jZWstdGFyaWYtdGVyYmFydS1icGpzLWtlc2VoYXRhbg==",
         "description": " Pemerintah akan menghapus kelas 1,2 dan 3 BPJS Kesehatan."
-    },
-    {
-        "title": "Kasus Cacar Monyet Tembus Rusia",
-        "link": "https://www.cnbcindonesia.com/news/20220713100700-8-355184/kasus-cacar-monyet-tembus-rusia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEwMDcwMC04LTM1NTE4NC9rYXN1cy1jYWNhci1tb255ZXQtdGVtYnVzLXJ1c2lh",
-        "description": " Rusia mengumumkan telah mendeteksi kasus cacar monyet pertama pada seorang pria yang kembali dari perjalanan di Eropa"
-    },
-    {
-        "title": "Blak-blakan Bos Pertamina Soal Kenaikan Harga BBM",
-        "link": "https://www.cnbcindonesia.com/news/20220713105321-4-355211/blak-blakan-bos-pertamina-soal-kenaikan-harga-bbm",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEwNTMyMS00LTM1NTIxMS9ibGFrLWJsYWthbi1ib3MtcGVydGFtaW5hLXNvYWwta2VuYWlrYW4taGFyZ2EtYmJt",
-        "description": " Dirut Pertamina Nicek Widyawati akhirnya buka suara terkait kenaikan harga BBM nonsubsidi, apa sebabnya?"
-    },
-    {
-        "title": "Sinyal Baru Jokowi: Bunga KUR 3% Bakal Disetop Tahun Depan?",
-        "link": "https://www.cnbcindonesia.com/news/20220713104725-4-355210/sinyal-baru-jokowi-bunga-kur-3-bakal-disetop-tahun-depan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEwNDcyNS00LTM1NTIxMC9zaW55YWwtYmFydS1qb2tvd2ktYnVuZ2Eta3VyLTMtYmFrYWwtZGlzZXRvcC10YWh1bi1kZXBhbg==",
-        "description": " Jokowi mengisyaratkan akan menyetop subsidi bunga KUR dengan besaran 3% mulai tahun depan"
-    },
-    {
-        "title": "Ada 6-7 Juta Mobil yang Dilarang Isi Pertalite, Punya Anda?",
-        "link": "https://www.cnbcindonesia.com/news/20220713112540-4-355236/ada-6-7-juta-mobil-yang-dilarang-isi-pertalite-punya-anda",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExMjU0MC00LTM1NTIzNi9hZGEtNi03LWp1dGEtbW9iaWwteWFuZy1kaWxhcmFuZy1pc2ktcGVydGFsaXRlLXB1bnlhLWFuZGE=",
-        "description": " BPH Migas mencatat ada sebanyak 6 - 7 juta kendaraan dengan spesifikasi mesin 2.000 cc - 1.500 cc yang sedianya akan dilarang beli Pertalite"
-    },
-    {
-        "title": "Bye Kiamat Ayam! RI Siap Kirim 1.000 Ton Ayam ke Singapura",
-        "link": "https://www.cnbcindonesia.com/news/20220713111226-4-355224/bye-kiamat-ayam-ri-siap-kirim-1000-ton-ayam-ke-singapura",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExMTIyNi00LTM1NTIyNC9ieWUta2lhbWF0LWF5YW0tcmktc2lhcC1raXJpbS0xMDAwLXRvbi1heWFtLWtlLXNpbmdhcHVyYQ==",
-        "description": " Charoen kantongi kontrak ekspor hingga akhir tahun 2022 ke Singapura."
-    },
-    {
-        "title": "Harga LPG Nonsubsidi Naik, Apa Dampaknya ke Indonesia?",
-        "link": "https://www.cnbcindonesia.com/news/20220713103148-4-355201/harga-lpg-nonsubsidi-naik-apa-dampaknya-ke-indonesia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEwMzE0OC00LTM1NTIwMS9oYXJnYS1scGctbm9uc3Vic2lkaS1uYWlrLWFwYS1kYW1wYWtueWEta2UtaW5kb25lc2lh",
-        "description": " Celios menilai, kenaikan harga LPG subsidi bisa berdampak atas naiknya inflasi di Indonesia"
     }
 ]
