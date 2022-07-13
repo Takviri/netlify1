@@ -1,5 +1,19 @@
 [
     {
+        "title": "Resmi, Pelantikan Dewan Komisioner OJK Digelar 20 Juli 2022",
+        "link": "https://bisnis.tempo.co/read/1611705/resmi-pelantikan-dewan-komisioner-ojk-digelar-20-juli-2022",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExNzA1L3Jlc21pLXBlbGFudGlrYW4tZGV3YW4ta29taXNpb25lci1vamstZGlnZWxhci0yMC1qdWxpLTIwMjI=",
+        "description": "Kepala Biro Hukum dan Humas Mahkamah Agung, Sobandi mengkonfirmasi pelantikan Dewan Komisioner OJK periode 2022-2027."
+    },
+    {
+        "title": "Kementan Dorong KWT Maksimalkan Lahan Pekarangan",
+        "link": "https://bisnis.tempo.co/read/1611718/kementan-dorong-kwt-maksimalkan-lahan-pekarangan",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExNzE4L2tlbWVudGFuLWRvcm9uZy1rd3QtbWFrc2ltYWxrYW4tbGFoYW4tcGVrYXJhbmdhbg==",
+        "description": "Anggota KWT Melati di Bone memanfaatkan barang bekas sebagai media tanam."
+    },
+    {
         "title": "Mentan Minta Peternak Manfaatkan Teknologi",
         "link": "https://bisnis.tempo.co/read/1611715/mentan-minta-peternak-manfaatkan-teknologi",
         "image": "static/images/tempo_bisnis.png",
@@ -7,10 +21,10 @@
         "description": "Kementan terus konsisten memperhatikan dan mendorong usaha peternakan rakyat dan memprioritaskan keberadaan ternak lokal."
     },
     {
-        "title": "RI Akan Ekspor 1.000 Ton Daging Ayam ke Singapura Hingga Akhir Tahun",
-        "link": "https://bisnis.tempo.co/read/1611713/ri-akan-ekspor-1-000-ton-daging-ayam-ke-singapura-hingga-akhir-tahun",
+        "title": "RI Akan Ekspor 1.000 Ton Daging Ayam ke Singapura Hingga Akhir Tahun Ini",
+        "link": "https://bisnis.tempo.co/read/1611713/ri-akan-ekspor-1-000-ton-daging-ayam-ke-singapura-hingga-akhir-tahun-ini",
         "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExNzEzL3JpLWFrYW4tZWtzcG9yLTEtMDAwLXRvbi1kYWdpbmctYXlhbS1rZS1zaW5nYXB1cmEtaGluZ2dhLWFraGlyLXRhaHVu",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExNzEzL3JpLWFrYW4tZWtzcG9yLTEtMDAwLXRvbi1kYWdpbmctYXlhbS1rZS1zaW5nYXB1cmEtaGluZ2dhLWFraGlyLXRhaHVuLWluaQ==",
         "description": "Charoen Pokhpand Indonesia per hari ini resmi melepas ekspor perdana daging ayam ke Singapura tahap pertama sebanyak 50 ton senilai Rp 2 miliar."
     },
     {
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExNjY1L3BlZGFnYW5nLXJvdGktc2FtcGFpLW9iYXQta29tcGxhaW4tc29hbC1zZXJ0aWZpa2FzaS1oYWxhbC1rZS1qb2tvd2k=",
         "description": "Jokowi langsung berjanji bakal mengecek keluhan Wage."
-    },
-    {
-        "title": "BPJS Kesehatan Hadirkan Layanan Hingga ke Ujung Negeri",
-        "link": "https://bisnis.tempo.co/read/1611660/bpjs-kesehatan-hadirkan-layanan-hingga-ke-ujung-negeri",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExNjYwL2JwanMta2VzZWhhdGFuLWhhZGlya2FuLWxheWFuYW4taGluZ2dhLWtlLXVqdW5nLW5lZ2VyaQ==",
-        "description": "Dewan Pengawas BPJS Kesehatan turun langsung memberikan pelayanan informasi seputar JKN di 14 kabupaten/kota terluar"
-    },
-    {
-        "title": "Pertemuan Sherpa G20 Bahas Keanekaragaman Hayati dan Sampah Laut",
-        "link": "https://bisnis.tempo.co/read/1611656/pertemuan-sherpa-g20-bahas-keanekaragaman-hayati-dan-sampah-laut",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjExNjU2L3BlcnRlbXVhbi1zaGVycGEtZzIwLWJhaGFzLWtlYW5la2FyYWdhbWFuLWhheWF0aS1kYW4tc2FtcGFoLWxhdXQ=",
-        "description": "Dalam Presidensi G20 di Naples tahun lalu, para menteri lingkungan G20 sudah berkomitmen melanjutkan dan meningkatkan upaya mengatasi perubahan iklim."
     }
 ]
