@@ -1,5 +1,54 @@
 [
     {
+        "title": "Mentan Berambisi Bangun 300.000 Hektar Lahan Jagung Baru",
+        "link": "https://www.cnbcindonesia.com/news/20220713130055-4-355302/mentan-berambisi-bangun-300000-hektar-lahan-jagung-baru",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEzMDA1NS00LTM1NTMwMi9tZW50YW4tYmVyYW1iaXNpLWJhbmd1bi0zMDAwMDAtaGVrdGFyLWxhaGFuLWphZ3VuZy1iYXJ1",
+        "description": " Mentan Syahrul mau dongkrak produksi jagung nasional sehingga bisa ekspor."
+    },
+    {
+        "title": "Bank Sentral Negara G20 Bicarakan Isu Keuangan Prioritas",
+        "link": "https://www.cnbcindonesia.com/news/20220713120512-8-355255/bank-sentral-negara-g20-bicarakan-isu-keuangan-prioritas",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEyMDUxMi04LTM1NTI1NS9iYW5rLXNlbnRyYWwtbmVnYXJhLWcyMC1iaWNhcmFrYW4taXN1LWtldWFuZ2FuLXByaW9yaXRhcw==",
+        "description": " Puncak agenda pertemuan delegasi dan deputi bank sentral negara anggota G20."
+    },
+    {
+        "title": "Inflasi Jerman Turun Jadi 7,6%, 'Badai' (Belum) Pasti Berlalu",
+        "link": "https://www.cnbcindonesia.com/news/20220713133623-4-355317/inflasi-jerman-turun-jadi-76-badai--belum--pasti-berlalu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEzMzYyMy00LTM1NTMxNy9pbmZsYXNpLWplcm1hbi10dXJ1bi1qYWRpLTc2LWJhZGFpLS1iZWx1bS0tcGFzdGktYmVybGFsdQ==",
+        "description": " Inflasi Jerman pada Juni 2022 tercatat melandai jadi 7,6% secara tahunan (year-on-year/yoy) dari bulan sebelumnya sebesar 7,9%."
+    },
+    {
+        "title": "Toyota Blak Blakan Sambut Industri Mobil di Tanah Air",
+        "link": "https://www.cnbcindonesia.com/news/20220713120457-8-355254/toyota-blak-blakan-sambut-industri-mobil-di-tanah-air",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEyMDQ1Ny04LTM1NTI1NC90b3lvdGEtYmxhay1ibGFrYW4tc2FtYnV0LWluZHVzdHJpLW1vYmlsLWRpLXRhbmFoLWFpcg==",
+        "description": " Toyota Blak Blakan Sambut Industri Mobil di Tanah Air"
+    },
+    {
+        "title": "Breaking News: Sri Lanka Umumkan Keadaan Darurat Nasional",
+        "link": "https://www.cnbcindonesia.com/news/20220713133402-4-355306/breaking-news-sri-lanka-umumkan-keadaan-darurat-nasional",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEzMzQwMi00LTM1NTMwNi9icmVha2luZy1uZXdzLXNyaS1sYW5rYS11bXVta2FuLWtlYWRhYW4tZGFydXJhdC1uYXNpb25hbA==",
+        "description": " Sri Lanka mengumumkan keadaan darurat nasional Rabu (13/7/2022)."
+    },
+    {
+        "title": "Penonton Ramai Saat PPKM Longgar, Bos Bioskop Happy",
+        "link": "https://www.cnbcindonesia.com/news/20220713113347-8-355238/penonton-ramai-saat-ppkm-longgar-bos-bioskop-happy",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExMzM0Ny04LTM1NTIzOC9wZW5vbnRvbi1yYW1haS1zYWF0LXBwa20tbG9uZ2dhci1ib3MtYmlvc2tvcC1oYXBweQ==",
+        "description": " Penonton Ramai Saat PPKM Longgar, Bos Bioskop Happy"
+    },
+    {
+        "title": "Ini Dia Jurus Perdana Mendag Zulhas Tekan Harga Minyak Goreng",
+        "link": "https://www.cnbcindonesia.com/news/20220713124119-4-355271/ini-dia-jurus-perdana-mendag-zulhas-tekan-harga-minyak-goreng",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEyNDExOS00LTM1NTI3MS9pbmktZGlhLWp1cnVzLXBlcmRhbmEtbWVuZGFnLXp1bGhhcy10ZWthbi1oYXJnYS1taW55YWstZ29yZW5n",
+        "description": " Minyakita dapat dimanfaatkan pengusaha sebagai syarat DMO."
+    },
+    {
         "title": "Menimbang Pelarangan Isi BBM Pertalite, 1.500 Atau 2.000 cc?",
         "link": "https://www.cnbcindonesia.com/news/20220713115338-4-355251/menimbang-pelarangan-isi-bbm-pertalite-1500-atau-2000-cc",
         "image": "static/images/cnbc_news.png",
@@ -19,54 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEzMDYzNy00LTM1NTMwMC9iaWRlbi10ZXJiYW5nLWtlLWFyYWIta3VuanVuZ2ktc2F1ZGktaXNyYWVsLXBhbGVzdGluYQ==",
         "description": " Presiden Amerika Serikat (AS) Joe Biden bertolak ke Timur Tengah pada Selasa waktu setempat, mengunjungi Israel, Palestina, dan Arab Saudi."
-    },
-    {
-        "title": "Ada Potensi Perang Dunia Ke-3 Antara China Dan Rusia",
-        "link": "https://www.cnbcindonesia.com/news/20220713120733-8-355259/ada-potensi-perang-dunia-ke-3-antara-china-dan-rusia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEyMDczMy04LTM1NTI1OS9hZGEtcG90ZW5zaS1wZXJhbmctZHVuaWEta2UtMy1hbnRhcmEtY2hpbmEtZGFuLXJ1c2lh",
-        "description": " John Callahan mengatakan ada potensi perang dunia ketiga ditimbulkan dari perang antara China dan Rusia."
-    },
-    {
-        "title": "Harga Pertalite Tanpa Subsidi Jauh Lebih Mahal Dari Pertamax",
-        "link": "https://www.cnbcindonesia.com/news/20220713124833-4-355274/harga-pertalite-tanpa-subsidi-jauh-lebih-mahal-dari-pertamax",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEyNDgzMy00LTM1NTI3NC9oYXJnYS1wZXJ0YWxpdGUtdGFucGEtc3Vic2lkaS1qYXVoLWxlYmloLW1haGFsLWRhcmktcGVydGFtYXg=",
-        "description": " Dirut Pertamina blak-blakan soal harga keekonomian BBM Pertalite yang mencapai Rp 17.200 per liter"
-    },
-    {
-        "title": "WNI Jangan ke Korsel Dulu, PM Warning Covid Meledak 200 Ribu",
-        "link": "https://www.cnbcindonesia.com/news/20220713120624-4-355257/wni-jangan-ke-korsel-dulu-pm-warning-covid-meledak-200-ribu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEyMDYyNC00LTM1NTI1Ny93bmktamFuZ2FuLWtlLWtvcnNlbC1kdWx1LXBtLXdhcm5pbmctY292aWQtbWVsZWRhay0yMDAtcmlidQ==",
-        "description": " Pemerintah Korea Selatan (Korsel) kembali memberikan peringatan terkait kasus Covid-19 di negara itu."
-    },
-    {
-        "title": "Indonesia Punya Potensi Besar Untuk Industri Elektronik",
-        "link": "https://www.cnbcindonesia.com/news/20220713120839-8-355260/indonesia-punya-potensi-besar-untuk-industri-elektronik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEyMDgzOS04LTM1NTI2MC9pbmRvbmVzaWEtcHVueWEtcG90ZW5zaS1iZXNhci11bnR1ay1pbmR1c3RyaS1lbGVrdHJvbmlr",
-        "description": " Indonesia Punya Potensi Besar Untuk Industri Elektronik"
-    },
-    {
-        "title": "Jokowi Minta UMKM Pantenkan Hak Merek Agar Tak Dicomot Asing!",
-        "link": "https://www.cnbcindonesia.com/news/20220713112425-4-355235/jokowi-minta-umkm-pantenkan-hak-merek-agar-tak-dicomot-asing",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExMjQyNS00LTM1NTIzNS9qb2tvd2ktbWludGEtdW1rbS1wYW50ZW5rYW4taGFrLW1lcmVrLWFnYXItdGFrLWRpY29tb3QtYXNpbmc=",
-        "description": " Jokowi meminta pelaku UMKM segera mematenkan HAKi terhadap produk yang mereka miliki."
-    },
-    {
-        "title": "Pertemuan FMCBD G20 Dimulai Hari Ini, Apa Saja yang Dibahas?",
-        "link": "https://www.cnbcindonesia.com/news/20220713111407-7-355227/pertemuan-fmcbd-g20-dimulai-hari-ini-apa-saja-yang-dibahas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExMTQwNy03LTM1NTIyNy9wZXJ0ZW11YW4tZm1jYmQtZzIwLWRpbXVsYWktaGFyaS1pbmktYXBhLXNhamEteWFuZy1kaWJhaGFz",
-        "description": " Pertemuan tersebut berlangsung 13-14 Juli 2022 untuk membahas tujuh agenda utama menyangkut ekonomi global, kesehatan dan keuangan."
-    },
-    {
-        "title": "HKTI Sebut 2 Syarat RI Bisa Capai Swasembada Pangan, Apa Itu?",
-        "link": "https://www.cnbcindonesia.com/news/20220713110234-8-355215/hkti-sebut-2-syarat-ri-bisa-capai-swasembada-pangan-apa-itu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzExMDIzNC04LTM1NTIxNS9oa3RpLXNlYnV0LTItc3lhcmF0LXJpLWJpc2EtY2FwYWktc3dhc2VtYmFkYS1wYW5nYW4tYXBhLWl0dQ==",
-        "description": " HKTI Sebut 2 Syarat RI Bisa Capai Swasembada Pangan"
     }
 ]
