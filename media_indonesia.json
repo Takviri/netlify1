@@ -1,5 +1,33 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/506916/harry-styles-rilis-video-musik-late-night-talking",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNjkxNi9oYXJyeS1zdHlsZXMtcmlsaXMtdmlkZW8tbXVzaWstbGF0ZS1uaWdodC10YWxraW5n",
+        "description": "PENYANYI Harry Styles memanjakan para penggemarnya dengan video musik penuh warna untuk Late Night Talking, single kedua dari album&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/506923/ivana-istri-pertama-donald-trump-tutup-usia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNjkyMy9pdmFuYS1pc3RyaS1wZXJ0YW1hLWRvbmFsZC10cnVtcC10dXR1cC11c2lh",
+        "description": "IVANA Trump, istri pertama Donald Trump dan ibu dari tiga anak tertua mantan Presiden Amerika Serikat (AS) itu, Kamis (14/7),&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/506915/tiktok-perbaharui-rekomendasi-konten-di-fyp",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA2OTE1L3Rpa3Rvay1wZXJiYWhhcnVpLXJla29tZW5kYXNpLWtvbnRlbi1kaS1meXA=",
+        "description": "TIKTOK memperbarui algoritma konten di platform video singkat tersebut demi keamanan dan kesehatan mental para penggunanya. &quot;Kami&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/506922/menag-minta-maaf-jika-layanan-haji-belum-sesuai-harapan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2OTIyL21lbmFnLW1pbnRhLW1hYWYtamlrYS1sYXlhbmFuLWhhamktYmVsdW0tc2VzdWFpLWhhcmFwYW4=",
+        "description": "MENTERI Agama Yaqut Cholil Qoumas meminta maaf kepada jamaah haji jika layanan yang diberikan selama di Tanah Suci masih kurang dari&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/506914/moshiri-tegaskan-everton-tidak-dijual",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNjkxMS90aWJhLWRpLXNpbmdhcHVyYS1wcmVzaWRlbi1zcmktbGFua2Eta2lyaW1rYW4tc3VyYXQtcGVuZ3VuZHVyYW4tZGlyaQ==",
         "description": "PRESIDEN Sri Lanka Gotabaya Rajapaksa mengirimkan surat pengunduran dirinya, tidak lama setelah mendarat di Singapura, Kamis (14/7).&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/506888/uu-agama-dan-adat-minangkabau",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDY4ODgvdXUtYWdhbWEtZGFuLWFkYXQtbWluYW5na2FiYXU=",
-        "description": "RANCANGAN Undang-Undang (RUU) tentang Sumatra Barat baru saja disahkan, sebagai pengganti UU tahun 1958. Salah satu isi yang sempat memancing diskusi ialah tentang bagaimana &ldquo;Adat dan budaya&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/506884/memutus-lingkaran-generasi-stunting",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDY4ODQvbWVtdXR1cy1saW5na2FyYW4tZ2VuZXJhc2ktc3R1bnRpbmc=",
-        "description": "SALAH satu isu prioritas nasional dalam Rencana Pembangunan Jangka Menengah Nasional (RPJMN) 2020-2024 ialah target penurunan&nbsp; &nbsp;stunting&nbsp;dari 24,4% pada 2021 menjadi 14% pada&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/506910/pidcock-menang-di-etape-12-tour-de-france-vingegaard-pertahankan-kaus-kuning",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDY5MTAvcGlkY29jay1tZW5hbmctZGktZXRhcGUtMTItdG91ci1kZS1mcmFuY2UtdmluZ2VnYWFyZC1wZXJ0YWhhbmthbi1rYXVzLWt1bmluZw==",
-        "description": "TOM Pidcock menambah satu kemenangan etape ikonik Tour de France ke dalam CV-nya saat ia mengklaim kesuksesan di L'Alpe&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/506908/indonesia-peringkat-ketiga-di-world-games-wushu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDY5MDgvaW5kb25lc2lhLXBlcmluZ2thdC1rZXRpZ2EtZGktd29ybGQtZ2FtZXMtd3VzaHU=",
-        "description": "TIM wushu Indonesia finis di peringkat ketiga dengan membawa pulang satu medali emas dan dua perak dari ajang World Games 2022 di Birmingham&#8230;"
     }
 ]

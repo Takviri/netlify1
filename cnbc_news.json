@@ -1,5 +1,19 @@
 [
     {
+        "title": "Presiden Sri Lanka Kirim Surat Resign dari Singapura",
+        "link": "https://www.cnbcindonesia.com/news/20220715061728-4-355800/presiden-sri-lanka-kirim-surat-resign-dari-singapura",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNTA2MTcyOC00LTM1NTgwMC9wcmVzaWRlbi1zcmktbGFua2Eta2lyaW0tc3VyYXQtcmVzaWduLWRhcmktc2luZ2FwdXJh",
+        "description": " Presiden Sri Lanka Gotabaya Rajapaksa telah mengajukan pengunduran dirinya."
+    },
+    {
+        "title": "PM Italia Mario Draghi Mengundurkan Diri, Pemerintahan Bubar?",
+        "link": "https://www.cnbcindonesia.com/news/20220715054648-4-355798/pm-italia-mario-draghi-mengundurkan-diri-pemerintahan-bubar",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNTA1NDY0OC00LTM1NTc5OC9wbS1pdGFsaWEtbWFyaW8tZHJhZ2hpLW1lbmd1bmR1cmthbi1kaXJpLXBlbWVyaW50YWhhbi1idWJhcg==",
+        "description": " Perdana Menteri Italia Mario Draghi mengatakan pada Kamis (14/7/2022) bahwa dia akan mengundurkan diri."
+    },
+    {
         "title": "The FED Kerek Suku Bunga Hingga Inflasi AS Rekor Lagi",
         "link": "https://www.cnbcindonesia.com/news/20220714205119-8-355784/the-fed-kerek-suku-bunga-hingga-inflasi-as-rekor-lagi",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDIwMDAyOC00LTM1NTc3NS9wdXRpbi10ZWtlbi11dS15YW5nLWJpa2luLWdlZ2VyLXNvYWwtYWdlbi1hZ2VuLWFzaW5n",
         "description": " Presiden Rusia Vladimir Putin menandatangani undang-undang (UU) terbaru terkait definisi agen pemerintah asing."
-    },
-    {
-        "title": "Euro Keok di Bawah 1 Dolar, Pertama Kali Sejak 20 Tahun",
-        "link": "https://www.cnbcindonesia.com/news/20220714195253-4-355760/euro-keok-di-bawah-1-dolar-pertama-kali-sejak-20-tahun",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDE5NTI1My00LTM1NTc2MC9ldXJvLWtlb2stZGktYmF3YWgtMS1kb2xhci1wZXJ0YW1hLWthbGktc2VqYWstMjAtdGFodW4=",
-        "description": " Nilai mata uang euro mengalami penurunan yang cukup drastis terhadap dolar."
-    },
-    {
-        "title": "Resmi Kabur! Presiden Sri Lanka Sudah Injak Kaki di Singapura",
-        "link": "https://www.cnbcindonesia.com/news/20220714193603-4-355759/resmi-kabur-presiden-sri-lanka-sudah-injak-kaki-di-singapura",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDE5MzYwMy00LTM1NTc1OS9yZXNtaS1rYWJ1ci1wcmVzaWRlbi1zcmktbGFua2Etc3VkYWgtaW5qYWsta2FraS1kaS1zaW5nYXB1cmE=",
-        "description": " Pesawat yang membawa Presiden Sri Lanka Gotabaya Rajapaksa dilaporkan telah mendarat di Singapura, Kamis Sore (14/7)."
     }
 ]
