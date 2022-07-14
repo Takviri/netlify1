@@ -1,5 +1,33 @@
 [
     {
+        "title": "Cek 5 Saham Favorit Siang Ini, Kamu Pegang?",
+        "link": "https://www.cnbcindonesia.com/market/20220714121729-17-355592/cek-5-saham-favorit-siang-ini-kamu-pegang",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE0MTIxNzI5LTE3LTM1NTU5Mi9jZWstNS1zYWhhbS1mYXZvcml0LXNpYW5nLWluaS1rYW11LXBlZ2FuZw==",
+        "description": " 5 saham yang tampil perkasa dan 5 saham yang masuk top loser."
+    },
+    {
+        "title": "Bank Sentral Kanada Naikkan Suku Bunga Acuan 100 Bps",
+        "link": "https://www.cnbcindonesia.com/market/20220714120152-19-355588/bank-sentral-kanada-naikkan-suku-bunga-acuan-100-bps",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE0MTIwMTUyLTE5LTM1NTU4OC9iYW5rLXNlbnRyYWwta2FuYWRhLW5haWtrYW4tc3VrdS1idW5nYS1hY3Vhbi0xMDAtYnBz",
+        "description": " Bank Sentral Kanada atau Bank Of Canada, menaikkan suku bunga acuannya sebesar 100 basis poin"
+    },
+    {
+        "title": "Tiket ke Singapura Rp 21 Juta, Dolarnya Tembus Rp 10.750",
+        "link": "https://www.cnbcindonesia.com/market/20220714112556-17-355571/tiket-ke-singapura-rp-21-juta-dolarnya-tembus-rp-10750",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE0MTEyNTU2LTE3LTM1NTU3MS90aWtldC1rZS1zaW5nYXB1cmEtcnAtMjEtanV0YS1kb2xhcm55YS10ZW1idXMtcnAtMTA3NTA=",
+        "description": " Biaya yang dirogoh untuk bisa liburan ke Singapura di bulan ini bisa membengkak."
+    },
+    {
+        "title": "9 Negara Ini Terancam Bangkrut, tapi Bursa Sahamnya Meroket!",
+        "link": "https://www.cnbcindonesia.com/market/20220714095333-17-355542/9-negara-ini-terancam-bangkrut-tapi-bursa-sahamnya-meroket",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE0MDk1MzMzLTE3LTM1NTU0Mi85LW5lZ2FyYS1pbmktdGVyYW5jYW0tYmFuZ2tydXQtdGFwaS1idXJzYS1zYWhhbW55YS1tZXJva2V0",
+        "description": " Inflasi tinggi membuat dunia kalang kabut, beberapa negara bahkan terancam mengalami kebangkrutan."
+    },
+    {
         "title": "Enggan Mengekor Wall Street, IHSG Menghijau",
         "link": "https://www.cnbcindonesia.com/market/20220714113927-17-355577/enggan-mengekor-wall-street-ihsg-menghijau",
         "image": "static/images/cnbc_market.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE0MTAzMTEwLTE3LTM1NTUzMy9paHNnLXJ1bnR1aC1kYXJpLTcwMDAtaW5pLWRlcmV0YW4tYmlnLWNhcC15YW5nLWphZGkta29yYmFu",
         "description": " Berikut deretan saham big cap yang terkoreksi paling parah seiring dengan penurnan IHSG."
-    },
-    {
-        "title": "Produsen Laptop Axioo Tetapkan Harga IPO Rp 140/Saham",
-        "link": "https://www.cnbcindonesia.com/market/20220714103639-17-355535/produsen-laptop-axioo-tetapkan-harga-ipo-rp-140-saham",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE0MTAzNjM5LTE3LTM1NTUzNS9wcm9kdXNlbi1sYXB0b3AtYXhpb28tdGV0YXBrYW4taGFyZ2EtaXBvLXJwLTE0MC1zYWhhbQ==",
-        "description": " Produsen laptop merek Axioo PT Tera Data Indonusa Tbk (AXIO) menetapkan harga penawaran umum perdana saham atau initial public offering (IPO) Rp 140 per saham"
-    },
-    {
-        "title": "BRI 'Jual' Green Bond dan Bos Baru OJK Dilantik Pekan Depan",
-        "link": "https://www.cnbcindonesia.com/market/20220714101155-19-355527/bri-jual-green-bond-dan-bos-baru-ojk-dilantik-pekan-depan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE0MTAxMTU1LTE5LTM1NTUyNy9icmktanVhbC1ncmVlbi1ib25kLWRhbi1ib3MtYmFydS1vamstZGlsYW50aWstcGVrYW4tZGVwYW4=",
-        "description": " PT Bank Rakyat Indonesia akan melakukan penawaran umum berkelanjutan obligasi Green Bond dengan target dana Rp 15 Triliun"
-    },
-    {
-        "title": "Tembus 9,1%, Inflasi AS 'Meledak' Ke Rekor Tertinggi",
-        "link": "https://www.cnbcindonesia.com/market/20220714100533-19-355522/tembus-91-inflasi-as-meledak-ke-rekor-tertinggi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE0MTAwNTMzLTE5LTM1NTUyMi90ZW1idXMtOTEtaW5mbGFzaS1hcy1tZWxlZGFrLWtlLXJla29yLXRlcnRpbmdnaQ==",
-        "description": " Inflasi Amerika Serikat pada Juni kembali melejit"
-    },
-    {
-        "title": "Abaikan Inflasi AS, Bitcoin cs Bergairah Lagi",
-        "link": "https://www.cnbcindonesia.com/market/20220714093252-17-355517/abaikan-inflasi-as-bitcoin-cs-bergairah-lagi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE0MDkzMjUyLTE3LTM1NTUxNy9hYmFpa2FuLWluZmxhc2ktYXMtYml0Y29pbi1jcy1iZXJnYWlyYWgtbGFnaQ==",
-        "description": " Mayoritas kripto utama berbalik menguat pada perdagangan Kamis (13/7/2022), meski inflasi di Amerika Serikat (AS) kembali melonjak pada periode Juni lalu."
     }
 ]
