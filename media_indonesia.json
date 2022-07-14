@@ -1,5 +1,19 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/506884/memutus-lingkaran-generasi-stunting",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDY4ODQvbWVtdXR1cy1saW5na2FyYW4tZ2VuZXJhc2ktc3R1bnRpbmc=",
+        "description": "SALAH satu isu prioritas nasional dalam Rencana Pembangunan Jangka Menengah Nasional (RPJMN) 2020-2024 ialah target penurunan&nbsp; &nbsp;stunting&nbsp;dari 24,4% pada 2021 menjadi 14% pada&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/506910/pidcock-menang-di-etape-12-tour-de-france-vingegaard-pertahankan-kaus-kuning",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDY5MTAvcGlkY29jay1tZW5hbmctZGktZXRhcGUtMTItdG91ci1kZS1mcmFuY2UtdmluZ2VnYWFyZC1wZXJ0YWhhbmthbi1rYXVzLWt1bmluZw==",
+        "description": "TOM Pidcock menambah satu kemenangan etape ikonik Tour de France ke dalam CV-nya saat ia mengklaim kesuksesan di L'Alpe&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/506908/indonesia-peringkat-ketiga-di-world-games-wushu",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDY5MDEvc29hbC1hbmdnYXJhbi1wZW1pbHUtcGVuZ2FtYXQta3B1LWRhbi1rZW1lbmtldS1oYXJ1cy1jYXJpLXRpdGlrLXRlbXUtdGVyYmFpaw==",
         "description": "TAHAPAN Pemilu 2024 sudah dimulai sejak 14 Juni 2022. Namun, hingga saat ini masih belum ada tanda-tanda bakal cairnya anggaran tambahan tahapan Pemilu 2024, khususnya untuk kebutuhan tahun 2022.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/506892/update-14-juli-1749-kasus-covid-19-bertambah-di-jakarta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2ODkyL3VwZGF0ZS0xNC1qdWxpLTE3NDkta2FzdXMtY292aWQtMTktYmVydGFtYmFoLWRpLWpha2FydGE=",
-        "description": "SEBANYAK 1.749 kasus dari 3.584 kasus covid-19 nasional ditemukan di Provinsi DKI Jakarta pada Kamis (14/7). Angka itu setara dengan 48,9 persen dari total kasus hari ini. &ldquo;Terdiri dari&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506899/mardani-mengaku-ingin-fokus-proses-praperadilan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDY4OTkvbWFyZGFuaS1tZW5nYWt1LWluZ2luLWZva3VzLXByb3Nlcy1wcmFwZXJhZGlsYW4=",
-        "description": "MANTAN Bupati Tanah Bumbu Mardani Maming meminta Komisi Pemberantasan Korupsi (KPK) menghormati proses praperadilan.&nbsp; KPK diminta tidak sembarangan melakukan panggilan dalam kasus dugaan&#8230;"
     }
 ]
