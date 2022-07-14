@@ -1,5 +1,12 @@
 [
     {
+        "title": "Presiden Jokowi Resmikan Mal Sarinah",
+        "link": "https://www.cnbcindonesia.com/news/20220714210538-8-355787/presiden-jokowi-resmikan-mal-sarinah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDIxMDUzOC04LTM1NTc4Ny9wcmVzaWRlbi1qb2tvd2ktcmVzbWlrYW4tbWFsLXNhcmluYWg=",
+        "description": " Presiden Joko Widodo meresmikan Mal Sarinah di Jakarta yang sudah selesai direnovasi."
+    },
+    {
         "title": "JK Ingatkan Pemerintah Soal Mega Proyek IKN",
         "link": "https://www.cnbcindonesia.com/news/20220714212145-4-355791/jk-ingatkan-pemerintah-soal-mega-proyek-ikn",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDE5MDQ0MC00LTM1NTc1NS93YWppYmthbi1ib29zdGVyLWRpLW1hbC1ha2FuLWFkYS1wdXNhdC12YWtzaW4tYm9vc3Rlcg==",
         "description": " Pemerintah mensyaratkan masyarakat yang ingin bepergian ke tempat umum harus sudah mendapat vaksin booster."
-    },
-    {
-        "title": "Covid RI Masih Nanjak, Kembali di Atas 3.000 Kasus",
-        "link": "https://www.cnbcindonesia.com/news/20220714184756-16-355751/covid-ri-masih-nanjak-kembali-di-atas-3000-kasus",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDE4NDc1Ni0xNi0zNTU3NTEvY292aWQtcmktbWFzaWgtbmFuamFrLWtlbWJhbGktZGktYXRhcy0zMDAwLWthc3Vz",
-        "description": " Kasus konfirmasi harian Covid-19 di tanah air masih terus meningkat."
     }
 ]
