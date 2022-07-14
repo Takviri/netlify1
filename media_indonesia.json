@@ -1,5 +1,26 @@
 [
     {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/506605/diyakini-akan-menang-melawan-musk-harga-saham-twitter-melonjak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA2NjA1L2RpeWFraW5pLWFrYW4tbWVuYW5nLW1lbGF3YW4tbXVzay1oYXJnYS1zYWhhbS10d2l0dGVyLW1lbG9uamFr",
+        "description": "HARGA saham Twitter, Rabu (13/7), naik setelah sebuah hedge fund mengungkapkan mereka memutuskan membeli harga saham platform media&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/506606/pln-uiw-babel-gandeng-pemkot-pangkalpinang-kembangkan-bahan-bakar-jumputan-padat-bbjp",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2NjA2L3Bsbi11aXctYmFiZWwtZ2FuZGVuZy1wZW1rb3QtcGFuZ2thbHBpbmFuZy1rZW1iYW5na2FuLWJhaGFuLWJha2FyLWp1bXB1dGFuLXBhZGF0LWJianA=",
+        "description": "PT PLN (Persero) Unit Induk Wilayah (UIW) Bangka Belitung (Babel) menggandeng Pemerintah Kota Pangkalpinang melakukan penandatanganan kerja sama terkait penyediaan Bahan Bakar Jumputan Padat (BBJP)&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/506602/kcci-gelar-pemutaran-perdana-film-decision-to-leave",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNjYwMi9rY2NpLWdlbGFyLXBlbXV0YXJhbi1wZXJkYW5hLWZpbG0tZGVjaXNpb24tdG8tbGVhdmU=",
+        "description": "KOREAN Cultural Center Indonesia, 12 Juli lalu, menggelar acara pemutaran perdana film Korea berjudul Decision to Leave bersama CGV&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/506601/hbohbo-max-raih-140-nominasi-emmy",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2NjAwL2luYXJpZS1leHBvLTIwMjItcGFtZXJrYW4taGFzaWwtcmlzZXQtZGFuLWlub3Zhc2ktdGVyYmFpay1pbmRvbmVzaWE=",
         "description": "BADAN Riset dan Inovasi Nasional (BRIN) akan mengadakan Pameran Riset dan Inovasi Indonesia atau yang dikenal dengan Indonesia Research&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/506595/sterling-pemain-pertama-yang-didatangkan-chelsea-era-boehly",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjU5NS9zdGVybGluZy1wZW1haW4tcGVydGFtYS15YW5nLWRpZGF0YW5na2FuLWNoZWxzZWEtZXJhLWJvZWhseQ==",
-        "description": "RAHEEM Sterling menjadi pemain pertama yang didatangkan Chelsea sejak konsorsium pimpinan Ted Boehly membeli klub itu. Penyerang&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/506594/operasi-hidung-ronaldo-kwateh-berjalan-lancar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjU5NC9vcGVyYXNpLWhpZHVuZy1yb25hbGRvLWt3YXRlaC1iZXJqYWxhbi1sYW5jYXI=",
-        "description": "PSSI menyatakan operasi hidung pemain timnas Indonesia U-19 Ronaldo Joybera Kwateh berjalan lancar dan pesepak bola berusia&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/506542/brin-rumah-perjuangan-periset",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDY1NDIvYnJpbi1ydW1haC1wZXJqdWFuZ2FuLXBlcmlzZXQ=",
-        "description": "PROSES pengalihan periset dari kementerian dan lembaga ke Badan Riset dan Inovasi Nasional (BRIN) telah memasuki tahap akhir. Berdasarkan info resmi BRIN, per 18 Juni 2022, sudah bergabung 3.621 periset&#8230;"
     }
 ]

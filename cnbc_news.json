@@ -1,5 +1,26 @@
 [
     {
+        "title": "China Lewat, Ini Negara Penduduk Terbanyak Dunia di 2023",
+        "link": "https://www.cnbcindonesia.com/news/20220714065320-4-355468/china-lewat-ini-negara-penduduk-terbanyak-dunia-di-2023",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDA2NTMyMC00LTM1NTQ2OC9jaGluYS1sZXdhdC1pbmktbmVnYXJhLXBlbmR1ZHVrLXRlcmJhbnlhay1kdW5pYS1kaS0yMDIz",
+        "description": " Perserikatan Bangsa-Bangsa (PBB) memberikan punya hitungan terbaru terkait jumlah populasi dunia."
+    },
+    {
+        "title": "Pemerintahan Italia Terancam Bubar, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220714063741-4-355464/pemerintahan-italia-terancam-bubar-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDA2Mzc0MS00LTM1NTQ2NC9wZW1lcmludGFoYW4taXRhbGlhLXRlcmFuY2FtLWJ1YmFyLWFkYS1hcGE=",
+        "description": " Pemerintahan Italia terancam bubar setelah partai koalisi, Gerakan Bintang 5 (5-Star Movement), menolak ikut ambil bagian dalam mosi tidak percaya parlemen."
+    },
+    {
+        "title": "Iran Mulai Terseret Perang Rusia, Ukraina di Ujung Tanduk?",
+        "link": "https://www.cnbcindonesia.com/news/20220714062421-4-355462/iran-mulai-terseret-perang-rusia-ukraina-di-ujung-tanduk",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDA2MjQyMS00LTM1NTQ2Mi9pcmFuLW11bGFpLXRlcnNlcmV0LXBlcmFuZy1ydXNpYS11a3JhaW5hLWRpLXVqdW5nLXRhbmR1aw==",
+        "description": " Iran disebut-sebut mulai terlibat dalam perang antara Rusia dan Ukraina."
+    },
+    {
         "title": "Ini yang Bikin WHO Gusar soal Covid-19, Situasi Makin Suram!",
         "link": "https://www.cnbcindonesia.com/news/20220714061054-4-355459/ini-yang-bikin-who-gusar-soal-covid-19-situasi-makin-suram",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzIwMTU0Ni00LTM1NTQ0Ni9zdXJhbS1pbWYtc2VidXQtcHJvc3Blay1la29ub21pLWdsb2JhbC1nZWxhcC1zaWduaWZpa2Fu",
         "description": " Prospek ekonomi global disebut Dana Moneter International (IMF) \"gelap signifikan\""
-    },
-    {
-        "title": "Resesi di Depan Mata, Bagaimana Kondisi Pangan Dunia?",
-        "link": "https://www.cnbcindonesia.com/news/20220713134552-4-355324/resesi-di-depan-mata-bagaimana-kondisi-pangan-dunia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzEzNDU1Mi00LTM1NTMyNC9yZXNlc2ktZGktZGVwYW4tbWF0YS1iYWdhaW1hbmEta29uZGlzaS1wYW5nYW4tZHVuaWE=",
-        "description": " Pasokan pangan dunia diperkirakan turun sehingga membuat ketahanan pangan menjadi tantangan"
-    },
-    {
-        "title": "Eropa sampai China Pening, Ada Bencana Baru Mulai Menyerang",
-        "link": "https://www.cnbcindonesia.com/news/20220713193012-4-355442/eropa-sampai-china-pening-ada-bencana-baru-mulai-menyerang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE5MzAxMi00LTM1NTQ0Mi9lcm9wYS1zYW1wYWktY2hpbmEtcGVuaW5nLWFkYS1iZW5jYW5hLWJhcnUtbXVsYWktbWVueWVyYW5n",
-        "description": " Eropa hingga China kini dilanda bencana baru. Apa itu?"
-    },
-    {
-        "title": "Breaking News: Inflasi AS Makin Menggila, \"Meledak\" 9,1%",
-        "link": "https://www.cnbcindonesia.com/news/20220713195132-4-355443/breaking-news-inflasi-as-makin-menggila-meledak-91",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxMzE5NTEzMi00LTM1NTQ0My9icmVha2luZy1uZXdzLWluZmxhc2ktYXMtbWFraW4tbWVuZ2dpbGEtbWVsZWRhay05MQ==",
-        "description": " Inflasi Amerika Serikat (AS) pada Juni kembali melejit."
     }
 ]
