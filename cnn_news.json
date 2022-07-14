@@ -1,5 +1,33 @@
 [
     {
+        "title": "Polisi Datangi Rumah Ketua RT yang Murka Usai Penembakan Brigadir J",
+        "link": "https://www.cnnindonesia.com/nasional/20220714180047-12-821679/polisi-datangi-rumah-ketua-rt-yang-murka-usai-penembakan-brigadir-j",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNDE4MDA0Ny0xMi04MjE2NzkvcG9saXNpLWRhdGFuZ2ktcnVtYWgta2V0dWEtcnQteWFuZy1tdXJrYS11c2FpLXBlbmVtYmFrYW4tYnJpZ2FkaXItag==",
+        "description": " Polisi disebut mendatangi rumah Ketua RT kediaman Irjen Ferdy Sambo yang menjadi lokasi penembakan Brigadir J untuk meminta izin terkait kegiatan olah TKP."
+    },
+    {
+        "title": "Mahfud MD soal Kasus Brigadir J: Jangan Lindungi Tikus, Terbuka Saja",
+        "link": "https://www.cnnindonesia.com/nasional/20220714180404-12-821686/mahfud-md-soal-kasus-brigadir-j-jangan-lindungi-tikus-terbuka-saja",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNDE4MDQwNC0xMi04MjE2ODYvbWFoZnVkLW1kLXNvYWwta2FzdXMtYnJpZ2FkaXItai1qYW5nYW4tbGluZHVuZ2ktdGlrdXMtdGVyYnVrYS1zYWph",
+        "description": " Menko Polhukam Mahfud MD berharap tim khusus bentukan Polri maupun tim independen dari Komnas HAM mampu mengumpulkan bukti yang akurat terkait kasus Brigadir J."
+    },
+    {
+        "title": "Jokowi Tak Pakai Masker saat Temui Kerumunan Warga di Sarinah",
+        "link": "https://www.cnnindonesia.com/nasional/20220714175048-20-821668/jokowi-tak-pakai-masker-saat-temui-kerumunan-warga-di-sarinah",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNDE3NTA0OC0yMC04MjE2Njgvam9rb3dpLXRhay1wYWthaS1tYXNrZXItc2FhdC10ZW11aS1rZXJ1bXVuYW4td2FyZ2EtZGktc2FyaW5haA==",
+        "description": " Presiden Jokowi\u00c2\u00a0sebelumnya menyatakan memakai masker, di dalam maupun di luar ruangan, masih sebuah keharusan demi menghindari penularan Covid-19."
+    },
+    {
+        "title": "Positif Covid Bertambah 3.584 Kasus, 9 Pasien Meninggal Dunia",
+        "link": "https://www.cnnindonesia.com/nasional/20220714174109-20-821670/positif-covid-bertambah-3584-kasus-9-pasien-meninggal-dunia",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNDE3NDEwOS0yMC04MjE2NzAvcG9zaXRpZi1jb3ZpZC1iZXJ0YW1iYWgtMzU4NC1rYXN1cy05LXBhc2llbi1tZW5pbmdnYWwtZHVuaWE=",
+        "description": " Konfirmasi positif Covid-19 per Kamis (14/7) bertambah sebanyak 3.584 kasus."
+    },
+    {
         "title": "AMAN Kritik Hukum Adat di RKUHP: Sama Sekali Enggak Bener",
         "link": "https://www.cnnindonesia.com/nasional/20220714171710-12-821648/aman-kritik-hukum-adat-di-rkuhp-sama-sekali-enggak-bener",
         "image": "static/images/cnn_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNDE2NTEzMS0yMC04MjE2MzAvYmFuamlyLWJhbmRhbmctdGVyamFuZy0yLWRlc2EtZGktcGF0aS0xMi1ydW1haC1oYW55dXQtdGVyc2VyZXQtYXJ1cw==",
         "description": " Dua desa di Kecamatan Margoyoso, Kabupaten Pati, Jawa Tengah terdampak banjir bandang.\u00c2\u00a0Sebanyak 12 rumah dilaporkan hanyut terbawa arus banjir."
-    },
-    {
-        "title": "FOTO: Batalnya Pemisahan Tempat Duduk Penumpang di Angkot DKI",
-        "link": "https://www.cnnindonesia.com/nasional/20220714154010-22-821584/foto-batalnya-pemisahan-tempat-duduk-penumpang-di-angkot-dki",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNDE1NDAxMC0yMi04MjE1ODQvZm90by1iYXRhbG55YS1wZW1pc2FoYW4tdGVtcGF0LWR1ZHVrLXBlbnVtcGFuZy1kaS1hbmdrb3QtZGtp",
-        "description": " Dishub DKI batal menerapkan kebijakan memisahkan tempat duduk penumpang perempuan dan pria di angkot, dan akan\u00c2\u00a0memaksimalkan upaya lain cegah pelecehan seksual."
-    },
-    {
-        "title": "DPR Buka Kemungkinan Bahas RUU Papua Barat Daya saat Reses",
-        "link": "https://www.cnnindonesia.com/nasional/20220714140214-32-821508/dpr-buka-kemungkinan-bahas-ruu-papua-barat-daya-saat-reses",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNDE0MDIxNC0zMi04MjE1MDgvZHByLWJ1a2Eta2VtdW5na2luYW4tYmFoYXMtcnV1LXBhcHVhLWJhcmF0LWRheWEtc2FhdC1yZXNlcw==",
-        "description": " Anggota Komisi II DPR Rifqinizamy Karsayuda mengatakan RUU Papua Barat Daya kemungkinan dibahas saat masa reses."
-    },
-    {
-        "title": "Geledah BPN Jaksel, Polisi Temukan Sertifikat Warga yang Ditahan",
-        "link": "https://www.cnnindonesia.com/nasional/20220714153524-12-821592/geledah-bpn-jaksel-polisi-temukan-sertifikat-warga-yang-ditahan",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNDE1MzUyNC0xMi04MjE1OTIvZ2VsZWRhaC1icG4tamFrc2VsLXBvbGlzaS10ZW11a2FuLXNlcnRpZmlrYXQtd2FyZ2EteWFuZy1kaXRhaGFu",
-        "description": " Polisi menemukan sejumlah sertifikat yang semestinya sudah diserahkan kepada masyarakat sejak tiga tahun lalu saat menggeledah kantor wilayah BPN Jaksel."
-    },
-    {
-        "title": "Kemenkes Pastikan Tak Ada Karantina Bagi Jemaah Haji Indonesia",
-        "link": "https://www.cnnindonesia.com/nasional/20220714155706-20-821601/kemenkes-pastikan-tak-ada-karantina-bagi-jemaah-haji-indonesia",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNDE1NTcwNi0yMC04MjE2MDEva2VtZW5rZXMtcGFzdGlrYW4tdGFrLWFkYS1rYXJhbnRpbmEtYmFnaS1qZW1hYWgtaGFqaS1pbmRvbmVzaWE=",
-        "description": " Kemenkes memastikan tidak ada proses karantina bagi jemaah haji yang akan tiba dalam beberapa hari ke depan di Indonesia."
     }
 ]
