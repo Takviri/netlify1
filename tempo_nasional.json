@@ -1,5 +1,26 @@
 [
     {
+        "title": "DPR: Pembangunan Duplikasi Jembatan Kapuas Jadi Prioritas",
+        "link": "https://nasional.tempo.co/read/1612077/dpr-pembangunan-duplikasi-jembatan-kapuas-jadi-prioritas",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTIwNzcvZHByLXBlbWJhbmd1bmFuLWR1cGxpa2FzaS1qZW1iYXRhbi1rYXB1YXMtamFkaS1wcmlvcml0YXM=",
+        "description": "Jembatan siap dibangun dan diproyeksikan rampung pada 2023."
+    },
+    {
+        "title": "Jokowi Resmikan Mal Sarinah Bareng Megawati dan Puan Maharani",
+        "link": "https://nasional.tempo.co/read/1612071/jokowi-resmikan-mal-sarinah-bareng-megawati-dan-puan-maharani",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTIwNzEvam9rb3dpLXJlc21pa2FuLW1hbC1zYXJpbmFoLWJhcmVuZy1tZWdhd2F0aS1kYW4tcHVhbi1tYWhhcmFuaQ==",
+        "description": "Jokowi mengatakan Mal Sarinah merupakan sebuah ikon penting bangsa Indonesia, yang merekatkan ingatan dari generasi ke generasi."
+    },
+    {
+        "title": "Manuver PDIP Dinanti, Puan Dinilai Bisa Meretas Koalisi",
+        "link": "https://nasional.tempo.co/read/1612066/manuver-pdip-dinanti-puan-dinilai-bisa-meretas-koalisi",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTIwNjYvbWFudXZlci1wZGlwLWRpbmFudGktcHVhbi1kaW5pbGFpLWJpc2EtbWVyZXRhcy1rb2FsaXNp",
+        "description": "Jika Puan tidak lihai, kata Agung, maka realitas politik bisa berulang seperti Pemilu 1999. Ketika itu, PDIP menang Pileg, namun kalah di Pilpres."
+    },
+    {
         "title": "Bamsoet Dorong Morris Garage Produksi Kendaraan Listrik di Indonesia",
         "link": "https://nasional.tempo.co/read/1612056/bamsoet-dorong-morris-garage-produksi-kendaraan-listrik-di-indonesia",
         "image": "static/images/tempo_nasional.png",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTIwMjYvbW9lbGRva28tamVsYXNrYW4taW5wcmVzLWpva293aS1zb2FsLW1vYmlsLWRpbmFzLWxpc3RyaWstdG5pLXBvbHJp",
         "description": "Moeldoko menyebut Inpres ini untuk mempercepat penggunaan mobil listrik di lingkungan pemerintah, TNI dan Polri."
-    },
-    {
-        "title": "Polisi Selundupkan 52,90 Kg Sabu di Dumai, Polri: Ditindak Tegas hingga Pemecatan",
-        "link": "https://nasional.tempo.co/read/1612022/polisi-selundupkan-5290-kg-sabu-di-dumai-polri-ditindak-tegas-hingga-pemecatan",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTIwMjIvcG9saXNpLXNlbHVuZHVwa2FuLTUyOTAta2ctc2FidS1kaS1kdW1haS1wb2xyaS1kaXRpbmRhay10ZWdhcy1oaW5nZ2EtcGVtZWNhdGFu",
-        "description": "Polri ancam pecat anggotanya yang tertangkap oleh BNN karena menyelundupkan narkoba jenis sabu seberat   52,90 kilogram dari Malaysia ke Indonesia."
-    },
-    {
-        "title": "Inilah Perbedaan Sidang Disiplin dan Sidang Etik Polri",
-        "link": "https://nasional.tempo.co/read/1612008/inilah-perbedaan-sidang-disiplin-dan-sidang-etik-polri",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTIwMDgvaW5pbGFoLXBlcmJlZGFhbi1zaWRhbmctZGlzaXBsaW4tZGFuLXNpZGFuZy1ldGlrLXBvbHJp",
-        "description": "Perbedaan mendasar sidang disiplin dan sidang etik Polri berasal dari perbedaan lembaga yang memberikan aturan."
-    },
-    {
-        "title": "Optimalkan Digitalisasi Bisnis dengan GETrial dari Indosat Business",
-        "link": "https://nasional.tempo.co/read/1612011/optimalkan-digitalisasi-bisnis-dengan-getrial-dari-indosat-business",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTIwMTEvb3B0aW1hbGthbi1kaWdpdGFsaXNhc2ktYmlzbmlzLWRlbmdhbi1nZXRyaWFsLWRhcmktaW5kb3NhdC1idXNpbmVzcw==",
-        "description": "GETrial memberi kesempatan uji coba gratis untuk pelaku bisnis termasuk UMKM."
     }
 ]

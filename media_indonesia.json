@@ -1,6 +1,48 @@
 [
     {
         "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/506776/rupiah-melemah-dipicu-inflasi-as-dan-covid-19-merebak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjc3Ni9ydXBpYWgtbWVsZW1haC1kaXBpY3UtaW5mbGFzaS1hcy1kYW4tY292aWQtMTktbWVyZWJhaw==",
+        "description": "NILAI tukar (kurs) rupiah yang ditransaksikan antarbank di Jakarta pada Kamis (14/7) sore ditutup melemah dipicu rilis data inflasi Amerika Serikat Juni yang melampaui ekspektasi pasar. Rupiah ditutup&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/506774/tips-membuat-konten-sosial-media-untuk-bisnis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA2Nzc0L3RpcHMtbWVtYnVhdC1rb250ZW4tc29zaWFsLW1lZGlhLXVudHVrLWJpc25pcw==",
+        "description": "Era digitalisasi telah mengubah cara sebuah bisnis untuk mempromosikan produknya. Kini dengan biaya minimal, lini usaha apapun dapat diiklankan gratis melalui media sosial. &quot;Anda bisa memanfaatkan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/506772/ratusan-titik-panas-ditemukan-sumbar-siaga-karhutla",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2NzcyL3JhdHVzYW4tdGl0aWstcGFuYXMtZGl0ZW11a2FuLXN1bWJhci1zaWFnYS1rYXJodXRsYQ==",
+        "description": "MEMASUKI musim kemarau, Sumatera Barat (Sumbar) siaga kebakaran hutan dan lahan (karhutla). Hingga Juni 2022, titik panas (hotspot) mencapai 484. Berdasarkan Rapat Koordinasi Penanggulangan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/506771/sumut-perketat-pengawasan-lalu-lintas-hewan-di-perbatasan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2NzcxL3N1bXV0LXBlcmtldGF0LXBlbmdhd2FzYW4tbGFsdS1saW50YXMtaGV3YW4tZGktcGVyYmF0YXNhbg==",
+        "description": "SUMATERA Utara (Sumut) memerketat pengawasan terhadap lalu lintas hewan ternak di perbatasan. Hal ini sebagai salah satu upaya menekan penularan penyakit mulut dan kuku (PMK) ternak. Kepala&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/506770/dorong-transisi-energi-dirjen-migas-resmikan-spbg-penggaron-dan-mangkang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjc3MC9kb3JvbmctdHJhbnNpc2ktZW5lcmdpLWRpcmplbi1taWdhcy1yZXNtaWthbi1zcGJnLXBlbmdnYXJvbi1kYW4tbWFuZ2thbmc=",
+        "description": "PEMERINTAH berkomitmen mendorong transisi energi menuju energi yang bersih dan ramah lingkungan, antara lain melalui pemanfaatan bahan bakar gas (BBG). Salah satu perwujudannya adalah pengoperasian&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/506775/antisipasi-pelecehan-seksual-dishub-dki-kebut-penambahan-jumlah-cctv-di-angkot",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDY3NzUvYW50aXNpcGFzaS1wZWxlY2VoYW4tc2Vrc3VhbC1kaXNodWItZGtpLWtlYnV0LXBlbmFtYmFoYW4tanVtbGFoLWNjdHYtZGktYW5na290",
+        "description": "KEPALA Dinas Perhubungan DKI Jakarta Syafrin Liputo menyatakan pihaknya akan memperbanyak jumlah kamera pemantau (CCTV) di angkutan umum atau angkot. Hal ini akan berjalan sembari menunggu kajian regulasi&#8230;"
+    },
+    {
+        "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/506769/aliansi-mahasiswa-dukung-kebijakan-relaksasi-kredit-terkait-pandemi",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjc2OS9hbGlhbnNpLW1haGFzaXN3YS1kdWt1bmcta2ViaWpha2FuLXJlbGFrc2FzaS1rcmVkaXQtdGVya2FpdC1wYW5kZW1p",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2NzY1L2dhbmphci10YWstc2FiYXItbmFudGlrYW4tbG9rYW5hbnRhLXJlYm9ybg==",
         "description": "STUDIO musik tertua di Indonesia, Lokananta, akan disulap lebih modern dan menghilangkan kesan mistis yang menyelimutinya. Gubernur Jateng Ganjar Pranowo tak bisa menutupi antusiasmenya dan menantikan&#8230;"
-    },
-    {
-        "title": "MGNews",
-        "link": "https://m.mediaindonesia.com/mgnews/506767/kppi-parlemen-butuh-kehadiran-perempuan-dengan-perspektif-gender",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZ25ld3MvNTA2NzY3L2twcGktcGFybGVtZW4tYnV0dWgta2VoYWRpcmFuLXBlcmVtcHVhbi1kZW5nYW4tcGVyc3Bla3RpZi1nZW5kZXI=",
-        "description": "KAUKUS Perempuan Politik Indonesia (KPPI) menekankan pentingnya kehadiran perempuan dalam penyusunan kebijakan. Supaya manfaat kebijakan itu lebih luas dan tidak bias gender.  &ldquo;Suara&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/506764/kasus-stunting-di-babel-terbanyak-di-babar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2NzY0L2thc3VzLXN0dW50aW5nLWRpLWJhYmVsLXRlcmJhbnlhay1kaS1iYWJhcg==",
-        "description": "KABUPATEN Barat (Babar) menjadi wilayah dengan kasus stunting tertinggi di Provinsi Bangka Belitung (Babel). Tahun ini kasus stunting di Babar mencapai 558 kasus dengan kasus terbanyak ditemukan di&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/506762/menikmati-kopi-racikan-barista-disabilitas-di-kota-bekasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2NzYyL21lbmlrbWF0aS1rb3BpLXJhY2lrYW4tYmFyaXN0YS1kaXNhYmlsaXRhcy1kaS1rb3RhLWJla2FzaQ==",
-        "description": "ANGIN bertiup lembut di teras Tanmi Cafe dan Resto, Sentra Terpadu Pangudi Luhur Kementerian Sosial, Jalan Joyomartono, Kota Bekasi, Jawa Barat Rabu (13/7) pagi. Isti, 19, dan Noval, 19, dua&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/506763/djokovic-resmikan-lapangan-tenis-di-piramida-bosnia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDY3NjMvZGpva292aWMtcmVzbWlrYW4tbGFwYW5nYW4tdGVuaXMtZGktcGlyYW1pZGEtYm9zbmlh",
-        "description": "JUARA Wimbledon yang baru saja dinobatkan, Novak Djokovic, meresmikan lapangan tenis di 'taman piramida' di Bosnia yang secara teratur ia kunjungi untuk mengisi ulang baterainya. Bintang&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/506761/banjir-meluas-hingga-genangi-jalur-pantura-pati-rembang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2NzYxL2Jhbmppci1tZWx1YXMtaGluZ2dhLWdlbmFuZ2ktamFsdXItcGFudHVyYS1wYXRpLXJlbWJhbmc=",
-        "description": "BANJIR di Kabupaten Pati meluas hingga jalur pantura penghubung Kabupaten Pati dengan Kabupaten Rembang, tepatnya Desa Widorokandang, Kecamatan Pati, Kabupaten Pati, Kamis (14/7). Banjir yang merendam&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/506758/11-negara-asia-ikut-deklarasi-bali-perkuat-transparansi-pajak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjc1OC8xMS1uZWdhcmEtYXNpYS1pa3V0LWRla2xhcmFzaS1iYWxpLXBlcmt1YXQtdHJhbnNwYXJhbnNpLXBhamFr",
-        "description": "SEBANYAK 11 negara Asia menandatangani Bali Declaration di sela-sela kegiatan G20 pada Kamis (14/7). Hal ini dinilai bakal menjadi landasan kuat untuk mendorong keberhasilan Asia Initiative. &quot;Sebelas&#8230;"
     }
 ]

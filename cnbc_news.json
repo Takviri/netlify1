@@ -1,10 +1,31 @@
 [
     {
+        "title": "AS Bakal Desak China Kasih Keringanan Utang ke Sri Lanka",
+        "link": "https://www.cnbcindonesia.com/news/20220714154107-4-355686/as-bakal-desak-china-kasih-keringanan-utang-ke-sri-lanka",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDE1NDEwNy00LTM1NTY4Ni9hcy1iYWthbC1kZXNhay1jaGluYS1rYXNpaC1rZXJpbmdhbmFuLXV0YW5nLWtlLXNyaS1sYW5rYQ==",
+        "description": " Menteri Keuangan Amerika Serikat (AS) Janet Yellen buka suara mengenai kebangkrutan Sri Lanka."
+    },
+    {
+        "title": "AS - Israel Kerja Sama Cegah Iran Peroleh Senjata Nuklir",
+        "link": "https://www.cnbcindonesia.com/news/20220714165302-8-355724/as--israel-kerja-sama-cegah-iran-peroleh-senjata-nuklir",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDE2NTMwMi04LTM1NTcyNC9hcy0taXNyYWVsLWtlcmphLXNhbWEtY2VnYWgtaXJhbi1wZXJvbGVoLXNlbmphdGEtbnVrbGly",
+        "description": " Presiden Amerika Serikat yaitu Joe Biden dan Perdana Menteri Israel, Yair Lapid menandatangani perjanjian bersama"
+    },
+    {
         "title": "Punya \"Bantalan\" Ini, Indonesia Aman Dari Ancaman Resesi?",
         "link": "https://www.cnbcindonesia.com/news/20220714125209-8-355610/punya-bantalan-ini-indonesia-aman-dari-ancaman-resesi",
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDEyNTIwOS04LTM1NTYxMC9wdW55YS1iYW50YWxhbi1pbmktaW5kb25lc2lhLWFtYW4tZGFyaS1hbmNhbWFuLXJlc2VzaQ==",
         "description": " Punya \"Bantalan\" Ini, Peluang RI Masuk Jurang Resesi Sangat Kecil"
+    },
+    {
+        "title": "Profil Presiden Sri Lanka, dari Pahlawan hingga Jadi Pelarian",
+        "link": "https://www.cnbcindonesia.com/news/20220714142641-4-355648/profil-presiden-sri-lanka-dari-pahlawan-hingga-jadi-pelarian",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDE0MjY0MS00LTM1NTY0OC9wcm9maWwtcHJlc2lkZW4tc3JpLWxhbmthLWRhcmktcGFobGF3YW4taGluZ2dhLWphZGktcGVsYXJpYW4=",
+        "description": " Presiden Sri Lanka, Gotabaya Rajapaksa, meninggalkan negaranya sejak Rabu (13/7/2022) dini hari waktu setempat."
     },
     {
         "title": "Panas! AS 'Serang' Rusia dari Bali",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDE0MzcwMy03LTM1NTY2MS9nYXlhLXNyaS1tdWx5YW5pLWhpbmdnYS1tZW5rZXUtaW5kaWEtYmljYXJhLWNsaW1hdGUtY2hhbmdl",
         "description": " Menteri Keuangan Sri Mulyani Indrawati memahami adanya ancaman serius yang mengintai dunia saat ini selain covid, yaitu climate change atau perubahan iklim."
-    },
-    {
-        "title": "Duh, Karbon Dioksida Tahun 2060 Diprediksi Capai 1 Miliar Ton",
-        "link": "https://www.cnbcindonesia.com/news/20220714150942-4-355674/duh-karbon-dioksida-tahun-2060-diprediksi-capai-1-miliar-ton",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDE1MDk0Mi00LTM1NTY3NC9kdWgta2FyYm9uLWRpb2tzaWRhLXRhaHVuLTIwNjAtZGlwcmVkaWtzaS1jYXBhaS0xLW1pbGlhci10b24=",
-        "description": " PLN memperkirakan kebutuhan listrik nasional pada 2060 bakal meningkat menjadi 1.800 terawatt hour (TWh)"
-    },
-    {
-        "title": "Resesi Ancam Dunia, Menkeu AS: Putin Harus Tanggung Jawab!",
-        "link": "https://www.cnbcindonesia.com/news/20220714161731-4-355705/resesi-ancam-dunia-menkeu-as-putin-harus-tanggung-jawab",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDE2MTczMS00LTM1NTcwNS9yZXNlc2ktYW5jYW0tZHVuaWEtbWVua2V1LWFzLXB1dGluLWhhcnVzLXRhbmdndW5nLWphd2Fi",
-        "description": " Ancaman resesi dunia yang diperkirakan terjadi dalam waktu dekat dianggap Amerika Serikat (AS) sebagai tanggung jawab Rusia."
-    },
-    {
-        "title": "Bos PLN Beberkan Jurus Capai Net Zero Emission 2060",
-        "link": "https://www.cnbcindonesia.com/news/20220714161144-4-355702/bos-pln-beberkan-jurus-capai-net-zero-emission-2060",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDE2MTE0NC00LTM1NTcwMi9ib3MtcGxuLWJlYmVya2FuLWp1cnVzLWNhcGFpLW5ldC16ZXJvLWVtaXNzaW9uLTIwNjA=",
-        "description": " Rencana PLN dalam pengembangan pembangkit EBT telah tertuang dalam RUPTL 2021-2030 dengan porsi penambahan pembangkit listrik sekitar 51,6% hingga 2030."
     }
 ]
