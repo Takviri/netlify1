@@ -1,5 +1,19 @@
 [
     {
+        "title": "Petani Harus Sabar, Harga TBS Sawit Cuma Naik Rp50-Rp100 per Kg",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220714144627-92-821545/petani-harus-sabar-harga-tbs-sawit-cuma-naik-rp50-rp100-per-kg",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE0MTQ0NjI3LTkyLTgyMTU0NS9wZXRhbmktaGFydXMtc2FiYXItaGFyZ2EtdGJzLXNhd2l0LWN1bWEtbmFpay1ycDUwLXJwMTAwLXBlci1rZw==",
+        "description": " Harga TBS sawit masih melempem di sejumlah wilayah. Kenaikannya hanya sekitar Rp50-Rp100 per kg dan masih di bawah Rp1.600 per kg."
+    },
+    {
+        "title": "IHSG Bangkit ke 6.690 Usai Terkapar 3 Hari Berturut-turut",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220714141810-92-821520/ihsg-bangkit-ke-6690-usai-terkapar-3-hari-berturut-turut",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE0MTQxODEwLTkyLTgyMTUyMC9paHNnLWJhbmdraXQta2UtNjY5MC11c2FpLXRlcmthcGFyLTMtaGFyaS1iZXJ0dXJ1dC10dXJ1dA==",
+        "description": " IHSG ditutup di level 6.690 pada Kamis (14/7),\u00c2\u00a0atau menguat 0,74 persen dibandingkan sebelumnya usai terkapar 3 hari berturut-turut."
+    },
+    {
         "title": "Pemprov DKI Kaji Banding Putusan PTUN soal UMP DKI 2022 Batal Naik",
         "link": "https://www.cnnindonesia.com/ekonomi/20220714114038-92-821410/pemprov-dki-kaji-banding-putusan-ptun-soal-ump-dki-2022-batal-naik",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE0MTExMzUxLTkyLTgyMTQwMS9iaWxsLWdhdGVzLWhhcmFwLW9yYW5nLWtheWEtYmFudHUtbWFzeWFyYWthdC1zaW5kaXItZWxvbi1tdXNr",
         "description": " Pendiri Microsoft Bill Gates\u00c2\u00a0berharap orang-orang kaya di dunia mau membantu masyarakat. Belum diketahui apakah pernyataan ini menyindir Elon Musk."
-    },
-    {
-        "title": "8 Pahlawan Nasional Bakal Menghiasi Uang Kertas Emisi 2022",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220714115304-78-821417/8-pahlawan-nasional-bakal-menghiasi-uang-kertas-emisi-2022",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE0MTE1MzA0LTc4LTgyMTQxNy84LXBhaGxhd2FuLW5hc2lvbmFsLWJha2FsLW1lbmdoaWFzaS11YW5nLWtlcnRhcy1lbWlzaS0yMDIy",
-        "description": " Presiden Joko Widodo (Jokowi) menetapkan\u00c2\u00a0delapan pahlawan nasional sebagai gambar utama pada uang kertas emisi 2022."
-    },
-    {
-        "title": "Orang Singapura-Thailand Bisa Saling Transfer Uang Pakai Nomor HP",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220714113421-78-821408/orang-singapura-thailand-bisa-saling-transfer-uang-pakai-nomor-hp",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE0MTEzNDIxLTc4LTgyMTQwOC9vcmFuZy1zaW5nYXB1cmEtdGhhaWxhbmQtYmlzYS1zYWxpbmctdHJhbnNmZXItdWFuZy1wYWthaS1ub21vci1ocA==",
-        "description": " Orang Singapura dan Thailand bisa saling transfer uang hanya bermodalkan nomor HP. Tanpa perlu mengetahui nomor rekening bank masing-masing."
     }
 ]
