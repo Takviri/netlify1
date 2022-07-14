@@ -1,5 +1,47 @@
 [
     {
+        "title": "Mal-Mal Makin Ketat, Belum Booster Tak Bisa Lewat!",
+        "link": "https://www.cnbcindonesia.com/news/20220714115257-4-355584/mal-mal-makin-ketat-belum-booster-tak-bisa-lewat",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDExNTI1Ny00LTM1NTU4NC9tYWwtbWFsLW1ha2luLWtldGF0LWJlbHVtLWJvb3N0ZXItdGFrLWJpc2EtbGV3YXQ=",
+        "description": " Pemerintah kian gencar mendorong masyarakat agar melakukan vaksinasi Covid-19 booster."
+    },
+    {
+        "title": "Ancaman Ngeri yang Ditakutkan Dunia Sudah Terjadi di RI",
+        "link": "https://www.cnbcindonesia.com/news/20220714120004-4-355589/ancaman-ngeri-yang-ditakutkan-dunia-sudah-terjadi-di-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDEyMDAwNC00LTM1NTU4OS9hbmNhbWFuLW5nZXJpLXlhbmctZGl0YWt1dGthbi1kdW5pYS1zdWRhaC10ZXJqYWRpLWRpLXJp",
+        "description": " Menteri Keuangan Sri Mulyani Indrawati memahami adanya ancaman serius yang mengintai dunia saat ini selain covid, yaitu climate change."
+    },
+    {
+        "title": "Komitmen Dunia Dorong Transisi Energi",
+        "link": "https://www.cnbcindonesia.com/news/20220714112059-8-355558/komitmen-dunia-dorong-transisi-energi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDExMjA1OS04LTM1NTU1OC9rb21pdG1lbi1kdW5pYS1kb3JvbmctdHJhbnNpc2ktZW5lcmdp",
+        "description": " Round Table Menteri Keuangan di Side Event G-20 hari ini digelar"
+    },
+    {
+        "title": "Apa Itu Gereja Unifikasi? Sekte yang Terseret Pembunuhan Abe",
+        "link": "https://www.cnbcindonesia.com/news/20220714065800-4-355470/apa-itu-gereja-unifikasi-sekte-yang-terseret-pembunuhan-abe",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDA2NTgwMC00LTM1NTQ3MC9hcGEtaXR1LWdlcmVqYS11bmlmaWthc2ktc2VrdGUteWFuZy10ZXJzZXJldC1wZW1idW51aGFuLWFiZQ==",
+        "description": " Gereja unifikasi cabang Jepang terseret kasus kematian mantan Perdana Menteri (PM) Jepang Shinzo Abe."
+    },
+    {
+        "title": "Pemerintah Tawarkan Tambang Batu Bara ke BUMN dan Pemda Kalteng",
+        "link": "https://www.cnbcindonesia.com/news/20220714111342-4-355556/pemerintah-tawarkan-tambang-batu-bara-ke-bumn-pemda-kalteng",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDExMTM0Mi00LTM1NTU1Ni9wZW1lcmludGFoLXRhd2Fya2FuLXRhbWJhbmctYmF0dS1iYXJhLWtlLWJ1bW4tcGVtZGEta2FsdGVuZw==",
+        "description": " Kementerian ESDM sudah menyerahkan surat penawaran kepada PTBA dan Pemda Kalteng"
+    },
+    {
+        "title": "Biden Kompak dengan Israel, Mau Matikan Program Nuklir Iran",
+        "link": "https://www.cnbcindonesia.com/news/20220714115003-4-355582/biden-kompak-dengan-israel-mau-matikan-program-nuklir-iran",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDExNTAwMy00LTM1NTU4Mi9iaWRlbi1rb21wYWstZGVuZ2FuLWlzcmFlbC1tYXUtbWF0aWthbi1wcm9ncmFtLW51a2xpci1pcmFu",
+        "description": " Presiden AS Joe Biden dan Perdana Menteri (PM) Israel Yair Lapid menandatangani perjanjian bersama untuk mencegah Iran memperoleh senjata nuklir."
+    },
+    {
         "title": "Sri Lanka Krisis, KBRI Pastikan WNI Aman Belum Perlu Evakuasi",
         "link": "https://www.cnbcindonesia.com/news/20220714111821-8-355557/sri-lanka-krisis-kbri-pastikan-wni-aman-belum-perlu-evakuasi",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDEwMzkzOS00LTM1NTUzOS91dGFuZy1yaS1iZW5na2FrLWVmZWstcGVyaWxha3UtcGVqYWJhdC1wb2xpdGlzaS1zYWF0LXBhbmRlbWk=",
         "description": " Hal itu mengemuka dalam acara Advancing Debt and Economic Justice Through G20 Dialogue di Nusa Dua Beach Hotel and Spa, Bali, Kamis (14/7/2022)."
-    },
-    {
-        "title": "Harga Bahan Baku Naik 40%, Bisnis Kafe dan Resto Sulit Untung",
-        "link": "https://www.cnbcindonesia.com/news/20220714104735-8-355540/harga-bahan-baku-naik-40-bisnis-kafe-resto-sulit-untung",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDEwNDczNS04LTM1NTU0MC9oYXJnYS1iYWhhbi1iYWt1LW5haWstNDAtYmlzbmlzLWthZmUtcmVzdG8tc3VsaXQtdW50dW5n",
-        "description": " Harga Bahan Baku Naik 40%, Bisnis Kafe dan Restoran Sulit Untung"
-    },
-    {
-        "title": "Bukan Kaleng-kaleng, PLTU Batu Bara RI Perlahan Bakal Pensiun",
-        "link": "https://www.cnbcindonesia.com/news/20220714105541-4-355551/bukan-kaleng-kaleng-pltu-batu-bara-ri-perlahan-bakal-pensiun",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDEwNTU0MS00LTM1NTU1MS9idWthbi1rYWxlbmcta2FsZW5nLXBsdHUtYmF0dS1iYXJhLXJpLXBlcmxhaGFuLWJha2FsLXBlbnNpdW4=",
-        "description": " Secara perlahan PLN PLTU batu bara akan pensiun dan terganti dengan pembangkit EBT"
-    },
-    {
-        "title": "Mantul! PII Jamin 42 Proyek Infrastruktur Jumbo",
-        "link": "https://www.cnbcindonesia.com/news/20220714100900-8-355525/mantul-pii-jamin-42-proyek-infrastruktur-jumbo",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDEwMDkwMC04LTM1NTUyNS9tYW50dWwtcGlpLWphbWluLTQyLXByb3llay1pbmZyYXN0cnVrdHVyLWp1bWJv",
-        "description": " II telah memberikan penjaminan kepada 42 proyek dengan nilai investasi sebesar Rp 476 Triliun"
-    },
-    {
-        "title": "Biden Tiba di Israel dalam Lawatan ke Timur Tengah",
-        "link": "https://www.cnbcindonesia.com/news/20220714103536-7-355543/biden-tiba-di-israel-dalam-lawatan-ke-timur-tengah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDEwMzUzNi03LTM1NTU0My9iaWRlbi10aWJhLWRpLWlzcmFlbC1kYWxhbS1sYXdhdGFuLWtlLXRpbXVyLXRlbmdhaA==",
-        "description": " Di Israel, Biden dijadwalkan akan berdikusi dengan Perdana Menteri (PM) sementara negara itu, Yair Lapid."
-    },
-    {
-        "title": "Penjualan Mobil Naik Sih, Tapi...",
-        "link": "https://www.cnbcindonesia.com/news/20220714105014-4-355549/penjualan-mobil-naik-sih-tapi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDEwNTAxNC00LTM1NTU0OS9wZW5qdWFsYW4tbW9iaWwtbmFpay1zaWgtdGFwaQ==",
-        "description": " Penjualan mobil sepanjang bulan Juni 2022\u00c2\u00a0melonjak signifikan dibandingkan bulan sebelumnya."
-    },
-    {
-        "title": "Hadiri Forum G20 Bali, Janet Yellen Siap 'Serang' Rusia",
-        "link": "https://www.cnbcindonesia.com/news/20220714111157-4-355555/hadiri-forum-g20-bali-janet-yellen-siap-serang-rusia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDExMTE1Ny00LTM1NTU1NS9oYWRpcmktZm9ydW0tZzIwLWJhbGktamFuZXQteWVsbGVuLXNpYXAtc2VyYW5nLXJ1c2lh",
-        "description": " Menteri Keuangan AS Janet Yellen hadir dalam pertemuan ketiga Finance Ministers and Central Bank Governors (FMCBG), Bali 15-16 Juli 2022."
     }
 ]
