@@ -1,5 +1,12 @@
 [
     {
+        "title": "Daftar Platform Kripto yang Bangkrut",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220714133146-92-821485/daftar-platform-kripto-yang-bangkrut",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE0MTMzMTQ2LTkyLTgyMTQ4NS9kYWZ0YXItcGxhdGZvcm0ta3JpcHRvLXlhbmctYmFuZ2tydXQ=",
+        "description": " Kripto terguncang dalam beberapa bulan mengakibatkan sejumlah platform bangkrut, mulai dari AS hingga Singapura."
+    },
+    {
         "title": "Inflasi AS Mendaki, Ekonom Ketar-ketir Bikin BI Naikkan Suku Bunga",
         "link": "https://www.cnnindonesia.com/ekonomi/20220714124432-532-821438/inflasi-as-mendaki-ekonom-ketar-ketir-bikin-bi-naikkan-suku-bunga",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE0MTAwNjQ4LTkyLTgyMTM2Ni9iaWxsLWdhdGVzLW1hdS1rZWx1YXItZGFyaS1kYWZ0YXItb3JhbmctdGVya2F5YS1kdW5pYS1kb25hc2ktcnAzMDAtdA==",
         "description": " Bill Gates akan mendonasikan US$20 miliar dari total kekayaannya US$114 miliar dan berencana keluar dari daftar orang terkaya di dunia."
-    },
-    {
-        "title": "FOTO: Inflasi AS Makin Tinggi ke 9,1 Persen Gara-gara Harga BBM Naik",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220714074327-94-821301/foto-inflasi-as-makin-tinggi-ke-91-persen-gara-gara-harga-bbm-naik",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE0MDc0MzI3LTk0LTgyMTMwMS9mb3RvLWluZmxhc2ktYXMtbWFraW4tdGluZ2dpLWtlLTkxLXBlcnNlbi1nYXJhLWdhcmEtaGFyZ2EtYmJtLW5haWs=",
-        "description": " Inflasi AS tercatat 9,1 persen pada Juni 2022, angkanya naik lagi dibanding bulan\u00c2\u00a0sebelumnya gara-gara kenaikan harga BBM dan makanan."
     }
 ]
