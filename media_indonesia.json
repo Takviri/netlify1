@@ -1,5 +1,61 @@
 [
     {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/506619/promosikan-makanan-korea-kcci-gelar-peluncuran-buku-k-foodology-dan-lomba-membuat-buku-menu-hansik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNjYxOS9wcm9tb3Npa2FuLW1ha2FuYW4ta29yZWEta2NjaS1nZWxhci1wZWx1bmN1cmFuLWJ1a3Utay1mb29kb2xvZ3ktZGFuLWxvbWJhLW1lbWJ1YXQtYnVrdS1tZW51LWhhbnNpaw==",
+        "description": "KOREAN Cultural Center Indonesia (KCCI) menggelar perilisan buku bertajuk K-Foodology sekaligus menggelar upacara pemberian penghargaan&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/506629/new-york-nyatakan-darurat-vaksin-cacar-monyet",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNjYyOS9uZXcteW9yay1ueWF0YWthbi1kYXJ1cmF0LXZha3Npbi1jYWNhci1tb255ZXQ=",
+        "description": "PEMERINTAH Kota New York menekankan kepada pemerintah Amerika Serikat (AS) bahwa mereka dalam kondisi darurat seiring meningkatnya kasus cacar&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/506628/karyawan-bpjs-ketenagakerjaan-bagikan-kantong-ramah-lingkungan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2NjI4L2thcnlhd2FuLWJwanMta2V0ZW5hZ2FrZXJqYWFuLWJhZ2lrYW4ta2FudG9uZy1yYW1haC1saW5na3VuZ2Fu",
+        "description": "BADAN Penyelenggara Jaminan Sosial (BPJS) Ketenagakerjaan Kantor Cabang Jakarta Sudirman menggelar program&nbsp;Employee Voluntering, di Setiabudi, Jakarta Selatan, Rabu(13/7/2022). Kegiatan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/506627/disinyalir-sma-negeri-di-kota-depok-tidak-terbuka-soal-informasi-kbm",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDY2MjcvZGlzaW55YWxpci1zbWEtbmVnZXJpLWRpLWtvdGEtZGVwb2stdGlkYWstdGVyYnVrYS1zb2FsLWluZm9ybWFzaS1rYm0=",
+        "description": "LEMBAGA pendidikan atau sekolah di Kota Depok, khususnya sekolah negeri tidak terbuka dalam memberikan informasi kepada masyarakat. Yaitu informasi kegiatan belajar (KBM) tahun ajaran 2022. Sekolah-sekolah&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/506626/gajah-betina-lahir-di-pusat-latihan-gajah-padang-sugihan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2NjI2L2dhamFoLWJldGluYS1sYWhpci1kaS1wdXNhdC1sYXRpaGFuLWdhamFoLXBhZGFuZy1zdWdpaGFu",
+        "description": "MENJELANG Hari Gajah Sedunia, yang diperingati setiap 12 Agustus, Balai Konservasi Sumber Daya Alam Sumatera Selatan (BKSDA Sumsel)&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/506615/disney-akan-hadirkan-tiga-tayangan-yang-tampilkan-bts",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNjYxNS9kaXNuZXktYWthbi1oYWRpcmthbi10aWdhLXRheWFuZ2FuLXlhbmctdGFtcGlsa2FuLWJ0cw==",
+        "description": "TIGA konten yang menampilkan grup K-Pop BTS akan hadir di Disney+, yakni BTS: Permission to Dance On Stage - LA, In the Soop: Friendcation,&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506624/komnas-ham-akan-usut-penembakan-brigadir-yosua-hingga-penarikan-kesimpulan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDY2MjQva29tbmFzLWhhbS1ha2FuLXVzdXQtcGVuZW1iYWthbi1icmlnYWRpci15b3N1YS1oaW5nZ2EtcGVuYXJpa2FuLWtlc2ltcHVsYW4=",
+        "description": "KOMISI Nasional Hak Asasi Manusia (Komnas HAM) tidak menetapkan tenggat waktu dalam mengusut kasus penembakan Brigadir Nopryansah&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/506623/sanksi-bagi-pelaku-pelecehan-seksual-wagub-dki-viralkan-di-medsos",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDY2MjMvc2Fua3NpLWJhZ2ktcGVsYWt1LXBlbGVjZWhhbi1zZWtzdWFsLXdhZ3ViLWRraS12aXJhbGthbi1kaS1tZWRzb3M=",
+        "description": "WAKIL Gubernur DKI Jakarta Ahmad Riza Patria (Ariza) mengatakan memviralkan pelaku pelecehan seksual di media sosial (medsos)&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/506614/pilih-fokus-pada-kesehatan-mental-shawn-mendes-tunda-tur-dunia",
         "image": "static/images/media_indonesia.png",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNjYyMi9kYXRhbmdpLWlzcmVhbC1iaWRlbi1hbmNhbS1oYWJpc2ktaXJhbg==",
         "description": "PRESIDEN Amerika Serikat (AS) Joe Biden mengunjungi Israel, Kamis (14/7). Biden menyatakan akan menyerang Iran jika negara itu enggan&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/506613/ukraina-putus-hubungan-dengan-korut-setelah-pyongyang-akui-separatis-pro-rusia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNjYxMy91a3JhaW5hLXB1dHVzLWh1YnVuZ2FuLWRlbmdhbi1rb3J1dC1zZXRlbGFoLXB5b25neWFuZy1ha3VpLXNlcGFyYXRpcy1wcm8tcnVzaWE=",
-        "description": "UKRAINA, Rabu (13/7), mengatakan telah memutuskan hubungan dengan Korea Utara (Korut), beberapa jam setelah kelompok separatis pro-Rusia&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/506620/satpol-pp-padang-tangkap-dua-remaja-terkait-prostitusi-daring",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA2NjIwL3NhdHBvbC1wcC1wYWRhbmctdGFuZ2thcC1kdWEtcmVtYWphLXRlcmthaXQtcHJvc3RpdHVzaS1kYXJpbmc=",
-        "description": "SATUAN Polisi Pamong Praja (Satpol PP) Padang, Sumatra Barat, mengungkap kasus dugaan prostitusi daring dengan mengamankan dua perempuan remaja di salah satu hotel Kota Padang saat melakukan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/506611/terancam-kehilangan-koulibaly-napoli-incar-acerbi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjYxMS90ZXJhbmNhbS1rZWhpbGFuZ2FuLWtvdWxpYmFseS1uYXBvbGktaW5jYXItYWNlcmJp",
-        "description": "KLUB Serie A Napoli dikabarkan tengah membidik bek veteran Lazio Francesco Acerbi pada bursa transfer pemain musim panas ini untuk&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/506618/sinar-mas-land-gaet-chandra-asri-bikin-jalanaspal-dicampur-sampah-plastik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjYxOC9zaW5hci1tYXMtbGFuZC1nYWV0LWNoYW5kcmEtYXNyaS1iaWtpbi1qYWxhbmFzcGFsLWRpY2FtcHVyLXNhbXBhaC1wbGFzdGlr",
-        "description": "SINAR Mas Land kembali menjalin kerja sama dengan PT Chandra Asri Petrochemical Tbk (Chandra Asri) untuk&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/506609/lee-jong-suk-dan-yoona-bintangi-serial-drama-korea-big-mouth",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNjYwOS9sZWUtam9uZy1zdWstZGFuLXlvb25hLWJpbnRhbmdpLXNlcmlhbC1kcmFtYS1rb3JlYS1iaWctbW91dGg=",
-        "description": "DUA bintang film Korea Selatan Lee Jong-Suk dan Lim Yoona (Yoona SNSD) membintangi serial drama Korea noir berjudul Big Mouth,&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/506616/akibat-pencabutan-hak-aborsi-anak-10-tahun-di-as-menyeberang-negara-bagian-untuk-lakukan-aborsi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNjYxNi9ha2liYXQtcGVuY2FidXRhbi1oYWstYWJvcnNpLWFuYWstMTAtdGFodW4tZGktYXMtbWVueWViZXJhbmctbmVnYXJhLWJhZ2lhbi11bnR1ay1sYWt1a2FuLWFib3JzaQ==",
-        "description": "KEPOLISIAN Ohio telah mengonfirmasi bahwa seorang korban pemerkosaan berusia 10 tahun melintasi batas negara bagian untuk mengakhiri kehamilannya.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/506608/ini-ciri-dan-penyebab-jerawat-pada-orang-dewasa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2NjA4L2luaS1jaXJpLWRhbi1wZW55ZWJhYi1qZXJhd2F0LXBhZGEtb3JhbmctZGV3YXNh",
-        "description": "DERMATO Venereologist Fitria Agustina menjelaskan jerawat pada usia dewasa atau adult acne terjadi di usia lebih dari 25 tahun, yang&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/506588/pakan-ikan-berbahan-lokal-pacu-optimisme-peternak-lele",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2NTg4L3Bha2FuLWlrYW4tYmVyYmFoYW4tbG9rYWwtcGFjdS1vcHRpbWlzbWUtcGV0ZXJuYWstbGVsZQ==",
-        "description": "SEBAGAI kota pariwisata yang memiliki sejuta pesona alam dan budaya, Yogyakarta selalu ramai dikunjungi orang dari berbagai daerah hingga mancanegara. Mereka berkunjung tidak hanya untuk menikmati&#8230;"
     }
 ]

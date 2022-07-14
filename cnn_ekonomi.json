@@ -1,5 +1,19 @@
 [
     {
+        "title": "VIDEO: 1.200 Toko Roti di Korsel Gulung Tikar Karena Harga Pangan Naik",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220714081110-96-821320/video-1200-toko-roti-di-korsel-gulung-tikar-karena-harga-pangan-naik",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE0MDgxMTEwLTk2LTgyMTMyMC92aWRlby0xMjAwLXRva28tcm90aS1kaS1rb3JzZWwtZ3VsdW5nLXRpa2FyLWthcmVuYS1oYXJnYS1wYW5nYW4tbmFpaw==",
+        "description": " Lebih dari 1.200 toko roti di Korea Selatan (Korsel) tutup pada tahun ini karena melonjaknya harga bahan makanan."
+    },
+    {
+        "title": "Rupiah Tegang Dekati Rp15 Ribu Karena Inflasi AS Cetak Rekor",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220714090041-78-821337/rupiah-tegang-dekati-rp15-ribu-karena-inflasi-as-cetak-rekor",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE0MDkwMDQxLTc4LTgyMTMzNy9ydXBpYWgtdGVnYW5nLWRla2F0aS1ycDE1LXJpYnUta2FyZW5hLWluZmxhc2ktYXMtY2V0YWstcmVrb3I=",
+        "description": " Rupiah melemah 0,03 persen ke posisi Rp14.996 per dolar AS pada Kamis (14/7), setelah AS mencetak rekor baru inflasi."
+    },
+    {
         "title": "Harga Emas Bangkit ke Rp967 Ribu per Gram, Khawatir Inflasi AS",
         "link": "https://www.cnnindonesia.com/ekonomi/20220714084929-92-821331/harga-emas-bangkit-ke-rp967-ribu-per-gram-khawatir-inflasi-as",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMTgxMzE3LTkyLTgyMTEzNC9rb25zdWx0YW4tdW5na2FwLWVtcGF0LXRhbnRhbmdhbi1iYW5ndW4taWtuLXBhZGEtYmFzdWtp",
         "description": " JICA menyebut\u00c2\u00a0ada empat tantangan yang dihadapi Indonesia dalam menjamin mutu pembangunan IKN Nusantara. Berikut 4 tantangan itu."
-    },
-    {
-        "title": "Dua Komoditas yang Naik Daun di Tengah Krisis Global",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220713165942-92-821096/dua-komoditas-yang-naik-daun-di-tengah-krisis-global",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMTY1OTQyLTkyLTgyMTA5Ni9kdWEta29tb2RpdGFzLXlhbmctbmFpay1kYXVuLWRpLXRlbmdhaC1rcmlzaXMtZ2xvYmFs",
-        "description": " Batu bara dan minyak mentah menjadi komoditas yang sedang naik daun di tengah krisis akibat perang Rusia-Ukraina."
-    },
-    {
-        "title": "Harga Komoditas Tertekan, IHSG Diproyeksi Meradang",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220714055832-92-821263/harga-komoditas-tertekan-ihsg-diproyeksi-meradang",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE0MDU1ODMyLTkyLTgyMTI2My9oYXJnYS1rb21vZGl0YXMtdGVydGVrYW4taWhzZy1kaXByb3lla3NpLW1lcmFkYW5n",
-        "description": " IHSG\u00c2\u00a0diproyeksi meradang pada perdagangan saham hari ini, Kamis (14/7), imbas harga komoditas yang tertekan."
     }
 ]
