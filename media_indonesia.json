@@ -1,6 +1,34 @@
 [
     {
         "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/506914/moshiri-tegaskan-everton-tidak-dijual",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjkxNC9tb3NoaXJpLXRlZ2Fza2FuLWV2ZXJ0b24tdGlkYWstZGlqdWFs",
+        "description": "PEMEGANG saham mayoritas Everton Farhad Moshiri menegaskan klub Liga Primer Inggris itu tidak dijual setelah menggelar pembicaraan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506921/ahyudin-klaim-dana-kompensasi-korban-lion-air-urusan-antara-act-dengan-boeing",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDY5MjEvYWh5dWRpbi1rbGFpbS1kYW5hLWtvbXBlbnNhc2kta29yYmFuLWxpb24tYWlyLXVydXNhbi1hbnRhcmEtYWN0LWRlbmdhbi1ib2Vpbmc=",
+        "description": "MANTAN Presiden Aksi Cepat Tanggap (ACT) Ahyudin menjelaskan soal dugaan penyelewengan dana kompensasi korban kecelakaan pesawat Lion&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506919/kpk-sayangkan-mardani-maming-mangkir-karena-alasan-praperadilan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDY5MTkva3BrLXNheWFuZ2thbi1tYXJkYW5pLW1hbWluZy1tYW5na2lyLWthcmVuYS1hbGFzYW4tcHJhcGVyYWRpbGFu",
+        "description": "KOMISI Pemberantasan Korupsi (KPK) menyayangkan Bendahara Umum (Bendum) Pengurus Besar Nahdlatul Ulama (PBNU) Mardani Maming&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/506913/jabeur-dapat-bintang-jasa-dari-presiden-tunisia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDY5MTMvamFiZXVyLWRhcGF0LWJpbnRhbmctamFzYS1kYXJpLXByZXNpZGVuLXR1bmlzaWE=",
+        "description": "PETENIS Ons Jabeur, yang menjadi petenis putri Afrika pertama yang mencapai final Grand Slam, Kamis (14/7), mendapatkan bintang jasa&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/506912/brentford-datangkan-strakosha-dari-lazio",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjkxMi9icmVudGZvcmQtZGF0YW5na2FuLXN0cmFrb3NoYS1kYXJpLWxhemlv",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDY5MDgvaW5kb25lc2lhLXBlcmluZ2thdC1rZXRpZ2EtZGktd29ybGQtZ2FtZXMtd3VzaHU=",
         "description": "TIM wushu Indonesia finis di peringkat ketiga dengan membawa pulang satu medali emas dan dua perak dari ajang World Games 2022 di Birmingham&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/506909/gol-tunggal-camara-antararema-menang-di-leg-pertama-final-piala-presiden",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjkwOS9nb2wtdHVuZ2dhbC1jYW1hcmEtYW50YXJhcmVtYS1tZW5hbmctZGktbGVnLXBlcnRhbWEtZmluYWwtcGlhbGEtcHJlc2lkZW4=",
-        "description": "GOL tunggal penyerang berdarah Portugal-Guinea Bissau Abel Camara membawa Arema FC memenangi laga leg pertama final turnamen pramusim Piala&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/506907/bolden-masuk-nominasi-untuk-debutan-terbaik-fiba-asia-cup-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDY5MDcvYm9sZGVuLW1hc3VrLW5vbWluYXNpLXVudHVrLWRlYnV0YW4tdGVyYmFpay1maWJhLWFzaWEtY3VwLTIwMjI=",
-        "description": "PEMAIN timnas bola basket Indonesia, Marques Bolden, masuk nominasi untuk penampilan debut terbaik di FIBA Asia Cup 2022. Hal&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/506906/dewa-united-datangkan-gelandang-libanon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjkwNi9kZXdhLXVuaXRlZC1kYXRhbmdrYW4tZ2VsYW5kYW5nLWxpYmFub24=",
-        "description": "DEWA United secara resmi mendatangkan gelandang serang asal Libanon Majed Osman, yang dipersiapkan untuk mengarungi Liga 1 Indonesia&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/506902/kapolda-metro-apresiasi-relawan-sukses-salurkan-11-ton-rendang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDY5MDIva2Fwb2xkYS1tZXRyby1hcHJlc2lhc2ktcmVsYXdhbi1zdWtzZXMtc2FsdXJrYW4tMTEtdG9uLXJlbmRhbmc=",
-        "description": "KAPOLDA Metro Jaya Irjen Fadil Imran mengapresiasi relawan SiapBergerak yang sukses menyalurkan daging olahan rendang kepada masyarakat. Tercatat sebanyak 11 ton paket daging rendang didistribusikan&#8230;"
     }
 ]
