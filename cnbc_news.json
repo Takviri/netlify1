@@ -1,5 +1,33 @@
 [
     {
+        "title": "JK Ingatkan Pemerintah Soal Mega Proyek IKN",
+        "link": "https://www.cnbcindonesia.com/news/20220714212145-4-355791/jk-ingatkan-pemerintah-soal-mega-proyek-ikn",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDIxMjE0NS00LTM1NTc5MS9qay1pbmdhdGthbi1wZW1lcmludGFoLXNvYWwtbWVnYS1wcm95ZWstaWtu",
+        "description": " Mantan Wakil Presiden RI Periode 2014 - 2019 Jusuf Kalla (JK), mengingatkan pemerintah untuk berhati-hati."
+    },
+    {
+        "title": "DJP Luncurkan 2 Kemudahan Ini di Hari Pajak",
+        "link": "https://www.cnbcindonesia.com/news/20220714211824-4-355790/djp-luncurkan-2-kemudahan-ini-di-hari-pajak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDIxMTgyNC00LTM1NTc5MC9kanAtbHVuY3Vya2FuLTIta2VtdWRhaGFuLWluaS1kaS1oYXJpLXBhamFr",
+        "description": " DJP terus melakukan reformasi dengan memperbaiki organisasi, sumber daya manusia, basis data, regulasi, serta teknologi informasi sesuai perkembangan zaman."
+    },
+    {
+        "title": "Sri Mulyani Tawarkan Dunia Agar Selamat dari Perubahan Iklim",
+        "link": "https://www.cnbcindonesia.com/news/20220714211246-4-355789/sri-mulyani-tawarkan-dunia-agar-selamat-dari-perubahan-iklim",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDIxMTI0Ni00LTM1NTc4OS9zcmktbXVseWFuaS10YXdhcmthbi1kdW5pYS1hZ2FyLXNlbGFtYXQtZGFyaS1wZXJ1YmFoYW4taWtsaW0=",
+        "description": " residensi G20 menjadi momentum Indonesia dan negara anggota memperkuat komitmen global dalam mengurangi emisi gas rumah kaca."
+    },
+    {
+        "title": "Raja Salman-Erdogan Ikut Jadi Sekutu Dagang Putin Cs",
+        "link": "https://www.cnbcindonesia.com/news/20220714205941-4-355786/raja-salman-erdogan-ikut-jadi-sekutu-dagang-putin-cs",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDIwNTk0MS00LTM1NTc4Ni9yYWphLXNhbG1hbi1lcmRvZ2FuLWlrdXQtamFkaS1zZWt1dHUtZGFnYW5nLXB1dGluLWNz",
+        "description": " Arab Saudi, Turki, dan Mesir dilaporkan akan segera mengikuti pakta perdagangan BRICS."
+    },
+    {
         "title": "Putin Teken UU yang Bikin Geger Soal Agen-Agen Asing",
         "link": "https://www.cnbcindonesia.com/news/20220714200028-4-355775/putin-teken-uu-yang-bikin-geger-soal-agen-agen-asing",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDE4NDc1Ni0xNi0zNTU3NTEvY292aWQtcmktbWFzaWgtbmFuamFrLWtlbWJhbGktZGktYXRhcy0zMDAwLWthc3Vz",
         "description": " Kasus konfirmasi harian Covid-19 di tanah air masih terus meningkat."
-    },
-    {
-        "title": "Resesi Effect Nyata, Pengusaha Mulai Gelisah Nih",
-        "link": "https://www.cnbcindonesia.com/news/20220714184745-4-355752/resesi-effect-nyata-pengusaha-mulai-gelisah-nih",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDE4NDc0NS00LTM1NTc1Mi9yZXNlc2ktZWZmZWN0LW55YXRhLXBlbmd1c2FoYS1tdWxhaS1nZWxpc2FoLW5paA==",
-        "description": " Dunia sedang di ambang resesi. Apa efeknya ke pelaku usaha di Indonesia?"
-    },
-    {
-        "title": "Airlift, Startup Terbesar Kedua Di Pakistan Berhenti Operasi",
-        "link": "https://www.cnbcindonesia.com/news/20220714171202-8-355730/airlift-startup-terbesar-kedua-di-pakistan-berhenti-operasi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDE3MTIwMi04LTM1NTczMC9haXJsaWZ0LXN0YXJ0dXAtdGVyYmVzYXIta2VkdWEtZGktcGFraXN0YW4tYmVyaGVudGktb3BlcmFzaQ==",
-        "description": " startup kedua terbesar asal Pakistan yaitu Airlift yang memutuskan menghentikan operasionalnya."
-    },
-    {
-        "title": "Detik-detik Bos Bank Dunia Sowan Jokowi di Istana Merdeka",
-        "link": "https://www.cnbcindonesia.com/news/20220714154321-7-355689/detik-detik-bos-bank-dunia-sowan-jokowi-di-istana-merdeka",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDE1NDMyMS03LTM1NTY4OS9kZXRpay1kZXRpay1ib3MtYmFuay1kdW5pYS1zb3dhbi1qb2tvd2ktZGktaXN0YW5hLW1lcmRla2E=",
-        "description": " Presiden Joko Widodo menerima delegasi Bank Dunia di Istana Merdeka, Jakarta, pada Kamis, 14 Juli 2022."
-    },
-    {
-        "title": "Duh! Harga TBS Anjlok, Petani Sawit Menjerit?",
-        "link": "https://www.cnbcindonesia.com/news/20220714184746-8-355753/duh-harga-tbs-anjlok-petani-sawit-menjerit",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDE4NDc0Ni04LTM1NTc1My9kdWgtaGFyZ2EtdGJzLWFuamxvay1wZXRhbmktc2F3aXQtbWVuamVyaXQ=",
-        "description": " Duh! Harga TBS Anjlok, Petani Sawit Menjerit?"
     }
 ]
