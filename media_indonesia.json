@@ -1,10 +1,24 @@
 [
     {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/506902/kapolda-metro-apresiasi-relawan-sukses-salurkan-11-ton-rendang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDY5MDIva2Fwb2xkYS1tZXRyby1hcHJlc2lhc2ktcmVsYXdhbi1zdWtzZXMtc2FsdXJrYW4tMTEtdG9uLXJlbmRhbmc=",
+        "description": "KAPOLDA Metro Jaya Irjen Fadil Imran mengapresiasi relawan SiapBergerak yang sukses menyalurkan daging olahan rendang kepada masyarakat. Tercatat sebanyak 11 ton paket daging rendang didistribusikan&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/506900/soal-daftar-pemilih-bawaslu-minta-kpu-perhatikan-kelompok-rentan",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDY5MDAvc29hbC1kYWZ0YXItcGVtaWxpaC1iYXdhc2x1LW1pbnRhLWtwdS1wZXJoYXRpa2FuLWtlbG9tcG9rLXJlbnRhbg==",
         "description": "BADAN Pengawas Pemilihan Umum (Bawaslu) RI meminta Komisi Pemilihan Umum (KPU) RI untuk memerhatikan kelompok rentan yang belum tercatat dalam Daftar Pemilih Berkelanjutan (DPB).&nbsp; Anggota&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506901/soal-anggaran-pemilu-pengamat-kpu-dan-kemenkeu-harus-cari-titik-temu-terbaik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDY5MDEvc29hbC1hbmdnYXJhbi1wZW1pbHUtcGVuZ2FtYXQta3B1LWRhbi1rZW1lbmtldS1oYXJ1cy1jYXJpLXRpdGlrLXRlbXUtdGVyYmFpaw==",
+        "description": "TAHAPAN Pemilu 2024 sudah dimulai sejak 14 Juni 2022. Namun, hingga saat ini masih belum ada tanda-tanda bakal cairnya anggaran tambahan tahapan Pemilu 2024, khususnya untuk kebutuhan tahun 2022.&#8230;"
     },
     {
         "title": "Humaniora",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNjg5My9hcy1iYWthbC1kZXNhay1nMjAtdGV0YXBrYW4tcGFndS1oYXJnYS11bnR1ay1taW55YWstcnVzaWE=",
         "description": "MENTERI Keuangan (Menkeu) Amerika Serikat (AS) Janet Yellen bakal mendesak negara-negara anggota G20 yang menghadiri pertemuan ke-3 FMCBG di Bali pada 15&ndash;16 Juli untuk menetapkan pagu harga (price&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/506894/dembele-akhirnya-sepakati-kontrak-baru-dengan-barcelona",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjg5NC9kZW1iZWxlLWFraGlybnlhLXNlcGFrYXRpLWtvbnRyYWstYmFydS1kZW5nYW4tYmFyY2Vsb25h",
-        "description": "GELADANG sayap Ousmane Dembele secara resmi telah sepakat untuk meneken kontrak baru dengan Barcelona hingga 2024 mendatang pada bursa transfer pemain musim panas ini. &quot;FC Barcelona dan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/506891/update-14-juli-kasus-covid-19-bertambah-3584-hari-ini",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2ODkxL3VwZGF0ZS0xNC1qdWxpLWthc3VzLWNvdmlkLTE5LWJlcnRhbWJhaC0zNTg0LWhhcmktaW5p",
-        "description": "KASUS covid-19 di Indonesia bertambah 3.584 pada Kamis (14/7). Total kasus konfirmasi positif di Indonesia mencapai 6.123.753 orang. Penambahan itu berdasarkan pemeriksaan terhadap 86.512 spesimen.&#8230;"
     }
 ]
