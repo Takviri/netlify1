@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/506906/dewa-united-datangkan-gelandang-libanon",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjkwNi9kZXdhLXVuaXRlZC1kYXRhbmdrYW4tZ2VsYW5kYW5nLWxpYmFub24=",
+        "description": "DEWA United secara resmi mendatangkan gelandang serang asal Libanon Majed Osman, yang dipersiapkan untuk mengarungi Liga 1 Indonesia&#8230;"
+    },
+    {
         "title": "Megapolitan",
         "link": "https://m.mediaindonesia.com/megapolitan/506902/kapolda-metro-apresiasi-relawan-sukses-salurkan-11-ton-rendang",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MDY4OTYvbWVyY2VkZXMtYmVuei1hbGwtbmV3LWMtY2xhc3MtcmVzbWktbWVuZ2FzcGFsLWRpLWluZG9uZXNpYS1pbmktc3Blc2lmaWthc2ktZGFuLWhhcmdhbnlh",
         "description": "PT Mercedes-Benz Distribution Indonesia meluncurkan All New Mercedes-Benz C-Class pada acara tahunan Mercedes-Benz STAR DRIVE, yang berlangsung 14-17 Juli 2022 di Senayan City Jakarta. &quot;Pada&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/506895/kasus-aktif-covid-19-kota-bekasi-tembus-1114-orang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDY4OTUva2FzdXMtYWt0aWYtY292aWQtMTkta290YS1iZWthc2ktdGVtYnVzLTExMTQtb3Jhbmc=",
-        "description": "PERKEMBANGAN kasus aktif Covid-19 di Kota Bekasi terus bertambah. Hingga update terakhir per 13 Juli 2022, terdapat penambahan kasus konfirmasi baru positif Covid-19 sebanyak 213 orang, sembuh 122&#8230;"
     }
 ]
