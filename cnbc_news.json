@@ -1,5 +1,12 @@
 [
     {
+        "title": "Hot News! BBM Naik Hingga Menkeu Blak-Blakan Soal Resesi",
+        "link": "https://www.cnbcindonesia.com/news/20220714205430-8-355785/hot-news-bbm-naik-hingga-menkeu-blak-blakan-soal-resesi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDIwNTQzMC04LTM1NTc4NS9ob3QtbmV3cy1iYm0tbmFpay1oaW5nZ2EtbWVua2V1LWJsYWstYmxha2FuLXNvYWwtcmVzZXNp",
+        "description": " PT Pertamina (Persero) resmi menaikkan hargaBBM. Hingga Indonesia dikaitkan terjerat krisis dan resesi."
+    },
+    {
         "title": "Presiden Jokowi Resmikan Mal Sarinah",
         "link": "https://www.cnbcindonesia.com/news/20220714210538-8-355787/presiden-jokowi-resmikan-mal-sarinah",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDE5MzE1NS00LTM1NTc1OC9qdXRhYW4tb3Jhbmcta3VuanVuZ2ktbWFsLWJhcnUtc2FyaW5haC1lcmljay10aG9oaXItaGFwcHk=",
         "description": " Pusat perbelanjaan Sarinah telah diresmikan oleh Presiden RI Joko Widodo (Jokowi)."
-    },
-    {
-        "title": "Wajibkan Booster, di Mal akan Ada Pusat Vaksin Booster",
-        "link": "https://www.cnbcindonesia.com/news/20220714190440-4-355755/wajibkan-booster-di-mal-akan-ada-pusat-vaksin-booster",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNDE5MDQ0MC00LTM1NTc1NS93YWppYmthbi1ib29zdGVyLWRpLW1hbC1ha2FuLWFkYS1wdXNhdC12YWtzaW4tYm9vc3Rlcg==",
-        "description": " Pemerintah mensyaratkan masyarakat yang ingin bepergian ke tempat umum harus sudah mendapat vaksin booster."
     }
 ]

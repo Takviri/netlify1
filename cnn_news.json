@@ -1,5 +1,19 @@
 [
     {
+        "title": "Survei Charta: Elektabilitas Ganjar Ungguli Prabowo di Jateng-Jatim",
+        "link": "https://www.cnnindonesia.com/nasional/20220714152653-32-821575/survei-charta-elektabilitas-ganjar-ungguli-prabowo-di-jateng-jatim",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNDE1MjY1My0zMi04MjE1NzUvc3VydmVpLWNoYXJ0YS1lbGVrdGFiaWxpdGFzLWdhbmphci11bmdndWxpLXByYWJvd28tZGktamF0ZW5nLWphdGlt",
+        "description": " Survei terbaru Charta Politika menunjukkan Ganjar Pranowo unggul di Jateng dan Jatim, sementara Prabowo Subianto unggul di Jabar."
+    },
+    {
+        "title": "Koper Jemaah Haji Kloter 1 Dibongkar, Banyak Bawa Zamzam saat Pulang",
+        "link": "https://www.cnnindonesia.com/nasional/20220714141127-20-821525/koper-jemaah-haji-kloter-1-dibongkar-banyak-bawa-zamzam-saat-pulang",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNDE0MTEyNy0yMC04MjE1MjUva29wZXItamVtYWFoLWhhamkta2xvdGVyLTEtZGlib25na2FyLWJhbnlhay1iYXdhLXphbXphbS1zYWF0LXB1bGFuZw==",
+        "description": " Kasi Yanpul PPIH Daker Bandara mengatakan\u00c2\u00a0tidak diperbolehkan membawa air zamzam di dalam bagasi tercatata sesuai aturan GACA."
+    },
+    {
         "title": "Kasus Pelecehan Seksual di DKI Jakarta Meningkat",
         "link": "https://www.cnnindonesia.com/nasional/20220714071745-20-821290/kasus-pelecehan-seksual-di-dki-jakarta-meningkat",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNDIyMjMxNC0xMi04MjE3OTIvZGlwZXJpa3NhLTExLWphbS1yb3ktc3VyeW8ta2xhaW0tbWFzaWgtamFkaS1zYWtzaS1rYXN1cy1zdHVwYS1qb2tvd2k=",
         "description": " Roy Suryo mengaku dicecar 38 pertanyaan selama diperiksa Polda Metro Jaya terkait kasus meme stupa Candi Borobudur mirip wajah Presiden Jokowi."
-    },
-    {
-        "title": "ICJR Dorong Revisi KUHAP dan UU Polri Buntut Kasus Brigadir J",
-        "link": "https://www.cnnindonesia.com/nasional/20220714143933-12-821539/icjr-dorong-revisi-kuhap-dan-uu-polri-buntut-kasus-brigadir-j",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNDE0MzkzMy0xMi04MjE1MzkvaWNqci1kb3JvbmctcmV2aXNpLWt1aGFwLWRhbi11dS1wb2xyaS1idW50dXQta2FzdXMtYnJpZ2FkaXItag==",
-        "description": " Peneliti ICJR Iftitahsasi mengatakan kasus baku tembak yang menewaskan Brigadir J menandakan pengawasan internal kepolisian melalui Propam tidak efektif."
-    },
-    {
-        "title": "Pesan Kapolda Saat Lantik Dirlantas: Jangan Berkantor di Ruangan",
-        "link": "https://www.cnnindonesia.com/nasional/20220714194906-12-821745/pesan-kapolda-saat-lantik-dirlantas-jangan-berkantor-di-ruangan",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNDE5NDkwNi0xMi04MjE3NDUvcGVzYW4ta2Fwb2xkYS1zYWF0LWxhbnRpay1kaXJsYW50YXMtamFuZ2FuLWJlcmthbnRvci1kaS1ydWFuZ2Fu",
-        "description": " Kapolda Metro Jaya Irjen Fadil Imran meminta kepada Kombes Latif Usman selaku Dirlantas Polda Metro Jaya yang baru untuk tidak berkantor di dalam ruangan."
     }
 ]
