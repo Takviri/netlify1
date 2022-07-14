@@ -1,5 +1,12 @@
 [
     {
+        "title": "BMKG Prakirakan Hujan Turun di Sebagian Kota Indonesia",
+        "link": "https://www.jawapos.com/nasional/14/07/2022/bmkg-prakirakan-hujan-turun-di-sebagian-kota-indonesia/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMTQvMDcvMjAyMi9ibWtnLXByYWtpcmFrYW4taHVqYW4tdHVydW4tZGktc2ViYWdpYW4ta290YS1pbmRvbmVzaWEv",
+        "description": "Berdasar data dari BMKG, hujan dengan berbagai intensitas diprakirakan akan turun di sebagian kota-kota besar Indonesia"
+    },
+    {
         "title": "3,2 Juta Buku untuk PAUD-SD Dikirim ke Pelosok Kalimantan dan Sulawesi",
         "link": "https://www.jawapos.com/nasional/pendidikan/13/07/2022/32-juta-buku-untuk-paud-sd-dikirim-ke-pelosok-kalimantan-dan-sulawesi/?page=all",
         "image": "static/images/jawapos_nasional.png",
@@ -61,12 +68,5 @@
         "image": "static/images/jawapos_nasional.png",
         "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMTMvMDcvMjAyMi9iZXNvay1hZGEtZmVub21lbmEtYWxhbS1idWxhbi1wdXJuYW1hLXJ1c2Etc3VwZXItc2ltYWstamFkd2FsbnlhLw==",
         "description": "Pasalnya Tanah Air akan kebagian menyaksikan fenomena alam Purnama Rusa Super yang menyambangi Indonesia pada 14 Juli 2022 besok."
-    },
-    {
-        "title": "Kemlu Siap Dukung BPJS Ketenagakerjaan Tingkatkan Cakupan Kepesertaan",
-        "link": "https://www.jawapos.com/nasional/13/07/2022/kemlu-siap-dukung-bpjs-ketenagakerjaan-tingkatkan-cakupan-kepesertaan/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMTMvMDcvMjAyMi9rZW1sdS1zaWFwLWR1a3VuZy1icGpzLWtldGVuYWdha2VyamFhbi10aW5na2F0a2FuLWNha3VwYW4ta2VwZXNlcnRhYW4v",
-        "description": "Selain melakukan audiensi, BPJAMSOSTEK juga secara simbolis menyerahkan santunan Jaminan Kecelakaan Kerja (JKK) dan Jaminan Kematian (JKM)."
     }
 ]
