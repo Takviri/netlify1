@@ -1,5 +1,26 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/506499/aroma-natural-yang-mendatangkan-cuan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2NDk5L2Fyb21hLW5hdHVyYWwteWFuZy1tZW5kYXRhbmdrYW4tY3Vhbg==",
+        "description": "DI sebuah ruang yang lantainya telah diberi marka dengan lakban berwarna cokelat, dua perempuan tengah sibuk menempeli beberapa label ke deretan botol gelap berukuran kecil. Di seberang mereka, ada&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/506610/kenali-potensi-dan-keunikan-anak-sejak-dini-lewat-mini-gim",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNjYxMC9rZW5hbGktcG90ZW5zaS1kYW4ta2V1bmlrYW4tYW5hay1zZWphay1kaW5pLWxld2F0LW1pbmktZ2lt",
+        "description": "Orangtua harus lebih jeli mengenali potensi anak sejak dini. Ada banyak cara menemukan potensi anak, di antaranya dengan memantau kebiasaan dan kegemaran anak. Selain itu, juga bisa dengan melakukan&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/506607/berkebun-bersama-keluarga-bisa-tingkatkan-pertumbuhan-fisik-dan-mental-anak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNjYwNy9iZXJrZWJ1bi1iZXJzYW1hLWtlbHVhcmdhLWJpc2EtdGluZ2thdGthbi1wZXJ0dW1idWhhbi1maXNpay1kYW4tbWVudGFsLWFuYWs=",
+        "description": "Beberapa orang mungkin berpikir bahwa 'kegiatan keluarga yang menyenangkan' harus melibatkan liburan atau pergi ke mall untuk makan atau menonton film, nyatanya ada banyak hal yang dapat Anda&#8230;"
+    },
+    {
         "title": "Teknologi",
         "link": "https://m.mediaindonesia.com/teknologi/506605/diyakini-akan-menang-melawan-musk-harga-saham-twitter-melonjak",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjYwMy9iYXJjZWxvbmEtc2VwYWthdC1kYXRhbmdrYW4tcmFwaGluaGEtZGFyaS1sZWVkcw==",
         "description": "BARCELONA telah mencapai kesepakatan untuk mendatangkan pemain sayap Brasil Raphinha dari klub Liga Primer Inggris Leeds United.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/506598/ini-cara-cegah-risiko-penyakit-kardiovaskular-pada-anak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2NTk4L2luaS1jYXJhLWNlZ2FoLXJpc2lrby1wZW55YWtpdC1rYXJkaW92YXNrdWxhci1wYWRhLWFuYWs=",
-        "description": "PENYAKIT kardiovaskular (PKV) merupakan penyebab kematian utama di seluruh dunia, khususnya di negara berpenghasilan rendah dan&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/506597/hakim-as-tolak-permintaan-heard-untuk-gelar-sidang-ulang-melawan-depp",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNjU5Ny9oYWtpbS1hcy10b2xhay1wZXJtaW50YWFuLWhlYXJkLXVudHVrLWdlbGFyLXNpZGFuZy11bGFuZy1tZWxhd2FuLWRlcHA=",
-        "description": "SEORANG hakim di Virginia, Amerika Serikat (AS), Rabu (13/7), menolak permintaan aktris Amber Heard untuk menggelar sidang pencemaran&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/506600/inarie-expo-2022-pamerkan-hasil-riset-dan-inovasi-terbaik-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2NjAwL2luYXJpZS1leHBvLTIwMjItcGFtZXJrYW4taGFzaWwtcmlzZXQtZGFuLWlub3Zhc2ktdGVyYmFpay1pbmRvbmVzaWE=",
-        "description": "BADAN Riset dan Inovasi Nasional (BRIN) akan mengadakan Pameran Riset dan Inovasi Indonesia atau yang dikenal dengan Indonesia Research&#8230;"
     }
 ]
