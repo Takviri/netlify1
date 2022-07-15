@@ -1,5 +1,26 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/506924/evos-luncurkan-serial-realitas-efc-pro-series-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDY5MjQvZXZvcy1sdW5jdXJrYW4tc2VyaWFsLXJlYWxpdGFzLWVmYy1wcm8tc2VyaWVzLTIwMjI=",
+        "description": "ORGANISASI esports profesional EVOS Esports, Kamis (14/7), meluncurkan dan menayangkan secara perdana serial realitas (reality show)&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/506925/menteri-pupr-resmi-membuka-festival-dan-konferensi-arsitektur-archid",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjkyNS9tZW50ZXJpLXB1cHItcmVzbWktbWVtYnVrYS1mZXN0aXZhbC1kYW4ta29uZmVyZW5zaS1hcnNpdGVrdHVyLWFyY2hpZA==",
+        "description": "ARCH:ID merupakan sebuah acara konferensi dan pameran arsitektur yang diselenggarakan oleh Ikatan Arsitek Indonesia (IAI) yang berkolaborasi dengan PT Citra Inovasi Strategi (CIS) Exhibition. Festival&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/506917/gandeng-pbesi-tri-kembali-gelar-turnamen-h3ro-esports",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDY5MTcvZ2FuZGVuZy1wYmVzaS10cmkta2VtYmFsaS1nZWxhci10dXJuYW1lbi1oM3JvLWVzcG9ydHM=",
+        "description": "SETELAH sukses menggelar Turnamen H3RO Esports 2.0, tahun lalu, tahun ini, Indosat Ooredoo Hutchison melalui brand Tri, berkolaborasi&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/506916/harry-styles-rilis-video-musik-late-night-talking",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDY5MTkva3BrLXNheWFuZ2thbi1tYXJkYW5pLW1hbWluZy1tYW5na2lyLWthcmVuYS1hbGFzYW4tcHJhcGVyYWRpbGFu",
         "description": "KOMISI Pemberantasan Korupsi (KPK) menyayangkan Bendahara Umum (Bendum) Pengurus Besar Nahdlatul Ulama (PBNU) Mardani Maming&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/506913/jabeur-dapat-bintang-jasa-dari-presiden-tunisia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDY5MTMvamFiZXVyLWRhcGF0LWJpbnRhbmctamFzYS1kYXJpLXByZXNpZGVuLXR1bmlzaWE=",
-        "description": "PETENIS Ons Jabeur, yang menjadi petenis putri Afrika pertama yang mencapai final Grand Slam, Kamis (14/7), mendapatkan bintang jasa&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/506912/brentford-datangkan-strakosha-dari-lazio",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjkxMi9icmVudGZvcmQtZGF0YW5na2FuLXN0cmFrb3NoYS1kYXJpLWxhemlv",
-        "description": "BRENTFORD mendatangkan kiper Albania Thomas Strakosha secara bebas transfer dari Lazio, Kamis (14/7). Kepindahan Strakosha&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/506911/tiba-di-singapura-presiden-sri-lanka-kirimkan-surat-pengunduran-diri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNjkxMS90aWJhLWRpLXNpbmdhcHVyYS1wcmVzaWRlbi1zcmktbGFua2Eta2lyaW1rYW4tc3VyYXQtcGVuZ3VuZHVyYW4tZGlyaQ==",
-        "description": "PRESIDEN Sri Lanka Gotabaya Rajapaksa mengirimkan surat pengunduran dirinya, tidak lama setelah mendarat di Singapura, Kamis (14/7).&#8230;"
     }
 ]
