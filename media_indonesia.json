@@ -1,5 +1,47 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/506954/pidcock-siap-jadi-unggulan-di-tour-de-france-yang-akan-datang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDY5NTQvcGlkY29jay1zaWFwLWphZGktdW5nZ3VsYW4tZGktdG91ci1kZS1mcmFuY2UteWFuZy1ha2FuLWRhdGFuZw==",
+        "description": "TOM Pidcock ingin meraih kesuksesan lagi di Tour de France setelah memenangi etape ikonik di L'Alpe d'Huez untuk menyematkan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506968/bareksrim-periksa-lima-saksi-dugaan-pidana-act-hari-ini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDY5NjgvYmFyZWtzcmltLXBlcmlrc2EtbGltYS1zYWtzaS1kdWdhYW4tcGlkYW5hLWFjdC1oYXJpLWluaQ==",
+        "description": "DIREKTORAT Tindak Pidana Ekonomi Khusus (Dittipideksus) Bareskrim Polri terus memeriksa saksi untuk mengungkap fakta dugaan pidana di yayasan Aksi Cepat Tanggap (<a href=\"http://mediaindonesia.com/tag/act\"&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/506952/inter-milan-optimistis-bisa-datangkan-bremer-dari-torino",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjk1Mi9pbnRlci1taWxhbi1vcHRpbWlzdGlzLWJpc2EtZGF0YW5na2FuLWJyZW1lci1kYXJpLXRvcmlubw==",
+        "description": "KLUB Serie A Inter Milan percaya diri untuk mengamankan jasa bek Gleison Bremer dari Torino pada bursa transfer pemain musim&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/506966/pogacar-bertekad-bangkit-setelah-sempat-dihantui-rasa-kurang-percaya-diri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDY5NjYvcG9nYWNhci1iZXJ0ZWthZC1iYW5na2l0LXNldGVsYWgtc2VtcGF0LWRpaGFudHVpLXJhc2Eta3VyYW5nLXBlcmNheWEtZGlyaQ==",
+        "description": "KEGAGALAN pembalap sepeda Tadej Pogacar mempertahankan kepemimpinannya, di puncak klasemen Tour de France, pada balapan etape&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/506965/menteri-sandiaga-uno-ajak-para-santri-buat-konten-islami-inspirarif",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjk2NS9tZW50ZXJpLXNhbmRpYWdhLXVuby1hamFrLXBhcmEtc2FudHJpLWJ1YXQta29udGVuLWlzbGFtaS1pbnNwaXJhcmlm",
+        "description": "MENTERI Pariwisata dan Ekonomi Kreatif (Menparekraf)/ Kepala Badan Pariwisata dan Ekonomi Kreatif (Barekraf) Sandiaga Salahuddin Uno mengajak para santri menciptakan konten islami yang luar biasa dan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506963/kemenkominfo-demokrasi-era-digital-bawa-angin-segar-dalam-proses-berekspresi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDY5NjMva2VtZW5rb21pbmZvLWRlbW9rcmFzaS1lcmEtZGlnaXRhbC1iYXdhLWFuZ2luLXNlZ2FyLWRhbGFtLXByb3Nlcy1iZXJla3NwcmVzaQ==",
+        "description": "PEMERINTAH beserta seluruh elemen masyarakat diharapkan dapat meningkatkan kualitas demokrasi, sekaligus mengimplementasikan pelaksanaan demokrasi Pancasila di era digital dengan damai. Demikian&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/506962/ini-perbedaan-nyeri-dada-akibat-gerd-dan-serangan-jantung-serta-penanganannya",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2OTYwL2tlbWVua2VzLXBhbnRhdS1rb25kaXNpLWtlc2VoYXRhbi1qZW1hYWgtaGFqaS1zZWtlbWJhbGlueWEta2UtdGFuYWgtYWly",
         "description": "KEMENTERIAN Kesehatan, melalui fasilitas kesehatan primer, akan melakukan pemantauan kondisi kesehatan haji pascakepulangan mereka ke&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/506959/ihsg-dibuka-melemah-pada-perdagangan-hari-ini",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjk1OS9paHNnLWRpYnVrYS1tZWxlbWFoLXBhZGEtcGVyZGFnYW5nYW4taGFyaS1pbmk=",
-        "description": "PERGERAKAN Indeks Harga Saham gabungan (IHSG) pada hari ini, Jumat (15/7), dibuka melemah 0,05% atau 3,54 poin ke posisi 6.686,55. Sementara itu, kelompok 45 saham unggulan atau indeks LQ45 turun 0,06%&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/506950/ini-tanda-tanda-kerusakan-kulit-akibat-penggunaan-krim-bermerkuri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2OTUwL2luaS10YW5kYS10YW5kYS1rZXJ1c2FrYW4ta3VsaXQtYWtpYmF0LXBlbmdndW5hYW4ta3JpbS1iZXJtZXJrdXJp",
-        "description": "DOKTER spesialis kulit dan kelamin Listya Paramita menjelaskan sejumlah tanda-tanda kerusakan kulit yang bisa terjadi akibat penggunaan krim&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/506951/jemaah-bersiap-tinggalkan-mekkah-mantap-pak-menteri-terima-kasih-pak-jokowi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2OTUxL2plbWFhaC1iZXJzaWFwLXRpbmdnYWxrYW4tbWVra2FoLW1hbnRhcC1wYWstbWVudGVyaS10ZXJpbWEta2FzaWgtcGFrLWpva293aQ==",
-        "description": "JEMAAH haji kloter awal mulai bersiap meninggalkan Arab Saudi kembali ke tanah air. Banyak kenangan selama lebih sebulan berada di Tanah Suci.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/506948/ini-tips-memilih-produk-kosmetik-yang-aman-dari-dokter-kulit",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2OTQ4L2luaS10aXBzLW1lbWlsaWgtcHJvZHVrLWtvc21ldGlrLXlhbmctYW1hbi1kYXJpLWRva3Rlci1rdWxpdA==",
-        "description": "DOKTER spesialis kulit dan kelamin Listya Paramita membagikan kiat-kiat bagi konsumen dalam memilih produk kosmetik yang aman untuk&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/506955/kemenag-didesak-buat-aturan-pencegahan-kekerasan-seksual-di-lembaga-pendidikan-agama",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2OTU1L2tlbWVuYWctZGlkZXNhay1idWF0LWF0dXJhbi1wZW5jZWdhaGFuLWtla2VyYXNhbi1zZWtzdWFsLWRpLWxlbWJhZ2EtcGVuZGlkaWthbi1hZ2FtYQ==",
-        "description": "WAKIL Ketua Komisi VIII DPR RI Diah Pitaloka mendesak Kementerian Agama segera menerbitkan Peraturan Menteri Agama tentang pencegahan dan penanggulangan kekerasan seksual di lembaga pendidikan agama.&nbsp;&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/506953/cegah-pemanasan-global-pertamina-dorong-kolaborasi-global-sukseskan-transisi-energi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNjk1My9jZWdhaC1wZW1hbmFzYW4tZ2xvYmFsLXBlcnRhbWluYS1kb3Jvbmcta29sYWJvcmFzaS1nbG9iYWwtc3Vrc2Vza2FuLXRyYW5zaXNpLWVuZXJnaQ==",
-        "description": "MENCEGAH pemanasan global dan perubahan iklim menjadi tantangan semua negara di dunia, baik negara maju maupun negara berkembang. Termasuk di dalamnya adalah perusahaan energi dan kalangan industri.&nbsp;&#8230;"
     }
 ]
