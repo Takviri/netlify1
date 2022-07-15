@@ -1,5 +1,47 @@
 [
     {
+        "title": "Survei Indopol: Elektabilitas Prabowo Turun Signifikan, Ganjar dan Anies Naik",
+        "link": "https://nasional.tempo.co/read/1612406/survei-indopol-elektabilitas-prabowo-turun-signifikan-ganjar-dan-anies-naik",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI0MDYvc3VydmVpLWluZG9wb2wtZWxla3RhYmlsaXRhcy1wcmFib3dvLXR1cnVuLXNpZ25pZmlrYW4tZ2FuamFyLWRhbi1hbmllcy1uYWlr",
+        "description": "Jika menggunakan simulasi terbuka, elektabilitas Ganjar sebesar 17,89 persen; atau mengalami kenaikan 3,91 persen dari survei Juni 2022."
+    },
+    {
+        "title": "Mathius Awoitaw: Kongres AMAN Jadi Pelangi di wilayah Adat Tabi",
+        "link": "https://nasional.tempo.co/read/1612408/mathius-awoitaw-kongres-aman-jadi-pelangi-di-wilayah-adat-tabi",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI0MDgvbWF0aGl1cy1hd29pdGF3LWtvbmdyZXMtYW1hbi1qYWRpLXBlbGFuZ2ktZGktd2lsYXlhaC1hZGF0LXRhYmk=",
+        "description": "Ribuan perwakilan masyarakat adat dari seluruh Indonesia siap hadir di Kongres Masyarakat Adat Nusantara VI di Jayapura."
+    },
+    {
+        "title": "Sisi Positif Pandemi untuk Kekayaan Intelektual Indonesia",
+        "link": "https://nasional.tempo.co/read/1612405/sisi-positif-pandemi-untuk-kekayaan-intelektual-indonesia",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI0MDUvc2lzaS1wb3NpdGlmLXBhbmRlbWktdW50dWsta2VrYXlhYW4taW50ZWxla3R1YWwtaW5kb25lc2lh",
+        "description": "Yasonna menyebut DJKI menelurkan berbagai kebijakan kekayaan intelektual yang berdampak nyata."
+    },
+    {
+        "title": "10 Peristiwa Polisi Tembak Polisi dari 2005 hingga Tragedi di Rumah Dinas Irjen Ferdy Sambo",
+        "link": "https://nasional.tempo.co/read/1612399/10-peristiwa-polisi-tembak-polisi-dari-2005-hingga-tragedi-di-rumah-dinas-irjen-ferdy-sambo",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTIzOTkvMTAtcGVyaXN0aXdhLXBvbGlzaS10ZW1iYWstcG9saXNpLWRhcmktMjAwNS1oaW5nZ2EtdHJhZ2VkaS1kaS1ydW1haC1kaW5hcy1pcmplbi1mZXJkeS1zYW1ibw==",
+        "description": "Untuk ke sekian kalinya, insiden polisi tembak polisi menghiasi wajah Polri. Kejdian di rumah Irjen Ferdy Sambo, 8 Juli 2022 bukan kali pertama."
+    },
+    {
+        "title": "Cegah Lonjakan Covid-19, Pemerintah Bakal Skrining Jemaah Haji yang Pulang",
+        "link": "https://nasional.tempo.co/read/1612401/cegah-lonjakan-covid-19-pemerintah-bakal-skrining-jemaah-haji-yang-pulang",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI0MDEvY2VnYWgtbG9uamFrYW4tY292aWQtMTktcGVtZXJpbnRhaC1iYWthbC1za3JpbmluZy1qZW1hYWgtaGFqaS15YW5nLXB1bGFuZw==",
+        "description": "Masa kepulangan jemaah haji ke Tanah Air akan berlangsung dalam dua gelombang. Skrining dilakukan untuk antisipasi penyebaran Covid-19."
+    },
+    {
+        "title": "Bamsoet: PPHN Hadir Tanpa Amandemen UUD 45",
+        "link": "https://nasional.tempo.co/read/1612404/bamsoet-pphn-hadir-tanpa-amandemen-uud-45",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI0MDQvYmFtc29ldC1wcGhuLWhhZGlyLXRhbnBhLWFtYW5kZW1lbi11dWQtNDU=",
+        "description": "bentuk hukum PPHN yang paling tepat dilakukan melalui Ketetapan MPR RI."
+    },
+    {
         "title": "Kuasa Hukum Minta Media Berempati dalam Pemberitaan Kasus Istri Ferdy Sambo",
         "link": "https://nasional.tempo.co/read/1612393/kuasa-hukum-minta-media-berempati-dalam-pemberitaan-kasus-istri-ferdy-sambo",
         "image": "static/images/tempo_nasional.png",
@@ -26,47 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTIzNDYvZHVnYWFuLWtvcnVwc2ktcGVuZ2FkYWFuLXRhbmFoLW9sZWgtcGQtc2FyYW5hLWpheWEta3BrLW1hc2loLWt1bXB1bGthbi1idWt0aQ==",
         "description": "KPK menyelidiki dugaan korupsi pengadaan tanah oleh Sarana Jaya. Belum ada tersangka yang bisa diumumkan."
-    },
-    {
-        "title": "Ketika Elite PDIP Beda Suara Soal Peluang Koalisi dengan PKS dan Demokrat",
-        "link": "https://nasional.tempo.co/read/1612341/ketika-elite-pdip-beda-suara-soal-peluang-koalisi-dengan-pks-dan-demokrat",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTIzNDEva2V0aWthLWVsaXRlLXBkaXAtYmVkYS1zdWFyYS1zb2FsLXBlbHVhbmcta29hbGlzaS1kZW5nYW4tcGtzLWRhbi1kZW1va3JhdA==",
-        "description": "Beberapa elite PDIP belakangan mengungkapkan sinyal yang berbeda soal peluang berkoalisi dengan Partai Demokrat dan PKS di Pilpres 2024."
-    },
-    {
-        "title": "Inilah Sanksi bagi Polisi yang Melanggar Kode Etik",
-        "link": "https://nasional.tempo.co/read/1612294/inilah-sanksi-bagi-polisi-yang-melanggar-kode-etik",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTIyOTQvaW5pbGFoLXNhbmtzaS1iYWdpLXBvbGlzaS15YW5nLW1lbGFuZ2dhci1rb2RlLWV0aWs=",
-        "description": "Bila menyalahi standar moral, seorang anggota polisi semestinya mendapatkan sanksi pelanggaran kode etik."
-    },
-    {
-        "title": "Pengacara Istri Ferdy Sambo Datangi Dewan Pers untuk Konsultasi",
-        "link": "https://nasional.tempo.co/read/1612321/pengacara-istri-ferdy-sambo-datangi-dewan-pers-untuk-konsultasi",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTIzMjEvcGVuZ2FjYXJhLWlzdHJpLWZlcmR5LXNhbWJvLWRhdGFuZ2ktZGV3YW4tcGVycy11bnR1ay1rb25zdWx0YXNp",
-        "description": "Arman Hanis, pengacara istri Kadiv Propam Polri Inspektur Jenderal Ferdy Sambo mendatangi Gedung Dewan Pers, Jakarta untuk melakukan konsultasi."
-    },
-    {
-        "title": "Kementan Raih Opini WTP Enam Tahun Berturut - Turut",
-        "link": "https://nasional.tempo.co/read/1612312/kementan-raih-opini-wtp-enam-tahun-berturut-turut",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTIzMTIva2VtZW50YW4tcmFpaC1vcGluaS13dHAtZW5hbS10YWh1bi1iZXJ0dXJ1dC10dXJ1dA==",
-        "description": "Kementan tidak mungkin mampu meraih Opini WTP jika tidak disertai dengan sinergi dan kerjakeras seluruh jajaran"
-    },
-    {
-        "title": "16 Pemuda Papua Berlatih Teknologi Motor Listrik ke ITS",
-        "link": "https://nasional.tempo.co/read/1612314/16-pemuda-papua-berlatih-teknologi-motor-listrik-ke-its",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTIzMTQvMTYtcGVtdWRhLXBhcHVhLWJlcmxhdGloLXRla25vbG9naS1tb3Rvci1saXN0cmlrLWtlLWl0cw==",
-        "description": "Pelatihan ini sebagai tindak lanjut dari amanat Menteri Sosial Tri Rismaharini untuk meningkatkan kualitas SDM Papua."
-    },
-    {
-        "title": "Jamaah Haji Mulai Kembali ke Tanah Air, 6 Kloter Terbang Hari Ini",
-        "link": "https://nasional.tempo.co/read/1612305/jamaah-haji-mulai-kembali-ke-tanah-air-6-kloter-terbang-hari-ini",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTIzMDUvamFtYWFoLWhhamktbXVsYWkta2VtYmFsaS1rZS10YW5haC1haXItNi1rbG90ZXItdGVyYmFuZy1oYXJpLWluaQ==",
-        "description": "Fase pemulangan jamaah haji sudah dimulai. Enam kloter pertama terbang ke Tanah Air pada hari ini, Jumat 15 Juli 2022."
     }
 ]

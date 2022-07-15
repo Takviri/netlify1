@@ -1,5 +1,26 @@
 [
     {
+        "title": "Dipanggil Jokowi ke Istana, Adian Bantah Ditawari Jadi Menteri",
+        "link": "https://www.cnnindonesia.com/nasional/20220715145914-32-822040/dipanggil-jokowi-ke-istana-adian-bantah-ditawari-jadi-menteri",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNTE0NTkxNC0zMi04MjIwNDAvZGlwYW5nZ2lsLWpva293aS1rZS1pc3RhbmEtYWRpYW4tYmFudGFoLWRpdGF3YXJpLWphZGktbWVudGVyaQ==",
+        "description": " Politikus PDIP Adian Napitupulu membantah ditawari posisi menteri saat dipanggil\u00c2\u00a0Jokowi ke Istana pada Jumat pagi."
+    },
+    {
+        "title": "Kebakaran Pabrik Paralon di Tangerang, Asap Tebal Terlihat dari Soetta",
+        "link": "https://www.cnnindonesia.com/nasional/20220715150346-20-822047/kebakaran-pabrik-paralon-di-tangerang-asap-tebal-terlihat-dari-soetta",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNTE1MDM0Ni0yMC04MjIwNDcva2ViYWthcmFuLXBhYnJpay1wYXJhbG9uLWRpLXRhbmdlcmFuZy1hc2FwLXRlYmFsLXRlcmxpaGF0LWRhcmktc29ldHRh",
+        "description": " Kebakaran melanda sebuah pabrik paralon yang berlokasi di Jalan Raya Perancis, Jatimulya, Kosambi, Kabupaten Tangerang, Banten, Jumat (15/7) siang."
+    },
+    {
+        "title": "Tim Khusus Telaah Temuan Polres Jaksel soal Kasus Brigadir J",
+        "link": "https://www.cnnindonesia.com/nasional/20220715131354-12-821974/tim-khusus-telaah-temuan-polres-jaksel-soal-kasus-brigadir-j",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNTEzMTM1NC0xMi04MjE5NzQvdGltLWtodXN1cy10ZWxhYWgtdGVtdWFuLXBvbHJlcy1qYWtzZWwtc29hbC1rYXN1cy1icmlnYWRpci1q",
+        "description": " Kadiv Humas Polri memastikan timsus akan menelaah seluruh penanganan perkara polisi tembak polisi di rumah Sambo, termasuk yang sudah dilakukan Polres Jaksel."
+    },
+    {
         "title": "Kasus Covid-19 Terus Naik, Indonesia Masuk Level 2 Penilaian WHO",
         "link": "https://www.cnnindonesia.com/nasional/20220715131549-20-821973/kasus-covid-19-terus-naik-indonesia-masuk-level-2-penilaian-who",
         "image": "static/images/cnn_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNTEwNDkyMC0yMC04MjE5MDMva2VtZW5kaWtidWQtaW5nYXRrYW4tc2Vrb2xhaC1wdG0tMTAwLXBlcnNlbi10ZXRhcC10YWF0LXByb2tlcw==",
         "description": " Kemendikbudristek\u00c2\u00a0berharap PTM 100 persen tidak menimbulkan euforia, sehingga mengabaikan prokes Covid-19."
-    },
-    {
-        "title": "Mahasiswa Palsukan Tekenan Gugatan UU IKN, Hakim MK Ancam Lapor Polisi",
-        "link": "https://www.cnnindonesia.com/nasional/20220715132657-12-821979/mahasiswa-palsukan-tekenan-gugatan-uu-ikn-hakim-mk-ancam-lapor-polisi",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNTEzMjY1Ny0xMi04MjE5NzkvbWFoYXNpc3dhLXBhbHN1a2FuLXRla2VuYW4tZ3VnYXRhbi11dS1pa24taGFraW0tbWstYW5jYW0tbGFwb3ItcG9saXNp",
-        "description": " Mahkamah Konstitusi (MK) sempat mengancam akan mempolisikan sejumlah mahasiswa yang memalsukan tanda tangan\u00c2\u00a0di\u00c2\u00a0uji materi UU IKN."
-    },
-    {
-        "title": "Kampus Poltekes Makassar Buka Suara soal Mahasiswa Dicekoki Miras",
-        "link": "https://www.cnnindonesia.com/nasional/20220714135444-12-821517/kampus-poltekes-makassar-buka-suara-soal-mahasiswa-dicekoki-miras",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNDEzNTQ0NC0xMi04MjE1MTcva2FtcHVzLXBvbHRla2VzLW1ha2Fzc2FyLWJ1a2Etc3VhcmEtc29hbC1tYWhhc2lzd2EtZGljZWtva2ktbWlyYXM=",
-        "description": " Salah satu satu orang pelaku yang cekoki miras dan menganiaya belasan mahasiswa baru Poltekes Makassar merupakan mahasiswa senior drop out."
-    },
-    {
-        "title": "Pertaruhan Polri di Tangan Tim Khusus Kasus Penembakan Brigadir J",
-        "link": "https://www.cnnindonesia.com/nasional/20220715111430-12-821915/pertaruhan-polri-di-tangan-tim-khusus-kasus-penembakan-brigadir-j",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNTExMTQzMC0xMi04MjE5MTUvcGVydGFydWhhbi1wb2xyaS1kaS10YW5nYW4tdGltLWtodXN1cy1rYXN1cy1wZW5lbWJha2FuLWJyaWdhZGlyLWo=",
-        "description": " Kepercayaan publik terhadap institusi Polri dipertaruhkan jika kasus polisi tembak polisi yang menewaskan Brigadir J tidak diusut\u00c2\u00a0tuntas."
     }
 ]
