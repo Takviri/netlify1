@@ -1,5 +1,33 @@
 [
     {
+        "title": "Daftar Stasiun Vaksin Gratis Bagi Calon Penumpang KA",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220715111719-92-821920/daftar-stasiun-vaksin-gratis-bagi-calon-penumpang-ka",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE1MTExNzE5LTkyLTgyMTkyMC9kYWZ0YXItc3Rhc2l1bi12YWtzaW4tZ3JhdGlzLWJhZ2ktY2Fsb24tcGVudW1wYW5nLWth",
+        "description": " PT Kereta Api Indonesia (Persero) atau KAI menambah layanan vaksinasi covid-19 gratis bagi pelanggan di berbagai kota. Berikut daftarnya."
+    },
+    {
+        "title": "Dirut PLN Beberkan Jurus Capai Net Zero Emission di 2060",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220715112126-90-821919/dirut-pln-beberkan-jurus-capai-net-zero-emission-di-2060",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE1MTEyMTI2LTkwLTgyMTkxOS9kaXJ1dC1wbG4tYmViZXJrYW4tanVydXMtY2FwYWktbmV0LXplcm8tZW1pc3Npb24tZGktMjA2MA==",
+        "description": " PT perusahaan listrik negara (PT PLN) (Persero) menyampaikan rencana strategis dalam\u00c2\u00a0pencapaian target Net Zero Emission (NZE) di 2060."
+    },
+    {
+        "title": "Inflasi dan Suku Bunga Tinggi Picu Orang RI Sulit Beli Rumah",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220713203542-92-821219/inflasi-dan-suku-bunga-tinggi-picu-orang-ri-sulit-beli-rumah",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMjAzNTQyLTkyLTgyMTIxOS9pbmZsYXNpLWRhbi1zdWt1LWJ1bmdhLXRpbmdnaS1waWN1LW9yYW5nLXJpLXN1bGl0LWJlbGktcnVtYWg=",
+        "description": " Pengamat properti menyebut inflasi, suku bunga KPR tinggi hingga tergerusnya daya beli menjadi pemicu mengapa masyakarat Indonesia sulit membeli rumah."
+    },
+    {
+        "title": "Utang Luar Negeri RI Turun Jadi Rp5.938 T per Mei 2022",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220715105205-78-821904/utang-luar-negeri-ri-turun-jadi-rp5938-t-per-mei-2022",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE1MTA1MjA1LTc4LTgyMTkwNC91dGFuZy1sdWFyLW5lZ2VyaS1yaS10dXJ1bi1qYWRpLXJwNTkzOC10LXBlci1tZWktMjAyMg==",
+        "description": " Bank Indonesia (BI) mencatat posisi utang luar negeri (ULN) Indonesia sebesar US$406,3 miliar pada akhir Mei 2022 atau sekitar Rp5.938 triliun."
+    },
+    {
         "title": "Baskin Robbins Bagi-Bagi Es Krim Gratis buat Pengguna Baru Allo Bank",
         "link": "https://www.cnnindonesia.com/ekonomi/20220714180738-97-821683/baskin-robbins-bagi-bagi-es-krim-gratis-buat-pengguna-baru-allo-bank",
         "image": "static/images/cnn_ekonomi.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE1MTAwMDI4LTkyLTgyMTg2NC9uZXJhY2EtZGFnYW5nLXJpLXN1cnBsdXMtdXMtNTA5LW0tanVuaS0yMDIy",
         "description": " Neraca perdagangan Indonesia kembali surplus US$5,09 miliar pada Juni 2022 atau 25 bulan berturut-turut sejak Mei 2020."
-    },
-    {
-        "title": "Penumpang Melonjak, Bandara Inggris Minta Maskapai Setop Jual Tiket",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220714145555-92-821548/penumpang-melonjak-bandara-inggris-minta-maskapai-setop-jual-tiket",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE0MTQ1NTU1LTkyLTgyMTU0OC9wZW51bXBhbmctbWVsb25qYWstYmFuZGFyYS1pbmdncmlzLW1pbnRhLW1hc2thcGFpLXNldG9wLWp1YWwtdGlrZXQ=",
-        "description": " Bandara Internasional London Heathrow meminta maskapai penerbangan setop menjual tiket pada liburan musim panas karena lonjakan penumpang."
-    },
-    {
-        "title": "Ekspor Indonesia Melesat 40 Persen Juni 2022",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220715093848-92-821852/ekspor-indonesia-melesat-40-persen-juni-2022",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE1MDkzODQ4LTkyLTgyMTg1Mi9la3Nwb3ItaW5kb25lc2lhLW1lbGVzYXQtNDAtcGVyc2VuLWp1bmktMjAyMg==",
-        "description": " Badan Pusat Statistik (BPS) melaporkan ekspor Indonesia mencapai US$26,09 miliar pada Juni 2022 atau melonjak 40,68 persen (year on year/yoy)."
-    },
-    {
-        "title": "Dana Desa Tak Bisa untuk Ganti Rugi Ternak PMK",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220715092357-532-821850/dana-desa-tak-bisa-untuk-ganti-rugi-ternak-pmk",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE1MDkyMzU3LTUzMi04MjE4NTAvZGFuYS1kZXNhLXRhay1iaXNhLXVudHVrLWdhbnRpLXJ1Z2ktdGVybmFrLXBtaw==",
-        "description": " Mendes PDTT Abdul Halim Iskandar menyebut dana desa tak bisa digunakan untuk mengganti rugi ternak yang mati karena PMK tetapi bisa digunakan untuk karantina."
-    },
-    {
-        "title": "Daftar 10 Negara dengan Tingkat Inflasi Tertinggi di Dunia",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220714184325-532-821706/daftar-10-negara-dengan-tingkat-inflasi-tertinggi-di-dunia",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE0MTg0MzI1LTUzMi04MjE3MDYvZGFmdGFyLTEwLW5lZ2FyYS1kZW5nYW4tdGluZ2thdC1pbmZsYXNpLXRlcnRpbmdnaS1kaS1kdW5pYQ==",
-        "description": " Inflasi di sejumlah negara melonjak tinggi dipicu oleh kenaikan harga komoditas pangan dan energi akibat perang Rusia-Ukraina. Berikut 10 di antaranya."
     }
 ]
