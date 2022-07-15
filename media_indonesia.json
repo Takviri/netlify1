@@ -1,5 +1,54 @@
 [
     {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/507021/alasan-kita-kerap-nagih-makanan-asin",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNzAyMS9hbGFzYW4ta2l0YS1rZXJhcC1uYWdpaC1tYWthbmFuLWFzaW4=",
+        "description": "CAMILAN dengan rasa asin atau gurih hampir selalu disukai orang. Meski adakalanya camilan atau kue yang manis juga jadi pilihan saat santai tetapi keripik, kerupuk, atau camilan-camilan asin lainnya&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507026/aturan-baru-penyaluran-pupuk-bersubsidi-2022-disahkan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzAyNi9hdHVyYW4tYmFydS1wZW55YWx1cmFuLXB1cHVrLWJlcnN1YnNpZGktMjAyMi1kaXNhaGthbg==",
+        "description": "PEMERINTAH secara resmi memperbaharui aturan penyaluran pupuk bersubsidi pada tahun 2022. Pembaruan ini dilakukan untuk mengoptimalkan penyaluran pupuk bersubsidi kepada petani agar hasil pertanian&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507025/bps-ekspor-pertanian-bulan-juni-2022-tumbuh-impresif",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzAyNS9icHMtZWtzcG9yLXBlcnRhbmlhbi1idWxhbi1qdW5pLTIwMjItdHVtYnVoLWltcHJlc2lm",
+        "description": "BADAN Pusat Statistik (BPS) mencatat kinerja ekspor pertanian pada Juni 2022 mengalami peningkatan impresif, yaitu sebesar 23,30 persen yang dihitung berdasarkan bulanan (M-to-M) dan 11,69 persen yang&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507024/pemerintah-siapkan-skrining-kesehatan-untuk-kepulangan-jamaah-haji",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MDI0L3BlbWVyaW50YWgtc2lhcGthbi1za3JpbmluZy1rZXNlaGF0YW4tdW50dWsta2VwdWxhbmdhbi1qYW1hYWgtaGFqaQ==",
+        "description": "JAMAAH haji asal Indonesia akan kembali ke tanah air mulai pertengahan Agustus 2022. Pemerintah telah menyiapkan sistem skrining kesehatan berlapis sebagai langkah untuk mengantisipasi lonjakan kasus&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/507023/imbas-zonasi-50-smasmk-swasta-di-kota-tasikmalaya-sepi-pendaftar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MDIzL2ltYmFzLXpvbmFzaS01MC1zbWFzbWstc3dhc3RhLWRpLWtvdGEtdGFzaWttYWxheWEtc2VwaS1wZW5kYWZ0YXI=",
+        "description": "PENERIMAAN peserta didik baru (PPDB) SMA-SMK di Kota Tasikmalaya, Jawa Barat melalui sistem zonasi dinilai makin menggerus pendaftar sekolah swasta dan kalah bersaing dengan sekolah negeri, lantaran&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/507022/timnas-basket-ri-kalah-dari-yordania-menpora-tetap-semangat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDcwMjIvdGltbmFzLWJhc2tldC1yaS1rYWxhaC1kYXJpLXlvcmRhbmlhLW1lbnBvcmEtdGV0YXAtc2VtYW5nYXQ=",
+        "description": "MENTERI Pemuda dan Olahraga Republik Indonesia Zainudin Amali memberikan dukungan langsung kepada timnas bola basket Indonesia. Mengingat, timnas kalah dari Yordania dengan skor 65-74 dalam babak penyisihan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507020/positivity-rate-lewati-standar-who-situasi-indonesia-masuk-level-2",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MDIwL3Bvc2l0aXZpdHktcmF0ZS1sZXdhdGktc3RhbmRhci13aG8tc2l0dWFzaS1pbmRvbmVzaWEtbWFzdWstbGV2ZWwtMg==",
+        "description": "PADA Kamis (14/7), diketahui terdapat penambahan 3.584 kasus konfirmasi positif Covid-19. Sebanyak 2.872 orang dinyatakan sembuh dan diketahui 9 orang meninggal karena Covid-19. Hal ini menyebabkan&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/507019/ini-3-strategi-bi-untuk-perluas-ekonomi-hijau-di-tanah-air",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDcwMTcvbXVuY3VsLWxhZ2kta3BrLWdhZHVuZ2FuLXRpcHUtaGFraW0taGluZ2dhLXBvbGlzaQ==",
         "description": "KOMISI Pemberantasan Korupsi (KPK) kembali menerima laporan pihak yang mengatasnamakan pegawai Lembaga Antikorupsi. Pihak KPK gadungan tersebut melakukan penipuan, pemerasan, dan pemalsuan. KPK&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/507016/dpr-minta-pemerintah-tindak-dan-tata-lagi-izin-tambang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzAxNi9kcHItbWludGEtcGVtZXJpbnRhaC10aW5kYWstZGFuLXRhdGEtbGFnaS1pemluLXRhbWJhbmc=",
-        "description": "ANGGOTA Komisi III DPR Dipo Nusantara Pua Upa mendesak aparat hukum bertindak tegas terhadap perusahaan tambang yang diduga tak memiliki izin penambangan. Dugaan penambangan illegal tersebut berpotensi&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/507015/tiga-penanda-hubungan-toksik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNzAxNS90aWdhLXBlbmFuZGEtaHVidW5nYW4tdG9rc2lr",
-        "description": "BELAKANGAN ini kata-kata &ldquo;hubungan toksik&rdquo; makin sering terdengar. Secara literasi, mengartikan kata-kata itu memang tidak sulit, yakni sebagai hubungan yang beracun atau hubungan yang&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/507014/startup-insurtech-rey-gandeng-sehatq-untuk-sediakan-fitur-chat-dokter",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA3MDE0L3N0YXJ0dXAtaW5zdXJ0ZWNoLXJleS1nYW5kZW5nLXNlaGF0cS11bnR1ay1zZWRpYWthbi1maXR1ci1jaGF0LWRva3Rlcg==",
-        "description": "SEBAGAI platform membership kesehatan berbasis proteksi yang mengedepankan teknologi atau startup insurtech&nbsp;Rey selalu berusaha menyediakan beragam fitur yang akan memudahkan&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/507013/disdukcapil-dki-optimistis-lanjutkan-perubahan-nama-jalan-di-jakara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDcwMTMvZGlzZHVrY2FwaWwtZGtpLW9wdGltaXN0aXMtbGFuanV0a2FuLXBlcnViYWhhbi1uYW1hLWphbGFuLWRpLWpha2FyYQ==",
-        "description": "DINAS Kependudukan dan Catatan Sipil DKI Jakarta optimistis akan adanaya rencana gelombang dua terkait perubahan nama jalan di wilayah Jakarta. Gelombang kedua yang dimaksud yakni, akan adanya perubahan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/507012/neraca-dagang-ri-pada-juni-2022-surplus-bps-ditopang-minyak-kelapa-sawit",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzAxMi9uZXJhY2EtZGFnYW5nLXJpLXBhZGEtanVuaS0yMDIyLXN1cnBsdXMtYnBzLWRpdG9wYW5nLW1pbnlhay1rZWxhcGEtc2F3aXQ=",
-        "description": "NERACA perdagangan Indonesia mencatatkan surplus sebesar US$5,09 miliar pada Juni 2022. Capaian ini memperpanjang rentetan kinerja positif perdagangan dalam 25 bulan terakhir. Kepala Badan Pusat&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/507011/bi-utang-luar-negeri-indonesia-di-mei-2022-sisa-4063-miliar-dolar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzAxMS9iaS11dGFuZy1sdWFyLW5lZ2VyaS1pbmRvbmVzaWEtZGktbWVpLTIwMjItc2lzYS00MDYzLW1pbGlhci1kb2xhcg==",
-        "description": "BANK Indonesia (BI) merilis Utang Luar Negeri (ULN) Indonesia pada Mei 2022 yang dikatakan kembali mengalami penurunan. Posisi ULN Indonesia pada akhir Mei 2022 tercatat sebesar US$406,3 miliar, turun&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/507010/dlh-dki-gandeng-artis-scbd-kolaborasi-jaga-kebersihan-dan-ketertiban",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDcwMTAvZGxoLWRraS1nYW5kZW5nLWFydGlzLXNjYmQta29sYWJvcmFzaS1qYWdhLWtlYmVyc2loYW4tZGFuLWtldGVydGliYW4=",
-        "description": "PEMPROV DKI Jakarta melalui Dinas Lingkungan Hidup DKI Jakarta akan mengajak kolaborasi konten kreator SCBD, Jeje dan Bonge. Kolaborasi tersebut menjadikan Jeje (Jasmine Laticia) dan Bonge (Eka Saputra)&#8230;"
     }
 ]
