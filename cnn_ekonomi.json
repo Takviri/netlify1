@@ -1,5 +1,19 @@
 [
     {
+        "title": "Daftar Negara Terancam Resesi, Termasuk RI",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220715072359-532-821820/daftar-negara-terancam-resesi-termasuk-ri",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE1MDcyMzU5LTUzMi04MjE4MjAvZGFmdGFyLW5lZ2FyYS10ZXJhbmNhbS1yZXNlc2ktdGVybWFzdWstcmk=",
+        "description": " Bank Dunia mengatakan ancaman resesi ekonomi global sudah di depan mata banyak negara, termasuk Indonesia."
+    },
+    {
+        "title": "BI Akan Pangkas Biaya Transfer Antar Negara",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220714191834-78-821725/bi-akan-pangkas-biaya-transfer-antar-negara",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE0MTkxODM0LTc4LTgyMTcyNS9iaS1ha2FuLXBhbmdrYXMtYmlheWEtdHJhbnNmZXItYW50YXItbmVnYXJh",
+        "description": " BI akan bekerja sama dengan bank sentral di empat negara Asia Tenggara;Malaysia, Thailand, Singapura, dan Filipina untuk menurunkan biaya transfer antar negara."
+    },
+    {
         "title": "Makan Enak Berdua di Gyu Katsu Nikaido Cuma Rp50 Ribuan Aja",
         "link": "https://www.cnnindonesia.com/ekonomi/20220714174845-97-821666/makan-enak-berdua-di-gyu-katsu-nikaido-cuma-rp50-ribuan-aja",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE0MTkyMDM3LTkyLTgyMTcyNy9lcmljay10aG9oaXItbWludGEtam9rb3dpLWJhd2EtdGFtdS1uZWdhcmEtYmVya3VuanVuZy1rZS1zYXJpbmFo",
         "description": " Menteri BUMN Erick Thohir mengusulkan kepada Presiden Jokowi untuk mengajak tamu negara berkunjung ke Sarinah."
-    },
-    {
-        "title": "Pengembang Minta Insentif Pajak Demi Bantu Masyarakat Beli Rumah",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220713142952-92-820994/pengembang-minta-insentif-pajak-demi-bantu-masyarakat-beli-rumah",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzEzMTQyOTUyLTkyLTgyMDk5NC9wZW5nZW1iYW5nLW1pbnRhLWluc2VudGlmLXBhamFrLWRlbWktYmFudHUtbWFzeWFyYWthdC1iZWxpLXJ1bWFo",
-        "description": " Pengembang mengusulkan pemberian insentif berbentuk PPN DTP demi membantu masyarakat bisa membeli rumah."
-    },
-    {
-        "title": "OECD Curiga Orang Kaya Asia Gelapkan Rp18 Ribu T di Negara Surga Pajak",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220714183339-532-821703/oecd-curiga-orang-kaya-asia-gelapkan-rp18-ribu-t-di-negara-surga-pajak",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE0MTgzMzM5LTUzMi04MjE3MDMvb2VjZC1jdXJpZ2Etb3Jhbmcta2F5YS1hc2lhLWdlbGFwa2FuLXJwMTgtcmlidS10LWRpLW5lZ2FyYS1zdXJnYS1wYWphaw==",
-        "description": " OECD memperkirakan orang kaya Asia menyembunyikan uang Rp18 ribu triliun di negara surga pajak. Padahal, uang itu bisa dipakai membantu rakyat miskin."
     }
 ]

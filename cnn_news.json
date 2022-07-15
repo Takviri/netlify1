@@ -1,5 +1,19 @@
 [
     {
+        "title": "Jemaah Haji Mulai Bergerak Pulang ke Indonesia",
+        "link": "https://www.cnnindonesia.com/nasional/20220715070836-20-821818/jemaah-haji-mulai-bergerak-pulang-ke-indonesia",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNTA3MDgzNi0yMC04MjE4MTgvamVtYWFoLWhhamktbXVsYWktYmVyZ2VyYWstcHVsYW5nLWtlLWluZG9uZXNpYQ==",
+        "description": " Kemenag saat melepas pulang para jemaah haji meminta maaf jika ada kekurangan pelayanan selama musim haji 2022."
+    },
+    {
+        "title": "Misteri Glock 17 di Tangan Bharada E saat Baku Tembak di Rumah Sambo",
+        "link": "https://www.cnnindonesia.com/nasional/20220715063643-12-821813/misteri-glock-17-di-tangan-bharada-e-saat-baku-tembak-di-rumah-sambo",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNTA2MzY0My0xMi04MjE4MTMvbWlzdGVyaS1nbG9jay0xNy1kaS10YW5nYW4tYmhhcmFkYS1lLXNhYXQtYmFrdS10ZW1iYWstZGktcnVtYWgtc2FtYm8=",
+        "description": " Penggunaan Glock 17 oleh Bharada E dalam insiden baku tembak jadi sorotan tajam. Senjata itu disebut berspesifikasi tinggi."
+    },
+    {
         "title": "Soal Duet Pemersatu Bangsa, JK Singgung Anies dan Puan",
         "link": "https://www.cnnindonesia.com/nasional/20220715063900-32-821815/soal-duet-pemersatu-bangsa-jk-singgung-anies-dan-puan",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNDE5MTczOS0xMi04MjE3MzAvMy1rYXN1cy1wZWxhbmdnYXJhbi1oYW0tYmVyYXQtZGktYWNlaC1kaXNlcmFoa2FuLWtlLWpha3NhLWFndW5n",
         "description": " Tiga kasus pelanggaran HAM berat di Aceh yang diserahkan antara lain\u00c2\u00a0peristiwa Simpang KKA Simpang Kraft, peristiwa Rumoh Geudong, dan peristiwa Jambo Keupok."
-    },
-    {
-        "title": "Polisi Dalami Dugaan Pencucian Uang ACT Lewat Perusahaan Lain",
-        "link": "https://www.cnnindonesia.com/nasional/20220715040411-12-821807/polisi-dalami-dugaan-pencucian-uang-act-lewat-perusahaan-lain",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNTA0MDQxMS0xMi04MjE4MDcvcG9saXNpLWRhbGFtaS1kdWdhYW4tcGVuY3VjaWFuLXVhbmctYWN0LWxld2F0LXBlcnVzYWhhYW4tbGFpbg==",
-        "description": " Bareskrim Polri tengan menyelidik dugaan tindak pidana pencucian uang yang dilakukan ACT lewat perusahaan lain yang masih memiliki hubungan."
-    },
-    {
-        "title": "Survei Charta: Elektabilitas Ganjar Ungguli Prabowo di Jateng-Jatim",
-        "link": "https://www.cnnindonesia.com/nasional/20220714152653-32-821575/survei-charta-elektabilitas-ganjar-ungguli-prabowo-di-jateng-jatim",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNDE1MjY1My0zMi04MjE1NzUvc3VydmVpLWNoYXJ0YS1lbGVrdGFiaWxpdGFzLWdhbmphci11bmdndWxpLXByYWJvd28tZGktamF0ZW5nLWphdGlt",
-        "description": " Survei terbaru Charta Politika menunjukkan Ganjar Pranowo unggul di Jateng dan Jatim, sementara Prabowo Subianto unggul di Jabar."
     }
 ]

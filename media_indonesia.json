@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/506927/ten-hag-tegaskan-sikap-mu-soal-ronaldo-tidak-berubah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjkyNy90ZW4taGFnLXRlZ2Fza2FuLXNpa2FwLW11LXNvYWwtcm9uYWxkby10aWRhay1iZXJ1YmFo",
+        "description": "PELATIH Manchester United Erik ten Hag memastikan sikap Setan Merah soal situasi penyerang gaek Cristiano Ronaldo, yang&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/506926/isyana-sarasvati-akan-konser-di-bali",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNjkyNi9pc3lhbmEtc2FyYXN2YXRpLWFrYW4ta29uc2VyLWRpLWJhbGk=",
+        "description": "ISYANA Sarasvati akan menggelar konser tunggal LEXICONCERT Live on Tour pada 22 Juli 2022 di Bali, yang juga akan ditayangkan secara&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/506928/kanada-izinkan-pengunaan-vaksin-covid-19-moderna-untuk-anak-5-tahun-ke-bawah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNjkyOC9rYW5hZGEtaXppbmthbi1wZW5ndW5hYW4tdmFrc2luLWNvdmlkLTE5LW1vZGVybmEtdW50dWstYW5hay01LXRhaHVuLWtlLWJhd2Fo",
+        "description": "KANADA, Kamis (14/7), mengizinkan pengunaan vaksin covid-19 Moderna untuk anak yang berusia antara 6 bulan dan 5 tahun.&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/506924/evos-luncurkan-serial-realitas-efc-pro-series-2022",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA2OTIyL21lbmFnLW1pbnRhLW1hYWYtamlrYS1sYXlhbmFuLWhhamktYmVsdW0tc2VzdWFpLWhhcmFwYW4=",
         "description": "MENTERI Agama Yaqut Cholil Qoumas meminta maaf kepada jamaah haji jika layanan yang diberikan selama di Tanah Suci masih kurang dari&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/506914/moshiri-tegaskan-everton-tidak-dijual",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNjkxNC9tb3NoaXJpLXRlZ2Fza2FuLWV2ZXJ0b24tdGlkYWstZGlqdWFs",
-        "description": "PEMEGANG saham mayoritas Everton Farhad Moshiri menegaskan klub Liga Primer Inggris itu tidak dijual setelah menggelar pembicaraan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506921/ahyudin-klaim-dana-kompensasi-korban-lion-air-urusan-antara-act-dengan-boeing",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDY5MjEvYWh5dWRpbi1rbGFpbS1kYW5hLWtvbXBlbnNhc2kta29yYmFuLWxpb24tYWlyLXVydXNhbi1hbnRhcmEtYWN0LWRlbmdhbi1ib2Vpbmc=",
-        "description": "MANTAN Presiden Aksi Cepat Tanggap (ACT) Ahyudin menjelaskan soal dugaan penyelewengan dana kompensasi korban kecelakaan pesawat Lion&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/506919/kpk-sayangkan-mardani-maming-mangkir-karena-alasan-praperadilan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDY5MTkva3BrLXNheWFuZ2thbi1tYXJkYW5pLW1hbWluZy1tYW5na2lyLWthcmVuYS1hbGFzYW4tcHJhcGVyYWRpbGFu",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) menyayangkan Bendahara Umum (Bendum) Pengurus Besar Nahdlatul Ulama (PBNU) Mardani Maming&#8230;"
     }
 ]
