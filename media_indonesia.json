@@ -1,5 +1,12 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/507152/desa-berdikari",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDcxNTIvZGVzYS1iZXJkaWthcmk=",
+        "description": "DESA berdikari Pancasila. Itulah tema yang didiskusikan Badan Pembinaan Ideologi Pancasila (BPIP) yang kebetulan saya diundang menjadi salah satu narasumber bersama budayawan kondang Dr Zastrow&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/507189/kalahkan-selandia-baru-lebanon-kunci-tiket-perempat-final",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNzE3OS9tZW5sdS1pbmdncmlzLXBhbmdnaWwtZHViZXMtcnVzaWEtYXRhcy1rZW1hdGlhbi13YXJnYW55YS1kaS1kb25ldHNr",
         "description": "KEMENTERIAN Luar Negeri Inggris memanggil Duta Besar Rusia di London Andrei Kelin untuk menyampaikan keprihatinan mendalam atas laporan kematian seorang pekerja bantuan Inggris di Republik Rakyat Donetsk&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507178/pangandaran-berpotensi-dilanda-gelombang-tinggi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MTc4L3BhbmdhbmRhcmFuLWJlcnBvdGVuc2ktZGlsYW5kYS1nZWxvbWJhbmctdGluZ2dp",
-        "description": "BADAN Meteorologi, Klimatologi dan Geofisika (BMKG) telah mengeluarkan peringatan dini gelombang tinggi untuk sejumlah wilayah perairan di Indonesia pada 15-17 Juli 2022.&nbsp; Dalam peringatan&#8230;"
     }
 ]
