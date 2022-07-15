@@ -1,6 +1,20 @@
 [
     {
-        "title": "Ini Saham Tercuan dan Terboncos Sesi 1, Ada Portofolio  Kamu?",
+        "title": "Milenial dan Gen Z Jadi Komisaris, Anak Menteri Hingga Artis",
+        "link": "https://www.cnbcindonesia.com/market/20220715130607-17-355924/milenial-gen-z-jadi-komisaris-anak-menteri-hingga-artis",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE1MTMwNjA3LTE3LTM1NTkyNC9taWxlbmlhbC1nZW4tei1qYWRpLWtvbWlzYXJpcy1hbmFrLW1lbnRlcmktaGluZ2dhLWFydGlz",
+        "description": " Setidaknya terdapat 8 pemuda RI yang usianya dapat dikatakan masih belia dan telah menjabat sebagai komisaris di perusahaan terbuka atau yang akan segera\u00c2\u00a0IPO"
+    },
+    {
+        "title": "Neraca Dagang RI Surplus Lagi, IHSG Lanjutkan Penguatan",
+        "link": "https://www.cnbcindonesia.com/market/20220715125701-19-355922/neraca-dagang-ri-surplus-lagi-ihsg-lanjutkan-penguatan",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE1MTI1NzAxLTE5LTM1NTkyMi9uZXJhY2EtZGFnYW5nLXJpLXN1cnBsdXMtbGFnaS1paHNnLWxhbmp1dGthbi1wZW5ndWF0YW4=",
+        "description": " Neraca Dagang RI Surplus Lagi, IHSG Lanjutkan Penguatan"
+    },
+    {
+        "title": "Ini Saham Tercuan dan Terboncos Sesi 1, Ada Portofolio Kamu?",
         "link": "https://www.cnbcindonesia.com/market/20220715122736-17-355915/ini-saham-tercuan-terboncos-sesi-1-ada-portofolio-kamu",
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE1MTIyNzM2LTE3LTM1NTkxNS9pbmktc2FoYW0tdGVyY3Vhbi10ZXJib25jb3Mtc2VzaS0xLWFkYS1wb3J0b2ZvbGlvLWthbXU=",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE1MTEzNzMyLTE3LTM1NTkwNy9uZXJhY2EtZGFnYW5nLXJpLWp1YXJhLWloc2ctc2VzaS1pLW1lbmd1YXQtYmFsaWsta2UtNjcwMA==",
         "description": " Indeks Harga Saham Gabungan (IHSG) berakhir menguat 0,24% pada penutupan perdagangan sesi I Jumat (15/7/2022)."
-    },
-    {
-        "title": "Meski Neraca Dagang RI Surplus, Rupiah Stagnan Vs Dolar AS!",
-        "link": "https://www.cnbcindonesia.com/market/20220715102226-17-355871/meski-neraca-dagang-ri-surplus-rupiah-stagnan-vs-dolar-as",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE1MTAyMjI2LTE3LTM1NTg3MS9tZXNraS1uZXJhY2EtZGFnYW5nLXJpLXN1cnBsdXMtcnVwaWFoLXN0YWduYW4tdnMtZG9sYXItYXM=",
-        "description": " Namun, rupiah berpeluang menguat meski tipis jika mengacu pada pasar Non-Deliverable forward (NDF)."
-    },
-    {
-        "title": "MUFG Mau Caplok Panin? Saham Bank Danamon Terbang",
-        "link": "https://www.cnbcindonesia.com/market/20220715103014-17-355875/mufg-mau-caplok-panin-saham-bank-danamon-terbang",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE1MTAzMDE0LTE3LTM1NTg3NS9tdWZnLW1hdS1jYXBsb2stcGFuaW4tc2FoYW0tYmFuay1kYW5hbW9uLXRlcmJhbmc=",
-        "description": " Saham BDMN melesat hari ini"
     }
 ]
