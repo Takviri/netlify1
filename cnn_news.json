@@ -1,5 +1,12 @@
 [
     {
+        "title": "CNN Indonesia Desak Penuntasan Kasus Intimidasi Jurnalis",
+        "link": "https://www.cnnindonesia.com/nasional/20220715205213-12-822247/cnn-indonesia-desak-penuntasan-kasus-intimidasi-jurnalis",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNTIwNTIxMy0xMi04MjIyNDcvY25uLWluZG9uZXNpYS1kZXNhay1wZW51bnRhc2FuLWthc3VzLWludGltaWRhc2ktanVybmFsaXM=",
+        "description": " Pemimpin Redaksi CNN Indonesia Titin Rosmasari mendesak Polri menuntaskan seluruh kasus intimidasi terhadap jurnalis di Indonesia."
+    },
+    {
         "title": "Hujan Deras, Banjir Kepung Tangsel dan Bogor",
         "link": "https://www.cnnindonesia.com/nasional/20220715211925-20-822251/hujan-deras-banjir-kepung-tangsel-dan-bogor",
         "image": "static/images/cnn_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNTE5MDI1OC0xMi04MjIxOTcvc2luZGlrYXQtam9raS11amlhbi1zYm1wdG4tZ3VuYWthbi1rYW1lcmEta2FuY2luZy1oaW5nZ2EtbW9kZW0tZGkta2FraQ==",
         "description": " Polrestabes Surabaya berhasil membongkar sindikat joki ujian masuk Seleksi Bersama Masuk Perguruan Tinggi Negeri (SBMPTN)."
-    },
-    {
-        "title": "Hanan Attaki Bantah NU Gresik: Tuduhan HTI Fitnah, Akidah Saya Asy'ari",
-        "link": "https://www.cnnindonesia.com/nasional/20220715190202-20-822199/hanan-attaki-bantah-nu-gresik-tuduhan-hti-fitnah-akidah-saya-asyari",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNTE5MDIwMi0yMC04MjIxOTkvaGFuYW4tYXR0YWtpLWJhbnRhaC1udS1ncmVzaWstdHVkdWhhbi1odGktZml0bmFoLWFraWRhaC1zYXlhLWFzeWFyaQ==",
-        "description": " Hanan Attaki merespons tudingan PCNU Gresik soal\u00c2\u00a0mantan anggota HTI dan dilarang berceramah di wilayah Jawa Timur."
     }
 ]
