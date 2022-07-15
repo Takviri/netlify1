@@ -1,5 +1,47 @@
 [
     {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/507045/dugaan-korupsi-tanah-pulogebang-22-saksi-telah-diperiksa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDcwNDUvZHVnYWFuLWtvcnVwc2ktdGFuYWgtcHVsb2dlYmFuZy0yMi1zYWtzaS10ZWxhaC1kaXBlcmlrc2E=",
+        "description": "KOMISI Pemberantasan Korupsi (KPK) membuka penyidikan kasus dugaan rasuah pengadaan tanah di Kelurahan Pulo Gebang, Kecamatan Cakung, Jakarta Timur, yang melibatkan Perumda Pembangunan Sarana Jaya&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507044/stunting-jadi-perhatian-di-kongres-xvi-fatayat-nu-di-palembang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MDQ0L3N0dW50aW5nLWphZGktcGVyaGF0aWFuLWRpLWtvbmdyZXMteHZpLWZhdGF5YXQtbnUtZGktcGFsZW1iYW5n",
+        "description": "FATAYAT Nadhlatul Ulama menggelar Kongres XVI di Palembang. Kegiatan itu dilaksanakan selama empat hari yakni 14-17 Juli 2022. Dalam kegiatan tersebut hadir ribuan Fatayat NU dari seluruh Indonesia.&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/507043/waspada-munculnya-berbagi-modus-baru-penipuan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA3MDQzL3dhc3BhZGEtbXVuY3VsbnlhLWJlcmJhZ2ktbW9kdXMtYmFydS1wZW5pcHVhbg==",
+        "description": "Teknologi informasi berkembang secara masif. Perubahan gaya hidup menjadi serba digital menawarkan kemudahan dan kepraktisan dalam beraktivitas. Di sisi lain, tingginya aktivitas digital juga membuka&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507042/kemenaker-perluas-kesempatan-magang-di-luar-negeri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzA0Mi9rZW1lbmFrZXItcGVybHVhcy1rZXNlbXBhdGFuLW1hZ2FuZy1kaS1sdWFyLW5lZ2VyaQ==",
+        "description": "DIREKTORAT Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas (Binalavotas) Kementerian Ketenagakerjaan terus mendorong kerja sama perluasan kesempatan magang ke luar negeri dengan pihak-pihak terkait.&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507041/makan-seafood-sepuasnya-di-kimaya-seafood-festival",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MDQxL21ha2FuLXNlYWZvb2Qtc2VwdWFzbnlhLWRpLWtpbWF5YS1zZWFmb29kLWZlc3RpdmFs",
+        "description": "HAMPIR semua orang menyukai hidangan laut yang lebih dikenal dengan seafood. Segarnya seafood kini hadir di Kimaya Seafood Festival yang digelar di hotel berbintang Empat di jantung kota Yogyakarta,&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507040/menkeu-harga-pangan-global-berpotensi-naik-20-di-akhir-tahun",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzA0MC9tZW5rZXUtaGFyZ2EtcGFuZ2FuLWdsb2JhbC1iZXJwb3RlbnNpLW5haWstMjAtZGktYWtoaXItdGFodW4=",
+        "description": "MENTERI Keuangan Sri Mulyani dalam High Level Seminar G20 Indonesia 2022 di Nusa Dua, Badung, Bali, Jumat, mengatakan harga pangan global berpotensi meningkat hingga 20 persen menuju akhir tahun 2022.&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/507039/jelang-bersekolah-anak-butuh-nutrisi-seimbang-dan-motivasi-dari-orangtua",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDcwMzUvcG9sZGEtYmFudGVuLXRhbmdrYXAtcGVsYWt1LXBlbmdvcGxvc2FuLWxwZy1zdWJzaWRpLWtlLW5vbi1zdWJzaWRp",
         "description": "KEPOLISIAN Daerah (Polda) Banten menangkap pelaku penyuntik gas bersubsidi ukuran 3 kilogram ke gas nonsubsidi ukuran 12 kilogram, di Kampung Ragas Grenyang, Desa Argawanan Kecamatan Pulo Ampel, Kabupaten&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/507034/takoyaki-tanaka-san-kudapan-asli-jepang-berpadu-dengan-rempah-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MDM0L3Rha295YWtpLXRhbmFrYS1zYW4ta3VkYXBhbi1hc2xpLWplcGFuZy1iZXJwYWR1LWRlbmdhbi1yZW1wYWgtaW5kb25lc2lh",
-        "description": "TAK perlu jauh-jauh ke Jepang untuk menikmati Takoyaki dengan cita rasa yang original. Salah satu mitra UMKM Alfamart, Takoyaki Tanaka San menyediakan kudapan asal negeri Matahari Terbit tersebut.&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/507033/perbankan-didorong-lakukan-pembiayaan-industri-mobil-listrik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzAzMy9wZXJiYW5rYW4tZGlkb3JvbmctbGFrdWthbi1wZW1iaWF5YWFuLWluZHVzdHJpLW1vYmlsLWxpc3RyaWs=",
-        "description": "KEPALA Staf Kepresidenan (KSP) Moeldoko mengatakan perbankan dan korporasi sebagai pemain besar di sektor keuangan memegang peranan penting dalam pengembangan ekosistem kendaraan listrik. Ia menyambut&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/507030/bps-rasio-gini-di-kota-naik-lebih-tinggi-dibanding-desa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzAzMC9icHMtcmFzaW8tZ2luaS1kaS1rb3RhLW5haWstbGViaWgtdGluZ2dpLWRpYmFuZGluZy1kZXNh",
-        "description": "BADAN Pusat Statistik (BPS) melansir tingkat ketimpangan pengeluaran penduduk Indonesia yang diukur dengan Gini Ratio, meningkat lebih tinggi di perkotaan dibandingkan di perdesaan. &quot;Gini&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507029/dieng-culture-festival-2022-bakal-digelar-awal-september",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MDI5L2RpZW5nLWN1bHR1cmUtZmVzdGl2YWwtMjAyMi1iYWthbC1kaWdlbGFyLWF3YWwtc2VwdGVtYmVy",
-        "description": "PERHELATAN Dieng Culture Festival (DCF) 2022 bakal digelar pada 2-4&nbsp;September 2022. DCF telah menjadi kalender wisata yang menampilkan pemotongan rambut gimbal, penerbangan balon dan gelaran musik&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/507027/jokowi-puji-kinerja-erick-jadikan-sarinah-etalase-umkm",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDcwMjcvam9rb3dpLXB1amkta2luZXJqYS1lcmljay1qYWRpa2FuLXNhcmluYWgtZXRhbGFzZS11bWtt",
-        "description": "PRESIDEN Joko Widodo memuji kinerja Menteri BUMN Erick Thohir yang telah berhasil melakukan transformasi di pusat perbelanjaan Sarinah, Jakarta. Jokowi mengaku senang Erick Thohir mampu memfasilitasi&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/507021/alasan-kita-kerap-nagih-makanan-asin",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNzAyMS9hbGFzYW4ta2l0YS1rZXJhcC1uYWdpaC1tYWthbmFuLWFzaW4=",
-        "description": "CAMILAN dengan rasa asin atau gurih hampir selalu disukai orang. Meski adakalanya camilan atau kue yang manis juga jadi pilihan saat santai tetapi keripik, kerupuk, atau camilan-camilan asin lainnya&#8230;"
     }
 ]
