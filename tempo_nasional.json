@@ -1,5 +1,26 @@
 [
     {
+        "title": "BPJS Ketenagakerjaan Sosialisasi Program untuk Petugas Bawaslu",
+        "link": "https://nasional.tempo.co/read/1612490/bpjs-ketenagakerjaan-sosialisasi-program-untuk-petugas-bawaslu",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI0OTAvYnBqcy1rZXRlbmFnYWtlcmphYW4tc29zaWFsaXNhc2ktcHJvZ3JhbS11bnR1ay1wZXR1Z2FzLWJhd2FzbHU=",
+        "description": "Petugas Bawaslu yang terdaftar sebagai peserta BPJamsostek akan lebih mudah mendapat jaminan."
+    },
+    {
+        "title": "PLN Uji Coba Konversi Kompor Induksi di Bali",
+        "link": "https://nasional.tempo.co/read/1612489/pln-uji-coba-konversi-kompor-induksi-di-bali",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI0ODkvcGxuLXVqaS1jb2JhLWtvbnZlcnNpLWtvbXBvci1pbmR1a3NpLWRpLWJhbGk=",
+        "description": "Uji coba konversi kompor listrik menyasar 1.000 masyarakat penerima manfaat di Bali."
+    },
+    {
+        "title": "Tata Kelola Pupuk Subsidi untuk Jaga Ketahanan Pangan",
+        "link": "https://nasional.tempo.co/read/1612479/tata-kelola-pupuk-subsidi-untuk-jaga-ketahanan-pangan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI0NzkvdGF0YS1rZWxvbGEtcHVwdWstc3Vic2lkaS11bnR1ay1qYWdhLWtldGFoYW5hbi1wYW5nYW4=",
+        "description": "Subsidi pupuk merupakan bentuk komitmen pemerintah untuk hadir membantu petani."
+    },
+    {
         "title": "KKP Dorong Pelindungan Habitat Pesut Mahakam",
         "link": "https://nasional.tempo.co/read/1612476/kkp-dorong-pelindungan-habitat-pesut-mahakam",
         "image": "static/images/tempo_nasional.png",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI0NDAvc2lhcGFrYWgtc2FyaW5haC1uYW1hbnlhLWRpYWJhZGlrYW4tc29la2Fybm8tcGFkYS1tYWwtcGVydGFtYS1kaS1qYWthcnRh",
         "description": "Sarinah merupakan tokoh penting bagi Soekarno. Namanya diabadikan menjadi nama mal pertama yang dibangun di Jakarta. Siapakah perempuan itu?"
-    },
-    {
-        "title": "DPR Minta Pemerintah Jamin Keselamatan WNI di Sri Lanka",
-        "link": "https://nasional.tempo.co/read/1612452/dpr-minta-pemerintah-jamin-keselamatan-wni-di-sri-lanka",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI0NTIvZHByLW1pbnRhLXBlbWVyaW50YWgtamFtaW4ta2VzZWxhbWF0YW4td25pLWRpLXNyaS1sYW5rYQ==",
-        "description": "Komisi I mendorong Kemenlu untuk mematangkan rencana kontinjensi dalam penanganan situasi di Sri Lanka."
-    },
-    {
-        "title": "Survei Indopol: Simulasi 4 Poros Pilpres 2024, Anies - AHY Unggul",
-        "link": "https://nasional.tempo.co/read/1612446/survei-indopol-simulasi-4-poros-pilpres-2024-anies-ahy-unggul",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI0NDYvc3VydmVpLWluZG9wb2wtc2ltdWxhc2ktNC1wb3Jvcy1waWxwcmVzLTIwMjQtYW5pZXMtYWh5LXVuZ2d1bA==",
-        "description": "Indopol mencoba melakukan dua simulasi untuk melihat elektabilitas pasangan capres-cawapres di Pilpres 2024. Simulasi dengan 4 dan 3 poros."
-    },
-    {
-        "title": "Jokowi Bertemu Adian Napitupulu Cs, Bahas Masalah Agraria dan Resesi Global",
-        "link": "https://nasional.tempo.co/read/1612442/jokowi-bertemu-adian-napitupulu-cs-bahas-masalah-agraria-dan-resesi-global",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI0NDIvam9rb3dpLWJlcnRlbXUtYWRpYW4tbmFwaXR1cHVsdS1jcy1iYWhhcy1tYXNhbGFoLWFncmFyaWEtZGFuLXJlc2VzaS1nbG9iYWw=",
-        "description": "Adian Napitupulu bertemu Jokowi bersma aktivis yang tergabung dalam Pena 98."
     }
 ]
