@@ -1,5 +1,40 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507019/ini-3-strategi-bi-untuk-perluas-ekonomi-hijau-di-tanah-air",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzAxOS9pbmktMy1zdHJhdGVnaS1iaS11bnR1ay1wZXJsdWFzLWVrb25vbWktaGlqYXUtZGktdGFuYWgtYWly",
+        "description": "BANK Indonesia (BI) memiliki tiga strategi untuk scaling up ekonomi hijau di Tanah Air. Pertama, sangat penting merumuskan kebijakan agar tercipta transisi yang terjangkau. &quot;Upaya transisi&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/507018/kpk-usut-dugaan-korupsi-pengadaan-tanah-di-pulo-gebang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDcwMTgva3BrLXVzdXQtZHVnYWFuLWtvcnVwc2ktcGVuZ2FkYWFuLXRhbmFoLWRpLXB1bG8tZ2ViYW5n",
+        "description": "KOMISI Pemberantasan Korupsi (KPK) tengah mengusut kasus dugaan rasuah pengadaan tanah di Kelurahan Pulo Gebang, Kecamatan Cakung, Jakarta Timur. Pengadaan tanah itu dilakukan oleh Perumda Pembangunan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/507017/muncul-lagi-kpk-gadungan-tipu-hakim-hingga-polisi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDcwMTcvbXVuY3VsLWxhZ2kta3BrLWdhZHVuZ2FuLXRpcHUtaGFraW0taGluZ2dhLXBvbGlzaQ==",
+        "description": "KOMISI Pemberantasan Korupsi (KPK) kembali menerima laporan pihak yang mengatasnamakan pegawai Lembaga Antikorupsi. Pihak KPK gadungan tersebut melakukan penipuan, pemerasan, dan pemalsuan. KPK&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507016/dpr-minta-pemerintah-tindak-dan-tata-lagi-izin-tambang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzAxNi9kcHItbWludGEtcGVtZXJpbnRhaC10aW5kYWstZGFuLXRhdGEtbGFnaS1pemluLXRhbWJhbmc=",
+        "description": "ANGGOTA Komisi III DPR Dipo Nusantara Pua Upa mendesak aparat hukum bertindak tegas terhadap perusahaan tambang yang diduga tak memiliki izin penambangan. Dugaan penambangan illegal tersebut berpotensi&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/507015/tiga-penanda-hubungan-toksik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNzAxNS90aWdhLXBlbmFuZGEtaHVidW5nYW4tdG9rc2lr",
+        "description": "BELAKANGAN ini kata-kata &ldquo;hubungan toksik&rdquo; makin sering terdengar. Secara literasi, mengartikan kata-kata itu memang tidak sulit, yakni sebagai hubungan yang beracun atau hubungan yang&#8230;"
+    },
+    {
         "title": "Teknologi",
         "link": "https://m.mediaindonesia.com/teknologi/507014/startup-insurtech-rey-gandeng-sehatq-untuk-sediakan-fitur-chat-dokter",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDcwMTAvZGxoLWRraS1nYW5kZW5nLWFydGlzLXNjYmQta29sYWJvcmFzaS1qYWdhLWtlYmVyc2loYW4tZGFuLWtldGVydGliYW4=",
         "description": "PEMPROV DKI Jakarta melalui Dinas Lingkungan Hidup DKI Jakarta akan mengajak kolaborasi konten kreator SCBD, Jeje dan Bonge. Kolaborasi tersebut menjadikan Jeje (Jasmine Laticia) dan Bonge (Eka Saputra)&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/507009/intimidasi-3-polisi-kepada-wartawan-karena-tidak-paham-tugasnya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDcwMDkvaW50aW1pZGFzaS0zLXBvbGlzaS1rZXBhZGEtd2FydGF3YW4ta2FyZW5hLXRpZGFrLXBhaGFtLXR1Z2Fzbnlh",
-        "description": "SEBANYAK tiga anggota Polri mengintimidasi dua wartawan di lingkungan komplek rumah dinas Kadiv Propam Polri Irjen Ferdy Sambo saat melakukan peliputan. Ketiga oknum itu mengintimidasi karena diduga<br&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/507004/borneo-fc-ingin-balas-kekalahan-di-samarinda",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzAwNC9ib3JuZW8tZmMtaW5naW4tYmFsYXMta2VrYWxhaGFuLWRpLXNhbWFyaW5kYQ==",
-        "description": "BORNEO FC harus menelan kekalahan tipis 0-1 melawan Arema FC pada leg pertama Piala Presiden 2022, Kamis (14/7), di Stadion Kanjuruhan Malang. Pelatih Borneo FC Milomir Sesilja bertekad membalas kekalahan&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/506994/prilly-latuconsina-dan-umay-shahab-kembali-berduet-di-dear-stranger",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNjk5NC9wcmlsbHktbGF0dWNvbnNpbmEtZGFuLXVtYXktc2hhaGFiLWtlbWJhbGktYmVyZHVldC1kaS1kZWFyLXN0cmFuZ2Vy",
-        "description": "PRILLY Latuconsina dan Umay Shahab, melalui rumah produksi Sinemaku, kembali berduet menjadi produser dan sutradara untuk serial Dear&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507008/sandiaga-uno-desa-lonuo-miliki-potensi-wisata-nasional-dan-internasional",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MDA4L3NhbmRpYWdhLXVuby1kZXNhLWxvbnVvLW1pbGlraS1wb3RlbnNpLXdpc2F0YS1uYXNpb25hbC1kYW4taW50ZXJuYXNpb25hbA==",
-        "description": "ANUGERAH Desa Wisata Indonesia (ADWI) 2022 menyambangi Desa Lonuo. yang terletak di Kabupaten Bone Bolango, Provinsi Gorontalo. Desa Lonuo masuk ke dalam 50 desa wisata terbaik ADWI 2022. Itu&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507007/satpol-pp-sumsel-kembali-gelar-razia-tertib-masker",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MDA3L3NhdHBvbC1wcC1zdW1zZWwta2VtYmFsaS1nZWxhci1yYXppYS10ZXJ0aWItbWFza2Vy",
-        "description": "PEMERINTAH Provinsi Sumatra Selatan bakal kembali melakukan penertiban masker untuk masyarakat di wilayahnya. Kepala Satuan Polisi Pamong Praja Provinsi Sumsel, Aris Saputra mengatakan, pihaknya akan&#8230;"
     }
 ]

@@ -1,5 +1,12 @@
 [
     {
+        "title": "Krisis Sri Lanka: Tujuh faktor yang memicu tsunami politik, mulai dari biaya hidup hingga jebakan utang",
+        "link": "https://www.bbc.com/indonesia/dunia-62174128",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjIxNzQxMjg=",
+        "description": "Gejolak yang terjadi di ibu kota Sri Lanka berakar pada kesengsaraan politik dan ekonomi yang mendalam. Berikut adalah isu-isu kunci pemicu kekacauan yang masih berlangsung hingga kini."
+    },
+    {
         "title": "Perusahaan sawit di Papua buka lahan 70 hektar meski izin dicabut, 'potensi pidana' perusahaan yang 'merusak hutan kami'",
         "link": "https://www.bbc.com/indonesia/indonesia-62161132",
         "image": "static/images/bbc_indonesia.png",
@@ -26,13 +33,6 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MjE0OTMyNQ==",
         "description": "Katje van Loon memiliki gagasan untuk Hari Internasional Non-Biner - yang jatuh di antara Hari Perempuan Internasional dan Hari Pria."
-    },
-    {
-        "title": "Sri Lanka: Siapa dinasti Rajapaksa, keluarga bermasalah yang menjadi sumber krisis ekonomi dan kerusuhan?",
-        "link": "https://www.bbc.com/indonesia/dunia-61403286",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE0MDMyODY=",
-        "description": "Selama dua dekade terakhir, keluarga Rajapaksa mendominasi politik Sri Lanka, tetapi sekarang mereka 'digulingkan' di tengah krisis ekonomi terburuk sejak merdeka dari Inggris pada 1948."
     },
     {
         "title": "Indonesia masuk 15 besar negara terancam resesi versi Bloomberg, IMF wanti-wanti prospek ekonomi global kian 'gelap'",
@@ -63,10 +63,10 @@
         "description": "Para pakar mempertanyakan siapa di balik Predatory Sparrow, kelompok yang mengatakan mereka yang menyebabkan kebakaran di satu pabrik baja di Iran."
     },
     {
-        "title": "Indonesia bekukan pengiriman pekerja, Malaysia 'tak hormati ' MoU perlindungan tenaga kerja",
-        "link": "https://www.bbc.com/indonesia/indonesia-60925857",
+        "title": "Sri Lanka: Siapa dinasti Rajapaksa, keluarga bermasalah yang menjadi sumber krisis ekonomi dan kerusuhan?",
+        "link": "https://www.bbc.com/indonesia/dunia-61403286",
         "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYwOTI1ODU3",
-        "description": "Indonesia membekukan sementara pengiriman tenaga kerja ke Malaysia karena Kuala Lumpur \"tidak menghormati MoU\" yang ditandatangani tiga bulan lalu, menurut Duta Besar Indonesia untuk Malaysia Hermono."
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjE0MDMyODY=",
+        "description": "Selama dua dekade terakhir, keluarga Rajapaksa mendominasi politik Sri Lanka, tetapi sekarang mereka 'digulingkan' di tengah krisis ekonomi terburuk sejak merdeka dari Inggris pada 1948."
     }
 ]
