@@ -1,5 +1,54 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/507319/des-ganjar-jember-kenalkan-sosok-ganjar-pranowo-di-alun-alun-jenggawah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MzE5L2Rlcy1nYW5qYXItamVtYmVyLWtlbmFsa2FuLXNvc29rLWdhbmphci1wcmFub3dvLWRpLWFsdW4tYWx1bi1qZW5nZ2F3YWg=",
+        "description": "JEMBER merupakan wilayah Tapal Kuda atau wilayah paling di timur di Provinsi Jawa Timur yang memiliki populasi penduduk paling banyak diantara wilaya Tapal Kuda Lainnya, yakni Probolinggo dan Banyuwangi.&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/507230/amankah-konsultasi-dengan-psikolog-klinis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDcyMzAvYW1hbmthaC1rb25zdWx0YXNpLWRlbmdhbi1wc2lrb2xvZy1rbGluaXM=",
+        "description": "&ldquo;APAKAH aman menceritakan masalahku ini pada psikolog klinis?&rdquo; &ldquo;Bagaimana bila nanti aku mendapat penilaian buruk atau penghakiman dari psikolog klinis?&rdquo; &ldquo;Bagaimana&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/507318/pupr-pastikan-kesiapan-venue-asean-para-games-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDczMTgvcHVwci1wYXN0aWthbi1rZXNpYXBhbi12ZW51ZS1hc2Vhbi1wYXJhLWdhbWVzLTIwMjI=",
+        "description": "MENTERI Pekerjaan Umum dan Perumahan Rakyat (PUPR) Basuki Hadimuljono memastikan kesiapan sejumlah venue pertandingan untuk ASEAN Para Games 2022 di Solo, Jawa Tengah. Basuki mengatakan dari&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507316/pascasarjana-unj-jadi-tuan-rumah-konferensi-internasional-icheds-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MzE2L3Bhc2Nhc2FyamFuYS11bmotamFkaS10dWFuLXJ1bWFoLWtvbmZlcmVuc2ktaW50ZXJuYXNpb25hbC1pY2hlZHMtMjAyMg==",
+        "description": "PASCASARJANA Universitas Negeri Jakarta (UNJ) kembali menjadi tuan rumah penyelenggaraan konferensi internasional tahun 2022. Kegiatan ini merupakan komitmen Pascasarjana UNJ untuk mewujudkan visi&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/507315/deklarasi-dukung-ganjar-ratusan-anak-muda-di-jambi-dukung-smk-gratis-se-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MzE1L2Rla2xhcmFzaS1kdWt1bmctZ2FuamFyLXJhdHVzYW4tYW5hay1tdWRhLWRpLWphbWJpLWR1a3VuZy1zbWstZ3JhdGlzLXNlLWluZG9uZXNpYQ==",
+        "description": "RATUSAN anak muda, mahasiswa, dan milenial yang tergabung dalam Orang Muda Ganjar (OMG) Jambi mendeklarasikan dukungan kepada Gubernur Jawa Tengah (Jateng) Ganjar Pranowo untuk menjadi presiden RI&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/507314/joe-biden-as-tetap-menjadi-mitra-timur-tengah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNzMxNC9qb2UtYmlkZW4tYXMtdGV0YXAtbWVuamFkaS1taXRyYS10aW11ci10ZW5nYWg=",
+        "description": "PRESIDEN Amerika Serikat (AS) Joe Biden menyatakan bahwa negaranya akan menjadi mitra yang aktif dengan Timur Tengah. Dirinya juga mendesak para pemimpin yang berkumpul di pertemuan Arab Summit,&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507312/damar-meja-hijau-kembali-buka-unit-kegiatan-sosial-melalui-damar-thriftshop-dan-coffeeshop",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MzEyL2RhbWFyLW1lamEtaGlqYXUta2VtYmFsaS1idWthLXVuaXQta2VnaWF0YW4tc29zaWFsLW1lbGFsdWktZGFtYXItdGhyaWZ0c2hvcC1kYW4tY29mZmVlc2hvcA==",
+        "description": "YAYASAN Damar Meja Hijau terus mengembangkan konsep clkarya sosialnya untuk masyarakat dengan membuka unit kegiatan sosial baru melalui Damar Thriftshop dan Coffeshop.&nbsp; Yayasan Damar Meja&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/507311/pelatih-borneo-fc-yakin-bisa-balas-kekalahan-dari-arema-fc",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MzA5L2xsZGlrdGktaWlpLWRhbi1wdHMtc2VwYWthdGkta29udHJhay1oaWJhaC1zZW5pbGFpLXJwNDQ0LW1pbGlhcg==",
         "description": "LEMBAGA Layanan Pendidikan Tinggi Wilayah III mendorong perguruan tinggi swasta di Jakarta turut memanfaatkan dana hibah dari Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi periode 2022 ini.&nbsp;&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/507308/ini-yang-perlu-dilakukan-brand-untuk-gaet-konsumen-di-ekosistem-periklanan-digital",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA3MzA4L2luaS15YW5nLXBlcmx1LWRpbGFrdWthbi1icmFuZC11bnR1ay1nYWV0LWtvbnN1bWVuLWRpLWVrb3Npc3RlbS1wZXJpa2xhbmFuLWRpZ2l0YWw=",
-        "description": "BERDASARKAN data Statista, saat ini tingkat penetrasi internet global mencapai 63 persen. Sementara itu ketersediaan ponsel dan paket internet yang ekonomis tidak hanya meningkatkan populasi pengguna&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/507307/kasus-penembakan-brigadir-j-benny-susetyo-percayakan-pada-tim-investigasi-yang-ada",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDczMDcva2FzdXMtcGVuZW1iYWthbi1icmlnYWRpci1qLWJlbm55LXN1c2V0eW8tcGVyY2F5YWthbi1wYWRhLXRpbS1pbnZlc3RpZ2FzaS15YW5nLWFkYQ==",
-        "description": "SEKRETARIS Dewan Nasional (Sekwanas) Setara Institute Romo Benny Susetyo menyoroti kasus penembakan yang menewaskan Brigadir Nofriansyah Yosua Hutabarat alias Brigadir J di rumah Kadiv Propam Polri&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/507304/83-rt-masih-terendam-banjir-tertinggi-dua-meter",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDczMDQvODMtcnQtbWFzaWgtdGVyZW5kYW0tYmFuamlyLXRlcnRpbmdnaS1kdWEtbWV0ZXI=",
-        "description": "BADAN Penanggulangan Bencana Daerah (BPBD) DKI Jakarta mencatat, sebanyak 83 rukun tetangga (RT) di wilayah DKI Jakarta tergenang air, pada Sabtu (16/7) hingga pukul 12.00 WIB. Jumlah wilayah&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/507302/all-indonesian-tersaji-di-final-singapura-terbuka-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDczMDIvYWxsLWluZG9uZXNpYW4tdGVyc2FqaS1kaS1maW5hbC1zaW5nYXB1cmEtdGVyYnVrYS0yMDIy",
-        "description": "PERANG saudara antara dua ganda putra Indonesia Leo Rolly Carnando/Daniel Marthin vs Fajar Alfian/Muhammad Rian Ardianto akan tersaji di babak final Singapura Terbuka 2022 pada Minggu (17/7) besok.&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/507301/timnas-basket-ri-takluk-dari-australia-di-laga-terakhir-grup-a",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDczMDEvdGltbmFzLWJhc2tldC1yaS10YWtsdWstZGFyaS1hdXN0cmFsaWEtZGktbGFnYS10ZXJha2hpci1ncnVwLWE=",
-        "description": "TIMNAS basket Indonesia takluk dari Australia dengan skor 53-78 pada laga terakhir Grup A FIBA Asia Cup 2022 di Istora GBK, Jakarta. Pada pertandingan ini, pelatih Milos Pejic menurunkan starter&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/507296/polri-usul-hapus-biaya-balik-nama-kendaraan-bermotor",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDcyOTYvcG9scmktdXN1bC1oYXB1cy1iaWF5YS1iYWxpay1uYW1hLWtlbmRhcmFhbi1iZXJtb3Rvcg==",
-        "description": "KORLANTAS Polri mengusulkan penghapusan biaya dalam proses balik nama kendaraan bermotor (BBN2). Tujuannya untuk meningkatkan kesadaran pemilik kendaraan untuk mengubah nama sesuai pemiliknya.&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507300/dalam-sepekan-gunung-merapi-diguncang-746-kali-gempa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MzAwL2RhbGFtLXNlcGVrYW4tZ3VudW5nLW1lcmFwaS1kaWd1bmNhbmctNzQ2LWthbGktZ2VtcGE=",
-        "description": "SELAMA sepekan, yakni 8-14 Juli 2022, kawasan puncak Gunung Merapi di perbatasan Jawa Tengah dan DI Yogyakarta diguncang 746 gempa. &quot;Tercatat 11 kali gempa vulkanik dangkal atau VTB. Lalu,&#8230;"
     }
 ]
