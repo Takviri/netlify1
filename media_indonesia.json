@@ -1,5 +1,19 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507200/hujan-di-saat-kemarau-melanda-sejumlah-kota-di-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MjAwL2h1amFuLWRpLXNhYXQta2VtYXJhdS1tZWxhbmRhLXNlanVtbGFoLWtvdGEtZGktaW5kb25lc2lh",
+        "description": "BADAN Meteorologi, Klimatologi dan Geofisika (BMKG) memprakirakan curah hujan dengan intensitas ringan hingga lebat masih berpotensi mengguyur sebagian wilayah ibu kota provinsi di Indonesia, meski&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507199/penerbangan-langsung-bali-korea-selatan-kembali-dibuka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzE5OS9wZW5lcmJhbmdhbi1sYW5nc3VuZy1iYWxpLWtvcmVhLXNlbGF0YW4ta2VtYmFsaS1kaWJ1a2E=",
+        "description": "BANDARA I Gusti Ngurah Rai Bali kembali menerima tambahan rute penerbangan internasional reguler pada bulan Juli, setelah beroperasinya kembali penerbangan Korean Air yang menghubungkan Incheon dengan&#8230;"
+    },
+    {
         "title": "Megapolitan",
         "link": "https://m.mediaindonesia.com/megapolitan/507198/ciliwung-meluap-pemukiman-di-kebon-pala-jatinegara-banjir",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzE5MC9tdXNpbS10ZXJha2hpci1yb25hbGRvLWRhbi1tZXNzaQ==",
         "description": "DALAM dua dekade terakhir, dunia sepak bola boleh dikatakan hanya menjadi milik dua pemain, Cristiano Ronaldo dan Lionel Messi. Ukuran sederhananya bisa dilihat dari jumlah penghargaan terbaik dunia&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/507152/desa-berdikari",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDcxNTIvZGVzYS1iZXJkaWthcmk=",
-        "description": "DESA berdikari Pancasila. Itulah tema yang didiskusikan Badan Pembinaan Ideologi Pancasila (BPIP) yang kebetulan saya diundang menjadi salah satu narasumber bersama budayawan kondang Dr Zastrow&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/507189/kalahkan-selandia-baru-lebanon-kunci-tiket-perempat-final",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDcxODkva2FsYWhrYW4tc2VsYW5kaWEtYmFydS1sZWJhbm9uLWt1bmNpLXRpa2V0LXBlcmVtcGF0LWZpbmFs",
-        "description": "TIM bola basket Lebanon melanjutkan tren positif dengan keberhasilan membekap Selandia Baru 86-72 dalam lanjutan Grup D FIBA Asia Cup 2022 di Istora Gelora Bung Karno, Senayan, Jakarta, Jumat (15/7).<br&#8230;"
     }
 ]
