@@ -1,5 +1,19 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/507193/banjir-bandang-sungai-cimanuk-terjang-garut",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MTkzL2Jhbmppci1iYW5kYW5nLXN1bmdhaS1jaW1hbnVrLXRlcmphbmctZ2FydXQ=",
+        "description": "CURAH hujan yang tinggi menyebabkan aliran sungai Cimanuk meluap dan menggenangi sejumlah kecamatan di Kota Garut, Jawa Barat. Ratusan warga mengungsi ke tempat yang aman, namun masih ada ratusan warga&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/507190/musim-terakhir-ronaldo-dan-messi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzE5MC9tdXNpbS10ZXJha2hpci1yb25hbGRvLWRhbi1tZXNzaQ==",
+        "description": "DALAM dua dekade terakhir, dunia sepak bola boleh dikatakan hanya menjadi milik dua pemain, Cristiano Ronaldo dan Lionel Messi. Ukuran sederhananya bisa dilihat dari jumlah penghargaan terbaik dunia&#8230;"
+    },
+    {
         "title": "Opini",
         "link": "https://m.mediaindonesia.com/opini/507152/desa-berdikari",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MTgyL21pbGVuaWFsLWthbGJhci1iZXJrb2xhYm9yYXNpLWRlbmdhbi1ha3RpdmlzLWtlbmFsa2FuLXNvc29rLWdhbmphci1wcmFub3dv",
         "description": "GUBERNUR Jawa Tengah Ganjar Pranowo dinilai paling tepat untuk menjadi Presiden 2024. Hal itu berdasarkan diskusi anak milenial dan aktivis yang tergabung dalam Ganjar milenial Center (GMC) Kalimantan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/507180/bukukan-dua-rekor-jepang-langsung-fokus-hadapi-iran",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDcxODAvYnVrdWthbi1kdWEtcmVrb3ItamVwYW5nLWxhbmdzdW5nLWZva3VzLWhhZGFwaS1pcmFu",
-        "description": "TIM nasional bola basket Jepang enggan larut dalam euforia kemenangan telak 117-56 atas Suriah dalam laga kedua Grup C FIBA Asia Cup 2022 di Istora Gelora Bung Karno (GBK), Senayan, Jakarta, Jumat&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/507179/menlu-inggris-panggil-dubes-rusia-atas-kematian-warganya-di-donetsk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNzE3OS9tZW5sdS1pbmdncmlzLXBhbmdnaWwtZHViZXMtcnVzaWEtYXRhcy1rZW1hdGlhbi13YXJnYW55YS1kaS1kb25ldHNr",
-        "description": "KEMENTERIAN Luar Negeri Inggris memanggil Duta Besar Rusia di London Andrei Kelin untuk menyampaikan keprihatinan mendalam atas laporan kematian seorang pekerja bantuan Inggris di Republik Rakyat Donetsk&#8230;"
     }
 ]
