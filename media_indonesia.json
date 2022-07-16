@@ -1,6 +1,20 @@
 [
     {
         "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/507198/ciliwung-meluap-pemukiman-di-kebon-pala-jatinegara-banjir",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDcxOTgvY2lsaXd1bmctbWVsdWFwLXBlbXVraW1hbi1kaS1rZWJvbi1wYWxhLWphdGluZWdhcmEtYmFuamly",
+        "description": "HUJAN deras yang mengguyur wilayah Jakarta dan Depok, Jawa Barat, sejak semalam hingga pagi ini, mengakibatkan air di aliran Kali Ciliwung meluap dan membanjiri pemukiman warga di Kebon Pala, Jatinegara,&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/507196/bmkg-waspada-sabtu-ini-dki-jakarta-hujan-disertai-petir",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDcxOTYvYm1rZy13YXNwYWRhLXNhYnR1LWluaS1ka2ktamFrYXJ0YS1odWphbi1kaXNlcnRhaS1wZXRpcg==",
+        "description": "BADAN Meteorologi Klimatologi dan Geofisika (BMKG) mengingatkan agar warga mewaspadai potensi hujan disertai kilat petir serta angin kencang di wilayah Jakarta pada Sabtu (16/7) &quot;Waspada&#8230;"
+    },
+    {
+        "title": "Megapolitan",
         "link": "https://m.mediaindonesia.com/megapolitan/507195/pmi-evakuasi-ibu-akan-melahirkan-di-pemukiman-terdampak-banjir-di-tangerang",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDcxOTUvcG1pLWV2YWt1YXNpLWlidS1ha2FuLW1lbGFoaXJrYW4tZGktcGVtdWtpbWFuLXRlcmRhbXBhay1iYW5qaXItZGktdGFuZ2VyYW5n",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDcxODkva2FsYWhrYW4tc2VsYW5kaWEtYmFydS1sZWJhbm9uLWt1bmNpLXRpa2V0LXBlcmVtcGF0LWZpbmFs",
         "description": "TIM bola basket Lebanon melanjutkan tren positif dengan keberhasilan membekap Selandia Baru 86-72 dalam lanjutan Grup D FIBA Asia Cup 2022 di Istora Gelora Bung Karno, Senayan, Jakarta, Jumat (15/7).<br&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/507188/luhut-sebut-penerbangan-ramai-ke-bali-pertanda-pariwisata-mulai-pulih",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzE4OC9sdWh1dC1zZWJ1dC1wZW5lcmJhbmdhbi1yYW1haS1rZS1iYWxpLXBlcnRhbmRhLXBhcml3aXNhdGEtbXVsYWktcHVsaWg=",
-        "description": "MENTERI Koordinator Kemaritiman dan Investasi Luhut Binsar Pandjaitan&nbsp; menilai tingginya penerbangan ke Bali belakangan ini merupakan hal baik&nbsp; karena berarti pariwisata mulai pulih.&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/507187/penjualan-retail-as-naik-di-juni-meskipun-inflasi-tinggi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzE4Ny9wZW5qdWFsYW4tcmV0YWlsLWFzLW5haWstZGktanVuaS1tZXNraXB1bi1pbmZsYXNpLXRpbmdnaQ==",
-        "description": "PENJUALAN ritel Amerika Serikat melonjak 1% pada Juni di tengah lonjakan harga yang sedang berlangsung. Ini menjadi berita buruk bagi Federal Reserve karena berjuang untuk mengendalikan inflasi yang&#8230;"
     }
 ]
