@@ -1,5 +1,26 @@
 [
     {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/507336/kebakaran-hutan-di-prancis-meluas-menjadi-10-ribu-hektare",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNzMzNi9rZWJha2FyYW4taHV0YW4tZGktcHJhbmNpcy1tZWx1YXMtbWVuamFkaS0xMC1yaWJ1LWhla3RhcmU=",
+        "description": "Kebakaran hutan meluas di barat daya Prancis pada Sabtu, dengan hampir 10.000 hektare terbakar di wilayah Gironde, meningkat dari 7.300 hektar pada Jumat (16/7). Lebih dari 12.200 orang telah&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/507332/jon-bodo-panjat-pinang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNzMzMi9qb24tYm9kby1wYW5qYXQtcGluYW5n",
+        "description": "NEN, Agustusan bsok mau ikutan lomba apa?"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/507317/bung-sentil-harus-waspada",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNzMxNy9idW5nLXNlbnRpbC1oYXJ1cy13YXNwYWRh",
+        "description": "WUAAAH...orang-orang semakin gila mempermainkan agama. Kok bisa ya?"
+    },
+    {
         "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/507329/wayang-kulit-betawi-bukan-sekadar-tontonan",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzMzMC9kYW5hLXBlcmFudGFyYS1rZXVhbmdhbi1iZXJ0YW1iYWgtamFkaS11czEyOC1taWxpYXI=",
         "description": "PENGUMPULAN&nbsp; &nbsp;Dana Perantara Keuangan (Financial Intermediary Fund/FIF) kesiapsiagaan, pencegahan, dan respons (preparedness, prevention, and response/PPR) pandemi bertambah menjadi US$1,28&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/507328/semarak-kurban-di-universitas-mercu-buana-idul-adha-sebagai-madrasah-pengurbanan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MzI4L3NlbWFyYWsta3VyYmFuLWRpLXVuaXZlcnNpdGFzLW1lcmN1LWJ1YW5hLWlkdWwtYWRoYS1zZWJhZ2FpLW1hZHJhc2FoLXBlbmd1cmJhbmFu",
-        "description": "DEWAN Kemakmuran Masjid (DKM) Manarul &lsquo;Amal Universitas Mercu Buana, Meruya, Jakarta Barat,&nbsp; melaksanakan kegiatan Idul Kurban 1443 H.&nbsp; Salat Idul Adha dipimpin oleh Dr. Muhammad&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507327/srikandi-ganjar-ntt-gaet-milenial-lewat-senam-zumba",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MzI3L3NyaWthbmRpLWdhbmphci1udHQtZ2FldC1taWxlbmlhbC1sZXdhdC1zZW5hbS16dW1iYQ==",
-        "description": "GEGAP gempita suara musik dan kedap-kedip cahaya lampu berwarna, mengiringi sorak sorai ribuan perempuan yang larut dalam kegembiraan di pentas kreasi dan kolaborasi yang diusung Srikandi Ganjar di&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/507325/libatkan-komnas-perempuan-investigasi-kasus-polisi-tembak-polisi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDczMjUvbGliYXRrYW4ta29tbmFzLXBlcmVtcHVhbi1pbnZlc3RpZ2FzaS1rYXN1cy1wb2xpc2ktdGVtYmFrLXBvbGlzaQ==",
-        "description": "TIM khusus (timsus) untuk mengungkap kasus baku tembak antaranggota Polri yang menewaskan Brigadir J perlu melibatkan Komnas Perempuan.&nbsp; Menurut pakar hukum pidana Universitas Islam Indonesia&#8230;"
     }
 ]
