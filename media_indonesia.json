@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507242/pemerintah-didorong-jaga-stabilitas-harga-pangan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzI0Mi9wZW1lcmludGFoLWRpZG9yb25nLWphZ2Etc3RhYmlsaXRhcy1oYXJnYS1wYW5nYW4=",
+        "description": "PEMERINTAH didorong untuk bisa mengendalikan harga pangan yang terjangkau di tingkat masyarakat. Hal ini dinilai menjadi salah satu kunci untuk membendung krisis pangan yang saat ini terjadi di level&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/507241/182-pasien-covid-19-rawat-inap-di-wisma-atlet",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDcyNDEvMTgyLXBhc2llbi1jb3ZpZC0xOS1yYXdhdC1pbmFwLWRpLXdpc21hLWF0bGV0",
+        "description": "SEBANYAK 182 orang dirawat di Rumah Sakit Darurat (RSD) Wisma Atlet Kemayoran Jakarta, Sabtu (16/7). Seluruh pasien rawat inap menempati Tower 5, 6, dan 7. &quot;Jumlah itu berkurang 13 orang&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507240/kementan-pastikan-ketahanan-pangan-di-pulau-buton-aman-dan-bebas-pmk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzI0MC9rZW1lbnRhbi1wYXN0aWthbi1rZXRhaGFuYW4tcGFuZ2FuLWRpLXB1bGF1LWJ1dG9uLWFtYW4tZGFuLWJlYmFzLXBtaw==",
+        "description": "KEMENTERIAN Pertanian (Kementan) melalui Inspektorat Jenderal (Itjen) memastikan bahwa kebutuhan bahan pokok di wilayah Buton dalam kondisi aman dan terkendali. Selain itu, sapi hewan ternak&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/507238/disayangkan-petani-bali-belum-optimal-terapkan-gap-dalam-budidaya-kopi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MjM4L2Rpc2F5YW5na2FuLXBldGFuaS1iYWxpLWJlbHVtLW9wdGltYWwtdGVyYXBrYW4tZ2FwLWRhbGFtLWJ1ZGlkYXlhLWtvcGk=",
+        "description": "PENERAPAN Good Agricultural Practices (GAP) yang belum optimal oleh petani kopi di Bali. Akibatnya, produksi dan kualitas kopi di Bali juga tidak maksimal dan juga masih rendahnya kualitas&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/507239/rizal-mallarangeng-sebut-jokowi-perkuat-implementasi-pancasila",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDcyMzkvcml6YWwtbWFsbGFyYW5nZW5nLXNlYnV0LWpva293aS1wZXJrdWF0LWltcGxlbWVudGFzaS1wYW5jYXNpbGE=",
+        "description": "ERA kepemimpinan Presiden Joko Widodo (Jokowi) dinilai semakin mewujudkan nilai Pancasila yang lebih baik bagi masyarakat. Hal itu mampu memperkuat bangsa dalam menghadapi pelbagai&nbsp;tantangan global.&nbsp;&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/507237/banjir-mulai-surut-bnpb-imbau-warga-jabodetabek-tetap-waspada",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDcyMzcvYmFuamlyLW11bGFpLXN1cnV0LWJucGItaW1iYXUtd2FyZ2EtamFib2RldGFiZWstdGV0YXAtd2FzcGFkYQ==",
+        "description": "BADAN Nasional Penanggulangan Bencana (BNPB) melaporkan bahwa beberapa daerah yang terendam banjir, kini sudah mulai surut. Meski demikian, masyarakat khususnya di wilayah Jabodetabek diminta tetap&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/507236/erlangga-art-award-2022-hadir-di-kota-yogyakarta",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDcyMzQvYXJlbWEtZmMtc2lhcC1iZXJkYXJhaC1kYXJhaC1kZW1pLXRyb2ZpLXBpYWxhLXByZXNpZGVuLTIwMjI=",
         "description": "KEMENANGAN 1-0 Arema FC atas Borneo FC Samarinda pada leg pertama final Piala Presiden di Stadion Kanjuruhan, Kepanjen, Kabupaten Malang, Kamis (17/7) malam, belum menggaransi Singo Edan -julukan Arema&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507233/bps-laporkan-pemprov-jateng-berhasil-turunkan-angka-kemiskinan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MjMzL2Jwcy1sYXBvcmthbi1wZW1wcm92LWphdGVuZy1iZXJoYXNpbC10dXJ1bmthbi1hbmdrYS1rZW1pc2tpbmFu",
-        "description": "BADAN Pusat Statistik (BPS) merilis, Provinsi Jawa Tengah berhasil menurunkan angka kemiskinan sebesar 0,32%&nbsp;poin, dari sebelumnya 11,25%&nbsp;(September 2021), menjadi 10,93%&nbsp;(Maret 2022).&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/507221/jenis-jenis-pengangguran-dan-cara-mengatasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MjIxL2plbmlzLWplbmlzLXBlbmdhbmdndXJhbi1kYW4tY2FyYS1tZW5nYXRhc2k=",
-        "description": "TANTANGAN pemerintah ialah menyiapkan lapangan kerja sebanyak-banyak bagi warganya. Namun, seringkali antara jumlah lapangan kerja dan jumlah angkatan kerja tidak seimbang. Akibatnya, muncul pengangguran.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/507232/menko-pmk-dan-menhub-sambut-kedatangan-jemaah-haji-kloter-pertama-debarkasi-jakarta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MjMyL21lbmtvLXBtay1kYW4tbWVuaHViLXNhbWJ1dC1rZWRhdGFuZ2FuLWplbWFhaC1oYWppLWtsb3Rlci1wZXJ0YW1hLWRlYmFya2FzaS1qYWthcnRh",
-        "description": "MENTERI Koordinator Bidang Pembangunan Manusia dan Kebudayaan (PMK) Muhadjir Effendy menyambut kedatangan jemaah haji Indonesia kloter (kelompok terbang) pertama yang berangkat dari Embarkasi Jakarta&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/507211/cara-bikin-video-bokeh-dan-link-download-aplikasi-android",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA3MjExL2NhcmEtYmlraW4tdmlkZW8tYm9rZWgtZGFuLWxpbmstZG93bmxvYWQtYXBsaWthc2ktYW5kcm9pZA==",
-        "description": "APA Itu Bokeh? Bokeh adalah kualitas estetika fotografi yang dihasilkan dari bagian yang tidak fokus atau blur. Kata Bokeh sendiri&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/507231/ada-30-rumah-di-sawangan-baru-kota-depok-terjebak-banjir-2-meter",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDcyMzEvYWRhLTMwLXJ1bWFoLWRpLXNhd2FuZ2FuLWJhcnUta290YS1kZXBvay10ZXJqZWJhay1iYW5qaXItMi1tZXRlcg==",
-        "description": "SEBANYAK 30 kepala keluarga (KK) yang tinggal di tepian Kali Pesanggerahan di RT 002 RW 08 Kelurahan Sawangan Baru Kecamatan Sawangan Kota Depok terjebak banjir setinggi 2 meter. Mereka terjebak selama&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/507228/final-e-sportjadi-rangkaian-utama-acara-harkopnas-ke-75-di-bali",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzIyOC9maW5hbC1lLXNwb3J0amFkaS1yYW5na2FpYW4tdXRhbWEtYWNhcmEtaGFya29wbmFzLWtlLTc1LWRpLWJhbGk=",
-        "description": "KEGIATAN Expo dalam rangka merayakan Hari Koperasi Indonesia (Harkopnas) ke-75 telah resmi dibuka pada hari Kamis (14/7) di Ballroom Prime Plaza Hotel Sanur, Bali. Peringatatan Harkopnas ke-75&#8230;"
     }
 ]
