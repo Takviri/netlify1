@@ -1,5 +1,54 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/507267/allyson-felix-raihmedali-ke-19-di-world-athletics-championship-terakhirnya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDcyNjcvYWxseXNvbi1mZWxpeC1yYWlobWVkYWxpLWtlLTE5LWRpLXdvcmxkLWF0aGxldGljcy1jaGFtcGlvbnNoaXAtdGVyYWtoaXJueWE=",
+        "description": "PELARI veteran Amerika Serikat (AS) Allyson Felix berhasil merebut medali ke-19 kalinya di World Athletics Championship 2022, yang bergulir di Oregon, AS, Jumat (16/7) WIB. Merebut medali perunggu&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/507266/empat-kecamatan-di-kota-bekasi-tergenang-banjir",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDcyNjYvZW1wYXQta2VjYW1hdGFuLWRpLWtvdGEtYmVrYXNpLXRlcmdlbmFuZy1iYW5qaXI=",
+        "description": "SEDIKITNYA empat kecamatan di Kota Bekasi, Jawa Barat, tergenang banjir akibat hujan deras sejak Jumat (15/7) malam hingga Sabtu (16/7) pagi.&nbsp; Banjir juga disebabkan meluapnya sungai di&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/507265/polri-usulkan-penghapusan-biaya-balik-nama-kendaraan-bermotor",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDcyNjUvcG9scmktdXN1bGthbi1wZW5naGFwdXNhbi1iaWF5YS1iYWxpay1uYW1hLWtlbmRhcmFhbi1iZXJtb3Rvcg==",
+        "description": "KORPS Lalu Lintas (Korlantas) Polri mengusulkan penghapusan biaya dalam proses balik nama kendaraan bermotor (BBN2). Hal itu guna meningkatkan kesadaran pemilik kendaraan untuk mengubah nama sesuai&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/507264/ronaldo-tolak-tawaran-gaji-rp414-triliun-oleh-klub-arab-saudi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzI2NC9yb25hbGRvLXRvbGFrLXRhd2FyYW4tZ2FqaS1ycDQxNC10cmlsaXVuLW9sZWgta2x1Yi1hcmFiLXNhdWRp",
+        "description": "PEMAIN Manchester United Cristiano Ronaldo kabarnya telah menolak tawaran gaji 2,24 juta pound (Rp39,8 miliar) per pekan atau total 233 juta pound (Rp4,14 triliun) dari sebuah klub Arab Saudi yang&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/507263/lalu-muhammad-zohri-tersisih-di-world-athletics-championship",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDcyNjMvbGFsdS1tdWhhbW1hZC16b2hyaS10ZXJzaXNpaC1kaS13b3JsZC1hdGhsZXRpY3MtY2hhbXBpb25zaGlw",
+        "description": "PELARI andalan Indonesia, Lalu Muhammad Zohri, belum berhasil merebut gelar juara di kejuaraan World Athletics Championship 2022, yang berlangsung di Oregon, Amerika Serikat. Tampil pada nomor&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/507262/komnas-ham-berencana-panggil-kadiv-propam-irjen-ferdy-sambo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDcyNjIva29tbmFzLWhhbS1iZXJlbmNhbmEtcGFuZ2dpbC1rYWRpdi1wcm9wYW0taXJqZW4tZmVyZHktc2FtYm8=",
+        "description": "KOMISI Nasional Hak Asasi Manusia (Komnas HAM) berencana memanggil Kadiv Propam Irjen Ferdy Sambo. Upaya itu untuk mengorek keterangan lebih jauh terkait kasus baku tembak ajudan di kediamannya.&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507261/satgas-covid-19-penjemput-jemaah-haji-patuhi-prokes",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MjYxL3NhdGdhcy1jb3ZpZC0xOS1wZW5qZW1wdXQtamVtYWFoLWhhamktcGF0dWhpLXByb2tlcw==",
+        "description": "SATGAS Penanganan Covid-19 mengingatkan bahwa kasus covid-19 di Tanah Air kembali meningkat dalam beberapa waktu terakhir. Masyarakat, khususnya keluarga yang menjemput jemaah haji dari Arab Saudi,&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/507260/dukungan-publik-sejalan-kinerja-positif-erick-thohir",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDcyNTgvcGVyc2lhcGFuLXZlbnVlLWtvbGFtLXJlbmFuZy1hc2Vhbi1wYXJhLWdhbWVzY2FwYWktOTA=",
         "description": "PERSIAPAN venue kolam renang untuk penyelenggaraan pesta olahraga atlet disabilitas ASEAN Para Games 2022 di Semarang sudah mencapai 90%. Sementara, untuk perbaikan akes jalan menuju venue,&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/507257/dinilai-mampu-bangkitkan-ekonomi-sandiaga-peroleh-dukungan-di-pilpres-2024",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDcyNTcvZGluaWxhaS1tYW1wdS1iYW5na2l0a2FuLWVrb25vbWktc2FuZGlhZ2EtcGVyb2xlaC1kdWt1bmdhbi1kaS1waWxwcmVzLTIwMjQ=",
-        "description": "TIM Teman Sandi mengadakan kegiatan sosial dan aneka lomba untuk para millenial di Depok, Sabtu (16/7). Kegiatan ini sekaligus&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/507256/pakar-testing-ri-rendah-laporan-kasus-covid-19-belum-tentu-angka-riil",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MjU2L3Bha2FyLXRlc3RpbmctcmktcmVuZGFoLWxhcG9yYW4ta2FzdXMtY292aWQtMTktYmVsdW0tdGVudHUtYW5na2EtcmlpbA==",
-        "description": "KASUS positif covid-19 di Inggris pada 2-8 Juli 2022, diketahui mencapai 174.961 orang. Artinya, hampir 25 ribu orang terpapar covid-19 dalam sehari. Bahkan, kasus di negara itu terus meningkat sampai&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/507255/bi-perluas-kerja-sama-dengan-bank-sentral-india",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzI1NS9iaS1wZXJsdWFzLWtlcmphLXNhbWEtZGVuZ2FuLWJhbmstc2VudHJhbC1pbmRpYQ==",
-        "description": "BANK Indonesia (BI) dan Reserve Bank of India (RBI) menandatangani Memorandum of Understanding (MoU) pada Sabtu (16/7) ini.&nbsp; Penandatangan di Bali, Indonesia, berlangsung di sela-sela pertemuan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507254/banjir-bandang-di-kampung-naga-hanyutkan-2-ton-ikan-dari-30-kolam",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MjU0L2Jhbmppci1iYW5kYW5nLWRpLWthbXB1bmctbmFnYS1oYW55dXRrYW4tMi10b24taWthbi1kYXJpLTMwLWtvbGFt",
-        "description": "RUMAH adat di Kampung Naga, Desa Neglasari, Kecamatan Salawu, Kabupaten Tasikmalaya, Jawa Barat, Jumat (15/7) malam diterjang banjir bandang luapan aliran Sungai Ciwulan. Kejadian itu, tidak menyebabkan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/507250/diperiksa-terkait-dana-operasional-act",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDcyNTAvZGlwZXJpa3NhLXRlcmthaXQtZGFuYS1vcGVyYXNpb25hbC1hY3Q=",
-        "description": "MANTAN Presiden Aksi Cepat Tanggap (ACT) Ahyudin diperiksa di Bareskrim Polri terkait Dana Operasional pada Jumat (15/7). Selama pemeriksaan, Ahyudin dicecar 19 pertanyaan oleh pihak Bareskrim&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/507252/program-starthub-digital-hub-bsd-pertemukan-startup-dengan-investor",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA3MjUyL3Byb2dyYW0tc3RhcnRodWItZGlnaXRhbC1odWItYnNkLXBlcnRlbXVrYW4tc3RhcnR1cC1kZW5nYW4taW52ZXN0b3I=",
-        "description": "SINAR Mas Land melalui Digital Hub BSD City berkolaborasi dengan Teman Startup menyelenggarakan Pitch Battle&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/507249/ilmuwan-temukan-potensi-dan-peluang-transpalansi-organ-babi-pada-manusia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNzI0OS9pbG11d2FuLXRlbXVrYW4tcG90ZW5zaS1kYW4tcGVsdWFuZy10cmFuc3BhbGFuc2ktb3JnYW4tYmFiaS1wYWRhLW1hbnVzaWE=",
-        "description": "Para peneliti dan ahli bedah dari New York University (NYU), Amerika Serikat telah berhasil mentransplantasikan hati babi pada dua orang yang mengalami mati otak dengan merakayasa secara genetik.&#8230;"
     }
 ]

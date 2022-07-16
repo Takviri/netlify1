@@ -1,5 +1,19 @@
 [
     {
+        "title": "Banjir Sempat 175 cm, Genangan Air di Kampung Melayu Mulai Surut",
+        "link": "https://www.cnnindonesia.com/nasional/20220716160727-20-822403/banjir-sempat-175-cm-genangan-air-di-kampung-melayu-mulai-surut",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNjE2MDcyNy0yMC04MjI0MDMvYmFuamlyLXNlbXBhdC0xNzUtY20tZ2VuYW5nYW4tYWlyLWRpLWthbXB1bmctbWVsYXl1LW11bGFpLXN1cnV0",
+        "description": " Banjir setinggi 25 cm masih menggenangi Kawasan Kebon Pala, Kelurahan Kampung Melayu, Kecamatan Jatinegara, Jakarta Timur, hingga Sabtu (16/7)."
+    },
+    {
+        "title": "Gelombang Tinggi dan Angin Kencang Hantam Bangunan Pantai Depok Yogya",
+        "link": "https://www.cnnindonesia.com/nasional/20220716155701-20-822400/gelombang-tinggi-dan-angin-kencang-hantam-bangunan-pantai-depok-yogya",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNjE1NTcwMS0yMC04MjI0MDAvZ2Vsb21iYW5nLXRpbmdnaS1kYW4tYW5naW4ta2VuY2FuZy1oYW50YW0tYmFuZ3VuYW4tcGFudGFpLWRlcG9rLXlvZ3lh",
+        "description": " Sejumlah bangunan semi permanen di pesisir Pantai Depok, Bantul, DIY, rusak terkena terjangan gelombang pasang, Sabtu (16/7)."
+    },
+    {
         "title": "VIDEO: Bubarkan Tawuran di Maluku, Polisi Kena Panah di Kepala",
         "link": "https://www.cnnindonesia.com/nasional/20220716144201-16-822384/video-bubarkan-tawuran-di-maluku-polisi-kena-panah-di-kepala",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNjEyNDYxNC0xMi04MjIzMzYvZGlkdWdhLWRpdGVsYW50YXJrYW4taWJ1LWJvY2FoLXN1bXV0LWRpY2FidWxpLXBhbWFuLWRpc2lrc2EtdGFudGU=",
         "description": " Bocah perempuan 4 tahun di Deliserdang,\u00c2\u00a0Sumut, menjadi korban\u00c2\u00a0pencabulan pamannya sekaligus disiksa tante sendiri."
-    },
-    {
-        "title": "Jakarta Siaga Banjir, Hujan Diperkirakan Masih Terjadi Hingga Malam",
-        "link": "https://www.cnnindonesia.com/nasional/20220716124704-20-822334/jakarta-siaga-banjir-hujan-diperkirakan-masih-terjadi-hingga-malam",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNjEyNDcwNC0yMC04MjIzMzQvamFrYXJ0YS1zaWFnYS1iYW5qaXItaHVqYW4tZGlwZXJraXJha2FuLW1hc2loLXRlcmphZGktaGluZ2dhLW1hbGFt",
-        "description": " Menurut prakiraan cuaca BMKG, hujan dengan dengan intensitas ringan hingga sedang masih berpotensi terjadi di wilayah Jabodetabek hingga Sabtu malam nanti."
-    },
-    {
-        "title": "KKB Tembak 10 Warga Sipil Papua, 9 Tewas",
-        "link": "https://www.cnnindonesia.com/nasional/20220716123955-12-822333/kkb-tembak-10-warga-sipil-papua-9-tewas",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNjEyMzk1NS0xMi04MjIzMzMva2tiLXRlbWJhay0xMC13YXJnYS1zaXBpbC1wYXB1YS05LXRld2Fz",
-        "description": " Sembilan warga sipil dilaporkan meninggal akibat ditembak dan dianiaya Kelompok Kriminal Bersenjata (KKB) di Nogolaid, Kabupaten Nduga, Papua."
     }
 ]
