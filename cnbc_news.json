@@ -1,5 +1,12 @@
 [
     {
+        "title": "Gejala Awal Covid-19 Gelombang Kali Ini Ternyata Bukan Demam!",
+        "link": "https://www.cnbcindonesia.com/news/20220716120027-4-356133/gejala-awal-covid-19-gelombang-kali-ini-ternyata-bukan-demam",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNjEyMDAyNy00LTM1NjEzMy9nZWphbGEtYXdhbC1jb3ZpZC0xOS1nZWxvbWJhbmcta2FsaS1pbmktdGVybnlhdGEtYnVrYW4tZGVtYW0=",
+        "description": " Covid-19 kembali melonjak di beberapa negara dunia."
+    },
+    {
         "title": "Alert! WHO Tetapkan DKI Jakarta Level 3 Penyebaran Covid",
         "link": "https://www.cnbcindonesia.com/news/20220716114005-16-356132/alert-who-tetapkan-dki-jakarta-level-3-penyebaran-covid",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNjEwMzMxMi00LTM1NjEyNS9raWFtYXQtcG5zLWRpcmVzdHVpLWpva293aS1wb3Npc2ktaW5pLWJha2FsLWhpbGFuZy1kdWx1YW4=",
         "description": " Birokrasi di dalam pemerintahan akan memasuki era baru."
-    },
-    {
-        "title": "Jangan Kaget! Rusia Bocorkan Siapa Untung dari Perang Ukraina",
-        "link": "https://www.cnbcindonesia.com/news/20220716102827-4-356124/jangan-kaget-rusia-bocorkan-siapa-untung-dari-perang-ukraina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNjEwMjgyNy00LTM1NjEyNC9qYW5nYW4ta2FnZXQtcnVzaWEtYm9jb3JrYW4tc2lhcGEtdW50dW5nLWRhcmktcGVyYW5nLXVrcmFpbmE=",
-        "description": " Rusia menuduh ada pihak yang justru diuntungkan dengan perang ini."
     }
 ]
