@@ -1,5 +1,26 @@
 [
     {
+        "title": "Jumlah Korban Tewas  yang Diduga Ditembak KKB Bertambah Jadi 9 Orang",
+        "link": "https://nasional.tempo.co/read/1612690/jumlah-korban-tewasyang-diduga-ditembak-kkb-bertambah-jadi-9-orang",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI2OTAvanVtbGFoLWtvcmJhbi10ZXdhc3lhbmctZGlkdWdhLWRpdGVtYmFrLWtrYi1iZXJ0YW1iYWgtamFkaS05LW9yYW5n",
+        "description": "Jumlah warga yang meninggal karena diduga ditembak dan dianiaya KKB di Nogolaid, Kabupaten Nduga bertambah menjadi 9 orang"
+    },
+    {
+        "title": "Apa Syarat Memiliki Senjata Api bagi Warga Sipil?",
+        "link": "https://nasional.tempo.co/read/1612687/apa-syarat-memiliki-senjata-api-bagi-warga-sipil",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI2ODcvYXBhLXN5YXJhdC1tZW1pbGlraS1zZW5qYXRhLWFwaS1iYWdpLXdhcmdhLXNpcGls",
+        "description": "Warga sipil boleh memiliki senjata api untuk alat pertahanan diri. Lantas, apa saja syaratnya?"
+    },
+    {
+        "title": "Bupati Garut Tetapkan Status Darurat Bencana Banjir",
+        "link": "https://nasional.tempo.co/read/1612686/bupati-garut-tetapkan-status-darurat-bencana-banjir",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI2ODYvYnVwYXRpLWdhcnV0LXRldGFwa2FuLXN0YXR1cy1kYXJ1cmF0LWJlbmNhbmEtYmFuamly",
+        "description": "Bupati Garut Rudy Gunawan menetapkan status darurat bencana menyusul banjir yang meliputi delapan kecamatan di wilayahnya."
+    },
+    {
         "title": "Pengamat Politik Duga Elektabilitas Prabowo Turun karena Masyarakat Mulai Jenuh",
         "link": "https://nasional.tempo.co/read/1612668/pengamat-politik-duga-elektabilitas-prabowo-turun-karena-masyarakat-mulai-jenuh",
         "image": "static/images/tempo_nasional.png",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI2MzYvcHJhYm93by11bmdrYXAtYWxhc2FuLXByYWp1cml0LXRuaS1kZWthdC1kZW5nYW4ta2lhaQ==",
         "description": "Prabowo  mengatakan bahwa dirinya sebagai mantan prajurit TNI memiliki kedekatan dengan kiai NU."
-    },
-    {
-        "title": "KPK Setor Rp 800 Juta dari Penyuap Rahmat Effendi ke Kas Negara",
-        "link": "https://nasional.tempo.co/read/1612634/kpk-setor-rp-800-juta-dari-penyuap-rahmat-effendi-ke-kas-negara",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI2MzQva3BrLXNldG9yLXJwLTgwMC1qdXRhLWRhcmktcGVueXVhcC1yYWhtYXQtZWZmZW5kaS1rZS1rYXMtbmVnYXJh",
-        "description": "KPK menyetor uang Rp 800 juta dari terpidana La Bui Min dkk. La Bui Min merupakan terpidana penyuap Wali Kota Bekasi nonaktif Rahmat Effendi."
-    },
-    {
-        "title": "Bantah Zulhas Promosi Anak Pakai Program Pemerintah, PAN: Dia Sebagai Ketua Partai Bukan Mendag",
-        "link": "https://nasional.tempo.co/read/1612630/bantah-zulhas-promosi-anak-pakai-program-pemerintah-pan-dia-sebagai-ketua-partai-bukan-mendag",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI2MzAvYmFudGFoLXp1bGhhcy1wcm9tb3NpLWFuYWstcGFrYWktcHJvZ3JhbS1wZW1lcmludGFoLXBhbi1kaWEtc2ViYWdhaS1rZXR1YS1wYXJ0YWktYnVrYW4tbWVuZGFn",
-        "description": "Dradjad Wibowo membantah tudingan Mendag Zulkifli Hasan atau Zulhas menggunakan program pemerintah untuk mempromosikan anaknya"
-    },
-    {
-        "title": "Kasus Mardani Maming, KPK Periksa 2 Karyawan Swasta",
-        "link": "https://nasional.tempo.co/read/1612625/kasus-mardani-maming-kpk-periksa-2-karyawan-swasta",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTI2MjUva2FzdXMtbWFyZGFuaS1tYW1pbmcta3BrLXBlcmlrc2EtMi1rYXJ5YXdhbi1zd2FzdGE=",
-        "description": "KPK memeriksa dua saksi terkait kasus Mardani Maming. Mereka berlatar belakang sebagai karyawan swasta."
     }
 ]

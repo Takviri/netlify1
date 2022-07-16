@@ -1,5 +1,19 @@
 [
     {
+        "title": "KKB Tembak 10 Warga Sipil Papua, 9 Tewas",
+        "link": "https://www.cnnindonesia.com/nasional/20220716123955-12-822333/kkb-tembak-10-warga-sipil-papua-9-tewas",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNjEyMzk1NS0xMi04MjIzMzMva2tiLXRlbWJhay0xMC13YXJnYS1zaXBpbC1wYXB1YS05LXRld2Fz",
+        "description": " Sembilan warga sipil dilaporkan meninggal akibat ditembak dan dianiaya Kelompok Kriminal Bersenjata (KKB) di Nogolaid, Kabupaten Nduga, Papua."
+    },
+    {
+        "title": "Bupati Mamberamo Tersangka Korupsi Kabur ke Papua Nugini Bawa Ransel",
+        "link": "https://www.cnnindonesia.com/nasional/20220716121702-12-822332/bupati-mamberamo-tersangka-korupsi-kabur-ke-papua-nugini-bawa-ransel",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNjEyMTcwMi0xMi04MjIzMzIvYnVwYXRpLW1hbWJlcmFtby10ZXJzYW5na2Eta29ydXBzaS1rYWJ1ci1rZS1wYXB1YS1udWdpbmktYmF3YS1yYW5zZWw=",
+        "description": " Ricky Ham Pagawak (RHP) tersangka kasus suap dan gratifikasi di Kabupaten Mamberamo Tengah, Papua, diduga melarikan diri ke Papua Nugini (PNG) melalui Vanimo."
+    },
+    {
         "title": "8 Kecamatan di Garut Terendam Banjir, Warga Terdampak Dapat Rp500 Ribu",
         "link": "https://www.cnnindonesia.com/nasional/20220716120504-20-822328/8-kecamatan-di-garut-terendam-banjir-warga-terdampak-dapat-rp500-ribu",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNjA4Mjg1MS0yMC04MjIyOTIvcGVya2lyYWFuLWN1YWNhLWJta2ctZGktMzQtcHJvdmluc2ktZGlkb21pbmFzaS1odWphbg==",
         "description": " Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memperkirakan pada hari ini sejumlah wilayah di Indonesia akan hujan."
-    },
-    {
-        "title": "Hujan Deras Sejak Jumat, Sejumlah Wilayah di Tangerang Dilanda Banjir",
-        "link": "https://www.cnnindonesia.com/nasional/20220716081554-20-822290/hujan-deras-sejak-jumat-sejumlah-wilayah-di-tangerang-dilanda-banjir",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNjA4MTU1NC0yMC04MjIyOTAvaHVqYW4tZGVyYXMtc2VqYWstanVtYXQtc2VqdW1sYWgtd2lsYXlhaC1kaS10YW5nZXJhbmctZGlsYW5kYS1iYW5qaXI=",
-        "description": " Hujan deras yang melanda Jakarta dan wilayah sekitarnya menyebabkan peningkatan di sejumlah pintu air.\u00c2\u00a0Berikut ini 14 titik banjir di tiga wilayah tersebut."
-    },
-    {
-        "title": "Hujan Sejak Semalam, Pintu Air Jakarta Meluap Buat 71 RT Kebanjiran",
-        "link": "https://www.cnnindonesia.com/nasional/20220716074358-20-822288/hujan-sejak-semalam-pintu-air-jakarta-meluap-buat-71-rt-kebanjiran",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNjA3NDM1OC0yMC04MjIyODgvaHVqYW4tc2VqYWstc2VtYWxhbS1waW50dS1haXItamFrYXJ0YS1tZWx1YXAtYnVhdC03MS1ydC1rZWJhbmppcmFu",
-        "description": " Saat ini, sebanyak 71 RT dari total 30.470 RT yang ada di DKI Jakarta mengalami genangan, dengan ketinggian lebih dari 40 cm."
     }
 ]
