@@ -1,5 +1,12 @@
 [
     {
+        "title": "Jakarta Jadi Penyumbang Terbanyak Kasus Covid-19 Hari Ini",
+        "link": "https://www.cnnindonesia.com/nasional/20220716172705-20-822415/jakarta-jadi-penyumbang-terbanyak-kasus-covid-19-hari-ini",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNjE3MjcwNS0yMC04MjI0MTUvamFrYXJ0YS1qYWRpLXBlbnl1bWJhbmctdGVyYmFueWFrLWthc3VzLWNvdmlkLTE5LWhhcmktaW5p",
+        "description": " DKI Jakarta menjadi penyumbang terbesar kasus harian Covid-19 hari ini, Sabtu (16/7), dengan 2.131 pasien."
+    },
+    {
         "title": "KY Pelajari Masalah Hilangnya Putusan Setop Produksi MS Glow di Situs",
         "link": "https://www.cnnindonesia.com/nasional/20220716170403-12-822411/ky-pelajari-masalah-hilangnya-putusan-setop-produksi-ms-glow-di-situs",
         "image": "static/images/cnn_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNjE1MjQwNS0xMi04MjIzOTgvcG4tc3VyYWJheWEtYnVrYS1zdWFyYS1zb2FsLXB1dHVzYW4taGlsYW5nLXNldG9wLXByb2R1a3NpLW1zLWdsb3c=",
         "description": " Humas Pengadilan Negeri (PN) Niaga Surabaya Khusaini membenarkan ada poin putusan yang menghilang dari perkara sengketa merek antara PS Glow dan MS Glow."
-    },
-    {
-        "title": "Banjir Terjang 8 Kecamatan di Garut, Warga Butuh Makanan dan Air Bersih",
-        "link": "https://www.cnnindonesia.com/nasional/20220716145225-20-822395/banjir-terjang-8-kecamatan-di-garut-warga-butuh-makanan-air-bersih",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNjE0NTIyNS0yMC04MjIzOTUvYmFuamlyLXRlcmphbmctOC1rZWNhbWF0YW4tZGktZ2FydXQtd2FyZ2EtYnV0dWgtbWFrYW5hbi1haXItYmVyc2lo",
-        "description": " Banjir melanda delapan kecamatan di Kabupaten Garut, Jawa Barat, pada Sabtu (16/7). Warga yang terdampak banjir membutuhkan bantuan makanan dan air bersih."
     }
 ]
