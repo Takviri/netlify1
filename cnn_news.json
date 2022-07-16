@@ -1,5 +1,12 @@
 [
     {
+        "title": "Gelombang Tinggi Terjang Yogya dan Bali, Ombak Hantam Warung",
+        "link": "https://www.cnnindonesia.com/nasional/20220716202408-20-822439/gelombang-tinggi-terjang-yogya-dan-bali-ombak-hantam-warung",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNjIwMjQwOC0yMC04MjI0MzkvZ2Vsb21iYW5nLXRpbmdnaS10ZXJqYW5nLXlvZ3lhLWRhbi1iYWxpLW9tYmFrLWhhbnRhbS13YXJ1bmc=",
+        "description": " Gelombang pasang menghantam wilayah pesisir Pantai Depok, Bantul, DIY dan Pantai Rangkan, Kecamatan Sukawati, Kabupaten Gianyar, Bali,"
+    },
+    {
         "title": "Istana Kecam Serangan KKB yang Tewaskan 10 Warga Sipil di Papua",
         "link": "https://www.cnnindonesia.com/nasional/20220716173736-12-822416/istana-kecam-serangan-kkb-yang-tewaskan-10-warga-sipil-di-papua",
         "image": "static/images/cnn_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNjE3NTkwMC0yMC04MjI0MTcvZ2Vsb21iYW5nLWNhcGFpLTMtbWV0ZXItcGFudGFpLWRpLWdpYW55YXItYmFsaS1kaWxhbmRhLWJhbmppci1yb2I=",
         "description": " Kabupaten Rangkan, Gianyar, Bali, diterjang air pasang dan gelombang tinggi yang memicu banjir rob."
-    },
-    {
-        "title": "Jakarta Jadi Penyumbang Terbanyak Kasus Covid-19 Hari Ini",
-        "link": "https://www.cnnindonesia.com/nasional/20220716172705-20-822415/jakarta-jadi-penyumbang-terbanyak-kasus-covid-19-hari-ini",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNjE3MjcwNS0yMC04MjI0MTUvamFrYXJ0YS1qYWRpLXBlbnl1bWJhbmctdGVyYmFueWFrLWthc3VzLWNvdmlkLTE5LWhhcmktaW5p",
-        "description": " DKI Jakarta menjadi penyumbang terbesar kasus harian Covid-19 hari ini, Sabtu (16/7), dengan 2.131 pasien."
     }
 ]
