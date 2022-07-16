@@ -1,5 +1,12 @@
 [
     {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/507333/sudoku-edisi-17-juli-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNzMzMy9zdWRva3UtZWRpc2ktMTctanVsaS0yMDIy",
+        "description": "SUDOKU atau dikenal juga dengan tebak angka (number place)"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/507336/kebakaran-hutan-di-prancis-meluas-menjadi-10-ribu-hektare",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MzMxL3NhdHUta29yYmFuLW1lbmluZ2dhbC1ha2liYXQtcGVuZW1iYWthbi1ra2ItcGFwdWEtYmVyYXNhbC1kYXJpLW1hbmdnYXJhaQ==",
         "description": "PERISTIWA berdarah akibat pembantaian oleh Kelompok Kriminalitas Bersenjata atau KKB Papua terjadi di Kampung Nanggolait, Kabupaten Nduga, Sabtu (17/7) menewaskan 10 orang warga sipil dan dua lainnya&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/507330/dana-perantara-keuangan-bertambah-jadi-us128-miliar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzMzMC9kYW5hLXBlcmFudGFyYS1rZXVhbmdhbi1iZXJ0YW1iYWgtamFkaS11czEyOC1taWxpYXI=",
-        "description": "PENGUMPULAN&nbsp; &nbsp;Dana Perantara Keuangan (Financial Intermediary Fund/FIF) kesiapsiagaan, pencegahan, dan respons (preparedness, prevention, and response/PPR) pandemi bertambah menjadi US$1,28&#8230;"
     }
 ]
