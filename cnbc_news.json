@@ -1,5 +1,19 @@
 [
     {
+        "title": "Harga Tiket Pesawat Meroket, Biaya Airport Tax Diam-diam Naik",
+        "link": "https://www.cnbcindonesia.com/news/20220716073906-4-356104/harga-tiket-pesawat-meroket-biaya-airport-tax-diam-diam-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNjA3MzkwNi00LTM1NjEwNC9oYXJnYS10aWtldC1wZXNhd2F0LW1lcm9rZXQtYmlheWEtYWlycG9ydC10YXgtZGlhbS1kaWFtLW5haWs=",
+        "description": " Hal ini akan menambah mahalnya biaya penerbangan."
+    },
+    {
+        "title": "Pejabat AS Ucapkan Terima Kasih ke Sri Mulyani, Soal Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220716072802-4-356103/pejabat-as-ucapkan-terima-kasih-ke-sri-mulyani-soal-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNjA3MjgwMi00LTM1NjEwMy9wZWphYmF0LWFzLXVjYXBrYW4tdGVyaW1hLWthc2loLWtlLXNyaS1tdWx5YW5pLXNvYWwtYXBh",
+        "description": " Setidaknya ada tujuh agenda utama yang akan dibahas dalam pertemuan tersebut."
+    },
+    {
         "title": "Sri Mulyani Cerita Cara Hadapi Krisis di Depan Janet Yellen",
         "link": "https://www.cnbcindonesia.com/news/20220716021304-4-356102/sri-mulyani-cerita-cara-hadapi-krisis-di-depan-janet-yellen",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNTE4NDQyMC00LTM1NjA4NS9taWxlbmlhbC1kaXR1ZGluZy1qYWRpLXBlbnllYmFiLWluZmxhc2ktYXMta29rLWJpc2E=",
         "description": " Sejumlah faktor dituding penyebab memanasnya inflasi AS, termasuk pola konsumsi milenial."
-    },
-    {
-        "title": "Ngamuk! Kim Jong Un Beri Pesan Menohok ke Ukraina",
-        "link": "https://www.cnbcindonesia.com/news/20220715182618-4-356084/ngamuk-kim-jong-un-beri-pesan-menohok-ke-ukraina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNTE4MjYxOC00LTM1NjA4NC9uZ2FtdWsta2ltLWpvbmctdW4tYmVyaS1wZXNhbi1tZW5vaG9rLWtlLXVrcmFpbmE=",
-        "description": " Korea Utara (Korut) memberikan sebuah pesan keras kepada Ukraina."
-    },
-    {
-        "title": "Perang Rusia-Ukraina, Prabowo: Harga BBM-Pangan Naik Dratis!",
-        "link": "https://www.cnbcindonesia.com/news/20220715172402-4-356064/perang-rusia-ukraina-prabowo-harga-bbm-pangan-naik-dratis",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNTE3MjQwMi00LTM1NjA2NC9wZXJhbmctcnVzaWEtdWtyYWluYS1wcmFib3dvLWhhcmdhLWJibS1wYW5nYW4tbmFpay1kcmF0aXM=",
-        "description": " Simak kata Prabowo saat menghadiri pembukaan Kongres XVI Fatayat Nahdlatul Ulama di Palembang, Sumatra Selatan, Jumat (15/7/2022)."
     }
 ]
