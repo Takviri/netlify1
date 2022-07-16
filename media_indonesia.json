@@ -1,5 +1,19 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/507334/parade-ketimpangan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDczMzQvcGFyYWRlLWtldGltcGFuZ2Fu",
+        "description": "CITAYAM Fashion Week. Begitulah media, baik&nbsp;mainstream&nbsp;maupun medsos, menyebut fenomena para ABG dari pinggiran Ibu Kota yang menginvasi kawasan Dukuh Atas, Sudirman, Jakarta Pusat,&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/507335/persediaan-beras-di-aceh-aman-hingga-enam-bulan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MzM1L3BlcnNlZGlhYW4tYmVyYXMtZGktYWNlaC1hbWFuLWhpbmdnYS1lbmFtLWJ1bGFu",
+        "description": "Perusahaan Umum (Perum) Badan Urusan Logistik (Bulog) Cabang Meulaboh, Kabupaten Aceh Barat memastikan cadangan beras pemerintah di wilayah pantai barat Aceh dipastikan mencukupi hingga enam bulan&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/507331/satu-korban-meninggal-akibat-penembakan-kkb-papua-berasal-dari-manggarai",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MzIxL21hcmdhcmV0LXRlcnBpbGloLXBpbXBpbi1wcC1mYXRheWF0LW51LTIwMjItMjAyNw==",
         "description": "MARGARET Aliyatul Maimunah terpilih secara aklamasi menjadi Ketua Umum Pimpinan Pusat Fatayat Nahdlatul Ulama masa khidmad 2022-2027, pada Kongres ke-16 Fatayat NU yang berlangsung di Jakabaring Sport&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507320/budidaya-sorgum-upaya-atasi-stunting-di-manggarai-timur",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MzIwL2J1ZGlkYXlhLXNvcmd1bS11cGF5YS1hdGFzaS1zdHVudGluZy1kaS1tYW5nZ2FyYWktdGltdXI=",
-        "description": "STUNTING atau gagal tumbuh pada balita menjadi masalah kronis di Kabupaten Manggarai Timur, Nusa Tenggara Timur. Riset Kesehatan Dasar (Riskesdas) terakhir pada 2018 mengungkapkan prevalensi stunting&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507319/des-ganjar-jember-kenalkan-sosok-ganjar-pranowo-di-alun-alun-jenggawah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MzE5L2Rlcy1nYW5qYXItamVtYmVyLWtlbmFsa2FuLXNvc29rLWdhbmphci1wcmFub3dvLWRpLWFsdW4tYWx1bi1qZW5nZ2F3YWg=",
-        "description": "JEMBER merupakan wilayah Tapal Kuda atau wilayah paling di timur di Provinsi Jawa Timur yang memiliki populasi penduduk paling banyak diantara wilaya Tapal Kuda Lainnya, yakni Probolinggo dan Banyuwangi.&#8230;"
     }
 ]
