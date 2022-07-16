@@ -1,5 +1,19 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507221/jenis-jenis-pengangguran-dan-cara-mengatasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MjIxL2plbmlzLWplbmlzLXBlbmdhbmdndXJhbi1kYW4tY2FyYS1tZW5nYXRhc2k=",
+        "description": "TANTANGAN pemerintah ialah menyiapkan lapangan kerja sebanyak-banyak bagi warganya. Namun, seringkali antara jumlah lapangan kerja dan jumlah angkatan kerja tidak seimbang. Akibatnya, muncul pengangguran.&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507232/menko-pmk-dan-menhub-sambut-kedatangan-jemaah-haji-kloter-pertama-debarkasi-jakarta",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MjMyL21lbmtvLXBtay1kYW4tbWVuaHViLXNhbWJ1dC1rZWRhdGFuZ2FuLWplbWFhaC1oYWppLWtsb3Rlci1wZXJ0YW1hLWRlYmFya2FzaS1qYWthcnRh",
+        "description": "MENTERI Koordinator Bidang Pembangunan Manusia dan Kebudayaan (PMK) Muhadjir Effendy menyambut kedatangan jemaah haji Indonesia kloter (kelompok terbang) pertama yang berangkat dari Embarkasi Jakarta&#8230;"
+    },
+    {
         "title": "Teknologi",
         "link": "https://m.mediaindonesia.com/teknologi/507211/cara-bikin-video-bokeh-dan-link-download-aplikasi-android",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNzIyMy9iaWRlbi1kYW4td2FydGF3YW4tYXMtYmVydGFueWEtcGVtYnVudWhhbi1raGFzaG9nZ2ktbWJzLW1lbmphd2Fi",
         "description": "PRESIDEN Amerika Serikat Joe Biden pada Jumat (15/7) memberi tahu Pangeran Muhammad bin Salman bahwa putra&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/507222/komisi-ix-dpr-dukung-rencana-pemerintah-moratorium-pmi-ke-malaysia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzIyMi9rb21pc2ktaXgtZHByLWR1a3VuZy1yZW5jYW5hLXBlbWVyaW50YWgtbW9yYXRvcml1bS1wbWkta2UtbWFsYXlzaWE=",
-        "description": "WAKIL Ketua Komisi IX DPR RI Emanuel Melkiades Laka Lena mendukung rencana Pemerintah Indonesia terkait moratorium pengiriman Pekerja Migran Indonesia (PMI) ke Malaysia. Hal ini menyusul adanya&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/507219/skizofrenia-tidak-sama-dengan-gila",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDcyMTkvc2tpem9mcmVuaWEtdGlkYWstc2FtYS1kZW5nYW4tZ2lsYQ==",
-        "description": "&quot;EEEH... itu orang udah gak pakai baju, ketawa-ketawa sendiri lagi di jalan, orang gila tuh.&quot; &quot;Pakaiannya lusuh banget tuh apalagi rambutnya kayak enggak keramas 1 bulan, pasti&#8230;"
     }
 ]
