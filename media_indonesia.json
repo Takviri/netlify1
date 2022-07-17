@@ -1,5 +1,26 @@
 [
     {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/507344/soal-anggaran-pemilu-kemenkeu-tergantung-kelengkapan-informasi-kpu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDczNDQvc29hbC1hbmdnYXJhbi1wZW1pbHUta2VtZW5rZXUtdGVyZ2FudHVuZy1rZWxlbmdrYXBhbi1pbmZvcm1hc2kta3B1",
+        "description": "KEMENTERIAN Keuangan (Kemenkeu) menilai hasil penelaahan anggaran tambahan Pemilu 2024 sangat tergantung pada kelengkapan informasi Komisi Pemilihan Umum (KPU). Diketahui, anggaran Pemilu untuk&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507343/mendagri-industri-sawit-dalam-negeri-perlu-didukung",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzM0My9tZW5kYWdyaS1pbmR1c3RyaS1zYXdpdC1kYWxhbS1uZWdlcmktcGVybHUtZGlkdWt1bmc=",
+        "description": "MENTERI Dalam Negeri (Mendagri) Muhammad Tito Karnavian resmi mengukuhkan pengurus Asosiasi Kabupaten Penghasil Sawit Indonesia (AKPSI) periode 2022-2027 di Mercure Hotel Ancol Jakarta, Sabtu (16/7).&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507342/menag-akan-ada-kuota-khusus-untuk-lansia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MzQyL21lbmFnLWFrYW4tYWRhLWt1b3RhLWtodXN1cy11bnR1ay1sYW5zaWE=",
+        "description": "Tahun ini, Indonesia mendapat kuota haji sebesar 100.051. Jumlah ini hanya sekitar 46% dari kuota normal yang diberikan pada tahun-tahun sebelumnya. Menteri Agama Yaqut Cholil Qoumas berharap&#8230;"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/507341/ditanya-tentang-khashoggi-mbs-singgung-pembunuhan-jurnalis-al-jazeera-oleh-israel",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNzMzNi9rZWJha2FyYW4taHV0YW4tZGktcHJhbmNpcy1tZWx1YXMtbWVuamFkaS0xMC1yaWJ1LWhla3RhcmU=",
         "description": "Kebakaran hutan meluas di barat daya Prancis pada Sabtu, dengan hampir 10.000 hektare terbakar di wilayah Gironde, meningkat dari 7.300 hektar pada Jumat (16/7). Lebih dari 12.200 orang telah&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/507332/jon-bodo-panjat-pinang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNzMzMi9qb24tYm9kby1wYW5qYXQtcGluYW5n",
-        "description": "NEN, Agustusan bsok mau ikutan lomba apa?"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/507317/bung-sentil-harus-waspada",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNzMxNy9idW5nLXNlbnRpbC1oYXJ1cy13YXNwYWRh",
-        "description": "WUAAAH...orang-orang semakin gila mempermainkan agama. Kok bisa ya?"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/507329/wayang-kulit-betawi-bukan-sekadar-tontonan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNzMyOS93YXlhbmcta3VsaXQtYmV0YXdpLWJ1a2FuLXNla2FkYXItdG9udG9uYW4=",
-        "description": "Di tengah ratusan penonton, tibatiba terlihat permainan cahaya lampu warna-warni menerpa layar kelir atau kain putih untuk menangkap bayangan wayang kulit. Semakin malam, suasana semakin hangat dengan&#8230;"
     }
 ]
