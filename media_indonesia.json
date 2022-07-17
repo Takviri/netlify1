@@ -1,5 +1,12 @@
 [
     {
+        "title": "Kolom Pakar",
+        "link": "https://m.mediaindonesia.com/kolom-pakar/507446/covid-19-meningkat-kembali-waspadalah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9rb2xvbS1wYWthci81MDc0NDYvY292aWQtMTktbWVuaW5na2F0LWtlbWJhbGktd2FzcGFkYWxhaA==",
+        "description": "DUNIA saat ini sedang mengalami peningkatan kasus covid-19. Laporan mingguan covid-19 dunia oleh WHO versi 13 Juli 2022 memang menyebutkan bahwa jumlah kasus terus meningkat dalam 5 minggu terakhir&#8230;"
+    },
+    {
         "title": "Otomotif",
         "link": "https://m.mediaindonesia.com/otomotif/507465/aprilia-sr-gt-resmi-mengaspal-di-indonesia",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDU2L2Jta2ctZ2VtcGEtcGFjaXRhbi10aWRhay10ZXJrYWl0LWdlbXBhLWphd2EtYmFyYXQtZGFuLWphd2EtdGltdXI=",
         "description": "BADAN Metereologi Klimatologi dan Geofisika (BMKG) menyatakan, gempa tektonik magnitudo 5,3 yang mengguncang arah Barat Daya Kota Pacitan, Jawa Timur, Minggu (17/7) pukul 16.13 WIB. Kepala bidang&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/507458/koulibaly-akui-selalu-bermimpi-berlaga-di-liga-inggris",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzQ1OC9rb3VsaWJhbHktYWt1aS1zZWxhbHUtYmVybWltcGktYmVybGFnYS1kaS1saWdhLWluZ2dyaXM=",
-        "description": "BEK anyar Chelsea Kalidou Koulibaly mengaku selalu memiliki ambisi untuk bermain di Liga Inggris setelah resmi bergabung dengan The Blues pada bursa transfer pemain musim panas ini. Dikutip&#8230;"
     }
 ]
