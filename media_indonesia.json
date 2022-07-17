@@ -1,6 +1,20 @@
 [
     {
         "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507416/imf-yakin-ekonomi-indonesia-tumbuh-positif",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzQxNi9pbWYteWFraW4tZWtvbm9taS1pbmRvbmVzaWEtdHVtYnVoLXBvc2l0aWY=",
+        "description": "DIREKTUR Pelaksana Dana Moneter Internasional (IMF) Kristalina Georgieva menyakini kekuatan internal ekonomi Indonesia mampu mencatatkan pertumbuhan sehat dan positif meski dunia sedang mengalami gejolak&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507415/satgas-pmk-513-ribu-sapi-telah-divaksinasi-pmk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDE1L3NhdGdhcy1wbWstNTEzLXJpYnUtc2FwaS10ZWxhaC1kaXZha3NpbmFzaS1wbWs=",
+        "description": "SATUAN Tugas Penanganan Penyakit Mulut dan Kuku (Satgas PMK) melaporkan bahwa 513.059 ekor sapi telah menjalani vaksinasi PMK hingga Minggu, 17 Juli 2022. Berdasarkan data Satgas PMK yang dikutip&#8230;"
+    },
+    {
+        "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/507413/boeing-perkirakan-pesawat-komersial-tumbuh-82-hingga-2041",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzQxMy9ib2VpbmctcGVya2lyYWthbi1wZXNhd2F0LWtvbWVyc2lhbC10dW1idWgtODItaGluZ2dhLTIwNDE=",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzQwNS9la3Nwb3ItdmFuaWxpLWluZG9uZXNpYS1oYW55YS01LWRhcmkta2VidXR1aGFuLWR1bmlh",
         "description": "PASAR ekspor untuk komoditas vanili dari Indonesia masih terbuka. Ekspor vanili dari Indonesia masih sangat kecil sekitar 5% dari total kebutuhan.&nbsp; &quot;Oleh karena itu kami mendorong&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507407/gelombang-tinggi-berpeluang-terjadi-di-selat-bali",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NDA3L2dlbG9tYmFuZy10aW5nZ2ktYmVycGVsdWFuZy10ZXJqYWRpLWRpLXNlbGF0LWJhbGk=",
-        "description": "TINGGI gelombang laut di Selat Bali bagian selatan berpeluang 2,5 meter hingga 4 meter dalam dua hari ke depan hingga 18&nbsp; Juli mulai Minggu (17/7). Ketinggian gelombang yang sama juga berpeluang&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507406/pemprov-sumsel-galakkan-kembali-3t",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NDA2L3BlbXByb3Ytc3Vtc2VsLWdhbGFra2FuLWtlbWJhbGktM3Q=",
-        "description": "KASUS Covid-19 kembali terjadi penambahan saat ini. Tak hanya di ibukota negara, hal serupa juga terjadi di seluruh provinsi di tanah air termasuk di Sumatera Selatan. Sebagai upaya mengantisipasi&#8230;"
     }
 ]
