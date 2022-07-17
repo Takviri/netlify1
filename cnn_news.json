@@ -1,5 +1,19 @@
 [
     {
+        "title": "Gempa Magnitudo 5,5 Guncang Pacitan Jawa Timur",
+        "link": "https://www.cnnindonesia.com/nasional/20220717162532-20-822613/gempa-magnitudo-55-guncang-pacitan-jawa-timur",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzE2MjUzMi0yMC04MjI2MTMvZ2VtcGEtbWFnbml0dWRvLTU1LWd1bmNhbmctcGFjaXRhbi1qYXdhLXRpbXVy",
+        "description": " Gempa bumi berkekuatan magnitudo 5,5 mengguncang Pacitan, Jawa Timur, Minggu (17/7) sekitar pukul 16. 13 WIB."
+    },
+    {
+        "title": "Komnas HAM Diberi Foto dan Video Saat Bertemu Keluarga Brigadir J",
+        "link": "https://www.cnnindonesia.com/nasional/20220717160323-20-822612/komnas-ham-diberi-foto-dan-video-saat-bertemu-keluarga-brigadir-j",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzE2MDMyMy0yMC04MjI2MTIva29tbmFzLWhhbS1kaWJlcmktZm90by1kYW4tdmlkZW8tc2FhdC1iZXJ0ZW11LWtlbHVhcmdhLWJyaWdhZGlyLWo=",
+        "description": " Tim Komnas HAM menemui keluarga Brigadir J di Jambi. Keluarga Brigadir J disebut memberikan sejumlah video dan foto kepada tim Komnas HAM."
+    },
+    {
         "title": "Tito Buka Suara Ihwal Kepres Pj Gubernur Banten yang Digugat di PTUN",
         "link": "https://www.cnnindonesia.com/nasional/20220717144842-12-822592/tito-buka-suara-ihwal-kepres-pj-gubernur-banten-yang-digugat-di-ptun",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzEzMzU1Ni0zMi04MjI1NzAvbWVuZGFncmktcGFzdGlrYW4tdGlnYS1wcm92aW5zaS1iYXJ1LWRpLXBhcHVhLWlrdXQtcGVtaWx1LTIwMjQ=",
         "description": " Menteri Dalam Negeri M Tito Karnavian memastikan tiga provinsi baru hasil pemekaran Papua akan mengikuti kontestasi politik pada Pemilu 2024 mendatang."
-    },
-    {
-        "title": "Perintah Hakim Agar MS Glow Setop Jualan Raib di Situs PN Surabaya",
-        "link": "https://www.cnnindonesia.com/nasional/20220717132159-12-822566/perintah-hakim-agar-ms-glow-setop-jualan-raib-di-situs-pn-surabaya",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzEzMjE1OS0xMi04MjI1NjYvcGVyaW50YWgtaGFraW0tYWdhci1tcy1nbG93LXNldG9wLWp1YWxhbi1yYWliLWRpLXNpdHVzLXBuLXN1cmFiYXlh",
-        "description": " Perintah majelis hakim pengadilan negeri Surabaya agar MS Glow setop penjualan menghilang di situs resmi PN Surabaya."
-    },
-    {
-        "title": "Warga Jakut Aksi di CFD, Tuntut Pemprov DKI Sediakan Air Bersih Murah",
-        "link": "https://www.cnnindonesia.com/nasional/20220717132017-20-822565/warga-jakut-aksi-di-cfd-tuntut-pemprov-dki-sediakan-air-bersih-murah",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzEzMjAxNy0yMC04MjI1NjUvd2FyZ2EtamFrdXQtYWtzaS1kaS1jZmQtdHVudHV0LXBlbXByb3YtZGtpLXNlZGlha2FuLWFpci1iZXJzaWgtbXVyYWg=",
-        "description": " Warga Jakarta Utara menuntut Pemprov DKI\u00c2\u00a0menyediakan air bersih yang murah bagi semua kalangan."
     }
 ]
