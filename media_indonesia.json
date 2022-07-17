@@ -1,5 +1,12 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/507439/predator-masuk-sekolah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDc0MzkvcHJlZGF0b3ItbWFzdWstc2Vrb2xhaA==",
+        "description": "ANAK terlindungi, Indonesia maju, demikian tema Hari Anak Nasional (HAN) tahun ini yang akan diperingati pada Sabtu (23/7). HAN menjadi momentum penting untuk meningkatkan kepedulian dan partisipasi&#8230;"
+    },
+    {
         "title": "Kolom Pakar",
         "link": "https://m.mediaindonesia.com/kolom-pakar/507446/covid-19-meningkat-kembali-waspadalah",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDYwL2F0YXNpLXBlbnVhYW4ta3VsaXQtZGluaS1kZW5nYW4tZ3VuYWthbi1wZW55dW50aWthbi1kbmEtc2FsbW9u",
         "description": "TAMPIL menarik dengan kulit mulus, kencang,&nbsp;segar, dan tampak awet muda menjadi dambaan terutama kalangan wanita. Tak mengherankan, klinik-klinik kecantikan yang menawarkan perawatan kulit&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/507456/bmkg-gempa-pacitan-tidak-terkait-gempa-jawa-barat-dan-jawa-timur",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDU2L2Jta2ctZ2VtcGEtcGFjaXRhbi10aWRhay10ZXJrYWl0LWdlbXBhLWphd2EtYmFyYXQtZGFuLWphd2EtdGltdXI=",
-        "description": "BADAN Metereologi Klimatologi dan Geofisika (BMKG) menyatakan, gempa tektonik magnitudo 5,3 yang mengguncang arah Barat Daya Kota Pacitan, Jawa Timur, Minggu (17/7) pukul 16.13 WIB. Kepala bidang&#8230;"
     }
 ]
