@@ -1,5 +1,40 @@
 [
     {
+        "title": "Keluarga Ungkap Istri Sambo Kerap Beri Uang untuk Adik Brigadir J",
+        "link": "https://www.cnnindonesia.com/nasional/20220717133147-12-822568/keluarga-ungkap-istri-sambo-kerap-beri-uang-untuk-adik-brigadir-j",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzEzMzE0Ny0xMi04MjI1Njgva2VsdWFyZ2EtdW5na2FwLWlzdHJpLXNhbWJvLWtlcmFwLWJlcmktdWFuZy11bnR1ay1hZGlrLWJyaWdhZGlyLWo=",
+        "description": " Ibu Brigadir J, Rosti Simanjuntak, mengungkap kebaikan istri Irjen Ferdy Sambo. Ia pun mengaku histeris dengan kejadian ini."
+    },
+    {
+        "title": "Mendagri Pastikan Tiga Provinsi Baru di Papua Ikut Pemilu 2024",
+        "link": "https://www.cnnindonesia.com/nasional/20220717133556-32-822570/mendagri-pastikan-tiga-provinsi-baru-di-papua-ikut-pemilu-2024",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzEzMzU1Ni0zMi04MjI1NzAvbWVuZGFncmktcGFzdGlrYW4tdGlnYS1wcm92aW5zaS1iYXJ1LWRpLXBhcHVhLWlrdXQtcGVtaWx1LTIwMjQ=",
+        "description": " Menteri Dalam Negeri M Tito Karnavian memastikan tiga provinsi baru hasil pemekaran Papua akan mengikuti kontestasi politik pada Pemilu 2024 mendatang."
+    },
+    {
+        "title": "Perintah Hakim Agar MS Glow Setop Jualan Raib di Situs PN Surabaya",
+        "link": "https://www.cnnindonesia.com/nasional/20220717132159-12-822566/perintah-hakim-agar-ms-glow-setop-jualan-raib-di-situs-pn-surabaya",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzEzMjE1OS0xMi04MjI1NjYvcGVyaW50YWgtaGFraW0tYWdhci1tcy1nbG93LXNldG9wLWp1YWxhbi1yYWliLWRpLXNpdHVzLXBuLXN1cmFiYXlh",
+        "description": " Perintah majelis hakim pengadilan negeri Surabaya agar MS Glow setop penjualan menghilang di situs resmi PN Surabaya."
+    },
+    {
+        "title": "Warga Jakut Aksi di CFD, Tuntut Pemprov DKI Sediakan Air Bersih Murah",
+        "link": "https://www.cnnindonesia.com/nasional/20220717132017-20-822565/warga-jakut-aksi-di-cfd-tuntut-pemprov-dki-sediakan-air-bersih-murah",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzEzMjAxNy0yMC04MjI1NjUvd2FyZ2EtamFrdXQtYWtzaS1kaS1jZmQtdHVudHV0LXBlbXByb3YtZGtpLXNlZGlha2FuLWFpci1iZXJzaWgtbXVyYWg=",
+        "description": " Warga Jakarta Utara menuntut Pemprov DKI\u00c2\u00a0menyediakan air bersih yang murah bagi semua kalangan."
+    },
+    {
+        "title": "Mobil Eks Pejabat Kemenag Kalteng Kecelakaan, 6 Orang Dilaporkan Tewas",
+        "link": "https://www.cnnindonesia.com/nasional/20220717124645-20-822559/mobil-eks-pejabat-kemenag-kalteng-kecelakaan-6-orang-dilaporkan-tewas",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzEyNDY0NS0yMC04MjI1NTkvbW9iaWwtZWtzLXBlamFiYXQta2VtZW5hZy1rYWx0ZW5nLWtlY2VsYWthYW4tNi1vcmFuZy1kaWxhcG9ya2FuLXRld2Fz",
+        "description": " Sebanyak enam orang meninggal dunia dalam kecelakaan di\u00c2\u00a0ruas Jalan Trans Kalimantan, Desa Sakakajang, Kabupaten Pulang Pisau, Kalimantan Tengah."
+    },
+    {
         "title": "Mensesneg Tegaskan Belum Ada Nama Pengganti Menpan RB",
         "link": "https://www.cnnindonesia.com/nasional/20220717122555-32-822554/mensesneg-tegaskan-belum-ada-nama-pengganti-menpan-rb",
         "image": "static/images/cnn_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzA5NDQ1My0yMC04MjI1MTQvd2FndWItamFiYXItdG9sYWstdXN1bGFuLWRlcG9rLWdhYnVuZy1ka2ktamFuZ2FuLWJpa2luLWdhZHVo",
         "description": " Wagub Jawa Barat Uu Ruzhanul Ulum marah ke Wali Kota Depok Mohammad Idris karena mengusulkan kota tersebut untuk bergabung ke Jakarta."
-    },
-    {
-        "title": "Anggota DPR: Beri Akses Pers Masuk Rumah Ferdy Sambo",
-        "link": "https://www.cnnindonesia.com/nasional/20220717052408-32-822492/anggota-dpr-beri-akses-pers-masuk-rumah-ferdy-sambo",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzA1MjQwOC0zMi04MjI0OTIvYW5nZ290YS1kcHItYmVyaS1ha3Nlcy1wZXJzLW1hc3VrLXJ1bWFoLWZlcmR5LXNhbWJv",
-        "description": " Anggota Komisi III DPR Trimedya menyebut kehadiran pers untuk melihat bekas baku tembak antar anggota polisi di rumah dinas Kadiv Propam Irjen Ferdy Sambo."
-    },
-    {
-        "title": "BMKG Perkirakan Hujan dan Angin Kencang Landa DKI Sore-Malam Ini",
-        "link": "https://www.cnnindonesia.com/nasional/20220717070744-20-822500/bmkg-perkirakan-hujan-dan-angin-kencang-landa-dki-sore-malam-ini",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzA3MDc0NC0yMC04MjI1MDAvYm1rZy1wZXJraXJha2FuLWh1amFuLWRhbi1hbmdpbi1rZW5jYW5nLWxhbmRhLWRraS1zb3JlLW1hbGFtLWluaQ==",
-        "description": " BMKG mengeluarkan peringatan dini potensi hujan yang disertai petir juga angin kencang di sebagian wilayah DKI Jakarta pada Minggu (17/7)."
-    },
-    {
-        "title": "Vaksin Booster Jadi Syarat Bepergian dan Masuk Mal Mulai Hari Ini",
-        "link": "https://www.cnnindonesia.com/nasional/20220717065549-20-822498/vaksin-booster-jadi-syarat-bepergian-dan-masuk-mal-mulai-hari-ini",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzA2NTU0OS0yMC04MjI0OTgvdmFrc2luLWJvb3N0ZXItamFkaS1zeWFyYXQtYmVwZXJnaWFuLWRhbi1tYXN1ay1tYWwtbXVsYWktaGFyaS1pbmk=",
-        "description": " Vaksin booster mulai diwajibkan hari ini, Minggu (17/7) bagi seluruh warga Indonesia yang inginmasuk ke tempat umum termasuk mal."
-    },
-    {
-        "title": "Puluhan Rumah Rusak Imbas 'Tsunami Kecil' di Pati Jateng",
-        "link": "https://www.cnnindonesia.com/nasional/20220717064128-20-822497/puluhan-rumah-rusak-imbas-tsunami-kecil-di-pati-jateng",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzA2NDEyOC0yMC04MjI0OTcvcHVsdWhhbi1ydW1haC1ydXNhay1pbWJhcy10c3VuYW1pLWtlY2lsLWRpLXBhdGktamF0ZW5n",
-        "description": " BNPB mencatat puluhan rumah warga mengalami kerusakan usai 'Tsunami kecil' menerjang 26 desa di empat kecamatan Kabupaten Pati, Jawa Tengah."
-    },
-    {
-        "title": "Dua Masalah Warga Jakarta: Covid Naik, Banjir Melanda",
-        "link": "https://www.cnnindonesia.com/nasional/20220716190623-20-822431/dua-masalah-warga-jakarta-covid-naik-banjir-melanda",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNjE5MDYyMy0yMC04MjI0MzEvZHVhLW1hc2FsYWgtd2FyZ2EtamFrYXJ0YS1jb3ZpZC1uYWlrLWJhbmppci1tZWxhbmRh",
-        "description": " Dua masalah yang kini dihadapi Ibu Kota yakni peningkatan kasus positif Covid-19 dan banjir yang merendam sejumlah wilayah Jakarta akibat hujan lebat."
     }
 ]
