@@ -1,5 +1,26 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507413/boeing-perkirakan-pesawat-komersial-tumbuh-82-hingga-2041",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzQxMy9ib2VpbmctcGVya2lyYWthbi1wZXNhd2F0LWtvbWVyc2lhbC10dW1idWgtODItaGluZ2dhLTIwNDE=",
+        "description": "PANDEMI diperkirakan tidak mengubah prospek pertumbuhan jangka panjang untuk penerbangan komersial. Pasalnya, Boeing memproyeksikan peningkatan 82% pada pesawat jet hingga 2041, Sabtu (16/7). Perusahaan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507414/kemenko-pmk-gelar-workshop-menulis-dan-video-kreatif-di-probolinggo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDE0L2tlbWVua28tcG1rLWdlbGFyLXdvcmtzaG9wLW1lbnVsaXMtZGFuLXZpZGVvLWtyZWF0aWYtZGktcHJvYm9saW5nZ28=",
+        "description": "KEMENTERIAN Koordinator Bidang Pembangunan Manusia dan Kebudayaan (Kemenko PMK) bersama kelompok masyarakat terus menggaungkan Gerakan Nasional Revolusi Mental (GNRM). Sabtu (16/07), bersama dua Kelompok&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507409/jadikan-protokol-chse-pada-pariwisata-sebagai-daya-tarik-wisman",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzQwOS9qYWRpa2FuLXByb3Rva29sLWNoc2UtcGFkYS1wYXJpd2lzYXRhLXNlYmFnYWktZGF5YS10YXJpay13aXNtYW4=",
+        "description": "JADIKAN protokol cleanliness, health, safety, dan environment (CHSE) sebagai norma baru dalam pengelolaan pariwisata nasional sekaligus daya tarik bagi wisatawan mancanegara (wisman).&nbsp; &quot;Mempertahankan&#8230;"
+    },
+    {
         "title": "Teknologi",
         "link": "https://m.mediaindonesia.com/teknologi/507412/hindari-catfishing-dengan-membangun-pertemanan-sehat-di-medsos",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NDA2L3BlbXByb3Ytc3Vtc2VsLWdhbGFra2FuLWtlbWJhbGktM3Q=",
         "description": "KASUS Covid-19 kembali terjadi penambahan saat ini. Tak hanya di ibukota negara, hal serupa juga terjadi di seluruh provinsi di tanah air termasuk di Sumatera Selatan. Sebagai upaya mengantisipasi&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/507404/kota-hantu-di-suriah-jadi-lokasi-syuting-film-jackie-chan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNzQwNC9rb3RhLWhhbnR1LWRpLXN1cmlhaC1qYWRpLWxva2FzaS1zeXV0aW5nLWZpbG0tamFja2llLWNoYW4=",
-        "description": "SUATU kota hantu sejak operasi pada 2018 untuk mengusir para jihadis, Hajar al-Aswad, di dekat ibu kota Suriah, kini hidup kembali sebagai lokasi film aksi yang diproduksi Jackie Chan. Film berjudul&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/507403/polri-turunkan-tim-kejar-pelaku-penembakan-di-nduga-papua",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDc0MDMvcG9scmktdHVydW5rYW4tdGltLWtlamFyLXBlbGFrdS1wZW5lbWJha2FuLWRpLW5kdWdhLXBhcHVh",
-        "description": "PENEMBAKAN yang menewaskan warga sipil di Nduga Papua menjadi tugas besar Polri untuk bekerja ekstra melindungi rakyat Papua dari serangan KKB. Kejadian tersebut membuat Polri ekstra dalam melakukan&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/507402/tiba-di-gedung-putih-biden-bantah-pernyataan-menlu-saudi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNzQwMi90aWJhLWRpLWdlZHVuZy1wdXRpaC1iaWRlbi1iYW50YWgtcGVybnlhdGFhbi1tZW5sdS1zYXVkaQ==",
-        "description": "PRESIDEN Amerika Serikat Joe Biden pada Sabtu (16/7) memiliki pendapat berbeda dengan Arab Saudi mengenai pembicaraan pada pertemuan bilateral tingkat tinggi terkait <a href=\"https://mediaindonesia.com/tag/khashoggi\"&#8230;"
     }
 ]
