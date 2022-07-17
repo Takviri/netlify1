@@ -1,5 +1,19 @@
 [
     {
+        "title": "Lonjakan Kasus Sesuai Prediksi Pemerintah, Covid Terkendali?",
+        "link": "https://www.cnbcindonesia.com/news/20220717160817-4-356263/lonjakan-kasus-sesuai-prediksi-pemerintah-covid-terkendali",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNzE2MDgxNy00LTM1NjI2My9sb25qYWthbi1rYXN1cy1zZXN1YWktcHJlZGlrc2ktcGVtZXJpbnRhaC1jb3ZpZC10ZXJrZW5kYWxp",
+        "description": " Kasus penyakit akibat virus corona (Covid-19) terus menanjak di Indonesia."
+    },
+    {
+        "title": "Tok! Pungutan Ekspor Sawit Digratiskan Hingga 31 Agustus 2022",
+        "link": "https://www.cnbcindonesia.com/news/20220717154909-8-356261/tok-pungutan-ekspor-sawit-digratiskan-hingga-31-agustus-2022",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNzE1NDkwOS04LTM1NjI2MS90b2stcHVuZ3V0YW4tZWtzcG9yLXNhd2l0LWRpZ3JhdGlza2FuLWhpbmdnYS0zMS1hZ3VzdHVzLTIwMjI=",
+        "description": " Tok! Pemerintah Gratiskan Pungutan Ekspor Sawit Hingga 31 Agustus 2022"
+    },
+    {
         "title": "Sudah Cek Belum? Ini Harga Terbaru BBM di SPBU Seluruh RI",
         "link": "https://www.cnbcindonesia.com/news/20220717153249-4-356259/sudah-cek-belum-ini-harga-terbaru-bbm-di-spbu-seluruh-ri",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNzE0MDg0Ny0xNi0zNTYyNDkva3Jpc2lzLW55YXRhLW5lZ2FyYS1uZWdhcmEtZHVuaWEtbXVsYWktcGVsaXQtanVhbGFuLXBhbmdhbg==",
         "description": " Kondisi perdagangan dunia saat ini sedang tak baik-baik saja terutama pada komoditas pangan dan pendukungnya."
-    },
-    {
-        "title": "Presiden Serbia Sebut Perang Dunia III Sudah Meletus",
-        "link": "https://www.cnbcindonesia.com/news/20220717123626-4-356245/presiden-serbia-sebut-perang-dunia-iii-sudah-meletus",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNzEyMzYyNi00LTM1NjI0NS9wcmVzaWRlbi1zZXJiaWEtc2VidXQtcGVyYW5nLWR1bmlhLWlpaS1zdWRhaC1tZWxldHVz",
-        "description": " Presiden Serbia Aleksandar Vucic mengatakan perang Rusia dengan Ukraina merupakan konflik global."
-    },
-    {
-        "title": "Krisis Pangan Ngeri, Ini yang Akan Dilakukan Negara G20",
-        "link": "https://www.cnbcindonesia.com/news/20220717123151-4-356244/krisis-pangan-ngeri-ini-yang-akan-dilakukan-negara-g20",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxNzEyMzE1MS00LTM1NjI0NC9rcmlzaXMtcGFuZ2FuLW5nZXJpLWluaS15YW5nLWFrYW4tZGlsYWt1a2FuLW5lZ2FyYS1nMjA=",
-        "description": " Para anggota negara G20 sepakat dibutuhkan kerja sama global dalam mengatasi krisis pangan dan energi."
     }
 ]
