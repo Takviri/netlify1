@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507426/maskapai-israel-ajukan-izin-terbang-lewat-udara-saudi-ke-india",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzQyNi9tYXNrYXBhaS1pc3JhZWwtYWp1a2FuLWl6aW4tdGVyYmFuZy1sZXdhdC11ZGFyYS1zYXVkaS1rZS1pbmRpYQ==",
+        "description": "MASKAPAI penerbangan Israel berencana memperluas dan membuka rute baru ke <a href=\"https://mediaindonesia.com/tag/india\"&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/507438/polres-di-jabar-diminta-siaga-antisipasi-bencana",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NDM4L3BvbHJlcy1kaS1qYWJhci1kaW1pbnRhLXNpYWdhLWFudGlzaXBhc2ktYmVuY2FuYQ==",
+        "description": "KEPOLISIAN Daerah (Polda) Jawa Barat (Jabar) menginstruksikan kepada seluruh polres jajaran agar bersiaga mengantisipasi adanya bencana&nbsp; terkait cuaca ekstrem. Kesiapsiagaan itu telah menjadi&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507436/566-kasus-harian-covid-19-berasal-dari-dki",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDM2LzU2Ni1rYXN1cy1oYXJpYW4tY292aWQtMTktYmVyYXNhbC1kYXJpLWRraQ==",
+        "description": "SEBANYAK 2.002 kasus dari 3.540 kasus covid-19 nasional ditemukan di DKI Jakarta pada Minggu (17/7) Angka itu setara dengan 56,6 persen dari total kasus hari ini. &ldquo;Terdiri dari 2.001 kasus&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507434/367-juta-masyarakat-umum-sudah-dapatkan-booster",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDM0LzM2Ny1qdXRhLW1hc3lhcmFrYXQtdW11bS1zdWRhaC1kYXBhdGthbi1ib29zdGVy",
+        "description": "SEBANYAK lebih dari 36 juta masyarakat rentan dan umum sudah menerima vaksin covid-19 dosis ketiga atau booster per Minggu (17/7). &ldquo;Jumlahnya 36.788.609 orang,&rdquo; tulis keterangan&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/507424/netflix-bersiap-hadirkan-annime-adaptasi-yu-yu-hakusho",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNzQyNC9uZXRmbGl4LWJlcnNpYXAtaGFkaXJrYW4tYW5uaW1lLWFkYXB0YXNpLXl1LXl1LWhha3VzaG8=",
+        "description": "Netflix bersiap menghadirkan anime adapatasi &quot;Yu Yu Hakusho&quot; menjadi karya live action dan telah mengumumkan pemeran utama untuk seri itu. &quot;Yu Yu Hakusho&quot; berawal dari serial&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507431/update-17-juli-kasus-covid-19-bertambah-3540",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDMxL3VwZGF0ZS0xNy1qdWxpLWthc3VzLWNvdmlkLTE5LWJlcnRhbWJhaC0zNTQw",
+        "description": "KASUS covid-19 di Indonesia bertambah 3.540 pada Minggu (17/7).&nbsp; Angka ini menurun ketimbang sehari sebelumnya sebanyak 4.329 kasus Total kasus konfirmasi positif di Indonesia mencapai&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/507418/53-juta-warga-indonesia-sudah-divaksinasi-booster",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NDIzL21lbnRlcmktcGVyaHVidW5nYW4tYnVkaS1rYXJ5YS10aW5qYXUtdGVybWluYWwtYnVzLWtsYXRlbg==",
         "description": "&nbsp; MENTERI Perhubungan RI, Budi Karya Sumadi, meninjau Terminal Bus Ir Soekarno Klaten, Jawa Tengah, Minggu (17/7). Kedatangannya disambut Bupati Sri Mulyani, Wakil Bupati Yoga&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/507422/google-authenticator-hapus-opsi-click-to-reveal-pin",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA3NDIyL2dvb2dsZS1hdXRoZW50aWNhdG9yLWhhcHVzLW9wc2ktY2xpY2stdG8tcmV2ZWFsLXBpbg==",
-        "description": "Google Authenticator membuat kembali pembaruan bagi penggunanya dengan menghapus opsi &quot;Click to reveal PIN&quot;. Opsi itu sebenarnya dihadirkan pada pembaruan di Mei 2022, namun pada pembaruan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507421/bupati-klaten-apresiasi-pengabdian-bidan-dalam-pelayanan-kesehatan-masyarakat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NDIxL2J1cGF0aS1rbGF0ZW4tYXByZXNpYXNpLXBlbmdhYmRpYW4tYmlkYW4tZGFsYW0tcGVsYXlhbmFuLWtlc2VoYXRhbi1tYXN5YXJha2F0",
-        "description": "&nbsp; BUPATI Klaten Sri Mulyani memberikan apresiasi atas jasa dan pengabdian bidan dalam memberikan pelayanan kesehatan kepada masyarakat. Untuk mewujudkan generasi unggul menuju&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/507420/kampanye-stop-sachet-dukung-gerakankurangi-sampah-plastik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDIwL2thbXBhbnllLXN0b3Atc2FjaGV0LWR1a3VuZy1nZXJha2Fua3VyYW5naS1zYW1wYWgtcGxhc3Rpaw==",
-        "description": "&nbsp;ALIANSI&nbsp;Zero Waste Indonesia (AZWI) menyerukan penghentian penggunaan sachet karena sampah sachet sulit didaur ulang secara aman dan berkelanjutan dan ditemukan banyak&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/507419/perkenalkan-budaya-setiap-daerah-melalui-medsos",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDE5L3BlcmtlbmFsa2FuLWJ1ZGF5YS1zZXRpYXAtZGFlcmFoLW1lbGFsdWktbWVkc29z",
-        "description": "Media sosial memiliki manfaat beragam. Setiap orang menjadikannya tempat hiburan, menambah teman, tempat belajar, tempat beropini, hingga media berkarya. Namun, pemanfaatannya tidak melulu tentang&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/507416/imf-yakin-ekonomi-indonesia-tumbuh-positif",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzQxNi9pbWYteWFraW4tZWtvbm9taS1pbmRvbmVzaWEtdHVtYnVoLXBvc2l0aWY=",
-        "description": "DIREKTUR Pelaksana Dana Moneter Internasional (IMF) Kristalina Georgieva menyakini kekuatan internal ekonomi Indonesia mampu mencatatkan pertumbuhan sehat dan positif meski dunia sedang mengalami gejolak&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/507415/satgas-pmk-513-ribu-sapi-telah-divaksinasi-pmk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDE1L3NhdGdhcy1wbWstNTEzLXJpYnUtc2FwaS10ZWxhaC1kaXZha3NpbmFzaS1wbWs=",
-        "description": "SATUAN Tugas Penanganan Penyakit Mulut dan Kuku (Satgas PMK) melaporkan bahwa 513.059 ekor sapi telah menjalani vaksinasi PMK hingga Minggu, 17 Juli 2022. Berdasarkan data Satgas PMK yang dikutip&#8230;"
     }
 ]
