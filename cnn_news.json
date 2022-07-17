@@ -1,5 +1,19 @@
 [
     {
+        "title": "BMKG Perkirakan Hujan dan Angin Kencang Landa DKI Sore-Malam Ini",
+        "link": "https://www.cnnindonesia.com/nasional/20220717070744-20-822500/bmkg-perkirakan-hujan-dan-angin-kencang-landa-dki-sore-malam-ini",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzA3MDc0NC0yMC04MjI1MDAvYm1rZy1wZXJraXJha2FuLWh1amFuLWRhbi1hbmdpbi1rZW5jYW5nLWxhbmRhLWRraS1zb3JlLW1hbGFtLWluaQ==",
+        "description": " BMKG mengeluarkan peringatan dini potensi hujan yang disertai petir juga angin kencang di sebagian wilayah DKI Jakarta pada Minggu (17/7)."
+    },
+    {
+        "title": "Vaksin Booster Jadi Syarat Bepergian dan Masuk Mal Mulai Hari Ini",
+        "link": "https://www.cnnindonesia.com/nasional/20220717065549-20-822498/vaksin-booster-jadi-syarat-bepergian-dan-masuk-mal-mulai-hari-ini",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzA2NTU0OS0yMC04MjI0OTgvdmFrc2luLWJvb3N0ZXItamFkaS1zeWFyYXQtYmVwZXJnaWFuLWRhbi1tYXN1ay1tYWwtbXVsYWktaGFyaS1pbmk=",
+        "description": " Vaksin booster mulai diwajibkan hari ini, Minggu (17/7) bagi seluruh warga Indonesia yang inginmasuk ke tempat umum termasuk mal."
+    },
+    {
         "title": "Puluhan Rumah Rusak Imbas 'Tsunami Kecil' di Pati Jateng",
         "link": "https://www.cnnindonesia.com/nasional/20220717064128-20-822497/puluhan-rumah-rusak-imbas-tsunami-kecil-di-pati-jateng",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzAzMDIyNC0yMC04MjI0NzkvamVuZGVyYWwtZHVkdW5nLWRhcGF0LWdlbGFyLWtlaG9ybWF0YW4tZGV3YW4tYWRhdC1kYXlhay1rYWx0ZW5n",
         "description": " Jenderal Dudung mendapat gelar kehormatan Dewan Adat Dayak Kalteng yang artinya satu orang pemberani dan bijaksana serta cerdas untuk menjaga keutuhan NKRI."
-    },
-    {
-        "title": "Tidar Deklarasi Dukung Prabowo Maju di Pilpres 2024",
-        "link": "https://www.cnnindonesia.com/nasional/20220717015709-32-822477/tidar-deklarasi-dukung-prabowo-maju-di-pilpres-2024",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNzAxNTcwOS0zMi04MjI0NzcvdGlkYXItZGVrbGFyYXNpLWR1a3VuZy1wcmFib3dvLW1hanUtZGktcGlscHJlcy0yMDI0",
-        "description": " Ketua Umum Tidar Rahayu Saraswati Djojohadikusumo mengatakan Ketum Gerindra Prabowo Subianto merupakan sosok yang konsisten memperjuangkan kepentingan rakyat."
-    },
-    {
-        "title": "3 Warga Selayar Jadi Korban Tewas Serangan KKB di Papua",
-        "link": "https://www.cnnindonesia.com/nasional/20220716223316-20-822453/3-warga-selayar-jadi-korban-tewas-serangan-kkb-di-papua",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxNjIyMzMxNi0yMC04MjI0NTMvMy13YXJnYS1zZWxheWFyLWphZGkta29yYmFuLXRld2FzLXNlcmFuZ2FuLWtrYi1kaS1wYXB1YQ==",
-        "description": " Perkumpulan warga Kabupaten Kepulauan Selayar geram terhadap KKB yang menewaskan warga sipil yang mencari nafkah di Kabupaten Nduga, Papua."
     }
 ]
