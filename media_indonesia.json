@@ -1,6 +1,13 @@
 [
     {
         "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/507381/banjir-bandang-di-garut-akibat-alih-fungsi-lahan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3MzgxL2Jhbmppci1iYW5kYW5nLWRpLWdhcnV0LWFraWJhdC1hbGloLWZ1bmdzaS1sYWhhbg==",
+        "description": "BANJIR bandang luapan Sungai Cimanuk membawa material lumpur dan menyebabkan 4.000 rumah terendam banjir yang tersebar di 14 kecamatan. Kejadian tersebut disebabkan alih fungsi lahan dari hulu yang&#8230;"
+    },
+    {
+        "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/507378/kecelakaan-tunggal-di-jalan-trans-kalimantan-renggut-enam-korban",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3Mzc4L2tlY2VsYWthYW4tdHVuZ2dhbC1kaS1qYWxhbi10cmFucy1rYWxpbWFudGFuLXJlbmdndXQtZW5hbS1rb3JiYW4=",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3MzcwL2RpcmVrdG9yYXQtamVuZGVyYWwtcGFqYWstZ2VsYXItb3BlcmFzaS1rYXRhcmFrLWdyYXRpcy1kaS1ycy11a3JpbmE=",
         "description": "DIREKTORAT Jenderal Pajak bekerja sama dengan Himpunan Bersatu Teguh menggelar operasi katarak gratis di Rumah Sakit Ukrida, Jakarta&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/507369/lewandowski-jadi-ujung-tombak-baru-barcelona",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzM2OS9sZXdhbmRvd3NraS1qYWRpLXVqdW5nLXRvbWJhay1iYXJ1LWJhcmNlbG9uYQ==",
-        "description": "KLUB Barcelona akhirnya berhasil menggaet Robert Lewandowski. Bayern Muenchen mengonfirmasi telah menyetujui kesepakatan dengan Barcelona untuk kepindahan Lewandowski ke Camp Nou. &quot;Kami&#8230;"
     }
 ]
