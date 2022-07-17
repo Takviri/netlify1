@@ -1,5 +1,47 @@
 [
     {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/507412/hindari-catfishing-dengan-membangun-pertemanan-sehat-di-medsos",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA3NDEyL2hpbmRhcmktY2F0ZmlzaGluZy1kZW5nYW4tbWVtYmFuZ3VuLXBlcnRlbWFuYW4tc2VoYXQtZGktbWVkc29z",
+        "description": "Pemanfaatan media sosial semakin beragam. Sekarang ini banyang orang menggunakannya untuk membangun jaringan pertemanan. Di tengah kemudahan berinteraksi tanpa harus tatap muka, pertemanan di media&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507408/erick-ungkap-pesan-managing-director-imf-saat-kunjungi-sarinah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzQwOC9lcmljay11bmdrYXAtcGVzYW4tbWFuYWdpbmctZGlyZWN0b3ItaW1mLXNhYXQta3VuanVuZ2ktc2FyaW5haA==",
+        "description": "KUNJUNGAN Managing Director International Monetary Fund (IMF) Kristalina Georgieva menjadi momen bersejarah bagi Sarinah pada Minggu (17/7). Georgieva tiba di Sarinah pada Minggu sore dan langsung&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507411/2500-mahasiswa-ikuti-porseni-politeknik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDExLzI1MDAtbWFoYXNpc3dhLWlrdXRpLXBvcnNlbmktcG9saXRla25paw==",
+        "description": "PEKAN Olahraga dan Seni (Porseni) Politeknik ke-13 yang diselenggarakan di Politeknik Negeri Banjarmasin, Kalimantan Selatan, pada 14 hingga 20 Juli 2022, diikuti 2.500 mahasiswa. &quot;Porseni&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507410/jaga-lingkungan-pribadi-dari-konten-negatif",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDEwL2phZ2EtbGluZ2t1bmdhbi1wcmliYWRpLWRhcmkta29udGVuLW5lZ2F0aWY=",
+        "description": "Etika bermedia digital membantu terhindar dari konten negatif di media digital. Dengan memahami tata krama berinternet, seseorang tidak akan membuat konten yang dapat memprovokasi orang lain. Sekarang&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507405/ekspor-vanili-indonesia-hanya-5-dari-kebutuhan-dunia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzQwNS9la3Nwb3ItdmFuaWxpLWluZG9uZXNpYS1oYW55YS01LWRhcmkta2VidXR1aGFuLWR1bmlh",
+        "description": "PASAR ekspor untuk komoditas vanili dari Indonesia masih terbuka. Ekspor vanili dari Indonesia masih sangat kecil sekitar 5% dari total kebutuhan.&nbsp; &quot;Oleh karena itu kami mendorong&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/507407/gelombang-tinggi-berpeluang-terjadi-di-selat-bali",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NDA3L2dlbG9tYmFuZy10aW5nZ2ktYmVycGVsdWFuZy10ZXJqYWRpLWRpLXNlbGF0LWJhbGk=",
+        "description": "TINGGI gelombang laut di Selat Bali bagian selatan berpeluang 2,5 meter hingga 4 meter dalam dua hari ke depan hingga 18&nbsp; Juli mulai Minggu (17/7). Ketinggian gelombang yang sama juga berpeluang&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/507406/pemprov-sumsel-galakkan-kembali-3t",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNzQwMi90aWJhLWRpLWdlZHVuZy1wdXRpaC1iaWRlbi1iYW50YWgtcGVybnlhdGFhbi1tZW5sdS1zYXVkaQ==",
         "description": "PRESIDEN Amerika Serikat Joe Biden pada Sabtu (16/7) memiliki pendapat berbeda dengan Arab Saudi mengenai pembicaraan pada pertemuan bilateral tingkat tinggi terkait <a href=\"https://mediaindonesia.com/tag/khashoggi\"&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507401/surya-paloh-kantor-partai-nasdem-bali-terbaik-di-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NDAxL3N1cnlhLXBhbG9oLWthbnRvci1wYXJ0YWktbmFzZGVtLWJhbGktdGVyYmFpay1kaS1pbmRvbmVzaWE=",
-        "description": "KETUA Umum Partai Nasdem Surya Paloh meresmikan Kantor DPW Bali yang terletak di pusat Kota Denpasar, tepatnya Jalan Cok Agung Tresna Renon, Minggu (17/7). Peresmian ditandai dengan pengguntingan pita&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/507400/leodaniel-tekuk-senior-dan-bukukan-gelar-world-tour-perdana",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDc0MDAvbGVvZGFuaWVsLXRla3VrLXNlbmlvci1kYW4tYnVrdWthbi1nZWxhci13b3JsZC10b3VyLXBlcmRhbmE=",
-        "description": "lAGA All Indonesian Final pada nomor ganda putra Singapore Open 2022, akhirnya dimenangi Leo Rolly Carnando/Daniel Marthin yang kini mengantongi gelar juara perdana BWF World Tour setelah&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/507399/ikut-program-double-dream-konsumen-dapat-hadiah-apartemen-southgate",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzM5OS9pa3V0LXByb2dyYW0tZG91YmxlLWRyZWFtLWtvbnN1bWVuLWRhcGF0LWhhZGlhaC1hcGFydGVtZW4tc291dGhnYXRl",
-        "description": "SUKSES dengan program Move In Quickly pada 2020 dan Wish For Home di 2021, Sinar Mas Land kembali hadir&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/507398/itjen-kementan-awasi-program-pertanian-dan-peternakan-di-kabupaten-buton",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzM5OC9pdGplbi1rZW1lbnRhbi1hd2FzaS1wcm9ncmFtLXBlcnRhbmlhbi1kYW4tcGV0ZXJuYWthbi1kaS1rYWJ1cGF0ZW4tYnV0b24=",
-        "description": "KEMENTERIAN Pertanian melalui Inspektorat Jenderal (Itjen Kementan) melakukan pengawasan pangan komoditas buah di Kabupaten Buton, Sulawesi Tenggara. Pengawasn dilakukan untuk mengantisipasi&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/507397/apriyanisiti-fadia-raih-gelar-juara-singapura-terbuka-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDczOTcvYXByaXlhbmlzaXRpLWZhZGlhLXJhaWgtZ2VsYXItanVhcmEtc2luZ2FwdXJhLXRlcmJ1a2EtMjAyMg==",
-        "description": "APRIYANI Rahayu/Siti Fadia Silva Ramadhanti sukses keluar sebagai juara ganda putri pada turnamen&nbsp;Singapura Terbuka 2022. Di laga final, Minggu (17/8), mereka berhasil mengatasi unggulan kelima&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507395/kota-sukabumi-tingkatkan-cakupan-dosis-booster",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3Mzk1L2tvdGEtc3VrYWJ1bWktdGluZ2thdGthbi1jYWt1cGFuLWRvc2lzLWJvb3N0ZXI=",
-        "description": "KOTA Sukabumi, Jawa Barat, terus meningkatkan capaian vaksinnasi Covid-19 dosis ketiga atau booster. Percepatan peningkatan cakupan itu tak terlepas saat ini kasus covid-19 mulai kembali merebak.&#8230;"
     }
 ]
