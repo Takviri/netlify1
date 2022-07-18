@@ -1,5 +1,12 @@
 [
     {
+        "title": "HdanM Hengkang dari Rusia",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220718173340-92-823015/hm-hengkang-dari-rusia",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE4MTczMzQwLTkyLTgyMzAxNS9obS1oZW5na2FuZy1kYXJpLXJ1c2lh",
+        "description": " Perusahaan ritel HdanM hengkang dari Rusiasebagai buntut atas invasi yang dilakukan negara itu terhadap Ukraina sejak Februari lalu."
+    },
+    {
         "title": "Mengintip Kondisi Ekonomi Mesir-Turki yang Disebut Terancam Bangkrut",
         "link": "https://www.cnnindonesia.com/ekonomi/20220718162831-532-822984/mengintip-kondisi-ekonomi-mesir-turki-yang-disebut-terancam-bangkrut",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE4MTUwMjIyLTkyLTgyMjk0MC9paHNnLWJlcmJhbGlrLW1lbmd1YXQta2UtNjY1OS1kaS1hd2FsLXBla2Fu",
         "description": " Indeks Harga Saham Gabungan (IHSG) ditutup di level 6.659, menguat 7,34 poin atau 0,11 persen dibandingkan pekan lalu."
-    },
-    {
-        "title": "Pendaftaran Kartu Prakerja Gelombang 37 Resmi Dibuka",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220718144511-92-822918/pendaftaran-kartu-prakerja-gelombang-37-resmi-dibuka",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE4MTQ0NTExLTkyLTgyMjkxOC9wZW5kYWZ0YXJhbi1rYXJ0dS1wcmFrZXJqYS1nZWxvbWJhbmctMzctcmVzbWktZGlidWth",
-        "description": " Manajemen Pelaksana Kartu Prakerja membuka Pendaftaran program Kartu Prakerja gelombang ke-37 mulai Minggu\u00c2\u00a0(17/7). Berikut cara daftarnya."
     }
 ]
