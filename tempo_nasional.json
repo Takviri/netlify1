@@ -1,5 +1,12 @@
 [
     {
+        "title": "BRIN: Rekomendasi Renovasi Ruang Kerja Megawati Soekarnoputri Cs dari Kementerian PUPR",
+        "link": "https://nasional.tempo.co/read/1613143/brin-rekomendasi-renovasi-ruang-kerja-megawati-soekarnoputri-cs-dari-kementerian-pupr",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTMxNDMvYnJpbi1yZWtvbWVuZGFzaS1yZW5vdmFzaS1ydWFuZy1rZXJqYS1tZWdhd2F0aS1zb2VrYXJub3B1dHJpLWNzLWRhcmkta2VtZW50ZXJpYW4tcHVwcg==",
+        "description": "BRIN menyatakan bahwa desain hingga anggaran untuk ruang kerja Megawati Soekarnoputri dibuat oleh Kementerian PUPR."
+    },
+    {
         "title": "BRIN: Kamar Tidur Megawati Soekarnoputri Bukan Fasilitas Baru, Bekas Ruangan Kepala BPPT",
         "link": "https://nasional.tempo.co/read/1613133/brin-kamar-tidur-megawati-soekarnoputri-bukan-fasilitas-baru-bekas-ruangan-kepala-bppt",
         "image": "static/images/tempo_nasional.png",
@@ -61,12 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTMwNTEvYnJpbi1iaWNhcmEtcmVub3Zhc2ktcnVhbmctZGV3YW4tcGVuZ2FyYWgtcnAtNi1tLXRlcm1hc3VrLWthbWFyLXRpZHVyLW1lZ2F3YXRp",
         "description": "BRIN menjelaskan renovasi ruang kerja Ketua Dewan Pengarah Megawati Soekarnoputri dan 9 pengarah lain yang menelan biaya Rp 6 miliar"
-    },
-    {
-        "title": "Wartawan Diintimidasi Setelah Menulis Dugaan Kekerasan Seksual di Barito Timur",
-        "link": "https://nasional.tempo.co/read/1613041/wartawan-diintimidasi-setelah-menulis-dugaan-kekerasan-seksual-di-barito-timur",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTMwNDEvd2FydGF3YW4tZGlpbnRpbWlkYXNpLXNldGVsYWgtbWVudWxpcy1kdWdhYW4ta2VrZXJhc2FuLXNla3N1YWwtZGktYmFyaXRvLXRpbXVy",
-        "description": "Wartawan borneonews.co.id Agustinus Bole Malo diintimidasi tiga orang tak dikenal. Diduga berkaitan dengan berita kekerasan seksual yang ia tulis."
     }
 ]

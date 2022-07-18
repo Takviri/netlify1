@@ -1,5 +1,19 @@
 [
     {
+        "title": "Dunia Berharap Banyak dari Indonesia",
+        "link": "https://www.cnbcindonesia.com/news/20220718085931-4-356330/dunia-berharap-banyak-dari-indonesia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODA4NTkzMS00LTM1NjMzMC9kdW5pYS1iZXJoYXJhcC1iYW55YWstZGFyaS1pbmRvbmVzaWE=",
+        "description": " Indonesia menjadi Presidensi G20 di saat situasi dunia memburuk."
+    },
+    {
+        "title": "Harga BBM Pertamina Naik! Cek Harga Terbaru di Seluruh SPBU",
+        "link": "https://www.cnbcindonesia.com/news/20220718085328-4-356329/harga-bbm-pertamina-naik-cek-harga-terbaru-di-seluruh-spbu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODA4NTMyOC00LTM1NjMyOS9oYXJnYS1iYm0tcGVydGFtaW5hLW5haWstY2VrLWhhcmdhLXRlcmJhcnUtZGktc2VsdXJ1aC1zcGJ1",
+        "description": " PT Pertamina (Persero) resmi menaikkan harga tiga jenis BBM non subsidi"
+    },
+    {
         "title": "4 Negara Asia Ini Terancam Ambruk, Utang dan Inflasi Meroket",
         "link": "https://www.cnbcindonesia.com/news/20220718084615-4-356326/4-negara-asia-ini-terancam-ambruk-utang-dan-inflasi-meroket",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODA3MDYyMS00LTM1NjMwOS9rYWJhci1nZW1iaXJhLWhhcmdhLW1pbnlhay1nb3JlbmctYmVuZXJhbi10dXJ1bi1qYWRpLXNlZ2luaQ==",
         "description": " Harga minyak goreng dalam kemasan bermerek terpantau terus turun."
-    },
-    {
-        "title": "Menguak Misi Biden ke Arab Saudi, Ini yang Diincar?",
-        "link": "https://www.cnbcindonesia.com/news/20220718064515-4-356303/menguak-misi-biden-ke-arab-saudi-ini-yang-diincar",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODA2NDUxNS00LTM1NjMwMy9tZW5ndWFrLW1pc2ktYmlkZW4ta2UtYXJhYi1zYXVkaS1pbmkteWFuZy1kaWluY2Fy",
-        "description": " Presiden Amerika Serikat (AS) Joe Biden mengadakan pertemuan dengan para pemimpin Timur Tengah."
-    },
-    {
-        "title": "Babak Baru Perang Ukraina, Rusia Siapkan 'Kejutan'",
-        "link": "https://www.cnbcindonesia.com/news/20220718063907-4-356302/babak-baru-perang-ukraina-rusia-siapkan-kejutan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODA2MzkwNy00LTM1NjMwMi9iYWJhay1iYXJ1LXBlcmFuZy11a3JhaW5hLXJ1c2lhLXNpYXBrYW4ta2VqdXRhbg==",
-        "description": " Rusia sedang mempersiapkan tahap serangan berikutnya di Ukraina."
     }
 ]
