@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kasus Krakatau Steel, 5 Tersangka Ditahan Kejaksaan Agung",
+        "link": "https://nasional.tempo.co/read/1613467/kasus-krakatau-steel-5-tersangka-ditahan-kejaksaan-agung",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTM0Njcva2FzdXMta3Jha2F0YXUtc3RlZWwtNS10ZXJzYW5na2EtZGl0YWhhbi1rZWpha3NhYW4tYWd1bmc=",
+        "description": "Kejaksaan Agung mengatakan kasus ini bermula saat Krakatau Steel melakukan pengadaan proyek pabrik blast furnace complex pada 2011-2019."
+    },
+    {
+        "title": "Mengungkap Pembunuhan dengan Forensik: Dari Kasus Munir, Mirna, hingga Marsinah",
+        "link": "https://nasional.tempo.co/read/1613459/mengungkap-pembunuhan-dengan-forensik-dari-kasus-munir-mirna-hingga-marsinah",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTM0NTkvbWVuZ3VuZ2thcC1wZW1idW51aGFuLWRlbmdhbi1mb3JlbnNpay1kYXJpLWthc3VzLW11bmlyLW1pcm5hLWhpbmdnYS1tYXJzaW5haA==",
+        "description": "Pakar psikologi forensik menyebut, polisi melarang peti jenazah Brigadir J dibuka keluarga lantaran salah satunya untuk mencegah trauma."
+    },
+    {
         "title": "Kerugian Negara di Kasus Krakatau Steel Ditaksir Mencapai Rp 6,9 Triliun",
         "link": "https://nasional.tempo.co/read/1613450/kerugian-negara-di-kasus-krakatau-steel-ditaksir-mencapai-rp-69-triliun",
         "image": "static/images/tempo_nasional.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTM0MDkva2VqYWtzYWFuLWFndW5nLXRldGFwa2FuLTMtZWtzLWRpcnV0LWtyYWthdGF1LXN0ZWVsLWphZGktdGVyc2FuZ2thLWtvcnVwc2k=",
         "description": "Kejaksaan Agung menetapkan 3 mantan Direktur Utama PT Krakatau Steel menjadi tersangka kasus korupsi"
-    },
-    {
-        "title": "Kapolri Menonaktifkan Sementara Irjen Ferdy Sambo Sebagai Kadiv Propam",
-        "link": "https://nasional.tempo.co/read/1613401/kapolri-menonaktifkan-sementara-irjen-ferdy-sambo-sebagai-kadiv-propam",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTM0MDEva2Fwb2xyaS1tZW5vbmFrdGlma2FuLXNlbWVudGFyYS1pcmplbi1mZXJkeS1zYW1iby1zZWJhZ2FpLWthZGl2LXByb3BhbQ==",
-        "description": "Kapolri menonaktifkan Irjen Ferdy Sambo dari jabatannya sebagai Kepala Divisi Provesi dan Pengamanan (Kadiv Propam) Polri"
-    },
-    {
-        "title": "Update Covid Hari Ini: Bertambah 3.393 Kasus, Meninggal 10 Orang",
-        "link": "https://nasional.tempo.co/read/1613397/update-covid-hari-ini-bertambah-3-393-kasus-meninggal-10-orang",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTMzOTcvdXBkYXRlLWNvdmlkLWhhcmktaW5pLWJlcnRhbWJhaC0zLTM5My1rYXN1cy1tZW5pbmdnYWwtMTAtb3Jhbmc=",
-        "description": "Update Covid hari ini, Senin, 18 Juli 2022 tambahan 3.393 kasus baru dalam 24 jam terakhir, sehingga total kasus konfirmasi mencapai 6.138.346."
     }
 ]
