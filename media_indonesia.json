@@ -1,5 +1,19 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507468/menparekraf-minta-masyarakat-mengelola-sampah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDY4L21lbnBhcmVrcmFmLW1pbnRhLW1hc3lhcmFrYXQtbWVuZ2Vsb2xhLXNhbXBhaA==",
+        "description": "Menteri Pariwisata dan Ekonomi Kreatif (Menparekraf) Sandiaga Uno menyatakan masyarakat harus menjaga keberlanjutan lingkungan dengan pengelolaan sampah sebagai salah satu mitigasi terhadap perubahan&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/507470/ilmuwan-buktikan-kecerdasan-lebah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNzQ3MC9pbG11d2FuLWJ1a3Rpa2FuLWtlY2VyZGFzYW4tbGViYWg=",
+        "description": "Lebah, serangga yang membantu dalam proses reproduksi tanaman dan berguna bagi manusia, ternyata makhluk yang pintar dan unik. Seorang ilmuwan di Inggris membuktikan hal tersebut melalui serangkaian&#8230;"
+    },
+    {
         "title": "Teknologi",
         "link": "https://m.mediaindonesia.com/teknologi/507467/kejahatan-siber-baru-penipuan-dengan-janji-hadiah-bitcoin",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDYxL3JhdHVzYW4tcnVtYWgtdGVyZW5kYW0tYmFuamlyLWRpLWthYnVwYXRlbi1rYXJhd2FuZw==",
         "description": "BENCANA banjir melanda di Kecamatan Telukjambe Barat, Desa Karangligar, Kabupaten Karawang, Provinsi Jawa Barat pada Sabtu (16/7) sore hari. &quot;Peristiwa tersebut terjadi saat intensitas&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/507429/bank-ntt-terus-bertransformasi-dalam-layanan-digital",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzQyOS9iYW5rLW50dC10ZXJ1cy1iZXJ0cmFuc2Zvcm1hc2ktZGFsYW0tbGF5YW5hbi1kaWdpdGFs",
-        "description": "BANK Pembangunan Daerah Nusa Tenggara Timur (Bank NTT) terus bertransformi dalam layanan digital di usianya yang ke-60, Minggu (17/7). Perayaan ulang tahun (Ultah) Bank NTT ke-60 dipusatkan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/507459/predator-anak-masuk-pesantren-pencegahan-diperkuat-lewat-peraturan-menteri-agama",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDU5L3ByZWRhdG9yLWFuYWstbWFzdWstcGVzYW50cmVuLXBlbmNlZ2FoYW4tZGlwZXJrdWF0LWxld2F0LXBlcmF0dXJhbi1tZW50ZXJpLWFnYW1h",
-        "description": "KOMISI Perlindungan Anak Indonesia (KPAI) mengatakan pihaknya bersama dengan Kementerian Agama dan lembaga terkait tengah melakukan sinkronisasi Peraturan Menteri Agama (PMA) terkait pencegahan dan&#8230;"
     }
 ]
