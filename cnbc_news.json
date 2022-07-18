@@ -1,5 +1,47 @@
 [
     {
+        "title": "Melandai, Kasus Baru Covid-19 di RI Tambah 3.393 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220718161255-4-356496/melandai-kasus-baru-covid-19-di-ri-tambah-3393-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE2MTI1NS00LTM1NjQ5Ni9tZWxhbmRhaS1rYXN1cy1iYXJ1LWNvdmlkLTE5LWRpLXJpLXRhbWJhaC0zMzkzLWhhcmktaW5p",
+        "description": " Total kasus konfirmasi mencapai 6.138.346."
+    },
+    {
+        "title": "Musim 'Resign' Pemimpin Negara",
+        "link": "https://www.cnbcindonesia.com/news/20220718125144-8-356418/musim-resign-pemimpin-negara",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODEyNTE0NC04LTM1NjQxOC9tdXNpbS1yZXNpZ24tcGVtaW1waW4tbmVnYXJh",
+        "description": " Presiden Sri Lanka, PM Inggris dan PM Italia mengundurkan diri."
+    },
+    {
+        "title": "Harga Tiket Pesawat Meroket Gila-gilaan, Begini Penjelasannya",
+        "link": "https://www.cnbcindonesia.com/news/20220718160143-4-356488/harga-tiket-pesawat-meroket-gila-gilaan-begini-penjelasannya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE2MDE0My00LTM1NjQ4OC9oYXJnYS10aWtldC1wZXNhd2F0LW1lcm9rZXQtZ2lsYS1naWxhYW4tYmVnaW5pLXBlbmplbGFzYW5ueWE=",
+        "description": " Tidak hanya kenaikan harga avtur yang yang membuat tiket penerbangan mahal."
+    },
+    {
+        "title": "Catat! Kontribusi Hulu Migas Terhadap TKDN Capai Rp 174,53 T",
+        "link": "https://www.cnbcindonesia.com/news/20220718154044-4-356479/catat-kontribusi-hulu-migas-terhadap-tkdn-capai-rp-17453-t",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE1NDA0NC00LTM1NjQ3OS9jYXRhdC1rb250cmlidXNpLWh1bHUtbWlnYXMtdGVyaGFkYXAtdGtkbi1jYXBhaS1ycC0xNzQ1My10",
+        "description": " SKK Migas mencatat nilai kontribusi migas terhadap industri lain periode Juni 2020 - Juni 2022 mencapai Rp 174,53 triliun"
+    },
+    {
+        "title": "Tak Diduga-Duga Ace Hardware Tutup 1 Gerai, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220718155802-4-356483/tak-diduga-duga-ace-hardware-tutup-1-gerai-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE1NTgwMi00LTM1NjQ4My90YWstZGlkdWdhLWR1Z2EtYWNlLWhhcmR3YXJlLXR1dHVwLTEtZ2VyYWktYWRhLWFwYQ==",
+        "description": " Perusahaan ritel lagi-lagi menutup gerainya di tengah pandemi Covid-19."
+    },
+    {
+        "title": "Bos IMF Puji Presiden Jokowi",
+        "link": "https://www.cnbcindonesia.com/news/20220718152318-4-356474/bos-imf-puji-presiden-jokowi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE1MjMxOC00LTM1NjQ3NC9ib3MtaW1mLXB1amktcHJlc2lkZW4tam9rb3dp",
+        "description": " Direktur Pelaksana Dana Moneter Internasional (IMF) Kristalina Georgieva memuji Presiden RI Joko Widodo (Jokowi)."
+    },
+    {
         "title": "Pajak Ekspor CPO 0% Untungkan Eksportir, Petani Kecil Rugi?",
         "link": "https://www.cnbcindonesia.com/news/20220718151014-4-356473/pajak-ekspor-cpo-0-untungkan-eksportir-petani-kecil-rugi",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE1MTIwNS00LTM1NjQ3MC9kdWgtZ3VudW5nLWFuYWsta3Jha2F0YXUtZXJ1cHNpLWxhZ2ktamF1aGktcmFkaXVzLTUta20=",
         "description": " Badan Geologi Kementerian ESDM mencatat adanya aktivitas vulkanis di Gunung anak Krakatau sejak tiga hari terakhir."
-    },
-    {
-        "title": "G20 Gagal Capai Kesepakatan di Tengah Ancaman Resesi",
-        "link": "https://www.cnbcindonesia.com/news/20220718124946-8-356414/g20-gagal-capai-kesepakatan-di-tengah-ancaman-resesi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODEyNDk0Ni04LTM1NjQxNC9nMjAtZ2FnYWwtY2FwYWkta2VzZXBha2F0YW4tZGktdGVuZ2FoLWFuY2FtYW4tcmVzZXNp",
-        "description": " Sri Mulyani mengisyaratkan tak ada pernyataan bersama dalam pertemuan ketiga Menteri Keuangan dan Gubernur Bank Sentral G20 di tengah ancaman resesi global."
-    },
-    {
-        "title": "Warga China Mogok Bayar KPR, Xi Jinping Turun Tangan",
-        "link": "https://www.cnbcindonesia.com/news/20220718145819-4-356464/warga-china-mogok-bayar-kpr-xi-jinping-turun-tangan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE0NTgxOS00LTM1NjQ2NC93YXJnYS1jaGluYS1tb2dvay1iYXlhci1rcHIteGktamlucGluZy10dXJ1bi10YW5nYW4=",
-        "description": " Pemerintah China mendesak lembaga finansial di negara itu untuk memperpanjang pinjaman kepada pengembang properti."
-    },
-    {
-        "title": "Catat! PPKM Level 1 Luar Jawa-Bali Berlaku Hingga Akhir Juli",
-        "link": "https://www.cnbcindonesia.com/news/20220718150133-4-356465/catat-ppkm-level-1-luar-jawa-bali-berlaku-hingga-akhir-juli",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE1MDEzMy00LTM1NjQ2NS9jYXRhdC1wcGttLWxldmVsLTEtbHVhci1qYXdhLWJhbGktYmVybGFrdS1oaW5nZ2EtYWtoaXItanVsaQ==",
-        "description": " Simak penjelasan Menteri Koordinator Bidang Perekonomian Airlangga Hartarto."
-    },
-    {
-        "title": "Tingkat Penularan Tinggi, Menkes: Cepat-Cepat Vaksin Booster!",
-        "link": "https://www.cnbcindonesia.com/news/20220718144811-4-356460/tingkat-penularan-tinggi-menkes-cepat-cepat-vaksin-booster",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE0NDgxMS00LTM1NjQ2MC90aW5na2F0LXBlbnVsYXJhbi10aW5nZ2ktbWVua2VzLWNlcGF0LWNlcGF0LXZha3Npbi1ib29zdGVy",
-        "description": " Menkes Budi G Sadikin meminta masyarakat untuk cepat-cepat melakukan vaksin covid-19 dosis ketiga atau booster"
-    },
-    {
-        "title": "Temui Delegasi IMF, Jokowi 'Pede' Ekonomi RI Aman dari Resesi",
-        "link": "https://www.cnbcindonesia.com/news/20220718125010-8-356419/temui-delegasi-imf-jokowi-pede-ekonomi-ri-aman-dari-resesi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODEyNTAxMC04LTM1NjQxOS90ZW11aS1kZWxlZ2FzaS1pbWYtam9rb3dpLXBlZGUtZWtvbm9taS1yaS1hbWFuLWRhcmktcmVzZXNp",
-        "description": " Presiden Joko Widodo menerima kunjungan delegasi Dana Moneter Internasional (IMF) ke Istana Kepresidenan Bogor."
-    },
-    {
-        "title": "Bawa 11 Ton Senjata, Pesawat Antonov Meledak",
-        "link": "https://www.cnbcindonesia.com/news/20220718131543-7-356428/bawa-11-ton-senjata-pesawat-antonov-meledak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODEzMTU0My03LTM1NjQyOC9iYXdhLTExLXRvbi1zZW5qYXRhLXBlc2F3YXQtYW50b25vdi1tZWxlZGFr",
-        "description": " Menteri Pertahanan Serbia Nebojsa Stefanovic mengatakan bahwa pesawat yang diawaki 8 kru asal Ukraina itu membawa 11,5 ton senjata produk negaranya."
     }
 ]
