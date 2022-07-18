@@ -1,5 +1,33 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507651/pengembangan-industri-minyak-makan-merah-dimulai-januari-2023",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzY1MS9wZW5nZW1iYW5nYW4taW5kdXN0cmktbWlueWFrLW1ha2FuLW1lcmFoLWRpbXVsYWktamFudWFyaS0yMDIz",
+        "description": "PEMERINTAH akan memulai proyek perdana pengembangan industri minyak makan merah (red palm oil/RPO) dengan melibatkan koperasi pada awal tahun depan. Menteri Koperasi dan Usaha Kecil dan Menengah&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507649/membangkitkan-semangat-pancasila-melalui-media-sosial",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NjQ5L21lbWJhbmdraXRrYW4tc2VtYW5nYXQtcGFuY2FzaWxhLW1lbGFsdWktbWVkaWEtc29zaWFs",
+        "description": "Kemajuan teknologi informasi menghadirkan tantangan budaya digital. Sekarang ini wawasan kebangsaan mulai mengabur, sehingga banyak orang melupakan nilai-nilai Pancasila ketika berselancar di media&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/507648/bahan-bakar-muatan-truk-tangki-pertamina-sudah-dievakuasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDc2NDgvYmFoYW4tYmFrYXItbXVhdGFuLXRydWstdGFuZ2tpLXBlcnRhbWluYS1zdWRhaC1kaWV2YWt1YXNp",
+        "description": "BAHAN bakar minyak muatan truk tangki Pertamina yang mengalami kecelakaan lalu lintas di Jalan Transyogi Cibubur-Bekasi, Jawa Barat, sudah dievakuasi. &quot;Bahan bakar sudah dipindahkan akan&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/507647/bentengi-anak-dari-konten-pornografi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA3NjQ3L2JlbnRlbmdpLWFuYWstZGFyaS1rb250ZW4tcG9ybm9ncmFmaQ==",
+        "description": "Kemajuan teknologi mempermudah akses mendapatkan informasi. Bahkan anak-anak dapat mengakses informasi yang tidak sesuai dengan usianya. Sehingga orangtua harus lebih pintar bermedia digital agar dapat&#8230;"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/507645/amazon-brasil-kehilangan-18-pohon-per-detik-pada-2021",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NjM5L3BvbGRhLWphYmFyLWFrYW4tdGVsaXRpLWtlcnVzYWthbi1saW5na3VuZ2FuLXBlbnllYmFiLWJhbmppci1kaS1nYXJ1dA==",
         "description": "KEPOLISIAN Daerah Jawa Barat akan meneliti kerusakan lingkungan yang diduga menjadi salah satu penyebab banjir bandang di sejumlah daerah di Kabupaten Garut. &nbsp; &quot;Nanti akan kita&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507640/pemkab-klaten-genjot-percepatan-capaian-vaksinasi-booster-40",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NjQwL3BlbWthYi1rbGF0ZW4tZ2Vuam90LXBlcmNlcGF0YW4tY2FwYWlhbi12YWtzaW5hc2ktYm9vc3Rlci00MA==",
-        "description": "&nbsp;  PEMERINTAH Kabupaten Klaten, Jawa Tengah, menggenjot percepatan vaksinasi dosis tiga atau booster untuk mencapai target di angka 40%. Hingga saat ini capaian vaksinasi&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/507637/optimistis-raih-35-medali-emas-atlet-para-games-indonesia-bersaing-dengan-thailand-dan-vietnam",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDc2Mzcvb3B0aW1pc3Rpcy1yYWloLTM1LW1lZGFsaS1lbWFzLWF0bGV0LXBhcmEtZ2FtZXMtaW5kb25lc2lhLWJlcnNhaW5nLWRlbmdhbi10aGFpbGFuZC1kYW4tdmlldG5hbQ==",
-        "description": "&nbsp; THAILAND dan Vietnam akan menjadi saingan terberat Indonesia dalam perebutan medali emas cabang olahraga atletik pada ajang ASEAN Para Games (APG) XI 2022 yang akan digelar di Solo, Jawa&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/507636/pengacara-sebut-irjen-sambo-sudah-dua-kali-diperiksa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDc2MzYvcGVuZ2FjYXJhLXNlYnV0LWlyamVuLXNhbWJvLXN1ZGFoLWR1YS1rYWxpLWRpcGVyaWtzYQ==",
-        "description": "PENGACARA keluarga Irjen Ferdy Sambo, Arman Hanis menyatakan Irjen Sambo sudah dimintai keterangan oleh pihak kepolisian terkait kasus dugaan baku tembak yang menewaskan Brigadir J atau Nofriansyah&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/507630/pelatih-indonesia-harus-belajar-banyak-untuk-ke-level-dunia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDc2MzAvcGVsYXRpaC1pbmRvbmVzaWEtaGFydXMtYmVsYWphci1iYW55YWstdW50dWsta2UtbGV2ZWwtZHVuaWE=",
-        "description": "PELATIH tim bola basket putra Indonesia Milos Pejic mengatakan timnya tak ingin larut dalam kesedihan setelah terhenti di babak playoff FIBA Asia Cup 2022, sekaligus membuat skuad Merah Putih gagal&#8230;"
     }
 ]
