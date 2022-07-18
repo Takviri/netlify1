@@ -1,6 +1,20 @@
 [
     {
         "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/507665/manchester-united-sepakat-datangkan-martinez-dari-ajax",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzY2NS9tYW5jaGVzdGVyLXVuaXRlZC1zZXBha2F0LWRhdGFuZ2thbi1tYXJ0aW5lei1kYXJpLWFqYXg=",
+        "description": "KLUB Liga Primer Inggris Manchester United mencapai kesepakatan dengan Ajax Amsterdam untuk mendatangkan bek Lisandro Martinez&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/507664/psg-resmi-pinjam-ekitike-dari-reims",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzY2NC9wc2ctcmVzbWktcGluamFtLWVraXRpa2UtZGFyaS1yZWltcw==",
+        "description": "KLUB Ligue 1 Paris Saint-Germain (PSG) resmi mendapatkan jasa penyerang muda Hugo Ekitike dari Stade de Reims pada bursa&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/507663/milan-siapkan-tawaran-ketiga-untuk-de-ketelaere",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzY2My9taWxhbi1zaWFwa2FuLXRhd2FyYW4ta2V0aWdhLXVudHVrLWRlLWtldGVsYWVyZQ==",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNzY1NC9nYXpwcm9tLXJ1c2lhLW55YXRha2FuLWZvcmNlLW1hamV1cmUta2UtcGVtYmVsaS1nYXMtZXJvcGE=",
         "description": "RAKSASA gas milik Rusia Gazprom PJSC menyatakan force majeure atau keadaan kahar pada tiga pembeli gas Eropa. Langkah ini menandakan niatnya untuk membatasi pasokan gas ke benua biru di tengah&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507653/pesawat-tni-au-jatuh-di-blora-saat-latihan-terbang-malam",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NjUzL3Blc2F3YXQtdG5pLWF1LWphdHVoLWRpLWJsb3JhLXNhYXQtbGF0aWhhbi10ZXJiYW5nLW1hbGFt",
-        "description": "SEBUAH pesawat tempur latih jatuh di Desa Nginggil, Kecamatan Kradenan, Kabupaten Blora, Jawa Tengah, Senin (18/7). Hingga berita ini diturunkan, belum diketahui jenis dan korban dalam peristiwa tersebut.&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/507652/lg-perkuat-posisi-di-industri-kendaraan-listrik-global",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MDc2NTIvbGctcGVya3VhdC1wb3Npc2ktZGktaW5kdXN0cmkta2VuZGFyYWFuLWxpc3RyaWstZ2xvYmFs",
-        "description": "LG Electronics (LG) kembali memperkuat posisi mereka sebagai pemain besar dalam solusi bisnis komponen kendaraan listrik (EV). Menutup Semester I 2022, LG berhasil mendapatkan pesanan dengan total&#8230;"
     }
 ]
