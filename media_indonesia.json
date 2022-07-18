@@ -1,5 +1,26 @@
 [
     {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/507670/perhatikan-ini-empat-warna-yang-memikat-nyamuk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwNzY3MC9wZXJoYXRpa2FuLWluaS1lbXBhdC13YXJuYS15YW5nLW1lbWlrYXQtbnlhbXVr",
+        "description": "Nyamuk memang lebih dari sekadar gangguan karena dapat menyebabkan gigitan dan yang paling buruk ialah menyebarkan penyakit.&nbsp; Sebab itu, dapat dimengerti bahwa Anda ingin menjauhkan nyamuk dari&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/507629/umkm-dan-ancaman-resesi-global",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDc2MjkvdW1rbS1kYW4tYW5jYW1hbi1yZXNlc2ktZ2xvYmFs",
+        "description": "DALAM konferensi pers di Nusa Dua Bali baru-baru ini, Menteri Keuangan Sri Mulyani mewanti-wanti situasi global yang diperkirakan akan mengalami resesi. Ia mengakui berbagai risiko global saat ini&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/507666/pbsi-puas-dengan-prestasi-para-pemain-di-tur-asia-tenggara",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDc2NjYvcGJzaS1wdWFzLWRlbmdhbi1wcmVzdGFzaS1wYXJhLXBlbWFpbi1kaS10dXItYXNpYS10ZW5nZ2FyYQ==",
+        "description": "PENGURUS Pusat Persatuan Bulu Tangkis Seluruh Indonesia (PP PBSI), Senin (18/7), secara bangga mengutarakan hasil para pemain&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/507665/manchester-united-sepakat-datangkan-martinez-dari-ajax",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDc2NTYvcGVuZ2FjYXJhLWphbWluLWlyamVuLXNhbWJvLWJha2FsLWhhZGlyLWppa2EtZGlwYW5nZ2lsLWtvbW5hcy1oYW0=",
         "description": "PENGACARA keluarga Kepala Divisi Propam Polri Irjen Ferdy Sambo, Arman Hanis menjamin kliennya Irjen Sambo akan memenuhi panggilan Komnas HAM jika memang dibutuhkan keterangan terkait kasus dugaan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/507657/pencegahan-long-covid-bagi-penderita-komorbid",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NjU3L3BlbmNlZ2FoYW4tbG9uZy1jb3ZpZC1iYWdpLXBlbmRlcml0YS1rb21vcmJpZA==",
-        "description": "PENELITIAN dari Rumah Sakit Umum Pusat (RSUP) Persahabatan menemukan bahwa 66,5% pasien covid-19 di Indonesia mengalami long covid meski hanya gejala ringan saat terinfeksi. Direktur Utama RSUP&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/507655/bekal-positif-piala-presiden",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzY1NS9iZWthbC1wb3NpdGlmLXBpYWxhLXByZXNpZGVu",
-        "description": "PENYELENGGARAAN Piala Presiden 2022 yang berlangsung cukup baik menjadi bekal pelaksanaan Liga 1 2022-2023. Turnamen pramusim itu menjadi acuan kembali hadirnya penonton di stadion sekaligus menghidupkan&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/507654/gazprom-rusia-nyatakan-force-majeure-ke-pembeli-gas-eropa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNzY1NC9nYXpwcm9tLXJ1c2lhLW55YXRha2FuLWZvcmNlLW1hamV1cmUta2UtcGVtYmVsaS1nYXMtZXJvcGE=",
-        "description": "RAKSASA gas milik Rusia Gazprom PJSC menyatakan force majeure atau keadaan kahar pada tiga pembeli gas Eropa. Langkah ini menandakan niatnya untuk membatasi pasokan gas ke benua biru di tengah&#8230;"
     }
 ]
