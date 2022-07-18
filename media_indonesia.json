@@ -1,5 +1,54 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/507487/juventus-sepakat-lepas-de-ligt-ke-bayern-muenchen",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzQ4Ny9qdXZlbnR1cy1zZXBha2F0LWxlcGFzLWRlLWxpZ3Qta2UtYmF5ZXJuLW11ZW5jaGVu",
+        "description": "JUVENTUS dilaporkan sepakat untuk menjual Matthijs de Ligt ke Bayern Muenchen dengan nilai transfer sekitar 70 juta euro ditambah bonus 10 juta euro. Die Roten, julukan Bayern, disebut akan memberi&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/507486/komisi-iv-dpr-ri-dorong-optimalisasi-sektor-perikanan-di-donggala",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NDg2L2tvbWlzaS1pdi1kcHItcmktZG9yb25nLW9wdGltYWxpc2FzaS1zZWt0b3ItcGVyaWthbmFuLWRpLWRvbmdnYWxh",
+        "description": "ANGGOTA Komisi IV DPR Muhammad Syafrudin menyebutkan potensi sektor perikanan di Pangkalan Pendaratan Ikan (PPI) Donggala, Sulawesi Tengah, sangat besar. Untuk itu perlu dukungan penguatan infrastruktur&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/507485/peringati-sewelasan-di-purworejo-ganjar-pesan-ini-ke-para-santri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NDg1L3BlcmluZ2F0aS1zZXdlbGFzYW4tZGktcHVyd29yZWpvLWdhbmphci1wZXNhbi1pbmkta2UtcGFyYS1zYW50cmk=",
+        "description": "GUBERNUR Jawa Tengah Ganjar Pranowo menghadiri peringatan sewelasan di Pondok Pesantren (Ponpes) An-Nawawi, Berjan, Purworejo. Kedatangan Ganjar ke ponpes yang didirikan tahun 1870 tersebut disambut&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/507484/google-facebook-dan-twitter-terancam-diblokir-pada-20-juli-222",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA3NDg0L2dvb2dsZS1mYWNlYm9vay1kYW4tdHdpdHRlci10ZXJhbmNhbS1kaWJsb2tpci1wYWRhLTIwLWp1bGktMjIy",
+        "description": "Tiga raksasa teknologi: Google, Facebook, dan Twitter, terancam diblokir pada 20 Juli 2022 karena belum melakukan pendaftaran penyelenggara sistem elektronik (PSE), kata Ketua Lembaga Riset Siber Indonesia&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/507483/tegas-antikorupsi-ganjar-pranowo-didukung-ribuan-emak-emak-di-banten",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NDgzL3RlZ2FzLWFudGlrb3J1cHNpLWdhbmphci1wcmFub3dvLWRpZHVrdW5nLXJpYnVhbi1lbWFrLWVtYWstZGktYmFudGVu",
+        "description": "RIBUAN ibu-ibu mengatasnamakan Mak Ganjar Banten menghelat acara Halal Bihalal dan Doa Bersama untuk Indonesia di Pondok Pesantren Nurhidayatullah, Kecamatan Cigeulis, Pandeglang, Banten.&nbsp;&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507482/kemendikbud-ristek-apresiasi-prestasi-tim-imo-indonesia-di-olso-norwegia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDgyL2tlbWVuZGlrYnVkLXJpc3Rlay1hcHJlc2lhc2ktcHJlc3Rhc2ktdGltLWltby1pbmRvbmVzaWEtZGktb2xzby1ub3J3ZWdpYQ==",
+        "description": "Pada penyelenggaraan International Mathematical Olympiad (IMO) ke-63 tahun 2022, Tim Olimpiade Matematika Indonesia berhasil meraih satu medali perak, empat medali perunggu, dan satu honourable mention&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/507481/ketua-dpr-dorong-pemuda-ikut-dalam-proses-pencapaian-sdgs",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDc0ODEva2V0dWEtZHByLWRvcm9uZy1wZW11ZGEtaWt1dC1kYWxhbS1wcm9zZXMtcGVuY2FwYWlhbi1zZGdz",
+        "description": "KETUA DPR RI Puan Maharani mendorong pemuda menjadi bagian dari proses pencapaian Tujuan Pembangunan Berkelanjutan atau Sustainable Development Goals (SDGs) yang membutuhkan bantuan semua elemen, termasuk&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/507480/jemaah-haji-wafat-didominasi-penyakit-jantung",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDc4L21pa3JvcGxhc3Rpay1hbmNhbWFuLWJhcnUta2VsZXN0YXJpYW4tc3VuZ2FpLW11c2k=",
         "description": "Berdasarkan hasil penelusuran Tim Ekspedisi Sungai Nusantara (ESN) bersama perkumpulan Telapak Sumatera Selatan dan Spora Institut Palembang, ditemukan fakta bahwa kini Sungai Musi tercemar mikroplastik.&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507477/mahasiswa-dan-milenial-jatim-kenalkan-ganjar-pranowo-lewat-festival-ganjar-milenial",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NDc3L21haGFzaXN3YS1kYW4tbWlsZW5pYWwtamF0aW0ta2VuYWxrYW4tZ2FuamFyLXByYW5vd28tbGV3YXQtZmVzdGl2YWwtZ2FuamFyLW1pbGVuaWFs",
-        "description": "MAHASISWA dan milenial yang tergabung dalam Ganjar Milenial Jawa Timur (Jatim) menggelar Festival Ganjar Milenial. Melalui semarak festival itu, mereka berupaya menunjukkan sosok pemimpin yang dibutuhkan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507476/erlangga-art-awards-goes-to-jogja-tampilkan-kesenian-eskul-sekolah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NDc2L2VybGFuZ2dhLWFydC1hd2FyZHMtZ29lcy10by1qb2dqYS10YW1waWxrYW4ta2VzZW5pYW4tZXNrdWwtc2Vrb2xhaA==",
-        "description": "ACARA Erlangga Art Awards 2022 atau gelaran pameran seni kreatif anak bangsa sukses digekar di Museum Nasional &nbsp;Jakarta, 14 Mei hingga 12 Juni lalu. Penerbit Erlangga kini membawa gaung&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/507475/dirut-amarta-karya-dukung-upaya-kpk-berantas-tindak-korupsi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzQ3NS9kaXJ1dC1hbWFydGEta2FyeWEtZHVrdW5nLXVwYXlhLWtway1iZXJhbnRhcy10aW5kYWsta29ydXBzaQ==",
-        "description": "DIREKTUR Utama PT Amarta Karya (Persero), Nikolas Agung menegaskan, bahwa pihaknya mendukung penuh upaya penegakkan hukum yang saat ini tengah ditangani Komisi Pemberantasan Korupsi (KPK) terkait dengan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/507474/21-mahasiswa-uph-lolos-raih-beasiswa-iisma-2022-dari-kemendikbudristek",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NDc0LzIxLW1haGFzaXN3YS11cGgtbG9sb3MtcmFpaC1iZWFzaXN3YS1paXNtYS0yMDIyLWRhcmkta2VtZW5kaWtidWRyaXN0ZWs=",
-        "description": "SEBANYAK 21 mahasiswa Universitas Pelita Harapan (UPH) dari 10 program studi (Prodi), baik dari Kampus UPH Karawaci, UPH Medan, dan UPH Surabaya, berhasil lolos dari seleksi ketat program unggulan&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/507473/hari-pertama-ptm-100-persen-di-33-smp-negeri-kota-depok-kondusif",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDc0NzMvaGFyaS1wZXJ0YW1hLXB0bS0xMDAtcGVyc2VuLWRpLTMzLXNtcC1uZWdlcmkta290YS1kZXBvay1rb25kdXNpZg==",
-        "description": "HARI pertama pembelajaran tatap muka (PTM) 100 persen di seluruh SMP Negeri di Kota Depok berjalan lancar dan kondusif. Seluruh peserta didik di SMP Negeri yang duduk dibangku kelas 9, 8 dan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/507472/pelaksanaan-vaksinasi-pmk-terbukti-efektif",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzQ3Mi9wZWxha3NhbmFhbi12YWtzaW5hc2ktcG1rLXRlcmJ1a3RpLWVmZWt0aWY=",
-        "description": "HASIL evaluasi yang dilakukan oleh Balai Besar Veteriner (BBVet) Wates, Kementerian Pertanian (Kementan) menunjukkan hasil vaksinasi PMK tefektif meningkatkan kekebalan tubuh ternak. Hal tersebut disampaikan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507471/tebar-inspirasi-ganjar-ribuan-srikandi-gelar-sports-fest-di-sumut",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NDcxL3RlYmFyLWluc3BpcmFzaS1nYW5qYXItcmlidWFuLXNyaWthbmRpLWdlbGFyLXNwb3J0cy1mZXN0LWRpLXN1bXV0",
-        "description": "RIBUAN perempuan milenial, mahasiswa, aktivis, dan influencer muda yang tergabung dalam Srikandi Ganjar Sumatera Utara (Sumut) menggelar Sports Fest. Acara ini bertujuan menebar inspirasi sosok Ganjar&#8230;"
     }
 ]
