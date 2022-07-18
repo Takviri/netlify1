@@ -1,5 +1,12 @@
 [
     {
+        "title": "Pesawat Jatuh di Blora",
+        "link": "https://nasional.tempo.co/read/1613473/pesawat-jatuh-di-blora",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTM0NzMvcGVzYXdhdC1qYXR1aC1kaS1ibG9yYQ==",
+        "description": "Polisi membenarkan ada pesawat jatuh di Desa Nginggil, Kradenan, Kabupaten Blora, Jawa Tengah. Namun belum diketahui apakah ada korban."
+    },
+    {
         "title": "Kasus Krakatau Steel, 5 Tersangka Ditahan Kejaksaan Agung",
         "link": "https://nasional.tempo.co/read/1613467/kasus-krakatau-steel-5-tersangka-ditahan-kejaksaan-agung",
         "image": "static/images/tempo_nasional.png",
@@ -35,6 +42,13 @@
         "description": "I Gede Pasek Suardika selaku penasihat hukum Mas Bechi menilai perkara pemerkosaan yang didakwakan pada kliennya sumir dan janggal."
     },
     {
+        "title": "BPJS Ketenagakerjaan Serahkan Santunan untuk Pegawai Non ASN di BPKP",
+        "link": "https://nasional.tempo.co/read/1613474/bpjs-ketenagakerjaan-serahkan-santunan-untuk-pegawai-non-asn-di-bpkp",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTM0NzQvYnBqcy1rZXRlbmFnYWtlcmphYW4tc2VyYWhrYW4tc2FudHVuYW4tdW50dWstcGVnYXdhaS1ub24tYXNuLWRpLWJwa3A=",
+        "description": "Santunan yang diserahkan terdiri dari santunan kematian akibat kecelakaan kerja (JKK), Jaminan Hari Tua (JHT) dan manfaat beasiswa."
+    },
+    {
         "title": "Darurat Penempatan Ilegal PMI, BP2MI Dorong Gugus Tugas TPPO Lakukan Konsolidasi",
         "link": "https://nasional.tempo.co/read/1613437/darurat-penempatan-ilegal-pmi-bp2mi-dorong-gugus-tugas-tppo-lakukan-konsolidasi",
         "image": "static/images/tempo_nasional.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTM0MTcvdW5qLW1lbGFrdWthbi11amktcHVibGlrLXRlcmhhZGFwLTEyLWNhbG9uLXBhbml0aWEtc2VsZWtzaS1zYXRnYXMta2VrZXJhc2FuLXNla3N1YWw=",
         "description": "Universitas Negeri Jakarta atau UNJ melakukan uji publik terhadap calon anggota panitia seleksi Satuan Tugas Pencegahan dan Penanganan Kekerasan Seksual di kampus mereka."
-    },
-    {
-        "title": "Cerita di Balik Berdirinya Ikatan Pelajar Muhammadiyah Hari Ini di Tahun 1961",
-        "link": "https://nasional.tempo.co/read/1613416/cerita-di-balik-berdirinya-ikatan-pelajar-muhammadiyah-hari-ini-di-tahun-1961",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTM0MTYvY2VyaXRhLWRpLWJhbGlrLWJlcmRpcmlueWEtaWthdGFuLXBlbGFqYXItbXVoYW1tYWRpeWFoLWhhcmktaW5pLWRpLXRhaHVuLTE5NjE=",
-        "description": "Keinginan dari setiap kader Muhammadiyah ini baru menemui hasil ketika berlangsung Konferensi Pemuda Muhammadiyah pada 1958 di Garut, Jawa Barat."
-    },
-    {
-        "title": "Kejaksaan Agung Tetapkan 3 Eks Dirut Krakatau Steel Jadi Tersangka Korupsi",
-        "link": "https://nasional.tempo.co/read/1613409/kejaksaan-agung-tetapkan-3-eks-dirut-krakatau-steel-jadi-tersangka-korupsi",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTM0MDkva2VqYWtzYWFuLWFndW5nLXRldGFwa2FuLTMtZWtzLWRpcnV0LWtyYWthdGF1LXN0ZWVsLWphZGktdGVyc2FuZ2thLWtvcnVwc2k=",
-        "description": "Kejaksaan Agung menetapkan 3 mantan Direktur Utama PT Krakatau Steel menjadi tersangka kasus korupsi"
     }
 ]
