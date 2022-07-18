@@ -1,5 +1,12 @@
 [
     {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/507662/new-honda-adv160-meluncur-di-bandung",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MDc2NjIvbmV3LWhvbmRhLWFkdjE2MC1tZWx1bmN1ci1kaS1iYW5kdW5n",
+        "description": "PT Daya Adicipta Motora (DAM) selaku Main Dealer Sepeda Motor dan Suku Cadang Honda di Jawa Barat secara resmi memperkenalkan skiter matik penjelajah New Honda ADV160 di Summarecon Mall Bekasi akhir&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/507658/kejagung-tetapkan-5-tersangka-korupsi-proyek-pabrik-krakatau-steel",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzY1MS9wZW5nZW1iYW5nYW4taW5kdXN0cmktbWlueWFrLW1ha2FuLW1lcmFoLWRpbXVsYWktamFudWFyaS0yMDIz",
         "description": "PEMERINTAH akan memulai proyek perdana pengembangan industri minyak makan merah (red palm oil/RPO) dengan melibatkan koperasi pada awal tahun depan. Menteri Koperasi dan Usaha Kecil&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/507649/membangkitkan-semangat-pancasila-melalui-media-sosial",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NjQ5L21lbWJhbmdraXRrYW4tc2VtYW5nYXQtcGFuY2FzaWxhLW1lbGFsdWktbWVkaWEtc29zaWFs",
-        "description": "Kemajuan teknologi informasi menghadirkan tantangan budaya digital. Sekarang ini wawasan kebangsaan mulai mengabur, sehingga banyak orang melupakan nilai-nilai Pancasila ketika berselancar di media&#8230;"
     }
 ]
