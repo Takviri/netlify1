@@ -1,5 +1,33 @@
 [
     {
+        "title": "Penumpang Tewas Tertabrak Transjakarta, Polisi Duga Sopir Lalai",
+        "link": "https://www.cnnindonesia.com/nasional/20220718134025-12-822870/penumpang-tewas-tertabrak-transjakarta-polisi-duga-sopir-lalai",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODEzNDAyNS0xMi04MjI4NzAvcGVudW1wYW5nLXRld2FzLXRlcnRhYnJhay10cmFuc2pha2FydGEtcG9saXNpLWR1Z2Etc29waXItbGFsYWk=",
+        "description": " Polisi\u00c2\u00a0menduga ada unsur kelalaian dari sopir Transjakarta hingga menewaskan penumpang\u00c2\u00a0yang baru\u00c2\u00a0turun di Halte Kramat Sentiong."
+    },
+    {
+        "title": "Kuasa Hukum Jamin Ferdy Sambo Bakal Penuhi Panggilan Komnas HAM",
+        "link": "https://www.cnnindonesia.com/nasional/20220718140120-12-822893/kuasa-hukum-jamin-ferdy-sambo-bakal-penuhi-panggilan-komnas-ham",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODE0MDEyMC0xMi04MjI4OTMva3Vhc2EtaHVrdW0tamFtaW4tZmVyZHktc2FtYm8tYmFrYWwtcGVudWhpLXBhbmdnaWxhbi1rb21uYXMtaGFt",
+        "description": " Kuasa hukum memastikan Irjen Ferdy Sambo dan istri akan kooperatif memenuhi panggilan Komnas HAM dalam kasus penembakan Brigadir J."
+    },
+    {
+        "title": "Kuasa Hukum Bechi Bakal Ajukan Eksepsi atas Dakwaan JPU",
+        "link": "https://www.cnnindonesia.com/nasional/20220718135430-12-822882/kuasa-hukum-bechi-bakal-ajukan-eksepsi-atas-dakwaan-jpu",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODEzNTQzMC0xMi04MjI4ODIva3Vhc2EtaHVrdW0tYmVjaGktYmFrYWwtYWp1a2FuLWVrc2Vwc2ktYXRhcy1kYWt3YWFuLWpwdQ==",
+        "description": " Kuasa hukum MSAT alias Bechi, anak kiai Jombang jadi terdakwa pencabulan, akan mengajukan eksepsi atas dakwaan JPU."
+    },
+    {
+        "title": "Polisi Tetapkan 30 Tersangka Mafia Tanah di Jakarta: 7 ASN di BPN",
+        "link": "https://www.cnnindonesia.com/nasional/20220718134015-12-822871/polisi-tetapkan-30-tersangka-mafia-tanah-di-jakarta-7-asn-di-bpn",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODEzNDAxNS0xMi04MjI4NzEvcG9saXNpLXRldGFwa2FuLTMwLXRlcnNhbmdrYS1tYWZpYS10YW5haC1kaS1qYWthcnRhLTctYXNuLWRpLWJwbg==",
+        "description": " Polisi menetapkan 30 tersangka kasus dugaan mafia tanah, di antaranya aparatur\u00c2\u00a0sipil negara (ASN) di Badan Pertahanan Nasional (BPN) hingga kades."
+    },
+    {
         "title": "Buru Bupati Mamberamo Tengah, KPK Periksa Orang Terdekat",
         "link": "https://www.cnnindonesia.com/nasional/20220714193241-12-821735/buru-bupati-mamberamo-tengah-kpk-periksa-orang-terdekat",
         "image": "static/images/cnn_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODEyNDQxNC0xMi04MjI4NjIvamFuZ2dhbC1rYXN1cy1icmlnYWRpci1qLWJlcnVqdW5nLWxhcG9yYW4tZHVnYWFuLXBlbWJ1bnVoYW4tYmVyZW5jYW5h",
         "description": " Penembakan Brigadir J di rumah Kadiv Propam Polri Irjen Ferdy Sambo masih menyisakan kejanggalan hingga 10 hari usai kejadian pada Jumat (8/7)."
-    },
-    {
-        "title": "Komnas HAM Akan Datangi Rumah Sambo TKP Penembakan Brigadir J",
-        "link": "https://www.cnnindonesia.com/nasional/20220718130441-20-822857/komnas-ham-akan-datangi-rumah-sambo-tkp-penembakan-brigadir-j",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODEzMDQ0MS0yMC04MjI4NTcva29tbmFzLWhhbS1ha2FuLWRhdGFuZ2ktcnVtYWgtc2FtYm8tdGtwLXBlbmVtYmFrYW4tYnJpZ2FkaXItag==",
-        "description": " Komisioner Komnas HAM mengatakan selain mengunjungi rumah Ferdy Sambo yang jadi TKP penembakan, pihaknya juga akan meminta keterangan pasutri Pati Polri itu."
-    },
-    {
-        "title": "Survei Lanskap: Prabowo Dominan di Jatim, Ganjar Unggul di Jateng",
-        "link": "https://www.cnnindonesia.com/nasional/20220718124853-32-822851/survei-lanskap-prabowo-dominan-di-jatim-ganjar-unggul-di-jateng",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODEyNDg1My0zMi04MjI4NTEvc3VydmVpLWxhbnNrYXAtcHJhYm93by1kb21pbmFuLWRpLWphdGltLWdhbmphci11bmdndWwtZGktamF0ZW5n",
-        "description": " Hasil survei Lanskap menyatakan Prabowo menempel ketat Ganjar di Jawa Tengah. Berbeda halnya di Jawa Timur, lantaran Prabowo unggul jauh dari Ganjar."
-    },
-    {
-        "title": "Pengacara Irjen Sambo Klaim HP Brigadir J Sudah Diserahkan ke Penyidik",
-        "link": "https://www.cnnindonesia.com/nasional/20220718125357-12-822854/pengacara-irjen-sambo-klaim-hp-brigadir-j-sudah-diserahkan-ke-penyidik",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODEyNTM1Ny0xMi04MjI4NTQvcGVuZ2FjYXJhLWlyamVuLXNhbWJvLWtsYWltLWhwLWJyaWdhZGlyLWotc3VkYWgtZGlzZXJhaGthbi1rZS1wZW55aWRpaw==",
-        "description": " Pengacara Irjen Ferdy Sambo\u00c2\u00a0mengklaim kliennya telah menyerahkan handphone milik Brigadir J kepada penyidik polisi."
-    },
-    {
-        "title": "Masih Trauma, Keluarga Brigadir J Tak Ikut ke Bareskrim",
-        "link": "https://www.cnnindonesia.com/nasional/20220718122933-12-822844/masih-trauma-keluarga-brigadir-j-tak-ikut-ke-bareskrim",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODEyMjkzMy0xMi04MjI4NDQvbWFzaWgtdHJhdW1hLWtlbHVhcmdhLWJyaWdhZGlyLWotdGFrLWlrdXQta2UtYmFyZXNrcmlt",
-        "description": " Keluarga Brigadir J berencana melaporkan dugaan kasus pembunuhan ke Bareskrim pada hari ini. Namun, pelaporan jadi diwakili\u00c2\u00a0pengacara karena keluarga trauma."
     }
 ]
