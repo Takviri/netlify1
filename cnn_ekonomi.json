@@ -1,5 +1,19 @@
 [
     {
+        "title": "Daftar 25 Negara Terancam Bangkrut, Ada Mesir hingga Turki",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220718073946-532-822701/daftar-25-negara-terancam-bangkrut-ada-mesir-hingga-turki",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE4MDczOTQ2LTUzMi04MjI3MDEvZGFmdGFyLTI1LW5lZ2FyYS10ZXJhbmNhbS1iYW5na3J1dC1hZGEtbWVzaXItaGluZ2dhLXR1cmtp",
+        "description": " Sejumlah negara diperkirakan akan bangkrut akibat utang yang menumpuk, mulai dari Mesir hingga Turki. Berikut daftar lengkapnya."
+    },
+    {
+        "title": "Harga Minyak Dunia Merosot Sepanjang Pekan Lalu",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220718072708-85-822698/harga-minyak-dunia-merosot-sepanjang-pekan-lalu",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE4MDcyNzA4LTg1LTgyMjY5OC9oYXJnYS1taW55YWstZHVuaWEtbWVyb3NvdC1zZXBhbmphbmctcGVrYW4tbGFsdQ==",
+        "description": " Harga minyak mentah dunia turun sepanjang pekan lalu karena sentimen ancaman resesi."
+    },
+    {
         "title": "BI Sebut Biaya Atasi Cuaca Ekstrem Capai 40 Persen PDB pada 2050",
         "link": "https://www.cnnindonesia.com/ekonomi/20220715130838-532-821969/bi-sebut-biaya-atasi-cuaca-ekstrem-capai-40-persen-pdb-pada-2050",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE3MjIzMDM1LTc4LTgyMjY0OS9tZW5rZXUtaW1mLWFrYW4tYmFudHUtbmVnYXJhLW5lZ2FyYS1taXNraW4taGFkYXBpLWtyaXNpcw==",
         "description": " Menkeu Sri Mulyani menyebut IMF pun berharap kepemimpinan Indonesia dalam G20 bisa mendorong negara lain mendukung langkah institusi menolong negara miskin."
-    },
-    {
-        "title": "Menparekraf Borong Produk Daur Ulang Karya Penyintas Kanker di Cilegon",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220717194312-97-822635/menparekraf-borong-produk-daur-ulang-karya-penyintas-kanker-di-cilegon",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE3MTk0MzEyLTk3LTgyMjYzNS9tZW5wYXJla3JhZi1ib3JvbmctcHJvZHVrLWRhdXItdWxhbmcta2FyeWEtcGVueWludGFzLWthbmtlci1kaS1jaWxlZ29u",
-        "description": " Menurut Sandiaga Uno, produk seperti yang dibuat Evi yang mengidap kanker dapat dipromosikan dalam perhelatan G20 sebagai bentuk transisi ekonomi hijau."
-    },
-    {
-        "title": "Daftar 25 Negara Hampir Bangkrut karena Utang",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220717135449-78-822579/daftar-25-negara-hampir-bangkrut-karena-utang",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE3MTM1NDQ5LTc4LTgyMjU3OS9kYWZ0YXItMjUtbmVnYXJhLWhhbXBpci1iYW5na3J1dC1rYXJlbmEtdXRhbmc=",
-        "description": " Ada 25 negara terancam bangkrut karena utang. Negara-negara tersebut di antaranya El Salvador, Ghana, Tunisia, dan Pakistan."
     }
 ]
