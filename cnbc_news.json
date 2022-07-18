@@ -1,5 +1,47 @@
 [
     {
+        "title": "Update Covid Indonesia 18 Juli 2022: Kasus Baru Tambah 3.393",
+        "link": "https://www.cnbcindonesia.com/news/20220718164426-16-356515/update-covid-indonesia-18-juli-2022-kasus-baru-tambah-3393",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE2NDQyNi0xNi0zNTY1MTUvdXBkYXRlLWNvdmlkLWluZG9uZXNpYS0xOC1qdWxpLTIwMjIta2FzdXMtYmFydS10YW1iYWgtMzM5Mw==",
+        "description": " Total kasus konfirmasi mencapai 6.138.346."
+    },
+    {
+        "title": "Pak Jokowi, Ada Saran dari IMF untuk Ekonomi RI",
+        "link": "https://www.cnbcindonesia.com/news/20220718171441-4-356526/pak-jokowi-ada-saran-dari-imf-untuk-ekonomi-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE3MTQ0MS00LTM1NjUyNi9wYWstam9rb3dpLWFkYS1zYXJhbi1kYXJpLWltZi11bnR1ay1la29ub21pLXJp",
+        "description": " Dalam kunjungannya ke Indonesia, Direktur Pelaksana\u00c2\u00a0IMF Kristalina Georgieva memberikan beberapa saran terkait perekonomian di Indonesia."
+    },
+    {
+        "title": "Ace Hardware Mendadak Tutup Gerai di Tangerang",
+        "link": "https://www.cnbcindonesia.com/news/20220718161350-7-356499/ace-hardware-mendadak-tutup-gerai-di-tangerang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE2MTM1MC03LTM1NjQ5OS9hY2UtaGFyZHdhcmUtbWVuZGFkYWstdHV0dXAtZ2VyYWktZGktdGFuZ2VyYW5n",
+        "description": " Ace Hardware harus menutup gerainya yang berlokasi di wilayah Jabodetabek, di Kota Tangerang, Banten."
+    },
+    {
+        "title": "Blok Migas Cepu Gali-gali Produksi, Siap Jadi Primadona Lagi?",
+        "link": "https://www.cnbcindonesia.com/news/20220718163620-4-356512/blok-migas-cepu-gali-gali-produksi-siap-jadi-primadona-lagi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE2MzYyMC00LTM1NjUxMi9ibG9rLW1pZ2FzLWNlcHUtZ2FsaS1nYWxpLXByb2R1a3NpLXNpYXAtamFkaS1wcmltYWRvbmEtbGFnaQ==",
+        "description": " SKK Migas\u00c2\u00a0dan ExxonMobil selaku operator Blok Cepu tengah mempersiapkan pengeboran di lapangan Banyu Urip"
+    },
+    {
+        "title": "IMF: Indonesia Tidak Akan Terjerat Resesi",
+        "link": "https://www.cnbcindonesia.com/news/20220718164354-4-356513/imf-indonesia-tidak-akan-terjerat-resesi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE2NDM1NC00LTM1NjUxMy9pbWYtaW5kb25lc2lhLXRpZGFrLWFrYW4tdGVyamVyYXQtcmVzZXNp",
+        "description": " Direktur Pelaksana Dana Moneter Internasional (IMF) Kristalina Georgieva mengatakan Indonesia tidak akan terjerat resesi."
+    },
+    {
+        "title": "Jokowi Setujui Usulan Pabrik Minyak Makan Merah, Untuk Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220718161432-4-356507/jokowi-setujui-usulan-pabrik-minyak-makan-merah-untuk-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE2MTQzMi00LTM1NjUwNy9qb2tvd2ktc2V0dWp1aS11c3VsYW4tcGFicmlrLW1pbnlhay1tYWthbi1tZXJhaC11bnR1ay1hcGE=",
+        "description": " Menteri Koperasi dan Usaha Kecil dan Menengah Teten Masduki mengatakan mau mengembangkan Red Palm Oil (RPO)."
+    },
+    {
         "title": "Harga Tiket Pesawat 'Meledak' Dicuekin, Kursi Ludes Terus",
         "link": "https://www.cnbcindonesia.com/news/20220718163034-4-356508/harga-tiket-pesawat-meledak-dicuekin-kursi-ludes-terus",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODEyNTE0NC04LTM1NjQxOC9tdXNpbS1yZXNpZ24tcGVtaW1waW4tbmVnYXJh",
         "description": " Presiden Sri Lanka, PM Inggris dan PM Italia mengundurkan diri."
-    },
-    {
-        "title": "Harga Tiket Pesawat Meroket Gila-gilaan, Begini Penjelasannya",
-        "link": "https://www.cnbcindonesia.com/news/20220718160143-4-356488/harga-tiket-pesawat-meroket-gila-gilaan-begini-penjelasannya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE2MDE0My00LTM1NjQ4OC9oYXJnYS10aWtldC1wZXNhd2F0LW1lcm9rZXQtZ2lsYS1naWxhYW4tYmVnaW5pLXBlbmplbGFzYW5ueWE=",
-        "description": " Tidak hanya kenaikan harga avtur yang yang membuat tiket penerbangan mahal."
-    },
-    {
-        "title": "Catat! Kontribusi Hulu Migas Terhadap TKDN Capai Rp 174,53 T",
-        "link": "https://www.cnbcindonesia.com/news/20220718154044-4-356479/catat-kontribusi-hulu-migas-terhadap-tkdn-capai-rp-17453-t",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE1NDA0NC00LTM1NjQ3OS9jYXRhdC1rb250cmlidXNpLWh1bHUtbWlnYXMtdGVyaGFkYXAtdGtkbi1jYXBhaS1ycC0xNzQ1My10",
-        "description": " SKK Migas mencatat nilai kontribusi migas terhadap industri lain periode Juni 2020 - Juni 2022 mencapai Rp 174,53 triliun"
-    },
-    {
-        "title": "Tak Diduga-Duga Ace Hardware Tutup 1 Gerai, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220718155802-4-356483/tak-diduga-duga-ace-hardware-tutup-1-gerai-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE1NTgwMi00LTM1NjQ4My90YWstZGlkdWdhLWR1Z2EtYWNlLWhhcmR3YXJlLXR1dHVwLTEtZ2VyYWktYWRhLWFwYQ==",
-        "description": " Perusahaan ritel lagi-lagi menutup gerainya di tengah pandemi Covid-19."
-    },
-    {
-        "title": "Bos IMF Puji Presiden Jokowi",
-        "link": "https://www.cnbcindonesia.com/news/20220718152318-4-356474/bos-imf-puji-presiden-jokowi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE1MjMxOC00LTM1NjQ3NC9ib3MtaW1mLXB1amktcHJlc2lkZW4tam9rb3dp",
-        "description": " Direktur Pelaksana Dana Moneter Internasional (IMF) Kristalina Georgieva memuji Presiden RI Joko Widodo (Jokowi)."
-    },
-    {
-        "title": "Pajak Ekspor CPO 0% Untungkan Eksportir, Petani Kecil Rugi?",
-        "link": "https://www.cnbcindonesia.com/news/20220718151014-4-356473/pajak-ekspor-cpo-0-untungkan-eksportir-petani-kecil-rugi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE1MTAxNC00LTM1NjQ3My9wYWphay1la3Nwb3ItY3BvLTAtdW50dW5na2FuLWVrc3BvcnRpci1wZXRhbmkta2VjaWwtcnVnaQ==",
-        "description": " Penghapusan pungutan ekspor CPO dinilai akan sangat menguntungkan eksportir\u00c2\u00a0meski dikhawatirkan mengganggu program kerakyatan yang didanai dari pungutan ekspor."
-    },
-    {
-        "title": "Harga Minyak Goreng Benar-Benar Turun, Ternyata Ini Sebabnya",
-        "link": "https://www.cnbcindonesia.com/news/20220718153122-4-356477/harga-minyak-goreng-benar-benar-turun-ternyata-ini-sebabnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE1MzEyMi00LTM1NjQ3Ny9oYXJnYS1taW55YWstZ29yZW5nLWJlbmFyLWJlbmFyLXR1cnVuLXRlcm55YXRhLWluaS1zZWJhYm55YQ==",
-        "description": " Harga minyak goreng terpantau melanjutkan penurunan, mendekati target pemerintah."
     }
 ]

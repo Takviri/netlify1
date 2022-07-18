@@ -1,5 +1,33 @@
 [
     {
+        "title": "Gunung Anak Krakatau Erupsi Lagi, Kolom Abu 2500 Meter",
+        "link": "https://www.cnnindonesia.com/nasional/20220718165308-20-822993/gunung-anak-krakatau-erupsi-lagi-kolom-abu-2500-meter",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODE2NTMwOC0yMC04MjI5OTMvZ3VudW5nLWFuYWsta3Jha2F0YXUtZXJ1cHNpLWxhZ2kta29sb20tYWJ1LTI1MDAtbWV0ZXI=",
+        "description": " Tiga hari terakhir Gunung Anak Krakatau di Selat Sunda mengalami erupsi. Erupsi petang ini terpantau tinggi kolom abu 2500 di atas puncak."
+    },
+    {
+        "title": "Satgas Covid Bali Ungkap Kondisi Pasien Varian Centaurus",
+        "link": "https://www.cnnindonesia.com/nasional/20220718170053-20-822999/satgas-covid-bali-ungkap-kondisi-pasien-varian-centaurus",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODE3MDA1My0yMC04MjI5OTkvc2F0Z2FzLWNvdmlkLWJhbGktdW5na2FwLWtvbmRpc2ktcGFzaWVuLXZhcmlhbi1jZW50YXVydXM=",
+        "description": " Salah satu dari tiga pasien virus corona varian baru BA 2.75 ditemukan di Bali. Kini tengah dalam pemantauan."
+    },
+    {
+        "title": "Istri Anggota TNI Ditembak, Proyektil Masih Bersarang di Perut",
+        "link": "https://www.cnnindonesia.com/nasional/20220718171135-12-823002/istri-anggota-tni-ditembak-proyektil-masih-bersarang-di-perut",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODE3MTEzNS0xMi04MjMwMDIvaXN0cmktYW5nZ290YS10bmktZGl0ZW1iYWstcHJveWVrdGlsLW1hc2loLWJlcnNhcmFuZy1kaS1wZXJ1dA==",
+        "description": " Istri dari anggota TNI yang ditembak di Semarang harus menjalani operasi untuk mengambil proyektil peluru yang bersarang di perut."
+    },
+    {
+        "title": "Truk Pertamina Tabrak Sejumlah Motor di Cibubur Telan Banyak Korban",
+        "link": "https://www.cnnindonesia.com/nasional/20220718165952-20-822997/truk-pertamina-tabrak-sejumlah-motor-di-cibubur-telan-banyak-korban",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODE2NTk1Mi0yMC04MjI5OTcvdHJ1ay1wZXJ0YW1pbmEtdGFicmFrLXNlanVtbGFoLW1vdG9yLWRpLWNpYnVidXItdGVsYW4tYmFueWFrLWtvcmJhbg==",
+        "description": " Truk tangki Pertamina menabrak sejumlah sepeda motor di Jalan Alternatif Cibubur, Kota Bekasi pada Senin (18/7)."
+    },
+    {
         "title": "Fraksi PKB-PPP Soal PJ Sekda DKI: Gak Bisa Main Gonta-Ganti",
         "link": "https://www.cnnindonesia.com/nasional/20220718161914-32-822988/fraksi-pkb-ppp-soal-pj-sekda-dki-gak-bisa-main-gonta-ganti",
         "image": "static/images/cnn_news.png",
@@ -11,7 +39,7 @@
         "link": "https://www.cnnindonesia.com/nasional/20220718162322-12-822989/adik-brigadir-j-dimutasi-dari-mabes-polri-ke-polda-jambi",
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODE2MjMyMi0xMi04MjI5ODkvYWRpay1icmlnYWRpci1qLWRpbXV0YXNpLWRhcmktbWFiZXMtcG9scmkta2UtcG9sZGEtamFtYmk=",
-        "description": " Adik Brigadir J dimutasi dari Mabes Polri ke Polda Jambi\u00c2\u00a0usai baku tembak di rumah Irjen Ferdy Sambo."
+        "description": " Adik Brigadir J dimutasi dari Mabes Polri ke Polda Jambi\u00c2\u00a0usai\u00c2\u00a0kasus penembakan\u00c2\u00a0di rumah Irjen Ferdy Sambo."
     },
     {
         "title": "Keluarga Brigadir J Enggan Laporkan Bharada E: Pelaku Bukan Satu Orang",
@@ -40,33 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDYwOTE0MDg0NC0yMC04MDY4ODIvcG9zaXRpZi1oYXJpYW4tY292aWQtYmVydGFtYmFoLTMzOTMta2FzdXMtYWt0aWYtMjg1MDYtb3Jhbmc=",
         "description": " Satgas Covid-19 mencatat tambahan kasus baru terpapar virus corona di Indonesia per Senin (18/7) ada 3.393 orang,\u00c2\u00a0sementara yang sembuh\u00c2\u00a02.427 orang."
-    },
-    {
-        "title": "Demo Tolak Kenaikan Tiket Komodo, Warga NTT Mengaku Dirugikan",
-        "link": "https://www.cnnindonesia.com/nasional/20220718152837-20-822954/demo-tolak-kenaikan-tiket-komodo-warga-ntt-mengaku-dirugikan",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODE1MjgzNy0yMC04MjI5NTQvZGVtby10b2xhay1rZW5haWthbi10aWtldC1rb21vZG8td2FyZ2EtbnR0LW1lbmdha3UtZGlydWdpa2Fu",
-        "description": " Warga dan pelaku usaha pariwisata di NTT melakukan demo tolak kenaikan harga tiket TN Komodo, Senin (18/7)."
-    },
-    {
-        "title": "Keluarga Brigadir J Minta Kapolri Nonaktifkan Ferdy Sambo",
-        "link": "https://www.cnnindonesia.com/nasional/20220718153041-12-822968/keluarga-brigadir-j-minta-kapolri-nonaktifkan-ferdy-sambo",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODE1MzA0MS0xMi04MjI5Njgva2VsdWFyZ2EtYnJpZ2FkaXItai1taW50YS1rYXBvbHJpLW5vbmFrdGlma2FuLWZlcmR5LXNhbWJv",
-        "description": " Keluarga Brigadir J meminta Kapolri hingga Presiden Jokowi melakukan intervensi untuk menonaktifkan Ferdy Sambo selama pengusutan penembakan Brigadir J."
-    },
-    {
-        "title": "Anak Kiai Jombang Bechi Dipindah ke Sel Umum: Isi 60 Orang",
-        "link": "https://www.cnnindonesia.com/nasional/20220718150815-12-822953/anak-kiai-jombang-bechi-dipindah-ke-sel-umum-isi-60-orang",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODE1MDgxNS0xMi04MjI5NTMvYW5hay1raWFpLWpvbWJhbmctYmVjaGktZGlwaW5kYWgta2Utc2VsLXVtdW0taXNpLTYwLW9yYW5n",
-        "description": " Terdakwa kasus pencabulan santriwati yang juga anak Kiai Jomban, Bechi dipindahkan dari sel isolasi di Rutan Klas I Surabaya."
-    },
-    {
-        "title": "Gerebek Markas Ormas di Cirebon, Polisi Temukan Air Soft Gun dan Sajam",
-        "link": "https://www.cnnindonesia.com/nasional/20220718152727-12-822951/gerebek-markas-ormas-di-cirebon-polisi-temukan-air-soft-gun-dan-sajam",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODE1MjcyNy0xMi04MjI5NTEvZ2VyZWJlay1tYXJrYXMtb3JtYXMtZGktY2lyZWJvbi1wb2xpc2ktdGVtdWthbi1haXItc29mdC1ndW4tZGFuLXNhamFt",
-        "description": " Polisi menangkap 31 orang dan menyita barbuk berupa satu pucuk air soft gun hingga puluhan sajam saat gerebek markas ormas di Cirebon."
     }
 ]
