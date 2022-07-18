@@ -1,5 +1,19 @@
 [
     {
+        "title": "Ace Hardware Tutup Gerai Lagi di Tangerang",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220718123129-78-822843/ace-hardware-tutup-gerai-lagi-di-tangerang",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE4MTIzMTI5LTc4LTgyMjg0My9hY2UtaGFyZHdhcmUtdHV0dXAtZ2VyYWktbGFnaS1kaS10YW5nZXJhbmc=",
+        "description": " PT Ace Hardware Indonesia Tbk menutup gerai usaha yang berlokasi di Bale Kota, Tangerang sejak 30 Juni 2022."
+    },
+    {
+        "title": "Mayoritas Harga Pangan Mulai Turun, Tapi Bawang Putih Masih Mahal",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220718121712-92-822832/mayoritas-harga-pangan-mulai-turun-tapi-bawang-putih-masih-mahal",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE4MTIxNzEyLTkyLTgyMjgzMi9tYXlvcml0YXMtaGFyZ2EtcGFuZ2FuLW11bGFpLXR1cnVuLXRhcGktYmF3YW5nLXB1dGloLW1hc2loLW1haGFs",
+        "description": " Sejumlah harga komoditas pangan seperti cabai rawit merah, bawang merah, dan minyak curah mulai turun."
+    },
+    {
         "title": "Survei BI: Penyaluran Kredit Bank Meningkat pada Juni 2022",
         "link": "https://www.cnnindonesia.com/ekonomi/20220718105354-78-822779/survei-bi-penyaluran-kredit-bank-meningkat-pada-juni-2022",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE4MDkxOTQ2LTkyLTgyMjcyOS9zYWhhbS1hbmpsb2staGluZ2dhLTcwLXBlcnNlbi1uZXRmbGl4LWFrYW4tYW5kYWxrYW4taWtsYW4=",
         "description": " Saham Netflix anjlok hingga 70 persen dan membuat perusahaan itu berencana bergantung pada layanan iklan."
-    },
-    {
-        "title": "Pemerintah Guyur Rp18 T untuk Selesaikan 5 Destinasi Wisata Prioritas",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220716060410-92-822281/pemerintah-guyur-rp18-t-untuk-selesaikan-5-destinasi-wisata-prioritas",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE2MDYwNDEwLTkyLTgyMjI4MS9wZW1lcmludGFoLWd1eXVyLXJwMTgtdC11bnR1ay1zZWxlc2Fpa2FuLTUtZGVzdGluYXNpLXdpc2F0YS1wcmlvcml0YXM=",
-        "description": " Pemerintah menggelontorkan anggaran Rp18 triliun lebih untuk menyelesaikan pengembangan 5 destinasi wisata prioritas pada 2024."
-    },
-    {
-        "title": "Kripto Menguat Tipis, Harga Bitcoin Balik ke Level US$21 Ribu",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220718094723-92-822748/kripto-menguat-tipis-harga-bitcoin-balik-ke-level-us-21-ribu",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE4MDk0NzIzLTkyLTgyMjc0OC9rcmlwdG8tbWVuZ3VhdC10aXBpcy1oYXJnYS1iaXRjb2luLWJhbGlrLWtlLWxldmVsLXVzLTIxLXJpYnU=",
-        "description": " Mayoritas harga kripto teratas menguat pada Senin (18/7) pagi. Penguatan terjadi pada bitcoin hingga dogecoin."
     }
 ]
