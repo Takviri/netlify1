@@ -1,5 +1,33 @@
 [
     {
+        "title": "Hadi Tjahjanto ke ASN BPN: Jangan Masuk Angin, Mafia Tanah Dimana-mana",
+        "link": "https://www.cnnindonesia.com/nasional/20220718144909-12-822937/hadi-tjahjanto-ke-asn-bpn-jangan-masuk-angin-mafia-tanah-dimana-mana",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODE0NDkwOS0xMi04MjI5MzcvaGFkaS10amFoamFudG8ta2UtYXNuLWJwbi1qYW5nYW4tbWFzdWstYW5naW4tbWFmaWEtdGFuYWgtZGltYW5hLW1hbmE=",
+        "description": " Menteri Hadi Tjahjanto mengancam akan mencopot jajarannya di BPN yang terbukti terlibat dalam kasus mafia tanah."
+    },
+    {
+        "title": "Ketua DPRD Beber Kriteria Pj Gubernur DKI yang Akan Gantikan Anies",
+        "link": "https://www.cnnindonesia.com/nasional/20220718142033-32-822899/ketua-dprd-beber-kriteria-pj-gubernur-dki-yang-akan-gantikan-anies",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODE0MjAzMy0zMi04MjI4OTkva2V0dWEtZHByZC1iZWJlci1rcml0ZXJpYS1wai1ndWJlcm51ci1ka2kteWFuZy1ha2FuLWdhbnRpa2FuLWFuaWVz",
+        "description": " Ketua DPRD DKI Jakarta\u00c2\u00a0mengatakan sosok yang tepat menjadi Pj Gubernur DKI Jakarta haruslah orang yang mengerti masalah di ibu kota negara RI tersebut."
+    },
+    {
+        "title": "Sarat Pesan Keragaman, Delegasi Y20 Diajak ke Istiqlal dan Katedral",
+        "link": "https://www.cnnindonesia.com/nasional/20220719044136-20-823141/sarat-pesan-keragaman-delegasi-y20-diajak-ke-istiqlal-dan-katedral",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA0NDEzNi0yMC04MjMxNDEvc2FyYXQtcGVzYW4ta2VyYWdhbWFuLWRlbGVnYXNpLXkyMC1kaWFqYWsta2UtaXN0aXFsYWwtZGFuLWthdGVkcmFs",
+        "description": " Delegasi Y20 akan diajak ke beberapa tempat di Jakarta, seperti Istiqlal dan Katedral untuk menyampaikan pesan keragaman."
+    },
+    {
+        "title": "DPR usai Penonaktifan Ferdy Sambo: Teka Teki Harus Segera Terungkap",
+        "link": "https://www.cnnindonesia.com/nasional/20220719012443-32-823119/dpr-usai-penonaktifan-ferdy-sambo-teka-teki-harus-segera-terungkap",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTAxMjQ0My0zMi04MjMxMTkvZHByLXVzYWktcGVub25ha3RpZmFuLWZlcmR5LXNhbWJvLXRla2EtdGVraS1oYXJ1cy1zZWdlcmEtdGVydW5na2Fw",
+        "description": " DPR mendesak Polri bekerja transparan dan objektif demi mengungkap teka teki di balik penembakan Brigadir J\u00c2\u00a0usai Irjen Ferdy Sambo dinonaktifkan."
+    },
+    {
         "title": "Tabrak Penumpang hingga Tewas, Transjakarta Dinilai Bobrok",
         "link": "https://www.cnnindonesia.com/nasional/20220718121716-20-822833/tabrak-penumpang-hingga-tewas-transjakarta-dinilai-bobrok",
         "image": "static/images/cnn_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODE3NDAxMS0yMC04MjMwMTgvcGVzaXNpci1tYXNhbmctZGktYWdhbS1zdW1iYXItYWJyYXNpLXNlcGFuamFuZy0xLWttLWRhbi1sZWJhci0yNS1tZXRlcg==",
         "description": " Pesisir Jorong Masang di Kabupaten Agam, Sumbar mengalami abrasi sepanjang satu kilometer dan lebar 25 meter karena gelombang pasang setidaknya sejak Juni lalu."
-    },
-    {
-        "title": "Lili Pintauli Ajak Keluarga Nonton MotoGP Mandalika",
-        "link": "https://www.cnnindonesia.com/nasional/20220718210223-12-823090/lili-pintauli-ajak-keluarga-nonton-motogp-mandalika",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODIxMDIyMy0xMi04MjMwOTAvbGlsaS1waW50YXVsaS1hamFrLWtlbHVhcmdhLW5vbnRvbi1tb3RvZ3AtbWFuZGFsaWth",
-        "description": " Eks pimpinan KPK Lili Pintauli Siregar membawa 11 keluarga dan saudaranya menonton MotoGP Mandalika dengan fasilitas dari Pertamina."
-    },
-    {
-        "title": "MAKI Dorong KPK Tahan Mardani Maming Meski Masih Ada Praperadilan",
-        "link": "https://www.cnnindonesia.com/nasional/20220718200514-12-823072/maki-dorong-kpk-tahan-mardani-maming-meski-masih-ada-praperadilan",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODIwMDUxNC0xMi04MjMwNzIvbWFraS1kb3Jvbmcta3BrLXRhaGFuLW1hcmRhbmktbWFtaW5nLW1lc2tpLW1hc2loLWFkYS1wcmFwZXJhZGlsYW4=",
-        "description": " Masyarakat Anti Korupsi Indonesia (MAKI) menyebut dulu KPK juga pernah menahan Setya Novanto ketika prarperadilan masih berjalan."
-    },
-    {
-        "title": "KPK Segera Kirim Surat Panggilan Kedua untuk Mardani Maming",
-        "link": "https://www.cnnindonesia.com/nasional/20220718195324-12-823065/kpk-segera-kirim-surat-panggilan-kedua-untuk-mardani-maming",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODE5NTMyNC0xMi04MjMwNjUva3BrLXNlZ2VyYS1raXJpbS1zdXJhdC1wYW5nZ2lsYW4ta2VkdWEtdW50dWstbWFyZGFuaS1tYW1pbmc=",
-        "description": " Sejauh ini, Ketua Umum HIPMI yang juga Bendahara Umum PBNU Mardani Maming sudah menjadi tersangka dugaan korupsi izin tambang."
-    },
-    {
-        "title": "BNPB: 18.873 Warga Terdampak Banjir dan Longsor Garut",
-        "link": "https://www.cnnindonesia.com/nasional/20220718182246-20-823032/bnpb-18873-warga-terdampak-banjir-dan-longsor-garut",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODE4MjI0Ni0yMC04MjMwMzIvYm5wYi0xODg3My13YXJnYS10ZXJkYW1wYWstYmFuamlyLWRhbi1sb25nc29yLWdhcnV0",
-        "description": " BNPB\u00c2\u00a0melaporkan sebanyak 6.031 kepala keluarga (KK) atau 18.873 warga terdampak banjir dan longsor di Garut, Jawa Barat."
     }
 ]
