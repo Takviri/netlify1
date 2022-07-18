@@ -1,5 +1,33 @@
 [
     {
+        "title": "Janggal Kasus Brigadir J Berujung Laporan Dugaan Pembunuhan Berencana",
+        "link": "https://www.cnnindonesia.com/nasional/20220718124414-12-822862/janggal-kasus-brigadir-j-berujung-laporan-dugaan-pembunuhan-berencana",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODEyNDQxNC0xMi04MjI4NjIvamFuZ2dhbC1rYXN1cy1icmlnYWRpci1qLWJlcnVqdW5nLWxhcG9yYW4tZHVnYWFuLXBlbWJ1bnVoYW4tYmVyZW5jYW5h",
+        "description": " Penembakan Brigadir J di rumah Kadiv Propam Polri Irjen Ferdy Sambo masih menyisakan kejanggalan hingga 10 hari usai kejadian pada Jumat (8/7)."
+    },
+    {
+        "title": "Komnas HAM Akan Datangi Rumah Sambo TKP Penembakan Brigadir J",
+        "link": "https://www.cnnindonesia.com/nasional/20220718130441-20-822857/komnas-ham-akan-datangi-rumah-sambo-tkp-penembakan-brigadir-j",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODEzMDQ0MS0yMC04MjI4NTcva29tbmFzLWhhbS1ha2FuLWRhdGFuZ2ktcnVtYWgtc2FtYm8tdGtwLXBlbmVtYmFrYW4tYnJpZ2FkaXItag==",
+        "description": " Komisioner Komnas HAM mengatakan selain mengunjungi rumah Ferdy Sambo yang jadi TKP penembakan, pihaknya juga akan meminta keterangan pasutri Pati Polri itu."
+    },
+    {
+        "title": "Survei Lanskap: Prabowo Dominan di Jatim, Ganjar Unggul di Jateng",
+        "link": "https://www.cnnindonesia.com/nasional/20220718124853-32-822851/survei-lanskap-prabowo-dominan-di-jatim-ganjar-unggul-di-jateng",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODEyNDg1My0zMi04MjI4NTEvc3VydmVpLWxhbnNrYXAtcHJhYm93by1kb21pbmFuLWRpLWphdGltLWdhbmphci11bmdndWwtZGktamF0ZW5n",
+        "description": " Hasil survei Lanskap menyatakan Prabowo menempel ketat Ganjar di Jawa Tengah. Berbeda halnya di Jawa Timur, lantaran Prabowo unggul jauh dari Ganjar."
+    },
+    {
+        "title": "Pengacara Irjen Sambo Klaim HP Brigadir J Sudah Diserahkan ke Penyidik",
+        "link": "https://www.cnnindonesia.com/nasional/20220718125357-12-822854/pengacara-irjen-sambo-klaim-hp-brigadir-j-sudah-diserahkan-ke-penyidik",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODEyNTM1Ny0xMi04MjI4NTQvcGVuZ2FjYXJhLWlyamVuLXNhbWJvLWtsYWltLWhwLWJyaWdhZGlyLWotc3VkYWgtZGlzZXJhaGthbi1rZS1wZW55aWRpaw==",
+        "description": " Pengacara Irjen Ferdy Sambo\u00c2\u00a0mengklaim kliennya telah menyerahkan handphone milik Brigadir J kepada penyidik polisi."
+    },
+    {
         "title": "Masih Trauma, Keluarga Brigadir J Tak Ikut ke Bareskrim",
         "link": "https://www.cnnindonesia.com/nasional/20220718122933-12-822844/masih-trauma-keluarga-brigadir-j-tak-ikut-ke-bareskrim",
         "image": "static/images/cnn_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODExNTYzOS0yMC04MjI4MTgvZHVhLWthc3VzLW9taWNyb24tYmEyNzUtZGl0ZW11a2FuLWRpLWpha2FydGEtc2F0dS1kaS1iYWxp",
         "description": " Kemenkes menyebut\u00c2\u00a0ketiga omicron dengan subvarian baru ini merupakan kasus imported case dan lokal."
-    },
-    {
-        "title": "Pj Gubernur Sulbar soal Guru Jarang ke Sekolah: Hanya Ada 11 Siswa",
-        "link": "https://www.cnnindonesia.com/nasional/20220718101933-20-822765/pj-gubernur-sulbar-soal-guru-jarang-ke-sekolah-hanya-ada-11-siswa",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODEwMTkzMy0yMC04MjI3NjUvcGotZ3ViZXJudXItc3VsYmFyLXNvYWwtZ3VydS1qYXJhbmcta2Utc2Vrb2xhaC1oYW55YS1hZGEtMTEtc2lzd2E=",
-        "description": " Penjabat (Pj) Gubernur Sulawesi Barat, Akmal Malik menyebutkan bahwa di SDN 010 Saluang, Mamasa, hanya memiliki 11 orang siswa aktif."
-    },
-    {
-        "title": "Ibu-Anak Pasien Subvarian Baru BA.2.75 Sakit Tenggorokan dan Demam",
-        "link": "https://www.cnnindonesia.com/nasional/20220718113232-20-822809/ibu-anak-pasien-subvarian-baru-ba275-sakit-tenggorokan-dan-demam",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODExMzIzMi0yMC04MjI4MDkvaWJ1LWFuYWstcGFzaWVuLXN1YnZhcmlhbi1iYXJ1LWJhMjc1LXNha2l0LXRlbmdnb3Jva2FuLWRhbi1kZW1hbQ==",
-        "description": " Seorang ibu dan anaknya terpapar virus Covid-19 varian BA 2.75. Menurut Kemenkes dua pasien itu mengalami gejala demam dan sakit tenggorokan."
-    },
-    {
-        "title": "LPSK Terima Permohonan Perlindungan Istri Kadiv Propam dan Bharada E",
-        "link": "https://www.cnnindonesia.com/nasional/20220718112557-12-822804/lpsk-terima-permohonan-perlindungan-istri-kadiv-propam-dan-bharada-e",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODExMjU1Ny0xMi04MjI4MDQvbHBzay10ZXJpbWEtcGVybW9ob25hbi1wZXJsaW5kdW5nYW4taXN0cmkta2FkaXYtcHJvcGFtLWRhbi1iaGFyYWRhLWU=",
-        "description": " LPSK telah menerima permohonan perlindungan dari istri Irjen Ferdy Sambo dan Bharada E terkait kasus penembakan Brigadir J."
-    },
-    {
-        "title": "Komnas HAM Akan Periksa Irjen Ferdy Sambo dan Istri",
-        "link": "https://www.cnnindonesia.com/nasional/20220718094410-12-822747/komnas-ham-akan-periksa-irjen-ferdy-sambo-dan-istri",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODA5NDQxMC0xMi04MjI3NDcva29tbmFzLWhhbS1ha2FuLXBlcmlrc2EtaXJqZW4tZmVyZHktc2FtYm8tZGFuLWlzdHJp",
-        "description": " Komnas HAM\u00c2\u00a0akan memeriksa Irjen Sambo dan istri terkait kasus kematian Brigadir J."
     }
 ]
