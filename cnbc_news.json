@@ -1,5 +1,33 @@
 [
     {
+        "title": "Ini 3 Jawaban Pangeran MBS yang Buat Biden Bungkam",
+        "link": "https://www.cnbcindonesia.com/news/20220719103828-4-356653/ini-3-jawaban-pangeran-mbs-yang-buat-biden-bungkam",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTEwMzgyOC00LTM1NjY1My9pbmktMy1qYXdhYmFuLXBhbmdlcmFuLW1icy15YW5nLWJ1YXQtYmlkZW4tYnVuZ2thbQ==",
+        "description": " Jawaban Pura Mahkota Arab Saudi atas pertanyaan Biden."
+    },
+    {
+        "title": "WHO Konfirmasi Wabah Virus Baru Marburg, 2 Orang Meninggal",
+        "link": "https://www.cnbcindonesia.com/news/20220719104507-4-356669/who-konfirmasi-wabah-virus-baru-marburg-2-orang-meninggal",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTEwNDUwNy00LTM1NjY2OS93aG8ta29uZmlybWFzaS13YWJhaC12aXJ1cy1iYXJ1LW1hcmJ1cmctMi1vcmFuZy1tZW5pbmdnYWw=",
+        "description": " Badan Kesehatan Dunia (WHO) mengonfirmasi kemunculan kembali penyakit virus Marburg"
+    },
+    {
+        "title": "Kepala BKF Ungkap Hasil Konkret Forum Menkeu G20, Apa Saja?",
+        "link": "https://www.cnbcindonesia.com/news/20220719100324-8-356638/kepala-bkf-ungkap-hasil-konkret-forum-menkeu-g20-apa-saja",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTEwMDMyNC04LTM1NjYzOC9rZXBhbGEtYmtmLXVuZ2thcC1oYXNpbC1rb25rcmV0LWZvcnVtLW1lbmtldS1nMjAtYXBhLXNhamE=",
+        "description": " Kepala BKF Ungkap Hasil Konkret Forum Menteri Keuangan G20, Apa Saja?"
+    },
+    {
+        "title": "Simak, Begini Jurus PHE Menggenjot Kualitas HSSE",
+        "link": "https://www.cnbcindonesia.com/news/20220719102222-4-356647/simak-begini-jurus-phe-menggenjot-kualitas-hsse",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTEwMjIyMi00LTM1NjY0Ny9zaW1hay1iZWdpbmktanVydXMtcGhlLW1lbmdnZW5qb3Qta3VhbGl0YXMtaHNzZQ==",
+        "description": " Pertamina Hulu Energi meningkatkan kualitas sumber daya manusia (SDM) di bidang Health Safety Security Environmental (HSSE)"
+    },
+    {
         "title": "Isu Kesehatan Hingga Perempuan Dibahas dalam IAC B20",
         "link": "https://www.cnbcindonesia.com/news/20220719104328-4-356659/isu-kesehatan-hingga-perempuan-dibahas-dalam-iac-b20",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTA3MjkyNS04LTM1NjU5My9pbWYtcGFzdGlrYW4tcmktYW1hbi1kYXJpLXJlc2VzaQ==",
         "description": " IMF ungkapkan Indonesia aman dari resesi."
-    },
-    {
-        "title": "B20-G20 Sepakati Pembiayaan Infrastruktur Berkelanjutan",
-        "link": "https://www.cnbcindonesia.com/news/20220719101201-4-356641/b20-g20-sepakati-pembiayaan-infrastruktur-berkelanjutan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTEwMTIwMS00LTM1NjY0MS9iMjAtZzIwLXNlcGFrYXRpLXBlbWJpYXlhYW4taW5mcmFzdHJ1a3R1ci1iZXJrZWxhbmp1dGFu",
-        "description": " Empat rekomendasi yang diajukan Task Force FdanI untuk mewujudkan masa depan yang hijau dan berkelanjutan harus didukung dan diperjuangkan."
-    },
-    {
-        "title": "Terbaru! Daftar 50 Kota yang Wajib Daftar Beli Pertalite",
-        "link": "https://www.cnbcindonesia.com/news/20220719095938-4-356637/terbaru-daftar-50-kota-yang-wajib-daftar-beli-pertalite",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTA5NTkzOC00LTM1NjYzNy90ZXJiYXJ1LWRhZnRhci01MC1rb3RhLXlhbmctd2FqaWItZGFmdGFyLWJlbGktcGVydGFsaXRl",
-        "description": " Pertamina memperluas kota/kabupaten yang wajib daftar MyPertamina untuk membeli Pertalite dan Solar Subsidi"
-    },
-    {
-        "title": "Bukan Tesla! Mobil Listrik China Incar RI, Mini 'Alphard'",
-        "link": "https://www.cnbcindonesia.com/news/20220719094425-4-356633/bukan-tesla-mobil-listrik-china-incar-ri-mini-alphard",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTA5NDQyNS00LTM1NjYzMy9idWthbi10ZXNsYS1tb2JpbC1saXN0cmlrLWNoaW5hLWluY2FyLXJpLW1pbmktYWxwaGFyZA==",
-        "description": " Mobil listrik 'Alphard' mini dikabarkan bakal masuk Indonesia."
-    },
-    {
-        "title": "Pungutan Ekspor CPO Disetop, Harga TBS Sawit Bisa Cepat Naik?",
-        "link": "https://www.cnbcindonesia.com/news/20220719094552-8-356631/pungutan-ekspor-cpo-disetop-harga-tbs-sawit-bisa-cepat-naik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTA5NDU1Mi04LTM1NjYzMS9wdW5ndXRhbi1la3Nwb3ItY3BvLWRpc2V0b3AtaGFyZ2EtdGJzLXNhd2l0LWJpc2EtY2VwYXQtbmFpaw==",
-        "description": " Pungutan Ekspor CPO Disetop, Harga TBS Sawit Bisa Cepat Naik?"
     }
 ]

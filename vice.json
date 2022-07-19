@@ -1,5 +1,19 @@
 [
     {
+        "title": "Penjelajah Perseverance NASA Temukan Sampah dari Bumi di Permukaan Mars",
+        "link": "https://www.vice.com/id_id/article/93abw3/penjelajah-perseverance-nasa-temukan-sampah-rumput-kering-dari-bumi-di-permukaan-mars",
+        "image": "static/images/vice.png",
+        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS85M2FidzMvcGVuamVsYWphaC1wZXJzZXZlcmFuY2UtbmFzYS10ZW11a2FuLXNhbXBhaC1ydW1wdXQta2VyaW5nLWRhcmktYnVtaS1kaS1wZXJtdWthYW4tbWFycw==",
+        "description": "Benda berbentuk rumput kering atau mi itu ditemukan robot penjelajah Perseverance, dan terus diteliti NASA kenapa bisa ada di Mars."
+    },
+    {
+        "title": "Kami Bertanya ke Psikolog Kenapa Ada Orang Demen Menimbun Barang Gak Guna",
+        "link": "https://www.vice.com/id_id/article/m7vne4/alasan-pskologis-orang-suka-menimbun-barang-yang-tidak-berguna-di-rumah",
+        "image": "static/images/vice.png",
+        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9tN3ZuZTQvYWxhc2FuLXBza29sb2dpcy1vcmFuZy1zdWthLW1lbmltYnVuLWJhcmFuZy15YW5nLXRpZGFrLWJlcmd1bmEtZGktcnVtYWg=",
+        "description": "Ada yang suka menyimpan label harga karena gambarnya keren, ada juga yang menyimpan botol sampo karena takut lupa beli baru."
+    },
+    {
         "title": "Ancam Blokir Google hingga WA, Apakah Kominfo Sudah Pikirkan Dampak ke Pengguna?",
         "link": "https://www.vice.com/id_id/article/n7znwq/kominfo-wajibkan-google-whatsapp-hingga-facebook-daftar-pse-terancam-blokir-selepas-20-juli-2022",
         "image": "static/images/vice.png",
@@ -54,19 +68,5 @@
         "image": "static/images/vice.png",
         "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS93eG41dm4vc2VqYXJhaC1jaXRheWFtLWZhc2hpb24td2Vlay1kaS1kdWt1aC1hdGFzLWRhbi1wb3RlbnNpbnlhLWphZGktc3Via3VsdHVyLWFuYWstbXVkYS1tZW51cnV0LXBlbmVsaXRpLWJyaW4=",
         "description": "Penelilti menilai kemudahan akses transportasi dari wilayah sekitar Jakarta seperti Depok dan Bogor jadi pemicu utama. Langgam fashion Citayam berpotensi jadi subkultur unik di negara ini."
-    },
-    {
-        "title": "Di Korea Selatan Mantan Gamer Profesional Tak Kalah Beken dari Idola K-Pop",
-        "link": "https://www.vice.com/id_id/article/k7b83w/di-korea-selatan-mantan-gamer-profesional-tak-kalah-beken-dari-idola-k-pop",
-        "image": "static/images/vice.png",
-        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9rN2I4M3cvZGkta29yZWEtc2VsYXRhbi1tYW50YW4tZ2FtZXItcHJvZmVzaW9uYWwtdGFrLWthbGFoLWJla2VuLWRhcmktaWRvbGEtay1wb3A=",
-        "description": "Mari mengenal Lee Yun-Yeol, gamer terkaya di Korea Selatan belasan tahun lalu sekaligus legenda 'StarCraft', jauh sebelum esport populer seperti sekarang."
-    },
-    {
-        "title": "Hacker Dipenjara 80 Tahun, Terlibat Spionase Nekat Bocorkan Alat Peretas CIA",
-        "link": "https://www.vice.com/id_id/article/m7geyn/joshua-schulte-pembocor-alat-peretas-cia-divonis-penjara-80-tahun-di-amerika-serikat",
-        "image": "static/images/vice.png",
-        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9tN2dleW4vam9zaHVhLXNjaHVsdGUtcGVtYm9jb3ItYWxhdC1wZXJldGFzLWNpYS1kaXZvbmlzLXBlbmphcmEtODAtdGFodW4tZGktYW1lcmlrYS1zZXJpa2F0",
-        "description": "Salah satu materi yang dibocorkan Joshua Schulte, mantan software engineer yang mengembangkan alat peretasan untuk CIA, mengungkap cara badan intelijen AS menyadap gawai penduduk."
     }
 ]
