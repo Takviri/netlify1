@@ -1,5 +1,40 @@
 [
     {
+        "title": "KNKT Bakal Evaluasi Traffic Light di Lokasi Tabrakan Maut Cibubur",
+        "link": "https://www.cnnindonesia.com/nasional/20220719131709-20-823318/knkt-bakal-evaluasi-traffic-light-di-lokasi-tabrakan-maut-cibubur",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTEzMTcwOS0yMC04MjMzMTgva25rdC1iYWthbC1ldmFsdWFzaS10cmFmZmljLWxpZ2h0LWRpLWxva2FzaS10YWJyYWthbi1tYXV0LWNpYnVidXI=",
+        "description": " KNKT bakal mengevaluasi keberadaan lampu lalu lintas atau traffic light di turunan Jalan Transyogi, Jalan Alternatif Cibubur, Kota Bekasi, Jawa Barat."
+    },
+    {
+        "title": "Jakarta dan Jabar Sumbang Kasus Harian Covid Terbanyak di RI",
+        "link": "https://www.cnnindonesia.com/nasional/20220719192618-20-823535/jakarta-dan-jabar-sumbang-kasus-harian-covid-terbanyak-di-ri",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTE5MjYxOC0yMC04MjM1MzUvamFrYXJ0YS1kYW4tamFiYXItc3VtYmFuZy1rYXN1cy1oYXJpYW4tY292aWQtdGVyYmFueWFrLWRpLXJp",
+        "description": " DKI Jakarta menyumbang 48,86 persen kasus dari total penambahan kasus Covid-19 nasional pada Selasa (19/7)."
+    },
+    {
+        "title": "Komplotan Eksekutor Penembak Istri TNI di Semarang Diduga Empat Orang",
+        "link": "https://www.cnnindonesia.com/nasional/20220719192345-20-823536/komplotan-eksekutor-penembak-istri-tni-di-semarang-diduga-empat-orang",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTE5MjM0NS0yMC04MjM1MzYva29tcGxvdGFuLWVrc2VrdXRvci1wZW5lbWJhay1pc3RyaS10bmktZGktc2VtYXJhbmctZGlkdWdhLWVtcGF0LW9yYW5n",
+        "description": " Kapolrestabes Semarang mengatakan berdasarkan pemeriksaan diduga komplotan eksekutor penembak istri TNI ada empat orang."
+    },
+    {
+        "title": "Polisi Bakal Panggil Pengelola CBD Buntut Kecelakaan Maut Cibubur",
+        "link": "https://www.cnnindonesia.com/nasional/20220719193128-12-823543/polisi-bakal-panggil-pengelola-cbd-buntut-kecelakaan-maut-cibubur",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTE5MzEyOC0xMi04MjM1NDMvcG9saXNpLWJha2FsLXBhbmdnaWwtcGVuZ2Vsb2xhLWNiZC1idW50dXQta2VjZWxha2Fhbi1tYXV0LWNpYnVidXI=",
+        "description": " Ditlantas Polda Metro Jaya Kombes juga akan memanggil dinas perhubungan (Dishub) setempat untuk membahas\u00c2\u00a0lampu merah di lokasi kecelakaan."
+    },
+    {
+        "title": "BEM KM IPB Pecat Pengurus Pakai Foto Pelangi, Dituduh Dukung LGBT",
+        "link": "https://www.cnnindonesia.com/nasional/20220719185354-20-823523/bem-km-ipb-pecat-pengurus-pakai-foto-pelangi-dituduh-dukung-lgbt",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTE4NTM1NC0yMC04MjM1MjMvYmVtLWttLWlwYi1wZWNhdC1wZW5ndXJ1cy1wYWthaS1mb3RvLXBlbGFuZ2ktZGl0dWR1aC1kdWt1bmctbGdidA==",
+        "description": " BEM KM IPB memberhentikan salah satu pengurusnya terkait unggahan bermotif pelangi yang dinilai sebagai dukungan pada LGBTQIA."
+    },
+    {
         "title": "Polisi: Lampu Merah Lokasi Kecelakaan Maut Cibubur Dipasang Dishub",
         "link": "https://www.cnnindonesia.com/nasional/20220719190827-12-823527/polisi-lampu-merah-lokasi-kecelakaan-maut-cibubur-dipasang-dishub",
         "image": "static/images/cnn_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTE4NTEzNC0yMC04MjM1MTcvdGltLXNhci1jYXJpLTEzLXBlbnVtcGFuZy1oaWxhbmctZGFyaS1rYXBhbC10ZW5nZ2VsYW0tZGktbWFsdWt1LXV0YXJh",
         "description": " Menurut data,\u00c2\u00a0ada 77 orang yang berada di kapal saat kejadian. Sebanyak 64 sudah ditemukan dalam keadaan selamat, 13 masih hilang."
-    },
-    {
-        "title": "Bus Transjakarta Tabrak Separator di Jakut, Diduga Kurang Konsentrasi",
-        "link": "https://www.cnnindonesia.com/nasional/20220719185442-20-823519/bus-transjakarta-tabrak-separator-di-jakut-diduga-kurang-konsentrasi",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTE4NTQ0Mi0yMC04MjM1MTkvYnVzLXRyYW5zamFrYXJ0YS10YWJyYWstc2VwYXJhdG9yLWRpLWpha3V0LWRpZHVnYS1rdXJhbmcta29uc2VudHJhc2k=",
-        "description": " Bus Transjakarta mengalami kecelakaan tunggal di Jalan Jembatan Tiga Raya arah Pluit, Jakarta Utara, Selasa (19/7) sekitar pukul 12.05 WIB."
-    },
-    {
-        "title": "TNI AL Janji Pecat dan Pidanakan Prajurit Aniaya Junior hingga Tewas",
-        "link": "https://www.cnnindonesia.com/nasional/20220719184913-12-823515/tni-al-janji-pecat-dan-pidanakan-prajurit-aniaya-junior-hingga-tewas",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTE4NDkxMy0xMi04MjM1MTUvdG5pLWFsLWphbmppLXBlY2F0LWRhbi1waWRhbmFrYW4tcHJhanVyaXQtYW5pYXlhLWp1bmlvci1oaW5nZ2EtdGV3YXM=",
-        "description": " Kadispenal Laksma TNI Julius Widjojono\u00c2\u00a0memastikan bakal memecat prajurit senior TNI AL yang menganiaya juniornya hingga tewas di Sorong, Papua."
-    },
-    {
-        "title": "Kronologi Anggota TNI AL Tewas Diduga Dianiaya Senior di Sorong",
-        "link": "https://www.cnnindonesia.com/nasional/20220719182706-12-823509/kronologi-anggota-tni-al-tewas-diduga-dianiaya-senior-di-sorong",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTE4MjcwNi0xMi04MjM1MDkva3Jvbm9sb2dpLWFuZ2dvdGEtdG5pLWFsLXRld2FzLWRpZHVnYS1kaWFuaWF5YS1zZW5pb3ItZGktc29yb25n",
-        "description": " Anggota Marinir yang bertugas di\u00c2\u00a0Yonif 11 Brigif 3 Pasmar 3 Sorong, Prada Mar Sandi Darmawan diduga tewas dianiaya oleh seniornya di Sorong, Papua Barat."
-    },
-    {
-        "title": "Keluarga Sebut Karo Paminal Propam Larang Buka Peti Brigadir J",
-        "link": "https://www.cnnindonesia.com/nasional/20220719150652-12-823399/keluarga-sebut-karo-paminal-propam-larang-buka-peti-brigadir-j",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTE1MDY1Mi0xMi04MjMzOTkva2VsdWFyZ2Etc2VidXQta2Fyby1wYW1pbmFsLXByb3BhbS1sYXJhbmctYnVrYS1wZXRpLWJyaWdhZGlyLWo=",
-        "description": " Keluarga ungkap\u00c2\u00a0Kepala Biro Pengamanan Internal (Karo Paminal) Propam Polri Brigjen Hendra Kurniawan melarang peti jenazah Brigadir dibuka."
-    },
-    {
-        "title": "Anggota TNI AL Tewas di Sorong, Keluarga Duga Dianiaya Senior",
-        "link": "https://www.cnnindonesia.com/nasional/20220719175025-12-823502/anggota-tni-al-tewas-di-sorong-keluarga-duga-dianiaya-senior",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTE3NTAyNS0xMi04MjM1MDIvYW5nZ290YS10bmktYWwtdGV3YXMtZGktc29yb25nLWtlbHVhcmdhLWR1Z2EtZGlhbmlheWEtc2VuaW9y",
-        "description": " Anggota TNI AL berpangkat Prajurit Dua (Prada) Sandi Darmawan (21) asal Pamekasan tewas diduga\u00c2\u00a0dianiaya enam seniornya di Sorong Papua."
     }
 ]
