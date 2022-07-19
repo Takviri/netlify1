@@ -1,5 +1,40 @@
 [
     {
+        "title": "Kemenkes: 58 Jemaah Haji Meninggal, Mayoritas Miliki Penyakit Jantung",
+        "link": "https://www.cnnindonesia.com/nasional/20220719081835-20-823179/kemenkes-58-jemaah-haji-meninggal-mayoritas-miliki-penyakit-jantung",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA4MTgzNS0yMC04MjMxNzkva2VtZW5rZXMtNTgtamVtYWFoLWhhamktbWVuaW5nZ2FsLW1heW9yaXRhcy1taWxpa2ktcGVueWFraXQtamFudHVuZw==",
+        "description": " Sebanyak 58 jemaah haji Indonesia meninggal dunia di Arab Saudi, mayoritas memiliki riwayat penyakit jantung."
+    },
+    {
+        "title": "Jubir: Kader Nasdem Zulfan Lindan Rusak Hubungan Prabowo dan Surya Paloh",
+        "link": "https://www.cnnindonesia.com/nasional/20220719093129-32-823204/jubir-kader-nasdem-zulfan-lindan-rusak-hubungan-prabowo-surya-paloh",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA5MzEyOS0zMi04MjMyMDQvanViaXIta2FkZXItbmFzZGVtLXp1bGZhbi1saW5kYW4tcnVzYWstaHVidW5nYW4tcHJhYm93by1zdXJ5YS1wYWxvaA==",
+        "description": " Dahnil Anzar Simanjuntak mengatakan politikus NasDem Zulfan Lindan telah mengarang omong kosong yang merusak hubungan Prabowo Subianto dan Surya Paloh."
+    },
+    {
+        "title": "28 Ribu Orang Teken Petisi Cabut Lampu Merah di Transyogi Cibubur",
+        "link": "https://www.cnnindonesia.com/nasional/20220719093217-20-823202/28-ribu-orang-teken-petisi-cabut-lampu-merah-di-transyogi-cibubur",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA5MzIxNy0yMC04MjMyMDIvMjgtcmlidS1vcmFuZy10ZWtlbi1wZXRpc2ktY2FidXQtbGFtcHUtbWVyYWgtZGktdHJhbnN5b2dpLWNpYnVidXI=",
+        "description": " Petisi untuk mencabut lampu merah lalu lintas di turunan Jalan Transyogi, Jalan Alternatif Cibubur, Kota Bekasi\u00c2\u00a0sudah ditandatangani 28.568 orang."
+    },
+    {
+        "title": "Polisi Identifikasi 3 dari 10 Jenazah Korban Kecelakaan Maut Cibubur",
+        "link": "https://www.cnnindonesia.com/nasional/20220719090009-20-823190/polisi-identifikasi-3-dari-10-jenazah-korban-kecelakaan-maut-cibubur",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA5MDAwOS0yMC04MjMxOTAvcG9saXNpLWlkZW50aWZpa2FzaS0zLWRhcmktMTAtamVuYXphaC1rb3JiYW4ta2VjZWxha2Fhbi1tYXV0LWNpYnVidXI=",
+        "description": " Kepolisian mengidentifikasi tiga dari 10 korban tewas dalam kecelakaan maut truk tangki Pertamina di Jalan Alternatif Cibubur."
+    },
+    {
+        "title": "Anggota TNI Korban Kecelakaan Maut Cibubur Dimakamkan Secara Militer",
+        "link": "https://www.cnnindonesia.com/nasional/20220719091936-20-823196/anggota-tni-korban-kecelakaan-maut-cibubur-dimakamkan-secara-militer",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA5MTkzNi0yMC04MjMxOTYvYW5nZ290YS10bmkta29yYmFuLWtlY2VsYWthYW4tbWF1dC1jaWJ1YnVyLWRpbWFrYW1rYW4tc2VjYXJhLW1pbGl0ZXI=",
+        "description": " Anggota TNI Peltu Mar Suparno yang tewas dalam kecelakaan maut truk tangki Pertamina di Cibubur, akan dimakamkan secara militer pada hari ini, Selasa (19/7)."
+    },
+    {
         "title": "Jusuf Hamka: Julianto Eka Putra Catut Nama Pengusaha Buat Ancam Korban",
         "link": "https://www.cnnindonesia.com/nasional/20220719083330-20-823184/jusuf-hamka-julianto-eka-putra-catut-nama-pengusaha-buat-ancam-korban",
         "image": "static/images/cnn_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA3NTQwNi0xMi04MjMxNzIvbmFpay1wZW55aWRpa2FuLWthc3VzLXBlbmVtYmFrYW4tYnJpZ2FkaXItai1kaXRhbmdhbmktcG9sZGEtbWV0cm8=",
         "description": " Kasus tewasnya Brigadir J dalam insiden penembakan oleh Bharada E di kediaman Irjen Ferdy Sambo telah dinaikkan dari penyelidikan menjadi penyidikan."
-    },
-    {
-        "title": "PN Jaksel Kembali Gelar Sidang Praperadilan Mardani Maming",
-        "link": "https://www.cnnindonesia.com/nasional/20220719073128-12-823166/pn-jaksel-kembali-gelar-sidang-praperadilan-mardani-maming",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA3MzEyOC0xMi04MjMxNjYvcG4tamFrc2VsLWtlbWJhbGktZ2VsYXItc2lkYW5nLXByYXBlcmFkaWxhbi1tYXJkYW5pLW1hbWluZw==",
-        "description": " Pengadilan Negeri Jakarta Selatan kembali menggelar sidang praperadilan tersangka korupsi pemberian izin usaha pertambangan, Mardani Maming."
-    },
-    {
-        "title": "TNI AL Berduka Prajurit dan Istri Meninggal saat Kecelakaan Maut Cibubur",
-        "link": "https://www.cnnindonesia.com/nasional/20220719081044-20-823175/tni-al-berduka-prajurit-istri-meninggal-saat-kecelakaan-maut-cibubur",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA4MTA0NC0yMC04MjMxNzUvdG5pLWFsLWJlcmR1a2EtcHJhanVyaXQtaXN0cmktbWVuaW5nZ2FsLXNhYXQta2VjZWxha2Fhbi1tYXV0LWNpYnVidXI=",
-        "description": " TNI AL\u00c2\u00a0berduka atas meninggalnya anggota Spersal Mabesal, Peltu Mar Suparno (51) dan istrinya dalam kecelakaan maut truk tangki Pertamina di Cibubur."
-    },
-    {
-        "title": "Dugaan Magelang dan Jakarta Lokasi Penembakan Brigadir J Versi Keluarga",
-        "link": "https://www.cnnindonesia.com/nasional/20220719080418-12-823174/dugaan-magelang-jakarta-lokasi-penembakan-brigadir-j-versi-keluarga",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA4MDQxOC0xMi04MjMxNzQvZHVnYWFuLW1hZ2VsYW5nLWpha2FydGEtbG9rYXNpLXBlbmVtYmFrYW4tYnJpZ2FkaXItai12ZXJzaS1rZWx1YXJnYQ==",
-        "description": " Pengacara keluarga Brigadir J, Kamaruddin Simanjuntak, mengungkap adanya kemungkinan dua tempat kejadian perkara (TKP) dugaan penembakan."
-    },
-    {
-        "title": "Kapal Berpenumpang 66 Orang Tenggelam di Maluku Utara",
-        "link": "https://www.cnnindonesia.com/nasional/20220719064141-20-823156/kapal-berpenumpang-66-orang-tenggelam-di-maluku-utara",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA2NDE0MS0yMC04MjMxNTYva2FwYWwtYmVycGVudW1wYW5nLTY2LW9yYW5nLXRlbmdnZWxhbS1kaS1tYWx1a3UtdXRhcmE=",
-        "description": " Kapal KM Cahaya Arafah rute Ternate-Halmahera Selatan dengan membawa 66 orang penumpang tenggelam di perairan Tokaka, Gane Barat."
-    },
-    {
-        "title": "Eks Dirut Krakatau Steel Jadi Tersangka Korupsi Pembangunan Pabrik BFC",
-        "link": "https://www.cnnindonesia.com/nasional/20220719074803-12-823171/eks-dirut-krakatau-steel-jadi-tersangka-korupsi-pembangunan-pabrik-bfc",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA3NDgwMy0xMi04MjMxNzEvZWtzLWRpcnV0LWtyYWthdGF1LXN0ZWVsLWphZGktdGVyc2FuZ2thLWtvcnVwc2ktcGVtYmFuZ3VuYW4tcGFicmlrLWJmYw==",
-        "description": " Kejagung menetapkan mantan Direktur Utama PT Krakatau Steel (Persero) periode 2007-2012 berinisial FB sebagai tersangka kasus korupsi."
     }
 ]
