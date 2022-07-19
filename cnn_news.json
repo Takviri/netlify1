@@ -1,5 +1,33 @@
 [
     {
+        "title": "Naik Penyidikan, Kasus Penembakan Brigadir J Ditangani Polda Metro",
+        "link": "https://www.cnnindonesia.com/nasional/20220719075406-12-823172/naik-penyidikan-kasus-penembakan-brigadir-j-ditangani-polda-metro",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA3NTQwNi0xMi04MjMxNzIvbmFpay1wZW55aWRpa2FuLWthc3VzLXBlbmVtYmFrYW4tYnJpZ2FkaXItai1kaXRhbmdhbmktcG9sZGEtbWV0cm8=",
+        "description": " Kasus tewasnya Brigadir J dalam insiden penembakan oleh Bharada E di kediaman Irjen Ferdy Sambo telah dinaikkan dari penyelidikan menjadi penyidikan."
+    },
+    {
+        "title": "PN Jaksel Kembali Gelar Sidang Praperadilan Mardani Maming",
+        "link": "https://www.cnnindonesia.com/nasional/20220719073128-12-823166/pn-jaksel-kembali-gelar-sidang-praperadilan-mardani-maming",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA3MzEyOC0xMi04MjMxNjYvcG4tamFrc2VsLWtlbWJhbGktZ2VsYXItc2lkYW5nLXByYXBlcmFkaWxhbi1tYXJkYW5pLW1hbWluZw==",
+        "description": " Pengadilan Negeri Jakarta Selatan kembali menggelar sidang praperadilan tersangka korupsi pemberian izin usaha pertambangan, Mardani Maming."
+    },
+    {
+        "title": "TNI AL Berduka Prajurit dan Istri Meninggal saat Kecelakaan Maut Cibubur",
+        "link": "https://www.cnnindonesia.com/nasional/20220719081044-20-823175/tni-al-berduka-prajurit-istri-meninggal-saat-kecelakaan-maut-cibubur",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA4MTA0NC0yMC04MjMxNzUvdG5pLWFsLWJlcmR1a2EtcHJhanVyaXQtaXN0cmktbWVuaW5nZ2FsLXNhYXQta2VjZWxha2Fhbi1tYXV0LWNpYnVidXI=",
+        "description": " TNI AL\u00c2\u00a0berduka atas meninggalnya anggota Spersal Mabesal, Peltu Mar Suparno (51) dan istrinya dalam kecelakaan maut truk tangki Pertamina di Cibubur."
+    },
+    {
+        "title": "Dugaan Magelang dan Jakarta Lokasi Penembakan Brigadir J Versi Keluarga",
+        "link": "https://www.cnnindonesia.com/nasional/20220719080418-12-823174/dugaan-magelang-jakarta-lokasi-penembakan-brigadir-j-versi-keluarga",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA4MDQxOC0xMi04MjMxNzQvZHVnYWFuLW1hZ2VsYW5nLWpha2FydGEtbG9rYXNpLXBlbmVtYmFrYW4tYnJpZ2FkaXItai12ZXJzaS1rZWx1YXJnYQ==",
+        "description": " Pengacara keluarga Brigadir J, Kamaruddin Simanjuntak, mengungkap adanya kemungkinan dua tempat kejadian perkara (TKP) dugaan penembakan."
+    },
+    {
         "title": "Kapal Berpenumpang 66 Orang Tenggelam di Maluku Utara",
         "link": "https://www.cnnindonesia.com/nasional/20220719064141-20-823156/kapal-berpenumpang-66-orang-tenggelam-di-maluku-utara",
         "image": "static/images/cnn_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA3MTA0OS0xMi04MjMxNjAvaXJqZW4tZmVyZHktc2FtYm8tdGVyaW1hLWRpbm9uYWt0aWZrYW4tZGFyaS1rYWRpdi1wcm9wYW0tcG9scmk=",
         "description": " Irjen Ferdy Sambo menghormati keputusan Kapolri Jenderal Listyo Sigit Prabowo yang telah menonaktifkan dirinya dari jabatan Kadiv Propam Polri."
-    },
-    {
-        "title": "Fakta-Fakta Kecelakaan Maut Truk Pertamina di Cibubur",
-        "link": "https://www.cnnindonesia.com/nasional/20220719071411-20-823164/fakta-fakta-kecelakaan-maut-truk-pertamina-di-cibubur",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA3MTQxMS0yMC04MjMxNjQvZmFrdGEtZmFrdGEta2VjZWxha2Fhbi1tYXV0LXRydWstcGVydGFtaW5hLWRpLWNpYnVidXI=",
-        "description": " Berikut ini fakta-fakta mengenai kecelakaan maut truk Pertamina yang menabrak sejumlah kendaraan di Jalan Alternatif Cibubur Bekasi, pada Senin (18/7)."
-    },
-    {
-        "title": "Daftar Kasus Pelecehan di KRL: Aksi Masturbasi hingga Korban Teriak",
-        "link": "https://www.cnnindonesia.com/nasional/20220718161157-12-822976/daftar-kasus-pelecehan-di-krl-aksi-masturbasi-hingga-korban-teriak",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODE2MTE1Ny0xMi04MjI5NzYvZGFmdGFyLWthc3VzLXBlbGVjZWhhbi1kaS1rcmwtYWtzaS1tYXN0dXJiYXNpLWhpbmdnYS1rb3JiYW4tdGVyaWFr",
-        "description": " Kasus dugaan pelecehan seksual terus terjadi\u00c2\u00a0di transportasi publik, termasuk KRL. Penumpang diimbau tak takut melapor."
-    },
-    {
-        "title": "Fakta-fakta Pesawat Tempur T-50i Golden Eagle Jatuh di Blora",
-        "link": "https://www.cnnindonesia.com/nasional/20220719065149-20-823155/fakta-fakta-pesawat-tempur-t-50i-golden-eagle-jatuh-di-blora",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA2NTE0OS0yMC04MjMxNTUvZmFrdGEtZmFrdGEtcGVzYXdhdC10ZW1wdXItdC01MGktZ29sZGVuLWVhZ2xlLWphdHVoLWRpLWJsb3Jh",
-        "description": " Pesawat tempur T-50i Golden Eagle jatuh di Kecamatan Kradenan Blora pada Senin (18/7) malam. Berikut ini sejumlah fakta terkait kecelakaan tersebut."
-    },
-    {
-        "title": "Mahfud MD Positif Covid Usai Pulang Ibadah Haji",
-        "link": "https://www.cnnindonesia.com/nasional/20220719065538-20-823157/mahfud-md-positif-covid-usai-pulang-ibadah-haji",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTA2NTUzOC0yMC04MjMxNTcvbWFoZnVkLW1kLXBvc2l0aWYtY292aWQtdXNhaS1wdWxhbmctaWJhZGFoLWhhamk=",
-        "description": " Menko Polhukam Mahfud MD terinfeksi virus corona (Covid-19) usai pulang menunaikan ibadah haji di Arab Saudi."
     }
 ]
