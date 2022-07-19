@@ -1,5 +1,26 @@
 [
     {
+        "title": "Makin Murah! Harga Minyak Goreng Turun Lagi, Ini Buktinya",
+        "link": "https://www.cnbcindonesia.com/news/20220719071834-4-356589/makin-murah-harga-minyak-goreng-turun-lagi-ini-buktinya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTA3MTgzNC00LTM1NjU4OS9tYWtpbi1tdXJhaC1oYXJnYS1taW55YWstZ29yZW5nLXR1cnVuLWxhZ2ktaW5pLWJ1a3Rpbnlh",
+        "description": " Harga minyak goreng terpantau turun terus."
+    },
+    {
+        "title": "IMF Ramal RI Tak Kena Resesi, Beri Saran Ini ke Jokowi",
+        "link": "https://www.cnbcindonesia.com/news/20220719070739-4-356588/imf-ramal-ri-tak-kena-resesi-beri-saran-ini-ke-jokowi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTA3MDczOS00LTM1NjU4OC9pbWYtcmFtYWwtcmktdGFrLWtlbmEtcmVzZXNpLWJlcmktc2FyYW4taW5pLWtlLWpva293aQ==",
+        "description": " Indonesia diramal tidak akan jatuh ke jurang resesi, dengan proyeksi ekonomi di sekitar 5%."
+    },
+    {
+        "title": "6 Update Perang Rusia dan Ukraina, Ada Ancaman dari Erdogan",
+        "link": "https://www.cnbcindonesia.com/news/20220719072419-4-356590/6-update-perang-rusia-ukraina-ada-ancaman-dari-erdogan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTA3MjQxOS00LTM1NjU5MC82LXVwZGF0ZS1wZXJhbmctcnVzaWEtdWtyYWluYS1hZGEtYW5jYW1hbi1kYXJpLWVyZG9nYW4=",
+        "description": " Perkembangan terbaru perang Rusia-Ukraina."
+    },
+    {
         "title": "Negosiasi dengan IMF Segera Rampung, Sri Lanka Terselamatkan?",
         "link": "https://www.cnbcindonesia.com/news/20220719070014-4-356587/negosiasi-dengan-imf-segera-rampung-sri-lanka-terselamatkan",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODIwNDY1NC00LTM1NjU3MS9la3MtYm9zLWtyYWthdGF1LXN0ZWVsLXRlcnNhbmdrYS1rb3J1cHNpLWluaS1rYXRhLW1lbnRlcmk=",
         "description": " Menteri BUMN Erick Thohir mendukung penyelesaian proses hukum dalam dugaan kasus korupsi di PT Krakatau Steel (Persero) Tbk."
-    },
-    {
-        "title": "Ingin Jadi Surga Tambang Kripto, Paraguay Siapkan UU Khusus",
-        "link": "https://www.cnbcindonesia.com/news/20220718192420-8-356562/ingin-jadi-surga-tambang-kripto-paraguay-siapkan-uu-khusus",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE5MjQyMC04LTM1NjU2Mi9pbmdpbi1qYWRpLXN1cmdhLXRhbWJhbmcta3JpcHRvLXBhcmFndWF5LXNpYXBrYW4tdXUta2h1c3Vz",
-        "description": " beberapa pihak melarang aktivitas penambangan Bitcoin Paraguay justru menyiapkan supaya menjadi surga kripto"
-    },
-    {
-        "title": "Korsel Duduki Peringkat 1 Ketahanan Covid di Dunia, RI?",
-        "link": "https://www.cnbcindonesia.com/news/20220718193702-4-356563/korsel-duduki-peringkat-1-ketahanan-covid-di-dunia-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE5MzcwMi00LTM1NjU2My9rb3JzZWwtZHVkdWtpLXBlcmluZ2thdC0xLWtldGFoYW5hbi1jb3ZpZC1kaS1kdW5pYS1yaQ==",
-        "description": " Korea Selatan (Korsel) menempati peringkat pertama dalam Peringkat Ketahanan Covid-19 yang disurvei Bloomberg pada Juni 2022."
-    },
-    {
-        "title": "Titah Jokowi: Kebut Vaksinasi Booster Rakyat dan Jemaah Haji",
-        "link": "https://www.cnbcindonesia.com/news/20220718174354-4-356536/titah-jokowi-kebut-vaksinasi-booster-rakyat-jemaah-haji",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxODE3NDM1NC00LTM1NjUzNi90aXRhaC1qb2tvd2kta2VidXQtdmFrc2luYXNpLWJvb3N0ZXItcmFreWF0LWplbWFhaC1oYWpp",
-        "description": " Pesan itu disampaikan oleh Menteri Kesehatan Budi Gunadi Sadikin."
     }
 ]

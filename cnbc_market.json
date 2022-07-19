@@ -1,5 +1,33 @@
 [
     {
+        "title": "Sambil Ngopi, Pilih-pilih Saham Calon Cuan Ini Dulu Ya!",
+        "link": "https://www.cnbcindonesia.com/market/20220719075139-17-356601/sambil-ngopi-pilih-pilih-saham-calon-cuan-ini-dulu-ya",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MDc1MTM5LTE3LTM1NjYwMS9zYW1iaWwtbmdvcGktcGlsaWgtcGlsaWgtc2FoYW0tY2Fsb24tY3Vhbi1pbmktZHVsdS15YQ==",
+        "description": " Simak prediksi IHSG beserta rekomendasi saham pilihan dari sejumlah broker untuk perdagangan Selasa (19/7/2022)."
+    },
+    {
+        "title": "Resesi Mengancam, BI Bakal Mati-matian Lindungi Rupiah",
+        "link": "https://www.cnbcindonesia.com/market/20220719073211-17-356596/resesi-mengancam-bi-bakal-mati-matian-lindungi-rupiah",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MDczMjExLTE3LTM1NjU5Ni9yZXNlc2ktbWVuZ2FuY2FtLWJpLWJha2FsLW1hdGktbWF0aWFuLWxpbmR1bmdpLXJ1cGlhaA==",
+        "description": " Bank Indonesia (BI) siap menjaga stabilitas nilai tukar rupiah dari ancaman resesi global."
+    },
+    {
+        "title": "Kabar Pasar, Dari Buyback Adaro Hingga Cuan TP Rachmat",
+        "link": "https://www.cnbcindonesia.com/market/20220719071748-17-356597/kabar-pasar-dari-buyback-adaro-hingga-cuan-tp-rachmat",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MDcxNzQ4LTE3LTM1NjU5Ny9rYWJhci1wYXNhci1kYXJpLWJ1eWJhY2stYWRhcm8taGluZ2dhLWN1YW4tdHAtcmFjaG1hdA==",
+        "description": " Indeks bursa saham acuan Tanah Air tersebut ditutup naik 0,11% ke posisi 6.659,253."
+    },
+    {
+        "title": "MMLP-TRGU Tercuan, BYAN-GOTO Terboncos Kemarin",
+        "link": "https://www.cnbcindonesia.com/market/20220719055533-17-356579/mmlp-trgu-tercuan-byan-goto-terboncos-kemarin",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MDU1NTMzLTE3LTM1NjU3OS9tbWxwLXRyZ3UtdGVyY3Vhbi1ieWFuLWdvdG8tdGVyYm9uY29zLWtlbWFyaW4=",
+        "description": " Berikut sepuluh saham yang menjadi top gainers dan top losers pada perdagangan Senin kemarin."
+    },
+    {
         "title": "Baru Sehari Bikin Senang, Harga Emas Sudah Turun Lagi",
         "link": "https://www.cnbcindonesia.com/market/20220719065553-17-356585/baru-sehari-bikin-senang-harga-emas-sudah-turun-lagi",
         "image": "static/images/cnbc_market.png",
@@ -7,10 +35,10 @@
         "description": " Harga emas kembali melandai."
     },
     {
-        "title": "Panas! Harga Minyak Naik 5% Lebih",
-        "link": "https://www.cnbcindonesia.com/market/20220719065249-17-356584/panas-harga-minyak-naik-5-lebih",
+        "title": "Breaking News! Harga Minyak Dunia Memanas, Naik 5% Lebih",
+        "link": "https://www.cnbcindonesia.com/market/20220719065249-17-356584/breaking-news-harga-minyak-dunia-memanas-naik-5-lebih",
         "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MDY1MjQ5LTE3LTM1NjU4NC9wYW5hcy1oYXJnYS1taW55YWstbmFpay01LWxlYmlo",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MDY1MjQ5LTE3LTM1NjU4NC9icmVha2luZy1uZXdzLWhhcmdhLW1pbnlhay1kdW5pYS1tZW1hbmFzLW5haWstNS1sZWJpaA==",
         "description": " Harga minyak mentah dunia 'memanas'."
     },
     {
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MDYxODIwLTE3LTM1NjU4MS9yb250b2stOC1oYXJnYS1iYXR1LWJhcmEtZGktbGV2ZWwtdGVyZW5kYWgtZGFsYW0tc2VidWxhbg==",
         "description": " Harga batu bara sentuh rekor terendah sejak 16 Juni 2022 atau dalam sebulan terakhir."
-    },
-    {
-        "title": "IHSG Tertahan di Support Kuat, Peluang Rebound Terbuka",
-        "link": "https://www.cnbcindonesia.com/market/20220719054802-17-356578/ihsg-tertahan-di-support-kuat-peluang-rebound-terbuka",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MDU0ODAyLTE3LTM1NjU3OC9paHNnLXRlcnRhaGFuLWRpLXN1cHBvcnQta3VhdC1wZWx1YW5nLXJlYm91bmQtdGVyYnVrYQ==",
-        "description": " IHSG berpeluang rebound karena berada mampu bertahan di support-nya"
-    },
-    {
-        "title": "Kinerja Bank AS Masih Ampuh, Wall Street Dibuka di Zona Hijau",
-        "link": "https://www.cnbcindonesia.com/market/20220718205925-17-356572/kinerja-bank-as-masih-ampuh-wall-street-dibuka-di-zona-hijau",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE4MjA1OTI1LTE3LTM1NjU3Mi9raW5lcmphLWJhbmstYXMtbWFzaWgtYW1wdWgtd2FsbC1zdHJlZXQtZGlidWthLWRpLXpvbmEtaGlqYXU=",
-        "description": " Bursa saham Amerika Serikat (AS) melaju ke zona hijau pada pembukaan perdagangan Senin (18/7/2022)"
-    },
-    {
-        "title": "Investor Asing Ramai-Ramai Jual Saham Bank Besar RI, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/market/20220718195233-17-356565/investor-asing-ramai-ramai-jual-saham-bank-besar-ri-ada-apa",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE4MTk1MjMzLTE3LTM1NjU2NS9pbnZlc3Rvci1hc2luZy1yYW1haS1yYW1haS1qdWFsLXNhaGFtLWJhbmstYmVzYXItcmktYWRhLWFwYQ==",
-        "description": " Investor asing sempat melakukan aksi jual besar-besaran pada sesi pertama hari ini."
-    },
-    {
-        "title": "Suku Bunga Tinggi, Pengusaha Incar Dana Segar Pasar Modal?",
-        "link": "https://www.cnbcindonesia.com/market/20220718162110-19-356505/suku-bunga-tinggi-pengusaha-incar-dana-segar-pasar-modal",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE4MTYyMTEwLTE5LTM1NjUwNS9zdWt1LWJ1bmdhLXRpbmdnaS1wZW5ndXNhaGEtaW5jYXItZGFuYS1zZWdhci1wYXNhci1tb2RhbA==",
-        "description": " Era Suku Bunga Tinggi, Pengusaha Incar Dana Segar di Pasar Modal"
     }
 ]
