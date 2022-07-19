@@ -1,5 +1,12 @@
 [
     {
+        "title": "Rontok 8%, Harga Batu Bara di Level Terendah dalam Sebulan",
+        "link": "https://www.cnbcindonesia.com/market/20220719061820-17-356581/rontok-8-harga-batu-bara-di-level-terendah-dalam-sebulan",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MDYxODIwLTE3LTM1NjU4MS9yb250b2stOC1oYXJnYS1iYXR1LWJhcmEtZGktbGV2ZWwtdGVyZW5kYWgtZGFsYW0tc2VidWxhbg==",
+        "description": " Harga batu bara sentuh rekor terendah sejak 16 Juni 2022 atau dalam sebulan terakhir."
+    },
+    {
         "title": "IHSG Tertahan di Support Kuat, Peluang Rebound Terbuka",
         "link": "https://www.cnbcindonesia.com/market/20220719054802-17-356578/ihsg-tertahan-di-support-kuat-peluang-rebound-terbuka",
         "image": "static/images/cnbc_market.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE4MTc0NjQ1LTE3LTM1NjUzNy9kb3ctZnV0dXJlcy1sb21wYXQtMS1sZWJpaC1qZWxhbmctcmlsaXMtbGFwb3Jhbi1rZXVhbmdhbg==",
         "description": " Kontrak berjangka (futures) indeks bursa AS menguat pada perdagangan hari ini, di mana musim rilis kinerja keuangan akan kembali dimulai pekan ini."
-    },
-    {
-        "title": "Musim Rilis Laporan Keuangan Dimulai, Laba BVIC Loncat 120%",
-        "link": "https://www.cnbcindonesia.com/market/20220718163809-17-356510/musim-rilis-laporan-keuangan-dimulai-laba-bvic-loncat-120",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE4MTYzODA5LTE3LTM1NjUxMC9tdXNpbS1yaWxpcy1sYXBvcmFuLWtldWFuZ2FuLWRpbXVsYWktbGFiYS1idmljLWxvbmNhdC0xMjA=",
-        "description": " Laba Bersih Bank Victoria Naik 120% pada Semester I Tahun Ini"
     }
 ]
