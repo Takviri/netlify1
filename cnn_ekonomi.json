@@ -1,5 +1,12 @@
 [
     {
+        "title": "Airport Tax Lima Bandara AP II Naik Mulai 1 Agustus 2022",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220719123307-92-823288/airport-tax-lima-bandara-ap-ii-naik-mulai-1-agustus-2022",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE5MTIzMzA3LTkyLTgyMzI4OC9haXJwb3J0LXRheC1saW1hLWJhbmRhcmEtYXAtaWktbmFpay1tdWxhaS0xLWFndXN0dXMtMjAyMg==",
+        "description": " PT Angkasa Pura II (Persero) (AP II) menaikkan tarif Pelayanan Jasa Penumpang Pesawat Udara (PJP2U) atau airport tax di sejumlah bandara mulai 1 Agustus 2022."
+    },
+    {
         "title": "Pertamina Sebut Kondisi Sopir Fit Sebelum Kecelakaan Maut di Cibubur",
         "link": "https://www.cnnindonesia.com/ekonomi/20220719114648-85-823264/pertamina-sebut-kondisi-sopir-fit-sebelum-kecelakaan-maut-di-cibubur",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE5MDk0NTIxLTkyLTgyMzIwNi9rZW1lbnRlcmlhbi1idW1uLXR1bmdndS1wdXR1c2FuLXNvYWwtbmFzaWIta2FyeWF3YW4taXN0YWthLWthcnlh",
         "description": " Kementerian BUMN menunggu keputusan lebih lanjut dari pengadilan dan kurator terkait\u00c2\u00a0status karyawan hingga aset perusahaan PT Istaka Karya."
-    },
-    {
-        "title": "Harga Kripto Merah Pagi Ini, Solana Terparah",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220719093704-92-823215/harga-kripto-merah-pagi-ini-solana-terparah",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE5MDkzNzA0LTkyLTgyMzIxNS9oYXJnYS1rcmlwdG8tbWVyYWgtcGFnaS1pbmktc29sYW5hLXRlcnBhcmFo",
-        "description": " Mayoritas harga kripto merah pada Selasa (19/7) pagi. Solana mencatat penurunan terparah meski sudah menghijau sepekan terakhir."
     }
 ]

@@ -1,5 +1,40 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507755/gandeng-kpk-bpjs-ketenagakerjaan-kampanyekan-gerakan-anti-korupsi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzc1NS9nYW5kZW5nLWtway1icGpzLWtldGVuYWdha2VyamFhbi1rYW1wYW55ZWthbi1nZXJha2FuLWFudGkta29ydXBzaQ==",
+        "description": "BADAN&nbsp;Penyelenggara Jaminan Sosial (BPJS) Ketenagakerjaan Cabang Jakarta Sudirman (BPJAMSOSTEK)&nbsp;kembali mengkampanyekan gerakan antikorupsi. Kegiatan gerakan anti-korupsi ini dengan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/507739/juventus-nilai-harga-pau-torres-kemahalan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzczOS9qdXZlbnR1cy1uaWxhaS1oYXJnYS1wYXUtdG9ycmVzLWtlbWFoYWxhbg==",
+        "description": "KLUB Serie A Juventus dikabarkan tengah berharap klub La Liga Villarreal menurunkan harga bek Pau Torres pada bursa transfer pemain&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/507754/prabowo-berdukacita-atas-gugurnya-lettu-pnb-allan-safitra-di-blora",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NzU0L3ByYWJvd28tYmVyZHVrYWNpdGEtYXRhcy1ndWd1cm55YS1sZXR0dS1wbmItYWxsYW4tc2FmaXRyYS1kaS1ibG9yYQ==",
+        "description": "MENTERI&nbsp;Pertahanan (Menhan) Prabowo Subianto menyatakan berdukacita atas gugurnya Pilot Pesawat T50i Golden Eagle, Lettu Pnb Allan Safitra Indra Wahyudi yang jatuh, di Desa Nginggil, Kradenan,&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/507737/spotify-rilis-karya-terbaru-jay-chou",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNzczNy9zcG90aWZ5LXJpbGlzLWthcnlhLXRlcmJhcnUtamF5LWNob3U=",
+        "description": "SPOTIFY secara eksklusif merilis Greatest Works of Art the Enchanced Album, karya terbaru dari musisi asal Tiongkok Jay Chou setelah&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/507753/sekda-meninggal-saat-kampanyekan-germas-di-alun-alun-tegal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3NzUzL3Nla2RhLW1lbmluZ2dhbC1zYWF0LWthbXBhbnlla2FuLWdlcm1hcy1kaS1hbHVuLWFsdW4tdGVnYWw=",
+        "description": "SEKERTARIS Daerah (Sekda) Kota Tegal, Jawa Tengah Johardi, hari ini Selasa (19/07/2022) meninggal dunia sekitar pukul 09.05 di ruang IGD Rumah Sakit Umum Daerah (RSUD) Kardinah Kota Tegal. Sebelum&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/507734/gemar-berlari-ini-pentingnya-pilih-sepatu-yang-tepat",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzczMi9uYXBvbGktYmVyZW5jYW5hLXBpbmphbS1rZXBhLWFycml6YWJhbGFnYS1kYXJpLWNoZWxzZWE=",
         "description": "KLUB Serie A Italia Napoli dikabarkan tengah mempertimbangkan opsi meminjam kiper Kepa Arrizabalaga dari klub Liga Primer Inggris&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/507745/rayakan-hari-anak-nasional-bersama-hotel-salak-the-heritage-ada-banyak-aktivitas-seru",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NzQ1L3JheWFrYW4taGFyaS1hbmFrLW5hc2lvbmFsLWJlcnNhbWEtaG90ZWwtc2FsYWstdGhlLWhlcml0YWdlLWFkYS1iYW55YWstYWt0aXZpdGFzLXNlcnU=",
-        "description": "SEJUMLAH kegiatan bertema anak selalu memeriahkan perayaan Hari Anak Nasional yang jatuh setiap 23 Juli. Tidak terkecuali, Hotel Salak The Heritage Bogor juga memberikan perhatian khusus bagi orang&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/507736/nadiem-targetkan-1300-sekolah-jadi-smk-pusat-keunggulan-tahun-ini",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3NzM2L25hZGllbS10YXJnZXRrYW4tMTMwMC1zZWtvbGFoLWphZGktc21rLXB1c2F0LWtldW5nZ3VsYW4tdGFodW4taW5p",
-        "description": "Menteri Pendidikan Kebudayaan Riset dan Teknologi (Mendikbud-Ristek) Nadiem Makarim mengungkapkan bahwa pihaknya menargetkan lebih dari 1300 SMK akan menjadi SMK Pusat Keunggulan (PK). Hal itu merupakan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/507727/ten-hag-mengaku-belum-puas-dengan-penampilan-mu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzcyNy90ZW4taGFnLW1lbmdha3UtYmVsdW0tcHVhcy1kZW5nYW4tcGVuYW1waWxhbi1tdQ==",
-        "description": "PELATIH klub Liga Primer Inggris Manchester United Erik ten Hag mengatakan dirinya masih belum puas dengan penampilan anak&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/507709/pertamina-patra-niaga-berhasil-lakukan-pemindahan-mobil-tangki-dari-lokasi-kecelakaan-dengan-aman",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDc3MDkvcGVydGFtaW5hLXBhdHJhLW5pYWdhLWJlcmhhc2lsLWxha3VrYW4tcGVtaW5kYWhhbi1tb2JpbC10YW5na2ktZGFyaS1sb2thc2kta2VjZWxha2Fhbi1kZW5nYW4tYW1hbg==",
-        "description": "HEALTH, Safety, Security and Environment (HSSE) Pertamina bersama aparat kepolisian bergerak cepat melakukan rangkaian prosedur pengamanan dan pemindahan mobil tangki dari lokasi kejadian pada pukul&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/507744/kpk-panggil-ulang-presenter-tv-one-di-kasus-bupati-mamberamo-tengah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDc3NDQva3BrLXBhbmdnaWwtdWxhbmctcHJlc2VudGVyLXR2LW9uZS1kaS1rYXN1cy1idXBhdGktbWFtYmVyYW1vLXRlbmdhaA==",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) memanggil Presenter TV One Brigita Purnawati Manohara untuk mendalami kasus dugaan suap dan gratifikasi&#8230;"
     }
 ]
