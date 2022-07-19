@@ -1,5 +1,47 @@
 [
     {
+        "title": "CT Minta Pajak Main ke 'Hutan', Apa Jawaban Sri Mulyani?",
+        "link": "https://www.cnbcindonesia.com/news/20220719181440-4-356844/ct-minta-pajak-main-ke-hutan-apa-jawaban-sri-mulyani",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTE4MTQ0MC00LTM1Njg0NC9jdC1taW50YS1wYWphay1tYWluLWtlLWh1dGFuLWFwYS1qYXdhYmFuLXNyaS1tdWx5YW5p",
+        "description": " Menteri Keuangan Sri Mulyani Indrawati mengungkapkan masih banyak pekerjaan rumah (PR) yang harus terus diperbaiki di perpajakan."
+    },
+    {
+        "title": "Pasokan Gas di Jatim Mendadak Melejit, Siapa Bakal Serap?",
+        "link": "https://www.cnbcindonesia.com/news/20220719173011-4-356826/pasokan-gas-di-jatim-mendadak-melejit-siapa-bakal-serap",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTE3MzAxMS00LTM1NjgyNi9wYXNva2FuLWdhcy1kaS1qYXRpbS1tZW5kYWRhay1tZWxlaml0LXNpYXBhLWJha2FsLXNlcmFw",
+        "description": " Kementerian ESDM memperkirakan dalam waktu dekat akan ada tambahan pasokan gas untuk wilayah Jawa Timur"
+    },
+    {
+        "title": "Gegara Resesi Proyek Infrastruktur RI Bisa Tertunda?",
+        "link": "https://www.cnbcindonesia.com/news/20220719181329-8-356841/gegara-resesi-proyek-infrastruktur-ri-bisa-tertunda",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTE4MTMyOS04LTM1Njg0MS9nZWdhcmEtcmVzZXNpLXByb3llay1pbmZyYXN0cnVrdHVyLXJpLWJpc2EtdGVydHVuZGE=",
+        "description": " Gegara Resesi Proyek Infrastruktur RI Bisa Tertunda?"
+    },
+    {
+        "title": "SKK Migas Blak-blakan Soal EOR di Blok Rokan",
+        "link": "https://www.cnbcindonesia.com/news/20220719164201-4-356813/skk-migas-blak-blakan-soal-eor-di-blok-rokan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTE2NDIwMS00LTM1NjgxMy9za2stbWlnYXMtYmxhay1ibGFrYW4tc29hbC1lb3ItZGktYmxvay1yb2thbg==",
+        "description": " SKK Migas ungkap PoD EOR Blok Rokan yang akan rampung tahun ini"
+    },
+    {
+        "title": "Covid di RI 'Meledak' Lagi, Kasus Baru Tambah 5.085 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220719162143-4-356802/covid-di-ri-meledak-lagi-kasus-baru-tambah-5085-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTE2MjE0My00LTM1NjgwMi9jb3ZpZC1kaS1yaS1tZWxlZGFrLWxhZ2kta2FzdXMtYmFydS10YW1iYWgtNTA4NS1oYXJpLWluaQ==",
+        "description": " Simak data terbaru Covid-19."
+    },
+    {
+        "title": "Tak Resesi Bukan Berarti RI Aman, Nih Penjelasan Sri Mulyani!",
+        "link": "https://www.cnbcindonesia.com/news/20220719175814-4-356836/tak-resesi-bukan-berarti-ri-aman-nih-penjelasan-sri-mulyani",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTE3NTgxNC00LTM1NjgzNi90YWstcmVzZXNpLWJ1a2FuLWJlcmFydGktcmktYW1hbi1uaWgtcGVuamVsYXNhbi1zcmktbXVseWFuaQ==",
+        "description": " Indonesia dimungkinkan tidak akan terjerat resesi seperti banyak negara di dunia. Namun bukan berarti tidak ada hal buruk yang bisa menimpa ekonomi tanah air."
+    },
+    {
         "title": "Jreng! Putin dan Erdogan Bertemu di Iran, Ada Apa?",
         "link": "https://www.cnbcindonesia.com/news/20220719144324-4-356774/jreng-putin-erdogan-bertemu-di-iran-ada-apa",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTE2MDQ1Ny00LTM1Njc5Ni8zLWxva2FzaS1kaS1yaS1zaW1wYW4taGFydGEta2FydW4tYnVrYW4tbWlnYXMtYmlhc2EtanVtYm8=",
         "description": " SKK Migas mencatat ada cadangan harta karun bukan migas biasa atau Migas Non Konvesional (MNK) di tiga lokasi di Indonesia"
-    },
-    {
-        "title": "Suzuki Rilis Mobil 5 Penumpang 80 Jutaan",
-        "link": "https://www.cnbcindonesia.com/news/20220719155322-4-356799/suzuki-rilis-mobil-5-penumpang-80-jutaan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTE1NTMyMi00LTM1Njc5OS9zdXp1a2ktcmlsaXMtbW9iaWwtNS1wZW51bXBhbmctODAtanV0YWFu",
-        "description": " Suzuki Maruti India mengumumkan telah merilis mobil baru dari Spresso 2022."
-    },
-    {
-        "title": "Presiden Timor Leste Berharap Bisa Masuk ASEAN",
-        "link": "https://www.cnbcindonesia.com/news/20220719164705-8-356815/presiden-timor-leste-berharap-bisa-masuk-asean",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTE2NDcwNS04LTM1NjgxNS9wcmVzaWRlbi10aW1vci1sZXN0ZS1iZXJoYXJhcC1iaXNhLW1hc3VrLWFzZWFu",
-        "description": " Presiden Timor Leste, berharap bisa bergabung dengan Perserikatan Bangsa Asia Tenggara atau ASEAN"
-    },
-    {
-        "title": "Produsen Mobil VW akan Bangun Pabrik di RI, Ini Bocorannya",
-        "link": "https://www.cnbcindonesia.com/news/20220719152803-4-356790/produsen-mobil-vw-akan-bangun-pabrik-di-ri-ini-bocorannya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTE1MjgwMy00LTM1Njc5MC9wcm9kdXNlbi1tb2JpbC12dy1ha2FuLWJhbmd1bi1wYWJyaWstZGktcmktaW5pLWJvY29yYW5ueWE=",
-        "description": " Menteri Investasi/Kepala Badan Koordinasi Penanaman Modal (BKPM) Bahlil Lahadalia bertemu dengan Chief Procurement Officer Volkswagen (VW) Jorg Teichmann."
-    },
-    {
-        "title": "CT ke Sri Mulyani: Saya Tahu Bu Ani Nyenggol Presiden Terus!",
-        "link": "https://www.cnbcindonesia.com/news/20220719165951-4-356817/ct-ke-sri-mulyani-saya-tahu-bu-ani-nyenggol-presiden-terus",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTE2NTk1MS00LTM1NjgxNy9jdC1rZS1zcmktbXVseWFuaS1zYXlhLXRhaHUtYnUtYW5pLW55ZW5nZ29sLXByZXNpZGVuLXRlcnVz",
-        "description": " Chairman dan Founder CT Corp Chairul Tanjung dan Menteri Keuangan Sri Mulyani Indrawati sore ini berada dalam satu panggung, merayakan Hari Pajak 2022."
-    },
-    {
-        "title": "RI Ajak Negara Produsen Jaga Pertumbuhan Minyak Sawit Dunia",
-        "link": "https://www.cnbcindonesia.com/news/20220719170145-4-356821/ri-ajak-negara-produsen-jaga-pertumbuhan-minyak-sawit-dunia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTE3MDE0NS00LTM1NjgyMS9yaS1hamFrLW5lZ2FyYS1wcm9kdXNlbi1qYWdhLXBlcnR1bWJ1aGFuLW1pbnlhay1zYXdpdC1kdW5pYQ==",
-        "description": " Indonesia mengajak negara produsen minyak sawit memanfaatkan momentum pertumbuhan."
-    },
-    {
-        "title": "Moeldoko: Banyak Orang Kaya Nikmati Subsidi, Gak Malu!",
-        "link": "https://www.cnbcindonesia.com/news/20220719153618-4-356791/moeldoko-banyak-orang-kaya-nikmati-subsidi-gak-malu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcxOTE1MzYxOC00LTM1Njc5MS9tb2VsZG9rby1iYW55YWstb3Jhbmcta2F5YS1uaWttYXRpLXN1YnNpZGktZ2FrLW1hbHU=",
-        "description": " Pemerintah akan mengubah sistem distribusi penyaluran subsidi agar lebih tepat sasaran"
     }
 ]
