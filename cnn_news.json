@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kemenkes Sebut Syarat Pelaku Perjalanan Pengaruhi Jumlah Tes Covid",
+        "link": "https://www.cnnindonesia.com/nasional/20220720033245-20-823622/kemenkes-sebut-syarat-pelaku-perjalanan-pengaruhi-jumlah-tes-covid",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMDAzMzI0NS0yMC04MjM2MjIva2VtZW5rZXMtc2VidXQtc3lhcmF0LXBlbGFrdS1wZXJqYWxhbmFuLXBlbmdhcnVoaS1qdW1sYWgtdGVzLWNvdmlk",
+        "description": " Kemenkes menilai syarat pelaku perjalanan memengaruhi jumlah skrining tes Covid-19 beberapa waktu terakhir di Indonesia."
+    },
+    {
+        "title": "Paman Mardani Maming Hemat Bicara Usai Diperiksa KPK",
+        "link": "https://www.cnnindonesia.com/nasional/20220720030336-12-823620/paman-mardani-maming-hemat-bicara-usai-diperiksa-kpk",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMDAzMDMzNi0xMi04MjM2MjAvcGFtYW4tbWFyZGFuaS1tYW1pbmctaGVtYXQtYmljYXJhLXVzYWktZGlwZXJpa3NhLWtwaw==",
+        "description": " Paman Mardani Maming, Muhammad Bahruddin, hemat bicara setelah diperiksa KPK terkait dugaan korupsi pemberian izin usaha pertambangan."
+    },
+    {
         "title": "DPR soal Perpres Baru Jokowi: Kekerasan Seksual Anak Mengkhawatirkan",
         "link": "https://www.cnnindonesia.com/nasional/20220719180323-12-823505/dpr-soal-perpres-baru-jokowi-kekerasan-seksual-anak-mengkhawatirkan",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTE0MzA0Ny0xMi04MjMzNjIvcGVuZGFtcGluZy1rb3JiYW4tbmlsYWktdGVwYXQtZGFrd2Fhbi1wZXJrb3NhYW4tbWFzLWJlY2hpLWFuYWsta2lhaQ==",
         "description": " Direktur WCC Jombang yang mendampingi korban mengatakan dakwaan yang dibacakan jaksa atas terdakwa\u00c2\u00a0anak dari Kiai Jombang, MSAT, sudah tepat."
-    },
-    {
-        "title": "Wagub DKI soal ABG Citayam Tidur di Dukuh Atas: Ketinggalan Kereta",
-        "link": "https://www.cnnindonesia.com/nasional/20220719225031-20-823600/wagub-dki-soal-abg-citayam-tidur-di-dukuh-atas-ketinggalan-kereta",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTIyNTAzMS0yMC04MjM2MDAvd2FndWItZGtpLXNvYWwtYWJnLWNpdGF5YW0tdGlkdXItZGktZHVrdWgtYXRhcy1rZXRpbmdnYWxhbi1rZXJldGE=",
-        "description": " Wagub DI Jakarta Ahmad Riza Patria mengungkapkan viral remaja Citayam tidur ngemper dekat Dukuh Atas karena ketinggalan kereta terakhir."
-    },
-    {
-        "title": "Polda Metro Terjunkan Tim Khusus Usut Penyebab Kecelakaan Maut Cibubur",
-        "link": "https://www.cnnindonesia.com/nasional/20220719150040-12-823388/polda-metro-terjunkan-tim-khusus-usut-penyebab-kecelakaan-maut-cibubur",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxOTE1MDA0MC0xMi04MjMzODgvcG9sZGEtbWV0cm8tdGVyanVua2FuLXRpbS1raHVzdXMtdXN1dC1wZW55ZWJhYi1rZWNlbGFrYWFuLW1hdXQtY2lidWJ1cg==",
-        "description": " Kabid Humas Polda Metro Jaya mengatakan dugaan sementara kecelakaan maut di Jalan Alternatif Cibubr karena kendaraan mengalami rem blong."
     }
 ]
