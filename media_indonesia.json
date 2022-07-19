@@ -1,5 +1,47 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/507963/sisihkan-filipina-jepang-ke-babak-delapan-besar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDc5NjMvc2lzaWhrYW4tZmlsaXBpbmEtamVwYW5nLWtlLWJhYmFrLWRlbGFwYW4tYmVzYXI=",
+        "description": "TIM nasional bola basket putra Jepang melaju ke babak delapan besar Piala Asia FIBA 2022. Tiket ke perempat final terakhir itu diamankan Jepang setelah sukses mengatasi Filipina 102-81 pada laga playoff&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/507965/masyarakat-tinggam-talamau-jalankan-tradisi-tolak-bala-selama-tanam-padi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3OTY1L21hc3lhcmFrYXQtdGluZ2dhbS10YWxhbWF1LWphbGFua2FuLXRyYWRpc2ktdG9sYWstYmFsYS1zZWxhbWEtdGFuYW0tcGFkaQ==",
+        "description": "MASYARAKAT Jorong Tinggam Nagari Sinuruik, Kecamatan Talamau, Kabupaten Pasaman Barat, Sumatra Barat, terus mempertahankan tradisi doa tolak bala atau tolak bahaya selama menanam padi di daerah itu.&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/507961/polri-mutasi-adik-brigadir-j-atas-permintaan-sendiri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDc5NjEvcG9scmktbXV0YXNpLWFkaWstYnJpZ2FkaXItai1hdGFzLXBlcm1pbnRhYW4tc2VuZGlyaQ==",
+        "description": " KEPALA Divisi Humas Polri Irjen Dedi Prasetyo mengatakan mutasi Bripda LL, yang merupakan adik dari Brigadir J, dari Mabes Polri ke Polda Jambi merupakan permintaan sendiri. &quot;Jadi,&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/507962/striker-termahal-wolves-dipinjamkan-ke-anderlecht",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzk2Mi9zdHJpa2VyLXRlcm1haGFsLXdvbHZlcy1kaXBpbmphbWthbi1rZS1hbmRlcmxlY2h0",
+        "description": "STRIKER muda Wolverhampton Wanderers Fabio Silva menyepakati perpanjangan kontrak satu tahun sebelum dipinjamkan kepada Anderlecht, Selasa (19/7). Pemain internasional Portugal U-21 itu bergabung&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507960/direktur-imf-apriesiasi-kementerian-bumn-berdayakan-umkm",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzk2MC9kaXJla3R1ci1pbWYtYXByaWVzaWFzaS1rZW1lbnRlcmlhbi1idW1uLWJlcmRheWFrYW4tdW1rbQ==",
+        "description": "DALAM kunjungannya ke Indonesia, Direktur Pelaksana Dana Moneter Internasional (IMF) Kristalina Georgieva mengapresiasi langkah pemerintah melalui Kementerian BUMN yang telah memberdayakan UMKM dengan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/507959/rekor-terendah-baru-rupee-india-tembus-80-per-dolar-as",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzk1OS9yZWtvci10ZXJlbmRhaC1iYXJ1LXJ1cGVlLWluZGlhLXRlbWJ1cy04MC1wZXItZG9sYXItYXM=",
+        "description": "RUPEE India jatuh ke lebih dari 80 per dolar AS untuk pertama kali, Selasa (19/7). Ini karena dolar AS terus menguat dan arus keluar modal asing meningkat. Rupee mencapai 80,0600 terhadap dolar&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/507958/kembali-cetak-gol-martial-produktif-selama-pramusim",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDc5NTUvcmVzbWlrYW4tdHVndS1wa2sta290YS10YW5nc2VsLXdhbGlrb3RhLW1pbnRhLWNhbWF0LWRhbi1sdXJhaC1rb2xhYm9yYXNp",
         "description": "WALI Kota Benyamin Davnie meresmikan Tugu PKK Tangerang Selatan&nbsp; (Tangsel) di halaman Puspemkot Tangsel, Banten, Selasa (19/7).&nbsp; Benyamin meminta seluruh kader Tim Penggerak PKK Kota&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507954/konflik-gajah-manusia-di-aceh-terjadi-hampir-setiap-hari",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3OTU0L2tvbmZsaWstZ2FqYWgtbWFudXNpYS1kaS1hY2VoLXRlcmphZGktaGFtcGlyLXNldGlhcC1oYXJp",
-        "description": "KEPALA Seksi Konservasi Wilayah I Balai Konservasi Sumber Daya Alam (BKSDA) Kamarudzaman menyatakan konflik gajah dengan manusia di sejumlah wilayah di Provinsi Aceh terjadi hampir setiap hari.&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/507953/kpk-selisik-keterlibatan-paman-mardani-maming",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDc5NTMva3BrLXNlbGlzaWsta2V0ZXJsaWJhdGFuLXBhbWFuLW1hcmRhbmktbWFtaW5n",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) memeriksa Komisaris PT Angsana Terminal Utama Muhammad Bahruddin dalam kasus dugaan suap dan gratifikasi terkait izin usaha pertambangan di Tanah Bumbu, Selasa (19/7).&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/507951/ada-pemasangan-grinder-tol-arus-lalu-lintas-semarang-demak-dialihkan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA3OTUxL2FkYS1wZW1hc2FuZ2FuLWdyaW5kZXItdG9sLWFydXMtbGFsdS1saW50YXMtc2VtYXJhbmctZGVtYWstZGlhbGloa2Fu",
-        "description": "SELAMA sepekan ke depan mulai Rabu (20/7) besok hingga Rabu (27/7) mendatang pada malam hari arus lalu lintas Tol Semarang-Demak akan dialihkan ke jalur alternatif, karena adanya pemasangan grinder&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/507952/populasi-yunani-turun-35-sejak-2011-ini-penyebabnya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNzk1Mi9wb3B1bGFzaS15dW5hbmktdHVydW4tMzUtc2VqYWstMjAxMS1pbmktcGVueWViYWJueWE=",
-        "description": "POPULASI penduduk Yunani turun 3,5% sejak 2011. Ini menurut sensus yang dilakukan oleh kantor statistik nasional Elstat yang diterbitkan Selasa (19/7). Menurut data yang dikumpulkan selama setahun&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/507949/ini-alasan-kasus-brigadir-j-dilimpahkan-ke-polda-metro-jaya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDc5NDkvaW5pLWFsYXNhbi1rYXN1cy1icmlnYWRpci1qLWRpbGltcGFoa2FuLWtlLXBvbGRhLW1ldHJvLWpheWE=",
-        "description": "KASUS adu tembak yang terjadi di kediaman Kadiv Propam Polri Irjen Ferdy Sambo dan menewaskan Brigadir Yosua (J) dilimpahkan ke Polda Metro Jaya. Kasus itu sebelumnya ditangani Polres Metro Jakarta&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/507948/jet-israel-kembali-serang-pos-hamas-di-gaza",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwNzk0OC9qZXQtaXNyYWVsLWtlbWJhbGktc2VyYW5nLXBvcy1oYW1hcy1kaS1nYXph",
-        "description": "TENTARA Israel melancarkan serangan pada Selasa (19/7) terhadap posisi milik gerakan Islam Hamas di Jalur Gaza, setelah tembakan dari daerah&#8230;"
     }
 ]
