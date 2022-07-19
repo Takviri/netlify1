@@ -1,5 +1,19 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/507987/serial-dikta-dan-hukum-akan-tayang-di-wetv-mulai-29-juli",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNzk4Ny9zZXJpYWwtZGlrdGEtZGFuLWh1a3VtLWFrYW4tdGF5YW5nLWRpLXdldHYtbXVsYWktMjktanVsaQ==",
+        "description": "PLATFORM streaming WeTV akan merilis serial berjudul Dikta dan Hukum, yang dijadwalkan mulai tayang pada 29 Juli 2022. &quot;Banyak&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/507986/cadiz-ingin-datangkan-diaz-dari-real-madrid",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzk4Ni9jYWRpei1pbmdpbi1kYXRhbmdrYW4tZGlhei1kYXJpLXJlYWwtbWFkcmlk",
+        "description": "KLUB La Liga Cadiz dikabarkan tertarik memboyong penyerang sayap Mariano Diaz dari Real Madrid pada bursa transfer pemain musim panas&#8230;"
+    },
+    {
         "title": "Opini",
         "link": "https://m.mediaindonesia.com/opini/507973/rapor-merah-partai-politik-era-reformasi",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDc5NzQvdXN1dC1rb3J1cHNpLWJlc2ktYmFqYS1rZWphZ3VuZy1wZXJpa3NhLXBlamFiYXQta2VtZW5rZXU=",
         "description": "PENYIDIK Kejaksaan Agung memeriksa dua saksi dari Kementerian Keuangan. Pemeriksaan itu dilakukan dalam penyidikan kasus dugaan korupsi impor besi, baja, baja paduan, dan produk turunannya pada 2016&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/507971/jaksa-agung-dorong-pembentukan-payung-hukum-restorative-justice",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDc5NzEvamFrc2EtYWd1bmctZG9yb25nLXBlbWJlbnR1a2FuLXBheXVuZy1odWt1bS1yZXN0b3JhdGl2ZS1qdXN0aWNl",
-        "description": "JAKSA Agung Sanitiar Burhanuddin mendorong terbentuknya payung hukum bersama terkait penyelesaian perkara melalui mekanisme keadilan restoratif atau restorative justice (RJ). Sebab, mekanisme itu tidak&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/507969/spurs-rekrut-bek-tangguh-middlesbrough",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzk2OS9zcHVycy1yZWtydXQtYmVrLXRhbmdndWgtbWlkZGxlc2Jyb3VnaA==",
-        "description": "Tottenham Hotspur resmi merekrut bek tengah Djed Spence dari Middlesbrough dalam kesepakatan kontrak hingga 2027. Demikian diumunkan Spurs, Selasa (19/7) Rincian finansial dalam transfer tersebut&#8230;"
     }
 ]
