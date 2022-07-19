@@ -1,9 +1,23 @@
 [
     {
-        "title": "Samsat Hapus Data Kendaraan yang Tak Bayar Pajak Lebih dari Dua Tahun",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220719134254-532-823327/samsat-hapus-data-kendaraan-yang-tak-bayar-pajak-lebih-dari-dua-tahun",
+        "title": "Survei BI Taksir Pertumbuhan Kredit 2022 9,2 Persen",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220719124613-78-823296/survei-bi-taksir-pertumbuhan-kredit-2022-92-persen",
         "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE5MTM0MjU0LTUzMi04MjMzMjcvc2Ftc2F0LWhhcHVzLWRhdGEta2VuZGFyYWFuLXlhbmctdGFrLWJheWFyLXBhamFrLWxlYmloLWRhcmktZHVhLXRhaHVu",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE5MTI0NjEzLTc4LTgyMzI5Ni9zdXJ2ZWktYmktdGFrc2lyLXBlcnR1bWJ1aGFuLWtyZWRpdC0yMDIyLTkyLXBlcnNlbg==",
+        "description": " Survei Bank Indonesia memperkirakan pertumbuhan kredit bank mencapai 9,2 persen sepanjang tahun ini."
+    },
+    {
+        "title": "Eropa Terancam Krisis Gas Akut Akhir Pekan Ini",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220719132412-85-823317/eropa-terancam-krisis-gas-akut-akhir-pekan-ini",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE5MTMyNDEyLTg1LTgyMzMxNy9lcm9wYS10ZXJhbmNhbS1rcmlzaXMtZ2FzLWFrdXQtYWtoaXItcGVrYW4taW5p",
+        "description": " Eropa terancam krisis gas\u00c2\u00a0parah pada akhir pekan ini akibat imbas gelombang panas yang menerpa wilayah itu."
+    },
+    {
+        "title": "Samsat Akan Hapus Data Kendaraan Tak Bayar Pajak Lebih dari 2 Tahun",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220719134254-532-823327/samsat-akan-hapus-data-kendaraan-tak-bayar-pajak-lebih-dari-2-tahun",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE5MTM0MjU0LTUzMi04MjMzMjcvc2Ftc2F0LWFrYW4taGFwdXMtZGF0YS1rZW5kYXJhYW4tdGFrLWJheWFyLXBhamFrLWxlYmloLWRhcmktMi10YWh1bg==",
         "description": " Tim Pembina Samsat akan menghapus data kendaraan bermotor yang tidak membayar pajak kendaraan bermotor (PKB) sekurang-kurangnya dua tahun."
     },
     {
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE5MTAwNjQzLTkyLTgyMzIxOC9wZW51bXBhbmcta2EtdGVtYnVzLTExOTgtanV0YS1zZW1lc3Rlci1pLTIwMjI=",
         "description": " PT KAI (Persero) mencatat\u00c2\u00a0volume penumpang KA jarak jauh mencapai 119,8 juta pelanggan pada semester I 2022 atau melesat 42 persen secara tahunan."
-    },
-    {
-        "title": "Pertamina Minta Maaf soal Kecelakaan Maut Truk Tangki Cibubur",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220719111931-85-823257/pertamina-minta-maaf-soal-kecelakaan-maut-truk-tangki-cibubur",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE5MTExOTMxLTg1LTgyMzI1Ny9wZXJ0YW1pbmEtbWludGEtbWFhZi1zb2FsLWtlY2VsYWthYW4tbWF1dC10cnVrLXRhbmdraS1jaWJ1YnVy",
-        "description": " PT Pertamina Patra Niaga meminta maaf atas kecelakaan mau truk tangki di Cibubur yang menewaskan 10 orang dan 5 lainnya luka parah."
-    },
-    {
-        "title": "Inflasi di ASEAN, Negara Mana yang Tertinggi?",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220719104202-532-823237/inflasi-di-asean-negara-mana-yang-tertinggi",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE5MTA0MjAyLTUzMi04MjMyMzcvaW5mbGFzaS1kaS1hc2Vhbi1uZWdhcmEtbWFuYS15YW5nLXRlcnRpbmdnaQ==",
-        "description": " Lonjakan inflasi akibat perang Rusia Ukraina yang berdampak pada krisis pangan, energi hingga keuangan tengah menghantui negara maju dan berkembang."
     }
 ]

@@ -1,5 +1,40 @@
 [
     {
+        "title": "Analis: Emas Sedang Koma...",
+        "link": "https://www.cnbcindonesia.com/market/20220719144126-17-356775/analis-emas-sedang-koma",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MTQ0MTI2LTE3LTM1Njc3NS9hbmFsaXMtZW1hcy1zZWRhbmcta29tYQ==",
+        "description": " Harga emas makin merosot."
+    },
+    {
+        "title": "Khawatir RI Bernasib Kayak Sri Lanka? Simak Penjelasan Ini!",
+        "link": "https://www.cnbcindonesia.com/market/20220719134315-17-356743/khawatir-ri-bernasib-kayak-sri-lanka-simak-penjelasan-ini",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MTM0MzE1LTE3LTM1Njc0My9raGF3YXRpci1yaS1iZXJuYXNpYi1rYXlhay1zcmktbGFua2Etc2ltYWstcGVuamVsYXNhbi1pbmk=",
+        "description": " Indonesia dikhawatirkan bernasib sama seperti Sri Lanka, bagaimana faktanya?"
+    },
+    {
+        "title": "Bursa Eropa Dibuka Merah Jelang Keputusan Suku Bunga ECB",
+        "link": "https://www.cnbcindonesia.com/market/20220719134626-17-356745/bursa-eropa-dibuka-merah-jelang-keputusan-suku-bunga-ecb",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MTM0NjI2LTE3LTM1Njc0NS9idXJzYS1lcm9wYS1kaWJ1a2EtbWVyYWgtamVsYW5nLWtlcHV0dXNhbi1zdWt1LWJ1bmdhLWVjYg==",
+        "description": " Bursa saham Eropa di sesi awal kompak terkoreksi pada perdagangan hari ini, setelah sempat reli dua hari beruntun."
+    },
+    {
+        "title": "Emiten Perdagangan Saham Rp 100 - Rp 130 per Saham",
+        "link": "https://www.cnbcindonesia.com/market/20220719131826-17-356728/emiten-perdagangan-saham-rp-100--rp-130-per-saham",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MTMxODI2LTE3LTM1NjcyOC9lbWl0ZW4tcGVyZGFnYW5nYW4tc2FoYW0tcnAtMTAwLS1ycC0xMzAtcGVyLXNhaGFt",
+        "description": " Dana yang diperoleh dari hasil Penawaran Umum Perdana Saham ini setelah dikurangi biaya-biaya emisi efek"
+    },
+    {
+        "title": "Duh! Istaka Karya Pailit, Nasib Karyawan Gimana Dong?",
+        "link": "https://www.cnbcindonesia.com/market/20220719132029-17-356724/duh-istaka-karya-pailit-nasib-karyawan-gimana-dong",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MTMyMDI5LTE3LTM1NjcyNC9kdWgtaXN0YWthLWthcnlhLXBhaWxpdC1uYXNpYi1rYXJ5YXdhbi1naW1hbmEtZG9uZw==",
+        "description": " Sejak putusan homologasi pada tahun 2013, Istaka Karya tidak menunjukkan perbaikan kinerja."
+    },
+    {
         "title": "Pertama Sejak 2010, China Pegang Obligasi AS di Bawah US$ 1 T",
         "link": "https://www.cnbcindonesia.com/market/20220719140740-17-356762/pertama-sejak-2010-china-pegang-obligasi-as-di-bawah-us--1-t",
         "image": "static/images/cnbc_market.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MTEwNjQxLTE3LTM1NjY2Ny9nYXdhdC1zZWxhbmdrYWgtbGFnaS1ydXBpYWgta2UtbGV2ZWwtcnAtMTUwMDAtdXMt",
         "description": " Kurs rupiah sempat melibas dolar AS di awal perdagangan, tapi kemudian berbalik arah menjadi terkoreksi hingga di pertengahan perdagangan\u00c2\u00a0hari ini."
-    },
-    {
-        "title": "Meski Hijau Kuat, Jalan IHSG Masih Terjal di Sesi 2",
-        "link": "https://www.cnbcindonesia.com/market/20220719124903-17-356715/meski-hijau-kuat-jalan-ihsg-masih-terjal-di-sesi-2",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MTI0OTAzLTE3LTM1NjcxNS9tZXNraS1oaWphdS1rdWF0LWphbGFuLWloc2ctbWFzaWgtdGVyamFsLWRpLXNlc2ktMg==",
-        "description": " Ke mana arah IHSG di sesi 2 ?"
-    },
-    {
-        "title": "Buntut Jiwasraya, Hanson (MYRX) Bentjok Bisa Didepak BEI",
-        "link": "https://www.cnbcindonesia.com/market/20220719123111-17-356706/buntut-jiwasraya-hanson--myrx--bentjok-bisa-didepak-bei",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MTIzMTExLTE3LTM1NjcwNi9idW50dXQtaml3YXNyYXlhLWhhbnNvbi0tbXlyeC0tYmVudGpvay1iaXNhLWRpZGVwYWstYmVp",
-        "description": " Bursa Efek Indonesia (BEI) memberi peringatan kepada PT Hanson International Tbk (MYRX) terkait potensi penghapusan pencatatan saham alias delisting."
-    },
-    {
-        "title": "Saham 'Kemarin Sore' Jadi Top Gainers, Kamu Pegang?",
-        "link": "https://www.cnbcindonesia.com/market/20220719120914-17-356704/saham-kemarin-sore-jadi-top-gainers-kamu-pegang",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MTIwOTE0LTE3LTM1NjcwNC9zYWhhbS1rZW1hcmluLXNvcmUtamFkaS10b3AtZ2FpbmVycy1rYW11LXBlZ2FuZw==",
-        "description": " Ada 5 saham yang tampil perkasa dan 5 saham yang masuk top loser siang ini."
-    },
-    {
-        "title": "Emiten Gergaji dan Perkakas IPO, Jual Saham Rp 122-Rp 135/unit",
-        "link": "https://www.cnbcindonesia.com/market/20220719110503-17-356668/emiten-gergaji-perkakas-ipo-jual-saham-rp-122-rp-135-unit",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MTEwNTAzLTE3LTM1NjY2OC9lbWl0ZW4tZ2VyZ2FqaS1wZXJrYWthcy1pcG8tanVhbC1zYWhhbS1ycC0xMjItcnAtMTM1LXVuaXQ=",
-        "description": " Jumlah saham yang dilepas sebanyak-banyaknya 20% dari modal ditempatkan dan disetor penuh dalam perseroan setelah IPO."
-    },
-    {
-        "title": "Windfall Komoditas, RI Targetkan Pengurangan Defisit APBN",
-        "link": "https://www.cnbcindonesia.com/market/20220719101602-19-356642/windfall-komoditas-ri-targetkan-pengurangan-defisit-apbn",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzE5MTAxNjAyLTE5LTM1NjY0Mi93aW5kZmFsbC1rb21vZGl0YXMtcmktdGFyZ2V0a2FuLXBlbmd1cmFuZ2FuLWRlZmlzaXQtYXBibg==",
-        "description": " Windfall Komoditas, Pemerintah Targetkan Pengurangan Defisit APBN"
     }
 ]
