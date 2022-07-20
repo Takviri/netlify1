@@ -1,6 +1,27 @@
 [
     {
         "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/508160/hampir-setahun-alih-kelola-wk-rokan-ini-pencapaian-yang-dikerjakan-phr",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwODE2MC9oYW1waXItc2V0YWh1bi1hbGloLWtlbG9sYS13ay1yb2thbi1pbmktcGVuY2FwYWlhbi15YW5nLWRpa2VyamFrYW4tcGhy",
+        "description": "Menjelang satu tahun pasca alih kelola Wilayah Kerja (WK) Rokan, PT Pertamina Hulu Rokan (PHR) terus membuktikan kemampuannya mempertahankan tingkat produksi melalui kegiatan operasi yang masif dan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/508159/536-juta-masyarakat-terproteksi-vaksin-booster",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4MTU5LzUzNi1qdXRhLW1hc3lhcmFrYXQtdGVycHJvdGVrc2ktdmFrc2luLWJvb3N0ZXI=",
+        "description": "JUMLAH masyarakat Indonesia yang disuntik vaksin covid-19 dosis ketiga terus meningkat. Total 53.604.047 orang telah menerima vaksin booster tersebut per Rabu (20/7). &quot;Jumlah yang disuntik&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/508157/iea-permintaan-listrik-global-melambat-tajam",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwODE1Ny9pZWEtcGVybWludGFhbi1saXN0cmlrLWdsb2JhbC1tZWxhbWJhdC10YWphbQ==",
+        "description": "PERMINTAAN global untuk listrik melambat tajam tahun ini karena pertumbuhan ekonomi yang lamban dan harga energi melambung serta tren tersebut kemungkinan berlanjut tahun depan. Badan Energi Internasional&#8230;"
+    },
+    {
+        "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/508153/presiden-minta-mentan-wujudkan-swasembada-gula-kosumsi",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwODE1My9wcmVzaWRlbi1taW50YS1tZW50YW4td3VqdWRrYW4tc3dhc2VtYmFkYS1ndWxhLWtvc3Vtc2k=",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDgxNDkvYXRhc2ktd2FraWwtdHVhbi1ydW1haC1rb21hbmctbXVsdXMta2UtMTYtYmVzYXItdGFpd2FuLXRlcmJ1a2EtMjAyMg==",
         "description": "PEBULU tangkis tunggal putri Indonesia, Komang Ayu Cahya Dewi mulus ke babak 16 besar turnamen bulutangkis Taiwan Terbyja 2022. Tiket itu didapat Komang setelah di babak 32 besar dirinya berhasil mengalahkan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/508148/beda-pendapat-empat-imam-mazhab-dalam-qunut",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4MTQ4L2JlZGEtcGVuZGFwYXQtZW1wYXQtaW1hbS1tYXpoYWItZGFsYW0tcXVudXQ=",
-        "description": "DALAM hal fikih sejatinya ada perbedaan pendapat ulama empat mazhab besar dalam Islam. Salah satunya yang&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508144/presiden-pembangunan-ikn-harus-sesuai-jadwal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDgxNDQvcHJlc2lkZW4tcGVtYmFuZ3VuYW4taWtuLWhhcnVzLXNlc3VhaS1qYWR3YWw=",
-        "description": "Presiden Joko Widodo memerintahkan Kepala Badan Otorita Ibu Kota Negara (IKN) Bambang Susantono untuk mempersiapkan semua proses pembangunan ibu kota baru dengan sebaik-baiknya. Instruksi tersebut&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/508147/kasus-covid-19-meningkat-banyumas-ambil-langkah-antisipasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4MTQ3L2thc3VzLWNvdmlkLTE5LW1lbmluZ2thdC1iYW55dW1hcy1hbWJpbC1sYW5na2FoLWFudGlzaXBhc2k=",
-        "description": "KASUS positif Covid-19 di Banyumas, Jawa Tengah (Jateng) pada Juli telah melebihi kasus pada Juni lalu. Selama Juni, tercatat&nbsp; sebanyak 21 kasus. Sedangkan hingga 18 Juli, kasus covid-19 di Banyumas&nbsp;&#8230;"
     }
 ]

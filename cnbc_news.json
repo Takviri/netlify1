@@ -1,5 +1,47 @@
 [
     {
+        "title": "Tok! Sri Lanka Punya Presiden Terpilih Baru",
+        "link": "https://www.cnbcindonesia.com/news/20220720170257-8-357199/tok-sri-lanka-punya-presiden-terpilih-baru",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE3MDI1Ny04LTM1NzE5OS90b2stc3JpLWxhbmthLXB1bnlhLXByZXNpZGVuLXRlcnBpbGloLWJhcnU=",
+        "description": " Parlemen Sri Lanka memutuskan Ranil Wickremesinghe sebagai Presiden."
+    },
+    {
+        "title": "Gegara 'Robot', Investasi di RI Tak Banyak Serap Tenaga Kerja",
+        "link": "https://www.cnbcindonesia.com/news/20220720163843-4-357186/gegara-robot-investasi-di-ri-tak-banyak-serap-tenaga-kerja",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE2Mzg0My00LTM1NzE4Ni9nZWdhcmEtcm9ib3QtaW52ZXN0YXNpLWRpLXJpLXRhay1iYW55YWstc2VyYXAtdGVuYWdhLWtlcmph",
+        "description": " Tren peningkatan investasi di Indonesia, kenyataannya tak bisa mengimbangi penyerapan tenaga kerja."
+    },
+    {
+        "title": "Ya Salam! Butuh 7,3 Juta Ton, 70% Gula RI Kudu Impor",
+        "link": "https://www.cnbcindonesia.com/news/20220720180711-4-357215/ya-salam-butuh-73-juta-ton-70-gula-ri-kudu-impor",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE4MDcxMS00LTM1NzIxNS95YS1zYWxhbS1idXR1aC03My1qdXRhLXRvbi03MC1ndWxhLXJpLWt1ZHUtaW1wb3I=",
+        "description": " Jokowi mendorong jajarannya untuk mempersiapkan kebutuhan gula nasional agar tidak menjadi biang kerok inflasi"
+    },
+    {
+        "title": "Pembatasan Beli Pertalite Kapan Jalan? Ini Kata ESDM..",
+        "link": "https://www.cnbcindonesia.com/news/20220720162001-4-357167/pembatasan-beli-pertalite-kapan-jalan-ini-kata-esdm",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE2MjAwMS00LTM1NzE2Ny9wZW1iYXRhc2FuLWJlbGktcGVydGFsaXRlLWthcGFuLWphbGFuLWluaS1rYXRhLWVzZG0=",
+        "description": " Dirjen Migas Kementerian ESDM Tutuka Ariadji menyebutkan, pihaknya menunggu terbitnya Perpres 191/2014"
+    },
+    {
+        "title": "Naik Terus, Kasus Baru Covid di RI Tambah 5.653 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220720130143-4-357050/naik-terus-kasus-baru-covid-di-ri-tambah-5653-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDEzMDE0My00LTM1NzA1MC9uYWlrLXRlcnVzLWthc3VzLWJhcnUtY292aWQtZGktcmktdGFtYmFoLTU2NTMtaGFyaS1pbmk=",
+        "description": " Simak data terbaru Covid-19."
+    },
+    {
+        "title": "Awas Panas, China Ngamuk ke Kapal Perang AS",
+        "link": "https://www.cnbcindonesia.com/news/20220720163955-4-357184/awas-panas-china-ngamuk-ke-kapal-perang-as",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE2Mzk1NS00LTM1NzE4NC9hd2FzLXBhbmFzLWNoaW5hLW5nYW11ay1rZS1rYXBhbC1wZXJhbmctYXM=",
+        "description": " China \"mengamuk\" ke Amerika Serikat (AS), Rabu (20/7/2022). Hal ini terkait kapal perang AS yang wara-wiri melintasi Selat Taiwan Selasa."
+    },
+    {
         "title": "Alert! London Dalam Status \"Insiden Besar\"",
         "link": "https://www.cnbcindonesia.com/news/20220720165829-8-357196/alert-london-dalam-status-insiden-besar",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE1NTEyMy00LTM1NzE0OC9ib2NvcmFuLWF0dXJhbi1iYXJ1LXBucy1iaXNhLWtlbmEtcm90YXNpLTItdGFodW4tc2VrYWxp",
         "description": " Pemerintah tengah menggodok aturan terbaru mengenai jabatan fungsional PNS"
-    },
-    {
-        "title": "Jelang Setahun di Kelola Pertamina, Blok Rokan Bor 350 Sumur",
-        "link": "https://www.cnbcindonesia.com/news/20220720152707-4-357140/jelang-setahun-di-kelola-pertamina-blok-rokan-bor-350-sumur",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE1MjcwNy00LTM1NzE0MC9qZWxhbmctc2V0YWh1bi1kaS1rZWxvbGEtcGVydGFtaW5hLWJsb2stcm9rYW4tYm9yLTM1MC1zdW11cg==",
-        "description": " Pertamina Hulu Rokan mencatat produksi rata-rata Blok Rokan mencapai 161 MBOPD"
-    },
-    {
-        "title": "NIK Resmi Jadi NPWP, Ini Cara Cek Identitasmu Secara Online",
-        "link": "https://www.cnbcindonesia.com/news/20220720152947-4-357142/nik-resmi-jadi-npwp-ini-cara-cek-identitasmu-secara-online",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE1Mjk0Ny00LTM1NzE0Mi9uaWstcmVzbWktamFkaS1ucHdwLWluaS1jYXJhLWNlay1pZGVudGl0YXNtdS1zZWNhcmEtb25saW5l",
-        "description": " Berikut sejumlah cara mengecek NIK secara online"
-    },
-    {
-        "title": "Batu Bara Minggir! IKN RI Hanya Akan Gunakan Energi Hijau",
-        "link": "https://www.cnbcindonesia.com/news/20220720144048-4-357109/batu-bara-minggir-ikn-ri-hanya-akan-gunakan-energi-hijau",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE0NDA0OC00LTM1NzEwOS9iYXR1LWJhcmEtbWluZ2dpci1pa24tcmktaGFueWEtYWthbi1ndW5ha2FuLWVuZXJnaS1oaWphdQ==",
-        "description": " Menteri ESDM Arifin Tasrif memastikan hingga 2024 tenaga listrik di IKN akan menggunakan energi baru dan terbarukan (EBT)"
-    },
-    {
-        "title": "Catat! Mulai Agustus, Jokowi Geber Bangun Infrastruktur IKN",
-        "link": "https://www.cnbcindonesia.com/news/20220720162803-4-357179/catat-mulai-agustus-jokowi-geber-bangun-infrastruktur-ikn",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE2MjgwMy00LTM1NzE3OS9jYXRhdC1tdWxhaS1hZ3VzdHVzLWpva293aS1nZWJlci1iYW5ndW4taW5mcmFzdHJ1a3R1ci1pa24=",
-        "description": " Simak penjelasan Kepala Otorita IKN Bambang Susantono berikut ini."
-    },
-    {
-        "title": "Bulan Depan Bos IKN Mulai 'Jualan' Proyek ke Investor",
-        "link": "https://www.cnbcindonesia.com/news/20220720163328-4-357181/bulan-depan-bos-ikn-mulai-jualan-proyek-ke-investor",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE2MzMyOC00LTM1NzE4MS9idWxhbi1kZXBhbi1ib3MtaWtuLW11bGFpLWp1YWxhbi1wcm95ZWsta2UtaW52ZXN0b3I=",
-        "description": " Pemerintah akan mulai melakukan penjajakan kepada kalangan investor yang berminat menanamkan modalnya di ibu kota baru"
-    },
-    {
-        "title": "Jangan Kaget! Resesi Ekonomi AS Disebut \"Palsu\", Ini Faktanya",
-        "link": "https://www.cnbcindonesia.com/news/20220720133301-4-357072/jangan-kaget-resesi-ekonomi-as-disebut-palsu-ini-faktanya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDEzMzMwMS00LTM1NzA3Mi9qYW5nYW4ta2FnZXQtcmVzZXNpLWVrb25vbWktYXMtZGlzZWJ1dC1wYWxzdS1pbmktZmFrdGFueWE=",
-        "description": " Resesi ekonomi di Amerika Serikat (AS) semakin kencang digaungkan sejumlah lembaga. Namun ada yang menilai resesi adalah \"palsu\"."
     }
 ]
