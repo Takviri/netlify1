@@ -1,5 +1,19 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/507976/film-full-time-hadirkan-cerita-drama-keluarga-yang-menegangkan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNzk3Ni9maWxtLWZ1bGwtdGltZS1oYWRpcmthbi1jZXJpdGEtZHJhbWEta2VsdWFyZ2EteWFuZy1tZW5lZ2FuZ2thbg==",
+        "description": "Film Prancis ini menceritakan tentang aktivitas sehari-hari. Namun, sineas Eric Gravel ini dengan jenius mengembangkan menjadi naskah dengan pengadeganan intens, penokohan kuat plus dieksekusi dengan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/507990/ten-hag-pastikan-tetap-ingin-ronaldo-bertahan-di-mu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzk5MC90ZW4taGFnLXBhc3Rpa2FuLXRldGFwLWluZ2luLXJvbmFsZG8tYmVydGFoYW4tZGktbXU=",
+        "description": "PELATIH klub Liga Primer Inggris Manchester United Erik ten Hag kembali menegaskan dirinya ingin penyerang gaek Cristiano&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/507980/slank-resmi-luncurkan-koperasi-bernama-slankops",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzk4OC9pb2gtcGVya2VuYWxrYW4tbGFnaS1tYW5hamVtZW4tcGVyaWtsYW5hbi1wcmVtaXVtLTNhZHM=",
         "description": "INDOSAT Ooredoo Hutchison (IOH), melalui brand Tri, memperkenalkan kembali 3Ads sebagai marketplace iklan premium dengan mengedepankan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/507992/lewandowski-dikontrak-barcelona-hingga-2027",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzk5Mi9sZXdhbmRvd3NraS1kaWtvbnRyYWstYmFyY2Vsb25hLWhpbmdnYS0yMDI3",
-        "description": "ROBERT Lewandowski bergabung dengan Barcelona dengan kesepakatan senilai 50 juta euro hingga 2027. Hal itu diumumkan klub La Liga&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/507987/serial-dikta-dan-hukum-akan-tayang-di-wetv-mulai-29-juli",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNzk4Ny9zZXJpYWwtZGlrdGEtZGFuLWh1a3VtLWFrYW4tdGF5YW5nLWRpLXdldHYtbXVsYWktMjktanVsaQ==",
-        "description": "PLATFORM streaming WeTV akan merilis serial berjudul Dikta dan Hukum, yang dijadwalkan mulai tayang pada 29 Juli 2022. &quot;Banyak&#8230;"
     }
 ]
