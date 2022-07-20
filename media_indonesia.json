@@ -1,5 +1,47 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/507977/pengusaha-dukung-tmii-jadi-destinasi-wisata-internasional",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3OTc3L3Blbmd1c2FoYS1kdWt1bmctdG1paS1qYWRpLWRlc3RpbmFzaS13aXNhdGEtaW50ZXJuYXNpb25hbA==",
+        "description": "Ketua Himpunan Pengusaha Pribumi Indonesia Sarman Simanjorang mendukung adanya pemugaran anjungan daerah yang ada di kawasan Taman Mini Indonesia Indah (TMII) Jakarta dan menyebut agar seluruh kawasan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508020/penasehat-hukum-insya-allah-rizieq-shihab-bebas-hari-ini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDgwMjAvcGVuYXNlaGF0LWh1a3VtLWluc3lhLWFsbGFoLXJpemllcS1zaGloYWItYmViYXMtaGFyaS1pbmk=",
+        "description": "PENASIHAT hukum Aziz Yanuar membenarkan kliennya Muhammad Rizieq Shihab telah menyelesaikan masa tahanannya dan dinyatakan bebas dari Rumah Tahanan Negara (Rutan) Bareskrim, Rabu (20/7) &quot;Insya&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/508019/penggunaan-alat-kesehatan-dalam-negeri-perlu-terus-didorong",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwODAxOS9wZW5nZ3VuYWFuLWFsYXQta2VzZWhhdGFuLWRhbGFtLW5lZ2VyaS1wZXJsdS10ZXJ1cy1kaWRvcm9uZw==",
+        "description": "PRAKTISI ekonomi dan pengamat kesehatan Dr. Ilyas Indra mendukung penuh program pemerintah dalam rangka ketersediaan produk alat kesehatan produk dalam negeri. Hal itu dikatakan Ilyas seiring&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/508018/ini-alasan-pengunjung-ke-taman-nasional-komodo-diatur-ulang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4MDE4L2luaS1hbGFzYW4tcGVuZ3VuanVuZy1rZS10YW1hbi1uYXNpb25hbC1rb21vZG8tZGlhdHVyLXVsYW5n",
+        "description": "TAMAN Nasional Komodo dengan luas 173.300 hektar ditunjuk oleh Pemerintah Indonesia sebagai Taman Nasional pada tanggal 6 Maret 1980. Taman&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/508000/real-betis-terus-dekati-aouar-dari-lyon",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODAwMC9yZWFsLWJldGlzLXRlcnVzLWRla2F0aS1hb3Vhci1kYXJpLWx5b24=",
+        "description": "KLUB La Liga Real Betis dikabarkan semakin dekat untuk mengamankan jasa gelandang Houssem Aouar dari Lyon pada bursa transfer&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/508017/dolar-as-melemah-harga-emas-sedikit-menguat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwODAxNy9kb2xhci1hcy1tZWxlbWFoLWhhcmdhLWVtYXMtc2VkaWtpdC1tZW5ndWF0",
+        "description": "HARGA emas sedikit menguat pada akhir perdagangan Rabu pagi WIB. Pergerakan itu memperpanjang keuntungan untuk hari kedua berturut-turut, yang didorong oleh pelemahan nilai tukar dolar Amerika Serikat&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/508015/pemkab-siapkan-bantuan-rumah-rusak-banjir-pati-maksimal-rp10-juta",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwODAxMy9zaW5hci1tYXMtbGFuZC1qdWFsLXByb3BlcnRpLWRpLWluZ2dyaXMta2UtbGVtYmFnYS10YWJ1bmctaGFqaS1tYWxheXNpYQ==",
         "description": "SINAR Mas Land melalui anak usaha Sinarmas Land Limited yang berbasis di Singapura menandatangani perjanjian jual beli dengan Lembaga Tabung Haji (LTH) yang berasal dari Malaysia untuk divestasi Horseferry&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/507997/buka-peluang-pindah-federasi-pssi-jalin-komunikasi-dengan-eaff",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzk5Ny9idWthLXBlbHVhbmctcGluZGFoLWZlZGVyYXNpLXBzc2ktamFsaW4ta29tdW5pa2FzaS1kZW5nYW4tZWFmZg==",
-        "description": "KETUA Umum PSSI Mochamad Iriawan mengaku sudah&nbsp;berkomunikasi dengan Federasi Sepak Bola Asia Timur (EAFF) soal kepindahan PSSI&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/508010/17-anggota-dpr-as-ditangkap-karena-ikut-unjuk-rasa-bela-hak-aborsi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwODAxMC8xNy1hbmdnb3RhLWRwci1hcy1kaXRhbmdrYXAta2FyZW5hLWlrdXQtdW5qdWstcmFzYS1iZWxhLWhhay1hYm9yc2k=",
-        "description": "SEDIKITNYA 17 anggota DPR Amerika Serikat (AS), termasuk tokoh progresif Alexandria Ocasio-Cortez dan Ilhan Omar, ditangkap&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/508009/bmkg-sejumlah-wilayah-berpotensi-hujan-hari-ini",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4MDA5L2Jta2ctc2VqdW1sYWgtd2lsYXlhaC1iZXJwb3RlbnNpLWh1amFuLWhhcmktaW5p",
-        "description": "BADAN Meteorologi Klimatologi dan Geofisika (BMKG) memperingatkan potensi hujan dengan beragam intensitas turun di sejumlah wilayah. Dalam hal ini, dapat disertai angin kencang dan kilat/petir.&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/507995/yulita-sebut-memasak-itu-soal-perasaan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNzk5NS95dWxpdGEtc2VidXQtbWVtYXNhay1pdHUtc29hbC1wZXJhc2Fhbg==",
-        "description": "YULITA Intan Sari, yang merupakan jebolan kompetisi MasterChef Indonesia Season 5 mengatakan memasak merupakan aktivitas yang perlu&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/508008/survei-bi-sebut-kegiatan-usaha-di-bali-tumbuh-positif",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4MDA4L3N1cnZlaS1iaS1zZWJ1dC1rZWdpYXRhbi11c2FoYS1kaS1iYWxpLXR1bWJ1aC1wb3NpdGlm",
-        "description": "HASIL Survei Kegiatan Dunia Usaha ( SKDU ) di Bali mengindikasikan bahwa kegiatan dunia usaha pada triwulan II 2022 tumbuh positif . Hal ini tercermin dari nilai Saldo Bersih Tertimbang ( SBT ) yang&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/508006/kominfo-siap-bantu-pse-yang-ingin-mendaftar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4MDA2L2tvbWluZm8tc2lhcC1iYW50dS1wc2UteWFuZy1pbmdpbi1tZW5kYWZ0YXI=",
-        "description": "KEMENTERIAN Komunikasi dan Informatika (Kominfo) memiliki tim teknis untuk mendampingi penyelenggara sistem elektronik (PSE) lingkup privat yang ingin mendaftar. &quot;Terkait pendaftaran, kami&#8230;"
     }
 ]
