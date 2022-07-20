@@ -1,5 +1,40 @@
 [
     {
+        "title": "Realisasi Investasi RI Naik, Hingga Rekor Inflasi Inggris",
+        "link": "https://www.cnbcindonesia.com/news/20220720182632-8-357219/realisasi-investasi-ri-naik-hingga-rekor-inflasi-inggris",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE4MjYzMi04LTM1NzIxOS9yZWFsaXNhc2ktaW52ZXN0YXNpLXJpLW5haWstaGluZ2dhLXJla29yLWluZmxhc2ktaW5nZ3Jpcw==",
+        "description": " Kementerian BKPM melaporkan realisasi investasi di Indonesia hingga semester satu tahun ini naik 32 % secara tahunan."
+    },
+    {
+        "title": "Peran Batu Bara ke Industri Tinggi, BLU Harus Jadi Solusi!",
+        "link": "https://www.cnbcindonesia.com/news/20220720171606-4-357202/peran-batu-bara-ke-industri-tinggi-blu-harus-jadi-solusi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE3MTYwNi00LTM1NzIwMi9wZXJhbi1iYXR1LWJhcmEta2UtaW5kdXN0cmktdGluZ2dpLWJsdS1oYXJ1cy1qYWRpLXNvbHVzaQ==",
+        "description": " Kementerian Perindustrian (Kemenperin) menilai penggunaan batu bara sangat penting bagi industri untuk kebutuhan listrik pabriknya"
+    },
+    {
+        "title": "Sosok Pilihan Jokowi untuk Rayu Elon Musk Investasi di RI!",
+        "link": "https://www.cnbcindonesia.com/news/20220720171016-4-357200/sosok-pilihan-jokowi-untuk-rayu-elon-musk-investasi-di-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE3MTAxNi00LTM1NzIwMC9zb3Nvay1waWxpaGFuLWpva293aS11bnR1ay1yYXl1LWVsb24tbXVzay1pbnZlc3Rhc2ktZGktcmk=",
+        "description": " Siapa sosok pilihan Jokowi untuk berkomunikasi dengan Elon Musk?"
+    },
+    {
+        "title": "Avanza dan Xpander Minggir! Ditendang Mobil Terlaris Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220720165913-16-357197/avanza-xpander-minggir-ditendang-mobil-terlaris-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE2NTkxMy0xNi0zNTcxOTcvYXZhbnphLXhwYW5kZXItbWluZ2dpci1kaXRlbmRhbmctbW9iaWwtdGVybGFyaXMtaW5p",
+        "description": " Avanza, mobil sejuta umat memang menjuarai penjualan mobil se-Indonesia Raya di bulan Juni 2022, tapi kalah secara 6 bulanan dengan mobil ini."
+    },
+    {
+        "title": "Potret Australia saat Covid Meledak Lagi, Pakai Masker Lagi?",
+        "link": "https://www.cnbcindonesia.com/news/20220720162519-7-357170/potret-australia-saat-covid-meledak-lagi-pakai-masker-lagi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE2MjUxOS03LTM1NzE3MC9wb3RyZXQtYXVzdHJhbGlhLXNhYXQtY292aWQtbWVsZWRhay1sYWdpLXBha2FpLW1hc2tlci1sYWdp",
+        "description": " Kasus infeksi Covid-19 di Australia kembali melonjak. Rabu, kasus di negeri tetangga itu mencapai 48.000 sehari."
+    },
+    {
         "title": "Gelombang Panas Ekstrem Melanda Eropa",
         "link": "https://www.cnbcindonesia.com/news/20220720170058-8-357198/gelombang-panas-ekstrem-melanda-eropa",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE3MDI1Ny04LTM1NzE5OS90b2stc3JpLWxhbmthLXB1bnlhLXByZXNpZGVuLXRlcnBpbGloLWJhcnU=",
         "description": " Parlemen Sri Lanka memutuskan Ranil Wickremesinghe sebagai Presiden."
-    },
-    {
-        "title": "Gegara 'Robot', Investasi di RI Tak Banyak Serap Tenaga Kerja",
-        "link": "https://www.cnbcindonesia.com/news/20220720163843-4-357186/gegara-robot-investasi-di-ri-tak-banyak-serap-tenaga-kerja",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE2Mzg0My00LTM1NzE4Ni9nZWdhcmEtcm9ib3QtaW52ZXN0YXNpLWRpLXJpLXRhay1iYW55YWstc2VyYXAtdGVuYWdhLWtlcmph",
-        "description": " Tren peningkatan investasi di Indonesia, kenyataannya tak bisa mengimbangi penyerapan tenaga kerja."
-    },
-    {
-        "title": "Ya Salam! Butuh 7,3 Juta Ton, 70% Gula RI Kudu Impor",
-        "link": "https://www.cnbcindonesia.com/news/20220720180711-4-357215/ya-salam-butuh-73-juta-ton-70-gula-ri-kudu-impor",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE4MDcxMS00LTM1NzIxNS95YS1zYWxhbS1idXR1aC03My1qdXRhLXRvbi03MC1ndWxhLXJpLWt1ZHUtaW1wb3I=",
-        "description": " Jokowi mendorong jajarannya untuk mempersiapkan kebutuhan gula nasional agar tidak menjadi biang kerok inflasi"
-    },
-    {
-        "title": "Pembatasan Beli Pertalite Kapan Jalan? Ini Kata ESDM..",
-        "link": "https://www.cnbcindonesia.com/news/20220720162001-4-357167/pembatasan-beli-pertalite-kapan-jalan-ini-kata-esdm",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE2MjAwMS00LTM1NzE2Ny9wZW1iYXRhc2FuLWJlbGktcGVydGFsaXRlLWthcGFuLWphbGFuLWluaS1rYXRhLWVzZG0=",
-        "description": " Dirjen Migas Kementerian ESDM Tutuka Ariadji menyebutkan, pihaknya menunggu terbitnya Perpres 191/2014"
-    },
-    {
-        "title": "Naik Terus, Kasus Baru Covid di RI Tambah 5.653 Hari Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220720130143-4-357050/naik-terus-kasus-baru-covid-di-ri-tambah-5653-hari-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDEzMDE0My00LTM1NzA1MC9uYWlrLXRlcnVzLWthc3VzLWJhcnUtY292aWQtZGktcmktdGFtYmFoLTU2NTMtaGFyaS1pbmk=",
-        "description": " Simak data terbaru Covid-19."
-    },
-    {
-        "title": "Awas Panas, China Ngamuk ke Kapal Perang AS",
-        "link": "https://www.cnbcindonesia.com/news/20220720163955-4-357184/awas-panas-china-ngamuk-ke-kapal-perang-as",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE2Mzk1NS00LTM1NzE4NC9hd2FzLXBhbmFzLWNoaW5hLW5nYW11ay1rZS1rYXBhbC1wZXJhbmctYXM=",
-        "description": " China \"mengamuk\" ke Amerika Serikat (AS), Rabu (20/7/2022). Hal ini terkait kapal perang AS yang wara-wiri melintasi Selat Taiwan Selasa."
     }
 ]
