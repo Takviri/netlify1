@@ -1,9 +1,16 @@
 [
     {
-        "title": "Daftar SPBU Tempat Registrasi Beli Pertalite dan Solar",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220720135755-85-823863/daftar-spbu-tempat-registrasi-beli-pertalite-dan-solar",
+        "title": "Kendaraan yang Dihapus dari Data Samsat Otomatis Jadi Bodong",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220720134150-532-823857/kendaraan-yang-dihapus-dari-data-samsat-otomatis-jadi-bodong",
         "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIwMTM1NzU1LTg1LTgyMzg2My9kYWZ0YXItc3BidS10ZW1wYXQtcmVnaXN0cmFzaS1iZWxpLXBlcnRhbGl0ZS1kYW4tc29sYXI=",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIwMTM0MTUwLTUzMi04MjM4NTcva2VuZGFyYWFuLXlhbmctZGloYXB1cy1kYXJpLWRhdGEtc2Ftc2F0LW90b21hdGlzLWphZGktYm9kb25n",
+        "description": " Jasa Raharja mengatakan kendaraan bermotor yang datanya dihapus dari Sistem Administrasi Manunggal Satu Atap (Samsat) akan menjadi ilegal alias bodong."
+    },
+    {
+        "title": "Daftar SPBU Tempat Registrasi Beli Pertalite Pakai MyPertamina di DKI",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220720135755-85-823863/daftar-spbu-tempat-registrasi-beli-pertalite-pakai-mypertamina-di-dki",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIwMTM1NzU1LTg1LTgyMzg2My9kYWZ0YXItc3BidS10ZW1wYXQtcmVnaXN0cmFzaS1iZWxpLXBlcnRhbGl0ZS1wYWthaS1teXBlcnRhbWluYS1kaS1ka2k=",
         "description": " Warga Jakarta bisa mendaftar pembelian pertalite dan solar lewat aplikasi MyPertamina ataupun website. Berikut daftar SPBU yang\u00c2\u00a0membantu saat pendaftaran."
     },
     {
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE5MTUwOTI1LTg1LTgyMzM5Mi9wZW5nZ3VuYWFuLWdhcy1oYW55YS1wZXJsYW1iYXQtdHJhbnNpc2ktZW5lcmdpLWtlLXplcm8tZW1pc3Npb24=",
         "description": " Greenpeace Indonesia menyatakan penggunaan energi gas tidak jauh lebih baik dari pada fosil."
-    },
-    {
-        "title": "Gerak Cepat Transisi Energi, PLN Sediakan 2 SPKLU di Area BNI",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220720115441-90-823783/gerak-cepat-transisi-energi-pln-sediakan-2-spklu-di-area-bni",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIwMTE1NDQxLTkwLTgyMzc4My9nZXJhay1jZXBhdC10cmFuc2lzaS1lbmVyZ2ktcGxuLXNlZGlha2FuLTItc3BrbHUtZGktYXJlYS1ibmk=",
-        "description": " Kedua SPKLU itu terletak\u00c2\u00a0masing-masing di Kantor Pusat BNI, Jalan Jenderal Sudirman dan Menara BNI Pejompongan, Jalan Pejompongan Raya, Jakarta."
     }
 ]
