@@ -1,5 +1,40 @@
 [
     {
+        "title": "Alert! London Dalam Status \"Insiden Besar\"",
+        "link": "https://www.cnbcindonesia.com/news/20220720165829-8-357196/alert-london-dalam-status-insiden-besar",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE2NTgyOS04LTM1NzE5Ni9hbGVydC1sb25kb24tZGFsYW0tc3RhdHVzLWluc2lkZW4tYmVzYXI=",
+        "description": " Kenaikan suhu di London 40 derajat celcius."
+    },
+    {
+        "title": "Sudah Bulat, Kapan Tenaga Honorer Pemerintahan Dihapus?",
+        "link": "https://www.cnbcindonesia.com/news/20220720160350-4-357161/sudah-bulat-kapan-tenaga-honorer-pemerintahan-dihapus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE2MDM1MC00LTM1NzE2MS9zdWRhaC1idWxhdC1rYXBhbi10ZW5hZ2EtaG9ub3Jlci1wZW1lcmludGFoYW4tZGloYXB1cw==",
+        "description": " Kepala daerah yang tersebar di berbagai wilayah Indonesia telah diwajibkan untuk tidak lagi merekrut tenaga honorer, tanpa terkecuali."
+    },
+    {
+        "title": "Proyek Mangkrak di RI Tembus Rp149,3 Triliun",
+        "link": "https://www.cnbcindonesia.com/news/20220720172553-4-357206/proyek-mangkrak-di-ri-tembus-rp1493-triliun",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE3MjU1My00LTM1NzIwNi9wcm95ZWstbWFuZ2tyYWstZGktcmktdGVtYnVzLXJwMTQ5My10cmlsaXVu",
+        "description": " Masih ada tersisa Rp 149,3 triliun atau 21,1% proyek investasi mangkrak di Indonesia."
+    },
+    {
+        "title": "Bocoran Aturan Baru PNS: Bisa Kena Rotasi 2 Tahun Sekali!",
+        "link": "https://www.cnbcindonesia.com/news/20220720155123-4-357148/bocoran-aturan-baru-pns-bisa-kena-rotasi-2-tahun-sekali",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE1NTEyMy00LTM1NzE0OC9ib2NvcmFuLWF0dXJhbi1iYXJ1LXBucy1iaXNhLWtlbmEtcm90YXNpLTItdGFodW4tc2VrYWxp",
+        "description": " Pemerintah tengah menggodok aturan terbaru mengenai jabatan fungsional PNS"
+    },
+    {
+        "title": "Jelang Setahun di Kelola Pertamina, Blok Rokan Bor 350 Sumur",
+        "link": "https://www.cnbcindonesia.com/news/20220720152707-4-357140/jelang-setahun-di-kelola-pertamina-blok-rokan-bor-350-sumur",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE1MjcwNy00LTM1NzE0MC9qZWxhbmctc2V0YWh1bi1kaS1rZWxvbGEtcGVydGFtaW5hLWJsb2stcm9rYW4tYm9yLTM1MC1zdW11cg==",
+        "description": " Pertamina Hulu Rokan mencatat produksi rata-rata Blok Rokan mencapai 161 MBOPD"
+    },
+    {
         "title": "NIK Resmi Jadi NPWP, Ini Cara Cek Identitasmu Secara Online",
         "link": "https://www.cnbcindonesia.com/news/20220720152947-4-357142/nik-resmi-jadi-npwp-ini-cara-cek-identitasmu-secara-online",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDEzMzMwMS00LTM1NzA3Mi9qYW5nYW4ta2FnZXQtcmVzZXNpLWVrb25vbWktYXMtZGlzZWJ1dC1wYWxzdS1pbmktZmFrdGFueWE=",
         "description": " Resesi ekonomi di Amerika Serikat (AS) semakin kencang digaungkan sejumlah lembaga. Namun ada yang menilai resesi adalah \"palsu\"."
-    },
-    {
-        "title": "Asing Berbondong-bondong Masuk RI, Ini Sektor yang Diincar!",
-        "link": "https://www.cnbcindonesia.com/news/20220720153619-4-357144/asing-berbondong-bondong-masuk-ri-ini-sektor-yang-diincar",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE1MzYxOS00LTM1NzE0NC9hc2luZy1iZXJib25kb25nLWJvbmRvbmctbWFzdWstcmktaW5pLXNla3Rvci15YW5nLWRpaW5jYXI=",
-        "description": " Realisasi investasi sepanjang Januari-Juni 2022 mencapai Rp 584,6 triliun."
-    },
-    {
-        "title": "Video: Kasus Covid Tetangga RI Ini Meledak, Warga Diminta WFH",
-        "link": "https://www.cnbcindonesia.com/news/20220720160244-8-357160/video-kasus-covid-tetangga-ri-ini-meledak-warga-diminta-wfh",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE2MDI0NC04LTM1NzE2MC92aWRlby1rYXN1cy1jb3ZpZC10ZXRhbmdnYS1yaS1pbmktbWVsZWRhay13YXJnYS1kaW1pbnRhLXdmaA==",
-        "description": " Covid Tetangga RI Meledak, Warga Diminta WFH"
-    },
-    {
-        "title": "Mi Instan Makin Mahal, Harga 'Beterbangan' di Minimarket",
-        "link": "https://www.cnbcindonesia.com/news/20220720132013-4-357083/mi-instan-makin-mahal-harga-beterbangan-di-minimarket",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDEzMjAxMy00LTM1NzA4My9taS1pbnN0YW4tbWFraW4tbWFoYWwtaGFyZ2EtYmV0ZXJiYW5nYW4tZGktbWluaW1hcmtldA==",
-        "description": " Harga mi instan sudah merangkak naik beberapa waktu terakhir karena efek situasi dunia seperti perang Ukraina yang mengerak harga terigu dan gandum."
-    },
-    {
-        "title": "Waspada Badai PHK Jika Baju Bangladesh Banjiri Pasar RI",
-        "link": "https://www.cnbcindonesia.com/news/20220720153221-4-357143/waspada-badai-phk-jika-baju-bangladesh-banjiri-pasar-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE1MzIyMS00LTM1NzE0My93YXNwYWRhLWJhZGFpLXBoay1qaWthLWJhanUtYmFuZ2xhZGVzaC1iYW5qaXJpLXBhc2FyLXJp",
-        "description": " Sekjen Asosiasi Serat dan Benang Filament Indonesia Redma Gita Wirawasta meminta pemerintah tidak membebaskan impor atas produk pakaian jadi asal Bangladesh."
-    },
-    {
-        "title": "Video: Resmi! NIK Sekarang Jadi Pengganti NPWP",
-        "link": "https://www.cnbcindonesia.com/news/20220720151203-8-357133/video-resmi-nik-sekarang-jadi-pengganti-npwp",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE1MTIwMy04LTM1NzEzMy92aWRlby1yZXNtaS1uaWstc2VrYXJhbmctamFkaS1wZW5nZ2FudGktbnB3cA==",
-        "description": " 19 juta orang yang sudah bisa menggunakan NIK untuk melapor surat pemberitahuan tahunan mulai 19 Juli 2022."
     }
 ]
