@@ -1,5 +1,26 @@
 [
     {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508289/pemeriksaan-hari-kedelapan-ahyudin-mengaku-ditanya-soal-pembelian-aset-yayasan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDgyODkvcGVtZXJpa3NhYW4taGFyaS1rZWRlbGFwYW4tYWh5dWRpbi1tZW5nYWt1LWRpdGFueWEtc29hbC1wZW1iZWxpYW4tYXNldC15YXlhc2Fu",
+        "description": "PENDIRI Yayasan Aksi Cepat Tanggap (ACT) Ahyudin menjalani pemeriksaan di Bareskrim Polri untuk hari kedelapan, Rabu (20/7). Usai pemeriksaan,&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/508255/fatamorgana-kesejahteraan-di-kota-pariwisata-superpremium",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDgyNTUvZmF0YW1vcmdhbmEta2VzZWphaHRlcmFhbi1kaS1rb3RhLXBhcml3aXNhdGEtc3VwZXJwcmVtaXVt",
+        "description": "SEJAK ditetapkan sebagai salah satu destinasi wisata superpremium, tampilan Kota Labuan Bajo berubah secara signifikan dalam tempo relatif singkat. Perubahan wajah kota itu seperti disulap. Dulu tampilannya&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/508246/makna-lawatan-biden-ke-timur-tengah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDgyNDYvbWFrbmEtbGF3YXRhbi1iaWRlbi1rZS10aW11ci10ZW5nYWg=",
+        "description": "UNTUK pertama kalinya sejak menduduki Gedung Putih pada awal 2021, Presiden AS Joe Biden melakukan lawatan ke Timur Tengah. Lawatan empat hari ini (13-16 Juli) tak lepas dari masalah politik dalam&#8230;"
+    },
+    {
         "title": "Opini",
         "link": "https://m.mediaindonesia.com/opini/508207/sinergi-dan-tata-kelola-ekonomi-digital",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODI3OC9oYWFsYW5kLWRpaGFyYXBrYW4tYmlzYS1sYW1wYXUtcmVrb3ItZ29sLWFndWVybw==",
         "description": "BEK Manchester City Kyle Walker berharap striker anyar timnya Erling Haaland mampu mengikuti jejak Sergio Aguero dan Gabriel Jesus di lini depan The Citizen. Haaland akan menjadi satu-satunya&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/508277/tuchel-chelsea-masih-butuh-tambahan-pemain",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODI3Ny90dWNoZWwtY2hlbHNlYS1tYXNpaC1idXR1aC10YW1iYWhhbi1wZW1haW4=",
-        "description": "PELATIH Chelsea Thomas Tuchel mengakui timnya masih perlu mendatangkan beberapa pemain anyar pada bursa transfer pemain musim panas ini. Menurut Tuchel, jika Chelsea tidak meningkatkan kekuatan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508276/kpk-usut-dugaan-suap-mardani-maming-sejak-februari-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDgyNzYva3BrLXVzdXQtZHVnYWFuLXN1YXAtbWFyZGFuaS1tYW1pbmctc2VqYWstZmVicnVhcmktMjAyMg==",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) membeberkan awal mula pengusutan kasus dugaan suap dan gratifikasi terkait pengurusan izin pertambangan di Kabupaten Tanah Bumbu, Kalimantan Selatan (Kalsel). KPK&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508275/kompolnas-kroscek-alibi-irjen-ferdy-sambo-soal-keberadaannya-saat-baku-tembak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDgyNzUva29tcG9sbmFzLWtyb3NjZWstYWxpYmktaXJqZW4tZmVyZHktc2FtYm8tc29hbC1rZWJlcmFkYWFubnlhLXNhYXQtYmFrdS10ZW1iYWs=",
-        "description": "KOMPOLNAS akan mengusut informasi Irjen Ferdy Sambo melakukan tes PCR covid-19 saat peristiwa baku tembak ajudan di kediamannya.&nbsp; &quot;Termasuk itu didalami (tes PCR), akan dicek alibinya,&#8230;"
     }
 ]
