@@ -1,5 +1,19 @@
 [
     {
+        "title": "KKP Sampaikan Capaian Kinerja Semester I 2022",
+        "link": "https://nasional.tempo.co/read/1614038/kkp-sampaikan-capaian-kinerja-semester-i-2022",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQwMzgva2twLXNhbXBhaWthbi1jYXBhaWFuLWtpbmVyamEtc2VtZXN0ZXItaS0yMDIy",
+        "description": "KKP berhasil mengoptimalkan peran ruang laut sesuai prinsip ekonomi biru."
+    },
+    {
+        "title": "Survei Capres 2024: Elektabilitas Anies Baswedan Tempel Ketat Ganjar Pranowo",
+        "link": "https://nasional.tempo.co/read/1614036/survei-capres-2024-elektabilitas-anies-baswedan-tempel-ketat-ganjar-pranowo",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQwMzYvc3VydmVpLWNhcHJlcy0yMDI0LWVsZWt0YWJpbGl0YXMtYW5pZXMtYmFzd2VkYW4tdGVtcGVsLWtldGF0LWdhbmphci1wcmFub3dv",
+        "description": "Hasil survei ARSC soal capres 2024 menunjukkan elektabilitas Ganjar Pranowo menempati posisi teratas disusul Anies Baswedan, dan Prabowo Subianto."
+    },
+    {
         "title": "Hukuman Mati untuk Pelaku Pembunuhan Berencana Apakah Melanggar HAM?",
         "link": "https://nasional.tempo.co/read/1613991/hukuman-mati-untuk-pelaku-pembunuhan-berencana-apakah-melanggar-ham",
         "image": "static/images/tempo_nasional.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQwMDkvdXN1bGthbi1udS1kYW4tbXVoYW1tYWRpeWFoLXJhaWgtbm9iZWwtcmFtb3MtaG9ydGEtbWVyZWthLXN1YXJha2FuLXBlcmRhbWFpYW4=",
         "description": "Ramos Horta mengatakan NU dan Muhammadiyah berperan penting dalam menyuarakan perdamaian, pantas untuk dicalonkan sebagai kandidat peraih nobel perdamaian."
-    },
-    {
-        "title": "Kata Polri Soal Permintaan Brigjen Hendra Kurniawan dan Kapolres Jaksel Dinonaktifkan",
-        "link": "https://nasional.tempo.co/read/1614003/kata-polri-soal-permintaan-brigjen-hendra-kurniawan-dan-kapolres-jaksel-dinonaktifkan",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQwMDMva2F0YS1wb2xyaS1zb2FsLXBlcm1pbnRhYW4tYnJpZ2plbi1oZW5kcmEta3Vybmlhd2FuLWRhbi1rYXBvbHJlcy1qYWtzZWwtZGlub25ha3RpZmthbg==",
-        "description": "Polri memiliki sejumlah pertimbangan sebelum menonaktifkan Brigjen Hendra Kurniawan dan Kapolres Jakarta Selatan Kombes Budhi Herdi Susianto"
-    },
-    {
-        "title": "Kasus Budhi Sarwono, KPK Periksa Wakil Bupati Banjarnegara",
-        "link": "https://nasional.tempo.co/read/1613999/kasus-budhi-sarwono-kpk-periksa-wakil-bupati-banjarnegara",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTM5OTkva2FzdXMtYnVkaGktc2Fyd29uby1rcGstcGVyaWtzYS13YWtpbC1idXBhdGktYmFuamFybmVnYXJh",
-        "description": "KPK memanggil Wakil Bupati Banyumas Sadewo Tri Lastiono dan delapan saksi lainnya dalam penyidikan kasus yang menyeret Budhi Sarwono"
     }
 ]
