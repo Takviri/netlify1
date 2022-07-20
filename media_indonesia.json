@@ -1,5 +1,19 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/508207/sinergi-dan-tata-kelola-ekonomi-digital",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDgyMDcvc2luZXJnaS1kYW4tdGF0YS1rZWxvbGEtZWtvbm9taS1kaWdpdGFs",
+        "description": "DUA tahun lebih lamanya kita telah melalui masa-masa pandemi. Indonesia yang diprediksi akan menjadi salah satu kekuatan ekonomi dunia pada 2045 awalnya diperkirakan akan berhasil dalam menjaga stabilitas&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/508288/dybala-mengaku-tidak-sabar-dilatih-mourinho",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODI4OC9keWJhbGEtbWVuZ2FrdS10aWRhay1zYWJhci1kaWxhdGloLW1vdXJpbmhv",
+        "description": "PENYERANG anyar klub Serie A AS Roma Paulo Dybala mengatakan dirinya tidak sabar untuk segera bekerja bersama pelatih Jose Mourinho&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/508287/city-resmi-hubungi-brighton-soal-trransfer-cucurella",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDgyNzUva29tcG9sbmFzLWtyb3NjZWstYWxpYmktaXJqZW4tZmVyZHktc2FtYm8tc29hbC1rZWJlcmFkYWFubnlhLXNhYXQtYmFrdS10ZW1iYWs=",
         "description": "KOMPOLNAS akan mengusut informasi Irjen Ferdy Sambo melakukan tes PCR covid-19 saat peristiwa baku tembak ajudan di kediamannya.&nbsp; &quot;Termasuk itu didalami (tes PCR), akan dicek alibinya,&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/508274/luis-alberto-desak-lazio-menjualnya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODI3NC9sdWlzLWFsYmVydG8tZGVzYWstbGF6aW8tbWVuanVhbG55YQ==",
-        "description": "LUIS Alberto meminta Lazio memasukkan dirinya ke dalam daftar pemain yang dijual pada bursa transfer pemain musim panas ini. Dikutip dari Football Italia, Rabu (20/7), Alberto dikabarkan ingin&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/508273/lima-penyakit-yang-tidak-menular",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4MjczL2xpbWEtcGVueWFraXQteWFuZy10aWRhay1tZW51bGFy",
-        "description": "BERDASARKAN data dari WHO pada 2018 diperkirakan ada sekitar 41 juta orang yang meninggal akibat penyakit tidak menular setiap tahun. Jumlah ini menunjukan bahwa hampir 71% angka kematian disebabkan&#8230;"
     }
 ]
