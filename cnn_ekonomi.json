@@ -1,10 +1,24 @@
 [
     {
+        "title": "Daftar Tarif Airport Tax Naik di Lima Bandara AP II Mulai 1 Agustus",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220720070439-92-823651/daftar-tarif-airport-tax-naik-di-lima-bandara-ap-ii-mulai-1-agustus",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIwMDcwNDM5LTkyLTgyMzY1MS9kYWZ0YXItdGFyaWYtYWlycG9ydC10YXgtbmFpay1kaS1saW1hLWJhbmRhcmEtYXAtaWktbXVsYWktMS1hZ3VzdHVz",
+        "description": " Tarif Pelayanan Jasa Penumpang Pesawat Udara (PJP2U) atau airport tax naik di\u00c2\u00a0sejumlah bandara mulai 1 Agustus 2022. Berikut daftarnya."
+    },
+    {
         "title": "Intip Keuntungan Buka Deposito di Allo Bank",
         "link": "https://www.cnnindonesia.com/ekonomi/20220719170940-83-823467/intip-keuntungan-buka-deposito-di-allo-bank",
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE5MTcwOTQwLTgzLTgyMzQ2Ny9pbnRpcC1rZXVudHVuZ2FuLWJ1a2EtZGVwb3NpdG8tZGktYWxsby1iYW5r",
         "description": " Bank digital Allo Bank menawarkan berbagai keuntungan investasi lewat produk depositonya, mulai dari fasilitas hingga suku bunga menggiurkan."
+    },
+    {
+        "title": "Mencari Senjata Ampuh Indonesia Lawan Ancaman Krisis Global",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220720063122-532-823646/mencari-senjata-ampuh-indonesia-lawan-ancaman-krisis-global",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIwMDYzMTIyLTUzMi04MjM2NDYvbWVuY2FyaS1zZW5qYXRhLWFtcHVoLWluZG9uZXNpYS1sYXdhbi1hbmNhbWFuLWtyaXNpcy1nbG9iYWw=",
+        "description": " Ekonom menilai kolaborasi kebijakan fiskal\u00c2\u00a0dan moneter yang mumpuni menjadi senjata Indonesia melawan dampak krisis global."
     },
     {
         "title": "Daftar Negara Murah untuk Traveling saat Inflasi Melonjak",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE5MTEzNjM4LTkyLTgyMzI2Mi9yZWFsaXNhc2ktcHJvZ3JhbS1zZWp1dGEtcnVtYWgtNDY2LXJpYnUtdW5pdC1wZXItc2VtZXN0ZXItaS0yMDIy",
         "description": " Realisasi Program Sejuta Rumah mencapai 466.011 yang terdiri dari\u00c2\u00a0382.162 hunian untuk MBR dan 83.849 hunian untuk non-MBR per Semester I 2022."
-    },
-    {
-        "title": "Dishub Bekasi: Lampu Merah Cibubur Permintaan Pengembang",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220719204315-92-823576/dishub-bekasi-lampu-merah-cibubur-permintaan-pengembang",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE5MjA0MzE1LTkyLTgyMzU3Ni9kaXNodWItYmVrYXNpLWxhbXB1LW1lcmFoLWNpYnVidXItcGVybWludGFhbi1wZW5nZW1iYW5n",
-        "description": " Dishub Kota Bekasi mengklaim pemasangan lampu lalu lintas di lokasi kecelakaan maut truk tangki Pertamina atas permintaan anak usaha Ciputra Group."
-    },
-    {
-        "title": "Sri Mulyani Sebut Ancaman Resesi Ekonomi di Sejumlah Negara Kian Nyata",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220719155549-532-823411/sri-mulyani-sebut-ancaman-resesi-ekonomi-di-sejumlah-negara-kian-nyata",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzE5MTU1NTQ5LTUzMi04MjM0MTEvc3JpLW11bHlhbmktc2VidXQtYW5jYW1hbi1yZXNlc2ktZWtvbm9taS1kaS1zZWp1bWxhaC1uZWdhcmEta2lhbi1ueWF0YQ==",
-        "description": " Menteri Keuangan Sri Mulyani mengatakan resesi ekonomi makin nyata dan mengancam banyak negara. Berikut tanda-tanda resesi yang diungkapnya."
     }
 ]
