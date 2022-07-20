@@ -1,5 +1,19 @@
 [
     {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/508078/tahun-ajaran-2022-jumlah-calon-siswa-miskin-di-kota-depok-mendadak-melonjak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDgwNzgvdGFodW4tYWphcmFuLTIwMjItanVtbGFoLWNhbG9uLXNpc3dhLW1pc2tpbi1kaS1rb3RhLWRlcG9rLW1lbmRhZGFrLW1lbG9uamFr",
+        "description": "TAHUN ajaran 2022 jumlah calon peserta didik baru yang menggunakan Surat Keterangan Tidak Mampu (SKTM) dan Kartu Indonesia Pintar (KIP) di 33 SMP Negeri dan 19 SMA/SMK Negeri di Kota Depok Jawa Barat&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/508077/presiden-ramos-horta-beri-kuliah-umum-tentang-kerja-sama-ri-timor-leste-di-universitas-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4MDc3L3ByZXNpZGVuLXJhbW9zLWhvcnRhLWJlcmkta3VsaWFoLXVtdW0tdGVudGFuZy1rZXJqYS1zYW1hLXJpLXRpbW9yLWxlc3RlLWRpLXVuaXZlcnNpdGFzLWluZG9uZXNpYQ==",
+        "description": "PRESIDEN Timor Leste Jose Ramos-Horta mengunjung Universitas Indonesia (UI) Ia juga turut memberikan kuliah umum di Fakultas Ilmu Sosial dan Ilmu Politik (FISIP) UI, Selasa (19/7). Horta memberikan&#8230;"
+    },
+    {
         "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/508073/manfaat-air-beras-untuk-kesehatan-dan-keindahan-rambut",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDgwNjcvZWRnYXIteGF2aWVyLWJlcnNpYXAtaGFkYXBpLXNlYS1nYW1lcy1rYW1ib2phLWRhbi1hc2lhbi1nYW1lcy1oYW5nemhvdQ==",
         "description": "KESUKSESAN atlet wushu Indonesia, Edgar Xavier Marvelo, merebut medali emas nomor Changquan putra pada Kejuaraan Dunia Wushu 2022 di Amerika Serikat, menjadi modal baik. Dalam hal ini, untuk&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/508066/geranium-restoran-terbaik-di-dunia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwODA2Ni9nZXJhbml1bS1yZXN0b3Jhbi10ZXJiYWlrLWRpLWR1bmlh",
-        "description": "RESTORAN asal Denmark Geranium telah dinobatkan sebagai restoran terbaik di dunia dalam daftar 50 Restoran Terbaik di Dunia pada&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508065/habibrizieq-shihabsaat-ini-berstatus-tahanan-kota",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDgwNjUvaGFiaWJyaXppZXEtc2hpaGFic2FhdC1pbmktYmVyc3RhdHVzLXRhaGFuYW4ta290YQ==",
-        "description": "MANTAN Imam besar Front Pembela Islam (FPI) Habib Rizieq Shihab (HRS) mengungkapkan bahwa ia saat ini berstatus tahanan kota. Hal ini melansir tayangan live streaming YouTube Islami&#8230;"
     }
 ]
