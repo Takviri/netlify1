@@ -1,6 +1,27 @@
 [
     {
         "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/508081/kasus-aktif-covid-19-kota-bekasi-tembus-1295-orang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDgwODEva2FzdXMtYWt0aWYtY292aWQtMTkta290YS1iZWthc2ktdGVtYnVzLTEyOTUtb3Jhbmc=",
+        "description": "PERKEMBANGAN kasus terkonfirmasi positif Covid-19 di Kota Bekasi terus bertambah. Hingga update per 18 Juli 2022, terdapat penambahan kasus konfirmasi baru sebanyak 178 orang, sembuh 79 orang, sehingga&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/508080/manulife-dan-bank-dbs-kolaborasi-luncurkan-asuransi-jiwa-keluarga",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwODA4MC9tYW51bGlmZS1kYW4tYmFuay1kYnMta29sYWJvcmFzaS1sdW5jdXJrYW4tYXN1cmFuc2ktaml3YS1rZWx1YXJnYQ==",
+        "description": "DUA perusahaan, Manulife Indonesia dan Bank DBS, Indonesia bekerja sama meluncurkan MiTreasure Whole Life Legacy (MiWILL). MiTreasure Whole Life Legacy adalah produk perlindungan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/508079/otorita-labuan-bajo-terapkan-smku-untuk-bantu-para-pelaku-usaha",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4MDc5L290b3JpdGEtbGFidWFuLWJham8tdGVyYXBrYW4tc21rdS11bnR1ay1iYW50dS1wYXJhLXBlbGFrdS11c2FoYQ==",
+        "description": "MELALUI media daring, Direktur Utama Badan Pelaksana Otorita Labuan Bajo Flores (BPOLBF), Shana Fatina, hadir dalam &ldquo;Rapat Tindak Lanjut Kegiatan Kolaborasi Lintas Kementerian dalam Rangka Mewujudkan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
         "link": "https://m.mediaindonesia.com/megapolitan/508078/tahun-ajaran-2022-jumlah-calon-siswa-miskin-di-kota-depok-mendadak-melonjak",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDgwNzgvdGFodW4tYWphcmFuLTIwMjItanVtbGFoLWNhbG9uLXNpc3dhLW1pc2tpbi1kaS1rb3RhLWRlcG9rLW1lbmRhZGFrLW1lbG9uamFr",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDgwNzEvdmlyYWwtcmVtYWphLXNjYmQtdGlkdXItZGktamVtYmF0YW4tcGVueWViZXJhbmdhbi1kdWt1aC1hdGFz",
         "description": "Sebuah video yang memperlihatkan remaja &nbsp;SCBD (Sudirman, Citayem, Bojong Gede, Depok) tertidur di jembatan penyeberangan Dukuh Atas, Jakarta,&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/508070/resep-praktis-membuat-bubur-kacang-hijau-di-rumah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwODA3MC9yZXNlcC1wcmFrdGlzLW1lbWJ1YXQtYnVidXIta2FjYW5nLWhpamF1LWRpLXJ1bWFo",
-        "description": "Bubur kacang hijau merupakan salah satu kudapan tradisional yang banyak dijual di berbagai kedai, rasanya yang manis dan gurih banyak disukai masyarakat Indonesia. Terbukti setiap daerah mempunyai&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/508069/hin-lanjutkan-transformasi-untuk-bangkitkan-industri-hospitality-bumn-dan-ekonomi-kreatif-baru",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4MDY5L2hpbi1sYW5qdXRrYW4tdHJhbnNmb3JtYXNpLXVudHVrLWJhbmdraXRrYW4taW5kdXN0cmktaG9zcGl0YWxpdHktYnVtbi1kYW4tZWtvbm9taS1rcmVhdGlmLWJhcnU=",
-        "description": "PT Hotel Indonesia Natour (HIN) yang telah berdiri sejak 1962 bersamaan dengan pembangunan dan peresmian Hotel Indonesia, terus melakukan transformasi sebagai BUMN. Sejak 2020, HIN bertransformasi&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/508067/edgar-xavier-bersiap-hadapi-sea-games-kamboja-dan-asian-games-hangzhou",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDgwNjcvZWRnYXIteGF2aWVyLWJlcnNpYXAtaGFkYXBpLXNlYS1nYW1lcy1rYW1ib2phLWRhbi1hc2lhbi1nYW1lcy1oYW5nemhvdQ==",
-        "description": "KESUKSESAN atlet wushu Indonesia, Edgar Xavier Marvelo, merebut medali emas nomor Changquan putra pada Kejuaraan Dunia Wushu 2022 di Amerika Serikat, menjadi modal baik. Dalam hal ini, untuk&#8230;"
     }
 ]
