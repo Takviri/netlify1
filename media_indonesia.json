@@ -1,9 +1,37 @@
 [
     {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/508088/para-santri-pesantren-nurhasanat-karawang-dapat-edukasi-pola-makan-sehat",
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508092/anggota-dpr-sarankan-bentuk-markas-militer-permanen-di-papua",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4MDg4L3BhcmEtc2FudHJpLXBlc2FudHJlbi1udXJoYXNhbmF0LWthcmF3YW5nLWRhcGF0LWVkdWthc2ktcG9sYS1tYWthbi1zZWhhdA==",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDgwOTIvYW5nZ290YS1kcHItc2FyYW5rYW4tYmVudHVrLW1hcmthcy1taWxpdGVyLXBlcm1hbmVuLWRpLXBhcHVh",
+        "description": "ANGGOTA Komisi I DPR RI Dave Akbarshah Fikarno menyarankan agar pemerintah membentuk markas militer secara permanen di Papua untuk menyelesaikan persoalan di Bumi Cenderawasih secara komprehensif dari&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508091/kemenkumham-minta-hukuman-kurungan-badan-tak-dijadikan-prioritas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDgwOTEva2VtZW5rdW1oYW0tbWludGEtaHVrdW1hbi1rdXJ1bmdhbi1iYWRhbi10YWstZGlqYWRpa2FuLXByaW9yaXRhcw==",
+        "description": "WAKIL Menteri Hukum dan Ham (Mamenkum dan HAM) Eddy Hiariej meminta hukuman kurungan badan tidak dijadikan prioritas utama dalam pemidanaan. Sebagai alternatif, hukuman seperti rehabilitasi atau kerja&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/508090/perhutani-dan-kementerian-atr-raih-sag-award-2022-di-san-diego-as",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA4MDkwL3Blcmh1dGFuaS1kYW4ta2VtZW50ZXJpYW4tYXRyLXJhaWgtc2FnLWF3YXJkLTIwMjItZGktc2FuLWRpZWdvLWFz",
+        "description": "ESRI, penyedia solusi geospasial terkemuka di Indonesia, memberikan penghargaan teknologi berskala global kepada Perum Perhutani dan Direktorat Jenderal Tata Ruang, Kementerian Agraria dan Tata Ruang/Badan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/508089/alison-dos-santos-juara-dunia-lari-gawang-400-meter",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDgwODkvYWxpc29uLWRvcy1zYW50b3MtanVhcmEtZHVuaWEtbGFyaS1nYXdhbmctNDAwLW1ldGVy",
+        "description": "ALISON Dos Santos menyabet medali emas nomor lari gawang 400 meter putra pada Kejuaraan Dunia Atletik 2022 di Oregon, Amerika Serikat, Selasa (19/7) waktu setempat. Kemenangan itu membuat Dos&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/508088/santri-pesantren-nurhasanat-karawang-dapat-edukasi-pola-makan-sehat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4MDg4L3NhbnRyaS1wZXNhbnRyZW4tbnVyaGFzYW5hdC1rYXJhd2FuZy1kYXBhdC1lZHVrYXNpLXBvbGEtbWFrYW4tc2VoYXQ=",
         "description": "UNTUK memperbaiki status gizi dan perilaku hidup bersih dan sehat (PHBS) anak-anak maupun remaja di Tanah Air, PT Ajinomoto Indonesia melaksanakan School Lunch Program yang berlangsung sejak&#8230;"
     },
     {
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDgwODMva2VjZWxha2Fhbi1jaWJ1YnVyLXBlbWFzYW5nLWxhbXB1LW1lcmFoLXR1cnV0LWJlcnRhbmdndW5nLWphd2Fi",
         "description": "PENGAMAT transportasi Djoko Setijowarno mengatakan, pihak yang terkait dengan pemasangan trafic light di lokasi kecelakaan maut truk tangki di Cibubur, juga harus dimintai pertanggungjawaban.&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/508082/8-negara-berebut-tiket-semifinal-piala-asia-fiba-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDgwODIvOC1uZWdhcmEtYmVyZWJ1dC10aWtldC1zZW1pZmluYWwtcGlhbGEtYXNpYS1maWJhLTIwMjI=",
-        "description": "DELAPAN tim nasional basket memastikan diri maju ke perempat final Piala Asia FIBA 2022. Selandia Baru dan Jepang mengamankan dua tempat terakhir setelah mengatasi lawannya di babak playoff, Selasa&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/508081/kasus-aktif-covid-19-kota-bekasi-tembus-1295-orang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDgwODEva2FzdXMtYWt0aWYtY292aWQtMTkta290YS1iZWthc2ktdGVtYnVzLTEyOTUtb3Jhbmc=",
-        "description": "PERKEMBANGAN kasus terkonfirmasi positif Covid-19 di Kota Bekasi terus bertambah. Hingga update per 18 Juli 2022, terdapat penambahan kasus konfirmasi baru sebanyak 178 orang, sembuh 79 orang, sehingga&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/508080/manulife-dan-bank-dbs-kolaborasi-luncurkan-asuransi-jiwa-keluarga",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwODA4MC9tYW51bGlmZS1kYW4tYmFuay1kYnMta29sYWJvcmFzaS1sdW5jdXJrYW4tYXN1cmFuc2ktaml3YS1rZWx1YXJnYQ==",
-        "description": "DUA perusahaan, Manulife Indonesia dan Bank DBS, Indonesia bekerja sama meluncurkan MiTreasure Whole Life Legacy (MiWILL). MiTreasure Whole Life Legacy adalah produk perlindungan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/508079/otorita-labuan-bajo-terapkan-smku-untuk-bantu-para-pelaku-usaha",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4MDc5L290b3JpdGEtbGFidWFuLWJham8tdGVyYXBrYW4tc21rdS11bnR1ay1iYW50dS1wYXJhLXBlbGFrdS11c2FoYQ==",
-        "description": "MELALUI media daring, Direktur Utama Badan Pelaksana Otorita Labuan Bajo Flores (BPOLBF), Shana Fatina, hadir dalam &ldquo;Rapat Tindak Lanjut Kegiatan Kolaborasi Lintas Kementerian dalam Rangka Mewujudkan&#8230;"
     }
 ]
