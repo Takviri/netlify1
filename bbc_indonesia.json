@@ -7,6 +7,13 @@
         "description": "Rencana pemerintah menaikkan harga tiket masuk ke Taman Nasional Komodo menjadi Rp3,75 juta pada 1 Agustus 2022 disebut pengamat wisata akan mengancam kelangsungan hidup ribuan masyarakat lokal di sana."
     },
     {
+        "title": "Gelombang panas memanggang Eropa Barat, suhu mencapai rekor 40 derajat Celsius dan kebakaran melonjak",
+        "link": "https://www.bbc.co.uk/indonesia/articles/cje8dw7jzvxo",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jamU4ZHc3anp2eG8=",
+        "description": "Gelombang panas melanda Eropa Barat sehingga suhu mencapai rekor 40 derajat Celsius dan insiden kebakaran melonjak di sejumlah negara"
+    },
+    {
         "title": "Rusia habiskan banyak uang untuk melindungi Putin dari Covid",
         "link": "https://www.bbc.co.uk/indonesia/articles/ce9n1233dv6o",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYyMjAzNzY5",
         "description": "Kelompok pro-kemerdekaan Papua mengeklaim bertanggung jawab atas penembakan yang menewaskan 10 warga sipil di Nduga. Peneliti isu Papua memperkirakan pemekaran provinsi di daerah \"hotspot\" berpotensi menambah tensi konflik."
-    },
-    {
-        "title": "Facebook, WhatsApp hingga Google belum ada dalam daftar PSE, pro kontra aturan lingkup privat dari 'kedaulatan negara hingga ancaman pelanggaran HAM'",
-        "link": "https://www.bbc.com/indonesia/indonesia-62113260",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYyMTEzMjYw",
-        "description": "Keputusan pemerintah akan memblokir perusahaan teknologi yang tidak mendaftarkan diri sebagai Penyelenggara Sistem Elektronik (PSE) lingkup privat sampai tanggal 20 Juli ini menuai pro-kontra di masyarakat."
     }
 ]
