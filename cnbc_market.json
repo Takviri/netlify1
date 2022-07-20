@@ -1,9 +1,23 @@
 [
     {
-        "title": "Nyaris Terbang 2%, Ini Yang Bikin IHSG Bergairah!",
-        "link": "https://www.cnbcindonesia.com/market/20220720113514-17-356999/nyaris-terbang-2-ini-yang-bikin-ihsg-bergairah",
+        "title": "Dolar AS Lagi Lesu, Eh Rupiah Juga Ikutan..",
+        "link": "https://www.cnbcindonesia.com/market/20220720113053-17-356994/dolar-as-lagi-lesu-eh-rupiah-juga-ikutan",
         "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIwMTEzNTE0LTE3LTM1Njk5OS9ueWFyaXMtdGVyYmFuZy0yLWluaS15YW5nLWJpa2luLWloc2ctYmVyZ2FpcmFo",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIwMTEzMDUzLTE3LTM1Njk5NC9kb2xhci1hcy1sYWdpLWxlc3UtZWgtcnVwaWFoLWp1Z2EtaWt1dGFu",
+        "description": " Kurs rupiah sempat menguat terhadap dolar AS, tapi kemudian berbalik arah dan terkoreksi hingga di pertengahan perdagangan hari ini"
+    },
+    {
+        "title": "Laris Manis! Indomie Produk RI Mendunia, Ada di 100 Negara",
+        "link": "https://www.cnbcindonesia.com/market/20220720091943-17-356921/laris-manis-indomie-produk-ri-mendunia-ada-di-100-negara",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIwMDkxOTQzLTE3LTM1NjkyMS9sYXJpcy1tYW5pcy1pbmRvbWllLXByb2R1ay1yaS1tZW5kdW5pYS1hZGEtZGktMTAwLW5lZ2FyYQ==",
+        "description": " Sudah tidak diragukan lagi salah satu produk mie instan asal Indonesia yaitu Indomie sudah dikenal hampir di seluruh penjuru dunia"
+    },
+    {
+        "title": "Sambut OJK Baru, IHSG Nyaris Terbang 2%",
+        "link": "https://www.cnbcindonesia.com/market/20220720113514-17-356999/sambut-ojk-baru-ihsg-nyaris-terbang-2",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIwMTEzNTE0LTE3LTM1Njk5OS9zYW1idXQtb2prLWJhcnUtaWhzZy1ueWFyaXMtdGVyYmFuZy0y",
         "description": " Indeks Harga Saham Gabungan (IHSG) berakhir menguat nyaris 2% pada penutupan perdagangan sesi I Rabu (20/7/2022)."
     },
     {
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIwMTAwMzQwLTE3LTM1Njk0MC9jaGluYS1idWFuZy1ycC0xNTAwLXRyaWxpdW4tb2JsaWdhc2ktYXMtcGVydGFuZGEtYXBh",
         "description": " China menjadi salah satu negara yang memiliki obligasi Amerika Serikat (Treasury) yang terbesar di dunia."
-    },
-    {
-        "title": "Jadi Bank Tertua di RI, Siapa Pemilik BRI?",
-        "link": "https://www.cnbcindonesia.com/market/20220720094542-17-356932/jadi-bank-tertua-di-ri-siapa-pemilik-bri",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIwMDk0NTQyLTE3LTM1NjkzMi9qYWRpLWJhbmstdGVydHVhLWRpLXJpLXNpYXBhLXBlbWlsaWstYnJp",
-        "description": " aat pertama kali berdiri, BRI awalnya adalah lembaga yang mengelola dana kas masjid."
-    },
-    {
-        "title": "Bitcoin cs Masih Bergairah, Krisis Kripto Sudah Berakhir?",
-        "link": "https://www.cnbcindonesia.com/market/20220720091702-17-356920/bitcoin-cs-masih-bergairah-krisis-kripto-sudah-berakhir",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIwMDkxNzAyLTE3LTM1NjkyMC9iaXRjb2luLWNzLW1hc2loLWJlcmdhaXJhaC1rcmlzaXMta3JpcHRvLXN1ZGFoLWJlcmFraGly",
-        "description": " Mayoritas kripto utama kembali bergairah di tengah ekspektasi baru investor terhadap masa depan ekonomi global dan proses upgrade Ethereum"
     }
 ]
