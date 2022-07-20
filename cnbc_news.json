@@ -1,5 +1,33 @@
 [
     {
+        "title": "Batu Bara Minggir! IKN RI Hanya Akan Gunakan Energi Hijau",
+        "link": "https://www.cnbcindonesia.com/news/20220720144048-4-357109/batu-bara-minggir-ikn-ri-hanya-akan-gunakan-energi-hijau",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE0NDA0OC00LTM1NzEwOS9iYXR1LWJhcmEtbWluZ2dpci1pa24tcmktaGFueWEtYWthbi1ndW5ha2FuLWVuZXJnaS1oaWphdQ==",
+        "description": " Menteri ESDM Arifin Tasrif memastikan hingga 2024 tenaga listrik di IKN akan menggunakan energi baru dan terbarukan (EBT)"
+    },
+    {
+        "title": "Catat! Mulai Agustus, Jokowi Geber Bangun Infrastruktur IKN",
+        "link": "https://www.cnbcindonesia.com/news/20220720162803-4-357179/catat-mulai-agustus-jokowi-geber-bangun-infrastruktur-ikn",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE2MjgwMy00LTM1NzE3OS9jYXRhdC1tdWxhaS1hZ3VzdHVzLWpva293aS1nZWJlci1iYW5ndW4taW5mcmFzdHJ1a3R1ci1pa24=",
+        "description": " Simak penjelasan Kepala Otorita IKN Bambang Susantono berikut ini."
+    },
+    {
+        "title": "Bulan Depan Bos IKN Mulai 'Jualan' Proyek ke Investor",
+        "link": "https://www.cnbcindonesia.com/news/20220720163328-4-357181/bulan-depan-bos-ikn-mulai-jualan-proyek-ke-investor",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE2MzMyOC00LTM1NzE4MS9idWxhbi1kZXBhbi1ib3MtaWtuLW11bGFpLWp1YWxhbi1wcm95ZWsta2UtaW52ZXN0b3I=",
+        "description": " Pemerintah akan mulai melakukan penjajakan kepada kalangan investor yang berminat menanamkan modalnya di ibu kota baru"
+    },
+    {
+        "title": "Jangan Kaget! Resesi Ekonomi AS Disebut \"Palsu\", Ini Faktanya",
+        "link": "https://www.cnbcindonesia.com/news/20220720133301-4-357072/jangan-kaget-resesi-ekonomi-as-disebut-palsu-ini-faktanya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDEzMzMwMS00LTM1NzA3Mi9qYW5nYW4ta2FnZXQtcmVzZXNpLWVrb25vbWktYXMtZGlzZWJ1dC1wYWxzdS1pbmktZmFrdGFueWE=",
+        "description": " Resesi ekonomi di Amerika Serikat (AS) semakin kencang digaungkan sejumlah lembaga. Namun ada yang menilai resesi adalah \"palsu\"."
+    },
+    {
         "title": "Asing Berbondong-bondong Masuk RI, Ini Sektor yang Diincar!",
         "link": "https://www.cnbcindonesia.com/news/20220720153619-4-357144/asing-berbondong-bondong-masuk-ri-ini-sektor-yang-diincar",
         "image": "static/images/cnbc_news.png",
@@ -7,10 +35,10 @@
         "description": " Realisasi investasi sepanjang Januari-Juni 2022 mencapai Rp 584,6 triliun."
     },
     {
-        "title": "Video: Kasus Covid Tetangga RI Meledak, Warga Diminta WFH",
-        "link": "https://www.cnbcindonesia.com/news/20220720160244-8-357160/video-kasus-covid-tetangga-ri-meledak-warga-diminta-wfh",
+        "title": "Video: Kasus Covid Tetangga RI Ini Meledak, Warga Diminta WFH",
+        "link": "https://www.cnbcindonesia.com/news/20220720160244-8-357160/video-kasus-covid-tetangga-ri-ini-meledak-warga-diminta-wfh",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE2MDI0NC04LTM1NzE2MC92aWRlby1rYXN1cy1jb3ZpZC10ZXRhbmdnYS1yaS1tZWxlZGFrLXdhcmdhLWRpbWludGEtd2Zo",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE2MDI0NC04LTM1NzE2MC92aWRlby1rYXN1cy1jb3ZpZC10ZXRhbmdnYS1yaS1pbmktbWVsZWRhay13YXJnYS1kaW1pbnRhLXdmaA==",
         "description": " Covid Tetangga RI Meledak, Warga Diminta WFH"
     },
     {
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE0MzYxMS00LTM1NzExMi9rYXN1cy1jb3ZpZC1yaS1nYWstc2FudGFpLWJpa2luLWl6aW4ta29uc2VyLW11bGFpLW1hY2V0",
         "description": " Dalam dua bulan terakhir, konser musik sudah mulai banyak digelar. Hampir setiap pekan selalu ada konser musik di berbagai kota."
-    },
-    {
-        "title": "Perusahaan Migas Spanyol Mulai Bor Harta Karun Migas Aceh",
-        "link": "https://www.cnbcindonesia.com/news/20220720140857-4-357087/perusahaan-migas-spanyol-mulai-bor-harta-karun-migas-aceh",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE0MDg1Ny00LTM1NzA4Ny9wZXJ1c2FoYWFuLW1pZ2FzLXNwYW55b2wtbXVsYWktYm9yLWhhcnRhLWthcnVuLW1pZ2FzLWFjZWg=",
-        "description": " Repsol selaku operator Blok Andaman III memulai pengeboran sumur Rencong-1 X di Perairan Ac"
-    },
-    {
-        "title": "Investor Asing Serbu RI Tanpa Embel-embel 'Diskonan'",
-        "link": "https://www.cnbcindonesia.com/news/20220720141743-4-357098/investor-asing-serbu-ri-tanpa-embel-embel-diskonan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE0MTc0My00LTM1NzA5OC9pbnZlc3Rvci1hc2luZy1zZXJidS1yaS10YW5wYS1lbWJlbC1lbWJlbC1kaXNrb25hbg==",
-        "description": " Realisasi investasi asing di Indonesia pada kuartal II-2022 terbilang menggembirakan."
-    },
-    {
-        "title": "Belum Semua! Ini Tanda NIK Anda Bisa Digunakan Sebagai NPWP",
-        "link": "https://www.cnbcindonesia.com/news/20220720152637-4-357138/belum-semua-ini-tanda-nik-anda-bisa-digunakan-sebagai-npwp",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE1MjYzNy00LTM1NzEzOC9iZWx1bS1zZW11YS1pbmktdGFuZGEtbmlrLWFuZGEtYmlzYS1kaWd1bmFrYW4tc2ViYWdhaS1ucHdw",
-        "description": " Nomor Induk Kependudukan (NIK) sebagai Nomor Pokok Wajib Pajak (NPWP) secara resmi telah diterapkan."
-    },
-    {
-        "title": "3 Fakta Covid Australia Meledak Lagi hingga Warga Diminta WFH",
-        "link": "https://www.cnbcindonesia.com/news/20220720144346-4-357110/3-fakta-covid-australia-meledak-lagi-hingga-warga-diminta-wfh",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE0NDM0Ni00LTM1NzExMC8zLWZha3RhLWNvdmlkLWF1c3RyYWxpYS1tZWxlZGFrLWxhZ2ktaGluZ2dhLXdhcmdhLWRpbWludGEtd2Zo",
-        "description": " Ini fakta Covid-19 meledak lagi di Australia dan warga diminta kembali bekerja dari rumah (WFH)."
     }
 ]
