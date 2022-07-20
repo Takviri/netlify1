@@ -1,5 +1,47 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/508015/pemkab-siapkan-bantuan-rumah-rusak-banjir-pati-maksimal-rp10-juta",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4MDE1L3BlbWthYi1zaWFwa2FuLWJhbnR1YW4tcnVtYWgtcnVzYWstYmFuamlyLXBhdGktbWFrc2ltYWwtcnAxMC1qdXRh",
+        "description": "KERUGIAN akibat banjir bandang di Kabupaten Pati, Jawa Tengah mencapai Rp32 miliar. Bantuan untuk korban banjir termasuk rumah warga yang hanyut maksimal hanya dapat diberikan Rp10 juta/kepala rumah&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/507999/gugatan-twitter-kepada-musk-akan-disidangkan-pada-oktober",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA3OTk5L2d1Z2F0YW4tdHdpdHRlci1rZXBhZGEtbXVzay1ha2FuLWRpc2lkYW5na2FuLXBhZGEtb2t0b2Jlcg==",
+        "description": "TWITTER, Selasa (19/7), membukukan kemenangan awal dalam pertarungan melawan Elon Musk setelah hakim menyetujui percepatan sidang&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/508011/pss-rekrut-tallyson-untuk-gantikan-mario-maslac",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODAxMS9wc3MtcmVrcnV0LXRhbGx5c29uLXVudHVrLWdhbnRpa2FuLW1hcmlvLW1hc2xhYw==",
+        "description": "SETELAH putus kontrak dengan bek asal Serbia Mario Maslac, PSS Sleman kemudian merekrut bek asal Brasil, Tallyson Duarte. Pemain kelahiran Nascimento, 17 Juli 1995 ini, sejak Sabtu (16/7) lalu mengikuti&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/508013/sinar-mas-land-jual-properti-di-inggris-ke-lembaga-tabung-haji-malaysia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwODAxMy9zaW5hci1tYXMtbGFuZC1qdWFsLXByb3BlcnRpLWRpLWluZ2dyaXMta2UtbGVtYmFnYS10YWJ1bmctaGFqaS1tYWxheXNpYQ==",
+        "description": "SINAR Mas Land melalui anak usaha Sinarmas Land Limited yang berbasis di Singapura menandatangani perjanjian jual beli dengan Lembaga Tabung Haji (LTH) yang berasal dari Malaysia untuk divestasi Horseferry&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/507997/buka-peluang-pindah-federasi-pssi-jalin-komunikasi-dengan-eaff",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzk5Ny9idWthLXBlbHVhbmctcGluZGFoLWZlZGVyYXNpLXBzc2ktamFsaW4ta29tdW5pa2FzaS1kZW5nYW4tZWFmZg==",
+        "description": "KETUA Umum PSSI Mochamad Iriawan mengaku sudah&nbsp;berkomunikasi dengan Federasi Sepak Bola Asia Timur (EAFF) soal kepindahan PSSI&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/508010/17-anggota-dpr-as-ditangkap-karena-ikut-unjuk-rasa-bela-hak-aborsi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwODAxMC8xNy1hbmdnb3RhLWRwci1hcy1kaXRhbmdrYXAta2FyZW5hLWlrdXQtdW5qdWstcmFzYS1iZWxhLWhhay1hYm9yc2k=",
+        "description": "SEDIKITNYA 17 anggota DPR Amerika Serikat (AS), termasuk tokoh progresif Alexandria Ocasio-Cortez dan Ilhan Omar, ditangkap&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/508009/bmkg-sejumlah-wilayah-berpotensi-hujan-hari-ini",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4MDA2L2tvbWluZm8tc2lhcC1iYW50dS1wc2UteWFuZy1pbmdpbi1tZW5kYWZ0YXI=",
         "description": "KEMENTERIAN Komunikasi dan Informatika (Kominfo) memiliki tim teknis untuk mendampingi penyelenggara sistem elektronik (PSE) lingkup privat yang ingin mendaftar. &quot;Terkait pendaftaran, kami&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/507993/dosis-booster-vaksin-covid-19-penting-untuk-orang-orang-berisiko",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA3OTkzL2Rvc2lzLWJvb3N0ZXItdmFrc2luLWNvdmlkLTE5LXBlbnRpbmctdW50dWstb3Jhbmctb3JhbmctYmVyaXNpa28=",
-        "description": "LEAD Co-Chair Global Health Security and Covid-19 Task Force T20 Indonesia Prof Hasbullah Thabrany menegaskan kembali bahwa vaksinasi covid-19 dosis ketiga (<a href=\"http://mediaindonesia.com/tag/dosis-booster\"&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508005/istri-mardani-maming-kembali-mangkir",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDgwMDUvaXN0cmktbWFyZGFuaS1tYW1pbmcta2VtYmFsaS1tYW5na2ly",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) memanggil istri Bendahara Umum Pengurus Besar Nahdlatul Ulama (PBNU) Mardani Maming,&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/507978/hingga-juni-nilai-kontrak-baru-waskita-karya-tembus-rp931-triliun",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwNzk3OC9oaW5nZ2EtanVuaS1uaWxhaS1rb250cmFrLWJhcnUtd2Fza2l0YS1rYXJ5YS10ZW1idXMtcnA5MzEtdHJpbGl1bg==",
-        "description": "PT Waskita Karya (Persero) Tbk mencatat peningkatkan nilai kontrak baru (NBK). Hingga Juni 2022, NKB perusahaan pelat merah itu mencapai Rp9,31 triliun atau meningkat 197,30% dibandingkan tahun lalu&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/508003/bkkbn-ungkap-strategi-cegah-kelahiran-bayi-stunting-baru",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4MDAzL2Jra2JuLXVuZ2thcC1zdHJhdGVnaS1jZWdhaC1rZWxhaGlyYW4tYmF5aS1zdHVudGluZy1iYXJ1",
-        "description": "BADAN Kependudukan dan Keluarga Berencana Nasional (BKKBN) punya strategi jitu untuk mencegah lahirnya anak stunting baru. Strategi&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/507991/real-sociedad-resmi-datangkan-kubo-dari-real-madrid",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwNzk5MS9yZWFsLXNvY2llZGFkLXJlc21pLWRhdGFuZ2thbi1rdWJvLWRhcmktcmVhbC1tYWRyaWQ=",
-        "description": "REAL Sociedad berhasil mengamankan jasa penyerang sayap Takefusa Kubo dari sesama klub La Liga Real Madrid pada bursa transfer&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/507976/film-full-time-hadirkan-cerita-drama-keluarga-yang-menegangkan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwNzk3Ni9maWxtLWZ1bGwtdGltZS1oYWRpcmthbi1jZXJpdGEtZHJhbWEta2VsdWFyZ2EteWFuZy1tZW5lZ2FuZ2thbg==",
-        "description": "Film Prancis ini menceritakan tentang aktivitas sehari-hari. Namun, sineas Eric Gravel ini dengan jenius mengembangkan menjadi naskah dengan pengadeganan intens, penokohan kuat plus dieksekusi dengan&#8230;"
     }
 ]
