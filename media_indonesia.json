@@ -1,5 +1,47 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/508291/pelatih-naomi-osaka-mengundurkan-diri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDgyOTEvcGVsYXRpaC1uYW9taS1vc2FrYS1tZW5ndW5kdXJrYW4tZGlyaQ==",
+        "description": "PELATIH tenis asal Belgia Wim Fissette, Rabu (20/7), mengatakan dirinya mengundurkan diri sebagai pelatih juara Grand Slam empat kali&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/508304/pogacar-menangi-etape-17-tour-de-france-vingegaard-tetap-kuasai-jersey-kuning",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDgzMDQvcG9nYWNhci1tZW5hbmdpLWV0YXBlLTE3LXRvdXItZGUtZnJhbmNlLXZpbmdlZ2FhcmQtdGV0YXAta3Vhc2FpLWplcnNleS1rdW5pbmc=",
+        "description": "TADEJ Pogacar menjadi kampiun di etape ke-17 Tour de France tetapi Jonas Vingegaard, yang selangkah lagi menjuarai balapan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/508284/ramos-horta-keberhasilan-demokrasi-indonesia-patut-jadi-contoh",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4Mjg0L3JhbW9zLWhvcnRhLWtlYmVyaGFzaWxhbi1kZW1va3Jhc2ktaW5kb25lc2lhLXBhdHV0LWphZGktY29udG9o",
+        "description": "INDONESIA menjadi contoh baik dalam pelaksanaan negara demokrasi di tengah kondisinya yang memiliki budaya dan agama yang beraneka ragam. Hal itu diakui oleh Presiden Timor Leste Jose Ramos Horta.&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/508301/dominasi-tiongkok-dihentikan-libanon",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDgzMDEvZG9taW5hc2ktdGlvbmdrb2stZGloZW50aWthbi1saWJhbm9u",
+        "description": "TIMNAS basket Libanon melaju ke semifinal usai menyingkirkan Tiongkok di Piala Asia FIBA 2022. Libanon menang 72-69 dan menyisihkan juara 16 kali itu pada babak perempat final yang digelar di Istora&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/508226/piringan-hitam-bioplastik-pertama-di-dunia-diluncurkan-di-inggris",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwODIyNi9waXJpbmdhbi1oaXRhbS1iaW9wbGFzdGlrLXBlcnRhbWEtZGktZHVuaWEtZGlsdW5jdXJrYW4tZGktaW5nZ3Jpcw==",
+        "description": "SEBUAH perusahaan berbasis di Inggris, Evolution menyatakan telah memproduksi piringan hitam yang terbuat dari daur ulang plastik organik (bioplastik) pertama di dunia. Terobosan baru ini diharapkan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/508299/14-pengurus-e-sport-indonesia-tingkat-provinsi-dilantik-siapkan-atlet-berprestasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDgyOTkvMTQtcGVuZ3VydXMtZS1zcG9ydC1pbmRvbmVzaWEtdGluZ2thdC1wcm92aW5zaS1kaWxhbnRpay1zaWFwa2FuLWF0bGV0LWJlcnByZXN0YXNp",
+        "description": "KETUA Umum Harian Pengurus Besar E-Sports Indonesia (PBESI), Bambang Sunarwibowo melantik Ketua Pengurus E-sports Indonesia Tingkat Provinsi masa bhakti 2022&ndash;2024. Pelantikan ini dilakukan kepada&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/508300/messi-bantu-psg-kalahkan-kawasaki-frontale",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDgyODkvcGVtZXJpa3NhYW4taGFyaS1rZWRlbGFwYW4tYWh5dWRpbi1tZW5nYWt1LWRpdGFueWEtc29hbC1wZW1iZWxpYW4tYXNldC15YXlhc2Fu",
         "description": "PENDIRI Yayasan Aksi Cepat Tanggap (ACT) Ahyudin menjalani pemeriksaan di Bareskrim Polri untuk hari kedelapan, Rabu (20/7). Usai pemeriksaan,&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/508255/fatamorgana-kesejahteraan-di-kota-pariwisata-superpremium",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDgyNTUvZmF0YW1vcmdhbmEta2VzZWphaHRlcmFhbi1kaS1rb3RhLXBhcml3aXNhdGEtc3VwZXJwcmVtaXVt",
-        "description": "SEJAK ditetapkan sebagai salah satu destinasi wisata superpremium, tampilan Kota Labuan Bajo berubah secara signifikan dalam tempo relatif singkat. Perubahan wajah kota itu seperti disulap. Dulu tampilannya&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/508246/makna-lawatan-biden-ke-timur-tengah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDgyNDYvbWFrbmEtbGF3YXRhbi1iaWRlbi1rZS10aW11ci10ZW5nYWg=",
-        "description": "UNTUK pertama kalinya sejak menduduki Gedung Putih pada awal 2021, Presiden AS Joe Biden melakukan lawatan ke Timur Tengah. Lawatan empat hari ini (13-16 Juli) tak lepas dari masalah politik dalam&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/508207/sinergi-dan-tata-kelola-ekonomi-digital",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDgyMDcvc2luZXJnaS1kYW4tdGF0YS1rZWxvbGEtZWtvbm9taS1kaWdpdGFs",
-        "description": "DUA tahun lebih lamanya kita telah melalui masa-masa pandemi. Indonesia yang diprediksi akan menjadi salah satu kekuatan ekonomi dunia pada 2045 awalnya diperkirakan akan berhasil dalam menjaga stabilitas&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/508288/dybala-mengaku-tidak-sabar-dilatih-mourinho",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODI4OC9keWJhbGEtbWVuZ2FrdS10aWRhay1zYWJhci1kaWxhdGloLW1vdXJpbmhv",
-        "description": "PENYERANG anyar klub Serie A AS Roma Paulo Dybala mengatakan dirinya tidak sabar untuk segera bekerja bersama pelatih Jose Mourinho&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/508287/city-resmi-hubungi-brighton-soal-trransfer-cucurella",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODI4Ny9jaXR5LXJlc21pLWh1YnVuZ2ktYnJpZ2h0b24tc29hbC10cnJhbnNmZXItY3VjdXJlbGxh",
-        "description": "JUARA Liga Primer Inggris musim lalu Manchester City telah membuka komunikasi resmi dengan Brighton and Hove Albion soal&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/508286/de-ligt-akui-pilih-bayern-karena-van-gaal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODI4Ni9kZS1saWd0LWFrdWktcGlsaWgtYmF5ZXJuLWthcmVuYS12YW4tZ2FhbA==",
-        "description": "BEK Matthijs de Ligt mengakui pelatih timnas Belanda Louis van Gaal memberikan saran kepadanya untuk pindah ke klub raksasa Bundesliga Bayern&#8230;"
     }
 ]
