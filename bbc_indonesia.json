@@ -1,5 +1,12 @@
 [
     {
+        "title": "Anak penyandang disabilitas \u2018dirantai\u2019 oleh orang tua, diduga karena kelaparan dan \u2018mengambil jatah makanan\u2019",
+        "link": "https://www.bbc.co.uk/indonesia/articles/cl7evx2ge9yo",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jbDdldngyZ2U5eW8=",
+        "description": "Seorang anak penyandang disabilitas di Bekasi, Jawa Barat, ditemukan dalam kondisi dirantai. Dia diduga mengalami kekerasan oleh ayah kandung dan ibu tirinya."
+    },
+    {
         "title": "AS sita Rp7,5 miliar dana curian dari peretas Korea Utara",
         "link": "https://www.bbc.co.uk/indonesia/articles/c89d0ldjjjyo",
         "image": "static/images/bbc_indonesia.png",
@@ -35,13 +42,6 @@
         "description": "Rusia mengatakan akan memperluas wilayah perang di Ukraina setelah merebut bagian timur negara itu."
     },
     {
-        "title": "Irak tarik diplomat dari Ankara, tuduh Turki gempur Kurdistan",
-        "link": "https://www.bbc.co.uk/indonesia/articles/c1reng894w7o",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jMXJlbmc4OTR3N28=",
-        "description": "Perseteruan diplomatik antara Irak dan Turki tengah berlangsung setelah sembilan orang tewas ketika gempuran artileri menghantam wilayah Kurdistan di Irak."
-    },
-    {
         "title": "Meski ditolak MK, pemohon uji materi UU Narkotika segera mulai penelitian ganja untuk keperluan medis",
         "link": "https://www.bbc.co.uk/indonesia/articles/c19m3k9wvmvo",
         "image": "static/images/bbc_indonesia.png",
@@ -63,10 +63,10 @@
         "description": "Sejumlah perempuan di Iran telah memprotes aturan negara tersebut terkait pemakaian hijab yang ketat dengan membuka penutup kepala mereka di tempat publik dan media sosial."
     },
     {
-        "title": "Perjuangan Velmariri Bambari memenjarakan pelaku kejahatan seksual yang 'berlindung di balik hukum adat'",
-        "link": "https://www.bbc.com/indonesia/majalah-62203961",
+        "title": "Irak tarik diplomat dari Ankara, tuduh Turki gempur Kurdistan",
+        "link": "https://www.bbc.co.uk/indonesia/articles/c1reng894w7o",
         "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MjIwMzk2MQ==",
-        "description": "Velmariri Bambari adalah ibu rumah tangga dan satu-satunya pendamping korban kasus kekerasan seksual di Lembah Bada, Kabupaten Poso, Sulawesi Tengah. Dia mendobrak hukum adat untuk mencari keadilan bagi para korban agar pelaku mendapat hukuman pidana dan korban tak lagi mendapat denda adat 'cuci kampung'."
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jMXJlbmc4OTR3N28=",
+        "description": "Perseteruan diplomatik antara Irak dan Turki tengah berlangsung setelah sembilan orang tewas ketika gempuran artileri menghantam wilayah Kurdistan di Irak."
     }
 ]
