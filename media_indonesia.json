@@ -1,5 +1,12 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/508292/warganet-diminta-kritis-saat-terima-informasi-agar-terhindar-dari-hoaks",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4MjkyL3dhcmdhbmV0LWRpbWludGEta3JpdGlzLXNhYXQtdGVyaW1hLWluZm9ybWFzaS1hZ2FyLXRlcmhpbmRhci1kYXJpLWhvYWtz",
+        "description": "DOSEN Ilmu Komunikasi Universitas Bina Darma Rahma Santhi Zinaida meminta warganet untuk selalu kritis dalam menerima setiap informasi guna mengantisipasi penyebaran berita bohong atau <a href=\"http://mediaindonesia.com/tag/hoaks\"&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/508291/pelatih-naomi-osaka-mengundurkan-diri",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODI5MC9kaXBlcmtlbmFsa2FuLXNlYmFnYWktcGVtYWluLWJhcmNlbG9uYS1sZXdhbmRvd3NraS10ZWdhc2thbi1tYXNpaC1oYXVzLWtlc3Vrc2VzYW4=",
         "description": "ROBERT Lewandowski secara resmi diperkenalkan sebagai pemain Barcelona, Rabu (20/7). Penyerang itu menegaskan masih haus kesuksesan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508289/pemeriksaan-hari-kedelapan-ahyudin-mengaku-ditanya-soal-pembelian-aset-yayasan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDgyODkvcGVtZXJpa3NhYW4taGFyaS1rZWRlbGFwYW4tYWh5dWRpbi1tZW5nYWt1LWRpdGFueWEtc29hbC1wZW1iZWxpYW4tYXNldC15YXlhc2Fu",
-        "description": "PENDIRI Yayasan Aksi Cepat Tanggap (ACT) Ahyudin menjalani pemeriksaan di Bareskrim Polri untuk hari kedelapan, Rabu (20/7). Usai pemeriksaan,&#8230;"
     }
 ]
