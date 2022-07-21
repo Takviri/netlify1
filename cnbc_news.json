@@ -1,5 +1,26 @@
 [
     {
+        "title": "Kepincut Ini, Raksasa Migas Asing yang Cabut Balik Lagi ke RI",
+        "link": "https://www.cnbcindonesia.com/news/20220721143627-4-357448/kepincut-ini-raksasa-migas-asing-yang-cabut-balik-lagi-ke-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE0MzYyNy00LTM1NzQ0OC9rZXBpbmN1dC1pbmktcmFrc2FzYS1taWdhcy1hc2luZy15YW5nLWNhYnV0LWJhbGlrLWxhZ2kta2Utcmk=",
+        "description": " Menteri ESDM Arifin Tasrif menyebutkan, pasca adanya potensi migas terbesar dunia di RI, investor migas yang cabut akan kembali lagi"
+    },
+    {
+        "title": "Heboh Biden Sakit Kanker, Ini Pernyataan Gedung Putih",
+        "link": "https://www.cnbcindonesia.com/news/20220721151935-4-357477/heboh-biden-sakit-kanker-ini-pernyataan-gedung-putih",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE1MTkzNS00LTM1NzQ3Ny9oZWJvaC1iaWRlbi1zYWtpdC1rYW5rZXItaW5pLXBlcm55YXRhYW4tZ2VkdW5nLXB1dGlo",
+        "description": " Sebuah kabar mengejutkan datang dari Presiden Amerika Serikat (AS), Joe Biden."
+    },
+    {
+        "title": "Breaking News: PM Italia Mario Draghi Mundur",
+        "link": "https://www.cnbcindonesia.com/news/20220721152607-4-357481/breaking-news-pm-italia-mario-draghi-mundur",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE1MjYwNy00LTM1NzQ4MS9icmVha2luZy1uZXdzLXBtLWl0YWxpYS1tYXJpby1kcmFnaGktbXVuZHVy",
+        "description": " Perdana Menteri Italia Mario Draghi dilaporkan mengundurkan diri, Kamis (21/7/2022)."
+    },
+    {
         "title": "'Kiamat Pesawat' Ancam Bisnis Logistik, Ongkir Bisa 'Meledak'",
         "link": "https://www.cnbcindonesia.com/news/20220721144441-4-357462/kiamat-pesawat-ancam-bisnis-logistik-ongkir-bisa-meledak",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEzMTE1Ny00LTM1NzQxNi90aWtldC1wZXNhd2F0LW1lbGVkYWstdGFwaS1sYXJpcy10cmF2ZWwtYWdlbnQtcGFuZW4tb216ZXQ=",
         "description": " Lonjakan harga tiket pesawat ternyata tidak menurunkan minat orang untuk bepergian."
-    },
-    {
-        "title": "Ada Kode Keras, Gaji PNS Bakal Naik Tahun Depan?",
-        "link": "https://www.cnbcindonesia.com/news/20220721131752-4-357415/ada-kode-keras-gaji-pns-bakal-naik-tahun-depan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEzMTc1Mi00LTM1NzQxNS9hZGEta29kZS1rZXJhcy1nYWppLXBucy1iYWthbC1uYWlrLXRhaHVuLWRlcGFu",
-        "description": " Pemerintah dikabarkan bakal mengerek gaji pokok PNS tahun depan"
-    },
-    {
-        "title": "Tak Sampai Rp250 Juta, Segini Cicilan Mobil Penghancur Avanza",
-        "link": "https://www.cnbcindonesia.com/news/20220721130658-4-357410/tak-sampai-rp250-juta-segini-cicilan-mobil-penghancur-avanza",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEzMDY1OC00LTM1NzQxMC90YWstc2FtcGFpLXJwMjUwLWp1dGEtc2VnaW5pLWNpY2lsYW4tbW9iaWwtcGVuZ2hhbmN1ci1hdmFuemE=",
-        "description": " Persaingan mobil di segmen MPV makin panas setelah Hyundai merilis harga Stargazer."
-    },
-    {
-        "title": "Pilot Citilink Meninggal, Pesawat Mendarat Darurat",
-        "link": "https://www.cnbcindonesia.com/news/20220721141853-4-357442/pilot-citilink-meninggal-pesawat-mendarat-darurat",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE0MTg1My00LTM1NzQ0Mi9waWxvdC1jaXRpbGluay1tZW5pbmdnYWwtcGVzYXdhdC1tZW5kYXJhdC1kYXJ1cmF0",
-        "description": " Penerbangan Citilink Surabaya-Ujung Pandang mendarat kembali ke Bandara Juanda, Surabaya karena pilot meninggal."
     }
 ]

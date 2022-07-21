@@ -1,5 +1,54 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/508460/indonesia-butuh-lebih-banyak-lulusan-perguruan-tinggi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4NDYwL2luZG9uZXNpYS1idXR1aC1sZWJpaC1iYW55YWstbHVsdXNhbi1wZXJndXJ1YW4tdGluZ2dp",
+        "description": "PRESIDEN Joko Widodo mengatakan tahun 2045 akan menjadi tahun emas bagi Indonesia. Bukan hanya karena merayakan 100 tahun kemerdekaan, namun juga karena Indonesia akan mendapatkan bonus demografi yang&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/508381/pasien-dbd-yang-punya-komorbid-wajib-rawat-inap",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4MzgxL3Bhc2llbi1kYmQteWFuZy1wdW55YS1rb21vcmJpZC13YWppYi1yYXdhdC1pbmFw",
+        "description": "PASIEN demam berdarah dengue (DBD) yang memiliki penyakit bawaan alias komorbid juga pasien yang masih bayi wajib dirawat inap di fasilitas&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508459/istri-jaksa-diingatkan-tidak-hidup-hedonis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDg0NTkvaXN0cmktamFrc2EtZGlpbmdhdGthbi10aWRhay1oaWR1cC1oZWRvbmlz",
+        "description": "JAKSA Agung Sanitiar Burhanuddin mengingatkan seluruh anggota Ikatan Adhyaksa Dharmakarini (IAD) tak menjalankan hidup yang hedonis dengan memamerkan harta benda secara berlebihan. IAD merupakan ikatan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/508458/tumbuhkan-nasionalisme-anak-bangsa-untuk-perkuat-perekonomian-hadapi-ancaman-global",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwODQ1OC90dW1idWhrYW4tbmFzaW9uYWxpc21lLWFuYWstYmFuZ3NhLXVudHVrLXBlcmt1YXQtcGVyZWtvbm9taWFuLWhhZGFwaS1hbmNhbWFuLWdsb2JhbA==",
+        "description": "DORONG terus penguatan ekonomi domestik dengan berbagai upaya untuk mengantisipasi dampak gejolak ekonomi global. Nasionalisme anak bangsa harus terus ditumbuhkan untuk memperkuat langkah tersebut.&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/508380/napoli-siap-bayar-klausul-lepas-kim-min-jae",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODM4MC9uYXBvbGktc2lhcC1iYXlhci1rbGF1c3VsLWxlcGFzLWtpbS1taW4tamFl",
+        "description": "KLUB Serie A Napoli semakin dekat mendapatkan Kim Min-Jae setelah bersiap menebus klausul lepas bek tersebut dari klub Turki Fenerbahce&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/508457/le-minerale-sebagai-broadcast-sponsor-scm-di-piala-dunia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODQ1Ny9sZS1taW5lcmFsZS1zZWJhZ2FpLWJyb2FkY2FzdC1zcG9uc29yLXNjbS1kaS1waWFsYS1kdW5pYQ==",
+        "description": "PESTA sepak bola empat tahunan yang mempertemukan timnas terbaik dari belahan penjuru dunia FIFA World Cup Qatar 2022 sangat dinantikan kehadirannya, termasuk para penggemar bola Indonesia. Tahun ini,&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/508455/wickremesinghe-larang-demonstrasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwODQ1NS93aWNrcmVtZXNpbmdoZS1sYXJhbmctZGVtb25zdHJhc2k=",
+        "description": "PRESIDEN Sri Lanka Ranil Wickremesinghe menyampaikan akan menangkap dan membawa para demonstran ke meja hijau. Ancaman itu dilontarkan usai kekerasan dan penolakan dirinya dilantik sebagai kepala negara&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/508369/the-panturas-akan-gelar-showcase-di-tiga-kota",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDg0NTQvdGltbmFzLWJhc2tldC0zeDMtcHV0cmktYmVyc2lhcC1oYWRhcGktaXNnLTIwMjI=",
         "description": "USAI sukses menembus tiga besar di FIBA 3x3 Asia Cup 2022 di Singapura pada 10 Juli, Tim nasional bola basket 3x3 putri langsung kembali ke lapangan latihan. Skuad asuhan July Wong itu langsung mempersiapkan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508453/wacana-kampanye-di-kampus-legislator-tak-usah-khawatir-dipolitisasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDg0NTMvd2FjYW5hLWthbXBhbnllLWRpLWthbXB1cy1sZWdpc2xhdG9yLXRhay11c2FoLWtoYXdhdGlyLWRpcG9saXRpc2FzaQ==",
-        "description": "ANGGOTA Komisi II DPR Aminurokhman menilai wacana kampanye di kampus yang dilontarkan ketua Komisi Pemilihan Umum (KPU) Hasyim Asy'ari, tidak perlu&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/508452/wagub-dki-mengimbau-abg-scbd-tak-tidur-di-dukuh-atas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDg0NTIvd2FndWItZGtpLW1lbmdpbWJhdS1hYmctc2NiZC10YWstdGlkdXItZGktZHVrdWgtYXRhcw==",
-        "description": "SEJUMLAH ABG yang merupakan bagian daru Citayam Fashion Week atau SCBD (Sudirman, Citayam, Bogor, Depok) kedapatan tertidur di jembatan penyeberangan Dukuh Atas, Jakarta Pusat, Selasa (19/7) lalu.&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/508361/gagal-dapatkan-bremer-inter-batal-jual-skriniar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODM2MS9nYWdhbC1kYXBhdGthbi1icmVtZXItaW50ZXItYmF0YWwtanVhbC1za3Jpbmlhcg==",
-        "description": "KLUB Serie A Inter Milan dikabarkan mengurungkan niat untuk menjual bek Milan Skriniar pada bursa transfer pemain musim panas&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/508451/pemprov-dki-bentuk-satgas-awasi-act",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDg0NTEvcGVtcHJvdi1ka2ktYmVudHVrLXNhdGdhcy1hd2FzaS1hY3Q=",
-        "description": "PEMERINTAH Provinsi DKI Jakarta membentuk satuan tugas (satgas) untuk mengawasi organisasi sosial, Aksi Cepat Tanggap (ACT) yang kini mendapat sorotan publik karena dugaan penyelewengan dana donasi&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/508450/terkait-kebocoran-pipa-gas-wagub-dki-human-error",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDg0NTAvdGVya2FpdC1rZWJvY29yYW4tcGlwYS1nYXMtd2FndWItZGtpLWh1bWFuLWVycm9y",
-        "description": "WAKIL Gubernur DKI Jakarta Ahmad Riza Patria menjelaskan kebocoran pipa gas yang terjadi di Jalan MT Haryono, Jakarta Selatan, Rabu (20/7), diakibatkan human error. Kejadian bocornya pipa gas&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/508449/langkah-bi-pertahankan-suku-bunga-diapresiasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwODQ0OS9sYW5na2FoLWJpLXBlcnRhaGFua2FuLXN1a3UtYnVuZ2EtZGlhcHJlc2lhc2k=",
-        "description": "Langkah Bank Indonesia yang mempertahankan tingkat suku bunga acuan di level 3,5% diapresiasi. Sebab, kondisi perekonomian Indonesia saat ini tergolong cukup baik dan kuat. Demikian dikatakan&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/508446/menjaga-etika-di-media-sosial-jangan-asal-berkomentar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA4NDQ2L21lbmphZ2EtZXRpa2EtZGktbWVkaWEtc29zaWFsLWphbmdhbi1hc2FsLWJlcmtvbWVudGFy",
-        "description": "Media sosial yang sesuai etika akan menciptakan keamanan dan situasi digital yang kondusif. Meskipun di internet tidak ada yang 100% aman, namun setiap penggunanya bisa mengurangi risiko. &quot;Banyak&#8230;"
     }
 ]
