@@ -1,5 +1,33 @@
 [
     {
+        "title": "Dukung Pembangunan Berkelanjutan, EIB Danai MRT Hingga IKN",
+        "link": "https://www.cnbcindonesia.com/news/20220721164440-8-357516/dukung-pembangunan-berkelanjutan-eib-danai-mrt-hingga-ikn",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE2NDQ0MC04LTM1NzUxNi9kdWt1bmctcGVtYmFuZ3VuYW4tYmVya2VsYW5qdXRhbi1laWItZGFuYWktbXJ0LWhpbmdnYS1pa24=",
+        "description": " Dukung Pembangunan Berkelanjutan RI, EIB Danai Proyek MRT Hingga IKN"
+    },
+    {
+        "title": "China dan AS Jalin 'Hubungan' di Belakang Rusia, Ini Buktinya",
+        "link": "https://www.cnbcindonesia.com/news/20220721172117-4-357525/china-as-jalin-hubungan-di-belakang-rusia-ini-buktinya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE3MjExNy00LTM1NzUyNS9jaGluYS1hcy1qYWxpbi1odWJ1bmdhbi1kaS1iZWxha2FuZy1ydXNpYS1pbmktYnVrdGlueWE=",
+        "description": " China mencapai kesepakatan impor gas dengan Amerika Serikat (AS) untuk jangka waktu 24 tahun."
+    },
+    {
+        "title": "Ini Kronologi dan Penyebab PM Italia Mario Draghi Mundur",
+        "link": "https://www.cnbcindonesia.com/news/20220721165325-4-357518/ini-kronologi-penyebab-pm-italia-mario-draghi-mundur",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE2NTMyNS00LTM1NzUxOC9pbmkta3Jvbm9sb2dpLXBlbnllYmFiLXBtLWl0YWxpYS1tYXJpby1kcmFnaGktbXVuZHVy",
+        "description": " Perdana Menteri Italia Mario Draghi dilaporkan mengundurkan diri dari jabatannya, Kamis (21/7/2022). Begini kronologinya."
+    },
+    {
+        "title": "Sepanjang 2021, Produksi Listrik Pertamina NRE 4.686 GWh",
+        "link": "https://www.cnbcindonesia.com/news/20220721154050-4-357487/sepanjang-2021-produksi-listrik-pertamina-nre-4686-gwh",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE1NDA1MC00LTM1NzQ4Ny9zZXBhbmphbmctMjAyMS1wcm9kdWtzaS1saXN0cmlrLXBlcnRhbWluYS1ucmUtNDY4Ni1nd2g=",
+        "description": " Pertamina NRE mencatatkan produksi listrik 4.686 GWh atau mencapai 104%"
+    },
+    {
         "title": "Harga Minyak Goreng Makin Turun, Ini Penampakannya",
         "link": "https://www.cnbcindonesia.com/news/20220721154251-7-357489/harga-minyak-goreng-makin-turun-ini-penampakannya",
         "image": "static/images/cnbc_news.png",
@@ -21,10 +49,10 @@
         "description": " Warga China mogok cicil KPR karena kekhawatiran banyak proyek yang mangkrak."
     },
     {
-        "title": "Bahlil Ungkap Kenapa Engga Harus Jadi PNS",
-        "link": "https://www.cnbcindonesia.com/news/20220721153939-8-357485/bahlil-ungkap-kenapa-engga-harus-jadi-pns",
+        "title": "Menteri Investasi Dorong Orang RI Jadi Pengusaha daripada PNS",
+        "link": "https://www.cnbcindonesia.com/news/20220721153939-8-357485/menteri-investasi-dorong-orang-ri-jadi-pengusaha-daripada-pns",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE1MzkzOS04LTM1NzQ4NS9iYWhsaWwtdW5na2FwLWtlbmFwYS1lbmdnYS1oYXJ1cy1qYWRpLXBucw==",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE1MzkzOS04LTM1NzQ4NS9tZW50ZXJpLWludmVzdGFzaS1kb3Jvbmctb3JhbmctcmktamFkaS1wZW5ndXNhaGEtZGFyaXBhZGEtcG5z",
         "description": " Bahlil Ungkap Kenapa Engga Harus Jadi PNS"
     },
     {
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE1MzgzNy00LTM1NzQ4My91a3JhaW5hLWtpcmltLXdhbml0YS1jYW50aWstaW5pLXJheXUtYXMtaGFqYXItcnVzaWE=",
         "description": " Ukraina mengirim ibu negara Olena Zelenska, terbang ke AS, untuk mendesak Paman Sam mengirim lebih banyak senjata guna perang dengan Rusia."
-    },
-    {
-        "title": "Kasus Baru Covid-19 di RI Turun, Bertambah 5.410 Hari Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220721112432-4-357354/kasus-baru-covid-19-di-ri-turun-bertambah-5410-hari-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTExMjQzMi00LTM1NzM1NC9rYXN1cy1iYXJ1LWNvdmlkLTE5LWRpLXJpLXR1cnVuLWJlcnRhbWJhaC01NDEwLWhhcmktaW5p",
-        "description": " Simak data Covid-19 berikut ini."
-    },
-    {
-        "title": "PLN Berhasil Sulap 1.000 Kompor LPG ke Induksi!",
-        "link": "https://www.cnbcindonesia.com/news/20220721150152-4-357463/pln-berhasil-sulap-1000-kompor-lpg-ke-induksi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE1MDE1Mi00LTM1NzQ2My9wbG4tYmVyaGFzaWwtc3VsYXAtMTAwMC1rb21wb3ItbHBnLWtlLWluZHVrc2k=",
-        "description": " PT PLN (Persero) telah berhasil merealisasikan pilot project konversi kompor LPG ke kompor induksi di Surakarta"
-    },
-    {
-        "title": "Produsen Mobil Ini PHK Ribuan Orang Gegara Kendaraan Listrik",
-        "link": "https://www.cnbcindonesia.com/news/20220721123519-4-357386/produsen-mobil-ini-phk-ribuan-orang-gegara-kendaraan-listrik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyMzUxOS00LTM1NzM4Ni9wcm9kdXNlbi1tb2JpbC1pbmktcGhrLXJpYnVhbi1vcmFuZy1nZWdhcmEta2VuZGFyYWFuLWxpc3RyaWs=",
-        "description": " Produsen mobil asal Amerika Serikat (AS), Ford, sedang bersiap melakukan pemutusan hubungan kerja (PHK) kepada ribuan pekerjanya."
-    },
-    {
-        "title": "Jokowi Resmikan Bandara Komodo, Akui Belum Puas",
-        "link": "https://www.cnbcindonesia.com/news/20220721141147-8-357435/jokowi-resmikan-bandara-komodo-akui-belum-puas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE0MTE0Ny04LTM1NzQzNS9qb2tvd2ktcmVzbWlrYW4tYmFuZGFyYS1rb21vZG8tYWt1aS1iZWx1bS1wdWFz",
-        "description": " Presiden Joko Widodo meresmikan perluasan Bandara Komodo, Labuan Bajo NTT."
     }
 ]
