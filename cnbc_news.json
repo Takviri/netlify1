@@ -1,5 +1,47 @@
 [
     {
+        "title": "Hasta La Vista, Baby! Ini Pesan Terakhir Boris Johnson",
+        "link": "https://www.cnbcindonesia.com/news/20220721131736-8-357414/hasta-la-vista-baby-ini-pesan-terakhir-boris-johnson",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEzMTczNi04LTM1NzQxNC9oYXN0YS1sYS12aXN0YS1iYWJ5LWluaS1wZXNhbi10ZXJha2hpci1ib3Jpcy1qb2huc29u",
+        "description": " Hasta La Vista, Baby! Ini Pesan Terakhir Boris Johnson"
+    },
+    {
+        "title": "Jreng! KPPU Bakal Sidang 27 Perusahaan Dugaan Kartel Migor",
+        "link": "https://www.cnbcindonesia.com/news/20220721122809-4-357385/jreng-kppu-bakal-sidang-27-perusahaan-dugaan-kartel-migor",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyMjgwOS00LTM1NzM4NS9qcmVuZy1rcHB1LWJha2FsLXNpZGFuZy0yNy1wZXJ1c2FoYWFuLWR1Z2Fhbi1rYXJ0ZWwtbWlnb3I=",
+        "description": " Jreng! 27 Perusahaan Minyak Goreng"
+    },
+    {
+        "title": "Ini Tampang Angker Jet Tempur RI-Korsel yang Sukses Terbang",
+        "link": "https://www.cnbcindonesia.com/news/20220721113244-7-357366/ini-tampang-angker-jet-tempur-ri-korsel-yang-sukses-terbang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTExMzI0NC03LTM1NzM2Ni9pbmktdGFtcGFuZy1hbmdrZXItamV0LXRlbXB1ci1yaS1rb3JzZWwteWFuZy1zdWtzZXMtdGVyYmFuZw==",
+        "description": " Jet tempur KF-21 Boramae buatan Korea Selatan dan Indonesia adalah pesawat tempur 'generasi 4,5', bisa dibilang F-22 Raftor versi Asia."
+    },
+    {
+        "title": "Perkenalkan, Ini 2 Calon Kuat Perdana Menteri Baru Inggris",
+        "link": "https://www.cnbcindonesia.com/news/20220721121940-4-357382/perkenalkan-ini-2-calon-kuat-perdana-menteri-baru-inggris",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyMTk0MC00LTM1NzM4Mi9wZXJrZW5hbGthbi1pbmktMi1jYWxvbi1rdWF0LXBlcmRhbmEtbWVudGVyaS1iYXJ1LWluZ2dyaXM=",
+        "description": " Calon perdana menteri Inggris baru telah menyusut. Dua nama kini muncul. Siapa saja?"
+    },
+    {
+        "title": "Pertemuan DEWG G20 Libatkan Generasi Muda, Ini Tugasnya",
+        "link": "https://www.cnbcindonesia.com/news/20220721124842-4-357400/pertemuan-dewg-g20-libatkan-generasi-muda-ini-tugasnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyNDg0Mi00LTM1NzQwMC9wZXJ0ZW11YW4tZGV3Zy1nMjAtbGliYXRrYW4tZ2VuZXJhc2ktbXVkYS1pbmktdHVnYXNueWE=",
+        "description": " Keikutsertaan generasi muda di DEWG G20 merupakan kesempatan cukup langka karena menjadi pengalaman berharga untuk mengambil bagian di pertemuan internasional."
+    },
+    {
+        "title": "Covid Negara Tetangga Meledak Hingga Wajib WFH, RI GImana?",
+        "link": "https://www.cnbcindonesia.com/news/20220721111809-4-357346/covid-negara-tetangga-meledak-hingga-wajib-wfh-ri-gimana",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTExMTgwOS00LTM1NzM0Ni9jb3ZpZC1uZWdhcmEtdGV0YW5nZ2EtbWVsZWRhay1oaW5nZ2Etd2FqaWItd2ZoLXJpLWdpbWFuYQ==",
+        "description": " Kasus Covid-19 di Australia kembali melonjak"
+    },
+    {
         "title": "Riset Terbaru: Bukti Keganasan Covid Bagi yang Belum Divaksin",
         "link": "https://www.cnbcindonesia.com/news/20220721103836-4-357339/riset-terbaru-bukti-keganasan-covid-bagi-yang-belum-divaksin",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyMTExNy04LTM1NzM3OS9jYXRhdC1uaWstamFkaS1ucHdwLW9yYW5nbnlhLWJlbHVtLXRlbnR1LXdhamliLWJheWFyLXBhamFr",
         "description": " Kemendagri: NIK Jadi NPWP, Orangnya Belum Tentu Wajib Bayar Pajak"
-    },
-    {
-        "title": "Biden Akan Telepon Xi Jinping, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220721115124-4-357365/biden-akan-telepon-xi-jinping-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTExNTEyNC00LTM1NzM2NS9iaWRlbi1ha2FuLXRlbGVwb24teGktamlucGluZy1hZGEtYXBh",
-        "description": " Presiden Amerika Serikat (AS) Joe Biden mengatakan akan melakukan panggilan telepon dengan Presiden China Xi Jinping dalam waktu dekat."
-    },
-    {
-        "title": "Data NIK dan NPWP Beda, Ini yang Harus Dilakukan Wajib Pajak!",
-        "link": "https://www.cnbcindonesia.com/news/20220721115338-4-357372/data-nik-npwp-beda-ini-yang-harus-dilakukan-wajib-pajak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTExNTMzOC00LTM1NzM3Mi9kYXRhLW5pay1ucHdwLWJlZGEtaW5pLXlhbmctaGFydXMtZGlsYWt1a2FuLXdhamliLXBhamFr",
-        "description": " Ditjen Pajak secara resmi telah memulai penerapan Nomor Induk Kependudukan (NIK) sebagai Nomor Pokok Wajib Pajak (NPWP)."
-    },
-    {
-        "title": "Jelang Keputusan Bank Indonesia, Begini Suara Bos Pengusaha",
-        "link": "https://www.cnbcindonesia.com/news/20220721120907-4-357378/jelang-keputusan-bank-indonesia-begini-suara-bos-pengusaha",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyMDkwNy00LTM1NzM3OC9qZWxhbmcta2VwdXR1c2FuLWJhbmstaW5kb25lc2lhLWJlZ2luaS1zdWFyYS1ib3MtcGVuZ3VzYWhh",
-        "description": " Pengusaha menilai belum saatnya Bank Indonesia (BI) menaikkan suku bunga acuan. Karena akan menghambat laju pertumbuhan ekonomi Indonesia."
-    },
-    {
-        "title": "Cek Tarif Terbaru dan Daftar Penyakit yang Ditanggung BPJS",
-        "link": "https://www.cnbcindonesia.com/news/20220721103342-4-357329/cek-tarif-terbaru-daftar-penyakit-yang-ditanggung-bpjs",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEwMzM0Mi00LTM1NzMyOS9jZWstdGFyaWYtdGVyYmFydS1kYWZ0YXItcGVueWFraXQteWFuZy1kaXRhbmdndW5nLWJwanM=",
-        "description": " Berikut daftar penyakit yang ditanggung BPJS Kesehatan"
-    },
-    {
-        "title": "Kacau! Selain Mi Instan, Harga Ikan Sarden Juga 'Terbang'",
-        "link": "https://www.cnbcindonesia.com/news/20220721104758-4-357334/kacau-selain-mi-instan-harga-ikan-sarden-juga-terbang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEwNDc1OC00LTM1NzMzNC9rYWNhdS1zZWxhaW4tbWktaW5zdGFuLWhhcmdhLWlrYW4tc2FyZGVuLWp1Z2EtdGVyYmFuZw==",
-        "description": " Harga olahan pangan satu per satu naik, salah satunya\u00c2\u00a0ikan olahan dalam kemasan kaleng."
-    },
-    {
-        "title": "Potret Tak Biasa Donald Trump, Tertunduk Lesu dan Berbaju Hitam",
-        "link": "https://www.cnbcindonesia.com/news/20220721112324-7-357348/potret-tak-biasa-donald-trump-tertunduk-lesu-berbaju-hitam",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTExMjMyNC03LTM1NzM0OC9wb3RyZXQtdGFrLWJpYXNhLWRvbmFsZC10cnVtcC10ZXJ0dW5kdWstbGVzdS1iZXJiYWp1LWhpdGFt",
-        "description": " Mantan Presiden AS Donald Trump tengah berduka. Ia menghadiri pemakaman mantan istrinya, Rabu (20/7/2022)."
     }
 ]
