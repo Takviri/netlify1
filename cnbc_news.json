@@ -1,5 +1,47 @@
 [
     {
+        "title": "Riset Terbaru: Bukti Keganasan Covid Bagi yang Belum Divaksin",
+        "link": "https://www.cnbcindonesia.com/news/20220721103836-4-357339/riset-terbaru-bukti-keganasan-covid-bagi-yang-belum-divaksin",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEwMzgzNi00LTM1NzMzOS9yaXNldC10ZXJiYXJ1LWJ1a3RpLWtlZ2FuYXNhbi1jb3ZpZC1iYWdpLXlhbmctYmVsdW0tZGl2YWtzaW4=",
+        "description": " Pasien yang sama sekali belum mendapatkan vaksin berisiko meninggal 28 kali lebih besar dibandingkan orang yang sudah mendapatkan vaksin booster."
+    },
+    {
+        "title": "Pipa Nord Stream 1 Beroperasi Lagi, Eropa Gak Jadi 'Kiamat'?",
+        "link": "https://www.cnbcindonesia.com/news/20220721124700-4-357398/pipa-nord-stream-1-beroperasi-lagi-eropa-gak-jadi-kiamat",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyNDcwMC00LTM1NzM5OC9waXBhLW5vcmQtc3RyZWFtLTEtYmVyb3BlcmFzaS1sYWdpLWVyb3BhLWdhay1qYWRpLWtpYW1hdA==",
+        "description": " Pipa gas Nord Stream yang menghubungkan Rusia ke Jerman kembali beroperasi pada Kamis (21/7/2022)."
+    },
+    {
+        "title": "SKK Migas Jadi Dibubarin? Ini 3 Opsi Lembaga Penggantinya..",
+        "link": "https://www.cnbcindonesia.com/news/20220721105200-4-357338/skk-migas-jadi-dibubarin-ini-3-opsi-lembaga-penggantinya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEwNTIwMC00LTM1NzMzOC9za2stbWlnYXMtamFkaS1kaWJ1YmFyaW4taW5pLTMtb3BzaS1sZW1iYWdhLXBlbmdnYW50aW55YQ==",
+        "description": " Status kelembagaan SKK Migas masih menjadi perbincangan, bagaimana revisi UU Migas?"
+    },
+    {
+        "title": "Catat! NIK Jadi NPWP, Orangnya Belum Tentu Wajib Bayar Pajak",
+        "link": "https://www.cnbcindonesia.com/news/20220721121117-8-357379/catat-nik-jadi-npwp-orangnya-belum-tentu-wajib-bayar-pajak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyMTExNy04LTM1NzM3OS9jYXRhdC1uaWstamFkaS1ucHdwLW9yYW5nbnlhLWJlbHVtLXRlbnR1LXdhamliLWJheWFyLXBhamFr",
+        "description": " Kemendagri: NIK Jadi NPWP, Orangnya Belum Tentu Wajib Bayar Pajak"
+    },
+    {
+        "title": "Biden Akan Telepon Xi Jinping, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220721115124-4-357365/biden-akan-telepon-xi-jinping-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTExNTEyNC00LTM1NzM2NS9iaWRlbi1ha2FuLXRlbGVwb24teGktamlucGluZy1hZGEtYXBh",
+        "description": " Presiden Amerika Serikat (AS) Joe Biden mengatakan akan melakukan panggilan telepon dengan Presiden China Xi Jinping dalam waktu dekat."
+    },
+    {
+        "title": "Data NIK dan NPWP Beda, Ini yang Harus Dilakukan Wajib Pajak!",
+        "link": "https://www.cnbcindonesia.com/news/20220721115338-4-357372/data-nik-npwp-beda-ini-yang-harus-dilakukan-wajib-pajak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTExNTMzOC00LTM1NzM3Mi9kYXRhLW5pay1ucHdwLWJlZGEtaW5pLXlhbmctaGFydXMtZGlsYWt1a2FuLXdhamliLXBhamFr",
+        "description": " Ditjen Pajak secara resmi telah memulai penerapan Nomor Induk Kependudukan (NIK) sebagai Nomor Pokok Wajib Pajak (NPWP)."
+    },
+    {
         "title": "Jelang Keputusan Bank Indonesia, Begini Suara Bos Pengusaha",
         "link": "https://www.cnbcindonesia.com/news/20220721120907-4-357378/jelang-keputusan-bank-indonesia-begini-suara-bos-pengusaha",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTExMjMyNC03LTM1NzM0OC9wb3RyZXQtdGFrLWJpYXNhLWRvbmFsZC10cnVtcC10ZXJ0dW5kdWstbGVzdS1iZXJiYWp1LWhpdGFt",
         "description": " Mantan Presiden AS Donald Trump tengah berduka. Ia menghadiri pemakaman mantan istrinya, Rabu (20/7/2022)."
-    },
-    {
-        "title": "Nomor KTP Jadi NPWP, Solusi Kebut Penerimaan Pajak?",
-        "link": "https://www.cnbcindonesia.com/news/20220720163812-8-357182/nomor-ktp-jadi-npwp-solusi-kebut-penerimaan-pajak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE2MzgxMi04LTM1NzE4Mi9ub21vci1rdHAtamFkaS1ucHdwLXNvbHVzaS1rZWJ1dC1wZW5lcmltYWFuLXBhamFr",
-        "description": " Nomor KTP Jadi NPWP, Solusi Kebut Penerimaan Pajak?"
-    },
-    {
-        "title": "Belum Bisa Gunakan NIK Saat Akses pajak.go.id, Apa Solusinya?",
-        "link": "https://www.cnbcindonesia.com/news/20220721105022-4-357336/belum-bisa-gunakan-nik-saat-akses-pajakgoid-apa-solusinya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEwNTAyMi00LTM1NzMzNi9iZWx1bS1iaXNhLWd1bmFrYW4tbmlrLXNhYXQtYWtzZXMtcGFqYWtnb2lkLWFwYS1zb2x1c2lueWE=",
-        "description": " Penggabungan Nomor Induk Kependudukan (NIK) sebagai Nomor Pokok Wajib Pajak (NPWP) akhirnya menjadi kenyataan."
-    },
-    {
-        "title": "Potensi Harta Karun Migas Terbesar, 'Mata' Dunia Menyoroti RI",
-        "link": "https://www.cnbcindonesia.com/news/20220721113747-4-357359/potensi-harta-karun-migas-terbesar-mata-dunia-menyoroti-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTExMzc0Ny00LTM1NzM1OS9wb3RlbnNpLWhhcnRhLWthcnVuLW1pZ2FzLXRlcmJlc2FyLW1hdGEtZHVuaWEtbWVueW9yb3RpLXJp",
-        "description": " Praktisi Hulu Migas Tumbur Parlindungan menyatakan semua mata sedang menunggu hasil eksplorasi dari Andaman area"
-    },
-    {
-        "title": "Saat Permintaan Menhub Soal Perluasan Bandara Direstui Jokowi",
-        "link": "https://www.cnbcindonesia.com/news/20220721102928-4-357327/saat-permintaan-menhub-soal-perluasan-bandara-direstui-jokowi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEwMjkyOC00LTM1NzMyNy9zYWF0LXBlcm1pbnRhYW4tbWVuaHViLXNvYWwtcGVybHVhc2FuLWJhbmRhcmEtZGlyZXN0dWktam9rb3dp",
-        "description": " Menhub Budi Karya mengusulkan pelebaran landasan pacu di Bandara Komodo Labuan Bajo"
-    },
-    {
-        "title": "Rasakan Sensasi Pakai Kendaraan Listrik di PLN E-Mobility",
-        "link": "https://www.cnbcindonesia.com/news/20220721112647-4-357355/rasakan-sensasi-pakai-kendaraan-listrik-di-pln-e-mobility",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTExMjY0Ny00LTM1NzM1NS9yYXNha2FuLXNlbnNhc2ktcGFrYWkta2VuZGFyYWFuLWxpc3RyaWstZGktcGxuLWUtbW9iaWxpdHk=",
-        "description": " PT PLN (Persero) mengajak masyarakat untuk mencoba langsung mengendarai kendaraan listrik di acara PLN E-Mobility Day: Driving The Future."
-    },
-    {
-        "title": "Keras! Erdogan Minta Pasukan AS Angkat Kaki dari Wilayah Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220721105637-4-357340/keras-erdogan-minta-pasukan-as-angkat-kaki-dari-wilayah-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEwNTYzNy00LTM1NzM0MC9rZXJhcy1lcmRvZ2FuLW1pbnRhLXBhc3VrYW4tYXMtYW5na2F0LWtha2ktZGFyaS13aWxheWFoLWluaQ==",
-        "description": " Presiden Turki Recep Tayyip Erdogan meminta agar pasukan Amerika Serikat (AS) menarik diri sepenuhnya dari wilayah Suriah Timur."
     }
 ]
