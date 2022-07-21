@@ -1,5 +1,26 @@
 [
     {
+        "title": "Update Covid-19 di RI 21 Juli: Kasus Baru Bertambah 5.410",
+        "link": "https://www.cnbcindonesia.com/news/20220721172649-16-357526/update-covid-19-di-ri-21-juli-kasus-baru-bertambah-5410",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE3MjY0OS0xNi0zNTc1MjYvdXBkYXRlLWNvdmlkLTE5LWRpLXJpLTIxLWp1bGkta2FzdXMtYmFydS1iZXJ0YW1iYWgtNTQxMA==",
+        "description": " Total kasus konfirmasi mencapai 6.154.494."
+    },
+    {
+        "title": "Video: Jokowi Buka Suara Soal Tarif  Rp3,75 Jt ke TN Komodo",
+        "link": "https://www.cnbcindonesia.com/news/20220721181750-8-357548/video-jokowi-buka-suara-soal-tarif-rp375-jt-ke-tn-komodo",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE4MTc1MC04LTM1NzU0OC92aWRlby1qb2tvd2ktYnVrYS1zdWFyYS1zb2FsLXRhcmlmLXJwMzc1LWp0LWtlLXRuLWtvbW9kbw==",
+        "description": " Video: Jokowi Buka Suara Soal Tarif Rp3,75 Jt ke TN Komodo"
+    },
+    {
+        "title": "Pertamina Ekspor 200 Mega Barel Produk LSFO ke Malaysia",
+        "link": "https://www.cnbcindonesia.com/news/20220721163823-4-357513/pertamina-ekspor-200-mega-barel-produk-lsfo-ke-malaysia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE2MzgyMy00LTM1NzUxMy9wZXJ0YW1pbmEtZWtzcG9yLTIwMC1tZWdhLWJhcmVsLXByb2R1ay1sc2ZvLWtlLW1hbGF5c2lh",
+        "description": " Pertamina berhasil memproduksi dan mengekspor perdana produk Low Sulphur Fuel Oil (LSFO) sebanyak 200 Mega Barel ke Malaysia"
+    },
+    {
         "title": "Kronologi Pilot Meninggal, Pesawat Citilink Mendarat Darurat",
         "link": "https://www.cnbcindonesia.com/news/20220721182207-4-357557/kronologi-pilot-meninggal-pesawat-citilink-mendarat-darurat",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE2NTMyNS00LTM1NzUxOC9pbmkta3Jvbm9sb2dpLXBlbnllYmFiLXBtLWl0YWxpYS1tYXJpby1kcmFnaGktbXVuZHVy",
         "description": " Perdana Menteri Italia Mario Draghi dilaporkan mengundurkan diri dari jabatannya, Kamis (21/7/2022). Begini kronologinya."
-    },
-    {
-        "title": "Sepanjang 2021, Produksi Listrik Pertamina NRE 4.686 GWh",
-        "link": "https://www.cnbcindonesia.com/news/20220721154050-4-357487/sepanjang-2021-produksi-listrik-pertamina-nre-4686-gwh",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE1NDA1MC00LTM1NzQ4Ny9zZXBhbmphbmctMjAyMS1wcm9kdWtzaS1saXN0cmlrLXBlcnRhbWluYS1ucmUtNDY4Ni1nd2g=",
-        "description": " Pertamina NRE mencatatkan produksi listrik 4.686 GWh atau mencapai 104%"
-    },
-    {
-        "title": "Harga Minyak Goreng Makin Turun, Ini Penampakannya",
-        "link": "https://www.cnbcindonesia.com/news/20220721154251-7-357489/harga-minyak-goreng-makin-turun-ini-penampakannya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE1NDI1MS03LTM1NzQ4OS9oYXJnYS1taW55YWstZ29yZW5nLW1ha2luLXR1cnVuLWluaS1wZW5hbXBha2Fubnlh",
-        "description": " Harga minyak goreng kemasan terus mengalami penurunan di toko ritel."
-    },
-    {
-        "title": "Selain Mi Instan, Harga Ikan Sarden Juga Merangkak Naik",
-        "link": "https://www.cnbcindonesia.com/news/20220721142826-7-357468/selain-mi-instan-harga-ikan-sarden-juga-merangkak-naik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE0MjgyNi03LTM1NzQ2OC9zZWxhaW4tbWktaW5zdGFuLWhhcmdhLWlrYW4tc2FyZGVuLWp1Z2EtbWVyYW5na2FrLW5haWs=",
-        "description": " Harga olahan pangan satu per satu naik, selain mi instan salah satunya ikan kaleng olahan."
     }
 ]
