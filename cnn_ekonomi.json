@@ -1,5 +1,19 @@
 [
     {
+        "title": "AP II Batal Keluar dari Bandara Halim",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220721080712-92-824194/ap-ii-batal-keluar-dari-bandara-halim",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIxMDgwNzEyLTkyLTgyNDE5NC9hcC1paS1iYXRhbC1rZWx1YXItZGFyaS1iYW5kYXJhLWhhbGlt",
+        "description": " PT Angkasa Pura II (Persero) menyatakan rencana pengosongan lahan milik TNI AU di Bandara Halim Perdanakusuma pada Kamis (21/7) tidak benar."
+    },
+    {
+        "title": "Keluh Kesah Pengusaha Skuter Listrik Dilarang Operasi Yogyakarta",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220720180054-92-824020/keluh-kesah-pengusaha-skuter-listrik-dilarang-operasi-yogyakarta",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIwMTgwMDU0LTkyLTgyNDAyMC9rZWx1aC1rZXNhaC1wZW5ndXNhaGEtc2t1dGVyLWxpc3RyaWstZGlsYXJhbmctb3BlcmFzaS15b2d5YWthcnRh",
+        "description": " Pengusaha skuter listrik pasrah dengan larangan operasi yang akan diterapkan Pemkot DIY meski\u00c2\u00a0bakal kehilangan pendapatan."
+    },
+    {
         "title": "DJP Terapkan Format NPWP Baru Mulai 14 Juli 2022",
         "link": "https://www.cnnindonesia.com/ekonomi/20220721074849-532-824188/djp-terapkan-format-npwp-baru-mulai-14-juli-2022",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIwMTgzNjE3LTUzMi04MjQwNDAvdGFrLWJheWFyLXBhamFrLWtlbmRhcmFhbi0yLXRhaHVuLXNpYXAtc2lhcC1tb2JpbC1tb3Rvci1qYWRpLWJvZG9uZw==",
         "description": " Jasa Raharja menyebut Samsat akan menghapus data kendaraan yang tidak bayar pajak selama dua tahun."
-    },
-    {
-        "title": "IHSG Diproyeksi Kokoh Jelang Rilis Bunga Acuan BI",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220721060911-92-824161/ihsg-diproyeksi-kokoh-jelang-rilis-bunga-acuan-bi",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIxMDYwOTExLTkyLTgyNDE2MS9paHNnLWRpcHJveWVrc2kta29rb2gtamVsYW5nLXJpbGlzLWJ1bmdhLWFjdWFuLWJp",
-        "description": " Indeks Harga Saham Gabungan (IHSG) diperkirakan kembali menguat pada perdagangan hari ini, Kamis (21/7)."
-    },
-    {
-        "title": "Gara-gara Airport Tax Harga Tiket Pesawat Naik hingga Rp60 Ribu",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220720142848-92-823893/gara-gara-airport-tax-harga-tiket-pesawat-naik-hingga-rp60-ribu",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIwMTQyODQ4LTkyLTgyMzg5My9nYXJhLWdhcmEtYWlycG9ydC10YXgtaGFyZ2EtdGlrZXQtcGVzYXdhdC1uYWlrLWhpbmdnYS1ycDYwLXJpYnU=",
-        "description": " Harga tiket pesawat naik Rp10 ribu hingga Rp60 ribu karena imbas dari penyesuaian airport tax naik di sejumlah bandara."
     }
 ]

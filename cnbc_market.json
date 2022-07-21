@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pasokan Terganggu, Harga Minyak WTI Anjlok 2%",
+        "link": "https://www.cnbcindonesia.com/market/20220721080104-17-357262/pasokan-terganggu-harga-minyak-wti-anjlok-2",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIxMDgwMTA0LTE3LTM1NzI2Mi9wYXNva2FuLXRlcmdhbmdndS1oYXJnYS1taW55YWstd3RpLWFuamxvay0y",
+        "description": " Persediaan bensin Amerika Serikat (AS) naik 3,5 juta barel pekan lalu, berdasarkan Badan Energi AS."
+    },
+    {
+        "title": "Kabar Pasar Hari Ini, Dari Erick Thohir Hingga DK-OJK Baru",
+        "link": "https://www.cnbcindonesia.com/market/20220721080047-17-357266/kabar-pasar-hari-ini-dari-erick-thohir-hingga-dk-ojk-baru",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIxMDgwMDQ3LTE3LTM1NzI2Ni9rYWJhci1wYXNhci1oYXJpLWluaS1kYXJpLWVyaWNrLXRob2hpci1oaW5nZ2EtZGstb2prLWJhcnU=",
+        "description": " Berikut kabar pasar yang bakal mewarnai pergerakan IHSG hari ini, Kamis (21/7/2022)."
+    },
+    {
         "title": "Menu Saham Pilihan di Tengah Optimisme IHSG Kembali ke 7.000",
         "link": "https://www.cnbcindonesia.com/market/20220721075113-17-357261/menu-saham-pilihan-di-tengah-optimisme-ihsg-kembali-ke-7000",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIxMDU1NTUxLTE3LTM1NzI0Ny9qZWxhbmctcGVuZ3VtdW1hbi1zdWt1LWJ1bmdhLWJpLWtlLW1hbmEtYXJhaC1paHNn",
         "description": " Hari ini IHSG berpotensi menguat, tapi volatilitas pasar akan terjadi jelang pengumuman keputusan BI soal kenaikan suku bunga"
-    },
-    {
-        "title": "Menakar Langkah BI Terkait Suku Bunga Acuan, Naik atau Tetap?",
-        "link": "https://www.cnbcindonesia.com/market/20220721005925-17-357243/menakar-langkah-bi-terkait-suku-bunga-acuan-naik-atau-tetap",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIxMDA1OTI1LTE3LTM1NzI0My9tZW5ha2FyLWxhbmdrYWgtYmktdGVya2FpdC1zdWt1LWJ1bmdhLWFjdWFuLW5haWstYXRhdS10ZXRhcA==",
-        "description": " Ke mana arah kebijakan suku bunga Bank Indonesia?"
-    },
-    {
-        "title": "Kunci Kenaikan IHSG: Menguji Resistance 6.900",
-        "link": "https://www.cnbcindonesia.com/market/20220721005536-17-357242/kunci-kenaikan-ihsg-menguji-resistance-6900",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIxMDA1NTM2LTE3LTM1NzI0Mi9rdW5jaS1rZW5haWthbi1paHNnLW1lbmd1amktcmVzaXN0YW5jZS02OTAw",
-        "description": " IHSG berhasil ditutup di atas level psikologis 6.800 atau tepatnya di 6.874,74."
     }
 ]
