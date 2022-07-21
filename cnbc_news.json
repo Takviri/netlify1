@@ -1,5 +1,47 @@
 [
     {
+        "title": "Pilot Citilink Meninggal, Pesawat Mendarat Darurat",
+        "link": "https://www.cnbcindonesia.com/news/20220721141853-4-357442/pilot-citilink-meninggal-pesawat-mendarat-darurat",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE0MTg1My00LTM1NzQ0Mi9waWxvdC1jaXRpbGluay1tZW5pbmdnYWwtcGVzYXdhdC1tZW5kYXJhdC1kYXJ1cmF0",
+        "description": " Penerbangan Citilink Surabaya-Ujung Pandang mendarat kembali ke Bandara Juanda, Surabaya karena pilot meninggal."
+    },
+    {
+        "title": "Aceh! Serambi Mekkah yang Punya Potensi Migas Terbesar Dunia",
+        "link": "https://www.cnbcindonesia.com/news/20220721140135-4-357431/aceh-serambi-mekkah-yang-punya-potensi-migas-terbesar-dunia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE0MDEzNS00LTM1NzQzMS9hY2VoLXNlcmFtYmktbWVra2FoLXlhbmctcHVueWEtcG90ZW5zaS1taWdhcy10ZXJiZXNhci1kdW5pYQ==",
+        "description": " Kementerian ESDM mencatat terdapat temuan potensi migas terbesar dunia di Blok Andaman II dan III yang ada di Perairan Laut Aceh"
+    },
+    {
+        "title": "Terungkap, Alasan RI Ogah Bantu Eropa Dari Krisis Gas Rusia",
+        "link": "https://www.cnbcindonesia.com/news/20220721124141-4-357395/terungkap-alasan-ri-ogah-bantu-eropa-dari-krisis-gas-rusia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyNDE0MS00LTM1NzM5NS90ZXJ1bmdrYXAtYWxhc2FuLXJpLW9nYWgtYmFudHUtZXJvcGEtZGFyaS1rcmlzaXMtZ2FzLXJ1c2lh",
+        "description": " SKK Migas membenarkan bahwa terdapat beberapa permintaan suplai gas ke negara-negara Eropa"
+    },
+    {
+        "title": "Gaya Jokowi dan Iriana Naik Pinisi ke Taman Nasional Komodo NTT",
+        "link": "https://www.cnbcindonesia.com/news/20220721123034-7-357388/gaya-jokowi-iriana-naik-pinisi-ke-taman-nasional-komodo-ntt",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyMzAzNC03LTM1NzM4OC9nYXlhLWpva293aS1pcmlhbmEtbmFpay1waW5pc2kta2UtdGFtYW4tbmFzaW9uYWwta29tb2RvLW50dA==",
+        "description": " Presiden Joko Widodo dan Ibu Iriana Joko Widodo melanjutkan perjalanan menuju Pulau Rinca, Kabupaten Manggarai Barat."
+    },
+    {
+        "title": "Psst! Ini Bocoran Investor Kakap yang Bakal Tebar Duit di IKN",
+        "link": "https://www.cnbcindonesia.com/news/20220721124748-4-357399/psst-ini-bocoran-investor-kakap-yang-bakal-tebar-duit-di-ikn",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyNDc0OC00LTM1NzM5OS9wc3N0LWluaS1ib2NvcmFuLWludmVzdG9yLWtha2FwLXlhbmctYmFrYWwtdGViYXItZHVpdC1kaS1pa24=",
+        "description": " Pemerintah mulai bulan depan akan melakukan penjajakan kepada kalangan investor yang berminat menanamkan modalnya di IKN"
+    },
+    {
+        "title": "Negara Bangkrut, Wanita Sri Lanka Barter Seks dengan Makanan",
+        "link": "https://www.cnbcindonesia.com/news/20220721120323-4-357374/negara-bangkrut-wanita-sri-lanka-barter-seks-dengan-makanan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyMDMyMy00LTM1NzM3NC9uZWdhcmEtYmFuZ2tydXQtd2FuaXRhLXNyaS1sYW5rYS1iYXJ0ZXItc2Vrcy1kZW5nYW4tbWFrYW5hbg==",
+        "description": " Sri Lanka bangkrut. Ini memaksa sejumlah wanitanya bergabung dengan perdagangan seks untuk mendapatkan makanan dan obat-obatan."
+    },
+    {
         "title": "Tombol Pembatasan Pertalite di Tangan Jokowi, Kapan Dipencet?",
         "link": "https://www.cnbcindonesia.com/news/20220721121912-4-357383/tombol-pembatasan-pertalite-di-tangan-jokowi-kapan-dipencet",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEzMTM1My00LTM1NzQxMS9hZGEtaGFydGEta2FydW4tbGFpbi1kaS1wb3RlbnNpLW1pZ2FzLXRlcmJlc2FyLWR1bmlhLW1pbGlrLXJp",
         "description": " Terdapat temuan harta karun langka yakni hydrocarbon liquid di potensi migas terbesar dunia milik RI"
-    },
-    {
-        "title": "Ketentuan Permohonan Aktivasi NIK Sebagai NPWP Pajak, Simak!",
-        "link": "https://www.cnbcindonesia.com/news/20220721125849-4-357409/ketentuan-permohonan-aktivasi-nik-sebagai-npwp-pajak-simak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyNTg0OS00LTM1NzQwOS9rZXRlbnR1YW4tcGVybW9ob25hbi1ha3RpdmFzaS1uaWstc2ViYWdhaS1ucHdwLXBhamFrLXNpbWFr",
-        "description": " Nomor Induk Kependudukan (NIK) sebagai Nomor Pokok Wajib Pajak (NPWP) secara resmi diberlakukan."
-    },
-    {
-        "title": "Hasta La Vista, Baby! Ini Pesan Terakhir Boris Johnson",
-        "link": "https://www.cnbcindonesia.com/news/20220721131736-8-357414/hasta-la-vista-baby-ini-pesan-terakhir-boris-johnson",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEzMTczNi04LTM1NzQxNC9oYXN0YS1sYS12aXN0YS1iYWJ5LWluaS1wZXNhbi10ZXJha2hpci1ib3Jpcy1qb2huc29u",
-        "description": " Hasta La Vista, Baby! Ini Pesan Terakhir Boris Johnson"
-    },
-    {
-        "title": "Jreng! KPPU Bakal Sidang 27 Perusahaan Dugaan Kartel Migor",
-        "link": "https://www.cnbcindonesia.com/news/20220721122809-4-357385/jreng-kppu-bakal-sidang-27-perusahaan-dugaan-kartel-migor",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyMjgwOS00LTM1NzM4NS9qcmVuZy1rcHB1LWJha2FsLXNpZGFuZy0yNy1wZXJ1c2FoYWFuLWR1Z2Fhbi1rYXJ0ZWwtbWlnb3I=",
-        "description": " Jreng! 27 Perusahaan Minyak Goreng"
-    },
-    {
-        "title": "Ini Tampang Angker Jet Tempur RI-Korsel yang Sukses Terbang",
-        "link": "https://www.cnbcindonesia.com/news/20220721113244-7-357366/ini-tampang-angker-jet-tempur-ri-korsel-yang-sukses-terbang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTExMzI0NC03LTM1NzM2Ni9pbmktdGFtcGFuZy1hbmdrZXItamV0LXRlbXB1ci1yaS1rb3JzZWwteWFuZy1zdWtzZXMtdGVyYmFuZw==",
-        "description": " Jet tempur KF-21 Boramae buatan Korea Selatan dan Indonesia adalah pesawat tempur 'generasi 4,5', bisa dibilang F-22 Raftor versi Asia."
-    },
-    {
-        "title": "Perkenalkan, Ini 2 Calon Kuat Perdana Menteri Baru Inggris",
-        "link": "https://www.cnbcindonesia.com/news/20220721121940-4-357382/perkenalkan-ini-2-calon-kuat-perdana-menteri-baru-inggris",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyMTk0MC00LTM1NzM4Mi9wZXJrZW5hbGthbi1pbmktMi1jYWxvbi1rdWF0LXBlcmRhbmEtbWVudGVyaS1iYXJ1LWluZ2dyaXM=",
-        "description": " Calon perdana menteri Inggris baru telah menyusut. Dua nama kini muncul. Siapa saja?"
-    },
-    {
-        "title": "Pertemuan DEWG G20 Libatkan Generasi Muda, Ini Tugasnya",
-        "link": "https://www.cnbcindonesia.com/news/20220721124842-4-357400/pertemuan-dewg-g20-libatkan-generasi-muda-ini-tugasnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyNDg0Mi00LTM1NzQwMC9wZXJ0ZW11YW4tZGV3Zy1nMjAtbGliYXRrYW4tZ2VuZXJhc2ktbXVkYS1pbmktdHVnYXNueWE=",
-        "description": " Keikutsertaan generasi muda di DEWG G20 merupakan kesempatan cukup langka karena menjadi pengalaman berharga untuk mengambil bagian di pertemuan internasional."
     }
 ]
