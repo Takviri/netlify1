@@ -1,5 +1,33 @@
 [
     {
+        "title": "Alert! Covid-19 di China dan Australia Kembali Meningkat",
+        "link": "https://www.cnbcindonesia.com/news/20220721141130-8-357434/alert-covid-19-di-china-australia-kembali-meningkat",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE0MTEzMC04LTM1NzQzNC9hbGVydC1jb3ZpZC0xOS1kaS1jaGluYS1hdXN0cmFsaWEta2VtYmFsaS1tZW5pbmdrYXQ=",
+        "description": " Jumlah kasus harian Covid-19 di China dan Australia telah meningkat saat liburan musim panas berlangsung."
+    },
+    {
+        "title": "Tiket Pesawat 'Meledak' Tapi Laris, Travel Agent Panen Omzet",
+        "link": "https://www.cnbcindonesia.com/news/20220721131157-4-357416/tiket-pesawat-meledak-tapi-laris-travel-agent-panen-omzet",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEzMTE1Ny00LTM1NzQxNi90aWtldC1wZXNhd2F0LW1lbGVkYWstdGFwaS1sYXJpcy10cmF2ZWwtYWdlbnQtcGFuZW4tb216ZXQ=",
+        "description": " Lonjakan harga tiket pesawat ternyata tidak menurunkan minat orang untuk bepergian."
+    },
+    {
+        "title": "Ada Kode Keras, Gaji PNS Bakal Naik Tahun Depan?",
+        "link": "https://www.cnbcindonesia.com/news/20220721131752-4-357415/ada-kode-keras-gaji-pns-bakal-naik-tahun-depan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEzMTc1Mi00LTM1NzQxNS9hZGEta29kZS1rZXJhcy1nYWppLXBucy1iYWthbC1uYWlrLXRhaHVuLWRlcGFu",
+        "description": " Pemerintah dikabarkan bakal mengerek gaji pokok PNS tahun depan"
+    },
+    {
+        "title": "Tak Sampai Rp250 Juta, Segini Cicilan Mobil Penghancur Avanza",
+        "link": "https://www.cnbcindonesia.com/news/20220721130658-4-357410/tak-sampai-rp250-juta-segini-cicilan-mobil-penghancur-avanza",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEzMDY1OC00LTM1NzQxMC90YWstc2FtcGFpLXJwMjUwLWp1dGEtc2VnaW5pLWNpY2lsYW4tbW9iaWwtcGVuZ2hhbmN1ci1hdmFuemE=",
+        "description": " Persaingan mobil di segmen MPV makin panas setelah Hyundai merilis harga Stargazer."
+    },
+    {
         "title": "Pilot Citilink Meninggal, Pesawat Mendarat Darurat",
         "link": "https://www.cnbcindonesia.com/news/20220721141853-4-357442/pilot-citilink-meninggal-pesawat-mendarat-darurat",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyMDMyMy00LTM1NzM3NC9uZWdhcmEtYmFuZ2tydXQtd2FuaXRhLXNyaS1sYW5rYS1iYXJ0ZXItc2Vrcy1kZW5nYW4tbWFrYW5hbg==",
         "description": " Sri Lanka bangkrut. Ini memaksa sejumlah wanitanya bergabung dengan perdagangan seks untuk mendapatkan makanan dan obat-obatan."
-    },
-    {
-        "title": "Tombol Pembatasan Pertalite di Tangan Jokowi, Kapan Dipencet?",
-        "link": "https://www.cnbcindonesia.com/news/20220721121912-4-357383/tombol-pembatasan-pertalite-di-tangan-jokowi-kapan-dipencet",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyMTkxMi00LTM1NzM4My90b21ib2wtcGVtYmF0YXNhbi1wZXJ0YWxpdGUtZGktdGFuZ2FuLWpva293aS1rYXBhbi1kaXBlbmNldA==",
-        "description": " Pembatasan pembelian BBM Pertalite menanti terbitnya revisi Perpres 191/2014"
-    },
-    {
-        "title": "Ukraina Tetapkan Tenggat Waktu Menang Lawan Rusia, Kapan?",
-        "link": "https://www.cnbcindonesia.com/news/20220721132517-4-357418/ukraina-tetapkan-tenggat-waktu-menang-lawan-rusia-kapan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEzMjUxNy00LTM1NzQxOC91a3JhaW5hLXRldGFwa2FuLXRlbmdnYXQtd2FrdHUtbWVuYW5nLWxhd2FuLXJ1c2lhLWthcGFu",
-        "description": " Ukraina mulai menetapkan target waktu untuk memenangkan peperangan dengan Rusia."
-    },
-    {
-        "title": "Jatuh Titik Terendah, Harga Minyak Goreng Jadi Segini di Sini",
-        "link": "https://www.cnbcindonesia.com/news/20220721120555-4-357377/jatuh-titik-terendah-harga-minyak-goreng-jadi-segini-di-sini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyMDU1NS00LTM1NzM3Ny9qYXR1aC10aXRpay10ZXJlbmRhaC1oYXJnYS1taW55YWstZ29yZW5nLWphZGktc2VnaW5pLWRpLXNpbmk=",
-        "description": " Harga minyak goreng kemasan terus mengalami penurunan di toko ritel."
-    },
-    {
-        "title": "Ada Harta Karun Lain di Potensi Migas Terbesar Dunia Milik RI",
-        "link": "https://www.cnbcindonesia.com/news/20220721131353-4-357411/ada-harta-karun-lain-di-potensi-migas-terbesar-dunia-milik-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEzMTM1My00LTM1NzQxMS9hZGEtaGFydGEta2FydW4tbGFpbi1kaS1wb3RlbnNpLW1pZ2FzLXRlcmJlc2FyLWR1bmlhLW1pbGlrLXJp",
-        "description": " Terdapat temuan harta karun langka yakni hydrocarbon liquid di potensi migas terbesar dunia milik RI"
     }
 ]
