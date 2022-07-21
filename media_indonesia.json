@@ -1,5 +1,12 @@
 [
     {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/508631/pentingnya-warga-digital-ketahui-kesadaran-dan-manfaat-berinternet",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA4NjMxL3BlbnRpbmdueWEtd2FyZ2EtZGlnaXRhbC1rZXRhaHVpLWtlc2FkYXJhbi1kYW4tbWFuZmFhdC1iZXJpbnRlcm5ldA==",
+        "description": "Ada etika, ketika pengguna berinteraksi di dunia maya. Dunia tanpa batas, di mana penggunanya dapat berinteraksi dengan banyak orang melintasi geografis dan budaya. Hingga interaksi tersebut menciptakan&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/508629/partai-kebangkitan-nusantara-gelar-rapimnas-untuk-persiapan-pendaftaran-ke-kpu",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODYxNy9yb25hbGRvLXJlbGEtcG90b25nLWdhamktZGVtaS10aW5nZ2Fsa2FuLW9sZC10cmFmZm9yZA==",
         "description": "CRISTIANO Ronaldo dikabarkan rela untuk menurunkan gaji demi dapat meninggalkan Manchester United pada bursa transfer pemain musim panas ini. Agen Jorge Mendes dikabarkan telah mengatakan kepada&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/508616/kebakaran-hebat-melanda-pabrik-pupuk-dan-pestisida-di-demak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4NjE2L2tlYmFrYXJhbi1oZWJhdC1tZWxhbmRhLXBhYnJpay1wdXB1ay1kYW4tcGVzdGlzaWRhLWRpLWRlbWFr",
-        "description": "KEBAKARAN hebat melanda sebuah pabrik pupuk dan pestisida CV Saprotan Utama yang terletak di ruas jalan Semarang-Purwodadi, tepatnya di Desa Bandungrejo No 26, Kecamatan Mranggen, Kabupaten Demak,&#8230;"
     }
 ]
