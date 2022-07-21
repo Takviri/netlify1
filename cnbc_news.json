@@ -1,5 +1,40 @@
 [
     {
+        "title": "'Kiamat Pesawat' Ancam Bisnis Logistik, Ongkir Bisa 'Meledak'",
+        "link": "https://www.cnbcindonesia.com/news/20220721144441-4-357462/kiamat-pesawat-ancam-bisnis-logistik-ongkir-bisa-meledak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE0NDQ0MS00LTM1NzQ2Mi9raWFtYXQtcGVzYXdhdC1hbmNhbS1iaXNuaXMtbG9naXN0aWstb25na2lyLWJpc2EtbWVsZWRhaw==",
+        "description": " Keterbatasan pesawat di Indonesia ternyata tidak hanya berdampak ke penerbangan penumpang komersial."
+    },
+    {
+        "title": "Biden Siap \"Perang\" Dengan Batu Bara",
+        "link": "https://www.cnbcindonesia.com/news/20220721141159-8-357436/biden-siap-perang-dengan-batu-bara",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE0MTE1OS04LTM1NzQzNi9iaWRlbi1zaWFwLXBlcmFuZy1kZW5nYW4tYmF0dS1iYXJh",
+        "description": " Joe Biden umumkan mempercepat pengembangan Pembangkit Listrik Tenaga Bayu (PLTB)."
+    },
+    {
+        "title": "Negara Maju \"Biang Keladi\" yang Mendorong Resesi?",
+        "link": "https://www.cnbcindonesia.com/news/20220721122526-4-357413/negara-maju-biang-keladi-yang-mendorong-resesi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyMjUyNi00LTM1NzQxMy9uZWdhcmEtbWFqdS1iaWFuZy1rZWxhZGkteWFuZy1tZW5kb3JvbmctcmVzZXNp",
+        "description": " Ekonomi dunia di ambang resesi dan negara maju pun disalahkan"
+    },
+    {
+        "title": "Jokowi Bakal Terbang ke China, Jepang dan Korsel, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220721135307-4-357429/jokowi-bakal-terbang-ke-china-jepang-dan-korsel-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEzNTMwNy00LTM1NzQyOS9qb2tvd2ktYmFrYWwtdGVyYmFuZy1rZS1jaGluYS1qZXBhbmctZGFuLWtvcnNlbC1hZGEtYXBh",
+        "description": " Presiden Joko Widodo (Jokowi) berencana akan berkunjung ke tiga negara Asia Timur, yakni China, Jepang, dan Korea Selatan (Korsel)."
+    },
+    {
+        "title": "Confirm! Jokowi dan Xi Jinping Bakal \"4 Mata\" 26 Juli",
+        "link": "https://www.cnbcindonesia.com/news/20220721135239-4-357427/confirm-jokowi-xi-jinping-bakal-4-mata-26-juli",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEzNTIzOS00LTM1NzQyNy9jb25maXJtLWpva293aS14aS1qaW5waW5nLWJha2FsLTQtbWF0YS0yNi1qdWxp",
+        "description": " Presiden Joko Widodo (Jokowi) berencana bertemu dengan Presiden China Xi Jinping pada 26 Juli 2022 mendatang."
+    },
+    {
         "title": "Alert! Covid-19 di China dan Australia Kembali Meningkat",
         "link": "https://www.cnbcindonesia.com/news/20220721141130-8-357434/alert-covid-19-di-china-australia-kembali-meningkat",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE0MTg1My00LTM1NzQ0Mi9waWxvdC1jaXRpbGluay1tZW5pbmdnYWwtcGVzYXdhdC1tZW5kYXJhdC1kYXJ1cmF0",
         "description": " Penerbangan Citilink Surabaya-Ujung Pandang mendarat kembali ke Bandara Juanda, Surabaya karena pilot meninggal."
-    },
-    {
-        "title": "Aceh! Serambi Mekkah yang Punya Potensi Migas Terbesar Dunia",
-        "link": "https://www.cnbcindonesia.com/news/20220721140135-4-357431/aceh-serambi-mekkah-yang-punya-potensi-migas-terbesar-dunia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE0MDEzNS00LTM1NzQzMS9hY2VoLXNlcmFtYmktbWVra2FoLXlhbmctcHVueWEtcG90ZW5zaS1taWdhcy10ZXJiZXNhci1kdW5pYQ==",
-        "description": " Kementerian ESDM mencatat terdapat temuan potensi migas terbesar dunia di Blok Andaman II dan III yang ada di Perairan Laut Aceh"
-    },
-    {
-        "title": "Terungkap, Alasan RI Ogah Bantu Eropa Dari Krisis Gas Rusia",
-        "link": "https://www.cnbcindonesia.com/news/20220721124141-4-357395/terungkap-alasan-ri-ogah-bantu-eropa-dari-krisis-gas-rusia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyNDE0MS00LTM1NzM5NS90ZXJ1bmdrYXAtYWxhc2FuLXJpLW9nYWgtYmFudHUtZXJvcGEtZGFyaS1rcmlzaXMtZ2FzLXJ1c2lh",
-        "description": " SKK Migas membenarkan bahwa terdapat beberapa permintaan suplai gas ke negara-negara Eropa"
-    },
-    {
-        "title": "Gaya Jokowi dan Iriana Naik Pinisi ke Taman Nasional Komodo NTT",
-        "link": "https://www.cnbcindonesia.com/news/20220721123034-7-357388/gaya-jokowi-iriana-naik-pinisi-ke-taman-nasional-komodo-ntt",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyMzAzNC03LTM1NzM4OC9nYXlhLWpva293aS1pcmlhbmEtbmFpay1waW5pc2kta2UtdGFtYW4tbmFzaW9uYWwta29tb2RvLW50dA==",
-        "description": " Presiden Joko Widodo dan Ibu Iriana Joko Widodo melanjutkan perjalanan menuju Pulau Rinca, Kabupaten Manggarai Barat."
-    },
-    {
-        "title": "Psst! Ini Bocoran Investor Kakap yang Bakal Tebar Duit di IKN",
-        "link": "https://www.cnbcindonesia.com/news/20220721124748-4-357399/psst-ini-bocoran-investor-kakap-yang-bakal-tebar-duit-di-ikn",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyNDc0OC00LTM1NzM5OS9wc3N0LWluaS1ib2NvcmFuLWludmVzdG9yLWtha2FwLXlhbmctYmFrYWwtdGViYXItZHVpdC1kaS1pa24=",
-        "description": " Pemerintah mulai bulan depan akan melakukan penjajakan kepada kalangan investor yang berminat menanamkan modalnya di IKN"
-    },
-    {
-        "title": "Negara Bangkrut, Wanita Sri Lanka Barter Seks dengan Makanan",
-        "link": "https://www.cnbcindonesia.com/news/20220721120323-4-357374/negara-bangkrut-wanita-sri-lanka-barter-seks-dengan-makanan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTEyMDMyMy00LTM1NzM3NC9uZWdhcmEtYmFuZ2tydXQtd2FuaXRhLXNyaS1sYW5rYS1iYXJ0ZXItc2Vrcy1kZW5nYW4tbWFrYW5hbg==",
-        "description": " Sri Lanka bangkrut. Ini memaksa sejumlah wanitanya bergabung dengan perdagangan seks untuk mendapatkan makanan dan obat-obatan."
     }
 ]
