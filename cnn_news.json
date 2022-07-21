@@ -1,5 +1,40 @@
 [
     {
+        "title": "IDI Nilai PPKM Belum Perlu Naik Level meski Kasus Covid Naik",
+        "link": "https://www.cnnindonesia.com/nasional/20220721100318-20-824234/idi-nilai-ppkm-belum-perlu-naik-level-meski-kasus-covid-naik",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMTEwMDMxOC0yMC04MjQyMzQvaWRpLW5pbGFpLXBwa20tYmVsdW0tcGVybHUtbmFpay1sZXZlbC1tZXNraS1rYXN1cy1jb3ZpZC1uYWlr",
+        "description": " Ketua Satgas Covid-19 PB IDI\u00c2\u00a0berharap warga terus memakai masker agar bisa melewati gelombang virus corona kali ini."
+    },
+    {
+        "title": "Hasto PDIP Mengaku Tak Bicara Kans Koalisi Saat Jumpa Sekjen PAN",
+        "link": "https://www.cnnindonesia.com/nasional/20220721205603-32-824613/hasto-pdip-mengaku-tak-bicara-kans-koalisi-saat-jumpa-sekjen-pan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMTIwNTYwMy0zMi04MjQ2MTMvaGFzdG8tcGRpcC1tZW5nYWt1LXRhay1iaWNhcmEta2Fucy1rb2FsaXNpLXNhYXQtanVtcGEtc2VramVuLXBhbg==",
+        "description": " Sekjen PDIP Hasto Kristiyanto mengklaim topik pembicaraan dengan Sekjen PAN Eddy Soeparno seputar kerja sama dalam sekolah partai."
+    },
+    {
+        "title": "Pemerintah Janji Kaji Manfaat Ganja untuk Kebutuhan Medis",
+        "link": "https://www.cnnindonesia.com/nasional/20220721173203-12-824522/pemerintah-janji-kaji-manfaat-ganja-untuk-kebutuhan-medis",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMTE3MzIwMy0xMi04MjQ1MjIvcGVtZXJpbnRhaC1qYW5qaS1rYWppLW1hbmZhYXQtZ2FuamEtdW50dWsta2VidXR1aGFuLW1lZGlz",
+        "description": " Kemenkumham\u00c2\u00a0berjanji pemerintah bersama Komisi III DPR akan mengkaji fungsi ganja untuk kebutuhan medis sesuai instruksi MK."
+    },
+    {
+        "title": "Menkes: Warga Tak Booster Berisiko 20 Kali Lebih Tinggi Dirawat di RS",
+        "link": "https://www.cnnindonesia.com/nasional/20220721134147-20-824352/menkes-warga-tak-booster-berisiko-20-kali-lebih-tinggi-dirawat-di-rs",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMTEzNDE0Ny0yMC04MjQzNTIvbWVua2VzLXdhcmdhLXRhay1ib29zdGVyLWJlcmlzaWtvLTIwLWthbGktbGViaWgtdGluZ2dpLWRpcmF3YXQtZGktcnM=",
+        "description": " Menkes\u00c2\u00a0Budi Gunadi Sadikin meminta warga segera mendapatkan vaksinasi Covid-19 dosis ketiga atau booster."
+    },
+    {
+        "title": "Keterisian ICU RS Covid-19 di DKI, Bali, dan Kalteng di Atas 10 Persen",
+        "link": "https://www.cnnindonesia.com/nasional/20220721145144-20-824413/keterisian-icu-rs-covid-19-di-dki-bali-dan-kalteng-di-atas-10-persen",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMTE0NTE0NC0yMC04MjQ0MTMva2V0ZXJpc2lhbi1pY3UtcnMtY292aWQtMTktZGktZGtpLWJhbGktZGFuLWthbHRlbmctZGktYXRhcy0xMC1wZXJzZW4=",
+        "description": " BOR ICU RS Covid-19 di Bali mencapai 17,75 persen; Kalimantan Tengah 15,56 persen; dan di DKI Jakarta 12,82 persen."
+    },
+    {
         "title": "Gempa M 5,1 Guncang Nias Selatan, Tak Berpotensi Tsunami",
         "link": "https://www.cnnindonesia.com/nasional/20220722045248-20-824638/gempa-m-51-guncang-nias-selatan-tak-berpotensi-tsunami",
         "image": "static/images/cnn_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMTEyMzgzMi0yMC04MjQzMjIvd2FndWItZGtpLW1pbnRhLWtvbnRyYWt0b3ItaGF0aS1oYXRpLXVzYWktcGlwYS1nYXMtYm9jb3ItZGktY2F3YW5n",
         "description": " Wagub DKI Jakarta Riza Patria mengatakan sudah meminta agar pihak-pihak terkait segera menangani masalah kebocoran gas sehingga tidak menimbulkan masalah lain."
-    },
-    {
-        "title": "Polisi Tangkap 3 Terduga Pembunuh Wanita yang Ditemukan di Kali Cikeas",
-        "link": "https://www.cnnindonesia.com/nasional/20220721164220-12-824495/polisi-tangkap-3-terduga-pembunuh-wanita-yang-ditemukan-di-kali-cikeas",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMTE2NDIyMC0xMi04MjQ0OTUvcG9saXNpLXRhbmdrYXAtMy10ZXJkdWdhLXBlbWJ1bnVoLXdhbml0YS15YW5nLWRpdGVtdWthbi1kaS1rYWxpLWNpa2Vhcw==",
-        "description": " Salah satu pelaku pembunuhan adalah mantan pacar korban. Ia sakit hati karena tidak terima hubungan mereka berakhir."
-    },
-    {
-        "title": "KPAID Tasik Dampingi Keluarga Bocah Dibully Setubuhi Kucing dan Pelaku",
-        "link": "https://www.cnnindonesia.com/nasional/20220721193214-12-824576/kpaid-tasik-dampingi-keluarga-bocah-dibully-setubuhi-kucing-dan-pelaku",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMTE5MzIxNC0xMi04MjQ1NzYva3BhaWQtdGFzaWstZGFtcGluZ2kta2VsdWFyZ2EtYm9jYWgtZGlidWxseS1zZXR1YnVoaS1rdWNpbmctZGFuLXBlbGFrdQ==",
-        "description": " KPAID Tasikmalaya mengatakan\u00c2\u00a0berkaca dari kasus ini, berharap para orang tua lebih meningkatkan pengawasan pada anak saat bermain."
-    },
-    {
-        "title": "M Taufik Kritik Gugatan DPC Jaktim ke Prabowo: Baca Aturan Lagi",
-        "link": "https://www.cnnindonesia.com/nasional/20220722011153-32-824629/m-taufik-kritik-gugatan-dpc-jaktim-ke-prabowo-baca-aturan-lagi",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMjAxMTE1My0zMi04MjQ2MjkvbS10YXVmaWsta3JpdGlrLWd1Z2F0YW4tZHBjLWpha3RpbS1rZS1wcmFib3dvLWJhY2EtYXR1cmFuLWxhZ2k=",
-        "description": " M Taufik\u00c2\u00a0mengkritik Gerindra DPC Jaktim yang menggugat Ketum Prabowo Subianto karena tak kunjung memecat dirinya."
-    },
-    {
-        "title": "RSUP Wahidin Makassar Tanggung Jawab Kematian Bayi Usai Disuntik",
-        "link": "https://www.cnnindonesia.com/nasional/20220721132036-20-824342/rsup-wahidin-makassar-tanggung-jawab-kematian-bayi-usai-disuntik",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMTEzMjAzNi0yMC04MjQzNDIvcnN1cC13YWhpZGluLW1ha2Fzc2FyLXRhbmdndW5nLWphd2FiLWtlbWF0aWFuLWJheWktdXNhaS1kaXN1bnRpaw==",
-        "description": " RSUP Wahidin Sudirohusodo langsung melakukan investigasi setelah mengetahui seorang bayi berusia satu bulan meninggal dunia usai mendapatkan suntikan."
-    },
-    {
-        "title": "Konser Langit Hanan Attaki di Jember Resmi Dibatalkan",
-        "link": "https://www.cnnindonesia.com/nasional/20220721232304-20-824624/konser-langit-hanan-attaki-di-jember-resmi-dibatalkan",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMTIzMjMwNC0yMC04MjQ2MjQva29uc2VyLWxhbmdpdC1oYW5hbi1hdHRha2ktZGktamVtYmVyLXJlc21pLWRpYmF0YWxrYW4=",
-        "description": " Konser Langit Hanan Attaki di Jember resmi dibatalkan setelah mendapatkan banyak penolakan dari sejumlah pihak, termasuk NU dan Ansor."
     }
 ]
