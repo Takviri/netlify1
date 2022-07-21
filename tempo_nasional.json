@@ -1,5 +1,26 @@
 [
     {
+        "title": "Menteri Syahrul Tingkatkan Produksi Gula Nasional",
+        "link": "https://nasional.tempo.co/read/1614534/menteri-syahrul-tingkatkan-produksi-gula-nasional",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ1MzQvbWVudGVyaS1zeWFocnVsLXRpbmdrYXRrYW4tcHJvZHVrc2ktZ3VsYS1uYXNpb25hbA==",
+        "description": "Menteri Pertanian Syahrul Yasin Limpo (Mentan SYL) memastikan bahwa peningkatan produksi gula nasional terus dilakukan melalui perluasan lahan (ekstensifikasi) maupun intensifikasi."
+    },
+    {
+        "title": "Misteri Kematian Brigadir J di Rumah Dinas Ferdy Sambo, Ini kata LBH Jakarta",
+        "link": "https://nasional.tempo.co/read/1614563/misteri-kematian-brigadir-j-di-rumah-dinas-ferdy-sambo-ini-kata-lbh-jakarta",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ1NjMvbWlzdGVyaS1rZW1hdGlhbi1icmlnYWRpci1qLWRpLXJ1bWFoLWRpbmFzLWZlcmR5LXNhbWJvLWluaS1rYXRhLWxiaC1qYWthcnRh",
+        "description": "LBH Jakarta ikut bersuara soal misteri kematian Brigadir J di rumah dinas Irjen Ferdy Sambo."
+    },
+    {
+        "title": "Seluk-beluk Autopsi, Simak Syarat dan Prosedurnya",
+        "link": "https://nasional.tempo.co/read/1614561/seluk-beluk-autopsi-simak-syarat-dan-prosedurnya",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ1NjEvc2VsdWstYmVsdWstYXV0b3BzaS1zaW1hay1zeWFyYXQtZGFuLXByb3NlZHVybnlh",
+        "description": "Beragam kasus kematian sering memerlukan autopsi, bahkan diulang, seperti dalam kasus kematian Brigadir J di rumah dinas Kadiv Propam."
+    },
+    {
         "title": "Moeldoko Klaim DOB Papua Dilakukan karena Masyarakat Ingin Kesejahteraan",
         "link": "https://nasional.tempo.co/read/1614559/moeldoko-klaim-dob-papua-dilakukan-karena-masyarakat-ingin-kesejahteraan",
         "image": "static/images/tempo_nasional.png",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ1Mzcvc29hbC1wZWx1YW5nLWtvYWxpc2ktZGVuZ2FuLW5hc2RlbS1wZGlwLW1lcmVrYS1zdWRhaC1kZW5nYW4tcGtzLWthbWktdGFrLW1hdS1nYW5nZ3U=",
         "description": "Sekjen PDIP Hasto Kristiyanto mengatakan partainya tak mau berkoalisi dengan NasDem di Pemilu 2024. Dia melihat NasDem sudah berkomunikasi dengan PKS."
-    },
-    {
-        "title": "Kementan Cari Solusi Atasi Harga TBS agar Normal Kembali",
-        "link": "https://nasional.tempo.co/read/1614542/kementan-cari-solusi-atasi-harga-tbs-agar-normal-kembali",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ1NDIva2VtZW50YW4tY2FyaS1zb2x1c2ktYXRhc2ktaGFyZ2EtdGJzLWFnYXItbm9ybWFsLWtlbWJhbGk=",
-        "description": "Harga Tandan Buah Segar (TBS) masih bergejolak hingga kini. Pemerintah terus cari solusi mengatasi harga TBS yang kian rendah."
-    },
-    {
-        "title": "Mentan SYL Ajak Perbankan Perkuat Pertanian Indonesia",
-        "link": "https://nasional.tempo.co/read/1614535/mentan-syl-ajak-perbankan-perkuat-pertanian-indonesia",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ1MzUvbWVudGFuLXN5bC1hamFrLXBlcmJhbmthbi1wZXJrdWF0LXBlcnRhbmlhbi1pbmRvbmVzaWE=",
-        "description": "Mentari Pertanian Syahrul Yasin Limpo (Mentan SYL) mengajak Perbankan khususnya  jajaran Bank Milik Negara seperti Bank Negara Indonesia"
-    },
-    {
-        "title": "Mentan SYL Pastikan Peningkatan Produksi Gula Nasional Terus Dilakukan",
-        "link": "https://nasional.tempo.co/read/1614534/mentan-syl-pastikan-peningkatan-produksi-gula-nasional-terus-dilakukan",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ1MzQvbWVudGFuLXN5bC1wYXN0aWthbi1wZW5pbmdrYXRhbi1wcm9kdWtzaS1ndWxhLW5hc2lvbmFsLXRlcnVzLWRpbGFrdWthbg==",
-        "description": "Menteri Pertanian Syahrul Yasin Limpo (Mentan SYL) memastikan bahwa peningkatan produksi gula nasional terus dilakukan melalui perluasan lahan (ekstensifikasi) maupun intensifikasi."
     }
 ]
