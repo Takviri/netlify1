@@ -1,5 +1,19 @@
 [
     {
+        "title": "Rupiah Sudah di Atas Rp 15.000! Apa Respons BI?",
+        "link": "https://www.cnbcindonesia.com/market/20220721104654-17-357333/rupiah-sudah-di-atas-rp-15000-apa-respons-bi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIxMTA0NjU0LTE3LTM1NzMzMy9ydXBpYWgtc3VkYWgtZGktYXRhcy1ycC0xNTAwMC1hcGEtcmVzcG9ucy1iaQ==",
+        "description": " Kurs rupiah sempat bergerak stagnan di hadapan dolar AS di awal perdagangan, tapi kemudian terkoreksi"
+    },
+    {
+        "title": "Bank Besar Jual Dolar AS Hingga Rp 15.195/US$",
+        "link": "https://www.cnbcindonesia.com/market/20220721112454-17-357360/bank-besar-jual-dolar-as-hingga-rp-15195-us-",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIxMTEyNDU0LTE3LTM1NzM2MC9iYW5rLWJlc2FyLWp1YWwtZG9sYXItYXMtaGluZ2dhLXJwLTE1MTk1LXVzLQ==",
+        "description": " Pada pukul 10:17 WIB, rupiah menyentuh Rp 15.025/US$, melemah 0,27% melawan dolar Amerika Serikat (AS) di pasar spot"
+    },
+    {
         "title": "Gak Cuma Rokok, Grup Djarum Juga Cuan Dari Bisnis Properti",
         "link": "https://www.cnbcindonesia.com/market/20220721092516-17-357295/gak-cuma-rokok-grup-djarum-juga-cuan-dari-bisnis-properti",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIxMTAxMzI5LTE5LTM1NzMyMS9oYXJnYS1lbWFzLWFtYmxlcy1rZS1iYXdhaC11c2QtMTcwMC1vei10ZXJlbmRhaC0xNS1idWxhbg==",
         "description": " Harga Emas Ambles ke Bawah USD 1.700/Oz, Terendah Dalam 15 Bulan"
-    },
-    {
-        "title": "Tesla Obral Bitcoin, Mayoritas Kripto Terkoreksi",
-        "link": "https://www.cnbcindonesia.com/market/20220721093021-17-357296/tesla-obral-bitcoin-mayoritas-kripto-terkoreksi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIxMDkzMDIxLTE3LTM1NzI5Ni90ZXNsYS1vYnJhbC1iaXRjb2luLW1heW9yaXRhcy1rcmlwdG8tdGVya29yZWtzaQ==",
-        "description": " Mayoritas kripto utama cenderung terkoreksi pada perdagangan Kamis (21/7/2022), setelah beberapa hari menguat karena terdorong sentimen dari upgrade Ethereum."
-    },
-    {
-        "title": "Global Sukses Solusi Telah Gunakan Dana IPO Sebesar 57,5%",
-        "link": "https://www.cnbcindonesia.com/market/20220720215251-17-357240/global-sukses-solusi-telah-gunakan-dana-ipo-sebesar-575",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIwMjE1MjUxLTE3LTM1NzI0MC9nbG9iYWwtc3Vrc2VzLXNvbHVzaS10ZWxhaC1ndW5ha2FuLWRhbmEtaXBvLXNlYmVzYXItNTc1",
-        "description": " Dana hasil IPO digunakan RUNS untuk research and development Rp1,33 miliar, Capex Rp1,04 miliar dan untuk market acquisition dan working capital Rp22,67 miliar."
     }
 ]
