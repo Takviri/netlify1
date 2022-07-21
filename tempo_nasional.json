@@ -1,5 +1,26 @@
 [
     {
+        "title": "Menyiapkan Desa Nelayan yang Cerdas",
+        "link": "https://nasional.tempo.co/read/1614524/menyiapkan-desa-nelayan-yang-cerdas",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ1MjQvbWVueWlhcGthbi1kZXNhLW5lbGF5YW4teWFuZy1jZXJkYXM=",
+        "description": "BRSDKP berupaya mewujudkan program prioritas KKP membangun desa nelayan dari hulu sampai hilir dengan memperhatikan teknologi informasi, komunikasi, dan manajemen tepat guna."
+    },
+    {
+        "title": "Kinerja Semester I/2022 Pegadaian Catat Kenaikan Laba Bersih 36,15%",
+        "link": "https://nasional.tempo.co/read/1614520/kinerja-semester-i2022-pegadaian-catat-kenaikan-laba-bersih-3615",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ1MjAva2luZXJqYS1zZW1lc3Rlci1pMjAyMi1wZWdhZGFpYW4tY2F0YXQta2VuYWlrYW4tbGFiYS1iZXJzaWgtMzYxNQ==",
+        "description": "PT Pegadaian merilis Laporan Keuangan Semester I tahun 2022."
+    },
+    {
+        "title": "Imbas 'Klitih', Kemensos Beri Motivasi dan Edukasi 32 Remaja di Yogyakarta",
+        "link": "https://nasional.tempo.co/read/1614516/imbas-klitih-kemensos-beri-motivasi-dan-edukasi-32-remaja-di-yogyakarta",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ1MTYvaW1iYXMta2xpdGloLWtlbWVuc29zLWJlcmktbW90aXZhc2ktZGFuLWVkdWthc2ktMzItcmVtYWphLWRpLXlvZ3lha2FydGE=",
+        "description": "Kementerian Sosial memberikan motivasi dan edukasi kepada 32 Anak yang Berhadapan dengan Hukum"
+    },
+    {
         "title": "Sekretaris DJKI: Pelayanan Publik Harus Memudahkan Masyarakat",
         "link": "https://nasional.tempo.co/read/1614511/sekretaris-djki-pelayanan-publik-harus-memudahkan-masyarakat",
         "image": "static/images/tempo_nasional.png",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ1MDEvYnJpZ2l0YS1tYW5vaGFyYS1ha2FuLXBlbnVoaS1wYW5nZ2lsYW4ta3BrLWRpLWthc3VzLWJ1cGF0aS1tYW1iZXJhbW8tdGVuZ2Fo",
         "description": "Brigita Manohara yang namanya terseret dalam kasus dugaan korupsi Bupati Mamberamo Tengah mengatakan akan datang di pemeriksaan Senin pekan depan."
-    },
-    {
-        "title": "Politikus PDIP Berharap Kasus Brigadir J Terang Benderang Sebelum 17 Agustus",
-        "link": "https://nasional.tempo.co/read/1614498/politikus-pdip-berharap-kasus-brigadir-j-terang-benderang-sebelum-17-agustus",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ0OTgvcG9saXRpa3VzLXBkaXAtYmVyaGFyYXAta2FzdXMtYnJpZ2FkaXItai10ZXJhbmctYmVuZGVyYW5nLXNlYmVsdW0tMTctYWd1c3R1cw==",
-        "description": "Trimedya berharap banyak kepada tim khusus Polri pimpinan Wakapolri Komjen Gatot Eddy Pramono yang tengah bekerja mengusut kasus Brigadir J ini."
-    },
-    {
-        "title": "KPK Ancam Jemput Paksa Mardani Maming",
-        "link": "https://nasional.tempo.co/read/1614493/kpk-ancam-jemput-paksa-mardani-maming",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ0OTMva3BrLWFuY2FtLWplbXB1dC1wYWtzYS1tYXJkYW5pLW1hbWluZw==",
-        "description": "Alex menuturkan lembaganya akan menangani kasus ini sesuai aturan dalam KUHAP. Dia berharap sikap kooperatif dari Mardani Maming."
-    },
-    {
-        "title": "Legalisasi Ganja Medis Kandas di MK, Komisi III DPR: Nanti Dibahas Saat Revisi UU Narkotika",
-        "link": "https://nasional.tempo.co/read/1614488/legalisasi-ganja-medis-kandas-di-mk-komisi-iii-dpr-nanti-dibahas-saat-revisi-uu-narkotika",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ0ODgvbGVnYWxpc2FzaS1nYW5qYS1tZWRpcy1rYW5kYXMtZGktbWsta29taXNpLWlpaS1kcHItbmFudGktZGliYWhhcy1zYWF0LXJldmlzaS11dS1uYXJrb3Rpa2E=",
-        "description": "Politikus PDIP Trimedya Panjatitan menyebut mayoritas Komisi III DPR RI mendukung legalisasi ganja medis. Dibahas saat revisi UU Narkotika."
     }
 ]
