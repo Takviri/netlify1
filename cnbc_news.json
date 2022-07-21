@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cek Laporan Terbaru WHO soal Covid-19, Ada Kabar Baik?",
+        "link": "https://www.cnbcindonesia.com/news/20220721071441-4-357256/cek-laporan-terbaru-who-soal-covid-19-ada-kabar-baik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTA3MTQ0MS00LTM1NzI1Ni9jZWstbGFwb3Jhbi10ZXJiYXJ1LXdoby1zb2FsLWNvdmlkLTE5LWFkYS1rYWJhci1iYWlr",
+        "description": " Organisasi Kesehatan Dunia atau WHO merilis laporan mengenai situasi Covid-19 global selama sepekan."
+    },
+    {
         "title": "Lawan Inflasi, Bank Sentral Eropa Kerek Suku Bunga Hari Ini",
         "link": "https://www.cnbcindonesia.com/news/20220721065943-4-357252/lawan-inflasi-bank-sentral-eropa-kerek-suku-bunga-hari-ini",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE5NTQ0NS00LTM1NzIzMS9wbWstZGktcmktbWFraW4tZ2FuYXMtNDAwLXJpYnUtaGV3YW4tc3VkYWgta2VuYQ==",
         "description": " Penyebaran penyakit mulut dan kuku (PMK) semakin parah di Indonesia."
-    },
-    {
-        "title": "Kembaran Avanza Rilis di Malaysia, Tapi Bukan Xenia!",
-        "link": "https://www.cnbcindonesia.com/news/20220720194937-4-357230/kembaran-avanza-rilis-di-malaysia-tapi-bukan-xenia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE5NDkzNy00LTM1NzIzMC9rZW1iYXJhbi1hdmFuemEtcmlsaXMtZGktbWFsYXlzaWEtdGFwaS1idWthbi14ZW5pYQ==",
-        "description": " Di Malaysia ada\u00c2\u00a0mobil serupa Avanza-Xenia namun dengan nama yang berbeda"
     }
 ]
