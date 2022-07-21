@@ -1,5 +1,19 @@
 [
     {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/508627/joe-biden-positif-covid-19-jalankan-tugas-dari-rumah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwODYyNy9qb2UtYmlkZW4tcG9zaXRpZi1jb3ZpZC0xOS1qYWxhbmthbi10dWdhcy1kYXJpLXJ1bWFo",
+        "description": "PRESIDEN Amerika Serikat Joe Biden dinyatakan positif covid-19 dan mengalami 'gejala yang sangat ringan', kata Gedung Putih seperti dilansir Antara mengutip Kantor Berita Reuters,&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/508624/mantan-kapten-timnas-jerman-barat-uwe-seeler-meninggal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODYyNC9tYW50YW4ta2FwdGVuLXRpbW5hcy1qZXJtYW4tYmFyYXQtdXdlLXNlZWxlci1tZW5pbmdnYWw=",
+        "description": "MANTAN kapten Timnas Jerman Barat Uwe Seeler meninggal pada usia 85 tahun. Salah satu figur ikonik sepak bola Jerman pascaperang dan yang menjadi kapten timnas Jerman Barat pada final Piala Dunia 1966&#8230;"
+    },
+    {
         "title": "Megapolitan",
         "link": "https://m.mediaindonesia.com/megapolitan/508622/roy-suryo-minta-perlindungan-lpsk-ini-respons-polisi",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDg2MTUvamFrbGluZ2tvLXNpYXBrYW4tcHVsdWhhbi1yaWJ1LXRpa2V0LWdyYXRpcy1zYW1idXQtcGVtYnVrYWFuLWppcw==",
         "description": "PT JAKLINGKO Indonesia kembali dipercaya menjadi penyedia sistem ticketing untuk kegiatan pembukaan resmi atau grand launching Jakarta International Stadium (JIS), Jakarta Utara,&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/508614/positif-covid-19-langkah-froome-terhenti-di-tour-de-france",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDg2MTQvcG9zaXRpZi1jb3ZpZC0xOS1sYW5na2FoLWZyb29tZS10ZXJoZW50aS1kaS10b3VyLWRlLWZyYW5jZQ==",
-        "description": "JUARA empat kali Chris Froome harus menyudahi perjuangannya di Tour de France tahun ini lebih dini pada Kamis (21/7) setelah sang pembalap asal Inggris itu kedapatan positif covid-19. Pembalap&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/508612/apa-itu-anxiety-ini-penjelasan-jenis-gejala-cara-mengatasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4NjEyL2FwYS1pdHUtYW54aWV0eS1pbmktcGVuamVsYXNhbi1qZW5pcy1nZWphbGEtY2FyYS1tZW5nYXRhc2k=",
-        "description": "PADA kondisi tertentu seseorang bisa merasakan cemas. Penyebabnya cukup beragam, seperti ketika mendengar berita buruk dari orang terdekatnya atau sedang menghadapi situasi sulit di hidupnya. Rasa&#8230;"
     }
 ]
