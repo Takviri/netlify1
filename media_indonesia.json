@@ -1,5 +1,19 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/508606/ruu-kesejahteraan-ibu-dan-anak-dasar-pemikiran-dan-urgensinya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDg2MDYvcnV1LWtlc2VqYWh0ZXJhYW4taWJ1LWRhbi1hbmFrLWRhc2FyLXBlbWlraXJhbi1kYW4tdXJnZW5zaW55YQ==",
+        "description": "SEORANG kawan bercerita. Kakaknya gundah akan nasib cucunya. Pasalnya, dia harus menjalani operasi di Bandung. Ayah dan ibu si cucu yang bekerja di sebuah perusahaan di bilangan Karawang sudah tidak&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/508632/setop-ini-bahayanya-mencabuti-uban",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwODYzMi9zZXRvcC1pbmktYmFoYXlhbnlhLW1lbmNhYnV0aS11YmFu",
+        "description": "Setiap kali mencabut uban, lebih banyak lagi yang akan tumbuh.&nbsp; Kalimat ini kerap kita dengar, tetapi apakah itu benar?&nbsp; Ternyata, mencabuti rambut itu bukanlah ide yang bagus, tetapi alasannya&#8230;"
+    },
+    {
         "title": "Teknologi",
         "link": "https://m.mediaindonesia.com/teknologi/508631/pentingnya-warga-digital-ketahui-kesadaran-dan-manfaat-berinternet",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODYxOS9sYXppby1zZXJpdXMtaW5naW4tYm95b25nLW1hcmNlbG8=",
         "description": "LAZIO dikabarkan membuka komunikasi dengan mantan bek kiri Real Madrid Marcelo pada bursa transfer pemain musim panas ini. Dikutip dari Football Italia, Kamis (21/7) saat ini Marcelo berstatus&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/508618/milos-pejic-dipertahankan-latih-timnas-basket-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDg2MTgvbWlsb3MtcGVqaWMtZGlwZXJ0YWhhbmthbi1sYXRpaC10aW1uYXMtYmFza2V0LWluZG9uZXNpYQ==",
-        "description": "PELATIH Milos Pejic bakal dipertahankan untuk menukangi tim nasional basket Indonesia. Manajer timnas Jeremy Santoso mengungkapkan pelatih asal Serbia itu menjadi bagian rencana jangka panjang.&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/508617/ronaldo-rela-potong-gaji-demi-tinggalkan-old-trafford",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODYxNy9yb25hbGRvLXJlbGEtcG90b25nLWdhamktZGVtaS10aW5nZ2Fsa2FuLW9sZC10cmFmZm9yZA==",
-        "description": "CRISTIANO Ronaldo dikabarkan rela untuk menurunkan gaji demi dapat meninggalkan Manchester United pada bursa transfer pemain musim panas ini. Agen Jorge Mendes dikabarkan telah mengatakan kepada&#8230;"
     }
 ]
