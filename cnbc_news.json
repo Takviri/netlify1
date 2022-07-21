@@ -1,5 +1,19 @@
 [
     {
+        "title": "Joe Biden Positif Covid-19, Begini Kondisinya",
+        "link": "https://www.cnbcindonesia.com/news/20220722061130-4-357598/joe-biden-positif-covid-19-begini-kondisinya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA2MTEzMC00LTM1NzU5OC9qb2UtYmlkZW4tcG9zaXRpZi1jb3ZpZC0xOS1iZWdpbmkta29uZGlzaW55YQ==",
+        "description": " Presiden Amerika Serikat (AS) Joe Biden positif Covid-19."
+    },
+    {
+        "title": "Negara Ini Sebut Perang Nuklir Tergantung Sikap Ukraina-NATO",
+        "link": "https://www.cnbcindonesia.com/news/20220722054951-4-357595/negara-ini-sebut-perang-nuklir-tergantung-sikap-ukraina-nato",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA1NDk1MS00LTM1NzU5NS9uZWdhcmEtaW5pLXNlYnV0LXBlcmFuZy1udWtsaXItdGVyZ2FudHVuZy1zaWthcC11a3JhaW5hLW5hdG8=",
+        "description": " Presiden Belarusia Alexander Lukashenko mengatakan bahwa Rusia, Ukraina, dan Barat harus setuju untuk menghentikan konflik guna menghindari perang nuklir."
+    },
+    {
         "title": "Harga Gandum Naik, Ngopi Sambil Makan Roti Jadi Lebih Mahal",
         "link": "https://www.cnbcindonesia.com/news/20220721193124-8-357572/harga-gandum-naik-ngopi-sambil-makan-roti-jadi-lebih-mahal",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE4NTMwMC00LTM1NzU2NC93YXJnYS1kaW1pbnRhLXdmaC1rZW1hdGlhbi1jb3ZpZC10ZXRhbmdnYS1yaS1pbmktbWVsb25qYWs=",
         "description": " Kasus kematian harian di negara tetangga RI ini melonjak akibat varian baru Omicron pada Kamis (21/7/2022)."
-    },
-    {
-        "title": "Ribuan Ternak Sudah Ditangkap dan Dimusnahkan Gara-Gara PMK",
-        "link": "https://www.cnbcindonesia.com/news/20220721191526-4-357569/ribuan-ternak-sudah-ditangkap-dan-dimusnahkan-gara-gara-pmk",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE5MTUyNi00LTM1NzU2OS9yaWJ1YW4tdGVybmFrLXN1ZGFoLWRpdGFuZ2thcC1kYW4tZGltdXNuYWhrYW4tZ2FyYS1nYXJhLXBtaw==",
-        "description": " Pemerintah melalui Satgas Nasional PMK tengah melakukan sejumlah upaya."
-    },
-    {
-        "title": "Petani Masih Tercekik Anjloknya  Harga Buah Sawit",
-        "link": "https://www.cnbcindonesia.com/news/20220721190514-4-357567/petani-masih-tercekik-anjloknya-harga-buah-sawit",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE5MDUxNC00LTM1NzU2Ny9wZXRhbmktbWFzaWgtdGVyY2VraWstYW5qbG9rbnlhLWhhcmdhLWJ1YWgtc2F3aXQ=",
-        "description": " Dewan Pembina Asosiasi Petani Kelapa Sawit Indonesia (Apkasindo) Moeldoko mengingatkan para petani sawit agar bisa bijak mengatur keuangan."
     }
 ]
