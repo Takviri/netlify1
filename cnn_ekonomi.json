@@ -1,10 +1,17 @@
 [
     {
+        "title": "Ford PHK 8.000 Karyawan Demi Kendaraan Listrik",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220722124944-92-824798/ford-phk-8000-karyawan-demi-kendaraan-listrik",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMTI0OTQ0LTkyLTgyNDc5OC9mb3JkLXBoay04MDAwLWthcnlhd2FuLWRlbWkta2VuZGFyYWFuLWxpc3RyaWs=",
+        "description": " Perusahaan mobil asal AS Ford Motor Co memangkas setidaknya 8.000 orang karyawan untuk meningkatkan keuntungan dalam rencana pengembangan kendaraan listrik."
+    },
+    {
         "title": "FOTO: Melihat Sentra Penggilingan Padi Modern Milik Bulog di Kendal",
         "link": "https://www.cnnindonesia.com/ekonomi/20220722114922-94-824772/foto-melihat-sentra-penggilingan-padi-modern-milik-bulog-di-kendal",
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMTE0OTIyLTk0LTgyNDc3Mi9mb3RvLW1lbGloYXQtc2VudHJhLXBlbmdnaWxpbmdhbi1wYWRpLW1vZGVybi1taWxpay1idWxvZy1kaS1rZW5kYWw=",
-        "description": " Perum\u00c2\u00a0Bulog akan membangun 10 pabrik modern pengolahan gabah menjadi beras atau modern rice milling plant (MRMP) yang dapat menghasilkan beras kualitas premium."
+        "description": " Bulog akan membangun 10 pabrik pengolahan gabah menjadi beras atau modern rice milling plant yang dapat menghasilkan beras kualitas premium. Ini gambarannya."
     },
     {
         "title": "Harga Daging Sapi Masih Mahal Rp135 Ribu per Kg",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMDkzNzMwLTc4LTgyNDcwNi9pbmZsYXNpLWVyb3BhLW5haWstZWNiLWtlcmVrLXN1a3UtYnVuZ2EtcGVydGFtYS1rYWxpLWRhbGFtLTExLXRhaHVu",
         "description": " Bank sentral Eropa mengerek bunga acuan mereka untuk pertama kalinya dalam 11 tahun demi mengatasi lonjakan inflasi akibat perang Rusia-Ukraina."
-    },
-    {
-        "title": "PLN Minta Maaf PLTD Waingapu Kebakaran",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220722081850-85-824676/pln-minta-maaf-pltd-waingapu-kebakaran",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMDgxODUwLTg1LTgyNDY3Ni9wbG4tbWludGEtbWFhZi1wbHRkLXdhaW5nYXB1LWtlYmFrYXJhbg==",
-        "description": " PT PLN (Persero) UP3 Sumba memohon maaf atas kejadian terbakarnya mesin pembangkit di PLTD Kilometer 8 Kelurahan Kambajawa, Kota Waingapu, Sumba Timur, NTT."
     }
 ]
