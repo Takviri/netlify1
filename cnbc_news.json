@@ -1,5 +1,47 @@
 [
     {
+        "title": "Rusia Ukraina Minggir, Diam-diam Turki Bombardir Irak",
+        "link": "https://www.cnbcindonesia.com/news/20220722111923-4-357700/rusia-ukraina-minggir-diam-diam-turki-bombardir-irak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjExMTkyMy00LTM1NzcwMC9ydXNpYS11a3JhaW5hLW1pbmdnaXItZGlhbS1kaWFtLXR1cmtpLWJvbWJhcmRpci1pcmFr",
+        "description": " Militer Turki melancarkan serangan ke wilayah Irak Utara pada Rabu, (20/7/2022)."
+    },
+    {
+        "title": "Krisis Global Mengancam, Pengusaha Siapkan Langkah Antisipasi",
+        "link": "https://www.cnbcindonesia.com/news/20220722083550-8-357627/krisis-global-mengancam-pengusaha-siapkan-langkah-antisipasi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA4MzU1MC04LTM1NzYyNy9rcmlzaXMtZ2xvYmFsLW1lbmdhbmNhbS1wZW5ndXNhaGEtc2lhcGthbi1sYW5na2FoLWFudGlzaXBhc2k=",
+        "description": " Krisis Global Mengancam, Pengusaha Bersiap Antisipasi"
+    },
+    {
+        "title": "Mendag: Harga Migor di Bawah Rp14.000, Sembako Terjangkau",
+        "link": "https://www.cnbcindonesia.com/news/20220722111413-4-357701/mendag-harga-migor-di-bawah-rp14000-sembako-terjangkau",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjExMTQxMy00LTM1NzcwMS9tZW5kYWctaGFyZ2EtbWlnb3ItZGktYmF3YWgtcnAxNDAwMC1zZW1iYWtvLXRlcmphbmdrYXU=",
+        "description": " Menteri Perdagangan Zulkifli Hasan mengungkapkan, harga minyak goreng curah di wilayah Jawa-Bali sudah turun ke Rp14.000 per per liter."
+    },
+    {
+        "title": "Siap 'Adu Banteng' Stargazer Incar Pasar Avanza-Xpander",
+        "link": "https://www.cnbcindonesia.com/news/20220722104953-4-357687/siap-adu-banteng-stargazer-incar-pasar-avanza-xpander",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjEwNDk1My00LTM1NzY4Ny9zaWFwLWFkdS1iYW50ZW5nLXN0YXJnYXplci1pbmNhci1wYXNhci1hdmFuemEteHBhbmRlcg==",
+        "description": " Hyundai resmi memperkenalkan Stargazer sebagai MPV terbarunya."
+    },
+    {
+        "title": "Punya Potensi Migas Terbesar, PR Ini Harus Dituntaskan RI",
+        "link": "https://www.cnbcindonesia.com/news/20220722105044-4-357685/punya-potensi-migas-terbesar-pr-ini-harus-dituntaskan-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjEwNTA0NC00LTM1NzY4NS9wdW55YS1wb3RlbnNpLW1pZ2FzLXRlcmJlc2FyLXByLWluaS1oYXJ1cy1kaXR1bnRhc2thbi1yaQ==",
+        "description": " Sekjen Aspermigas menilai banyak PR yang harus dituntaskan disektor hulu migas"
+    },
+    {
+        "title": "Covid Negara Tetangga Meledak Tak Terkendali, RI Lampu Kuning",
+        "link": "https://www.cnbcindonesia.com/news/20220722104224-4-357680/covid-negara-tetangga-meledak-tak-terkendali-ri-lampu-kuning",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjEwNDIyNC00LTM1NzY4MC9jb3ZpZC1uZWdhcmEtdGV0YW5nZ2EtbWVsZWRhay10YWstdGVya2VuZGFsaS1yaS1sYW1wdS1rdW5pbmc=",
+        "description": " Kasus infeksi Covid-19 di negara tetangga terus meledak, Indonesia harus mewaspadai hal ini"
+    },
+    {
         "title": "Mencekam! Penggerebekan Berdarah di Brazil, 18 Tewas",
         "link": "https://www.cnbcindonesia.com/news/20220722110304-7-357690/mencekam-penggerebekan-berdarah-di-brazil-18-tewas",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA4MzU0Ni04LTM1NzYyNC9lY2ItYWtoaXJpLWVyYS1idW5nYS1hY3Vhbi1uZWdhdGlm",
         "description": " ECB menaikkan suku bunga 50 basis poin."
-    },
-    {
-        "title": "Cair! Jokowi Kerek Tukin PNS BKN, Tertinggi Jadi Rp 33 Juta",
-        "link": "https://www.cnbcindonesia.com/news/20220722094408-4-357657/cair-jokowi-kerek-tukin-pns-bkn-tertinggi-jadi-rp-33-juta",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA5NDQwOC00LTM1NzY1Ny9jYWlyLWpva293aS1rZXJlay10dWtpbi1wbnMtYmtuLXRlcnRpbmdnaS1qYWRpLXJwLTMzLWp1dGE=",
-        "description": " Jokowi resmi menaikkan besaran tunjangan kinerja PNS di lingkungan BKN"
-    },
-    {
-        "title": "Malas Ribet Daftar MyPertamina? Datang Langsung ke SPBU Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220722093944-4-357656/malas-ribet-daftar-mypertamina-datang-langsung-ke-spbu-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA5Mzk0NC00LTM1NzY1Ni9tYWxhcy1yaWJldC1kYWZ0YXItbXlwZXJ0YW1pbmEtZGF0YW5nLWxhbmdzdW5nLWtlLXNwYnUtaW5p",
-        "description": " Pertamina membuka kendaraan yang hendak mendaftar MyPertamina di SPBU"
-    },
-    {
-        "title": "B20-G20 Sepakat Atasi Kesenjangan Pembiayaan Berkelanjutan",
-        "link": "https://www.cnbcindonesia.com/news/20220720184556-8-357223/b20-g20-sepakat-atasi-kesenjangan-pembiayaan-berkelanjutan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMDE4NDU1Ni04LTM1NzIyMy9iMjAtZzIwLXNlcGFrYXQtYXRhc2kta2VzZW5qYW5nYW4tcGVtYmlheWFhbi1iZXJrZWxhbmp1dGFu",
-        "description": " B20-G20 Sepakat Atasi Kesenjangan Fasilitas Pembiayaan Berkelanjutan"
-    },
-    {
-        "title": "Masa Kejayaan Aceh - Kilang LNG Arun Segera Terulang!",
-        "link": "https://www.cnbcindonesia.com/news/20220722101031-4-357664/masa-kejayaan-aceh--kilang-lng-arun-segera-terulang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjEwMTAzMS00LTM1NzY2NC9tYXNhLWtlamF5YWFuLWFjZWgtLWtpbGFuZy1sbmctYXJ1bi1zZWdlcmEtdGVydWxhbmc=",
-        "description": " Wilayah Aceh diperkirakan memiliki potensi migas terbesar di dunia"
-    },
-    {
-        "title": "Putin Telepon Putra Mahkota Arab Saudi, Adu Rayu Lawan Biden?",
-        "link": "https://www.cnbcindonesia.com/news/20220722100248-4-357662/putin-telepon-putra-mahkota-arab-saudi-adu-rayu-lawan-biden",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjEwMDI0OC00LTM1NzY2Mi9wdXRpbi10ZWxlcG9uLXB1dHJhLW1haGtvdGEtYXJhYi1zYXVkaS1hZHUtcmF5dS1sYXdhbi1iaWRlbg==",
-        "description": " Presiden Rusia Vladimir Putin mengadakan panggilan telepon kepada Putra Mahkota Arab Saudi, Mohammed Bin Salman."
-    },
-    {
-        "title": "Banyak PHK, Klaim Pengangguran AS Melejit",
-        "link": "https://www.cnbcindonesia.com/news/20220722083549-8-357625/banyak-phk-klaim-pengangguran-as-melejit",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA4MzU0OS04LTM1NzYyNS9iYW55YWstcGhrLWtsYWltLXBlbmdhbmdndXJhbi1hcy1tZWxlaml0",
-        "description": " Klaim tunjangan pengangguran Amerika Serikat meningkat ke level tertinggi, sejak delapan bulan terakhir."
     }
 ]
