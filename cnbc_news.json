@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sabar, Bunda! Harga Ikan Sarden Ikutan Naik, Jadi Segini",
+        "link": "https://www.cnbcindonesia.com/news/20220722112700-4-357714/sabar-bunda-harga-ikan-sarden-ikutan-naik-jadi-segini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjExMjcwMC00LTM1NzcxNC9zYWJhci1idW5kYS1oYXJnYS1pa2FuLXNhcmRlbi1pa3V0YW4tbmFpay1qYWRpLXNlZ2luaQ==",
+        "description": " Harga olahan pangan satu per satu naik, salah satunya kaleng olahan."
+    },
+    {
+        "title": "Perbaikan Iklim Investasi Migas Harus Lebih 'Radikal'",
+        "link": "https://www.cnbcindonesia.com/news/20220722110406-4-357688/perbaikan-iklim-investasi-migas-harus-lebih-radikal",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjExMDQwNi00LTM1NzY4OC9wZXJiYWlrYW4taWtsaW0taW52ZXN0YXNpLW1pZ2FzLWhhcnVzLWxlYmloLXJhZGlrYWw=",
+        "description": " Indonesia Petroleum Association (IPA) meyakini pemerintah sedang memperbaiki iklim investasi dalam negeri"
+    },
+    {
         "title": "Cek Fakta Format Baru NPWP yang Sudah Diganti NIK",
         "link": "https://www.cnbcindonesia.com/news/20220722113431-4-357710/cek-fakta-format-baru-npwp-yang-sudah-diganti-nik",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjEwNDIyNC00LTM1NzY4MC9jb3ZpZC1uZWdhcmEtdGV0YW5nZ2EtbWVsZWRhay10YWstdGVya2VuZGFsaS1yaS1sYW1wdS1rdW5pbmc=",
         "description": " Kasus infeksi Covid-19 di negara tetangga terus meledak, Indonesia harus mewaspadai hal ini"
-    },
-    {
-        "title": "Mencekam! Penggerebekan Berdarah di Brazil, 18 Tewas",
-        "link": "https://www.cnbcindonesia.com/news/20220722110304-7-357690/mencekam-penggerebekan-berdarah-di-brazil-18-tewas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjExMDMwNC03LTM1NzY5MC9tZW5jZWthbS1wZW5nZ2VyZWJla2FuLWJlcmRhcmFoLWRpLWJyYXppbC0xOC10ZXdhcw==",
-        "description": " Sebanyak 18 orang dilaporkan tewas dalam penggerebekan besar-besaran oleh kepolisian di daerah kumuh Rio de Janeiro, Barzil."
-    },
-    {
-        "title": "Simak! Begini Jurus Baru Menteri Jokowi Dongkrak Ekspor CPO",
-        "link": "https://www.cnbcindonesia.com/news/20220722101805-4-357678/simak-begini-jurus-baru-menteri-jokowi-dongkrak-ekspor-cpo",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjEwMTgwNS00LTM1NzY3OC9zaW1hay1iZWdpbmktanVydXMtYmFydS1tZW50ZXJpLWpva293aS1kb25na3Jhay1la3Nwb3ItY3Bv",
-        "description": " Stok CPO berlimpah biang keladi harga TBS petani sawit anjlok."
     }
 ]
