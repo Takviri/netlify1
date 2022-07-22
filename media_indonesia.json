@@ -1,5 +1,12 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/508867/hindari-bencana-alam-bmkg-ajak-publik-jaga-kelestarian-alam",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4ODY3L2hpbmRhcmktYmVuY2FuYS1hbGFtLWJta2ctYWphay1wdWJsaWstamFnYS1rZWxlc3Rhcmlhbi1hbGFt",
+        "description": "Kepala Badan Meteorologi, Klimatologi dan Geofisika, Dwikorita Karnawati mengajak seluruh komponen masyarakat menjaga kelestarian alam supaya terhindar dari bencana alam akibat kencangnya laju perubahan&#8230;"
+    },
+    {
         "title": "Megapolitan",
         "link": "https://m.mediaindonesia.com/megapolitan/508866/selesai-diperiksa-terkait-kasus-meme-stupa-roy-suryo-tidak-ditahan",
         "image": "static/images/media_indonesia.png",
@@ -50,9 +57,9 @@
     },
     {
         "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/508852/aksi-1000-lilin-untuk-keadilan-bagi-brigadir-j-di-bundaran-hi",
+        "link": "https://m.mediaindonesia.com/megapolitan/508852/aksi-1000-lilin-keadilan-untuk-brigadir-j-di-bundaran-hi",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDg4NTIvYWtzaS0xMDAwLWxpbGluLXVudHVrLWtlYWRpbGFuLWJhZ2ktYnJpZ2FkaXItai1kaS1idW5kYXJhbi1oaQ==",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDg4NTIvYWtzaS0xMDAwLWxpbGluLWtlYWRpbGFuLXVudHVrLWJyaWdhZGlyLWotZGktYnVuZGFyYW4taGk=",
         "description": "TIM Advokat Penegakan Hukum dan Keadilan (Tampak) dan puluhan warga menggelar aksi '1.000 Lilin Keadilan' bagi Brigadir Yosua Hutabarat atau Brigadir J di Bundaran HI, Jakarta Pusat, Jumat&#8230;"
     },
     {
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA4ODUxL2tlbG9sYS1qZWphay1kaWdpdGFsLWRhbi1oYXRpLWhhdGktdGF1dGFuLXlhbmctbWVuY3VyaWdha2Fu",
         "description": "JEJAK digital akan selamanya tersimpan. Oleh karena itu, pengguna internet harus bijak dalam menggunakan internet atau mengunggah sesuatu di media sosial. Sebab, sekali mengunggah hal negatif, maka&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508854/kuasa-hukum-mardani-h-maming-merasa-diuntungkan-dengan-pernyataan-saksi-ahli-dari-kpk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDg4NTQva3Vhc2EtaHVrdW0tbWFyZGFuaS1oLW1hbWluZy1tZXJhc2EtZGl1bnR1bmdrYW4tZGVuZ2FuLXBlcm55YXRhYW4tc2Frc2ktYWhsaS1kYXJpLWtwaw==",
-        "description": " KOMISI Pemberantas Korupsi (KPK) menghadirkan ahli Hukum Perbankan dalam sidang lanjutan praperadilan dalam agenda pembuktian dan saksi dari pihak KPK dalam kasus dugaan korupsi terkait&#8230;"
     }
 ]
