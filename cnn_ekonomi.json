@@ -1,5 +1,19 @@
 [
     {
+        "title": "IHSG Berbalik Menguat ke 6.886 di Akhir Pekan",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220722145509-92-824883/ihsg-berbalik-menguat-ke-6886-di-akhir-pekan",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMTQ1NTA5LTkyLTgyNDg4My9paHNnLWJlcmJhbGlrLW1lbmd1YXQta2UtNjg4Ni1kaS1ha2hpci1wZWthbg==",
+        "description": " IHSG menguat 0,33 persen ke level 6.886 pada Jumat (22/7) akibat tertopang kinerja 288 saham."
+    },
+    {
+        "title": "BEI Suspensi Saham Perusahaan Suami Puan Maharani",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220722144209-92-824879/bei-suspensi-saham-perusahaan-suami-puan-maharani",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMTQ0MjA5LTkyLTgyNDg3OS9iZWktc3VzcGVuc2ktc2FoYW0tcGVydXNhaGFhbi1zdWFtaS1wdWFuLW1haGFyYW5p",
+        "description": " Bursa Efek Indonesia (BEI) menghentikan sementara perdagangan saham atau suspensi PT Rukun Raharja Tbk milik suami Ketua DPR RI Puan Maharani, Happy Hapsoro."
+    },
+    {
         "title": "Mamikos PHK Karyawan",
         "link": "https://www.cnnindonesia.com/ekonomi/20220722141759-92-824864/mamikos-phk-karyawan",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMTAxODA3LTkyLTgyNDcyMi9oYXJnYS1kYWdpbmctc2FwaS1tYXNpaC1tYWhhbC1ycDEzNS1yaWJ1LXBlci1rZw==",
         "description": " Harga daging sapi terpantau masih mahal mencapai Rp135 ribu per kg di Pasar Cibinong, Bogor. Kenaikan harga membuat pembeli jadi berkurang."
-    },
-    {
-        "title": "Jokowi Naikkan Tunjangan Kinerja Pegawai BKN, Terbesar Jadi Rp33 Juta",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220722102225-532-824725/jokowi-naikkan-tunjangan-kinerja-pegawai-bkn-terbesar-jadi-rp33-juta",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMTAyMjI1LTUzMi04MjQ3MjUvam9rb3dpLW5haWtrYW4tdHVuamFuZ2FuLWtpbmVyamEtcGVnYXdhaS1ia24tdGVyYmVzYXItamFkaS1ycDMzLWp1dGE=",
-        "description": " Jokowi menaikkan tunjangan kinerja bagi para PNS yang bekerja di lingkungan BKN. Dengan kenaikan itu, tunjangan kinerja terbesar mencapai Rp33 juta."
-    },
-    {
-        "title": "Jalan Panjang Rebutan Bandara Halim AP II vs Lion Air",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220722104118-92-824738/jalan-panjang-rebutan-bandara-halim-ap-ii-vs-lion-air",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMTA0MTE4LTkyLTgyNDczOC9qYWxhbi1wYW5qYW5nLXJlYnV0YW4tYmFuZGFyYS1oYWxpbS1hcC1paS12cy1saW9uLWFpcg==",
-        "description": " Anak usaha Lion Air Group PT Angkasa Transportindo Selaras mengambil alih pengelolaan Bandara Halim Perdanakusuma dari AP II. Berikut perjalanannya."
     }
 ]
