@@ -1,5 +1,19 @@
 [
     {
+        "title": "Cek Fakta Format Baru NPWP yang Sudah Diganti NIK",
+        "link": "https://www.cnbcindonesia.com/news/20220722113431-4-357710/cek-fakta-format-baru-npwp-yang-sudah-diganti-nik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjExMzQzMS00LTM1NzcxMC9jZWstZmFrdGEtZm9ybWF0LWJhcnUtbnB3cC15YW5nLXN1ZGFoLWRpZ2FudGktbmlr",
+        "description": " Kartu NPWP kini memiliki format baru."
+    },
+    {
+        "title": "Fenomena Baju 'Impor Bangkok', Serbu Tanah Abang-Toko Online",
+        "link": "https://www.cnbcindonesia.com/news/20220722110334-4-357703/fenomena-baju-impor-bangkok-serbu-tanah-abang-toko-online",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjExMDMzNC00LTM1NzcwMy9mZW5vbWVuYS1iYWp1LWltcG9yLWJhbmdrb2stc2VyYnUtdGFuYWgtYWJhbmctdG9rby1vbmxpbmU=",
+        "description": " Maraknya pakaian impor di Pasar Tanah Abang Jakarta Pusat ternyata tak hanya didominasi pakaian dan tekstil impor asal China, tapi juga dari Thailand."
+    },
+    {
         "title": "Rusia Ukraina Minggir, Diam-diam Turki Bombardir Irak",
         "link": "https://www.cnbcindonesia.com/news/20220722111923-4-357700/rusia-ukraina-minggir-diam-diam-turki-bombardir-irak",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjEwMTgwNS00LTM1NzY3OC9zaW1hay1iZWdpbmktanVydXMtYmFydS1tZW50ZXJpLWpva293aS1kb25na3Jhay1la3Nwb3ItY3Bv",
         "description": " Stok CPO berlimpah biang keladi harga TBS petani sawit anjlok."
-    },
-    {
-        "title": "Eropa Terbelah! Negara Ini Mau Jegal Kekuatan UE",
-        "link": "https://www.cnbcindonesia.com/news/20220722102456-4-357676/eropa-terbelah-negara-ini-mau-jegal-kekuatan-ue",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjEwMjQ1Ni00LTM1NzY3Ni9lcm9wYS10ZXJiZWxhaC1uZWdhcmEtaW5pLW1hdS1qZWdhbC1rZWt1YXRhbi11ZQ==",
-        "description": " Parlemen Hungaria mengeluarkan resolusi yang membatasi kekuatan Parlemen Uni Eropa (UE)."
-    },
-    {
-        "title": "ECB Akhiri Era Bunga Acuan Negatif",
-        "link": "https://www.cnbcindonesia.com/news/20220722083546-8-357624/ecb-akhiri-era-bunga-acuan-negatif",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA4MzU0Ni04LTM1NzYyNC9lY2ItYWtoaXJpLWVyYS1idW5nYS1hY3Vhbi1uZWdhdGlm",
-        "description": " ECB menaikkan suku bunga 50 basis poin."
     }
 ]
