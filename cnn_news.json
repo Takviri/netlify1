@@ -1,5 +1,26 @@
 [
     {
+        "title": "Seruan Darurat Kebohongan Rizieq Berbalas Sindiran Ngabalin",
+        "link": "https://www.cnnindonesia.com/nasional/20220722070929-32-824656/seruan-darurat-kebohongan-rizieq-berbalas-sindiran-ngabalin",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMjA3MDkyOS0zMi04MjQ2NTYvc2VydWFuLWRhcnVyYXQta2Vib2hvbmdhbi1yaXppZXEtYmVyYmFsYXMtc2luZGlyYW4tbmdhYmFsaW4=",
+        "description": " Seruan darurat kebohongan yang diutarakan mantan Imam Besar FPI Rizieq Shihab dibalas sindiran dari Tenaga Ahli Utama KSP Ali Mochtar Ngabalin."
+    },
+    {
+        "title": "Polisi dan Pengembang Bahas Lampu Merah Kecelakaan Cibubur Hari Ini",
+        "link": "https://www.cnnindonesia.com/nasional/20220722072756-12-824661/polisi-dan-pengembang-bahas-lampu-merah-kecelakaan-cibubur-hari-ini",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMjA3Mjc1Ni0xMi04MjQ2NjEvcG9saXNpLWRhbi1wZW5nZW1iYW5nLWJhaGFzLWxhbXB1LW1lcmFoLWtlY2VsYWthYW4tY2lidWJ1ci1oYXJpLWluaQ==",
+        "description": " Kepolisian bersama pihak pengembang Perumahan Citra Grand Cibubur akan membahas pemasangan lampu lalu lintas di lokasi kecelakaan maut truk tangki Pertamina."
+    },
+    {
+        "title": "Kisah Tragis Bocah Tasikmalaya Meninggal Usai Dibully Setubuhi Kucing",
+        "link": "https://www.cnnindonesia.com/nasional/20220722064635-12-824652/kisah-tragis-bocah-tasikmalaya-meninggal-usai-dibully-setubuhi-kucing",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMjA2NDYzNS0xMi04MjQ2NTIva2lzYWgtdHJhZ2lzLWJvY2FoLXRhc2lrbWFsYXlhLW1lbmluZ2dhbC11c2FpLWRpYnVsbHktc2V0dWJ1aGkta3VjaW5n",
+        "description": " Seorang bocah lelaki usia 11 tahun di Kabupaten Tasikmalaya, Jawa Barat meninggal dunia setelah mengalami depresi akibat perundungan oleh teman-temannya."
+    },
+    {
         "title": "Belasan Kendaraan Tabrakan Beruntun di Bandung, Tak Ada Korban Jiwa",
         "link": "https://www.cnnindonesia.com/nasional/20220722072521-20-824660/belasan-kendaraan-tabrakan-beruntun-di-bandung-tak-ada-korban-jiwa",
         "image": "static/images/cnn_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMTEwMDMxOC0yMC04MjQyMzQvaWRpLW5pbGFpLXBwa20tYmVsdW0tcGVybHUtbmFpay1sZXZlbC1tZXNraS1rYXN1cy1jb3ZpZC1uYWlr",
         "description": " Ketua Satgas Covid-19 PB IDI\u00c2\u00a0berharap warga terus memakai masker agar bisa melewati gelombang virus corona kali ini."
-    },
-    {
-        "title": "Hasto PDIP Mengaku Tak Bicara Kans Koalisi Saat Jumpa Sekjen PAN",
-        "link": "https://www.cnnindonesia.com/nasional/20220721205603-32-824613/hasto-pdip-mengaku-tak-bicara-kans-koalisi-saat-jumpa-sekjen-pan",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMTIwNTYwMy0zMi04MjQ2MTMvaGFzdG8tcGRpcC1tZW5nYWt1LXRhay1iaWNhcmEta2Fucy1rb2FsaXNpLXNhYXQtanVtcGEtc2VramVuLXBhbg==",
-        "description": " Sekjen PDIP Hasto Kristiyanto mengklaim topik pembicaraan dengan Sekjen PAN Eddy Soeparno seputar kerja sama dalam sekolah partai."
-    },
-    {
-        "title": "Pemerintah Janji Kaji Manfaat Ganja untuk Kebutuhan Medis",
-        "link": "https://www.cnnindonesia.com/nasional/20220721173203-12-824522/pemerintah-janji-kaji-manfaat-ganja-untuk-kebutuhan-medis",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMTE3MzIwMy0xMi04MjQ1MjIvcGVtZXJpbnRhaC1qYW5qaS1rYWppLW1hbmZhYXQtZ2FuamEtdW50dWsta2VidXR1aGFuLW1lZGlz",
-        "description": " Kemenkumham\u00c2\u00a0berjanji pemerintah bersama Komisi III DPR akan mengkaji fungsi ganja untuk kebutuhan medis sesuai instruksi MK."
-    },
-    {
-        "title": "Menkes: Warga Tak Booster Berisiko 20 Kali Lebih Tinggi Dirawat di RS",
-        "link": "https://www.cnnindonesia.com/nasional/20220721134147-20-824352/menkes-warga-tak-booster-berisiko-20-kali-lebih-tinggi-dirawat-di-rs",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMTEzNDE0Ny0yMC04MjQzNTIvbWVua2VzLXdhcmdhLXRhay1ib29zdGVyLWJlcmlzaWtvLTIwLWthbGktbGViaWgtdGluZ2dpLWRpcmF3YXQtZGktcnM=",
-        "description": " Menkes\u00c2\u00a0Budi Gunadi Sadikin meminta warga segera mendapatkan vaksinasi Covid-19 dosis ketiga atau booster."
     }
 ]
