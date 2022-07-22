@@ -1,5 +1,19 @@
 [
     {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/508637/mengenal-manfaat-susu-sapi-dan-susu-kambing",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwODYzNy9tZW5nZW5hbC1tYW5mYWF0LXN1c3Utc2FwaS1kYW4tc3VzdS1rYW1iaW5n",
+        "description": "Saat ini banyak dijual susu nabati mulai dari susu almond, susu oat, hingga susu kedelai. Jenis susu itu telah menjadi alternatif populer untuk pengganti susu sapi, terutama bagi mereka yang memiliki&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/508636/bmkg-hari-ini-sejumlah-kota-besar-indonesia-akan-hujan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4NjM2L2Jta2ctaGFyaS1pbmktc2VqdW1sYWgta290YS1iZXNhci1pbmRvbmVzaWEtYWthbi1odWphbg==",
+        "description": "BADAN Meteorologi, Klimatologi dan Geofisika (BMKG) memperkirakan hari ini, Jumat (22/7) hujan akan turun di sebagian kota besar di Indonesia. Dengan intensitas yang beragam, masyarakat diminta tetap&#8230;"
+    },
+    {
         "title": "Sajak Kofe",
         "link": "https://m.mediaindonesia.com/sajak-kofe/508589/melangkah-di-bawah-matahari-salemba",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwODYzMi9zZXRvcC1pbmktYmFoYXlhbnlhLW1lbmNhYnV0aS11YmFu",
         "description": "Setiap kali mencabut uban, lebih banyak lagi yang akan tumbuh.&nbsp; Kalimat ini kerap kita dengar, tetapi apakah itu benar?&nbsp; Ternyata, mencabuti rambut itu bukanlah ide yang bagus, tetapi alasannya&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/508631/pentingnya-warga-digital-ketahui-kesadaran-dan-manfaat-berinternet",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA4NjMxL3BlbnRpbmdueWEtd2FyZ2EtZGlnaXRhbC1rZXRhaHVpLWtlc2FkYXJhbi1kYW4tbWFuZmFhdC1iZXJpbnRlcm5ldA==",
-        "description": "Ada etika, ketika pengguna berinteraksi di dunia maya. Dunia tanpa batas, di mana penggunanya dapat berinteraksi dengan banyak orang melintasi geografis dan budaya. Hingga interaksi tersebut menciptakan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508629/partai-kebangkitan-nusantara-gelar-rapimnas-untuk-persiapan-pendaftaran-ke-kpu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDg2MjkvcGFydGFpLWtlYmFuZ2tpdGFuLW51c2FudGFyYS1nZWxhci1yYXBpbW5hcy11bnR1ay1wZXJzaWFwYW4tcGVuZGFmdGFyYW4ta2Uta3B1",
-        "description": "PARTAI Kebangkitan Nusantara (PKN) baru saja menggelar rapat pimpinan nasional (Rapimnas) yang bertujuan sebagai persiapan pendaftaran Pemilihan Umum (Pemilu) yakni Komisi Pemilihan Umum (KPU).&#8230;"
     }
 ]

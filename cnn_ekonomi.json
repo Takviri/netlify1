@@ -1,5 +1,19 @@
 [
     {
+        "title": "Dolar di Atas Rp15 Ribu Jelang Pertemuan The Fed",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220722080918-78-824675/dolar-di-atas-rp15-ribu-jelang-pertemuan-the-fed",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMDgwOTE4LTc4LTgyNDY3NS9kb2xhci1kaS1hdGFzLXJwMTUtcmlidS1qZWxhbmctcGVydGVtdWFuLXRoZS1mZWQ=",
+        "description": " Nilai tukar rupiah tembus Rp15 ribu per dolar AS pada perdagangan Jumat (22/7). Pagi ini, US$1 setara dengan Rp15.036."
+    },
+    {
+        "title": "Harga Minyak Terperosok di Tengah Lonjakan Stok Bensin AS",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220722074100-85-824665/harga-minyak-terperosok-di-tengah-lonjakan-stok-bensin-as",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMDc0MTAwLTg1LTgyNDY2NS9oYXJnYS1taW55YWstdGVycGVyb3Nvay1kaS10ZW5nYWgtbG9uamFrYW4tc3Rvay1iZW5zaW4tYXM=",
+        "description": " Harga minyak dunia melemah pada perdagangan Kamis (21/7), waktu AS, setelah stok bensin Negeri Paman Sam dilaporkan meningkat."
+    },
+    {
         "title": "Kemenhub Respons Alih Kendali Bandara Halim dari AP II ke Grup Lion",
         "link": "https://www.cnnindonesia.com/ekonomi/20220721205801-92-824614/kemenhub-respons-alih-kendali-bandara-halim-dari-ap-ii-ke-grup-lion",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIxMTY0MjE5LTUzMi04MjQ0OTYvYmktcHJlZGlrc2ktaW5mbGFzaS1yaS10ZW1idXMtNDYtcGVyc2VuLWRpLWFraGlyLTIwMjI=",
         "description": " BI memperkirakan inflasi RI tembus 4,6 persen di akhir 2022 akibat lonjakan sejumlah harga komoditas."
-    },
-    {
-        "title": "Yasonna Mengeluh Banyak Warga Belum Urus Kekayaan Intelektual",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220722022329-78-824632/yasonna-mengeluh-banyak-warga-belum-urus-kekayaan-intelektual",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMDIyMzI5LTc4LTgyNDYzMi95YXNvbm5hLW1lbmdlbHVoLWJhbnlhay13YXJnYS1iZWx1bS11cnVzLWtla2F5YWFuLWludGVsZWt0dWFs",
-        "description": " Menkumham Yasonna Laoly mengatakan banyak warga belum mendaftarkan produk hasil kekayaan intelektual padahal itu bisa membuat untung besar."
-    },
-    {
-        "title": "PLN Buka Suara Soal Pemadaman Listrik Usai Kebakaran PLTD Kambajawa",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220722013214-85-824631/pln-buka-suara-soal-pemadaman-listrik-usai-kebakaran-pltd-kambajawa",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMDEzMjE0LTg1LTgyNDYzMS9wbG4tYnVrYS1zdWFyYS1zb2FsLXBlbWFkYW1hbi1saXN0cmlrLXVzYWkta2ViYWthcmFuLXBsdGQta2FtYmFqYXdh",
-        "description": " PLN buka suara mengenai pemadaman listrik di Waingapu yang terjadi setelah kebakaran di PLTD Kambajawa pada Kamis (21/7)."
     }
 ]
