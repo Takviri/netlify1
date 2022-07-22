@@ -1,6 +1,48 @@
 [
     {
         "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/508744/pemkot-cirebon-optimis-target-wisatawan-4-juta-orang-tercapai",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4NzQ0L3BlbWtvdC1jaXJlYm9uLW9wdGltaXMtdGFyZ2V0LXdpc2F0YXdhbi00LWp1dGEtb3JhbmctdGVyY2FwYWk=",
+        "description": "PEMKOT Cirebon menargetkan sebanyak 4 juta wisatawan mengunjungi Kota Cirebon sepanjang tahun ini. Peringatan hari ulang tahun Kota Cirebon tahun ini diharapkan juga menyumbang peningkatan jumlah wisatawan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/508745/sebab-bahasa-arab-pengaruhi-banyak-negara-dan-teori-asal-usul",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4NzQ1L3NlYmFiLWJhaGFzYS1hcmFiLXBlbmdhcnVoaS1iYW55YWstbmVnYXJhLWRhbi10ZW9yaS1hc2FsLXVzdWw=",
+        "description": "BAHASA Arab banyak menyumbangkan kosakata pada bahasa yang ada di dunia. Alasan utamanya, bahasa ini digunakan dalam kitab Al-Qur'an yang masih bertahan hingga kini. Al-Qur'an tetap eksis dengan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/508743/pemkot-bandung-diminta-kaji-penerapan-sistem-ganjil-genap",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4NzQzL3BlbWtvdC1iYW5kdW5nLWRpbWludGEta2FqaS1wZW5lcmFwYW4tc2lzdGVtLWdhbmppbC1nZW5hcA==",
+        "description": "DPRD Kota Bandung meminta Pemerintah Kota (Pemkot) melakukan kajian mengenai aturan ganjil genap (gage) di sejumlah ruas jalan. Dengan kondisi pandemi yang kini mulai normal, kemacetan mulai terjadi&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/508742/kota-bandung-waspada-serangan-dbd",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4NzQyL2tvdGEtYmFuZHVuZy13YXNwYWRhLXNlcmFuZ2FuLWRiZA==",
+        "description": "CUACA yang tidak menentu membuat beragam penyakit muncul dan perlu diwaspadai, salah satunya Demam Berdarah Dengue (DBD). Dari data Dinas Kesehatan (Dinkes) Kota Bandung, Jawa Barat, sepanjang Januari-Juli&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/508741/kasus-covid-19-meningkat-rsud-palangka-raya-kembali-bersiaga",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4NzQxL2thc3VzLWNvdmlkLTE5LW1lbmluZ2thdC1yc3VkLXBhbGFuZ2thLXJheWEta2VtYmFsaS1iZXJzaWFnYQ==",
+        "description": "SAAT ini kasus covid-19 di Provinsi Kalimantan Tengah menunjukkan tren peningkatan. Berdasarkan data Satgas Covid-19 Kalteng dalam sepekan terakhir kasus positif covid terus meningkat. Pada&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/508740/bernilai-lebih-rendah-tawaran-perpanjangan-kontrak-mertens-ditolak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODc0MC9iZXJuaWxhaS1sZWJpaC1yZW5kYWgtdGF3YXJhbi1wZXJwYW5qYW5nYW4ta29udHJhay1tZXJ0ZW5zLWRpdG9sYWs=",
+        "description": "PRESIDEN klub Liga Italia Napoli Aurelio De Laurentiis mengungkapkan Dries Mertens menolak tawaran kesepakatan baru pada bursa transfer musim panas ini. Laman football italia melaporkan De Laurentiis&#8230;"
+    },
+    {
+        "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/508739/bin-tetap-gencarkan-vaksinasi-covid-19-di-bali",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4NzM5L2Jpbi10ZXRhcC1nZW5jYXJrYW4tdmFrc2luYXNpLWNvdmlkLTE5LWRpLWJhbGk=",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4NzM2L2thc3VzLWNvdmlkLTE5LW5hc2lvbmFsLWJlcnRhbWJhaC00ODM0LWhhcmktaW5p",
         "description": "JUMLAH kasus positif covid-19 di Indonesia masih bertambah. Sebanyak 4.834 pasien terinfeksi virus korona per Jumat, 22 Juli 2022. &quot;Total ada 6.159.328 kasus covid-19 terkonfirmasi di Indonesia,&quot;&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/508735/dp3akb-diminta-tangani-perundungan-siswa-di-tasikmalaya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4NzM1L2RwM2FrYi1kaW1pbnRhLXRhbmdhbmktcGVydW5kdW5nYW4tc2lzd2EtZGktdGFzaWttYWxheWE=",
-        "description": "GUBERNUR Jawa Barat M Ridwan Kamil memerintahkan Dinas Pemberdayaan Perempuan Perlindungan Anak dan Keluarga Berencana (DP3AKB) Provinsi Jabar untuk untuk menangani, menindaklanjuti dan melakukan pendampingan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/508733/piala-asia-fiba-australia-dikepung-tiga-penantang-gelar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDg3MzMvcGlhbGEtYXNpYS1maWJhLWF1c3RyYWxpYS1kaWtlcHVuZy10aWdhLXBlbmFudGFuZy1nZWxhcg==",
-        "description": "AJANG Piala Asia FIBA 2022 sampai di babak empat besar dan tiga negara bakal menantang mahkota juara bertahan Australia yakni Selandia Baru, Libanon dan Yordania. Pada laga semifinal yang digelar&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508732/ulama-jatim-pendukung-erick-maju-pilpres-bertambah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDg3MzIvdWxhbWEtamF0aW0tcGVuZHVrdW5nLWVyaWNrLW1hanUtcGlscHJlcy1iZXJ0YW1iYWg=",
-        "description": "DUKUNGAN ulama di Jawa Timur (Jatim) terhadap Menteri BUMN RI Erick Thohir untuk maju di Pilpres 2024 terus bertambah. Sebelumnya ualam dari Kabupaten Malang, Banyuwangi, Situbondo, Bondowoso, Jember,&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/508731/perbaiki-sistem-pendidikan-untuk-cegah-tindak-kekerasan-seksual-terhadap-anak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4NzMxL3BlcmJhaWtpLXNpc3RlbS1wZW5kaWRpa2FuLXVudHVrLWNlZ2FoLXRpbmRhay1rZWtlcmFzYW4tc2Vrc3VhbC10ZXJoYWRhcC1hbmFr",
-        "description": "PERBAIKAN sistem pendidikan terkait pendidikan seks terhadap anak harus segera dilakukan, mengingat fenomena ancaman kekerasan seksual di lingkungan anak-anak mengemuka di tengah masyarakat. &quot;Sistem&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/508729/setiap-tahun-pt-timah-rugi-rp25-triliun-akibat-penambangan-ilegal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwODcyOS9zZXRpYXAtdGFodW4tcHQtdGltYWgtcnVnaS1ycDI1LXRyaWxpdW4tYWtpYmF0LXBlbmFtYmFuZ2FuLWlsZWdhbA==",
-        "description": "DIREKTUR Jenderal Minerba Kementerian ESDM, Ridwan Djamaluddin mengatakan kerugian PT Timah setiap tahun mencapai triliunan rupiah akibat maraknya tambang ilegal. Hal tersebut disampaikan dalam&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508730/kejagung-selamatkan-kerugian-negara-rp73-triliun-dalam-setahun",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDg3MzAva2VqYWd1bmctc2VsYW1hdGthbi1rZXJ1Z2lhbi1uZWdhcmEtcnA3My10cmlsaXVuLWRhbGFtLXNldGFodW4=",
-        "description": "JAKSA Agung Sanitiar Burhanuddin mengungkap jajarannya telah menyelamatkan kerugian keuangan negara sebanyak Rp7,3 triliun. Angka itu diperoleh sejak Juli 2021. Hal tersebut disampaikannya dalam peringatan&#8230;"
     }
 ]

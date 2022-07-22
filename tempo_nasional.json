@@ -1,10 +1,24 @@
 [
     {
+        "title": "Kasus Covid-19 Hari Ini Tambah 4.834, Meninggal 13",
+        "link": "https://nasional.tempo.co/read/1614836/kasus-covid-19-hari-ini-tambah-4-834-meninggal-13",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ4MzYva2FzdXMtY292aWQtMTktaGFyaS1pbmktdGFtYmFoLTQtODM0LW1lbmluZ2dhbC0xMw==",
+        "description": "Total kasus Covid-19 di Indonesia kini mencapai 6.159.328 orang, terhitung sejak diumumkannya pasien pertama terinfeksi virus corona pada 2 Maret 2020"
+    },
+    {
         "title": "4 Tersangka Korupsi PLTS di Kutai Timur Ditahan, Kerugian Negara Rp 53,6 Miliar",
         "link": "https://nasional.tempo.co/read/1614826/4-tersangka-korupsi-plts-di-kutai-timur-ditahan-kerugian-negara-rp-536-miliar",
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ4MjYvNC10ZXJzYW5na2Eta29ydXBzaS1wbHRzLWRpLWt1dGFpLXRpbXVyLWRpdGFoYW4ta2VydWdpYW4tbmVnYXJhLXJwLTUzNi1taWxpYXI=",
         "description": "Kerugian negara ditaksir Rp 53,6 miliar atas kasus korupsi pengadaan PLTS di Kutai Timur, Provinsi Kalimantan Timur.  Empat orang jadi tersangka."
+    },
+    {
+        "title": "Presiden Resmikan Dua Infrastruktur Karya Abipraya di Labuan Bajo",
+        "link": "https://nasional.tempo.co/read/1614828/presiden-resmikan-dua-infrastruktur-karya-abipraya-di-labuan-bajo",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ4MjgvcHJlc2lkZW4tcmVzbWlrYW4tZHVhLWluZnJhc3RydWt0dXIta2FyeWEtYWJpcHJheWEtZGktbGFidWFuLWJham8=",
+        "description": "Abipraya berkontribusi di Loh Buaya dan Pantai Marina Bukit Pramuka."
     },
     {
         "title": "Komisi II: Usulan Depok Masuk Jakarta akan Dipertimbangkan dalam Revisi UU",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ3ODYvZWtzLWd1YmVybnVyLXJpYXUtcnVzbGktemFpbmFsLWJlYmFzLWRhcmktbGFwYXMtcGVrYW5iYXJ1LXNldGVsYWgtMTAtdGFodW4tcGVuamFyYS1tYXNpaC13YWppYi1sYXBvcg==",
         "description": "Eks Gubernur Riau, Rusli Zainal telah menyelesaikan masa hukuman tahanannya di Lapas Kelas II A Pekanbaru, Kamis, 21 Juli 2022. Masih ingat kasusnya?"
-    },
-    {
-        "title": "126 Tahun Kematian Tragis Panglima Kerajaan Aceh Teuku Nyak Makam",
-        "link": "https://nasional.tempo.co/read/1614782/126-tahun-kematian-tragis-panglima-kerajaan-aceh-teuku-nyak-makam",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ3ODIvMTI2LXRhaHVuLWtlbWF0aWFuLXRyYWdpcy1wYW5nbGltYS1rZXJhamFhbi1hY2VoLXRldWt1LW55YWstbWFrYW0=",
-        "description": "Teuku Nyak Makam salah seorang panglima perang dari Kerajaan Aceh yang dikenal gigih melawan Belanda. Pada malam 22 Juli 1896 ia tewas dipancung."
-    },
-    {
-        "title": "Tak Sama, Ini Masing-masing Tugas Provos dan Propam Polri",
-        "link": "https://nasional.tempo.co/read/1614776/tak-sama-ini-masing-masing-tugas-provos-dan-propam-polri",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTQ3NzYvdGFrLXNhbWEtaW5pLW1hc2luZy1tYXNpbmctdHVnYXMtcHJvdm9zLWRhbi1wcm9wYW0tcG9scmk=",
-        "description": "Apa tugas Provos dan Propam Polri? Kelihatannya sama tapi ternyata berbeda."
     }
 ]
