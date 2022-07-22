@@ -1,5 +1,33 @@
 [
     {
+        "title": "Inflasi Lewati Target, Bank Sentral Jepang Kerek Suku Bunga?",
+        "link": "https://www.cnbcindonesia.com/news/20220722082428-4-357620/inflasi-lewati-target-bank-sentral-jepang-kerek-suku-bunga",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA4MjQyOC00LTM1NzYyMC9pbmZsYXNpLWxld2F0aS10YXJnZXQtYmFuay1zZW50cmFsLWplcGFuZy1rZXJlay1zdWt1LWJ1bmdh",
+        "description": " Inflasi inti Jepang kembali berada di atas target bank sentral 2%."
+    },
+    {
+        "title": "Iuran BPJS Kesehatan Terbaru: Lebih Murah Atau Malah Boncos?",
+        "link": "https://www.cnbcindonesia.com/news/20220722083033-4-357623/iuran-bpjs-kesehatan-terbaru-lebih-murah-atau-malah-boncos",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA4MzAzMy00LTM1NzYyMy9pdXJhbi1icGpzLWtlc2VoYXRhbi10ZXJiYXJ1LWxlYmloLW11cmFoLWF0YXUtbWFsYWgtYm9uY29z",
+        "description": " BPJS Kesehatan telah melakukan uji coba pelaksanaan penerapan kelas rawat inap standar di sejumlah rumah sakit"
+    },
+    {
+        "title": "Fresh From The Oven! PNS Cek Rekening, Ada Tunjangan Baru Nih",
+        "link": "https://www.cnbcindonesia.com/news/20220722082728-4-357622/fresh-from-the-oven-pns-cek-rekening-ada-tunjangan-baru-nih",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA4MjcyOC00LTM1NzYyMi9mcmVzaC1mcm9tLXRoZS1vdmVuLXBucy1jZWstcmVrZW5pbmctYWRhLXR1bmphbmdhbi1iYXJ1LW5paA==",
+        "description": " Presiden Jokowi untuk kesekian kalinya mencairkan tunjangan jabatan bagi sejumlah fungsional PNS"
+    },
+    {
+        "title": "Tak Kayak Negara Lain RI Kebal dari Resesi, Kok Bisa?",
+        "link": "https://www.cnbcindonesia.com/news/20220722081658-4-357617/tak-kayak-negara-lain-ri-kebal-dari-resesi-kok-bisa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA4MTY1OC00LTM1NzYxNy90YWsta2F5YWstbmVnYXJhLWxhaW4tcmkta2ViYWwtZGFyaS1yZXNlc2kta29rLWJpc2E=",
+        "description": " Indonesia tidak akan terkena resesi."
+    },
+    {
         "title": "Jokowi Bakal Resmikan SPAM Wae Mese II Labuan Bajo Hari Ini",
         "link": "https://www.cnbcindonesia.com/news/20220722080510-4-357618/jokowi-bakal-resmikan-spam-wae-mese-ii-labuan-bajo-hari-ini",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA2NDA1MS00LTM1NzYwMi9hZGEta2FiYXItYmFpay1kYXJpLWxhdXQtaGl0YW0ta3Jpc2lzLXBhbmdhbi1iYWthbC1tZXJlZGE=",
         "description": " Rusia dan Ukraina akan hari ini, Jumat (22/7/2022), akan menandatangani kesepakatan pembukaan kembali pelabuhan Laut Hitam."
-    },
-    {
-        "title": "Joe Biden Positif Covid-19, Begini Kondisinya",
-        "link": "https://www.cnbcindonesia.com/news/20220722061130-4-357598/joe-biden-positif-covid-19-begini-kondisinya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA2MTEzMC00LTM1NzU5OC9qb2UtYmlkZW4tcG9zaXRpZi1jb3ZpZC0xOS1iZWdpbmkta29uZGlzaW55YQ==",
-        "description": " Presiden Amerika Serikat (AS) Joe Biden positif Covid-19."
-    },
-    {
-        "title": "Negara Ini Sebut Perang Nuklir Tergantung Sikap Ukraina-NATO",
-        "link": "https://www.cnbcindonesia.com/news/20220722054951-4-357595/negara-ini-sebut-perang-nuklir-tergantung-sikap-ukraina-nato",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA1NDk1MS00LTM1NzU5NS9uZWdhcmEtaW5pLXNlYnV0LXBlcmFuZy1udWtsaXItdGVyZ2FudHVuZy1zaWthcC11a3JhaW5hLW5hdG8=",
-        "description": " Presiden Belarusia Alexander Lukashenko mengatakan bahwa Rusia, Ukraina, dan Barat harus setuju untuk menghentikan konflik guna menghindari perang nuklir."
-    },
-    {
-        "title": "Harga Gandum Naik, Ngopi Sambil Makan Roti Jadi Lebih Mahal",
-        "link": "https://www.cnbcindonesia.com/news/20220721193124-8-357572/harga-gandum-naik-ngopi-sambil-makan-roti-jadi-lebih-mahal",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTE5MzEyNC04LTM1NzU3Mi9oYXJnYS1nYW5kdW0tbmFpay1uZ29waS1zYW1iaWwtbWFrYW4tcm90aS1qYWRpLWxlYmloLW1haGFs",
-        "description": " Konflik antara Rusia Ukraina menjadi penyebab utama tingginya harga gandum kini harga komoditas roti di tanah air ikut kena dampaknya."
-    },
-    {
-        "title": "Sanksi Rusia Minggir, Negara Eropa Ini Borong Gas Putin",
-        "link": "https://www.cnbcindonesia.com/news/20220721211515-4-357578/sanksi-rusia-minggir-negara-eropa-ini-borong-gas-putin",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMTIxMTUxNS00LTM1NzU3OC9zYW5rc2ktcnVzaWEtbWluZ2dpci1uZWdhcmEtZXJvcGEtaW5pLWJvcm9uZy1nYXMtcHV0aW4=",
-        "description": " Negara Uni Eropa (UE) tampaknya tak kompak memboikot energi Rusia."
     }
 ]
