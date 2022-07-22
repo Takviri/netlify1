@@ -1,5 +1,12 @@
 [
     {
+        "title": "Kementerian ESDM Lelang 6 Blok Migas ke Investor",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220721075723-85-824193/kementerian-esdm-lelang-6-blok-migas-ke-investor",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIxMDc1NzIzLTg1LTgyNDE5My9rZW1lbnRlcmlhbi1lc2RtLWxlbGFuZy02LWJsb2stbWlnYXMta2UtaW52ZXN0b3I=",
+        "description": " Kementerian ESDM melelang 6 blok migas ke investor pada pekan ini. Berikut daftar 6 blok migas tersebut."
+    },
+    {
         "title": "Kemenkeu soal Polemik Pengelolaan Bandara Halim: Ada Miss Sedikit",
         "link": "https://www.cnnindonesia.com/ekonomi/20220722171505-532-824968/kemenkeu-soal-polemik-pengelolaan-bandara-halim-ada-miss-sedikit",
         "image": "static/images/cnn_ekonomi.png",
@@ -46,7 +53,7 @@
         "link": "https://www.cnnindonesia.com/ekonomi/20220722153946-97-824905/tips-mengukur-kebutuhan-rangka-baja-ringan-untuk-rumah",
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMTUzOTQ2LTk3LTgyNDkwNS90aXBzLW1lbmd1a3VyLWtlYnV0dWhhbi1yYW5na2EtYmFqYS1yaW5nYW4tdW50dWstcnVtYWg=",
-        "description": " Rangka baja ringan memiliki sejumlah keunggulan, mulai dari harga yang terbilang rumah hingga perawatan yang lebih hemat."
+        "description": " Rangka baja ringan memiliki sejumlah keunggulan, mulai dari harga yang terbilang\u00c2\u00a0murah hingga perawatan yang lebih hemat."
     },
     {
         "title": "Pendaftaran Beli Pertalite Pakai MyPertamina Dibuka di Sumut",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMTQ1NTA5LTkyLTgyNDg4My9paHNnLWJlcmJhbGlrLW1lbmd1YXQta2UtNjg4Ni1kaS1ha2hpci1wZWthbg==",
         "description": " IHSG menguat 0,33 persen ke level 6.886 pada Jumat (22/7) akibat tertopang kinerja 288 saham."
-    },
-    {
-        "title": "BEI Suspensi Saham Perusahaan Suami Puan Maharani",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220722144209-92-824879/bei-suspensi-saham-perusahaan-suami-puan-maharani",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMTQ0MjA5LTkyLTgyNDg3OS9iZWktc3VzcGVuc2ktc2FoYW0tcGVydXNhaGFhbi1zdWFtaS1wdWFuLW1haGFyYW5p",
-        "description": " Bursa Efek Indonesia (BEI) menghentikan sementara perdagangan saham atau suspensi PT Rukun Raharja Tbk milik suami Ketua DPR RI Puan Maharani, Happy Hapsoro."
     }
 ]
