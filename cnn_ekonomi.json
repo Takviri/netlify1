@@ -1,5 +1,12 @@
 [
     {
+        "title": "Mamikos PHK Karyawan",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220722141759-92-824864/mamikos-phk-karyawan",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMTQxNzU5LTkyLTgyNDg2NC9tYW1pa29zLXBoay1rYXJ5YXdhbg==",
+        "description": " Startup penyedia layanan pencarian indekos, Mamikos mem-PHK sejumlah pegawainya dengan alasan supaya perusahaan lebih sehat dan berkelanjutan."
+    },
+    {
         "title": "Daftar Transaksi Pajak yang Bisa Pakai NIK Gantikan NPWP",
         "link": "https://www.cnnindonesia.com/ekonomi/20220722122506-532-824789/daftar-transaksi-pajak-yang-bisa-pakai-nik-gantikan-npwp",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMTA0MTE4LTkyLTgyNDczOC9qYWxhbi1wYW5qYW5nLXJlYnV0YW4tYmFuZGFyYS1oYWxpbS1hcC1paS12cy1saW9uLWFpcg==",
         "description": " Anak usaha Lion Air Group PT Angkasa Transportindo Selaras mengambil alih pengelolaan Bandara Halim Perdanakusuma dari AP II. Berikut perjalanannya."
-    },
-    {
-        "title": "Uang Beredar Tembus Rp7.888,6 T pada Juni 2022",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220722111445-78-824751/uang-beredar-tembus-rp78886-t-pada-juni-2022",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMTExNDQ1LTc4LTgyNDc1MS91YW5nLWJlcmVkYXItdGVtYnVzLXJwNzg4ODYtdC1wYWRhLWp1bmktMjAyMg==",
-        "description": " Bank Indonesia (BI) mencatat uang beredar tembus Rp7.888,6 triliun pada Juni 2022 atau tumbuh 10,6 persen (yoy)."
     }
 ]
