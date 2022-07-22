@@ -1,5 +1,19 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/508869/g20-orchestra-mereka-yang-terbaik-berkumpul-di-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwODg2OS9nMjAtb3JjaGVzdHJhLW1lcmVrYS15YW5nLXRlcmJhaWstYmVya3VtcHVsLWRpLWluZG9uZXNpYQ==",
+        "description": "Coba Anda mengetik &quot;best viola player&quot; di mesin pencari Google, maka nama Yuri Bashmet selalu keluar di halaman pertama. Sebagai yang terbaik di dunia, pemain viola dari Rusia itu tentu sangat&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/508868/ganti-komponen-power-unit-sainz-dapat-penalti-di-gp-prancis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDg4NjgvZ2FudGkta29tcG9uZW4tcG93ZXItdW5pdC1zYWluei1kYXBhdC1wZW5hbHRpLWRpLWdwLXByYW5jaXM=",
+        "description": "PEMBALAP Ferrari Carlos Sainz akhirnya mendapat penalti mundur 10 posisi start pada Grand Prix Prancis di Sirkuit Paul Ricard, Le Castellet, Minggu (24/7). Sanksi itu didapat setelah Ferrari&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/508867/hindari-bencana-alam-bmkg-ajak-publik-jaga-kelestarian-alam",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwODg1OC9qYXJyLWlwby1kaS1iZWktYmlzbmlzLWJpb2RpZXNlbC1rYW50b25naS1rb250cmFrLTMwNTAwMC1rbC1mYW1lLWRlbmdhbi1wZXJ0YW1pbmE=",
         "description": "PT Jhonlin Agro Raya Tbk yang sedang dalam proses IPO di BEI dengan kode emiten JARR telah mengantongi kontrak dengan Pertamina untuk menyediakan kuota 305.000 kiloliter (KL) FAME (Fatty Acid Methyl&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/508852/aksi-1000-lilin-keadilan-untuk-brigadir-j-di-bundaran-hi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDg4NTIvYWtzaS0xMDAwLWxpbGluLWtlYWRpbGFuLXVudHVrLWJyaWdhZGlyLWotZGktYnVuZGFyYW4taGk=",
-        "description": "TIM Advokat Penegakan Hukum dan Keadilan (Tampak) dan puluhan warga menggelar aksi '1.000 Lilin Keadilan' bagi Brigadir Yosua Hutabarat atau Brigadir J di Bundaran HI, Jakarta Pusat, Jumat&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/508851/kelola-jejak-digital-dan-hati-hati-tautan-yang-mencurigakan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA4ODUxL2tlbG9sYS1qZWphay1kaWdpdGFsLWRhbi1oYXRpLWhhdGktdGF1dGFuLXlhbmctbWVuY3VyaWdha2Fu",
-        "description": "JEJAK digital akan selamanya tersimpan. Oleh karena itu, pengguna internet harus bijak dalam menggunakan internet atau mengunggah sesuatu di media sosial. Sebab, sekali mengunggah hal negatif, maka&#8230;"
     }
 ]
