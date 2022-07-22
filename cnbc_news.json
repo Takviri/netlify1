@@ -1,5 +1,19 @@
 [
     {
+        "title": "Diserbu Pelancong, Bandara Changi Kembali Buka Terminal 4",
+        "link": "https://www.cnbcindonesia.com/news/20220722180604-4-357862/diserbu-pelancong-bandara-changi-kembali-buka-terminal-4",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjE4MDYwNC00LTM1Nzg2Mi9kaXNlcmJ1LXBlbGFuY29uZy1iYW5kYXJhLWNoYW5naS1rZW1iYWxpLWJ1a2EtdGVybWluYWwtNA==",
+        "description": " Terminal 4 Bandar Udara Internasional Changi Singapura akan dibuka kembali setelah ditutup selama lebih dari dua tahun."
+    },
+    {
+        "title": "Stargazer Dianggap Mirip Xpander, Bos Hyundai Langsung Begini",
+        "link": "https://www.cnbcindonesia.com/news/20220722193721-4-357878/stargazer-dianggap-mirip-xpander-bos-hyundai-langsung-begini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjE5MzcyMS00LTM1Nzg3OC9zdGFyZ2F6ZXItZGlhbmdnYXAtbWlyaXAteHBhbmRlci1ib3MtaHl1bmRhaS1sYW5nc3VuZy1iZWdpbmk=",
+        "description": " Hyundai mengenalkan MPV terbaru, Stargazer dengan desain futuristik."
+    },
+    {
         "title": "'Centaurus' Varian Covid-19 yang Kini Mengancam Dunia",
         "link": "https://www.cnbcindonesia.com/news/20220722190652-4-357875/centaurus-varian-covid-19-yang-kini-mengancam-dunia",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjE4MDIyMy00LTM1Nzg2MS9ia24tYmFueWFrLXBucy1sdWx1c2FuLXMxLXMyLXRhcGkta29tcGV0ZW5zaW55YS1yZW5kYWg=",
         "description": " Banyak PNS Lulusan S1 dan S2 tapi kompetensinya rendah."
-    },
-    {
-        "title": "Jurus Pemerintah Tangani Perubahan Iklim yang Mulai Terasa",
-        "link": "https://www.cnbcindonesia.com/news/20220722174534-4-357854/jurus-pemerintah-tangani-perubahan-iklim-yang-mulai-terasa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjE3NDUzNC00LTM1Nzg1NC9qdXJ1cy1wZW1lcmludGFoLXRhbmdhbmktcGVydWJhaGFuLWlrbGltLXlhbmctbXVsYWktdGVyYXNh",
-        "description": " Kementerian ESDM mengajak anak muda untuk mendorong peran keterlibatan dalam penanganan krisis iklim"
-    },
-    {
-        "title": "Waduh, ASN WFH, BKN Sebut Banyak yang Gak Ngapa-ngapain?",
-        "link": "https://www.cnbcindonesia.com/news/20220722181348-8-357867/waduh-asn-wfh-bkn-sebut-banyak-yang-gak-ngapa-ngapain",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjE4MTM0OC04LTM1Nzg2Ny93YWR1aC1hc24td2ZoLWJrbi1zZWJ1dC1iYW55YWsteWFuZy1nYWstbmdhcGEtbmdhcGFpbg==",
-        "description": " Waduh, ASN WFH, BKN Sebut Banyak yang Gak Ngapa-ngapain?"
     }
 ]
