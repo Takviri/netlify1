@@ -1,5 +1,12 @@
 [
     {
+        "title": "Harga Minyak Goreng di Papua Masih Mahal Rp23 Ribu per Liter",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220722093807-92-824708/harga-minyak-goreng-di-papua-masih-mahal-rp23-ribu-per-liter",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMDkzODA3LTkyLTgyNDcwOC9oYXJnYS1taW55YWstZ29yZW5nLWRpLXBhcHVhLW1hc2loLW1haGFsLXJwMjMtcmlidS1wZXItbGl0ZXI=",
+        "description": " Menteri Perdagangan Zulkifli Hasan melaporkan harga minyak goreng di Papua dan Maluku masih mahal mencapai Rp23 ribu per liter."
+    },
+    {
         "title": "Inflasi Eropa Naik, ECB Kerek Suku Bunga Pertama Kali dalam 11 Tahun",
         "link": "https://www.cnnindonesia.com/ekonomi/20220722093730-78-824706/inflasi-eropa-naik-ecb-kerek-suku-bunga-pertama-kali-dalam-11-tahun",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMDgwOTE4LTc4LTgyNDY3NS9kb2xhci1kaS1hdGFzLXJwMTUtcmlidS1qZWxhbmctcGVydGVtdWFuLXRoZS1mZWQ=",
         "description": " Nilai tukar rupiah tembus Rp15 ribu per dolar AS pada perdagangan Jumat (22/7). Pagi ini, US$1 setara dengan Rp15.036."
-    },
-    {
-        "title": "Harga Minyak Terperosok di Tengah Lonjakan Stok Bensin AS",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220722074100-85-824665/harga-minyak-terperosok-di-tengah-lonjakan-stok-bensin-as",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIyMDc0MTAwLTg1LTgyNDY2NS9oYXJnYS1taW55YWstdGVycGVyb3Nvay1kaS10ZW5nYWgtbG9uamFrYW4tc3Rvay1iZW5zaW4tYXM=",
-        "description": " Harga minyak dunia melemah pada perdagangan Kamis (21/7), waktu AS, setelah stok bensin Negeri Paman Sam dilaporkan meningkat."
     }
 ]

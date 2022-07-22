@@ -1,5 +1,26 @@
 [
     {
+        "title": "ECB Akhiri Era Bunga Acuan Negatif",
+        "link": "https://www.cnbcindonesia.com/news/20220722083546-8-357624/ecb-akhiri-era-bunga-acuan-negatif",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA4MzU0Ni04LTM1NzYyNC9lY2ItYWtoaXJpLWVyYS1idW5nYS1hY3Vhbi1uZWdhdGlm",
+        "description": " ECB menaikkan suku bunga 50 basis poin."
+    },
+    {
+        "title": "Cair! Jokowi Kerek Tukin PNS BKN, Tertinggi Jadi Rp 33 Juta",
+        "link": "https://www.cnbcindonesia.com/news/20220722094408-4-357657/cair-jokowi-kerek-tukin-pns-bkn-tertinggi-jadi-rp-33-juta",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA5NDQwOC00LTM1NzY1Ny9jYWlyLWpva293aS1rZXJlay10dWtpbi1wbnMtYmtuLXRlcnRpbmdnaS1qYWRpLXJwLTMzLWp1dGE=",
+        "description": " Jokowi resmi menaikkan besaran tunjangan kinerja PNS di lingkungan BKN"
+    },
+    {
+        "title": "Malas Ribet Daftar MyPertamina? Datang Langsung ke SPBU Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220722093944-4-357656/malas-ribet-daftar-mypertamina-datang-langsung-ke-spbu-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA5Mzk0NC00LTM1NzY1Ni9tYWxhcy1yaWJldC1kYWZ0YXItbXlwZXJ0YW1pbmEtZGF0YW5nLWxhbmdzdW5nLWtlLXNwYnUtaW5p",
+        "description": " Pertamina membuka kendaraan yang hendak mendaftar MyPertamina di SPBU"
+    },
+    {
         "title": "B20-G20 Sepakat Atasi Kesenjangan Pembiayaan Berkelanjutan",
         "link": "https://www.cnbcindonesia.com/news/20220720184556-8-357223/b20-g20-sepakat-atasi-kesenjangan-pembiayaan-berkelanjutan",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA4MzU1Mi04LTM1NzYyOC9qb2tvd2ktc2lhcC1rb3BkYXItZGVuZ2FuLXhpLWppbnBpbmctYWRhLWFwYS1uaWg=",
         "description": " Joko Widodo akan bertemu dengan Presiden China Xi Jinping pada 26 Juli 2022."
-    },
-    {
-        "title": "RI Jadi Sorotan! Raksasa Migas Asing yang Cabut Balik Lagi",
-        "link": "https://www.cnbcindonesia.com/news/20220722090612-4-357643/ri-jadi-sorotan-raksasa-migas-asing-yang-cabut-balik-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA5MDYxMi00LTM1NzY0My9yaS1qYWRpLXNvcm90YW4tcmFrc2FzYS1taWdhcy1hc2luZy15YW5nLWNhYnV0LWJhbGlrLWxhZ2k=",
-        "description": " Menteri ESDM mengatakan perusahaan migas yang hengkang akan datang lagi ke Indonesia"
-    },
-    {
-        "title": "Pengakuan Menteri Jokowi: Penjual Cireng Lebih Cuan dari PNS!",
-        "link": "https://www.cnbcindonesia.com/news/20220722083821-4-357635/pengakuan-menteri-jokowi-penjual-cireng-lebih-cuan-dari-pns",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA4MzgyMS00LTM1NzYzNS9wZW5nYWt1YW4tbWVudGVyaS1qb2tvd2ktcGVuanVhbC1jaXJlbmctbGViaWgtY3Vhbi1kYXJpLXBucw==",
-        "description": " Siapa menteri Jokowi yang mengatakan penjual cireng lebih cuan ketimbang PNS?"
-    },
-    {
-        "title": "Harga BBM Pertamina Resmi Naik! Ada yang Rp 16.500 per Liter",
-        "link": "https://www.cnbcindonesia.com/news/20220722085334-4-357632/harga-bbm-pertamina-resmi-naik-ada-yang-rp-16500-per-liter",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjA4NTMzNC00LTM1NzYzMi9oYXJnYS1iYm0tcGVydGFtaW5hLXJlc21pLW5haWstYWRhLXlhbmctcnAtMTY1MDAtcGVyLWxpdGVy",
-        "description": " Pertamina resmi menaikkan harga tiga jenis BBM-nya di seluruh SPBU miliknya per 10 Juli 2022"
     }
 ]

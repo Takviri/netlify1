@@ -1,6 +1,48 @@
 [
     {
         "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/508660/fadli-zon-dukung-tasikmalaya-jadi-kota-pendidikan-kerja-sama-internasional",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4NjYwL2ZhZGxpLXpvbi1kdWt1bmctdGFzaWttYWxheWEtamFkaS1rb3RhLXBlbmRpZGlrYW4ta2VyamEtc2FtYS1pbnRlcm5hc2lvbmFs",
+        "description": "KETUA Badan Kerja Sama Antar Parlemen (BKSAP) DPR RI Fadli Zon mendukung upaya kota maupun Kabupaten Tasikmalaya untuk menjadi Kota Pendidikan yang bekerja sama dengan dunia internasional. Menurut&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/508659/sekolah-di-depok-diingatkan-perketat-prokes-cegah-penyebaran-covid-19",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDg2NTkvc2Vrb2xhaC1kaS1kZXBvay1kaWluZ2F0a2FuLXBlcmtldGF0LXByb2tlcy1jZWdhaC1wZW55ZWJhcmFuLWNvdmlkLTE5",
+        "description": "DINAS Pendidikan Kota Depok mengimbau sekolah-sekolah di Kota Depok Jawa Barat lebih memperketat protokol kesehatan karena tren kasus covid-19 mulai mengalami peningkatan. &quot;Tetap untuk&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/508658/sinar-gading-group-gelar-pesta-kpr-bantu-anak-muda-punya-rumah-di-bsd",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwODY1OC9zaW5hci1nYWRpbmctZ3JvdXAtZ2VsYXItcGVzdGEta3ByLWJhbnR1LWFuYWstbXVkYS1wdW55YS1ydW1haC1kaS1ic2Q=",
+        "description": "KONDISI perekonmian saat ini diprediksi akan ikut mengungkit bunga kredit pemilikan rumah (KPR) dalam beberapa bulan ke depan. Melihat fakta itu, Sinar Gading Group menggelar Pesta KPR untuk hunian&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/508657/uni-eropa-dan-world-vision-tingkatkan-ketahanan-masyarakat-rentan-di-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4NjU3L3VuaS1lcm9wYS1kYW4td29ybGQtdmlzaW9uLXRpbmdrYXRrYW4ta2V0YWhhbmFuLW1hc3lhcmFrYXQtcmVudGFuLWRpLWluZG9uZXNpYQ==",
+        "description": "UNI Eropa (UE), World Vision Netherlands, dan Wahana Visi Indonesia menggelar upacara penutupan proyek dua tahun&nbsp;&ldquo;Indonesia Covid-19 Pandemic Emergency Responses (I-COPE)&rdquo;.&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508655/tingkatkan-patuh-pajak-korlantas-siapkan-konsep-single-data",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDg2NTUvdGluZ2thdGthbi1wYXR1aC1wYWphay1rb3JsYW50YXMtc2lhcGthbi1rb25zZXAtc2luZ2xlLWRhdGE=",
+        "description": "KORPS Lalu Lintas (Korlantas) Polri menyiapkan konsep single&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508656/jaksa-agung-minta-jajarannya-netral-jelang-pemilu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDg2NTYvamFrc2EtYWd1bmctbWludGEtamFqYXJhbm55YS1uZXRyYWwtamVsYW5nLXBlbWlsdQ==",
+        "description": "JAKSA Agung Sanitiar Burhanuddin meminta jajarannya bersikap netral dalam menghadapi Pemilihan Umum (Pemilu) 2024. Hal itu disampaikannya pada Hari Bhakti Adhyaksa (HBA) Ke-62 di Kompleks Kejaksaan&#8230;"
+    },
+    {
+        "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/508654/10-perintah-allah-kepada-musa-dan-sembilan-larangan-untuk-muhammad",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4NjU0LzEwLXBlcmludGFoLWFsbGFoLWtlcGFkYS1tdXNhLWRhbi1zZW1iaWxhbi1sYXJhbmdhbi11bnR1ay1tdWhhbW1hZA==",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODY1MS9qZXNzZS1saW5nYXJkLXJlc21pLWdhYnVuZy1rbHViLXByb21vc2ktbm90dGluZ2hhbS1mb3Jlc3Q=",
         "description": "JESSE Lingard resmi memperkuat klub promosi Liga Primer, Nottingham Forest. Lingard berpisah dengan Manchester United dengan status bebas transfer setelah 11 tahun berkarier di Old Trafford. Pemain&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/508650/dpd-nasdem-subang-tolak-pembangunan-tempat-pembuangan-limbah-b3",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4NjUwL2RwZC1uYXNkZW0tc3ViYW5nLXRvbGFrLXBlbWJhbmd1bmFuLXRlbXBhdC1wZW1idWFuZ2FuLWxpbWJhaC1iMw==",
-        "description": "PEMBANGUNAN pabrik limbah pengolahan bahan berbahaya beracun (B3) di Kampung Segrang, Desa Padaasih, Kecamatan Cibogo, Kabupaten Subang, Jawa Barat, terus menuai polemik.&nbsp; Aspirasi penolakan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/508649/darwin-nunez-buka-pundi-pundi-gol-bersama-liverpool",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODY0OS9kYXJ3aW4tbnVuZXotYnVrYS1wdW5kaS1wdW5kaS1nb2wtYmVyc2FtYS1saXZlcnBvb2w=",
-        "description": "STRIKER anyar Liverpool Darwin Nunez membuka pundi-pundi golnya di bawah asuhan Juergen Klopp saat melawan TB Leipzig dalam laga uji coba pramusim, Jumat (22/7) dini hari WIB. Tak tanggung-tanggung,&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/508648/duel-el-clasico-di-las-vegas-adu-taji-lewandowski-dan-benzema",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODY0OC9kdWVsLWVsLWNsYXNpY28tZGktbGFzLXZlZ2FzLWFkdS10YWppLWxld2FuZG93c2tpLWRhbi1iZW56ZW1h",
-        "description": "LAGA persahabatan pramusim antara Barcelona melawan Real Madrid di Las Vegas Amerika Serikat Minggu (24/7) pagi WIB akan menggambarkan persaingan dua raksaksa La Liga Spanyol untuk musim 2022-2023.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/508647/gempa-guncang-nias-selatan-tidak-berpotensi-tsunami",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4NjQ3L2dlbXBhLWd1bmNhbmctbmlhcy1zZWxhdGFuLXRpZGFrLWJlcnBvdGVuc2ktdHN1bmFtaQ==",
-        "description": "GEMPA mengguncang Nias Selatan pada Jumat (22/7) pukul 04.41.01 WIB. Hasil analisis BMKG menunjukkan gempa ini memiliki parameter update dengan magnitudo 4,9. Koordinator Mitigasi Gempa Bumi&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/508646/menkominfo-tekankan-kedaulatan-digital-pada-3rd-meeting-dewg",
-        "image": "https://disk.mediaindonesia.com/files/news/2022/07/22/logo.jpg",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4NjQ2L21lbmtvbWluZm8tdGVrYW5rYW4ta2VkYXVsYXRhbi1kaWdpdGFsLXBhZGEtM3JkLW1lZXRpbmctZGV3Zw==",
-        "description": " DEWASA ini, dunia tidak bisa menghindari masa depan yang kian bertumpu pada&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508645/setjen-dpr-ri-raih-penghargaan-bkn-award-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDg2NDUvc2V0amVuLWRwci1yaS1yYWloLXBlbmdoYXJnYWFuLWJrbi1hd2FyZC0yMDIy",
-        "description": "SEKRETARIAT&nbsp;Jenderal&nbsp;(Setjen) Dewan Perwakilan Rakyat (DPR) RI meraih peringkat tiga penghargaan BKN (Badan Kepegawaian Negara) Award 2022. Ketiga kategori iti meliuputi Kategori Perencanaan&#8230;"
     }
 ]
