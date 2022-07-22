@@ -1,5 +1,61 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/508717/noah-lyles-pertahankan-gelar-juara-dunia-nomor-200-meter-putra",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDg3MTcvbm9haC1seWxlcy1wZXJ0YWhhbmthbi1nZWxhci1qdWFyYS1kdW5pYS1ub21vci0yMDAtbWV0ZXItcHV0cmE=",
+        "description": "AMERIKA Serikat menyapu bersih tiga medali nomor 200 meter putra pada Kejuaraan Dunia Atletik 2022 di Hayward Field, Oregon, Amerika Serikat, Kamis (21/7) waktu setempat. Noah Lyles tampil gemilang&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/508716/jemaah-haji-indonesia-yang-sakit-dan-wafat-bertambah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4NzE2L2plbWFhaC1oYWppLWluZG9uZXNpYS15YW5nLXNha2l0LWRhbi13YWZhdC1iZXJ0YW1iYWg=",
+        "description": "KEMENTERIAN Agama menyampaikan jemaah haji Indonesia yang sakit dan wafat bertambah. Jemaah diharapkan menjalakan rekomendasi dan seruan dari Kemenag untuk tetap mematuhi prokes, jangan terlalu lelah,&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508714/kpk-mardani-maming-coba-mengintervensi-praperadilan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDg3MTQva3BrLW1hcmRhbmktbWFtaW5nLWNvYmEtbWVuZ2ludGVydmVuc2ktcHJhcGVyYWRpbGFu",
+        "description": "TIM penyidik dalam kasus dugaan suap dan gratifikasi terkait izin pertambangan di Tanah Bumbu, Kalimantan Selatan menyambangi sidang praperadilan di Pengadilan Negeri Jakarta Selatan, hari ini. Mereka&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/508713/uang-beredar-pada-juni-tumbuh-106",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwODcxMy91YW5nLWJlcmVkYXItcGFkYS1qdW5pLXR1bWJ1aC0xMDY=",
+        "description": "LIKUIDITAS perekonomian atau uang beredar dalam arti luas (M2) pada Juni tetap tumbuh positif. Hal ini terlihat dari posisi M2 pada Juni&nbsp;tercatat sebesar Rp7.888,6 triliun atau tumbuh 10,6% (yoy),&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/508712/keluarga-almarhum-brigadir-j-datangi-polda-jambi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4NzEyL2tlbHVhcmdhLWFsbWFyaHVtLWJyaWdhZGlyLWotZGF0YW5naS1wb2xkYS1qYW1iaQ==",
+        "description": "SEJUMLAH keluarga inti almarhum Brigadir Nofriansyah Yosua Hutabarat didampingi tim kKuasa hukum Kamaruddin Simanjuntak dan kawan-kawan mendatangi Markas Kepolisian Daerah Jambi, Jumat (22/7), sekitar&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/508711/gubernur-dki-jakarta-apresiasi-penanam-anggur-di-kawasan-cilincing",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDg3MTEvZ3ViZXJudXItZGtpLWpha2FydGEtYXByZXNpYXNpLXBlbmFuYW0tYW5nZ3VyLWRpLWthd2FzYW4tY2lsaW5jaW5n",
+        "description": "GUBERNUR DKI Jakarta Anies Baswedan memetik anggur di Vezo Grapes Farm, Cilincing, Jakarta Utara. Ia pun menjelaskan jika kebun anggur ini merupakan inisiatif luar biasa dari warga yang didukung kolaborasi&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/508709/hari-ketujuh-masa-kepulangan-7-kloter-jemaah-haji-pulang-ke-tanah-air",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4NzA5L2hhcmkta2V0dWp1aC1tYXNhLWtlcHVsYW5nYW4tNy1rbG90ZXItamVtYWFoLWhhamktcHVsYW5nLWtlLXRhbmFoLWFpcg==",
+        "description": "PADA hari ke tujuh masa kepulangan jemaah haji Indonesia yang masuk kelompok terbang gelombang pertama akan dipulangkan 7 kloter dari 5 debarkasi. &quot;Hari ini akan dipulangkan 7 kloter menuju&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/508708/saluran-cerna-sehat-pengaruhi-perkembangan-otak-otot-imunitas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4NzA4L3NhbHVyYW4tY2VybmEtc2VoYXQtcGVuZ2FydWhpLXBlcmtlbWJhbmdhbi1vdGFrLW90b3QtaW11bml0YXM=",
+        "description": "SALURAN cerna yang sehat memiliki peran penting terhadap perkembangan otak dan otot anak. Bila saluran cerna sehat, nutrisi dan semua yang masuk dapat diserap dengan baik sehingga zat-zat yang dihasilkan&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/508706/sandiaga-uno-gaungkan-slogan-produk-indonesia-untuk-ekonomi-kuat",
         "image": "static/images/media_indonesia.png",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4NzA1L2tyaXNpcy1pa2xpbS1zYW1hLWRlbmdhbi1rcmlzaXMtaGFrLWFuYWs=",
         "description": "BEBERAPA hari yang lalu Badan Meteorologi, Klimatologi dan Geofisika mengungkapkan bahwa kenaikan suhu sebesar 1 derajat saja, dapat menimbulkan dampak cuaca ekstrem dan bencana hidrometeorologi. Musim&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/508704/pelacakan-kasus-dan-vaksinasi-booster-harus-ditingkatkan-untuk-cegah-klaster-sekolah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4NzA0L3BlbGFjYWthbi1rYXN1cy1kYW4tdmFrc2luYXNpLWJvb3N0ZXItaGFydXMtZGl0aW5na2F0a2FuLXVudHVrLWNlZ2FoLWtsYXN0ZXItc2Vrb2xhaA==",
-        "description": "SETELAH pembelajaran tatap muka (PTM) berlangsung selama beberapa waktu, mulai bermunculan klaster covid-19 di lingkungan pendidikan. Menanggapi hal itu, Epiemiolog Dicky Budiman mengatakan klaster&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/508703/peringati-hut-ke-77-ri-di-rusia-digelar-ajang-pemilihan-duta-mahasiswa-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4NzAzL3BlcmluZ2F0aS1odXQta2UtNzctcmktZGktcnVzaWEtZGlnZWxhci1hamFuZy1wZW1pbGloYW4tZHV0YS1tYWhhc2lzd2EtaW5kb25lc2lh",
-        "description": "AJANG Pemilihan Duta Mahasiswa Indonesia, Putra dan Putri Perhimpunan Mahasiswa Indonesia di Rusia (Permira) Tahun 2022, membuka rangkaian peringatan HUT ke-77 Proklamasi Kemerdekaan RI di Federasi&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/508702/main-di-jazz-gunung-duo-rocker-ini-dapat-pengalaman-baru",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwODcwMi9tYWluLWRpLWphenotZ3VudW5nLWR1by1yb2NrZXItaW5pLWRhcGF0LXBlbmdhbGFtYW4tYmFydQ==",
-        "description": "Festival musik jazz tahunan yang mengambil lanskap gunung, Jazz Gunung Bromo, kembali hadir dengan kapasitas penonton penuh tahun ini. Setelah pada edisi 2020 dilangsungkan secara hibrida dan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508701/perludem-kampanye-di-kampus-dimungkinkan-dalam-bentuk-dialog",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDg3MDEvcGVybHVkZW0ta2FtcGFueWUtZGkta2FtcHVzLWRpbXVuZ2tpbmthbi1kYWxhbS1iZW50dWstZGlhbG9n",
-        "description": "DIREKTUR Eksekutif Yayasan Perkumpulan untuk Pemilu dan Demokrasi (Perludem) Khoirunnisa Agustyati mengatakan kampanye di kampus dapat dilakukan sepanjang Komisi Pemilihan Umum (KPU) menjamin setiap&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/508700/pentingnya-edukasi-dan-keamanan-dalam-berinvestasi-kripto",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA4NzAwL3BlbnRpbmdueWEtZWR1a2FzaS1kYW4ta2VhbWFuYW4tZGFsYW0tYmVyaW52ZXN0YXNpLWtyaXB0bw==",
-        "description": "POPULARITAS investasi aset kripto kian meningkat dan menarik minat investor. Di balik tingginya minat investasi tersebut, terdapat beberapa faktor pendukung yang berperan, di antaranya, pedagang aset&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/508699/selandia-baru-tantang-australia-di-semifinal-piala-asia-fiba",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDg2OTkvc2VsYW5kaWEtYmFydS10YW50YW5nLWF1c3RyYWxpYS1kaS1zZW1pZmluYWwtcGlhbGEtYXNpYS1maWJh",
-        "description": "TIMNAS basket Selandia Baru menantang juara bertahan Australia pada semifinal Piala Asia FIBA 2022 yang akan digelar Sabtu (23/7) di Istora GBK, Jakarta. Misi besar membalaskan kekalahan lima tahun&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/508698/sejarah-penguin-puluhan-juta-tahun-lalu-yang-dapat-terbang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4Njk4L3NlamFyYWgtcGVuZ3Vpbi1wdWx1aGFuLWp1dGEtdGFodW4tbGFsdS15YW5nLWRhcGF0LXRlcmJhbmc=",
-        "description": "BURUNG penguin, yang hidup di pantai dingin dan tropis, menyisakan tanda tanya bagi para peneliti. Baru-baru ini peneliti mengungkapkan riset terbaru soal penguin. Mereka melacak keberadaan burung&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/508697/anies-fashion-show-di-zebra-cross-dukuh-atas-tidak-dilarang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDg2OTcvYW5pZXMtZmFzaGlvbi1zaG93LWRpLXplYnJhLWNyb3NzLWR1a3VoLWF0YXMtdGlkYWstZGlsYXJhbmc=",
-        "description": "GUBERNUR DKI Jakarta Anies Baswedan menegaskan kegiatan fashion show di kawasan Duku Atas, Tanah Abang, Jakarta Pusat masih diperbolehkan. Pihaknya memastikan tidak ada laranggan untuk menggelar kegiatan&#8230;"
     }
 ]
