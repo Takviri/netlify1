@@ -1,5 +1,26 @@
 [
     {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/508827/tanda-mata-untuk-mona-lohanda",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwODgyNy90YW5kYS1tYXRhLXVudHVrLW1vbmEtbG9oYW5kYQ==",
+        "description": "MEMBUKA dan membaca lembarlembar arsip jelas butuh ketekunan dan ketelitian. Pekerjaan itu hanya mungkin ditekuni mereka yang betul-betul gandrung pada dokumen sejarah. Itu pun tidak banyak yang melakukannya,&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/508837/mengupas-sosok-sang-pemimpin-autentik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwODgzNy9tZW5ndXBhcy1zb3Nvay1zYW5nLXBlbWltcGluLWF1dGVudGlr",
+        "description": "TIDAK banyak yang mengenal Anies Baswedan sebagai seorang pengagum Bung Karno. Ia suatu ketika pernah menyampaikan melalui sebuah media seusai berziarah ke makam Bung Karno di Blitar, &ldquo;Bung Karno&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/508863/mimpi-lewandowski-dan-raphinha",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODg2My9taW1waS1sZXdhbmRvd3NraS1kYW4tcmFwaGluaGE=",
+        "description": "DI saat sepak bola menjadi sebuah industri, pilihan bagi seorang pemain untuk bermain pada satu klub tidak sepenuhnya ditentukan oleh uang. Sosok pelatih merupakan faktor yang tidak kalah pentingnya&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/508874/ten-hag-minta-maguire-jawab-kritik-dengan-tampil-bagus",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDg4NTUvcGVsdWFuZy1pbmR1c3RyaS1oYWxhbC1kYW4tbW9tZW50dW0ta2VtYW5kaXJpYW4tZWtvbm9taS1tZW55b25nc29uZy1zYXR1LWFiYWQtbnU=",
         "description": "SECARA historis, embrio berdirinya NU berasal dari tiga organisasi. Ketiganya bergerak dalam bidang yang berbeda. Nahdlatut Tujjar pada tahun 1918 yang bergerak dalam bidang ekonomi, Taswirul Afkar&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/508869/g20-orchestra-mereka-yang-terbaik-berkumpul-di-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwODg2OS9nMjAtb3JjaGVzdHJhLW1lcmVrYS15YW5nLXRlcmJhaWstYmVya3VtcHVsLWRpLWluZG9uZXNpYQ==",
-        "description": "Coba Anda mengetik &quot;best viola player&quot; di mesin pencari Google, maka nama Yuri Bashmet selalu keluar di halaman pertama. Sebagai yang terbaik di dunia, pemain viola dari Rusia itu tentu sangat&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/508868/ganti-komponen-power-unit-sainz-dapat-penalti-di-gp-prancis",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDg4NjgvZ2FudGkta29tcG9uZW4tcG93ZXItdW5pdC1zYWluei1kYXBhdC1wZW5hbHRpLWRpLWdwLXByYW5jaXM=",
-        "description": "PEMBALAP Ferrari Carlos Sainz akhirnya mendapat penalti mundur 10 posisi start pada Grand Prix Prancis di Sirkuit Paul Ricard, Le Castellet, Minggu (24/7). Sanksi itu didapat setelah Ferrari&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/508867/hindari-bencana-alam-bmkg-ajak-publik-jaga-kelestarian-alam",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4ODY3L2hpbmRhcmktYmVuY2FuYS1hbGFtLWJta2ctYWphay1wdWJsaWstamFnYS1rZWxlc3Rhcmlhbi1hbGFt",
-        "description": "Kepala Badan Meteorologi, Klimatologi dan Geofisika, Dwikorita Karnawati mengajak seluruh komponen masyarakat menjaga kelestarian alam supaya terhindar dari bencana alam akibat kencangnya laju perubahan&#8230;"
     }
 ]

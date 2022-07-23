@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pekan Ini Ada 2 Emiten Baru Listing dan 3 Obligasi Dicatatkan",
+        "link": "https://www.cnbcindonesia.com/market/20220723054042-17-357899/pekan-ini-ada-2-emiten-baru-listing-dan-3-obligasi-dicatatkan",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIzMDU0MDQyLTE3LTM1Nzg5OS9wZWthbi1pbmktYWRhLTItZW1pdGVuLWJhcnUtbGlzdGluZy1kYW4tMy1vYmxpZ2FzaS1kaWNhdGF0a2Fu",
+        "description": " Bursa Efek Indonesia (BEI) mencatat selama periode 18 hingga 22 Juli 2022 atau selama sepekan ini, terdapat 2 pencatatan perdana saham dan pencatatan 3 obligasi"
+    },
+    {
+        "title": "LSIP Bagikan Dividen Rp 51/Saham, Rombak Komisaris dan Direksi",
+        "link": "https://www.cnbcindonesia.com/market/20220723051622-17-357898/lsip-bagikan-dividen-rp-51-saham-rombak-komisaris-direksi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIzMDUxNjIyLTE3LTM1Nzg5OC9sc2lwLWJhZ2lrYW4tZGl2aWRlbi1ycC01MS1zYWhhbS1yb21iYWsta29taXNhcmlzLWRpcmVrc2k=",
+        "description": " PT PP London Sumatra Indonesia Tbk (LSIP) bakal membagikan dividen tunai sebesar Rp 51 per lembar saham yang akan dibayarkan pada tanggal 19 Agustus 2022"
+    },
+    {
         "title": "Saham Sosmed Berguguran, Wall Street Dibuka Variatif",
         "link": "https://www.cnbcindonesia.com/market/20220722205939-17-357884/saham-sosmed-berguguran-wall-street-dibuka-variatif",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIyMTcyMzE3LTE3LTM1Nzg0OS9icmVha2luZy1oYXJnYS1rYXJldC10ZXJlbmRhaC1kYWxhbS02LWJ1bGFu",
         "description": " Harga karet dunia jatuh ke posisi terendah dalam enam bulan terakhir"
-    },
-    {
-        "title": "Harga Nikel Bangkit dari Kubur, Lompat 1% Lebih!",
-        "link": "https://www.cnbcindonesia.com/market/20220722162413-17-357828/harga-nikel-bangkit-dari-kubur-lompat-1-lebih",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIyMTYyNDEzLTE3LTM1NzgyOC9oYXJnYS1uaWtlbC1iYW5na2l0LWRhcmkta3VidXItbG9tcGF0LTEtbGViaWg=",
-        "description": " Harga nikel dunia menguat pada perdagangan hari ini didukung oleh pasokan yang ketat"
-    },
-    {
-        "title": "Pinjol Wajib Punya Modal Minimal Rp 25 M, Ini Kata Industri",
-        "link": "https://www.cnbcindonesia.com/market/20220722170415-17-357845/pinjol-wajib-punya-modal-minimal-rp-25-m-ini-kata-industri",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIyMTcwNDE1LTE3LTM1Nzg0NS9waW5qb2wtd2FqaWItcHVueWEtbW9kYWwtbWluaW1hbC1ycC0yNS1tLWluaS1rYXRhLWluZHVzdHJp",
-        "description": " AFPI menyambut baik Peraturan Otoritas Jasa Keuangan (POJK) No. 10/POJK.05/2022 tentang Layanan Pendanaan Bersama Berbasis Teknologi Informasi"
     }
 ]
