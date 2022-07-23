@@ -1,5 +1,19 @@
 [
     {
+        "title": "Harga Rumah Seken di Medan Lebih Mahal dari Jakarta",
+        "link": "https://www.cnbcindonesia.com/market/20220723111901-17-357928/harga-rumah-seken-di-medan-lebih-mahal-dari-jakarta",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIzMTExOTAxLTE3LTM1NzkyOC9oYXJnYS1ydW1haC1zZWtlbi1kaS1tZWRhbi1sZWJpaC1tYWhhbC1kYXJpLWpha2FydGE=",
+        "description": " Pada Juli 2022, tercatat kenaikan harga rumah seken tahunan tertinggi bukan dari area Jabodetabek atau area lainnya di Pulau Jawa, melainkan di Medan."
+    },
+    {
+        "title": "Waspada Resesi, Pasar Harap BI Ambil Kebijakan Moneter Ini",
+        "link": "https://www.cnbcindonesia.com/market/20220721160147-19-357499/waspada-resesi-pasar-harap-bi-ambil-kebijakan-moneter-ini",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIxMTYwMTQ3LTE5LTM1NzQ5OS93YXNwYWRhLXJlc2VzaS1wYXNhci1oYXJhcC1iaS1hbWJpbC1rZWJpamFrYW4tbW9uZXRlci1pbmk=",
+        "description": " Waspada Resesi, Pasar Harap BI Ambil Kebijakan Moneter Ini"
+    },
+    {
         "title": "Bank Mandiri Luncurkan Fitur Livin' Sukha, Apa Itu?",
         "link": "https://www.cnbcindonesia.com/market/20220723103334-17-357925/bank-mandiri-luncurkan-fitur-livin-sukha-apa-itu",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIxMTAwMTM5LTE5LTM1NzMwOS9tYW50YW4tbWVucGVyaW4taW5pLXVzdWwtZG1vLXNhd2l0LXNldG9wLXNlbWVudGFyYS1hZGEtYXBh",
         "description": " Mantan Menperin Ini Usul DMO Sawit Setop Sementara, Ada Apa?"
-    },
-    {
-        "title": "Kapitalisasi Pasar Bursa Kembali Sentuh Rp 9.000 Triliun",
-        "link": "https://www.cnbcindonesia.com/market/20220723055954-17-357900/kapitalisasi-pasar-bursa-kembali-sentuh-rp-9000-triliun",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIzMDU1OTU0LTE3LTM1NzkwMC9rYXBpdGFsaXNhc2ktcGFzYXItYnVyc2Eta2VtYmFsaS1zZW50dWgtcnAtOTAwMC10cmlsaXVu",
-        "description": " Kapitalisasi pasar Bursa selama sepekan ini dapat kembali menyentuh angka Rp 9.067,935 triliun atau meningkat 3,37% dari Rp 8.772,665 triliun pekan sebelumnya"
-    },
-    {
-        "title": "Pekan Ini Ada 2 Emiten Baru Listing dan 3 Obligasi Dicatatkan",
-        "link": "https://www.cnbcindonesia.com/market/20220723054042-17-357899/pekan-ini-ada-2-emiten-baru-listing-dan-3-obligasi-dicatatkan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzIzMDU0MDQyLTE3LTM1Nzg5OS9wZWthbi1pbmktYWRhLTItZW1pdGVuLWJhcnUtbGlzdGluZy1kYW4tMy1vYmxpZ2FzaS1kaWNhdGF0a2Fu",
-        "description": " Bursa Efek Indonesia (BEI) mencatat selama periode 18 hingga 22 Juli 2022 atau selama sepekan ini, terdapat 2 pencatatan perdana saham dan pencatatan 3 obligasi"
     }
 ]
