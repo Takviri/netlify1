@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/508876/timnas-swedia-melaju-ke-semifinal-piala-eropa-putri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwODg3Ni90aW1uYXMtc3dlZGlhLW1lbGFqdS1rZS1zZW1pZmluYWwtcGlhbGEtZXJvcGEtcHV0cmk=",
+        "description": "GOL Linda Sembrant di menit babak tambahan membawa Swedia menang 1-0 atas Belgia. Hal itu membuat Timnas Swedia meneguhkan langkah ke semifinal Piala Eropa Putri 2022 melawan tuan rumah Inggris, Selasa&#8230;"
+    },
+    {
         "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/508827/tanda-mata-untuk-mona-lohanda",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDg4NTYva2VkYXVsYXRhbi1kaWdpdGFsLWRhbi1yZXB1dGFzaS1uZWdhcmE=",
         "description": "KEBIJAKAN Kementerian Komunikasi dan Informatika (Kemenkominfo) yang mewajibkan perusahaan teknologi informasi, baik asing maupun lokal, mendaftar ke negara sebagai penyelenggara sistem elektronik&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/508855/peluang-industri-halal-dan-momentum-kemandirian-ekonomi-menyongsong-satu-abad-nu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDg4NTUvcGVsdWFuZy1pbmR1c3RyaS1oYWxhbC1kYW4tbW9tZW50dW0ta2VtYW5kaXJpYW4tZWtvbm9taS1tZW55b25nc29uZy1zYXR1LWFiYWQtbnU=",
-        "description": "SECARA historis, embrio berdirinya NU berasal dari tiga organisasi. Ketiganya bergerak dalam bidang yang berbeda. Nahdlatut Tujjar pada tahun 1918 yang bergerak dalam bidang ekonomi, Taswirul Afkar&#8230;"
     }
 ]
