@@ -1,6 +1,20 @@
 [
     {
         "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508896/parpol-sudah-boleh-sosialisasi-visi-misi-program-tapi-jangan-kampanye",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDg4OTYvcGFycG9sLXN1ZGFoLWJvbGVoLXNvc2lhbGlzYXNpLXZpc2ktbWlzaS1wcm9ncmFtLXRhcGktamFuZ2FuLWthbXBhbnll",
+        "description": "PENDAFTARAN partai politik (parpol) calon peserta pemilu akan dibuka 1 Agustus 2022. Partai politik diperkenankan melakukan sosialisasi kepada masyarakat jelang Pemilu serentak 2024. Namun, Ketua Badan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/508905/tim-jumbo-visma-semakin-mendominasi-tour-de-france",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDg5MDUvdGltLWp1bWJvLXZpc21hLXNlbWFraW4tbWVuZG9taW5hc2ktdG91ci1kZS1mcmFuY2U=",
+        "description": "TIM Jumbo-Visma semakin mendominasi Tour de France tahun ini usai kemenangan pembalap Prancis Christophe Laporte di etape ke-19, Jum'at (22/7) waktu setempat. Prestasi itu membuat pendukung tuan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/508898/pdip-tidak-akan-intervensi-presiden-soal-menpan-rb",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDg4OTgvcGRpcC10aWRhay1ha2FuLWludGVydmVuc2ktcHJlc2lkZW4tc29hbC1tZW5wYW4tcmI=",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDg4OTQvdHJhbnNwYXJhbnNpLWthc3VzLXBlbmVtYmFrYW4tYnJpZ2FkaXItai11amlhbi1wcm9ncmFtLXByZXNpc2k=",
         "description": "Langit mendung yang tengah menyelimuti kawasan Trunojoyo seperti belum ingin beranjak pergi. Menyebut kawasan Trunojoyo ini sesungguhnya untuk mengatakan di situlah letak Markas&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/508893/dari-evaluasi-kajari-denpasar-sebut-berkinerja-positif",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4ODkzL2RhcmktZXZhbHVhc2kta2FqYXJpLWRlbnBhc2FyLXNlYnV0LWJlcmtpbmVyamEtcG9zaXRpZg==",
-        "description": "KEPALA Kejaksaan Negeri (Kajari) Denpasar, Bali, Yuliana Sagala menyampaikan hasil evaluasi kinerja dan penyelesaian kasus hukum selama setahun terhitung sejak 21 Juli 2021 hingga 21 Juli 2022. Hasilnya&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/508892/aksi-kecil-untuk-dampak-besar-dari-30-tahun-the-body-shop-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4ODkyL2Frc2kta2VjaWwtdW50dWstZGFtcGFrLWJlc2FyLWRhcmktMzAtdGFodW4tdGhlLWJvZHktc2hvcC1pbmRvbmVzaWE=",
-        "description": "The Body Shop merayakan 30 tahun kehadirannya di Indonesia pada Kamis (21/7). Mereka telah melakukan berbagai aksi kecil yang berdampak besar di Indonesia dalam menjadikan bumi lebih indah dan layak.&#8230;"
     }
 ]
