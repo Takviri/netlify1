@@ -1,5 +1,47 @@
 [
     {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/508917/ini-kebiasaan-minum-kopi-yang-salah-menurut-sains",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwODkxNy9pbmkta2ViaWFzYWFuLW1pbnVtLWtvcGkteWFuZy1zYWxhaC1tZW51cnV0LXNhaW5z",
+        "description": "Ada banyak manfaat kesehatan dari minum kopi secara teratur. Tetapi jika tidak berhati-hati dengan kebiasaan itu, secangkir kopi mungkin berbahaya bagi kesehatan Anda. Penelitian juga mempelajari kebiasaan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508923/pengacara-roy-suryo-ungkap-kesehatan-kliennya-mengalami-penurunan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDg5MjMvcGVuZ2FjYXJhLXJveS1zdXJ5by11bmdrYXAta2VzZWhhdGFuLWtsaWVubnlhLW1lbmdhbGFtaS1wZW51cnVuYW4=",
+        "description": "PENGACARA mantan Menteri Pemuda dan Olahraga Roy Suryo, Elza Syarief, menerangkan kesehatan kliennya saat ini mengalami penurunan setelah ditetapkan sebagai tersangka oleh Polda Metro Jaya pada Jumat&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/508921/longi-gandeng-utomo-solaruv-garap-pemanfaatan-plts-atap-di-tanah-air",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4OTIxL2xvbmdpLWdhbmRlbmctdXRvbW8tc29sYXJ1di1nYXJhcC1wZW1hbmZhYXRhbi1wbHRzLWF0YXAtZGktdGFuYWgtYWly",
+        "description": "INDONESIA mempunyai peranan yang sangat besar dalam transisi energi dari energi fosil ke energi bersih. Pemanfaatan Pembangkit Listrik Tenaga Surya (PLTS) Atap menjadi salah satu strategi pemerintah&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/508920/hut-ke-114-grand-inna-malioboro-gelar-reresik-neng-kali-code-dan-lomba-mancing",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4OTIwL2h1dC1rZS0xMTQtZ3JhbmQtaW5uYS1tYWxpb2Jvcm8tZ2VsYXItcmVyZXNpay1uZW5nLWthbGktY29kZS1kYW4tbG9tYmEtbWFuY2luZw==",
+        "description": "DALAM rangka Anniversary ke 114 tahun, Grand Inna Malioboro mengadakan Reresik, dan Lomba Mancing Neng Kali Code. Kegiatan ini merupakan ketiga kalinya yang sebelumnya dilaksanakan pada tahun 2017,&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/508919/menkes-tahun-depan-10-persen-apbd-wajib-dialokasikan-untuk-kesehatan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4OTE5L21lbmtlcy10YWh1bi1kZXBhbi0xMC1wZXJzZW4tYXBiZC13YWppYi1kaWFsb2thc2lrYW4tdW50dWsta2VzZWhhdGFu",
+        "description": "KEMENTERIAN Kesehatan telah menjajaki kerja sama dengan Kementerian Pendidikan dan Kebudayaan untuk menambah jumlah fakultas kedokteran dan meningkatkan produksi tenaga kesehatan. Penambahan ini sebagai&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/508916/kasus-kekerasan-anak-sebagai-dampak-etik-media-digital",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4OTE2L2thc3VzLWtla2VyYXNhbi1hbmFrLXNlYmFnYWktZGFtcGFrLWV0aWstbWVkaWEtZGlnaXRhbA==",
+        "description": "PAKAR pendidikan Universitas Gadjah Mada (UGM) Prof. Agus Sartono mengungkapkan saat ini banyak terjadi kasus kekerasan di lingkungan anak-anak. Mereka mempraktikkan tindak kekerasan terhadap teman&#8230;"
+    },
+    {
         "title": "Megapolitan",
         "link": "https://m.mediaindonesia.com/megapolitan/508902/presiden-asal-sesuai-aturan-citayam-fashion-week-tak-dilarang",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA4OTE1L3NlbWVuLWdyZXNpay1kdWt1bmctcGVuZ2VtYmFuZ2FuLWtsYXN0ZXItamFndW5nLWRpLXJlbWJhbmc=",
         "description": "&nbsp; PT SEMEN Gresik (PTSG) mendukung PT Semen Indonesia (Persero) Tbk (SIG) dalam memfasilitasi petani dan pelaku usaha untuk pengembangan rantai pasok dari hulu hingga hilir potensi&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/508912/garcia-leon-kembali-raih-medali-emas-pada-kejuaraan-dunia-di-eugene",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDg5MTIvZ2FyY2lhLWxlb24ta2VtYmFsaS1yYWloLW1lZGFsaS1lbWFzLXBhZGEta2VqdWFyYWFuLWR1bmlhLWRpLWV1Z2VuZQ==",
-        "description": "ATLET asal Peru Kimberly Garcia Leon kembali meraih medali emas dari Kejuaraan Atletik Dunia di Eugene, Jumat (22/7) waktu setempat setelah menjadi yang terbaik dalam nomor 35 km. Ini adalah emas kedua&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/508910/sig-gelar-pasar-murah-di-rembang-5000-paket-sembako-terjual-habis",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwODkxMC9zaWctZ2VsYXItcGFzYXItbXVyYWgtZGktcmVtYmFuZy01MDAwLXBha2V0LXNlbWJha28tdGVyanVhbC1oYWJpcw==",
-        "description": "PT Semen Indonesia (Persero) Tbk (SIG) bekerja sama dengan Kementerian Badan Usaha Milik Negara (BUMN) menggelar pasar murah dan bazar UMKM di Rembang, Jawa Tengah, untuk membantu memenuhi kebutuhan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/508909/kpai-perlu-adanya-kedaulatan-digital-untuk-keamanan-anak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA4OTA5L2twYWktcGVybHUtYWRhbnlhLWtlZGF1bGF0YW4tZGlnaXRhbC11bnR1ay1rZWFtYW5hbi1hbmFr",
-        "description": "ANGGOTA Komisi Perlindungan Anak Indonesia, Jasra Putra, mengingatkan agar pemerintah segera membuat sistem daulat digital untuk keamanan dan keselamatan anak.&nbsp; Menurut dia, pemerintah&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/508908/polri-belum-tetapkan-tersangka-penembakan-di-rumah-irjen-sambo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDg5MDgvcG9scmktYmVsdW0tdGV0YXBrYW4tdGVyc2FuZ2thLXBlbmVtYmFrYW4tZGktcnVtYWgtaXJqZW4tc2FtYm8=",
-        "description": "DIREKTORAT Tindak Pidana Umum (Dittipidum) Bareskrim Polri merespons klaim kuasa hukum keluarga Brigadir Nopryansah Yosua Hutabarat (J), Kamaruddin Simanjuntak. Ia mengantongi inisial tersangka kasus&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/508896/parpol-sudah-boleh-sosialisasi-visi-misi-program-tapi-jangan-kampanye",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDg4OTYvcGFycG9sLXN1ZGFoLWJvbGVoLXNvc2lhbGlzYXNpLXZpc2ktbWlzaS1wcm9ncmFtLXRhcGktamFuZ2FuLWthbXBhbnll",
-        "description": "PENDAFTARAN partai politik (parpol) calon peserta pemilu akan dibuka 1 Agustus 2022. Partai politik diperkenankan melakukan sosialisasi kepada masyarakat jelang Pemilu serentak 2024. Namun, Ketua Badan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/508905/tim-jumbo-visma-semakin-mendominasi-tour-de-france",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDg5MDUvdGltLWp1bWJvLXZpc21hLXNlbWFraW4tbWVuZG9taW5hc2ktdG91ci1kZS1mcmFuY2U=",
-        "description": "TIM Jumbo-Visma semakin mendominasi Tour de France tahun ini usai kemenangan pembalap Prancis Christophe Laporte di etape ke-19, Jum'at (22/7) waktu setempat. Prestasi itu membuat pendukung tuan&#8230;"
     }
 ]
