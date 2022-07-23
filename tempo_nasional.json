@@ -1,5 +1,12 @@
 [
     {
+        "title": "Jangan Asal, Berikut Aturan Menerbangkan Drone",
+        "link": "https://nasional.tempo.co/read/1615079/jangan-asal-berikut-aturan-menerbangkan-drone",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUwNzkvamFuZ2FuLWFzYWwtYmVyaWt1dC1hdHVyYW4tbWVuZXJiYW5na2FuLWRyb25l",
+        "description": "Kendati drone boleh digunakan selain insan militer, tetapi masyarakat tak diperkenankan sembarangan menerbangkan pesawat tanpa awak tersebut."
+    },
+    {
         "title": "Video Viral Pabrik Pupuk Kaltim Meledak, Warga Menduga Asap  Mengadung Racun",
         "link": "https://nasional.tempo.co/read/1615072/video-viral-pabrik-pupuk-kaltim-meledak-warga-menduga-asapmengadung-racun",
         "image": "static/images/tempo_nasional.png",
@@ -28,6 +35,13 @@
         "description": "Jokowi meminta agar para pelaku kekerasan terhadap anak diberikan hukuman yang keras agar peristiwa serupa tidak terulang kembali."
     },
     {
+        "title": "Mensos Risma Dukung Pemberdayaan Ekonomi di Papua",
+        "link": "https://nasional.tempo.co/read/1615076/mensos-risma-dukung-pemberdayaan-ekonomi-di-papua",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUwNzYvbWVuc29zLXJpc21hLWR1a3VuZy1wZW1iZXJkYXlhYW4tZWtvbm9taS1kaS1wYXB1YQ==",
+        "description": "Potensi UMKM yang memasarkan makanan lokal, seperti sagu, singkong dan minyak VCO terlihat di Biak."
+    },
+    {
         "title": "Anak Korban Bullying Meninggal, Jokowi Singgung Tanggung Jawab Semua Pihak",
         "link": "https://nasional.tempo.co/read/1615040/anak-korban-bullying-meninggal-jokowi-singgung-tanggung-jawab-semua-pihak",
         "image": "static/images/tempo_nasional.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUwMjQvMS0wMjgtYW5hay10ZXJpbWEtcmVtaXNpLWRpLXBlcmluZ2F0YW4taGFyaS1hbmFrLW5hc2lvbmFsLTIwMjI=",
         "description": "Dari jumlah tersebut, 998 anak mendapatkan Remisi Hari Anak Nasional (RAN) I atau pengurangan sebagian hukuman."
-    },
-    {
-        "title": "Pimpinan Ogah Tangani Kasus Lili Pintauli, IM57: KPK Pernah Tangani Robin Pattuju",
-        "link": "https://nasional.tempo.co/read/1615017/pimpinan-ogah-tangani-kasus-lili-pintauli-im57-kpk-pernah-tangani-robin-pattuju",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUwMTcvcGltcGluYW4tb2dhaC10YW5nYW5pLWthc3VzLWxpbGktcGludGF1bGktaW01Ny1rcGstcGVybmFoLXRhbmdhbmktcm9iaW4tcGF0dHVqdQ==",
-        "description": "Kata Praswad, keengganan KPK menangani kasus Lili Pintauli merupakan bentuk dari sikap lembaga yang enggan melakukan pembenahan internal."
-    },
-    {
-        "title": "21 Tahun Lalu Megawati Soekarnoputri Dilantik sebagai Presiden RI ke-5, Setelah Gus Dur Diberhentikan MPR",
-        "link": "https://nasional.tempo.co/read/1615013/21-tahun-lalu-megawati-soekarnoputri-dilantik-sebagai-presiden-ri-ke-5-setelah-gus-dur-diberhentikan-mpr",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUwMTMvMjEtdGFodW4tbGFsdS1tZWdhd2F0aS1zb2VrYXJub3B1dHJpLWRpbGFudGlrLXNlYmFnYWktcHJlc2lkZW4tcmkta2UtNS1zZXRlbGFoLWd1cy1kdXItZGliZXJoZW50aWthbi1tcHI=",
-        "description": "Pada 23 Juli 2021, Megawati Soekarnoputri dilantik menjadi Presiden RI ke-5 menggantikan Abdurrahman Wahid, setelah Gus Dur dilengserkan MPR."
     }
 ]
