@@ -1,6 +1,13 @@
 [
     {
         "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/509034/kuasa-hukum-temukan-jejak-elektronik-ancaman-pembunuhan-brigadir-j",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5MDM0L2t1YXNhLWh1a3VtLXRlbXVrYW4tamVqYWstZWxla3Ryb25pay1hbmNhbWFuLXBlbWJ1bnVoYW4tYnJpZ2FkaXItag==",
+        "description": "PENGACARA keluarga Brigadir Nopriansyah Josua Hutabarat, Kamaruddin Simanjuntak, mengakui pihaknya telah menemukan jejak elektronik dugaan pembunuhan terencana terhadap Yoshua. &quot;Satu hal&#8230;"
+    },
+    {
+        "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/509030/tim-gabungan-tni-polri-masih-memburu-kopda-m",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5MDMwL3RpbS1nYWJ1bmdhbi10bmktcG9scmktbWFzaWgtbWVtYnVydS1rb3BkYS1t",
@@ -43,9 +50,9 @@
     },
     {
         "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509024/obor-api-apg-xi-solo-mulai-dikirab-dari-lokasi-abadi-mrapen",
+        "link": "https://m.mediaindonesia.com/olahraga/509024/obor-apg-xi-solo-mulai-dikirab-dari-lokasi-api-abadi-mrapen",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkwMjQvb2Jvci1hcGktYXBnLXhpLXNvbG8tbXVsYWktZGlraXJhYi1kYXJpLWxva2FzaS1hYmFkaS1tcmFwZW4=",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkwMjQvb2Jvci1hcGcteGktc29sby1tdWxhaS1kaWtpcmFiLWRhcmktbG9rYXNpLWFwaS1hYmFkaS1tcmFwZW4=",
         "description": "PAWAI atau estafet obor (torch relay) ASEAN Para Games (APG) XI 2022 di Kota Surakarta telah dimulai dari pengambilan api abadi di Mrapen, Grobogan, Jawa Tengah, Sabtu (23/7) pagi. Dari&#8230;"
     },
     {
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTAxOS9tYWR1cmEtdW5pdGVkLWN1a3VyLWJhcml0by1wdXRlcmEtOC0w",
         "description": "MADURA United FC pesta gol setelah mengalahkan Barito Putera dengan skor telak 8-0 pada laga perdana Liga 1 2022/2023 yang berlangsung di Stadion Gelora Madura Ratu Pamelingan, Madura, Sabtu (23/7).&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/509018/pembunuh-istri-siri-di-sidoarjo-diringkus-polisi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5MDE4L3BlbWJ1bnVoLWlzdHJpLXNpcmktZGktc2lkb2Fyam8tZGlyaW5na3VzLXBvbGlzaQ==",
-        "description": "SEMPAT melarikan diri selama sepekan, aparat Reskrim Polresta Sidoarjo akhirnya berhasil meringkus Asif Junaedin, 52, pelaku pembunuhan istri sirinya sendiri Suwiarsih, 39. Pelaku ditangkap di sebuah&#8230;"
     }
 ]
