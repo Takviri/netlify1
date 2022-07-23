@@ -1,5 +1,26 @@
 [
     {
+        "title": "Pesan Jokowi di HAN 2022: Anak Tumbuh sebagai Manusia Berjiwa Merdeka",
+        "link": "https://www.cnnindonesia.com/nasional/20220723110828-20-825161/pesan-jokowi-di-han-2022-anak-tumbuh-sebagai-manusia-berjiwa-merdeka",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMzExMDgyOC0yMC04MjUxNjEvcGVzYW4tam9rb3dpLWRpLWhhbi0yMDIyLWFuYWstdHVtYnVoLXNlYmFnYWktbWFudXNpYS1iZXJqaXdhLW1lcmRla2E=",
+        "description": " Jokowi memberikan pesan di Hari Anak Nasional 2022 di akun instagramnya. Ia berharap anak-anak bisa dipastikan tetap terlindungi dan terpenuhi haknya."
+    },
+    {
+        "title": "Prarekonstruksi di Rumah Ferdy Sambo, Inafis-Puslabfor Diturunkan",
+        "link": "https://www.cnnindonesia.com/nasional/20220723112850-12-825164/prarekonstruksi-di-rumah-ferdy-sambo-inafis-puslabfor-diturunkan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMzExMjg1MC0xMi04MjUxNjQvcHJhcmVrb25zdHJ1a3NpLWRpLXJ1bWFoLWZlcmR5LXNhbWJvLWluYWZpcy1wdXNsYWJmb3ItZGl0dXJ1bmthbg==",
+        "description": " Prarekonstruksi di kediaman Irjen Ferdy Sambo merupakan lanjutan dari prarekonstruksi yang digelar tadi malam di Polda Metro Jaya."
+    },
+    {
+        "title": "Penembakan Istri TNI, Tim Fokus Cari Suami Korban yang Diduga Terlibat",
+        "link": "https://www.cnnindonesia.com/nasional/20220723104203-12-825157/penembakan-istri-tni-tim-fokus-cari-suami-korban-yang-diduga-terlibat",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMzEwNDIwMy0xMi04MjUxNTcvcGVuZW1iYWthbi1pc3RyaS10bmktdGltLWZva3VzLWNhcmktc3VhbWkta29yYmFuLXlhbmctZGlkdWdhLXRlcmxpYmF0",
+        "description": " Kopral Dua (Kopda) Muslimin, suami korban penembakan, Rina Wulandari saat ini masih belum diketahui keberadaanya. Ia diduga terlibat dalam kasus tersebut."
+    },
+    {
         "title": "Hari Anak Nasional 2022, 1.028 Anak Terima Remisi",
         "link": "https://www.cnnindonesia.com/nasional/20220723102637-20-825142/hari-anak-nasional-2022-1028-anak-terima-remisi",
         "image": "static/images/cnn_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMjE3MjAyOC0xMi04MjQ5NzAva2VsdWFyZ2EtYnJpZ2FkaXItai1rZW1iYWxpLXNlbnRpbC1rYXBvbGRhLW1ldHJvLWpheWE=",
         "description": " Kadiv Humas Polri Irjen Dedi Prasetyo mengatakan semakin cepat proses autopsi jenazah Brigadir J dilakukan maka akan jauh lebih baik."
-    },
-    {
-        "title": "Ramai-ramai Citayam Fashion Week Disebut Polisi Langgar UU Lalu Lintas",
-        "link": "https://www.cnnindonesia.com/nasional/20220421022124-20-787562/ramai-ramai-citayam-fashion-week-disebut-polisi-langgar-uu-lalu-lintas",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDQyMTAyMjEyNC0yMC03ODc1NjIvcmFtYWktcmFtYWktY2l0YXlhbS1mYXNoaW9uLXdlZWstZGlzZWJ1dC1wb2xpc2ktbGFuZ2dhci11dS1sYWx1LWxpbnRhcw==",
-        "description": " Kerumunan remaja di sekitar Dukuh Atas, Jakarta Pusat, terus menjadi sorotan publik hingga polisi menilai kegiatan mereka melanggar UU lalu lintas."
-    },
-    {
-        "title": "Fakta-fakta Bocah Tasikmalaya Jadi Korban Bully, Depresi, Hingga Wafat",
-        "link": "https://www.cnnindonesia.com/nasional/20220722210222-20-825078/fakta-fakta-bocah-tasikmalaya-jadi-korban-bully-depresi-hingga-wafat",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMjIxMDIyMi0yMC04MjUwNzgvZmFrdGEtZmFrdGEtYm9jYWgtdGFzaWttYWxheWEtamFkaS1rb3JiYW4tYnVsbHktZGVwcmVzaS1oaW5nZ2Etd2FmYXQ=",
-        "description": " Kumpulan fakta dan keterangan terbaru terkait kasus perundungan bocah oleh teman sebaya yang berujung depresi hingga kematian di Tasikmalaya."
-    },
-    {
-        "title": "INFOGRAFIS: Daftar 'Followers' Parpol Terbanyak di Media Sosial",
-        "link": "https://www.cnnindonesia.com/nasional/20220722131639-35-824819/infografis-daftar-followers-parpol-terbanyak-di-media-sosial",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyMjEzMTYzOS0zNS04MjQ4MTkvaW5mb2dyYWZpcy1kYWZ0YXItZm9sbG93ZXJzLXBhcnBvbC10ZXJiYW55YWstZGktbWVkaWEtc29zaWFs",
-        "description": " Gerindra memiliki pengikut paling banyak di tiga platform media sosial dibanding partai politik lainnya."
     }
 ]
