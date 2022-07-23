@@ -1,5 +1,26 @@
 [
     {
+        "title": "Autopsi Ulang Brigadir J Akan Dilakukan Awal Pekan Depan",
+        "link": "https://nasional.tempo.co/read/1615105/autopsi-ulang-brigadir-j-akan-dilakukan-awal-pekan-depan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUxMDUvYXV0b3BzaS11bGFuZy1icmlnYWRpci1qLWFrYW4tZGlsYWt1a2FuLWF3YWwtcGVrYW4tZGVwYW4=",
+        "description": "Autopsi ulang Brigadir J dipastikan akan dilakukan pada awal pekan depan."
+    },
+    {
+        "title": "Inilah 3 Tempat yang Dilarang Menerbangkan Drone",
+        "link": "https://nasional.tempo.co/read/1615093/inilah-3-tempat-yang-dilarang-menerbangkan-drone",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUwOTMvaW5pbGFoLTMtdGVtcGF0LXlhbmctZGlsYXJhbmctbWVuZXJiYW5na2FuLWRyb25l",
+        "description": "Menerbangkan drone tak boleh sembarangan. Berikut sejumlah tempat yang dilarang menerbangkan drone."
+    },
+    {
+        "title": "Pengacara Keluarga Brigadir Yosua Temukan Jejak Digital Ancaman Pembunuhan",
+        "link": "https://nasional.tempo.co/read/1615102/pengacara-keluarga-brigadir-yosua-temukan-jejak-digital-ancaman-pembunuhan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUxMDIvcGVuZ2FjYXJhLWtlbHVhcmdhLWJyaWdhZGlyLXlvc3VhLXRlbXVrYW4tamVqYWstZGlnaXRhbC1hbmNhbWFuLXBlbWJ1bnVoYW4=",
+        "description": "Pengacara keluarga Brigadir Yosua menyatakan bahwa ancaman pembunuhan sudah dilakukan sejak bulan lalu."
+    },
+    {
         "title": "Rina Wulandari, Istri TNI Korban Penembakan di Semarang, Dirujuk ke RSUP Kariadi karena Kondisi Menurun",
         "link": "https://nasional.tempo.co/read/1615095/rina-wulandari-istri-tni-korban-penembakan-di-semarang-dirujuk-ke-rsup-kariadi-karena-kondisi-menurun",
         "image": "static/images/tempo_nasional.png",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUwNTIva3BhaS11bmdrYXAtYWRhLTEyLWthc3VzLWtla2VyYXNhbi1zZWtzdWFsLWFuYWstc2VwYW5qYW5nLWphbnVhcmktanVsaS0yMDIy",
         "description": "Retno menyebut, jumlah korban kekerasan seksual itu berjumlah 52 anak, dengan rincian 16 anak laki-laki dan 36 anak perempuan."
-    },
-    {
-        "title": "Jokowi Minta Penegakan Hukum yang Tegas dalam Kasus Kekerasan terhadap Anak",
-        "link": "https://nasional.tempo.co/read/1615047/jokowi-minta-penegakan-hukum-yang-tegas-dalam-kasus-kekerasan-terhadap-anak",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUwNDcvam9rb3dpLW1pbnRhLXBlbmVnYWthbi1odWt1bS15YW5nLXRlZ2FzLWRhbGFtLWthc3VzLWtla2VyYXNhbi10ZXJoYWRhcC1hbmFr",
-        "description": "Jokowi meminta agar para pelaku kekerasan terhadap anak diberikan hukuman yang keras agar peristiwa serupa tidak terulang kembali."
-    },
-    {
-        "title": "Mensos Risma Dukung Pemberdayaan Ekonomi di Papua",
-        "link": "https://nasional.tempo.co/read/1615076/mensos-risma-dukung-pemberdayaan-ekonomi-di-papua",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUwNzYvbWVuc29zLXJpc21hLWR1a3VuZy1wZW1iZXJkYXlhYW4tZWtvbm9taS1kaS1wYXB1YQ==",
-        "description": "Potensi UMKM yang memasarkan makanan lokal, seperti sagu, singkong dan minyak VCO terlihat di Biak."
-    },
-    {
-        "title": "Anak Korban Bullying Meninggal, Jokowi Singgung Tanggung Jawab Semua Pihak",
-        "link": "https://nasional.tempo.co/read/1615040/anak-korban-bullying-meninggal-jokowi-singgung-tanggung-jawab-semua-pihak",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUwNDAvYW5hay1rb3JiYW4tYnVsbHlpbmctbWVuaW5nZ2FsLWpva293aS1zaW5nZ3VuZy10YW5nZ3VuZy1qYXdhYi1zZW11YS1waWhhaw==",
-        "description": "Menurut Jokowi, peristiwa bullying ini merupakan tanggung jawab semua pihak. Ia berharap peristiwa serupa tidak terulang lagi."
     }
 ]
