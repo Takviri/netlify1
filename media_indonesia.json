@@ -1,5 +1,26 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509039/layanan-bach-flower-terobosan-baru-dalam-dunia-psikologi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MDM5L2xheWFuYW4tYmFjaC1mbG93ZXItdGVyb2Jvc2FuLWJhcnUtZGFsYW0tZHVuaWEtcHNpa29sb2dp",
+        "description": "RISET Kesehatan Dasar (Riskesdas) 2018 menunjukkan lebih dari 19 juta penduduk berusia lebih dari 15 tahun mengalami gangguan&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/509017/sudoku-edisi-24-juli-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwOTAxNy9zdWRva3UtZWRpc2ktMjQtanVsaS0yMDIy",
+        "description": "SUDOKU atau dikenal juga dengan tebak angka (number place)"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/509051/musetti-melaju-ke-final-atp-pertamanya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkwNTEvbXVzZXR0aS1tZWxhanUta2UtZmluYWwtYXRwLXBlcnRhbWFueWE=",
+        "description": "PETENIS muda Italia Lorenzo Musetti melaju ke final turnamen ATP pertamanya, Sabtu (23/7), usai menang straight set atas Francisco&#8230;"
+    },
+    {
         "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/509016/jon-bodo-jakarta-banjir",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwOTAzMS9ha2V5bGEtbmFyYXlhLWFseWFuZGluYS1kaS1iYWxpay1zdWtzZXNueWEtYW5hay1iZXJiYWthdA==",
         "description": "DI masyarakat, tidak sedikit yang meyakini jika anak yang lahir dari keluarga berada secara umum akan lebih cerdas daripada anak-anak yang lahir dari keluarga prasejahtera. Selain itu, ada orang yang&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/509021/dunia-digital-dan-kekerasan-anak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDkwMjEvZHVuaWEtZGlnaXRhbC1kYW4ta2VrZXJhc2FuLWFuYWs=",
-        "description": "DULU, sewaktu kecil, saya punya teman yang nakalnya minta ampun. Dia bahkan pernah dimasukkan ke karung oleh orangtuanya lantaran kedapatan mencuri di warung tetangga. Mungkin saking malunya, orangtua&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509038/polisi-akan-kembali-periksa-roy-suryo-pekan-depan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkwMzgvcG9saXNpLWFrYW4ta2VtYmFsaS1wZXJpa3NhLXJveS1zdXJ5by1wZWthbi1kZXBhbg==",
-        "description": "POLDA Metro Jaya menjadwalkan pemeriksaan lanjutan terhadap Roy Suryo sebagai tersangka kasus meme stupa Candi Borobudur pada Kamis&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509040/vingegaard-di-ambang-juara-tour-de-france",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkwNDAvdmluZ2VnYWFyZC1kaS1hbWJhbmctanVhcmEtdG91ci1kZS1mcmFuY2U=",
-        "description": "JONAS Vingegaard finis di urutan kedua di etape 20, yang berupa individual time trial, di ajang Tour de France sehingga di&#8230;"
     }
 ]
