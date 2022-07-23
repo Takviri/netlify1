@@ -1,5 +1,12 @@
 [
     {
+        "title": "Kasus Covid Nanjak Lagi, Bertambah 4.943 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220723193030-16-357999/kasus-covid-nanjak-lagi-bertambah-4943-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMzE5MzAzMC0xNi0zNTc5OTkva2FzdXMtY292aWQtbmFuamFrLWxhZ2ktYmVydGFtYmFoLTQ5NDMtaGFyaS1pbmk=",
+        "description": " Kasus konfirmasi harian Covid-19 kembali naik menjadi 4.943 kasus."
+    },
+    {
         "title": "Jangan Kaget! Rusia Ungkap Siapa Untung dari Perang Ukraina",
         "link": "https://www.cnbcindonesia.com/news/20220723170050-4-357991/jangan-kaget-rusia-ungkap-siapa-untung-dari-perang-ukraina",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMzE1MTE1Mi00LTM1Nzk2OS9taXN0ZXJpLWtlc2VoYXRhbi1wcmVzaWRlbi1ydXNpYS1wdXRpbi1iYWlrLWJhaWstc2FqYQ==",
         "description": " Putin sempat dilaporkan telah melakukan beberapa tindakan terkait kesehatan."
-    },
-    {
-        "title": "Jokowi di Hari Anak Nasional: Rajin Belajar dan Jaga Kesehatan",
-        "link": "https://www.cnbcindonesia.com/news/20220723141046-7-357955/jokowi-di-hari-anak-nasional-rajin-belajar-jaga-kesehatan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMzE0MTA0Ni03LTM1Nzk1NS9qb2tvd2ktZGktaGFyaS1hbmFrLW5hc2lvbmFsLXJhamluLWJlbGFqYXItamFnYS1rZXNlaGF0YW4=",
-        "description": " Peringatan puncak HAN tahun ini digelar mengusung konsep edu ekowisata dengan disediakan zona aktivasi anak yang terdiri dari 11 stan area edukasi untuk anak."
     }
 ]
