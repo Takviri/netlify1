@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kasus Baru Covid di RI Naik Lagi, Bertambah 4.943 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220723174558-4-357992/kasus-baru-covid-di-ri-naik-lagi-bertambah-4943-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMzE3NDU1OC00LTM1Nzk5Mi9rYXN1cy1iYXJ1LWNvdmlkLWRpLXJpLW5haWstbGFnaS1iZXJ0YW1iYWgtNDk0My1oYXJpLWluaQ==",
+        "description": " Kasus konfirmasi harian Covid-19 kembali naik menjadi 4.943 kasus."
+    },
+    {
+        "title": "Misteri Kesehatan Presiden Rusia, Putin Baik-Baik Saja?",
+        "link": "https://www.cnbcindonesia.com/news/20220723151152-4-357969/misteri-kesehatan-presiden-rusia-putin-baik-baik-saja",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMzE1MTE1Mi00LTM1Nzk2OS9taXN0ZXJpLWtlc2VoYXRhbi1wcmVzaWRlbi1ydXNpYS1wdXRpbi1iYWlrLWJhaWstc2FqYQ==",
+        "description": " Putin sempat dilaporkan telah melakukan beberapa tindakan terkait kesehatan."
+    },
+    {
         "title": "Jokowi di Hari Anak Nasional: Rajin Belajar dan Jaga Kesehatan",
         "link": "https://www.cnbcindonesia.com/news/20220723141046-7-357955/jokowi-di-hari-anak-nasional-rajin-belajar-jaga-kesehatan",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMzEyNDMyOS03LTM1NzkzOC9rZi0yMS1qZXQtdGVtcHVyLXJpLWtvcnNlbC1zZWphay1kaXJha2l0LWhpbmdnYS10ZXJiYW5n",
         "description": " Menurut Korea Aerospace Industries Ltd (KAI), KF-21 Boramae bisa mencapai kecepatan maksimal 22 ribu km per jam atau sekitar Mach 2."
-    },
-    {
-        "title": "Rusia Dituding Gondol Baja Dari Ukraina Senilai Rp 9T",
-        "link": "https://www.cnbcindonesia.com/news/20220722200448-8-357882/rusia-dituding-gondol-baja-dari-ukraina-senilai-rp-9t",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMjIwMDQ0OC04LTM1Nzg4Mi9ydXNpYS1kaXR1ZGluZy1nb25kb2wtYmFqYS1kYXJpLXVrcmFpbmEtc2VuaWxhaS1ycC05dA==",
-        "description": " Metinvest perusahaan berbasis mariupol menuding Rusia menjarah baja senilai 600 juta dolar AS"
-    },
-    {
-        "title": "1 Agustus Beli Pertalite Wajib Daftar MyPertamina, Benarkah?",
-        "link": "https://www.cnbcindonesia.com/news/20220723142419-4-357965/1-agustus-beli-pertalite-wajib-daftar-mypertamina-benarkah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMzE0MjQxOS00LTM1Nzk2NS8xLWFndXN0dXMtYmVsaS1wZXJ0YWxpdGUtd2FqaWItZGFmdGFyLW15cGVydGFtaW5hLWJlbmFya2Fo",
-        "description": " PT Pertamina (Persero) belum dapat memastikan kapan implementasi pembatasan pembelian bahan bakar minyak (BBM) jenis Pertalite dan Solar berlaku."
     }
 ]
