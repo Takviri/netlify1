@@ -1,5 +1,12 @@
 [
     {
+        "title": "Mengapa banyak orang berhenti berlangganan Netflix",
+        "link": "https://www.bbc.com/indonesia/articles/ce9j1y811v2o",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvYXJ0aWNsZXMvY2U5ajF5ODExdjJv",
+        "description": "Berlangganan layanan streaming mungkin mirip dengan memesan makanan secara online saat Anda merasa lapar tapi belum memutuskan mau makan apa \u00e2\u0080\u0093 Anda membayarnya dan berharap yang tiba di depan pintu adalah makanan yang sesuai selera Anda."
+    },
+    {
         "title": "Pengakuan serdadu Myanmar yang membunuh dan memerkosa warga sipil \u2013 \u2018Saya tidak bisa lupa teriakannya\u2019",
         "link": "https://www.bbc.com/indonesia/dunia-62262790",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYyMjA1OTI5",
         "description": "Presiden Joko Widodo mengatakan rencana kenaikan harga tiket masuk ke Taman Nasional (TN) Komodo sebesar Rp3,75 juta berlaku di pulau yang ditetapkan sebagai wilayah konservasi, Pulau Komodo dan Pulau Padar, sementara tarif masuk ke Pulau Rinca tetap sama."
-    },
-    {
-        "title": "Perusahaan China luncurkan kendaraan taksi tanpa sopir",
-        "link": "https://www.bbc.com/indonesia/articles/cd19452p544o",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvYXJ0aWNsZXMvY2QxOTQ1MnA1NDRv",
-        "description": "Perusahaan teknologi raksasa China, Baidu, segera meluncurkan kendaraan terbaru untuk layanan taksi tanpa sopir, Apollo Go."
     }
 ]
