@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/509019/madura-united-cukur-barito-putera-8-0",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTAxOS9tYWR1cmEtdW5pdGVkLWN1a3VyLWJhcml0by1wdXRlcmEtOC0w",
+        "description": "MADURA United FC pesta gol setelah mengalahkan Barito Putera dengan skor telak 8-0 pada laga perdana Liga 1 2022/2023 yang berlangsung di Stadion Gelora Madura Ratu Pamelingan, Madura, Sabtu (23/7).&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/509018/pembunuh-istri-siri-di-sidoarjo-diringkus-polisi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5MDE4L3BlbWJ1bnVoLWlzdHJpLXNpcmktZGktc2lkb2Fyam8tZGlyaW5na3VzLXBvbGlzaQ==",
+        "description": "SEMPAT melarikan diri selama sepekan, aparat Reskrim Polresta Sidoarjo akhirnya berhasil meringkus Asif Junaedin, 52, pelaku pembunuhan istri sirinya sendiri Suwiarsih, 39. Pelaku ditangkap di sebuah&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/509014/tiga-anak-tewas-terseret-arus-di-sungai-tembuku-jambi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5MDE0L3RpZ2EtYW5hay10ZXdhcy10ZXJzZXJldC1hcnVzLWRpLXN1bmdhaS10ZW1idWt1LWphbWJp",
+        "description": "TIGA anak laki-laki berumur 11-12 tahun ditemukan tewas tenggelam di Sungai Tembuku, anak sungai Batanghari di Kelurahan Kasang, Kecamatan Jambi Timur, Kota Jambi, Sabtu (23/7) sore. Kepala&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/509012/kolaborasi-kemenkominfo-dan-kemendagri-tingkatkan-literasi-digital-praja-ipdn",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5MDA3L2Jta2ctZGV0ZWtzaS0xNS10aXRpay1wYW5hcy1sYWdpLWhhcmktaW5pLWRpLWthbHRpbQ==",
         "description": "BADAN Meteorologi Klimatologi dan Geofisika (BMKG) melalui stasiun di Kota Balikpapan, hari ini kembali mendeteksi adanya 15 titik panas (hot spot) yang tersebar pada enam kabupaten/kota di&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/509006/pertemuan-ke-empat-ewg-sepakati-draf-deklarasi-menaker-g20",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTAwNi9wZXJ0ZW11YW4ta2UtZW1wYXQtZXdnLXNlcGFrYXRpLWRyYWYtZGVrbGFyYXNpLW1lbmFrZXItZzIw",
-        "description": "Penyelenggaraan Forum G20 Keempat Kelompok Kerja Bidang Ketenagakerjaan (4th Employment Working Group), telah ditutup secara virtual di Jakarta, pada Jumat (22/7) malam.&nbsp; Peserta forum&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/509005/genjot-pad-perusda-tojo-una-una-gandeng-winfra-di-apkasi-otonomi-expo-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5MDA1L2dlbmpvdC1wYWQtcGVydXNkYS10b2pvLXVuYS11bmEtZ2FuZGVuZy13aW5mcmEtZGktYXBrYXNpLW90b25vbWktZXhwby0yMDIy",
-        "description": "SEBAGAI salah satu kabupaten termuda di Sulawesi Tengah, Kabupaten Tojo Una-Una (Touna) membentuk Perusahaan Daerah (Perusda) untuk menggenjot Pendapatan Asli Daerah (PAD) yang berjumlah sekitar Rp62&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/509003/tanggapi-fenomena-citayam-fashion-week-ini-kata-gubernur-jabar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDkwMDMvdGFuZ2dhcGktZmVub21lbmEtY2l0YXlhbS1mYXNoaW9uLXdlZWstaW5pLWthdGEtZ3ViZXJudXItamFiYXI=",
-        "description": "GUBERNUR Jawa Barat Ridwan Kamil atau yang akrab disapa Kang Emil itu memberikan respons positif soal fenomena Citayam Fashion Week. Dia pun mengimbau kepada seluruh kepala daerah di Jawa Barat,untuk&#8230;"
     }
 ]
