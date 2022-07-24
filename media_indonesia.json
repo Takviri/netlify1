@@ -1,5 +1,61 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/509058/yoriko-angeline-akan-lanjutkan-pendidikan-di-as",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTA1OC95b3Jpa28tYW5nZWxpbmUtYWthbi1sYW5qdXRrYW4tcGVuZGlkaWthbi1kaS1hcw==",
+        "description": "AKTRIS Yoriko Angeline mengungkapkan ia sedang bersiap terbang ke Amerika Serikat (AS) untuk melanjutkan studi di Western Michigan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/509076/ketua-komisi-vii-dpr-minta-mahasiswa-terlibat-dalam-isu-energi-terbarukan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTA3Ni9rZXR1YS1rb21pc2ktdmlpLWRwci1taW50YS1tYWhhc2lzd2EtdGVybGliYXQtZGFsYW0taXN1LWVuZXJnaS10ZXJiYXJ1a2Fu",
+        "description": "KETUA Komisi VII DPR RI Sugeng Suparwoto mengatakan pihaknya mendorong mahasiswa sebagai generasi muda agar terus melakukan inovasi untuk memecahkan persoalan energi fosil dan transformasi energi baru&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509057/vitamin-d-punya-segudang-manfaat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MDU3L3ZpdGFtaW4tZC1wdW55YS1zZWd1ZGFuZy1tYW5mYWF0",
+        "description": "SPESIALIS Gizi Klinik Cindiawaty Josito Pudjiadi mengatakan vitamin D memiliki segudang manfaat. Utamanya pada saat pandemi covid-19,&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/509075/jesus-kembali-cetak-gol-arsenal-lumat-chelsea",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTA3NS9qZXN1cy1rZW1iYWxpLWNldGFrLWdvbC1hcnNlbmFsLWx1bWF0LWNoZWxzZWE=",
+        "description": "GABRIEL Jesus melanjurkan performa apiknya di laga pramusim dengan kembali mencetak gol saat Arsenal menang telak 4-0 atas Chelsea&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/509056/manga-one-piece-rayakan-ulang-tahun-ke-25",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTA1Ni9tYW5nYS1vbmUtcGllY2UtcmF5YWthbi11bGFuZy10YWh1bi1rZS0yNQ==",
+        "description": "SERIAL manga yang berkisah mengenai harta karun pemburu harta karun yang sukses meraup jutaan penggemar di dunia, One Piece, merayakan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/509055/dani-alves-bergabung-dengan-klub-meksiko",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTA1NS9kYW5pLWFsdmVzLWJlcmdhYnVuZy1kZW5nYW4ta2x1Yi1tZWtzaWtv",
+        "description": "KLUB Meksiko Pumas, Sabtu (23/7), mengumumkan telah mendatangkan Dani Alves setelah bek Brasil itu meninggalkan Barcelona untuk&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/509073/optimalkan-layanan-bpr-intidana-resmikan-kantor-cabang-baru",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTA3My9vcHRpbWFsa2FuLWxheWFuYW4tYnByLWludGlkYW5hLXJlc21pa2FuLWthbnRvci1jYWJhbmctYmFydQ==",
+        "description": "MENGOPTIMALKAN layanan kepada masyarakat, BPR Intidana Sukses Makmur meresmikan kantor cabang di Kota Tengerang, Banten. Gedung Kantor Cabang baru tersebut merupakan relokasi dari kantor lama&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509072/tim-indonesia-raih-4-medali-perak-di-olimpiade-kimia-internasional-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MDcyL3RpbS1pbmRvbmVzaWEtcmFpaC00LW1lZGFsaS1wZXJhay1kaS1vbGltcGlhZGUta2ltaWEtaW50ZXJuYXNpb25hbC0yMDIy",
+        "description": "TIM Olimpiade Kimia Indonesia berhasil memperoleh 4 medali perak di ajang Olimpiade Kimia International (International Chemistry Olympiad/IChO)&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/509053/suns-berikan-kontrak-jangka-panjang-untuk-williams",
         "image": "static/images/media_indonesia.png",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MDY5L2xhZ3UtYW5hay1iaXNhLW1lbnVtYnVoa2FuLWVrb3Npc3RlbS1iYWdpLWFuYWstYW5haw==",
         "description": "SURVEI yang dilakukan Komisi Perlindungan Anak Indonesia (KPAI) menunjukkan anak yang menggunakan gadget di luar kepentingan belajar 1-2 jam per hari sebanyak 36,5%. Anak yang menggunakan gadget 2-5&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509068/kpu-ingatkan-anggota-di-daerah-agar-bekerja-secara-profesional",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkwNjgva3B1LWluZ2F0a2FuLWFuZ2dvdGEtZGktZGFlcmFoLWFnYXItYmVrZXJqYS1zZWNhcmEtcHJvZmVzaW9uYWw=",
-        "description": "KOMISI Pemilihan Umum (KPU) RI menekankan agar seluruh anggotanya yang berada di daerah bekerja secara profesional. Hal itu diungkapkan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/509052/pssi-akan-selidiki-kontroversi-di-laga-psis-kontra-rans",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTA1Mi9wc3NpLWFrYW4tc2VsaWRpa2kta29udHJvdmVyc2ktZGktbGFnYS1wc2lzLWtvbnRyYS1yYW5z",
-        "description": "KETUA Umum PSSI Mochamad Iriawan megatakan akan menginvestigasi kontroversi pada laga Liga 1 2022/2023 antara PSIS Semarang dan RANS&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509013/satgas-covid-19-minta-pemda-kejar-vaksinasi-booster-di-ruang-publik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MDEzL3NhdGdhcy1jb3ZpZC0xOS1taW50YS1wZW1kYS1rZWphci12YWtzaW5hc2ktYm9vc3Rlci1kaS1ydWFuZy1wdWJsaWs=",
-        "description": "PENYUNTIKAN dosis vaksin penguat atau booster baru menyentuh angka 26% pada 23 Juli 2022. Ketua Satuan Tugas (Satgas) Penanganan Covid-19 Suharyanto meminta daerah segera melakukan akselerasi vaksinasi&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/509050/stadion-boleh-diisi-lagi-ketum-pssi-imbau-suporter-taati-aturan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTA1MC9zdGFkaW9uLWJvbGVoLWRpaXNpLWxhZ2kta2V0dW0tcHNzaS1pbWJhdS1zdXBvcnRlci10YWF0aS1hdHVyYW4=",
-        "description": "LIGA 1 musim 2022/2023 mulai bergulir dengan disaksikan langsung oleh penonton. PSSI mengimbau agar para suporter klub menaati aturan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509065/pembangunan-sirkuit-balap-sepeda-gunung-di-palangkarayadipastikan-selesai-pertengahan-agustus",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkwNjUvcGVtYmFuZ3VuYW4tc2lya3VpdC1iYWxhcC1zZXBlZGEtZ3VudW5nLWRpLXBhbGFuZ2thcmF5YWRpcGFzdGlrYW4tc2VsZXNhaS1wZXJ0ZW5nYWhhbi1hZ3VzdHVz",
-        "description": "PEMBANGUNAN Sirkuit Balap Sepeda Gunung yang akan digunakan untuk Kejuaraan Dunia Balap Sepeda Gunung UCI MTB Eliminator World&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509064/kpham-desak-polri-segera-gelar-rekontruksi-suara-tembakan-yang-tewaskan-brigadir-j",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkwNjQva3BoYW0tZGVzYWstcG9scmktc2VnZXJhLWdlbGFyLXJla29udHJ1a3NpLXN1YXJhLXRlbWJha2FuLXlhbmctdGV3YXNrYW4tYnJpZ2FkaXItag==",
-        "description": "KOMITE Pengacara untuk Hak Asasi Manusia (KPHAM) dan Lembaga Kajian Demokrasi Public Virtue Research Institute mendesak polri agar&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509047/waspada-inilah-gejala-hepatitis-akut-pada-anak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MDQ3L3dhc3BhZGEtaW5pbGFoLWdlamFsYS1oZXBhdGl0aXMtYWt1dC1wYWRhLWFuYWs=",
-        "description": "HEPATITIS akut, belakangan ini, menjadi sorotan publik lantaran jumlahnya yang terus bertambah. Organisasi Kesehatan Dunia&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/509046/kabur-ke-kamboja-pasien-cacar-monyet-pertama-thailand-ditemukan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTA0Ni9rYWJ1ci1rZS1rYW1ib2phLXBhc2llbi1jYWNhci1tb255ZXQtcGVydGFtYS10aGFpbGFuZC1kaXRlbXVrYW4=",
-        "description": "SEORANG pria Nigeria yang melarikan diri setelah didiagnosa sebagai pasien cacar monyet pertama di Thailand ditemukan di Phnom&#8230;"
     }
 ]
