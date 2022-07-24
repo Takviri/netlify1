@@ -1,5 +1,40 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/509230/nope-puncaki-box-office",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTIzMC9ub3BlLXB1bmNha2ktYm94LW9mZmljZQ==",
+        "description": "FILM horor produksi Universal, Nope, sukses memuncaki Box Office Amerika Utara, mengalahkan film superhero Marvel, Thor, setelah&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/509233/begu-jadi-juara-di-palermo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkyMzMvYmVndS1qYWRpLWp1YXJhLWRpLXBhbGVybW8=",
+        "description": "PETENIS Rumania Irina-Camelia Begu memenangkan gelar WTA kelima dalam kariernya ketika menang straight set atas petenis Italia Lucia&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/509166/penyiapan-guru-abad-ke-21",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDkxNjYvcGVueWlhcGFuLWd1cnUtYWJhZC1rZS0yMQ==",
+        "description": "GURU-PENDIDIK dalam kajian pendidikan dikatakan sebagai pembawa obor pendidikan. Salah satu unsur determinan keberhasilan setiap upaya reformasi atau implementasi kebijakan, demokratisasi, dan usaha&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/509173/guru-yang-reflektif",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDkxNzMvZ3VydS15YW5nLXJlZmxla3RpZg==",
+        "description": "PENGALAMAN menarik dari tugas sebagai kepala sekolah dan direktur di Sekolah Sukma Bangsa (SSB) ialah saat merekrut guru. Guru versi SSB ialah guru yang tidak hanya baik secara personal dan profesional,&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/509231/vingegaard-juara-tour-de-france",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkyMzEvdmluZ2VnYWFyZC1qdWFyYS10b3VyLWRlLWZyYW5jZQ==",
+        "description": "PEMBALAP Denmark Jonas Vingegaard, Minggu (24/7), dinobatkan sebagau juara Tour de France, setelah bertarung dengan juara&#8230;"
+    },
+    {
         "title": "Kolom Pakar",
         "link": "https://m.mediaindonesia.com/kolom-pakar/509187/memotret-kegagalan-perusahaan-rintisan",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTIyNi9oYW5pZi1iZXJ0ZXJpbWEta2FzaWgtYXRhcy1kdWt1bmdhbi1qYWttYW5pYS1kaS1qaXM=",
         "description": "GELANDANG Persija Hanif Sjahbandi mengapresiasi dukungan suporter The Jakmania saat Macan Kemayoran berlaga kontra Chonburi FC di&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/509225/ribuan-santri-dan-ulama-doakan-ganjar-menang-di-2024",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5MjI1L3JpYnVhbi1zYW50cmktZGFuLXVsYW1hLWRvYWthbi1nYW5qYXItbWVuYW5nLWRpLTIwMjQ=",
-        "description": "GUNA mendukung Ganjar Pranowo, para ulama dan ribuan santri, bersama Sahabat Ganjar, lakukan Istighosah dan Sholawat Akbar.&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/509224/pelatih-chonburi-puji-performa-riko-simanjuntak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTIyNC9wZWxhdGloLWNob25idXJpLXB1amktcGVyZm9ybWEtcmlrby1zaW1hbmp1bnRhaw==",
-        "description": "PELATIH tim Liga Thailand Chonburi FC Sasom Pobprasert menilai pemain sayap Persija Riko Simanjuntak layak berkarier di Thailand&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509223/mci-luncurkan-collector-edition",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MjIzL21jaS1sdW5jdXJrYW4tY29sbGVjdG9yLWVkaXRpb24=",
-        "description": "MILLIONAIRE Club Indonesia (MCI) meluncurkan produk terbatas dalam Marvel&rsquo;s MCI Collector Edition yang hanya berjumlah 10 ribu unit di dunia.&nbsp; Marvel&rsquo;s MCI Collector&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509222/update-24-juli-kasus-covid-19-bertambah-4071",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MjIyL3VwZGF0ZS0yNC1qdWxpLWthc3VzLWNvdmlkLTE5LWJlcnRhbWJhaC00MDcx",
-        "description": "SATUAN Tugas (Satgas) Penanganan COVID-19 melaporkan kasus konfirmasi positif terinfeksi virus corona harian di Indonesia bertambah sebanyak 4.071 orang hingga Minggu (24/7). Menurut data Satgas&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/509221/conte-gerah-dengan-sikap-bayern-atas-kane",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTIyMS9jb250ZS1nZXJhaC1kZW5nYW4tc2lrYXAtYmF5ZXJuLWF0YXMta2FuZQ==",
-        "description": "MANAJER Tottenham Hotspur Antonio Conte mengatakan Bayern Muenchen tak punya sopan santun karena membahas kemungkinan menarik Harry Kane dari Spurs. Musim panas lalu Kane berusaha pindah ke&#8230;"
     }
 ]
