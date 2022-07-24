@@ -1,5 +1,26 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/509182/anggota-delegasi-women-g20-summit-ini-ingin-datang-lagi-ke-danau-toba",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTE4Mi9hbmdnb3RhLWRlbGVnYXNpLXdvbWVuLWcyMC1zdW1taXQtaW5pLWluZ2luLWRhdGFuZy1sYWdpLWtlLWRhbmF1LXRvYmE=",
+        "description": "Perhelatan Women 20 (W20) baru saja usai digelar di Danau Toba, Sumatra Utara. Ada sebanyak 56 peserta dari 16 negara delegasi yang turut serta menghadiri perhelatan tersebut. Adapun negara&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/509240/jazz-gunung-bromo-beri-penghargaan-bagi-gitaris-donny-suhendra",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwOTI0MC9qYXp6LWd1bnVuZy1icm9tby1iZXJpLXBlbmdoYXJnYWFuLWJhZ2ktZ2l0YXJpcy1kb25ueS1zdWhlbmRyYQ==",
+        "description": "Setiap tahunnya, Jazz Gunung selalu memberikan penghargaan bagi para musikus. Tahun ini, penghargaan itu diberikan untuk almarhum gitaris Donny Suhendra yang wafat pada 19 Juni 2022. &ldquo;Dia&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/509235/bisma-karisma-berduet-dengan-lania-fira-di-film-romantik-problematik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTIzNS9iaXNtYS1rYXJpc21hLWJlcmR1ZXQtZGVuZ2FuLWxhbmlhLWZpcmEtZGktZmlsbS1yb21hbnRpay1wcm9ibGVtYXRpaw==",
+        "description": "RUMAH produksi Purbanegara Suitrawan Film akan meluncurkan film terbaru Romantik Problematik, yang untuk pertama kalinya akan menghadirkan&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/509234/enam-tahun-hiatus-kim-woo-bin-kembali-ke-layar-lebar",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkyMzEvdmluZ2VnYWFyZC1qdWFyYS10b3VyLWRlLWZyYW5jZQ==",
         "description": "PEMBALAP Denmark Jonas Vingegaard, Minggu (24/7), dinobatkan sebagau juara Tour de France, setelah bertarung dengan juara&#8230;"
-    },
-    {
-        "title": "Kolom Pakar",
-        "link": "https://m.mediaindonesia.com/kolom-pakar/509187/memotret-kegagalan-perusahaan-rintisan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9rb2xvbS1wYWthci81MDkxODcvbWVtb3RyZXQta2VnYWdhbGFuLXBlcnVzYWhhYW4tcmludGlzYW4=",
-        "description": "GELOMBANG teknologi digital yang sudah berlangsung selama satu dekade terakhir telah membuka pintu selebar-lebarnya bagi setiap orang untuk melakukan inovasi. Inovasi yang berbasis teknologi digital&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509228/wiebes-menangi-etape-pertama-tour-de-france-putri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkyMjgvd2llYmVzLW1lbmFuZ2ktZXRhcGUtcGVydGFtYS10b3VyLWRlLWZyYW5jZS1wdXRyaQ==",
-        "description": "LORENA Wiebes mengalahkan sesama pembalap sepeda Belanda Marianne Vos untuk memenangi etape pertama Tour de France putri di&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509229/atasi-comeback-alcaraz-musetti-raih-gelar-atp-perdana",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkyMjkvYXRhc2ktY29tZWJhY2stYWxjYXJhei1tdXNldHRpLXJhaWgtZ2VsYXItYXRwLXBlcmRhbmE=",
-        "description": "PETENIS muda Italia Lorenzo Musetti berhasil mengalahkan Carlos Alcaraz untuk meraih gelar ATP pertamanya di turnamen tanah liat di&#8230;"
     }
 ]
