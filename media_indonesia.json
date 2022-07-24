@@ -1,5 +1,26 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/509096/julianne-moore-jadi-ketua-juri-festival-film-venesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTA5Ni9qdWxpYW5uZS1tb29yZS1qYWRpLWtldHVhLWp1cmktZmVzdGl2YWwtZmlsbS12ZW5lc2lh",
+        "description": "AKTRIS pemenang Piala Oscar Julianne Moore akan memimpin juri dalam kompetisi utama di Festival Film Venesia tahun&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509112/antisipasi-cacar-monyet-kemenkes-mulai-siapkan-lab-khusus",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MTEyL2FudGlzaXBhc2ktY2FjYXItbW9ueWV0LWtlbWVua2VzLW11bGFpLXNpYXBrYW4tbGFiLWtodXN1cw==",
+        "description": "WABAH&nbsp;cacar monyet atau monkeypox telah resmi ditetapkan Organisasi Kesehatan Dunia (WHO) sebagai darurat kesehatan global pada Sabtu (23/7).&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/509090/vingegaard-tolak-tudingan-doping",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkwOTAvdmluZ2VnYWFyZC10b2xhay10dWRpbmdhbi1kb3Bpbmc=",
+        "description": "CALON kuat juara Tour de France Jonas Vingegaard, Sabtu (23/7), menegaskan bahwa dirinya dan timnyas, Jumbo-Visma, tidak menggunakan&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/509106/ihsg-diprediksi-tertekan-pada-perdagangan-besok",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5MTA4L2dhbmphci1zdWtzZXMtc2VsZXNhaWthbi1sYXJpLTEway1wb2Nhcmktc3dlYXQtcnVuLWRpLWJhbmR1bmc=",
         "description": "GUBERNUR Jawa Tengah Ganjar Pranowo berhasil menuntaskan lari 10K Pocari Sweat Run Indonesia 2022 di Bandung. Ia berhasil menaklukkan rute perkotaan Bandung dan mencapai finish dengan catatan waktu&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509104/jawa-tengah-turunkan-80-atlet-di-apg-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkxMDQvamF3YS10ZW5nYWgtdHVydW5rYW4tODAtYXRsZXQtZGktYXBnLTIwMjI=",
-        "description": "ATLET Jawa Tengah jadi andalan kontingen Indonesia di berbagai kejuaraan internasional. Termasuk di event ASEAN Para Games (APG) 2022 di Solo. Di mana dari 321 atlet yang diturunkan Indonesia,&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509079/cegah-pelecehan-seksual-dengan-pendidikan-aktivitas-di-dunia-maya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MDc5L2NlZ2FoLXBlbGVjZWhhbi1zZWtzdWFsLWRlbmdhbi1wZW5kaWRpa2FuLWFrdGl2aXRhcy1kaS1kdW5pYS1tYXlh",
-        "description": "RELAWAN Masyarakat Antifitnah Indonesia wilayah Pontianak Eko Akbar Setiawan menilai pencegahan tindak pelecehan seksual di&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/509074/ikon-citayamfashion-week-jeje-dan-bonge-jadi-bintang-video-klip",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTA3NC9pa29uLWNpdGF5YW1mYXNoaW9uLXdlZWstamVqZS1kYW4tYm9uZ2UtamFkaS1iaW50YW5nLXZpZGVvLWtsaXA=",
-        "description": "PENYANYI dan penulis lagu Indonesia, Keljo, merilis single dan video klip terbarunya, Jangan Katakan Cinta. Video klip itu dibintangi dua ikon fenomena Citayam Fashion Week, Jeje dan Bonge. Lagu&#8230;"
     }
 ]
