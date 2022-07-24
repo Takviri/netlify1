@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/509050/stadion-boleh-diisi-lagi-ketum-pssi-imbau-suporter-taati-aturan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTA1MC9zdGFkaW9uLWJvbGVoLWRpaXNpLWxhZ2kta2V0dW0tcHNzaS1pbWJhdS1zdXBvcnRlci10YWF0aS1hdHVyYW4=",
+        "description": "LIGA 1 musim 2022/2023 mulai bergulir dengan disaksikan langsung oleh penonton. PSSI mengimbau agar para suporter klub menaati aturan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/509065/pembangunan-sirkuit-balap-sepeda-gunung-di-palangkarayadipastikan-selesai-pertengahan-agustus",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkwNjUvcGVtYmFuZ3VuYW4tc2lya3VpdC1iYWxhcC1zZXBlZGEtZ3VudW5nLWRpLXBhbGFuZ2thcmF5YWRpcGFzdGlrYW4tc2VsZXNhaS1wZXJ0ZW5nYWhhbi1hZ3VzdHVz",
+        "description": "PEMBANGUNAN Sirkuit Balap Sepeda Gunung yang akan digunakan untuk Kejuaraan Dunia Balap Sepeda Gunung UCI MTB Eliminator World&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/509064/kpham-desak-polri-segera-gelar-rekontruksi-suara-tembakan-yang-tewaskan-brigadir-j",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTA0NC9seW9uLWRhdGFuZ2thbi10YWdsaWFmaWNvLWRhcmktYWpheA==",
         "description": "BEK Argentina Nicolas Tagliafico bergabung dengan klub Ligue 1 Olympique Lyonnais dari klub Eredivisie Ajax pada harga 4,2 juta euro&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509043/pentingnya-menjaga-kesehatan-gigi-sejak-dini",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MDQzL3BlbnRpbmdueWEtbWVuamFnYS1rZXNlaGF0YW4tZ2lnaS1zZWphay1kaW5p",
-        "description": "KESEHATAN gigi adalah hal yang tidak boleh kita anggap remeh. Dengan melakukan perawatan gigi, bakteri yang berada dalam mulut&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509054/capai-final-di-hamburg-alcaraz-tembus-5-besar-dunia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkwNTQvY2FwYWktZmluYWwtZGktaGFtYnVyZy1hbGNhcmF6LXRlbWJ1cy01LWJlc2FyLWR1bmlh",
-        "description": "CARLOS Alcaraz akan menjadi petenis termuda yang mencapai peringkat lima dunia ATP sejak Rafael Nadal pada 2005 ketika dia mencapai&#8230;"
     }
 ]
