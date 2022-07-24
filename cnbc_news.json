@@ -1,5 +1,26 @@
 [
     {
+        "title": "Tugas Baru Jokowi ke Luhut: Urus PMK!",
+        "link": "https://www.cnbcindonesia.com/news/20220724152112-4-358099/tugas-baru-jokowi-ke-luhut-urus-pmk",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDE1MjExMi00LTM1ODA5OS90dWdhcy1iYXJ1LWpva293aS1rZS1sdWh1dC11cnVzLXBtaw==",
+        "description": " Menko Marves Luhut Binsar Pandjaitan kembali mendapatkan tugas baru dari Jokowi, yakni mengurus PMK"
+    },
+    {
+        "title": "Hari Anak Nasional, BRI Gandeng Pelajar dan Aktivis Cilik",
+        "link": "https://www.cnbcindonesia.com/news/20220724181750-4-358116/hari-anak-nasional-bri-gandeng-pelajar-dan-aktivis-cilik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDE4MTc1MC00LTM1ODExNi9oYXJpLWFuYWstbmFzaW9uYWwtYnJpLWdhbmRlbmctcGVsYWphci1kYW4tYWt0aXZpcy1jaWxpaw==",
+        "description": " Pengenalan literasi dan inspirasi pembelajaran diberikan oleh BRI untuk membangkitkan semangat anak-anak dalam meraih cita-citanya."
+    },
+    {
+        "title": "Tangkis Inflasi, Zimbabwe Langsung Bikin Koin Dari Emas",
+        "link": "https://www.cnbcindonesia.com/news/20220724155908-4-358104/tangkis-inflasi-zimbabwe-langsung-bikin-koin-dari-emas",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDE1NTkwOC00LTM1ODEwNC90YW5na2lzLWluZmxhc2ktemltYmFid2UtbGFuZ3N1bmctYmlraW4ta29pbi1kYXJpLWVtYXM=",
+        "description": " Zimbabwe akan memperkenalkan koin emas terbarunya"
+    },
+    {
         "title": "Ahli Soal Cacar Monyet: Bukan Pandemi Namun Perlu Waspada",
         "link": "https://www.cnbcindonesia.com/news/20220724145915-4-358095/ahli-soal-cacar-monyet-bukan-pandemi-namun-perlu-waspada",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDE1NTEwNC04LTM1ODEwMi9hbGVydC13aG8tdGV0YXBrYW4tY2FjYXItbW9ueWV0LXNlYmFnYWktZGFydXJhdC1nbG9iYWw=",
         "description": " Alert! WHO Tetapkan Cacar Monyet Sebagai Darurat Global"
-    },
-    {
-        "title": "Daftar Negara yang Terjangkit Cacar Monyet, Mendekati RI",
-        "link": "https://www.cnbcindonesia.com/news/20220724132958-4-358089/daftar-negara-yang-terjangkit-cacar-monyet-mendekati-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDEzMjk1OC00LTM1ODA4OS9kYWZ0YXItbmVnYXJhLXlhbmctdGVyamFuZ2tpdC1jYWNhci1tb255ZXQtbWVuZGVrYXRpLXJp",
-        "description": " Terdfapat setidaknya 65 negara yang dilaporkan sudah terserang wabah penyakit cacar monyte, termasuk Singapura dan Thailand"
-    },
-    {
-        "title": "Perhatian Bonge Cs! Lokasi Citayam Fashion Week Bakal Digeser",
-        "link": "https://www.cnbcindonesia.com/news/20220724143553-4-358093/perhatian-bonge-cs-lokasi-citayam-fashion-week-bakal-digeser",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDE0MzU1My00LTM1ODA5My9wZXJoYXRpYW4tYm9uZ2UtY3MtbG9rYXNpLWNpdGF5YW0tZmFzaGlvbi13ZWVrLWJha2FsLWRpZ2VzZXI=",
-        "description": " Wakil Gubernur DKI Jakarta Riza Patria berencana memindahkan lokasi Citayam Fashion Week"
-    },
-    {
-        "title": "Penampakan Kobaran Api yang Bumi Hanguskan Hutan California",
-        "link": "https://www.cnbcindonesia.com/news/20220724101329-7-358064/penampakan-kobaran-api-yang-bumi-hanguskan-hutan-california",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDEwMTMyOS03LTM1ODA2NC9wZW5hbXBha2FuLWtvYmFyYW4tYXBpLXlhbmctYnVtaS1oYW5ndXNrYW4taHV0YW4tY2FsaWZvcm5pYQ==",
-        "description": " Gelombang panas membuat sejumlah wilayah di AS rentan terhadap kebakaran hutan."
     }
 ]
