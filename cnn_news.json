@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pedagang Kecipratan Rezeki Tunjungan Fashion Week",
+        "link": "https://www.cnnindonesia.com/nasional/20220724220719-20-825519/pedagang-kecipratan-rezeki-tunjungan-fashion-week",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyNDIyMDcxOS0yMC04MjU1MTkvcGVkYWdhbmcta2VjaXByYXRhbi1yZXpla2ktdHVuanVuZ2FuLWZhc2hpb24td2Vlaw==",
+        "description": " Pedagang di area Tunjungan Fashion Week yang terinspirasi Citayam Fashion Week mengaku pendapatannya naik dari biasanya."
+    },
+    {
+        "title": "Pasar Jaya Bangga Ikut Meriahkan Grand Launching JIS",
+        "link": "https://www.cnnindonesia.com/nasional/20220724220808-25-825520/pasar-jaya-bangga-ikut-meriahkan-grand-launching-jis",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyNDIyMDgwOC0yNS04MjU1MjAvcGFzYXItamF5YS1iYW5nZ2EtaWt1dC1tZXJpYWhrYW4tZ3JhbmQtbGF1bmNoaW5nLWppcw==",
+        "description": " Perumda Pasar Jaya menyatakan bangga bisa ikut memeriahkan acara Grand Launching Jakarta Internasional Stadium (JIS), Minggu (24/7) sore."
+    },
+    {
         "title": "Masa Penahanan Doni Salmanan di Bandung Diperpanjang 20 Hari",
         "link": "https://www.cnnindonesia.com/nasional/20220724214652-12-825515/masa-penahanan-doni-salmanan-di-bandung-diperpanjang-20-hari",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyNDE3NTIyNC0zMi04MjU0ODkva3Vhc2EtaHVrdW0ta2VjaWwta2VtdW5na2luYW4tcml6aWVxLXNoaWhhYi1uZXRyYWwtZGktcGlscHJlcy0yMDI0",
         "description": " Kuasa hukum Rizieq Shihab mengatakan dukungan kepada capres di Pilpres 2024 masih menunggu dinamika politik yang berkembang."
-    },
-    {
-        "title": "Warga Bisa Protes Merek Citayam Fashion Week yang Diklaim Baim Wong",
-        "link": "https://www.cnnindonesia.com/nasional/20220724183816-20-825495/warga-bisa-protes-merek-citayam-fashion-week-yang-diklaim-baim-wong",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyNDE4MzgxNi0yMC04MjU0OTUvd2FyZ2EtYmlzYS1wcm90ZXMtbWVyZWstY2l0YXlhbS1mYXNoaW9uLXdlZWsteWFuZy1kaWtsYWltLWJhaW0td29uZw==",
-        "description": " Kemenkumham menyatakan masyarakat bisa mengajukan keberatan usai Citayam Fashion Week diajukan sebagai merek atas hak kekayaan intelektual oleh Baim Wong."
-    },
-    {
-        "title": "PKS Respons Hasto: Umat Beragama Nyaman Selama Anies Memimpin DKI",
-        "link": "https://www.cnnindonesia.com/nasional/20220724182826-32-825494/pks-respons-hasto-umat-beragama-nyaman-selama-anies-memimpin-dki",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyNDE4MjgyNi0zMi04MjU0OTQvcGtzLXJlc3BvbnMtaGFzdG8tdW1hdC1iZXJhZ2FtYS1ueWFtYW4tc2VsYW1hLWFuaWVzLW1lbWltcGluLWRraQ==",
-        "description": " Ketua DPP PKS Mardani Ali Sera menampik pernyataan Sekjen PDIP Hasto Kristiyanto yang mempertanyakan prestasi Anies Baswedan selama menjadi Gubernur DKI Jakarta"
     }
 ]
