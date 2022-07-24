@@ -1,10 +1,38 @@
 [
     {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509135/survei-prc-elektabilitas-ganjar-pranowo-jauh-di-atas-anies-dan-prabowo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkxMzUvc3VydmVpLXByYy1lbGVrdGFiaWxpdGFzLWdhbmphci1wcmFub3dvLWphdWgtZGktYXRhcy1hbmllcy1kYW4tcHJhYm93bw==",
+        "description": "LEMBAGA Survei Politika Research and Consulting (PRC) meriliis survei nasional tentang elektabilitas calon presiden (capres) periode 2024-2029. Hasilnya menunjukkan elektabilitas Ganjar Pranowo tak&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/509134/pasukan-israel-bunuh-dua-warga-palestina-yang-disangka-teroris",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTEzNC9wYXN1a2FuLWlzcmFlbC1idW51aC1kdWEtd2FyZ2EtcGFsZXN0aW5hLXlhbmctZGlzYW5na2EtdGVyb3Jpcw==",
+        "description": "PASUKAN Israel membunuh dua warga Palestina dalam serangan semalam di Tepi Barat yang diduduki. Ini dikatakan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/509133/dki-sediakan-9-kantong-parkir-untuk-grand-launching-jis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDkxMzMvZGtpLXNlZGlha2FuLTkta2FudG9uZy1wYXJraXItdW50dWstZ3JhbmQtbGF1bmNoaW5nLWppcw==",
+        "description": "UNTUK menjaga kelancaran mobilitas saat grand launching Jakarta International Stadium (JIS) pada Minggu (24/7), Pemprov DKI Jakarta melakukan pengaturan lalu lintas dan menyiapkan sembilan kantong&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/509131/percepat-otomatisasi-dan-digitalisasi-shared-services-pertamina-sudah-live-di-50-entitas-bisnis",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTEzMS9wZXJjZXBhdC1vdG9tYXRpc2FzaS1kYW4tZGlnaXRhbGlzYXNpLXNoYXJlZC1zZXJ2aWNlcy1wZXJ0YW1pbmEtc3VkYWgtbGl2ZS1kaS01MC1lbnRpdGFzLWJpc25pcw==",
         "description": "TRANSFORMASI digital menjadi kunci sukses Pertamina untuk terus bersaing di kancah global. Sejalan dengan visi menjadi perusahaan energi nasional kelas dunia, Pertamina telah membangun sistem operasional&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/509132/xcashshop-layani-kebutuhan-top-up-gim",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA5MTMyL3hjYXNoc2hvcC1sYXlhbmkta2VidXR1aGFuLXRvcC11cC1naW0=",
+        "description": "DI zaman milenial, alat elektronik seperti HP, PC, tablet, dan laptop banyak digunakan untuk berbagai macam kebutuhan. Ini tak terkecuali untuk menghalau kebosanan ataupun stres melalui inovasi-inovasi&#8230;"
     },
     {
         "title": "Humaniora",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkxMjYvcGFuZ2xpbWEtdG5pLWFuZGlrYS1wZXJrYXNhLXRlcmltYS1rdW5qdW5nYW4tcGFuZ2xpbWEtbWlsaXRlci1hcy1tYXJrLW1pbGxleQ==",
         "description": "PANGLIMA TNI Jenderal TNI Andika Perkasa menerima kunjungan kehormaran U.S Chairman of The Joint chiefs of Staff General Mark. A Milley di Mabes TNI, Jakarta, Minggu (24/7). Kunjungan Mark Milley&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509125/rektor-its-kampanye-di-kampus-boleh-saja-asalkan-bersifat-akademis",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkxMjUvcmVrdG9yLWl0cy1rYW1wYW55ZS1kaS1rYW1wdXMtYm9sZWgtc2FqYS1hc2Fsa2FuLWJlcnNpZmF0LWFrYWRlbWlz",
-        "description": "REKTOR Institut Teknologi Sepuluh Nopember (ITS) Mochamad Ashari menilai bahwa wacana kampanye di lingkungan kampus dapat dilakukan. Namun, kampanye di kampus tentu berbeda dengan kampanye pada umumnya.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509124/media-group-jalin-kerja-sama-dengan-pondok-pesantren-di-jepara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MTI0L21lZGlhLWdyb3VwLWphbGluLWtlcmphLXNhbWEtZGVuZ2FuLXBvbmRvay1wZXNhbnRyZW4tZGktamVwYXJh",
-        "description": "MEDIA Group menjalin kerja sama dengan Pondok Pesantren Roudlotul Mubtadiin Balaikambang, Kabupaten Jepara. Kerja sama ini diharapkan meningkatkan kompetensi para santri dan mahasantri di berbagai&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/509123/untuk-kalahkan-rusia-zelensky-butuh-bantuan-senjata-berat-dari-as",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTEyMy91bnR1ay1rYWxhaGthbi1ydXNpYS16ZWxlbnNreS1idXR1aC1iYW50dWFuLXNlbmphdGEtYmVyYXQtZGFyaS1hcw==",
-        "description": "PRESIDEN&nbsp;Ukraina, Volodymyr Zelensky&nbsp;menyatakan optimismenya bahwa Ukraina akan memenangi&nbsp;perang yang meletus karena keserakahan Rusia yang menginvasi negara itu. Namun untuk&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/509110/timur-angkat-isu-privasi-lewat-single-ruang-batas-publik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTExMC90aW11ci1hbmdrYXQtaXN1LXByaXZhc2ktbGV3YXQtc2luZ2xlLXJ1YW5nLWJhdGFzLXB1Ymxpaw==",
-        "description": "BAND alternative pop rock virtual besutan Double Deer Music, Timur, kembali lagi dengan single terbaru yang bertajuk Ruang Batas Publik.&nbsp;&#8230;"
     }
 ]
