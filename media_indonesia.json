@@ -1,6 +1,20 @@
 [
     {
         "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/509234/enam-tahun-hiatus-kim-woo-bin-kembali-ke-layar-lebar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTIzNC9lbmFtLXRhaHVuLWhpYXR1cy1raW0td29vLWJpbi1rZW1iYWxpLWtlLWxheWFyLWxlYmFy",
+        "description": "AKTOR Korea Selatan Kim Woo Bin mengatakan dirinya merasa sangat bersemangat menjelang perilisan Alienoid, proyek layar lebar&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/509232/bayern-sepakat-datangkan-penyerang-remaja-dari-rennes",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTIzMi9iYXllcm4tc2VwYWthdC1kYXRhbmdrYW4tcGVueWVyYW5nLXJlbWFqYS1kYXJpLXJlbm5lcw==",
+        "description": "BAYERN Muenchen sepakat untuk mendatangkan penyerang Rennes berusia 17 tahun Mathys Tel, Minggu (24/7). Tel, yang&#8230;"
+    },
+    {
+        "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/509230/nope-puncaki-box-office",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTIzMC9ub3BlLXB1bmNha2ktYm94LW9mZmljZQ==",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkyMjkvYXRhc2ktY29tZWJhY2stYWxjYXJhei1tdXNldHRpLXJhaWgtZ2VsYXItYXRwLXBlcmRhbmE=",
         "description": "PETENIS muda Italia Lorenzo Musetti berhasil mengalahkan Carlos Alcaraz untuk meraih gelar ATP pertamanya di turnamen tanah liat di&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509227/botol-minum-tidak-berfungsi-hamilton-mengaku-kehilangan-3-kilogram",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkyMjcvYm90b2wtbWludW0tdGlkYWstYmVyZnVuZ3NpLWhhbWlsdG9uLW1lbmdha3Uta2VoaWxhbmdhbi0zLWtpbG9ncmFt",
-        "description": "LEWIS Hamilton, yang kelelahan, merayakan balapannya yang ke-300 di Formula 1, Minggu (24/7), dengan tergeletak kelelahan di ruang&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/509226/hanif-berterima-kasih-atas-dukungan-jakmania-di-jis",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTIyNi9oYW5pZi1iZXJ0ZXJpbWEta2FzaWgtYXRhcy1kdWt1bmdhbi1qYWttYW5pYS1kaS1qaXM=",
-        "description": "GELANDANG Persija Hanif Sjahbandi mengapresiasi dukungan suporter The Jakmania saat Macan Kemayoran berlaga kontra Chonburi FC di&#8230;"
     }
 ]
