@@ -1,5 +1,19 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509124/media-group-jalin-kerja-sama-dengan-pondok-pesantren-di-jepara",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MTI0L21lZGlhLWdyb3VwLWphbGluLWtlcmphLXNhbWEtZGVuZ2FuLXBvbmRvay1wZXNhbnRyZW4tZGktamVwYXJh",
+        "description": "MEDIA Group menjalin kerja sama dengan Pondok Pesantren Roudlotul Mubtadiin Balaikambang, Kabupaten Jepara. Kerja sama ini diharapkan meningkatkan kompetensi para santri dan mahasantri di berbagai&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/509123/untuk-kalahkan-rusia-zelensky-butuh-bantuan-senjata-berat-dari-as",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTEyMy91bnR1ay1rYWxhaGthbi1ydXNpYS16ZWxlbnNreS1idXR1aC1iYW50dWFuLXNlbmphdGEtYmVyYXQtZGFyaS1hcw==",
+        "description": "PRESIDEN&nbsp;Ukraina, Volodymyr Zelensky&nbsp;menyatakan optimismenya bahwa Ukraina akan memenangi&nbsp;perang yang meletus karena keserakahan Rusia yang menginvasi negara itu. Namun untuk&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/509110/timur-angkat-isu-privasi-lewat-single-ruang-batas-publik",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5MTE5L2NlZ2FoLWtla2VyYXNhbi1hbmFrLWxzbS1zYWhhYmF0LWFuYWstZGktc29sby1iZXJpLWVkdWthc2ktbGV3YXQtZG9uZ2VuZw==",
         "description": "DALAM Sistem Informasi Online Perlindungan Perempuan dan Anak (SIMFONI PPA ) mencatat bahwa sepanjang 4 tahun, dari 2016 - 2020 terjadi aksi kekerasan terhadap anak hingga mencapai 49.141 kasus.&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/509117/santri-dan-ulama-karawang-doakan-ganjar-pranowo-presiden-2024",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5MTE3L3NhbnRyaS1kYW4tdWxhbWEta2FyYXdhbmctZG9ha2FuLWdhbmphci1wcmFub3dvLXByZXNpZGVuLTIwMjQ=",
-        "description": "RIBUAN santri dan sejumlah ulama di Kabupaten Karawang, Jawa Barat (Jabar) menyatakan dukunganya untuk gubernur Jawa Tengah Ganjar Pranowo. Dukungan terhadap Ganjar Pranowo dirangkai dalam acara Sejuta&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509118/kpu-tidak-ada-yang-salah-dari-kampanye-di-kampus",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkxMTgva3B1LXRpZGFrLWFkYS15YW5nLXNhbGFoLWRhcmkta2FtcGFueWUtZGkta2FtcHVz",
-        "description": "KETUA Komisi Pemilihan Umum (KPU) Hasyim Asy'ari memastikan bahwa tidak ada larangan bagi partai politik, calon presiden dan wakil presiden untuk kampanye di universitas maupun institusi pendidikan&#8230;"
     }
 ]
