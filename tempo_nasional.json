@@ -1,10 +1,45 @@
 [
     {
+        "title": "Panglima TNI Andika Perkasa Terima Kunjungan Panglima Militer AS Mark Milley",
+        "link": "https://nasional.tempo.co/read/1615343/panglima-tni-andika-perkasa-terima-kunjungan-panglima-militer-as-mark-milley",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUzNDMvcGFuZ2xpbWEtdG5pLWFuZGlrYS1wZXJrYXNhLXRlcmltYS1rdW5qdW5nYW4tcGFuZ2xpbWEtbWlsaXRlci1hcy1tYXJrLW1pbGxleQ==",
+        "description": "Panglima TNI Jenderal Andika Perkasa menerima kunjungan kehormatan US Chaiman of The Joint Chief of Staff Jenderal Mark A. Milley."
+    },
+    {
+        "title": "Ledakan Pabrik V Pupuk Kaltim, Polisi: Masih Ada Pipa Gas Amonia yang Diwaspadai",
+        "link": "https://nasional.tempo.co/read/1615341/ledakan-pabrik-v-pupuk-kaltim-polisi-masih-ada-pipa-gas-amonia-yang-diwaspadai",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUzNDEvbGVkYWthbi1wYWJyaWstdi1wdXB1ay1rYWx0aW0tcG9saXNpLW1hc2loLWFkYS1waXBhLWdhcy1hbW9uaWEteWFuZy1kaXdhc3BhZGFp",
+        "description": "Dari informasi yang dihimpun Polda Kaltim, menjelaskan bahwa pada Sabtu malam, suhu di Pabrik V Pupuk Kaltim masih mencapai 1.000 derajat celcius."
+    },
+    {
         "title": "Bagaimana Peran Ferdy Sambo Saat Hari Kejadian Tewasnya Brigadir J?",
         "link": "https://nasional.tempo.co/read/1615334/bagaimana-peran-ferdy-sambo-saat-hari-kejadian-tewasnya-brigadir-j",
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUzMzQvYmFnYWltYW5hLXBlcmFuLWZlcmR5LXNhbWJvLXNhYXQtaGFyaS1rZWphZGlhbi10ZXdhc255YS1icmlnYWRpci1q",
         "description": "Ferdy Sambo diduga memiliki peran dominan dalam proses penyelidikan kematian Brigadir J. Sumber Tempo menyebut bawahan Sambo mencemari TKP saat hari kejadian."
+    },
+    {
+        "title": "Mahasiswa Harus Memiliki Keterampilan yang Relevan",
+        "link": "https://nasional.tempo.co/read/1615324/mahasiswa-harus-memiliki-keterampilan-yang-relevan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUzMjQvbWFoYXNpc3dhLWhhcnVzLW1lbWlsaWtpLWtldGVyYW1waWxhbi15YW5nLXJlbGV2YW4=",
+        "description": "Mahasiswa dituntut memiliki keterampilan dan kemampuan yang mumpuni dalam menyikapi berbagai perubahan yang terjadi."
+    },
+    {
+        "title": "Siti Fauziah Ajak Generasi Z Warnai Medsos dengan Nilai-nilai Luhur Bangsa",
+        "link": "https://nasional.tempo.co/read/1615321/siti-fauziah-ajak-generasi-z-warnai-medsos-dengan-nilai-nilai-luhur-bangsa",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUzMjEvc2l0aS1mYXV6aWFoLWFqYWstZ2VuZXJhc2ktei13YXJuYWktbWVkc29zLWRlbmdhbi1uaWxhaS1uaWxhaS1sdWh1ci1iYW5nc2E=",
+        "description": "Generasi Z yang dihadapkan pada tantangan era modernisasi dan kecanggihan teknologi informasi seperti media sosial/medsos."
+    },
+    {
+        "title": "Hari Anak Nasional, Anissa Terima Hadiah dari Cucu Mensos",
+        "link": "https://nasional.tempo.co/read/1615305/hari-anak-nasional-anissa-terima-hadiah-dari-cucu-mensos",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUzMDUvaGFyaS1hbmFrLW5hc2lvbmFsLWFuaXNzYS10ZXJpbWEtaGFkaWFoLWRhcmktY3VjdS1tZW5zb3M=",
+        "description": "Sentra \"Daarusa'adah\" Aceh memberikan pendampingan, bantuan pengobatan, bantuan pemenuhan dasar kepada Nisa"
     },
     {
         "title": "Suharso Monoarfa ke Amerika Serikat Pelajari Kereta Gantung untuk IKN",
@@ -33,40 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUyNzMva2FiYXItbGFyYW5nYW4ta2UtbHVhci1kYWVyYWgtZ2FuamFyLXByYW5vd28ta2FsYXUtcGVyZ2ktc2F5YS1pemlu",
         "description": "Gubernur Jawa Tengah Ganjar Pranowo mengatakan tak ada larangan dirinya pergi ke luar daerah oleh PDIP. Yang ada, kata dia, kewajiban berkoordinasi."
-    },
-    {
-        "title": "9 Tersangka Kasus Kebakaran Hutan dan Lahan di Riau Ditangkap",
-        "link": "https://nasional.tempo.co/read/1615271/9-tersangka-kasus-kebakaran-hutan-dan-lahan-di-riau-ditangkap",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUyNzEvOS10ZXJzYW5na2Eta2FzdXMta2ViYWthcmFuLWh1dGFuLWRhbi1sYWhhbi1kaS1yaWF1LWRpdGFuZ2thcA==",
-        "description": "Kapolda Riau M Iqbal mengatakan tak akan pandang bulu dalam kasus kebakaran hutan dan lahan atau karhutla. Pelaku akan ditindak tegas."
-    },
-    {
-        "title": "Momen Bima Arya Mengajak Ganjar Pranowo Lari Pagi di Bogor Kemarin",
-        "link": "https://nasional.tempo.co/read/1615251/momen-bima-arya-mengajak-ganjar-pranowo-lari-pagi-di-bogor-kemarin",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUyNTEvbW9tZW4tYmltYS1hcnlhLW1lbmdhamFrLWdhbmphci1wcmFub3dvLWxhcmktcGFnaS1kaS1ib2dvci1rZW1hcmlu",
-        "description": "Wali Kota Bima Arya mengajak Gubernur Jawa Tengah Ganjar Pranowo menjajal trek lari di Kota Bogor. Mereka berdua juga mencicipi kuliner di Kota Hujan."
-    },
-    {
-        "title": "Polisi Ingatkan Pengacara Keluarga Brigadir J Tak Bicara Spekulasi Soal Luka dan Benda",
-        "link": "https://nasional.tempo.co/read/1615249/polisi-ingatkan-pengacara-keluarga-brigadir-j-tak-bicara-spekulasi-soal-luka-dan-benda",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUyNDkvcG9saXNpLWluZ2F0a2FuLXBlbmdhY2FyYS1rZWx1YXJnYS1icmlnYWRpci1qLXRhay1iaWNhcmEtc3Bla3VsYXNpLXNvYWwtbHVrYS1kYW4tYmVuZGE=",
-        "description": "Polisi mengingatkan pengacara keluarga Brigadir J untuk tidak berspekulasi tentang luka atau tentang benda di seputar kasus kematian polisi muda itu."
-    },
-    {
-        "title": "Densus 88 Tangkap 13 Tersangka Teroris di Aceh, Begini Sejarah Terbentuknya Satuan Antiteror Itu",
-        "link": "https://nasional.tempo.co/read/1615242/densus-88-tangkap-13-tersangka-teroris-di-aceh-begini-sejarah-terbentuknya-satuan-antiteror-itu",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUyNDIvZGVuc3VzLTg4LXRhbmdrYXAtMTMtdGVyc2FuZ2thLXRlcm9yaXMtZGktYWNlaC1iZWdpbmktc2VqYXJhaC10ZXJiZW50dWtueWEtc2F0dWFuLWFudGl0ZXJvci1pdHU=",
-        "description": "Densus 88 Antiteror Polri telah menangkap 13 tersangka teroris di wilayah Aceh pada 22 Juli 2022. Begini kisah terbentuknya Densus 88 Antiteror itu."
-    },
-    {
-        "title": "Pengacara Keluarga Brigadir J Ingin Prarekonstruksi Dugaan Pembunuhan Berencana Digelar",
-        "link": "https://nasional.tempo.co/read/1615240/pengacara-keluarga-brigadir-j-ingin-prarekonstruksi-dugaan-pembunuhan-berencana-digelar",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTUyNDAvcGVuZ2FjYXJhLWtlbHVhcmdhLWJyaWdhZGlyLWotaW5naW4tcHJhcmVrb25zdHJ1a3NpLWR1Z2Fhbi1wZW1idW51aGFuLWJlcmVuY2FuYS1kaWdlbGFy",
-        "description": "Pengacara ingin prarekonstruksi atas dugaan pembunuhan berencana terhadap Brigadir J segera dilakukan sebelum proses autopsi ulang."
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/509110/timur-angkat-isu-privasi-lewat-single-ruang-batas-publik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTExMC90aW11ci1hbmdrYXQtaXN1LXByaXZhc2ktbGV3YXQtc2luZ2xlLXJ1YW5nLWJhdGFzLXB1Ymxpaw==",
+        "description": "BAND alternative pop rock virtual besutan Double Deer Music, Timur, kembali lagi dengan single terbaru yang bertajuk Ruang Batas Publik.&nbsp;&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/509107/the-bakuucakar-rilis-album-reformula",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTEwNy90aGUtYmFrdXVjYWthci1yaWxpcy1hbGJ1bS1yZWZvcm11bGE=",
+        "description": "GRUP musik The Bakuucakar telah memantapkan langkah mereka untuk terus berkarya melalui album bertajuk Reformula, album perdana mereka&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509122/ceo-media-group-yakin-santri-bisa-hadapi-generasi-indonesia-emas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MTIyL2Nlby1tZWRpYS1ncm91cC15YWtpbi1zYW50cmktYmlzYS1oYWRhcGktZ2VuZXJhc2ktaW5kb25lc2lhLWVtYXM=",
+        "description": "CEO Media Group Mohammad Mirdal Akib memberikan kuliah umum kepada ratusan santri dan mahasantri di Pondok Pesantren Roudlotul Mubtadiin Balaikambang, Kabupaten Jepara.&nbsp; Kuliah umum tersebut&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509121/bnpt-galang-semangat-persatuan-lawan-terorisme-lewat-gowes-kebangsaan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkxMjEvYm5wdC1nYWxhbmctc2VtYW5nYXQtcGVyc2F0dWFuLWxhd2FuLXRlcm9yaXNtZS1sZXdhdC1nb3dlcy1rZWJhbmdzYWFu",
+        "description": "BADAN Nasional Penanggulangan Terorisme (BNPT) menggelar Gowes Kebangsaan. Sekitar 400 orang ikut serta menggowes sepeda dengan rute 10 km untuk menggelorakan semangat persatuan dan kesatuan untuk&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/509105/kehilangan-motivasi-carlsen-tidak-akan-pertahankan-gelar-juara-dunia-catur",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkxMTgva3B1LXRpZGFrLWFkYS15YW5nLXNhbGFoLWRhcmkta2FtcGFueWUtZGkta2FtcHVz",
         "description": "KETUA Komisi Pemilihan Umum (KPU) Hasyim Asy'ari memastikan bahwa tidak ada larangan bagi partai politik, calon presiden dan wakil presiden untuk kampanye di universitas maupun institusi pendidikan&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/509116/peningkatan-literasi-digital-bikin-transaksi-digital-jadi-makin-aman",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA5MTE2L3BlbmluZ2thdGFuLWxpdGVyYXNpLWRpZ2l0YWwtYmlraW4tdHJhbnNha3NpLWRpZ2l0YWwtamFkaS1tYWtpbi1hbWFu",
-        "description": "PERTUMBUHAN pengguna internet di Indonesia, ditambah pandemi Covid-19 yang melanda telah mendorong aktivitas digital, termasuk dalam hal ekonomi. Masyarakat menjadi sangat familiar bertransaksi secara&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509113/kpai-sebenarnya-pelaku-perundungan-anak-di-tasikmalaya-juga-korban",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MTEzL2twYWktc2ViZW5hcm55YS1wZWxha3UtcGVydW5kdW5nYW4tYW5hay1kaS10YXNpa21hbGF5YS1qdWdhLWtvcmJhbg==",
-        "description": "KETUA&nbsp;Komisi Perlindungan Anak Indonesia Daerah (KPAID) Tasikmalaya, Ato Rinanto mengatakan empat anak pelaku perundungan di Tasikmalaya&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509115/hadir-dengan-batik-biru-zulhas-lempar-kode-capres-untuk-erick-thohir",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkxMTUvaGFkaXItZGVuZ2FuLWJhdGlrLWJpcnUtenVsaGFzLWxlbXBhci1rb2RlLWNhcHJlcy11bnR1ay1lcmljay10aG9oaXI=",
-        "description": "PARTAI Amanat Nasional (PAN) membuka peluang mengusung Menteri BUMN Erick Thohir dan Gubernur DKI Jakarta Anies Baswedan dalam bursa pemilihan presiden (Pilpres) 2024. Hal ini disampaikan Ketua Umum&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509102/serena-williams-dipastikan-tampil-di-cincinnati-terbuka",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkxMDIvc2VyZW5hLXdpbGxpYW1zLWRpcGFzdGlrYW4tdGFtcGlsLWRpLWNpbmNpbm5hdGktdGVyYnVrYQ==",
-        "description": "PENYELENGGARA Western and Southern Open mengatakan Serena Williams akan ambil bagian dalam turnamen pemanasan Amerika Serikat (AS)&#8230;"
     }
 ]
