@@ -1,5 +1,12 @@
 [
     {
+        "title": "Mengenal Pajak Kendaraan dan Sanksinya",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220721193928-536-824579/mengenal-pajak-kendaraan-dan-sanksinya",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIxMTkzOTI4LTUzNi04MjQ1NzkvbWVuZ2VuYWwtcGFqYWsta2VuZGFyYWFuLWRhbi1zYW5rc2lueWE=",
+        "description": " PT Jasa Raharja (Persero) mencatat 40 juta kendaraan belum membayar Pajak Kendaraan Bermotor (PKB). Berikut pengertian PKB dan sanksi apabila tidak membayarnya."
+    },
+    {
         "title": "Laras, Ecodoe, dan Inspirasi CT Si Anak Singkong",
         "link": "https://www.cnnindonesia.com/ekonomi/20220720160025-92-823946/laras-ecodoe-dan-inspirasi-ct-si-anak-singkong",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIzMTEwOTIwLTc4LTgyNTE2MC9qb2tvd2ktYmVyaS1pemluLWZpbG0taGluZ2dhLWtvbnRlbi15b3V0dWJlLWJpc2EtamFkaS1qYW1pbmFuLXV0YW5n",
         "description": " Jokowi\u00c2\u00a0memberikan izin penggunaan film hingga konten Youtube sebagai jaminan utang lembaga keuangan dan diatur dalam PP 24 tahun 2022."
-    },
-    {
-        "title": "Kementerian ESDM Sebut Cadangan Migas di Aceh Menjanjikan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220723104619-85-825158/kementerian-esdm-sebut-cadangan-migas-di-aceh-menjanjikan",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzIzMTA0NjE5LTg1LTgyNTE1OC9rZW1lbnRlcmlhbi1lc2RtLXNlYnV0LWNhZGFuZ2FuLW1pZ2FzLWRpLWFjZWgtbWVuamFuamlrYW4=",
-        "description": " Kementerian ESDM\u00c2\u00a0menyatakan potensi\u00c2\u00a0migas di perairan Aceh menjanjikan seiring adanya penemuan cadangan terutama di Wilayah Kerja Andaman."
     }
 ]

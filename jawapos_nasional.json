@@ -1,5 +1,19 @@
 [
     {
+        "title": "BMKG: Waspada Gelombang Tinggi hingga 6 Meter di Perairan Indonesia",
+        "link": "https://www.jawapos.com/nasional/24/07/2022/bmkg-waspada-gelombang-tinggi-hingga-6-meter-di-perairan-indonesia/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMjQvMDcvMjAyMi9ibWtnLXdhc3BhZGEtZ2Vsb21iYW5nLXRpbmdnaS1oaW5nZ2EtNi1tZXRlci1kaS1wZXJhaXJhbi1pbmRvbmVzaWEv",
+        "description": "Badan Meteorologi Klimatologi, dan Geofisika (BMKG) mengeluarkan imbauan peringatan dini gelombang tinggi"
+    },
+    {
+        "title": "KPK Buka Penyelidikan Dugaan Korupsi Pengadaan Barang dan Jasa di DPR",
+        "link": "https://www.jawapos.com/nasional/hukum-kriminal/24/07/2022/kpk-buka-penyelidikan-dugaan-korupsi-pengadaan-barang-dan-jasa-di-dpr/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvaHVrdW0ta3JpbWluYWwvMjQvMDcvMjAyMi9rcGstYnVrYS1wZW55ZWxpZGlrYW4tZHVnYWFuLWtvcnVwc2ktcGVuZ2FkYWFuLWJhcmFuZy1kYW4tamFzYS1kaS1kcHIv",
+        "description": "\"Yang di DPR saya kembali masih pegang komitmen kalau masih proses penyelidikan tentunya kita tidak akan mau ekspos,\" kata Deputi Penindakan KPK"
+    },
+    {
         "title": "Dari Citayam Fashion Week, Kak Seto Minta Orang Tua Dengar Suara Anak",
         "link": "https://www.jawapos.com/nasional/24/07/2022/dari-citayam-fashion-week-kak-seto-minta-orang-tua-dengar-suara-anak/?page=all",
         "image": "static/images/jawapos_nasional.png",
@@ -54,19 +68,5 @@
         "image": "static/images/jawapos_nasional.png",
         "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMjMvMDcvMjAyMi9taXNiYWtodW4tbWludGEtcGVtZXJpbnRhaC1wZXJoYXRpa2FuLWVmZWstc2ltcGxpZmlrYXNpLWN1a2FpLXJva29rLw==",
         "description": "Misbakhun menegaskan industri rokok kecil berkontribusi terhadap penyerapan tembakau dari petani lokal."
-    },
-    {
-        "title": "Buku Mahal, Curhat Perpustakaan Keliling Busa Pustaka Lampung",
-        "link": "https://www.jawapos.com/nasional/pendidikan/23/07/2022/buku-mahal-curhat-perpustakaan-keliling-busa-pustaka-lampung/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvcGVuZGlkaWthbi8yMy8wNy8yMDIyL2J1a3UtbWFoYWwtY3VyaGF0LXBlcnB1c3Rha2Fhbi1rZWxpbGluZy1idXNhLXB1c3Rha2EtbGFtcHVuZy8=",
-        "description": "Perpustakaan keliling Busa Pustaka sediakan berbagai buku bacaan untuk anak-anak di pelosok Bandar Lampung dengan kendaraan bajaj"
-    },
-    {
-        "title": "Prarekonstruksi Kasus Brigadir J, Polri: Pembuktian Secara Ilmiah",
-        "link": "https://www.jawapos.com/nasional/hukum-kriminal/23/07/2022/prarekonstruksi-kasus-brigadir-j-polri-pembuktian-secara-ilmiah/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvaHVrdW0ta3JpbWluYWwvMjMvMDcvMjAyMi9wcmFyZWtvbnN0cnVrc2kta2FzdXMtYnJpZ2FkaXItai1wb2xyaS1wZW1idWt0aWFuLXNlY2FyYS1pbG1pYWgv",
-        "description": "Polri tengah melaksanakan prarekonstruksi kasus penembakan Brigadir J di rumah dinas Kadiv Propam Kompleks Polri Duren Tiga, Jakarta Selatan, Sabtu (23/7)."
     }
 ]

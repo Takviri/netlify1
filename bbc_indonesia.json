@@ -1,5 +1,12 @@
 [
     {
+        "title": "Apa perbedaan Covid dengan flu berat, di tengah gejala yang semakin mirip?",
+        "link": "https://www.bbc.co.uk/indonesia/articles/cd1ydgynp5zo",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jZDF5ZGd5bnA1em8=",
+        "description": "Sakit tenggorokan, sakit kepala, pilek, hidung tersumbat dan batuk menjadi gejala Covid yang paling umum. Jadi, bagaimana kita membedakan, terkena flu atau Covid-19?"
+    },
+    {
         "title": "WHO tetapkan cacar monyet sebagai darurat kesehatan global, apa gejalanya?",
         "link": "https://www.bbc.co.uk/indonesia/articles/c89dx77j0vzo",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jdzBwZzU2Z244cm8=",
         "description": "Kebijakan pendekatan kesejahteraan yang ditempuh pemerintah Indonesia di Papua disebut pengamat tidak sesuai dengan pelaksanaannya lantaran masih mengoptimalkan peran TNI/Polri yang identik sebagai \"tukang pukul ketimbang merangkul\"."
-    },
-    {
-        "title": "Anak penyandang disabilitas \u2018dirantai\u2019 oleh orang tua, diduga karena kelaparan dan \u2018mengambil jatah makanan\u2019",
-        "link": "https://www.bbc.co.uk/indonesia/articles/cl7evx2ge9yo",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jbDdldngyZ2U5eW8=",
-        "description": "Seorang anak penyandang disabilitas di Bekasi, Jawa Barat, ditemukan dalam kondisi dirantai. Dia diduga mengalami kekerasan oleh ayah kandung dan ibu tirinya."
     }
 ]
