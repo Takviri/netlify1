@@ -1,5 +1,26 @@
 [
     {
+        "title": "Kolom Pakar",
+        "link": "https://m.mediaindonesia.com/kolom-pakar/509187/memotret-kegagalan-perusahaan-rintisan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9rb2xvbS1wYWthci81MDkxODcvbWVtb3RyZXQta2VnYWdhbGFuLXBlcnVzYWhhYW4tcmludGlzYW4=",
+        "description": "GELOMBANG teknologi digital yang sudah berlangsung selama satu dekade terakhir telah membuka pintu selebar-lebarnya bagi setiap orang untuk melakukan inovasi. Inovasi yang berbasis teknologi digital&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/509228/wiebes-menangi-etape-pertama-tour-de-france-putri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkyMjgvd2llYmVzLW1lbmFuZ2ktZXRhcGUtcGVydGFtYS10b3VyLWRlLWZyYW5jZS1wdXRyaQ==",
+        "description": "LORENA Wiebes mengalahkan sesama pembalap sepeda Belanda Marianne Vos untuk memenangi etape pertama Tour de France putri di&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/509229/atasi-comeback-alcaraz-musetti-raih-gelar-atp-perdana",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkyMjkvYXRhc2ktY29tZWJhY2stYWxjYXJhei1tdXNldHRpLXJhaWgtZ2VsYXItYXRwLXBlcmRhbmE=",
+        "description": "PETENIS muda Italia Lorenzo Musetti berhasil mengalahkan Carlos Alcaraz untuk meraih gelar ATP pertamanya di turnamen tanah liat di&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/509227/botol-minum-tidak-berfungsi-hamilton-mengaku-kehilangan-3-kilogram",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTIyMS9jb250ZS1nZXJhaC1kZW5nYW4tc2lrYXAtYmF5ZXJuLWF0YXMta2FuZQ==",
         "description": "MANAJER Tottenham Hotspur Antonio Conte mengatakan Bayern Muenchen tak punya sopan santun karena membahas kemungkinan menarik Harry Kane dari Spurs. Musim panas lalu Kane berusaha pindah ke&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509220/murah-senyum-dan-bisa-main-tiktok-alasan-publik-menyukai-ganjar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkyMjAvbXVyYWgtc2VueXVtLWRhbi1iaXNhLW1haW4tdGlrdG9rLWFsYXNhbi1wdWJsaWstbWVueXVrYWktZ2FuamFy",
-        "description": "ELEKTABILITAS&nbsp;Ganjar Pranowo tetap terataa berdasarkan pelbagai hasil survei. Setidaknya, ada sejumlah hal yang membuat tingkat keterpilihan Gubernur Jawa Tengah itu semakin moncer. &quot;Apa&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/509218/psis-rekrut-pelatih-kiper-dari-inggris",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTIxOC9wc2lzLXJla3J1dC1wZWxhdGloLWtpcGVyLWRhcmktaW5nZ3Jpcw==",
-        "description": "PSIS Semarang menambah komposisi tim pelatih dengan mendatangkan pelatih kiper baru asal Inggris, Rory Grand yang memiliki lisensi B Goalkeeper UEFA. Chief Executive Officer (CEO) PSIS Yoyok&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/509217/2175-warga-sumut-sudah-terima-booster",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5MjE3LzIxNzUtd2FyZ2Etc3VtdXQtc3VkYWgtdGVyaW1hLWJvb3N0ZXI=",
-        "description": "DINAS Kesehatan Provinsi Sumatera Utara mencatat 21,75 persen masyarakat setempat telah menerima suntikan vaksin booster atau dosis penguat hingga 21 Juli 2022. &nbsp; &quot;Atau 3.219.417&#8230;"
     }
 ]
