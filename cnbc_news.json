@@ -1,5 +1,12 @@
 [
     {
+        "title": "Harga BBM Pertamina Terbaru: Ada yang Rp 16.500 Per Liter!",
+        "link": "https://www.cnbcindonesia.com/news/20220724073207-4-358041/harga-bbm-pertamina-terbaru-ada-yang-rp-16500-per-liter",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDA3MzIwNy00LTM1ODA0MS9oYXJnYS1iYm0tcGVydGFtaW5hLXRlcmJhcnUtYWRhLXlhbmctcnAtMTY1MDAtcGVyLWxpdGVy",
+        "description": " Pertamina resmi menaikkan harga tiga jenis BBM non subsidi yakni Pertamax Turbo, Dexlite dan Pertamina Dex"
+    },
+    {
         "title": "Ini Fakta 'Ngeri' Cacar Monyet yang Kini Bersatus Darurat",
         "link": "https://www.cnbcindonesia.com/news/20220724071746-4-358039/ini-fakta-ngeri-cacar-monyet-yang-kini-bersatus-darurat",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMzE5MDYxNS00LTM1Nzk5Ny9rYWNhdS1ydXNpYS1nZW1wdXItcGVsYWJ1aGFuLXVrcmFpbmEta2VzZXBha2F0YW4tYmF0YWw=",
         "description": " Rusia diketahui telah mengirimkan rudal ke pelabuhan Ukraina Selatan Odesa."
-    },
-    {
-        "title": "Kasus Covid Nanjak Lagi, Bertambah 4.943 Hari Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220723193030-16-357999/kasus-covid-nanjak-lagi-bertambah-4943-hari-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMzE5MzAzMC0xNi0zNTc5OTkva2FzdXMtY292aWQtbmFuamFrLWxhZ2ktYmVydGFtYmFoLTQ5NDMtaGFyaS1pbmk=",
-        "description": " Kasus konfirmasi harian Covid-19 kembali naik menjadi 4.943 kasus."
     }
 ]

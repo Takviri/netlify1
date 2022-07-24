@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sajak Kofe",
+        "link": "https://m.mediaindonesia.com/sajak-kofe/508890/sajak-sajak-yudhistira-anm-massardi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zYWphay1rb2ZlLzUwODg5MC9zYWphay1zYWphay15dWRoaXN0aXJhLWFubS1tYXNzYXJkaQ==",
+        "description": "Ilustrasi:&nbsp;Anna Resmini Akhirnya Kita...&nbsp;&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509060/kpk-pastikan-kasus-mardani-maming-tidak-menjerat-pbnu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkwNjAva3BrLXBhc3Rpa2FuLWthc3VzLW1hcmRhbmktbWFtaW5nLXRpZGFrLW1lbmplcmF0LXBibnU=",
+        "description": "KOMISI Pemberantasan Korupsi (KPK) menegaskan kasus dugaan suap dan gratifikasi terkait perizinan di Tanah Bumbu, Kalimantan Selatan tidak menjerat Pengurus Besar Nahdlatul Ulama (PBNU). Kejadian pemufakatan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509045/waspadai-hepatitis-akut-pada-anak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MDQ1L3dhc3BhZGFpLWhlcGF0aXRpcy1ha3V0LXBhZGEtYW5haw==",
+        "description": "SABTU (23/7) diperingati sebagai Hari Anak Nasional 2022. &nbsp;Dengan tema &ldquo;Anak Terlindungi, Indonesia Maju&rdquo;, ada begitu&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/509044/lyon-datangkan-tagliafico-dari-ajax",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwOTAxNy9zdWRva3UtZWRpc2ktMjQtanVsaS0yMDIy",
         "description": "SUDOKU atau dikenal juga dengan tebak angka (number place)"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509051/musetti-melaju-ke-final-atp-pertamanya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkwNTEvbXVzZXR0aS1tZWxhanUta2UtZmluYWwtYXRwLXBlcnRhbWFueWE=",
-        "description": "PETENIS muda Italia Lorenzo Musetti melaju ke final turnamen ATP pertamanya, Sabtu (23/7), usai menang straight set atas Francisco&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/509016/jon-bodo-jakarta-banjir",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwOTAxNi9qb24tYm9kby1qYWthcnRhLWJhbmppcg==",
-        "description": "UDAH ganti Gubernur, Jakarta tetap banjir aja ya Jon.\n&nbsp;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509049/leclerc-raih-posisi-pole-di-gp-prancis",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkwNDkvbGVjbGVyYy1yYWloLXBvc2lzaS1wb2xlLWRpLWdwLXByYW5jaXM=",
-        "description": "CHARLES Leclerc meraih posisi pole setelah tampil gemilang di sesi kualifikasi GP Prancis, Sabtu (23/7). Pembalap Ferrari itu mengalahkan pemuncak klasemen <a href=\"http://mediaindonesia.com/tag/formula&#8230;"
     }
 ]
