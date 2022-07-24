@@ -1,5 +1,19 @@
 [
     {
+        "title": "Ini Fakta 'Ngeri' Cacar Monyet yang Kini Bersatus Darurat",
+        "link": "https://www.cnbcindonesia.com/news/20220724071746-4-358039/ini-fakta-ngeri-cacar-monyet-yang-kini-bersatus-darurat",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDA3MTc0Ni00LTM1ODAzOS9pbmktZmFrdGEtbmdlcmktY2FjYXItbW9ueWV0LXlhbmcta2luaS1iZXJzYXR1cy1kYXJ1cmF0",
+        "description": " WHO secara resmi mengumumkan wabah cacar monyet atau monkeypox sebagai darurat kesehatan global dengan level alarm tinggi."
+    },
+    {
+        "title": "Rusia Makin Barbar, Tembak Rudal (Lagi) ke Pelabuhan Ukraina!",
+        "link": "https://www.cnbcindonesia.com/news/20220724065722-4-358036/rusia-makin-barbar-tembak-rudal--lagi--ke-pelabuhan-ukraina",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDA2NTcyMi00LTM1ODAzNi9ydXNpYS1tYWtpbi1iYXJiYXItdGVtYmFrLXJ1ZGFsLS1sYWdpLS1rZS1wZWxhYnVoYW4tdWtyYWluYQ==",
+        "description": " Rudal ini meluncur sehari setelah Ukraina dan Rusia sepakat membuka ekspor biji-bijian untuk mengurangi dampak krisis pangan."
+    },
+    {
         "title": "Kapal Induk Nuklir AS Tiba-tiba Datangi Tetangga RI, Ada Apa?",
         "link": "https://www.cnbcindonesia.com/news/20220724060340-4-358034/kapal-induk-nuklir-as-tiba-tiba-datangi-tetangga-ri-ada-apa",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMzE5MzAzMC0xNi0zNTc5OTkva2FzdXMtY292aWQtbmFuamFrLWxhZ2ktYmVydGFtYmFoLTQ5NDMtaGFyaS1pbmk=",
         "description": " Kasus konfirmasi harian Covid-19 kembali naik menjadi 4.943 kasus."
-    },
-    {
-        "title": "Jangan Kaget! Rusia Ungkap Siapa Untung dari Perang Ukraina",
-        "link": "https://www.cnbcindonesia.com/news/20220723170050-4-357991/jangan-kaget-rusia-ungkap-siapa-untung-dari-perang-ukraina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMzE3MDA1MC00LTM1Nzk5MS9qYW5nYW4ta2FnZXQtcnVzaWEtdW5na2FwLXNpYXBhLXVudHVuZy1kYXJpLXBlcmFuZy11a3JhaW5h",
-        "description": " Moskow mengungkapkan bahwa ada pihak yang diuntungkan dari perang berkepanjangan."
-    },
-    {
-        "title": "Harga BBM Non Subsidi Pertamina Resmi Naik, Jadi Segini!",
-        "link": "https://www.cnbcindonesia.com/news/20220723163949-4-357985/harga-bbm-non-subsidi-pertamina-resmi-naik-jadi-segini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyMzE2Mzk0OS00LTM1Nzk4NS9oYXJnYS1iYm0tbm9uLXN1YnNpZGktcGVydGFtaW5hLXJlc21pLW5haWstamFkaS1zZWdpbmk=",
-        "description": " PT Pertamina (Persero) resmi menaikkan harga tiga jenis bahan bakar minyak (BBM) non subsidi."
     }
 ]

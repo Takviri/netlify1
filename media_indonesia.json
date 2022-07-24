@@ -1,6 +1,27 @@
 [
     {
         "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/509044/lyon-datangkan-tagliafico-dari-ajax",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTA0NC9seW9uLWRhdGFuZ2thbi10YWdsaWFmaWNvLWRhcmktYWpheA==",
+        "description": "BEK Argentina Nicolas Tagliafico bergabung dengan klub Ligue 1 Olympique Lyonnais dari klub Eredivisie Ajax pada harga 4,2 juta euro&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509043/pentingnya-menjaga-kesehatan-gigi-sejak-dini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MDQzL3BlbnRpbmdueWEtbWVuamFnYS1rZXNlaGF0YW4tZ2lnaS1zZWphay1kaW5p",
+        "description": "KESEHATAN gigi adalah hal yang tidak boleh kita anggap remeh. Dengan melakukan perawatan gigi, bakteri yang berada dalam mulut&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/509054/capai-final-di-hamburg-alcaraz-tembus-5-besar-dunia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkwNTQvY2FwYWktZmluYWwtZGktaGFtYnVyZy1hbGNhcmF6LXRlbWJ1cy01LWJlc2FyLWR1bmlh",
+        "description": "CARLOS Alcaraz akan menjadi petenis termuda yang mencapai peringkat lima dunia ATP sejak Rafael Nadal pada 2005 ketika dia mencapai&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/509042/manchester-united-ditahan-imbang-aston-villa-ten-hag-kesal",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTA0Mi9tYW5jaGVzdGVyLXVuaXRlZC1kaXRhaGFuLWltYmFuZy1hc3Rvbi12aWxsYS10ZW4taGFnLWtlc2Fs",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkwNDkvbGVjbGVyYy1yYWloLXBvc2lzaS1wb2xlLWRpLWdwLXByYW5jaXM=",
         "description": "CHARLES Leclerc meraih posisi pole setelah tampil gemilang di sesi kualifikasi GP Prancis, Sabtu (23/7). Pembalap Ferrari itu mengalahkan pemuncak klasemen <a href=\"http://mediaindonesia.com/tag/formula&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/509048/bali-united-awali-liga-1-dengan-kemenangan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTA0OC9iYWxpLXVuaXRlZC1hd2FsaS1saWdhLTEtZGVuZ2FuLWtlbWVuYW5nYW4=",
-        "description": "JUARA bertahan Liga 1 Bali United mengawali musim 2022/2023 dengan tiga poin penting. Kemenangan diraih skuat Serdadu Tridatu ketika&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/509015/bung-sentil-senang-mendengar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwOTAxNS9idW5nLXNlbnRpbC1zZW5hbmctbWVuZGVuZ2Fy",
-        "description": "JADI bener tuh, meneri yang menggondol panci jadi tersangka???"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/509033/firdaus-juli-dan-fery-farhati-kolaborasi-untuk-keluarga-sehat-dan-bahagia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwOTAzMy9maXJkYXVzLWp1bGktZGFuLWZlcnktZmFyaGF0aS1rb2xhYm9yYXNpLXVudHVrLWtlbHVhcmdhLXNlaGF0LWRhbi1iYWhhZ2lh",
-        "description": "GENERASI Sehat dan Kreatif atau Gen Aktif ialah program yang diinisiasi Benihbaik untuk mendorong pengembangan generasi muda unggul, terutama membentuk generasi sehat dan kreatif. Lewat program&#8230;"
     }
 ]
