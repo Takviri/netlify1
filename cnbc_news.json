@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kasus Covid-19 RI Masih Tinggi, Bertambah 4.071 Kasus",
+        "link": "https://www.cnbcindonesia.com/news/20220724204531-16-358124/kasus-covid-19-ri-masih-tinggi-bertambah-4071-kasus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDIwNDUzMS0xNi0zNTgxMjQva2FzdXMtY292aWQtMTktcmktbWFzaWgtdGluZ2dpLWJlcnRhbWJhaC00MDcxLWthc3Vz",
+        "description": " Satgas Covid-19 RI mencatat masih adanya pertambahan kasus pada Minggu (24/7/2022) mencapai 4.071 kasus"
+    },
+    {
+        "title": "Heboh! RI Temukan Potensi Migas Terbesar di Dunia",
+        "link": "https://www.cnbcindonesia.com/news/20220724204532-16-358123/heboh-ri-temukan-potensi-migas-terbesar-di-dunia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDIwNDUzMi0xNi0zNTgxMjMvaGVib2gtcmktdGVtdWthbi1wb3RlbnNpLW1pZ2FzLXRlcmJlc2FyLWRpLWR1bmlh",
+        "description": " RI memiliki potensi temuan cadangan migas terbesar di dunia melalui wilayah kerja Andaman di Aceh"
+    },
+    {
         "title": "Gelombang Imigran Terjang Italia, 700 Orang Diselamatkan",
         "link": "https://www.cnbcindonesia.com/news/20220724194414-4-358120/gelombang-imigran-terjang-italia-700-orang-diselamatkan",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDE4MTc1MC00LTM1ODExNi9oYXJpLWFuYWstbmFzaW9uYWwtYnJpLWdhbmRlbmctcGVsYWphci1kYW4tYWt0aXZpcy1jaWxpaw==",
         "description": " Pengenalan literasi dan inspirasi pembelajaran diberikan oleh BRI untuk membangkitkan semangat anak-anak dalam meraih cita-citanya."
-    },
-    {
-        "title": "Tangkis Inflasi, Zimbabwe Langsung Bikin Koin Dari Emas",
-        "link": "https://www.cnbcindonesia.com/news/20220724155908-4-358104/tangkis-inflasi-zimbabwe-langsung-bikin-koin-dari-emas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDE1NTkwOC00LTM1ODEwNC90YW5na2lzLWluZmxhc2ktemltYmFid2UtbGFuZ3N1bmctYmlraW4ta29pbi1kYXJpLWVtYXM=",
-        "description": " Zimbabwe akan memperkenalkan koin emas terbarunya"
-    },
-    {
-        "title": "Ahli Soal Cacar Monyet: Bukan Pandemi Namun Perlu Waspada",
-        "link": "https://www.cnbcindonesia.com/news/20220724145915-4-358095/ahli-soal-cacar-monyet-bukan-pandemi-namun-perlu-waspada",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDE0NTkxNS00LTM1ODA5NS9haGxpLXNvYWwtY2FjYXItbW9ueWV0LWJ1a2FuLXBhbmRlbWktbmFtdW4tcGVybHUtd2FzcGFkYQ==",
-        "description": " Mantan Direktur Penyakit Menular WHO Asia Tenggara, Tjandra Yoga Aditama mengatakan perlu meningkatkan kewaspadaan nasional adanya penularan dari cacar monyet"
     }
 ]
