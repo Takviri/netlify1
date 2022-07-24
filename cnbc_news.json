@@ -1,5 +1,19 @@
 [
     {
+        "title": "Harga Minyak Goreng Jatuh ke Titik Terendah, Jadi Segini!",
+        "link": "https://www.cnbcindonesia.com/news/20220724172002-4-358108/harga-minyak-goreng-jatuh-ke-titik-terendah-jadi-segini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDE3MjAwMi00LTM1ODEwOC9oYXJnYS1taW55YWstZ29yZW5nLWphdHVoLWtlLXRpdGlrLXRlcmVuZGFoLWphZGktc2VnaW5p",
+        "description": " Sekarang rata-rata harga minyak goreng di pasar ritel semakin turun"
+    },
+    {
+        "title": "Ironi Biden: Vaksinasi Bukan Jaminan Bebas Covid",
+        "link": "https://www.cnbcindonesia.com/news/20220724183435-4-358118/ironi-biden-vaksinasi-bukan-jaminan-bebas-covid",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDE4MzQzNS00LTM1ODExOC9pcm9uaS1iaWRlbi12YWtzaW5hc2ktYnVrYW4tamFtaW5hbi1iZWJhcy1jb3ZpZA==",
+        "description": " Dibalas dengan lunas, itulah istilah yang tepat untuk Presiden Amerika Serikat (AS) Joe Biden yang baru\u00c2\u00a0terkonfirmasi mengidap Covid-19"
+    },
+    {
         "title": "Covid Tebar Ancaman di Negara Tetangga RI, Warga Kudu WFH",
         "link": "https://www.cnbcindonesia.com/news/20220724140557-4-358091/covid-tebar-ancaman-di-negara-tetangga-ri-warga-kudu-wfh",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDE2MDk1MC04LTM1ODEwNS9wZW5kYWZ0YXItYmJtLXN1YnNpZGktdGVtYnVzLTIyMC1yaWJ1LTgwLXBlbmdndW5hLXBlcnRhbGl0ZQ==",
         "description": " Pendaftar BBM Subsidi Tembus 220 Ribu, 80% Pengguna Pertalite"
-    },
-    {
-        "title": "Heboh Larangan Beli Pertalite 1 Agustus, Ini kata Pertamina",
-        "link": "https://www.cnbcindonesia.com/news/20220724132635-4-358087/heboh-larangan-beli-pertalite-1-agustus-ini-kata-pertamina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDEzMjYzNS00LTM1ODA4Ny9oZWJvaC1sYXJhbmdhbi1iZWxpLXBlcnRhbGl0ZS0xLWFndXN0dXMtaW5pLWthdGEtcGVydGFtaW5h",
-        "description": " Pertamina buka suara terkait penerapan larangan beli Pertalite dan Solar Subsidi 1 Agustus 2022"
-    },
-    {
-        "title": "Ngeri! Katanya AS Produksi Senjata Biologis di Ukraina",
-        "link": "https://www.cnbcindonesia.com/news/20220724142931-4-358092/ngeri-katanya-as-produksi-senjata-biologis-di-ukraina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDE0MjkzMS00LTM1ODA5Mi9uZ2VyaS1rYXRhbnlhLWFzLXByb2R1a3NpLXNlbmphdGEtYmlvbG9naXMtZGktdWtyYWluYQ==",
-        "description": " Korea Utara (Korut) menuding Amerika Serikat (AS) membuat senjata biologi di Ukraina untuk melawan Rusia"
     }
 ]
