@@ -1,5 +1,33 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/509131/percepat-otomatisasi-dan-digitalisasi-shared-services-pertamina-sudah-live-di-50-entitas-bisnis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTEzMS9wZXJjZXBhdC1vdG9tYXRpc2FzaS1kYW4tZGlnaXRhbGlzYXNpLXNoYXJlZC1zZXJ2aWNlcy1wZXJ0YW1pbmEtc3VkYWgtbGl2ZS1kaS01MC1lbnRpdGFzLWJpc25pcw==",
+        "description": "TRANSFORMASI digital menjadi kunci sukses Pertamina untuk terus bersaing di kancah global. Sejalan dengan visi menjadi perusahaan energi nasional kelas dunia, Pertamina telah membangun sistem operasional&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509130/sebelum-pulang-ke-tanah-air-jemaah-haji-gelombang-kedua-jalani-mcu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MTMwL3NlYmVsdW0tcHVsYW5nLWtlLXRhbmFoLWFpci1qZW1hYWgtaGFqaS1nZWxvbWJhbmcta2VkdWEtamFsYW5pLW1jdQ==",
+        "description": "KANTOR Kesehatan Haji Indonesia (KKHI) Madinah menggelar Medical Check Up (MCU) kepada jemaah haji gelombang kedua di lima kelompok terbang (kloter). MCU perdana dijadwalkan untuk jamaah haji di lima&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/509129/disney-umumkan-dua-film-avengers-baru",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTEyOS9kaXNuZXktdW11bWthbi1kdWEtZmlsbS1hdmVuZ2Vycy1iYXJ1",
+        "description": "DISNEY mengumumkan beberapa film superhero Marvel, termasuk dua film Avengers baru. Hal itu diumumkan Disney, Minggu (24/7) WIB, di&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/509128/warga-antusias-sambut-kirab-obor-asean-para-games",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkxMjgvd2FyZ2EtYW50dXNpYXMtc2FtYnV0LWtpcmFiLW9ib3ItYXNlYW4tcGFyYS1nYW1lcw==",
+        "description": "RANGKAIAN acara Torch Rellay ASEAN Para Games (APG) 2022 akhirnya finis di Balai Kota Surakarta pada Minggu (24/7) pagi. Setelah sebelumnya pawai obor melewati beberapa titik di beberapa kota/kabupaten&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/509127/teman-sandi-gelar-lomba-memasak-di-lebak",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTExMC90aW11ci1hbmdrYXQtaXN1LXByaXZhc2ktbGV3YXQtc2luZ2xlLXJ1YW5nLWJhdGFzLXB1Ymxpaw==",
         "description": "BAND alternative pop rock virtual besutan Double Deer Music, Timur, kembali lagi dengan single terbaru yang bertajuk Ruang Batas Publik.&nbsp;&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/509107/the-bakuucakar-rilis-album-reformula",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTEwNy90aGUtYmFrdXVjYWthci1yaWxpcy1hbGJ1bS1yZWZvcm11bGE=",
-        "description": "GRUP musik The Bakuucakar telah memantapkan langkah mereka untuk terus berkarya melalui album bertajuk Reformula, album perdana mereka&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509122/ceo-media-group-yakin-santri-bisa-hadapi-generasi-indonesia-emas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MTIyL2Nlby1tZWRpYS1ncm91cC15YWtpbi1zYW50cmktYmlzYS1oYWRhcGktZ2VuZXJhc2ktaW5kb25lc2lhLWVtYXM=",
-        "description": "CEO Media Group Mohammad Mirdal Akib memberikan kuliah umum kepada ratusan santri dan mahasantri di Pondok Pesantren Roudlotul Mubtadiin Balaikambang, Kabupaten Jepara.&nbsp; Kuliah umum tersebut&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509121/bnpt-galang-semangat-persatuan-lawan-terorisme-lewat-gowes-kebangsaan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkxMjEvYm5wdC1nYWxhbmctc2VtYW5nYXQtcGVyc2F0dWFuLWxhd2FuLXRlcm9yaXNtZS1sZXdhdC1nb3dlcy1rZWJhbmdzYWFu",
-        "description": "BADAN Nasional Penanggulangan Terorisme (BNPT) menggelar Gowes Kebangsaan. Sekitar 400 orang ikut serta menggowes sepeda dengan rute 10 km untuk menggelorakan semangat persatuan dan kesatuan untuk&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509105/kehilangan-motivasi-carlsen-tidak-akan-pertahankan-gelar-juara-dunia-catur",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkxMDUva2VoaWxhbmdhbi1tb3RpdmFzaS1jYXJsc2VuLXRpZGFrLWFrYW4tcGVydGFoYW5rYW4tZ2VsYXItanVhcmEtZHVuaWEtY2F0dXI=",
-        "description": "GM Magnus Carlsen memutuskan tidak akan mempertahankan gelar juara dunia catur melawan GM Ian Nepomniachtchi pada tahun depan karena&#8230;"
     }
 ]
