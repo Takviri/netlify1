@@ -1,5 +1,47 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/509104/jawa-tengah-turunkan-80-atlet-di-apg-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkxMDQvamF3YS10ZW5nYWgtdHVydW5rYW4tODAtYXRsZXQtZGktYXBnLTIwMjI=",
+        "description": "ATLET Jawa Tengah jadi andalan kontingen Indonesia di berbagai kejuaraan internasional. Termasuk di event ASEAN Para Games (APG) 2022 di Solo. Di mana dari 321 atlet yang diturunkan Indonesia,&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509079/cegah-pelecehan-seksual-dengan-pendidikan-aktivitas-di-dunia-maya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MDc5L2NlZ2FoLXBlbGVjZWhhbi1zZWtzdWFsLWRlbmdhbi1wZW5kaWRpa2FuLWFrdGl2aXRhcy1kaS1kdW5pYS1tYXlh",
+        "description": "RELAWAN Masyarakat Antifitnah Indonesia wilayah Pontianak Eko Akbar Setiawan menilai pencegahan tindak pelecehan seksual di&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/509074/ikon-citayamfashion-week-jeje-dan-bonge-jadi-bintang-video-klip",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTA3NC9pa29uLWNpdGF5YW1mYXNoaW9uLXdlZWstamVqZS1kYW4tYm9uZ2UtamFkaS1iaW50YW5nLXZpZGVvLWtsaXA=",
+        "description": "PENYANYI dan penulis lagu Indonesia, Keljo, merilis single dan video klip terbarunya, Jangan Katakan Cinta. Video klip itu dibintangi dua ikon fenomena Citayam Fashion Week, Jeje dan Bonge. Lagu&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509100/perludem-bawaslu-itu-levelnya-menindak-bukan-mengimbau",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkxMDAvcGVybHVkZW0tYmF3YXNsdS1pdHUtbGV2ZWxueWEtbWVuaW5kYWstYnVrYW4tbWVuZ2ltYmF1",
+        "description": "PERKUMPULAN untuk Pemilu dan Demokrasi (Perludem) menekankan agar Badan Pengawas Pemilu (Bawaslu) RI tidak hanya mengimbau tapi juga&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/509099/fasilitasi-pemeriksaan-mata-masyarakat-kasoem-vision-care-buka-cabang-baru-di-cikarang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTA5OS9mYXNpbGl0YXNpLXBlbWVyaWtzYWFuLW1hdGEtbWFzeWFyYWthdC1rYXNvZW0tdmlzaW9uLWNhcmUtYnVrYS1jYWJhbmctYmFydS1kaS1jaWthcmFuZw==",
+        "description": "KASOEM Vision Care membuka cabang baru di Cikarang, Bekasi, Jawa Barat, Sabtu, 23 Juli 2022. Pembukaan cabang Kasoem Vision Care ke-28 untuk memfasilitasi kebutuhan pemeriksaan mata masyarakat di sana.&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509098/18-koreografer-muda-tampilkan-pementasan-pamungkas-di-ajang-temu-seni-tari-di-bali",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MDk4LzE4LWtvcmVvZ3JhZmVyLW11ZGEtdGFtcGlsa2FuLXBlbWVudGFzYW4tcGFtdW5na2FzLWRpLWFqYW5nLXRlbXUtc2VuaS10YXJpLWRpLWJhbGk=",
+        "description": "SEBANYAK 18 koreografer muda Indonesia peserta ajang Temu Seni bertema tari di Bali menggelar pementasan pamungkas di Pura Samuan Tiga, sebuah situs cagar budaya dengan latar sejarah yang begitu penting&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/509071/pretty-little-liars-original-sin-akan-tayang-di-hbo-go-mulai-28-juli",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTA3MC9oYm8tcmlsaXMtdHJhaWxlci10ZXJiYXJ1LWhvdXNlLW9mLXRoZS1kcmFnb24=",
         "description": "SERIAL terbaru HBO, House of the Dragon, akan tayang di HBO Go pada 22 Agustus mendatang. Menjelang penayangan itu, HBO&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/509092/jazz-gunung-bromo-berikan-penghargaan-untuk-almarhum-donny-suhendra",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTA5Mi9qYXp6LWd1bnVuZy1icm9tby1iZXJpa2FuLXBlbmdoYXJnYWFuLXVudHVrLWFsbWFyaHVtLWRvbm55LXN1aGVuZHJh",
-        "description": "JAZZ Gunung Bromo 2022 memberikan penghargaan untuk almarhum gitaris Donny Suhendra. Setiap tahunnya, Jazz Gunung&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/509067/bruno-fernandes-mengaku-suka-dengan-disiplin-tegas-ten-hag",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTA2Ny9icnVuby1mZXJuYW5kZXMtbWVuZ2FrdS1zdWthLWRlbmdhbi1kaXNpcGxpbi10ZWdhcy10ZW4taGFn",
-        "description": "BRUNO Fernandes menyambut baik rezim keras Erik ten Hag di Manchester United dan mengatakan disiplin dalam skuat sempat&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509091/ketum-pp-muhammadiyah-anak-anak-perlu-lingkungan-budaya-dan-keteladanan-yang-baik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MDkxL2tldHVtLXBwLW11aGFtbWFkaXlhaC1hbmFrLWFuYWstcGVybHUtbGluZ2t1bmdhbi1idWRheWEtZGFuLWtldGVsYWRhbmFuLXlhbmctYmFpaw==",
-        "description": "KETUA Umum Pimpinan Pusat Muhammadiyah, Haedar Nashir mengingatkan bahwa&nbsp;anak memiliki dunia sendiri. Mereka sedang bertumbuh untuk menjadi dewasa. Hal tersebut disampaikan terkait Hari&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/509066/kim-tae-ri-tertarik-dengan-konsep-simetris-ruang-waktu-di-alienoid",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTA2Ni9raW0tdGFlLXJpLXRlcnRhcmlrLWRlbmdhbi1rb25zZXAtc2ltZXRyaXMtcnVhbmctd2FrdHUtZGktYWxpZW5vaWQ=",
-        "description": "AKTRIS Korea Selatan Kim Tae-ri mengaku konsep penjelajahan ruang dan waktu di Alienoid sangat menghibur dan mengasyikkan sehingga dia benar-benar ingin terlibat dalam proyek <a href=\"http://mediaindonesia.com/tag/film\"&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509088/kompolnas-sebut-gelar-perkara-brigadir-j-tunjukkan-indikasi-tindak-pidana",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkwODgva29tcG9sbmFzLXNlYnV0LWdlbGFyLXBlcmthcmEtYnJpZ2FkaXItai10dW5qdWtrYW4taW5kaWthc2ktdGluZGFrLXBpZGFuYQ==",
-        "description": "KOMISI Kepolisian Nasional (Kompolnas) menyebut gelar perkara kasus penembakan Nopryansah Yosua Hutabarat (J) menimbulkan titik&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/509086/tutup-aoe-2022-mendag-siap-bantu-pasarkan-produk-umkm-ke-pasar-internasional",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTA4Ni90dXR1cC1hb2UtMjAyMi1tZW5kYWctc2lhcC1iYW50dS1wYXNhcmthbi1wcm9kdWstdW1rbS1rZS1wYXNhci1pbnRlcm5hc2lvbmFs",
-        "description": "MENTERI Perdagangan Zulkifli Hasan mengapresiasi gelaran Apkasi Otonomi Expo (AOE) 2022 dan pihaknya siap membantu memasarkan produk-produk UKM ke pasar internasional. Hal ini disampaikannya saat menutup&#8230;"
     }
 ]
