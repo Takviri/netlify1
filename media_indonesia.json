@@ -1,5 +1,40 @@
 [
     {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/509212/kasus-covid-19-di-malaysia-melonjak-signifikan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTIxMi9rYXN1cy1jb3ZpZC0xOS1kaS1tYWxheXNpYS1tZWxvbmphay1zaWduaWZpa2Fu",
+        "description": "KEMENTERIAN Kesehatan Malaysia mencatatkan 4.816 kasus baru COVID-19 pada Sabtu (23/7). Penambahan yang besar terjadi di Selangor mencapai 2.249 kasus lokal baru. Laporan terbaru Kementerian&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/509211/wael-arakji-rebut-mvp-fiba-asia-cup-kendati-lebanon-kalah-di-final",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkyMTEvd2FlbC1hcmFramktcmVidXQtbXZwLWZpYmEtYXNpYS1jdXAta2VuZGF0aS1sZWJhbm9uLWthbGFoLWRpLWZpbmFs",
+        "description": "KAPTEN tim bola basket Lebanon Wael Arakji menyabet gelar sebagai Pemain Terbaik (Most Valuable Player/MVP) dalam turnamen Piala FIBA Asia 2022 yang berlangsung di Istora Gelora Bung Karno, Senayan,&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/509209/urgensi-subsidi-bbm-solar-kepada-nelayan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDkyMDkvdXJnZW5zaS1zdWJzaWRpLWJibS1zb2xhci1rZXBhZGEtbmVsYXlhbg==",
+        "description": "PELABUHAN Muara Angke pada Rabu (15/7) terlihat penuh sesak dengan kapal-kapal nelayan. Hal itu mengindikasikan para nelayan tidak melaut disebabkan tidak tersedianya atau tidak tercukupinya bahan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509210/kpk-selisik-proses-audit-keuangan-di-sulsel",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkyMTAva3BrLXNlbGlzaWstcHJvc2VzLWF1ZGl0LWtldWFuZ2FuLWRpLXN1bHNlbA==",
+        "description": "KOMISI terus mendalami dugaan suap terkait pemeriksaan laporan keuangan pada Dinas PUTR di Sulawesi Selatan (Sulsel) pada 2020. Pendalaman dilakukan dengan memeriksa enam saksi. &quot;Seluruh&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/509208/gulung-lebanon-australia-pertahankan-gelar-juara-fiba-asia-cup",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkyMDgvZ3VsdW5nLWxlYmFub24tYXVzdHJhbGlhLXBlcnRhaGFua2FuLWdlbGFyLWp1YXJhLWZpYmEtYXNpYS1jdXA=",
+        "description": "TIM bola basket Australia berhasil mempertahankan gelar juara di FIBA Asia Cup 2022. Hasil itu diraih usai menumbangkan Lebanon dengan kedudukan 75-73 dalam pertandingan final, Minggu (24/7) WIB.&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/509205/kimia-farma-dan-dompet-dhuafa-luncurkan-program-bidan-inspiratif-untuk-negeri",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTIwMi9wYW5kZW1pLWNvdmlkLTE5LWRvcm9uZ2luZHVzdHJpLW1sbS11YmFoLXN0cmF0ZWdpLWJpc25pcw==",
         "description": "PANDEMI covid-19 membuat industri multi level marketing (MLM) berubah drastis dalam menjalankan strategi bisnis mereka. Strategi penjualan langsung dilakukan kebanyakan melalui media sosial&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509201/panglima-tni-janji-telusuri-penangkapan-intel-asing-di-kaltara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkyMDEvcGFuZ2xpbWEtdG5pLWphbmppLXRlbHVzdXJpLXBlbmFuZ2thcGFuLWludGVsLWFzaW5nLWRpLWthbHRhcmE=",
-        "description": "PANGLIMA TNI Jenderal Andika Perkasa berjanji akan menelusuri enam diduga intel asing yang terdiri dari tiga orang WNI dan tiga orang WNA. Diketahui, Satgas Marinir Ambalat XXVIII TNI AL BKO&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/509200/waspada-skema-ponzi-dalam-perdagangan-digital",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDkyMDAvd2FzcGFkYS1za2VtYS1wb256aS1kYWxhbS1wZXJkYWdhbmdhbi1kaWdpdGFs",
-        "description": "KEINGINAN untuk mendapatkan keuntungan melalui aktivitas ekonomi seperti perdagangan dan investasi seringkali berujung pahit. Bukan cuan yang diraih, tapi kerugian yang didulang dengan raibnya pundi-pundi&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/509198/event-bulanan-desa-plawikan-klaten-dihadiri-anggota-watimpres-henry-indraguna",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5MTk4L2V2ZW50LWJ1bGFuYW4tZGVzYS1wbGF3aWthbi1rbGF0ZW4tZGloYWRpcmktYW5nZ290YS13YXRpbXByZXMtaGVucnktaW5kcmFndW5h",
-        "description": " TAMAN Desa Plawikan, Kecamatan Jogonalan, Klaten, Jawa Tengah, dibanjiri warga masyarakat desa setempat dan sekitarnya, Minggu (24/7). Warga di pagi hari sudah berduyun-duyun menuju Taman&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/509199/polisi-bantah-bharada-e-telah-ditahan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDkxOTkvcG9saXNpLWJhbnRhaC1iaGFyYWRhLWUtdGVsYWgtZGl0YWhhbg==",
-        "description": "KEPOLISIAN membantah telah menetapkan Bharada E sebagai tersangka dalam kasus penembakan Brigadir Nopryansah Yosua Hutabarat (J). Bharada E masih menjadi saksi dalam kasus ini. &quot;Enggak&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/509197/asyiknya-bincang-bisnis-di-sudut-arena-gernas-bbi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5MTk3L2FzeWlrbnlhLWJpbmNhbmctYmlzbmlzLWRpLXN1ZHV0LWFyZW5hLWdlcm5hcy1iYmk=",
-        "description": " Salah satu yang menarik dari gelaran Gerakan Nasional Bangga Buatan Indonesia (Gernas BBI) di Banjarmasin, adalah keberadaan gerai sejumlah kedai kopi. Terletak di bagian sudut arena Gernas&#8230;"
     }
 ]
