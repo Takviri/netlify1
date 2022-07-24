@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/509042/manchester-united-ditahan-imbang-aston-villa-ten-hag-kesal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTA0Mi9tYW5jaGVzdGVyLXVuaXRlZC1kaXRhaGFuLWltYmFuZy1hc3Rvbi12aWxsYS10ZW4taGFnLWtlc2Fs",
+        "description": "PELATIH Manchester United Erik ten Hag meminta timnya memperhatikan lagi konsentrasi mereka yang tidak bisa diterima di babak kedua sehingga ditahan imbang 2-2 oleh Aston Villa dalam <a href=\"http://mediaindonesia.com/tag/laga-persahabatan\"&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509041/ketua-idi-resmikan-peluncuran-klinik-rawat-kami",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MDQxL2tldHVhLWlkaS1yZXNtaWthbi1wZWx1bmN1cmFuLWtsaW5pay1yYXdhdC1rYW1p",
+        "description": "KETUA Ikatan Dokter Indonesia (IDI) Adib Khumaidi meresmikan peluncuran klinik Rawat Kami, Jumat (22/07), di Grand Hyatt, Jakarta Pusat.&nbsp;&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/509039/layanan-bach-flower-terobosan-baru-dalam-dunia-psikologi",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwOTAzMy9maXJkYXVzLWp1bGktZGFuLWZlcnktZmFyaGF0aS1rb2xhYm9yYXNpLXVudHVrLWtlbHVhcmdhLXNlaGF0LWRhbi1iYWhhZ2lh",
         "description": "GENERASI Sehat dan Kreatif atau Gen Aktif ialah program yang diinisiasi Benihbaik untuk mendorong pengembangan generasi muda unggul, terutama membentuk generasi sehat dan kreatif. Lewat program&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/509032/daffa-nurdiansyah-dukungan-ortu-dan-sekolah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwOTAzMi9kYWZmYS1udXJkaWFuc3lhaC1kdWt1bmdhbi1vcnR1LWRhbi1zZWtvbGFo",
-        "description": "DAFFA Nurdiansyah juga sosok anak yang berprestasi berkat menekuni minat. Tidak hanya itu, ia juga membuktikan bahwa kesuksesan anak tidak ditentukan faktor ekonomi keluarga. Di usia kini&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/509031/akeyla-naraya-alyandina-di-balik-suksesnya-anak-berbakat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwOTAzMS9ha2V5bGEtbmFyYXlhLWFseWFuZGluYS1kaS1iYWxpay1zdWtzZXNueWEtYW5hay1iZXJiYWthdA==",
-        "description": "DI masyarakat, tidak sedikit yang meyakini jika anak yang lahir dari keluarga berada secara umum akan lebih cerdas daripada anak-anak yang lahir dari keluarga prasejahtera. Selain itu, ada orang yang&#8230;"
     }
 ]
