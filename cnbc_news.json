@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kabar Gembira! Harga Minyak Goreng Turun Lagi, Jadi Segini",
+        "link": "https://www.cnbcindonesia.com/news/20220725070836-4-358146/kabar-gembira-harga-minyak-goreng-turun-lagi-jadi-segini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTA3MDgzNi00LTM1ODE0Ni9rYWJhci1nZW1iaXJhLWhhcmdhLW1pbnlhay1nb3JlbmctdHVydW4tbGFnaS1qYWRpLXNlZ2luaQ==",
+        "description": " Harga minyak goreng terus melanjutkan penurunan."
+    },
+    {
+        "title": "Waspada! Gegara Ini di China, Dunia Bisa \"Kiamat\" Baju",
+        "link": "https://www.cnbcindonesia.com/news/20220725064304-4-358140/waspada-gegara-ini-di-china-dunia-bisa-kiamat-baju",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTA2NDMwNC00LTM1ODE0MC93YXNwYWRhLWdlZ2FyYS1pbmktZGktY2hpbmEtZHVuaWEtYmlzYS1raWFtYXQtYmFqdQ==",
+        "description": " Masalah baru muncul di China. Ini bisa mengancam pakaian warga dunia."
+    },
+    {
         "title": "Bukan Ukraina! Rusia Serang Negara Ini dan Tewaskan 7 Orang",
         "link": "https://www.cnbcindonesia.com/news/20220725062104-4-358135/bukan-ukraina-rusia-serang-negara-ini-dan-tewaskan-7-orang",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDE5NDQxNC00LTM1ODEyMC9nZWxvbWJhbmctaW1pZ3Jhbi10ZXJqYW5nLWl0YWxpYS03MDAtb3JhbmctZGlzZWxhbWF0a2Fu",
         "description": " Italia menyelamatkan hampir 700 imigran di lepas pantai Calabria pada hari Sabtu waktu setempat"
-    },
-    {
-        "title": "Luhut Geram: RI-Sri Lanka Bagai Langit dan Bumi",
-        "link": "https://www.cnbcindonesia.com/news/20220724172506-4-358110/luhut-geram-ri-sri-lanka-bagai-langit-dan-bumi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDE3MjUwNi00LTM1ODExMC9sdWh1dC1nZXJhbS1yaS1zcmktbGFua2EtYmFnYWktbGFuZ2l0LWRhbi1idW1p",
-        "description": " Pemerintah menyatakan kondisi ekonomi Indonesia kuat, dan tidak bisa disamakan dengan kondisi Sri Lanka yang saat ini dalam status bangkrut."
-    },
-    {
-        "title": "Harga Minyak Goreng Jatuh ke Titik Terendah, Jadi Segini!",
-        "link": "https://www.cnbcindonesia.com/news/20220724172002-4-358108/harga-minyak-goreng-jatuh-ke-titik-terendah-jadi-segini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNDE3MjAwMi00LTM1ODEwOC9oYXJnYS1taW55YWstZ29yZW5nLWphdHVoLWtlLXRpdGlrLXRlcmVuZGFoLWphZGktc2VnaW5p",
-        "description": " Sekarang rata-rata harga minyak goreng di pasar ritel semakin turun"
     }
 ]
