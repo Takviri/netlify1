@@ -1,5 +1,12 @@
 [
     {
+        "title": "Belum Pakai NIK, NPWP Lama Masih Berlaku Hingga 31 Desember 2023",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220725173612-532-825929/belum-pakai-nik-npwp-lama-masih-berlaku-hingga-31-desember-2023",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI1MTczNjEyLTUzMi04MjU5MjkvYmVsdW0tcGFrYWktbmlrLW5wd3AtbGFtYS1tYXNpaC1iZXJsYWt1LWhpbmdnYS0zMS1kZXNlbWJlci0yMDIz",
+        "description": " DJP menyebut NPWP format lama masih bisa digunakan untuk layanan administrasi perpajakan hingga 31 Desember 2023."
+    },
+    {
         "title": "Mengenal Inflasi dan Inflasi Inti, Apa Sih Bedanya?",
         "link": "https://www.cnnindonesia.com/ekonomi/20220725152002-92-825861/mengenal-inflasi-dan-inflasi-inti-apa-sih-bedanya",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI1MTUxNTU2LTkyLTgyNTg1OC9paHNnLW1lcmFkYW5nLWtlLTY4NTgtYXdhbGktcGVrYW4taW5p",
         "description": " IHSG bertengger di 6.858 pada Senin (25/7). Indeks saham melemah 28,55 poin atau 0,41 persen dibandingkan perdagangan sebelumnya."
-    },
-    {
-        "title": "Orang Amerika Mulai Kesusahan Bayar Cicilan, Pertanda Resesi?",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220725144637-532-825827/orang-amerika-mulai-kesusahan-bayar-cicilan-pertanda-resesi",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI1MTQ0NjM3LTUzMi04MjU4Mjcvb3JhbmctYW1lcmlrYS1tdWxhaS1rZXN1c2FoYW4tYmF5YXItY2ljaWxhbi1wZXJ0YW5kYS1yZXNlc2k=",
-        "description": " Orang AS disebut mulai kesulitan membayar berbagai tagihan tepat waktu di tengah proyeksi peluang negeri Paman Sam jatuh ke lubang resesi."
     }
 ]

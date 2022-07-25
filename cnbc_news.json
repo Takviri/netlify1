@@ -1,5 +1,40 @@
 [
     {
+        "title": "Siap-siap! Anak Buah Jokowi Bakal Permudah Impor Baja, Tapi..",
+        "link": "https://www.cnbcindonesia.com/news/20220725161037-4-358392/siap-siap-anak-buah-jokowi-bakal-permudah-impor-baja-tapi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE2MTAzNy00LTM1ODM5Mi9zaWFwLXNpYXAtYW5hay1idWFoLWpva293aS1iYWthbC1wZXJtdWRhaC1pbXBvci1iYWphLXRhcGk=",
+        "description": " Pemerintah tengah mempersiapkan kebijakan terkait impor baja."
+    },
+    {
+        "title": "Jepang Anak Emaskan Tuna Thailand, RI Minta Diskon Bea Masuk",
+        "link": "https://www.cnbcindonesia.com/news/20220725155724-4-358386/jepang-anak-emaskan-tuna-thailand-ri-minta-diskon-bea-masuk",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE1NTcyNC00LTM1ODM4Ni9qZXBhbmctYW5hay1lbWFza2FuLXR1bmEtdGhhaWxhbmQtcmktbWludGEtZGlza29uLWJlYS1tYXN1aw==",
+        "description": " Indonesia meminta Jepang memberikan perlakuan serupa atas ikan tuna yang masuk ke negara tersebut."
+    },
+    {
+        "title": "Bukan Tipu-tipu! Ini Penyebab RI Lolos dari Ancaman Stagflasi",
+        "link": "https://www.cnbcindonesia.com/news/20220725163012-4-358400/bukan-tipu-tipu-ini-penyebab-ri-lolos-dari-ancaman-stagflasi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE2MzAxMi00LTM1ODQwMC9idWthbi10aXB1LXRpcHUtaW5pLXBlbnllYmFiLXJpLWxvbG9zLWRhcmktYW5jYW1hbi1zdGFnZmxhc2k=",
+        "description": " Ada empat hal yang diwaspadai dalam memandang perkembangan ekonomi global."
+    },
+    {
+        "title": "Aksi Nyata G20 dalam Ekonomi dan Keuangan Digital",
+        "link": "https://www.cnbcindonesia.com/news/20220725171944-8-358417/aksi-nyata-g20-dalam-ekonomi-dan-keuangan-digital",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE3MTk0NC04LTM1ODQxNy9ha3NpLW55YXRhLWcyMC1kYWxhbS1la29ub21pLWRhbi1rZXVhbmdhbi1kaWdpdGFs",
+        "description": " FEKDI 2022 menjadi side event dalam rangkaian acara G20 di Bali pada 11-17 Juli 2022."
+    },
+    {
+        "title": "Turun Tajam, Kasus Baru Covid-19 di RI Nambah 4.048 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220725125847-4-358292/turun-tajam-kasus-baru-covid-19-di-ri-nambah-4048-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTEyNTg0Ny00LTM1ODI5Mi90dXJ1bi10YWphbS1rYXN1cy1iYXJ1LWNvdmlkLTE5LWRpLXJpLW5hbWJhaC00MDQ4LWhhcmktaW5p",
+        "description": " Simak data terbaru Covid-19."
+    },
+    {
         "title": "Draf RUU Migas Ditargetkan Rampung Oktober-November 2022",
         "link": "https://www.cnbcindonesia.com/news/20220725154414-4-358380/draf-ruu-migas-ditargetkan-rampung-oktober-november-2022",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE1NDcyMy00LTM1ODM4My9nYXdhdC1rYXN1cy1jb3ZpZC10ZXRhbmdnYS1yaS1tZW5nZ2lsYS1wYXNpZW4tbWVtYmVsdWRhaw==",
         "description": " Australia tengah mengalami lonjakan kasus Covid-19."
-    },
-    {
-        "title": "Situasi Ekonomi RI Terkini: Balik Normal dan Lolos dari Resesi",
-        "link": "https://www.cnbcindonesia.com/news/20220725162055-4-358398/situasi-ekonomi-ri-terkini-balik-normal-lolos-dari-resesi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE2MjA1NS00LTM1ODM5OC9zaXR1YXNpLWVrb25vbWktcmktdGVya2luaS1iYWxpay1ub3JtYWwtbG9sb3MtZGFyaS1yZXNlc2k=",
-        "description": " Indonesia berhasil keluar dari pandemi covid-19 dan ancaman resesi."
-    },
-    {
-        "title": "Wow! Rusia Buat Kapal Selam Baru, Terpanjang di Dunia",
-        "link": "https://www.cnbcindonesia.com/news/20220725111101-4-358248/wow-rusia-buat-kapal-selam-baru-terpanjang-di-dunia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTExMTEwMS00LTM1ODI0OC93b3ctcnVzaWEtYnVhdC1rYXBhbC1zZWxhbS1iYXJ1LXRlcnBhbmphbmctZGktZHVuaWE=",
-        "description": " Rusia miliki kapal selam baru. Kapal Belgorod itu disebut menjadi kapal selam terpanjang di dunia."
-    },
-    {
-        "title": "Minyak Sunset, Bos SKK Migas: Masih Ada 128 Cekungan di RI",
-        "link": "https://www.cnbcindonesia.com/news/20220725150949-4-358362/minyak-sunset-bos-skk-migas-masih-ada-128-cekungan-di-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE1MDk0OS00LTM1ODM2Mi9taW55YWstc3Vuc2V0LWJvcy1za2stbWlnYXMtbWFzaWgtYWRhLTEyOC1jZWt1bmdhbi1kaS1yaQ==",
-        "description": " SKK Migas mencatat Indonesia memiliki sebanyak 128 cekungan migas yang belum digarap"
-    },
-    {
-        "title": "Dilema PETI Indonesia, Jangan Di-peti es-kan!",
-        "link": "https://www.cnbcindonesia.com/news/20220725160438-4-358389/dilema-peti-indonesia-jangan-di-peti-es-kan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE2MDQzOC00LTM1ODM4OS9kaWxlbWEtcGV0aS1pbmRvbmVzaWEtamFuZ2FuLWRpLXBldGktZXMta2Fu",
-        "description": " Masih banyak tambang mineral nasional yang berakhir menguap di kantong-kantong tak resmi."
-    },
-    {
-        "title": "Rusia Akui Serang Pelabuhan Odessa",
-        "link": "https://www.cnbcindonesia.com/news/20220725135117-8-358312/rusia-akui-serang-pelabuhan-odessa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTEzNTExNy04LTM1ODMxMi9ydXNpYS1ha3VpLXNlcmFuZy1wZWxhYnVoYW4tb2Rlc3Nh",
-        "description": " Rusia akhirnya mengakui rudal jelajahnya menghantam infrastruktur militer pelabuhan di Odessa Ukraina."
     }
 ]
