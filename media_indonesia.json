@@ -1,5 +1,33 @@
 [
     {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/509518/myanmar-eksekusi-mati-empat-tahanan-politik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTUxOC9teWFubWFyLWVrc2VrdXNpLW1hdGktZW1wYXQtdGFoYW5hbi1wb2xpdGlr",
+        "description": "JUNTA militer Myanmar telah mengeksekusi hukuman mati terhadap empat tahanan politik, termasuk mantan anggota DPR dari partai pimpinan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/509525/harga-minyak-naik-2-dolar-terpicu-kekawatiran-pasokan-berkurang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTUyNS9oYXJnYS1taW55YWstbmFpay0yLWRvbGFyLXRlcnBpY3Uta2VrYXdhdGlyYW4tcGFzb2thbi1iZXJrdXJhbmc=",
+        "description": "HARGA minyak naik sekitar dua dolar AS pada akhir perdagangan Senin atau Selasa pagi WIB (26/7), didukung oleh kekhawatiran pasokan, penurunan dolar AS (&quot;greenback&quot;) dan kekuatan awal di&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509523/pengamat-apresiasi-firli-usut-dugaan-korupsi-stadion-mandala-krida-diy",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDk1MjMvcGVuZ2FtYXQtYXByZXNpYXNpLWZpcmxpLXVzdXQtZHVnYWFuLWtvcnVwc2ktc3RhZGlvbi1tYW5kYWxhLWtyaWRhLWRpeQ==",
+        "description": "SETELAH sekian lama menyelidiki dugaan korupsi pembangunan stadion Mandala Krida di pemerintahan Daerah Istimewa Yogyakarta (DIY), akhirnya KPK menetapkan tiga orang tersangka. Peristiwa itu&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/509517/ini-slogan-olimpiade-paris-2024",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDk1MTcvaW5pLXNsb2dhbi1vbGltcGlhZGUtcGFyaXMtMjAyNA==",
+        "description": "PENYELENGGARA Olimpiade Paris 2024, Senin (25/7), mengumumkan 'Games Wide Open' sebagai slogan resmi pesta olahraga&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/509516/adele-umumkan-jadwal-konser-di-las-vegas",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDk1MTIvYWxjYXJhei1qYWRpLXBldGVuaXMtdGVybXVkYS15YW5nLXRlbWJ1cy01LWJlc2FyLWR1bmlhLXNldGVsYWgtbmFkYWw=",
         "description": "CARLOS Alcaraz, Senin (25/7), dikonfirmasi menjadi petenis termuda yang menembus lima besar ATP sejak Rafael Nadal, setelah remaja&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/509511/raih-dua-kemenangan-di-piala-aff-u-18-timnas-putri-banjir-bonus",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTUxMS9yYWloLWR1YS1rZW1lbmFuZ2FuLWRpLXBpYWxhLWFmZi11LTE4LXRpbW5hcy1wdXRyaS1iYW5qaXItYm9udXM=",
-        "description": "TIMNAS putri Indonesia U-18 dibajiri bonus usai memenangi dua laga perdana mereka di Grup A Piala AFF U-18 Putri 2022 yang&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/509508/persik-kediri-tak-berdaya-di-kandang-persita",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTUwOC9wZXJzaWsta2VkaXJpLXRhay1iZXJkYXlhLWRpLWthbmRhbmctcGVyc2l0YQ==",
-        "description": "PERSITA&nbsp; Tangerang mengunci kemenangan pada pekan perdana Liga 1 Indonesia 2022/23 seusai menekuk Persik Kediri dengan skor 2-0 di Stadion Indomilk Arena, Tangerang, Senin (25/7) Pada pertandingan&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/509506/raja-yordania-solusi-untuk-palestina-kunci-perdamaian-timur-tengah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTUwNi9yYWphLXlvcmRhbmlhLXNvbHVzaS11bnR1ay1wYWxlc3RpbmEta3VuY2ktcGVyZGFtYWlhbi10aW11ci10ZW5nYWg=",
-        "description": "RAJA Yordania Abdullah II menegaskan penyelesaian permasalahan Palestina merupakan kunci bagi terciptanya perdamaian yang langgeng dan komprehensif. Keamanan dan kestabilan di kawasan tidak&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/509505/moyes-berharap-declan-rice-bisa-gantikan-peran-kepemimpinan-mark-noble",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTUwNS9tb3llcy1iZXJoYXJhcC1kZWNsYW4tcmljZS1iaXNhLWdhbnRpa2FuLXBlcmFuLWtlcGVtaW1waW5hbi1tYXJrLW5vYmxl",
-        "description": "PELATIH West Ham David Moyes meminta gelandang Declan Rice untuk mengambil peran yang ditinggalkan oleh Mark Noble pada musim ini setelah pemain asal Inggris itu memutuskan pensiun pada akhir musim.&#8230;"
     }
 ]
