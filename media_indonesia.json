@@ -1,6 +1,13 @@
 [
     {
         "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/509511/raih-dua-kemenangan-di-piala-aff-u-18-timnas-putri-banjir-bonus",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTUxMS9yYWloLWR1YS1rZW1lbmFuZ2FuLWRpLXBpYWxhLWFmZi11LTE4LXRpbW5hcy1wdXRyaS1iYW5qaXItYm9udXM=",
+        "description": "TIMNAS putri Indonesia U-18 dibajiri bonus usai memenangi dua laga perdana mereka di Grup A Piala AFF U-18 Putri 2022 yang&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/509508/persik-kediri-tak-berdaya-di-kandang-persita",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTUwOC9wZXJzaWsta2VkaXJpLXRhay1iZXJkYXlhLWRpLWthbmRhbmctcGVyc2l0YQ==",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTQ5OS9ha3NpLXBlbmVtYmFrYW4tZGkta2FuYWRhLWJlYmVyYXBhLW9yYW5nLWx1a2E=",
         "description": "PERISTIWA penembakan terjadi di dekat Kota Vancouver, Kanada, Senin (25/7) waktu setempat. Beberapa orang dilaporkan menjadi korban dalam kejadian ini. Seorang tersangka telah ditahan. Laporan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/509498/deprindo-dorong-munculnya-kebijakan-yang-mudahkan-pembangunan-rumah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTQ5OC9kZXByaW5kby1kb3JvbmctbXVuY3VsbnlhLWtlYmlqYWthbi15YW5nLW11ZGFoa2FuLXBlbWJhbmd1bmFuLXJ1bWFo",
-        "description": "ASOSIASI pengembang Developer Properti Indonesia (Deprindo) mendorong semua pemangku kepentingan pembangunan perumahan mulai dari pemerintah pusat, pemerintah daerah dan BUMN dapat membuat kebijakan&#8230;"
     }
 ]
