@@ -1,5 +1,47 @@
 [
     {
+        "title": "BPDPKS Setop Pungutan Ekspor, Petani-Pengusaha Sawit Senang?",
+        "link": "https://www.cnbcindonesia.com/news/20220725111714-8-358250/bpdpks-setop-pungutan-ekspor-petani-pengusaha-sawit-senang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTExMTcxNC04LTM1ODI1MC9icGRwa3Mtc2V0b3AtcHVuZ3V0YW4tZWtzcG9yLXBldGFuaS1wZW5ndXNhaGEtc2F3aXQtc2VuYW5n",
+        "description": " BPDPKS Setop Pungutan Ekspor, Petani dan Pengusaha Sawit Senang?"
+    },
+    {
+        "title": "Temui Panglima TNI, Jenderal AS Ungkap Ancaman Besar China",
+        "link": "https://www.cnbcindonesia.com/news/20220725111302-4-358249/temui-panglima-tni-jenderal-as-ungkap-ancaman-besar-china",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTExMTMwMi00LTM1ODI0OS90ZW11aS1wYW5nbGltYS10bmktamVuZGVyYWwtYXMtdW5na2FwLWFuY2FtYW4tYmVzYXItY2hpbmE=",
+        "description": " Kepala Staf Gabungan Militer Amerika Serikat (AS) Jenderal Mark Milley melakukan kunjungan ke Indonesia dan menemui Panglima TNI Jenderal Andika Perkasa."
+    },
+    {
+        "title": "Jreengg! Ada Sinyal Subsidi BBM dan Listrik Bakal Dicabut",
+        "link": "https://www.cnbcindonesia.com/news/20220725121152-4-358277/jreengg-ada-sinyal-subsidi-bbm-listrik-bakal-dicabut",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTEyMTE1Mi00LTM1ODI3Ny9qcmVlbmdnLWFkYS1zaW55YWwtc3Vic2lkaS1iYm0tbGlzdHJpay1iYWthbC1kaWNhYnV0",
+        "description": " Kementerian Keuangan mempersiapkan anggaran pendapatan dan belanja negara (APBN) yang semakin efektif."
+    },
+    {
+        "title": "BPKP Mulai Audit Industri Sawit",
+        "link": "https://www.cnbcindonesia.com/news/20220725084243-8-358172/bpkp-mulai-audit-industri-sawit",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTA4NDI0My04LTM1ODE3Mi9icGtwLW11bGFpLWF1ZGl0LWluZHVzdHJpLXNhd2l0",
+        "description": " Pemerintah bakal mengenakan penalti bagi perusahaan sawit apabila terbukti melanggar aturan."
+    },
+    {
+        "title": "Pungutan Ekspor CPO Dihapus, Ekspor Langsung Naik?",
+        "link": "https://www.cnbcindonesia.com/news/20220725115816-4-358271/pungutan-ekspor-cpo-dihapus-ekspor-langsung-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTExNTgxNi00LTM1ODI3MS9wdW5ndXRhbi1la3Nwb3ItY3BvLWRpaGFwdXMtZWtzcG9yLWxhbmdzdW5nLW5haWs=",
+        "description": " Direktur Eksekutif Gabungan Industri Minyak Nabati Indonesia (GIMNI) Sahat Sinaga mengatakan pungutan 0 pada ekspor CPO tidak berarti membuat ekspor naik."
+    },
+    {
+        "title": "Boy Thohir Pimpin Kadin Indonesia Komite Tiongkok",
+        "link": "https://www.cnbcindonesia.com/news/20220725111705-4-358251/boy-thohir-pimpin-kadin-indonesia-komite-tiongkok",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTExMTcwNS00LTM1ODI1MS9ib3ktdGhvaGlyLXBpbXBpbi1rYWRpbi1pbmRvbmVzaWEta29taXRlLXRpb25na29r",
+        "description": " Pengusaha senior Garibaldi Thohir alias Boy Thohir jadi pemimpin baru Kadin Indonesia Komite Tiongkok."
+    },
+    {
         "title": "Lagi! Penembakan Maut di Amerika, 2 Orang Tewas",
         "link": "https://www.cnbcindonesia.com/news/20220725114617-7-358264/lagi-penembakan-maut-di-amerika-2-orang-tewas",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTEwMDkzNS00LTM1ODIxNi9jYWxvbi1wbS1pbmdncmlzLXNlYnV0LWNoaW5hLWFuY2FtYW4tbm8tMS1kb21lc3Rpay1nbG9iYWw=",
         "description": " Rishi Sunak berjanji akan bersikap keras terhadap China jika ia menjadi perdana menteri berikutnya."
-    },
-    {
-        "title": "Pungutan Ekspor Disetop, Program BPDPKS Terus Jalan",
-        "link": "https://www.cnbcindonesia.com/news/20220725105816-8-358244/pungutan-ekspor-disetop-program-bpdpks-terus-jalan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTEwNTgxNi04LTM1ODI0NC9wdW5ndXRhbi1la3Nwb3ItZGlzZXRvcC1wcm9ncmFtLWJwZHBrcy10ZXJ1cy1qYWxhbg==",
-        "description": " Pungutan Ekspor Disetop, BPDPKS Pastikan Program Terus Jalan"
-    },
-    {
-        "title": "Menteri Jokowi Keliling Amerika, Kaji Kereta Gantung IKN",
-        "link": "https://www.cnbcindonesia.com/news/20220725102423-4-358225/menteri-jokowi-keliling-amerika-kaji-kereta-gantung-ikn",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTEwMjQyMy00LTM1ODIyNS9tZW50ZXJpLWpva293aS1rZWxpbGluZy1hbWVyaWthLWthamkta2VyZXRhLWdhbnR1bmctaWtu",
-        "description": " Menteri PPN/Kepala Bappenas mengunjungi\u00c2\u00a0Stevenson Fishing Port, Harbour Flight Centre dan Boeing di Amerika Serikat (AS) dan Kanada."
-    },
-    {
-        "title": "Memikat Dunia, RI Terbukti Punya Potensi Migas Terbesar",
-        "link": "https://www.cnbcindonesia.com/news/20220725112328-4-358252/memikat-dunia-ri-terbukti-punya-potensi-migas-terbesar",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTExMjMyOC00LTM1ODI1Mi9tZW1pa2F0LWR1bmlhLXJpLXRlcmJ1a3RpLXB1bnlhLXBvdGVuc2ktbWlnYXMtdGVyYmVzYXI=",
-        "description": " SKK Migas memastikan Indonesia memiliki potensi sumber daya migas besar di area Andaman, Aceh"
-    },
-    {
-        "title": "Minyak RI Sunset, DPR: Jangan Takut Gelar Karpet Merah Asing",
-        "link": "https://www.cnbcindonesia.com/news/20220725102630-4-358226/minyak-ri-sunset-dpr-jangan-takut-gelar-karpet-merah-asing",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTEwMjYzMC00LTM1ODIyNi9taW55YWstcmktc3Vuc2V0LWRwci1qYW5nYW4tdGFrdXQtZ2VsYXIta2FycGV0LW1lcmFoLWFzaW5n",
-        "description": " DPR Ri dan SKK Migas sepakat untuk memberikan karpet merah kepada investor asing di sektor migas"
-    },
-    {
-        "title": "RI Mau Serba Digital Tapi Terhalang PNS Tua dan Malas",
-        "link": "https://www.cnbcindonesia.com/news/20220725105126-4-358243/ri-mau-serba-digital-tapi-terhalang-pns-tua-dan-malas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTEwNTEyNi00LTM1ODI0My9yaS1tYXUtc2VyYmEtZGlnaXRhbC10YXBpLXRlcmhhbGFuZy1wbnMtdHVhLWRhbi1tYWxhcw==",
-        "description": " PNS kini didominasi oleh individu berusia tua dibanding yang muda. Parahnya yang berusia tua ini malas belajar hal baru."
-    },
-    {
-        "title": "Pungutan Ekspor Setop Sementara, Program BPDPKS Aman?",
-        "link": "https://www.cnbcindonesia.com/news/20220725110700-4-358247/pungutan-ekspor-setop-sementara-program-bpdpks-aman",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTExMDcwMC00LTM1ODI0Ny9wdW5ndXRhbi1la3Nwb3Itc2V0b3Atc2VtZW50YXJhLXByb2dyYW0tYnBkcGtzLWFtYW4=",
-        "description": " BPDPKS, mengungkapkan penghapusan pungutan ekspor CPO membuat potensi pungutan hilang senilai Rp 11,5-16 triliun selama aturan berlaku."
     }
 ]
