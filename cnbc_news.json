@@ -1,5 +1,26 @@
 [
     {
+        "title": "Jerman di Ambang Resesi, Kepercayaan Pengusaha Menurun",
+        "link": "https://www.cnbcindonesia.com/news/20220725183720-4-358459/jerman-di-ambang-resesi-kepercayaan-pengusaha-menurun",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE4MzcyMC00LTM1ODQ1OS9qZXJtYW4tZGktYW1iYW5nLXJlc2VzaS1rZXBlcmNheWFhbi1wZW5ndXNhaGEtbWVudXJ1bg==",
+        "description": " Sebuah riset terbaru menunjukan iklim bisnis di Jerman memburuk secara signifikan pada Juli."
+    },
+    {
+        "title": "Ukraina Gempur Rusia Pakai Senjata dari AS, Begini Hasilnya",
+        "link": "https://www.cnbcindonesia.com/news/20220725193950-4-358475/ukraina-gempur-rusia-pakai-senjata-dari-as-begini-hasilnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE5Mzk1MC00LTM1ODQ3NS91a3JhaW5hLWdlbXB1ci1ydXNpYS1wYWthaS1zZW5qYXRhLWRhcmktYXMtYmVnaW5pLWhhc2lsbnlh",
+        "description": " Pemerintah Ukraina mengatakan bahwa pasukannya telah menghancurkan 50 gudang amunisi Rusia dengan senjata rudal kiriman Amerika Serikat (AS) HIMARS."
+    },
+    {
+        "title": "Harga-Harga Naik, Bos Logistik Masih Tahan Biaya Ongkir!",
+        "link": "https://www.cnbcindonesia.com/news/20220725193241-4-358474/harga-harga-naik-bos-logistik-masih-tahan-biaya-ongkir",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE5MzI0MS00LTM1ODQ3NC9oYXJnYS1oYXJnYS1uYWlrLWJvcy1sb2dpc3Rpay1tYXNpaC10YWhhbi1iaWF5YS1vbmdraXI=",
+        "description": " Pelaku usaha jasa pengiriman ekspres berpotensi menaikkan tarif harga dari peningkatan beberapa beban ongkos logistik."
+    },
+    {
         "title": "Potret Nicole Shanahan, Digosipkan Jadi Selingkuhan Elon Musk",
         "link": "https://www.cnbcindonesia.com/news/20220725154540-7-358438/potret-nicole-shanahan-digosipkan-jadi-selingkuhan-elon-musk",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE4MDEyNC00LTM1ODQ3MC9pbmR1c3RyaS1yaS10YWstY3VtYS10ZXJ0ZWthbi1kb2xhci1pbmktYW5jYW1hbi1sYWlubnlh",
         "description": " Industri tekstil ikut terkena dampak dari melemahnya nilai tukar rupiah terhadap dolar Amerika Serikat (AS)."
-    },
-    {
-        "title": "Nah Lho, Warga dan Ahli AS Sama-sama Bingung soal Ekonominya",
-        "link": "https://www.cnbcindonesia.com/news/20220725142900-4-358327/nah-lho-warga-ahli-as-sama-sama-bingung-soal-ekonominya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE0MjkwMC00LTM1ODMyNy9uYWgtbGhvLXdhcmdhLWFobGktYXMtc2FtYS1zYW1hLWJpbmd1bmctc29hbC1la29ub21pbnlh",
-        "description": " Ekonomi Amerika Serikat (AS) benar-benar membingungkan. Warganya tak yakin ke mana arah ekonomi Negeri Paman Sam tersebut."
-    },
-    {
-        "title": "Serba Mudah Pakai Livin' Sukha",
-        "link": "https://www.cnbcindonesia.com/news/20220725185259-8-358471/serba-mudah-pakai-livin-sukha",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE4NTI1OS04LTM1ODQ3MS9zZXJiYS1tdWRhaC1wYWthaS1saXZpbi1zdWtoYQ==",
-        "description": " Bank Mandiri telah menyempurnakan Super APP Livin' by Mandiri dengan meluncurkan fitur Livin' Sukha."
-    },
-    {
-        "title": "Shopee Harap JIS Bisa Wujudkan Visi Misi Jakarta",
-        "link": "https://www.cnbcindonesia.com/news/20220725194241-4-358476/shopee-harap-jis-bisa-wujudkan-visi-misi-jakarta",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE5NDI0MS00LTM1ODQ3Ni9zaG9wZWUtaGFyYXAtamlzLWJpc2Etd3VqdWRrYW4tdmlzaS1taXNpLWpha2FydGE=",
-        "description": " Jakarta International Stadium diharapkan dapat mewujudkan visi misi Jakarta sebagai kota yang maju, lestari, dan berbudaya."
     }
 ]
