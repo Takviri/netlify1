@@ -1,5 +1,33 @@
 [
     {
+        "title": "'Situasi Dunia Memang Bikin Seram, Tapi RI Baik-baik Saja'",
+        "link": "https://www.cnbcindonesia.com/news/20220725153607-4-358377/situasi-dunia-memang-bikin-seram-tapi-ri-baik-baik-saja",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE1MzYwNy00LTM1ODM3Ny9zaXR1YXNpLWR1bmlhLW1lbWFuZy1iaWtpbi1zZXJhbS10YXBpLXJpLWJhaWstYmFpay1zYWph",
+        "description": " Situasi perekonomian dunia memang dalam keadaan yang tidak pasti, namun perekonomian nasional dalam kondisi yang baik"
+    },
+    {
+        "title": "Gawat! Kasus Covid Tetangga RI 'Menggila', Pasien Membeludak",
+        "link": "https://www.cnbcindonesia.com/news/20220725154723-4-358383/gawat-kasus-covid-tetangga-ri-menggila-pasien-membeludak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE1NDcyMy00LTM1ODM4My9nYXdhdC1rYXN1cy1jb3ZpZC10ZXRhbmdnYS1yaS1tZW5nZ2lsYS1wYXNpZW4tbWVtYmVsdWRhaw==",
+        "description": " Australia tengah mengalami lonjakan kasus Covid-19."
+    },
+    {
+        "title": "Situasi Ekonomi RI Terkini: Balik Normal dan Lolos dari Resesi",
+        "link": "https://www.cnbcindonesia.com/news/20220725162055-4-358398/situasi-ekonomi-ri-terkini-balik-normal-lolos-dari-resesi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE2MjA1NS00LTM1ODM5OC9zaXR1YXNpLWVrb25vbWktcmktdGVya2luaS1iYWxpay1ub3JtYWwtbG9sb3MtZGFyaS1yZXNlc2k=",
+        "description": " Indonesia berhasil keluar dari pandemi covid-19 dan ancaman resesi."
+    },
+    {
+        "title": "Wow! Rusia Buat Kapal Selam Baru, Terpanjang di Dunia",
+        "link": "https://www.cnbcindonesia.com/news/20220725111101-4-358248/wow-rusia-buat-kapal-selam-baru-terpanjang-di-dunia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTExMTEwMS00LTM1ODI0OC93b3ctcnVzaWEtYnVhdC1rYXBhbC1zZWxhbS1iYXJ1LXRlcnBhbmphbmctZGktZHVuaWE=",
+        "description": " Rusia miliki kapal selam baru. Kapal Belgorod itu disebut menjadi kapal selam terpanjang di dunia."
+    },
+    {
         "title": "Minyak Sunset, Bos SKK Migas: Masih Ada 128 Cekungan di RI",
         "link": "https://www.cnbcindonesia.com/news/20220725150949-4-358362/minyak-sunset-bos-skk-migas-masih-ada-128-cekungan-di-ri",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE1MDgxOS00LTM1ODM3Ni9ib2NvcmFuLWRhcmktamVwYW5nLW1pdHN1YmlzaGktbmlzc2FuLWJpa2luLW1vYmlsLWxpc3RyaWstcmk=",
         "description": " Pabrikan mobil Jepang tak mau kalah akan memproduksi mobil listrik di Indonesia."
-    },
-    {
-        "title": "Harga TBS Sawit Masih Amblas Karena Ulah Pengusaha?",
-        "link": "https://www.cnbcindonesia.com/news/20220725151609-4-358372/harga-tbs-sawit-masih-amblas-karena-ulah-pengusaha",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE1MTYwOS00LTM1ODM3Mi9oYXJnYS10YnMtc2F3aXQtbWFzaWgtYW1ibGFzLWthcmVuYS11bGFoLXBlbmd1c2FoYQ==",
-        "description": " Kenaikan harga CPO dan ekspor belum diikuti oleh membaiknya harga tandan buah segar (TBS) kelapa sawit di kalangan petani."
-    },
-    {
-        "title": "Majukan Pendidikan, BRI Renovasi SDN 006 Bandarsyah di Natuna",
-        "link": "https://www.cnbcindonesia.com/news/20220725153835-4-358378/majukan-pendidikan-bri-renovasi-sdn-006-bandarsyah-di-natuna",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE1MzgzNS00LTM1ODM3OC9tYWp1a2FuLXBlbmRpZGlrYW4tYnJpLXJlbm92YXNpLXNkbi0wMDYtYmFuZGFyc3lhaC1kaS1uYXR1bmE=",
-        "description": " BRI\u00c2\u00a0melakukan perbaikan bangunan dan sarana prasarana SDN 006 Bandarsyah Natuna yang rusak, seperti kursi, meja, lemari dan peralatan pendukung lainnya."
-    },
-    {
-        "title": "RI Darurat Pertambangan Tanpa Izin, Ini Sebabnya..",
-        "link": "https://www.cnbcindonesia.com/news/20220725143205-4-358329/ri-darurat-pertambangan-tanpa-izin-ini-sebabnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE0MzIwNS00LTM1ODMyOS9yaS1kYXJ1cmF0LXBlcnRhbWJhbmdhbi10YW5wYS1pemluLWluaS1zZWJhYm55YQ==",
-        "description": " Sampai kuartal III-2022 ini terdapat sebantak 2.700 lokasi pertambangan tanpa izin (PETI) di seluruh Indonesia"
-    },
-    {
-        "title": "Jokowi Mau Temui Xi Jinping, Ada Misi Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220725135118-8-358310/jokowi-mau-temui-xi-jinping-ada-misi-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTEzNTExOC04LTM1ODMxMC9qb2tvd2ktbWF1LXRlbXVpLXhpLWppbnBpbmctYWRhLW1pc2ktYXBh",
-        "description": " Presiden Joko Widodo siap bertolak ke China siang ini untuk bertemu dengan Presiden China Xi Jin Ping."
     }
 ]
