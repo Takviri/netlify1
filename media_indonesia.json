@@ -1,5 +1,19 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/509516/adele-umumkan-jadwal-konser-di-las-vegas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTUxNi9hZGVsZS11bXVta2FuLWphZHdhbC1rb25zZXItZGktbGFzLXZlZ2Fz",
+        "description": "ADELE, Senin (25/7), mengumumkan tanggal konsernya di Las Vegas, yang ditunda pada awal tahun ini. Rangkaian konser bertajuk&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/509515/pelatih-persita-lega-raih-tiga-poin-saat-lawan-persik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTUxNS9wZWxhdGloLXBlcnNpdGEtbGVnYS1yYWloLXRpZ2EtcG9pbi1zYWF0LWxhd2FuLXBlcnNpaw==",
+        "description": "PELATIH Persita Angel Alfredo Vera mensyukuri raihan tiga poin penting dari kemenangan atas Persik Kediri di laga pekan perdana Liga 1&#8230;"
+    },
+    {
         "title": "Opini",
         "link": "https://m.mediaindonesia.com/opini/509509/meneguhkan-kembali-politik-kebangsaan",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTUwNS9tb3llcy1iZXJoYXJhcC1kZWNsYW4tcmljZS1iaXNhLWdhbnRpa2FuLXBlcmFuLWtlcGVtaW1waW5hbi1tYXJrLW5vYmxl",
         "description": "PELATIH West Ham David Moyes meminta gelandang Declan Rice untuk mengambil peran yang ditinggalkan oleh Mark Noble pada musim ini setelah pemain asal Inggris itu memutuskan pensiun pada akhir musim.&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509504/pbsi-piala-presiden-berhadiah-rp1-miliar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDk1MDQvcGJzaS1waWFsYS1wcmVzaWRlbi1iZXJoYWRpYWgtcnAxLW1pbGlhcg==",
-        "description": "PBSI menyebutkan kejuaraan Piala Presiden 2022 yang digelar untuk pertama kalinya pada cabang olahraga ini akan menyediakan hadiah uang mencapai Rp1,55 miliar. Menurut Wakil Ketua Pelaksana&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/509503/uea-laporkan-tiga-kasus-baru-cacar-monyet",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTUwMy91ZWEtbGFwb3JrYW4tdGlnYS1rYXN1cy1iYXJ1LWNhY2FyLW1vbnlldA==",
-        "description": "UNI Emirat Arab (UEA) mengkonfirmasi tiga kasus baru penyakit virus cacar monyet pada Minggu (24/7). Total jumlah kasus naik menjadi 16 orang. &quot;Kami menyarankan masyarakat untuk mematuhi&#8230;"
     }
 ]
