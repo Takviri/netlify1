@@ -1,5 +1,47 @@
 [
     {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/509276/who-minta-negara-negara-di-asia-tenggara-waspada-cacar-monyet",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTI3Ni93aG8tbWludGEtbmVnYXJhLW5lZ2FyYS1kaS1hc2lhLXRlbmdnYXJhLXdhc3BhZGEtY2FjYXItbW9ueWV0",
+        "description": "ORGANISASI Kesehatan Dunia (WHO) meminta negara-negara di kawasan Asia Tenggara memperkuat sistem pengawasan terhadap penyakit cacar&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/509281/sadari-media-sosial-rawan-jadi-tempat-pencurian-data-pribadi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA5MjgxL3NhZGFyaS1tZWRpYS1zb3NpYWwtcmF3YW4tamFkaS10ZW1wYXQtcGVuY3VyaWFuLWRhdGEtcHJpYmFkaQ==",
+        "description": "Transformasi digital mengalami percepatan karena Pandemi Covid-19, di mana segala sesuatunya beralih ke online mulai dari bekerja, sekolah, hingga aktivitas keuangan. Hal tersebut juga menenggarai&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/509279/tidak-mempan-dikritik-junta-myanmar-eksekusi-empat-orang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTI3OS90aWRhay1tZW1wYW4tZGlrcml0aWstanVudGEtbXlhbm1hci1la3Nla3VzaS1lbXBhdC1vcmFuZw==",
+        "description": "Junta Myanmar telah mengeksekusi empat tahanan termasuk seorang mantan anggota parlemen dari partai Aung San Suu Kyi, Zeya Thaw, pada Senin (25/7). Hukuman yang ditentang aktivis Hak Asasi Manusia&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/509268/ini-pentingnya-mengamankan-data-pribadi-dan-jejak-digital-anda",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA5MjY4L2luaS1wZW50aW5nbnlhLW1lbmdhbWFua2FuLWRhdGEtcHJpYmFkaS1kYW4tamVqYWstZGlnaXRhbC1hbmRh",
+        "description": "DOSEN Universitas Ahmad Dahlan, Devi Ardiyanti, menjelaskan pentingnya menjaga data pribadi saat beraktivitas di dunia digital,&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509278/surya-paloh-terima-anugerah-doktor-honoris-causa-di-universitas-brawijaya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkyNzgvc3VyeWEtcGFsb2gtdGVyaW1hLWFudWdlcmFoLWRva3Rvci1ob25vcmlzLWNhdXNhLWRpLXVuaXZlcnNpdGFzLWJyYXdpamF5YQ==",
+        "description": " SURYA Dharma Paloh menerima anugerah doktor honoris causa di Fakultas Ilmu sosial dan Ilmu Politik (Fisip) Universitas Brawijaya, Kota Malang, Jawa Timur. Ketua Umum Partai NasDem tersebut menyampaikan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/509277/awal-pekan-ini-ihsg-dibuka-menguat-ke-level-6890",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTI3Ny9hd2FsLXBla2FuLWluaS1paHNnLWRpYnVrYS1tZW5ndWF0LWtlLWxldmVsLTY4OTA=",
+        "description": "PERGERAKAN Indeks Harga Saham gabungan (IHSG) pada Senin (25/7) ini dibuka menguat 3,87 poin atau 0,06% ke posisi 6.890,84. Sementara itu, kelompok 45 saham unggulan atau indeks LQ45 naik 0,78 poin&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/509267/ini-pentingnya-mengebiri-kucing-peliharaan-anda",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTI3My9qYWxpbi1rZXJqYS1zYW1hLWRlbmdhbi1lbGVjdHJpY2l0ZS1kdS1sYW9zLXBqYi1qYWpha2ktcGVuZ2Vsb2xhYW4tcGVtYmFuZ2tpdC1kaS1sYW9z",
         "description": "PT PLN (Persero) melalui anak usaha, PT Pembangkitan Jawa-Bali (PJB) menjalin kerja sama bisnis pengelolaan pembangkit dengan Electricite Du Laos (EDL) Inisiasi kerja sama ini ditandai dengan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509272/kpk-nilai-bambang-widjojanto-sudah-bertolak-180-derajat-dari-amanah-pemberantasan-korupsi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDkyNzIva3BrLW5pbGFpLWJhbWJhbmctd2lkam9qYW50by1zdWRhaC1iZXJ0b2xhay0xODAtZGVyYWphdC1kYXJpLWFtYW5haC1wZW1iZXJhbnRhc2FuLWtvcnVwc2k=",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) menilai Bambang Widjojanto tidak seharusnya menjadi pengacara mantan Bupati Tanah Bumbu Mardani Maming.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509262/peran-masyarakat-penting-untuk-cegah-dbd",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5MjYyL3BlcmFuLW1hc3lhcmFrYXQtcGVudGluZy11bnR1ay1jZWdhaC1kYmQ=",
-        "description": "DIREKTUR Jenderal Pencegahan dan Pengendalian Penyakit Kementerian Kesehatan Maxi Rein Rondonuwu mengatakan partisipasi masyarakat dalam memberantas sarang nyamuk penting untuk mengatasi dan mencegah&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/509270/ketua-umum-kadin-siap-sukseskan-munas-japnas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTI3MC9rZXR1YS11bXVtLWthZGluLXNpYXAtc3Vrc2Vza2FuLW11bmFzLWphcG5hcw==",
-        "description": "KETUA umum Kamar Dagang dan Industri (Kadin) Indonesia, Mohammad Arsjad Rasjid Prabu Mangkuningrat menyatakan dukungannya kepada Jaringan Pengusaha Nasional (Japnas) yang akan melakukan Musyawarah&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/509269/halau-bantuan-senjata-bagi-ukraina-rusia-sweeping-kapal-barang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTI2OS9oYWxhdS1iYW50dWFuLXNlbmphdGEtYmFnaS11a3JhaW5hLXJ1c2lhLXN3ZWVwaW5nLWthcGFsLWJhcmFuZw==",
-        "description": "RUSIA berupaya mencegah masuknya bantuan persenjataan dari negara-negara yang menjadi sekutu Ukraina. Salah satunya dengan memeriksa&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509261/fury-siap-hadapi-joshua-jika-pertarungan-mereka-gratis",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDkyNjEvZnVyeS1zaWFwLWhhZGFwaS1qb3NodWEtamlrYS1wZXJ0YXJ1bmdhbi1tZXJla2EtZ3JhdGlz",
-        "description": "JUARA tinju kelas berat WBC Tyson Fury mengatakan dia siap kembali naik ring untuk menghadapi Anthony Joshua di negara asal mereka,&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/509266/cuaca-ekstrem-landa-wilayah-eropa-hinggaas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTI2Ni9jdWFjYS1la3N0cmVtLWxhbmRhLXdpbGF5YWgtZXJvcGEtaGluZ2dhYXM=",
-        "description": "YUNANI dan Spanyol berjibaku memadamkan kebakaran hutan terbesar dalam beberapa dekade terakhir. Bencana itu juga memaksa ribuan orang mengungsi di tengah suhu tinggi. &quot;Pihak berwenang&#8230;"
     }
 ]

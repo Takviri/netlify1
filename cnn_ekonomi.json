@@ -1,5 +1,19 @@
 [
     {
+        "title": "Promo Sosis Kemfood di Transmart, Pakai Allo Bank Bayar Makin Murah",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220725092246-97-825624/promo-sosis-kemfood-di-transmart-pakai-allo-bank-bayar-makin-murah",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI1MDkyMjQ2LTk3LTgyNTYyNC9wcm9tby1zb3Npcy1rZW1mb29kLWRpLXRyYW5zbWFydC1wYWthaS1hbGxvLWJhbmstYmF5YXItbWFraW4tbXVyYWg=",
+        "description": " Seluruh produk Kemfood diskon 35 persen di Transmart. Apabila bertransaksi dengan Allo Bank, akan ada tambahan diskon 10 persen."
+    },
+    {
+        "title": "Pemerintah Promosi Produk UMKM di Kawasan Danau Toba Lewat W20",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220725100352-92-825658/pemerintah-promosi-produk-umkm-di-kawasan-danau-toba-lewat-w20",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI1MTAwMzUyLTkyLTgyNTY1OC9wZW1lcmludGFoLXByb21vc2ktcHJvZHVrLXVta20tZGkta2F3YXNhbi1kYW5hdS10b2JhLWxld2F0LXcyMA==",
+        "description": " Danau Toba dipilih sebagai lokasi Summit\u00c2\u00a0W20 Presidensi Indonesia dengan alasan mempromosikan kawasan pariwisata dan produk UMKM di sekitarnya."
+    },
+    {
         "title": "Eropa Cari Gas Tambahan dari Nigeria di Tengah Krisis Energi",
         "link": "https://www.cnnindonesia.com/ekonomi/20220725095625-85-825643/eropa-cari-gas-tambahan-dari-nigeria-di-tengah-krisis-energi",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI1MDgwNTU4LTkyLTgyNTYxMC9oYXJnYS1haXItYmVyc2loLWRpLXBhbGVtYmFuZy1kaXByZWRpa3NpLW5haWstMTUtcGVyc2VuLXBlci1hZ3VzdHVz",
         "description": " Pemerintah Kota Palembang, Sumatera Selatan (Sumsel) memperkirakan tarif air bersih naik 15 persen mulai Agustus 2022."
-    },
-    {
-        "title": "Alih Kelola Bandara Halim, dari AP II hingga Lion Air Bantah Terlibat",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220725075341-92-825581/alih-kelola-bandara-halim-dari-ap-ii-hingga-lion-air-bantah-terlibat",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI1MDc1MzQxLTkyLTgyNTU4MS9hbGloLWtlbG9sYS1iYW5kYXJhLWhhbGltLWRhcmktYXAtaWktaGluZ2dhLWxpb24tYWlyLWJhbnRhaC10ZXJsaWJhdA==",
-        "description": " TNI AU menyerahkan pengelolaan Bandara Halim Perdanakusuma ke PT Angkasa Transportindo Selaras (ATS), perusahaan yang sebelumnya dimiliki oleh Lion Air Group."
-    },
-    {
-        "title": "Harga Minyak AS Anjlok ke Bawah US$95 per Barel Pekan Lalu",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220725073242-85-825577/harga-minyak-as-anjlok-ke-bawah-us-95-per-barel-pekan-lalu",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI1MDczMjQyLTg1LTgyNTU3Ny9oYXJnYS1taW55YWstYXMtYW5qbG9rLWtlLWJhd2FoLXVzLTk1LXBlci1iYXJlbC1wZWthbi1sYWx1",
-        "description": " Harga minyak mentah AS merosot ke bawah US$95 per barel pada akhir pekan lalu. Penurunan harga terjadi selama tiga pekan berturut-turut."
     }
 ]
