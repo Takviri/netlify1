@@ -1,6 +1,20 @@
 [
     {
         "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/509513/rashford-mengaku-menikmati-bermain-di-bawah-asuhan-ten-hag",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTUxMy9yYXNoZm9yZC1tZW5nYWt1LW1lbmlrbWF0aS1iZXJtYWluLWRpLWJhd2FoLWFzdWhhbi10ZW4taGFn",
+        "description": "PENYERANG Manchester United Marcus Rashford mengaku dirinya menikmati masa pramusim di bawah asuhan pelatih anyar Erik&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/509512/alcaraz-jadi-petenis-termuda-yang-tembus-5-besar-dunia-setelah-nadal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDk1MTIvYWxjYXJhei1qYWRpLXBldGVuaXMtdGVybXVkYS15YW5nLXRlbWJ1cy01LWJlc2FyLWR1bmlhLXNldGVsYWgtbmFkYWw=",
+        "description": "CARLOS Alcaraz, Senin (25/7), dikonfirmasi menjadi petenis termuda yang menembus lima besar ATP sejak Rafael Nadal, setelah remaja&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/509511/raih-dua-kemenangan-di-piala-aff-u-18-timnas-putri-banjir-bonus",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTUxMS9yYWloLWR1YS1rZW1lbmFuZ2FuLWRpLXBpYWxhLWFmZi11LTE4LXRpbW5hcy1wdXRyaS1iYW5qaXItYm9udXM=",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTUwMS9zZWxhc2Etc29yZS1qb2tvd2ktZGlqYWR3YWxrYW4tYmVydGVtdS14aS1qaW5waW5nLWRpLWJlaWppbmc=",
         "description": "PRESIDEN Indonesia Joko Widodo yang tiba di Beijing pada Senin malam dijadwalkan bertemu dengan Presiden China Xi Jinping Selasa (26/7) sore Jokowi akan ditemui Xi di gedung tamu negara Diaoyutai&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/509500/tergugat-kasus-tanah-di-kedoya-tegaskan-miliki-bukti-kepemilikan-kuat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDk1MDAvdGVyZ3VnYXQta2FzdXMtdGFuYWgtZGkta2Vkb3lhLXRlZ2Fza2FuLW1pbGlraS1idWt0aS1rZXBlbWlsaWthbi1rdWF0",
-        "description": "TERGUGAT kasus perdata tanah di Kedoya, Jakarta Barat yang saat ini masih berlangsung di Pengadilan Negeri Jakarta Barat menyampaikan keberatannya atas pemberitaan sepihak yang menudingnya sebagai&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/509499/aksi-penembakan-di-kanada-beberapa-orang-luka",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTQ5OS9ha3NpLXBlbmVtYmFrYW4tZGkta2FuYWRhLWJlYmVyYXBhLW9yYW5nLWx1a2E=",
-        "description": "PERISTIWA penembakan terjadi di dekat Kota Vancouver, Kanada, Senin (25/7) waktu setempat. Beberapa orang dilaporkan menjadi korban dalam kejadian ini. Seorang tersangka telah ditahan. Laporan&#8230;"
     }
 ]
