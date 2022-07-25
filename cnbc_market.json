@@ -1,5 +1,19 @@
 [
     {
+        "title": "'Pekan Bergejolak' Bagi Investor, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/market/20220725162851-17-358402/pekan-bergejolak-bagi-investor-ada-apa",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI1MTYyODUxLTE3LTM1ODQwMi9wZWthbi1iZXJnZWpvbGFrLWJhZ2ktaW52ZXN0b3ItYWRhLWFwYQ==",
+        "description": " Pekan ini akan menjadi pekan sibuk di tengah penantian terkait beberapa kabar penting bagi investor."
+    },
+    {
+        "title": "Investor Akhirnya Buru Kembali SBN, Harganya Menguat",
+        "link": "https://www.cnbcindonesia.com/market/20220725182237-17-358456/investor-akhirnya-buru-kembali-sbn-harganya-menguat",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI1MTgyMjM3LTE3LTM1ODQ1Ni9pbnZlc3Rvci1ha2hpcm55YS1idXJ1LWtlbWJhbGktc2JuLWhhcmdhbnlhLW1lbmd1YXQ=",
+        "description": " investor cenderung memburu SBN hari ini di tengah kondisi global yang masih belum pasti."
+    },
+    {
         "title": "Konsumen Percaya Ekonomi China Bangkit, Harga Karet Melonjak",
         "link": "https://www.cnbcindonesia.com/market/20220725172253-17-358420/konsumen-percaya-ekonomi-china-bangkit-harga-karet-melonjak",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI1MTcyMDAwLTE3LTM1ODQxOC9tZW1hc3VraS1wZWthbi1yaWxpcy1raW5lcmphLWtldWFuZ2FuLWRvdy1mdXR1cmVzLW5haWstdGlwaXM=",
         "description": " Kontrak berjangka (futures) indeks bursa AS menguat tipis pada perdagangan hari ini, di mana investor bersiap untuk pekan musim rilis kinerja keuangan."
-    },
-    {
-        "title": "Morgan Stanley Sebut Harga GOTO Kemahalan, Ini Dasarnya",
-        "link": "https://www.cnbcindonesia.com/market/20220725174738-17-358437/morgan-stanley-sebut-harga-goto-kemahalan-ini-dasarnya",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI1MTc0NzM4LTE3LTM1ODQzNy9tb3JnYW4tc3RhbmxleS1zZWJ1dC1oYXJnYS1nb3RvLWtlbWFoYWxhbi1pbmktZGFzYXJueWE=",
-        "description": " Pada saat yang sama, lembaga ini juga memberikan peringkat underweight dengan target harga Rp 230."
-    },
-    {
-        "title": "Livin' Sukha Bakal Jadi Pendorong Transaksi Digital BMRI",
-        "link": "https://www.cnbcindonesia.com/market/20220725173838-17-358425/livin-sukha-bakal-jadi-pendorong-transaksi-digital-bmri",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI1MTczODM4LTE3LTM1ODQyNS9saXZpbi1zdWtoYS1iYWthbC1qYWRpLXBlbmRvcm9uZy10cmFuc2Frc2ktZGlnaXRhbC1ibXJp",
-        "description": " Kehadiran fitur Livin' Sukha diharapkan mendorong pertumbuhan transaksi digital khususnya melalui Livin' by Mandiri"
     }
 ]
