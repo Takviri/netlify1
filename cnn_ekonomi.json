@@ -1,5 +1,19 @@
 [
     {
+        "title": "Mengenal Inflasi dan Inflasi Inti, Apa Sih Bedanya?",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220725152002-92-825861/mengenal-inflasi-dan-inflasi-inti-apa-sih-bedanya",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI1MTUyMDAyLTkyLTgyNTg2MS9tZW5nZW5hbC1pbmZsYXNpLWRhbi1pbmZsYXNpLWludGktYXBhLXNpaC1iZWRhbnlh",
+        "description": " Inflasi dapat diartikan sebagai kenaikan harga barang dan jasa secara umum, sedangkan inflasi inti yaitu cenderung tetap dan dipengaruhi faktor fundamental."
+    },
+    {
+        "title": "Pemerintah Ungkap 2.700 Tambang Ilegal di Indonesia",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220725161210-85-825891/pemerintah-ungkap-2700-tambang-ilegal-di-indonesia",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI1MTYxMjEwLTg1LTgyNTg5MS9wZW1lcmludGFoLXVuZ2thcC0yNzAwLXRhbWJhbmctaWxlZ2FsLWRpLWluZG9uZXNpYQ==",
+        "description": " Data Kementerian Energi dan Sumber Daya Mineral (ESDM) mencatat ada lebih dari 2.700 tambang ilegal di Indonesia hingga kuartal III 2022."
+    },
+    {
         "title": "RI, Malaysia dan Vietnam Dikepung Inflasi Selangit Negara-negara ASEAN",
         "link": "https://www.cnnindonesia.com/ekonomi/20220725140702-92-825802/ri-malaysia-dan-vietnam-dikepung-inflasi-selangit-negara-negara-asean",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI1MTQ0NjM3LTUzMi04MjU4Mjcvb3JhbmctYW1lcmlrYS1tdWxhaS1rZXN1c2FoYW4tYmF5YXItY2ljaWxhbi1wZXJ0YW5kYS1yZXNlc2k=",
         "description": " Orang AS disebut mulai kesulitan membayar berbagai tagihan tepat waktu di tengah proyeksi peluang negeri Paman Sam jatuh ke lubang resesi."
-    },
-    {
-        "title": "Petani Sebut Gratis Pungutan Ekspor CPO Belum Angkat Harga TBS Sawit",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220725132245-92-825770/petani-sebut-gratis-pungutan-ekspor-cpo-belum-angkat-harga-tbs-sawit",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI1MTMyMjQ1LTkyLTgyNTc3MC9wZXRhbmktc2VidXQtZ3JhdGlzLXB1bmd1dGFuLWVrc3Bvci1jcG8tYmVsdW0tYW5na2F0LWhhcmdhLXRicy1zYXdpdA==",
-        "description": " Asosiasi Petani Kelapa Sawit Indonesia (Apkasindo) menyebut penghapusan sementera pungutan ekspor CPO belum ampuh menaikkan harga TBS sawit."
-    },
-    {
-        "title": "ESDM Setop Puluhan Tambang Timah Ilegal di Laut Belinyu",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220725110738-85-825696/esdm-setop-puluhan-tambang-timah-ilegal-di-laut-belinyu",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI1MTEwNzM4LTg1LTgyNTY5Ni9lc2RtLXNldG9wLXB1bHVoYW4tdGFtYmFuZy10aW1haC1pbGVnYWwtZGktbGF1dC1iZWxpbnl1",
-        "description": " Ditjen Mineral dan Batu Bara Kementerian ESDM Ridwan Djamaluddin menghentikan operasi puluhan tambang timah ilegal di Laut Belinyu, Bangka."
     }
 ]
