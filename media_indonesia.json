@@ -1,6 +1,55 @@
 [
     {
         "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509532/bmkg-kondisi-cuaca-di-wilayah-dki-cerah-sepanjang-hari",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5NTMyL2Jta2cta29uZGlzaS1jdWFjYS1kaS13aWxheWFoLWRraS1jZXJhaC1zZXBhbmphbmctaGFyaQ==",
+        "description": "Badan Meteorologi Klimatologi dan Geofisika (BMKG) memprakirakan kondisi cuaca di wilayah DKI Jakarta pada Selasa cerah dan cerah berawan sepanjang hari. Dikutip dari laman resmi BMKG di Jakarta,&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/509545/serangan-rusia-di-odesa-untuk-tekan-militer-ukraina",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTU0NS9zZXJhbmdhbi1ydXNpYS1kaS1vZGVzYS11bnR1ay10ZWthbi1taWxpdGVyLXVrcmFpbmE=",
+        "description": "RUSIA mengklaim serangan di Odesa tidak menargetkan fasilitas dan jalur ekspor gandum Ukraina. Kremlin mengaku semua amunisi yang diluncurkan pasukan fokus untuk menekan kekuatan Kyiv. &quot;Serangan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509528/orangtua-diminta-peka-terhadap-perkembangan-sosial-emosional-anak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5NTI4L29yYW5ndHVhLWRpbWludGEtcGVrYS10ZXJoYWRhcC1wZXJrZW1iYW5nYW4tc29zaWFsLWVtb3Npb25hbC1hbmFr",
+        "description": "PSIKOLOG Keluarga dari Rumah Dandelion Nadya Pramesrani mengingatkan orangtua untuk peka terhadap perkembangan sosial emosional&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/509544/gkii-kecam-pembunuhan-pemuka-agama-di-nduga",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5NTQ0L2draWkta2VjYW0tcGVtYnVudWhhbi1wZW11a2EtYWdhbWEtZGktbmR1Z2E=",
+        "description": "AKSI brutal Kelompok Kriminal Bersenjata (KKB) wilayah Nduga yang membunuh 13 warga sipil, termasuk seorang Pendeta asli&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/509543/bintang-goodfellas-paul-sorvino-tutup-usia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTU0My9iaW50YW5nLWdvb2RmZWxsYXMtcGF1bC1zb3J2aW5vLXR1dHVwLXVzaWE=",
+        "description": "AKTOR Amerika Serikat (AS) Paul Sorvino, yang dikenal lewat perannya dalam film gangster klasik Goodfellas meninggal dunia di&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509526/ini-yang-perlu-anda-tahu-soal-cyberbullying",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5NTI2L2luaS15YW5nLXBlcmx1LWFuZGEtdGFodS1zb2FsLWN5YmVyYnVsbHlpbmc=",
+        "description": "TIDAK bisa dipungkiri, saat ini, akses internet menjadi kebutuhan dasar yang harus dipenuhi oleh semua orang, termasuk anak-anak.&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/509542/david-trimble-peraih-nobel-perdamaian-dari-irlandia-utara-tutup-usia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTU0Mi9kYXZpZC10cmltYmxlLXBlcmFpaC1ub2JlbC1wZXJkYW1haWFuLWRhcmktaXJsYW5kaWEtdXRhcmEtdHV0dXAtdXNpYQ==",
+        "description": "DAVID Trimble, mantan menteri utama Irlandia Utara yang meraih Nobel Perdamaian karena membantu mendamaikan konflik yang&#8230;"
+    },
+    {
+        "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/509480/ragam-olahan-bergizi-tinggi",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5NDgwL3JhZ2FtLW9sYWhhbi1iZXJnaXppLXRpbmdnaQ==",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTU0MC9wZW5lbWJha2FuLWRpLWthbmFkYS10ZXdhc2thbi1kdWEtb3Jhbmc=",
         "description": "SERANGKAIAN penembakan yang terjadi di dekat Kota Vancouver, Kanada,&nbsp; Senin (27/7) menewaskan sedikitnya dua orang. Sedangkan pelaku seorang pria, tewas dalam baku tembak dengan polisi. Laporan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509477/potensi-agrowisata-rumput-laut-di-pantai-sayang-heulang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5NDc3L3BvdGVuc2ktYWdyb3dpc2F0YS1ydW1wdXQtbGF1dC1kaS1wYW50YWktc2F5YW5nLWhldWxhbmc=",
-        "description": "PANTAI Sayang Heulang di Kabupaten Garut termasuk salah satu lokasi wisata yang fokus dikembangkan Pemerintah Provinsi Jawa Barat. Upaya pengembangan itu telah terlihat jelas dengan kemudahan akses&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509539/kpk-pastikan-kasus-mardani-maming-patuhi-proses-hukum",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDk1Mzkva3BrLXBhc3Rpa2FuLWthc3VzLW1hcmRhbmktbWFtaW5nLXBhdHVoaS1wcm9zZXMtaHVrdW0=",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) menegaskan telah bekerja dengan profesional dalam pengusutan dugaan suap dan gratifikasi terkait izin&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509537/wamenag-terima-kritik-dpr-demi-perbaikan-pelaksanaan-haji-2023",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5NTM3L3dhbWVuYWctdGVyaW1hLWtyaXRpay1kcHItZGVtaS1wZXJiYWlrYW4tcGVsYWtzYW5hYW4taGFqaS0yMDIz",
-        "description": "PELAKSANAAN ibadah haji 2022 telah selesai. Namun, Dewan Perwakilan Rakyat (DPR) memberikan sejumlah kritik terkait pelaksanaan haji&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/509524/ini-rahasia-tubuh-bugar-reza-artamevia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTUyNC9pbmktcmFoYXNpYS10dWJ1aC1idWdhci1yZXphLWFydGFtZXZpYQ==",
-        "description": "PENYANYI Reza Artamevia membagikan rahasianya selalu bugar dan tampil prima di setiap kesempatan, meski kini usianya sudah menginjak&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/509535/bus-masuk-jurang-puluhan-orang-tewas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTUzNS9idXMtbWFzdWstanVyYW5nLXB1bHVoYW4tb3JhbmctdGV3YXM=",
-        "description": "SEDIKITNYA 34 orang tewas ketika sebuah bus terjun ke jurang di wilayah yang memang dikenal rawan kecelakaan di Kenya tengah. Demikian dikatakan seorang pejabat setempat, Senin (25/7) . Kecelakaan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509533/greenhope-masuk-top-50-real-leaders-eco-innovation-award-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5NTMzL2dyZWVuaG9wZS1tYXN1ay10b3AtNTAtcmVhbC1sZWFkZXJzLWVjby1pbm5vdmF0aW9uLWF3YXJkLTIwMjI=",
-        "description": "Greenhope perusahaan yang bergerak dalam penyediaan resin plastik ramah lingkungan dengan teknologi oxium, ecoplas dan naturloop masuk dalam Top 50 Real Leaders kategori Eco Innovation Technology.&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/509522/special-album-keempatlizzo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTUyMi9zcGVjaWFsLWFsYnVtLWtlZW1wYXRsaXp6bw==",
-        "description": "PENYANYI Amerika Serikat (AS) Lizzo, akhir pekan lalu, merilis album keempatnya yang berjudul Special, membawa kembali sentuhan pop-rap&#8230;"
     }
 ]

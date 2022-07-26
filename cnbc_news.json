@@ -1,5 +1,26 @@
 [
     {
+        "title": "Tak Terduga, Ekonomi Korsel Meningkat di Q2 2022 karena Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220726074822-4-358515/tak-terduga-ekonomi-korsel-meningkat-di-q2-2022-karena-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjA3NDgyMi00LTM1ODUxNS90YWstdGVyZHVnYS1la29ub21pLWtvcnNlbC1tZW5pbmdrYXQtZGktcTItMjAyMi1rYXJlbmEtaW5p",
+        "description": " Pertumbuhan ekonomi Korea Selatan (Korsel) secara tak terduga meningkat pada kuartal kedua."
+    },
+    {
+        "title": "Resmi Naik! Cek Nih Harga BBM Pertamina Terbaru",
+        "link": "https://www.cnbcindonesia.com/news/20220725164243-16-358407/resmi-naik-cek-nih-harga-bbm-pertamina-terbaru",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE2NDI0My0xNi0zNTg0MDcvcmVzbWktbmFpay1jZWstbmloLWhhcmdhLWJibS1wZXJ0YW1pbmEtdGVyYmFydQ==",
+        "description": " PT Pertamina (Persero) sejak 10 Juli 2022 sudah resmi menaikkan harga tiga jenis Bahan Bakar Minyak (BBM) miliknya."
+    },
+    {
+        "title": "Siap-Siap! Barang Ini Bakal Mahal karena Rupiah Melemah",
+        "link": "https://www.cnbcindonesia.com/news/20220725151653-4-358367/siap-siap-barang-ini-bakal-mahal-karena-rupiah-melemah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE1MTY1My00LTM1ODM2Ny9zaWFwLXNpYXAtYmFyYW5nLWluaS1iYWthbC1tYWhhbC1rYXJlbmEtcnVwaWFoLW1lbGVtYWg=",
+        "description": " Rupiah melemah, harga barang impor akan makin mahal."
+    },
+    {
         "title": "Alert! Cacar Monyet Makin ke Mana-mana, Kini Masuk Jepang",
         "link": "https://www.cnbcindonesia.com/news/20220726072431-4-358510/alert-cacar-monyet-makin-ke-mana-mana-kini-masuk-jepang",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTIzMjEwMC00LTM1ODQ4OS9qb2tvd2ktc3VkYWgtdGliYS1kaS1iZWlqaW5nLWNoaW5hLWJlc29rLWp1bXBhaS14aS1qaW5waW5n",
         "description": " Jokowi dan Iriana bermalam di Diaoyutai State Guesthouse."
-    },
-    {
-        "title": "9 Update Perang Rusia-Ukraina, Pasukan Putin dalam Dilema",
-        "link": "https://www.cnbcindonesia.com/news/20220725202802-4-358481/9-update-perang-rusia-ukraina-pasukan-putin-dalam-dilema",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTIwMjgwMi00LTM1ODQ4MS85LXVwZGF0ZS1wZXJhbmctcnVzaWEtdWtyYWluYS1wYXN1a2FuLXB1dGluLWRhbGFtLWRpbGVtYQ==",
-        "description": " Perang antara Rusia dan Ukraina telah berlangsung selama lebih dari 5 bulan."
-    },
-    {
-        "title": "Banyak Penolakan, UE Revisi Rencana Pengurangan Konsumsi Gas",
-        "link": "https://www.cnbcindonesia.com/news/20220725202245-4-358480/banyak-penolakan-ue-revisi-rencana-pengurangan-konsumsi-gas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTIwMjI0NS00LTM1ODQ4MC9iYW55YWstcGVub2xha2FuLXVlLXJldmlzaS1yZW5jYW5hLXBlbmd1cmFuZ2FuLWtvbnN1bXNpLWdhcw==",
-        "description": " Uni Eropa (UE) menetapkan rencana bagi negara anggota untuk mengurangi penggunaan gas hingga Maret 2023."
-    },
-    {
-        "title": "Mantap! Ada 'Durian Runtuh', Setoran Negara Bakal Tumbuh 50%",
-        "link": "https://www.cnbcindonesia.com/news/20220725201412-4-358479/mantap-ada-durian-runtuh-setoran-negara-bakal-tumbuh-50",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTIwMTQxMi00LTM1ODQ3OS9tYW50YXAtYWRhLWR1cmlhbi1ydW50dWgtc2V0b3Jhbi1uZWdhcmEtYmFrYWwtdHVtYnVoLTUw",
-        "description": " Kementerian Keuangan menargetkan penerimaan negara bersumber dari pajak bisa tumbuh hingga 50% pada tahun ini jika dibandingkan dengan 2021."
     }
 ]
