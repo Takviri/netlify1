@@ -1,5 +1,40 @@
 [
     {
+        "title": "Masih Susah Laku, Jabodetabek Malah Banjir Apartemen Baru",
+        "link": "https://www.cnbcindonesia.com/news/20220726142845-4-358676/masih-susah-laku-jabodetabek-malah-banjir-apartemen-baru",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE0Mjg0NS00LTM1ODY3Ni9tYXNpaC1zdXNhaC1sYWt1LWphYm9kZXRhYmVrLW1hbGFoLWJhbmppci1hcGFydGVtZW4tYmFydQ==",
+        "description": " Penjualan apartemen di wilayah ibu kota dan sekitarnya tengah lesu."
+    },
+    {
+        "title": "Proyek Jalur Sutra China Kini Tak Laku, Pada Takut Ketipu?",
+        "link": "https://www.cnbcindonesia.com/news/20220726141834-4-358671/proyek-jalur-sutra-china-kini-tak-laku-pada-takut-ketipu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE0MTgzNC00LTM1ODY3MS9wcm95ZWstamFsdXItc3V0cmEtY2hpbmEta2luaS10YWstbGFrdS1wYWRhLXRha3V0LWtldGlwdQ==",
+        "description": " Realisasi investasi dan pembiayaan yang digelontorkan China di bawah mega proyek Belt and Road Initiative (BRI) anjlok pada semester I-2022."
+    },
+    {
+        "title": "Saat Pailit Mengancam, Hak Karyawan Terlindungi?",
+        "link": "https://www.cnbcindonesia.com/news/20220726143446-8-358672/saat-pailit-mengancam-hak-karyawan-terlindungi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE0MzQ0Ni04LTM1ODY3Mi9zYWF0LXBhaWxpdC1tZW5nYW5jYW0taGFrLWthcnlhd2FuLXRlcmxpbmR1bmdp",
+        "description": " Saat Pailit Mengancam, Hak Karyawan Terlindungi?"
+    },
+    {
+        "title": "Negaranya Bangkrut, Sri Lanka Kini \"Kiamat\" Obat-obatan",
+        "link": "https://www.cnbcindonesia.com/news/20220726145606-7-358685/negaranya-bangkrut-sri-lanka-kini-kiamat-obat-obatan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE0NTYwNi03LTM1ODY4NS9uZWdhcmFueWEtYmFuZ2tydXQtc3JpLWxhbmthLWtpbmkta2lhbWF0LW9iYXQtb2JhdGFu",
+        "description": " Krisis ekonomi di Sri Lanka berdampak serius bagi sektor kesehatan di negara itu."
+    },
+    {
+        "title": "'Perang Gas' Rusia Bikin Jerman Panik, Krisis Energi Menanti",
+        "link": "https://www.cnbcindonesia.com/news/20220726145636-4-358682/perang-gas-rusia-bikin-jerman-panik-krisis-energi-menanti",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE0NTYzNi00LTM1ODY4Mi9wZXJhbmctZ2FzLXJ1c2lhLWJpa2luLWplcm1hbi1wYW5pay1rcmlzaXMtZW5lcmdpLW1lbmFudGk=",
+        "description": " Pemerintah Jerman mengatakan bahwa negara itu akan menghadapi situasi krisis energi yang serius bila Rusia menghentikan pasokan gasnya ke Eropa."
+    },
+    {
         "title": "'Musuhan' Dengan Rusia, Eropa Bakal Pangkas Penggunaan Gas",
         "link": "https://www.cnbcindonesia.com/news/20220726083326-8-358530/musuhan-dengan-rusia-eropa-bakal-pangkas-penggunaan-gas",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEzMzM0MS00LTM1ODY1Mi9idWthbi11a3JhaW5hLW5lZ2FyYS1pbmkta2hhd2F0aXItZGlzZXJhbmctcnVzaWEtc2lhcGE=",
         "description": " Bukan Ukraina. Negara ini pun khawatir diserang Rusia. Siapa?"
-    },
-    {
-        "title": "Kereta Cepat Uji Coba November, Xi Jinping Direncanakan Hadir",
-        "link": "https://www.cnbcindonesia.com/news/20220726140523-4-358663/kereta-cepat-uji-coba-november-xi-jinping-direncanakan-hadir",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE0MDUyMy00LTM1ODY2My9rZXJldGEtY2VwYXQtdWppLWNvYmEtbm92ZW1iZXIteGktamlucGluZy1kaXJlbmNhbmFrYW4taGFkaXI=",
-        "description": " Kedatangan Presiden China Xi Jinping ke Indonesia nanti adalah untuk meninjau pembangunan infrastruktur Kereta Cepat Jakarta-Bandung (KCJB)."
-    },
-    {
-        "title": "Pailit Saat Sulit Apa Kata Hukum?",
-        "link": "https://www.cnbcindonesia.com/news/20220726140213-8-358660/pailit-saat-sulit-apa-kata-hukum",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE0MDIxMy04LTM1ODY2MC9wYWlsaXQtc2FhdC1zdWxpdC1hcGEta2F0YS1odWt1bQ==",
-        "description": " Sejumlah BUMN dinyatakan pailit, atau tak mampu membayar utangnya pada kreditur."
-    },
-    {
-        "title": "CLBK Eropa ke Batu Bara Bisa Jadi Senjata Makan Tuan",
-        "link": "https://www.cnbcindonesia.com/news/20220726143844-4-358674/clbk-eropa-ke-batu-bara-bisa-jadi-senjata-makan-tuan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE0Mzg0NC00LTM1ODY3NC9jbGJrLWVyb3BhLWtlLWJhdHUtYmFyYS1iaXNhLWphZGktc2VuamF0YS1tYWthbi10dWFu",
-        "description": " Eropa menghadapi dilema saat memutuskan untuk kembali menggunakan batu bara di tengah 'perang' gas yang dikobarkan Rusia ke kawasan tersebut."
-    },
-    {
-        "title": "Daftar Negara yang Sudah 'Hijaukan' Lapangan Migas, RI Kapan?",
-        "link": "https://www.cnbcindonesia.com/news/20220726130558-4-358642/daftar-negara-yang-sudah-hijaukan-lapangan-migas-ri-kapan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEzMDU1OC00LTM1ODY0Mi9kYWZ0YXItbmVnYXJhLXlhbmctc3VkYWgtaGlqYXVrYW4tbGFwYW5nYW4tbWlnYXMtcmkta2FwYW4=",
-        "description": " Indonesia sendiri baru berencana memulai pilot porject penerapan CCS/CCUS untuk mengurangi emisi karbon di lapangan migas"
-    },
-    {
-        "title": "Waduh Erdogan Sebut Barat Kurang Ajar ke Putin, Kok Bisa?",
-        "link": "https://www.cnbcindonesia.com/news/20220726133611-4-358650/waduh-erdogan-sebut-barat-kurang-ajar-ke-putin-kok-bisa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEzMzYxMS00LTM1ODY1MC93YWR1aC1lcmRvZ2FuLXNlYnV0LWJhcmF0LWt1cmFuZy1hamFyLWtlLXB1dGluLWtvay1iaXNh",
-        "description": " Presiden Turki Recep Tayyip Erdogan mengkritik para politikus dari negara-negara Barat karena bersikap kurang ajar terhadap Presiden Rusia Vladimir Putin."
     }
 ]
