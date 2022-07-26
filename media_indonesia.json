@@ -1,5 +1,40 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/509892/southampton-datangkan-mara-dari-bordeaux",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTg5Mi9zb3V0aGFtcHRvbi1kYXRhbmdrYW4tbWFyYS1kYXJpLWJvcmRlYXV4",
+        "description": "KLUB Liga Primer Inggris Southampton resmi mendapatkan penyerang muda Sekou Mara dari klub Ligue 1 Giordins Bordeaux pada bursa transfer pemain musim panas ini. Sky Sports, Selasa (26/7), melaporkan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/509891/empat-rekornas-pecah-di-hari-pertama-festival-akuatik-indonesia-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDk4OTEvZW1wYXQtcmVrb3JuYXMtcGVjYWgtZGktaGFyaS1wZXJ0YW1hLWZlc3RpdmFsLWFrdWF0aWstaW5kb25lc2lhLTIwMjI=",
+        "description": "SEJUMLAH rekor renang nasional baru tercipta di hari pertama Kejuaraan Nasional Akuatik bertajuk Festival Akuatik Indonesia 2022 di&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/509883/integrasi-keilmuan-dan-peran-muhammad-arkoun",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDk4ODMvaW50ZWdyYXNpLWtlaWxtdWFuLWRhbi1wZXJhbi1tdWhhbW1hZC1hcmtvdW4=",
+        "description": "DALAM dekade belakangan ini, integrasi keilmuan tidak hanya menjadi wacana, tapi juga sudah diimplementasikan di kampus-kampus perguruan tinggi Islam, tidak terkecuali di lingkungan Muhammadiyah.&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/509845/membangun-kesetaraan-politik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDk4NDUvbWVtYmFuZ3VuLWtlc2V0YXJhYW4tcG9saXRpaw==",
+        "description": "ADA banyak ungkapan kecemasan dalam diri Surya Paloh ketika menyampaikan pandangannya mengenai situasi politik dan demokrasi Indonesia saat ini. Dalam sambutan pengukuhannya ketika menerima gelar doktor&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509890/habib-husein-jafar-ajak-dai-perkaya-konten-dakwah-di-medsos",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5ODkwL2hhYmliLWh1c2Vpbi1qYWZhci1hamFrLWRhaS1wZXJrYXlhLWtvbnRlbi1kYWt3YWgtZGktbWVkc29z",
+        "description": "PENDAKWAH sekaligus pemengaruh (influencer) media sosial Habib Husein Jafar Alhadar mengajak dai dan daiyah memperkaya konten dakwah lewat media&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/509889/prabowo-kembali-pimpin-persilat",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDk4ODUvZGV3YW4tcGVycy1iYXdhLXBhc2FsLWJlcm1hc2FsYWgtcnV1LWt1aHAta2Uta2VtZW5rb3BvbGh1a2Ft",
         "description": "DEWAN Pers akan membahas tentang beberapa pasal RUU KUHP yang berpotensi memberangus kebebasan pers kepada Menteri Koordinator Bidang Politik, Hukum, dan Keamanan Mahfud MD. Rencananya pertemuan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509884/penyelewengan-dana-umat-oleh-act-akibat-minimnya-pengawasan-pemerintah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDk4ODQvcGVueWVsZXdlbmdhbi1kYW5hLXVtYXQtb2xlaC1hY3QtYWtpYmF0LW1pbmltbnlhLXBlbmdhd2FzYW4tcGVtZXJpbnRhaA==",
-        "description": "PAKAR hukum pidana pencucian uang Yenti Garnasih menilai kurangnya pengawasan sehingga terjadi penyelewengan dana oleh yayasan Aksi Cepat Tanggap (ACT). &nbsp; &quot;Ya ini kita sesali.&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/509882/kemenkopukm-hadirkan-20-ukm-sebagai-official-merchandise-g20-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTg4Mi9rZW1lbmtvcHVrbS1oYWRpcmthbi0yMC11a20tc2ViYWdhaS1vZmZpY2lhbC1tZXJjaGFuZGlzZS1nMjAtaW5kb25lc2lh",
-        "description": "DALAM rangka mendukung penyelenggaraan Presidensi G20 Indonesia 2022, Kementerian Koperasi dan UKM (KemenKopUKM) menghadirkan 20 UKM terpilih sebagai official merchandise G20 Indonesia.&nbsp; 20&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509881/olimpiade-paris-dibayangi-persoalan-anggaran-dan-keamanan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDk4ODEvb2xpbXBpYWRlLXBhcmlzLWRpYmF5YW5naS1wZXJzb2FsYW4tYW5nZ2FyYW4tZGFuLWtlYW1hbmFu",
-        "description": "OLIMPIADE Paris 2024 diliputk persoalan anggaran dan keamanan. Presiden Prancis Emmanuel Macron menemui para menteri senior untuk meredakan kekhawatiran tersebut.&nbsp; Olimpiade bakal menjadi&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509880/doa-bapa-kami-kristen-protestan-dan-katolik-dalam-bahasa-inggris-batak-dan-arab",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5ODgwL2RvYS1iYXBhLWthbWkta3Jpc3Rlbi1wcm90ZXN0YW4tZGFuLWthdG9saWstZGFsYW0tYmFoYXNhLWluZ2dyaXMtYmF0YWstZGFuLWFyYWI=",
-        "description": "DOA Bapa Kami merupakan doa yang diajarkan dalam agama Kristen Protestan dan Katolik. Dan doa ini merupakan doa paling umum dalam kedua agama tersebut, yang dimana merupakan ajaran dari Yesus Kristus&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/509879/jepang-konfirmasi-kasus-pertama-cacar-monyet",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTg3OS9qZXBhbmcta29uZmlybWFzaS1rYXN1cy1wZXJ0YW1hLWNhY2FyLW1vbnlldA==",
-        "description": "JEPANG mengonfirmasi kasus cacar monyet pertama pada Senin (25/7). Berdasarkan keterangan pemerintah Tokyo, seorang pria berusia 30 tahun teruji positif terjangkit penyakit itu. Pemerintah&#8230;"
     }
 ]
