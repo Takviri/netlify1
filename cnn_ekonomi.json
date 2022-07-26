@@ -1,5 +1,12 @@
 [
     {
+        "title": "Rute Penerbangan Bandara Pondok Cabe Mulai 5 Agustus",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220726174137-92-826427/rute-penerbangan-bandara-pondok-cabe-mulai-5-agustus",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI2MTc0MTM3LTkyLTgyNjQyNy9ydXRlLXBlbmVyYmFuZ2FuLWJhbmRhcmEtcG9uZG9rLWNhYmUtbXVsYWktNS1hZ3VzdHVz",
+        "description": " Bandara Pondok Cabe, Tangerang Selatan, bakal beroperasi untuk penerbangan komersial oleh Wings Air untuk beberapa rute mulai 5 Agustus 2022."
+    },
+    {
         "title": "Mantan Penasihat Ekonomi Gedung Putih Bicara soal Resesi AS",
         "link": "https://www.cnnindonesia.com/ekonomi/20220726171929-532-826411/mantan-penasihat-ekonomi-gedung-putih-bicara-soal-resesi-as",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI2MTUzNjE4LTkyLTgyNjMzMS9kYWZ0YXItcHJveWVrLXlhbmctZGl0ZW5kYW5nLWRhcmktcHNuLXRlcm1hc3VrLWJhbmRhcmEtYmFsaS11dGFyYQ==",
         "description": " Pemerintah mengeluarkan 8 proyek dari daftar PSN, di antaranya Bandara Bali Utara dan KEK Tanjung Api-api."
-    },
-    {
-        "title": "Vivo Turunkan Harga BBM, Bensin Pertamina Makin Terasa Mahal?",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220726151805-85-826320/vivo-turunkan-harga-bbm-bensin-pertamina-makin-terasa-mahal",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI2MTUxODA1LTg1LTgyNjMyMC92aXZvLXR1cnVua2FuLWhhcmdhLWJibS1iZW5zaW4tcGVydGFtaW5hLW1ha2luLXRlcmFzYS1tYWhhbA==",
-        "description": " Vivo menurunkan harga BBM RON 89 setelah Pertamina mengerek harga beberapa jenis BBM pada awal bulan ini."
     }
 ]
