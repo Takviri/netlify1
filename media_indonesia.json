@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/509650/menaker-kondisi-ekonomi-sektor-ketenagakerjaan-mulai-tunjukkan-pemulihan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTY1MC9tZW5ha2VyLWtvbmRpc2ktZWtvbm9taS1zZWt0b3Ita2V0ZW5hZ2FrZXJqYWFuLW11bGFpLXR1bmp1a2thbi1wZW11bGloYW4=",
+        "description": "MENTERI Ketenagakerjaan Ida Fauziyah menyatakan, kondisi perekonomian Indonesia, khususnya di sektor ketenagakerjaan menunjukkan tanda-tanda pemulihan setelah sekitar 2 tahun menghadapi pandemi covid-19.&nbsp;&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/509647/fenomena-embun-es-di-dieng-akibat-cuaca-ekstrem",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5NjQ3L2Zlbm9tZW5hLWVtYnVuLWVzLWRpLWRpZW5nLWFraWJhdC1jdWFjYS1la3N0cmVt",
+        "description": "FENOMENA embun es atau embun beku terjadi di dataran tinggi Dieng di perbatasan antara Banjarnegara dan Wonosobo, Jawa Tengah (Jateng). BMKG menyebut bahwa embun es terjadi akibat cuaca ekstrem karena&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/509649/komnas-ham-kawal-ekshumasi-brigadir-j-di-jambi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDk2NDkva29tbmFzLWhhbS1rYXdhbC1la3NodW1hc2ktYnJpZ2FkaXItai1kaS1qYW1iaQ==",
+        "description": "KOMISI Nasional Hak Asasi Manusia (Komnas HAM) bakal mengawal proses ekshumasi Brigadir Yosua (J) di Jambi. Fakta-fakta ekshumasi bakal melengkapi bahan analisis. &quot;Kita berangkat sore nanti&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/509648/moeldoko-pengembangan-kendaraan-listrik-untuk-pangkas-subsidi-bbm",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTY0OC9tb2VsZG9rby1wZW5nZW1iYW5nYW4ta2VuZGFyYWFuLWxpc3RyaWstdW50dWstcGFuZ2thcy1zdWJzaWRpLWJibQ==",
+        "description": "KEPALA Staf Kepresidenan Moeldoko mengungkapkan bahwa pemerintah berupaya mempercepat pengembangan dan penggunaan kendaraan listrik demi memangkas anggaran subsidi bahan bakar minyak (BBM). Dengan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/509645/bharada-e-tiba-di-komnas-ham",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDk2NDUvYmhhcmFkYS1lLXRpYmEtZGkta29tbmFzLWhhbQ==",
+        "description": "BHARADA E, salah seorang ajudan Kepala Divisi Propam Polri nonaktif, Inspektur Jenderal Polisi Ferdy Sambo, tiba di Kantor Komisi Nasional Hak Asasi Manusia (Komnas HAM) di Jakarta, untuk diperiksa.&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/509643/ronaldo-temui-manajemen-mu-untuk-bahas-masa-depan-di-old-trafford",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTY0My9yb25hbGRvLXRlbXVpLW1hbmFqZW1lbi1tdS11bnR1ay1iYWhhcy1tYXNhLWRlcGFuLWRpLW9sZC10cmFmZm9yZA==",
+        "description": "CRISTIANO Ronaldo kembali ke Inggris untuk berbicara dengan manajemen Manchester United mengenai masa depannya di Old Trafford, Senin (25/7) waktu setempat. Menurut laporan The Athletic, meski sudah&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/509642/waspadai-benda-mengandung-b3-ada-di-sekeliling-kita",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5NjM4L2FobHVzc3VubmFoLXdhbGphbWFhaC1kYWxpbC1rZXV0YW1hYW4tZGFuLW1ha25hbnlh",
         "description": "KITA mungkin sering mendengar istilah ahlussunnah waljamaah atau biasa disingkat juga dengan aswaja. Mungkin kita sering mengaku sebagai kelompok ahlussunnah waljamaah.&nbsp; Namun tahukah kita&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/509636/berkas-kasus-korupsi-mantan-ketua-kpu-kota-depok-dilimpahkan-ke-pengadilan-tipikor",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDk2MzYvYmVya2FzLWthc3VzLWtvcnVwc2ktbWFudGFuLWtldHVhLWtwdS1rb3RhLWRlcG9rLWRpbGltcGFoa2FuLWtlLXBlbmdhZGlsYW4tdGlwaWtvcg==",
-        "description": "KEJAKSAAN Negeri (Kejari) Kota Depok melimpahkan berkas korupsi mantan Ketua Pemilihan Umum (KPU) Kota Depok ke Pengadilan Tindak Pidana Korupsi (Tipikor) Jawa Barat. &quot;Berkas tersangka&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/509635/pemerintah-perlu-dorong-kalangan-milenial-berinvestasi-di-sektor-aset-kripto",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTYzNS9wZW1lcmludGFoLXBlcmx1LWRvcm9uZy1rYWxhbmdhbi1taWxlbmlhbC1iZXJpbnZlc3Rhc2ktZGktc2VrdG9yLWFzZXQta3JpcHRv",
-        "description": "GENERASI milenial antusias terhadap perdagangan aset kripto. Hal ini terungkap berdasarkan kajian dan perbincangan dengan berbagai komunitas. &quot;Salah satunya adalah karena transaksinya tidak&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/509634/pemidahan-citayam-fashion-week-pemprov-dki-dan-menteri-bumn-bisa-kerja-sama",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDk2MzQvcGVtaWRhaGFuLWNpdGF5YW0tZmFzaGlvbi13ZWVrLXBlbXByb3YtZGtpLWRhbi1tZW50ZXJpLWJ1bW4tYmlzYS1rZXJqYS1zYW1h",
-        "description": "PENGAMAT tata kota dari Universitas Diponegoro, Fadjar Hari Mardiansyah, menilai fenomena Citayam Fashion Week merupakan gagasan generasi milenial yang ingin menunjukan eksistensi mereka.&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/509623/syuting-cek-toko-sebelah-2-dimulai-hari-ini",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTYyMy9zeXV0aW5nLWNlay10b2tvLXNlYmVsYWgtMi1kaW11bGFpLWhhcmktaW5p",
-        "description": "ENAM tahun setelah kesuksesan film pertamanya, rumah produksi Starvision akan segera memulai proses syuting sekuel Cek Toko Sebelah&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509633/soal-hak-paten-citayam-fashion-week-djki-pertimbangkan-pandangan-publik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5NjMzL3NvYWwtaGFrLXBhdGVuLWNpdGF5YW0tZmFzaGlvbi13ZWVrLWRqa2ktcGVydGltYmFuZ2thbi1wYW5kYW5nYW4tcHVibGlr",
-        "description": "POLEMIK pendaftaran Citayam Fashion Week sebagai merek ke Direktorat Jenderal kekayaan Intelektual (DJKI) oleh PT Tiger Wong Entertaiment milik Baim Wong terus bergulir. Rencana tersebut mendapat resistensi&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509632/dpr-minta-pelaku-perundungan-bocah-di-singaparna-tetap-diproses-hukum",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5NjMyL2Rwci1taW50YS1wZWxha3UtcGVydW5kdW5nYW4tYm9jYWgtZGktc2luZ2FwYXJuYS10ZXRhcC1kaXByb3Nlcy1odWt1bQ==",
-        "description": "KENDATI keluarga pelaku perundungan pelajar SD di Singaparna Tasikmalaya sudah meminta maaf, namun DPR RI berharap pelaku anak tetap diproses hukum. Wakil Ketua Komisi X DPR RI Hetifah Sjaifudian&#8230;"
     }
 ]
