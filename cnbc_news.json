@@ -1,5 +1,47 @@
 [
     {
+        "title": "Gaspol! Kereta Cepat Jakarta-Bandung Bakal Beroperasi 2023",
+        "link": "https://www.cnbcindonesia.com/news/20220726133603-4-358651/gaspol-kereta-cepat-jakarta-bandung-bakal-beroperasi-2023",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEzMzYwMy00LTM1ODY1MS9nYXNwb2wta2VyZXRhLWNlcGF0LWpha2FydGEtYmFuZHVuZy1iYWthbC1iZXJvcGVyYXNpLTIwMjM=",
+        "description": " Pemerintah optimistis proyek\u00c2\u00a0kereta cepat bisa dioperasikan pada 2023."
+    },
+    {
+        "title": "Senjata Kiriman AS untuk Ukraina Ini Bisa Bikin Putin Pusing",
+        "link": "https://www.cnbcindonesia.com/news/20220726132308-4-358647/senjata-kiriman-as-untuk-ukraina-ini-bisa-bikin-putin-pusing",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEzMjMwOC00LTM1ODY0Ny9zZW5qYXRhLWtpcmltYW4tYXMtdW50dWstdWtyYWluYS1pbmktYmlzYS1iaWtpbi1wdXRpbi1wdXNpbmc=",
+        "description": " Senjata kiriman AS untuk Ukraina bisa menyulitkan Rusia."
+    },
+    {
+        "title": "Jokowi Ketemu Xi Jinping, Indonesia-China Makin Mesra?",
+        "link": "https://www.cnbcindonesia.com/news/20220726110514-4-358621/jokowi-ketemu-xi-jinping-indonesia-china-makin-mesra",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjExMDUxNC00LTM1ODYyMS9qb2tvd2kta2V0ZW11LXhpLWppbnBpbmctaW5kb25lc2lhLWNoaW5hLW1ha2luLW1lc3Jh",
+        "description": " Tidak hanya menjadi mitra perdagangan terbesar, China bahkan kini mengancam posisi Singapura sebagai raja investasi di Indonesia."
+    },
+    {
+        "title": "Jokowi Perkuat Kerjasama Dengan China, RI Bisa Dapat Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220725220036-8-358484/jokowi-perkuat-kerjasama-dengan-china-ri-bisa-dapat-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTIyMDAzNi04LTM1ODQ4NC9qb2tvd2ktcGVya3VhdC1rZXJqYXNhbWEtZGVuZ2FuLWNoaW5hLXJpLWJpc2EtZGFwYXQtYXBh",
+        "description": " Jokowi Perkuat Kerjasama Dengan China, Indonesia Bisa Dapat Apa?"
+    },
+    {
+        "title": "Bukannya Menyusut, Konsumsi Migas RI Justru Melonjak di 2050",
+        "link": "https://www.cnbcindonesia.com/news/20220726114209-4-358616/bukannya-menyusut-konsumsi-migas-ri-justru-melonjak-di-2050",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjExNDIwOS00LTM1ODYxNi9idWthbm55YS1tZW55dXN1dC1rb25zdW1zaS1taWdhcy1yaS1qdXN0cnUtbWVsb25qYWstZGktMjA1MA==",
+        "description": " ReforMiner Institute mencatat, kebutuhan migas dalam negeri justru akan mengalami lonjakan sampai tahun 2050"
+    },
+    {
+        "title": "Mazda Sekaligus Rilis 2 Pesaing CRV dan Vios, Ini Tampangnya",
+        "link": "https://www.cnbcindonesia.com/news/20220726114423-4-358617/mazda-sekaligus-rilis-2-pesaing-crv-dan-vios-ini-tampangnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjExNDQyMy00LTM1ODYxNy9tYXpkYS1zZWthbGlndXMtcmlsaXMtMi1wZXNhaW5nLWNydi1kYW4tdmlvcy1pbmktdGFtcGFuZ255YQ==",
+        "description": " PT Eurokars Motor Indonesia (EMI) sebagai distributor Mazda Indonesia resmi meluncurkan dua produk model mobil terbaru."
+    },
+    {
         "title": "Diduga! Impor Susu Meroket Gegara Covid-19, Kok Bisa?",
         "link": "https://www.cnbcindonesia.com/news/20220726125256-4-358639/diduga-impor-susu-meroket-gegara-covid-19-kok-bisa",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEyMjUzOS00LTM1ODYzMC9kYXRhLWludGVsaWplbi11bmdrYXAtdWtyYWluYS1zdWFwLXBpbG90LXJ1c2lhLXVudHVrLW1lbWJlbG90",
         "description": " Data intelijen Rusia menemukan bahwa pihak Ukraina sedang melakukan rencana untuk membuat pilot pesawat tempur Negeri Beruang Merah itu berkhianat dan menyerah."
-    },
-    {
-        "title": "Raksasa Migas yang Hengkang Dari RI Balik Lagi, Incar Ini..",
-        "link": "https://www.cnbcindonesia.com/news/20220726105757-4-358602/raksasa-migas-yang-hengkang-dari-ri-balik-lagi-incar-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEwNTc1Ny00LTM1ODYwMi9yYWtzYXNhLW1pZ2FzLXlhbmctaGVuZ2thbmctZGFyaS1yaS1iYWxpay1sYWdpLWluY2FyLWluaQ==",
-        "description": " Dirjen Migas Kementerian ESDM Tutuka Ariadji menyatakan ada raksasa migas yang sempat hengkang akan balik lagi ke Indonesia"
-    },
-    {
-        "title": "Harga BBM 'Premium' Vivo Turun Jadi Rp 9.900/Liter, Kok Bisa?",
-        "link": "https://www.cnbcindonesia.com/news/20220726123215-4-358634/harga-bbm-premium-vivo-turun-jadi-rp-9900-liter-kok-bisa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEyMzIxNS00LTM1ODYzNC9oYXJnYS1iYm0tcHJlbWl1bS12aXZvLXR1cnVuLWphZGktcnAtOTkwMC1saXRlci1rb2stYmlzYQ==",
-        "description": " Badan usaha penyedia BBM swasta yakni Vivo menurunkan harga BBM Revvo 89 sekelas BBM Premium Pertamina menjadi Rp 9.900 per liter"
-    },
-    {
-        "title": "Jokowi Sambangi China Hingga Korsel, Investasi Bakal Naik?",
-        "link": "https://www.cnbcindonesia.com/news/20220725220306-8-358485/jokowi-sambangi-china-hingga-korsel-investasi-bakal-naik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTIyMDMwNi04LTM1ODQ4NS9qb2tvd2ktc2FtYmFuZ2ktY2hpbmEtaGluZ2dhLWtvcnNlbC1pbnZlc3Rhc2ktYmFrYWwtbmFpaw==",
-        "description": " Jokowi Kunjungi Asia Timur, Investasi China, Jepang dan Korsel Ditargetkan Naik"
-    },
-    {
-        "title": "Inflasi Negara Tetangga 'Menggila', Amankah Indonesia?",
-        "link": "https://www.cnbcindonesia.com/news/20220726103407-4-358582/inflasi-negara-tetangga-menggila-amankah-indonesia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEwMzQwNy00LTM1ODU4Mi9pbmZsYXNpLW5lZ2FyYS10ZXRhbmdnYS1tZW5nZ2lsYS1hbWFua2FoLWluZG9uZXNpYQ==",
-        "description": " Inflasi ASEAN mulai menanjak,\u00c2\u00a0tetapi Indonesia tergolong masih rendah dibanding lainnya."
-    },
-    {
-        "title": "Seperti BI, Bank Sentral Jepang Ogah Kerek Suku Bunga Acuan",
-        "link": "https://www.cnbcindonesia.com/news/20220726114643-4-358619/seperti-bi-bank-sentral-jepang-ogah-kerek-suku-bunga-acuan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjExNDY0My00LTM1ODYxOS9zZXBlcnRpLWJpLWJhbmstc2VudHJhbC1qZXBhbmctb2dhaC1rZXJlay1zdWt1LWJ1bmdhLWFjdWFu",
-        "description": " Bank sentral Jepang (Bank of Japan/BoJ) merilis notula rapat kebijakan moneter edisi Juli hari ini."
-    },
-    {
-        "title": "Lepas Ekspor, Zulhas Mimpi Baja RI Kuasa Pasar Luar Negeri",
-        "link": "https://www.cnbcindonesia.com/news/20220726120510-4-358628/lepas-ekspor-zulhas-mimpi-baja-ri-kuasa-pasar-luar-negeri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEyMDUxMC00LTM1ODYyOC9sZXBhcy1la3Nwb3ItenVsaGFzLW1pbXBpLWJhamEtcmkta3Vhc2EtcGFzYXItbHVhci1uZWdlcmk=",
-        "description": " Zulhas mau banjiri pasar luar negeri dengan baja Indonesia."
     }
 ]
