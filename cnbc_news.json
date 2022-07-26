@@ -1,5 +1,33 @@
 [
     {
+        "title": "Bisnis Mulai Menggeliat, Hotel Baru Bermunculan di Jakarta",
+        "link": "https://www.cnbcindonesia.com/news/20220726162050-4-358738/bisnis-mulai-menggeliat-hotel-baru-bermunculan-di-jakarta",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE2MjA1MC00LTM1ODczOC9iaXNuaXMtbXVsYWktbWVuZ2dlbGlhdC1ob3RlbC1iYXJ1LWJlcm11bmN1bGFuLWRpLWpha2FydGE=",
+        "description": " Mulai ramainya acara pertemuan bisnis (MICE) di luar kantor membuat proyeksi perhotelan masih positif."
+    },
+    {
+        "title": "7 Proyek Strategis Nasional Rampung, Nilainya Capai Rp138 T",
+        "link": "https://www.cnbcindonesia.com/news/20220726165813-4-358740/7-proyek-strategis-nasional-rampung-nilainya-capai-rp138-t",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE2NTgxMy00LTM1ODc0MC83LXByb3llay1zdHJhdGVnaXMtbmFzaW9uYWwtcmFtcHVuZy1uaWxhaW55YS1jYXBhaS1ycDEzOC10",
+        "description": " Pemerintah melaporkan, hingga Juni 2022 telah merampungkan tujuh Proyek Strategis Nasional (PSN) dengan nilai mencapai Rp 138,1 triliun."
+    },
+    {
+        "title": "Ring 1 Jokowi: Subsidi BBM Ratusan Triliun Bakal Dikurangi!",
+        "link": "https://www.cnbcindonesia.com/news/20220726164529-4-358736/ring-1-jokowi-subsidi-bbm-ratusan-triliun-bakal-dikurangi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE2NDUyOS00LTM1ODczNi9yaW5nLTEtam9rb3dpLXN1YnNpZGktYmJtLXJhdHVzYW4tdHJpbGl1bi1iYWthbC1kaWt1cmFuZ2k=",
+        "description": " Pemerintah menegaskan akan secara bertahap mengurangi subsidi BBM"
+    },
+    {
+        "title": "Disebut Ancaman Terbesar Dunia, China Beri Jawaban Menohok",
+        "link": "https://www.cnbcindonesia.com/news/20220726172209-4-358753/disebut-ancaman-terbesar-dunia-china-beri-jawaban-menohok",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE3MjIwOS00LTM1ODc1My9kaXNlYnV0LWFuY2FtYW4tdGVyYmVzYXItZHVuaWEtY2hpbmEtYmVyaS1qYXdhYmFuLW1lbm9ob2s=",
+        "description": " Pemerintah China buka suara terkait pernyataan dua kandidat Perdana Menteri (PM) Inggris yang menyudutkan negara itu dalam penampilan publiknya."
+    },
+    {
         "title": "Jokowi Coret Sederet Proyek Strategis Nasional, Ini Daftarnya",
         "link": "https://www.cnbcindonesia.com/news/20220726160858-4-358714/jokowi-coret-sederet-proyek-strategis-nasional-ini-daftarnya",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE1NTMwNy00LTM1ODcwNy9pbmktZGlhLWJpYW5nLWtlcm9rLXByb3llay1nYXMtcmFrc2FzYS1tYXNlbGEtdGFrLW1hanUtbWFqdQ==",
         "description": " Proyek Kilang Gas Alam Cair (LNG) Masela di Maluku hingga kini belum tampak perkembangan yang berarti."
-    },
-    {
-        "title": "Tak Main-Main, Mitsubishi Tanam Rp10 T Bikin Mobil Listrik RI",
-        "link": "https://www.cnbcindonesia.com/news/20220726153803-4-358704/tak-main-main-mitsubishi-tanam-rp10-t-bikin-mobil-listrik-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE1MzgwMy00LTM1ODcwNC90YWstbWFpbi1tYWluLW1pdHN1YmlzaGktdGFuYW0tcnAxMC10LWJpa2luLW1vYmlsLWxpc3RyaWstcmk=",
-        "description": " Kabar Mitsubishi akan memproduksi mobil listrik di Indonesia tak cuma isapan jempol belaka."
-    },
-    {
-        "title": "Jokowi Bawa Oleh-oleh: China Komitmen Impor 1 Juta Ton CPO RI",
-        "link": "https://www.cnbcindonesia.com/news/20220726155604-4-358712/jokowi-bawa-oleh-oleh-china-komitmen-impor-1-juta-ton-cpo-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE1NTYwNC00LTM1ODcxMi9qb2tvd2ktYmF3YS1vbGVoLW9sZWgtY2hpbmEta29taXRtZW4taW1wb3ItMS1qdXRhLXRvbi1jcG8tcmk=",
-        "description": " Komitmen itu terungkap dalam pertemuan bilateral Jokowi dengan Perdana Menteri China Li Keqiang hari ini."
-    },
-    {
-        "title": "PMK Bikin Ngeri Tetangga, Ekspor Babi RI ke Singapura Aman?",
-        "link": "https://www.cnbcindonesia.com/news/20220726145443-4-358683/pmk-bikin-ngeri-tetangga-ekspor-babi-ri-ke-singapura-aman",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE0NTQ0My00LTM1ODY4My9wbWstYmlraW4tbmdlcmktdGV0YW5nZ2EtZWtzcG9yLWJhYmktcmkta2Utc2luZ2FwdXJhLWFtYW4=",
-        "description": " Wabah virus Penyakit Kuku dan Mulut (PMK) di Indonesia sudah bikin negara tetangga seperti Australia dan Selandia baru khawatir."
-    },
-    {
-        "title": "Masih Susah Laku, Jabodetabek Malah Banjir Apartemen Baru",
-        "link": "https://www.cnbcindonesia.com/news/20220726142845-4-358676/masih-susah-laku-jabodetabek-malah-banjir-apartemen-baru",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE0Mjg0NS00LTM1ODY3Ni9tYXNpaC1zdXNhaC1sYWt1LWphYm9kZXRhYmVrLW1hbGFoLWJhbmppci1hcGFydGVtZW4tYmFydQ==",
-        "description": " Penjualan apartemen di wilayah ibu kota dan sekitarnya tengah lesu."
     }
 ]
