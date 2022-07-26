@@ -1,5 +1,19 @@
 [
     {
+        "title": "Infografis",
+        "link": "https://m.mediaindonesia.com/infografis/509844/hasil-analisa-kasus-stunting-dengan-teknologi-nuklir",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbmZvZ3JhZmlzLzUwOTg0NC9oYXNpbC1hbmFsaXNhLWthc3VzLXN0dW50aW5nLWRlbmdhbi10ZWtub2xvZ2ktbnVrbGly",
+        "description": "Hasil analisa kasus stunting dengan menggunakan teknologi berbasis nuklir."
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/509893/juventus-ingin-datangkan-morata-dari-atletico-madrid",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTg5My9qdXZlbnR1cy1pbmdpbi1kYXRhbmdrYW4tbW9yYXRhLWRhcmktYXRsZXRpY28tbWFkcmlk",
+        "description": "KLUB Serie A Juventus dikabarkan tengah membidik penyerang Alvaro Morata dari klub La Liga Atletico Madrid pada bursa transfer pemain&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/509892/southampton-datangkan-mara-dari-bordeaux",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTg4Ny9mYXNpbGl0YXMtcGluamFtYW4tc2luZGlrYXNpLXVudHVrLXByb3llay1wZWxhYnVoYW4ta3BidS1icm93bmZpZWxkLXBlcnRhbWEtZGktaW5kb25lc2lh",
         "description": "PT Indonesia Infrastructure Finance (IIF) melakukan penandatanganan perjanjian fasilitas pinjaman sindikasi bersama dengan PT Bank Negara Indonesia Persero (BNI) untuk pengembangan Pelabuhan Anggrek&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/509886/sahabat-ganjar-gelar-istighosah-dan-sholawat-akbar-di-blitar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5ODg2L3NhaGFiYXQtZ2FuamFyLWdlbGFyLWlzdGlnaG9zYWgtZGFuLXNob2xhd2F0LWFrYmFyLWRpLWJsaXRhcg==",
-        "description": "SETELAH sukses menggelar rangkaian acara Istighosah dan Sholawat Akbar di Kabupaten Jombang, relawan Sahabat Ganjar kembali&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509885/dewan-pers-bawa-pasal-bermasalah-ruu-kuhp-ke-kemenkopolhukam",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDk4ODUvZGV3YW4tcGVycy1iYXdhLXBhc2FsLWJlcm1hc2FsYWgtcnV1LWt1aHAta2Uta2VtZW5rb3BvbGh1a2Ft",
-        "description": "DEWAN Pers akan membahas tentang beberapa pasal RUU KUHP yang berpotensi memberangus kebebasan pers kepada Menteri Koordinator Bidang Politik, Hukum, dan Keamanan Mahfud MD. Rencananya pertemuan&#8230;"
     }
 ]
