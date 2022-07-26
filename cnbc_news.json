@@ -1,5 +1,61 @@
 [
     {
+        "title": "Inflasi Negara Tetangga 'Menggila', Amankah Indonesia?",
+        "link": "https://www.cnbcindonesia.com/news/20220726103407-4-358582/inflasi-negara-tetangga-menggila-amankah-indonesia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEwMzQwNy00LTM1ODU4Mi9pbmZsYXNpLW5lZ2FyYS10ZXRhbmdnYS1tZW5nZ2lsYS1hbWFua2FoLWluZG9uZXNpYQ==",
+        "description": " Inflasi ASEAN mulai menanjak,\u00c2\u00a0tetapi Indonesia tergolong masih rendah dibanding lainnya."
+    },
+    {
+        "title": "Seperti BI, Bank Sentral Jepang Ogah Kerek Suku Bunga Acuan",
+        "link": "https://www.cnbcindonesia.com/news/20220726114643-4-358619/seperti-bi-bank-sentral-jepang-ogah-kerek-suku-bunga-acuan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjExNDY0My00LTM1ODYxOS9zZXBlcnRpLWJpLWJhbmstc2VudHJhbC1qZXBhbmctb2dhaC1rZXJlay1zdWt1LWJ1bmdhLWFjdWFu",
+        "description": " Bank sentral Jepang (Bank of Japan/BoJ) merilis notula rapat kebijakan moneter edisi Juli hari ini."
+    },
+    {
+        "title": "Lepas Ekspor, Zulhas Mimpi Baja RI Kuasa Pasar Luar Negeri",
+        "link": "https://www.cnbcindonesia.com/news/20220726120510-4-358628/lepas-ekspor-zulhas-mimpi-baja-ri-kuasa-pasar-luar-negeri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEyMDUxMC00LTM1ODYyOC9sZXBhcy1la3Nwb3ItenVsaGFzLW1pbXBpLWJhamEtcmkta3Vhc2EtcGFzYXItbHVhci1uZWdlcmk=",
+        "description": " Zulhas mau banjiri pasar luar negeri dengan baja Indonesia."
+    },
+    {
+        "title": "Wuih! Meroket 81%, Impor Susu RI dari Selandia Baru",
+        "link": "https://www.cnbcindonesia.com/news/20220726112928-4-358612/wuih-meroket-81-impor-susu-ri-dari-selandia-baru",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjExMjkyOC00LTM1ODYxMi93dWloLW1lcm9rZXQtODEtaW1wb3Itc3VzdS1yaS1kYXJpLXNlbGFuZGlhLWJhcnU=",
+        "description": " Selama setahun hingga Mei 2022, ekspor susu Selandia Baru ke Indonesia melonjak 81%."
+    },
+    {
+        "title": "Susah Laku dan Sepi, Perkantoran di DKI Malah Terus Menjamur",
+        "link": "https://www.cnbcindonesia.com/news/20220726101402-4-358572/susah-laku-sepi-perkantoran-di-dki-malah-terus-menjamur",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEwMTQwMi00LTM1ODU3Mi9zdXNhaC1sYWt1LXNlcGktcGVya2FudG9yYW4tZGktZGtpLW1hbGFoLXRlcnVzLW1lbmphbXVy",
+        "description": " Colliers International dalam risetnya melaporkan tingkat hunian gedung perkantoran di Jakarta mengalami penurunan di kuartal II-2022."
+    },
+    {
+        "title": "Jepang Laporkan Kasus Pertama Cacar Monyet",
+        "link": "https://www.cnbcindonesia.com/news/20220726113634-8-358613/jepang-laporkan-kasus-pertama-cacar-monyet",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjExMzYzNC04LTM1ODYxMy9qZXBhbmctbGFwb3JrYW4ta2FzdXMtcGVydGFtYS1jYWNhci1tb255ZXQ=",
+        "description": " Jepang melaporkan temuan kasus pertama cacar monyet penyakit ini terdeteksi pada seorang pria berusia 30-an"
+    },
+    {
+        "title": "Di Peresmian JIS, TransJakarta Gratiskan Tarif Bus",
+        "link": "https://www.cnbcindonesia.com/news/20220726115709-4-358622/di-peresmian-jis-transjakarta-gratiskan-tarif-bus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjExNTcwOS00LTM1ODYyMi9kaS1wZXJlc21pYW4tamlzLXRyYW5zamFrYXJ0YS1ncmF0aXNrYW4tdGFyaWYtYnVz",
+        "description": " PT Transportasi Jakarta atau TransJakarta turut mendukung peresmian atau Grand Launching Jakarta International Stadium (JIS)."
+    },
+    {
+        "title": "Ramai Media Asing Soroti Jokowi Bertemu Xi Jinping, Kenapa?",
+        "link": "https://www.cnbcindonesia.com/news/20220726104939-4-358587/ramai-media-asing-soroti-jokowi-bertemu-xi-jinping-kenapa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEwNDkzOS00LTM1ODU4Ny9yYW1haS1tZWRpYS1hc2luZy1zb3JvdGktam9rb3dpLWJlcnRlbXUteGktamlucGluZy1rZW5hcGE=",
+        "description": " Presiden Joko Widodo (Jokowi) terbang ke Beijing, China untuk bertemu dengan Presiden Xi Jinping. Hal ini dipantau sejumlah medi asing."
+    },
+    {
         "title": "Korut Kelaparan Hebat, Orang Kayanya Sibuk Makan Sup Anjing",
         "link": "https://www.cnbcindonesia.com/news/20220726093308-4-358555/korut-kelaparan-hebat-orang-kayanya-sibuk-makan-sup-anjing",
         "image": "static/images/cnbc_news.png",
@@ -12,61 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjExMzAxMS00LTM1ODYwOS90ZXJsaWJhdC1sYXVuY2hpbmctamlzLWluaS1oYXJhcGFuLXBlcnVtZGEtc2FyYW5hLWpheWE=",
         "description": " Perumda Pembangunan Sarana Jaya, mengharapkan JIS\u00c2\u00a0 menjadi prasarana penyediaan ruang beraktivitas outdoor yang terintegrasi dan berkelanjutan bagi warga"
-    },
-    {
-        "title": "Airlangga Temui Bos JBIC, 'Colek' Listrik Sampai Blok Masela",
-        "link": "https://www.cnbcindonesia.com/news/20220726100556-4-358567/airlangga-temui-bos-jbic-colek-listrik-sampai-blok-masela",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEwMDU1Ni00LTM1ODU2Ny9haXJsYW5nZ2EtdGVtdWktYm9zLWpiaWMtY29sZWstbGlzdHJpay1zYW1wYWktYmxvay1tYXNlbGE=",
-        "description": " Menko Perekonomian Airlangga Hartarto bertemu Bos JBIC yang baru, Nobumitsu Hayash di Jepang"
-    },
-    {
-        "title": "Harga BBM Naik, Pertamina Lebih Murah Dari Shell, Vivo dan BP",
-        "link": "https://www.cnbcindonesia.com/news/20220726113321-4-358611/harga-bbm-naik-pertamina-lebih-murah-dari-shell-vivo-bp",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjExMzMyMS00LTM1ODYxMS9oYXJnYS1iYm0tbmFpay1wZXJ0YW1pbmEtbGViaWgtbXVyYWgtZGFyaS1zaGVsbC12aXZvLWJw",
-        "description": " Harga BBM di sejumlah badan usaha penyedia BBM per Juli 2022 ini sudah mengalami kenaikan"
-    },
-    {
-        "title": "Honorer Dihapus Tahun Depan, Keputusan Sudah Bulat!",
-        "link": "https://www.cnbcindonesia.com/news/20220726103925-4-358586/honorer-dihapus-tahun-depan-keputusan-sudah-bulat",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEwMzkyNS00LTM1ODU4Ni9ob25vcmVyLWRpaGFwdXMtdGFodW4tZGVwYW4ta2VwdXR1c2FuLXN1ZGFoLWJ1bGF0",
-        "description": " Keputusan pemerintah sudah bulat mengenai status pegawai non aparatur sipil negara atau non ASN alias honorer."
-    },
-    {
-        "title": "Bukan AS! Penembakan Massal Hebohkan Kanada, 3 Tewas",
-        "link": "https://www.cnbcindonesia.com/news/20220726101101-7-358573/bukan-as-penembakan-massal-hebohkan-kanada-3-tewas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEwMTEwMS03LTM1ODU3My9idWthbi1hcy1wZW5lbWJha2FuLW1hc3NhbC1oZWJvaGthbi1rYW5hZGEtMy10ZXdhcw==",
-        "description": " Sedikitnya tiga orang tewas dan dua lainnya luka-luka akibat insiden penembakan massal yang terjadi di kota dekat Vancouver, Kanada"
-    },
-    {
-        "title": "Diterpa Gelombang Panas, Kebakaran Hutan Yunani Tambah Parah",
-        "link": "https://www.cnbcindonesia.com/news/20220726083410-8-358532/diterpa-gelombang-panas-kebakaran-hutan-yunani-tambah-parah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjA4MzQxMC04LTM1ODUzMi9kaXRlcnBhLWdlbG9tYmFuZy1wYW5hcy1rZWJha2FyYW4taHV0YW4teXVuYW5pLXRhbWJhaC1wYXJhaA==",
-        "description": " Kebakaran hutan di Yunani kian bertambah parah."
-    },
-    {
-        "title": "Serius, RI Lagi Persiapan Menuju Produksi Kapal Selam Prancis",
-        "link": "https://www.cnbcindonesia.com/news/20220726095354-4-358564/serius-ri-lagi-persiapan-menuju-produksi-kapal-selam-prancis",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjA5NTM1NC00LTM1ODU2NC9zZXJpdXMtcmktbGFnaS1wZXJzaWFwYW4tbWVudWp1LXByb2R1a3NpLWthcGFsLXNlbGFtLXByYW5jaXM=",
-        "description": " Rencana Indonesia memproduksi bersama kapal selam kelas Scorpene class Prancis di PT PAL Indonesia mulai makin ada titik terang."
-    },
-    {
-        "title": "Maling Ikan! TNI AL Tangkap Dua Kapal Vietnam di Laut Natuna",
-        "link": "https://www.cnbcindonesia.com/news/20220726100615-4-358568/maling-ikan-tni-al-tangkap-dua-kapal-vietnam-di-laut-natuna",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEwMDYxNS00LTM1ODU2OC9tYWxpbmctaWthbi10bmktYWwtdGFuZ2thcC1kdWEta2FwYWwtdmlldG5hbS1kaS1sYXV0LW5hdHVuYQ==",
-        "description": " Kedua kapal tersebut diduga menangkap ikan secara ilegal sekitar 40 mile dari Pulau Laut, Kabupaten Natuna"
-    },
-    {
-        "title": "Australia Diminta Tutup Perbatasan dengan RI, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220726103841-4-358584/australia-diminta-tutup-perbatasan-dengan-ri-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjEwMzg0MS00LTM1ODU4NC9hdXN0cmFsaWEtZGltaW50YS10dXR1cC1wZXJiYXRhc2FuLWRlbmdhbi1yaS1hZGEtYXBh",
-        "description": " Mewabahnya penyakit ternak mulut dan kaki (PMK) membuat sejumlah kalangan meminta Australia menutup perbatasan dengan RI."
     }
 ]

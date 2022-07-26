@@ -1,5 +1,47 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/509616/getah-siapkan-album-internasional-once-mekel-jadi-produser",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTYxNi9nZXRhaC1zaWFwa2FuLWFsYnVtLWludGVybmFzaW9uYWwtb25jZS1tZWtlbC1qYWRpLXByb2R1c2Vy",
+        "description": "GRUP band rock metal Getah siap melakukan comeback dengan formasi teranyar yakni Phil Vezard, Marcel Wetik, Peter St. John, Alfa Putra, dan Richard Mutter, dengan merilis <a href=\"http://mediaindonesia.com/tag/musik\"&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/509622/damri-hadirkan-layanan-angkutan-di-labuan-bajo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTYyMi9kYW1yaS1oYWRpcmthbi1sYXlhbmFuLWFuZ2t1dGFuLWRpLWxhYnVhbi1iYWpv",
+        "description": "BUMN sektor transportasi Perum Damri menghadirkan layanan angkutan Kawasan Strategis Pariwisata Nasional (KSPN) di Labuan Bajo, Nusa Tenggara Timur (NTT) dalam rangka mendukung aksesibilitas masyarakat&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/509621/jumlah-pengguna-internet-indonesia-tidak-diiringi-dengan-keahlian-digital",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA5NjIxL2p1bWxhaC1wZW5nZ3VuYS1pbnRlcm5ldC1pbmRvbmVzaWEtdGlkYWstZGlpcmluZ2ktZGVuZ2FuLWtlYWhsaWFuLWRpZ2l0YWw=",
+        "description": "Individu yang cakap bermedia digital dinilai mampu mengetahui, memahami, dan menggunakan perangkat keras dan lunak dalam lanskap digital. Termasuk menggunakan mesin pencarian informasi, aplikasi percakapan,&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509608/orangtua-diingatkan-kawal-tumbuh-kembang-anak-agar-terhindar-dari-malnutrisi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5NjA4L29yYW5ndHVhLWRpaW5nYXRrYW4ta2F3YWwtdHVtYnVoLWtlbWJhbmctYW5hay1hZ2FyLXRlcmhpbmRhci1kYXJpLW1hbG51dHJpc2k=",
+        "description": "AHLI gizi dari Persatuan Ahli Gizi Indonesia (Persagi) Atmarita mengingatkan agar orangtua menjaga proses tumbuh dan kembang anak&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/509619/mendag-lepas-ekspor-baja-grp-ke-new-zealand",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTYxOS9tZW5kYWctbGVwYXMtZWtzcG9yLWJhamEtZ3JwLWtlLW5ldy16ZWFsYW5k",
+        "description": "PRODUK baja PT Gunung Raja Paksi Tbk, (GRP) kembali mendapat pengakuan dunia internasional. Setelah sebelumnya melakukan ekspor ke Amerika Serikat (AS) senilai US$1 juta , produk baja buatan dalam&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/509618/bapak-dan-anak-tersangka-pembunuh-wartawan-di-jaktim",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDk2MTgvYmFwYWstZGFuLWFuYWstdGVyc2FuZ2thLXBlbWJ1bnVoLXdhcnRhd2FuLWRpLWpha3RpbQ==",
+        "description": "JAJARAN Satuan Reserse dan Kriminal Polres Metro Jakarta Timur berhasil meringkus satu pelaku pengeroyokan terhadap seorang wartawan. Insiden itu membuat korban, Firdaus&nbsp;Pangaribuan, tewas.&#8230;"
+    },
+    {
         "title": "Teknologi",
         "link": "https://m.mediaindonesia.com/teknologi/509605/whatsapp-kembangkan-fitur-sembunyikan-status-online",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA5NjAzL3dhcmdhbmV0LWRpbWludGEtc2VsZWt0aWYtYWdhci10ZXJoaW5kYXItZGFyaS1rZWphaGF0YW4tcGhpc2luZw==",
         "description": "KETUA Asosiasi Pendidikan Tinggi Ilmu Komputer (Aptikom) Kalimantan Timur Eko Junirianto meminta warganet selektif dalam menerima&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509611/baim-batal-daftarkan-haki-cfw-tetap-sokong-kreativitas-bonge-cs",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5NjExL2JhaW0tYmF0YWwtZGFmdGFya2FuLWhha2ktY2Z3LXRldGFwLXNva29uZy1rcmVhdGl2aXRhcy1ib25nZS1jcw==",
-        "description": "AKTOR Baim Wong memutuskan tidak melanjutkan pendaftaran merek Citayam&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509612/kpk-kaji-gunakan-pasal-perintangan-penyidikan-kepada-pengacara-mardani-maming",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDk2MTIva3BrLWthamktZ3VuYWthbi1wYXNhbC1wZXJpbnRhbmdhbi1wZW55aWRpa2FuLWtlcGFkYS1wZW5nYWNhcmEtbWFyZGFuaS1tYW1pbmc=",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) mengkaji penerapan Pasal 21 dalam Undang-Undang Tindak Pidana Korupsi terkait upaya perintangan penyidikan terhadap Kuasa Hukum Mantan Bupati Tanah Bumbu <a href=\"http://mediaindonesia.com/tag/mardani-h-maming\"&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509610/indonesiadan-belanda-kerja-sama-hadapi-tantangan-global-bidang-pendidikan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5NjEwL2luZG9uZXNpYWRhbi1iZWxhbmRhLWtlcmphLXNhbWEtaGFkYXBpLXRhbnRhbmdhbi1nbG9iYWwtYmlkYW5nLXBlbmRpZGlrYW4=",
-        "description": "KOLABORASI dalam mendorong peningkatan kualitas pembelajaran di Indonesia untuk temukan solusi hadapi tantangan global bidang pendidikan terus digulirkan. Kementerian Pendidikan, Kebudayaan,&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/509600/white-noise-jadi-film-pembuka-festival-film-venesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTYwMC93aGl0ZS1ub2lzZS1qYWRpLWZpbG0tcGVtYnVrYS1mZXN0aXZhbC1maWxtLXZlbmVzaWE=",
-        "description": "FESTIVAL Film Internasional Venesia mengumumkan pihaknya akan memutar secara perdana film Netflix White Noise, karya&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/509607/emosi-istrinya-dilecehkan-gm-tikam-melky-kini-gm-ditahan-polres-tomohon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5NjA3L2Vtb3NpLWlzdHJpbnlhLWRpbGVjZWhrYW4tZ20tdGlrYW0tbWVsa3kta2luaS1nbS1kaXRhaGFuLXBvbHJlcy10b21vaG9u",
-        "description": "GEGARA cemburu dan emosi terduga pelaku pria berinisial GM, 29, warga Kecamatan Eris, Kabupaten Minahasa, Sulawesi Utara, menghujani 5 kali tikaman dengan senjata tajam terhadap korban bernama Melky,&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509606/ma-siap-ajukan-delapan-hakim-ad-hoc-ham-ke-presiden",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDk2MDYvbWEtc2lhcC1hanVrYW4tZGVsYXBhbi1oYWtpbS1hZC1ob2MtaGFtLWtlLXByZXNpZGVu",
-        "description": "SETELAH memilih delapan hakim ad hoc pengadilan hak asasi manusia (HAM), Mahkamah Agung (MA) langsung menyiapkan proses pengajuan ke Presiden. Pengajuan diperlukan agar para hakim terpilih bisa&#8230;"
     }
 ]
