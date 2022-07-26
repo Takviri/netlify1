@@ -1,5 +1,47 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/509522/special-album-keempatlizzo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTUyMi9zcGVjaWFsLWFsYnVtLWtlZW1wYXRsaXp6bw==",
+        "description": "PENYANYI Amerika Serikat (AS) Lizzo, akhir pekan lalu, merilis album keempatnya yang berjudul Special, membawa kembali sentuhan pop-rap&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/509521/blinken-kecam-eksekusi-mati-aktivis-myanmar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTUyMS9ibGlua2VuLWtlY2FtLWVrc2VrdXNpLW1hdGktYWt0aXZpcy1teWFubWFy",
+        "description": "MENTERI Luar Negeri Amerika Serikat (AS) Antony Blinken, Senin (25/7), mengecam eksekusi empat tahanan politik oleh junta militer Myanmar&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/509520/joni-mitchell-kejutkan-penonton-newport-folk-festival",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTUyMC9qb25pLW1pdGNoZWxsLWtlanV0a2FuLXBlbm9udG9uLW5ld3BvcnQtZm9say1mZXN0aXZhbA==",
+        "description": "JONI Mitchell tampil penuh untuk pertama kalinya dalam tempo 20 tahun, akhir pekan lalu, mengejutkan para penonton yang menghadiri Newport&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/509530/arab-dan-afrika-sambut-baik-kesepakatan-rusia-dan-ukraina-terkait-pengiriman-gandum",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTUzMC9hcmFiLWRhbi1hZnJpa2Etc2FtYnV0LWJhaWsta2VzZXBha2F0YW4tcnVzaWEtZGFuLXVrcmFpbmEtdGVya2FpdC1wZW5naXJpbWFuLWdhbmR1bQ==",
+        "description": "Dunia Arab dan Afrika menyambut baik kesepakatan antara Rusia dan Ukraina untuk memfasilitasi pengiriman gandum dari pelabuhan Laut Hitam Ukraina. Rusia dan Ukraina di bawah pengawasan Perserikatan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/509519/menang-di-etape-kedua-tour-de-france-putri-vos-rebut-kaus-kuning",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDk1MTkvbWVuYW5nLWRpLWV0YXBlLWtlZHVhLXRvdXItZGUtZnJhbmNlLXB1dHJpLXZvcy1yZWJ1dC1rYXVzLWt1bmluZw==",
+        "description": "PEMBALAP sepeda Belanda Marianne Vos mengambil alih kaus kuning di Tour de France putri setelah memenangkan etape kedua, yang&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/509527/harga-emas-merosot-048-persen",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTUyNy9oYXJnYS1lbWFzLW1lcm9zb3QtMDQ4LXBlcnNlbg==",
+        "description": "Emas merosot pada akhir perdagangan Senin (Selasa pagi WIB), menghentikan kenaikan selama dua sesi berturut-turut karena investor bersiap untuk pertemuan Komite Pasar Terbuka Federal (FOMC), namun&#8230;"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/509518/myanmar-eksekusi-mati-empat-tahanan-politik",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDk1MTcvaW5pLXNsb2dhbi1vbGltcGlhZGUtcGFyaXMtMjAyNA==",
         "description": "PENYELENGGARA Olimpiade Paris 2024, Senin (25/7), mengumumkan 'Games Wide Open' sebagai slogan resmi pesta olahraga&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/509516/adele-umumkan-jadwal-konser-di-las-vegas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTUxNi9hZGVsZS11bXVta2FuLWphZHdhbC1rb25zZXItZGktbGFzLXZlZ2Fz",
-        "description": "ADELE, Senin (25/7), mengumumkan tanggal konsernya di Las Vegas, yang ditunda pada awal tahun ini. Rangkaian konser bertajuk&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/509515/pelatih-persita-lega-raih-tiga-poin-saat-lawan-persik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTUxNS9wZWxhdGloLXBlcnNpdGEtbGVnYS1yYWloLXRpZ2EtcG9pbi1zYWF0LWxhd2FuLXBlcnNpaw==",
-        "description": "PELATIH Persita Angel Alfredo Vera mensyukuri raihan tiga poin penting dari kemenangan atas Persik Kediri di laga pekan perdana Liga 1&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/509509/meneguhkan-kembali-politik-kebangsaan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDk1MDkvbWVuZWd1aGthbi1rZW1iYWxpLXBvbGl0aWsta2ViYW5nc2Fhbg==",
-        "description": "Surya Dharma Paloh Disampaikan pada Acara Orasi Ilmiah Promovendus Pemberian Gelar Doktor Hormatan (Honoris Causa) Universitas Brawijaya Malang, Juli 2022 Bismillahirrahmanirrahim,&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/509514/west-ham-dan-scamacca-capai-kesepakatan-pribadi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTUxNC93ZXN0LWhhbS1kYW4tc2NhbWFjY2EtY2FwYWkta2VzZXBha2F0YW4tcHJpYmFkaQ==",
-        "description": "PENYERANG Gianluca Scamacca dikabarkan telah mencapai kesepakatan pribadi dengan klub Liga Primer Inggris West Ham United,&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/509513/rashford-mengaku-menikmati-bermain-di-bawah-asuhan-ten-hag",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTUxMy9yYXNoZm9yZC1tZW5nYWt1LW1lbmlrbWF0aS1iZXJtYWluLWRpLWJhd2FoLWFzdWhhbi10ZW4taGFn",
-        "description": "PENYERANG Manchester United Marcus Rashford mengaku dirinya menikmati masa pramusim di bawah asuhan pelatih anyar Erik&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509512/alcaraz-jadi-petenis-termuda-yang-tembus-5-besar-dunia-setelah-nadal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDk1MTIvYWxjYXJhei1qYWRpLXBldGVuaXMtdGVybXVkYS15YW5nLXRlbWJ1cy01LWJlc2FyLWR1bmlhLXNldGVsYWgtbmFkYWw=",
-        "description": "CARLOS Alcaraz, Senin (25/7), dikonfirmasi menjadi petenis termuda yang menembus lima besar ATP sejak Rafael Nadal, setelah remaja&#8230;"
     }
 ]
