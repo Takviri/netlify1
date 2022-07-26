@@ -1,5 +1,26 @@
 [
     {
+        "title": "Ancaman Baru Selain Covid Nyata! WHO: Ngeri, Apokaliptik",
+        "link": "https://www.cnbcindonesia.com/news/20220726080016-4-358523/ancaman-baru-selain-covid-nyata-who-ngeri-apokaliptik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjA4MDAxNi00LTM1ODUyMy9hbmNhbWFuLWJhcnUtc2VsYWluLWNvdmlkLW55YXRhLXdoby1uZ2VyaS1hcG9rYWxpcHRpaw==",
+        "description": " WHO angkat bicara mengenai fenomena gelombang panas yang melanda kawasan Eropa hingga Amerika Serikat"
+    },
+    {
+        "title": "Zelensky: Rusia Diam-diam Akui Ukraina Menang",
+        "link": "https://www.cnbcindonesia.com/news/20220726064410-4-358502/zelensky-rusia-diam-diam-akui-ukraina-menang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjA2NDQxMC00LTM1ODUwMi96ZWxlbnNreS1ydXNpYS1kaWFtLWRpYW0tYWt1aS11a3JhaW5hLW1lbmFuZw==",
+        "description": " Presiden Ukraina Volodymyr Zelensky mengatakan Rusia akan mengakui Ukraina menang."
+    },
+    {
+        "title": "Kalau Zulhas Beneran Cabut DMO CPO, Harga Minyak Goreng Naik?",
+        "link": "https://www.cnbcindonesia.com/news/20220726081542-4-358525/kalau-zulhas-beneran-cabut-dmo-cpo-harga-minyak-goreng-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjA4MTU0Mi00LTM1ODUyNS9rYWxhdS16dWxoYXMtYmVuZXJhbi1jYWJ1dC1kbW8tY3BvLWhhcmdhLW1pbnlhay1nb3JlbmctbmFpaw==",
+        "description": " Mendag Zulhas berencana mencabut DMO CPO dengan syarat komitmen dari pengusaha."
+    },
+    {
         "title": "1 Agustus Isi Pertalite Wajib Terdaftar? Ini Kata Pertamina",
         "link": "https://www.cnbcindonesia.com/news/20220726083950-4-358535/1-agustus-isi-pertalite-wajib-terdaftar-ini-kata-pertamina",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjA3NDgyMi00LTM1ODUxNS90YWstdGVyZHVnYS1la29ub21pLWtvcnNlbC1tZW5pbmdrYXQtZGktcTItMjAyMi1rYXJlbmEtaW5p",
         "description": " Pertumbuhan ekonomi Korea Selatan (Korsel) secara tak terduga meningkat pada kuartal kedua."
-    },
-    {
-        "title": "Resmi Naik! Cek Nih Harga BBM Pertamina Terbaru",
-        "link": "https://www.cnbcindonesia.com/news/20220725164243-16-358407/resmi-naik-cek-nih-harga-bbm-pertamina-terbaru",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE2NDI0My0xNi0zNTg0MDcvcmVzbWktbmFpay1jZWstbmloLWhhcmdhLWJibS1wZXJ0YW1pbmEtdGVyYmFydQ==",
-        "description": " PT Pertamina (Persero) sejak 10 Juli 2022 sudah resmi menaikkan harga tiga jenis Bahan Bakar Minyak (BBM) miliknya."
-    },
-    {
-        "title": "Siap-Siap! Barang Ini Bakal Mahal karena Rupiah Melemah",
-        "link": "https://www.cnbcindonesia.com/news/20220725151653-4-358367/siap-siap-barang-ini-bakal-mahal-karena-rupiah-melemah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNTE1MTY1My00LTM1ODM2Ny9zaWFwLXNpYXAtYmFyYW5nLWluaS1iYWthbC1tYWhhbC1rYXJlbmEtcnVwaWFoLW1lbGVtYWg=",
-        "description": " Rupiah melemah, harga barang impor akan makin mahal."
-    },
-    {
-        "title": "Alert! Cacar Monyet Makin ke Mana-mana, Kini Masuk Jepang",
-        "link": "https://www.cnbcindonesia.com/news/20220726072431-4-358510/alert-cacar-monyet-makin-ke-mana-mana-kini-masuk-jepang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjA3MjQzMS00LTM1ODUxMC9hbGVydC1jYWNhci1tb255ZXQtbWFraW4ta2UtbWFuYS1tYW5hLWtpbmktbWFzdWstamVwYW5n",
-        "description": " Jepang mengonfirmasi kasus pertama cacar monyet. Penyakit ini terdeteksi pada seorang pria berusia 30-an."
     }
 ]

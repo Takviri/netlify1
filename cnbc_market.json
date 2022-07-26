@@ -1,5 +1,47 @@
 [
     {
+        "title": "Jelang Rilis The Fed, IHSG Dibuka Menguat",
+        "link": "https://www.cnbcindonesia.com/market/20220726091908-19-358549/jelang-rilis-the-fed-ihsg-dibuka-menguat",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI2MDkxOTA4LTE5LTM1ODU0OS9qZWxhbmctcmlsaXMtdGhlLWZlZC1paHNnLWRpYnVrYS1tZW5ndWF0",
+        "description": " IHSG Dibuka Menguat"
+    },
+    {
+        "title": "Bos Sawit, Harga CPO Lompat 2,25% Nih.. Tapi Awas Kena PHP!",
+        "link": "https://www.cnbcindonesia.com/market/20220726084605-17-358538/bos-sawit-harga-cpo-lompat-225-nih-tapi-awas-kena-php",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI2MDg0NjA1LTE3LTM1ODUzOC9ib3Mtc2F3aXQtaGFyZ2EtY3BvLWxvbXBhdC0yMjUtbmloLXRhcGktYXdhcy1rZW5hLXBocA==",
+        "description": " Harga minyak sawit mentah melesat tajam di sesi awal perdagangan pada\u00c2\u00a0hari ini, setelah turun selama tiga hari beruntun."
+    },
+    {
+        "title": "Crazy Rich Kalimantan Hasnuryadi vs Haji Isam, Siapa Terkaya?",
+        "link": "https://www.cnbcindonesia.com/market/20220726080803-17-358524/crazy-rich-kalimantan-hasnuryadi-vs-haji-isam-siapa-terkaya",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI2MDgwODAzLTE3LTM1ODUyNC9jcmF6eS1yaWNoLWthbGltYW50YW4taGFzbnVyeWFkaS12cy1oYWppLWlzYW0tc2lhcGEtdGVya2F5YQ==",
+        "description": " Hasnuryadi Sulaiman mewarisi bisnis yang dirintis ayahnya Abdussamad Sulaiman HB alias Haji Leman sedangkan Samsudin Andi Arsyad dikenal sebagai Haji Isam."
+    },
+    {
+        "title": "Dibuka Hijau, IHSG Kembali Pepet 6.900",
+        "link": "https://www.cnbcindonesia.com/market/20220726090704-17-358545/dibuka-hijau-ihsg-kembali-pepet-6900",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI2MDkwNzA0LTE3LTM1ODU0NS9kaWJ1a2EtaGlqYXUtaWhzZy1rZW1iYWxpLXBlcGV0LTY5MDA=",
+        "description": " IHSG dibuka hijau pagi ini"
+    },
+    {
+        "title": "Segini Gaji Masinis Kereta yang Ternyata Fantastis",
+        "link": "https://www.cnbcindonesia.com/market/20220726080008-17-358522/segini-gaji-masinis-kereta-yang-ternyata-fantastis",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI2MDgwMDA4LTE3LTM1ODUyMi9zZWdpbmktZ2FqaS1tYXNpbmlzLWtlcmV0YS15YW5nLXRlcm55YXRhLWZhbnRhc3Rpcw==",
+        "description": " Bahkan, untuk posisi kemudi kereta, yaitu level masinis, KAI menawarkan gaji berkisar Rp 13 juta."
+    },
+    {
+        "title": "Rupiah Ngamuk! Makin Dekat Dengan Rp 14.900/US$",
+        "link": "https://www.cnbcindonesia.com/market/20220726085048-17-358542/rupiah-ngamuk-makin-dekat-dengan-rp-14900-us-",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI2MDg1MDQ4LTE3LTM1ODU0Mi9ydXBpYWgtbmdhbXVrLW1ha2luLWRla2F0LWRlbmdhbi1ycC0xNDkwMC11cy0=",
+        "description": " Rupiah menguat lagi melawan dolar Amerika Serikat (AS) pada awal perdagangan Selasa (26/7/2022)"
+    },
+    {
         "title": "Bursa Asia Dibuka Beragam, Nikkei Nampak 'Galau'",
         "link": "https://www.cnbcindonesia.com/market/20220726083814-17-358533/bursa-asia-dibuka-beragam-nikkei-nampak-galau",
         "image": "static/images/cnbc_market.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI1MjM1MTQxLTE3LTM1ODQ5MC90YWsta3VuanVuZy1yaWdodHMtaXNzdWUtc2FoYW0tZW1pdGVuLWJvbmctY2hhbmRyYS1hbWJsZXM=",
         "description": " Saham emiten Triniti Land terus terkoreksi setelah tak kunjung mendapat izin rights issue dari OJK"
-    },
-    {
-        "title": "Lagi-Lagi AHAP Jadi yang Tercuan, SMDR Paling Boncos",
-        "link": "https://www.cnbcindonesia.com/market/20220725224256-17-358487/lagi-lagi-ahap-jadi-yang-tercuan-smdr-paling-boncos",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI1MjI0MjU2LTE3LTM1ODQ4Ny9sYWdpLWxhZ2ktYWhhcC1qYWRpLXlhbmctdGVyY3Vhbi1zbWRyLXBhbGluZy1ib25jb3M=",
-        "description": " Saat IHSG kembali terkoreksi, beberapa saham menjadi top gainers dan top losers."
-    },
-    {
-        "title": "IHSG Rawan Koreksi, Simak Menu Saham dari PWON Hingga BBCA",
-        "link": "https://www.cnbcindonesia.com/market/20220726073355-17-358511/ihsg-rawan-koreksi-simak-menu-saham-dari-pwon-hingga-bbca",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI2MDczMzU1LTE3LTM1ODUxMS9paHNnLXJhd2FuLWtvcmVrc2ktc2ltYWstbWVudS1zYWhhbS1kYXJpLXB3b24taGluZ2dhLWJiY2E=",
-        "description": " Simak prediksi IHSG beserta rekomendasi saham pilihan dari sejumlah broker untuk perdagangan Selasa (26/7/2022):"
-    },
-    {
-        "title": "Duh! Asing Terus 'Minggat' dari Indonesia Nih, Ini Buktinya",
-        "link": "https://www.cnbcindonesia.com/market/20220725224552-17-358488/duh-asing-terus-minggat-dari-indonesia-nih-ini-buktinya",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI1MjI0NTUyLTE3LTM1ODQ4OC9kdWgtYXNpbmctdGVydXMtbWluZ2dhdC1kYXJpLWluZG9uZXNpYS1uaWgtaW5pLWJ1a3Rpbnlh",
-        "description": " investor asing makin tidak tertarik dengan pasar keuangan RI, baik di pasar saham, mata uang, maupun di pasar obligasi pemerintah atau SBN"
-    },
-    {
-        "title": "Harga Emas Turun Menjelang Rapat Fed? Sudah Tradisi...",
-        "link": "https://www.cnbcindonesia.com/market/20220726062151-17-358497/harga-emas-turun-menjelang-rapat-fed-sudah-tradisi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI2MDYyMTUxLTE3LTM1ODQ5Ny9oYXJnYS1lbWFzLXR1cnVuLW1lbmplbGFuZy1yYXBhdC1mZWQtc3VkYWgtdHJhZGlzaQ==",
-        "description": " Sinar emas terus memudar."
-    },
-    {
-        "title": "Breaking News: Harga Batu Bara Sudah di Atas US$ 400/Ton",
-        "link": "https://www.cnbcindonesia.com/market/20220726054456-17-358496/breaking-news-harga-batu-bara-sudah-di-atas-us--400-ton",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI2MDU0NDU2LTE3LTM1ODQ5Ni9icmVha2luZy1uZXdzLWhhcmdhLWJhdHUtYmFyYS1zdWRhaC1kaS1hdGFzLXVzLS00MDAtdG9u",
-        "description": " Harga batu bara langsung terbang pada awal pekan ini."
-    },
-    {
-        "title": "Deretan Perusahaan Korea yang 'Kuasai' Pasar Keuangan RI",
-        "link": "https://www.cnbcindonesia.com/market/20220726030626-17-358494/deretan-perusahaan-korea-yang-kuasai-pasar-keuangan-ri",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI2MDMwNjI2LTE3LTM1ODQ5NC9kZXJldGFuLXBlcnVzYWhhYW4ta29yZWEteWFuZy1rdWFzYWktcGFzYXIta2V1YW5nYW4tcmk=",
-        "description": " Berikut adalah daftar institusi keuangan Korea Selatan yang melebarkan sayapnya hingga ke Nusantara."
     }
 ]
