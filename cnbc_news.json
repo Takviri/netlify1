@@ -1,5 +1,26 @@
 [
     {
+        "title": "Junta Myanmar Sebut Hukuman Mati 4 Aktivis 'Belum Seberapa'",
+        "link": "https://www.cnbcindonesia.com/news/20220726163707-4-358724/junta-myanmar-sebut-hukuman-mati-4-aktivis-belum-seberapa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE2MzcwNy00LTM1ODcyNC9qdW50YS1teWFubWFyLXNlYnV0LWh1a3VtYW4tbWF0aS00LWFrdGl2aXMtYmVsdW0tc2ViZXJhcGE=",
+        "description": " Junta Myanmar menyatakan empat tahanan yang dieksekusi pantashukuman mati."
+    },
+    {
+        "title": "Kasus Covid-19 di RI 'Meledak' Lagi, Bertambah 6.483 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220726162621-4-358722/kasus-covid-19-di-ri-meledak-lagi-bertambah-6483-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE2MjYyMS00LTM1ODcyMi9rYXN1cy1jb3ZpZC0xOS1kaS1yaS1tZWxlZGFrLWxhZ2ktYmVydGFtYmFoLTY0ODMtaGFyaS1pbmk=",
+        "description": " Simak data terbaru berikut."
+    },
+    {
+        "title": "Kaisar Jepang Emeritus Akihito Sakit, Derita Gagal Jantung",
+        "link": "https://www.cnbcindonesia.com/news/20220726145936-4-358697/kaisar-jepang-emeritus-akihito-sakit-derita-gagal-jantung",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE0NTkzNi00LTM1ODY5Ny9rYWlzYXItamVwYW5nLWVtZXJpdHVzLWFraWhpdG8tc2FraXQtZGVyaXRhLWdhZ2FsLWphbnR1bmc=",
+        "description": " Kaisar Jepang emeritus (pensiun) Akihito dikabarkan sakit. Ia didiagnosa menderita gagal jantung sejak Juni."
+    },
+    {
         "title": "Ini Dia Biang Kerok Proyek Gas Raksasa Masela Tak Maju-maju",
         "link": "https://www.cnbcindonesia.com/news/20220726155307-4-358707/ini-dia-biang-kerok-proyek-gas-raksasa-masela-tak-maju-maju",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE0MzQ0Ni04LTM1ODY3Mi9zYWF0LXBhaWxpdC1tZW5nYW5jYW0taGFrLWthcnlhd2FuLXRlcmxpbmR1bmdp",
         "description": " Saat Pailit Mengancam, Hak Karyawan Terlindungi?"
-    },
-    {
-        "title": "Negaranya Bangkrut, Sri Lanka Kini \"Kiamat\" Obat-obatan",
-        "link": "https://www.cnbcindonesia.com/news/20220726145606-7-358685/negaranya-bangkrut-sri-lanka-kini-kiamat-obat-obatan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE0NTYwNi03LTM1ODY4NS9uZWdhcmFueWEtYmFuZ2tydXQtc3JpLWxhbmthLWtpbmkta2lhbWF0LW9iYXQtb2JhdGFu",
-        "description": " Krisis ekonomi di Sri Lanka berdampak serius bagi sektor kesehatan di negara itu."
-    },
-    {
-        "title": "'Perang Gas' Rusia Bikin Jerman Panik, Krisis Energi Menanti",
-        "link": "https://www.cnbcindonesia.com/news/20220726145636-4-358682/perang-gas-rusia-bikin-jerman-panik-krisis-energi-menanti",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE0NTYzNi00LTM1ODY4Mi9wZXJhbmctZ2FzLXJ1c2lhLWJpa2luLWplcm1hbi1wYW5pay1rcmlzaXMtZW5lcmdpLW1lbmFudGk=",
-        "description": " Pemerintah Jerman mengatakan bahwa negara itu akan menghadapi situasi krisis energi yang serius bila Rusia menghentikan pasokan gasnya ke Eropa."
-    },
-    {
-        "title": "'Musuhan' Dengan Rusia, Eropa Bakal Pangkas Penggunaan Gas",
-        "link": "https://www.cnbcindonesia.com/news/20220726083326-8-358530/musuhan-dengan-rusia-eropa-bakal-pangkas-penggunaan-gas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjA4MzMyNi04LTM1ODUzMC9tdXN1aGFuLWRlbmdhbi1ydXNpYS1lcm9wYS1iYWthbC1wYW5na2FzLXBlbmdndW5hYW4tZ2Fz",
-        "description": " Uni Eropa menetapkan rencana bagi negara anggotanya untuk mengurangi penggunaan gas dalam jumlah besar hingga Maret tahun depan."
     }
 ]
