@@ -1,5 +1,47 @@
 [
     {
+        "title": "Mendag Zulkifli Buka Wacana Hapus DMO Sawit",
+        "link": "https://www.cnbcindonesia.com/news/20220727084043-8-358866/mendag-zulkifli-buka-wacana-hapus-dmo-sawit",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzA4NDA0My04LTM1ODg2Ni9tZW5kYWctenVsa2lmbGktYnVrYS13YWNhbmEtaGFwdXMtZG1vLXNhd2l0",
+        "description": " Pemerintah berupaya mendorong harga tandan buah segar di tingkat petani supaya bisa di atas Rp 2.000/kilogram."
+    },
+    {
+        "title": "Daftar Jabatan 'Terlaris' PNS yang Akan Dihapus Tahun Depan",
+        "link": "https://www.cnbcindonesia.com/news/20220727094605-4-358896/daftar-jabatan-terlaris-pns-yang-akan-dihapus-tahun-depan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzA5NDYwNS00LTM1ODg5Ni9kYWZ0YXItamFiYXRhbi10ZXJsYXJpcy1wbnMteWFuZy1ha2FuLWRpaGFwdXMtdGFodW4tZGVwYW4=",
+        "description": " Nantinya pengurusan administrasi dan birokrasi akan memanfaatkan teknologi hingga 30-40%"
+    },
+    {
+        "title": "Ingat! 1 Agustus Mobil Jenis Ini Jadi Dilarang Isi Pertalite?",
+        "link": "https://www.cnbcindonesia.com/news/20220727091853-4-358883/ingat-1-agustus-mobil-jenis-ini-jadi-dilarang-isi-pertalite",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzA5MTg1My00LTM1ODg4My9pbmdhdC0xLWFndXN0dXMtbW9iaWwtamVuaXMtaW5pLWphZGktZGlsYXJhbmctaXNpLXBlcnRhbGl0ZQ==",
+        "description": " Pembatasan dan pelarangan pembelian Pertalite oleh krioteria mobil tertentu masih harus menunggu Revisi Perpres 191/2014"
+    },
+    {
+        "title": "Xi Jinping Mau Berkunjung ke RI, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220727083534-8-358855/xi-jinping-mau-berkunjung-ke-ri-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzA4MzUzNC04LTM1ODg1NS94aS1qaW5waW5nLW1hdS1iZXJrdW5qdW5nLWtlLXJpLWFkYS1hcGE=",
+        "description": " Presiden China Xi Jinping dijadwalkan akan mengunjungi indonesia."
+    },
+    {
+        "title": "Nih Proyek yang Dicoret Jokowi dari Daftar Strategis Nasional",
+        "link": "https://www.cnbcindonesia.com/news/20220727094020-4-358893/nih-proyek-yang-dicoret-jokowi-dari-daftar-strategis-nasional",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzA5NDAyMC00LTM1ODg5My9uaWgtcHJveWVrLXlhbmctZGljb3JldC1qb2tvd2ktZGFyaS1kYWZ0YXItc3RyYXRlZ2lzLW5hc2lvbmFs",
+        "description": " Presiden Joko Widodo (Jokowi) mengeluarkan delapan proyek dari daftar Proyek Strategis Nasional (PSN) di tahun ini."
+    },
+    {
+        "title": "Penyakit Mematikan Ini yang Bikin BPJS Kesehatan Tekor Melulu",
+        "link": "https://www.cnbcindonesia.com/news/20220727092252-4-358887/penyakit-mematikan-ini-yang-bikin-bpjs-kesehatan-tekor-melulu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzA5MjI1Mi00LTM1ODg4Ny9wZW55YWtpdC1tZW1hdGlrYW4taW5pLXlhbmctYmlraW4tYnBqcy1rZXNlaGF0YW4tdGVrb3ItbWVsdWx1",
+        "description": " Apa penyakit yang disebut membuat BPJS Kesehatan tekor?"
+    },
+    {
         "title": "Industri Properti Amburadul, Pemerintah China Pusing!",
         "link": "https://www.cnbcindonesia.com/news/20220727083535-8-358856/industri-properti-amburadul-pemerintah-china-pusing",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzA4MzUzMy04LTM1ODg1NC9pbWYtcGFuZ2thcy1wcm95ZWtzaS1la29ub21pLWdsb2JhbC0yMDIyLWphZGktMzI=",
         "description": " IMF memangkas proyeksi pertumbuhan ekonomi global tahun 2022 dan 2023."
-    },
-    {
-        "title": "Jreng.. AS Incar Harta Karun 'Bukan Migas Biasa' RI",
-        "link": "https://www.cnbcindonesia.com/news/20220727094502-4-358894/jreng-as-incar-harta-karun-bukan-migas-biasa-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzA5NDUwMi00LTM1ODg5NC9qcmVuZy1hcy1pbmNhci1oYXJ0YS1rYXJ1bi1idWthbi1taWdhcy1iaWFzYS1yaQ==",
-        "description": " SKK Migas mengatakan sudah ada MoU dengan perusahaan AS untuk menggarap harta karun migas non konvensional Indonesia"
-    },
-    {
-        "title": "Ini 6 Hasil Pertemuan Jokowi dan Xi Jinping di China, Apa Saja?",
-        "link": "https://www.cnbcindonesia.com/news/20220727090726-4-358874/ini-6-hasil-pertemuan-jokowi-xi-jinping-di-china-apa-saja",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzA5MDcyNi00LTM1ODg3NC9pbmktNi1oYXNpbC1wZXJ0ZW11YW4tam9rb3dpLXhpLWppbnBpbmctZGktY2hpbmEtYXBhLXNhamE=",
-        "description": " Ini sejumlah hasil pertemuan Presiden Joko Widodo (Jokowi) dan Presiden China Xi Jinping pada Selasa, yang dirangkum CNBC Indonesia."
-    },
-    {
-        "title": "Duh! Dunia Bisa \"Kiamat\" Baju Gegara Ini di China",
-        "link": "https://www.cnbcindonesia.com/news/20220727074937-4-358841/duh-dunia-bisa-kiamat-baju-gegara-ini-di-china",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzA3NDkzNy00LTM1ODg0MS9kdWgtZHVuaWEtYmlzYS1raWFtYXQtYmFqdS1nZWdhcmEtaW5pLWRpLWNoaW5h",
-        "description": " Gelombang panas disertai ancaman banjir dan longsor yang terjadi di beberapa wilayah China saat ini diyakini akan mengancam produksi kapas."
-    },
-    {
-        "title": "Gegara Ini, Pertemuan Jokowi-Xi Jinping Jadi Sorotan Asing!",
-        "link": "https://www.cnbcindonesia.com/news/20220727090659-4-358880/gegara-ini-pertemuan-jokowi-xi-jinping-jadi-sorotan-asing",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzA5MDY1OS00LTM1ODg4MC9nZWdhcmEtaW5pLXBlcnRlbXVhbi1qb2tvd2kteGktamlucGluZy1qYWRpLXNvcm90YW4tYXNpbmc=",
-        "description": " Pertemuan Jokowi dan Xi Jinping mendapatkan sorongan media asing"
-    },
-    {
-        "title": "Jarang Disadari, Gejala Covid-19 Ini Muncul Saat Bangun Tidur",
-        "link": "https://www.cnbcindonesia.com/news/20220727090157-4-358872/jarang-disadari-gejala-covid-19-ini-muncul-saat-bangun-tidur",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzA5MDE1Ny00LTM1ODg3Mi9qYXJhbmctZGlzYWRhcmktZ2VqYWxhLWNvdmlkLTE5LWluaS1tdW5jdWwtc2FhdC1iYW5ndW4tdGlkdXI=",
-        "description": " Gejala virus corona varian Omicron dapat muncul berbeda-beda di setiap orang."
-    },
-    {
-        "title": "RI Bikin Raksasa Migas Asing Susah Move On, Ini yang Diincar",
-        "link": "https://www.cnbcindonesia.com/news/20220727085536-4-358871/ri-bikin-raksasa-migas-asing-susah-move-on-ini-yang-diincar",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzA4NTUzNi00LTM1ODg3MS9yaS1iaWtpbi1yYWtzYXNhLW1pZ2FzLWFzaW5nLXN1c2FoLW1vdmUtb24taW5pLXlhbmctZGlpbmNhcg==",
-        "description": " Kementerian ESDM membeberkan ada raksasa migas asing yang sempat hengkang dari Indonesia melirik lagi lapangan migas RI"
     }
 ]

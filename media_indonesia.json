@@ -1,5 +1,61 @@
 [
     {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509963/ahyudin-akan-tentukan-sikap-usai-diperiksa-sebagai-tersangka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDk5NjMvYWh5dWRpbi1ha2FuLXRlbnR1a2FuLXNpa2FwLXVzYWktZGlwZXJpa3NhLXNlYmFnYWktdGVyc2FuZ2th",
+        "description": "MANTAN Presiden Aksi Cepat Tanggap (ACT) Ahyudin dipastikan memenuhi panggilan pemeriksaan sebagai tersangka di Bareskrim Polri, Jakarta&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/509961/indonesia-properti-expo-ipex-diharap-pacu-investasi-sektor-properti",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTk2MS9pbmRvbmVzaWEtcHJvcGVydGktZXhwby1pcGV4LWRpaGFyYXAtcGFjdS1pbnZlc3Rhc2ktc2VrdG9yLXByb3BlcnRp",
+        "description": "DI tengah perkembangan era digital, pagelaran Indonesia Properti Expo (IPEX) masih diminati banyak pengembang kreatif untuk menarik minat investasi. Pagelaran IPEX diprakarsai PT Adhouse Clarion&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509960/90-penyandang-disabilitas-di-negara-berkembang-tidak-memiliki-pekerjaan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5OTYwLzkwLXBlbnlhbmRhbmctZGlzYWJpbGl0YXMtZGktbmVnYXJhLWJlcmtlbWJhbmctdGlkYWstbWVtaWxpa2ktcGVrZXJqYWFu",
+        "description": "PENYANDANG disabilitas masih menjadi isu yang minim diperbincangkan oleh petinggi-petinggi dunia. Hingga saat ini, penyandang&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/509958/warga-jatim-rasakan-cuaca-dingin-ini-penyebabnya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5OTU4L3dhcmdhLWphdGltLXJhc2FrYW4tY3VhY2EtZGluZ2luLWluaS1wZW55ZWJhYm55YQ==",
+        "description": "CUACA dingin yang dirasakan warga di wilayah Jawa Timur beberapa hari belakangan masih akan terjadi hingga bulan September 2022. Badan Meteorologi dan Geofisika (BMKG) stasiun observasi Juanda,&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/509956/facebook-benahi-tata-letak-feed-guna-tarik-pengguna-muda",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA5OTU2L2ZhY2Vib29rLWJlbmFoaS10YXRhLWxldGFrLWZlZWQtZ3VuYS10YXJpay1wZW5nZ3VuYS1tdWRh",
+        "description": "FACEBOOK, yang merupakan salah satu jejaring sosial milik raksasa teknologi Meta mengumumkan, saat ini, tengah membenahi tata letak&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/509955/kabag-prokopim-diduga-minta-uang-ke-karutan-maumere-untuk-bupati-sikka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5OTU1L2thYmFnLXByb2tvcGltLWRpZHVnYS1taW50YS11YW5nLWtlLWthcnV0YW4tbWF1bWVyZS11bnR1ay1idXBhdGktc2lra2E=",
+        "description": "KEPALA Bagian Protokol dan Komunikasi Pimpinan (Prokopim) Polikarpus Manase, diduga meminta uang sebesar Rp5 juta kepada Kepala Rutan Maumere Antonius Semuki untuk akomodasi Bupati Sikka sebagai biaya&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/509954/ini-tips-dari-putri-titian-untuk-mendukung-perkembangan-sosial-dan-emosional-anak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTk1NC9pbmktdGlwcy1kYXJpLXB1dHJpLXRpdGlhbi11bnR1ay1tZW5kdWt1bmctcGVya2VtYmFuZ2FuLXNvc2lhbC1kYW4tZW1vc2lvbmFsLWFuYWs=",
+        "description": "BANYAK orangtua yang memiliki kekhawatiran terhadap kemampuan sosial emosional anak saat menghadapi masa transisi pascapandemi covid-19 dengan aktivitas di luar rumah mulai berangsur normal. Hal tersebut&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/509953/iran-dan-uni-eropa-setuju-draf-terbaru-kesepakatan-nuklir",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTk1My9pcmFuLWRhbi11bmktZXJvcGEtc2V0dWp1LWRyYWYtdGVyYmFydS1rZXNlcGFrYXRhbi1udWtsaXI=",
+        "description": "Iran mengapresiasi dan optimistis terhadap ide baru untuk memulihkan kesepakatan nuklir 2015 dengan kekuatan dunia. Itu muncul usai perwakilan Iran dan Uni Eropa membahas rancangan kesepakatan tersebut.&#8230;"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/509951/trump-masih-berambisi-rebut-kembali-kursi-presiden-as",
         "image": "static/images/media_indonesia.png",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTA5OTUyL2dsb2JhbGlzYXNpLWRhbi10YW50YW5nYW4tYnVkYXlhLWRpLXJ1YW5nLWRpZ2l0YWw=",
         "description": "Tantangan budaya digital saat ini tengah dihadapkan pada berbagai kondisi dampak dari globalisasi. Seperti mengaburnya wawasan kebangsaan, menipisnya kesopanan, media digital yang lebih banyak menjadi&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509950/berisiko-tinggi-alami-stunting-bayi-prematur-harus-ditangani-dokter-spesialis-anak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5OTUwL2JlcmlzaWtvLXRpbmdnaS1hbGFtaS1zdHVudGluZy1iYXlpLXByZW1hdHVyLWhhcnVzLWRpdGFuZ2FuaS1kb2t0ZXItc3Blc2lhbGlzLWFuYWs=",
-        "description": "DIREKTUR Gizi dan Kesehatan Ibu dan Anak Kementerian Kesehatan Erna Mulati mengatakan bayi yang terlahir prematur memiliki risiko dua hingga tiga kali lipat untuk menderita <a href=\"http://mediaindonesia.com/tag/stunting\"&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/509949/soal-kenaikan-tiket-masuk-ke-tn-komodo-ini-sikap-keuskupan-ruteng",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5OTQ5L3NvYWwta2VuYWlrYW4tdGlrZXQtbWFzdWsta2UtdG4ta29tb2RvLWluaS1zaWthcC1rZXVza3VwYW4tcnV0ZW5n",
-        "description": "POLEMIK kenaikan tarif masuk di Taman Nasional Komodo gereja Ke Uskupan Ruteng menyampaikan enam poin penting. Poin penting itu Resmi dikeluarkan gereja keuskupan Ruteng yang rilisnya diterima mediaindonesia.com,&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/509948/anggota-dpr-minta-pemerintah-selamatkan-bumn-pt-rekayasa-industri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTk0OC9hbmdnb3RhLWRwci1taW50YS1wZW1lcmludGFoLXNlbGFtYXRrYW4tYnVtbi1wdC1yZWtheWFzYS1pbmR1c3RyaQ==",
-        "description": "BADAN Usaha Milik Negara (BUMN) PT Rekayasa Industri yang biasa disingkat Rekind tengah menjadi sorotan. Dengan kondisinya sekarang, perusahaan yang dinilai strategis ini perlu diselamatkan. Perusahaan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/509947/pertemuan-dengan-petinggi-mu-buntu-ronaldo-tetap-ingin-hengkang-old-trafford",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTk0Ny9wZXJ0ZW11YW4tZGVuZ2FuLXBldGluZ2dpLW11LWJ1bnR1LXJvbmFsZG8tdGV0YXAtaW5naW4taGVuZ2thbmctb2xkLXRyYWZmb3Jk",
-        "description": "Upaya para petinggi Manchester United mempertahankan Cristiano Ronaldo menemui jalan buntu. Pemain asal Portugal itu tetap pada pendiriannya ingin meninggalkan Old Trafford di bursa transfer musim&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/509946/ji-sung-ungkap-pengalaman-perankan-dua-karakter-sekaligus",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTk0Ni9qaS1zdW5nLXVuZ2thcC1wZW5nYWxhbWFuLXBlcmFua2FuLWR1YS1rYXJha3Rlci1zZWthbGlndXM=",
-        "description": "AKTOR Korea Selatan Ji Sung mengungkapkan pengalamannya memerankan dua tokoh sekaligus dalam serial drama Korea Adamas, yang&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/509941/film-autobiography-jadi-satu-satunya-wakil-indonesia-di-venice-film-festival",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUwOTk0MS9maWxtLWF1dG9iaW9ncmFwaHktamFkaS1zYXR1LXNhdHVueWEtd2FraWwtaW5kb25lc2lhLWRpLXZlbmljZS1maWxtLWZlc3RpdmFs",
-        "description": "Film produksi KawanKawan Media yang diproduseri Yulia Evina Bhara Autobiography dan disutradarai Makbul Mubarak menjadi perwakilan Indonesia satu-satunya yang berkompetisi di Venice International Film&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509945/ini-tips-menyimpan-bahan-makanan-agar-tetap-segar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5OTQ1L2luaS10aXBzLW1lbnlpbXBhbi1iYWhhbi1tYWthbmFuLWFnYXItdGV0YXAtc2VnYXI=",
-        "description": "PERNAHKAH Anda berada ke dalam situasi stok bahan makanan yang disimpan di rumah menumpuk, hingga beberapa produk kualitasnya menurun,&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/509943/jenazah-brigadir-yoshua-dibawa-ke-rs-sungai-bahar-untuk-autopsi-ulang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5OTQzL2plbmF6YWgtYnJpZ2FkaXIteW9zaHVhLWRpYmF3YS1rZS1ycy1zdW5nYWktYmFoYXItdW50dWstYXV0b3BzaS11bGFuZw==",
-        "description": "PETI jenazah Brigadir Polisi Yoshua Hutabarat diangkat dari liang kuburnya yang kemudian dibawa ke rumah sakit guna diautopsi ulang tim dokter forensik. Penggalian makam Hutabarat di TPU Sungai&#8230;"
     }
 ]
