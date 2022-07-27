@@ -1,5 +1,19 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/509897/ludwig-menangi-etape-3-tour-de-france-putri-vos-pertahankan-kaos-kuning",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDk4OTcvbHVkd2lnLW1lbmFuZ2ktZXRhcGUtMy10b3VyLWRlLWZyYW5jZS1wdXRyaS12b3MtcGVydGFoYW5rYW4ta2Fvcy1rdW5pbmc=",
+        "description": "PEMBALAP sepeda Denmark Cecilie Uttrip Ludwig mengalahkan Marianne Vos untuk memenangi etape ketiga Tour de France putri,&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/509896/antetokounmpo-bersaudara-dipanggil-timnas-yunani",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDk4OTYvYW50ZXRva291bm1wby1iZXJzYXVkYXJhLWRpcGFuZ2dpbC10aW1uYXMteXVuYW5p",
+        "description": "BINTANG NBA Giannis Antetokounmpo dan tiga saudaranya, Selasa (26/7), dipanggil oleh pelatih timnas Yunani untuk tampil di ajang Eurobasket&#8230;"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/509895/dikecam-karena-eksekusi-mati-tahanan-politik-junta-militer-myanmar-membela-diri",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDk4ODMvaW50ZWdyYXNpLWtlaWxtdWFuLWRhbi1wZXJhbi1tdWhhbW1hZC1hcmtvdW4=",
         "description": "DALAM dekade belakangan ini, integrasi keilmuan tidak hanya menjadi wacana, tapi juga sudah diimplementasikan di kampus-kampus perguruan tinggi Islam, tidak terkecuali di lingkungan Muhammadiyah.&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/509845/membangun-kesetaraan-politik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDk4NDUvbWVtYmFuZ3VuLWtlc2V0YXJhYW4tcG9saXRpaw==",
-        "description": "ADA banyak ungkapan kecemasan dalam diri Surya Paloh ketika menyampaikan pandangannya mengenai situasi politik dan demokrasi Indonesia saat ini. Dalam sambutan pengukuhannya ketika menerima gelar doktor&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509890/habib-husein-jafar-ajak-dai-perkaya-konten-dakwah-di-medsos",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5ODkwL2hhYmliLWh1c2Vpbi1qYWZhci1hamFrLWRhaS1wZXJrYXlhLWtvbnRlbi1kYWt3YWgtZGktbWVkc29z",
-        "description": "PENDAKWAH sekaligus pemengaruh (influencer) media sosial Habib Husein Jafar Alhadar mengajak dai dan daiyah memperkaya konten dakwah lewat media&#8230;"
     }
 ]
