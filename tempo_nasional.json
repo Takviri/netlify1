@@ -1,5 +1,19 @@
 [
     {
+        "title": "PDIP Gelar Tabur Bunga Kenang Peristiwa Kudatuli",
+        "link": "https://nasional.tempo.co/read/1616312/pdip-gelar-tabur-bunga-kenang-peristiwa-kudatuli",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTYzMTIvcGRpcC1nZWxhci10YWJ1ci1idW5nYS1rZW5hbmctcGVyaXN0aXdhLWt1ZGF0dWxp",
+        "description": "Acara itu dipimpin Sekjen PDIP Hasto Kristiyanto bersama beberapa politikus PDIP lainnya."
+    },
+    {
+        "title": "Amnesty Sebut 2 Hakim Ad Hoc Kasus Paniai Berpotensi Konflik Kepentingan",
+        "link": "https://nasional.tempo.co/read/1616311/amnesty-sebut-2-hakim-ad-hoc-kasus-paniai-berpotensi-konflik-kepentingan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTYzMTEvYW1uZXN0eS1zZWJ1dC0yLWhha2ltLWFkLWhvYy1rYXN1cy1wYW5pYWktYmVycG90ZW5zaS1rb25mbGlrLWtlcGVudGluZ2Fu",
+        "description": "Amnesty International mengkritik pemilihan hakim ad hoc untuk Pengadilan HAM kasus Paniai yang digelar oleh Mahkamah Agung pada 25 Juli 2022."
+    },
+    {
         "title": "Kemendikbudristek Tarik Buku PPKn Kelas VII yang Keliru Soal Trinitas",
         "link": "https://nasional.tempo.co/read/1616306/kemendikbudristek-tarik-buku-ppkn-kelas-vii-yang-keliru-soal-trinitas",
         "image": "static/images/tempo_nasional.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTYyODcva29tbmFzLWhhbS1wZXJpa3NhLWNjdHYtZGFuLWlrdXRpLWF1dG9wc2ktYnJpZ2FkaXItai1kaS1qYW1iaS1oYXJpLWluaQ==",
         "description": "Komnas HAM akan melakukan pemeriksaan siber dan digital forensik dalam kaitan kematian Brigadir J"
-    },
-    {
-        "title": "Profil Koperasi Syariah 212 yang Disebut Terima Aliran Rp 10 Miliar dari ACT",
-        "link": "https://nasional.tempo.co/read/1616283/profil-koperasi-syariah-212-yang-disebut-terima-aliran-rp-10-miliar-dari-act",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTYyODMvcHJvZmlsLWtvcGVyYXNpLXN5YXJpYWgtMjEyLXlhbmctZGlzZWJ1dC10ZXJpbWEtYWxpcmFuLXJwLTEwLW1pbGlhci1kYXJpLWFjdA==",
-        "description": "Koperasi Syariah 212 disebut menerima aliran dana Rp 10 miliar dari ACT."
-    },
-    {
-        "title": "Tim TAA Mabes Polri Olah TKP Odong-odong Tertabrak Kereta Api di Serang",
-        "link": "https://nasional.tempo.co/read/1616276/tim-taa-mabes-polri-olah-tkp-odong-odong-tertabrak-kereta-api-di-serang",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTYyNzYvdGltLXRhYS1tYWJlcy1wb2xyaS1vbGFoLXRrcC1vZG9uZy1vZG9uZy10ZXJ0YWJyYWsta2VyZXRhLWFwaS1kaS1zZXJhbmc=",
-        "description": "Penyidik akan memeriksa sopir odong-odong tertabrak kereta api untuk memastikan kelayakan kendaraan tersebut"
     }
 ]
