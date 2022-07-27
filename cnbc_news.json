@@ -1,5 +1,26 @@
 [
     {
+        "title": "Misteri Xi Jinping, Sudah Divaksin Covid atau Belum?",
+        "link": "https://www.cnbcindonesia.com/news/20220727080655-4-358846/misteri-xi-jinping-sudah-divaksin-covid-atau-belum",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzA4MDY1NS00LTM1ODg0Ni9taXN0ZXJpLXhpLWppbnBpbmctc3VkYWgtZGl2YWtzaW4tY292aWQtYXRhdS1iZWx1bQ==",
+        "description": " Apakah Presiden China Xi jinping sudah divaksin Covid-19?"
+    },
+    {
+        "title": "Selama WFH Ternyata Banyak PNS Gak Ngapa-ngapain",
+        "link": "https://www.cnbcindonesia.com/news/20220726211930-16-358815/selama-wfh-ternyata-banyak-pns-gak-ngapa-ngapain",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjIxMTkzMC0xNi0zNTg4MTUvc2VsYW1hLXdmaC10ZXJueWF0YS1iYW55YWstcG5zLWdhay1uZ2FwYS1uZ2FwYWlu",
+        "description": " Tak semua PNS bekerja sungguh-sungguh ketika WFH."
+    },
+    {
+        "title": "Mantap Pak Jokowi! Ekonomi RI Salip China dan Amerika",
+        "link": "https://www.cnbcindonesia.com/news/20220727081512-4-358849/mantap-pak-jokowi-ekonomi-ri-salip-china-dan-amerika",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzA4MTUxMi00LTM1ODg0OS9tYW50YXAtcGFrLWpva293aS1la29ub21pLXJpLXNhbGlwLWNoaW5hLWRhbi1hbWVyaWth",
+        "description": " Indonesia menjadi salah satu negara yang berhasil tumbuh tinggi di tengah suramnya ekonomi global."
+    },
+    {
         "title": "Ramalan Terbaru IMF: Ekonomi Sederet Negara Ini Bakal Ambruk",
         "link": "https://www.cnbcindonesia.com/news/20220727080149-4-358844/ramalan-terbaru-imf-ekonomi-sederet-negara-ini-bakal-ambruk",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzA2NTUzNC00LTM1ODgzMi9lcm9wYS1iYWxhcy1kZW5kYW0taW5pLXNlcmFuZ2FuLWJhbGlrLXVudHVrLWhhamFyLWdhcy1ydXNpYQ==",
         "description": " Uni Eropa (UE) membalas dendam ke Rusia terkait pasokan gas."
-    },
-    {
-        "title": "Potret Covid \"Menggila\" di Australia, Ambulans Antre di RS",
-        "link": "https://www.cnbcindonesia.com/news/20220726191303-7-358789/potret-covid-menggila-di-australia-ambulans-antre-di-rs",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE5MTMwMy03LTM1ODc4OS9wb3RyZXQtY292aWQtbWVuZ2dpbGEtZGktYXVzdHJhbGlhLWFtYnVsYW5zLWFudHJlLWRpLXJz",
-        "description": " Covid-19 \"menggila\" di negara tetangga RI, Australia. Terlihat antrean ambulans di rumah sakit\u00c2\u00a0Melbourne."
-    },
-    {
-        "title": "IMF Akui Rusia 'Sakti', Ekonominya di Atas Ekspektasi",
-        "link": "https://www.cnbcindonesia.com/news/20220726230027-4-358819/imf-akui-rusia-sakti-ekonominya-di-atas-ekspektasi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjIzMDAyNy00LTM1ODgxOS9pbWYtYWt1aS1ydXNpYS1zYWt0aS1la29ub21pbnlhLWRpLWF0YXMtZWtzcGVrdGFzaQ==",
-        "description": " Rangkaian sanksi yang dijatuhkan terhadap Rusia tampaknya tak berhasil membuat ekonomi negara itu jatuh tersungkur."
-    },
-    {
-        "title": "Langka! Bendera Merah Putih Berkibar di Kota Terlarang China",
-        "link": "https://www.cnbcindonesia.com/news/20220726170138-7-358745/langka-bendera-merah-putih-berkibar-di-kota-terlarang-china",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNjE3MDEzOC03LTM1ODc0NS9sYW5na2EtYmVuZGVyYS1tZXJhaC1wdXRpaC1iZXJraWJhci1kaS1rb3RhLXRlcmxhcmFuZy1jaGluYQ==",
-        "description": " Bendera merah putih bersanding dengan bendera nasional China di ikon wisata utama China, kota terlarang, Tiananmen."
     }
 ]
