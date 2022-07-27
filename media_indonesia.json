@@ -1,6 +1,48 @@
 [
     {
         "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509995/mui-diharapkan-bisa-merawat-kesatuan-pada-masa-pemilu-2024",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDk5OTUvbXVpLWRpaGFyYXBrYW4tYmlzYS1tZXJhd2F0LWtlc2F0dWFuLXBhZGEtbWFzYS1wZW1pbHUtMjAyNA==",
+        "description": "PENGAMAT politik dari Universitas Islam Negeri (UIN) Syarif Hidayatullah Jakarta, Adi Prayitono berharap di umur Majelis Ulama Indonesia (MUI) yang ke-47 bisa merawat persatuan di pesta politik pemilu&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509994/bulog-pastikan-daging-kerbau-frozen-bebas-dari-pmk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5OTk0L2J1bG9nLXBhc3Rpa2FuLWRhZ2luZy1rZXJiYXUtZnJvemVuLWJlYmFzLWRhcmktcG1r",
+        "description": "DIREKTUR Bisnis Perum Bulog Febby Novita mengimbau masyarakat tidak panik terhadap isu penyakit mulut dan kuku (PMK) yang sedang mewabah di Indonesia.&nbsp; Pihaknya memastikan bahwa daging&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/509993/pertamina-foundation-dan-benihbaik-berdayakan-desa-di-banyumas-dengan-tanam-pohon-durian",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5OTkzL3BlcnRhbWluYS1mb3VuZGF0aW9uLWRhbi1iZW5paGJhaWstYmVyZGF5YWthbi1kZXNhLWRpLWJhbnl1bWFzLWRlbmdhbi10YW5hbS1wb2hvbi1kdXJpYW4=",
+        "description": "CSR PT Pertamina (Persero) melalui Pertamina Foundation berkolaborasi dengan Benihbaik.com melakukan program Satu Keluarga Satu Pohon dengan menanam bibit pohon buah durian. Kegiatan ini dilaksanakan&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/509992/season-terbaru-industry-tayang-di-hbo-mulai-2-agustus",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTk5Mi9zZWFzb24tdGVyYmFydS1pbmR1c3RyeS10YXlhbmctZGktaGJvLW11bGFpLTItYWd1c3R1cw==",
+        "description": "SERIAL drama HBO Industry, hasil karya Mickey Down dan Konrad Kay, memulai debutnya berbarengan waktunya dengan Amerika Serikat (AS)&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/509991/jerman-bakal-kurangi-insentif-keuangan-untuk-mobil-listrik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTk5MS9qZXJtYW4tYmFrYWwta3VyYW5naS1pbnNlbnRpZi1rZXVhbmdhbi11bnR1ay1tb2JpbC1saXN0cmlr",
+        "description": "Jerman akan mengurangi insentif keuangan untuk membeli mobil listrik tahun depan setelah kesepakatan dalam koalisi pemerintahan. Hal itu dilakukan karena popularitas kendaraan yang semakin meningkat&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509990/mendagri-minta-daerah-aktif-lakukan-monev-apbd",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDk5OTAvbWVuZGFncmktbWludGEtZGFlcmFoLWFrdGlmLWxha3VrYW4tbW9uZXYtYXBiZA==",
+        "description": "MENTERI Dalam Negeri (Mendagri) Muhammad Tito Karnavian meminta jajaran inspektorat di daerah aktif melakukan &nbsp;monitoring dan evaluasi (monev) realisasi belanja Anggaran Pendapatan dan Belanja&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/509989/hakim-tunda-sidang-vonis-teddy-tjokrosapoetro",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDk5ODkvaGFraW0tdHVuZGEtc2lkYW5nLXZvbmlzLXRlZGR5LXRqb2tyb3NhcG9ldHJv",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDk5ODUva2lwLXRvbGFrLWd1Z2F0YW4tbWFudGFuLXBlZ2F3YWkta3BrLXNvYWwtdHdr",
         "description": "KOMISI Informasi Pusat (KIP) menolak seluruh gugatan terkait keterbukaan informasi publik dalam tes wawasan kebangsaan (TWK) pada proses alih status pegawai Komisi Pemberantasan Korupsi (<a href=\"http://mediaindonesia.com/tag/kpk\"&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/509983/serukan-kreativitas-tidak-kenal-kelas-sosial-kotak-rilis-local-pride",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTk4My9zZXJ1a2FuLWtyZWF0aXZpdGFzLXRpZGFrLWtlbmFsLWtlbGFzLXNvc2lhbC1rb3Rhay1yaWxpcy1sb2NhbC1wcmlkZQ==",
-        "description": "GRUP band rock Indonesia, Kotak, meluncurkan karya terbaru bertajuk Local Pride, dengan mengangkat tema yang beririsan dengan tren&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/509982/jepang-beri-sambutan-hangat-pada-presiden-jokowi-dan-delegasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTk4Mi9qZXBhbmctYmVyaS1zYW1idXRhbi1oYW5nYXQtcGFkYS1wcmVzaWRlbi1qb2tvd2ktZGFuLWRlbGVnYXNp",
-        "description": "PERDANA Menteri (PM) Jepang Fumio Kishida menyambut hangat kehadiran Presiden Joko Widodo di Negeri Sakura. Ia mengapresiasi langkah-langkah yang dilakukan Jokowi untuk memperkuat kerja sama, baik&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/509981/laba-bersih-bri-pada-semester-i-2022-capairp2488-triliun",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTk4MS9sYWJhLWJlcnNpaC1icmktcGFkYS1zZW1lc3Rlci1pLTIwMjItY2FwYWlycDI0ODgtdHJpbGl1bg==",
-        "description": "SEPANJANG semester I 2022, PT Bank Rakyat Indonesia (Persero) Tbk atau BRI Group berhasil mencatatkan laba bersih sebesar Rp24,88 triliun, atau tumbuh 98,38% secara tahunan (yoy). Adapun total aset&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509980/universitas-mercu-buana-mewisuda-2461-mahasiswa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5OTgwL3VuaXZlcnNpdGFzLW1lcmN1LWJ1YW5hLW1ld2lzdWRhLTI0NjEtbWFoYXNpc3dh",
-        "description": "&ldquo;Menyambut Insan Kreatif, Kritis dan Kompetitif&rdquo; menjadi tema dari acara Wisuda Diploma LI, Sarjana LV, Magister XLII &amp; Doktor IV, Periode III Tahun Akademik 2021/2022 Universitas Mercu&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/509978/kemenkop-ukm-gandeng-kontrak-hukum-permudah-pengurusan-legalitas-umkm",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTk3OC9rZW1lbmtvcC11a20tZ2FuZGVuZy1rb250cmFrLWh1a3VtLXBlcm11ZGFoLXBlbmd1cnVzYW4tbGVnYWxpdGFzLXVta20=",
-        "description": "KEMENTERIAN Koperasi dan UKM melalui Lembaga Layanan Pemasaran Koperasi dan Usaha Kecil dan Menengah (LLP-KUKM) atau Smesco Indonesia menandatangani Perjanjian Kerja Sama (Memorandum of Understanding/MoU)&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/509977/mengungkap-kunci-keberhasilan-pajero-sport-di-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MDk5NzcvbWVuZ3VuZ2thcC1rdW5jaS1rZWJlcmhhc2lsYW4tcGFqZXJvLXNwb3J0LWRpLWluZG9uZXNpYQ==",
-        "description": "SAAT ini kendaraan jenis Sport Utility Vehicle (SUV) menjadi salah satu pilihan favorit masyarakat Indonesia. Tampilannya yang gagah, kemampuan dalam menaklukkan jalan rusak dan menerjang banjir, menjadi&#8230;"
     }
 ]
