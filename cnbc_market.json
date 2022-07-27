@@ -1,5 +1,47 @@
 [
     {
+        "title": "Wow, BCA Cetak Rekor Kenaikan Kredit",
+        "link": "https://www.cnbcindonesia.com/market/20220727161953-19-359059/wow-bca-cetak-rekor-kenaikan-kredit",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI3MTYxOTUzLTE5LTM1OTA1OS93b3ctYmNhLWNldGFrLXJla29yLWtlbmFpa2FuLWtyZWRpdA==",
+        "description": " Wow, BCA Cetak Rekor Kenaikan Kredit"
+    },
+    {
+        "title": "Gerak Emas Tak Wajar, Malah Naik Jelang Pengumuman The Fed",
+        "link": "https://www.cnbcindonesia.com/market/20220727153353-17-359035/gerak-emas-tak-wajar-malah-naik-jelang-pengumuman-the-fed",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI3MTUzMzUzLTE3LTM1OTAzNS9nZXJhay1lbWFzLXRhay13YWphci1tYWxhaC1uYWlrLWplbGFuZy1wZW5ndW11bWFuLXRoZS1mZWQ=",
+        "description": " Harga emas dunia di pasar spot berada di US$ 1.722,19 per troy ons, menguat tipis 0,30%."
+    },
+    {
+        "title": "Wuih! BCA Catat Rekor Kenaikan Kredit Tertinggi",
+        "link": "https://www.cnbcindonesia.com/market/20220727154340-17-359044/wuih-bca-catat-rekor-kenaikan-kredit-tertinggi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI3MTU0MzQwLTE3LTM1OTA0NC93dWloLWJjYS1jYXRhdC1yZWtvci1rZW5haWthbi1rcmVkaXQtdGVydGluZ2dp",
+        "description": " Pertumbuhan kredit terjadi di seluruh segmen, terutama ditopang oleh kredit korporasi yang naik 19,1% secara tahunan mencapai Rp 310,2 triliun di Juni 2022."
+    },
+    {
+        "title": "Harga Nikel Terbang, ANTM Malah Merah Tipis",
+        "link": "https://www.cnbcindonesia.com/market/20220727153953-17-359036/harga-nikel-terbang-antm-malah-merah-tipis",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI3MTUzOTUzLTE3LTM1OTAzNi9oYXJnYS1uaWtlbC10ZXJiYW5nLWFudG0tbWFsYWgtbWVyYWgtdGlwaXM=",
+        "description": " ANTM terkoreksi tipis hari ini"
+    },
+    {
+        "title": "Market Focus: Rilis The Fed Dinanti dan Laba Emiten Big Caps",
+        "link": "https://www.cnbcindonesia.com/market/20220727152358-19-359028/market-focus-rilis-the-fed-dinanti-dan-laba-emiten-big-caps",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI3MTUyMzU4LTE5LTM1OTAyOC9tYXJrZXQtZm9jdXMtcmlsaXMtdGhlLWZlZC1kaW5hbnRpLWRhbi1sYWJhLWVtaXRlbi1iaWctY2Fwcw==",
+        "description": " Market Focus: Rilis The Fed Dinanti Hingga Laba Emiten Big Cap"
+    },
+    {
+        "title": "Jelang FFR: Mayoritas Mata Uang Asia Drop, Termasuk Rupiah?",
+        "link": "https://www.cnbcindonesia.com/market/20220727145306-17-359021/jelang-ffr-mayoritas-mata-uang-asia-drop-termasuk-rupiah",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI3MTQ1MzA2LTE3LTM1OTAyMS9qZWxhbmctZmZyLW1heW9yaXRhcy1tYXRhLXVhbmctYXNpYS1kcm9wLXRlcm1hc3VrLXJ1cGlhaA==",
+        "description": " Rupiah di awal perdagangan hari ini menguat tajam di hadapan dolar AS."
+    },
+    {
         "title": "Bursa Eropa Dibuka Naik Tipis, Investor Bersiap Rilis FFR",
         "link": "https://www.cnbcindonesia.com/market/20220727112725-17-358944/bursa-eropa-dibuka-naik-tipis-investor-bersiap-rilis-ffr",
         "image": "static/images/cnbc_market.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI3MTUxMTQ4LTE3LTM1OTAyMy9sYWJhLWJlcnNpaC1iY2EtdGVtYnVzLXJwLTE4LXQtcGFkYS1zZW1lc3Rlci1pLW5haWstMjQ5",
         "description": " PT Bank Central Asia Tbk (BBCA) membukukan kinerja positif."
-    },
-    {
-        "title": "BI Sebut Yield SBN Masih Menarik, Ini Buktinya",
-        "link": "https://www.cnbcindonesia.com/market/20220727142925-19-359015/bi-sebut-yield-sbn-masih-menarik-ini-buktinya",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI3MTQyOTI1LTE5LTM1OTAxNS9iaS1zZWJ1dC15aWVsZC1zYm4tbWFzaWgtbWVuYXJpay1pbmktYnVrdGlueWE=",
-        "description": " BI Sebut Yield SBN Masih Menarik, Ini Buktinya"
-    },
-    {
-        "title": "XL Axiata Pasang Kuda-kuda Ekspansi, Siap Rilis Emisi Rp 3 T",
-        "link": "https://www.cnbcindonesia.com/market/20220727140753-17-359012/xl-axiata-pasang-kuda-kuda-ekspansi-siap-rilis-emisi-rp-3-t",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI3MTQwNzUzLTE3LTM1OTAxMi94bC1heGlhdGEtcGFzYW5nLWt1ZGEta3VkYS1la3NwYW5zaS1zaWFwLXJpbGlzLWVtaXNpLXJwLTMtdA==",
-        "description": " Dus, potensi total perolehan dana kedua emisi tersebut mencapai Rp 3 triliun."
-    },
-    {
-        "title": "Dear Investor, Simak Jadwal Pembayaran Dividen INDF dan ICBP",
-        "link": "https://www.cnbcindonesia.com/market/20220727093819-17-358891/dear-investor-simak-jadwal-pembayaran-dividen-indf-dan-icbp",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI3MDkzODE5LTE3LTM1ODg5MS9kZWFyLWludmVzdG9yLXNpbWFrLWphZHdhbC1wZW1iYXlhcmFuLWRpdmlkZW4taW5kZi1kYW4taWNicA==",
-        "description": " Simak jadwal pembagian dividen ICBP dan INDF"
-    },
-    {
-        "title": "Kalau DMO Dihapus, Sederet Taipan Ini Makin Tajir!",
-        "link": "https://www.cnbcindonesia.com/market/20220727130433-17-358993/kalau-dmo-dihapus-sederet-taipan-ini-makin-tajir",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI3MTMwNDMzLTE3LTM1ODk5My9rYWxhdS1kbW8tZGloYXB1cy1zZWRlcmV0LXRhaXBhbi1pbmktbWFraW4tdGFqaXI=",
-        "description": " Kementerian Perdagangan sedang mengkaji penghapusan kebijakan DMO untuk minyak sawit mentah. Siapa saja yang diuntungkan?"
-    },
-    {
-        "title": "Tembus Rp 15.000/USD, BI Siapkan \"Jurus\" Jaga Rupiah",
-        "link": "https://www.cnbcindonesia.com/market/20220727134821-19-359007/tembus-rp-15000-usd-bi-siapkan-jurus-jaga-rupiah",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI3MTM0ODIxLTE5LTM1OTAwNy90ZW1idXMtcnAtMTUwMDAtdXNkLWJpLXNpYXBrYW4tanVydXMtamFnYS1ydXBpYWg=",
-        "description": " Tembus Rp 15.000/USD, BI Siapkan \"Jurus\" Jaga Rupiah"
-    },
-    {
-        "title": "Lumayan Nih! Aplikasi BRIMO Berikan BRI Tambahan Rp 724 M",
-        "link": "https://www.cnbcindonesia.com/market/20220727131620-17-358996/lumayan-nih-aplikasi-brimo-berikan-bri-tambahan-rp-724-m",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI3MTMxNjIwLTE3LTM1ODk5Ni9sdW1heWFuLW5paC1hcGxpa2FzaS1icmltby1iZXJpa2FuLWJyaS10YW1iYWhhbi1ycC03MjQtbQ==",
-        "description": " PT Bank Rakyat Indonesia Tbk (BBRI) meluncurkan aplikasi layanan transaksi BRI Mobile alias BRIMO dua tahun lalu."
     }
 ]
