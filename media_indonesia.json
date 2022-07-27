@@ -1,5 +1,47 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/510006/tim-ferrari-targetkan-dua-pembalapnya-bisa-finis-1-2-di-hongaria",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTAwMDYvdGltLWZlcnJhcmktdGFyZ2V0a2FuLWR1YS1wZW1iYWxhcG55YS1iaXNhLWZpbmlzLTEtMi1kaS1ob25nYXJpYQ==",
+        "description": "TIM Ferrari menargetkan untuk bisa bangkit dan dua pembalapnya diharapkan kembali finis di posisi terdepan. Tak tanggung-tanggung, bos tim Ferrari Mattia Binotto membidik target ambisius dua&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/510005/presiden-jokowi-dan-pm-kishida-sepakat-perkuat-perdagangan-dan-investasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDAwNS9wcmVzaWRlbi1qb2tvd2ktZGFuLXBtLWtpc2hpZGEtc2VwYWthdC1wZXJrdWF0LXBlcmRhZ2FuZ2FuLWRhbi1pbnZlc3Rhc2k=",
+        "description": "PRESIDEN Joko Widodo dan Perdana Menteri Jepang Kishida Fumio sepakat untuk memperkuat kerja sama ekonomi terutama di bidang perdagangan. Kesepakatan itu tercapai saat kedua pemimpin negara&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/510004/indonesia-minta-jepang-permudah-urusan-ekspor",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDAwNC9pbmRvbmVzaWEtbWludGEtamVwYW5nLXBlcm11ZGFoLXVydXNhbi1la3Nwb3I=",
+        "description": "MENTERI Koordinator Bidang Perekonomian Airlangga Hartarto bersama dengan Menteri Pertanian, Kehutanan, dan Perikanan Jepang Kaneko Genjiro membahas berbagai persoalan ekspor kedua negara, utamanya&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/510003/jelang-pendaftaran-kpu-pastikan-parpol-dapat-perlakuan-setara-dan-adil",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTAwMDMvamVsYW5nLXBlbmRhZnRhcmFuLWtwdS1wYXN0aWthbi1wYXJwb2wtZGFwYXQtcGVybGFrdWFuLXNldGFyYS1kYW4tYWRpbA==",
+        "description": "KOMISI Pemilihan Umum (KPU) RI menyatakan bahwa seluruh partai politik (parpol) akan sama-sama mendapat perlakuan adil, proporsional, dan setara dalam penyelenggaraan Pemilu 2024. Perlakuan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/510001/walikota-tangsel-minta-perbaikan-150-rumah-warga-tak-layak-huni-dikawal-serius",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTAwMDEvd2FsaWtvdGEtdGFuZ3NlbC1taW50YS1wZXJiYWlrYW4tMTUwLXJ1bWFoLXdhcmdhLXRhay1sYXlhay1odW5pLWRpa2F3YWwtc2VyaXVz",
+        "description": "Wali Kota Tangerang Selatan ( Tangsel)&nbsp; Benyamin Davnie membuka sosialisasi Persiapan Pelaksanaan Perbaikan Rumah Tidak Layak Huni (RUTLH). Sosialisasi&nbsp; digelar di Kecamatan Serpong dan Kecamatan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/510002/anak-adalah-pemerhati-orangtua-jadilah-contoh-yang-baik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwMDAyL2FuYWstYWRhbGFoLXBlbWVyaGF0aS1vcmFuZ3R1YS1qYWRpbGFoLWNvbnRvaC15YW5nLWJhaWs=",
+        "description": "Perundungan digital (cyber bullying) masih menghantui anak-anak di tengah kemajuan teknologi. Berdasarkan data UNICEF pada 2020, 45 persen anak di Indonesia, yang berusia 14-24 tahun, menjadi korban&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/510000/tersangka-korupsi-ekspor-cpo-segera-dilimpahkan",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTk5Ni9lcmljay10aG9oaXItZHVrdW5nLWxhbmdrYWgta2VqYWd1bmctdW50dWstYmVyc2loLWJlcnNpaC1idW1u",
         "description": "MENTERI Badan Usaha Milik Negara (BUMN) Erick Thohir menyambut positif langkah tegas yang dilakukan Kejaksaan Agung (Kejagung) dalam mengusut kasus korupsi di perusahaan pelat merah.&nbsp; Termasuk,&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509995/mui-diharapkan-bisa-merawat-kesatuan-pada-masa-pemilu-2024",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDk5OTUvbXVpLWRpaGFyYXBrYW4tYmlzYS1tZXJhd2F0LWtlc2F0dWFuLXBhZGEtbWFzYS1wZW1pbHUtMjAyNA==",
-        "description": "PENGAMAT politik dari Universitas Islam Negeri (UIN) Syarif Hidayatullah Jakarta, Adi Prayitono berharap di umur Majelis Ulama Indonesia (MUI) yang ke-47 bisa merawat persatuan di pesta politik pemilu&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509994/bulog-pastikan-daging-kerbau-frozen-bebas-dari-pmk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5OTk0L2J1bG9nLXBhc3Rpa2FuLWRhZ2luZy1rZXJiYXUtZnJvemVuLWJlYmFzLWRhcmktcG1r",
-        "description": "DIREKTUR Bisnis Perum Bulog Febby Novita mengimbau masyarakat tidak panik terhadap isu penyakit mulut dan kuku (PMK) yang sedang mewabah di Indonesia.&nbsp; Pihaknya memastikan bahwa daging&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/509993/pertamina-foundation-dan-benihbaik-berdayakan-desa-di-banyumas-dengan-tanam-pohon-durian",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTA5OTkzL3BlcnRhbWluYS1mb3VuZGF0aW9uLWRhbi1iZW5paGJhaWstYmVyZGF5YWthbi1kZXNhLWRpLWJhbnl1bWFzLWRlbmdhbi10YW5hbS1wb2hvbi1kdXJpYW4=",
-        "description": "CSR PT Pertamina (Persero) melalui Pertamina Foundation berkolaborasi dengan Benihbaik.com melakukan program Satu Keluarga Satu Pohon dengan menanam bibit pohon buah durian. Kegiatan ini dilaksanakan&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/509992/season-terbaru-industry-tayang-di-hbo-mulai-2-agustus",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUwOTk5Mi9zZWFzb24tdGVyYmFydS1pbmR1c3RyeS10YXlhbmctZGktaGJvLW11bGFpLTItYWd1c3R1cw==",
-        "description": "SERIAL drama HBO Industry, hasil karya Mickey Down dan Konrad Kay, memulai debutnya berbarengan waktunya dengan Amerika Serikat (AS)&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/509991/jerman-bakal-kurangi-insentif-keuangan-untuk-mobil-listrik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTk5MS9qZXJtYW4tYmFrYWwta3VyYW5naS1pbnNlbnRpZi1rZXVhbmdhbi11bnR1ay1tb2JpbC1saXN0cmlr",
-        "description": "Jerman akan mengurangi insentif keuangan untuk membeli mobil listrik tahun depan setelah kesepakatan dalam koalisi pemerintahan. Hal itu dilakukan karena popularitas kendaraan yang semakin meningkat&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509990/mendagri-minta-daerah-aktif-lakukan-monev-apbd",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDk5OTAvbWVuZGFncmktbWludGEtZGFlcmFoLWFrdGlmLWxha3VrYW4tbW9uZXYtYXBiZA==",
-        "description": "MENTERI Dalam Negeri (Mendagri) Muhammad Tito Karnavian meminta jajaran inspektorat di daerah aktif melakukan &nbsp;monitoring dan evaluasi (monev) realisasi belanja Anggaran Pendapatan dan Belanja&#8230;"
     }
 ]
