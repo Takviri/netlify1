@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/510149/rp220-triliun-dana-pemda-mengendap-di-bank-menkeu-tertinggi-sejak-awal-tahun",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDE0OS9ycDIyMC10cmlsaXVuLWRhbmEtcGVtZGEtbWVuZ2VuZGFwLWRpLWJhbmstbWVua2V1LXRlcnRpbmdnaS1zZWphay1hd2FsLXRhaHVu",
+        "description": "MENTERI Keuangan Sri Mulyani mendorong pemerintah daerah (pemda) untuk menggunakan anggaran alih-alih mengendapkan dana tersebut di perbankan.&nbsp; Pasalnya, saldo dana pemda di bank mencapai&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/510148/jasad-diformalin-dan-mulai-membusuk-sempat-sulitkan-tim-forensik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEwMTQ4L2phc2FkLWRpZm9ybWFsaW4tZGFuLW11bGFpLW1lbWJ1c3VrLXNlbXBhdC1zdWxpdGthbi10aW0tZm9yZW5zaWs=",
+        "description": "PEMERIKSAAN jasad mendiang Brigadir Nofriansyah Yosua Hutabarat (J) yang diautopsi ulang Tim Dokter Forensik di RSUD Sungai Bahar, Kabupaten Muarojambi, Provinsi Jambi, Rabu (27/7), dinyatakan selesai&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/510147/patra-pengacara-itu-ahli-hukum-bukan-ahli-ramal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTAxNDcvcGF0cmEtcGVuZ2FjYXJhLWl0dS1haGxpLWh1a3VtLWJ1a2FuLWFobGktcmFtYWw=",
+        "description": "SALAH satu tim kuasa hukum&nbsp;istri Ferdy Sambo Putri Candrawathi, Patra M Zen mengingatkan semua pihak termasuk pengacara keluarga&nbsp;Brigadir J&nbsp;atau Yoshua, Kamarudin Simanjuntak tidak terlalu&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/510146/tim-dokter-forensik-kesulitan-autopsi-ulang-yosua",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTAxNDYvdGltLWRva3Rlci1mb3JlbnNpay1rZXN1bGl0YW4tYXV0b3BzaS11bGFuZy15b3N1YQ==",
+        "description": "TIM dokter forensik selesai melakukan autopsi ulang Brigadir Nofriansyah Yoshua Hutabarat&nbsp; di RSUD Sungai Bahar, Jambi. Namun tim dokter menemukan kesulitan karena jenazah sudah diformalin.&nbsp;&nbsp;&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/510145/frisian-flag-raih-rekor-muri-untuk-lomba-gambar-virtual-peserta-terbanyak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwMTQ1L2ZyaXNpYW4tZmxhZy1yYWloLXJla29yLW11cmktdW50dWstbG9tYmEtZ2FtYmFyLXZpcnR1YWwtcGVzZXJ0YS10ZXJiYW55YWs=",
+        "description": "PT Frisian Flag Indonesia (FFI), perusahaan produk bergizi berbasis susu melalui produk Frisian&nbsp;Flag&reg;Milky, menggelar acara final lomba mewarnai dan menggambar virtual. Tercatat peserta&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/510144/jaksa-tuntut-pendiri-sma-spi-15-tahun-penjara",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEwMTQ0L2pha3NhLXR1bnR1dC1wZW5kaXJpLXNtYS1zcGktMTUtdGFodW4tcGVuamFyYQ==",
+        "description": "JAKSA Penuntut Umum (JPU) menuntut terdakwa kekerasan seksual pada anak, Julianto Eka Putra alias Ko Jul atau JE, 15 tahun penjara. Tuntutan dibacakan dalam sidang di Pengadilan Negeri Kota Malang,&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/510143/polda-sulut-tangkap-residivis-kambuhan-curanmor",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEwMTQwL3Blcm5pa2FoYW4tdXNpYS1tdWRhLXBpY3Utc3R1bnRpbmctZGktYmVsdGlt",
         "description": "KOORDINATOR Manager Satgas Stunting Provinsi Bangka Belitung (Babel), Sardiyono mengatakan,pernikahan usia muda menjadi penyebab tingginya angka stunting di Kecamatan Dendang, Belitung Timur (Beltim).&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/510139/bertekad-putus-mata-rantai-peredaran-narkoba-tegal-resmikan-ponpes-rehabilitasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEwMTM5L2JlcnRla2FkLXB1dHVzLW1hdGEtcmFudGFpLXBlcmVkYXJhbi1uYXJrb2JhLXRlZ2FsLXJlc21pa2FuLXBvbnBlcy1yZWhhYmlsaXRhc2k=",
-        "description": "UPAYA memutus mata rantai peredaran narkotika dan obat-obatan berbahaya (narkoba) terus dilakukan banyak pihak. Di Kota Tegal, Jawa Tengah, Pondok Pesantren (Pones) Istqomah Yayasan Al Ma'laa bersama&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/510138/fkk-umj-gelar-angkat-sumpah-dokter-ke-47",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwMTM4L2Zray11bWotZ2VsYXItYW5na2F0LXN1bXBhaC1kb2t0ZXIta2UtNDc=",
-        "description": "FAKULTAS Kedokteran dan Kesehatan (FKK) Universitas Muhammadiyah Jakarta (UMJ) menggelar Angkat Sumpah Dokter ke-47 Rabu (27/7). Sebanyak 77 mahasiswa lulusan FKK UMJ diangkat sumpah oleh Dekan FKK&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/510137/perhitungan-dua-jenis-pengeluaran-selama-tinggal-di-jakarta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDEzNy9wZXJoaXR1bmdhbi1kdWEtamVuaXMtcGVuZ2VsdWFyYW4tc2VsYW1hLXRpbmdnYWwtZGktamFrYXJ0YQ==",
-        "description": "BIAYA hidup di Jakarta termasuk yang tertinggi di Indonesia. Karena itu, pekerja yang tinggal di Jakarta harus pintar menyiasati pendapatan yang diperoleh dengan pengeluaran sehari-hari. Untuk&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/510136/kelola-sdm-perusahaan-di-tengah-pandemi-dan-digitalisasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDEzNi9rZWxvbGEtc2RtLXBlcnVzYWhhYW4tZGktdGVuZ2FoLXBhbmRlbWktZGFuLWRpZ2l0YWxpc2FzaQ==",
-        "description": "PANDEMI covid-19 yang berkepanjangan dan digitaliasi teknologi di era VUCA (Volatility Uncertainty Complexity Ambiguity) telah mengubah banyak aspek kehidupan. Perubahan ini termasuk cara mengelola&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/510135/wapres-maruf-amin-dan-sejumlah-menteri-hadiri-forum-kapasitas-nasional-ii-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDEzNS93YXByZXMtbWFydWYtYW1pbi1kYW4tc2VqdW1sYWgtbWVudGVyaS1oYWRpcmktZm9ydW0ta2FwYXNpdGFzLW5hc2lvbmFsLWlpLTIwMjI=",
-        "description": "SATUAN&nbsp;Kerja Khusus Pelaksana Kegiatan Usaha Hulu Minyak dan Gas Bumi (SKK Migas) mengadakan acara Forum Kapasitas Nasional II 2022 di Jakarta selama dua hari, pada hari ini atau Rabu (26/7) dan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/510134/csis-dan-icw-anggap-seleksi-anggota-bpk-langgar-putusan-mk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTAxMzQvY3Npcy1kYW4taWN3LWFuZ2dhcC1zZWxla3NpLWFuZ2dvdGEtYnBrLWxhbmdnYXItcHV0dXNhbi1taw==",
-        "description": "PENELITI Centre for Strategic and International Studies (CSIS) Nicky Fahrizal mengungkapkan,&nbsp; masih diakomodasinya kader parpol dalam seleksi anggota Badan Pemeriksa Keuangan Republik Indonesia&#8230;"
     }
 ]
