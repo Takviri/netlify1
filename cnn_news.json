@@ -1,5 +1,40 @@
 [
     {
+        "title": "Kasus Bullying di Tasikmalaya, 3 Tersangka Dikembalikan ke Orang Tua",
+        "link": "https://www.cnnindonesia.com/nasional/20220727154327-12-826933/kasus-bullying-di-tasikmalaya-3-tersangka-dikembalikan-ke-orang-tua",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyNzE1NDMyNy0xMi04MjY5MzMva2FzdXMtYnVsbHlpbmctZGktdGFzaWttYWxheWEtMy10ZXJzYW5na2EtZGlrZW1iYWxpa2FuLWtlLW9yYW5nLXR1YQ==",
+        "description": " Dikembalikannya tiga tersangka kasus perundungan bocah 11 tahun di Tasikmalaya\u00c2\u00a0sudah berdasarkan koordinasi dengan KPAID, PPA Satreskrim, dan Bapas."
+    },
+    {
+        "title": "Mahfud MD Sentil Gelisah Hidup Koruptor, Damkar Lewat Dikira Aparat",
+        "link": "https://www.cnnindonesia.com/nasional/20220727130912-20-826812/mahfud-md-sentil-gelisah-hidup-koruptor-damkar-lewat-dikira-aparat",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyNzEzMDkxMi0yMC04MjY4MTIvbWFoZnVkLW1kLXNlbnRpbC1nZWxpc2FoLWhpZHVwLWtvcnVwdG9yLWRhbWthci1sZXdhdC1kaWtpcmEtYXBhcmF0",
+        "description": " Menko Polhukam Mahfud MD menyebut surga dan\u00c2\u00a0neraka juga ada di dunia. Ia menyinggung ihwal kasus korupsi yang menurutnya adalah sebuah neraka."
+    },
+    {
+        "title": "VIDEO: Brigadir J Kembali Dimakamkan dengan Upacara Kepolisian",
+        "link": "https://www.cnnindonesia.com/nasional/20220727163715-16-826966/video-brigadir-j-kembali-dimakamkan-dengan-upacara-kepolisian",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyNzE2MzcxNS0xNi04MjY5NjYvdmlkZW8tYnJpZ2FkaXItai1rZW1iYWxpLWRpbWFrYW1rYW4tZGVuZ2FuLXVwYWNhcmEta2Vwb2xpc2lhbg==",
+        "description": " Jenazah Brigadir J kembali dimakamkan dengan upacara kepolisian setelah menjalani autopsi ulang di RSUD Sungai Bahar Jambi pada Rabu (27/7)."
+    },
+    {
+        "title": "Warga Bogor Tolak Pembangunan Masjid Imam Hanbal karena Aliran Wahabi",
+        "link": "https://www.cnnindonesia.com/nasional/20220727162950-20-826962/warga-bogor-tolak-pembangunan-masjid-imam-hanbal-karena-aliran-wahabi",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyNzE2Mjk1MC0yMC04MjY5NjIvd2FyZ2EtYm9nb3ItdG9sYWstcGVtYmFuZ3VuYW4tbWFzamlkLWltYW0taGFuYmFsLWthcmVuYS1hbGlyYW4td2FoYWJp",
+        "description": " Sejumlah orang menolak pembangunan Masjid Imam Ahmad bin Hanbal di Kota Bogor. Bima Arya meminta pembangunan masjid dihentikan."
+    },
+    {
+        "title": "Komnas HAM Dalami Hubungan Istri Sambo-Ajudan, Termasuk Brigadir J",
+        "link": "https://www.cnnindonesia.com/nasional/20220727162619-12-826958/komnas-ham-dalami-hubungan-istri-sambo-ajudan-termasuk-brigadir-j",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyNzE2MjYxOS0xMi04MjY5NTgva29tbmFzLWhhbS1kYWxhbWktaHVidW5nYW4taXN0cmktc2FtYm8tYWp1ZGFuLXRlcm1hc3VrLWJyaWdhZGlyLWo=",
+        "description": " Komisioner Komnas HAM Choirul Anam mengatakan pendalaman itu dilakukan komisi saat memeriksa keenam ajudan Irjen Sambo, Selasa (26/7)."
+    },
+    {
         "title": "Jenazah Brigadir J Dimakamkan Kembali dengan Upacara Kepolisian",
         "link": "https://www.cnnindonesia.com/nasional/20220727161237-12-826950/jenazah-brigadir-j-dimakamkan-kembali-dengan-upacara-kepolisian",
         "image": "static/images/cnn_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyNzEzMTIyMC0zMi04MjY4MTYvcGtzLWtyaXRpay1zZXJhZ2FtLXBucy1hdHItYnBuLWJlcmJhcmV0LWdheWEtbWlsaXRlci1tZXN0aS1kaWphdWhp",
         "description": " PKS menilai penambahan baret dan tongkat komando bagi pegawai Kementerian ATR/BPN justru\u00c2\u00a0jauh dari semangat melayani masyarakat."
-    },
-    {
-        "title": "Sopir Odong-odong Jadi Tersangka Kecelakaan Maut di Serang",
-        "link": "https://www.cnnindonesia.com/nasional/20220727153046-12-826929/sopir-odong-odong-jadi-tersangka-kecelakaan-maut-di-serang",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyNzE1MzA0Ni0xMi04MjY5Mjkvc29waXItb2Rvbmctb2RvbmctamFkaS10ZXJzYW5na2Eta2VjZWxha2Fhbi1tYXV0LWRpLXNlcmFuZw==",
-        "description": " Polisi menetapkan sopir odong-odong sebagai tersangka dalam kecelakaan maut yang menewaskan 9 orang penumpang."
-    },
-    {
-        "title": "4 Terdakwa Pembunuhan Komandan BAIS Aceh Divonis Penjara Seumur Hidup",
-        "link": "https://www.cnnindonesia.com/nasional/20220727125417-12-826798/4-terdakwa-pembunuhan-komandan-bais-aceh-divonis-penjara-seumur-hidup",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyNzEyNTQxNy0xMi04MjY3OTgvNC10ZXJkYWt3YS1wZW1idW51aGFuLWtvbWFuZGFuLWJhaXMtYWNlaC1kaXZvbmlzLXBlbmphcmEtc2V1bXVyLWhpZHVw",
-        "description": " Pengadilan memvonis 4 terdakwa dengan hukuman penjara seumur hidup dalam kasus penembakan terhadap komandan Badan Intelijen Strategis (BAIS) di Pidie, Aceh."
-    },
-    {
-        "title": "Projo Ogah Respons Joman soal Relawan Jokowi Bakal Dukung Ganjar",
-        "link": "https://www.cnnindonesia.com/nasional/20220726124007-32-826222/projo-ogah-respons-joman-soal-relawan-jokowi-bakal-dukung-ganjar",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyNjEyNDAwNy0zMi04MjYyMjIvcHJvam8tb2dhaC1yZXNwb25zLWpvbWFuLXNvYWwtcmVsYXdhbi1qb2tvd2ktYmFrYWwtZHVrdW5nLWdhbmphcg==",
-        "description": " Projo enggan menanggapi pernyataan Jokowi Mania (Joman) soal relawan pendukung Jokowi akan mendukung Ganjar Pranowo sebagai capres 2024."
-    },
-    {
-        "title": "Kasus Kekerasan Seksual SPI Batu, Julianto Dituntut 15 Tahun Penjara",
-        "link": "https://www.cnnindonesia.com/nasional/20220727153317-12-826930/kasus-kekerasan-seksual-spi-batu-julianto-dituntut-15-tahun-penjara",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyNzE1MzMxNy0xMi04MjY5MzAva2FzdXMta2VrZXJhc2FuLXNla3N1YWwtc3BpLWJhdHUtanVsaWFudG8tZGl0dW50dXQtMTUtdGFodW4tcGVuamFyYQ==",
-        "description": " Terdakwa Julianto Eka Putra dituntut 15 tahun penjara dalam sidang lanjutan kekerasan seksual di SMA SPI, Kota Batu, Jatim."
-    },
-    {
-        "title": "Mobil Tanpa Stiker Uji Emisi Dilarang di Balkot Bandung Mulai Agustus",
-        "link": "https://www.cnnindonesia.com/nasional/20220727150306-20-826906/mobil-tanpa-stiker-uji-emisi-dilarang-di-balkot-bandung-mulai-agustus",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyNzE1MDMwNi0yMC04MjY5MDYvbW9iaWwtdGFucGEtc3Rpa2VyLXVqaS1lbWlzaS1kaWxhcmFuZy1kaS1iYWxrb3QtYmFuZHVuZy1tdWxhaS1hZ3VzdHVz",
-        "description": " Pemkot Bandung akan menerapkan Kawasan Emisi Bersih mulai 8 Agustus 2022 mendatang, dimulai dari kawasan Balai Kota."
     }
 ]
