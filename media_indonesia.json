@@ -1,5 +1,26 @@
 [
     {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509907/teddy-tjokrosapoetro-divonis-dalam-kasus-asabri-hari-ini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDk5MDcvdGVkZHktdGpva3Jvc2Fwb2V0cm8tZGl2b25pcy1kYWxhbS1rYXN1cy1hc2FicmktaGFyaS1pbmk=",
+        "description": "TERDAKWA kasus dugaan korupsi PT Asuransi Sosial Angkatan Bersenjata Republik Indonesia (ASABRI), Teddy Tjokrosapoetro, akan divonis&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/509899/psg-konfirmasi-kedatangan-mukiele-dari-rb-leipzig",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTg5OS9wc2cta29uZmlybWFzaS1rZWRhdGFuZ2FuLW11a2llbGUtZGFyaS1yYi1sZWlwemln",
+        "description": "PARIS Saint-Germain, Selasa (26/7), mengonfirmasi kedatangan bek Prancis Nordi Mukiele dari RB Leipzig dengan kontrak&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/509898/israel-dan-maroko-jalin-kerja-sama-di-bidang-hukum",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTg5OC9pc3JhZWwtZGFuLW1hcm9rby1qYWxpbi1rZXJqYS1zYW1hLWRpLWJpZGFuZy1odWt1bQ==",
+        "description": "MAROKO dan Israel menambahkan bidang hukum dalam daftar kerja sama meeka sejak kedua negara menormalisasi hubungan mereka pada 2020.&nbsp;&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/509897/ludwig-menangi-etape-3-tour-de-france-putri-vos-pertahankan-kaos-kuning",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTg5My9qdXZlbnR1cy1pbmdpbi1kYXRhbmdrYW4tbW9yYXRhLWRhcmktYXRsZXRpY28tbWFkcmlk",
         "description": "KLUB Serie A Juventus dikabarkan tengah membidik penyerang Alvaro Morata dari klub La Liga Atletico Madrid pada bursa transfer pemain&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/509892/southampton-datangkan-mara-dari-bordeaux",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTg5Mi9zb3V0aGFtcHRvbi1kYXRhbmdrYW4tbWFyYS1kYXJpLWJvcmRlYXV4",
-        "description": "KLUB Liga Primer Inggris Southampton resmi mendapatkan penyerang muda Sekou Mara dari klub Ligue 1 Giordins Bordeaux pada bursa transfer pemain musim panas ini. Sky Sports, Selasa (26/7), melaporkan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509891/empat-rekornas-pecah-di-hari-pertama-festival-akuatik-indonesia-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDk4OTEvZW1wYXQtcmVrb3JuYXMtcGVjYWgtZGktaGFyaS1wZXJ0YW1hLWZlc3RpdmFsLWFrdWF0aWstaW5kb25lc2lhLTIwMjI=",
-        "description": "SEJUMLAH rekor renang nasional baru tercipta di hari pertama Kejuaraan Nasional Akuatik bertajuk Festival Akuatik Indonesia 2022 di&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/509883/integrasi-keilmuan-dan-peran-muhammad-arkoun",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MDk4ODMvaW50ZWdyYXNpLWtlaWxtdWFuLWRhbi1wZXJhbi1tdWhhbW1hZC1hcmtvdW4=",
-        "description": "DALAM dekade belakangan ini, integrasi keilmuan tidak hanya menjadi wacana, tapi juga sudah diimplementasikan di kampus-kampus perguruan tinggi Islam, tidak terkecuali di lingkungan Muhammadiyah.&#8230;"
     }
 ]
