@@ -1,5 +1,19 @@
 [
     {
+        "title": "IMF Bilang Ekonomi Suram, Harga Minyak Anjlok 1% Lebih!",
+        "link": "https://www.cnbcindonesia.com/market/20220727071409-17-358835/imf-bilang-ekonomi-suram-harga-minyak-anjlok-1-lebih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI3MDcxNDA5LTE3LTM1ODgzNS9pbWYtYmlsYW5nLWVrb25vbWktc3VyYW0taGFyZ2EtbWlueWFrLWFuamxvay0xLWxlYmlo",
+        "description": " Harga minyak dunia bergerak turun pada perdagangan pagi ini. Sepertinya investor merespons negatif kabar dari IMF."
+    },
+    {
+        "title": "Korban Baru, BUMN Gas Ukraina Gagal Bayar Obligasi Asing",
+        "link": "https://www.cnbcindonesia.com/market/20220727061601-17-358827/korban-baru-bumn-gas-ukraina-gagal-bayar-obligasi-asing",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI3MDYxNjAxLTE3LTM1ODgyNy9rb3JiYW4tYmFydS1idW1uLWdhcy11a3JhaW5hLWdhZ2FsLWJheWFyLW9ibGlnYXNpLWFzaW5n",
+        "description": " Perusahaan gas negara Ukraina, NJSC Naftogaz, sudah berada di ambang gagal bayar (default)"
+    },
+    {
         "title": "Laba Bersih BRI Terbang 98,7% Pada Semester I Jadi Rp 24,79 T",
         "link": "https://www.cnbcindonesia.com/market/20220727065736-17-358833/laba-bersih-bri-terbang-987-pada-semester-i-jadi-rp-2479-t",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI3MDQ0NzQyLTE3LTM1ODgyNC90aGUtZmVkLXVtdW1rYW4tc3VrdS1idW5nYS1iZXNvay1pbnZlc3Rvci1wZXJsdS13YXNwYWRh",
         "description": " Indeks Harga Saham Gabungan (IHSG) masih bergerak cenderung volatil dalam dua hari perdagangan awal pekan ini. Bagaimana hari ini?"
-    },
-    {
-        "title": "Saham Peritel Turun Akibat Walmart, Wall Street Dibuka Merah",
-        "link": "https://www.cnbcindonesia.com/market/20220726211644-17-358816/saham-peritel-turun-akibat-walmart-wall-street-dibuka-merah",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI2MjExNjQ0LTE3LTM1ODgxNi9zYWhhbS1wZXJpdGVsLXR1cnVuLWFraWJhdC13YWxtYXJ0LXdhbGwtc3RyZWV0LWRpYnVrYS1tZXJhaA==",
-        "description": " Indeks bursa saham Amerika Serikat (AS) berguguran pada pembukaan perdagangan Kamis (21/7/2022)"
-    },
-    {
-        "title": "Sudah Revisi, UNTR Kembali Buka Opsi Revisi Target Penjualan",
-        "link": "https://www.cnbcindonesia.com/market/20220726200935-17-358807/sudah-revisi-untr-kembali-buka-opsi-revisi-target-penjualan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI2MjAwOTM1LTE3LTM1ODgwNy9zdWRhaC1yZXZpc2ktdW50ci1rZW1iYWxpLWJ1a2Etb3BzaS1yZXZpc2ktdGFyZ2V0LXBlbmp1YWxhbg==",
-        "description": " Ari Setiyawan, Investor Relation UNTR mengatakan masih mengkaji pasar dan pasokan dari prinsipal."
     }
 ]
