@@ -1,5 +1,33 @@
 [
     {
+        "title": "Gegara Rusia, Ada Kebangkitan Nuklir di Asia",
+        "link": "https://www.cnbcindonesia.com/news/20220727152126-4-359027/gegara-rusia-ada-kebangkitan-nuklir-di-asia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzE1MjEyNi00LTM1OTAyNy9nZWdhcmEtcnVzaWEtYWRhLWtlYmFuZ2tpdGFuLW51a2xpci1kaS1hc2lh",
+        "description": " Beberapa negara-negara Asia mulai mengembangkan kembali penggunaan nuklir sebagai sumber energi."
+    },
+    {
+        "title": "Ini Dia Raksasa Migas Asing yang Ngga Bisa Move On Dari RI",
+        "link": "https://www.cnbcindonesia.com/news/20220727145011-4-359022/ini-dia-raksasa-migas-asing-yang-ngga-bisa-move-on-dari-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzE0NTAxMS00LTM1OTAyMi9pbmktZGlhLXJha3Nhc2EtbWlnYXMtYXNpbmcteWFuZy1uZ2dhLWJpc2EtbW92ZS1vbi1kYXJpLXJp",
+        "description": " Perusahaan raksasa migas asal Perancis yakni Total kembali melirik wailayah kerja migas yang ada di Indonesia"
+    },
+    {
+        "title": "Saat Jokowi Tunjuk Maruf Amin Jadi Presiden 2x Dalam 1 Bulan",
+        "link": "https://www.cnbcindonesia.com/news/20220727151518-4-359024/saat-jokowi-tunjuk-maruf-amin-jadi-presiden-2x-dalam-1-bulan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzE1MTUxOC00LTM1OTAyNC9zYWF0LWpva293aS10dW5qdWstbWFydWYtYW1pbi1qYWRpLXByZXNpZGVuLTJ4LWRhbGFtLTEtYnVsYW4=",
+        "description": " Untuk kedua kalinya dalam satu bulan terakhir, Maruf Amin kembali memegang jabatan pelaksana tugas (Plt) Presiden"
+    },
+    {
+        "title": "Bukan Gas-Batu Bara, Harta Karun RI Ini Diperebutkan China-AS",
+        "link": "https://www.cnbcindonesia.com/news/20220727142527-4-359018/bukan-gas-batu-bara-harta-karun-ri-ini-diperebutkan-china-as",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzE0MjUyNy00LTM1OTAxOC9idWthbi1nYXMtYmF0dS1iYXJhLWhhcnRhLWthcnVuLXJpLWluaS1kaXBlcmVidXRrYW4tY2hpbmEtYXM=",
+        "description": " Nanas menjadi harta karun RI yang diperebutkan China dan AS."
+    },
+    {
         "title": "Strategi Eropa Lawan 'Perang Gas' Rusia Bisa Jadi Bumerang",
         "link": "https://www.cnbcindonesia.com/news/20220727135417-4-359009/strategi-eropa-lawan-perang-gas-rusia-bisa-jadi-bumerang",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzEzNTk1OC00LTM1OTAxMS9iZWxpLXBlcnRhbGl0ZS1kaWF0dXItMS1hZ3VzdHVzLWhhcmdhLXBlcnRhbWF4LWJha2FsLW5haWs=",
         "description": " Menteri ESDM Arifin mengatakan bahwa pemerintah masih mempertimbangkan daya beli"
-    },
-    {
-        "title": "Jokowi Bertemu PM Fumio Kishida, Ini hasilnya!",
-        "link": "https://www.cnbcindonesia.com/news/20220727133929-8-358999/jokowi-bertemu-pm-fumio-kishida-ini-hasilnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzEzMzkyOS04LTM1ODk5OS9qb2tvd2ktYmVydGVtdS1wbS1mdW1pby1raXNoaWRhLWluaS1oYXNpbG55YQ==",
-        "description": " Presiden Joko Widodo telah tiba di Tokyo dan bertemu Perdana Menteri Jepang Fumio Kishida."
-    },
-    {
-        "title": "Negara-negara Eropa Kepincut Senjata HIMARS dari AS",
-        "link": "https://www.cnbcindonesia.com/news/20220727130527-4-358991/negara-negara-eropa-kepincut-senjata-himars-dari-as",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzEzMDUyNy00LTM1ODk5MS9uZWdhcmEtbmVnYXJhLWVyb3BhLWtlcGluY3V0LXNlbmphdGEtaGltYXJzLWRhcmktYXM=",
-        "description": " Beberapa negara Baltik dan Polandia menyatakan ingin memperoleh senjata Sistem Roket Artileri Mobilitas Tinggi (HIMARS) buatan Amerika Serikat (AS)."
-    },
-    {
-        "title": "Larangan Beli Pertalite 1 Agustus, Menteri ESDM: Insya Allah!",
-        "link": "https://www.cnbcindonesia.com/news/20220727122524-4-358968/larangan-beli-pertalite-1-agustus-menteri-esdm-insya-allah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzEyMjUyNC00LTM1ODk2OC9sYXJhbmdhbi1iZWxpLXBlcnRhbGl0ZS0xLWFndXN0dXMtbWVudGVyaS1lc2RtLWluc3lhLWFsbGFo",
-        "description": " Menteri ESDM Arifin Tasrif menyatakan pelarangan atau pembatasan pembelian Pertalite insya allah jalan Agustus 2022 ini"
-    },
-    {
-        "title": "Ekspor CPO Ke China Tambah 1 Juta Ton, Harga TBS Sawit Naik?",
-        "link": "https://www.cnbcindonesia.com/news/20220727120950-8-358961/ekspor-cpo-ke-china-tambah-1-juta-ton-harga-tbs-sawit-naik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzEyMDk1MC04LTM1ODk2MS9la3Nwb3ItY3BvLWtlLWNoaW5hLXRhbWJhaC0xLWp1dGEtdG9uLWhhcmdhLXRicy1zYXdpdC1uYWlr",
-        "description": " Jika Ekspor Ke China Tambah 1 Juta Ton, TBS Pertani Ikut Naik?"
     }
 ]
