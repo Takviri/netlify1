@@ -1,5 +1,47 @@
 [
     {
+        "title": "Era Baru, Bahan Bakar 40% Campuran Sawit Mulai Dites di Mobil",
+        "link": "https://www.cnbcindonesia.com/news/20220727124837-7-358981/era-baru-bahan-bakar-40-campuran-sawit-mulai-dites-di-mobil",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzEyNDgzNy03LTM1ODk4MS9lcmEtYmFydS1iYWhhbi1iYWthci00MC1jYW1wdXJhbi1zYXdpdC1tdWxhaS1kaXRlcy1kaS1tb2JpbA==",
+        "description": " Penetapan Badan Usaha Bahan Bakar Minyak dan Badan Usaha Bahan Bakar Nabati Jenis Biodiesel serta Alokasi Besaran Volume."
+    },
+    {
+        "title": "Dear Mr Kishida, Jokowi Mau Proyek MRT dan Blok Masela Dikebut",
+        "link": "https://www.cnbcindonesia.com/news/20220727125321-4-358980/dear-mr-kishida-jokowi-mau-proyek-mrt-blok-masela-dikebut",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzEyNTMyMS00LTM1ODk4MC9kZWFyLW1yLWtpc2hpZGEtam9rb3dpLW1hdS1wcm95ZWstbXJ0LWJsb2stbWFzZWxhLWRpa2VidXQ=",
+        "description": " Jokowi secara khusus meminta agar proyek infrastruktur yang digarap bisa segera diselesaikan"
+    },
+    {
+        "title": "Permintaan Jokowi ke Jepang: Turunkan Tarif Ekspor Pisang!",
+        "link": "https://www.cnbcindonesia.com/news/20220727122716-4-358976/permintaan-jokowi-ke-jepang-turunkan-tarif-ekspor-pisang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzEyMjcxNi00LTM1ODk3Ni9wZXJtaW50YWFuLWpva293aS1rZS1qZXBhbmctdHVydW5rYW4tdGFyaWYtZWtzcG9yLXBpc2FuZw==",
+        "description": " Jokowi memina agar Jepang memberikan penurunan besaran tarif untuk beberapa komoditas seperti tuna, pisang, dan nanas"
+    },
+    {
+        "title": "Hati-hati! China Kini Ancaman Bagi Ekonomi RI",
+        "link": "https://www.cnbcindonesia.com/news/20220727123618-4-358975/hati-hati-china-kini-ancaman-bagi-ekonomi-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzEyMzYxOC00LTM1ODk3NS9oYXRpLWhhdGktY2hpbmEta2luaS1hbmNhbWFuLWJhZ2ktZWtvbm9taS1yaQ==",
+        "description": " Indonesia tidak bisa berleha-leha karena laju ekonomi domestik bisa sangat terdampak oleh pergerakan ekonomi China."
+    },
+    {
+        "title": "Proyek Kereta Cepat Bengkak Lagi, China Mau RI yang Bayar",
+        "link": "https://www.cnbcindonesia.com/news/20220727120559-4-358960/proyek-kereta-cepat-bengkak-lagi-china-mau-ri-yang-bayar",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzEyMDU1OS00LTM1ODk2MC9wcm95ZWsta2VyZXRhLWNlcGF0LWJlbmdrYWstbGFnaS1jaGluYS1tYXUtcmkteWFuZy1iYXlhcg==",
+        "description": " Biaya proyek Kereta Cepat Jakarta-Bandung (KCJB) diperkirakan akan kembali membengkak."
+    },
+    {
+        "title": "Sederet Tantangan Jika Konten YouTube Cs Jadi Jaminan Bank",
+        "link": "https://www.cnbcindonesia.com/news/20220727110319-8-358932/sederet-tantangan-jika-konten-youtube-cs-jadi-jaminan-bank",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzExMDMxOS04LTM1ODkzMi9zZWRlcmV0LXRhbnRhbmdhbi1qaWthLWtvbnRlbi15b3V0dWJlLWNzLWphZGktamFtaW5hbi1iYW5r",
+        "description": " Sederet Tantangan Jika Konten YouTube Cs Dijadikan Jaminan Bank"
+    },
+    {
         "title": "Mulai Ada Pengetatan Perjalanan, Bandara Tetap Ramai Orang",
         "link": "https://www.cnbcindonesia.com/news/20220727122358-4-358967/mulai-ada-pengetatan-perjalanan-bandara-tetap-ramai-orang",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzExMjM1Ni00LTM1ODk1Ni9zYWF0LXJhamEtbW9iaWwtcmktYmVyZ2FuZGVuZ2FuLXRhbmdhbi1wYWN1LW1vYmlsLWxpc3RyaWs=",
         "description": " Toyota dan empat pabrikan lainnya yakni Mitsubishi Motors, Nissan, FUSO dan Isuzu menjalin kerja sama lewat program Joint Project EV Smart Mobility."
-    },
-    {
-        "title": "Jokowi dan Xi Jinping \"Kopdar\" di Beijing, Bahas Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220727083357-8-358858/jokowi-xi-jinping-kopdar-di-beijing-bahas-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzA4MzM1Ny04LTM1ODg1OC9qb2tvd2kteGktamlucGluZy1rb3BkYXItZGktYmVpamluZy1iYWhhcy1hcGE=",
-        "description": " Presiden Joko Widodo juga berjumpa langsung dengan Presiden China Xi Jinping di Beijing."
-    },
-    {
-        "title": "Jokowi Ungkap Jasa Besar Shinzo Abe, Bikin RI-Jepang Mesra",
-        "link": "https://www.cnbcindonesia.com/news/20220727120416-4-358959/jokowi-ungkap-jasa-besar-shinzo-abe-bikin-ri-jepang-mesra",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzEyMDQxNi00LTM1ODk1OS9qb2tvd2ktdW5na2FwLWphc2EtYmVzYXItc2hpbnpvLWFiZS1iaWtpbi1yaS1qZXBhbmctbWVzcmE=",
-        "description": " Jokowi mengungkap jasa besar Shinzo Abe yang dianggap menjadi sosok penting dalam kemitraan Indonesia-Jepang"
-    },
-    {
-        "title": "Arsip Penanganan Covid-19 RI Bakal Jadi 'Harta Karun' Baru",
-        "link": "https://www.cnbcindonesia.com/news/20220727104820-4-358925/arsip-penanganan-covid-19-ri-bakal-jadi-harta-karun-baru",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzEwNDgyMC00LTM1ODkyNS9hcnNpcC1wZW5hbmdhbmFuLWNvdmlkLTE5LXJpLWJha2FsLWphZGktaGFydGEta2FydW4tYmFydQ==",
-        "description": " Pemerintah telah memprakarsai perlindungan dan penyelamatan arsip dalam penanganan Covid-19"
-    },
-    {
-        "title": "Inflasi Kuartal II Australia Capai 6,1%, Tertinggi 21 Tahun",
-        "link": "https://www.cnbcindonesia.com/news/20220727111225-4-358934/inflasi-kuartal-ii-australia-capai-61-tertinggi-21-tahun",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzExMTIyNS00LTM1ODkzNC9pbmZsYXNpLWt1YXJ0YWwtaWktYXVzdHJhbGlhLWNhcGFpLTYxLXRlcnRpbmdnaS0yMS10YWh1bg==",
-        "description": " Tingkat inflasi tahunan (year-on-year/yoy) di Australia pada kuartal II/2022 tercatat sebesar 6,1%"
-    },
-    {
-        "title": "Serius dengan Mobil Listrik, Toyota Investasi Rp 27 T di RI",
-        "link": "https://www.cnbcindonesia.com/news/20220727105429-4-358928/serius-dengan-mobil-listrik-toyota-investasi-rp-27-t-di-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzEwNTQyOS00LTM1ODkyOC9zZXJpdXMtZGVuZ2FuLW1vYmlsLWxpc3RyaWstdG95b3RhLWludmVzdGFzaS1ycC0yNy10LWRpLXJp",
-        "description": " Perusahaan-perusahaan otomotif Jepang makin agresif mengembangkan investasi di Indonesia khususnya untuk kendaraan listrik."
-    },
-    {
-        "title": "Sstt.. AS Sudah MoU Garap Harta Karun 'Bukan Migas Biasa' RI",
-        "link": "https://www.cnbcindonesia.com/news/20220727101035-4-358910/sstt-as-sudah-mou-garap-harta-karun-bukan-migas-biasa-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzEwMTAzNS00LTM1ODkxMC9zc3R0LWFzLXN1ZGFoLW1vdS1nYXJhcC1oYXJ0YS1rYXJ1bi1idWthbi1taWdhcy1iaWFzYS1yaQ==",
-        "description": " SKK Migas mengatakan sudah ada MoU untuk menggarak harta karun migas non konvensional RI oleh perusahaan AS"
     }
 ]
