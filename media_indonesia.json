@@ -1,5 +1,54 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/509918/akhirnya-siswa-smp-yang-tenggelam-di-waduk-lembor-ditemukan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTA5OTE4L2FraGlybnlhLXNpc3dhLXNtcC15YW5nLXRlbmdnZWxhbS1kaS13YWR1ay1sZW1ib3ItZGl0ZW11a2Fu",
+        "description": "TIM SAR gabungan berhasil mengevakuasi Saverinus Darma (13), yang tenggelam di Waduk Pantoara Lembor, Kabupaten Manggarai Barat. Siswa kelas satu SMP itu ditemukan sudah tak bernyawa. Sebelumnya&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/509905/suarez-capai-kesepakatan-pendahuluan-dengan-nacional",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTkwNS9zdWFyZXotY2FwYWkta2VzZXBha2F0YW4tcGVuZGFodWx1YW4tZGVuZ2FuLW5hY2lvbmFs",
+        "description": "MANTAN bintang Barcelona dan Liverpool Luis Suarez, Selasa (26/7), mengumumkan bahwa dirinya telah mencapai kesempatan pendahuluan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/509917/pasar-menantikan-keputusan-the-fed-dolar-as-menguat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUwOTkxNy9wYXNhci1tZW5hbnRpa2FuLWtlcHV0dXNhbi10aGUtZmVkLWRvbGFyLWFzLW1lbmd1YXQ=",
+        "description": "PADA akhir perdagangan Selasa waktu setempat, dolar Amerika Serikat (AS) terpantau menguat. Hal itu dipengaruhi pelaku pasar menunggu keputusan kebijakan utama dari Bank Sentral AS (The Fed). Indeks&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/509916/makam-brigadir-j-mulai-dibongkar-guna-autopsi-ulang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDk5MTYvbWFrYW0tYnJpZ2FkaXItai1tdWxhaS1kaWJvbmdrYXItZ3VuYS1hdXRvcHNpLXVsYW5n",
+        "description": "MAKAM Brigadir Nofriansyah Yoshua Hutabarat yang tewas baku tembak di rumah dinas Irjen Pol Fredy Sambo pada 8 Juli lalu mulai dibongkar kembali guna kepentingan autopsi ulang atas permintaan keluarga&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/509903/rusia-akan-tinggalkan-iss-setelah-2024",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTkwMy9ydXNpYS1ha2FuLXRpbmdnYWxrYW4taXNzLXNldGVsYWgtMjAyNA==",
+        "description": "MOSKOW, Selasa (26/7), mengatakan mereka akan meninggalkan Stasiun Luar Angkasa Internasional (ISS) setelah 2024 seiring ketegangan dengan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/509914/bmkg-cuaca-jakarta-hari-ini-diperkirakan-cerah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDk5MTQvYm1rZy1jdWFjYS1qYWthcnRhLWhhcmktaW5pLWRpcGVya2lyYWthbi1jZXJhaA==",
+        "description": "BADAN Meteorologi, Klimatologi dan Geofisika (BMKG) memprakirakan cuaca di seluruh wilayah DKI Jakarta cerah sepanjang Rabu (27/7) ini. Berdasarkan informasi prakiraan cuaca dalam laman resmi&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/509913/kasus-brigadir-j-pengamat-waspadai-tsunami-informasi-medsos",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDk5MTMva2FzdXMtYnJpZ2FkaXItai1wZW5nYW1hdC13YXNwYWRhaS10c3VuYW1pLWluZm9ybWFzaS1tZWRzb3M=",
+        "description": "MASYARAKAT diminta mewaspadai tsunami informasi yang beredar di media sosial terkait kasus penembakan Brigadir Nofriansyah Yoshua Hutabarat atau Brigadir&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/509901/palomino-gagal-tes-doping",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTkwMC9yYW1zZXktc2VwYWthdC1ha2hpcmkta29udHJhay1kaS1qdXZlbnR1cy1sZWJpaC1jZXBhdA==",
         "description": "GELANDANG Wales Aaron Ramsey meninggalkan Juventus setahun sebelum kontraknya berakhir. Hal itu diumumkan klub Serie A itu, Selasa&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509910/praperadilan-mardani-maming-diputus-hari-ini-kpk-optimistis-menang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDk5MTAvcHJhcGVyYWRpbGFuLW1hcmRhbmktbWFtaW5nLWRpcHV0dXMtaGFyaS1pbmkta3BrLW9wdGltaXN0aXMtbWVuYW5n",
-        "description": "PENGADILAN Negeri Jakarta Selatan menggelar sidang putusan terkait praperadilan pengujian keabsahan penetapan tersangka terhadap mantan Bupati Tanah Bumbu <a href=\"http://mediaindonesia.com/tag/mardani-h-maming\"&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/509908/ekshumasi-brigadir-j-dilakukan-pagi-ini",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MDk5MDgvZWtzaHVtYXNpLWJyaWdhZGlyLWotZGlsYWt1a2FuLXBhZ2ktaW5p",
-        "description": "EKSHUMASI atau penggalian kubur Brigadir Nopryansah Yosua Hutabarat (J) segera dilakukan. Kegiatan itu dimulai pagi ini, Rabu (27/7). &quot;(Dimulai) pukul 07.30 WIB,&quot; kata Kadiv Humas&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/509907/teddy-tjokrosapoetro-divonis-dalam-kasus-asabri-hari-ini",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MDk5MDcvdGVkZHktdGpva3Jvc2Fwb2V0cm8tZGl2b25pcy1kYWxhbS1rYXN1cy1hc2FicmktaGFyaS1pbmk=",
-        "description": "TERDAKWA kasus dugaan korupsi PT Asuransi Sosial Angkatan Bersenjata Republik Indonesia (ASABRI), Teddy Tjokrosapoetro, akan divonis&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/509899/psg-konfirmasi-kedatangan-mukiele-dari-rb-leipzig",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUwOTg5OS9wc2cta29uZmlybWFzaS1rZWRhdGFuZ2FuLW11a2llbGUtZGFyaS1yYi1sZWlwemln",
-        "description": "PARIS Saint-Germain, Selasa (26/7), mengonfirmasi kedatangan bek Prancis Nordi Mukiele dari RB Leipzig dengan kontrak&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/509898/israel-dan-maroko-jalin-kerja-sama-di-bidang-hukum",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUwOTg5OC9pc3JhZWwtZGFuLW1hcm9rby1qYWxpbi1rZXJqYS1zYW1hLWRpLWJpZGFuZy1odWt1bQ==",
-        "description": "MAROKO dan Israel menambahkan bidang hukum dalam daftar kerja sama meeka sejak kedua negara menormalisasi hubungan mereka pada 2020.&nbsp;&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509897/ludwig-menangi-etape-3-tour-de-france-putri-vos-pertahankan-kaos-kuning",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDk4OTcvbHVkd2lnLW1lbmFuZ2ktZXRhcGUtMy10b3VyLWRlLWZyYW5jZS1wdXRyaS12b3MtcGVydGFoYW5rYW4ta2Fvcy1rdW5pbmc=",
-        "description": "PEMBALAP sepeda Denmark Cecilie Uttrip Ludwig mengalahkan Marianne Vos untuk memenangi etape ketiga Tour de France putri,&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/509896/antetokounmpo-bersaudara-dipanggil-timnas-yunani",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MDk4OTYvYW50ZXRva291bm1wby1iZXJzYXVkYXJhLWRpcGFuZ2dpbC10aW1uYXMteXVuYW5p",
-        "description": "BINTANG NBA Giannis Antetokounmpo dan tiga saudaranya, Selasa (26/7), dipanggil oleh pelatih timnas Yunani untuk tampil di ajang Eurobasket&#8230;"
     }
 ]
