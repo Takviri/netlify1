@@ -1,5 +1,12 @@
 [
     {
+        "title": "Asal penyebaran Covid-19 mengarah ke pasar Wuhan di China",
+        "link": "https://www.bbc.co.uk/indonesia/articles/cv241rwr9jno",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jdjI0MXJ3cjlqbm8=",
+        "description": "Sejumlah ilmuwan menyatakan terdapat \u00e2\u0080\u009cbukti kuat\u00e2\u0080\u009d bahwa pasar Huanan yang menjual boga bahari dan binatang liar di Kota Wuhan adalah pusat penyebaran Covid-19."
+    },
+    {
         "title": "Memperkosa pekerja Indonesia, politikus Malaysia divonis hukuman penjara dan cambuk",
         "link": "https://www.bbc.co.uk/indonesia/articles/cg65kl0xp00o",
         "image": "static/images/bbc_indonesia.png",
@@ -28,18 +35,18 @@
         "description": "Perjalanan Iwan menemukan kembali ibu dan keluarga besarnya di Indonesia berakhir bahagia. Setelah nyaris dua puluh tahun menahan rindu, Iwan Nursyah, keturunan WNI yang hidup di Malaysia, pulang ke Tanah Air."
     },
     {
-        "title": "Situs PSE Kominfo hampir Rp1 triliun diretas: 'Anggaran sefantastis itu kok kualitasnya buruk?'",
-        "link": "https://www.bbc.co.uk/indonesia/articles/cg322wgp8p1o",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jZzMyMndncDhwMW8=",
-        "description": "Pakar siber mempertanyakan keamanan situs penyelenggara sistem elektronik milik Kementerian Komunikasi dan Informatika senilai Rp963 miliar lantaran infrastrukturnya dinilai sangat buruk sehingga mudah diretas."
-    },
-    {
         "title": "Penyebab hepatitis akut misterius pada anak-anak mulai terkuak",
         "link": "https://www.bbc.co.uk/indonesia/articles/c1wzz4xx4z6o",
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jMXd6ejR4eDR6Nm8=",
         "description": "Para ahli di Inggris meyakini telah mengidentifikasi penyebab rentetan kasus hepatitis akut misterius yang berdampak pada anak-anak di seluruh dunia."
+    },
+    {
+        "title": "Situs PSE Kominfo hampir Rp1 triliun diretas: 'Anggaran sefantastis itu kok kualitasnya buruk?'",
+        "link": "https://www.bbc.co.uk/indonesia/articles/cg322wgp8p1o",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jZzMyMndncDhwMW8=",
+        "description": "Pakar siber mempertanyakan keamanan situs penyelenggara sistem elektronik milik Kementerian Komunikasi dan Informatika senilai Rp963 miliar lantaran infrastrukturnya dinilai sangat buruk sehingga mudah diretas."
     },
     {
         "title": "WHO tetapkan cacar monyet darurat kesehatan global, sembilan kasus suspek di Indonesia 'negatif'",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jdzBwcDRqMHgxam8=",
         "description": "Sejak 2006 belum ada kabupaten dan kota di Indonesia yang mendapat predikat kota layak anak. Ada pun apresiasi kepada 302 kabupaten dan kota yang disebut perintis kota layak anak masih dibayang-bayangi kasus kekerasan terhadap anak."
-    },
-    {
-        "title": "Kisah fotografer pribadi gembong narkoba Pablo Escobar",
-        "link": "https://www.bbc.co.uk/indonesia/articles/cqegg4jy3rno",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jcWVnZzRqeTNybm8=",
-        "description": "Rangkaian kejadian dalam hidup (dan mati) Pablo Escobar terpapar dalam sebuah buku yang dikisahkan fotografer pribadi sekaligus temannya saat remaja, Edgar Jim\u00c3\u00a9nez."
     }
 ]
