@@ -1,5 +1,40 @@
 [
     {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/510734/tanamkan-nilai-pancasila-agar-ruang-digital-lebih-positif",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTEwNzM0L3RhbmFta2FuLW5pbGFpLXBhbmNhc2lsYS1hZ2FyLXJ1YW5nLWRpZ2l0YWwtbGViaWgtcG9zaXRpZg==",
+        "description": "Saat ini hampir segala jenis pekerjaan pasti akan bersinggungan dengan internet. Begitu pun kehidupan sehari-hari hampir selalu menggunakan internet untuk mempermudah. Namun ternyata kemudahan tersebut&#8230;"
+    },
+    {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/510733/hpm-ajak-konsumen-berakhir-pekan-bersama-all-new-br-v",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTA3MzMvaHBtLWFqYWsta29uc3VtZW4tYmVyYWtoaXItcGVrYW4tYmVyc2FtYS1hbGwtbmV3LWJyLXY=",
+        "description": "PT Honda Prospect Motor (HPM) belum lama ini mengajak para konsumen setia dan media melakukan perjalanan akhir pekan bersama keluarga. Dengan mengendarai All New Honda BR-V, rombongan bertolak dari&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/510732/polda-metro-pastikan-laporan-roy-suryo-soal-meme-borobudur-masih-berlanjut",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTA3MzIvcG9sZGEtbWV0cm8tcGFzdGlrYW4tbGFwb3Jhbi1yb3ktc3VyeW8tc29hbC1tZW1lLWJvcm9idWR1ci1tYXNpaC1iZXJsYW5qdXQ=",
+        "description": "POLDA Metro Jaya (PMJ) memberikan klarifikasi soal laporan yang dilayangkan eks Menteri Pemuda dan Olahraga Roy Suryo terhadap tiga pengunggah pertama meme stupa Candi Borobudur, yang wajahnya diedit&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/510731/cegah-pemalsuan-air-minum-dalam-kemasan-konsumen-perlu-edukasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDczMS9jZWdhaC1wZW1hbHN1YW4tYWlyLW1pbnVtLWRhbGFtLWtlbWFzYW4ta29uc3VtZW4tcGVybHUtZWR1a2FzaQ==",
+        "description": "PEMALSUAN atau pengoplosan air minum dalam kemasan (AMDK) galon isi ulang terus berulang terjadi. Hal ini seringkali dilakukan terhadap merek yang paling banyak dikonsumsi masyarakat: Pada&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/510730/menteri-pupr-pembangunan-ikn-bisa-tiru-smart-city-di-korsel",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDczMC9tZW50ZXJpLXB1cHItcGVtYmFuZ3VuYW4taWtuLWJpc2EtdGlydS1zbWFydC1jaXR5LWRpLWtvcnNlbA==",
+        "description": "MENTERI Pekerjaan Umum dan Perumahan Rakyat (PUPR) Basuki Hadimoeljono melaksanakan kunjungan kerja ke Korea Selatan (Korsel) sekaligus mendampingi Presiden Joko Widodo. Dalam kunjungannya kali&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/510729/presenter-brigita-manohara-kembali-dipanggil-kpk",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEwNzI0L21wbXgtdGFuYW0tMTAtcmlidS1iaWJpdC1tYW5ncm92ZS1kYW4tZ2FuZGVuZy1wZW5nZ2lhdC1tYW5ncm92ZS1kaS1nb2xvLXNlcGFuZy1udHQ=",
         "description": "PT Mitra Pinasthika Mustika Tbk (MPMX) mengadakan kegiatan penanaman mangrove sebagai bagian dari peresmian wilayah rehabilitasi dan penanaman 10.000 bibit mangrove di Desa Golo Sepang, Kecamatan Boleng,&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/510723/putri-anies-baswedan-menikah-dengan-pakaian-adat-jawa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTA3MjMvcHV0cmktYW5pZXMtYmFzd2VkYW4tbWVuaWthaC1kZW5nYW4tcGFrYWlhbi1hZGF0LWphd2E=",
-        "description": "MUTIARA Annisa Baswedan dan Ali Saleh Alhuraebi sah menjadi pasangan suami istri seusai akad nikah yang berlangsung di Putri Duyung Resort, Ancol, Jakarta Utara, pada Jumat (29/7) ini. Menjadi&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/510722/ucapan-selamat-dan-doa-ulang-tahun-dalam-bahasa-arab",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwNzIyL3VjYXBhbi1zZWxhbWF0LWRhbi1kb2EtdWxhbmctdGFodW4tZGFsYW0tYmFoYXNhLWFyYWI=",
-        "description": "ULANG tahun menjadi momen paling dinantikan. Pengucapan selamat ulang tahun, biasanya diisi dengan doa.&nbsp; Ternyata kita juga tidak harus selalu memanjat doa dalam bahasa Indonesia. Sekali-sekali&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/510721/gerakan-kohesi-kebangsaan-yang-digagas-iluni-ui-harus-berlanjut",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwNzIxL2dlcmFrYW4ta29oZXNpLWtlYmFuZ3NhYW4teWFuZy1kaWdhZ2FzLWlsdW5pLXVpLWhhcnVzLWJlcmxhbmp1dA==",
-        "description": "Ketua Umum Ikatan Alumni Universitas Indonesia (ILUNI UI) Andre Rahadian mendorong para calon Ketua Umum ILUNI UI periode 2022-2025 untuk meneruskan gerakan Kohesi Kebangsaan ILUNI UI yang telah diusung&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/510720/bekali-generasi-mendatang-dengan-literasi-digital-untuk-hasilkan-konten-positif",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTEwNzIwL2Jla2FsaS1nZW5lcmFzaS1tZW5kYXRhbmctZGVuZ2FuLWxpdGVyYXNpLWRpZ2l0YWwtdW50dWstaGFzaWxrYW4ta29udGVuLXBvc2l0aWY=",
-        "description": "KEMAJUAN teknologi digital memberikan tantangan sekaligus peluang bagi masyarakat untuk dapat mengangkat nilai-nilai kebudayaan bangsa Indonesia di tingkat global pada masa mendatang.&nbsp; Generasi&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/510719/produsen-emas-asal-malaysia-berencana-ekspansi-ke-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDcxOS9wcm9kdXNlbi1lbWFzLWFzYWwtbWFsYXlzaWEtYmVyZW5jYW5hLWVrc3BhbnNpLWtlLWluZG9uZXNpYQ==",
-        "description": "PERUSAHAAN produsen emas dari Malaysia, DEET Holding Berhad, menunjukkan keseriusan untuk memperkenalkan program menabung emas dengan&#8230;"
     }
 ]

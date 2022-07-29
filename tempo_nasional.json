@@ -1,5 +1,26 @@
 [
     {
+        "title": "MPR Bahas Budaya Epistemik di Universitas Brawijaya",
+        "link": "https://nasional.tempo.co/read/1617137/mpr-bahas-budaya-epistemik-di-universitas-brawijaya",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTcxMzcvbXByLWJhaGFzLWJ1ZGF5YS1lcGlzdGVtaWstZGktdW5pdmVyc2l0YXMtYnJhd2lqYXlh",
+        "description": "Budaya epistemik di Indonesia belum mampu berkontribusi bagi masyarakat."
+    },
+    {
+        "title": "Jaksa Agung Ancam Gunakan Tangan Besi untuk Tegakkan Integritas di Kejaksaan",
+        "link": "https://nasional.tempo.co/read/1617131/jaksa-agung-ancam-gunakan-tangan-besi-untuk-tegakkan-integritas-di-kejaksaan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTcxMzEvamFrc2EtYWd1bmctYW5jYW0tZ3VuYWthbi10YW5nYW4tYmVzaS11bnR1ay10ZWdha2thbi1pbnRlZ3JpdGFzLWRpLWtlamFrc2Fhbg==",
+        "description": "Jaksa Agung Sanitiar Burhanuddin mengancam akan menindak tegas jajarannya yang main-main dalam penegakan hukum dan penanganan perkara."
+    },
+    {
+        "title": "Bamsoet Lantik PAW Anggota MPR",
+        "link": "https://nasional.tempo.co/read/1617132/bamsoet-lantik-paw-anggota-mpr",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTcxMzIvYmFtc29ldC1sYW50aWstcGF3LWFuZ2dvdGEtbXBy",
+        "description": "Bamsoet mengingatkan setiap anggota MPR harus menyukseskan PPHN."
+    },
+    {
         "title": "KPK Panggil Penyanyi Nowela di Kasus Bupati Mamberamo Tengah",
         "link": "https://nasional.tempo.co/read/1617123/kpk-panggil-penyanyi-nowela-di-kasus-bupati-mamberamo-tengah",
         "image": "static/images/tempo_nasional.png",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTcwOTAvcGVyc29uZWwtdG5pLWFkLXRlcnRlbWJhay1zYWF0LXBvbGlzaS1idWJhcmthbi1tYXNzYS1kaS15YWh1a2ltbw==",
         "description": "Personel TNI AD terkena tembak di kaki kirinya saat polisi membubarkan aksi massa di dekat Polsek Dekai, Yahukimo, Papua."
-    },
-    {
-        "title": "Pengamat Sebut Dua Alternatif Cawapres Prabowo Jika Maju di Pilpres 2024",
-        "link": "https://nasional.tempo.co/read/1617086/pengamat-sebut-dua-alternatif-cawapres-prabowo-jika-maju-di-pilpres-2024",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTcwODYvcGVuZ2FtYXQtc2VidXQtZHVhLWFsdGVybmF0aWYtY2F3YXByZXMtcHJhYm93by1qaWthLW1hanUtZGktcGlscHJlcy0yMDI0",
-        "description": "Jika Prabowo maju di Pilpres 2024, maka dia akan dihadapkan pada dua pilihan. Memilih Muhaimin atau Khofifah untuk rebut suara di Jawa Timur."
-    },
-    {
-        "title": "Dirjen Bina Adwil Kemendagri Dorong Terbentuknya REDKAR Seluruh Indonesia",
-        "link": "https://nasional.tempo.co/read/1617084/dirjen-bina-adwil-kemendagri-dorong-terbentuknya-redkar-seluruh-indonesia",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTcwODQvZGlyamVuLWJpbmEtYWR3aWwta2VtZW5kYWdyaS1kb3JvbmctdGVyYmVudHVrbnlhLXJlZGthci1zZWx1cnVoLWluZG9uZXNpYQ==",
-        "description": "Penanganan kebakaran dapat mencapai response time yang cepat dan dapat melakukan penanggulangan dini pascakebakaran"
-    },
-    {
-        "title": "Durasi Penyelamatan Tim SAR Terbatas, tapi Bisa Diperpanjang",
-        "link": "https://nasional.tempo.co/read/1617069/durasi-penyelamatan-tim-sar-terbatas-tapi-bisa-diperpanjang",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTcwNjkvZHVyYXNpLXBlbnllbGFtYXRhbi10aW0tc2FyLXRlcmJhdGFzLXRhcGktYmlzYS1kaXBlcnBhbmphbmc=",
-        "description": "Meski operasi telah ditutup, namun Tim SAR dapat kembali bekerja berdasarkan usul Kepala Kantor SAR kepada Kepala Basarnas."
     }
 ]
