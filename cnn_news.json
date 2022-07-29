@@ -1,5 +1,12 @@
 [
     {
+        "title": "Gempa Guncang Sejumlah Daerah Malam Ini",
+        "link": "https://www.cnnindonesia.com/nasional/20220730001605-20-828080/gempa-guncang-sejumlah-daerah-malam-ini",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMDAwMTYwNS0yMC04MjgwODAvZ2VtcGEtZ3VuY2FuZy1zZWp1bWxhaC1kYWVyYWgtbWFsYW0taW5p",
+        "description": " Gempa bumi mengguncang sejumlah wilayah di Indonesia pada Kamis (29/7) malam ini. berikut rinciannya."
+    },
+    {
         "title": "IDI Minta Pemerintah Tetap Genjot Vaksinasi Booster Masyarakat",
         "link": "https://www.cnnindonesia.com/nasional/20220729130909-20-827762/idi-minta-pemerintah-tetap-genjot-vaksinasi-booster-masyarakat",
         "image": "static/images/cnn_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyOTIwMjkwMC0xMi04MjgwNDYvcG9saXNpLXNlYnV0LWFjdC1jb2JhLXBpbmRhaGthbi1kb2t1bWVuLXNhYXQta2FudG9yLWRpZ2VsZWRhaA==",
         "description": " Dirtipideksus Bareskrim Polri Brigjen Whisnu Hermawan mengatakan pemindahan dokumen itu yang membuat penyidik memutuskan menahan keempat tersangka."
-    },
-    {
-        "title": "Anies di Pernikahan Putrinya: Jumpa di Kampus Berujung Pelaminan",
-        "link": "https://www.cnnindonesia.com/nasional/20220729202157-20-828041/anies-di-pernikahan-putrinya-jumpa-di-kampus-berujung-pelaminan",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcyOTIwMjE1Ny0yMC04MjgwNDEvYW5pZXMtZGktcGVybmlrYWhhbi1wdXRyaW55YS1qdW1wYS1kaS1rYW1wdXMtYmVydWp1bmctcGVsYW1pbmFu",
-        "description": " Gubernur DKI Jakarta Anies Baswedan bersyukur putri sulungnya, Mutiara Annisa Baswedan telah melangsungkan pernikahan dengan Ali Saleh Alhuraiby."
     }
 ]
