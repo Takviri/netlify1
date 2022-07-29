@@ -1,5 +1,12 @@
 [
     {
+        "title": "Inflasi Tinggi, Harga Nasi Ayam Hainan Malaysia-Singapura Kian Mahal",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220729135012-92-827777/inflasi-tinggi-harga-nasi-ayam-hainan-malaysia-singapura-kian-mahal",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI5MTM1MDEyLTkyLTgyNzc3Ny9pbmZsYXNpLXRpbmdnaS1oYXJnYS1uYXNpLWF5YW0taGFpbmFuLW1hbGF5c2lhLXNpbmdhcHVyYS1raWFuLW1haGFs",
+        "description": " Harga nasi ayam hainan di Singapura dan Malaysia naik Rp3 ribu-Rp5 ribu di tengah lonjakan inflasi pada Juni 2022."
+    },
+    {
         "title": "CT Berbagi Pesan Inspiratif untuk Anak Muda",
         "link": "https://www.cnnindonesia.com/ekonomi/20220729134323-97-827773/ct-berbagi-pesan-inspiratif-untuk-anak-muda",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI5MTExNTA5LTUzMi04Mjc2OTgvc3JpLW11bHlhbmktZHVuaWEtc2VkYW5nLXRpZGFrLWJhaWstYmFpay1zYWph",
         "description": " Menteri Keuangan Sri Mulyani mengungkapkan ekonomi dunia bergejolak karena inflasi di sejumlah negara melonjak."
-    },
-    {
-        "title": "Harga Produk Nestle Makin Mahal, Naik 6,5 Persen",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220729104035-92-827676/harga-produk-nestle-makin-mahal-naik-65-persen",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI5MTA0MDM1LTkyLTgyNzY3Ni9oYXJnYS1wcm9kdWstbmVzdGxlLW1ha2luLW1haGFsLW5haWstNjUtcGVyc2Vu",
-        "description": " Harga produk Nestle naik 6,5 persen sepanjang paruh pertama tahun ini. Kenaikan tertinggi terjadi di wilayah Amerika Utara sebesar 9,8 persen."
     }
 ]
