@@ -1,5 +1,47 @@
 [
     {
+        "title": "Breaking: Inflasi Zona Euro Pecah Rekor Lagi, Tembus 8,9%!",
+        "link": "https://www.cnbcindonesia.com/news/20220729162246-4-359694/breaking-inflasi-zona-euro-pecah-rekor-lagi-tembus-89",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE2MjI0Ni00LTM1OTY5NC9icmVha2luZy1pbmZsYXNpLXpvbmEtZXVyby1wZWNhaC1yZWtvci1sYWdpLXRlbWJ1cy04OQ==",
+        "description": " Inflasi Zona Euro Juli 2022 mencapai 8,9%."
+    },
+    {
+        "title": "Jakarta 'Dikepung', Ini Penampakan Covid-19 Terbaru RI",
+        "link": "https://www.cnbcindonesia.com/news/20220729151259-4-359674/jakarta-dikepung-ini-penampakan-covid-19-terbaru-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE1MTI1OS00LTM1OTY3NC9qYWthcnRhLWRpa2VwdW5nLWluaS1wZW5hbXBha2FuLWNvdmlkLTE5LXRlcmJhcnUtcmk=",
+        "description": " Jumlah wilayah yang masuk dalam kategori zona risiko sedang terus meningkat"
+    },
+    {
+        "title": "Pertumbuhan PDB Jerman Stagnan, Resesi Masih Mengintai",
+        "link": "https://www.cnbcindonesia.com/news/20220729161751-4-359691/pertumbuhan-pdb-jerman-stagnan-resesi-masih-mengintai",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE2MTc1MS00LTM1OTY5MS9wZXJ0dW1idWhhbi1wZGItamVybWFuLXN0YWduYW4tcmVzZXNpLW1hc2loLW1lbmdpbnRhaQ==",
+        "description": " Perekonomian Jerman dilaporkan mengalami stagnasi pada kuartal II/2022. Hal ini diungkapkan oleh badan statistik federal Destatis pada hari Jumat, (29/7/2022)."
+    },
+    {
+        "title": "Korea-Jepang Ramai-ramai Garap Ekosistem Mobil Listrik RI",
+        "link": "https://www.cnbcindonesia.com/news/20220729152015-4-359677/korea-jepang-ramai-ramai-garap-ekosistem-mobil-listrik-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE1MjAxNS00LTM1OTY3Ny9rb3JlYS1qZXBhbmctcmFtYWktcmFtYWktZ2FyYXAtZWtvc2lzdGVtLW1vYmlsLWxpc3RyaWstcmk=",
+        "description": " Satu per satu pabrikan otomotif di Indonesia mulai menunjukkan keseriusannya dalam pengembangan mobil listrik."
+    },
+    {
+        "title": "Kim Jong Un Tantang AS, Ini Kekuatan Nuklir Korea Utara",
+        "link": "https://www.cnbcindonesia.com/news/20220729155038-4-359679/kim-jong-un-tantang-as-ini-kekuatan-nuklir-korea-utara",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE1NTAzOC00LTM1OTY3OS9raW0tam9uZy11bi10YW50YW5nLWFzLWluaS1rZWt1YXRhbi1udWtsaXIta29yZWEtdXRhcmE=",
+        "description": " Korea Utara (Korut) mengatakan intensinya untuk memobilisasi sistem persenjataan nuklir."
+    },
+    {
+        "title": "Kenapa Biden-Yellen-Powell Ogah Akui AS Resesi?",
+        "link": "https://www.cnbcindonesia.com/news/20220729144942-4-359660/kenapa-biden-yellen-powell-ogah-akui-as-resesi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE0NDk0Mi00LTM1OTY2MC9rZW5hcGEtYmlkZW4teWVsbGVuLXBvd2VsbC1vZ2FoLWFrdWktYXMtcmVzZXNp",
+        "description": " Secara definisi, AS sudah resesi. Namun baik Presiden AS Joe Biden, Menteri Keuangan Janet Yellen, Bos The Fed Jerome Powell menolak percaya hal tersebut."
+    },
+    {
         "title": "Hati-hati, Ada 5.831 Kasus Baru Covid-19 di RI Hari Ini",
         "link": "https://www.cnbcindonesia.com/news/20220729155604-4-359680/hati-hati-ada-5831-kasus-baru-covid-19-di-ri-hari-ini",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE0MjEzNy00LTM1OTY0OC9pbmdncmlzLXRlcmFuY2FtLWtpYW1hdC1maXNoLWFuZC1jaGlwcy1rb2stYmlzYQ==",
         "description": " Sanksi ekonomi yang dilancarkan Inggris kepada Rusia justru menjadi senjata makan tuan bagi Negeri Ratu Elizabeth tersebut."
-    },
-    {
-        "title": "Gak Nyangka! RI Bikin Benang Dari Botol Bekas, Dijual ke LN",
-        "link": "https://www.cnbcindonesia.com/news/20220729142207-4-359649/gak-nyangka-ri-bikin-benang-dari-botol-bekas-dijual-ke-ln",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE0MjIwNy00LTM1OTY0OS9nYWstbnlhbmdrYS1yaS1iaWtpbi1iZW5hbmctZGFyaS1ib3RvbC1iZWthcy1kaWp1YWwta2UtbG4=",
-        "description": " Industri tekstil hulu nasional saat ini sudah memproduksi benang yang dihasilkan dari botol minum bekas Polyethylene Terephthalate (PET)."
-    },
-    {
-        "title": "Pertamina dan Pemprov DKI Mulai Bahas Pembatasan Pertalite",
-        "link": "https://www.cnbcindonesia.com/news/20220729140750-4-359644/pertamina-pemprov-dki-mulai-bahas-pembatasan-pertalite",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE0MDc1MC00LTM1OTY0NC9wZXJ0YW1pbmEtcGVtcHJvdi1ka2ktbXVsYWktYmFoYXMtcGVtYmF0YXNhbi1wZXJ0YWxpdGU=",
-        "description": " Pertamina dan Pemprov DKI gelar\u00c2\u00a0Focus Group Discussion (FGD) Subsidi BBM Tepat Sasaran"
-    },
-    {
-        "title": "Adu Jago Biden-Putin! Ekonomi AS Resesi, Rusia Masih Sakti?",
-        "link": "https://www.cnbcindonesia.com/news/20220729140217-4-359640/adu-jago-biden-putin-ekonomi-as-resesi-rusia-masih-sakti",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE0MDIxNy00LTM1OTY0MC9hZHUtamFnby1iaWRlbi1wdXRpbi1la29ub21pLWFzLXJlc2VzaS1ydXNpYS1tYXNpaC1zYWt0aQ==",
-        "description": " Amerika Serikat (AS) secara resmi resesi, Kamis (28/7/2022). Bagaimana dengan Rusia."
-    },
-    {
-        "title": "RI Mau Punya 50 Jet Tempur KF-21 Boramae, Duitnya Ada Nggak?",
-        "link": "https://www.cnbcindonesia.com/news/20220729140017-4-359641/ri-mau-punya-50-jet-tempur-kf-21-boramae-duitnya-ada-nggak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE0MDAxNy00LTM1OTY0MS9yaS1tYXUtcHVueWEtNTAtamV0LXRlbXB1ci1rZi0yMS1ib3JhbWFlLWR1aXRueWEtYWRhLW5nZ2Fr",
-        "description": " Selain dari KF-21, Indonesia juga berencana untuk membeli pesawat jet tempur F-15 yang dibuat pabrikan pesawat asal Amerika Serikat, Boeing."
-    },
-    {
-        "title": "APBN Surplus Berturut-turut, Sri Mulyani: Kami Tak Jumawa!",
-        "link": "https://www.cnbcindonesia.com/news/20220729135528-4-359636/apbn-surplus-berturut-turut-sri-mulyani-kami-tak-jumawa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTEzNTUyOC00LTM1OTYzNi9hcGJuLXN1cnBsdXMtYmVydHVydXQtdHVydXQtc3JpLW11bHlhbmkta2FtaS10YWstanVtYXdh",
-        "description": " Kinerja APBN surplus dalam enam bulan terakhir."
-    },
-    {
-        "title": "Abaikan Seruan Sanksi, Negara Eropa Ini Mau Borong Gas Rusia",
-        "link": "https://www.cnbcindonesia.com/news/20220729140652-4-359643/abaikan-seruan-sanksi-negara-eropa-ini-mau-borong-gas-rusia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE0MDY1Mi00LTM1OTY0My9hYmFpa2FuLXNlcnVhbi1zYW5rc2ktbmVnYXJhLWVyb3BhLWluaS1tYXUtYm9yb25nLWdhcy1ydXNpYQ==",
-        "description": " Di tengah ancaman krisis energi Eropa, Hungaria bersiap, mengikat perjanjian tambahan pasokan gas sebanyak 700 juta meter kubik dari Rusia."
     }
 ]
