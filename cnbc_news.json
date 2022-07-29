@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sederet Barang Ini Bakal Mahal Gegara Rupiah Melemah",
+        "link": "https://www.cnbcindonesia.com/news/20220729172834-16-359730/sederet-barang-ini-bakal-mahal-gegara-rupiah-melemah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE3MjgzNC0xNi0zNTk3MzAvc2VkZXJldC1iYXJhbmctaW5pLWJha2FsLW1haGFsLWdlZ2FyYS1ydXBpYWgtbWVsZW1haA==",
+        "description": " Posisi rupiah terhadap dolar Amerika Serikat (AS) terpantau masih bergerak di batas tipis di dekat Rp 15.000 per dolar AS."
+    },
+    {
+        "title": "Alert! China Beri Sinyal Buruk soal Pertumbuhan Ekonomi",
+        "link": "https://www.cnbcindonesia.com/news/20220729194750-4-359763/alert-china-beri-sinyal-buruk-soal-pertumbuhan-ekonomi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE5NDc1MC00LTM1OTc2My9hbGVydC1jaGluYS1iZXJpLXNpbnlhbC1idXJ1ay1zb2FsLXBlcnR1bWJ1aGFuLWVrb25vbWk=",
+        "description": " Pemerintah China memberi sinyal bahwa pertumbuhan ekonomi negara itu tidak akan mencapai target di tahun ini."
+    },
+    {
+        "title": "Putin dan Xi Jinping Kian Mesra, Rusia Dukung China soal Taiwan",
+        "link": "https://www.cnbcindonesia.com/news/20220729191306-4-359759/putin-xi-jinping-kian-mesra-rusia-dukung-china-soal-taiwan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE5MTMwNi00LTM1OTc1OS9wdXRpbi14aS1qaW5waW5nLWtpYW4tbWVzcmEtcnVzaWEtZHVrdW5nLWNoaW5hLXNvYWwtdGFpd2Fu",
+        "description": " Pemerintah Rusia kembali menyuarakan dukungannya terhadap prinsip Satu China dalam konflik Taiwan."
+    },
+    {
         "title": "Jokowi Angkat Bicara Soal Tarif TN Komodo Rp 3,75 Juta",
         "link": "https://www.cnbcindonesia.com/news/20220729192652-4-359760/jokowi-angkat-bicara-soal-tarif-tn-komodo-rp-375-juta",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE3NTAzOS00LTM1OTc0Mi9tYWNyb24tbWludGEta2UtbWJzLWFnYXItYXJhYi10aW5na2F0a2FuLXByb2R1a3NpLW1pbnlhaw==",
         "description": " Putra Mahkota Arab Saudi"
-    },
-    {
-        "title": "Genjot Realisasi Smelter, Freeport Sudah Keluarkan US$ 1,15 M",
-        "link": "https://www.cnbcindonesia.com/news/20220729171938-4-359740/genjot-realisasi-smelter-freeport-sudah-keluarkan-us--115-m",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE3MTkzOC00LTM1OTc0MC9nZW5qb3QtcmVhbGlzYXNpLXNtZWx0ZXItZnJlZXBvcnQtc3VkYWgta2VsdWFya2FuLXVzLS0xMTUtbQ==",
-        "description": " Realisasi smelter Freeport sampai Juni 2022 sudah mencapai 34,9%"
-    },
-    {
-        "title": "Tambang Liar Kian Merajalela",
-        "link": "https://www.cnbcindonesia.com/news/20220729185236-16-359756/tambang-liar-kian-merajalela",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE4NTIzNi0xNi0zNTk3NTYvdGFtYmFuZy1saWFyLWtpYW4tbWVyYWphbGVsYQ==",
-        "description": " Pertambangan Tanpa Izin (PETI) alias tambang ilegal masih marak di Indonesia, dan disinyalir mencapai ribuan titik"
-    },
-    {
-        "title": "Tertinggi di Eropa, Inflasi Spanyol Meroket 10,8%!",
-        "link": "https://www.cnbcindonesia.com/news/20220729181303-4-359749/tertinggi-di-eropa-inflasi-spanyol-meroket-108",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE4MTMwMy00LTM1OTc0OS90ZXJ0aW5nZ2ktZGktZXJvcGEtaW5mbGFzaS1zcGFueW9sLW1lcm9rZXQtMTA4",
-        "description": " Spanyol mencatatkan rekor inflasi di wilayah Eropa pada Juli 2022 sebesar 10,8% secara tahunan (year-on-year/yoy)."
     }
 ]
