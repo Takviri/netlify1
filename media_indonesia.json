@@ -1,5 +1,19 @@
 [
     {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/510700/feastin-berkolaborasi-dengan-indomilk-luncurkan-panduan-makanan-penutup-dan-kopi-di-jakarta",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMDcwMC9mZWFzdGluLWJlcmtvbGFib3Jhc2ktZGVuZ2FuLWluZG9taWxrLWx1bmN1cmthbi1wYW5kdWFuLW1ha2FuYW4tcGVudXR1cC1kYW4ta29waS1kaS1qYWthcnRh",
+        "description": "Sebagai new food media yang memiliki visi untuk merayakan keberagaman yang dimiliki oleh kuliner Indonesia, Feastin&rsquo; meluncurkan Jakarta Dessert &amp; Coffee Guide (JDCG). Panduan ini&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/510699/lawatan-jokowi-ke-asia-timur-berdampak-positif-bagi-investasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMDY5OS9sYXdhdGFuLWpva293aS1rZS1hc2lhLXRpbXVyLWJlcmRhbXBhay1wb3NpdGlmLWJhZ2ktaW52ZXN0YXNp",
+        "description": "LAWATAN Presiden Joko Widodo (Jokowi) ke tiga negara di kawasan Asia Timur yakni Republik Rakyat Tiongkok (RRT), Jepang, dan Korea Selatan (Korsel) dinilai mampu menghadirkan banyak dampak positif&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/510698/napoli-berencana-datangkan-lo-celso-dari-spurs",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTA2OTAvaXB3LWRlc2FrLXBvbHJpLWxpbXBhaGthbi1rYXN1cy1icmlnYWRpci1qLWRhcmktcG9sZGEtbWV0cm8tamF5YS1rZS1iYXJlc2tyaW0=",
         "description": "POLRI didesak melimpahkan kasus Brigadir Nopryansah Yosua Hutabarat (J) yang tengah ditangani Polda Metro Jaya ke Bareskrim&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/510689/pengguna-internet-tembus-2047-juta-kemenkominfo-literasi-digital-penting",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY4OS9wZW5nZ3VuYS1pbnRlcm5ldC10ZW1idXMtMjA0Ny1qdXRhLWtlbWVua29taW5mby1saXRlcmFzaS1kaWdpdGFsLXBlbnRpbmc=",
-        "description": "Kementerian Komunikasi dan Informatika (Kemenkominfo) menyebut perkembangan digital di Indonesia tumbuh pesat. Dari data survei oleh We are Social Hootsuite, terdapat 204,7 juta pengguna internet di&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/510688/sri-mulyani-dunia-tidak-baik-baik-saja",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY4OC9zcmktbXVseWFuaS1kdW5pYS10aWRhay1iYWlrLWJhaWstc2FqYQ==",
-        "description": "Belum usai dampak pandemi ditangani, dunia kini dihadapkan pada kemungkinan resesi ekonomi imbas perang Rusia dan Ukraina. Sebab, konflik dua negara Eropa Timur itu merupakan pemasok energi dan pangan&#8230;"
     }
 ]
