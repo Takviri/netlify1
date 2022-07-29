@@ -1,5 +1,47 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/510693/inzaghi-tegaskan-tekad-inter-milan-untuk-jadi-scudetto",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMDY5My9pbnphZ2hpLXRlZ2Fza2FuLXRla2FkLWludGVyLW1pbGFuLXVudHVrLWphZGktc2N1ZGV0dG8=",
+        "description": "PELATIH Inter Milan Simone Inzaghi memastikan timnya siap bersaing untuk meraih Scudetto atau gelar juara Serie A musim depan&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/510692/willy-winarko-daur-ulang-jangan-kau-lepas-jadi-versi-rap",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMDY5Mi93aWxseS13aW5hcmtvLWRhdXItdWxhbmctamFuZ2FuLWthdS1sZXBhcy1qYWRpLXZlcnNpLXJhcA==",
+        "description": "WILLY Winarko menggubah lagu Jangan Kau Lepas, yang &nbsp;dipopulerkan band Alexapada 2008 menjadi lagu bernuansa baru dengan gaya&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/510690/ipw-desak-polri-limpahkan-kasus-brigadir-j-dari-polda-metro-jaya-ke-bareskrim",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTA2OTAvaXB3LWRlc2FrLXBvbHJpLWxpbXBhaGthbi1rYXN1cy1icmlnYWRpci1qLWRhcmktcG9sZGEtbWV0cm8tamF5YS1rZS1iYXJlc2tyaW0=",
+        "description": "POLRI didesak melimpahkan kasus Brigadir Nopryansah Yosua Hutabarat (J) yang tengah ditangani Polda Metro Jaya ke Bareskrim&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/510689/pengguna-internet-tembus-2047-juta-kemenkominfo-literasi-digital-penting",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY4OS9wZW5nZ3VuYS1pbnRlcm5ldC10ZW1idXMtMjA0Ny1qdXRhLWtlbWVua29taW5mby1saXRlcmFzaS1kaWdpdGFsLXBlbnRpbmc=",
+        "description": "Kementerian Komunikasi dan Informatika (Kemenkominfo) menyebut perkembangan digital di Indonesia tumbuh pesat. Dari data survei oleh We are Social Hootsuite, terdapat 204,7 juta pengguna internet di&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/510688/sri-mulyani-dunia-tidak-baik-baik-saja",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY4OC9zcmktbXVseWFuaS1kdW5pYS10aWRhay1iYWlrLWJhaWstc2FqYQ==",
+        "description": "Belum usai dampak pandemi ditangani, dunia kini dihadapkan pada kemungkinan resesi ekonomi imbas perang Rusia dan Ukraina. Sebab, konflik dua negara Eropa Timur itu merupakan pemasok energi dan pangan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/510687/sah-anies-nikahkan-putri-sulungnya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTA2ODcvc2FoLWFuaWVzLW5pa2Foa2FuLXB1dHJpLXN1bHVuZ255YQ==",
+        "description": "GUBERNUR DKI Jakarta Anies Baswedan, hari ini, Jumat (29/7), menikahkan anak sulung perempuannya yang bernama Mutiara Annisa&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/510677/telkom-kembangkan-metaverse-dengan-sentuhan-lokal-metanesia",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMDY4NC9pbmktcmVzZXAta2FoaXRuYS1iZXJ0YWhhbi1iZXJtdXNpay1zZWxhbWEtMzYtdGFodW4=",
         "description": "PADA 24 Juni 2022 lalu, grup musik asal Bandung, Kahitna, merayakan ulang tahun ke-36. Band yang beranggotakan Yovie Widianto (keyboard),&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/510683/ralali-tawarkan-tiga-solusi-digitalisasi-hadapi-dinamika-ekonomi-global",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY4My9yYWxhbGktdGF3YXJrYW4tdGlnYS1zb2x1c2ktZGlnaXRhbGlzYXNpLWhhZGFwaS1kaW5hbWlrYS1la29ub21pLWdsb2JhbA==",
-        "description": "PEREKONOMIAN dunia sedang tidak baik-baik saja, seperti yang tertulis dalam laporan Bank Dunia &ldquo;Global Economic Prospect June 2022&rdquo; bahwa kondisi perekonomian global mengalami tekanan akibat&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/510682/jelang-gp-hongaria-verstappen-mengaku-was-was",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTA2ODIvamVsYW5nLWdwLWhvbmdhcmlhLXZlcnN0YXBwZW4tbWVuZ2FrdS13YXMtd2Fz",
-        "description": "JUARA dunia Formula 1 Max Verstappen, Kamis (28/7), mengaku dirinya merasa was was menghadapi GP Hongaria, balapan yang tidak pernah&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/510681/industri-migas-didorong-optimalkan-produksi-produk-turunan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY4MS9pbmR1c3RyaS1taWdhcy1kaWRvcm9uZy1vcHRpbWFsa2FuLXByb2R1a3NpLXByb2R1ay10dXJ1bmFu",
-        "description": "ORIENTASI pemanfaatan minyak dan gas bumi yang mulai bergeser seiring dengan komitmen global untuk mencapai target netralitas karbon mendorong industri hulu migas untuk dapat mengoptimalkan aneka produk&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/510680/zverev-terancam-absen-di-as-terbuka",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTA2ODAvenZlcmV2LXRlcmFuY2FtLWFic2VuLWRpLWFzLXRlcmJ1a2E=",
-        "description": "ALEXANDER Zverev masih berharap bisa tampil di turnamen Amerika Serikat (AS) Terbuka, bulan depan. Meski begitu, petenis Jerman&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/510678/berencana-lakukan-program-hamil-akupuntur-medik-bisa-membantu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwNjc4L2JlcmVuY2FuYS1sYWt1a2FuLXByb2dyYW0taGFtaWwtYWt1cHVudHVyLW1lZGlrLWJpc2EtbWVtYmFudHU=",
-        "description": "DOKTER spesialis akupunktur Athia Asparini dari Ikatan Dokter Indonesia (IDI) mengatakan pasangan suami istri yang berusaha memiliki&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/510676/puan-aturan-distribusi-pertalite-harus-jamin-subsidi-bbm-tepat-sasaran",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY3Ni9wdWFuLWF0dXJhbi1kaXN0cmlidXNpLXBlcnRhbGl0ZS1oYXJ1cy1qYW1pbi1zdWJzaWRpLWJibS10ZXBhdC1zYXNhcmFu",
-        "description": "KETUA DPR RI Puan Maharani mengingatkan agar revisi peraturan terkait penggunaan Pertalite dikaji sebaik mungkin. Ia meminta agar aturan terbaru nanti, yang salah satunya memuat soal Bahan Bakar Minyak&#8230;"
     }
 ]
