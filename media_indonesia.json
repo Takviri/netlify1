@@ -1,6 +1,41 @@
 [
     {
         "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/510681/industri-migas-didorong-optimalkan-produksi-produk-turunan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY4MS9pbmR1c3RyaS1taWdhcy1kaWRvcm9uZy1vcHRpbWFsa2FuLXByb2R1a3NpLXByb2R1ay10dXJ1bmFu",
+        "description": "ORIENTASI pemanfaatan minyak dan gas bumi yang mulai bergeser seiring dengan komitmen global untuk mencapai target netralitas karbon mendorong industri hulu migas untuk dapat mengoptimalkan aneka produk&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/510680/zverev-terancam-absen-di-as-terbuka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTA2ODAvenZlcmV2LXRlcmFuY2FtLWFic2VuLWRpLWFzLXRlcmJ1a2E=",
+        "description": "ALEXANDER Zverev masih berharap bisa tampil di turnamen Amerika Serikat (AS) Terbuka, bulan depan. Meski begitu, petenis Jerman&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/510678/berencana-lakukan-program-hamil-akupuntur-medik-bisa-membantu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwNjc4L2JlcmVuY2FuYS1sYWt1a2FuLXByb2dyYW0taGFtaWwtYWt1cHVudHVyLW1lZGlrLWJpc2EtbWVtYmFudHU=",
+        "description": "DOKTER spesialis akupunktur Athia Asparini dari Ikatan Dokter Indonesia (IDI) mengatakan pasangan suami istri yang berusaha memiliki&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/510676/puan-aturan-distribusi-pertalite-harus-jamin-subsidi-bbm-tepat-sasaran",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY3Ni9wdWFuLWF0dXJhbi1kaXN0cmlidXNpLXBlcnRhbGl0ZS1oYXJ1cy1qYW1pbi1zdWJzaWRpLWJibS10ZXBhdC1zYXNhcmFu",
+        "description": "KETUA DPR RI Puan Maharani mengingatkan agar revisi peraturan terkait penggunaan Pertalite dikaji sebaik mungkin. Ia meminta agar aturan terbaru nanti, yang salah satunya memuat soal Bahan Bakar Minyak&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/510675/ini-gejala-dan-penangan-diabetes-melitus-tipe-1-pada-anak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwNjc1L2luaS1nZWphbGEtZGFuLXBlbmFuZ2FuLWRpYWJldGVzLW1lbGl0dXMtdGlwZS0xLXBhZGEtYW5haw==",
+        "description": "DOKTER spesialis anak dari Universitas Padjajaran Faisal Al Bukkar mengatakan terdapat beberapa gejala Diabetes Melitus Tipe 1 (DM1)&#8230;"
+    },
+    {
+        "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/510674/komisioner-baru-ojk-diharapkan-punya-strategi-khusus-hadapi-dinamika-ekonomi-global",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY3NC9rb21pc2lvbmVyLWJhcnUtb2prLWRpaGFyYXBrYW4tcHVueWEtc3RyYXRlZ2kta2h1c3VzLWhhZGFwaS1kaW5hbWlrYS1la29ub21pLWdsb2JhbA==",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMDY2OC9wYmItcGVuZ2VtYmFsaWFuLWVrc3Bvci1wYW5nYW4tZGFyaS1ydXNpYS1kYW4tdWtyYWluYS1qYWRpLXByaW9yaXRhcw==",
         "description": "Deputi Sekretaris Jenderal Persatuan Bangsa Bangsa (PBB) Amina J. Mohammed menekankan perlunya melancarkan arus perdagangan komoditas, menghilangkan pembatasan ekspor terkait komoditas pertanian, dan&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/510670/tips-mengurangi-jejak-digital-di-internet",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTEwNjcwL3RpcHMtbWVuZ3VyYW5naS1qZWphay1kaWdpdGFsLWRpLWludGVybmV0",
-        "description": "Media sosial merupakan platform tempat berbagi segala sesuatu, belajar, berinteraksi memperluas pertemanan dengan orang di seluruh penjuru dunia dan juga bisa berfungsi sebagai media untuk mempromosikan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/510669/pandemi-ternyata-ubah-pengalaman-anda-bermimpi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwNjY5L3BhbmRlbWktdGVybnlhdGEtdWJhaC1wZW5nYWxhbWFuLWFuZGEtYmVybWltcGk=",
-        "description": "STUDI baru bertajuk Journal of Sleep Research dari Monash's Turner Institute for Brain and Mental Health, menunjukkan pandemi&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/510667/medcomid-resmi-luncurkan-kanal-pemilu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTA2NjcvbWVkY29taWQtcmVzbWktbHVuY3Vya2FuLWthbmFsLXBlbWlsdQ==",
-        "description": "MEDCOM.ID resmi meluncurkan kanal khusus Pemilihan Umum (Pemilu) 2024. Kanal ini sebagai bentuk mendorong anak muda untuk aktif&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/510665/juventus-hubungi-chelsea-soal-transfer-werner",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMDY2NS9qdXZlbnR1cy1odWJ1bmdpLWNoZWxzZWEtc29hbC10cmFuc2Zlci13ZXJuZXI=",
-        "description": "KLUB Serie A Juventus dikabarkan telah membuka pembicaraan dengan klub Liga Primer Inggris Chelsea soal kemungkinan mendatangkan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/510664/idi-sambut-baik-rencana-booster-kedua-untuk-tenaga-kesehatan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwNjY0L2lkaS1zYW1idXQtYmFpay1yZW5jYW5hLWJvb3N0ZXIta2VkdWEtdW50dWstdGVuYWdhLWtlc2VoYXRhbg==",
-        "description": "Direktorat Jenderal Pencegahan dan Pengendalian penyakit Kementerian Kesehatan RI mengeluarkan Surat Edaran No HK 02.02/C/ 3615 /2022 Tentang Vaksinasi Covid-19 Dosis Booster Ke-2 Bagi Sumber Daya&#8230;"
     }
 ]
