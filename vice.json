@@ -1,5 +1,40 @@
 [
     {
+        "title": "Kenapa Sih Banyak Orang Terobsesi Nonton Acara Kriminal dan Pembunuhan?",
+        "link": "https://www.vice.com/id_id/article/n7znpb/alasan-dokumenter-pembunuhan-true-crime-populer-menurut-psikolog-forensik",
+        "image": "static/images/vice.png",
+        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9uN3pucGIvYWxhc2FuLWRva3VtZW50ZXItcGVtYnVudWhhbi10cnVlLWNyaW1lLXBvcHVsZXItbWVudXJ1dC1wc2lrb2xvZy1mb3JlbnNpaw==",
+        "description": "Apakah obsesi terhadap acara 'true crime' didasari pada rasa ingin tahu atas sisi tergelap manusia? Kami mencari jawabannya dengan ngobrol bareng psikolog forensik dan penulis skenario."
+    },
+    {
+        "title": "Untuk Pertama Kalinya, Ubur-Ubur Super Langka Berhasil Terekam di Peraian Papua",
+        "link": "https://www.vice.com/id_id/article/dy7p9q/ubur-ubur-super-langka-c-maculatus-berhasil-terekam-di-perairan-papua-nugini",
+        "image": "static/images/vice.png",
+        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9keTdwOXEvdWJ1ci11YnVyLXN1cGVyLWxhbmdrYS1jLW1hY3VsYXR1cy1iZXJoYXNpbC10ZXJla2FtLWRpLXBlcmFpcmFuLXBhcHVhLW51Z2luaQ==",
+        "description": "Chirodectes maculatus yang berbentuk mirip bola hidup di sAustralia-Papua, namun sulit sekali dilacak. Untuk pertama kalinya ubur-ubur ini bisa diabadikan lewat video."
+    },
+    {
+        "title": "Kematian Jadi Akhir Pelarian Kopda Muslimin yang Buron Usai Coba Bunuh Istri Sendiri",
+        "link": "https://www.vice.com/id_id/article/m7ggjq/kopda-muslimin-ditemukan-tewas-di-kendal-diduga-minum-racun-buron-penembakan-istri-sendiri-di-semarang",
+        "image": "static/images/vice.png",
+        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9tN2dnanEva29wZGEtbXVzbGltaW4tZGl0ZW11a2FuLXRld2FzLWRpLWtlbmRhbC1kaWR1Z2EtbWludW0tcmFjdW4tYnVyb24tcGVuZW1iYWthbi1pc3RyaS1zZW5kaXJpLWRpLXNlbWFyYW5n",
+        "description": "Kopda Muslimin ditemukan tewas di rumah orang tuanya di Kendal, diduga minum racun. Pekan lalu pria bejat ini viral karena menyewa pembunuh bayaran di Semarang demi menghabisi istrinya."
+    },
+    {
+        "title": "Lubang Misterius di Dasar Laut Bikin Ilmuwan Penasaran Karena Diduga Galian Manusia",
+        "link": "https://www.vice.com/id_id/article/93abez/lubang-misterius-di-dasar-laut-bikin-ilmuwan-penasaran-karena-diduga-galian-manusia",
+        "image": "static/images/vice.png",
+        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS85M2FiZXovbHViYW5nLW1pc3Rlcml1cy1kaS1kYXNhci1sYXV0LWJpa2luLWlsbXV3YW4tcGVuYXNhcmFuLWthcmVuYS1kaWR1Z2EtZ2FsaWFuLW1hbnVzaWE=",
+        "description": "Lubang-lubang yang berjejer rapi ditemukan di kedalaman hampir 2.000 meter di bawah permukaan laut wilayah Azores, pesisir Portugal."
+    },
+    {
+        "title": "Bintang TikTok Ditangkap di Arab Saudi Atas Tuduhan Konten 'Bernuansa Lesbian'",
+        "link": "https://www.vice.com/id_id/article/4axwj9/bintang-tiktok-tala-safwan-ditangkap-polisi-arab-saudi-atas-tuduhan-konten-bernuansa-lesbian",
+        "image": "static/images/vice.png",
+        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS80YXh3ajkvYmludGFuZy10aWt0b2stdGFsYS1zYWZ3YW4tZGl0YW5na2FwLXBvbGlzaS1hcmFiLXNhdWRpLWF0YXMtdHVkdWhhbi1rb250ZW4tYmVybnVhbnNhLWxlc2JpYW4=",
+        "description": "Tala Safwan, yang memiliki 4,9 juta followers di TikTok, membantah bila livestream-nya datang ke rumah seorang perempuan mempromosikan nilai-nilai LGBTQ."
+    },
+    {
         "title": "Predator Seksual SMA SPI Dituntut 15 Tahun, Jaksa Masih Pakai UU Perlindungan Anak",
         "link": "https://www.vice.com/id_id/article/akev5g/pendiri-sma-spi-malang-julianto-eka-putra-dituntut-15-tahun-penjara-lecehkan-murid",
         "image": "static/images/vice.png",
@@ -33,40 +68,5 @@
         "image": "static/images/vice.png",
         "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9tN2d2bnAvanVyYW5nLXZhbGxlcy1tYXJpbmVyaXMtcGxhbmV0LW1hcnMtbWVudXJ1dC1hc3Ryb25vbS1sYXlhay1kaXNlYnV0LWxlbWJhaC10ZXJiZXNhci1kaS10YXRhLXN1cnlh",
         "description": "Foto terbaru dari wahana antariksa Mars Express menunjukkan keberadaan dua parit besar di jurang Valles Marineris, semacam Grand Canyon-nya planet Mars."
-    },
-    {
-        "title": "Meski UU TPKS Sudah Sah, Banyak Kasus Kekerasan Seksual Masih Berakhir Damai",
-        "link": "https://www.vice.com/id_id/article/qjkbq3/uu-tpks-belum-ubah-pendekatan-polisi-kasus-kekerasan-seksual-di-indonesia-masih-berakhir-damai",
-        "image": "static/images/vice.png",
-        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9xamticTMvdXUtdHBrcy1iZWx1bS11YmFoLXBlbmRla2F0YW4tcG9saXNpLWthc3VzLWtla2VyYXNhbi1zZWtzdWFsLWRpLWluZG9uZXNpYS1tYXNpaC1iZXJha2hpci1kYW1haQ==",
-        "description": "Menurut pengacara, polisi di lapangan kerap menangani kasus kekerasan seksual dengan 'restorative justice'. Perempuan di Tuban dan Banyuwangi, contohnya, malah dinikahkan dengan pemerkosanya."
-    },
-    {
-        "title": "Satu Orang Gigih Ini Sukses  Populerkan Wacana Melarang Kepemilikan Jet Pribadi",
-        "link": "https://www.vice.com/id_id/article/dy7pw7/mantan-pns-di-swiss-bikin-situs-banprivatejets-sebarkan-wacana-larangan-orang-tajir-punya-jet-pribadi",
-        "image": "static/images/vice.png",
-        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9keTdwdzcvbWFudGFuLXBucy1kaS1zd2lzcy1iaWtpbi1zaXR1cy1iYW5wcml2YXRlamV0cy1zZWJhcmthbi13YWNhbmEtbGFyYW5nYW4tb3JhbmctdGFqaXItcHVueWEtamV0LXByaWJhZGk=",
-        "description": "Kylie Jenner yang dikritik karena terbang untuk jarak 70 km saja bikin orang sadar buruknya jet pribadi. Mantan PNS di Swiss sukses mengumpulkan ribuan orang sepemikiran lewat situsnya."
-    },
-    {
-        "title": "Robot di Rusia Patahkan Jari Bocah 7 Tahun Saat Tanding Catur",
-        "link": "https://www.vice.com/id_id/article/g5vqn7/robot-di-rusia-patahkan-jari-bocah-7-tahun-saat-tanding-catur",
-        "image": "static/images/vice.png",
-        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9nNXZxbjcvcm9ib3QtZGktcnVzaWEtcGF0YWhrYW4tamFyaS1ib2NhaC03LXRhaHVuLXNhYXQtdGFuZGluZy1jYXR1cg==",
-        "description": "Pemain catur anak yang melawan robot diduga bermain terlalu cepat, sehingga robot bingung membaca gerakannya dan mencengkeram jarinya hingga patah."
-    },
-    {
-        "title": "Rekaman Satelit yang Luar Biasa Menguak Perubahan Drastis di Permukaan Bumi",
-        "link": "https://www.vice.com/id_id/article/3adb7n/foto-50-tahun-program-satelit-landsat-merekam-permukaan-bumi-dari-luar-angkasa",
-        "image": "static/images/vice.png",
-        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS8zYWRiN24vZm90by01MC10YWh1bi1wcm9ncmFtLXNhdGVsaXQtbGFuZHNhdC1tZXJla2FtLXBlcm11a2Fhbi1idW1pLWRhcmktbHVhci1hbmdrYXNh",
-        "description": "Satelit Landsat merayakan momen 50 tahun mengabadikan Bumi dan segala perubahannya yang ditimbulkan oleh manusia. Simak foto-fotonya yang menakjubkan di sini."
-    },
-    {
-        "title": "Anak Muda Berbagi Cerita Pengalaman Bodoh yang Paling Bikin Mereka Tekor",
-        "link": "https://www.vice.com/id_id/article/7k8v7e/problem-keuangan-anak-muda-yang-bikin-saldo-tabungan-tekor-tips-kelola-duit",
-        "image": "static/images/vice.png",
-        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS83azh2N2UvcHJvYmxlbS1rZXVhbmdhbi1hbmFrLW11ZGEteWFuZy1iaWtpbi1zYWxkby10YWJ1bmdhbi10ZWtvci10aXBzLWtlbG9sYS1kdWl0",
-        "description": "Ini bukan karena sekadar kalap belanja sampai saldo di rekening terasa minus. Contoh: lupa check-in sebelum naik pesawat, ada juga yang diputusin setelah menghadiahi pacar konsol game mahal."
     }
 ]
