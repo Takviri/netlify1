@@ -1,5 +1,47 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/510833/ini-alasan-sevilla-pilih-jual-kounde-ke-barcelona-ketimbang-ke-chelsea",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMDgzMy9pbmktYWxhc2FuLXNldmlsbGEtcGlsaWgtanVhbC1rb3VuZGUta2UtYmFyY2Vsb25hLWtldGltYmFuZy1rZS1jaGVsc2Vh",
+        "description": "DIREKTUR olahraga klub La Liga, Sevilla, Monchi mengatakan tawaran Barcelona untuk Jules Kounde lebih menarik daripada Chelsea. Hal ini yang membuat mereka lebih memilih menjual Kounde ke sesama klub&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/510837/gelorakan-lagi-germas-menko-pmk-bersama-para-menteri-jalan-sehat-di-monas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwODM3L2dlbG9yYWthbi1sYWdpLWdlcm1hcy1tZW5rby1wbWstYmVyc2FtYS1wYXJhLW1lbnRlcmktamFsYW4tc2VoYXQtZGktbW9uYXM=",
+        "description": "MENTERI Koordinator Bidang Pembangunan Manusia dan Kebudayaan (Menko PMK) Muhadjir Effendy dan sejumlah Menteri di Kabinet Indonesia Maju melaksanakan Gerak Jalan Bersama. Hal ini dilakukan untuk mencanangkan&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/510836/big-data-solusi-kesenjangan-kompetensi-pendidikan-dan-industri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTEwODM2L2JpZy1kYXRhLXNvbHVzaS1rZXNlbmphbmdhbi1rb21wZXRlbnNpLXBlbmRpZGlrYW4tZGFuLWluZHVzdHJp",
+        "description": "PENGUASAAN teknologi big data dapat menjadi solusi mengatasi kesenjangan kompetensi antara sistem pendidikan tinggi dan kebutuhan industri yang dituntut adaptif terhadap tuntutan kehadiran smart society&#8230;"
+    },
+    {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/510835/yang-unik-dari-proses-pembuatan-mobil-listrik-rolls-royce-spectre",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTA4MzUveWFuZy11bmlrLWRhcmktcHJvc2VzLXBlbWJ1YXRhbi1tb2JpbC1saXN0cmlrLXJvbGxzLXJveWNlLXNwZWN0cmU=",
+        "description": "SISTEM penggerak bertenaga listrik bukan hal yang baru bagi Rolls-Royce. Selain membangun reputasi menciptakan mobil super-mewah bermesin pembakaran internal, konsep elektrifikasi sudah lama dikenal&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/510832/ketua-satgas-apresiasi-penanganan-pmk-di-jawa-barat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwODMyL2tldHVhLXNhdGdhcy1hcHJlc2lhc2ktcGVuYW5nYW5hbi1wbWstZGktamF3YS1iYXJhdA==",
+        "description": "PENANGANAN Penyakit Mulut dan Kuku (PMK) pada hewan ternak di Jawa Barat mendapatkan apresiasi dari Kepala Badan Nasional Penanggulangan Bencana (BNPB) sekaligus Ketua Satuan Tugas Penyakit Mulut dan&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/510834/sinar-mas-land-virtual-assistant-alias-silvia-permudah-konsumen",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTEwODM0L3NpbmFyLW1hcy1sYW5kLXZpcnR1YWwtYXNzaXN0YW50LWFsaWFzLXNpbHZpYS1wZXJtdWRhaC1rb25zdW1lbg==",
+        "description": "SINAR Mas Land terus mentransformasi BSD City sebagai integrated smart digital city. Hal ini diupayakan&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/510831/jokowi-perintahkan-relawan-tak-buru-buru-bahas-pilpres-2024",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTA4MjYvcHJlc2lkZW4tam9rb3dpLWhhZGlyLWtlLXBlcm5pa2FoYW4tcHV0cmktYW5pZXMtYmFzd2VkYW4=",
         "description": "PRESIDEN Joko Widodo (Jokowi) bersama Ibu Iriana Jokowi menghadiri acara resepsi pernikahan puteri sulung Gubernur DKI Jakarta Anies Rasyid Baswedan. Presiden tiba di Putri Duyung Resort, Ancol&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/510825/peserta-pkn-tingkat-ii-angkatan-vi-2022-didorong-terus-berkolaborasi-bangun-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwODI1L3Blc2VydGEtcGtuLXRpbmdrYXQtaWktYW5na2F0YW4tdmktMjAyMi1kaWRvcm9uZy10ZXJ1cy1iZXJrb2xhYm9yYXNpLWJhbmd1bi1pbmRvbmVzaWE=",
-        "description": "PUSAT Pendidikan dan Pelatihan (Pusdiklat) Pegawai Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek) telah sukses menyelenggarakan Pelatihan Kepemimpinan Nasional (PKN) Tingkat&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/510824/parlemen-berusaha-paksa-pemerintah-as-selidiki-kematian-jurnalis-palestina",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMDgyNC9wYXJsZW1lbi1iZXJ1c2FoYS1wYWtzYS1wZW1lcmludGFoLWFzLXNlbGlkaWtpLWtlbWF0aWFuLWp1cm5hbGlzLXBhbGVzdGluYQ==",
-        "description": "SEKELOMPOK anggota parlemen pada Kamis (28/7) berusaha memaksa penyelidikan pimpinan Amerika Serikat atas pembunuhan jurnalis Palestina-Amerika&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/510823/carlos-sainz-tercepat-di-sesi-lathan-pertama-gp-hungaria",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTA4MjMvY2FybG9zLXNhaW56LXRlcmNlcGF0LWRpLXNlc2ktbGF0aGFuLXBlcnRhbWEtZ3AtaHVuZ2FyaWE=",
-        "description": "PEMBALAP Ferrari, Carlos Sainz menjadi yang tercepat di sesi latihan pertama balap Formula 1 GP Hungaria, Jumat (29/7). Sainz, yang memenangi GP Inggris, mencetak waktu tercepat di Sirkuit Hungaroring&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/510822/gpk-ingatkan-polriagar-tetap-profesional-di-kasus-brigadir-j",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTA4MjIvZ3BrLWluZ2F0a2FuLXBvbHJpYWdhci10ZXRhcC1wcm9mZXNpb25hbC1kaS1rYXN1cy1icmlnYWRpci1q",
-        "description": "SELAMA beberapa pekan terahir, kasus polisi tembak polisi masih menjadi perhatian serius dari masyarakat. tidak terkecuali Gerakan Pemuda Ka'bah (GPK). Saat dikonfirmasi disela-sela acara&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/510821/teknologi-digital-dorong-pertumbuhan-dan-inovasi-pemasaran-bisnis-kuliner",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTEwODIxL3Rla25vbG9naS1kaWdpdGFsLWRvcm9uZy1wZXJ0dW1idWhhbi1kYW4taW5vdmFzaS1wZW1hc2FyYW4tYmlzbmlzLWt1bGluZXI=",
-        "description": "BISNIS kuliner merupakan bisnis yang digandrungi oleh seluruh kalangan pada saat ini, entah itu dari kalangan pebisnis, artis, bahkan hingga ibu rumah tangga turut menjajal bisnis tersebut. Pasalnya,&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/510820/ini-strategi-investasi-di-tengah-bearish-pasar-kripto",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTEwODIwL2luaS1zdHJhdGVnaS1pbnZlc3Rhc2ktZGktdGVuZ2FoLWJlYXJpc2gtcGFzYXIta3JpcHRv",
-        "description": "MELEMAHNYA atau bearish pasar kripto kali ini benar-benar membuat industri menjadi kelimpungan, dengan banyaknya bisnis terkait yang mengalami masalah keuangan, bahkan kebangkrutan. Ada&#8230;"
     }
 ]
