@@ -1,6 +1,41 @@
 [
     {
         "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/510698/napoli-berencana-datangkan-lo-celso-dari-spurs",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMDY5OC9uYXBvbGktYmVyZW5jYW5hLWRhdGFuZ2thbi1sby1jZWxzby1kYXJpLXNwdXJz",
+        "description": "KLUB Serie A Napoli dikabarkan tengah mempertimbangkan langkah untuk memboyong gelandang Giovani Lo Celso dari Tottenham Hotspur pada&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/510697/bangka-belitung-berhasil-kembangkan-budidaya-bawang-merah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEwNjk3L2JhbmdrYS1iZWxpdHVuZy1iZXJoYXNpbC1rZW1iYW5na2FuLWJ1ZGlkYXlhLWJhd2FuZy1tZXJhaA==",
+        "description": "Dinas Pangan dan Pertanian (Dinpanpertan) Kabupaten Bangka Provinsi Kepulauan Bangka Belitung menyatakan petani di daerah itu berhasil mengembangkan budidaya bawang merah sebagai komoditas pertanian&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/510696/bekali-anak-etika-sebelum-masuk-dunia-digital",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTEwNjk2L2Jla2FsaS1hbmFrLWV0aWthLXNlYmVsdW0tbWFzdWstZHVuaWEtZGlnaXRhbA==",
+        "description": "Orangtua harus membekali anak mereka etika sebelu menggunakan media digital Sehingga anak-anak tahu dan menyadari yang dihadapi di balik layar gadget adalah manusia. Dengan begitu, perilaku mereka&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/510695/berencana-hamil-periksa-dulu-riwayat-kesehatan-anda",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwNjk1L2JlcmVuY2FuYS1oYW1pbC1wZXJpa3NhLWR1bHUtcml3YXlhdC1rZXNlaGF0YW4tYW5kYQ==",
+        "description": "DOKTER spesialis kebidanan dan kandungan Yassin Yanuar dari Ikatan Dokter Indonesia (IDI) mengatakan perempuan yang ingin mengandung harus mengetahui riwayat kesehatan demi proses <a href=\"http://mediaindonesia.com/tag/ibu-hamil\"&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/510694/tahukah-anda-berapa-lama-asi-bisa-bertahan-jika-disimpan-di-kulkas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwNjk0L3RhaHVrYWgtYW5kYS1iZXJhcGEtbGFtYS1hc2ktYmlzYS1iZXJ0YWhhbi1qaWthLWRpc2ltcGFuLWRpLWt1bGthcw==",
+        "description": "IBU yang menyusui kerap menyimpan sisa perahan air susu di lemari pendingin sebagai stok makanan sang buah hati bila sewaktu-waktu&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/510693/inzaghi-tegaskan-tekad-inter-milan-untuk-jadi-scudetto",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMDY5My9pbnphZ2hpLXRlZ2Fza2FuLXRla2FkLWludGVyLW1pbGFuLXVudHVrLWphZGktc2N1ZGV0dG8=",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY4OC9zcmktbXVseWFuaS1kdW5pYS10aWRhay1iYWlrLWJhaWstc2FqYQ==",
         "description": "Belum usai dampak pandemi ditangani, dunia kini dihadapkan pada kemungkinan resesi ekonomi imbas perang Rusia dan Ukraina. Sebab, konflik dua negara Eropa Timur itu merupakan pemasok energi dan pangan&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/510687/sah-anies-nikahkan-putri-sulungnya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTA2ODcvc2FoLWFuaWVzLW5pa2Foa2FuLXB1dHJpLXN1bHVuZ255YQ==",
-        "description": "GUBERNUR DKI Jakarta Anies Baswedan, hari ini, Jumat (29/7), menikahkan anak sulung perempuannya yang bernama Mutiara Annisa&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/510677/telkom-kembangkan-metaverse-dengan-sentuhan-lokal-metanesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY3Ny90ZWxrb20ta2VtYmFuZ2thbi1tZXRhdmVyc2UtZGVuZ2FuLXNlbnR1aGFuLWxva2FsLW1ldGFuZXNpYQ==",
-        "description": "Badan Usaha Milik Negara Telkom Indonesia (Persero) melalui Leap, wajah baru layanan Telkom Digital, mengembangkan metaverse dengan sentuhan lokal bernama metaNesia yang merupakan akronim dari Metaverse&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/510686/ini-lima-kejutan-yang-muncul-di-episode-terakhir-eve",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMDY4Ni9pbmktbGltYS1rZWp1dGFuLXlhbmctbXVuY3VsLWRpLWVwaXNvZGUtdGVyYWtoaXItZXZl",
-        "description": "DRAMA Korea Eve, yang dibintangi Seo Yea Ji, Park Byung Eun, Yoo Sun, dan Lee Sang Yeob telah resmi tamat dengan total 16 episode&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/510685/99-group-raih-pendanaan-seri-c-52-juta-dolar-as-untuk-ekspansi-ke-pasar-asia-tenggara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY4NS85OS1ncm91cC1yYWloLXBlbmRhbmFhbi1zZXJpLWMtNTItanV0YS1kb2xhci1hcy11bnR1ay1la3NwYW5zaS1rZS1wYXNhci1hc2lhLXRlbmdnYXJh",
-        "description": "99 Group, induk perusahaan yang mengoperasikan platform properti online paling berkembang di Asia Tenggara, mendapatkan pendanaan 52 juta Dolar Amerika Serikat (AS) dalam putaran Seri C.&nbsp;&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/510684/ini-resep-kahitna-bertahan-bermusik-selama-36-tahun",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMDY4NC9pbmktcmVzZXAta2FoaXRuYS1iZXJ0YWhhbi1iZXJtdXNpay1zZWxhbWEtMzYtdGFodW4=",
-        "description": "PADA 24 Juni 2022 lalu, grup musik asal Bandung, Kahitna, merayakan ulang tahun ke-36. Band yang beranggotakan Yovie Widianto (keyboard),&#8230;"
     }
 ]
