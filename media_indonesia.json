@@ -1,6 +1,48 @@
 [
     {
         "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/510677/telkom-kembangkan-metaverse-dengan-sentuhan-lokal-metanesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY3Ny90ZWxrb20ta2VtYmFuZ2thbi1tZXRhdmVyc2UtZGVuZ2FuLXNlbnR1aGFuLWxva2FsLW1ldGFuZXNpYQ==",
+        "description": "Badan Usaha Milik Negara Telkom Indonesia (Persero) melalui Leap, wajah baru layanan Telkom Digital, mengembangkan metaverse dengan sentuhan lokal bernama metaNesia yang merupakan akronim dari Metaverse&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/510686/ini-lima-kejutan-yang-muncul-di-episode-terakhir-eve",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMDY4Ni9pbmktbGltYS1rZWp1dGFuLXlhbmctbXVuY3VsLWRpLWVwaXNvZGUtdGVyYWtoaXItZXZl",
+        "description": "DRAMA Korea Eve, yang dibintangi Seo Yea Ji, Park Byung Eun, Yoo Sun, dan Lee Sang Yeob telah resmi tamat dengan total 16 episode&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/510685/99-group-raih-pendanaan-seri-c-52-juta-dolar-as-untuk-ekspansi-ke-pasar-asia-tenggara",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY4NS85OS1ncm91cC1yYWloLXBlbmRhbmFhbi1zZXJpLWMtNTItanV0YS1kb2xhci1hcy11bnR1ay1la3NwYW5zaS1rZS1wYXNhci1hc2lhLXRlbmdnYXJh",
+        "description": "99 Group, induk perusahaan yang mengoperasikan platform properti online paling berkembang di Asia Tenggara, mendapatkan pendanaan 52 juta Dolar Amerika Serikat (AS) dalam putaran Seri C.&nbsp;&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/510684/ini-resep-kahitna-bertahan-bermusik-selama-36-tahun",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMDY4NC9pbmktcmVzZXAta2FoaXRuYS1iZXJ0YWhhbi1iZXJtdXNpay1zZWxhbWEtMzYtdGFodW4=",
+        "description": "PADA 24 Juni 2022 lalu, grup musik asal Bandung, Kahitna, merayakan ulang tahun ke-36. Band yang beranggotakan Yovie Widianto (keyboard),&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/510683/ralali-tawarkan-tiga-solusi-digitalisasi-hadapi-dinamika-ekonomi-global",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY4My9yYWxhbGktdGF3YXJrYW4tdGlnYS1zb2x1c2ktZGlnaXRhbGlzYXNpLWhhZGFwaS1kaW5hbWlrYS1la29ub21pLWdsb2JhbA==",
+        "description": "PEREKONOMIAN dunia sedang tidak baik-baik saja, seperti yang tertulis dalam laporan Bank Dunia &ldquo;Global Economic Prospect June 2022&rdquo; bahwa kondisi perekonomian global mengalami tekanan akibat&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/510682/jelang-gp-hongaria-verstappen-mengaku-was-was",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTA2ODIvamVsYW5nLWdwLWhvbmdhcmlhLXZlcnN0YXBwZW4tbWVuZ2FrdS13YXMtd2Fz",
+        "description": "JUARA dunia Formula 1 Max Verstappen, Kamis (28/7), mengaku dirinya merasa was was menghadapi GP Hongaria, balapan yang tidak pernah&#8230;"
+    },
+    {
+        "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/510681/industri-migas-didorong-optimalkan-produksi-produk-turunan",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY4MS9pbmR1c3RyaS1taWdhcy1kaWRvcm9uZy1vcHRpbWFsa2FuLXByb2R1a3NpLXByb2R1ay10dXJ1bmFu",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY3Ni9wdWFuLWF0dXJhbi1kaXN0cmlidXNpLXBlcnRhbGl0ZS1oYXJ1cy1qYW1pbi1zdWJzaWRpLWJibS10ZXBhdC1zYXNhcmFu",
         "description": "KETUA DPR RI Puan Maharani mengingatkan agar revisi peraturan terkait penggunaan Pertalite dikaji sebaik mungkin. Ia meminta agar aturan terbaru nanti, yang salah satunya memuat soal Bahan Bakar Minyak&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/510675/ini-gejala-dan-penangan-diabetes-melitus-tipe-1-pada-anak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwNjc1L2luaS1nZWphbGEtZGFuLXBlbmFuZ2FuLWRpYWJldGVzLW1lbGl0dXMtdGlwZS0xLXBhZGEtYW5haw==",
-        "description": "DOKTER spesialis anak dari Universitas Padjajaran Faisal Al Bukkar mengatakan terdapat beberapa gejala Diabetes Melitus Tipe 1 (DM1)&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/510674/komisioner-baru-ojk-diharapkan-punya-strategi-khusus-hadapi-dinamika-ekonomi-global",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDY3NC9rb21pc2lvbmVyLWJhcnUtb2prLWRpaGFyYXBrYW4tcHVueWEtc3RyYXRlZ2kta2h1c3VzLWhhZGFwaS1kaW5hbWlrYS1la29ub21pLWdsb2JhbA==",
-        "description": "ANGGOTA Komisi XI DPR RI Ahmad Najib Qodratullah menyarankan agar Dewan Komisioner Otoritas Jasa Keuangan (DK OJK) yang baru dilantik diharapkan memiliki strategi khusus dalam menghadapi kondisi perekonomian&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/510673/setelah-13-bahasa-zoom-umumkan-ketersediaan-bahasa-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTEwNjczL3NldGVsYWgtMTMtYmFoYXNhLXpvb20tdW11bWthbi1rZXRlcnNlZGlhYW4tYmFoYXNhLWluZG9uZXNpYQ==",
-        "description": "Zoom Video Communications, Inc mengumumkan ketersediaan Bahasa Indonesia untuk Zoom Meeting dan Zoom Webinar, yang melengkapi 13 bahasa lainnya yang telah lebih dulu tersedia di platform ini. Peluncuran&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/510672/sato-tegaskan-tekad-bawa-persib-menang-di-laga-kandang-pertama",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMDY3Mi9zYXRvLXRlZ2Fza2FuLXRla2FkLWJhd2EtcGVyc2liLW1lbmFuZy1kaS1sYWdhLWthbmRhbmctcGVydGFtYQ==",
-        "description": "BEK Persib Daisuke Sato menargetkan kemenangan di laga kandang pertama mereka pada musim ini kontra Madura United di Stadion Gelora&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/510671/empat-tersangka-kasus-dugaan-penyelewengan-dana-act-diperiksa-siang-ini",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTA2NzEvZW1wYXQtdGVyc2FuZ2thLWthc3VzLWR1Z2Fhbi1wZW55ZWxld2VuZ2FuLWRhbmEtYWN0LWRpcGVyaWtzYS1zaWFuZy1pbmk=",
-        "description": "Dittipideksus Bareskrim Polri menjadwalkan pemeriksaan terhadap 4 tersangka kasus dugaan penyelewengan dana yayasan Aksi Cepat Tanggap (ACT) hari ini, Jumat (29/7). Kasubdit IV Dittipideksus&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/510668/pbb-pengembalian-ekspor-pangan-dari-rusia-dan-ukraina-jadi-prioritas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMDY2OC9wYmItcGVuZ2VtYmFsaWFuLWVrc3Bvci1wYW5nYW4tZGFyaS1ydXNpYS1kYW4tdWtyYWluYS1qYWRpLXByaW9yaXRhcw==",
-        "description": "Deputi Sekretaris Jenderal Persatuan Bangsa Bangsa (PBB) Amina J. Mohammed menekankan perlunya melancarkan arus perdagangan komoditas, menghilangkan pembatasan ekspor terkait komoditas pertanian, dan&#8230;"
     }
 ]
