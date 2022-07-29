@@ -1,5 +1,54 @@
 [
     {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/510809/event-color-out-mall-of-indonesia-hadirkan-karya-seni-anak-bangsa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTA4MDkvZXZlbnQtY29sb3Itb3V0LW1hbGwtb2YtaW5kb25lc2lhLWhhZGlya2FuLWthcnlhLXNlbmktYW5hay1iYW5nc2E=",
+        "description": "JUMLAH kasus pandemi-19 telah mengalami penurunan. Kendati dalam beberapa pekan, terjadi kenaikan kasus covid-19 terutama di Ibu Kota Jakarta. Namun secara umum, kasus pandemi bisa dikatakan&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/510808/ini-risiko-bila-data-pribadi-bocor-di-internet",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTEwODA4L2luaS1yaXNpa28tYmlsYS1kYXRhLXByaWJhZGktYm9jb3ItZGktaW50ZXJuZXQ=",
+        "description": "Pengguna internet terus meningkat setiap tahunnya, kini sudah mencapai 204,7 juta atau setara 73,7% dari total populasi penduduk di Indonesia. Masyarakat makin nyaman dengan segala sesuatu yang digital,&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/510807/ronaldo-klaim-sudah-ada-klub-yang-ingin-meminangnya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMDgwNy9yb25hbGRvLWtsYWltLXN1ZGFoLWFkYS1rbHViLXlhbmctaW5naW4tbWVtaW5hbmdueWE=",
+        "description": "CRISTIANO Ronaldo dilaporkan mengabari Manchester United bahwa sudah ada tawaran dari klub yang masuk untuk dirinya. Namun, tidak disebut klub mana yang ingin memakai jasa kapten timnas Portugal tersebut.&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/510805/vision-umumkan-mulai-proyek-original-series-catatan-akhir-sekolah-reboot-film-serupa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMDgwNS92aXNpb24tdW11bWthbi1tdWxhaS1wcm95ZWstb3JpZ2luYWwtc2VyaWVzLWNhdGF0YW4tYWtoaXItc2Vrb2xhaC1yZWJvb3QtZmlsbS1zZXJ1cGE=",
+        "description": "Pada Jumat (29/7), Vision+ bekerja sama dengan Paragon Pictures dan Ideosource Entertainment mengadakan konferensi pers untuk mempersembahkan kolaborasi proyek terbaru mereka, yaitu original serial&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/510804/karya-desainer-smk-nu-banat-kudus-jadi-pembuka-vokasiland-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEwODA0L2thcnlhLWRlc2FpbmVyLXNtay1udS1iYW5hdC1rdWR1cy1qYWRpLXBlbWJ1a2Etdm9rYXNpbGFuZC0yMDIy",
+        "description": "KARYA-karya SMK NU Banat Kudus, Jawa Tengah menjadi pembuka rangkaian kegiatan Vokasiland 2022 yang berlangsung di Grand City Surabaya, 28-31 Juli 2022. Tampil dalam opening ceremony, para siswi&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/510803/ketahui-bagaimana-identitas-digital-bisa-terungkap",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTEwODAzL2tldGFodWktYmFnYWltYW5hLWlkZW50aXRhcy1kaWdpdGFsLWJpc2EtdGVydW5na2Fw",
+        "description": "Pengguna internet kini telah mencapai 204,7 juta atau sekitar 73,7% dari totak populasi penduduk Indonesia. Bisa dibayangkan bagaimana interaksi di dalamnya yang terhubung dengan perbedaan kultural,&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/510802/kadin-indonesia-perkuat-kerja-sama-dengan-pengusaha-jepang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDgwMi9rYWRpbi1pbmRvbmVzaWEtcGVya3VhdC1rZXJqYS1zYW1hLWRlbmdhbi1wZW5ndXNhaGEtamVwYW5n",
+        "description": "KAMAR Dagang dan Industri (Kadin) Indonesia memperkuat kerja sama dengan pelaku usaha Jepang yang merupakan salah satu mitra ekonomi terpenting bagi Indonesia sejak hampir 65 tahun lalu. Data 2020,&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/510801/santri-habib-dan-ulama-di-lampung-bershalawat-dan-doa-untuk-indonesia",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTA4MDAva2VqYXItYWtyZWRpdGFzaS10dWp1aC1nZWR1bmctcHVza2VzbWFzLWRpLXRhbmdzZWwtZGlwZXJzb2xlaw==",
         "description": "TAHUN ini, sebanyak tujuh bangunan puskesmas di Kota Tangerang Selatan (Tangsel) menjalani proses rehabilitasi. Selain guna meningkatkan layanan kepada masyarakat, pembangunan juga bertujuan memenuhi&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/510798/perkuat-jaringan-internasional-dosen-isb-hadiri-konferensi-internasional-icmac",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwNzk4L3Blcmt1YXQtamFyaW5nYW4taW50ZXJuYXNpb25hbC1kb3Nlbi1pc2ItaGFkaXJpLWtvbmZlcmVuc2ktaW50ZXJuYXNpb25hbC1pY21hYw==",
-        "description": "UNTUK makin memperkuat jaringan di tingkat internasional, i3L School of Business (iSB) mengirimkan perwakilan ke Konferensi ICMAC 2022 yang berlangsung 14-15 Juli lalu. Konferensi yang mengangkat tema&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/510797/aniaya-pencuri-hingga-tewas-11-satpam-rsup-kariadi-semarang-masuk-bui",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEwNzk3L2FuaWF5YS1wZW5jdXJpLWhpbmdnYS10ZXdhcy0xMS1zYXRwYW0tcnN1cC1rYXJpYWRpLXNlbWFyYW5nLW1hc3VrLWJ1aQ==",
-        "description": "11 anggota satuan pengamanan (Satpam) Rumah Sakit Umum Pusat (RSUP) dr Kariadi Semarang, Jawa Tengah diciduk polisi. Mereka menjadi terduga pelaku penganiayaan seorang pencuri di IGD RSUP Kariadi.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/510796/masih-kekurangan-guru-pgri-minta-pemerintah-tuntaskan-pengangkatan-guru-honorer-jadi-asn",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwNzk2L21hc2loLWtla3VyYW5nYW4tZ3VydS1wZ3JpLW1pbnRhLXBlbWVyaW50YWgtdHVudGFza2FuLXBlbmdhbmdrYXRhbi1ndXJ1LWhvbm9yZXItamFkaS1hc24=",
-        "description": "PENINGKATAN kualitas sumber daya manusia memerlukan peran penting dunia pendidikan. Guru berperan sangat strategis dan sentral dalam meningkatkan kualitas pendidikan. Guru adalah profesi yang sangat&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/510795/meriahkan-hut-klaten-dewan-kesenian-gelar-wayang-kulit-empat-dalang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEwNzk1L21lcmlhaGthbi1odXQta2xhdGVuLWRld2FuLWtlc2VuaWFuLWdlbGFyLXdheWFuZy1rdWxpdC1lbXBhdC1kYWxhbmc=",
-        "description": "DEWAN Kesenian Klaten, Jawa Tengah, menggelar pentas wayang kulit dengan empat dalang di halaman Gedung Sunan Pandanaran Klaten, Kamis (28/7) malam. Pentas wayang kulit yang mengambil lakon&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/510794/contoh-dan-manfaat-hidup-rukun-di-lingkungan-rumah-sekolah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwNzk0L2NvbnRvaC1kYW4tbWFuZmFhdC1oaWR1cC1ydWt1bi1kaS1saW5na3VuZ2FuLXJ1bWFoLXNla29sYWg=",
-        "description": "MANUSIA ialah makhluk sosial yang membutuhkan satu sama lain dalam aktivitas sehari-hari. Hal tersebut ada kalanya menimbulkan perbedaan pendapat dan sebagainya.&nbsp; Perbedaan tersebut merupakan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/510793/gerakan-ekonomi-hijau-dari-warga-terpencil-di-pegunungan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEwNzkzL2dlcmFrYW4tZWtvbm9taS1oaWphdS1kYXJpLXdhcmdhLXRlcnBlbmNpbC1kaS1wZWd1bnVuZ2Fu",
-        "description": "PARA petani kopi di Desa Babadan, Kecamatan Pagentan, Banjarnegara, Jawa Tengah (Jateng) makin menapak jalan kesejahteraan. Dengan ekonomi hijau yang dikembangkan, petani tidak hanya mendapatkan keuntungan&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/510792/urutan-film-marvel-dari-awal-hingga-doctor-strange-2",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMDc5Mi91cnV0YW4tZmlsbS1tYXJ2ZWwtZGFyaS1hd2FsLWhpbmdnYS1kb2N0b3Itc3RyYW5nZS0y",
-        "description": "FILM Marvel Cinematic Universe (MCU) memiliki 30+ serial film yang memiliki jalan cerita terkait satu sama lain. Meskipun memiliki hubungan, sebagian orang mungkin akan kesulitan dalam menentukan urutan&#8230;"
     }
 ]
