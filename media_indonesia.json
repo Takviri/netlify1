@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/510806/the-battle-of-wembley",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMDgwNi90aGUtYmF0dGxlLW9mLXdlbWJsZXk=",
+        "description": "STADION&nbsp;Wembley 30 Juli 1966 dikenang sebagai salah satu momen sepak bola paling dramatis. Pada final Piala Dunia ketika itu saling bertemu dua kekuatan Eropa, Inggris dan Jerman (Barat).&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/510865/pemuda-katolik-serukan-politik-kebangsaan-bukan-politik-identitas",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTEwODYzL3RlbGtvbS1sdW5jdXJrYW4tbWV0YW5lc2lhLW1ldGF2ZXJzZS1iYXJ1",
         "description": "PT Telkom Indonesia (Persero) Tbk (Telkom) melalui payung Leap-Telkom Digital akan segera menciptakan dunia metaverse yang bisa dimanfaatkan masyarakat. Dengan diberi nama metaNesia, dunia&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/510855/artis-aswita-dewi-dukung-batik-jadi-tren-internasional",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMDg1NS9hcnRpcy1hc3dpdGEtZGV3aS1kdWt1bmctYmF0aWstamFkaS10cmVuLWludGVybmFzaW9uYWw=",
-        "description": "GENERASI muda menjadi tumpuan agar warisan kebudayaan lokal bisa terus terjaga. Selain harus mau melestarikannya, para penerus dituntut berpikir bagaimana caranya agar kekayaan Nusantara mampu memberi<br&#8230;"
     }
 ]
