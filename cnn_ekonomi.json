@@ -1,5 +1,12 @@
 [
     {
+        "title": "Kota di Jerman Larang Air Panas Demi Hemat Energi",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220730152329-85-828183/kota-di-jerman-larang-air-panas-demi-hemat-energi",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzMwMTUyMzI5LTg1LTgyODE4My9rb3RhLWRpLWplcm1hbi1sYXJhbmctYWlyLXBhbmFzLWRlbWktaGVtYXQtZW5lcmdp",
+        "description": " Kota Hanover di Jerman melarang penggunaan air panas di gedung-gedung publik di tengah krisis energi."
+    },
+    {
         "title": "Pindah Kerja, TKI Gagal Klaim Lotre Rp1 M di Taiwan",
         "link": "https://www.cnnindonesia.com/ekonomi/20220730144635-78-828175/pindah-kerja-tki-gagal-klaim-lotre-rp1-m-di-taiwan",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI5MTcwNTM4LTk3LTgyNzkzMS9iYXlhci1iYW55YWstdGFnaWhhbi1iZWJhcy1yaWJldC1jdWt1cC1wYWthaS1hbGxvLWJhbms=",
         "description": " Allo Bank menyediakan\u00c2\u00a0layanan untuk memudahkan pengguna\u00c2\u00a0membayar tagihan seperti\u00c2\u00a0pulsa, PLN,\u00c2\u00a0hingga kartu kredit."
-    },
-    {
-        "title": "Penumpang pesawat di Bandara AP I 'Terbang' 55 Persen",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220729185955-92-828002/penumpang-pesawat-di-bandara-ap-i-terbang-55-persen",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI5MTg1OTU1LTkyLTgyODAwMi9wZW51bXBhbmctcGVzYXdhdC1kaS1iYW5kYXJhLWFwLWktdGVyYmFuZy01NS1wZXJzZW4=",
-        "description": " AP\u00c2\u00a0I mencatat jumlah penumpang pesawat di 15 bandara kelolaannya meroket 55 persen menjadi 22,84 juta penumpang per semester I 2022."
     }
 ]
