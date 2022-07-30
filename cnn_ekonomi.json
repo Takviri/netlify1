@@ -1,5 +1,12 @@
 [
     {
+        "title": "Stasiun BNI City Sudirman Uji Coba Layani Penumpang KRL",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220730233725-92-828261/stasiun-bni-city-sudirman-uji-coba-layani-penumpang-krl",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzMwMjMzNzI1LTkyLTgyODI2MS9zdGFzaXVuLWJuaS1jaXR5LXN1ZGlybWFuLXVqaS1jb2JhLWxheWFuaS1wZW51bXBhbmcta3Js",
+        "description": " Sebelumnya stasiun BNI City hanya melayani naik dan turun penumpang kereta Bandara (KA Bandara) saja."
+    },
+    {
         "title": "Rusia Tangguhkan Pasokan Gas ke Latvia",
         "link": "https://www.cnnindonesia.com/ekonomi/20220730204136-85-828247/rusia-tangguhkan-pasokan-gas-ke-latvia",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzMwMTEwNTIwLTkwLTgyODEzNy9tZW50ZXJpLWVzZG0tcHVhcy1hdGFzLXByb2dyZXMtcGVtYmFuZ3VuYW4tc21lbHRlci1mcmVlcG9ydA==",
         "description": " Menteri Energi dan Sumber Daya Mineral (ESDM) Arifin Tasrif mengaku puas\u00c2\u00a0atas\u00c2\u00a0kemajuan pembangunan smelter\u00c2\u00a0PT Freeport Indonesia (PTFI) di Gresik, Jawa Timur."
-    },
-    {
-        "title": "Pakai QRIS Allo Bank, Semua Transaksi Jadi Lebih Cepat",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220729172233-97-827940/pakai-qris-allo-bank-semua-transaksi-jadi-lebih-cepat",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzI5MTcyMjMzLTk3LTgyNzk0MC9wYWthaS1xcmlzLWFsbG8tYmFuay1zZW11YS10cmFuc2Frc2ktamFkaS1sZWJpaC1jZXBhdA==",
-        "description": " Lewat fitur QRIS, pengguna Allo Bank tidak perlu repot membawa uang tunai ketika melakukan transaksi."
     }
 ]
