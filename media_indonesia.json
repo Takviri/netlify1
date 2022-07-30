@@ -1,6 +1,13 @@
 [
     {
         "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/511039/sudoku-edisi-31-juli-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMTAzOS9zdWRva3UtZWRpc2ktMzEtanVsaS0yMDIy",
+        "description": "SUDOKU atau dikenal juga dengan tebak angka (number place)"
+    },
+    {
+        "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/511038/jon-bodo-amal-kemanusiaan",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMTAzOC9qb24tYm9kby1hbWFsLWtlbWFudXNpYWFu",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTEwMzQvbWVudGVyaS1idW1uLWFwZy0yMDIyLWJ1a3RpLWluZG9uZXNpYS1hcHJlc2lhc2kta2VtYW51c2lhYW4=",
         "description": "MENTERI BUMN RI Erick Thohir menyebut perhelatan ASEAN Para Games (APG) 2022 membuktikan bahwa Indonesia merupakan negara yang mengapresiasi kemanusiaan. &quot;Saya rasa ini sangat bagus ya,&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/511033/russell-rebut-pole-position-gp-hungaria",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTEwMzMvcnVzc2VsbC1yZWJ1dC1wb2xlLXBvc2l0aW9uLWdwLWh1bmdhcmlh",
-        "description": "PEMBALAP Mercedes, George Russell tampil mengesankan dalam kualifikasi balap Formula 1 GP Hungaria, Sabtu (30/7) dengan menjadi yang tercepat. Ini menjadi pole position pertama Russel di Formula 1.&#8230;"
     }
 ]
