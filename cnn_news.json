@@ -1,5 +1,19 @@
 [
     {
+        "title": "Banjir Rendam Ratusan Rumah di Yahukimo Papua",
+        "link": "https://www.cnnindonesia.com/nasional/20220730180518-20-828218/banjir-rendam-ratusan-rumah-di-yahukimo-papua",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMDE4MDUxOC0yMC04MjgyMTgvYmFuamlyLXJlbmRhbS1yYXR1c2FuLXJ1bWFoLWRpLXlhaHVraW1vLXBhcHVh",
+        "description": " Tidak ada korban jiwa, namun di beberapa lokasi, genangan airnya cukup tinggi sehingga warga mengungsi ke sanak keluarga yang tidak terdampak."
+    },
+    {
+        "title": "Fahri Hamzah Sebut Nasdem Bohongi Rakyat soal Tiga Kandidat Capres",
+        "link": "https://www.cnnindonesia.com/nasional/20220730175252-32-828217/fahri-hamzah-sebut-nasdem-bohongi-rakyat-soal-tiga-kandidat-capres",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMDE3NTI1Mi0zMi04MjgyMTcvZmFocmktaGFtemFoLXNlYnV0LW5hc2RlbS1ib2hvbmdpLXJha3lhdC1zb2FsLXRpZ2Eta2FuZGlkYXQtY2FwcmVz",
+        "description": " Fahri mengingatkan Partai Nasdem tidak bisa mengusung capres karena terganjal ketentuan ambang batas pencalonan presiden (presidential threshold)."
+    },
+    {
         "title": "VIDEO: Citayam Fashion Week Masih Dipadati Pengunjung Sabtu Sore",
         "link": "https://www.cnnindonesia.com/nasional/20220730164239-24-828200/video-citayam-fashion-week-masih-dipadati-pengunjung-sabtu-sore",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMDE2MTQwMS0yMC04MjgxOTIvaGFyaS1rZS0zLXBlcm5pa2FoYW4tcHV0cmktYW5pZXMtYWthbi11bmRhbmctdWxhbWEtdG9rb2gtbWFzeWFyYWthdA==",
         "description": " Sementara pada resepsi hari kedua ini, tamu undangan meliputi pihak keluarga hingga sejumlah tokoh."
-    },
-    {
-        "title": "Polisi Duga Mobil Dinas Bakamla Tabrakan Gegara Tak Sempat Rem",
-        "link": "https://www.cnnindonesia.com/nasional/20220730160016-20-828191/polisi-duga-mobil-dinas-bakamla-tabrakan-gegara-tak-sempat-rem",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMDE2MDAxNi0yMC04MjgxOTEvcG9saXNpLWR1Z2EtbW9iaWwtZGluYXMtYmFrYW1sYS10YWJyYWthbi1nZWdhcmEtdGFrLXNlbXBhdC1yZW0=",
-        "description": " Polisi menduga kecelakaan mobil dinas Bakamla di Tol Solo-Semarang, Jawa Tengah disebabkan karena kendaraan melaju kencang dan tak sempat mengerem."
-    },
-    {
-        "title": "Masyarakat Masih Padati Citayam Fashion Week Sabtu Sore",
-        "link": "https://www.cnnindonesia.com/nasional/20220730155446-20-828190/masyarakat-masih-padati-citayam-fashion-week-sabtu-sore",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMDE1NTQ0Ni0yMC04MjgxOTAvbWFzeWFyYWthdC1tYXNpaC1wYWRhdGktY2l0YXlhbS1mYXNoaW9uLXdlZWstc2FidHUtc29yZQ==",
-        "description": " Umumnya, pengunjung berusia remaja hingga dewasa, tetapi tampak juga sejumlah pengunjung usia lanjut yang datang bersama keluarganya."
     }
 ]
