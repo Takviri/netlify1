@@ -1,5 +1,19 @@
 [
     {
+        "title": "Relawan Sepakat Dukung Calon Pilihan Presiden Jokowi di Pilpres 2024",
+        "link": "https://nasional.tempo.co/read/1617348/relawan-sepakat-dukung-calon-pilihan-presiden-jokowi-di-pilpres-2024",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTczNDgvcmVsYXdhbi1zZXBha2F0LWR1a3VuZy1jYWxvbi1waWxpaGFuLXByZXNpZGVuLWpva293aS1kaS1waWxwcmVzLTIwMjQ=",
+        "description": "Relawan menyatakan siap tunduk dan patuh terhadap pilihan Presiden Jokowi dalam Pilpres 2024."
+    },
+    {
+        "title": "Mas Dhito Janji Bangun Stadion Baru di Kediri",
+        "link": "https://nasional.tempo.co/read/1617345/mas-dhito-janji-bangun-stadion-baru-di-kediri",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTczNDUvbWFzLWRoaXRvLWphbmppLWJhbmd1bi1zdGFkaW9uLWJhcnUtZGkta2VkaXJp",
+        "description": "Pepohonan di Stadion Canda Bhirawa sudah sangat rimbun. Daripada menebangnya, Mas Dhito memilih untuk membuat stadion baru."
+    },
+    {
         "title": "Komnas HAM Rekomendasikan Pemerintah dan DPR Kaji Ulang Revisi UU ITE",
         "link": "https://nasional.tempo.co/read/1617336/komnas-ham-rekomendasikan-pemerintah-dan-dpr-kaji-ulang-revisi-uu-ite",
         "image": "static/images/tempo_nasional.png",
@@ -12,6 +26,13 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTczMzUvcGVyYW4tZGFuLXR1Z2FzLXB1c2xhYmZvci1wb2xyaS1kaS10YWhhcC1wZW55ZWxpZGlrYW4tZGFuLXBlbnlpZGlrYW4=",
         "description": "Puslabfor Polri atau pusat laboratorium forensik ini memiliki fungsi dan tugas khusus. Sejauh mana perannya dalam tahap penyelidikan dan penyidikan?"
+    },
+    {
+        "title": "ObraS KaIN Berbagi Tips Kelola Sampah untuk Kader PKK",
+        "link": "https://nasional.tempo.co/read/1617338/obras-kain-berbagi-tips-kelola-sampah-untuk-kader-pkk",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTczMzgvb2JyYXMta2Fpbi1iZXJiYWdpLXRpcHMta2Vsb2xhLXNhbXBhaC11bnR1ay1rYWRlci1wa2s=",
+        "description": "Salah satu cara pengelolaan sampah di rumah tangga dapat dilakukan dengan membuta Eco Enzyme."
     },
     {
         "title": "Presiden Jokowi Undang Relawan ke Istana Bogor, Ada Isyarat Apa?",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTcyNzIva3BrLXBlcmlrc2EtZHVhLXNha3NpLWthc3VzLWR1Z2Fhbi1rb3J1cHNpLXByb3llay1wZW1iYW5ndW5hbi1qYWxhbi1kaS1iZW5na2FsaXM=",
         "description": "KPK memeriksa dua orang saksi untuk kasus dugaan tindak pidana korupsi pembangunan Jalan Batu Panjang - Pangkalan Nyirih, Bengkalis, Riau."
-    },
-    {
-        "title": "LPSK Ingatkan Potensi Tolak Permohonan Perlindungan Bharada E dan Istri Ferdy Sambo",
-        "link": "https://nasional.tempo.co/read/1617268/lpsk-ingatkan-potensi-tolak-permohonan-perlindungan-bharada-e-dan-istri-ferdy-sambo",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTcyNjgvbHBzay1pbmdhdGthbi1wb3RlbnNpLXRvbGFrLXBlcm1vaG9uYW4tcGVybGluZHVuZ2FuLWJoYXJhZGEtZS1kYW4taXN0cmktZmVyZHktc2FtYm8=",
-        "description": "LPSK mengungkapkan jika Bharada E dan Istri Ferdy Sambo hingga saat ini belum bisa dimintai keterangan. Belum berstatus sebagai terlindung."
-    },
-    {
-        "title": "Artis Nowela Elizabeth Auparay Jelaskan Undangan Menyanyi Ricky Ham Pagawak pada KPK",
-        "link": "https://nasional.tempo.co/read/1617265/artis-nowela-elizabeth-auparay-jelaskan-undangan-menyanyi-ricky-ham-pagawak-pada-kpk",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTcyNjUvYXJ0aXMtbm93ZWxhLWVsaXphYmV0aC1hdXBhcmF5LWplbGFza2FuLXVuZGFuZ2FuLW1lbnlhbnlpLXJpY2t5LWhhbS1wYWdhd2FrLXBhZGEta3Br",
-        "description": "Artis Nowela Elizabeth Auparay menjelaskan pada penyidik KPK ihwal undangan tampil menyanyi oleh Bupati Mamberamo Tengah Ricky Ham Pagawak."
-    },
-    {
-        "title": "Ahmad Najib Harap DK OJK Baru Punya Strategi Hadapi Krisis Global",
-        "link": "https://nasional.tempo.co/read/1617258/ahmad-najib-harap-dk-ojk-baru-punya-strategi-hadapi-krisis-global",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTcyNTgvYWhtYWQtbmFqaWItaGFyYXAtZGstb2prLWJhcnUtcHVueWEtc3RyYXRlZ2ktaGFkYXBpLWtyaXNpcy1nbG9iYWw=",
-        "description": "Sejumlah catatan diuraikan oleh Ahmad Najib tentang berbagai kebutuhan yang harus diantisipasi OJK."
     }
 ]
