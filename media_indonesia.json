@@ -1,5 +1,47 @@
 [
     {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/510988/who-eropa-perkirakan-lebih-banyak-kematian-terkait-cacar-monyet",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMDk4OC93aG8tZXJvcGEtcGVya2lyYWthbi1sZWJpaC1iYW55YWsta2VtYXRpYW4tdGVya2FpdC1jYWNhci1tb255ZXQ=",
+        "description": "KANTOR Organisasi Kesehatan Dunia (WHO) Eropa mengatakan pada Sabtu (30/7) bahwa diperkirakan lebih banyak kematian terkait cacar&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/510987/kemlu-bebaskan-55-wni-yang-disekap-di-kamboja",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMDk4Ny9rZW1sdS1iZWJhc2thbi01NS13bmkteWFuZy1kaXNla2FwLWRpLWthbWJvamE=",
+        "description": "KEMENTERIAN Luar Negeri (Kemlu) RI berhasil membebaskan 55 Warga Negara Indonesia (WNI) korban penipuan penempatan kerja dan penyekapan di Kamboja. Modus yang sudah berulang kali terjadi sejak 2021&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/510986/barcelona-tertarik-boyong-bernardo-silva-ke-camp-nou",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMDk4Ni9iYXJjZWxvbmEtdGVydGFyaWstYm95b25nLWJlcm5hcmRvLXNpbHZhLWtlLWNhbXAtbm91",
+        "description": "GELANDANG asal Portugal, Bernardo Silva lagi-lagi dikabarkan akan hengkang dari Manchester City. Barcelona dan Real Madrid dikabarkan telah disodori namanya. Silva disebut masih betah di Etihad&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/510985/kapolda-banten-minta-perjudian-disikat-habis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTA5ODUva2Fwb2xkYS1iYW50ZW4tbWludGEtcGVyanVkaWFuLWRpc2lrYXQtaGFiaXM=",
+        "description": "KEPALA Kepolisian Daerah (Kapolda) Banten Irjen Rudy Heriyanto mengintruksikan jajarannya untuk menyikat habis segala bentuk perjudian, baik judi online maupun judi konvensional. &nbsp;&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/510984/bima-sakti-tegaskan-tim-u-16-tidak-harus-ikuti-taktik-shin-tae-yong",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMDk4NC9iaW1hLXNha3RpLXRlZ2Fza2FuLXRpbS11LTE2LXRpZGFrLWhhcnVzLWlrdXRpLXRha3Rpay1zaGluLXRhZS15b25n",
+        "description": "PELATIH tim nasional U-16 Indonesia Bima Sakti menegaskan bahwa skuadnya tidak harus mengikuti taktik dari Shin Tae-yong, sang pembesut asal Korea Selatan yang menangani timnas U-19, U-23 dan senior&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/510983/arsenal-resmi-tunjuk-odegaard-sebagai-kapten",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMDk4My9hcnNlbmFsLXJlc21pLXR1bmp1ay1vZGVnYWFyZC1zZWJhZ2FpLWthcHRlbg==",
+        "description": "ARSENAL resmi mengumumkan Martin Odegaard sebagai kapten baru klub Liga Primer Inggrs itu. Pemain 23 tahun tersebut baru bergabung dengan The Gunners pada 2021 tetapi sudah memberi dampak besar semenjak&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/510982/senior-gmki-ajak-senior-kelompok-cipayung-kawal-legacy-jokowi-di-pemerintahan-baru",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTA5NzkvcGV2cy0yMDIyLW11bGFpLWRhcmktdGFrc2ktdGVyYmFuZy1oaW5nZ2Eta29udmVyc2ktbGlzdHJpay12ZXNwYS1sYXdhcw==",
         "description": "KETUA Umum Perkumpulan Industri Kendaraan Listrik Indonesia (Periklindo) sekaligus Kepala Staf Kepresidenan Republik Indonesia, Moeldoko, mengajak 35 murid dari Sekolah Staf Presiden (SPP) untuk berkunjung&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/510978/penonton-mulai-padati-stadion-manahan-jelang-pembukaan-apg-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTA5NzgvcGVub250b24tbXVsYWktcGFkYXRpLXN0YWRpb24tbWFuYWhhbi1qZWxhbmctcGVtYnVrYWFuLWFwZy0yMDIy",
-        "description": "RIBUAN penonton mulai memadati Stadion Manahan Solo jelang pembukaan ASEAN Para Games di Stadion Manahan, Solo, Sabtu. Dari pantauan di lokasi sekitar pukul 18.42 WIB, terlihat sejak sore hari&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/510977/ukrida-perkuat-semangat-perdamaian-di-kalangan-generasi-muda",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwOTc3L3VrcmlkYS1wZXJrdWF0LXNlbWFuZ2F0LXBlcmRhbWFpYW4tZGkta2FsYW5nYW4tZ2VuZXJhc2ktbXVkYQ==",
-        "description": "FAKULTAS Ilmu Sosial dan Humaniora, Program Studi Sastra Inggris Universitas Kristen Krida Wacana (Ukrida) menggelar seminar dan resensi film bertemakan perang dan perdamaian serta dampaknya di masyarakat&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/510976/mendag-zulkifli-hasan-temukan-harga-sembako-di-kupang-masih-tinggi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEwOTc2L21lbmRhZy16dWxraWZsaS1oYXNhbi10ZW11a2FuLWhhcmdhLXNlbWJha28tZGkta3VwYW5nLW1hc2loLXRpbmdnaQ==",
-        "description": "MENTERI Perdagangan (Mendag) Zulkifli Hasan mengecek harga bahan kebutuhan pokok pangan di Pasar Kasih, Kelurahan Naikoten 1, Kota Kupang, Nusa Tenggara Timur (NTT), Sabtu (30/7). Di pasar tersebut,&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/510975/citayam-fashion-week-scbd-dan-para-pendompleng",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTA5NzUvY2l0YXlhbS1mYXNoaW9uLXdlZWstc2NiZC1kYW4tcGFyYS1wZW5kb21wbGVuZw==",
-        "description": "Citayam Fashion Week hadir menghentak. Buah dari hasil kreativitas anak-anak wilayah pinggiran Ibu Kota yang kemudian dikenal sebagai&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/510974/spanyol-laporkan-kematian-kedua-terkait-cacar-monyet",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMDk3NC9zcGFueW9sLWxhcG9ya2FuLWtlbWF0aWFuLWtlZHVhLXRlcmthaXQtY2FjYXItbW9ueWV0",
-        "description": "SPANYOL pada Sabtu (30/7) melaporkan kematian kedua terkait cacar monyet. Laporan ini satu hari setelah mengumumkan&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/510972/edb-ourcrowd-pertemukan-startup-israel-dengan-perusahaan-besar-singapura",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTEwOTcyL2VkYi1vdXJjcm93ZC1wZXJ0ZW11a2FuLXN0YXJ0dXAtaXNyYWVsLWRlbmdhbi1wZXJ1c2FoYWFuLWJlc2FyLXNpbmdhcHVyYQ==",
-        "description": "PADA suatu acara di Tel Aviv, Economic Development Board (EDB) Singapura dan platform crowdfunding OurCrowd mempertemukan puluhan startup Israel dengan perwakilan perusahaan besar dari Negeri Singa&#8230;"
     }
 ]
