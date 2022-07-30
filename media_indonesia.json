@@ -1,5 +1,47 @@
 [
     {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/510931/hindari-konten-negatif-agar-tidak-terjerat-uu-ite",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTEwOTMxL2hpbmRhcmkta29udGVuLW5lZ2F0aWYtYWdhci10aWRhay10ZXJqZXJhdC11dS1pdGU=",
+        "description": "Saat ini masyarakat sudah masuk ke era transformasi digital. Dilatarbelakangi pandemi covid-19, segala sesuatunya yang serba online juga membawa penetrasi pengguna internet meningkat hingga mencapai&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/510926/presiden-mesir-ampuni-jurnalis-dan-peneliti-yang-dipenjara",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMDkyNi9wcmVzaWRlbi1tZXNpci1hbXB1bmktanVybmFsaXMtZGFuLXBlbmVsaXRpLXlhbmctZGlwZW5qYXJh",
+        "description": "PRESIDEN Mesir Abdel Fattah al-Sisi mengampuni delapan orang yang dijatuhi hukuman penjara, termasuk seorang jurnalis dan seorang peneliti. Seorang anggota Komite Pengampunan Presiden mengatakan itu&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/510930/komnas-ham-segera-periksa-ajudan-ferdy-sambo-yang-belum-hadir",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTA5MzAva29tbmFzLWhhbS1zZWdlcmEtcGVyaWtzYS1hanVkYW4tZmVyZHktc2FtYm8teWFuZy1iZWx1bS1oYWRpcg==",
+        "description": "KOMISI Nasional Hak Asasi Manusia (Komnas HAM) RI segera memeriksa ajudan atau aide de camp (ADC) Kadiv Propam Polri nonaktif Irjen Polisi Ferdy Sambo yang sebelumnya berhalangan hadir untuk memberikan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/510929/tujuan-bermedia-sosial-bisa-menjadi-batas-kebebasan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwOTI5L3R1anVhbi1iZXJtZWRpYS1zb3NpYWwtYmlzYS1tZW5qYWRpLWJhdGFzLWtlYmViYXNhbg==",
+        "description": "Media sosial merupakan alat untuk mencapai tujuan. Mengedukasi, personal branding/pencitraan diri, berekspresi, kepentingan institusi, hingga promosi. Tujuan-tujuan ini dapat memengaruhi cara setiap&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/510928/kebebasan-berekspresi-yang-kebablasan-jadi-tantangan-era-digital",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTEwOTI4L2tlYmViYXNhbi1iZXJla3NwcmVzaS15YW5nLWtlYmFibGFzYW4tamFkaS10YW50YW5nYW4tZXJhLWRpZ2l0YWw=",
+        "description": "Digitalisasi saat ini juga justru menjadi panggung budaya bagi orang asing, di mana informasi begitu mudah masuk karena internet. Kini ada arus kebudayaan K-Pop dari Korea Selatan masuk sebagai sesuatu&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/510922/brasil-catat-kematian-cacar-monyet-pertama-di-luar-afrika",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMDkyMi9icmFzaWwtY2F0YXQta2VtYXRpYW4tY2FjYXItbW9ueWV0LXBlcnRhbWEtZGktbHVhci1hZnJpa2E=",
+        "description": "SEORANG pria berusia 41 tahun di Brasil meninggal dunia karena cacar monyet (monkeypox). Ini menjadikannya sebagai orang pertama di luar Afrika yang meninggal oleh penyakit itu. Ini dikatakan pihak&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/510925/lawatan-jokowi-buat-kepercayaan-dunia-meningkat-terhadap-indonesia",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMDkyMy9wZXJ1c2FoYWFuLXRla25vbG9naS1tZXRhLWRhbi1jaXNjby1kaXVuZGFuZy1zZW1hcmFra2FuLXByZXNpZGVuc2ktZzIw",
         "description": "Menteri Komunikasi dan Informatika Johnny G Plate mengunjungi Cisco Systems di San Jose dan Meta di San Francisco, Amerika Serikat pada Kamis 28 (28/7) waktu setempat atau Jumat (29/07) WIB. Dalam&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/510920/komnas-ham-dalami-tidak-adanya-sambo-di-rekaman-cctv-saat-pcr",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTA5MjAva29tbmFzLWhhbS1kYWxhbWktdGlkYWstYWRhbnlhLXNhbWJvLWRpLXJla2FtYW4tY2N0di1zYWF0LXBjcg==",
-        "description": "KOMISI Nasional Hak Asasi Manusia (Komnas HAM) menerima informasi perbedaan rombongan tes polymerase chain reaction (PCR) Kadiv Propam Polri nonaktif Irjen Ferdy Sambo. Tes PCR itu dilakukan setelah&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/510919/menyusuri-rute-berbahaya-jalan-pegunungan-lumpangi-batulicin",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEwOTE5L21lbnl1c3VyaS1ydXRlLWJlcmJhaGF5YS1qYWxhbi1wZWd1bnVuZ2FuLWx1bXBhbmdpLWJhdHVsaWNpbg==",
-        "description": "HAMPARAN perkebunan kelapa sawit di kiri dan kanan ruas jalan serta deretan perbukitan karst yang berdiri kokoh seperti benteng berbalut pepohonan hutan tropis lebat menjadi pemandangan menakjubkan&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/510917/dekat-lapangan-trump-keluarga-911-kecam-acara-golf-saudi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMDkxNy9kZWthdC1sYXBhbmdhbi10cnVtcC1rZWx1YXJnYS05MTEta2VjYW0tYWNhcmEtZ29sZi1zYXVkaQ==",
-        "description": "BAGI Brett Eagleson, acara golf yang didukung Saudi pada minggu ini di Trump National menyakitinya. Acara itu hanya beberapa mil dari tempat para pembajak pesawat yang menyebabkan kematian ayah pada&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/510906/dirikan-trauma-center-radjak-hospital-gandeng-bpjs-ketenagakerjaan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwOTA2L2RpcmlrYW4tdHJhdW1hLWNlbnRlci1yYWRqYWstaG9zcGl0YWwtZ2FuZGVuZy1icGpzLWtldGVuYWdha2VyamFhbg==",
-        "description": "MANAJEMEN grup Radjak Hospital terus meningkatkan kualitas pelayanan kesehatannya dan memperluas jaringannya. Rumah Sakit Umum dr Abdul Radjak Cengkareng atau kini dikenal dengan sebutan Radjak Hospital&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/510916/sahabat-ganjar-ciptakan-bibit-muda-hackathon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTA5MTYvc2FoYWJhdC1nYW5qYXItY2lwdGFrYW4tYmliaXQtbXVkYS1oYWNrYXRob24=",
-        "description": "DAERAH Khusus Ibu Kota Jakarta menjadi tempat diselenggarakannya lomba Hackathon Sahabat Ganjar se-Jabodetabek. Setelah Kota&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/510915/pbnu-minta-penegak-hukum-jangan-ragu-usut-aliran-donasi-act",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTA5MTUvcGJudS1taW50YS1wZW5lZ2FrLWh1a3VtLWphbmdhbi1yYWd1LXVzdXQtYWxpcmFuLWRvbmFzaS1hY3Q=",
-        "description": "WAKIL Sekretaris Jenderal PBNU Rahmat Hidayat Pulungan meminta penegak hukum tidak ragu-ragu mengusut lebih jauh aliran dana ke pihak lain terkait dugaan penyelewengan donasi lembaga Aksi Cepat Tanggap&#8230;"
     }
 ]
