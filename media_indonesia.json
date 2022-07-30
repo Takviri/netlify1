@@ -1,5 +1,47 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/510995/kemenkes-peningkatan-jumlah-perokok-anak-mengkhawatirkan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwOTk1L2tlbWVua2VzLXBlbmluZ2thdGFuLWp1bWxhaC1wZXJva29rLWFuYWstbWVuZ2toYXdhdGlya2Fu",
+        "description": "PENINGKATAN jumlah perokok anak di Indonesia dinilai sudah mengkhawatirkan. Karena itu, Kementerian Kesehatan menyatakan, Peraturan Pemerintah (PP) 109/2012 tentang Pengamanan Bahan yang Mengandung&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/510991/efektivitas-85-jepang-setujui-vaksin-cacar-untuk-cegah-cacar-monyet",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMDk5MS9lZmVrdGl2aXRhcy04NS1qZXBhbmctc2V0dWp1aS12YWtzaW4tY2FjYXItdW50dWstY2VnYWgtY2FjYXItbW9ueWV0",
+        "description": "PANEL ahli di Kementerian Kesehatan Jepang menyetujui penggunaan vaksin cacar yang dibuat oleh KM Biologics Co yang berbasis di kota barat daya Kumamoto, untuk mencegah cacar monyet. Vaksin&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/510993/ngopi-bareng-masyarakat-di-lereng-merapi-ganjar-bahas-potensi-wisata",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEwOTkzL25nb3BpLWJhcmVuZy1tYXN5YXJha2F0LWRpLWxlcmVuZy1tZXJhcGktZ2FuamFyLWJhaGFzLXBvdGVuc2ktd2lzYXRh",
+        "description": "SEJUKNYA udara di Desa Samiran, Kecamatan Selo, Kabupaten Boyolali membuat Gubernur Jawa Tengah Ganjar Pranowo, betah berlama-lama di sana. Sambil menyeruput segelas kopi Selo, Ganjar menikmati suasana&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/510992/empat-korban-banjir-bandang-torue-parigi-moutong-terus-dicari",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEwOTkyL2VtcGF0LWtvcmJhbi1iYW5qaXItYmFuZGFuZy10b3J1ZS1wYXJpZ2ktbW91dG9uZy10ZXJ1cy1kaWNhcmk=",
+        "description": "TIM SAR belum menemukan dan akan terus mencari empat korban yang hilang terseret banjir bandang di Desa Torue, Kabupaten&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/510990/kemendagri-serahkan-59-akta-kematian-jemaah-haji",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwOTkwL2tlbWVuZGFncmktc2VyYWhrYW4tNTktYWt0YS1rZW1hdGlhbi1qZW1hYWgtaGFqaQ==",
+        "description": "DIREKTORAT Jenderal Kependudukan dan Pencatatan Sipil (Dukcapil) Kementerian Dalam Negeri (Kemendagri) menyerahkan 59 akta kematian jemaah haji asal Indonesia kepada pihak keluarga. &quot;Sebelumnya,&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/510989/ratusan-rumah-di-dekai-yahukimo-papua-terendam-banjir",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEwOTg5L3JhdHVzYW4tcnVtYWgtZGktZGVrYWkteWFodWtpbW8tcGFwdWEtdGVyZW5kYW0tYmFuamly",
+        "description": "SEKITAR 100 rumah warga di sekitar Distrik Dekai, Kabupaten Yahukimo, Papua, terendam banjir akibat meluapnya beberapa anak sungai. Ini terjadi setelah hujan deras yang mengguyur wilayah itu.&nbsp;&#8230;"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/510988/who-eropa-perkirakan-lebih-banyak-kematian-terkait-cacar-monyet",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTA5ODUva2Fwb2xkYS1iYW50ZW4tbWludGEtcGVyanVkaWFuLWRpc2lrYXQtaGFiaXM=",
         "description": "KEPALA Kepolisian Daerah (Kapolda) Banten Irjen Rudy Heriyanto mengintruksikan jajarannya untuk menyikat habis segala bentuk perjudian, baik judi online maupun judi konvensional. &nbsp;&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/510984/bima-sakti-tegaskan-tim-u-16-tidak-harus-ikuti-taktik-shin-tae-yong",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMDk4NC9iaW1hLXNha3RpLXRlZ2Fza2FuLXRpbS11LTE2LXRpZGFrLWhhcnVzLWlrdXRpLXRha3Rpay1zaGluLXRhZS15b25n",
-        "description": "PELATIH tim nasional U-16 Indonesia Bima Sakti menegaskan bahwa skuadnya tidak harus mengikuti taktik dari Shin Tae-yong, sang pembesut asal Korea Selatan yang menangani timnas U-19, U-23 dan senior&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/510983/arsenal-resmi-tunjuk-odegaard-sebagai-kapten",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMDk4My9hcnNlbmFsLXJlc21pLXR1bmp1ay1vZGVnYWFyZC1zZWJhZ2FpLWthcHRlbg==",
-        "description": "ARSENAL resmi mengumumkan Martin Odegaard sebagai kapten baru klub Liga Primer Inggrs itu. Pemain 23 tahun tersebut baru bergabung dengan The Gunners pada 2021 tetapi sudah memberi dampak besar semenjak&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/510982/senior-gmki-ajak-senior-kelompok-cipayung-kawal-legacy-jokowi-di-pemerintahan-baru",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTA5ODIvc2VuaW9yLWdta2ktYWphay1zZW5pb3Ita2Vsb21wb2stY2lwYXl1bmcta2F3YWwtbGVnYWN5LWpva293aS1kaS1wZW1lcmludGFoYW4tYmFydQ==",
-        "description": "Sepuluh tahun pembangunan yang dilakukan di era Presiden Joko Widodo harus dijaga dan dilanjutkan dengan baik. Sangat mahal harganya&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/510981/sirkuit-jotosanur-lamongan-tuan-rumah-kejurnas-motocross-seri-1",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTA5ODEvc2lya3VpdC1qb3Rvc2FudXItbGFtb25nYW4tdHVhbi1ydW1haC1rZWp1cm5hcy1tb3RvY3Jvc3Mtc2VyaS0x",
-        "description": "SIRKUIT Jotosanur, Lamongan, Jawa Timur akan menjadi arena Kejuaraan Nasional (Kejurnas) Motocross seri 1 pada 6-7 Agustus mendatang. Sirkuit yang diresmikan Bupati Lamongan Yuhronur Efendi di ini&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/510980/lg-elektronik-siap-relokasi-pabrik-ke-indonesia-dan-investasi-di-ikn",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDk4MC9sZy1lbGVrdHJvbmlrLXNpYXAtcmVsb2thc2ktcGFicmlrLWtlLWluZG9uZXNpYS1kYW4taW52ZXN0YXNpLWRpLWlrbg==",
-        "description": "MENTERI Investasi/Kepala Badan Koordinasi Penanaman Modal (BKPM) Bahlil Lahadalia mendampingi Presiden Joko Widodo melakukan pertemuan dengan Vice Chairman/CEO LG Corporation Brian Kwon di sela kunjungan&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/510979/pevs-2022-mulai-dari-taksi-terbang-hingga-konversi-listrik-vespa-lawas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTA5NzkvcGV2cy0yMDIyLW11bGFpLWRhcmktdGFrc2ktdGVyYmFuZy1oaW5nZ2Eta29udmVyc2ktbGlzdHJpay12ZXNwYS1sYXdhcw==",
-        "description": "KETUA Umum Perkumpulan Industri Kendaraan Listrik Indonesia (Periklindo) sekaligus Kepala Staf Kepresidenan Republik Indonesia, Moeldoko, mengajak 35 murid dari Sekolah Staf Presiden (SPP) untuk berkunjung&#8230;"
     }
 ]
