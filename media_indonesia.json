@@ -1,5 +1,19 @@
 [
     {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/511029/kebebasan-berpendapat-di-dunia-digital-tetap-harus-patuhi-etika",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExMDI5L2tlYmViYXNhbi1iZXJwZW5kYXBhdC1kaS1kdW5pYS1kaWdpdGFsLXRldGFwLWhhcnVzLXBhdHVoaS1ldGlrYQ==",
+        "description": "KEBEBASAN berpendapat, termasuk di dunia digital, memang dilindungi oleh undang-undang. Namun, kebebasan tersebut tetap memiliki batas dan harus dalam koridor berdasar norma hukum berlaku.&nbsp;&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/511028/apsf-apg-2022-momentum-perbaharui-solidaritas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTEwMjgvYXBzZi1hcGctMjAyMi1tb21lbnR1bS1wZXJiYWhhcnVpLXNvbGlkYXJpdGFz",
+        "description": "PRESIDEN ASEAN Para Sports Federation (APSF) Osoth Bhavilai menyatakan ajang olahraga difabel Asia Tenggara ke-11 (APG) 2022 di Solo menjadi momentum untuk memperbaharui solidaritas dan persahabatan.&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/511027/korban-meninggal-odong-odong-maut-di-serang-bertambah",
         "image": "static/images/media_indonesia.png",
@@ -22,10 +36,10 @@
     },
     {
         "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/511023/aeon-fantasy-indonesia-resmikan-arena-bermain-kidzoona-terbesar-di-grand-indonesia",
+        "link": "https://m.mediaindonesia.com/hiburan/511023/aeon-fantasy-indonesia-resmikan-arena-bermain-kidzooona-terbesar-di-grand-indonesia",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMTAyMy9hZW9uLWZhbnRhc3ktaW5kb25lc2lhLXJlc21pa2FuLWFyZW5hLWJlcm1haW4ta2lkem9vbmEtdGVyYmVzYXItZGktZ3JhbmQtaW5kb25lc2lh",
-        "description": "PT AEON Fantasy Indonesia kembali membuka gerai indoor playground (tempat bermain anak-anak), Kidzoona terbaru. Kali ini, West Mall Grand Indonesia menjadi tempat baru bagi Kidzoona yang diresmikan&#8230;"
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMTAyMy9hZW9uLWZhbnRhc3ktaW5kb25lc2lhLXJlc21pa2FuLWFyZW5hLWJlcm1haW4ta2lkem9vb25hLXRlcmJlc2FyLWRpLWdyYW5kLWluZG9uZXNpYQ==",
+        "description": "PT AEON Fantasy Indonesia kembali membuka gerai indoor playground (tempat bermain anak-anak), Kidzooona terbaru. Kali ini, West Mall Grand Indonesia menjadi tempat baru bagi Kidzooona yang diresmikan&#8230;"
     },
     {
         "title": "Olahraga",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExMDE5L3NlbHVsYXItYXdhcmQtMjAyMi1kaWhhcmFwa2FuLWphZGktbW9tZW4ta2ViYW5na2l0YW4taW5kdXN0cmktdGVsZWtvbXVuaWthc2ktZGFuLXRla25vbG9naQ==",
         "description": "SEJAK beberapa tahun terakhir industri telekomunikasi dan digital business menghadapi dinamika persaingan yang semakin ketat. Pandemi Covid-19 yang merebak pada awal 2020 juga semakin memperkuat tekanan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511018/kasus-positif-covid-19-di-indonesia-bertambah-5398",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMDE4L2thc3VzLXBvc2l0aWYtY292aWQtMTktZGktaW5kb25lc2lhLWJlcnRhbWJhaC01Mzk4",
-        "description": "KASUS positif Covid-19 di Indonesia mengalami tambahan sebanyak 5.398 orang pada Sabtu (30/7) sehingga total kasus hingga saat ini mencapai 6.202.893 orang. Berdasarkan data Satuan Tugas (Satgas)&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511017/getol-dorong-toleransi-boy-rafli-dianugerahi-gelar-pangeran-sentana",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMDE3L2dldG9sLWRvcm9uZy10b2xlcmFuc2ktYm95LXJhZmxpLWRpYW51Z2VyYWhpLWdlbGFyLXBhbmdlcmFuLXNlbnRhbmE=",
-        "description": "KEPALA BNPT Komjen Boy Rafli Amar memperoleh gelar kehormatan &ldquo;Pangeran Sentana&rdquo; dari Keraton Kasunanan Surakarta Hadiningrat. Kini Kepala BNPT tersebut menyandang sebutan sebagai Kanjeng&#8230;"
     }
 ]
