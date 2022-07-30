@@ -1,6 +1,41 @@
 [
     {
         "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/510891/komisi-ix-ingatkan-booster-kedua-jangan-mengganggu-target-booster-pertama",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTA4OTEva29taXNpLWl4LWluZ2F0a2FuLWJvb3N0ZXIta2VkdWEtamFuZ2FuLW1lbmdnYW5nZ3UtdGFyZ2V0LWJvb3N0ZXItcGVydGFtYQ==",
+        "description": "DPR RI menyetujui dan menyambut positif aturan baru vaksin covid-19 booster kedua atau vaksin dosis keempat untuk para tenaga kesehatan. Hal itu diungkapkan oleh anggota komisi IX DPR RI Rahmad Handoyo.&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/510897/pisang-dan-salmon-turunkan-risiko-stroke-pada-wanita",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMDg5Ny9waXNhbmctZGFuLXNhbG1vbi10dXJ1bmthbi1yaXNpa28tc3Ryb2tlLXBhZGEtd2FuaXRh",
+        "description": "MAKANAN yang kaya akan kandungan potasium seperti pisang, salmon, dan aplukat terbukti dapat menurunkan risiko penyakit akibat konsumsi garam yang berlebihan pada wanita. Hal itu diketahui dari hasil&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/510896/elon-musk-balas-gugatan-twitter",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMDg5Ni9lbG9uLW11c2stYmFsYXMtZ3VnYXRhbi10d2l0dGVy",
+        "description": "Elon Musk secara tertutup membalas gugatan Twitter Inc soal rencananya ingin mundur dari kesepakatan pembelian Twitter senilai US$44 miliar. Reuters, dikutip Sabtu (30/7), melaporkan gugatan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/510895/tiga-mahasiswa-meraih-dexa-award-science-scholarship-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwODk1L3RpZ2EtbWFoYXNpc3dhLW1lcmFpaC1kZXhhLWF3YXJkLXNjaWVuY2Utc2Nob2xhcnNoaXAtMjAyMg==",
+        "description": "PEMERINTAH&nbsp;terus mendorong ketahanan dan kemandirian industri kesehatan di Indonesia, di tengah ketergantungan impor bahan baku obat dalam negeri yang mencapai 90% dan belanja kesehatan yang masih&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/510893/komnas-ham-pemeriksaan-siber-dan-digital-forensik-kasus-tewasnya-brigadir-j-dilanjutkan-pekan-depan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTA4OTMva29tbmFzLWhhbS1wZW1lcmlrc2Fhbi1zaWJlci1kYW4tZGlnaXRhbC1mb3JlbnNpay1rYXN1cy10ZXdhc255YS1icmlnYWRpci1qLWRpbGFuanV0a2FuLXBla2FuLWRlcGFu",
+        "description": "Komisi Nasional (Komnas) Hak Asasi Manusia (HAM) pekan depan akan menggelar kembali pemeriksaan siber dan digital forensik atas kasus penembakan Nofriansyah Yosua Hutabarat atau Brigadir J yang diduga&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/510876/satgas-waspada-investasi-temukan-10-entitas-investasi-tanpa-izin-pada-juni-2022",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTA4NzYvc2F0Z2FzLXdhc3BhZGEtaW52ZXN0YXNpLXRlbXVrYW4tMTAtZW50aXRhcy1pbnZlc3Rhc2ktdGFucGEtaXppbi1wYWRhLWp1bmktMjAyMg==",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDg4OC9kcHItbWludGEtcGVycHJlcy1iYm0taGFydXMtcGVyYmFpa2ktZGlzdHJpYnVzaS1iYm0tYmVyc3Vic2lkaQ==",
         "description": "MENYUSUL&nbsp;revisi Perpres No.191/2014 yang mengatur BBM bersubsidi, diharapkan distribusi BBM bersubsidi kian membaik, sehingga tepat sasaran. BBM bersubsidi sangat terbatas volumenya, sehingga&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/510887/sandiaga-siap-bantu-pelaku-ekraf-subsektor-musik-manado-daftarkan-haki",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMDg4Ny9zYW5kaWFnYS1zaWFwLWJhbnR1LXBlbGFrdS1la3JhZi1zdWJzZWt0b3ItbXVzaWstbWFuYWRvLWRhZnRhcmthbi1oYWtp",
-        "description": "WORKSHOP Pengembangan Kabupaten/Kota (KaTa) Kreatif Indonesia 2022 menyambangi Kota Manado, Sulawesi Utara. Manado menjadi kota ke-24 penyelenggaraan program Kementerian Pariwisata dan Ekonomi&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/510874/tinjau-venue-para-panahan-menpora-semua-sudah-oke-dan-layak-digunakan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTA4NzQvdGluamF1LXZlbnVlLXBhcmEtcGFuYWhhbi1tZW5wb3JhLXNlbXVhLXN1ZGFoLW9rZS1kYW4tbGF5YWstZGlndW5ha2Fu",
-        "description": "Menteri Pemuda dan Olahraga Republik Indonesia (Menpora RI) Zainudin Amali, meninjau langsung venue para panahan ASEAN Para Games Solo (APG) 2022 di Lapangan Kottabarat, Jumat (29/7). Selain&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/510886/bakal-ada-banyak-atraksi-unik-di-upacara-pembukaan-asean-paragames-solo-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTA4ODYvYmFrYWwtYWRhLWJhbnlhay1hdHJha3NpLXVuaWstZGktdXBhY2FyYS1wZW1idWthYW4tYXNlYW4tcGFyYWdhbWVzLXNvbG8tMjAyMg==",
-        "description": "Gaung kemeriahan pesta pembukaan (opening ceremony) ASEAN Paragames Solo 2022, bakal menggema dari Stadion Manahan Solo, Sabtu 30 Juli. Berbagai atraksi menarik telah dipersiapkan. Konsepnya pun terbilang&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/510885/dede-yusuf-minta-jis-beri-standar-ganda-dalam-bangun-pagar-pembatas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTA4ODUvZGVkZS15dXN1Zi1taW50YS1qaXMtYmVyaS1zdGFuZGFyLWdhbmRhLWRhbGFtLWJhbmd1bi1wYWdhci1wZW1iYXRhcw==",
-        "description": "BELUM lama ini diberitakan terjadi insiden robohnya pagar pembatas di Jakarta International Stadium (JIS), di Jakarta Utara, pada Minggu (24/7/2022). Menanggapi hal tersebut, Wakil Ketua Komisi&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/510883/jokowi-panggil-puluhan-relawan-ke-istana-untuk-serap-aspirasi-masyarakat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwODgzL2pva293aS1wYW5nZ2lsLXB1bHVoYW4tcmVsYXdhbi1rZS1pc3RhbmEtdW50dWstc2VyYXAtYXNwaXJhc2ktbWFzeWFyYWthdA==",
-        "description": "PRESIDEN Joko Widodo atau Jokowi mengumpulkan puluhan Ormas pendukungnya di Istana Bogor, kemarin. Mereka yang diundang adalah ormas yang mendukung Jokowi pada pilpres 2019 lalu, diantara yang hadir&#8230;"
     }
 ]
