@@ -1,9 +1,23 @@
 [
     {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/510968/as-jatuhkan-hukuman-penjara-seumur-hidup-warga-kanada-anggota-isis",
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/510972/edb-ourcrowd-pertemukan-startup-israel-dengan-perusahaan-besar-singapura",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMDk2OC9hcy1qYXR1aGthbi1odWt1bWFuLXBlbmphcmEtc2V1bXVyLWhpZHVwLXdhcmdhLWthbmFkYS1hbmdnb3RhLWlzaXM=",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTEwOTcyL2VkYi1vdXJjcm93ZC1wZXJ0ZW11a2FuLXN0YXJ0dXAtaXNyYWVsLWRlbmdhbi1wZXJ1c2FoYWFuLWJlc2FyLXNpbmdhcHVyYQ==",
+        "description": "PADA suatu acara di Tel Aviv, Economic Development Board (EDB) Singapura dan platform crowdfunding OurCrowd mempertemukan puluhan startup Israel dengan perwakilan perusahaan besar dari Negeri Singa&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/510973/registrasi-kendaraan-bbm-bersubsidi-bentor-dapat-perlakuan-khusus",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEwOTczL3JlZ2lzdHJhc2kta2VuZGFyYWFuLWJibS1iZXJzdWJzaWRpLWJlbnRvci1kYXBhdC1wZXJsYWt1YW4ta2h1c3Vz",
+        "description": "PERTAMINA Patra Niaga akan memberi perlakuan khusus terhadap kendaraan-kendaraan komersil khas Sumut yang mengalami kesulitan melakukan registrasi penggunaan BBM bersubsidi karena kendala dokumen.&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/510968/as-hukum-warga-kanada-anggota-isis-penjara-seumur-hidup",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMDk2OC9hcy1odWt1bS13YXJnYS1rYW5hZGEtYW5nZ290YS1pc2lzLXBlbmphcmEtc2V1bXVyLWhpZHVw",
         "description": "SEORANG jihadis Kanada yang didakwa sebagai pemain kunci dalam produksi propaganda kelompok ISIS dan menerbitkan beberapa video kekerasan dijatuhi hukuman penjara seumur hidup pada Jumat (29/7). Ini&#8230;"
     },
     {
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMDk2My9ndWFyZGlvbGEtcGVuanVhbGFuLXBlbWFpbi11bnR1ay1rZWJlcmxhbmdzdW5nYW4ta2x1Yg==",
         "description": "MANAJER Manchester City Pep Guardiola mengatakan ia sedih dengan kepergian Gabriel Jesus, Oleksandr Zinchenko dan Raheem Sterling namun pendapatan yang dihasilkan dari transfer mereka telah menyumbang&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/510962/erick-thohir-dinilai-berpotensi-raih-tiket-pilpres",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTA5NjIvZXJpY2stdGhvaGlyLWRpbmlsYWktYmVycG90ZW5zaS1yYWloLXRpa2V0LXBpbHByZXM=",
-        "description": "MENTERI BUMN disebut-sebut masuk dalam radar rekomendasi Partai Amanat Nasional (PAN). Wakil Ketua Umum PAN Yandri Susanto mengatakan Erick didorong mayaritas kader dari daerah. &ldquo;Pemilu&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/510960/jeje-gembira-citayam-fashion-week-boleh-digelar-saat-car-free-day",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTA5NjAvamVqZS1nZW1iaXJhLWNpdGF5YW0tZmFzaGlvbi13ZWVrLWJvbGVoLWRpZ2VsYXItc2FhdC1jYXItZnJlZS1kYXk=",
-        "description": "KREATOR konten Jasmine Laticia yang akrab disapa Jeje Slebew mengutarakan dirinya setuju dengan usulan Wakil Gubernur DKI Jakarta Ariza Patria agar Citayam Fashion Week (CFW) bisa dilaksanakan di Hari&#8230;"
     }
 ]
