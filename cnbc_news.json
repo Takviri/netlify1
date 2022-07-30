@@ -1,5 +1,19 @@
 [
     {
+        "title": "Jangan Diremehkan! Kematian Covid-19 RI Ada di Atas 10 Kasus",
+        "link": "https://www.cnbcindonesia.com/news/20220730081723-4-359780/jangan-diremehkan-kematian-covid-19-ri-ada-di-atas-10-kasus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDczMDA4MTcyMy00LTM1OTc4MC9qYW5nYW4tZGlyZW1laGthbi1rZW1hdGlhbi1jb3ZpZC0xOS1yaS1hZGEtZGktYXRhcy0xMC1rYXN1cw==",
+        "description": " Berikut perkembangan kasus Covid-19 di Indonesia selama satu minggu terakhir."
+    },
+    {
+        "title": "Ngeri! Muncul Kematian Cacar Monyet Pertama di Luar Afrika",
+        "link": "https://www.cnbcindonesia.com/news/20220730080655-4-359778/ngeri-muncul-kematian-cacar-monyet-pertama-di-luar-afrika",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDczMDA4MDY1NS00LTM1OTc3OC9uZ2VyaS1tdW5jdWwta2VtYXRpYW4tY2FjYXItbW9ueWV0LXBlcnRhbWEtZGktbHVhci1hZnJpa2E=",
+        "description": " Pasien tersebut dirawat di Kota Belo Horizonte. Dilaporkan dia meninggal saat dibawa ke ICU akibat septic shock."
+    },
+    {
         "title": "Xi Jinping: Salah Besar Jika AS Anggap China Sebagai Lawan",
         "link": "https://www.cnbcindonesia.com/news/20220730074711-4-359777/xi-jinping-salah-besar-jika-as-anggap-china-sebagai-lawan",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE5MTMwNi00LTM1OTc1OS9wdXRpbi14aS1qaW5waW5nLWtpYW4tbWVzcmEtcnVzaWEtZHVrdW5nLWNoaW5hLXNvYWwtdGFpd2Fu",
         "description": " Pemerintah Rusia kembali menyuarakan dukungannya terhadap prinsip Satu China dalam konflik Taiwan."
-    },
-    {
-        "title": "Jokowi Angkat Bicara Soal Tarif TN Komodo Rp 3,75 Juta",
-        "link": "https://www.cnbcindonesia.com/news/20220729192652-4-359760/jokowi-angkat-bicara-soal-tarif-tn-komodo-rp-375-juta",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE5MjY1Mi00LTM1OTc2MC9qb2tvd2ktYW5na2F0LWJpY2FyYS1zb2FsLXRhcmlmLXRuLWtvbW9kby1ycC0zNzUtanV0YQ==",
-        "description": " Presiden Joko Widodo telah buka suara terkait polemik kenaikan harga tarif masuk Taman Nasional Komodo menjadi Rp 3,75 juta."
-    },
-    {
-        "title": "'Oleh-oleh' Investasi Jokowi Hingga AS Masuk Jurang Resesi",
-        "link": "https://www.cnbcindonesia.com/news/20220729180928-8-359748/oleh-oleh-investasi-jokowi-hingga-as-masuk-jurang-resesi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTE4MDkyOC04LTM1OTc0OC9vbGVoLW9sZWgtaW52ZXN0YXNpLWpva293aS1oaW5nZ2EtYXMtbWFzdWstanVyYW5nLXJlc2VzaQ==",
-        "description": " Joko Widodo membawa oleh-oleh dari tiga negara di kawasan Asia Timur hingga ekonomi negeri paman sam sedang tidak baik-baik saja"
     }
 ]
