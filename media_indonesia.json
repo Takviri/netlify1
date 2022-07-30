@@ -1,6 +1,20 @@
 [
     {
         "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/511038/jon-bodo-amal-kemanusiaan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMTAzOC9qb24tYm9kby1hbWFsLWtlbWFudXNpYWFu",
+        "description": "JON, mau donasi gak ???"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/511037/bung-sentil-drakor-abal-abal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMTAzNy9idW5nLXNlbnRpbC1kcmFrb3ItYWJhbC1hYmFs",
+        "description": "BUNG tahu nggak..kantor-kantor polisi tuh udah kayak Hollywood. Studio alam tempat bikin film terluas setiap sudut full drama."
+    },
+    {
+        "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/511042/cepy-triandrijaya-pengabdian-untuk-keselamatan-penerbangan",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMTA0Mi9jZXB5LXRyaWFuZHJpamF5YS1wZW5nYWJkaWFuLXVudHVrLWtlc2VsYW1hdGFuLXBlbmVyYmFuZ2Fu",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTEwMzMvcnVzc2VsbC1yZWJ1dC1wb2xlLXBvc2l0aW9uLWdwLWh1bmdhcmlh",
         "description": "PEMBALAP Mercedes, George Russell tampil mengesankan dalam kualifikasi balap Formula 1 GP Hungaria, Sabtu (30/7) dengan menjadi yang tercepat. Ini menjadi pole position pertama Russel di Formula 1.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511030/alami-dan-dompet-dhuafa-bangun-sumur-wakaf-untuk-masyarakat-bantuas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMDMwL2FsYW1pLWRhbi1kb21wZXQtZGh1YWZhLWJhbmd1bi1zdW11ci13YWthZi11bnR1ay1tYXN5YXJha2F0LWJhbnR1YXM=",
-        "description": "SALAH satu upaya mendukung salah satu sustainable development goals (SDGs) atau tujuan pembangunan berkelanjutan, yaitu menjamin ketersediaan serta pengelolaan air bersih dan sanitasi yang&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511032/nasdem-dan-ppi-dunia-berkomitmen-menjadi-inisiator-ruu-perlindungan-pelajar-di-luar-negeri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMDMyL25hc2RlbS1kYW4tcHBpLWR1bmlhLWJlcmtvbWl0bWVuLW1lbmphZGktaW5pc2lhdG9yLXJ1dS1wZXJsaW5kdW5nYW4tcGVsYWphci1kaS1sdWFyLW5lZ2VyaQ==",
-        "description": "SEBAGAI wadah organisasi pelajar Indonesia terbesar di luar negeri, PPI Dunia sedang memperjuangkan RUU Perlindungan Pelajar Indonesia (RUU PPI) agar bisa masuk prioritas dalam pembahasan di DPR RI.&#8230;"
     }
 ]
