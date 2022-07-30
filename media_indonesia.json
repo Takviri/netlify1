@@ -1,5 +1,61 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/511020/indonesia-dan-korsel-lanjutkan-kerja-sama-teknis-pemindahan-ibukota-dan-pembangunan-ikn-nusantara",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTAyMC9pbmRvbmVzaWEtZGFuLWtvcnNlbC1sYW5qdXRrYW4ta2VyamEtc2FtYS10ZWtuaXMtcGVtaW5kYWhhbi1pYnVrb3RhLWRhbi1wZW1iYW5ndW5hbi1pa24tbnVzYW50YXJh",
+        "description": "PEMERINTAH Indonesia melalui Kementerian Pekerjaan Umum dan Perumahan Rakyat (PUPR) memperkuat kerja sama dengan Korea Selatan yang ditandai dengan perpanjangan Memorandum of Understanding (MoU) Kerja&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/511019/selular-award-2022-diharapkan-jadi-momen-kebangkitan-industri-telekomunikasi-dan-teknologi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExMDE5L3NlbHVsYXItYXdhcmQtMjAyMi1kaWhhcmFwa2FuLWphZGktbW9tZW4ta2ViYW5na2l0YW4taW5kdXN0cmktdGVsZWtvbXVuaWthc2ktZGFuLXRla25vbG9naQ==",
+        "description": "SEJAK beberapa tahun terakhir industri telekomunikasi dan digital business menghadapi dinamika persaingan yang semakin ketat. Pandemi Covid-19 yang merebak pada awal 2020 juga semakin memperkuat tekanan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511018/kasus-positif-covid-19-di-indonesia-bertambah-5398",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMDE4L2thc3VzLXBvc2l0aWYtY292aWQtMTktZGktaW5kb25lc2lhLWJlcnRhbWJhaC01Mzk4",
+        "description": "KASUS positif Covid-19 di Indonesia mengalami tambahan sebanyak 5.398 orang pada Sabtu (30/7) sehingga total kasus hingga saat ini mencapai 6.202.893 orang. Berdasarkan data Satuan Tugas (Satgas)&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/511017/getol-dorong-toleransi-boy-rafli-dianugerahi-gelar-pangeran-sentana",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMDE3L2dldG9sLWRvcm9uZy10b2xlcmFuc2ktYm95LXJhZmxpLWRpYW51Z2VyYWhpLWdlbGFyLXBhbmdlcmFuLXNlbnRhbmE=",
+        "description": "KEPALA BNPT Komjen Boy Rafli Amar memperoleh gelar kehormatan &ldquo;Pangeran Sentana&rdquo; dari Keraton Kasunanan Surakarta Hadiningrat. Kini Kepala BNPT tersebut menyandang sebutan sebagai Kanjeng&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/511016/13-juta-pelaku-umkm-mendapat-nomor-induk-berusaha",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTAxNi8xMy1qdXRhLXBlbGFrdS11bWttLW1lbmRhcGF0LW5vbW9yLWluZHVrLWJlcnVzYWhh",
+        "description": "KETUA Tim Monitoring dan Evaluasi (Monev) Undang-Undang Cipta Kerja (UUCK) Kantor Staf Presiden Edy Priyono mengatakan sebanyak 1,3 juta pelaku usaha mikro, kecil dan menengah telah mendapatkan nomor&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/511015/djokovic-masih-berharap-bisa-tampil-di-as-terbuka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTEwMTUvZGpva292aWMtbWFzaWgtYmVyaGFyYXAtYmlzYS10YW1waWwtZGktYXMtdGVyYnVrYQ==",
+        "description": "NOVAK Djokovic menyatakan tetap mempersiapkan diri untuk menghadapi grand slam AS Terbuka 2022. Padahal, petenis Serbia itu belum mendapat lampu hijau untuk tampil di turnamen lapangan keras tersebut&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/511005/israel-cabut-izin-permanen-enam-sekolah-palestina-di-jerusalem",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMTAwNS9pc3JhZWwtY2FidXQtaXppbi1wZXJtYW5lbi1lbmFtLXNla29sYWgtcGFsZXN0aW5hLWRpLWplcnVzYWxlbQ==",
+        "description": "PIHAK berwenang Israel pada Kamis (28/7) mencabut izin permanen yang diberikan kepada enam sekolah Palestina&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/511014/astra-toyota-bentuk-perusahaan-patungan-penyewaan-kendaraan-komersial",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTAxNC9hc3RyYS10b3lvdGEtYmVudHVrLXBlcnVzYWhhYW4tcGF0dW5nYW4tcGVueWV3YWFuLWtlbmRhcmFhbi1rb21lcnNpYWw=",
+        "description": "PEMULIHAN perekonomian nasional menunjukkan potensi pasar pada sektor transportasi dan logistik. Berdasarkan data Badan Pusat Statistik (BPS), salah satu pendorong pemulihan pertumbuhan ekonomi nasional&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/511013/kapolda-banten-ajak-alumni-unila-beri-kontribusi-optimal-bagi-negara",
         "image": "static/images/media_indonesia.png",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMDAwL2tlbWVuZGlrYnVkLXJpc3Rlay10ZXJiaXRrYW4tc2UtdGVudGFuZy1kaXNrcmVzaS1wZWxha3NhbmFhbi1wdG0tdGVya2luaQ==",
         "description": "KEMENTERIAN Pendidikan, Kebudayaan, Riset dan Teknologi (Kemendikbud-Ristek) mengeluarkan Surat Edaran (SE) terbaru terkait penyelenggaraan Pembelajaran Tatap Muka (PTM) di masa pandemi Covid-19. SE&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/511011/pengacara-kepala-brigadir-j-ditembak-dari-belakang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTEwMTEvcGVuZ2FjYXJhLWtlcGFsYS1icmlnYWRpci1qLWRpdGVtYmFrLWRhcmktYmVsYWthbmc=",
-        "description": "PENGACARA keluarga Brigadir Nofriansyah Yosua Hutabarat atau Brigadir J, Komarudin Simanjuntak mengungkap beberapa temuan baru dari hasil otopsi kedua jenazah Brigadir J yang meninggal di kediaman&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/511010/pasar-rumah-di-atas-rp1-miliar-tetap-potensial",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTAxMC9wYXNhci1ydW1haC1kaS1hdGFzLXJwMS1taWxpYXItdGV0YXAtcG90ZW5zaWFs",
-        "description": "PASAR perumahan premium dengan harga di atas Rp1 miliar tetap tinggi peminat di masa pemulihan ekonomi saat ini. Dengan tingginya peminat ini, banyak pengembang merilis klaster-klaster premium.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511009/unbraw-dan-up-kerja-sama-dukung-program-merdeka-belajar-kampus-merdeka",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMDA5L3VuYnJhdy1kYW4tdXAta2VyamEtc2FtYS1kdWt1bmctcHJvZ3JhbS1tZXJkZWthLWJlbGFqYXIta2FtcHVzLW1lcmRla2E=",
-        "description": "FAKULTAS Psikologi Universitas Pancasila menandatangani Memorandum of Understanding&nbsp;(MoU) dengan Fakultas Ilmu Sosial dan Ilmu Politik (FISIP)&nbsp;Universitas Brawijaya (Unbraw) secara&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/510997/kemenag-50-jemaah-haji-telah-tiba-di-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEwOTk3L2tlbWVuYWctNTAtamVtYWFoLWhhamktdGVsYWgtdGliYS1kaS1pbmRvbmVzaWE=",
-        "description": "MUSIM haji 1443 H/2022 M memasuki fase pemulangan jemaah haji gelombang kedua dari Madinah menuju Indonesia. Fase pemulangan jemaah haji gelombang pertama dari Jeddah sudah berakhir. &quot;Tercatat&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/511008/pengacara-sebut-brigadir-yosua-sempat-pakai-parfum-istri-ferdy-sambo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTEwMDgvcGVuZ2FjYXJhLXNlYnV0LWJyaWdhZGlyLXlvc3VhLXNlbXBhdC1wYWthaS1wYXJmdW0taXN0cmktZmVyZHktc2FtYm8=",
-        "description": "PENGACARA keluarga Irjen Ferdy Sambo, Arman Hanis, menyebut Brigadir Nofryansah Yosua atau Brigadir J pernah mengenakan parfum milik istri Ferdy. Hal itu diketahui setelah dirinya mewawancarai ajudan&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/511006/inilah-hal-hal-yang-termasuk-dalam-etika-berinternet",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExMDA2L2luaWxhaC1oYWwtaGFsLXlhbmctdGVybWFzdWstZGFsYW0tZXRpa2EtYmVyaW50ZXJuZXQ=",
-        "description": "Interaksi di ruang digital dengan perbedaan kultural membawa komunikasi antar budaya yang melahirkan standart baru tentang etika. Dengan media digital, warganet juga berpartisipasi serta membangun&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/511007/modernland-raih-3-penghargaan-di-hcre-award-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTAwNy9tb2Rlcm5sYW5kLXJhaWgtMy1wZW5naGFyZ2Fhbi1kaS1oY3JlLWF3YXJkLTIwMjI=",
-        "description": "PT Modernland Realty Tbk berhasil membawa pulang tiga penghargaan sekaligus dalam Human Capital on Resilience Excellence Award (HCREA) 2022 yang digelar di Bandung, Jawa Barat, Jumat&nbsp;&nbsp;(29/7).&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/511004/menerapkan-etika-digital-perlu-mawas-diri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExMDA0L21lbmVyYXBrYW4tZXRpa2EtZGlnaXRhbC1wZXJsdS1tYXdhcy1kaXJp",
-        "description": "Netizen Indonesia seharusnya tidak akan kesulitan menerapkan etika bermedia digital. Tata krama berinternet tidak berbeda dengan tata krama di dunia nyata. Setiap orang hanya perlu mawas diri dan merefleksikan&#8230;"
     }
 ]
