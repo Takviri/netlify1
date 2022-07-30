@@ -1,5 +1,12 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/511024/akhir-pandemi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTEwMjQvYWtoaXItcGFuZGVtaQ==",
+        "description": "SETELAH sempat melandai, kasus covid-19 di Indonesia melonjak lagi. Berdasarkan laporan Satgas Penanganan Covid-19, pada Jumat (29/7) ada total tambahan kasus positif sebanyak 5.831 orang. Dari angka&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/511036/timnas-bidik-kemenangan-di-laga-perdana-piala-aff-u-16",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTEwMjgvYXBzZi1hcGctMjAyMi1tb21lbnR1bS1wZXJiYWhhcnVpLXNvbGlkYXJpdGFz",
         "description": "PRESIDEN ASEAN Para Sports Federation (APSF) Osoth Bhavilai menyatakan ajang olahraga difabel Asia Tenggara ke-11 (APG) 2022 di Solo menjadi momentum untuk memperbaharui solidaritas dan persahabatan.&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511027/korban-meninggal-odong-odong-maut-di-serang-bertambah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMDI3L2tvcmJhbi1tZW5pbmdnYWwtb2Rvbmctb2RvbmctbWF1dC1kaS1zZXJhbmctYmVydGFtYmFo",
-        "description": "KORBAN tewas dalam peristiwa odong-odong yang tertabrak kereta di perlintasan tanpa palang pintu di Desa Silebu Kragilan Kabupaten Serang, Selasa (26/7), bertambah satu. Korban meninggal di Rumah Sakit&#8230;"
     }
 ]
