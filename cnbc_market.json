@@ -1,5 +1,12 @@
 [
     {
+        "title": "Tren Pergerakan IHSG Sepekan",
+        "link": "https://www.cnbcindonesia.com/market/20220730115913-20-359799/tren-pergerakan-ihsg-sepekan",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzMwMTE1OTEzLTIwLTM1OTc5OS90cmVuLXBlcmdlcmFrYW4taWhzZy1zZXBla2Fu",
+        "description": " Hal ini salah satunya ditopang oleh kinerja emiten yang tumbuh signifikan, khususnya emiten perbankan raksasa."
+    },
+    {
         "title": "BUMI Tunjuk Direksi Baru, Perwakilan Dari CDB dan CIC",
         "link": "https://www.cnbcindonesia.com/market/20220730115833-17-359800/bumi-tunjuk-direksi-baru-perwakilan-dari-cdb-dan-cic",
         "image": "static/images/cnbc_market.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzMwMDcwMjE3LTE3LTM1OTc3Ni9jZWstNS1idW1uLWluaS1iZXJpa2FuLWdhamktZmFudGFzdGlzLWJ1YXQtZnJlc2gtZ3JhZHVhdGU=",
         "description": " Bagi kamu yang baru lulus dan mencari pekerjaan, berikut sejumlah BUMN yang menawarkan gaji besar untuk fresh graduate."
-    },
-    {
-        "title": "Terdampak Perang, Laba Garuda Food Turun 8% Jadi Rp 213,61 M",
-        "link": "https://www.cnbcindonesia.com/market/20220730022119-17-359773/terdampak-perang-laba-garuda-food-turun-8-jadi-rp-21361-m",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzMwMDIyMTE5LTE3LTM1OTc3My90ZXJkYW1wYWstcGVyYW5nLWxhYmEtZ2FydWRhLWZvb2QtdHVydW4tOC1qYWRpLXJwLTIxMzYxLW0=",
-        "description": " Nilai ini turun 8,11% dari periode yang sama tahun lalu, Rp 232,46 miliar."
     }
 ]
