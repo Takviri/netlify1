@@ -1,5 +1,19 @@
 [
     {
+        "title": "China Warning Taiwan Gara-gara Makin Mesra dengan AS",
+        "link": "https://www.cnbcindonesia.com/news/20220731122443-4-359930/china-warning-taiwan-gara-gara-makin-mesra-dengan-as",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDczMTEyMjQ0My00LTM1OTkzMC9jaGluYS13YXJuaW5nLXRhaXdhbi1nYXJhLWdhcmEtbWFraW4tbWVzcmEtZGVuZ2FuLWFz",
+        "description": " Pemerintah China kembali melontarkan pernyataan keras kepada Taiwan."
+    },
+    {
+        "title": "Kasus Covid-19 RI Naik Tajam, Tapi Negara Ini Lebih Parah Sih",
+        "link": "https://www.cnbcindonesia.com/news/20220731120350-4-359928/kasus-covid-19-ri-naik-tajam-tapi-negara-ini-lebih-parah-sih",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDczMTEyMDM1MC00LTM1OTkyOC9rYXN1cy1jb3ZpZC0xOS1yaS1uYWlrLXRhamFtLXRhcGktbmVnYXJhLWluaS1sZWJpaC1wYXJhaC1zaWg=",
+        "description": " Pandemi virus corona belum usai. Bahkan pekan ini terjadi peningkatan jumlah kasus positif harian yang signifikan."
+    },
+    {
         "title": "Penduduk Diminta Pergi, Situasi di Ukraina Makin Mencekam",
         "link": "https://www.cnbcindonesia.com/news/20220731114009-7-359918/penduduk-diminta-pergi-situasi-di-ukraina-makin-mencekam",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDczMTEwNTkyOC00LTM1OTkxMi9iZXJpLXByaXZpbGVzZS1scGRwLXRlcm55YXRhLXB1bnlhLWJlYXNpc3dhLWJhZ2ktZGlzYWJpbGl0YXM=",
         "description": " LPDP membuka akses kepada disabilitas agar dapat mencapai pendidikan tinggi baik jenjang S2 maupun S3, baik di dalam maupun luar negeri."
-    },
-    {
-        "title": "Pembatasan Pembelian Pertalite Selamatkan Daya Beli dan APBN",
-        "link": "https://www.cnbcindonesia.com/news/20220729112647-8-359584/pembatasan-pembelian-pertalite-selamatkan-daya-beli-apbn",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyOTExMjY0Ny04LTM1OTU4NC9wZW1iYXRhc2FuLXBlbWJlbGlhbi1wZXJ0YWxpdGUtc2VsYW1hdGthbi1kYXlhLWJlbGktYXBibg==",
-        "description": " DPR: Pembatasan Pembelian Pertalite Selamatkan Daya Beli dan APBN"
-    },
-    {
-        "title": "25 Orang Meninggal, Begini Penampakan Banjir di Kentucky AS",
-        "link": "https://www.cnbcindonesia.com/news/20220731101326-7-359897/25-orang-meninggal-begini-penampakan-banjir-di-kentucky-as",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDczMTEwMTMyNi03LTM1OTg5Ny8yNS1vcmFuZy1tZW5pbmdnYWwtYmVnaW5pLXBlbmFtcGFrYW4tYmFuamlyLWRpLWtlbnR1Y2t5LWFz",
-        "description": " Banjir besar di Kentucky, Amerika Serikat, tersebut dilaporkan telah memakan korban jiwa hingga 25 orang."
     }
 ]
