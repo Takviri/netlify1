@@ -1,5 +1,47 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511143/kominfo-tegaskan-tak-bisa-lihat-data-pengguna-setelah-pse-daftar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMTQzL2tvbWluZm8tdGVnYXNrYW4tdGFrLWJpc2EtbGloYXQtZGF0YS1wZW5nZ3VuYS1zZXRlbGFoLXBzZS1kYWZ0YXI=",
+        "description": "KEMENTERIAN Komunikasi dan Informatika menegaskan mereka tidak serta-merta bisa melihat data pengguna setelah penyelenggara sistem elektronik (PSE) mendaftar.  &quot;Tidak bisa,&quot; kata&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/511144/jelang-puncak-musim-kemarau-sumsel-ingatkan-waspada-karhutla",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMTQ0L2plbGFuZy1wdW5jYWstbXVzaW0ta2VtYXJhdS1zdW1zZWwtaW5nYXRrYW4td2FzcGFkYS1rYXJodXRsYQ==",
+        "description": "AGUSTUS dan September merupakan bulan puncak musim kemarau. Hal ini berdasarkan prakiraan Badan Meteorologi, Klimatologi, dan Geofisika. Untuk itu, Pemerintah Provinsi Sumatra Selatan mengingatkan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/511142/kompetisi-basket-2x2-digelar-perdana-di-tiga-kota",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTExNDIva29tcGV0aXNpLWJhc2tldC0yeDItZGlnZWxhci1wZXJkYW5hLWRpLXRpZ2Eta290YQ==",
+        "description": "POPULARITAS olahraga bola basket di Tanah Air meningkat seiring kesuksesan timnas basket Indonesia meraih medali emas SEA Games Vietnam serta digelarnya Piala Asia FIBA 2022. Industri olahraga basket&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/511139/3100-lebih-penumpang-krl-padati-stasiun-bni-hari-pertama-uji-coba",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTExMzkvMzEwMC1sZWJpaC1wZW51bXBhbmcta3JsLXBhZGF0aS1zdGFzaXVuLWJuaS1oYXJpLXBlcnRhbWEtdWppLWNvYmE=",
+        "description": "SEBANYAK 761 orang naik di Stasiun BNI City pada Sabtu (30/7) atau hari pertama uji coba stasiun tersebut sebagai stasiun yang melayani naik dan turun pengguna kereta listrik atau KRL. VP Corporate&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/511141/plataran-indonesia-gelar-olahraga-bareng-kodam-jaya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTExNDEvcGxhdGFyYW4taW5kb25lc2lhLWdlbGFyLW9sYWhyYWdhLWJhcmVuZy1rb2RhbS1qYXlh",
+        "description": "SEBAGAI perusahaan asli Indonesia yang terus berupaya untuk mengedepankan visi #HospitalitywithImpact dengan pilar alam, budaya, dan masyarakat, Plataran Indonesia kembali menjadi inisiator kegiatan&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/511140/kritisi-setiap-informasi-di-media-digital",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExMTQwL2tyaXRpc2ktc2V0aWFwLWluZm9ybWFzaS1kaS1tZWRpYS1kaWdpdGFs",
+        "description": "Kemajuan teknologi membuat informasi semakin mudah didapat. Sayangnya banyak orang di sosial media hanya melihatnya dari satu sisi dan langsung menyimpulkan. Padahal kebenarannya masih belum jelas.&#8230;"
+    },
+    {
         "title": "Megapolitan",
         "link": "https://m.mediaindonesia.com/megapolitan/511138/dprd-dki-apresiasi-program-police-go-to-school-untuk-tekan-angka-tawuran",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExMTM1L3dhc3BhZGEtamFnYS1kYXRhLXByaWJhZGktYWdhci1hbWFuLWRpLXJ1YW5nLWRpZ2l0YWw=",
         "description": "TEKNOLOGI informasi di dunia terus berkembang secara masif. Perubahan gaya hidup menjadi serba digital menawarkan kemudahan dan kepraktisan dalam melakukan berbagai aktivitas. Di sisi lain,&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/511134/bnc-catat-pencatatan-positif-di-semester-i-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTEzNC9ibmMtY2F0YXQtcGVuY2F0YXRhbi1wb3NpdGlmLWRpLXNlbWVzdGVyLWktMjAyMg==",
-        "description": "SEBAGAI salah satu pelopor bank digital di Indonesia, PT Bank Neo Commerce Tbk (BNC) terus mencatatkan kemajuan kinerja. Hal ini tecermin dalam&nbsp; Laporan Keuangan Semester I 2022. Setelah&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/511133/sukses-bangun-reputasi-pegadaian-borong-penghargaan-bergengsi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTEzMy9zdWtzZXMtYmFuZ3VuLXJlcHV0YXNpLXBlZ2FkYWlhbi1ib3JvbmctcGVuZ2hhcmdhYW4tYmVyZ2VuZ3Np",
-        "description": "PT Pegadaian meraih tiga penghargaan sekaligus karena dinilai sukses membangun reputasi perusahaan oleh lembaga riset dan media The Iconomics di ajang PR Persons Award 2022 dalam gelaran Indonesia&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/511132/kenali-kejahatan-yang-bisa-dilakukan-oleh-website-jebakan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExMTMyL2tlbmFsaS1rZWphaGF0YW4teWFuZy1iaXNhLWRpbGFrdWthbi1vbGVoLXdlYnNpdGUtamViYWthbg==",
-        "description": "Pemaham keamanan digital membuat aktivitas berselancar di dunia maya semakin nyaman. Individu cakap digital harus berhati-hati menekan link yang didapat. Sebab, bisa jadi tautan tersebut menuju website&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/511131/tim-sepak-bola-cp-indonesia-petik-kemenangan-perdana-di-apg-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTEzMS90aW0tc2VwYWstYm9sYS1jcC1pbmRvbmVzaWEtcGV0aWsta2VtZW5hbmdhbi1wZXJkYW5hLWRpLWFwZy0yMDIy",
-        "description": "TIM putra sepak bola celebral palsy (CP) Indonesia berhasil memetik kemenangan pada laga perdana ASEAN Para Games (APG) 2022, Yahya Hernanda dkk tampil luar biasa untuk mengalahkan rival bebuyutan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511130/jumlah-jemaah-haji-indonesia-meninggal-menjadi-80-orang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMTMwL2p1bWxhaC1qZW1hYWgtaGFqaS1pbmRvbmVzaWEtbWVuaW5nZ2FsLW1lbmphZGktODAtb3Jhbmc=",
-        "description": "KEMENTERIAN Agama (Kemenag) mencatat per hari ini jemaah haji Indonesia yang meninggal di Tanah Suci menjadi 80 orang jemaah. &quot;Terkait data jemaah sakit dan wafat kami sampaikan jemaah&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/511129/ada-rekonstruksi-tol-jakarta-tangerang-pengendara-diminta-waspada",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTExMjkvYWRhLXJla29uc3RydWtzaS10b2wtamFrYXJ0YS10YW5nZXJhbmctcGVuZ2VuZGFyYS1kaW1pbnRhLXdhc3BhZGE=",
-        "description": "JASAMARGA Metropolitan Tollroad bersama dengan PT Jasamarga Tollroad Maintenance (JMTM) melakukan pekerjaan pemeliharaan periodik berupa rekonstruksi perkerasan di Ruas Tol Jakarta-Tangerang. Pejabat&#8230;"
     }
 ]
