@@ -1,5 +1,19 @@
 [
     {
+        "title": "Cerita Nendi Bangun Kemandirian Kelompok Rentan Lewat Karya",
+        "link": "https://www.cnbcindonesia.com/news/20220727211641-51-359147/cerita-nendi-bangun-kemandirian-kelompok-rentan-lewat-karya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDcyNzIxMTY0MS01MS0zNTkxNDcvY2VyaXRhLW5lbmRpLWJhbmd1bi1rZW1hbmRpcmlhbi1rZWxvbXBvay1yZW50YW4tbGV3YXQta2FyeWE=",
+        "description": " Cerita Nendi Bangun Kemandirian Kelompok Rentan Lewat Karya"
+    },
+    {
+        "title": "Ribuan Orang Terkurung di Donetsk, Zelensky Minta Evakuasi",
+        "link": "https://www.cnbcindonesia.com/news/20220731073948-4-359889/ribuan-orang-terkurung-di-donetsk-zelensky-minta-evakuasi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDczMTA3Mzk0OC00LTM1OTg4OS9yaWJ1YW4tb3JhbmctdGVya3VydW5nLWRpLWRvbmV0c2stemVsZW5za3ktbWludGEtZXZha3Vhc2k=",
+        "description": " Presiden Ukraina Volodymyr Zelensky memerintahkan evakuasi wajib orang-orang di wilayah Donetsk timur."
+    },
+    {
         "title": "Baru Saja Sembuh, Biden Kena Covid Lagi",
         "link": "https://www.cnbcindonesia.com/news/20220731072533-4-359886/baru-saja-sembuh-biden-kena-covid-lagi",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDczMDIxMjgxMy00LTM1OTg3My9idW5kYS1oYXJnYS1taW55YWstZ29yZW5nLXR1cnVuLXRlcm11cmFoLWphZGktc2VnaW5p",
         "description": " Harga minyak goreng semakin turun. Ditambah diskon dari toko ritel modern, membuat harga minyak goreng jadi semakin murah."
-    },
-    {
-        "title": "Ingat! Mulai 1 Agustus Mobil Ini Dilarang Isi Pertalite",
-        "link": "https://www.cnbcindonesia.com/news/20220730182654-4-359848/ingat-mulai-1-agustus-mobil-ini-dilarang-isi-pertalite",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDczMDE4MjY1NC00LTM1OTg0OC9pbmdhdC1tdWxhaS0xLWFndXN0dXMtbW9iaWwtaW5pLWRpbGFyYW5nLWlzaS1wZXJ0YWxpdGU=",
-        "description": " Hingga saat ini, Pertamina telah memperluas wilayah yang wajib melakukan pendaftaran di website MyPertamina."
-    },
-    {
-        "title": "Jokowi ke Negeri K-Pop, LG Siap Relokasi Pabrik dari China",
-        "link": "https://www.cnbcindonesia.com/news/20220730201223-4-359867/jokowi-ke-negeri-k-pop-lg-siap-relokasi-pabrik-dari-china",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDczMDIwMTIyMy00LTM1OTg2Ny9qb2tvd2kta2UtbmVnZXJpLWstcG9wLWxnLXNpYXAtcmVsb2thc2ktcGFicmlrLWRhcmktY2hpbmE=",
-        "description": " Bahlil Lahadalia mengungkapkan, raksasa elektronik Korea Selatan, LG Electronics, berencana berinvestasi dalam pembangunan IKN"
     }
 ]

@@ -1,5 +1,26 @@
 [
     {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/511057/teknologi-terkini-membuat-led-screen-tidak-harus-kotak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExMDU3L3Rla25vbG9naS10ZXJraW5pLW1lbWJ1YXQtbGVkLXNjcmVlbi10aWRhay1oYXJ1cy1rb3Rhaw==",
+        "description": "HUNAN Yestech Optoelectronic Co., LTD yang didirikan pada 2001, kini hadir di Indonesia, menyajikan keunikan Special Shape LED Screen, yaitu Cabinet dari LED Screen dalam bentuk tidak hanya kotak,&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/511056/polisi-tangkap-3-pelaku-begal-kurir-di-jakpus",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTEwNTYvcG9saXNpLXRhbmdrYXAtMy1wZWxha3UtYmVnYWwta3VyaXItZGktamFrcHVz",
+        "description": "SATUAN Reserse Kriminal Polres Metro Jakarta Pusat menangkap pelaku begal terhadap Chandra Hermawan, kurir jasa ekspedisi, di Jalan Angkasa yang terjadi pada Jumat (27/5) bulan Mei. Kasatreskrim&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/511055/leverkusen-dijegal-elversberg-3-4",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTA1NS9sZXZlcmt1c2VuLWRpamVnYWwtZWx2ZXJzYmVyZy0zLTQ=",
+        "description": "CATATAN hitam mewarnai awal musim Bayer Leverkusen usai dijegal tim kasta ketiga SV Elversberg 3-4 dari Piala DFB Pokal dalam laga putaran pertama di kandang lawan pada Sabtu (30/7) waktu setempat.&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/511054/dukung-vaksin-dosis-keempat-puan-tegaskan-tingkatkan-booster-pertama",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMTA0OS9oaWR1cC1iYWhhZ2lhLWxld2F0LWZhbHNhZmFoLWJlZ2ph",
         "description": " Ribuan lukisan abstrak berbentuk persegi dan berukuran kecil tersusun sangat rapi, nyaris menutupi dinding bangunan. Kurang lebih ada 15.000 unit karya dengan media kertas berukuran 8 x 11 cm.&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/511048/bupati-mamberamo-tengah-diduga-sebar-duit-hasil-suap-ke-2-publik-figur",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTEwNDgvYnVwYXRpLW1hbWJlcmFtby10ZW5nYWgtZGlkdWdhLXNlYmFyLWR1aXQtaGFzaWwtc3VhcC1rZS0yLXB1Ymxpay1maWd1cg==",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) menduga Bupati Mamberamo Tengah menyebar uang hasil suap dan gratifikasi terkait pengerjaan proyeknya kedua orang terkenal. Mereka yakni Presenter televisi <a href=\"http://mediaindonesia.com/tag/Brigita&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511047/warga-desa-garut-selatan-gemakan-ganjar-untuk-2024",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMDQ3L3dhcmdhLWRlc2EtZ2FydXQtc2VsYXRhbi1nZW1ha2FuLWdhbmphci11bnR1ay0yMDI0",
-        "description": "ANGIN sepoi pantai berpadu bias lembayung matahari menyambut kedatangan ribuan warga di desa Garut ke kawasan Pantai Rancabuaya, Desa Purbayani, Caringin, Jawa Barat. Mereka tergabung dalam wadah Des&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/511046/ten-hag-pastikan-ronaldo-masuk-skuad-uji-coba-kontra-rayo-vallecano",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTA0Ni90ZW4taGFnLXBhc3Rpa2FuLXJvbmFsZG8tbWFzdWstc2t1YWQtdWppLWNvYmEta29udHJhLXJheW8tdmFsbGVjYW5v",
-        "description": "MANAJER Manchester United Erik ten Hag memastikan megabintang Cristiano Ronaldo bakal masuk skuad untuk laga uji coba pramusim&#8230;"
     }
 ]
