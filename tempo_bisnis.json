@@ -1,9 +1,16 @@
 [
     {
-        "title": "Badan Pangan Nasional Luncurkan Program B2SA untuk Jaga Ketahanan Pangan Nasional",
-        "link": "https://bisnis.tempo.co/read/1617627/badan-pangan-nasional-luncurkan-program-b2sa-untuk-jaga-ketahanan-pangan-nasional",
+        "title": "Harga Sempat Melambung, Stok Cabai dan Bawang Merah di Solo Dipastikan Aman",
+        "link": "https://bisnis.tempo.co/read/1617632/harga-sempat-melambung-stok-cabai-dan-bawang-merah-di-solo-dipastikan-aman",
         "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjE3NjI3L2JhZGFuLXBhbmdhbi1uYXNpb25hbC1sdW5jdXJrYW4tcHJvZ3JhbS1iMnNhLXVudHVrLWphZ2Eta2V0YWhhbmFuLXBhbmdhbi1uYXNpb25hbA==",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjE3NjMyL2hhcmdhLXNlbXBhdC1tZWxhbWJ1bmctc3Rvay1jYWJhaS1kYW4tYmF3YW5nLW1lcmFoLWRpLXNvbG8tZGlwYXN0aWthbi1hbWFu",
+        "description": "Pemerintah Kota Solo memastikan stok cabai dan bawang merah di wilayah itu aman."
+    },
+    {
+        "title": "Badan Pangan Nasional Luncurkan Program B2SA pada Hari Ulang Tahun Pertama",
+        "link": "https://bisnis.tempo.co/read/1617627/badan-pangan-nasional-luncurkan-program-b2sa-pada-hari-ulang-tahun-pertama",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjE3NjI3L2JhZGFuLXBhbmdhbi1uYXNpb25hbC1sdW5jdXJrYW4tcHJvZ3JhbS1iMnNhLXBhZGEtaGFyaS11bGFuZy10YWh1bi1wZXJ0YW1h",
         "description": "NFA meluncurkan Gerakan Penganekaragaman Konsumsi Pangan Beragam, Bergizi, Seimbang, dan Aman (B2SA)"
     },
     {
@@ -61,12 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjE3NDk1L2hhcmdhLWNwby1uYWlrLWdhcGtpLWJhZ3VzLXVudHVrLXBlbmd1c2FoYS1kYW4tcGV0YW5pLXNhd2l0",
         "description": "Harga CPO melampaui Rp 10 ribu per kilogram."
-    },
-    {
-        "title": "Terpopuler Bisnis: Dota hingga PayPal Diblokir, LG Relokasi Pabrik dari Cina ke RI",
-        "link": "https://bisnis.tempo.co/read/1617501/terpopuler-bisnis-dota-hingga-paypal-diblokir-lg-relokasi-pabrik-dari-cina-ke-ri",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjE3NTAxL3RlcnBvcHVsZXItYmlzbmlzLWRvdGEtaGluZ2dhLXBheXBhbC1kaWJsb2tpci1sZy1yZWxva2FzaS1wYWJyaWstZGFyaS1jaW5hLWtlLXJp",
-        "description": "Kominfo mulai memblokir platform yang tak mendaftar PSE. Pelbagai situs, seperti Dota hingga PayPal, tak bisa diakses pada Sabtu, 30 Juli."
     }
 ]
