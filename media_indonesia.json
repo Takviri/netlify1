@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kolom Pakar",
+        "link": "https://m.mediaindonesia.com/kolom-pakar/511186/monkeypox-cacar-monyet-yang-bukan-berasal-dari-monyet",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9rb2xvbS1wYWthci81MTExODYvbW9ua2V5cG94LWNhY2FyLW1vbnlldC15YW5nLWJ1a2FuLWJlcmFzYWwtZGFyaS1tb255ZXQ=",
+        "description": "BELUM lagi dunia selesai dengan pandemi covid-19, di tahun 2022 ini WHO sudah menetapkan dua penyakit yang bisa berpotensi menjadi pandemi. Setelah beberapa waktu lalu kita dikejutkan oleh adanya hepatitis&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/511202/van-vleuten-juara-tour-de-france-putri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTEyMDIvdmFuLXZsZXV0ZW4tanVhcmEtdG91ci1kZS1mcmFuY2UtcHV0cmk=",
+        "description": "PEMBALAP veteran Belanda Annemiek van Vleuten tampil sempurna, Minggu (31/7), untuk menjadi juara Tour de France putri di&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/511201/polres-indramayu-kantongi-identitas-pembunuh-sopir-taksi-daring",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTExOTQvanVhcmEtZ3AtaHVuZ2FyaWEtdmVyc3RhcHBlbi1tYW50YXAtcGltcGluLWtsYXNlbWVu",
         "description": "PEMBALAP Red Bull Max Verstappen meraih kemenangan ketujuhnya musim ini di Grand Prix Hungaria, Minggu (31/7), yang semakin memantapkan posisinya sebagai pemuncak klasemen menuju jeda musim panas.<br&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/511193/nasib-nelayan-di-tengah-kebijakan-kkp",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTE5My9uYXNpYi1uZWxheWFuLWRpLXRlbmdhaC1rZWJpamFrYW4ta2tw",
-        "description": "SEKJEN Dewan Pimpinan Pusat Forum Komunikasi Maritim (Forkami) Marcellus Hakeng Jayawibawa mengungkapkan ada beberapa persoalan yang dihadapi nelayan di Indonesia. Salah satu hal yang sering dikeluhkan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/511192/indonesia-u-16-tundukkan-filipina-di-laga-perdana-piala-aff-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTE5Mi9pbmRvbmVzaWEtdS0xNi10dW5kdWtrYW4tZmlsaXBpbmEtZGktbGFnYS1wZXJkYW5hLXBpYWxhLWFmZi0yMDIy",
-        "description": "TIM Indonesia U-16 berhasil menundukkan Filipina dengan skor 2-0 pada laga Grup A Piala AFF U-16 2022 di Stadion Maguwoharjo, Sleman, Yogyakarta, Minggu (31/7) malam. Kemenangan tuan rumah diraih&#8230;"
     }
 ]
