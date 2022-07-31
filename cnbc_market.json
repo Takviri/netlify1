@@ -1,5 +1,12 @@
 [
     {
+        "title": "Awas, Inflasi Makin Panas!",
+        "link": "https://www.cnbcindonesia.com/market/20220801042805-17-359972/awas-inflasi-makin-panas",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMDQyODA1LTE3LTM1OTk3Mi9hd2FzLWluZmxhc2ktbWFraW4tcGFuYXM=",
+        "description": " Pekan lalu, pasar keuangan Indonesia semringah. Bagaimana dengan awal pekan ini?"
+    },
+    {
         "title": "Gokil! Pertumbuhan Ekonomi Arab Saudi Capai 11,8% di Q2-2022",
         "link": "https://www.cnbcindonesia.com/market/20220731185536-17-359965/gokil-pertumbuhan-ekonomi-arab-saudi-capai-118-di-q2-2022",
         "image": "static/images/cnbc_market.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzMxMDczNTUyLTE3LTM1OTg4OC9qdXJhZ2FuLXBlc3RhLXBvcmEtaGFyZ2Etc2F3aXQtbWVyb2tldC1oYW1waXItMTYtbWluZ2d1LWluaQ==",
         "description": " Harga minyak sawit mentah (Crude Palm Oil/CPO) melesat pekan ini. Harga CPO kembali berada di atas MYR 4.000/ton."
-    },
-    {
-        "title": "Genjot Penerimaan di Masa Windfall Komoditas, Ini Saran Ahli",
-        "link": "https://www.cnbcindonesia.com/market/20220729163835-19-359708/genjot-penerimaan-di-masa-windfall-komoditas-ini-saran-ahli",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI5MTYzODM1LTE5LTM1OTcwOC9nZW5qb3QtcGVuZXJpbWFhbi1kaS1tYXNhLXdpbmRmYWxsLWtvbW9kaXRhcy1pbmktc2FyYW4tYWhsaQ==",
-        "description": " Genjot Penerimaan Negara di Masa Windfall Komoditas, Ini Saran Ahli"
     }
 ]

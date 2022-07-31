@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/511212/ronaldo-tampil-pertama-kali-di-laga-pramusim-manchester-united",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTIxMi9yb25hbGRvLXRhbXBpbC1wZXJ0YW1hLWthbGktZGktbGFnYS1wcmFtdXNpbS1tYW5jaGVzdGVyLXVuaXRlZA==",
+        "description": "CRISTIANO Ronaldo bermain selama 45 menit saat tampil untuk pertama kalinya bagi Manchester United di laga pramusim dalam&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/511210/ini-yang-harus-diperhatikan-saat-memakai-tabir-surya-spray",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMTIxMC9pbmkteWFuZy1oYXJ1cy1kaXBlcmhhdGlrYW4tc2FhdC1tZW1ha2FpLXRhYmlyLXN1cnlhLXNwcmF5",
+        "description": "Semprotan tabir surya mungkin nyaman, tetapi juga agak rumit. Berbeda dengan formula lotion, tabir surya spray atau semprot mengirimkan formula melalui nozel yang menyebarkan lotion dalam ke udara.&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/511211/legenda-celtics-bill-russell-tutup-usia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTEyMTEvbGVnZW5kYS1jZWx0aWNzLWJpbGwtcnVzc2VsbC10dXR1cC11c2lh",
+        "description": "LEGENDA NBA Bill Russell, pemain andalan Boston Celtics kala memenangkan 11 gelar NBA yang kemudian rajin menyuarakan keadilan sosial,&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/511209/tim-putri-australia-pecahkan-rekor-dunia-estafet-gaya-bebas-4x200-meter",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTEyMDMvcGFtLWpheWEtYWthbi1wYXNvay1haXItbWludW0tbGFuZ3N1bmctZGFyaS1rZXJhbi1wYWRhLTIwMjM=",
         "description": "PERUMDA PAM Jaya DKI Jakarta terus melakukan terobosan pelayanan guna memenuhi kebutuhan konsumen air minum di Ibu Kota.&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/511177/penilaian-kinerja-dan-keterampilan-transfer",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTExNzcvcGVuaWxhaWFuLWtpbmVyamEtZGFuLWtldGVyYW1waWxhbi10cmFuc2Zlcg==",
-        "description": "&lsquo;INTI dari sekolah bukanlah untuk menjadi baik di sekolah, melainkan bagaimana kita secara efektif mampu menerapkan apa yang sudah dipelajari di sekolah pada konteks pembelajaran yang lain atau&#8230;"
-    },
-    {
-        "title": "Kolom Pakar",
-        "link": "https://m.mediaindonesia.com/kolom-pakar/511186/monkeypox-cacar-monyet-yang-bukan-berasal-dari-monyet",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9rb2xvbS1wYWthci81MTExODYvbW9ua2V5cG94LWNhY2FyLW1vbnlldC15YW5nLWJ1a2FuLWJlcmFzYWwtZGFyaS1tb255ZXQ=",
-        "description": "BELUM lagi dunia selesai dengan pandemi covid-19, di tahun 2022 ini WHO sudah menetapkan dua penyakit yang bisa berpotensi menjadi pandemi. Setelah beberapa waktu lalu kita dikejutkan oleh adanya hepatitis&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/511202/van-vleuten-juara-tour-de-france-putri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTEyMDIvdmFuLXZsZXV0ZW4tanVhcmEtdG91ci1kZS1mcmFuY2UtcHV0cmk=",
-        "description": "PEMBALAP veteran Belanda Annemiek van Vleuten tampil sempurna, Minggu (31/7), untuk menjadi juara Tour de France putri di&#8230;"
     }
 ]
