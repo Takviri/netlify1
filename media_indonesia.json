@@ -1,6 +1,41 @@
 [
     {
         "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/511167/sekber-prabowo-jokowi-gelar-fun-walk-saat-cfd",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTExNjcvc2VrYmVyLXByYWJvd28tam9rb3dpLWdlbGFyLWZ1bi13YWxrLXNhYXQtY2Zk",
+        "description": "DI&nbsp;hari bebas kendaraan bermotor atau car free day (CFD), Minggu (31/7), Sekretariat Bersama (Sekber) Prabowo-Jokowi menggelar&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/511166/minta-uang-tebusan-rp50-juta-kawanan-penyandera-di-jambi-dibekuk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMTY2L21pbnRhLXVhbmctdGVidXNhbi1ycDUwLWp1dGEta2F3YW5hbi1wZW55YW5kZXJhLWRpLWphbWJpLWRpYmVrdWs=",
+        "description": "BERBEKAL laporan warga melalui WhatsApp Layanan Bantuan Polisi (085360555222), Kepolisian Daerah Jambi berhasil mengungkap dugaan kasus penyanderaan warga bermotif minta tebusan puluhan juta&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/511164/eskayvie-luncurkan-eskayvie-nexus-sistem-bisnis-berbasis-digital",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExMTY0L2Vza2F5dmllLWx1bmN1cmthbi1lc2theXZpZS1uZXh1cy1zaXN0ZW0tYmlzbmlzLWJlcmJhc2lzLWRpZ2l0YWw=",
+        "description": "MENGUSUNG&nbsp;konsep inovasi sistem bisnis berbasis digital, Eskayvie hadir sebagai representasi kejayaan bagi para pengusaha yang ingin membina bisnis yang sukses. Eskayvie Nexus Indonesia&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/511163/penyandang-disabilitas-diberi-kemudahan-layanan-adminduk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMTYzL3BlbnlhbmRhbmctZGlzYWJpbGl0YXMtZGliZXJpLWtlbXVkYWhhbi1sYXlhbmFuLWFkbWluZHVr",
+        "description": "PENYANDANG disabilitas merupakan salah satu kelompok rentan dalam pelayanan adminstrasi kependudukan (adminduk), sehingga mereka perlu mendapat jaminan serta akses dokumen kependudukan melalui pendataan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/511162/panel-surya-salah-satu-solusi-kunci-transisi-energi-bersih-dan-berkelanjutan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTE2Mi9wYW5lbC1zdXJ5YS1zYWxhaC1zYXR1LXNvbHVzaS1rdW5jaS10cmFuc2lzaS1lbmVyZ2ktYmVyc2loLWRhbi1iZXJrZWxhbmp1dGFu",
+        "description": "Mewujudkan transisi energi dari fosil ke energi terbarukan bukanlah perkara mudah. &nbsp;Diperlukan sosialisasi energi baru terbarukan (EBT) dan energi hijau untuk mengurangi pemanasan global.&nbsp;&#8230;"
+    },
+    {
+        "title": "Megapolitan",
         "link": "https://m.mediaindonesia.com/megapolitan/511161/2-siswa-positif-covid-19-ptm-di-sma-negeri-8-depok-jalan-terus",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTExNjEvMi1zaXN3YS1wb3NpdGlmLWNvdmlkLTE5LXB0bS1kaS1zbWEtbmVnZXJpLTgtZGVwb2stamFsYW4tdGVydXM=",
@@ -29,44 +64,9 @@
     },
     {
         "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511157/upi-bandung-gelar-pengabdian-masyarakat-di-tasikmalaya-dan-pangandaran",
+        "link": "https://m.mediaindonesia.com/humaniora/511157/fpeb-upi-bandung-gelar-pengabdian-masyarakat-di-tasikmalaya-dan-pangandaran",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMTU3L3VwaS1iYW5kdW5nLWdlbGFyLXBlbmdhYmRpYW4tbWFzeWFyYWthdC1kaS10YXNpa21hbGF5YS1kYW4tcGFuZ2FuZGFyYW4=",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMTU3L2ZwZWItdXBpLWJhbmR1bmctZ2VsYXItcGVuZ2FiZGlhbi1tYXN5YXJha2F0LWRpLXRhc2lrbWFsYXlhLWRhbi1wYW5nYW5kYXJhbg==",
         "description": "FAKULTAS Pendidikan Ekonomi dan Bisnis Universitas Pendidikan Indonesia (UPI) Bandung, menyelenggarakan pengabdian kepada masyarakat di Tasikmalaya dan Pengandaran. Kegiatan diselenggarakan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/511156/nujek-gandeng-perusahaan-korea-mitra-pengendara-dapat-insentif",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTE1Ni9udWplay1nYW5kZW5nLXBlcnVzYWhhYW4ta29yZWEtbWl0cmEtcGVuZ2VuZGFyYS1kYXBhdC1pbnNlbnRpZg==",
-        "description": "NUJEK sebagai perusahaan penyedia jasa layanan transportasi online bekerja sama dengan Datam, perusahaan dari korea penyedia alat konversi bahan bakar sepeda motor listrik di Jakarta pada Sabtu (30/7)&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511155/luncurkan-buku-get-the-miracle-ppa-institute-sebar-nilai-keislaman-aplikatif",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMTU1L2x1bmN1cmthbi1idWt1LWdldC10aGUtbWlyYWNsZS1wcGEtaW5zdGl0dXRlLXNlYmFyLW5pbGFpLWtlaXNsYW1hbi1hcGxpa2F0aWY=",
-        "description": "LEMBAGA&nbsp;training berbasis ilmu-ilmu Al Qur&rsquo;an dan hadist, PPA Institute meluncurkan buku terbarunya yang berjudul Get The Miracle. Acara yang berlangsung secara daring ini&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511154/dugaan-pemaksasan-siswi-berjilbab-di-sma-bantul-ditelusuri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMTU0L2R1Z2Fhbi1wZW1ha3Nhc2FuLXNpc3dpLWJlcmppbGJhYi1kaS1zbWEtYmFudHVsLWRpdGVsdXN1cmk=",
-        "description": "KEPALA Sekolah SMAN 1 Banguntapan dipanggil oleh Ombudsman RI Perwakilan Daerah Istimewa Yogyakarta terkait adanya laporan dugaan pemaksaan memakai jilbab pada siswi kelas 10 di SMA tersebut, Jumat&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/511153/pulang-antar-dagangan-penjual-ayam-dibegal-di-pulogadung",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTExNTMvcHVsYW5nLWFudGFyLWRhZ2FuZ2FuLXBlbmp1YWwtYXlhbS1kaWJlZ2FsLWRpLXB1bG9nYWR1bmc=",
-        "description": "KEPOLISIAN Sektor Pulogadung memburu para pelaku begal terhadap seorang pedagang ayam berinisial R di Jalan Kayu Putih Raya, Pulogadung, Jakarta Timur, yang terjadi pada Jumat (29/7) sekitar pukul&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/511152/peringati-hut-ke-77-ri-komunitas-kolaborasi-gelar-serangkaian-kegiatan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTExNTIvcGVyaW5nYXRpLWh1dC1rZS03Ny1yaS1rb211bml0YXMta29sYWJvcmFzaS1nZWxhci1zZXJhbmdrYWlhbi1rZWdpYXRhbg==",
-        "description": "MEMPERINGATI Hari Kemerdekaan RI Ke-77, Komunitas Kolaborasi melakukan serangkai kegiatan dengan berbagai pertunjukan di sekitar Jembatan Penyeberangan Orang dan Sepeda (JPOS) Phinisi, Kawasan Sudirman,&#8230;"
     }
 ]
