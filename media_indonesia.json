@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sajak Kofe",
+        "link": "https://m.mediaindonesia.com/sajak-kofe/511044/sajak-sajak-moch-aldy-ma",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zYWphay1rb2ZlLzUxMTA0NC9zYWphay1zYWphay1tb2NoLWFsZHktbWE=",
+        "description": "Ilustrasi: Resiyaman Patrick&nbsp; Bila Aku Menulis&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/511049/hidup-bahagia-lewat-falsafah-begja",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMTA0OS9oaWR1cC1iYWhhZ2lhLWxld2F0LWZhbHNhZmFoLWJlZ2ph",
+        "description": " Ribuan lukisan abstrak berbentuk persegi dan berukuran kecil tersusun sangat rapi, nyaris menutupi dinding bangunan. Kurang lebih ada 15.000 unit karya dengan media kertas berukuran 8 x 11 cm.&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/511048/bupati-mamberamo-tengah-diduga-sebar-duit-hasil-suap-ke-2-publik-figur",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTEwNDgvYnVwYXRpLW1hbWJlcmFtby10ZW5nYWgtZGlkdWdhLXNlYmFyLWR1aXQtaGFzaWwtc3VhcC1rZS0yLXB1Ymxpay1maWd1cg==",
+        "description": "KOMISI Pemberantasan Korupsi (KPK) menduga Bupati Mamberamo Tengah menyebar uang hasil suap dan gratifikasi terkait pengerjaan proyeknya kedua orang terkenal. Mereka yakni Presenter televisi <a href=\"http://mediaindonesia.com/tag/Brigita&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/511047/warga-desa-garut-selatan-gemakan-ganjar-untuk-2024",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMTAzNy9idW5nLXNlbnRpbC1kcmFrb3ItYWJhbC1hYmFs",
         "description": "BUNG tahu nggak..kantor-kantor polisi tuh udah kayak Hollywood. Studio alam tempat bikin film terluas setiap sudut full drama."
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/511042/cepy-triandrijaya-pengabdian-untuk-keselamatan-penerbangan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMTA0Mi9jZXB5LXRyaWFuZHJpamF5YS1wZW5nYWJkaWFuLXVudHVrLWtlc2VsYW1hdGFuLXBlbmVyYmFuZ2Fu",
-        "description": "GEMPA Palu, Sulawesi Tengah, pada 2018, menyisakan banyak kisah heroik. Salah satunya ialah kisah petugas air traffic controller (ATC) Bandara Mutiara SIS Al-Jufri, Anthonius Gunawan Agung,&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/511041/pradhitya-wastu-nurjito-pahlawan-penjaga-arus-listrik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMTA0MS9wcmFkaGl0eWEtd2FzdHUtbnVyaml0by1wYWhsYXdhbi1wZW5qYWdhLWFydXMtbGlzdHJpaw==",
-        "description": "PERNAHKAH Anda berpikir jika kelancaran arus listrik bukan saja hasil kerja mesin, melainkan juga membutuhkan kerja petugas khusus? Salah seorang yang memegang peranan penting dari menjaga listrik&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/511040/sabar-gorky-terus-mendaki-meski-kehilangan-kaki",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMTA0MC9zYWJhci1nb3JreS10ZXJ1cy1tZW5kYWtpLW1lc2tpLWtlaGlsYW5nYW4ta2FraQ==",
-        "description": "KEHILANGAN salah satu kaki tentunya bisa membuat orang terpuruk. Kalaupun berhasil bangkit, mungkin jarang penyandang difabel yang lalu menjalani profesi yang menantang fisik, terlebih lagi fisik dan&#8230;"
     }
 ]
