@@ -1,5 +1,19 @@
 [
     {
+        "title": "Adu Tajir Pemilik Alfamart dan Indomaret, Menang Siapa?",
+        "link": "https://www.cnbcindonesia.com/news/20220731063641-4-359880/adu-tajir-pemilik-alfamart-indomaret-menang-siapa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDczMTA2MzY0MS00LTM1OTg4MC9hZHUtdGFqaXItcGVtaWxpay1hbGZhbWFydC1pbmRvbWFyZXQtbWVuYW5nLXNpYXBh",
+        "description": " Indomaret dan Alfamart merupakan waralaba minimarket yang sangat melekat dengan masyarakat Indonesia."
+    },
+    {
+        "title": "Harta Wanita Terkaya Asia Ini Lenyap Setengah, Kok Bisa?",
+        "link": "https://www.cnbcindonesia.com/news/20220731062655-4-359879/harta-wanita-terkaya-asia-ini-lenyap-setengah-kok-bisa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDczMTA2MjY1NS00LTM1OTg3OS9oYXJ0YS13YW5pdGEtdGVya2F5YS1hc2lhLWluaS1sZW55YXAtc2V0ZW5nYWgta29rLWJpc2E=",
+        "description": " Wanita terkaya di Asia, Yang Huiyan alami pukulan berat. Seperti apa?"
+    },
+    {
         "title": "Jumlah Pasien RSDC Wisma Atlet Mencapai 204 Orang",
         "link": "https://www.cnbcindonesia.com/news/20220730223610-8-359874/jumlah-pasien-rsdc-wisma-atlet-mencapai-204-orang",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDczMDE3NDc1Mi00LTM1OTg0NS9ydXNpYS11a3JhaW5hLW1hc2loLWJldGFoLWJlcnBlcmFuZy1zaWFwYS15YW5nLXN1ZGFoLW1lbmFuZw==",
         "description": " Konflik yang terjadi antara negara Rusia dan Ukraina hampir memasuki bulan kelima."
-    },
-    {
-        "title": "Lagi Perang, Intip Potret Zelensky dan Istri di Majalah Vogue",
-        "link": "https://www.cnbcindonesia.com/news/20220730183012-7-359850/lagi-perang-intip-potret-zelensky-dan-istri-di-majalah-vogue",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDczMDE4MzAxMi03LTM1OTg1MC9sYWdpLXBlcmFuZy1pbnRpcC1wb3RyZXQtemVsZW5za3ktZGFuLWlzdHJpLWRpLW1hamFsYWgtdm9ndWU=",
-        "description": " Presiden Ukraina Volodymyr Zelensky dan istri, Olena Zelenska, muncul secara khusus di majalah Vogue."
-    },
-    {
-        "title": "Kabar Baik! Kasus Harian Covid-19 RI Turun ke Bawah 5.500",
-        "link": "https://www.cnbcindonesia.com/news/20220730185910-4-359856/kabar-baik-kasus-harian-covid-19-ri-turun-ke-bawah-5500",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDczMDE4NTkxMC00LTM1OTg1Ni9rYWJhci1iYWlrLWthc3VzLWhhcmlhbi1jb3ZpZC0xOS1yaS10dXJ1bi1rZS1iYXdhaC01NTAw",
-        "description": " Satgas Covid-19 mencatat, jumlah konfirmasi positif kasus Covid-19 di Indonesia hari ini, Sabtu (30/7/2022) turun lagi."
     }
 ]
