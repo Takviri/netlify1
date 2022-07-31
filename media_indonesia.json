@@ -1,5 +1,19 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/511201/polres-indramayu-kantongi-identitas-pembunuh-sopir-taksi-daring",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMjAxL3BvbHJlcy1pbmRyYW1heXUta2FudG9uZ2ktaWRlbnRpdGFzLXBlbWJ1bnVoLXNvcGlyLXRha3NpLWRhcmluZw==",
+        "description": "KEPOLISIAN Resor Indramayu, Jawa Barat, mengerahkan tim gabungan untuk memburu pembunuh sopir taksi daring, yang mayatnya ditemukan dalam kondisi dililit lakban di saluran irigasi. &nbsp;<br&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/511200/kenaikan-harga-terigu-pelaku-usaha-diminta-jangan-aji-mumpung",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTIwMC9rZW5haWthbi1oYXJnYS10ZXJpZ3UtcGVsYWt1LXVzYWhhLWRpbWludGEtamFuZ2FuLWFqaS1tdW1wdW5n",
+        "description": "KOMISI Pengawas Persaingan Usaha Kantor Wilayah I meminta para pelaku usaha tidak memanfaatkan kenaikan harga tepung terigu untuk mengambil keuntungan dengan cara yang tidak sesuai dengan aturan antimonopoli.&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/511199/tidak-lagi-jabat-kasatgasus-irjen-sambo-tidak-bisa-intervensi-penyidikan",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTE5Mi9pbmRvbmVzaWEtdS0xNi10dW5kdWtrYW4tZmlsaXBpbmEtZGktbGFnYS1wZXJkYW5hLXBpYWxhLWFmZi0yMDIy",
         "description": "TIM Indonesia U-16 berhasil menundukkan Filipina dengan skor 2-0 pada laga Grup A Piala AFF U-16 2022 di Stadion Maguwoharjo, Sleman, Yogyakarta, Minggu (31/7) malam. Kemenangan tuan rumah diraih&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/511191/pevs-2022-bukukan-nilai-transaksi-rp250-miliar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTExOTEvcGV2cy0yMDIyLWJ1a3VrYW4tbmlsYWktdHJhbnNha3NpLXJwMjUwLW1pbGlhcg==",
-        "description": "PAMERAN kendaraan listrik Periklindo Electric Vehicle Show (PEVS) 2022 yang digelar selama 10 hari telah berakhir, Minggu (31/7). Sebelum benar-benar ditutup, PEVS menggelar 'Appreciation Night&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511190/update-31-juli-dki-catat-2198-kasus-covid-19",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMTkwL3VwZGF0ZS0zMS1qdWxpLWRraS1jYXRhdC0yMTk4LWthc3VzLWNvdmlkLTE5",
-        "description": "SEBANYAK 2.198 kasus dari 4.205 kasus covid-19 nasional ditemukan di Provinsi DKI Jakarta pada Minggu (31/7). Angka itu setara dengan 52,3 persen dari total kasus hari ini. &ldquo;Terdiri dari&#8230;"
     }
 ]
