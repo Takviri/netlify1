@@ -1,5 +1,12 @@
 [
     {
+        "title": "\u2018Mau liburan naik pesawat, pilotnya tidak ada\u2019 - Kekurangan pilot jadi masalah nyata bagi maskapai penerbangan",
+        "link": "https://www.bbc.co.uk/indonesia/articles/cd1j2np7gl5o",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jZDFqMm5wN2dsNW8=",
+        "description": "Seiring datangnya musim liburan, jumlah pesawat tidak bisa menandingi volume penumpang sehingga banyak maskapai harus membatalkan penerbangan. Keadaan diperparah oleh kekurangan pilot."
+    },
+    {
         "title": "Roket China timbulkan kekhawatiran tentang reentri tak terkendali",
         "link": "https://www.bbc.co.uk/indonesia/articles/c90lgx0w7g3o",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jNzJ3anc1ajUzcG8=",
         "description": "Pada KPK era terdahulu, sejumlah tersangka juga pernah kabur dan akhirnya ditangkap. Bisakah KPK sekarang mencegah munculnya buron-buron berikutnya?"
-    },
-    {
-        "title": "Ribuan drone digunakan dalam perang di Ukraina, mengapa fungsinya begitu penting?",
-        "link": "https://www.bbc.co.uk/indonesia/articles/cz5l3r111z5o",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jejVsM3IxMTF6NW8=",
-        "description": "Ribuan pesawat nirawak atau drone digunakan oleh Rusia dan Ukraina dalam pertempuran. Mengapa fungsinya begitu penting dan siapa yang menyalurkan?"
     }
 ]

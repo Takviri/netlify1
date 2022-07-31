@@ -1,5 +1,19 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511051/bmkg-waspada-gelombang-tinggi-6-meter-hingga-awal-agustus",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMDUxL2Jta2ctd2FzcGFkYS1nZWxvbWJhbmctdGluZ2dpLTYtbWV0ZXItaGluZ2dhLWF3YWwtYWd1c3R1cw==",
+        "description": "BADAN Meteorologi Klimatologi, dan Geofisika (BMKG) mengeluarkan peringatan dini gelombang tinggi yang berpotensi terjadi di beberapa wilayah perairan pada 31 Juli - 1 Agustus 2022. Pola angin&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511050/bnpb-pastikan-penanganan-darurat-banjir-bandang-berjalan-efektif-di-sulbar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMDUwL2JucGItcGFzdGlrYW4tcGVuYW5nYW5hbi1kYXJ1cmF0LWJhbmppci1iYW5kYW5nLWJlcmphbGFuLWVmZWt0aWYtZGktc3VsYmFy",
+        "description": "KEPALA Badan Nasional Penanggulangan Bencana (BNPB) Letjen TNI Suharyanto bertolak menuju Kabupaten Parigi Moutong, Sulawesi Barat, Minggu (31/7). Hal itu dilakukan Suharyanto untuk meninjau&#8230;"
+    },
+    {
         "title": "Sajak Kofe",
         "link": "https://m.mediaindonesia.com/sajak-kofe/511044/sajak-sajak-moch-aldy-ma",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMTAzOS9zdWRva3UtZWRpc2ktMzEtanVsaS0yMDIy",
         "description": "SUDOKU atau dikenal juga dengan tebak angka (number place)"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/511038/jon-bodo-amal-kemanusiaan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMTAzOC9qb24tYm9kby1hbWFsLWtlbWFudXNpYWFu",
-        "description": "JON, mau donasi gak ???"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/511037/bung-sentil-drakor-abal-abal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMTAzNy9idW5nLXNlbnRpbC1kcmFrb3ItYWJhbC1hYmFs",
-        "description": "BUNG tahu nggak..kantor-kantor polisi tuh udah kayak Hollywood. Studio alam tempat bikin film terluas setiap sudut full drama."
     }
 ]
