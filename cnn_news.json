@@ -1,5 +1,19 @@
 [
     {
+        "title": "Puncak Bogor dan Tol Arah Jakarta Macet Parah Malam Ini",
+        "link": "https://www.cnnindonesia.com/nasional/20220731200623-20-828470/puncak-bogor-dan-tol-arah-jakarta-macet-parah-malam-ini",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMTIwMDYyMy0yMC04Mjg0NzAvcHVuY2FrLWJvZ29yLWRhbi10b2wtYXJhaC1qYWthcnRhLW1hY2V0LXBhcmFoLW1hbGFtLWluaQ==",
+        "description": " Sedikitnya tiga titik kemacetan terpantau di Tol Cipularang dan Cikampek arah Jakarta malam ini."
+    },
+    {
+        "title": "Muhammadiyah Desak Kasus Penyelewengan Dana ACT Diusut Transparan",
+        "link": "https://www.cnnindonesia.com/nasional/20220731193104-12-828465/muhammadiyah-desak-kasus-penyelewengan-dana-act-diusut-transparan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMTE5MzEwNC0xMi04Mjg0NjUvbXVoYW1tYWRpeWFoLWRlc2FrLWthc3VzLXBlbnllbGV3ZW5nYW4tZGFuYS1hY3QtZGl1c3V0LXRyYW5zcGFyYW4=",
+        "description": " Muhammadiyah mendesak polisi agar kasus dugaaan penyelewengan dana donasi yang dilakukan yayasan ACT diusut secara transparan."
+    },
+    {
         "title": "LPSK Masih Telaah Penilaian Psikologis Bharada E",
         "link": "https://www.cnnindonesia.com/nasional/20220731155249-12-828401/lpsk-masih-telaah-penilaian-psikologis-bharada-e",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMTE2MTc0NS0zMi04Mjg0MDUvZGFmdGFyLXBhcnRhaS1wZXNlcnRhLXBlbWlsdS1yb21ib25nYW4tcGRpcC1qYWxhbi1rYWtpLWtlLWtwdS1iZXNvaw==",
         "description": " Pengurus DPP PDIP akan melakukan pendaftaran secara resmi sebagai partai peserta Pemilu 2024 ke KPU pada Senin (1/8)."
-    },
-    {
-        "title": "Positif Covid Tambah 4.205 Kasus, Kematian 10 Orang",
-        "link": "https://www.cnnindonesia.com/nasional/20220731121817-20-828352/positif-covid-tambah-4205-kasus-kematian-10-orang",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMTEyMTgxNy0yMC04MjgzNTIvcG9zaXRpZi1jb3ZpZC10YW1iYWgtNDIwNS1rYXN1cy1rZW1hdGlhbi0xMC1vcmFuZw==",
-        "description": " Pada Minggu (31/7), pemerintah mencatat ada penambahan\u00c2\u00a04.205 kasus positif Covid-19 dan 10 kematian."
-    },
-    {
-        "title": "Relawan Deklarasi Anies Capres 2024 Menjalar hingga Ambon",
-        "link": "https://www.cnnindonesia.com/nasional/20220731144429-32-828404/relawan-deklarasi-anies-capres-2024-menjalar-hingga-ambon",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMTE0NDQyOS0zMi04Mjg0MDQvcmVsYXdhbi1kZWtsYXJhc2ktYW5pZXMtY2FwcmVzLTIwMjQtbWVuamFsYXItaGluZ2dhLWFtYm9u",
-        "description": " Relawan Anies Baswedan melebar hingga ke Ambon, Maluku. Relawan tergabung dalam Sobat Anies di Ambon mendeklarasikan dukungan Anies capres 2024."
     }
 ]
