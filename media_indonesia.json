@@ -1,5 +1,61 @@
 [
     {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/511187/lebih-dari-850-warga-jabodetabek-berlari-sambil-berdonasi-di-atma-jaya-run-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTExODcvbGViaWgtZGFyaS04NTAtd2FyZ2EtamFib2RldGFiZWstYmVybGFyaS1zYW1iaWwtYmVyZG9uYXNpLWRpLWF0bWEtamF5YS1ydW4tMjAyMg==",
+        "description": "SEKITAR 850 warga Jakarta, Bogor, Depok, Tangerang, dan Bekasi (Jabodetabek) mengikuti lomba lari Atma Jaya Run 2022 yang berlangsung di Kampus III BSD, Serpong, Tangerang, Minggu (31/7). Lomba lari&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/511185/kegiatan-road-to-maybank-marathon-2022-bali-digelar-di-car-free-day-jakarta",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTExODUva2VnaWF0YW4tcm9hZC10by1tYXliYW5rLW1hcmF0aG9uLTIwMjItYmFsaS1kaWdlbGFyLWRpLWNhci1mcmVlLWRheS1qYWthcnRh",
+        "description": "PADA Minggu (31/7), Road to Maybank Marathon digelar di Jakarta. Pada kesempatan kali ini, PT Bank Maybank Indonesia, Tbk. mengadakan ajang lari di Jalan Sudirman, Jakarta, saat&nbsp;Car&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/511184/amanah-takaful-inisiasi-pembentukan-forum-komunikasi-braille-guru-pai-slb-se-jawa-tengah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMTg0L2FtYW5haC10YWthZnVsLWluaXNpYXNpLXBlbWJlbnR1a2FuLWZvcnVtLWtvbXVuaWthc2ktYnJhaWxsZS1ndXJ1LXBhaS1zbGItc2UtamF3YS10ZW5nYWg=",
+        "description": "AMANAH Takaful bersama Kelompok Kerja Guru Pendidikan Agama Islam Sekolah Luar Biasa (SLB) Jawa Tengah untuk pertama kalinya menyenggarakan Workshop Alquran Braille bagi 21 guru PAI SLB yang berasal&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/511183/perayaan-festival-tabut-2022-bengkulu-kembali-digelar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMTgzL3BlcmF5YWFuLWZlc3RpdmFsLXRhYnV0LTIwMjItYmVuZ2t1bHUta2VtYmFsaS1kaWdlbGFy",
+        "description": "PERAYAAN Festival Tabut 2022 resmi dibuka dengan diawali ritual Pamit Raja Agung yang merupakan sebuah tradisi yang dilakukan oleh Kerukunan Keluarga Tabut (KKT) sebelum memulai ritual pengambilan&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/511182/generasi-x-antusias-mempelajari-digitalisasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExMTgyL2dlbmVyYXNpLXgtYW50dXNpYXMtbWVtcGVsYWphcmktZGlnaXRhbGlzYXNp",
+        "description": "Kemajuan informasi digital tidak hanya gencar dinikmati generasi milenial. Bahkan generasi x atau para orang tua juga antusias mencari tahu perkembangan digital. Apalagi ini merupakan hal baru bagi&#8230;"
+    },
+    {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/511181/giias-2022-dukung-penuh-mobilitas-listrik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTExODEvZ2lpYXMtMjAyMi1kdWt1bmctcGVudWgtbW9iaWxpdGFzLWxpc3RyaWs=",
+        "description": "MENYAMBUT gelaran Gaikindo Indonesia International Auto Show (GIIAS) 2022 yang tinggal mengitung hari. Gabungan Industi Kendaraan Bermotor Indonesia (Gaikindo) bersama Seven Event menggelar GIIAS Talk&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511180/sejumlah-anak-muda-berbakat-indonesia-jadi-bagian-gerakan-gen-aktif",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMTgwL3NlanVtbGFoLWFuYWstbXVkYS1iZXJiYWthdC1pbmRvbmVzaWEtamFkaS1iYWdpYW4tZ2VyYWthbi1nZW4tYWt0aWY=",
+        "description": "Gerakan GEN AKTIF (Generasi Sehat dan Kreatif) yang diusung oleh BenihBaik.com, sebuah lembaga crowdfunding terpercaya di Indonesia, terus melanjutkan kesuksesan programnya setelah menuai keberhasilan&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/511179/jaga-unggahan-jejak-digital-berpengaruh-bagi-masa-depan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExMTc5L2phZ2EtdW5nZ2FoYW4tamVqYWstZGlnaXRhbC1iZXJwZW5nYXJ1aC1iYWdpLW1hc2EtZGVwYW4=",
+        "description": "Dunia digital punya jangkauan luas, tidak terbatas ruang dan waktu. Sayangnya masih banyak netizen Indonesia belum menyadari semua kegiatan di dunia digital meninggalkan jejak yang berpengaruh pada&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/511178/polisi-pastikan-mayat-dililit-lakban-di-indramayu-sopir-taksi-online",
         "image": "static/images/media_indonesia.png",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMTc1L3R1bWJ1aGthbi1rZXBlZHVsaWFuLW1lbmdlbmFsa2FuLXNhdHdhLWVuZGVtaWstZGktYmFsaS1zYWZhcmktcGFyaw==",
         "description": "SETELAH melalui penilaian ketat oleh dewan juri, akhirnya pemenang terbaik pada ajang Animal Photo Hunting yang diselenggarakan Taman Safari Indonesia di Bali Safari Park disabet Rendra Kurnia.&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511174/tim-sar-temukan-balita-korban-tenggelam-di-sungai-manahul",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMTc0L3RpbS1zYXItdGVtdWthbi1iYWxpdGEta29yYmFuLXRlbmdnZWxhbS1kaS1zdW5nYWktbWFuYWh1bA==",
-        "description": "TIM pencarian dan pertolongan (SAR) Parapat Danau Toba menemukan anak di bawah lima tahun (balita) korban tenggelam di Sungai Manahul, Kabupaten Simalungun, Sumatra Utara, pada jarak dua kilometer&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511173/tuan-guru-di-sumut-doakan-ganjar-menjadi-presiden-di-2024",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMTczL3R1YW4tZ3VydS1kaS1zdW11dC1kb2FrYW4tZ2FuamFyLW1lbmphZGktcHJlc2lkZW4tZGktMjAyNA==",
-        "description": "TOKOH agama di Sumatera Utara (Sumut) yang tergabung dalam Tuan Guru Dukung Ganjar deklarasi dan mendoakan Ganjar menjadi presiden di 2024. &quot;Hati kami bismillah memilih Ganjar Presiden&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/511172/7-wni-lagi-berhasil-diselamatkan-dari-penyekapan-di-kamboja",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMTE3Mi83LXduaS1sYWdpLWJlcmhhc2lsLWRpc2VsYW1hdGthbi1kYXJpLXBlbnlla2FwYW4tZGkta2FtYm9qYQ==",
-        "description": "KEPOLISIAN Kamboja bersama Kedutaan Besar RI di Phnom Penh telah kembali berhasil menyelamatkan tujuh orang warga negara Indonesia dari penyekapan perusahaan online scammer di Sihanoukville,&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511171/sahabat-ganjar-gelar-istighosah-dan-sholawat-akbar-di-lampung",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMTcxL3NhaGFiYXQtZ2FuamFyLWdlbGFyLWlzdGlnaG9zYWgtZGFuLXNob2xhd2F0LWFrYmFyLWRpLWxhbXB1bmc=",
-        "description": "MASYARAKAT Kecamatan Mataram, Kabupaten Lampung Selatan menggelar acara Istighosah dan Sholawat Akbar bersama relawan Sahabat&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511170/kegiatan-sosial-milenial-di-kabupaten-kulon-progo-meriahkan-deklarasi-dukungan-untuk-sandiaga-uno",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMTcwL2tlZ2lhdGFuLXNvc2lhbC1taWxlbmlhbC1kaS1rYWJ1cGF0ZW4ta3Vsb24tcHJvZ28tbWVyaWFoa2FuLWRla2xhcmFzaS1kdWt1bmdhbi11bnR1ay1zYW5kaWFnYS11bm8=",
-        "description": "TEMAN Sandi menggelar beragam kegiatan di Kabupaten Kulonprogo, Minggu (31/7). Tidak hanya kegiatan sosial, beberapa lomba juga&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/511169/tim-basket-kursi-roda-putra-indonesia-raih-perunggu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTExNjkvdGltLWJhc2tldC1rdXJzaS1yb2RhLXB1dHJhLWluZG9uZXNpYS1yYWloLXBlcnVuZ2d1",
-        "description": "CABANG olahraga bola basket kursi roda putra Indonesia meraih medali perunggu di ajang ASEAN Para Games (APG) XI 2022 di GOR Sritex Arena, Solo, Jawa Tengah, Minggu (31/7), usai menaklukkan tim putra&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511168/sobat-erick-gelar-roadshow-di-lampung",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMTY4L3NvYmF0LWVyaWNrLWdlbGFyLXJvYWRzaG93LWRpLWxhbXB1bmc=",
-        "description": "MENUTUP kegiatan pada Juli, Sobat Erick menggelar Roadshow di Provinsi Lampung dengan serangkaian aksi sebagai bentuk dukungan&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/511167/sekber-prabowo-jokowi-gelar-fun-walk-saat-cfd",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTExNjcvc2VrYmVyLXByYWJvd28tam9rb3dpLWdlbGFyLWZ1bi13YWxrLXNhYXQtY2Zk",
-        "description": "DI&nbsp;hari bebas kendaraan bermotor atau car free day (CFD), Minggu (31/7), Sekretariat Bersama (Sekber) Prabowo-Jokowi menggelar&#8230;"
     }
 ]

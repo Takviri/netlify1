@@ -1,5 +1,12 @@
 [
     {
+        "title": "Gempa M5,1 Guncang Maluku, Tak Berpotensi Tsunami",
+        "link": "https://www.cnnindonesia.com/nasional/20220731212147-20-828478/gempa-m51-guncang-maluku-tak-berpotensi-tsunami",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMTIxMjE0Ny0yMC04Mjg0NzgvZ2VtcGEtbTUxLWd1bmNhbmctbWFsdWt1LXRhay1iZXJwb3RlbnNpLXRzdW5hbWk=",
+        "description": " Gempa bumi dengan kekuatan magnitudo 5,1 mengguncang wilayah Maluku Barat Daya pada Minggu (31/7) malam."
+    },
+    {
         "title": "Puncak Bogor dan Tol Arah Jakarta Macet Parah Malam Ini",
         "link": "https://www.cnnindonesia.com/nasional/20220731200623-20-828470/puncak-bogor-dan-tol-arah-jakarta-macet-parah-malam-ini",
         "image": "static/images/cnn_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMTE2NDExNC0xMi04Mjg0MDcvbWFiZXMtcG9scmktdGFyaWstYmhhcmFkYS1lLWtlLW1ha28tYnJpbW9i",
         "description": " Mabes Polri\u00c2\u00a0membenarkan Bharada E kini ditarik bertugas kembali ke Korps Brigadir Mobil (Brimob) karena statusnya masih sebagai saksi."
-    },
-    {
-        "title": "Daftar Partai Peserta Pemilu, Rombongan PDIP Jalan Kaki ke KPU Besok",
-        "link": "https://www.cnnindonesia.com/nasional/20220731161745-32-828405/daftar-partai-peserta-pemilu-rombongan-pdip-jalan-kaki-ke-kpu-besok",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMTE2MTc0NS0zMi04Mjg0MDUvZGFmdGFyLXBhcnRhaS1wZXNlcnRhLXBlbWlsdS1yb21ib25nYW4tcGRpcC1qYWxhbi1rYWtpLWtlLWtwdS1iZXNvaw==",
-        "description": " Pengurus DPP PDIP akan melakukan pendaftaran secara resmi sebagai partai peserta Pemilu 2024 ke KPU pada Senin (1/8)."
     }
 ]
