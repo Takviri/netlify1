@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/511192/indonesia-u-16-tundukkan-filipina-di-laga-perdana-piala-aff-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTE5Mi9pbmRvbmVzaWEtdS0xNi10dW5kdWtrYW4tZmlsaXBpbmEtZGktbGFnYS1wZXJkYW5hLXBpYWxhLWFmZi0yMDIy",
+        "description": "TIM Indonesia U-16 berhasil menundukkan Filipina dengan skor 2-0 pada laga Grup A Piala AFF U-16 2022 di Stadion Maguwoharjo, Sleman, Yogyakarta, Minggu (31/7) malam. Kemenangan tuan rumah diraih&#8230;"
+    },
+    {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/511191/pevs-2022-bukukan-nilai-transaksi-rp250-miliar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTExOTEvcGV2cy0yMDIyLWJ1a3VrYW4tbmlsYWktdHJhbnNha3NpLXJwMjUwLW1pbGlhcg==",
+        "description": "PAMERAN kendaraan listrik Periklindo Electric Vehicle Show (PEVS) 2022 yang digelar selama 10 hari telah berakhir, Minggu (31/7). Sebelum benar-benar ditutup, PEVS menggelar 'Appreciation Night&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/511190/update-31-juli-dki-catat-2198-kasus-covid-19",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExMTgyL2dlbmVyYXNpLXgtYW50dXNpYXMtbWVtcGVsYWphcmktZGlnaXRhbGlzYXNp",
         "description": "Kemajuan informasi digital tidak hanya gencar dinikmati generasi milenial. Bahkan generasi x atau para orang tua juga antusias mencari tahu perkembangan digital. Apalagi ini merupakan hal baru bagi&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/511181/giias-2022-dukung-penuh-mobilitas-listrik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTExODEvZ2lpYXMtMjAyMi1kdWt1bmctcGVudWgtbW9iaWxpdGFzLWxpc3RyaWs=",
-        "description": "MENYAMBUT gelaran Gaikindo Indonesia International Auto Show (GIIAS) 2022 yang tinggal mengitung hari. Gabungan Industi Kendaraan Bermotor Indonesia (Gaikindo) bersama Seven Event menggelar GIIAS Talk&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511180/sejumlah-anak-muda-berbakat-indonesia-jadi-bagian-gerakan-gen-aktif",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMTgwL3NlanVtbGFoLWFuYWstbXVkYS1iZXJiYWthdC1pbmRvbmVzaWEtamFkaS1iYWdpYW4tZ2VyYWthbi1nZW4tYWt0aWY=",
-        "description": "Gerakan GEN AKTIF (Generasi Sehat dan Kreatif) yang diusung oleh BenihBaik.com, sebuah lembaga crowdfunding terpercaya di Indonesia, terus melanjutkan kesuksesan programnya setelah menuai keberhasilan&#8230;"
     }
 ]
