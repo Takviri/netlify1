@@ -1,5 +1,40 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/511081/tanpa-leani-ratri-parabulu-tangkis-indonesia-tetap-yakin-dulang-prestasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTEwODEvdGFucGEtbGVhbmktcmF0cmktcGFyYWJ1bHUtdGFuZ2tpcy1pbmRvbmVzaWEtdGV0YXAteWFraW4tZHVsYW5nLXByZXN0YXNp",
+        "description": "PARABULU tangkis merupakan salah satu cabang olahraga andalan Indonesia untuk mendulang prestasi di ASEAN Para Games (APG) 2022. Predikat andalan memang layak disematkan kepada tim parabulu tangkis&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/511082/sadio-mane-raih-trofi-perdana-bersama-die-rotten",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTA4Mi9zYWRpby1tYW5lLXJhaWgtdHJvZmktcGVyZGFuYS1iZXJzYW1hLWRpZS1yb3R0ZW4=",
+        "description": "PESEPAKBOLA Sadio Mane berhasil menyabet trofi perdana bersama Bayern Munich, di mana pemain asal Senegal itu mempersembahkan Piala Super Jerman untuk Die Rotten -julukan Bayern Munich-, Minggu (31/7)&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/511080/kpu-sebut-10-parpol-sudah-input-data-sipol-100-persen",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTEwODAva3B1LXNlYnV0LTEwLXBhcnBvbC1zdWRhaC1pbnB1dC1kYXRhLXNpcG9sLTEwMC1wZXJzZW4=",
+        "description": "KOMISI Pemilihan Umum (KPU) RI menyebut sudah ada 10 partai politik (parpol) sudah 100% menginput data atau melengkapi Sistem Informasi Partai Politik (Sipol). &quot;Sampai dengan siang ini,&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511083/awas-komorbid-tingkatkan-kematian-akibat-covid-19",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMDgzL2F3YXMta29tb3JiaWQtdGluZ2thdGthbi1rZW1hdGlhbi1ha2liYXQtY292aWQtMTk=",
+        "description": "PENINGKATAN kasus kematian akibat covid-19 akhir-akhir ini dinilai karena pasien covid-19 yang memiliki penyakit penyerta atau komorbid. Sehingga kerentanan terhadap penyakit cukup tinggi hingga menyebabkan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/511079/milenial-di-kudus-latah-gelar-fashion-show-ala-anak-citayam",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMDc5L21pbGVuaWFsLWRpLWt1ZHVzLWxhdGFoLWdlbGFyLWZhc2hpb24tc2hvdy1hbGEtYW5hay1jaXRheWFt",
+        "description": "RAMAI fashion show di jalanan atau fashion street, sejumlah pemuda di Kabupaten Kudus, Jawa Tengah menggelar Muria Fashion Week di penyembrangan jalan Alun-alun Simpang Tujuh Kudus, Minggu (31/7) pagi.&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/511078/anak-anak-erosaman-asmat-senang-bisa-menikmati-listrik-dan-internet",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTEwNzMvY2Fpci1ycDEyLXQta3B1LXNlYnV0LWFuZ2dhcmFuLXBlbWlsdS1tYXNpaC1rdXJhbmc=",
         "description": "KOMISI Pemilihan Umum (KPU) RI mendapat tambahan anggaran KPU Tahun 2022 sebesar Rp1.245.036.027.000. Ketua KPU RI Hasyim Asy'ari membeberkan penambahan tersebut masih kurang untuk alokasi anggaran&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511072/seribu-perempuan-karawang-bergabung-ke-dalam-srikandi-ganjar-jabar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMDcyL3NlcmlidS1wZXJlbXB1YW4ta2FyYXdhbmctYmVyZ2FidW5nLWtlLWRhbGFtLXNyaWthbmRpLWdhbmphci1qYWJhcg==",
-        "description": "RELAWAN Srikandi Ganjar Jawa Barat mengajak ribuan perempuan milenial di Karawang, Jawa Barat bergabung dalam gerakan Ganjar Pranowo Presiden 2024. Koordinator Wilayah Srikandi Jawa Barat, Eva&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/511071/umkm-kreasi-bambu-binaan-ikppberdayakan-perempuan-desa-tegal-maja",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTA3MS91bWttLWtyZWFzaS1iYW1idS1iaW5hYW4taWtwcGJlcmRheWFrYW4tcGVyZW1wdWFuLWRlc2EtdGVnYWwtbWFqYQ==",
-        "description": "DALAM upaya mendukung pemulihan ekonomi, Asia&nbsp;Pulp &amp; Paper (APP) Sinar Mas melakukan berbagai upayasalah satunya di bidang usaha mikro, kecil, dan menengah (UMKM). Salah satunya melalui&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511070/pemkab-ende-usulkan-1401-formasi-guru-pppk-ke-pusat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMDcwL3BlbWthYi1lbmRlLXVzdWxrYW4tMTQwMS1mb3JtYXNpLWd1cnUtcHBway1rZS1wdXNhdA==",
-        "description": "PEMERINTAH Kabupaten Ende, Nusa Tenggara Timur telah mengusulkan 1.401 formasi guru Pegawai&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511069/tahun-baru-islam-1444-h-momentum-pematangsiantar-berubah-positif",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMDY5L3RhaHVuLWJhcnUtaXNsYW0tMTQ0NC1oLW1vbWVudHVtLXBlbWF0YW5nc2lhbnRhci1iZXJ1YmFoLXBvc2l0aWY=",
-        "description": "TAHUN Baru Islam 1444 Hijriyah merupakan momentum perubahan baik dalam berprilaku maupun beribadah kepada Allah SWT. Demikian disampaikan oleh Kepala Dinas Penanam Modal dan Pelayanan Terpadu&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511064/tas-purun-dan-sasirangan-laris-manis-di-pasar-amerika",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMDY0L3Rhcy1wdXJ1bi1kYW4tc2FzaXJhbmdhbi1sYXJpcy1tYW5pcy1kaS1wYXNhci1hbWVyaWth",
-        "description": "PRODUK kerajinan unggulan Provinsi Kalimantan Selatan berupa tas anyaman purun dan kain sasirangan banyak diminati dan menjadi salah satu produk yang laris manis di pasar Amerika. Asosiasi Pengusaha&#8230;"
     }
 ]
