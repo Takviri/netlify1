@@ -1,5 +1,26 @@
 [
     {
+        "title": "Pegadaian Borong Penghargaan Bergengsi",
+        "link": "https://nasional.tempo.co/read/1617686/pegadaian-borong-penghargaan-bergengsi",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTc2ODYvcGVnYWRhaWFuLWJvcm9uZy1wZW5naGFyZ2Fhbi1iZXJnZW5nc2k=",
+        "description": "Indonesia Public Relations Summit 2022 merupakan ajang bagi Insan PR di Indonesia untuk mengasah diri serta sebagai sarana untuk sharing."
+    },
+    {
+        "title": "Bamsoet Ingatkan Indonesia Butuh PPHN untuk Bersiap Hadapi Ancaman Krisis",
+        "link": "https://nasional.tempo.co/read/1617683/bamsoet-ingatkan-indonesia-butuh-pphn-untuk-bersiap-hadapi-ancaman-krisis",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTc2ODMvYmFtc29ldC1pbmdhdGthbi1pbmRvbmVzaWEtYnV0dWgtcHBobi11bnR1ay1iZXJzaWFwLWhhZGFwaS1hbmNhbWFuLWtyaXNpcw==",
+        "description": "Keputusan MPR Nomor 8/MPR/2019 merekomendasikan kepada MPR Periode 2019-2024 untuk mengkaji substansi dan bentuk hukum Pokok-Pokok Haluan Negara."
+    },
+    {
+        "title": "Pegadaian Gelar Khitan Massal di Tahun Baru Islam",
+        "link": "https://nasional.tempo.co/read/1617681/pegadaian-gelar-khitan-massal-di-tahun-baru-islam",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTc2ODEvcGVnYWRhaWFuLWdlbGFyLWtoaXRhbi1tYXNzYWwtZGktdGFodW4tYmFydS1pc2xhbQ==",
+        "description": "Kegiatan Senyuman Manis sendiri akan dilaksanakan di 12 kota dengan jumlah peserta sebanyak 1188 peserta khitan di seluruh Indonesia"
+    },
+    {
         "title": "Catatan Ketua MPR RI: PPHN untuk Pembangunan Berkelanjutan 83.381 Desa",
         "link": "https://nasional.tempo.co/read/1617674/catatan-ketua-mpr-ri-pphn-untuk-pembangunan-berkelanjutan-83-381-desa",
         "image": "static/images/tempo_nasional.png",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTc2NDgvcHVibGlrYXNpLXByb2dyYW0tcGVta290LXJhdGluZy10ZXJhdGFzLXNlLWdvcm9udGFsbw==",
         "description": "Lembaga survei media analitik Indonesia Indikator menempatkan kota Gorontalo rating teratas se-Gorontalo sebaran pemberitaan media pada pekan ke empat Juli 2022."
-    },
-    {
-        "title": "Soal Kematian Brigadir J, Sufmi Dasco Minta Komnas HAM Fokus pada Simpulan Akhir",
-        "link": "https://nasional.tempo.co/read/1617647/soal-kematian-brigadir-j-sufmi-dasco-minta-komnas-ham-fokus-pada-simpulan-akhir",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTc2NDcvc29hbC1rZW1hdGlhbi1icmlnYWRpci1qLXN1Zm1pLWRhc2NvLW1pbnRhLWtvbW5hcy1oYW0tZm9rdXMtcGFkYS1zaW1wdWxhbi1ha2hpcg==",
-        "description": "Wakil Ketua DPR RI meminta Komnas HAM fokus pada kesimpulan akhir kasus kematian Brigadir J. Meminta agar tidak ekspose berlebihan pada temuan awal dan bukti lain."
-    },
-    {
-        "title": "Kasus Pelecehan Istri Ferdy Sambo Ditarik ke Bareskrim Mabes Polri",
-        "link": "https://nasional.tempo.co/read/1617645/kasus-pelecehan-istri-ferdy-sambo-ditarik-ke-bareskrim-mabes-polri",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTc2NDUva2FzdXMtcGVsZWNlaGFuLWlzdHJpLWZlcmR5LXNhbWJvLWRpdGFyaWsta2UtYmFyZXNrcmltLW1hYmVzLXBvbHJp",
-        "description": "Seluruh kasus terkait Ferdy Sambo ditarik ke Bareskrim Mabes Polri."
-    },
-    {
-        "title": "Pendaftaran Peserta Pemilu 2024,  KPU Sebut 11 Partai Akan Daftar Besok",
-        "link": "https://nasional.tempo.co/read/1617635/pendaftaran-peserta-pemilu-2024kpu-sebut-11-partai-akan-daftar-besok",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTc2MzUvcGVuZGFmdGFyYW4tcGVzZXJ0YS1wZW1pbHUtMjAyNGtwdS1zZWJ1dC0xMS1wYXJ0YWktYWthbi1kYWZ0YXItYmVzb2s=",
-        "description": "KPU menyatakan partai politik yang akan melakukan pendaftaran peserta Pemilu 2024 pada Senin besok berjumlah 11."
     }
 ]
