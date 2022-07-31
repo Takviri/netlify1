@@ -1,6 +1,27 @@
 [
     {
         "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511126/buku-pelajaran-ditarik-dpr-penyusunan-materi-seharusnya-dikerjakan-secara-ilmiah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMTI2L2J1a3UtcGVsYWphcmFuLWRpdGFyaWstZHByLXBlbnl1c3VuYW4tbWF0ZXJpLXNlaGFydXNueWEtZGlrZXJqYWthbi1zZWNhcmEtaWxtaWFo",
+        "description": "BUKU cetak Pendidikan Kewarganegaraan (PPKn) SMP kelas 7 belum lama ini ditarik Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbud Ristek) untuk direvisi lantaran ada kesalahan materi.&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/511125/safira-raih-medali-emas-di-kejuaraan-dunia-pencak-silat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTExMjUvc2FmaXJhLXJhaWgtbWVkYWxpLWVtYXMtZGkta2VqdWFyYWFuLWR1bmlhLXBlbmNhay1zaWxhdA==",
+        "description": "ATLET pencak silat perwakilan Indonesia berhasil meraih medali emas di ajang 19th World Pencak Silat Championship 2022 di Malaysia yang digelar pada Selasa (26/7) hingga Minggu (31/7). Safira&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/511124/inilah-tantangan-budaya-digital-di-negara-multikultural",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExMTI0L2luaWxhaC10YW50YW5nYW4tYnVkYXlhLWRpZ2l0YWwtZGktbmVnYXJhLW11bHRpa3VsdHVyYWw=",
+        "description": "Masyarakat digital yang berasal dari beragam budaya dan letak geografis akan lebih harmonis jika memiliki kesadaran dalam etika saat berinteraksi di ruang digital. Sebab itu, budaya bermedia digital&#8230;"
+    },
+    {
+        "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/511123/kominfo-beri-tenggat-1-bulan-untuk-google-dkk-selesaikan-daftar-pse",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMTIzL2tvbWluZm8tYmVyaS10ZW5nZ2F0LTEtYnVsYW4tdW50dWstZ29vZ2xlLWRray1zZWxlc2Fpa2FuLWRhZnRhci1wc2U=",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTExMTgvcHVsdWhhbi1wZW11ZGEtamF0ZW5nLWRla2xhcmFzaWthbi1nYWdhc2FuLWdhYnVuZ2FuLWdhbmphci1zYW5kaQ==",
         "description": "DISKUSI bertajuk 'Kawula Muda Jawa Tengah Holopis Kuntul Baris' dengan topik pembahasan seputar percepatan pemulihan ekonomi nasional melalui sektor pariwisata dan ekonomi kreatif,&#8230;"
-    },
-    {
-        "title": "Surat Pembaca",
-        "link": "https://m.mediaindonesia.com/surat-pembaca/511116/jne-berkomitmen-menjaga-kualitas-distribusi-beras-bansos",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zdXJhdC1wZW1iYWNhLzUxMTExNi9qbmUtYmVya29taXRtZW4tbWVuamFnYS1rdWFsaXRhcy1kaXN0cmlidXNpLWJlcmFzLWJhbnNvcw==",
-        "description": "1. JNE merupakan perusahaan asli Indonesia yang didirikan sejak tahun 1990 oleh Almarhum H. Soeprapto Soeparno, dalam menjalankan bisnis selalu mengedepankan nilai-nilai berbagi, memberi, menyantuni&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/511117/ulama-dari-seknas-jokowi-dukung-program-pemerintah-dan-jaga-harmonisasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTExMTcvdWxhbWEtZGFyaS1zZWtuYXMtam9rb3dpLWR1a3VuZy1wcm9ncmFtLXBlbWVyaW50YWgtZGFuLWphZ2EtaGFybW9uaXNhc2k=",
-        "description": "PARA ulama yang tergabung dalam Seknas Jokowi Majelis Dzikir dan Dakwah bertekad untuk mengawal pemerintahan Joko Widodo dan Ma'ruf Amin hingga 2024, serta mendukung program pemerintah, utamanya&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/511115/langkah-strategis-jokowi-dorong-percepatan-pemulihan-ekonomi-global",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMTExNS9sYW5na2FoLXN0cmF0ZWdpcy1qb2tvd2ktZG9yb25nLXBlcmNlcGF0YW4tcGVtdWxpaGFuLWVrb25vbWktZ2xvYmFs",
-        "description": "PERAN aktif Presiden Joko Widodo (Jokowi) dalam memimpin Presidensi G20 mendorong percepatan pemulihan ekonomi dunia. Komitmen yang terwujud nyata dalam lawatan luar negeri Jokowi beberapa waktu lalu.&#8230;"
     }
 ]
