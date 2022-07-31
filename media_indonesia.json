@@ -1,5 +1,54 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/511133/sukses-bangun-reputasi-pegadaian-borong-penghargaan-bergengsi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTEzMy9zdWtzZXMtYmFuZ3VuLXJlcHV0YXNpLXBlZ2FkYWlhbi1ib3JvbmctcGVuZ2hhcmdhYW4tYmVyZ2VuZ3Np",
+        "description": "PT Pegadaian meraih tiga penghargaan sekaligus karena dinilai sukses membangun reputasi perusahaan oleh lembaga riset dan media The Iconomics di ajang PR Persons Award 2022 dalam gelaran Indonesia&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/511132/kenali-kejahatan-yang-bisa-dilakukan-oleh-website-jebakan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExMTMyL2tlbmFsaS1rZWphaGF0YW4teWFuZy1iaXNhLWRpbGFrdWthbi1vbGVoLXdlYnNpdGUtamViYWthbg==",
+        "description": "Pemaham keamanan digital membuat aktivitas berselancar di dunia maya semakin nyaman. Individu cakap digital harus berhati-hati menekan link yang didapat. Sebab, bisa jadi tautan tersebut menuju website&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/511131/tim-sepak-bola-cp-indonesia-petik-kemenangan-perdana-di-apg-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTEzMS90aW0tc2VwYWstYm9sYS1jcC1pbmRvbmVzaWEtcGV0aWsta2VtZW5hbmdhbi1wZXJkYW5hLWRpLWFwZy0yMDIy",
+        "description": "TIM putra sepak bola celebral palsy (CP) Indonesia berhasil memetik kemenangan pada laga perdana ASEAN Para Games (APG) 2022, Yahya Hernanda dkk tampil luar biasa untuk mengalahkan rival bebuyutan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511130/jumlah-jemaah-haji-indonesia-meninggal-menjadi-80-orang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMTMwL2p1bWxhaC1qZW1hYWgtaGFqaS1pbmRvbmVzaWEtbWVuaW5nZ2FsLW1lbmphZGktODAtb3Jhbmc=",
+        "description": "KEMENTERIAN Agama (Kemenag) mencatat per hari ini jemaah haji Indonesia yang meninggal di Tanah Suci menjadi 80 orang jemaah. &quot;Terkait data jemaah sakit dan wafat kami sampaikan jemaah&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/511129/ada-rekonstruksi-tol-jakarta-tangerang-pengendara-diminta-waspada",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTExMjkvYWRhLXJla29uc3RydWtzaS10b2wtamFrYXJ0YS10YW5nZXJhbmctcGVuZ2VuZGFyYS1kaW1pbnRhLXdhc3BhZGE=",
+        "description": "JASAMARGA Metropolitan Tollroad bersama dengan PT Jasamarga Tollroad Maintenance (JMTM) melakukan pekerjaan pemeliharaan periodik berupa rekonstruksi perkerasan di Ruas Tol Jakarta-Tangerang. Pejabat&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/511128/kpu-ingatkan-parpol-agar-segera-selesaikan-unggah-data-sipol",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTExMjgva3B1LWluZ2F0a2FuLXBhcnBvbC1hZ2FyLXNlZ2VyYS1zZWxlc2Fpa2FuLXVuZ2dhaC1kYXRhLXNpcG9s",
+        "description": "KOMISI Pemilihan Umum (KPU) RI mengingatkan partai politik (parpol) agar segera menyelesaikan menginput data atau melengkapi Sistem Informasi Partai Politik (Sipol).&nbsp; Diketahui, sejauh&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/511127/nelayan-tak-bisa-melaut-ternyata-karena-terganjal-lambannya-sipi-dan-sikpi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTEyNy9uZWxheWFuLXRhay1iaXNhLW1lbGF1dC10ZXJueWF0YS1rYXJlbmEtdGVyZ2FuamFsLWxhbWJhbm55YS1zaXBpLWRhbi1zaWtwaQ==",
+        "description": "SAAT ini banyak nelayan mengeluh tak bisa melaut. Padahal di sisi lain, mereka terdesak kebutuhan ekonomi. Ternyata, yang menjadi salah satu penyebab adalah lambannya Surat Izin Usaha Perikanan&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/511126/buku-pelajaran-ditarik-dpr-penyusunan-materi-seharusnya-dikerjakan-secara-ilmiah",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExMTI0L2luaWxhaC10YW50YW5nYW4tYnVkYXlhLWRpZ2l0YWwtZGktbmVnYXJhLW11bHRpa3VsdHVyYWw=",
         "description": "Masyarakat digital yang berasal dari beragam budaya dan letak geografis akan lebih harmonis jika memiliki kesadaran dalam etika saat berinteraksi di ruang digital. Sebab itu, budaya bermedia digital&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511123/kominfo-beri-tenggat-1-bulan-untuk-google-dkk-selesaikan-daftar-pse",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMTIzL2tvbWluZm8tYmVyaS10ZW5nZ2F0LTEtYnVsYW4tdW50dWstZ29vZ2xlLWRray1zZWxlc2Fpa2FuLWRhZnRhci1wc2U=",
-        "description": "DIREKTUR Jenderal Aplikasi Informatika Kominfo Semuel Abrijani Pangerapan mengungkapkan pemberian tenggat waktu sebulan bagi Google dan platform lainnya yang sudah mendaftar sebagai penyelenggara sistem&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/511122/wilmar-targetkan-kemitraan-1000-hektare-lahan-padi-di-luar-jawa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTEyMi93aWxtYXItdGFyZ2V0a2FuLWtlbWl0cmFhbi0xMDAwLWhla3RhcmUtbGFoYW4tcGFkaS1kaS1sdWFyLWphd2E=",
-        "description": "PT Wilmar Padi Indonesia&nbsp;&nbsp;menargetkan tahun depan akan memulai kemitraan dengan petani padi di Medan, Kuala Tanjung (Sumatera Utara), dan Palembang dengan total luas 1.000 hektare (ha).&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/511121/polda-metro-dalami-polisi-gadungan-di-jakpus",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTExMjEvcG9sZGEtbWV0cm8tZGFsYW1pLXBvbGlzaS1nYWR1bmdhbi1kaS1qYWtwdXM=",
-        "description": "POLDA Metro Jaya mendalami lebih lanjut adanya video yang beredar di sosial yang memperlihatkan polisi sedang menilang pengendara mobil di Roxy, Cideng, Jakarta Pusat. Dari video yang beredar&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511109/kedelai-nasdem-di-papua-tumbuh-subur",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMTA5L2tlZGVsYWktbmFzZGVtLWRpLXBhcHVhLXR1bWJ1aC1zdWJ1cg==",
-        "description": "SETELAH ditanam 22 hari lalu, lahan kedelai yang merupakan program 1 juta hektare yang digagas Partai NasDem di wilayah Kabupaten Keerom, Papua tampak subur. Bahkan pertumbuhannya dinilai sangat baik.&nbsp;&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/511120/cuti-bagi-karyawan-yang-berulang-tahun",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMTEyMC9jdXRpLWJhZ2kta2FyeWF3YW4teWFuZy1iZXJ1bGFuZy10YWh1bg==",
-        "description": "ALGORITMA Data Science School yang merupakan pusat pendidikan terkait data science memberikan birthday leave atau cuti bagi karyawannya yang berulang tahun.  &quot;Program cuti&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511119/ratusan-layang-layang-ramaikan-festival-layangan-bali-2022-di-sanur",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExMTE5L3JhdHVzYW4tbGF5YW5nLWxheWFuZy1yYW1haWthbi1mZXN0aXZhbC1sYXlhbmdhbi1iYWxpLTIwMjItZGktc2FudXI=",
-        "description": "SETALAH sempat vakum pada rentang puncak pandemi covid-19, Festival Layangan Bali tahun ini kembali digelar di area Pantai Mertasari, Sanur, Denpasar, Minggu (31/7). Kegiatan yang diprakarsai Komunitas&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/511118/puluhan-pemuda-jateng-deklarasikan-gagasan-gabungan-ganjar-sandi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTExMTgvcHVsdWhhbi1wZW11ZGEtamF0ZW5nLWRla2xhcmFzaWthbi1nYWdhc2FuLWdhYnVuZ2FuLWdhbmphci1zYW5kaQ==",
-        "description": "DISKUSI bertajuk 'Kawula Muda Jawa Tengah Holopis Kuntul Baris' dengan topik pembahasan seputar percepatan pemulihan ekonomi nasional melalui sektor pariwisata dan ekonomi kreatif,&#8230;"
     }
 ]
