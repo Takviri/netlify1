@@ -1,5 +1,12 @@
 [
     {
+        "title": "Penduduk Diminta Pergi, Situasi di Ukraina Makin Mencekam",
+        "link": "https://www.cnbcindonesia.com/news/20220731114009-7-359918/penduduk-diminta-pergi-situasi-di-ukraina-makin-mencekam",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDczMTExNDAwOS03LTM1OTkxOC9wZW5kdWR1ay1kaW1pbnRhLXBlcmdpLXNpdHVhc2ktZGktdWtyYWluYS1tYWtpbi1tZW5jZWthbQ==",
+        "description": " Presiden Ukraina Volodymyr Zelensky memerintahkan evakuasi wajib orang-orang di wilayah Donetsk timur."
+    },
+    {
         "title": "Cacar Monyet Menggila, New York Berlakukan Darurat Kesehatan!",
         "link": "https://www.cnbcindonesia.com/news/20220731123431-4-359931/cacar-monyet-menggila-new-york-berlakukan-darurat-kesehatan",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDczMTEwMTMyNi03LTM1OTg5Ny8yNS1vcmFuZy1tZW5pbmdnYWwtYmVnaW5pLXBlbmFtcGFrYW4tYmFuamlyLWRpLWtlbnR1Y2t5LWFz",
         "description": " Banjir besar di Kentucky, Amerika Serikat, tersebut dilaporkan telah memakan korban jiwa hingga 25 orang."
-    },
-    {
-        "title": "Gempa M 5,6 Guncang Aceh, Tak Berpotensi Tsunami",
-        "link": "https://www.cnbcindonesia.com/news/20220731104113-4-359910/gempa-m-56-guncang-aceh-tak-berpotensi-tsunami",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDczMTEwNDExMy00LTM1OTkxMC9nZW1wYS1tLTU2LWd1bmNhbmctYWNlaC10YWstYmVycG90ZW5zaS10c3VuYW1p",
-        "description": " Gempa mengguncang wilayah Sumatera Utara dengan kekuatan M 5,6."
     }
 ]

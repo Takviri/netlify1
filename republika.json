@@ -1,5 +1,40 @@
 [
     {
+        "title": "Kemenkeu: Realisasi Belanja Pusat untuk NTT Capai Rp 14,9 Triliun",
+        "link": "https://www.republika.co.id/berita/rfuysj457/kemenkeu-realisasi-belanja-pusat-untuk-ntt-capai-rp-149-triliun",
+        "image": "static/images/republika.png",
+        "uid": "aHR0cHM6Ly93d3cucmVwdWJsaWthLmNvLmlkL2Jlcml0YS9yZnV5c2o0NTcva2VtZW5rZXUtcmVhbGlzYXNpLWJlbGFuamEtcHVzYXQtdW50dWstbnR0LWNhcGFpLXJwLTE0OS10cmlsaXVu",
+        "description": "REPUBLIKA.CO.ID,&nbsp;KUPANG -- Kantor Wilayah Direktorat Jenderal Perbendaharaan (DJPb) Nusa Tenggara Timur Kementerian Keuangan mencatat realisasi belanja Pemerintah Pusat untuk NTT pada Semester I 2022 mencapai Rp 14,9 triliun. \"Secara..."
+    },
+    {
+        "title": "Tarif Masuk TN Komodo Rp 3,75 Juta Diharapkan Berdampak Positif",
+        "link": "https://www.republika.co.id/berita/rfuylu457/tarif-masuk-tn-komodo-rp-375-juta-diharapkan-berdampak-positif",
+        "image": "static/images/republika.png",
+        "uid": "aHR0cHM6Ly93d3cucmVwdWJsaWthLmNvLmlkL2Jlcml0YS9yZnV5bHU0NTcvdGFyaWYtbWFzdWstdG4ta29tb2RvLXJwLTM3NS1qdXRhLWRpaGFyYXBrYW4tYmVyZGFtcGFrLXBvc2l0aWY=",
+        "description": "REPUBLIKA.CO.ID,&nbsp;LABUAN BAJO -- Bupati Manggarai Barat Edistasius Endi berharap biaya kontribusi sebesar Rp 3,75 juta per orang ke Pulau Komodo, Pulau Padar, dan wilayah perairan lain dalam kawasan Taman..."
+    },
+    {
+        "title": "Dirjen Kominfo: Total Ada Tujuh PSE Diblokir, Paypal Dibuka Sementara",
+        "link": "https://www.republika.co.id/berita/rfvetl327/dirjen-kominfo-total-ada-tujuh-pse-diblokir-paypal-dibuka-sementara",
+        "image": "static/images/republika.png",
+        "uid": "aHR0cHM6Ly93d3cucmVwdWJsaWthLmNvLmlkL2Jlcml0YS9yZnZldGwzMjcvZGlyamVuLWtvbWluZm8tdG90YWwtYWRhLXR1anVoLXBzZS1kaWJsb2tpci1wYXlwYWwtZGlidWthLXNlbWVudGFyYQ==",
+        "description": "REPUBLIKA.CO.ID,JAKARTA -- Direktur Jenderal Aplikasi Informatika Kementerian Komunikasi dan Informatika Semuel Abrijani Pangerapan mengatakan hingga Ahad (31/7) pukul 08.00 WIB ada 9.039 penyelenggara sistem elektronik (PSE) yang mendaftar dari..."
+    },
+    {
+        "title": "Pemkab Dairi Dorong Petani Lebih Semangat Tanam Kopi",
+        "link": "https://www.republika.co.id/berita/rfuyah457/pemkab-dairi-dorong-petani-lebih-semangat-tanam-kopi",
+        "image": "static/images/republika.png",
+        "uid": "aHR0cHM6Ly93d3cucmVwdWJsaWthLmNvLmlkL2Jlcml0YS9yZnV5YWg0NTcvcGVta2FiLWRhaXJpLWRvcm9uZy1wZXRhbmktbGViaWgtc2VtYW5nYXQtdGFuYW0ta29waQ==",
+        "description": "REPUBLIKA.CO.ID,&nbsp;SIDIKALANG -- Pemkab Dairi, Sumatra Utara, mendorong petani kopi di daerah itu agar lebih bersemangat dan lebih aktif memanfaatkan semua lahannya yang cocok untuk ditanam tanaman kopi. Bupati Dairi..."
+    },
+    {
+        "title": "PBB Diundang Selidiki Serangan Tewaskan Puluhan Tawanan Perang Ukraina",
+        "link": "https://www.republika.co.id/berita/rfvfig327/pbb-diundang-selidiki-serangan-tewaskan-puluhan-tawanan-perang-ukraina",
+        "image": "static/images/republika.png",
+        "uid": "aHR0cHM6Ly93d3cucmVwdWJsaWthLmNvLmlkL2Jlcml0YS9yZnZmaWczMjcvcGJiLWRpdW5kYW5nLXNlbGlkaWtpLXNlcmFuZ2FuLXRld2Fza2FuLXB1bHVoYW4tdGF3YW5hbi1wZXJhbmctdWtyYWluYQ==",
+        "description": "REPUBLIKA.CO.ID,MOSKOW &ndash;- Rusia telah mengundang PBB dan Komite Palang Merah Internasional untuk menyelidiki kematian puluhan tawanan perang Ukraina di sebuah penjara di kota Olenivka, Donetsk. Penjara itu dihantam sebuah..."
+    },
+    {
         "title": "Upah Rendah Jawa Tengah Jadi Daya Tarik Investasi Padat Karya",
         "link": "https://www.republika.co.id/berita/rfuxwm457/upah-rendah-jawa-tengah-jadi-daya-tarik-investasi-padat-karya",
         "image": "static/images/republika.png",
@@ -33,40 +68,5 @@
         "image": "static/images/republika.png",
         "uid": "aHR0cHM6Ly93d3cucmVwdWJsaWthLmNvLmlkL2Jlcml0YS9yZnV4bno0NTcvc3VyeWFuZXNpYS10YXdhcmthbi1yZW50YWwtcGFuZWwtc3VyeWE=",
         "description": "REPUBLIKA.CO.ID,&nbsp;JAKARTA -- Startup Suryanesia menawarkan solusi untuk mendukung transisi energi berupa layanan rental sistem panel surya yang kini sudah dimanfaatkan industri dan pusat perbelanjaan. Founder dan CEO Suryanesia Rheza..."
-    },
-    {
-        "title": "Catat, Daerah Jakarta Ini Bisa Minum Langsung Air Pipa pada 2023 Nanti",
-        "link": "https://www.republika.co.id/berita/rfve2e327/catat-daerah-jakarta-ini-bisa-minum-langsung-air-pipa-pada-2023-nanti",
-        "image": "static/images/republika.png",
-        "uid": "aHR0cHM6Ly93d3cucmVwdWJsaWthLmNvLmlkL2Jlcml0YS9yZnZlMmUzMjcvY2F0YXQtZGFlcmFoLWpha2FydGEtaW5pLWJpc2EtbWludW0tbGFuZ3N1bmctYWlyLXBpcGEtcGFkYS0yMDIzLW5hbnRp",
-        "description": "REPUBLIKA.CO.ID,JAKARTA &mdash; Direktur Pelayanan PAM Jaya Syahrul Hasan mengatakan, pada 2023, sebagian daerah di Jakarta bisa minum langsung air dari pipa. Sumber air, kata dia, berasal dari Sistem Penyediaan..."
-    },
-    {
-        "title": "Buat Video Propaganda, Anggota ISIS Asal Kanada Dihukum Seumur Hidup",
-        "link": "https://www.republika.co.id/berita/rfveik320/buat-video-propaganda-anggota-isis-asal-kanada-dihukum-seumur-hidup",
-        "image": "static/images/republika.png",
-        "uid": "aHR0cHM6Ly93d3cucmVwdWJsaWthLmNvLmlkL2Jlcml0YS9yZnZlaWszMjAvYnVhdC12aWRlby1wcm9wYWdhbmRhLWFuZ2dvdGEtaXNpcy1hc2FsLWthbmFkYS1kaWh1a3VtLXNldW11ci1oaWR1cA==",
-        "description": "REPUBLIKA.CO.ID, WASHINGTON&ndash;Seorang ekstremis Kanada yang jadi tersangka dalam pembuatan video propaganda kelompok ISIS dijatuhi hukuman penjara seumur hidup pada Jumat, (29/7/2022).&nbsp;\nDepartemen Kehakiman Amerika Serikat juga menyebutnya telah membuat beberapa..."
-    },
-    {
-        "title": "Muncul Dukungan Kawula Muda Jawa Tengah untuk Ganjar-Sandi, Ini Alasannya",
-        "link": "https://repjabar.republika.co.id/berita/rfve8h320/muncul-dukungan-kawula-muda-jawa-tengah-untuk-ganjarsandi-ini-alasannya",
-        "image": "static/images/republika.png",
-        "uid": "aHR0cHM6Ly9yZXBqYWJhci5yZXB1Ymxpa2EuY28uaWQvYmVyaXRhL3JmdmU4aDMyMC9tdW5jdWwtZHVrdW5nYW4ta2F3dWxhLW11ZGEtamF3YS10ZW5nYWgtdW50dWstZ2FuamFyc2FuZGktaW5pLWFsYXNhbm55YQ==",
-        "description": "REPUBLIKA.CO.ID, SOLO &ndash; Diskusi bertajuk 'Kawula Muda Jawa Tengah Holopis Kuntul Baris' dengan topik pembahasan seputar percepatan pemulihan ekonomi nasional melalui sektor pariwisata dan ekonomi kreatif, dilaksanakan pada Sabtu..."
-    },
-    {
-        "title": "Indonesia Diharapkam Jadi Juara Umum ASEAN Para Games ke-XI Tahun 2022",
-        "link": "https://www.republika.co.id/berita/rfve8c456/indonesia-diharapkam-jadi-juara-umum-asean-para-games-kexi-tahun-2022",
-        "image": "static/images/republika.png",
-        "uid": "aHR0cHM6Ly93d3cucmVwdWJsaWthLmNvLmlkL2Jlcml0YS9yZnZlOGM0NTYvaW5kb25lc2lhLWRpaGFyYXBrYW0tamFkaS1qdWFyYS11bXVtLWFzZWFuLXBhcmEtZ2FtZXMta2V4aS10YWh1bi0yMDIy",
-        "description": "REPUBLIKA.CO.ID,&nbsp;SURAKARTA -- Wakil Presiden Ma'ruf Amin berharap para atlet Indonesia berhasil meraih juara umum di perhelatan ASEAN Para Games ke-XI Tahun 2022. Ma'ruf menjanjikan penghargaan kepada atlet-atlet yang berprestasi..."
-    },
-    {
-        "title": "Gangster Serang Pemuda hingga Tewas di Jakarta Selatan, Polisi Buruh Pelaku",
-        "link": "https://www.republika.co.id/berita/rfvdkh327/gangster-serang-pemuda-hingga-tewas-di-jakarta-selatan-polisi-buruh-pelaku",
-        "image": "static/images/republika.png",
-        "uid": "aHR0cHM6Ly93d3cucmVwdWJsaWthLmNvLmlkL2Jlcml0YS9yZnZka2gzMjcvZ2FuZ3N0ZXItc2VyYW5nLXBlbXVkYS1oaW5nZ2EtdGV3YXMtZGktamFrYXJ0YS1zZWxhdGFuLXBvbGlzaS1idXJ1aC1wZWxha3U=",
-        "description": "REPUBLIKA.CO.ID,JAKARTA -- Seorang pemuda tewas dan dua lainnya mengalami luka bacok setelah diserang sekelompok orang di Jalan Haji Nawi Raya, Cilandak, Jakarta Selatan. Saat ini pihak kepolisian pun memburuh..."
     }
 ]
