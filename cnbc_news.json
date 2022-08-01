@@ -1,5 +1,19 @@
 [
     {
+        "title": "DKI Tetap Level 1! PPKM Jawa-Bali Lanjut Hingga 15 Agustus",
+        "link": "https://www.cnbcindonesia.com/news/20220802061151-4-360318/dki-tetap-level-1-ppkm-jawa-bali-lanjut-hingga-15-agustus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjA2MTE1MS00LTM2MDMxOC9ka2ktdGV0YXAtbGV2ZWwtMS1wcGttLWphd2EtYmFsaS1sYW5qdXQtaGluZ2dhLTE1LWFndXN0dXM=",
+        "description": " PPKM Jawa-Bali diperpanjang hingga 15 Agustus, sementara luar Jawa-Bali diperpanjang hingga 5 September 2022"
+    },
+    {
+        "title": "Alert! AS Bunuh Bos Al-Qaeda di Afghanistan, Pria Rp 370 M",
+        "link": "https://www.cnbcindonesia.com/news/20220802060119-4-360317/alert-as-bunuh-bos-al-qaeda-di-afghanistan-pria-rp-370-m",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjA2MDExOS00LTM2MDMxNy9hbGVydC1hcy1idW51aC1ib3MtYWwtcWFlZGEtZGktYWZnaGFuaXN0YW4tcHJpYS1ycC0zNzAtbQ==",
+        "description": " Pemerintah Presiden Amerika Serikat (AS) Joe Biden dilaporkan telah membunuh satu pemimpin top Al-Qaeda di Afghanistan. Ia adalah Ayman al-Zawahiri."
+    },
+    {
         "title": "Heboh 'Indonesian Paper' Diajukan ke PBB, Apa Itu?",
         "link": "https://www.cnbcindonesia.com/news/20220802055650-4-360316/heboh-indonesian-paper-diajukan-ke-pbb-apa-itu",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE5NTczMi04LTM2MDI5OC9yZWtvci1pbmZsYXNpLXJpLWhpbmdnYS1tYW51ZmFrdHVyLWNoaW5hLXRlcmtvbnRyYWtzaQ==",
         "description": " Inflasi Indonesia kembali melesat pada periode Juli 2022, Badan Pusat Statistik (BPS) mencatatkan inflasi secara tahunan mencapai level tertinggi"
-    },
-    {
-        "title": "Penampakan Kapal Pembawa Gandum dari Ukraina, Dunia Menanti!",
-        "link": "https://www.cnbcindonesia.com/news/20220801192227-7-360290/penampakan-kapal-pembawa-gandum-dari-ukraina-dunia-menanti",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE5MjIyNy03LTM2MDI5MC9wZW5hbXBha2FuLWthcGFsLXBlbWJhd2EtZ2FuZHVtLWRhcmktdWtyYWluYS1kdW5pYS1tZW5hbnRp",
-        "description": " Kapal pertama yang membawa gandum Ukraina berangkat dari pelabuhan Odesa pada hari Senin (1/8/2022)."
-    },
-    {
-        "title": "Waduh, Rusia 'Ngaku' Sulit Perbaiki Pipa Gas Nord Stream 1",
-        "link": "https://www.cnbcindonesia.com/news/20220801183353-4-360271/waduh-rusia-ngaku-sulit-perbaiki-pipa-gas-nord-stream-1",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE4MzM1My00LTM2MDI3MS93YWR1aC1ydXNpYS1uZ2FrdS1zdWxpdC1wZXJiYWlraS1waXBhLWdhcy1ub3JkLXN0cmVhbS0x",
-        "description": " Juru bicara Kremlin Dmitry Peskov mengatakan Rusia hanya memiliki sedikit kemampuan untuk membantu perbaikan mendesak pada peralatan pipa gas Nord Stream 1."
     }
 ]
