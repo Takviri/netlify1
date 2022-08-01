@@ -1,5 +1,40 @@
 [
     {
+        "title": "Perbaiki Asabri, Erick Jamin Masa Depan Pensiunan Terjaga",
+        "link": "https://www.cnbcindonesia.com/market/20220801182629-17-360268/perbaiki-asabri-erick-jamin-masa-depan-pensiunan-terjaga",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTgyNjI5LTE3LTM2MDI2OC9wZXJiYWlraS1hc2FicmktZXJpY2stamFtaW4tbWFzYS1kZXBhbi1wZW5zaXVuYW4tdGVyamFnYQ==",
+        "description": " Terus Perbaiki Asabri, Erick Ingin Pastikan Masa Depan Pensiunan Terjaga"
+    },
+    {
+        "title": "Laba PP Presisi Melesat 33% di Semester I-2022",
+        "link": "https://www.cnbcindonesia.com/market/20220801183521-17-360273/laba-pp-presisi-melesat-33-di-semester-i-2022",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTgzNTIxLTE3LTM2MDI3My9sYWJhLXBwLXByZXNpc2ktbWVsZXNhdC0zMy1kaS1zZW1lc3Rlci1pLTIwMjI=",
+        "description": " Perolehan laba perusahaan didukung kontrak baru selama semester I-2022 sebesar Rp 2,7 triliun atau mencapai 47% dari target 2022 sebesar Rp 5,9 triliun."
+    },
+    {
+        "title": "Sri Mulyani Bicara 'Rembesan' yang Bisa Bikin RI Keok",
+        "link": "https://www.cnbcindonesia.com/market/20220801182556-17-360267/sri-mulyani-bicara-rembesan-yang-bisa-bikin-ri-keok",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTgyNTU2LTE3LTM2MDI2Ny9zcmktbXVseWFuaS1iaWNhcmEtcmVtYmVzYW4teWFuZy1iaXNhLWJpa2luLXJpLWtlb2s=",
+        "description": " Menteri Keuangan Sri Mulyani berbicara mengenai 'rembesan' yang bisa menjadi penghambat perekonomian nasional tumbuh"
+    },
+    {
+        "title": "BI Sebut Fed Tak Akan 'Seberani' Itu Kerek Suku Bunga Tinggi",
+        "link": "https://www.cnbcindonesia.com/market/20220801174206-17-360257/bi-sebut-fed-tak-akan-seberani-itu-kerek-suku-bunga-tinggi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTc0MjA2LTE3LTM2MDI1Ny9iaS1zZWJ1dC1mZWQtdGFrLWFrYW4tc2ViZXJhbmktaXR1LWtlcmVrLXN1a3UtYnVuZ2EtdGluZ2dp",
+        "description": " BI memperkirakan bank sentral AS tidak akan seagresif itu dalam menentukan arah kebijakan moneternya di masa depan"
+    },
+    {
+        "title": "Waspada! Bos OJK Sebut Gejolak Global Mulai Berdampak ke RI",
+        "link": "https://www.cnbcindonesia.com/market/20220801173919-17-360262/waspada-bos-ojk-sebut-gejolak-global-mulai-berdampak-ke-ri",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTczOTE5LTE3LTM2MDI2Mi93YXNwYWRhLWJvcy1vamstc2VidXQtZ2Vqb2xhay1nbG9iYWwtbXVsYWktYmVyZGFtcGFrLWtlLXJp",
+        "description": " Namun demikian, perlu dicermati bahwa tekanan terhadap pasar keuangan global juga sudah mulai berdampak pada pasar saham domestik."
+    },
+    {
         "title": "BI Tak Segan-segan Keluarkan Jurus Ini Demi Lindungi Rupiah",
         "link": "https://www.cnbcindonesia.com/market/20220801175727-17-360259/bi-tak-segan-segan-keluarkan-jurus-ini-demi-lindungi-rupiah",
         "image": "static/images/cnbc_market.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTczNzU3LTE3LTM2MDI1MS9qYW5nYW4tZGVzYWstYmktc3VrdS1idW5nYS1hY3Vhbi1yaS10YWstcGVybHUtaWt1dC1pa3V0YW4tYXM=",
         "description": " Bank Indonesia (BI) memastikan kebijakan suku bunga acuan atau BI 7 days reverse repo rate mempertimbangkan kondisi dalam negeri, bukan AS."
-    },
-    {
-        "title": "Bos OJK Sebut Kredit Perbankan Tumbuh 10,66% per Juni",
-        "link": "https://www.cnbcindonesia.com/market/20220801170956-17-360240/bos-ojk-sebut-kredit-perbankan-tumbuh-1066-per-juni",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTcwOTU2LTE3LTM2MDI0MC9ib3Mtb2prLXNlYnV0LWtyZWRpdC1wZXJiYW5rYW4tdHVtYnVoLTEwNjYtcGVyLWp1bmk=",
-        "description": " Kredit perbankan dalam triwulan 2 tahun ini tumbuh 10,66% yoy, per Juni 2022, yang ditopang oleh pertumbuhan kredit korporasi 12,87%."
-    },
-    {
-        "title": "Diburu Investor Lagi, Harga Perak Naik Lagi",
-        "link": "https://www.cnbcindonesia.com/market/20220801164908-17-360226/diburu-investor-lagi-harga-perak-naik-lagi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTY0OTA4LTE3LTM2MDIyNi9kaWJ1cnUtaW52ZXN0b3ItbGFnaS1oYXJnYS1wZXJhay1uYWlrLWxhZ2k=",
-        "description": " Harga perak dunia naik karena dolar yang turun"
-    },
-    {
-        "title": "BRI Kembali Buka Beasiswa BRILiaN Scholarship, Nih Syaratnya",
-        "link": "https://www.cnbcindonesia.com/market/20220801172527-17-360246/bri-kembali-buka-beasiswa-brilian-scholarship-nih-syaratnya",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTcyNTI3LTE3LTM2MDI0Ni9icmkta2VtYmFsaS1idWthLWJlYXNpc3dhLWJyaWxpYW4tc2Nob2xhcnNoaXAtbmloLXN5YXJhdG55YQ==",
-        "description": " PT Bank Rakyat Indonesia (Persero) Tbk (BBRI) kembali membuka program beasiswa BRILian Scholarship."
-    },
-    {
-        "title": "Erick Thohir Bangga! Bank BUMN Cetak Laba Besar Saat Sulit",
-        "link": "https://www.cnbcindonesia.com/market/20220801171908-17-360244/erick-thohir-bangga-bank-bumn-cetak-laba-besar-saat-sulit",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTcxOTA4LTE3LTM2MDI0NC9lcmljay10aG9oaXItYmFuZ2dhLWJhbmstYnVtbi1jZXRhay1sYWJhLWJlc2FyLXNhYXQtc3VsaXQ=",
-        "description": " Kinerja tersebut bisa dicapai di tengah tantangan perekonomian global yang berpotensi melemah."
-    },
-    {
-        "title": "BI Pastikan Likuiditas Bank Berlimpah, Siap Tancap Gas!",
-        "link": "https://www.cnbcindonesia.com/market/20220801171414-17-360243/bi-pastikan-likuiditas-bank-berlimpah-siap-tancap-gas",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTcxNDE0LTE3LTM2MDI0My9iaS1wYXN0aWthbi1saWt1aWRpdGFzLWJhbmstYmVybGltcGFoLXNpYXAtdGFuY2FwLWdhcw==",
-        "description": " BI menyebut kondisi likuiditas perbankan masih berlebih"
     }
 ]
