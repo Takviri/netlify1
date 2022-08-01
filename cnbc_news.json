@@ -1,5 +1,40 @@
 [
     {
+        "title": "Harga Properti Tetangga RI Lagi Anjlok Nih, Mau Beli?",
+        "link": "https://www.cnbcindonesia.com/news/20220801114111-4-360093/harga-properti-tetangga-ri-lagi-anjlok-nih-mau-beli",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExNDExMS00LTM2MDA5My9oYXJnYS1wcm9wZXJ0aS10ZXRhbmdnYS1yaS1sYWdpLWFuamxvay1uaWgtbWF1LWJlbGk=",
+        "description": " Harga properti Australia jatuh lebih terjal daripada era sebelumnya akibat suku bunga yang lebih tinggi menurunkan permintaan."
+    },
+    {
+        "title": "Wuih! Orang Asing Pelesiran ke Indonesia Naik 900%",
+        "link": "https://www.cnbcindonesia.com/news/20220801123007-4-360107/wuih-orang-asing-pelesiran-ke-indonesia-naik-900",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTEyMzAwNy00LTM2MDEwNy93dWloLW9yYW5nLWFzaW5nLXBlbGVzaXJhbi1rZS1pbmRvbmVzaWEtbmFpay05MDA=",
+        "description": " Kunjungan wisatawan mancanegara (wisman) melonjak drastis pada semester-I tahun 2022."
+    },
+    {
+        "title": "Beli Pertalite Selalu Antre Panjang, Ingat! Stok Sisa 15 Hari",
+        "link": "https://www.cnbcindonesia.com/news/20220801123934-4-360115/beli-pertalite-selalu-antre-panjang-ingat-stok-sisa-15-hari",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTEyMzkzNC00LTM2MDExNS9iZWxpLXBlcnRhbGl0ZS1zZWxhbHUtYW50cmUtcGFuamFuZy1pbmdhdC1zdG9rLXNpc2EtMTUtaGFyaQ==",
+        "description": " BPH Migas mencatat stok BBM Pertalite aman dan cukup untuk 15 hari ke depan"
+    },
+    {
+        "title": "Harga BBM Shell Turun Jadi Rp 17.300/Liter, Ini Alasannya?",
+        "link": "https://www.cnbcindonesia.com/news/20220801113633-4-360090/harga-bbm-shell-turun-jadi-rp-17300-liter-ini-alasannya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExMzYzMy00LTM2MDA5MC9oYXJnYS1iYm0tc2hlbGwtdHVydW4tamFkaS1ycC0xNzMwMC1saXRlci1pbmktYWxhc2Fubnlh",
+        "description": " Shell Indonesia resmi menurunkan harga BBM sejenis RO 92 atau Pertamax menjadi Rp 17.300 per liter"
+    },
+    {
+        "title": "Pak Jokowi Tolong! Kasus Covid RI Meledak 254% Dalam Sebulan",
+        "link": "https://www.cnbcindonesia.com/news/20220801113535-4-360094/pak-jokowi-tolong-kasus-covid-ri-meledak-254-dalam-sebulan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExMzUzNS00LTM2MDA5NC9wYWstam9rb3dpLXRvbG9uZy1rYXN1cy1jb3ZpZC1yaS1tZWxlZGFrLTI1NC1kYWxhbS1zZWJ1bGFu",
+        "description": " Dalam sepekan terakhir, angka kematian bahkan selalu menembus double digit."
+    },
+    {
         "title": "Begini Rencana Proyek Kereta di IKN Baru, Ada Cable Car",
         "link": "https://www.cnbcindonesia.com/news/20220801114904-4-360098/begini-rencana-proyek-kereta-di-ikn-baru-ada-cable-car",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExMjUxMy00LTM2MDA4NS9rZWJpamFrYW4tcGVtYmF0YXNhbi1iZWxpLXBlcnRhbGl0ZS1tdW5kdXItc2VwdGVtYmVy",
         "description": " Kebijakan pembatasan pembelian Pertalite masih menunggu revisi Perpres 191/2014"
-    },
-    {
-        "title": "Harga Sembako Makin Gila! Awas Angka Kemiskinan Ikut Naik...",
-        "link": "https://www.cnbcindonesia.com/news/20220801115342-4-360100/harga-sembako-makin-gila-awas-angka-kemiskinan-ikut-naik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExNTM0Mi00LTM2MDEwMC9oYXJnYS1zZW1iYWtvLW1ha2luLWdpbGEtYXdhcy1hbmdrYS1rZW1pc2tpbmFuLWlrdXQtbmFpaw==",
-        "description": " Inflasi Indonesia terus meninggi. Penyumbang terbesar adalah makanan, yang masuk kelompok bergejolak (volatile goods)."
-    },
-    {
-        "title": "Krisis Energi Makin Nyata di Jerman, Fakta Ini Buktinya",
-        "link": "https://www.cnbcindonesia.com/news/20220801104009-4-360065/krisis-energi-makin-nyata-di-jerman-fakta-ini-buktinya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTEwNDAwOS00LTM2MDA2NS9rcmlzaXMtZW5lcmdpLW1ha2luLW55YXRhLWRpLWplcm1hbi1mYWt0YS1pbmktYnVrdGlueWE=",
-        "description": " Krisis energi sepertinya semakin nyata melanda Jerman. Akibatnya\u00c2\u00a0pembangkit listrik nuklir akan tetap dihidupkan hingga 2024."
-    },
-    {
-        "title": "Inflasi Juli Tertinggi Sejak 2015, Ekonom: Masih Manageable",
-        "link": "https://www.cnbcindonesia.com/news/20220801114905-8-360097/inflasi-juli-tertinggi-sejak-2015-ekonom-masih-manageable",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExNDkwNS04LTM2MDA5Ny9pbmZsYXNpLWp1bGktdGVydGluZ2dpLXNlamFrLTIwMTUtZWtvbm9tLW1hc2loLW1hbmFnZWFibGU=",
-        "description": " Inflasi Juli Tertinggi Sejak 2015, Ekonom: Masih Manageable"
-    },
-    {
-        "title": "Potret Banjir Bandang Terjang AS, Mobil-Rumah Tenggelam",
-        "link": "https://www.cnbcindonesia.com/news/20220801095222-7-360038/potret-banjir-bandang-terjang-as-mobil-rumah-tenggelam",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTA5NTIyMi03LTM2MDAzOC9wb3RyZXQtYmFuamlyLWJhbmRhbmctdGVyamFuZy1hcy1tb2JpbC1ydW1haC10ZW5nZ2VsYW0=",
-        "description": " Kentucky, Amerika Serikat (AS) dilanda banjir besar. Hingga saat ini korban tewas menjadi 25 orang."
-    },
-    {
-        "title": "Duh! Krisis Pangan dan Energi Global Sudah Terasa di Indonesia",
-        "link": "https://www.cnbcindonesia.com/news/20220801113613-4-360092/duh-krisis-pangan-energi-global-sudah-terasa-di-indonesia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExMzYxMy00LTM2MDA5Mi9kdWgta3Jpc2lzLXBhbmdhbi1lbmVyZ2ktZ2xvYmFsLXN1ZGFoLXRlcmFzYS1kaS1pbmRvbmVzaWE=",
-        "description": " Krisis pangan dan energi global telah terasa di Indonesia."
     }
 ]
