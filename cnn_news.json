@@ -1,5 +1,19 @@
 [
     {
+        "title": "DPRD DKI Resmi Bentuk Pansus Aset",
+        "link": "https://www.cnnindonesia.com/nasional/20220802023456-32-828988/dprd-dki-resmi-bentuk-pansus-aset",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjAyMzQ1Ni0zMi04Mjg5ODgvZHByZC1ka2ktcmVzbWktYmVudHVrLXBhbnN1cy1hc2V0",
+        "description": " Pansus aset diperlukan dalam rangka mengidentifikasi kepemilikan aset Pemprov DKI Jakarta yang terkendala di lapangan secara akurat dan transparan."
+    },
+    {
+        "title": "Pengacara Sebut Bharada E Pahlawan yang Dihakimi",
+        "link": "https://www.cnnindonesia.com/nasional/20220801193944-12-828924/pengacara-sebut-bharada-e-pahlawan-yang-dihakimi",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMTE5Mzk0NC0xMi04Mjg5MjQvcGVuZ2FjYXJhLXNlYnV0LWJoYXJhZGEtZS1wYWhsYXdhbi15YW5nLWRpaGFraW1p",
+        "description": " Pengacara Bharada E, Andreas Nahot Silitonga mengeluhkan kliennya kerap dihakimi imbas insiden penembakan terhadap Brigadir J."
+    },
+    {
         "title": "Lima Tersangka Korupsi Ekspor Minyak Sawit Segera Disidang",
         "link": "https://www.cnnindonesia.com/nasional/20220801183821-12-828899/lima-tersangka-korupsi-ekspor-minyak-sawit-segera-disidang",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMTIxNTYwMi0xMi04Mjg5NzMvbWFzc2EtcGVsYWt1LXBhcml3aXNhdGEtYmVydGFoYW4tZGktcG9scmVzLW1hbmdnYXJhaS1iYXJhdC1zZW5pbi1tYWxhbQ==",
         "description": " Massa bertahan di depan Markas Polres Manggarai Barat hingga Senin malam untuk mendesak pembebasan sepuluh rekannya yang ditangkap polisi."
-    },
-    {
-        "title": "Mahfud Jamin Komitmen Pemerintah Kawal Pemilu 2024",
-        "link": "https://www.cnnindonesia.com/nasional/20220801213947-32-828970/mahfud-jamin-komitmen-pemerintah-kawal-pemilu-2024",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMTIxMzk0Ny0zMi04Mjg5NzAvbWFoZnVkLWphbWluLWtvbWl0bWVuLXBlbWVyaW50YWgta2F3YWwtcGVtaWx1LTIwMjQ=",
-        "description": " Menko Polhukam Mahfud MD menyebut pemerintah berkomitmen kuat untuk mengawal Pemilu 2024 dengan baik."
-    },
-    {
-        "title": "Survei: Prabowo-Cak Imin Ungguli Ganjar-Andika hingga Anies-AHY",
-        "link": "https://www.cnnindonesia.com/nasional/20220801213727-32-828969/survei-prabowo-cak-imin-ungguli-ganjar-andika-hingga-anies-ahy",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMTIxMzcyNy0zMi04Mjg5Njkvc3VydmVpLXByYWJvd28tY2FrLWltaW4tdW5nZ3VsaS1nYW5qYXItYW5kaWthLWhpbmdnYS1hbmllcy1haHk=",
-        "description": " Skenario pasangan Prabowo-Cak Imin unggul dalam empat skenario pemasangan capres-cawapares 2024 yang dibuat oleh\u00c2\u00a0Media Survei Nasional (Median)."
     }
 ]
