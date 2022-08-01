@@ -1,6 +1,27 @@
 [
     {
         "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/511484/aji-santoso-puji-kekuatan-mental-pemain-persebaya-usai-kalahkan-persita",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTQ4NC9hamktc2FudG9zby1wdWppLWtla3VhdGFuLW1lbnRhbC1wZW1haW4tcGVyc2ViYXlhLXVzYWkta2FsYWhrYW4tcGVyc2l0YQ==",
+        "description": "PELATIH Persebaya Aji Santoso menilai kekuatan mental pemain menjadi kunci kemenangan timnya atas Persita Tangerang pada laga lanjutan pekan kedua Liga&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/511482/alcaraz-naik-ke-peringkat-empat-dunia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTE0ODIvYWxjYXJhei1uYWlrLWtlLXBlcmluZ2thdC1lbXBhdC1kdW5pYQ==",
+        "description": "PETENIS remaja Spanyol Carlos Alcaraz naik satu peringkat ke posisi keempat di ranking dunia ATP yang dirilis, Senin (1/8). Petenis&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/511483/kalahkan-persita-persebaya-raih-kemenangan-perdana-di-liga-1",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTQ4My9rYWxhaGthbi1wZXJzaXRhLXBlcnNlYmF5YS1yYWloLWtlbWVuYW5nYW4tcGVyZGFuYS1kaS1saWdhLTE=",
+        "description": "PERSEBAYA meraih kemenangan perdana di Liga 1 musim kompetisi 2022/2023 usai menaklukkan Persita Tangerang dengan skor 2-0 di Stadion&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/511481/guardiola-pastikan-city-tidak-terpengaruh-dengan-kekalahan-di-community-shield",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTQ4MS9ndWFyZGlvbGEtcGFzdGlrYW4tY2l0eS10aWRhay10ZXJwZW5nYXJ1aC1kZW5nYW4ta2VrYWxhaGFuLWRpLWNvbW11bml0eS1zaGllbGQ=",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTQ3NS9iYW5rLWZhZGhpbGFoLWdhbmRlbmctbXVhbWFsYXQtaW5zdGl0dXRlLXRpbmdrYXRrYW4ta2VtYW1wdWFuLWVrb25vbWktc3lhcmlhaA==",
         "description": "BANK Fadhilah bekerja sama dengan Muamalat Institute menggelar kegiatan pelatihan &quot;Core Sharia Financing Training di Hotel Coedela In, Kota Bengkulu Bengkulu, 30-31 Juli 2022. Pelatihan itu diharapkan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/511473/fernando-alonso-hijrah-ke-aston-martin-gantikan-vettel",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTE0NzMvZmVybmFuZG8tYWxvbnNvLWhpanJhaC1rZS1hc3Rvbi1tYXJ0aW4tZ2FudGlrYW4tdmV0dGVs",
-        "description": "JUARA dunia dua kali Formula 1 Fernando Alonso akan membalap bersama Aston Martin mulai musim 2023. Alonso bergabung bersama Aston Martin untuk menggantikan pebalap Jerman Sebastian Vettel yang&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511472/pemkot-bandung-lakukan-vaksinasi-pmk-dosis-kedua",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExNDcyL3BlbWtvdC1iYW5kdW5nLWxha3VrYW4tdmFrc2luYXNpLXBtay1kb3Npcy1rZWR1YQ==",
-        "description": "PEMERINTAH Kota (Pemkot) Bandung, Jawa Barat (Jabar), mulai hari ini, Senin (1/8), kembali melakukan vaksinasi hewan ternak tahap kedua untuk mencegah penyakit mulut dan kuku (PMK). Sebanyak&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511471/makan-buah-ini-porsi-yang-ideal-menurut-pakar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNDcxL21ha2FuLWJ1YWgtaW5pLXBvcnNpLXlhbmctaWRlYWwtbWVudXJ1dC1wYWthcg==",
-        "description": "DOKTER Spesialis Gizi Klinik dari Universitas Indonesia dr. Diana Felicia Suganda mengatakan, konsumsi buah yang dianjurkan adalah minimal dua hingga tiga porsi sehari untuk memenuhi asupan mikronutrien&#8230;"
     }
 ]
