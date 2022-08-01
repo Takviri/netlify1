@@ -1,5 +1,12 @@
 [
     {
+        "title": "Breaking News: Harga Minyak Dunia Ambrol, Turun 6% Lebih",
+        "link": "https://www.cnbcindonesia.com/market/20220801064553-17-359982/breaking-news-harga-minyak-dunia-ambrol-turun-6-lebih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMDY0NTUzLTE3LTM1OTk4Mi9icmVha2luZy1uZXdzLWhhcmdhLW1pbnlhay1kdW5pYS1hbWJyb2wtdHVydW4tNi1sZWJpaA==",
+        "description": " Harga minyak dunia anjlok pada perdagangan pagi hari ini. Apa yang terjadi?"
+    },
+    {
         "title": "Awas, Inflasi Makin Panas!",
         "link": "https://www.cnbcindonesia.com/market/20220801042805-17-359972/awas-inflasi-makin-panas",
         "image": "static/images/cnbc_market.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzMxMTA0MTU2LTE3LTM1OTkxMS9kZWFyLWNyeXB0by1sb3ZlcnMtaGFyZ2EtYml0Y29pbi1tYXNpaC1iaXNhLW5hbmphay1uaWg=",
         "description": " Secara mingguan, banyak aset kripto yang mencatatkan kenaikan harga bahkan cukup signifikan."
-    },
-    {
-        "title": "Juragan Pesta Pora! Harga Sawit Meroket Hampir 16% Minggu Ini",
-        "link": "https://www.cnbcindonesia.com/market/20220731073552-17-359888/juragan-pesta-pora-harga-sawit-meroket-hampir-16-minggu-ini",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzMxMDczNTUyLTE3LTM1OTg4OC9qdXJhZ2FuLXBlc3RhLXBvcmEtaGFyZ2Etc2F3aXQtbWVyb2tldC1oYW1waXItMTYtbWluZ2d1LWluaQ==",
-        "description": " Harga minyak sawit mentah (Crude Palm Oil/CPO) melesat pekan ini. Harga CPO kembali berada di atas MYR 4.000/ton."
     }
 ]
