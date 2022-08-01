@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pertumbuhan Industri Melejit, PLN Tambah Setrum di Kalsel",
+        "link": "https://www.cnbcindonesia.com/news/20220801185100-4-360277/pertumbuhan-industri-melejit-pln-tambah-setrum-di-kalsel",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE4NTEwMC00LTM2MDI3Ny9wZXJ0dW1idWhhbi1pbmR1c3RyaS1tZWxlaml0LXBsbi10YW1iYWgtc2V0cnVtLWRpLWthbHNlbA==",
+        "description": " PLN memperkuat jaringan listrik di Kalimantan Selatan dengan menambah tiga buah kapasitor dengan total kapasitas 75 Megavolt Ampere Reactive (MVAr)"
+    },
+    {
+        "title": "Krisis Gas, Orang Jerman Terancam Gak Bisa Minum Bir!",
+        "link": "https://www.cnbcindonesia.com/news/20220801183534-4-360274/krisis-gas-orang-jerman-terancam-gak-bisa-minum-bir",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE4MzUzNC00LTM2MDI3NC9rcmlzaXMtZ2FzLW9yYW5nLWplcm1hbi10ZXJhbmNhbS1nYWstYmlzYS1taW51bS1iaXI=",
+        "description": " Federasi Bir di Jermas khawatir melonjaknya biaya energi atas ancaman rusia meotong pasokan gas mempengaruhi produksi bir"
+    },
+    {
         "title": "Hong Kong Resesi! PDB Kuartal II/2022 Kontraksi 1,4%",
         "link": "https://www.cnbcindonesia.com/news/20220801182716-4-360270/hong-kong-resesi-pdb-kuartal-ii-2022-kontraksi-14",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE3MTgxMC00LTM2MDI0OC9qb2tvd2ktcGVyaW50YWhrYW4tYW5hay1idWFoLXBhY3UtcHJvZHVrc2ktamFndW5n",
         "description": " Menteri Koordinator bidang Perekonomian Airlangga Hartarto mengungkapkan beberapa arahan Presiden Joko Widodo\u00c2\u00a0terkait ketahanan pangan."
-    },
-    {
-        "title": "RI Tanggung Pembengkakan Biaya Kereta Cepat?Ini Penjelasannya",
-        "link": "https://www.cnbcindonesia.com/news/20220801163530-8-360218/ri-tanggung-pembengkakan-biaya-kereta-cepatini-penjelasannya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE2MzUzMC04LTM2MDIxOC9yaS10YW5nZ3VuZy1wZW1iZW5na2FrYW4tYmlheWEta2VyZXRhLWNlcGF0aW5pLXBlbmplbGFzYW5ueWE=",
-        "description": " 0 Kemenko Marves Soal RI Tanggung Pembengkakan Biaya Kereta Cepat"
-    },
-    {
-        "title": "Kejar EBT, PLN Bakal Bangun PLTMh Batanghari di Sumbar",
-        "link": "https://www.cnbcindonesia.com/news/20220801170641-4-360241/kejar-ebt-pln-bakal-bangun-pltmh-batanghari-di-sumbar",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE3MDY0MS00LTM2MDI0MS9rZWphci1lYnQtcGxuLWJha2FsLWJhbmd1bi1wbHRtaC1iYXRhbmdoYXJpLWRpLXN1bWJhcg==",
-        "description": " Ada 3 pembangkit EBT dengan total kapasitas 252,91 MW: Diantaranya 1 unit PLTP dan\u00c2\u00a02 unit pembangkit listrik tenaga gas (PLTG), dan belasan PLTM"
     }
 ]
