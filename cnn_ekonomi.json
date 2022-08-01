@@ -1,5 +1,26 @@
 [
     {
+        "title": "Harga BBM Shell Turun, Berikut Rinciannya",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220801091631-85-828571/harga-bbm-shell-turun-berikut-rinciannya",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMDkxNjMxLTg1LTgyODU3MS9oYXJnYS1iYm0tc2hlbGwtdHVydW4tYmVyaWt1dC1yaW5jaWFubnlh",
+        "description": " PT Shell Indonesia menurunkan harga BBM yang dijual di SPBU mereka di sejumlah daerah mulai Senin (1/8) ini."
+    },
+    {
+        "title": "Mayoritas Harga Kripto Menguat dalam Sepekan",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220801092735-92-828577/mayoritas-harga-kripto-menguat-dalam-sepekan",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMDkyNzM1LTkyLTgyODU3Ny9tYXlvcml0YXMtaGFyZ2Eta3JpcHRvLW1lbmd1YXQtZGFsYW0tc2VwZWthbg==",
+        "description": " Mayoritas harga kripto nampak hijau dibandingkan pekan lalu, namun rata-rata turun jika dibandingkan dalam 24 jam terakhir."
+    },
+    {
+        "title": "Download Allo Bank, Langsung Dapat Dessert Mini Tiramisu Gratis",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220801092455-97-828576/download-allo-bank-langsung-dapat-dessert-mini-tiramisu-gratis",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMDkyNDU1LTk3LTgyODU3Ni9kb3dubG9hZC1hbGxvLWJhbmstbGFuZ3N1bmctZGFwYXQtZGVzc2VydC1taW5pLXRpcmFtaXN1LWdyYXRpcw==",
+        "description": " Pengguna baru Allo Bank\u00c2\u00a0bisa dapat\u00c2\u00a0dessert Mini Tiramisu dari Roti Keset Condet gratis di Trans Studio Mall (TSM) Cibubur."
+    },
+    {
         "title": "'Resesi' Ekonomi AS Angkat Rupiah ke Rp14.863",
         "link": "https://www.cnnindonesia.com/ekonomi/20220801085413-78-828568/resesi-ekonomi-as-angkat-rupiah-ke-rp14863",
         "image": "static/images/cnn_ekonomi.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMDU1NjA2LTkyLTgyODUxNC9kZXJldGFuLXNhaGFtLWN1YW4tcGVrYW4taW5pLWRhcmktcGVyYmFua2FuLWhpbmdnYS1wZXJrZWJ1bmFu",
         "description": " Analis menyebut sejumlah saham bersinar pekan ini dan karena itu layak dikoleksi. Berikut rinciannya."
-    },
-    {
-        "title": "Alasan JNE Kubur Beras Bantuan Presiden di Depok",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220801060314-92-828515/alasan-jne-kubur-beras-bantuan-presiden-di-depok",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMDYwMzE0LTkyLTgyODUxNS9hbGFzYW4tam5lLWt1YnVyLWJlcmFzLWJhbnR1YW4tcHJlc2lkZW4tZGktZGVwb2s=",
-        "description": " JNE mengklaim tidak ada pelanggaran dalam penguburan beras bantuan presiden di Depok."
-    },
-    {
-        "title": "IHSG Berpotensi Menguat di Awal Pekan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220801054504-92-828513/ihsg-berpotensi-menguat-di-awal-pekan",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMDU0NTA0LTkyLTgyODUxMy9paHNnLWJlcnBvdGVuc2ktbWVuZ3VhdC1kaS1hd2FsLXBla2Fu",
-        "description": " IHSG berpotensi menguat di awal pekan akibat tertopang faktor teknikal dan data ekonomi dalam negeri yang masih bagus."
-    },
-    {
-        "title": "Survei: Banyak Masyarakat Tak Tahu NIK Gantikan NPWP",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220731191842-532-828463/survei-banyak-masyarakat-tak-tahu-nik-gantikan-npwp",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzMxMTkxODQyLTUzMi04Mjg0NjMvc3VydmVpLWJhbnlhay1tYXN5YXJha2F0LXRhay10YWh1LW5pay1nYW50aWthbi1ucHdw",
-        "description": " Survei Indikator Politik Indonesia mencatat baru\u00c2\u00a028,9 persen di antara mereka yang punya NPWP, tahu bahwa NIK akan jadi pengganti\u00c2\u00a0nomor pokok wajib pajak itu."
     }
 ]

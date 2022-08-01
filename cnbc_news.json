@@ -1,5 +1,33 @@
 [
     {
+        "title": "RI Waspada! Baju Impor Bakal Makin Membludak",
+        "link": "https://www.cnbcindonesia.com/news/20220801090831-4-360026/ri-waspada-baju-impor-bakal-makin-membludak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTA5MDgzMS00LTM2MDAyNi9yaS13YXNwYWRhLWJhanUtaW1wb3ItYmFrYWwtbWFraW4tbWVtYmx1ZGFr",
+        "description": " Impor tekstil dan produk tekstil mengkhawatirkan pelaku usaha karena terus membanjiri pasar dalam negeri."
+    },
+    {
+        "title": "Harga BBM Pertalite dan Pertamax Pertamina di Seluruh SPBU RI",
+        "link": "https://www.cnbcindonesia.com/news/20220801084510-4-360013/harga-bbm-pertalite-pertamax-pertamina-di-seluruh-spbu-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTA4NDUxMC00LTM2MDAxMy9oYXJnYS1iYm0tcGVydGFsaXRlLXBlcnRhbWF4LXBlcnRhbWluYS1kaS1zZWx1cnVoLXNwYnUtcmk=",
+        "description": " Pertamina sudah menaikkan harga tiga jenis BBMnya per 10 Juli 2022"
+    },
+    {
+        "title": "Stok BBM Subsidi Menipis, Kapan Pembatasan Pertalite Berlaku?",
+        "link": "https://www.cnbcindonesia.com/news/20220801093640-8-360031/stok-bbm-subsidi-menipis-kapan-pembatasan-pertalite-berlaku",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTA5MzY0MC04LTM2MDAzMS9zdG9rLWJibS1zdWJzaWRpLW1lbmlwaXMta2FwYW4tcGVtYmF0YXNhbi1wZXJ0YWxpdGUtYmVybGFrdQ==",
+        "description": " Stok BBM Subsidi Menipis, Kapan Pembatasan Pertalite Berlaku?"
+    },
+    {
+        "title": "Pembatasan Beli Pertalite Mulai Berlaku? Ini Kata Pertamina",
+        "link": "https://www.cnbcindonesia.com/news/20220801084818-4-360014/pembatasan-beli-pertalite-mulai-berlaku-ini-kata-pertamina",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTA4NDgxOC00LTM2MDAxNC9wZW1iYXRhc2FuLWJlbGktcGVydGFsaXRlLW11bGFpLWJlcmxha3UtaW5pLWthdGEtcGVydGFtaW5h",
+        "description": " Pertamina menyatakan pemberlakuan pembatasan pembelian Pertalite belum berlaku pada 1 Agustus 2022 ini"
+    },
+    {
         "title": "Sah! Jokowi Teken Pembentukan 3 Provinsi Baru Papua, Ini Dia",
         "link": "https://www.cnbcindonesia.com/news/20220801085207-4-360015/sah-jokowi-teken-pembentukan-3-provinsi-baru-papua-ini-dia",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTA3MjAzNy00LTM1OTk4Ny9yaS1rZXRpYmFuLXNpYWwtcmVzZXNpLWFtZXJpa2Eta29rLWJpc2EtYnUtc3JpLW11bHlhbmk=",
         "description": " Amerika Serikat (AS) mau tidak mau harus menerima kalau kini masuk ke jurang resesi."
-    },
-    {
-        "title": "AS Resesi? Nggak Peduli! Ini Komentar The Fed Terbaru",
-        "link": "https://www.cnbcindonesia.com/news/20220801072537-4-359988/as-resesi-nggak-peduli-ini-komentar-the-fed-terbaru",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTA3MjUzNy00LTM1OTk4OC9hcy1yZXNlc2ktbmdnYWstcGVkdWxpLWluaS1rb21lbnRhci10aGUtZmVkLXRlcmJhcnU=",
-        "description": " Amerika Serikat (AS) memang saat ini sedang dilanda pertumbuhan ekonomi yang minus atau resesi. Ini komentar The Fed terbaru."
-    },
-    {
-        "title": "Kabar Gembira! Manufaktur RI Kembali Bertenaga",
-        "link": "https://www.cnbcindonesia.com/news/20220801071118-4-359990/kabar-gembira-manufaktur-ri-kembali-bertenaga",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTA3MTExOC00LTM1OTk5MC9rYWJhci1nZW1iaXJhLW1hbnVmYWt0dXItcmkta2VtYmFsaS1iZXJ0ZW5hZ2E=",
-        "description": " Aktivitas manufaktur Indonesia membaik. Peningkatan produksi dan permintaan menjadi penyebabnya."
-    },
-    {
-        "title": "Bukan Ukraina, Putin Bongkar Negara Ancaman Utama Rusia",
-        "link": "https://www.cnbcindonesia.com/news/20220801071840-4-359985/bukan-ukraina-putin-bongkar-negara-ancaman-utama-rusia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTA3MTg0MC00LTM1OTk4NS9idWthbi11a3JhaW5hLXB1dGluLWJvbmdrYXItbmVnYXJhLWFuY2FtYW4tdXRhbWEtcnVzaWE=",
-        "description": " Bukan Ukraina. Presiden Rusia Vladimir Putin mengatakan bahwa ancaman utama negara yang dipimpinnya itu adalah Amerika Serikat (AS)."
-    },
-    {
-        "title": "Awas Perang Masuk Asia, China 'Tembak-Menembak' Dekat Taiwan",
-        "link": "https://www.cnbcindonesia.com/news/20220801071024-4-359984/awas-perang-masuk-asia-china-tembak-menembak-dekat-taiwan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTA3MTAyNC00LTM1OTk4NC9hd2FzLXBlcmFuZy1tYXN1ay1hc2lhLWNoaW5hLXRlbWJhay1tZW5lbWJhay1kZWthdC10YWl3YW4=",
-        "description": " China kembali mengerahkan militer di wilayah dekat Taiwan."
     }
 ]
