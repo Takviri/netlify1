@@ -1,5 +1,19 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/511452/polarisasi-dan-merosotnya-demokrasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTE0NTIvcG9sYXJpc2FzaS1kYW4tbWVyb3NvdG55YS1kZW1va3Jhc2k=",
+        "description": "BERBAGAI studi mutakhir tentang demokrasi menunjukkan keterkaitan erat antara polarisasi dan tren global redupnya demokrasi. Bersama politik identitas dan populisme, polarisasi dianggap sebagai ancaman&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/511485/fabregas-bergabung-dengan-klub-serie-b",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTQ4NS9mYWJyZWdhcy1iZXJnYWJ1bmctZGVuZ2FuLWtsdWItc2VyaWUtYg==",
+        "description": "GELANDANG gaek Cesc Fabregas resmi bergabung dengan klub Serie B Como 1907 pada bursa transfer pemain musim panas ini dengan&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/511484/aji-santoso-puji-kekuatan-mental-pemain-persebaya-usai-kalahkan-persita",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTE0NzYva29tbmFzLWhhbS10ZXMtcGNyLWRpbGFrdWthbi1kaS1ydW1haC1wcmliYWRpLWlyamVuLXNhbWJv",
         "description": "KOMISI Nasional Hak Asasi Manusia (Komnas HAM) mengatakan mendapatkan bukti tambahan berupa hasil tes usap PCR yang dilakukan di rumah pribadi Irjen Ferdy Sambo terkait kematian Brigadir Nofriansyah&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511477/sekolah-di-ntb-boleh-diliburkan-jika-muncul-kasus-positif-covid-19",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNDc3L3Nla29sYWgtZGktbnRiLWJvbGVoLWRpbGlidXJrYW4tamlrYS1tdW5jdWwta2FzdXMtcG9zaXRpZi1jb3ZpZC0xOQ==",
-        "description": "SATGAS Tugas Penanganan COVID-19 Kota Mataram, Provinsi Nusa Tenggara Barat, mengatakan jika ada siswa yang terkonfirmasi positif korona, sekolah boleh ditutup sementara selama 5-10 hari ke depan untuk&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/511475/bank-fadhilah-gandeng-muamalat-institute-tingkatkan-kemampuan-ekonomi-syariah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTQ3NS9iYW5rLWZhZGhpbGFoLWdhbmRlbmctbXVhbWFsYXQtaW5zdGl0dXRlLXRpbmdrYXRrYW4ta2VtYW1wdWFuLWVrb25vbWktc3lhcmlhaA==",
-        "description": "BANK Fadhilah bekerja sama dengan Muamalat Institute menggelar kegiatan pelatihan &quot;Core Sharia Financing Training di Hotel Coedela In, Kota Bengkulu Bengkulu, 30-31 Juli 2022. Pelatihan itu diharapkan&#8230;"
     }
 ]
