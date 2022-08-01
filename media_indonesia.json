@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/511289/laba-bersih-penyedia-alat-berat-ini-naik-615-pada-semester-1-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTI4OS9sYWJhLWJlcnNpaC1wZW55ZWRpYS1hbGF0LWJlcmF0LWluaS1uYWlrLTYxNS1wYWRhLXNlbWVzdGVyLTEtMjAyMg==",
+        "description": "PT Kobexindo Tractors Tbk (KOBX) penyedia alat berat terintegrasi kembali membukukan pertumbuhan positif pada semester I-2022.&nbsp; Laba Bersih Komprehensif yang Dapat Diatribusikan Kepada&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511288/iapvc-babak-kedua-digelar-di-bali-safari-park-abadikan-momen-satwa-endemik-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExMjg4L2lhcHZjLWJhYmFrLWtlZHVhLWRpZ2VsYXItZGktYmFsaS1zYWZhcmktcGFyay1hYmFkaWthbi1tb21lbi1zYXR3YS1lbmRlbWlrLWluZG9uZXNpYQ==",
+        "description": "TAMAN Safari Indonesia Grup kembali menggelar ajang Lomba Foto dan video satwa berskala Internasional, International Animal Photo and Video Competition (IAPVC) untuk yang ke-31 kalinya.&nbsp; IAPVC&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/511287/program-bantuan-jokowi-efektif-tekan-angka-kemiskinan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTI4Ny9wcm9ncmFtLWJhbnR1YW4tam9rb3dpLWVmZWt0aWYtdGVrYW4tYW5na2Eta2VtaXNraW5hbg==",
+        "description": "PRESIDEN Joko Widodo (Jokowi) terbukti mampu menekan angka kemiskinan di Indonesia. Selama dua periode kepemimpinannya berbagai program bantuan masih terus dicanangkan untuk mengentaskan kemiskinan.&nbsp;&#8230;"
+    },
+    {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/511286/mobil-anda-punya-sliding-door-ini-cara-merawatnya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTEyODYvbW9iaWwtYW5kYS1wdW55YS1zbGlkaW5nLWRvb3ItaW5pLWNhcmEtbWVyYXdhdG55YQ==",
+        "description": "AURO2000 menjelaskan, Toyota memasarkan beberapa kendaraan yang mengadopsi mekanisme pintu geser atau sliding door elektrik mulai dari Sienta, lalu Voxy, Alphard dan Vellfire, untuk penumpang&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/511285/hore-masyarakat-bebas-gelar-perlombaan-tujuh-belasan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTEyODUvaG9yZS1tYXN5YXJha2F0LWJlYmFzLWdlbGFyLXBlcmxvbWJhYW4tdHVqdWgtYmVsYXNhbg==",
+        "description": "PEMERINTAH mengizinkan masyarakat, pemerintah daerah, kementerian/lembaga (K/L) negara menggelar perlombaan dalam rangka memperingati HUT ke-77 Republik Indonesia. Izin tersebut diberikan mengingat&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/511284/hotel-grand-inna-bali-tutup-245-karyawan-terima-opsi-phk-sisanya-belum",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTI4NC9ob3RlbC1ncmFuZC1pbm5hLWJhbGktdHV0dXAtMjQ1LWthcnlhd2FuLXRlcmltYS1vcHNpLXBoay1zaXNhbnlhLWJlbHVt",
+        "description": "BADAN Usaha Milik Negara (BUMN) yang bergerak di bidang pelayanan jasa perhotelan, PT Hotel Indonesia Natour (Persero) mengungkapkan, hotel Grand Inna Bali Beach berhenti beroperasi hingga dua tahun&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/511283/raih-7-medali-kurnia-stable-juara-umum-the-jakarta-master-2022",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTEyODAvcGtzLWRhZnRhci1wZW1pbHUtMjAyNC1rZS1rcHUtc2VtYmFyaS1zYWxhd2F0YW4=",
         "description": "PARTAI Keadilan Sejahtera (PKS) melakukan pendaftaran peserta Pemilu 2024, hari ini, Senin (1/8). PKS tiba beserta rombongan kasidahan diiringi lantunan salawatan sekitar pukul 09.27 WIB. Mereka&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/511279/wakil-ketua-dpr-minta-komnas-ham-bekerja-sesuai-uu-dalam-kasus-brigadir-j",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTEyNzkvd2FraWwta2V0dWEtZHByLW1pbnRhLWtvbW5hcy1oYW0tYmVrZXJqYS1zZXN1YWktdXUtZGFsYW0ta2FzdXMtYnJpZ2FkaXItag==",
-        "description": "WAKIL Ketua DPR RI Sufmi Dasco Ahmad mengingatkan Komisi Nasional Hak Asasi Manusia (HAM) agar bekerja sesuai dengan ketentuan peraturan perundang-undangan dalam kasus meninggalnya Brigadir J alias&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/511278/persita-bertekad-raih-kemenangan-beruntun-di-laga-kedua-liga-1-202223",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTI3OC9wZXJzaXRhLWJlcnRla2FkLXJhaWgta2VtZW5hbmdhbi1iZXJ1bnR1bi1kaS1sYWdhLWtlZHVhLWxpZ2EtMS0yMDIyMjM=",
-        "description": "PERSITA Tangerang bertekad meraih kemenangan kedua secara beruntun di awal musim Liga 1 2022/2023 saat menghadapi Persebaya di Stadion&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/511277/game-of-thrones-kembali-lewat-house-of-the-dragon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMTI3Ny9nYW1lLW9mLXRocm9uZXMta2VtYmFsaS1sZXdhdC1ob3VzZS1vZi10aGUtZHJhZ29u",
-        "description": "GAME of Thrones kembali dalam format prekuel berjudul House of the Dragon dengan para pemain baru. Showrunner baru, yang&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/511276/netflix-gugat-pembuat-teater-musikal-bridgerton",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMTI3Ni9uZXRmbGl4LWd1Z2F0LXBlbWJ1YXQtdGVhdGVyLW11c2lrYWwtYnJpZGdlcnRvbg==",
-        "description": "NETFLIX melayangkan gugatan kepada pembuat teater musikal Bridgerton karena melanggar hak cipta. Gugatan itu dilayangkan&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/511275/kemarin-kasus-covid-19-jakarta-turun-total-tinggal-23-ribu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTEyNzUva2VtYXJpbi1rYXN1cy1jb3ZpZC0xOS1qYWthcnRhLXR1cnVuLXRvdGFsLXRpbmdnYWwtMjMtcmlidQ==",
-        "description": "DINAS Kesehatan (Dinkes) Provinsi DKI Jakarta melaporkan kasus Covid-19, kemarin, mengalami penurunan sejumlah 281 kasus. Hal ini diungkapkan oleh Kepala Bidang Pencegahan dan Pengendalian Penyakit,&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/511274/undangan-saksikan-secara-langsung-upacara-hut-ke-77-ri-ludes",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTEyNzQvdW5kYW5nYW4tc2Frc2lrYW4tc2VjYXJhLWxhbmdzdW5nLXVwYWNhcmEtaHV0LWtlLTc3LXJpLWx1ZGVz",
-        "description": "ISTANA Kepresidenan, pada tahun ini, kembali menggelar Upacara Peringatan HUT ke-77 Republik Indonesia secara luring. Masyarakat, secara terbatas, diperkenankan hadir langsung di area Istana untuk&#8230;"
     }
 ]
