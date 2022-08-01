@@ -1,6 +1,48 @@
 [
     {
         "title": "Humaniora",
+        "link": "https://mediaindonesia.com/humaniora/511455/kisah-semangat-au-bintoro-pendiri-olympic-group-yang-terus-membara",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaHVtYW5pb3JhLzUxMTQ1NS9raXNhaC1zZW1hbmdhdC1hdS1iaW50b3JvLXBlbmRpcmktb2x5bXBpYy1ncm91cC15YW5nLXRlcnVzLW1lbWJhcmE=",
+        "description": "OLYMPIC Group merupakan sebuah perusahaan induk yang memegang beberapa merek terkenal dalam industri furniture Indonesia, di antaranya Olympic Furniture dan Furnimart. Olympic Group&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://mediaindonesia.com/nusantara/511454/diprotes-warga-papan-reklame-di-kawasan-candi-prambanan-dicabut",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vbnVzYW50YXJhLzUxMTQ1NC9kaXByb3Rlcy13YXJnYS1wYXBhbi1yZWtsYW1lLWRpLWthd2FzYW4tY2FuZGktcHJhbWJhbmFuLWRpY2FidXQ=",
+        "description": "SATUAN Polisi Pamong Praja (Satpol PP) Kabupaten Sleman, Senin (1/8), mencabuti belasan reklame maupun spanduk yang tidak berizin maupun yang telah habis izin pemasangannya yang berada di Jalan Yogyakarta-Solo&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://mediaindonesia.com/humaniora/511453/mahasiswa-baru-termuda-ugm-2022-itu-pilih-kuliah-di-fakultas-filsafat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaHVtYW5pb3JhLzUxMTQ1My9tYWhhc2lzd2EtYmFydS10ZXJtdWRhLXVnbS0yMDIyLWl0dS1waWxpaC1rdWxpYWgtZGktZmFrdWx0YXMtZmlsc2FmYXQ=",
+        "description": "JULUKAN mahasiswa baru Universitas Gadjah Mada (UGM) pada 2022 ini tersemat pada Raja Muhammad Hayuri Islami. Ia tidak menyangka jika akan dipanggil ke depan panggung bersama Rektor UGM Prof&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://mediaindonesia.com/internasional/511451/tiongkok-teliti-potensi-susu-babi-dikonsumsi-manusia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaW50ZXJuYXNpb25hbC81MTE0NTEvdGlvbmdrb2stdGVsaXRpLXBvdGVuc2ktc3VzdS1iYWJpLWRpa29uc3Vtc2ktbWFudXNpYQ==",
+        "description": "LEMBAGA penelitian hewan Shanghai, Tiongkok melakukan riset mengenai kemungkinan susu babi bisa menjadi konsumsi manusia sehari-hari. &quot;Susu babi telah mendapatkan banyak perhatian dan kami&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://mediaindonesia.com/weekend/511450/selain-film-nana-prime-video-umumkan-katalog-konten-indonesia-lainnya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vd2Vla2VuZC81MTE0NTAvc2VsYWluLWZpbG0tbmFuYS1wcmltZS12aWRlby11bXVta2FuLWthdGFsb2cta29udGVuLWluZG9uZXNpYS1sYWlubnlh",
+        "description": " Hari ini sutradara Kamila Andini mengumumkan film terbarunya, Nana (Before, Now &amp; Then) secara resmi rilis di platform OTT Prime Video. Film pemenang silver bear untuk kategori pemeran pendukung&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://mediaindonesia.com/politik-dan-hukum/511448/wapres-penduduk-surga-nantinya-mayoritas-orang-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vcG9saXRpay1kYW4taHVrdW0vNTExNDQ4L3dhcHJlcy1wZW5kdWR1ay1zdXJnYS1uYW50aW55YS1tYXlvcml0YXMtb3JhbmctaW5kb25lc2lh",
+        "description": "WAKIL Presiden Ma'ruf Amin menyebut berdasarkan hadits Nabi Muhammad SAW yang menyatakan &quot;La ilaha illallah&quot; akan masuk surga, maka penduduk Indonesia dapat menjadi penghuni surga terbanyak.&#8230;"
+    },
+    {
+        "title": "Humaniora",
         "link": "https://mediaindonesia.com/humaniora/511447/menkominfo-tegaskan-pendaftaran-pse-bukan-untuk-mencomot-data-pribadi",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaHVtYW5pb3JhLzUxMTQ0Ny9tZW5rb21pbmZvLXRlZ2Fza2FuLXBlbmRhZnRhcmFuLXBzZS1idWthbi11bnR1ay1tZW5jb21vdC1kYXRhLXByaWJhZGk=",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vbWVnYXBvbGl0YW4vNTExNDQ0L2FuaWVzLWJhbmRpbmctc29hbC11bXAtZGtpLXVudHVrLWNpcHRha2FuLXJhc2Eta2VhZGlsYW4=",
         "description": "GUBERNUR DKI Jakarta Anies Baswedan menyebutkan alasan upaya banding ke Pengadilan Tinggi Tata Usaha Negara (PTTUN) soal keputusan Upah Minimum Provinsi (UMP) DKI Jakarta adalah untuk menciptakan rasa&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://mediaindonesia.com/olahraga/511441/para-atletik-indonesia-langsung-panen-emas-di-hari-pertama",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vb2xhaHJhZ2EvNTExNDQxL3BhcmEtYXRsZXRpay1pbmRvbmVzaWEtbGFuZ3N1bmctcGFuZW4tZW1hcy1kaS1oYXJpLXBlcnRhbWE=",
-        "description": "CABANG olahraga para atletik langsung menyabet 11 medali emas pada hari pertama ASEAN Para Games (APG) XI 2022 yang digelar di lintasan atletik Stadion Manahan Solo, Jawa Tengah, Senin (1/8). Adapun&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://mediaindonesia.com/olahraga/511440/jelang-hut-ri-turnamen-sepak-bola-menjamur-di-lembata",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vb2xhaHJhZ2EvNTExNDQwL2plbGFuZy1odXQtcmktdHVybmFtZW4tc2VwYWstYm9sYS1tZW5qYW11ci1kaS1sZW1iYXRh",
-        "description": " TURNAMEN sepak bola menjadi pilihan warga&nbsp; meramaikan HUT ke-77 RI di Kabupaten Lembata, Nusa Tenggara Timur. Maraknya turnamen disambut meriah warga, sebagai momentum kebangkitan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://mediaindonesia.com/humaniora/511439/mahasiswa-ui-gelar-literasi-public-speaking-dan-copywriting",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaHVtYW5pb3JhLzUxMTQzOS9tYWhhc2lzd2EtdWktZ2VsYXItbGl0ZXJhc2ktcHVibGljLXNwZWFraW5nLWRhbi1jb3B5d3JpdGluZw==",
-        "description": "KOMUNIKASI efektif memang sangat dibutuhkan untuk membangun hubungan yang harmonis, baik dalam kehidupan secara personal maupun di ruang lingkup yang luas yaitu lingkungan sosial dan profesional.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://mediaindonesia.com/humaniora/511438/anak-perlu-diajarkan-disiplin-prokes-selama-ptm",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaHVtYW5pb3JhLzUxMTQzOC9hbmFrLXBlcmx1LWRpYWphcmthbi1kaXNpcGxpbi1wcm9rZXMtc2VsYW1hLXB0bQ==",
-        "description": "JURU bicara pemerintah untuk COVID-19, Reisa Broto Asmoro menyatakan bahwa anak perlu diajarkan disiplin protokol kesehatan selama pembelajaran tatap muka (PTM). &quot;Kalau kita melepas anak&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://mediaindonesia.com/humaniora/511437/capaian-vaksinasi-lansia-sebanyak-683-persen",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaHVtYW5pb3JhLzUxMTQzNy9jYXBhaWFuLXZha3NpbmFzaS1sYW5zaWEtc2ViYW55YWstNjgzLXBlcnNlbg==",
-        "description": "PROGRES vaksinasi covid-19 bagi lanjut usia (lansia) dan remaja terus dipercepat. Sebanyak 14.729.045 lansia telah menerima vaksin dosis lengkap per Senin (1/8) &ldquo;Jumlah itu setara 68,34&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://mediaindonesia.com/ekonomi/511436/restrukturisasi-kredit-saat-ini-fokus-pada-targeted-sector",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vZWtvbm9taS81MTE0MzYvcmVzdHJ1a3R1cmlzYXNpLWtyZWRpdC1zYWF0LWluaS1mb2t1cy1wYWRhLXRhcmdldGVkLXNlY3Rvcg==",
-        "description": "KETUA Dewan Komisioner Otoritas Jasa Keuangan (OJK) Mahendra Siregar mengatakan bahwa kebijakan restrukturisasi kredit dalam merespons kondisi pandemi covid-19 saat ini sudah mengalami penurunan. Bahkan,&#8230;"
     }
 ]
