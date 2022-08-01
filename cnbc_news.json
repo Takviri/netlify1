@@ -1,5 +1,40 @@
 [
     {
+        "title": "Resesi di AS Bisa Jadi 'Petaka bagi RI? Ini Jawabannya",
+        "link": "https://www.cnbcindonesia.com/news/20220801173748-16-360250/resesi-di-as-bisa-jadi-petaka-bagi-ri-ini-jawabannya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE3Mzc0OC0xNi0zNjAyNTAvcmVzZXNpLWRpLWFzLWJpc2EtamFkaS1wZXRha2EtYmFnaS1yaS1pbmktamF3YWJhbm55YQ==",
+        "description": " Dampak resesi AS terhadap Indonesia."
+    },
+    {
+        "title": "Permintaan Rumah di AS Menurun, Bagaimana dengan Harganya?",
+        "link": "https://www.cnbcindonesia.com/news/20220801191311-4-360289/permintaan-rumah-di-as-menurun-bagaimana-dengan-harganya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE5MTMxMS00LTM2MDI4OS9wZXJtaW50YWFuLXJ1bWFoLWRpLWFzLW1lbnVydW4tYmFnYWltYW5hLWRlbmdhbi1oYXJnYW55YQ==",
+        "description": " Permintaan pembelian rumah di Amerika Serikat (AS) pada bulan Juni menurun tajam akibat naiknya tingkat hipotek dan inflasi."
+    },
+    {
+        "title": "Rekor Inflasi RI, Hingga Manufaktur China Terkontraksi",
+        "link": "https://www.cnbcindonesia.com/news/20220801195732-8-360298/rekor-inflasi-ri-hingga-manufaktur-china-terkontraksi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE5NTczMi04LTM2MDI5OC9yZWtvci1pbmZsYXNpLXJpLWhpbmdnYS1tYW51ZmFrdHVyLWNoaW5hLXRlcmtvbnRyYWtzaQ==",
+        "description": " Inflasi Indonesia kembali melesat pada periode Juli 2022, Badan Pusat Statistik (BPS) mencatatkan inflasi secara tahunan mencapai level tertinggi"
+    },
+    {
+        "title": "Penampakan Kapal Pembawa Gandum dari Ukraina, Dunia Menanti!",
+        "link": "https://www.cnbcindonesia.com/news/20220801192227-7-360290/penampakan-kapal-pembawa-gandum-dari-ukraina-dunia-menanti",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE5MjIyNy03LTM2MDI5MC9wZW5hbXBha2FuLWthcGFsLXBlbWJhd2EtZ2FuZHVtLWRhcmktdWtyYWluYS1kdW5pYS1tZW5hbnRp",
+        "description": " Kapal pertama yang membawa gandum Ukraina berangkat dari pelabuhan Odesa pada hari Senin (1/8/2022)."
+    },
+    {
+        "title": "Waduh, Rusia 'Ngaku' Sulit Perbaiki Pipa Gas Nord Stream 1",
+        "link": "https://www.cnbcindonesia.com/news/20220801183353-4-360271/waduh-rusia-ngaku-sulit-perbaiki-pipa-gas-nord-stream-1",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE4MzM1My00LTM2MDI3MS93YWR1aC1ydXNpYS1uZ2FrdS1zdWxpdC1wZXJiYWlraS1waXBhLWdhcy1ub3JkLXN0cmVhbS0x",
+        "description": " Juru bicara Kremlin Dmitry Peskov mengatakan Rusia hanya memiliki sedikit kemampuan untuk membantu perbaikan mendesak pada peralatan pipa gas Nord Stream 1."
+    },
+    {
         "title": "Israel dan Lebanon Rebutan Ladang 'Harta Karun', AS Jadi Wasit!",
         "link": "https://www.cnbcindonesia.com/news/20220801190343-4-360281/israel-lebanon-rebutan-ladang-harta-karun-as-jadi-wasit",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE4NTEwMC00LTM2MDI3Ny9wZXJ0dW1idWhhbi1pbmR1c3RyaS1tZWxlaml0LXBsbi10YW1iYWgtc2V0cnVtLWRpLWthbHNlbA==",
         "description": " PLN memperkuat jaringan listrik di Kalimantan Selatan dengan menambah tiga buah kapasitor dengan total kapasitas 75 Megavolt Ampere Reactive (MVAr)"
-    },
-    {
-        "title": "Krisis Gas, Orang Jerman Terancam Gak Bisa Minum Bir!",
-        "link": "https://www.cnbcindonesia.com/news/20220801183534-4-360274/krisis-gas-orang-jerman-terancam-gak-bisa-minum-bir",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE4MzUzNC00LTM2MDI3NC9rcmlzaXMtZ2FzLW9yYW5nLWplcm1hbi10ZXJhbmNhbS1nYWstYmlzYS1taW51bS1iaXI=",
-        "description": " Federasi Bir di Jermas khawatir melonjaknya biaya energi atas ancaman rusia meotong pasokan gas mempengaruhi produksi bir"
-    },
-    {
-        "title": "Hong Kong Resesi! PDB Kuartal II/2022 Kontraksi 1,4%",
-        "link": "https://www.cnbcindonesia.com/news/20220801182716-4-360270/hong-kong-resesi-pdb-kuartal-ii-2022-kontraksi-14",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE4MjcxNi00LTM2MDI3MC9ob25nLWtvbmctcmVzZXNpLXBkYi1rdWFydGFsLWlpLTIwMjIta29udHJha3NpLTE0",
-        "description": " Hong Kong resmi masuk ke jurang resesi setelah PDB pada kuartal II/2022 kembali terkontraksi sebesar 1,4% secara tahunan."
-    },
-    {
-        "title": "Sekjen OPEC: Rusia Sangat Berpengaruh di Peta Energi Dunia",
-        "link": "https://www.cnbcindonesia.com/news/20220801180115-4-360260/sekjen-opec-rusia-sangat-berpengaruh-di-peta-energi-dunia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE4MDExNS00LTM2MDI2MC9zZWtqZW4tb3BlYy1ydXNpYS1zYW5nYXQtYmVycGVuZ2FydWgtZGktcGV0YS1lbmVyZ2ktZHVuaWE=",
-        "description": " Sekjen\u00c2\u00a0OPEC Haitam Al-Ghais mengatakan bahwa\u00c2\u00a0saat ini OPEC tidak bersaing dengan Rusia selaku OPEC+"
-    },
-    {
-        "title": "Kasus Covid Terus Melandai, Bertambah 3.696 Hari Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220801173253-16-360249/kasus-covid-terus-melandai-bertambah-3696-hari-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE3MzI1My0xNi0zNjAyNDkva2FzdXMtY292aWQtdGVydXMtbWVsYW5kYWktYmVydGFtYmFoLTM2OTYtaGFyaS1pbmk=",
-        "description": " Tren penurunan kasus konfirmasi Covid-19 di tanah air terus terjadi. Berdasarkan data Kementerian Kesehatan, kasus baru bertambah 3.696 hari ini."
-    },
-    {
-        "title": "Meroket! Sri Mulyani Ramal Ekonomi RI Tumbuh 5% di Kuartal II",
-        "link": "https://www.cnbcindonesia.com/news/20220801181240-4-360263/meroket-sri-mulyani-ramal-ekonomi-ri-tumbuh-5-di-kuartal-ii",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE4MTI0MC00LTM2MDI2My9tZXJva2V0LXNyaS1tdWx5YW5pLXJhbWFsLWVrb25vbWktcmktdHVtYnVoLTUtZGkta3VhcnRhbC1paQ==",
-        "description": " Menteri Keuangan Sri Mulyani Indrawati memperkirakan pertumbuhan ekonomi Indonesia pada kuartal II-2022 bisa di atas 5%."
     }
 ]

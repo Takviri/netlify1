@@ -1,5 +1,19 @@
 [
     {
+        "title": "BI: Inflasi Pangan Turun Mulai Agustus Ditopang Pasokan Meningkat",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220801194353-532-828925/bi-inflasi-pangan-turun-mulai-agustus-ditopang-pasokan-meningkat",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMTk0MzUzLTUzMi04Mjg5MjUvYmktaW5mbGFzaS1wYW5nYW4tdHVydW4tbXVsYWktYWd1c3R1cy1kaXRvcGFuZy1wYXNva2FuLW1lbmluZ2thdA==",
+        "description": " BI memproyeksikan inflasi harga pangan akan mulai turun pada bulan ini, Agustus 2022, dan terus berlanjut hingga akhir tahun nanti."
+    },
+    {
+        "title": "Menkeu Percaya Diri Ekonomi Tumbuh Lebih dari 5 Persen di Kuartal II",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220801193440-532-828922/menkeu-percaya-diri-ekonomi-tumbuh-lebih-dari-5-persen-di-kuartal-ii",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMTkzNDQwLTUzMi04Mjg5MjIvbWVua2V1LXBlcmNheWEtZGlyaS1la29ub21pLXR1bWJ1aC1sZWJpaC1kYXJpLTUtcGVyc2VuLWRpLWt1YXJ0YWwtaWk=",
+        "description": " Menteri Keuangan Sri Mulyani memprediksi ekonomi RI tumbuh lebih dari 5 persen pada kuartal II 2022."
+    },
+    {
         "title": "Mobil Dinas Boleh Beli Pertalite Pakai MyPertamina: Ambulans Dkk",
         "link": "https://www.cnnindonesia.com/ekonomi/20220801185051-85-828901/mobil-dinas-boleh-beli-pertalite-pakai-mypertamina-ambulans-dkk",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMTQ1MTU3LTkyLTgyODc1Mi9zZWt0b3Itd2lzYXRhLWJhbmdraXQta3VuanVuZ2FuLXdpc3Rhd2FuLWFzaW5nLW5haWstMTk3My1wZXJzZW4=",
         "description": " BPS menyebut kunjungan wisatawan asing ke Indonesia naik 1.973 persen secara tahunan pada Juni 2022. BPS menyebut itu tanda sektor wisata RI bangkit lagi."
-    },
-    {
-        "title": "Taspen Sabet Tiga Penghargaan di Bidang Transformasi Digital",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220801165542-104-828839/taspen-sabet-tiga-penghargaan-di-bidang-transformasi-digital",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMTY1NTQyLTEwNC04Mjg4MzkvdGFzcGVuLXNhYmV0LXRpZ2EtcGVuZ2hhcmdhYW4tZGktYmlkYW5nLXRyYW5zZm9ybWFzaS1kaWdpdGFs",
-        "description": " Taspen meraih tiga penghargaan sekaligus di ajang\u00c2\u00a0Human Capital on Resilience Award 2022 berkat transformasi digital dalam pengelolaan SDM melalui\u00c2\u00a0HCIS."
-    },
-    {
-        "title": "Alibaba Ngotot Bertahan di Bursa Saham AS Meski Tak Penuhi Syarat",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220801142223-92-828736/alibaba-ngotot-bertahan-di-bursa-saham-as-meski-tak-penuhi-syarat",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMTQyMjIzLTkyLTgyODczNi9hbGliYWJhLW5nb3RvdC1iZXJ0YWhhbi1kaS1idXJzYS1zYWhhbS1hcy1tZXNraS10YWstcGVudWhpLXN5YXJhdA==",
-        "description": " Alibaba Group Holding Ltd akan tetap\u00c2\u00a0bertahan di bursa saham AS setelah sempat terancam delisting\u00c2\u00a0karena tidak memberikan akses audit keuangannya."
     }
 ]
