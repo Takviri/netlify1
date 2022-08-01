@@ -1,5 +1,12 @@
 [
     {
+        "title": "Inflasi RI Tembus 4,94 Persen Juli Kemarin, Tertinggi Sejak 2015",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220801110231-532-828622/inflasi-ri-tembus-494-persen-juli-kemarin-tertinggi-sejak-2015",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMTEwMjMxLTUzMi04Mjg2MjIvaW5mbGFzaS1yaS10ZW1idXMtNDk0LXBlcnNlbi1qdWxpLWtlbWFyaW4tdGVydGluZ2dpLXNlamFrLTIwMTU=",
+        "description": " BPS mencatat inflasi di Indonesia melesat jadi 4,94 persen pada Juli kemarin. Inflasi ini merupakan yang tertinggi sejak 2015."
+    },
+    {
         "title": "LPDP Kirim Surat Peringatan ke 138 Penerima Beasiswa 'Bandel'",
         "link": "https://www.cnnindonesia.com/ekonomi/20220801104204-532-828611/lpdp-kirim-surat-peringatan-ke-138-penerima-beasiswa-bandel",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMDgzMjA0LTkyLTgyODU1NS9oYXJnYS1lbWFzLWFudGFtLXRlcmt1bGFpLWtlLXJwOTgwLXJpYnUtZGktYXdhbC1wZWthbg==",
         "description": " Harga Emas Antam turun Rp2.000 ke Rp980 ribu per gram pada awal pekan ini."
-    },
-    {
-        "title": "Zelensky Khawatir Panen Pangan Ukraina Turun Separuh Akibat Rusia",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220801070159-92-828551/zelensky-khawatir-panen-pangan-ukraina-turun-separuh-akibat-rusia",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMDcwMTU5LTkyLTgyODU1MS96ZWxlbnNreS1raGF3YXRpci1wYW5lbi1wYW5nYW4tdWtyYWluYS10dXJ1bi1zZXBhcnVoLWFraWJhdC1ydXNpYQ==",
-        "description": " Presiden Ukraina Volodymyr Zelensky mengatakan panen\u00c2\u00a0bahan negaranya berpotensi turun menjadi setengah dari jumlah normal pada tahun ini karena invasi Rusia."
     }
 ]

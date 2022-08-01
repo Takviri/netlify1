@@ -1,5 +1,61 @@
 [
     {
+        "title": "BPS: Inflasi Juli Tembus 4,94% (yoy)",
+        "link": "https://www.cnbcindonesia.com/news/20220801112135-8-360079/bps-inflasi-juli-tembus-494--yoy-",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExMjEzNS04LTM2MDA3OS9icHMtaW5mbGFzaS1qdWxpLXRlbWJ1cy00OTQtLXlveS0=",
+        "description": " BPS: Inflasi Juli Tembus 4,94% (yoy)"
+    },
+    {
+        "title": "Harga Minyak Goreng Beneran Turun Loh, Ini Buktinya!",
+        "link": "https://www.cnbcindonesia.com/news/20220801112216-4-360083/harga-minyak-goreng-beneran-turun-loh-ini-buktinya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExMjIxNi00LTM2MDA4My9oYXJnYS1taW55YWstZ29yZW5nLWJlbmVyYW4tdHVydW4tbG9oLWluaS1idWt0aW55YQ==",
+        "description": " Harga minyak goreng mengalami penurunan selama tiga bulan terakhir."
+    },
+    {
+        "title": "Waspada, Harga Sembako Dunia Masih Mahal!",
+        "link": "https://www.cnbcindonesia.com/news/20220801111349-4-360077/waspada-harga-sembako-dunia-masih-mahal",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExMTM0OS00LTM2MDA3Ny93YXNwYWRhLWhhcmdhLXNlbWJha28tZHVuaWEtbWFzaWgtbWFoYWw=",
+        "description": " Inflasi Indonesia terus meninggi. Ini tidak lepas dari perkembangan harga komoditas global yang cenderung naik."
+    },
+    {
+        "title": "Iuran BPJS Kesehatan Berlaku 1 Agustus 2022",
+        "link": "https://www.cnbcindonesia.com/news/20220801104616-4-360068/iuran-bpjs-kesehatan-berlaku-1-agustus-2022",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTEwNDYxNi00LTM2MDA2OC9pdXJhbi1icGpzLWtlc2VoYXRhbi1iZXJsYWt1LTEtYWd1c3R1cy0yMDIy",
+        "description": " BPJS Kesehatan memastikan belum ada perubahan iuran hingga saat ini."
+    },
+    {
+        "title": "Penyebab Inflasi Juli 4,94%: Cabai Sampai Tarif Listrik Naik!",
+        "link": "https://www.cnbcindonesia.com/news/20220801105832-4-360072/penyebab-inflasi-juli-494-cabai-sampai-tarif-listrik-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTEwNTgzMi00LTM2MDA3Mi9wZW55ZWJhYi1pbmZsYXNpLWp1bGktNDk0LWNhYmFpLXNhbXBhaS10YXJpZi1saXN0cmlrLW5haWs=",
+        "description": " Inflasi Indonesia terus melesat pada Juli 2022."
+    },
+    {
+        "title": "Daftar Tanggal Merah Bulan Agustus 2022, Simak Selengkapnya!",
+        "link": "https://www.cnbcindonesia.com/news/20220801103000-4-360061/daftar-tanggal-merah-bulan-agustus-2022-simak-selengkapnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTEwMzAwMC00LTM2MDA2MS9kYWZ0YXItdGFuZ2dhbC1tZXJhaC1idWxhbi1hZ3VzdHVzLTIwMjItc2ltYWstc2VsZW5na2Fwbnlh",
+        "description": " Ada berapa banyak tanggal merah atau hari libur nasional pada bulan ini?"
+    },
+    {
+        "title": "KPU Butuh Tambahan Anggaran Pemilu, Untuk Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220801101421-8-360052/kpu-butuh-tambahan-anggaran-pemilu-untuk-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTEwMTQyMS04LTM2MDA1Mi9rcHUtYnV0dWgtdGFtYmFoYW4tYW5nZ2FyYW4tcGVtaWx1LXVudHVrLWFwYQ==",
+        "description": " Komisi Pemilihan Umum (KPU) mengaku masih membutuhkan anggaran tahun 2022"
+    },
+    {
+        "title": "Inflasi Juli 4,94% YoY, Tertinggi Sejak 2015!",
+        "link": "https://www.cnbcindonesia.com/news/20220801091306-4-360024/inflasi-juli-494-yoy-tertinggi-sejak-2015",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTA5MTMwNi00LTM2MDAyNC9pbmZsYXNpLWp1bGktNDk0LXlveS10ZXJ0aW5nZ2ktc2VqYWstMjAxNQ==",
+        "description": " Badan Pusat Statistik (BPS) mengumumkan data inflasi Indonesia periode Juli 2022."
+    },
+    {
         "title": "Beli Pertalite Batal Dibatasi Hari Ini? Ini Kata Pemerintah",
         "link": "https://www.cnbcindonesia.com/news/20220801103323-4-360064/beli-pertalite-batal-dibatasi-hari-ini-ini-kata-pemerintah",
         "image": "static/images/cnbc_news.png",
@@ -12,61 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTEwMDc0MC00LTM2MDA0OS93YXMtd2FzLWt1b3RhLWJibS1wZXJ0YWxpdGUtc2VtYWtpbi1tZW5pcGlz",
         "description": " Konsumsi BBM Pertalite sampai pada Juli 2022 ini mencapai 15,9 juta KL artinya tersisa 7,1 juta KL lagi"
-    },
-    {
-        "title": "Rusia Setop Kirim Gas Ke Latvia, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220801100950-8-360050/rusia-setop-kirim-gas-ke-latvia-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTEwMDk1MC04LTM2MDA1MC9ydXNpYS1zZXRvcC1raXJpbS1nYXMta2UtbGF0dmlhLWFkYS1hcGE=",
-        "description": " Raksasa energi Rusia Gazprom menangguhkan pasokan gas ke Latvia pada Sabtu pekan lalu"
-    },
-    {
-        "title": "Mobil Pendaftar Pertalite di MyPertamina Tembus 400 Ribu",
-        "link": "https://www.cnbcindonesia.com/news/20220801094306-4-360033/mobil-pendaftar-pertalite-di-mypertamina-tembus-400-ribu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTA5NDMwNi00LTM2MDAzMy9tb2JpbC1wZW5kYWZ0YXItcGVydGFsaXRlLWRpLW15cGVydGFtaW5hLXRlbWJ1cy00MDAtcmlidQ==",
-        "description": " Pertamina mencatat kendaraan yang sudah mendaftar di MyPertamina mencapai di atas 400 ribu"
-    },
-    {
-        "title": "Pajak Ekspor Kembali Normal, Harga Sawit Terbang Rp2.000?",
-        "link": "https://www.cnbcindonesia.com/news/20220801102238-4-360059/pajak-ekspor-kembali-normal-harga-sawit-terbang-rp2000",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTEwMjIzOC00LTM2MDA1OS9wYWphay1la3Nwb3Ita2VtYmFsaS1ub3JtYWwtaGFyZ2Etc2F3aXQtdGVyYmFuZy1ycDIwMDA=",
-        "description": " Harga tandan buah segar (TBS) sawit di tingkat diprediksi bisa segera menikmati kenaikan harga Rp2.000 per kg."
-    },
-    {
-        "title": "Banjir Bandang Terjang Kentucky, AS Hingga Iran",
-        "link": "https://www.cnbcindonesia.com/news/20220801100731-8-360048/banjir-bandang-terjang-kentucky-as-hingga-iran",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTEwMDczMS04LTM2MDA0OC9iYW5qaXItYmFuZGFuZy10ZXJqYW5nLWtlbnR1Y2t5LWFzLWhpbmdnYS1pcmFu",
-        "description": " Banjir besar menerjang Kentucky Amerika Serikat"
-    },
-    {
-        "title": "Ada Cacar Monyet, New York Status Darurat",
-        "link": "https://www.cnbcindonesia.com/news/20220801095836-8-360047/ada-cacar-monyet-new-york-status-darurat",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTA5NTgzNi04LTM2MDA0Ny9hZGEtY2FjYXItbW9ueWV0LW5ldy15b3JrLXN0YXR1cy1kYXJ1cmF0",
-        "description": " Pemerintah kota New York resmi menyatakan status darurat kesehatan atas wabah cacar monyet"
-    },
-    {
-        "title": "Bukan Malaysia-Singapura, Tetangga RI Ini Status Darurat Lagi",
-        "link": "https://www.cnbcindonesia.com/news/20220801095524-4-360045/bukan-malaysia-singapura-tetangga-ri-ini-status-darurat-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTA5NTUyNC00LTM2MDA0NS9idWthbi1tYWxheXNpYS1zaW5nYXB1cmEtdGV0YW5nZ2EtcmktaW5pLXN0YXR1cy1kYXJ1cmF0LWxhZ2k=",
-        "description": " Tetangga RI sesama ASEAN, Myanmar, kembali mengumumkan status darurat. Ini adalah perpanjangan dari status yang berlaku sebelumnya."
-    },
-    {
-        "title": "RI Waspada! Baju Impor Bakal Makin Membludak",
-        "link": "https://www.cnbcindonesia.com/news/20220801090831-4-360026/ri-waspada-baju-impor-bakal-makin-membludak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTA5MDgzMS00LTM2MDAyNi9yaS13YXNwYWRhLWJhanUtaW1wb3ItYmFrYWwtbWFraW4tbWVtYmx1ZGFr",
-        "description": " Impor tekstil dan produk tekstil mengkhawatirkan pelaku usaha karena terus membanjiri pasar dalam negeri."
-    },
-    {
-        "title": "Harga BBM Pertalite dan Pertamax Pertamina di Seluruh SPBU RI",
-        "link": "https://www.cnbcindonesia.com/news/20220801084510-4-360013/harga-bbm-pertalite-pertamax-pertamina-di-seluruh-spbu-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTA4NDUxMC00LTM2MDAxMy9oYXJnYS1iYm0tcGVydGFsaXRlLXBlcnRhbWF4LXBlcnRhbWluYS1kaS1zZWx1cnVoLXNwYnUtcmk=",
-        "description": " Pertamina sudah menaikkan harga tiga jenis BBMnya per 10 Juli 2022"
     }
 ]
