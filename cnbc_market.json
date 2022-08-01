@@ -1,5 +1,26 @@
 [
     {
+        "title": "Kabar Pasar Hari Ini: Kinerja Emiten Hingga Cuan Dari DCII",
+        "link": "https://www.cnbcindonesia.com/market/20220801073010-17-359992/kabar-pasar-hari-ini-kinerja-emiten-hingga-cuan-dari-dcii",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMDczMDEwLTE3LTM1OTk5Mi9rYWJhci1wYXNhci1oYXJpLWluaS1raW5lcmphLWVtaXRlbi1oaW5nZ2EtY3Vhbi1kYXJpLWRjaWk=",
+        "description": " Berikut kabar pasar yang bakal mewarnai pergerakan indeks."
+    },
+    {
+        "title": "Reli Emas Terhenti, Harga Turun Pagi Ini",
+        "link": "https://www.cnbcindonesia.com/market/20220801065933-17-359983/reli-emas-terhenti-harga-turun-pagi-ini",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMDY1OTMzLTE3LTM1OTk4My9yZWxpLWVtYXMtdGVyaGVudGktaGFyZ2EtdHVydW4tcGFnaS1pbmk=",
+        "description": " Emas melemah pada awal Agustus setelah sempat melonjak tajam."
+    },
+    {
+        "title": "'Perang Gas' Putin Bakal Bikin Batu Bara To The Moon!",
+        "link": "https://www.cnbcindonesia.com/market/20220801062757-17-359979/perang-gas-putin-bakal-bikin-batu-bara-to-the-moon",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMDYyNzU3LTE3LTM1OTk3OS9wZXJhbmctZ2FzLXB1dGluLWJha2FsLWJpa2luLWJhdHUtYmFyYS10by10aGUtbW9vbg==",
+        "description": " Harga batu bara masih menguat 1,6% pekan lalu meskipun jatuh pada tiga hari perdagangan beruntun."
+    },
+    {
         "title": "Ambil Posisi! IHSG Cenderung Melemah Setiap Agustus",
         "link": "https://www.cnbcindonesia.com/market/20220801013112-17-359969/ambil-posisi-ihsg-cenderung-melemah-setiap-agustus",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzMxMTg1NTM2LTE3LTM1OTk2NS9nb2tpbC1wZXJ0dW1idWhhbi1la29ub21pLWFyYWItc2F1ZGktY2FwYWktMTE4LWRpLXEyLTIwMjI=",
         "description": " Saudi diuntungkan lantaran lonjakan harga minyak dipicu serangan Rusia ke Ukraina."
-    },
-    {
-        "title": "Cetak Laba Terbaik, Menteri Erick Apresiasi Capaian BNI",
-        "link": "https://www.cnbcindonesia.com/market/20220731190344-17-359966/cetak-laba-terbaik-menteri-erick-apresiasi-capaian-bni",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzMxMTkwMzQ0LTE3LTM1OTk2Ni9jZXRhay1sYWJhLXRlcmJhaWstbWVudGVyaS1lcmljay1hcHJlc2lhc2ktY2FwYWlhbi1ibmk=",
-        "description": " Selain mengapresiasi pecapaian BNI, Erick juga mengapresiasi seluruh jajaran manajemen dan Hi-Movers khususnya Komisaris Utama BNI, Agus Martowardojo."
-    },
-    {
-        "title": "Apakah Indonesia Resesi? Tunggu Jawabannya Minggu Depan...",
-        "link": "https://www.cnbcindonesia.com/market/20220731145030-17-359939/apakah-indonesia-resesi-tunggu-jawabannya-minggu-depan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzMxMTQ1MDMwLTE3LTM1OTkzOS9hcGFrYWgtaW5kb25lc2lhLXJlc2VzaS10dW5nZ3UtamF3YWJhbm55YS1taW5nZ3UtZGVwYW4=",
-        "description": " Kira-kira bagaimana nasib pasar keuangan Indonesia pekan depan? Apa saja hal-hal yang mesti diperhatikan oleh pelaku pasar?"
-    },
-    {
-        "title": "Cek Daftar Terkini BUMN yang Gulung Tikar Gegara Salah Urus",
-        "link": "https://www.cnbcindonesia.com/market/20220731142911-17-359935/cek-daftar-terkini-bumn-yang-gulung-tikar-gegara-salah-urus",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzMxMTQyOTExLTE3LTM1OTkzNS9jZWstZGFmdGFyLXRlcmtpbmktYnVtbi15YW5nLWd1bHVuZy10aWthci1nZWdhcmEtc2FsYWgtdXJ1cw==",
-        "description": " Salah satunya adalah Istaka Karya."
     }
 ]
