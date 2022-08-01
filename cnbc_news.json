@@ -1,5 +1,54 @@
 [
     {
+        "title": "Begini Rencana Proyek Kereta di IKN Baru, Ada Cable Car",
+        "link": "https://www.cnbcindonesia.com/news/20220801114904-4-360098/begini-rencana-proyek-kereta-di-ikn-baru-ada-cable-car",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExNDkwNC00LTM2MDA5OC9iZWdpbmktcmVuY2FuYS1wcm95ZWsta2VyZXRhLWRpLWlrbi1iYXJ1LWFkYS1jYWJsZS1jYXI=",
+        "description": " Pemerintah diimbau menawarkan rencana proyek pembangunan infrastruktur perkeretaapian di Ibu Kota Negara Baru, Kalimantan Timur kepada swasta."
+    },
+    {
+        "title": "Negara Lain Resesi, Eh Ekonomi RI Malah Bagus, Mau Bukti?",
+        "link": "https://www.cnbcindonesia.com/news/20220801120807-4-360101/negara-lain-resesi-eh-ekonomi-ri-malah-bagus-mau-bukti",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTEyMDgwNy00LTM2MDEwMS9uZWdhcmEtbGFpbi1yZXNlc2ktZWgtZWtvbm9taS1yaS1tYWxhaC1iYWd1cy1tYXUtYnVrdGk=",
+        "description": " Banyk negara jatuh ke lubang krisis dan resesi yang menyeramkan. Indonesia kok bisa masih bagus?"
+    },
+    {
+        "title": "Jadi 'Pengikut' Putin, Negara Ini Kian Bergantung pada Rusia",
+        "link": "https://www.cnbcindonesia.com/news/20220801113312-4-360091/jadi-pengikut-putin-negara-ini-kian-bergantung-pada-rusia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExMzMxMi00LTM2MDA5MS9qYWRpLXBlbmdpa3V0LXB1dGluLW5lZ2FyYS1pbmkta2lhbi1iZXJnYW50dW5nLXBhZGEtcnVzaWE=",
+        "description": " Sejak serangan Rusia ke Ukraina pada Februari lalu, Belarusia menjadi salah satu negara yang pro terhadap kebijakan militer Presiden Vladimir Putin tersebut."
+    },
+    {
+        "title": "Sah! Pendaftaran Pemilu 2024 Sudah Dibuka",
+        "link": "https://www.cnbcindonesia.com/news/20220801101634-8-360053/sah-pendaftaran-pemilu-2024-sudah-dibuka",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTEwMTYzNC04LTM2MDA1My9zYWgtcGVuZGFmdGFyYW4tcGVtaWx1LTIwMjQtc3VkYWgtZGlidWth",
+        "description": " Komisi Pemilihan Umum atau KPU secara resmi telah membuka pendaftaran peserta pemilu 2024 mulai hari ini 1 Agustus 2022"
+    },
+    {
+        "title": "Kebijakan Pembatasan Beli Pertalite Mundur September?",
+        "link": "https://www.cnbcindonesia.com/news/20220801112513-4-360085/kebijakan-pembatasan-beli-pertalite-mundur-september",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExMjUxMy00LTM2MDA4NS9rZWJpamFrYW4tcGVtYmF0YXNhbi1iZWxpLXBlcnRhbGl0ZS1tdW5kdXItc2VwdGVtYmVy",
+        "description": " Kebijakan pembatasan pembelian Pertalite masih menunggu revisi Perpres 191/2014"
+    },
+    {
+        "title": "Harga Sembako Makin Gila! Awas Angka Kemiskinan Ikut Naik...",
+        "link": "https://www.cnbcindonesia.com/news/20220801115342-4-360100/harga-sembako-makin-gila-awas-angka-kemiskinan-ikut-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExNTM0Mi00LTM2MDEwMC9oYXJnYS1zZW1iYWtvLW1ha2luLWdpbGEtYXdhcy1hbmdrYS1rZW1pc2tpbmFuLWlrdXQtbmFpaw==",
+        "description": " Inflasi Indonesia terus meninggi. Penyumbang terbesar adalah makanan, yang masuk kelompok bergejolak (volatile goods)."
+    },
+    {
+        "title": "Krisis Energi Makin Nyata di Jerman, Fakta Ini Buktinya",
+        "link": "https://www.cnbcindonesia.com/news/20220801104009-4-360065/krisis-energi-makin-nyata-di-jerman-fakta-ini-buktinya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTEwNDAwOS00LTM2MDA2NS9rcmlzaXMtZW5lcmdpLW1ha2luLW55YXRhLWRpLWplcm1hbi1mYWt0YS1pbmktYnVrdGlueWE=",
+        "description": " Krisis energi sepertinya semakin nyata melanda Jerman. Akibatnya\u00c2\u00a0pembangkit listrik nuklir akan tetap dihidupkan hingga 2024."
+    },
+    {
         "title": "Inflasi Juli Tertinggi Sejak 2015, Ekonom: Masih Manageable",
         "link": "https://www.cnbcindonesia.com/news/20220801114905-8-360097/inflasi-juli-tertinggi-sejak-2015-ekonom-masih-manageable",
         "image": "static/images/cnbc_news.png",
@@ -19,54 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExMzYxMy00LTM2MDA5Mi9kdWgta3Jpc2lzLXBhbmdhbi1lbmVyZ2ktZ2xvYmFsLXN1ZGFoLXRlcmFzYS1kaS1pbmRvbmVzaWE=",
         "description": " Krisis pangan dan energi global telah terasa di Indonesia."
-    },
-    {
-        "title": "Sejarah, Fungsi, dan Aturan Pengibaran Bendera Merah Putih RI",
-        "link": "https://www.cnbcindonesia.com/news/20220801110736-4-360074/sejarah-fungsi-dan-aturan-pengibaran-bendera-merah-putih-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExMDczNi00LTM2MDA3NC9zZWphcmFoLWZ1bmdzaS1kYW4tYXR1cmFuLXBlbmdpYmFyYW4tYmVuZGVyYS1tZXJhaC1wdXRpaC1yaQ==",
-        "description": " Berikut ini adalah penjelasan tentang arti bendera Indonesia, sejarah, fungsi, aturan pengibaran, aturan penggunaan, pasal dan fakta-faktanya."
-    },
-    {
-        "title": "Kabar Gembira! Harga Minyak Goreng Turun, Sawit Naik Tipis",
-        "link": "https://www.cnbcindonesia.com/news/20220801110342-4-360073/kabar-gembira-harga-minyak-goreng-turun-sawit-naik-tipis",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExMDM0Mi00LTM2MDA3My9rYWJhci1nZW1iaXJhLWhhcmdhLW1pbnlhay1nb3JlbmctdHVydW4tc2F3aXQtbmFpay10aXBpcw==",
-        "description": " Harga minyak goreng terpantau turun\u00c2\u00a0semakin mendekati target eceran tertinggi pemerintah yang Rp14.000 per liter atau Rp15.500 per kg."
-    },
-    {
-        "title": "BPS: Inflasi Indonesia Masih Aman!",
-        "link": "https://www.cnbcindonesia.com/news/20220801112213-4-360082/bps-inflasi-indonesia-masih-aman",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExMjIxMy00LTM2MDA4Mi9icHMtaW5mbGFzaS1pbmRvbmVzaWEtbWFzaWgtYW1hbg==",
-        "description": " Badan Pusat Statistik (BPS) menyebut secara umum perkembangan inflasi masih terkendali."
-    },
-    {
-        "title": "Anak Buah Jokowi Beberkan Ngerinya Dunia Saat Ini, Simak!",
-        "link": "https://www.cnbcindonesia.com/news/20220801105813-4-360071/anak-buah-jokowi-beberkan-ngerinya-dunia-saat-ini-simak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTEwNTgxMy00LTM2MDA3MS9hbmFrLWJ1YWgtam9rb3dpLWJlYmVya2FuLW5nZXJpbnlhLWR1bmlhLXNhYXQtaW5pLXNpbWFr",
-        "description": " Pemerintah mengingatkan agar meningkatkan kewaspadan terhadap ancaman krisis pangan"
-    },
-    {
-        "title": "BPS: Inflasi Juli Tembus 4,94% (yoy)",
-        "link": "https://www.cnbcindonesia.com/news/20220801112135-8-360079/bps-inflasi-juli-tembus-494--yoy-",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExMjEzNS04LTM2MDA3OS9icHMtaW5mbGFzaS1qdWxpLXRlbWJ1cy00OTQtLXlveS0=",
-        "description": " BPS: Inflasi Juli Tembus 4,94% (yoy)"
-    },
-    {
-        "title": "Harga Minyak Goreng Beneran Turun Loh, Ini Buktinya!",
-        "link": "https://www.cnbcindonesia.com/news/20220801112216-4-360083/harga-minyak-goreng-beneran-turun-loh-ini-buktinya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExMjIxNi00LTM2MDA4My9oYXJnYS1taW55YWstZ29yZW5nLWJlbmVyYW4tdHVydW4tbG9oLWluaS1idWt0aW55YQ==",
-        "description": " Harga minyak goreng mengalami penurunan selama tiga bulan terakhir."
-    },
-    {
-        "title": "Waspada, Harga Sembako Dunia Masih Mahal!",
-        "link": "https://www.cnbcindonesia.com/news/20220801111349-4-360077/waspada-harga-sembako-dunia-masih-mahal",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTExMTM0OS00LTM2MDA3Ny93YXNwYWRhLWhhcmdhLXNlbWJha28tZHVuaWEtbWFzaWgtbWFoYWw=",
-        "description": " Inflasi Indonesia terus meninggi. Ini tidak lepas dari perkembangan harga komoditas global yang cenderung naik."
     }
 ]
