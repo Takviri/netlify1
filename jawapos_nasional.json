@@ -1,5 +1,12 @@
 [
     {
+        "title": "Daftar Parpol di KPU, PKS Boyong Pawang Pintu",
+        "link": "https://www.jawapos.com/nasional/politik/01/08/2022/daftar-parpol-di-kpu-pks-boyong-pawang-pintu/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvcG9saXRpay8wMS8wOC8yMDIyL2RhZnRhci1wYXJwb2wtZGkta3B1LXBrcy1ib3lvbmctcGF3YW5nLXBpbnR1Lw==",
+        "description": "Saat\u00c2\u00a0adu pantun, ada\u00c2\u00a0pembahasan mengenai PKS yang sudah melengkapi syarat-syarat pendaftaran sebagai peserta Pemilu 2024 dan verifikasi partai politik."
+    },
+    {
         "title": "Update Terbaru, 80 Jamaah Haji Meninggal di Arab Saudi",
         "link": "https://www.jawapos.com/nasional/01/08/2022/update-terbaru-80-jamaah-haji-meninggal-di-arab-saudi/?page=all",
         "image": "static/images/jawapos_nasional.png",
@@ -28,13 +35,6 @@
         "description": "Jamaah gelombang dua yang telah berada di Madinah sebanyak 94 kloter dengan jumlah jamaah 36.605 orang."
     },
     {
-        "title": "Ingin Punya Momongan, Ikuti 3 Tips Bagi Pasutri Agar Promil Berhasil",
-        "link": "https://www.jawapos.com/nasional/01/08/2022/ingin-punya-momongan-ikuti-3-tips-bagi-pasutri-agar-promil-berhasil/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMDEvMDgvMjAyMi9pbmdpbi1wdW55YS1tb21vbmdhbi1pa3V0aS0zLXRpcHMtYmFnaS1wYXN1dHJpLWFnYXItcHJvbWlsLWJlcmhhc2lsLw==",
-        "description": "Promil atau program merencanakan kehamilan adalah suatu serangkaian aktivitas yang dapat dilakukan oleh suatu pasangan agar bisa segera mendapatkan kehamilan."
-    },
-    {
         "title": "Bharada E Dikembalikan ke Brimob",
         "link": "https://www.jawapos.com/nasional/hukum-kriminal/01/08/2022/bharada-e-dikembalikan-ke-brimob/?page=all",
         "image": "static/images/jawapos_nasional.png",
@@ -49,13 +49,6 @@
         "description": "Kuasa hukum keluarga Irjen Ferdy Sambo, Arman Hanis angkat bicara soal isu pelecehan yang dialami istri Kadiv Propam non aktif Irjen Fredy Sambo, PC."
     },
     {
-        "title": "OTW Daftar, Kominfo Bakal Buka Blokir Steam, DOTA dan Counter Strike",
-        "link": "https://www.jawapos.com/nasional/01/08/2022/otw-daftar-kominfo-bakal-buka-blokir-steam-dota-dan-counter-strike/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMDEvMDgvMjAyMi9vdHctZGFmdGFyLWtvbWluZm8tYmFrYWwtYnVrYS1ibG9raXItc3RlYW0tZG90YS1kYW4tY291bnRlci1zdHJpa2Uv",
-        "description": "Proses pembukaan blokir DOTA, CS dan Steam akan segera dilakukan setelah platform tersebut menyatakan kesediaannya untuk mengikuti aturan pendaftaran PSE."
-    },
-    {
         "title": "Sampah Antariksa Tiongkok Ternyata Melintasi Sumatera Bagian Selatan",
         "link": "https://www.jawapos.com/nasional/01/08/2022/sampah-antariksa-tiongkok-ternyata-melintasi-sumatera-bagian-selatan/?page=all",
         "image": "static/images/jawapos_nasional.png",
@@ -68,5 +61,12 @@
         "image": "static/images/jawapos_nasional.png",
         "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMDEvMDgvMjAyMi9zZWJhbnlhay04MS1qYW1hYWgtaGFqaS13YWZhdC1tYXlvcml0YXMtZ2FuZ2d1YW4tY2FyZGlvdmFzY3VsYXIv",
         "description": "Kantor Kesehatan Haji Indonesia (KKHI) Makkah mencatat bahwa dari 81 haji yang meninggal dunia, sebagian besar disebabkan oleh penyakit cardiovascular."
+    },
+    {
+        "title": "BRIN: Sampah Antariksa Tiongkok Lintasi Sumatera Bagian Selatan",
+        "link": "https://www.jawapos.com/nasional/01/08/2022/brin-sampah-antariksa-tiongkok-lintasi-sumatera-bagian-selatan/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMDEvMDgvMjAyMi9icmluLXNhbXBhaC1hbnRhcmlrc2EtdGlvbmdrb2stbGludGFzaS1zdW1hdGVyYS1iYWdpYW4tc2VsYXRhbi8=",
+        "description": "Badan Riset dan Inovasi Nasional (BRIN) mengatakan sampah antariksa CZ5B, roket bekas peluncuran modul stasiun antariksa Tiongkok"
     }
 ]
