@@ -1,5 +1,40 @@
 [
     {
+        "title": "Produksi Ketat, Harga Timah Naik Nyaris 1% Sehari",
+        "link": "https://www.cnbcindonesia.com/market/20220801154426-17-360202/produksi-ketat-harga-timah-naik-nyaris-1-sehari",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTU0NDI2LTE3LTM2MDIwMi9wcm9kdWtzaS1rZXRhdC1oYXJnYS10aW1haC1uYWlrLW55YXJpcy0xLXNlaGFyaQ==",
+        "description": " Harga timah dunia menguat karena pasokan yang ketat terpengaruh oleh produksi yang belum pulih."
+    },
+    {
+        "title": "Harga IPO Nankai Rp 127/Saham, Listing di BEI 9 Agustus",
+        "link": "https://www.cnbcindonesia.com/market/20220801141919-17-360164/harga-ipo-nankai-rp-127-saham-listing-di-bei-9-agustus",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTQxOTE5LTE3LTM2MDE2NC9oYXJnYS1pcG8tbmFua2FpLXJwLTEyNy1zYWhhbS1saXN0aW5nLWRpLWJlaS05LWFndXN0dXM=",
+        "description": " PT Rohartindo Nusantara Luas Tbk (TOOL) atau Nankai, menetapkan harga penawaran sebesar Rp 127 per saham"
+    },
+    {
+        "title": "ANJT Bukukan Laba Bersih US$ 19,3 Juta di Semester 1-2022",
+        "link": "https://www.cnbcindonesia.com/market/20220801155239-17-360204/anjt-bukukan-laba-bersih-us--193-juta-di-semester-1-2022",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTU1MjM5LTE3LTM2MDIwNC9hbmp0LWJ1a3VrYW4tbGFiYS1iZXJzaWgtdXMtLTE5My1qdXRhLWRpLXNlbWVzdGVyLTEtMjAyMg==",
+        "description": " PT Austindo Nusantara Jaya Tbk (ANJT) membukukan laba bersih sebesar US$ 19,3 juta pada semester I-2022."
+    },
+    {
+        "title": "Bagi yang Ikut Tender Offer TURI Simak! Begini Caranya",
+        "link": "https://www.cnbcindonesia.com/market/20220801150337-17-360182/bagi-yang-ikut-tender-offer-turi-simak-begini-caranya",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTUwMzM3LTE3LTM2MDE4Mi9iYWdpLXlhbmctaWt1dC10ZW5kZXItb2ZmZXItdHVyaS1zaW1hay1iZWdpbmktY2FyYW55YQ==",
+        "description": " Alokasi dana yang digunakan untuk membiayai Pembelian Kembali Saham adalah sebanyak-banyaknya sebesar Rp 713,97 miliar."
+    },
+    {
+        "title": "Prabowo: Penyehatan ASABRI Jadi Fokus Sejak Awal Menjabat",
+        "link": "https://www.cnbcindonesia.com/market/20220801152947-17-360200/prabowo-penyehatan-asabri-jadi-fokus-sejak-awal-menjabat",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTUyOTQ3LTE3LTM2MDIwMC9wcmFib3dvLXBlbnllaGF0YW4tYXNhYnJpLWphZGktZm9rdXMtc2VqYWstYXdhbC1tZW5qYWJhdA==",
+        "description": " Ada andil Menteri Pertahanan Prabowo Subianto di balik penyehatan dana pensiun untuk para purnawirawan Tentara Nasional Indonesia (TNI) ini."
+    },
+    {
         "title": "Minat Jadi Karyawan BUMN? Ini Tahapan Seleksi Rekrutmen KAI",
         "link": "https://www.cnbcindonesia.com/market/20220801150003-17-360180/minat-jadi-karyawan-bumn-ini-tahapan-seleksi-rekrutmen-kai",
         "image": "static/images/cnbc_market.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTUwNzQyLTE3LTM2MDE4My9rYWJhci1idXJ1ay1jaGluYS1pbmZsYXNpLXJpLW1lbmluZ2dpLXJ1cGlhaC1tZWxlbWFoLWxhZ2k=",
         "description": " Rilis data ekonomi yang bervariasi di awal Agustus membuat rupiah melemah melawan dolar Amerika Serikat (AS)"
-    },
-    {
-        "title": "Bank Mandiri Gencarkan Ekspansi Smart Branch",
-        "link": "https://www.cnbcindonesia.com/market/20220801124157-19-360117/bank-mandiri-gencarkan-ekspansi-smart-branch",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTI0MTU3LTE5LTM2MDExNy9iYW5rLW1hbmRpcmktZ2VuY2Fya2FuLWVrc3BhbnNpLXNtYXJ0LWJyYW5jaA==",
-        "description": " PT Bank Mandiri (Persero) Tbk kembali melanjutkan transformasi digital dengan meluncurkan 241 smart branch secara serentak di seluruh Indonesia."
-    },
-    {
-        "title": "PTBA Telah Tanam 1,33 Juta Pohon di Area Reklamasi",
-        "link": "https://www.cnbcindonesia.com/market/20220801144215-17-360179/ptba-telah-tanam-133-juta-pohon-di-area-reklamasi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTQ0MjE1LTE3LTM2MDE3OS9wdGJhLXRlbGFoLXRhbmFtLTEzMy1qdXRhLXBvaG9uLWRpLWFyZWEtcmVrbGFtYXNp",
-        "description": " PT Bukit Asam Tbk (PTBA) telah menanam 1.333.350 batang pohon di areal reklamasi, yang luasnya mencapai 2.144,26 hektar (ha) hingga Juni 2022."
-    },
-    {
-        "title": "Perdagangan Perdana di Agustus, Bursa Eropa Kompak Hijau!",
-        "link": "https://www.cnbcindonesia.com/market/20220801134950-17-360138/perdagangan-perdana-di-agustus-bursa-eropa-kompak-hijau",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTM0OTUwLTE3LTM2MDEzOC9wZXJkYWdhbmdhbi1wZXJkYW5hLWRpLWFndXN0dXMtYnVyc2EtZXJvcGEta29tcGFrLWhpamF1",
-        "description": " Bursa saham Eropa di sesi awal kompak menguat pada perdagangan\u00c2\u00a0hari ini"
-    },
-    {
-        "title": "Harga Gas Meroket, Harga Pangan Melandai",
-        "link": "https://www.cnbcindonesia.com/market/20220801133321-17-360135/harga-gas-meroket-harga-pangan-melandai",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTMzMzIxLTE3LTM2MDEzNS9oYXJnYS1nYXMtbWVyb2tldC1oYXJnYS1wYW5nYW4tbWVsYW5kYWk=",
-        "description": " Harga komoditas dunia yang diukur dengan SdanP Goldman Sachs Commodity Index ambles sepanjang Juli 2022."
-    },
-    {
-        "title": "Manufaktur China Lesu, Harga Tembaga Layu",
-        "link": "https://www.cnbcindonesia.com/market/20220801142556-17-360167/manufaktur-china-lesu-harga-tembaga-layu",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTQyNTU2LTE3LTM2MDE2Ny9tYW51ZmFrdHVyLWNoaW5hLWxlc3UtaGFyZ2EtdGVtYmFnYS1sYXl1",
-        "description": " Aktivitas manufaktur China yang melambat menekan harga tembaga dunia."
     }
 ]

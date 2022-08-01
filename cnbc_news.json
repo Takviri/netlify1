@@ -1,5 +1,40 @@
 [
     {
+        "title": "Jokowi Teken Pembentukan 3 Provinsi Papua Baru",
+        "link": "https://www.cnbcindonesia.com/news/20220801124144-8-360116/jokowi-teken-pembentukan-3-provinsi-papua-baru",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTEyNDE0NC04LTM2MDExNi9qb2tvd2ktdGVrZW4tcGVtYmVudHVrYW4tMy1wcm92aW5zaS1wYXB1YS1iYXJ1",
+        "description": " Presiden Joko Widodo secara resmi meneken tiga aturan pembentukan provinsi baru di Papua."
+    },
+    {
+        "title": "Bocoran Terbaru! Kasus Meledak, PPKM Jabodetabek Naik Level?",
+        "link": "https://www.cnbcindonesia.com/news/20220801155529-4-360208/bocoran-terbaru-kasus-meledak-ppkm-jabodetabek-naik-level",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE1NTUyOS00LTM2MDIwOC9ib2NvcmFuLXRlcmJhcnUta2FzdXMtbWVsZWRhay1wcGttLWphYm9kZXRhYmVrLW5haWstbGV2ZWw=",
+        "description": " Masa pemberlakuan pembatasan kegiatan masyarakat akan berakhir pada hari ini"
+    },
+    {
+        "title": "Turun Tajam, Kasus Covid-19 di RI Nambah 3.696 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220801142333-4-360166/turun-tajam-kasus-covid-19-di-ri-nambah-3696-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE0MjMzMy00LTM2MDE2Ni90dXJ1bi10YWphbS1rYXN1cy1jb3ZpZC0xOS1kaS1yaS1uYW1iYWgtMzY5Ni1oYXJpLWluaQ==",
+        "description": " Simak data terbaru Covid-19."
+    },
+    {
+        "title": "Shell, Vivo dan BP AKR Kompak Turunkan Harga BBM",
+        "link": "https://www.cnbcindonesia.com/news/20220801151641-4-360185/shell-vivo-dan-bp-akr-kompak-turunkan-harga-bbm",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE1MTY0MS00LTM2MDE4NS9zaGVsbC12aXZvLWRhbi1icC1ha3Ita29tcGFrLXR1cnVua2FuLWhhcmdhLWJibQ==",
+        "description": " Sejumlah badan usaha penjual BBM menurunkan harga BBM per 1 Agustus 2022"
+    },
+    {
+        "title": "9 Parpol Akan Daftar Calon Peserta Pemilu 2024 Ke KPU",
+        "link": "https://www.cnbcindonesia.com/news/20220801141249-8-360163/9-parpol-akan-daftar-calon-peserta-pemilu-2024-ke-kpu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE0MTI0OS04LTM2MDE2My85LXBhcnBvbC1ha2FuLWRhZnRhci1jYWxvbi1wZXNlcnRhLXBlbWlsdS0yMDI0LWtlLWtwdQ==",
+        "description": " 9 partai politik yang akan mendaftarkan diri sebagai calon peserta pemilu 2024"
+    },
+    {
         "title": "Tiket Masuk Naik 50 Kali Lipat, Turis Jadi Ogah ke TN Komodo?",
         "link": "https://www.cnbcindonesia.com/news/20220801145937-4-360188/tiket-masuk-naik-50-kali-lipat-turis-jadi-ogah-ke-tn-komodo",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE1MTgwMy00LTM2MDE4Ni9ydXNpYS10dWRpbmctbmF0by1iYW50dS11a3JhaW5hLXJla3J1dC10ZW50YXJhLWJheWFyYW4tYXNpbmc=",
         "description": " Rusia menuding beberapa negara anggota NATO diam-diam mendukung upaya Kyiv merekrut tentara bayaran asing."
-    },
-    {
-        "title": "Harga Semen Sampai Pasir Naik, Kini Bangun Rumah Makin Mahal!",
-        "link": "https://www.cnbcindonesia.com/news/20220801143406-4-360172/harga-semen-sampai-pasir-naik-kini-bangun-rumah-makin-mahal",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE0MzQwNi00LTM2MDE3Mi9oYXJnYS1zZW1lbi1zYW1wYWktcGFzaXItbmFpay1raW5pLWJhbmd1bi1ydW1haC1tYWtpbi1tYWhhbA==",
-        "description": " Indeks Harga Perdagangan Besar (IHPB) bahan bangun atau konstruksi pada Juli naik 0,64% dibandingkan bulan sebelumnya."
-    },
-    {
-        "title": "Perjanjian IK-CEPA Dikebut, Ekspor RI ke Korsel Melaju?",
-        "link": "https://www.cnbcindonesia.com/news/20220801132940-8-360131/perjanjian-ik-cepa-dikebut-ekspor-ri-ke-korsel-melaju",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTEzMjk0MC04LTM2MDEzMS9wZXJqYW5qaWFuLWlrLWNlcGEtZGlrZWJ1dC1la3Nwb3Itcmkta2Uta29yc2VsLW1lbGFqdQ==",
-        "description": " Perjanjian IK-CEPA Dikebut, Ekspor RI ke Korsel Melaju"
-    },
-    {
-        "title": "HUT RI ke 77: Pamer Mobil 7 Presiden, Hingga Diskon Bejibun!",
-        "link": "https://www.cnbcindonesia.com/news/20220801140221-4-360150/hut-ri-ke-77-pamer-mobil-7-presiden-hingga-diskon-bejibun",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE0MDIyMS00LTM2MDE1MC9odXQtcmkta2UtNzctcGFtZXItbW9iaWwtNy1wcmVzaWRlbi1oaW5nZ2EtZGlza29uLWJlamlidW4=",
-        "description": " Ada serangkaian acara besar untuk memperingati HUT RI ke-77"
-    },
-    {
-        "title": "Ramai-ramai Warga Korut Dilaporkan Cerai, Kenapa Kim Jong Un?",
-        "link": "https://www.cnbcindonesia.com/news/20220801144538-4-360176/ramai-ramai-warga-korut-dilaporkan-cerai-kenapa-kim-jong-un",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE0NDUzOC00LTM2MDE3Ni9yYW1haS1yYW1haS13YXJnYS1rb3J1dC1kaWxhcG9ya2FuLWNlcmFpLWtlbmFwYS1raW0tam9uZy11bg==",
-        "description": " Jumlah warga Korea Utara (Korut) yang mengajukan cerai dilaporkan meningkat."
-    },
-    {
-        "title": "Top! Pertamina Kaji Peluang Masuk Proyek Gas Raksasa Masela",
-        "link": "https://www.cnbcindonesia.com/news/20220801142430-4-360168/top-pertamina-kaji-peluang-masuk-proyek-gas-raksasa-masela",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE0MjQzMC00LTM2MDE2OC90b3AtcGVydGFtaW5hLWthamktcGVsdWFuZy1tYXN1ay1wcm95ZWstZ2FzLXJha3Nhc2EtbWFzZWxh",
-        "description": " Pertamina mengkaji peluang masuk proyek gas raksasa Masela"
     }
 ]
