@@ -1,5 +1,12 @@
 [
     {
+        "title": "Kuota BBM Subsidi Menipis",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220801074926-85-828546/kuota-bbm-subsidi-menipis",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMDc0OTI2LTg1LTgyODU0Ni9rdW90YS1iYm0tc3Vic2lkaS1tZW5pcGlz",
+        "description": " Kuota BBM subsidi kian menipis. Sampai Juni kemarin Pertalite sudah tersalurkan 14,2 juta KL dari pagi 23 juta KL, sementara solar sudah 8,3 juta KL."
+    },
+    {
         "title": "Biaya Kereta Cepat Jakarta-Bandung Bengkak Jadi Rp118 T",
         "link": "https://www.cnnindonesia.com/ekonomi/20220801072416-92-828533/biaya-kereta-cepat-jakarta-bandung-bengkak-jadi-rp118-t",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzMxMTgwMjEyLTk5LTgyODQzNS9qbmUtYnVrYS1zdWFyYS1zb2FsLWJlcmFzLWJhbnNvcy1wcmVzaWRlbi1kaWt1YnVyLWRpLWRlcG9r",
         "description": " JNE buka suara ihwal temuan beras bansos presiden berupa beras yang terkubur di sebuah lahan di Kota Depok, Jawa Barat."
-    },
-    {
-        "title": "Harga Garam Tembus Rp 35 Ribu Seperempat Kilogram di Pasar DKI",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220731133955-92-828368/harga-garam-tembus-rp-35-ribu-seperempat-kilogram-di-pasar-dki",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwNzMxMTMzOTU1LTkyLTgyODM2OC9oYXJnYS1nYXJhbS10ZW1idXMtcnAtMzUtcmlidS1zZXBlcmVtcGF0LWtpbG9ncmFtLWRpLXBhc2FyLWRraQ==",
-        "description": " Harga garam di sejumlah pasar di DKI Jakarta naik pada Minggu (31/7). Harga tertinggi ada di Pasar Atom, menyentuh Rp 35 ribu per 250 gram."
     }
 ]
