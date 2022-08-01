@@ -1,5 +1,26 @@
 [
     {
+        "title": "Polda Metro Usut Polisi Gadungan Kerap Tilang Mobil di Jakarta Pusat",
+        "link": "https://www.cnnindonesia.com/nasional/20220801065713-12-828527/polda-metro-usut-polisi-gadungan-kerap-tilang-mobil-di-jakarta-pusat",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMTA2NTcxMy0xMi04Mjg1MjcvcG9sZGEtbWV0cm8tdXN1dC1wb2xpc2ktZ2FkdW5nYW4ta2VyYXAtdGlsYW5nLW1vYmlsLWRpLWpha2FydGEtcHVzYXQ=",
+        "description": " Aksi polisi gadungan yang viral di media sosial itu disebut kerap menilang pengendara di kawasan Cideng, Jakarta Pusat."
+    },
+    {
+        "title": "FOTO: Maming Ditahan KPK hingga Beras Bansos Dikubur di Depok",
+        "link": "https://www.cnnindonesia.com/nasional/20220731190045-22-828450/foto-maming-ditahan-kpk-hingga-beras-bansos-dikubur-di-depok",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMTE5MDA0NS0yMi04Mjg0NTAvZm90by1tYW1pbmctZGl0YWhhbi1rcGstaGluZ2dhLWJlcmFzLWJhbnNvcy1kaWt1YnVyLWRpLWRlcG9r",
+        "description": " Autopsi ulang Brigadir J, Bendum PBNU Mardani Maming ditahan KPK, hingga timbunan bansos presiden di Depok.\u00c2\u00a0Inilah foto-foto berita pilihan dari pekan lalu."
+    },
+    {
+        "title": "Geger Temuan Beras Bansos Presiden Dikubur di Depok",
+        "link": "https://www.cnnindonesia.com/nasional/20220801064345-20-828525/geger-temuan-beras-bansos-presiden-dikubur-di-depok",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMTA2NDM0NS0yMC04Mjg1MjUvZ2VnZXItdGVtdWFuLWJlcmFzLWJhbnNvcy1wcmVzaWRlbi1kaWt1YnVyLWRpLWRlcG9r",
+        "description": " Beras bansos Presiden Joko Widodo itu mestinya diberikan kepada warga terdampak pandemi Covid di Depok."
+    },
+    {
         "title": "KPU: 10 Partai Politik Daftar Jadi Peserta Pemilu 2024 Hari Ini",
         "link": "https://www.cnnindonesia.com/nasional/20220801062047-32-828520/kpu-10-partai-politik-daftar-jadi-peserta-pemilu-2024-hari-ini",
         "image": "static/images/cnn_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMTE3MDIzMi0zMi04Mjg0MTAvcGRpcC1hbmdnYXAtam9rb3dpLWt1bXB1bGthbi1yZWxhd2FuLWRpLWlzdGFuYS1oYWwteWFuZy1iaWFzYQ==",
         "description": " Menurut Sekjen PDIP Hasto Kristiyanto, pertemuan antar relawan dengan sosok yang mereka dukung merupakan hal biasa."
-    },
-    {
-        "title": "PAN Sindir Fahri Hamzah soal Kritik KIB: Cocok Jadi Pengamat",
-        "link": "https://www.cnnindonesia.com/nasional/20220731203956-32-828474/pan-sindir-fahri-hamzah-soal-kritik-kib-cocok-jadi-pengamat",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMTIwMzk1Ni0zMi04Mjg0NzQvcGFuLXNpbmRpci1mYWhyaS1oYW16YWgtc29hbC1rcml0aWsta2liLWNvY29rLWphZGktcGVuZ2FtYXQ=",
-        "description": " Menurut Waketum PAN Viva Yoga, Fahri Hamzah bisa menjadi pengamat politik karena mengurusi urusan partai lain."
-    },
-    {
-        "title": "Kronologi Kasus Kades Tewas Ditusuk Saat Akan Salat di OKI Sumsel",
-        "link": "https://www.cnnindonesia.com/nasional/20220731214542-12-828481/kronologi-kasus-kades-tewas-ditusuk-saat-akan-salat-di-oki-sumsel",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMTIxNDU0Mi0xMi04Mjg0ODEva3Jvbm9sb2dpLWthc3VzLWthZGVzLXRld2FzLWRpdHVzdWstc2FhdC1ha2FuLXNhbGF0LWRpLW9raS1zdW1zZWw=",
-        "description": " Seorang Kades di Kabupaten OKI, Sumsel, tewas ditusuk pelaku saat hendak salat magrib pada Jumat (29/7), di mana penusuk itu kini telah ditangkap polisi."
-    },
-    {
-        "title": "Gempa M5,1 Guncang Maluku, Tak Berpotensi Tsunami",
-        "link": "https://www.cnnindonesia.com/nasional/20220731212147-20-828478/gempa-m51-guncang-maluku-tak-berpotensi-tsunami",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDczMTIxMjE0Ny0yMC04Mjg0NzgvZ2VtcGEtbTUxLWd1bmNhbmctbWFsdWt1LXRhay1iZXJwb3RlbnNpLXRzdW5hbWk=",
-        "description": " Gempa bumi dengan kekuatan magnitudo 5,1 mengguncang wilayah Maluku Barat Daya pada Minggu (31/7) malam."
     }
 ]

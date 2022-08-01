@@ -1,5 +1,33 @@
 [
     {
+        "title": "Ambil Posisi! IHSG Cenderung Melemah Setiap Agustus",
+        "link": "https://www.cnbcindonesia.com/market/20220801013112-17-359969/ambil-posisi-ihsg-cenderung-melemah-setiap-agustus",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMDEzMTEyLTE3LTM1OTk2OS9hbWJpbC1wb3Npc2ktaWhzZy1jZW5kZXJ1bmctbWVsZW1haC1zZXRpYXAtYWd1c3R1cw==",
+        "description": " IHSG tercatat menguat enam kali dan melemah empat kali dalam kurun waktu 10 tahun terakhir di bulan Agustus."
+    },
+    {
+        "title": "Mulai Nanjak, Tren Bearish Bursa AS Mulai Berakhir?",
+        "link": "https://www.cnbcindonesia.com/market/20220801012656-17-359968/mulai-nanjak-tren-bearish-bursa-as-mulai-berakhir",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMDEyNjU2LTE3LTM1OTk2OC9tdWxhaS1uYW5qYWstdHJlbi1iZWFyaXNoLWJ1cnNhLWFzLW11bGFpLWJlcmFraGly",
+        "description": " Pekan lalu menanjak, bagaimana kabar bear market Wall Street ?"
+    },
+    {
+        "title": "Lo Kheng Hong Effect: BMTR Masuk Top Gainers",
+        "link": "https://www.cnbcindonesia.com/market/20220801051038-17-359973/lo-kheng-hong-effect-bmtr-masuk-top-gainers",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMDUxMDM4LTE3LTM1OTk3My9sby1raGVuZy1ob25nLWVmZmVjdC1ibXRyLW1hc3VrLXRvcC1nYWluZXJz",
+        "description": " Sedangkan sepanjang pekan lalu, IHSG terpantau melesat 0,93% secara point-to-point (ptp)."
+    },
+    {
+        "title": "IHSG Rawan Longsor, Lagi-lagi Karena Sentimen Inflasi",
+        "link": "https://www.cnbcindonesia.com/market/20220801013739-17-359970/ihsg-rawan-longsor-lagi-lagi-karena-sentimen-inflasi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMDEzNzM5LTE3LTM1OTk3MC9paHNnLXJhd2FuLWxvbmdzb3ItbGFnaS1sYWdpLWthcmVuYS1zZW50aW1lbi1pbmZsYXNp",
+        "description": " Untuk perdagangan perdana pekan ini, investor patut mencermati rilis data inflasi bulan Juli 2022."
+    },
+    {
         "title": "Breaking News: Harga Minyak Dunia Ambrol, Turun 6% Lebih",
         "link": "https://www.cnbcindonesia.com/market/20220801064553-17-359982/breaking-news-harga-minyak-dunia-ambrol-turun-6-lebih",
         "image": "static/images/cnbc_market.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzMxMTQyOTExLTE3LTM1OTkzNS9jZWstZGFmdGFyLXRlcmtpbmktYnVtbi15YW5nLWd1bHVuZy10aWthci1nZWdhcmEtc2FsYWgtdXJ1cw==",
         "description": " Salah satunya adalah Istaka Karya."
-    },
-    {
-        "title": "Jurus MI Kelola Investasi di Era Suku Bunga Tinggi",
-        "link": "https://www.cnbcindonesia.com/market/20220729140132-19-359639/jurus-mi-kelola-investasi-di-era-suku-bunga-tinggi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI5MTQwMTMyLTE5LTM1OTYzOS9qdXJ1cy1taS1rZWxvbGEtaW52ZXN0YXNpLWRpLWVyYS1zdWt1LWJ1bmdhLXRpbmdnaQ==",
-        "description": " Jurus MI Kelola Investasi Pasar Saham di Era Suku Bunga Tinggi"
-    },
-    {
-        "title": "Sisa Utang RI ke China Setelah Dibayar Jokowi, Turun Banyak?",
-        "link": "https://www.cnbcindonesia.com/market/20220731121554-17-359929/sisa-utang-ri-ke-china-setelah-dibayar-jokowi-turun-banyak",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzMxMTIxNTU0LTE3LTM1OTkyOS9zaXNhLXV0YW5nLXJpLWtlLWNoaW5hLXNldGVsYWgtZGliYXlhci1qb2tvd2ktdHVydW4tYmFueWFr",
-        "description": " Utang pemerintah sendiri tercatat mengalami penurunan 3 bulan berturut-turut. Dengan begitu, saat ini utang pemerintah menjadi US$ 188,2 miliar."
-    },
-    {
-        "title": "Bank Hadapi Tantangan Kenaikan Suku Bunga, Apa Solusinya?",
-        "link": "https://www.cnbcindonesia.com/market/20220729093407-19-359533/bank-hadapi-tantangan-kenaikan-suku-bunga-apa-solusinya",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzI5MDkzNDA3LTE5LTM1OTUzMy9iYW5rLWhhZGFwaS10YW50YW5nYW4ta2VuYWlrYW4tc3VrdS1idW5nYS1hcGEtc29sdXNpbnlh",
-        "description": " Bank Hadapi Tantangan Kenaikan Suku Bunga di H2-2022, Apa Solusinya?"
-    },
-    {
-        "title": "Dear Crypto Lovers, Harga Bitcoin Masih Bisa Nanjak Nih!",
-        "link": "https://www.cnbcindonesia.com/market/20220731104156-17-359911/dear-crypto-lovers-harga-bitcoin-masih-bisa-nanjak-nih",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwNzMxMTA0MTU2LTE3LTM1OTkxMS9kZWFyLWNyeXB0by1sb3ZlcnMtaGFyZ2EtYml0Y29pbi1tYXNpaC1iaXNhLW5hbmphay1uaWg=",
-        "description": " Secara mingguan, banyak aset kripto yang mencatatkan kenaikan harga bahkan cukup signifikan."
     }
 ]
