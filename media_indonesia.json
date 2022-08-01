@@ -1,5 +1,19 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511490/meski-kasus-covid-19-meningkat-seluruh-wilayah-indonesia-tetap-berstatus-level-1-ppkm",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNDkwL21lc2tpLWthc3VzLWNvdmlkLTE5LW1lbmluZ2thdC1zZWx1cnVoLXdpbGF5YWgtaW5kb25lc2lhLXRldGFwLWJlcnN0YXR1cy1sZXZlbC0xLXBwa20=",
+        "description": "KEMENTERIAN Dalam Negeri RI menyampaikan kondisi seluruh daerah, baik di dalam maupun luar wilayah Jawa dan Bali, statusnya tetap berada pada level 1 selama masa perpanjangan Pemberlakuan Pembatasan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511489/warga-lebih-pilih-isolasi-mandiri-ketimbang-terpusat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNDg5L3dhcmdhLWxlYmloLXBpbGloLWlzb2xhc2ktbWFuZGlyaS1rZXRpbWJhbmctdGVycHVzYXQ=",
+        "description": "TINGKAT keterisian pasien covid-19 di Wisma Atlet Kemayoran menurun. Padahal, kasus covid-19 mengalami&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/511487/rennes-pinjam-rodon-dari-spurs",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTQ4My9rYWxhaGthbi1wZXJzaXRhLXBlcnNlYmF5YS1yYWloLWtlbWVuYW5nYW4tcGVyZGFuYS1kaS1saWdhLTE=",
         "description": "PERSEBAYA meraih kemenangan perdana di Liga 1 musim kompetisi 2022/2023 usai menaklukkan Persita Tangerang dengan skor 2-0 di Stadion&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/511481/guardiola-pastikan-city-tidak-terpengaruh-dengan-kekalahan-di-community-shield",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTQ4MS9ndWFyZGlvbGEtcGFzdGlrYW4tY2l0eS10aWRhay10ZXJwZW5nYXJ1aC1kZW5nYW4ta2VrYWxhaGFuLWRpLWNvbW11bml0eS1zaGllbGQ=",
-        "description": "PEP Guardiola menegaskan kepercayaan dirinya atas peluang Manchester City mempertahankan gelar di Liga Primer Inggris tidak&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/511480/positif-covid-19-10-atlet-pararenang-jalani-karantina",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTE0ODAvcG9zaXRpZi1jb3ZpZC0xOS0xMC1hdGxldC1wYXJhcmVuYW5nLWphbGFuaS1rYXJhbnRpbmE=",
-        "description": "SEPULUH atlet pararenang ASEAN Para Games (APG) 2022 yang berasal dari sejumlah negara harus menjalani karantina lantaran terdeteksi positif covid-19. Kepala Dinas Kesehatan Kota Semarang dr&#8230;"
     }
 ]
