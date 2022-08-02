@@ -1,5 +1,12 @@
 [
     {
+        "title": "Ada Kenaikan Kasus Covid-19, Kemendagri Sebut Semua Wilayah Masih Berstatus PPKM Level 1",
+        "link": "https://nasional.tempo.co/read/1618212/ada-kenaikan-kasus-covid-19-kemendagri-sebut-semua-wilayah-masih-berstatus-ppkm-level-1",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTgyMTIvYWRhLWtlbmFpa2FuLWthc3VzLWNvdmlkLTE5LWtlbWVuZGFncmktc2VidXQtc2VtdWEtd2lsYXlhaC1tYXNpaC1iZXJzdGF0dXMtcHBrbS1sZXZlbC0x",
+        "description": "Pemerintah memutuskan untuk kembali memperpanjang pelaksanaan PPKM di daerah di tengah pandemi yang terus diupayakan terkendali."
+    },
+    {
         "title": "WNI yang Disekap di Kamboja Bakal Dipulangkan ke Indonesia Pekan Ini",
         "link": "https://nasional.tempo.co/read/1618205/wni-yang-disekap-di-kamboja-bakal-dipulangkan-ke-indonesia-pekan-ini",
         "image": "static/images/tempo_nasional.png",
@@ -32,7 +39,7 @@
         "link": "https://nasional.tempo.co/read/1618180/fakta-fakta-terbaru-temuan-autopsi-ulang-brigadir-j",
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTgxODAvZmFrdGEtZmFrdGEtdGVyYmFydS10ZW11YW4tYXV0b3BzaS11bGFuZy1icmlnYWRpci1q",
-        "description": "TEMPO.CO, Jakarta - Autopsi ulang jenazah Brigadir J atau Brigadir Nofriansyah Yosua Hutabarat pada 27 Juli 2022 mulai membuka fakta-fakta baru. Autopsi ulang itu dilakukan oleh tim independen. Prosesnya juga diawasi oleh tim dokter, utusan keluarga, serta perwakilan dari Komisi Nasional Hak Asasi Manusia (Komnas HAM)."
+        "description": "Temuan baru selama autopsi ulang merujuk pada keterangan tenaga kesehatan yang memiliki hubungan kekerabatan dengan keluarga Brigadir J"
     },
     {
         "title": "Wapres Ma'ruf Amin: Penduduk Surga Nanti Kebanyakan Bangsa Indonesia",
@@ -61,12 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTgxNjUvZ2VsYXItY2hhcml0eS1nb2xmLWlrYS1lbGl0cy1yZW5jYW5hLWJhbmd1bi1wbHRzLXVudHVrLWtvcmJhbi1iYW5qaXItYmFuZGFuZy1zZW50YW5p",
         "description": "Kemensos menyediakan rumah tinggal bagi 76 Kepala Keluarga (KK) yang berlokasi di Distrik Doyo, Sentani"
-    },
-    {
-        "title": "Jokowi Kisahkan Krisis Dunia ke Santri yang Hadir di Zikir Kebangsaan",
-        "link": "https://nasional.tempo.co/read/1618147/jokowi-kisahkan-krisis-dunia-ke-santri-yang-hadir-di-zikir-kebangsaan",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MTgxNDcvam9rb3dpLWtpc2Foa2FuLWtyaXNpcy1kdW5pYS1rZS1zYW50cmkteWFuZy1oYWRpci1kaS16aWtpci1rZWJhbmdzYWFu",
-        "description": "Dalam Zikir Kebangsaan yang digelar di Istana Merdeka, Jokowi mengisahkan soal krisis dunia kepada para santri yang hadir."
     }
 ]

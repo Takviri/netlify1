@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sederet Alasan Jakarta Tetap Terapkan PPKM Level 1",
+        "link": "https://www.cnbcindonesia.com/news/20220802062907-4-360322/sederet-alasan-jakarta-tetap-terapkan-ppkm-level-1",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjA2MjkwNy00LTM2MDMyMi9zZWRlcmV0LWFsYXNhbi1qYWthcnRhLXRldGFwLXRlcmFwa2FuLXBwa20tbGV2ZWwtMQ==",
+        "description": " Pemerintah mneyebut tingkat keterisian rumah sakit masih rendah, menunjukkan fatality rate dari virus Covid masih terkendali"
+    },
+    {
+        "title": "Gegara Ini, Warga Korut Ramai-Ramai Ajukan Gugatan Cerai",
+        "link": "https://www.cnbcindonesia.com/news/20220802062844-4-360320/gegara-ini-warga-korut-ramai-ramai-ajukan-gugatan-cerai",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjA2Mjg0NC00LTM2MDMyMC9nZWdhcmEtaW5pLXdhcmdhLWtvcnV0LXJhbWFpLXJhbWFpLWFqdWthbi1ndWdhdGFuLWNlcmFp",
+        "description": " Jumlah warga Korea Utara (Korut) yang mengajukan cerai dilaporkan meningkat."
+    },
+    {
         "title": "DKI Tetap Level 1! PPKM Jawa-Bali Lanjut Hingga 15 Agustus",
         "link": "https://www.cnbcindonesia.com/news/20220802061151-4-360318/dki-tetap-level-1-ppkm-jawa-bali-lanjut-hingga-15-agustus",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE3Mzc0OC0xNi0zNjAyNTAvcmVzZXNpLWRpLWFzLWJpc2EtamFkaS1wZXRha2EtYmFnaS1yaS1pbmktamF3YWJhbm55YQ==",
         "description": " Dampak resesi AS terhadap Indonesia."
-    },
-    {
-        "title": "Permintaan Rumah di AS Menurun, Bagaimana dengan Harganya?",
-        "link": "https://www.cnbcindonesia.com/news/20220801191311-4-360289/permintaan-rumah-di-as-menurun-bagaimana-dengan-harganya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE5MTMxMS00LTM2MDI4OS9wZXJtaW50YWFuLXJ1bWFoLWRpLWFzLW1lbnVydW4tYmFnYWltYW5hLWRlbmdhbi1oYXJnYW55YQ==",
-        "description": " Permintaan pembelian rumah di Amerika Serikat (AS) pada bulan Juni menurun tajam akibat naiknya tingkat hipotek dan inflasi."
-    },
-    {
-        "title": "Rekor Inflasi RI, Hingga Manufaktur China Terkontraksi",
-        "link": "https://www.cnbcindonesia.com/news/20220801195732-8-360298/rekor-inflasi-ri-hingga-manufaktur-china-terkontraksi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMTE5NTczMi04LTM2MDI5OC9yZWtvci1pbmZsYXNpLXJpLWhpbmdnYS1tYW51ZmFrdHVyLWNoaW5hLXRlcmtvbnRyYWtzaQ==",
-        "description": " Inflasi Indonesia kembali melesat pada periode Juli 2022, Badan Pusat Statistik (BPS) mencatatkan inflasi secara tahunan mencapai level tertinggi"
     }
 ]
