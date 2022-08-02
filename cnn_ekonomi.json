@@ -1,5 +1,19 @@
 [
     {
+        "title": "DJP Kantongi Data Orang Kaya Tak Tersentuh Pajak",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220802152628-532-829293/djp-kantongi-data-orang-kaya-tak-tersentuh-pajak",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTUyNjI4LTUzMi04MjkyOTMvZGpwLWthbnRvbmdpLWRhdGEtb3Jhbmcta2F5YS10YWstdGVyc2VudHVoLXBhamFr",
+        "description": " Dirjen Pajak Suryo Utomo memastikan sudah mengantongi nama-nama pengusaha kelas kakap yang belum tersentuh pajak dan sudah menindaklanjutinya."
+    },
+    {
+        "title": "Zulhas 'Paksa' Pengusaha Beli TBS Sawit Rp2.000 per Kg dari Petani",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220802134404-92-829216/zulhas-paksa-pengusaha-beli-tbs-sawit-rp2000-per-kg-dari-petani",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTM0NDA0LTkyLTgyOTIxNi96dWxoYXMtcGFrc2EtcGVuZ3VzYWhhLWJlbGktdGJzLXNhd2l0LXJwMjAwMC1wZXIta2ctZGFyaS1wZXRhbmk=",
+        "description": " Mendag Zulkifli Hasan meminta pengusaha untuk membeli TBS sawit dari petani di atas Rp2.000 per kg."
+    },
+    {
         "title": "Arti PMI Manufaktur yang Menunjukkan Aktivitas Pabrik Suatu Negara",
         "link": "https://www.cnnindonesia.com/ekonomi/20220802121726-532-829143/arti-pmi-manufaktur-yang-menunjukkan-aktivitas-pabrik-suatu-negara",
         "image": "static/images/cnn_ekonomi.png",
@@ -7,11 +21,11 @@
         "description": " Aktivitas pabrik-pabrik di sejumlah negara Asia mulai berguguran di tengah peningkatan kasus covid-19, inflasi dan gangguan rantai pasok."
     },
     {
-        "title": "TASPEN Sabet Penghargaan Indonesia CSR Award-V 2022",
+        "title": "Taspen Sabet Penghargaan Indonesia CSR Award-V 2022",
         "link": "https://www.cnnindonesia.com/ekonomi/20220802150532-104-829277/taspen-sabet-penghargaan-indonesia-csr-award-v-2022",
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTUwNTMyLTEwNC04MjkyNzcvdGFzcGVuLXNhYmV0LXBlbmdoYXJnYWFuLWluZG9uZXNpYS1jc3ItYXdhcmQtdi0yMDIy",
-        "description": " Program TJSL TASPEN berhasil menyabet\u00c2\u00a0penghargaan The Best Sustainable Development Goals Program Implementation 2022 dalam ajang ICSRA-V-2022."
+        "description": " Program TJSL Taspen berhasil menyabet\u00c2\u00a0penghargaan The Best Sustainable Development Goals Program Implementation 2022 dalam ajang ICSRA-V-2022."
     },
     {
         "title": "IHSG Tetap Perkasa ke 6.988 di Tengah Koreksi 349 Saham",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTMwODM3LTkyLTgyOTE4MS9sYXJpcy1tYW5pcy1wdGRpLWp1YWwtNDY2LXBlc2F3YXQtZGFuLWhlbGlrb3B0ZXI=",
         "description": " PT Dirgantara Indonesia (Persero) atau PTDI telah menjual total 466 unit pesawat terbang dan helikopter ke dalam maupun luar negeri. Berikut rinciannya."
-    },
-    {
-        "title": "Aktivitas Pabrik RI Pulih, PMI Manufaktur Naik ke Posisi 51,3",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220802130332-532-829178/aktivitas-pabrik-ri-pulih-pmi-manufaktur-naik-ke-posisi-513",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTMwMzMyLTUzMi04MjkxNzgvYWt0aXZpdGFzLXBhYnJpay1yaS1wdWxpaC1wbWktbWFudWZha3R1ci1uYWlrLWtlLXBvc2lzaS01MTM=",
-        "description": " PMI manufaktur Indonesia pada Juli 2022 kembali di level ekspansif 51,3 lebih tinggi dibandingkan bulan sebelumnya yang mencapai 50,2."
-    },
-    {
-        "title": "BI Borong SBN di Pasar Perdana Rp56,11 T per 20 Juli 2022",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220802094956-78-829076/bi-borong-sbn-di-pasar-perdana-rp5611-t-per-20-juli-2022",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMDk0OTU2LTc4LTgyOTA3Ni9iaS1ib3Jvbmctc2JuLWRpLXBhc2FyLXBlcmRhbmEtcnA1NjExLXQtcGVyLTIwLWp1bGktMjAyMg==",
-        "description": " BI membelil SBN dari pasar perdana sebesar Rp56,11 triliun hingga 20 Juli 2022."
     }
 ]
