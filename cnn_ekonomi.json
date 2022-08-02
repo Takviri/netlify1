@@ -1,5 +1,19 @@
 [
     {
+        "title": "Freeport Indonesia Buka Lowongan Kerja untuk 20 Posisi",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220802162644-85-829346/freeport-indonesia-buka-lowongan-kerja-untuk-20-posisi",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTYyNjQ0LTg1LTgyOTM0Ni9mcmVlcG9ydC1pbmRvbmVzaWEtYnVrYS1sb3dvbmdhbi1rZXJqYS11bnR1ay0yMC1wb3Npc2k=",
+        "description": " Freeport Indonesia membuka lowongan kerja untuk lulusan baru. Lowongan tersedia untuk 20 posisi pekerjaan."
+    },
+    {
+        "title": "DJP Ajak Ngobrol Kominfo soal Pemungut Pajak Tak Daftar PSE Diblokir",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220802163102-532-829347/djp-ajak-ngobrol-kominfo-soal-pemungut-pajak-tak-daftar-pse-diblokir",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTYzMTAyLTUzMi04MjkzNDcvZGpwLWFqYWstbmdvYnJvbC1rb21pbmZvLXNvYWwtcGVtdW5ndXQtcGFqYWstdGFrLWRhZnRhci1wc2UtZGlibG9raXI=",
+        "description": " Dirjen Pajak Suryo Utomo\u00c2\u00a0akan berkoordinasi dengan Kementerian Komunikasi dan Informatika soal diblokirnya perusahaan digital yang belum mendaftar sebagai PSE."
+    },
+    {
         "title": "Utang Negara Bengkak Jadi Rp7.123 T per Juni 2022",
         "link": "https://www.cnnindonesia.com/ekonomi/20220802155846-532-829324/utang-negara-bengkak-jadi-rp7123-t-per-juni-2022",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTUwNTMyLTEwNC04MjkyNzcvdGFzcGVuLXNhYmV0LXBlbmdoYXJnYWFuLWluZG9uZXNpYS1jc3ItYXdhcmQtdi0yMDIy",
         "description": " Program TJSL Taspen berhasil menyabet\u00c2\u00a0penghargaan The Best Sustainable Development Goals Program Implementation 2022 dalam ajang ICSRA-V-2022."
-    },
-    {
-        "title": "IHSG Tetap Perkasa ke 6.988 di Tengah Koreksi 349 Saham",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220802145339-92-829270/ihsg-tetap-perkasa-ke-6988-di-tengah-koreksi-349-saham",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTQ1MzM5LTkyLTgyOTI3MC9paHNnLXRldGFwLXBlcmthc2Eta2UtNjk4OC1kaS10ZW5nYWgta29yZWtzaS0zNDktc2FoYW0=",
-        "description": " IHSG berhasil menguat 0,28 persen ke level 6.988 pada Selasa (2/8) meskipun 349 saham terkoreksi."
-    },
-    {
-        "title": "Pemerintah Bidik Ekonomi Tumbuh 5,9 Persen Tahun Depan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220802133107-532-829205/pemerintah-bidik-ekonomi-tumbuh-59-persen-tahun-depan",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTMzMTA3LTUzMi04MjkyMDUvcGVtZXJpbnRhaC1iaWRpay1la29ub21pLXR1bWJ1aC01OS1wZXJzZW4tdGFodW4tZGVwYW4=",
-        "description": " Menko\u00c2\u00a0Perekonomian Airlangga Hartarto memperkirakan pertumbuhan ekonomi Indonesia berada di kisaran 5,3 persen hingga 5,9 persen pada tahun depan."
     }
 ]

@@ -1,5 +1,40 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/511672/sempat-terimbas-pandemi-agen-travel-cheria-holiday-kini-kembali-terbangkan-tamu-ke-wisata-halal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTY3Mi9zZW1wYXQtdGVyaW1iYXMtcGFuZGVtaS1hZ2VuLXRyYXZlbC1jaGVyaWEtaG9saWRheS1raW5pLWtlbWJhbGktdGVyYmFuZ2thbi10YW11LWtlLXdpc2F0YS1oYWxhbA==",
+        "description": "PANDEMI Covid-19 ikut memorak-porandakan industri pariwisata dan ekonomi kreatif di Indonesia. Banyak operator perjalanan wisata (travel) terdampak selama 2 tahun lebih. Imbasnya, harus menunda&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/511671/pernyataan-haris-ke-airlangga-jangan-dibawa-ke-ranah-hukum-mubazir",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTE2NzEvcGVybnlhdGFhbi1oYXJpcy1rZS1haXJsYW5nZ2EtamFuZ2FuLWRpYmF3YS1rZS1yYW5haC1odWt1bS1tdWJhemly",
+        "description": "DIREKTUR Solusi dan Advokasi Institut (SA Institut), Suparji Ahmad, menilai pernyataan Ketua Umum Dewan Pengurus Pusat Komite Nasional Pemuda Indonesia (DPP KNPI) Haris Pertama tidak perlu dibawa ke&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/511670/kinerja-maksimal-bea-cukai-dorong-surplus-apbn-berkelanjutan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTY3MC9raW5lcmphLW1ha3NpbWFsLWJlYS1jdWthaS1kb3Jvbmctc3VycGx1cy1hcGJuLWJlcmtlbGFuanV0YW4=",
+        "description": "SUDAH lebih dari satu semester tahun 2022 berjalan, gejolak perekonomian di Indonesia terpantau mengalami tren positif dengan catatan surplus selama 26 bulan berturut-turut hingga Juni 2022.&nbsp;&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/511669/sambut-hut-ke-2-green-sedayu-mall-hadirkan-sentra-vaksinasi-booster-dan-pengecekan-kesehatan-gratis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTE2Njkvc2FtYnV0LWh1dC1rZS0yLWdyZWVuLXNlZGF5dS1tYWxsLWhhZGlya2FuLXNlbnRyYS12YWtzaW5hc2ktYm9vc3Rlci1kYW4tcGVuZ2VjZWthbi1rZXNlaGF0YW4tZ3JhdGlz",
+        "description": "KEBIJAKAN Pemerintah dalam mewajibkan vaksinasi dosis ketiga atau booster sebagai syarat bepergian dan memasuki fasilitas publik membuat jumlah penerima booster mengalami peningkatan secara signifikan,&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/511668/polri-red-notice-pemilik-duta-palma-group-aktif-sampai-2025",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTE2NjgvcG9scmktcmVkLW5vdGljZS1wZW1pbGlrLWR1dGEtcGFsbWEtZ3JvdXAtYWt0aWYtc2FtcGFpLTIwMjU=",
+        "description": "POLRI memastikan bahwa masa aktif red notice pemilik PT Duta Palma Group, yakni Surya Darmadi, berlaku sampai 2025. Surya diketahui sudah ditetapkan sebagai tersangka oleh penyidik Kejagung terkait&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/511667/brin-riset-pentinguntuk-identifikasi-virus-termasuk-cacar-monyet",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTE2NjMvaHVtYXMtcG9scmktc2VidXQtZmVyZHktc2FtYm8tdGFrLWxhZ2ktamFiYXQta2VwYWxhLXNhdGdhc3N1cw==",
         "description": "KEPALA Divisi Humas Polri Irjen Pol. Dedi Prasetyo menyebutkan Irjen Pol. Ferdy Sambo sudah tidak lagi menjabat sebagai Kepala Satgas Khusus (Satgassus) Polri sejak dinonaktifkan dari jabatan Kepala&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/511662/ditjen-pajak-bakal-koordinasi-dengan-kemenkominfo-soal-pemblokiran-akibat-aturan-pse",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTY2Mi9kaXRqZW4tcGFqYWstYmFrYWwta29vcmRpbmFzaS1kZW5nYW4ta2VtZW5rb21pbmZvLXNvYWwtcGVtYmxva2lyYW4tYWtpYmF0LWF0dXJhbi1wc2U=",
-        "description": "DIREKTUR Jenderal Pajak Kementerian Keuangan Suryo Utomo mengungkapkan bakal segera berkoordinasi dengan Kementerian Komunikasi dan Informatika. Itu dilakukan untuk memperjelas ketentuan pendaftaran&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/511661/timsus-kasus-brigadir-j-periksa-ahli-labfor-inafis-dan-dokfor",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTE2NjEvdGltc3VzLWthc3VzLWJyaWdhZGlyLWotcGVyaWtzYS1haGxpLWxhYmZvci1pbmFmaXMtZGFuLWRva2Zvcg==",
-        "description": "PENYIDIK tim khusus (timsus) gabungan pengusutan kasus tewasnya Brigadir Nopryansah Yosua Hutabarat alias Brigadir J terus bekerja. Mereka memeriksa para ahli untuk mencari bukti insiden berdarah itu.&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/511660/lemkapi-purnawirawan-polri-jangan-jadi-provokator",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTE2NjAvbGVta2FwaS1wdXJuYXdpcmF3YW4tcG9scmktamFuZ2FuLWphZGktcHJvdm9rYXRvcg==",
-        "description": "LEMBAGA Kajian Strategis Kepolisian Indonesia (Lemkapi) mengecam kepada sejumlah jenderal purnawirawan Polri karena membuat pernyataan sehingga membikin kegaduhan dalam perkara kematian Brigadir J.&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/511657/produsen-motor-honda-rilis-program-vokasi-berbasis-tefa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTE2NTcvcHJvZHVzZW4tbW90b3ItaG9uZGEtcmlsaXMtcHJvZ3JhbS12b2thc2ktYmVyYmFzaXMtdGVmYQ==",
-        "description": "PT Astra Honda Motor (AHM) kembali menegaskan komitmennya terhadap pendidikan vokasi dengan merilis konsep teaching factory (TEFA) yang akan bekerja sama dengan bengkel resmi Astra Honda Authorize&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511656/meotel-jember-berganti-nama-menjadi-hotel-dafam-fortuna-jember",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNjU2L21lb3RlbC1qZW1iZXItYmVyZ2FudGktbmFtYS1tZW5qYWRpLWhvdGVsLWRhZmFtLWZvcnR1bmEtamVtYmVy",
-        "description": "Tepat pada Anniversary yang ke-4th Meotel Jember by Dafam resmi mengubah nama menjadi Hotel Dafam Fortuna Jember, hal itu ditandai dengan Ceremony Rebranding yang diselenggarakan pada Selasa (2/8)di&#8230;"
     }
 ]
