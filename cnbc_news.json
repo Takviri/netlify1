@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ramalan Seram Jokowi, Hingga Inflasi Korsel Cetak Rekor",
+        "link": "https://www.cnbcindonesia.com/news/20220802180437-8-360589/ramalan-seram-jokowi-hingga-inflasi-korsel-cetak-rekor",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE4MDQzNy04LTM2MDU4OS9yYW1hbGFuLXNlcmFtLWpva293aS1oaW5nZ2EtaW5mbGFzaS1rb3JzZWwtY2V0YWstcmVrb3I=",
+        "description": " Presiden Joko Widodo memperkirakan ratusan juta orang akan kelaparan dan mengalami kekurangan makan akut akibat krisis pangan."
+    },
+    {
+        "title": "Allo Invest to Campus Sambangi Kampus Perbanas Institute",
+        "link": "https://www.cnbcindonesia.com/news/20220802163504-7-360560/allo-invest-to-campus-sambangi-kampus-perbanas-institute",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE2MzUwNC03LTM2MDU2MC9hbGxvLWludmVzdC10by1jYW1wdXMtc2FtYmFuZ2kta2FtcHVzLXBlcmJhbmFzLWluc3RpdHV0ZQ==",
+        "description": " Acara itu digelar di Kampus Perbanas Institute, Jakarta, Selasa (2/8/2022), dengan tujuan meningkatkan literasi keuangan dari kalangan Gen Z."
+    },
+    {
+        "title": "Jangan Lengah, Kasus Covid-19 di RI Bertambah 5.827 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220802171409-16-360558/jangan-lengah-kasus-covid-19-di-ri-bertambah-5827-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE3MTQwOS0xNi0zNjA1NTgvamFuZ2FuLWxlbmdhaC1rYXN1cy1jb3ZpZC0xOS1kaS1yaS1iZXJ0YW1iYWgtNTgyNy1oYXJpLWluaQ==",
+        "description": " Total kasus mencapai 6.216.621."
+    },
+    {
+        "title": "Kenaikan Harga Rumah di Inggris Melandai, Ini Penyebabnya",
+        "link": "https://www.cnbcindonesia.com/news/20220802151328-4-360514/kenaikan-harga-rumah-di-inggris-melandai-ini-penyebabnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE1MTMyOC00LTM2MDUxNC9rZW5haWthbi1oYXJnYS1ydW1haC1kaS1pbmdncmlzLW1lbGFuZGFpLWluaS1wZW55ZWJhYm55YQ==",
+        "description": " Harga rumah Inggris naik pada Juli, namun mulai melambat dibandingkan dengan bulan-bulan sebelumnya."
+    },
+    {
+        "title": "Polemik Tak Berujung, Kereta Cepat Jakarta-Bandung Molor?",
+        "link": "https://www.cnbcindonesia.com/news/20220802175107-8-360573/polemik-tak-berujung-kereta-cepat-jakarta-bandung-molor",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE3NTEwNy04LTM2MDU3My9wb2xlbWlrLXRhay1iZXJ1anVuZy1rZXJldGEtY2VwYXQtamFrYXJ0YS1iYW5kdW5nLW1vbG9y",
+        "description": " Polemik Tak Berujung, Kereta Cepat Jakarta-Bandung Molor?"
+    },
+    {
+        "title": "Oktober Nanti Nelayan Dilarang Tangkap Ikan, Ini Sebabnya",
+        "link": "https://www.cnbcindonesia.com/news/20220802171139-4-360559/oktober-nanti-nelayan-dilarang-tangkap-ikan-ini-sebabnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE3MTEzOS00LTM2MDU1OS9va3RvYmVyLW5hbnRpLW5lbGF5YW4tZGlsYXJhbmctdGFuZ2thcC1pa2FuLWluaS1zZWJhYm55YQ==",
+        "description": " Nelayan tidak diperbolehkan untuk untuk melaut mencari ikan oleh pemerintah pada Oktober mendatang."
+    },
+    {
         "title": "Lucu! Negara Maritim Tapi Indonesia Impor Ikan, Kenapa?",
         "link": "https://www.cnbcindonesia.com/news/20220802165053-4-360553/lucu-negara-maritim-tapi-indonesia-impor-ikan-kenapa",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE2MjMyNy00LTM2MDUzNy9oZWJvaC1wZW1hc29rLWJhdHUtYmFyYS1vZ2FoLXN1cGxhaS1rZS1wbG4taW5pLWFsYXNhbm55YQ==",
         "description": " PLN menyebutkan para pemasok menunggu terbentuknya BLU Batu Bara"
-    },
-    {
-        "title": "PT Timah Ubah Galian Bekas Tambang Jadi Lahan Konservasi",
-        "link": "https://www.cnbcindonesia.com/news/20220802164356-8-360548/pt-timah-ubah-galian-bekas-tambang-jadi-lahan-konservasi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE2NDM1Ni04LTM2MDU0OC9wdC10aW1haC11YmFoLWdhbGlhbi1iZWthcy10YW1iYW5nLWphZGktbGFoYW4ta29uc2VydmFzaQ==",
-        "description": " Pemda Provinsi Kepulauan Babel bersinergi dengan PT Timah berupaya menjadikan bekas tambang itu menjadi lahan produktif untuk mendorong perekonomian masyarakat."
-    },
-    {
-        "title": "Kabar Gembira! Sekarang Parkir Pesawat Gratis, Bebas Pajak",
-        "link": "https://www.cnbcindonesia.com/news/20220802162347-4-360540/kabar-gembira-sekarang-parkir-pesawat-gratis-bebas-pajak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE2MjM0Ny00LTM2MDU0MC9rYWJhci1nZW1iaXJhLXNla2FyYW5nLXBhcmtpci1wZXNhd2F0LWdyYXRpcy1iZWJhcy1wYWphaw==",
-        "description": " Kementerian Perhubungan membebaskan tarif jasa pendaratan, penempatan, dan penyimpanan pesawat (PJP4U) yang berlaku di unit penyelenggara Bandar Udara (UPBU)."
-    },
-    {
-        "title": "Pengusaha Ikan Kaleng Teriak Biaya Naik, Minta Ikut Bansos",
-        "link": "https://www.cnbcindonesia.com/news/20220802155957-4-360534/pengusaha-ikan-kaleng-teriak-biaya-naik-minta-ikut-bansos",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE1NTk1Ny00LTM2MDUzNC9wZW5ndXNhaGEtaWthbi1rYWxlbmctdGVyaWFrLWJpYXlhLW5haWstbWludGEtaWt1dC1iYW5zb3M=",
-        "description": " Harga Bahan Baku Ikan Kaleng Naik, Pengusaha Harap ada Bansos Lagi"
-    },
-    {
-        "title": "Sampai Juni 2022 Konsumsi LPG Subsidi Tembus 47,6%",
-        "link": "https://www.cnbcindonesia.com/news/20220802155255-4-360530/sampai-juni-2022-konsumsi-lpg-subsidi-tembus-476",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE1NTI1NS00LTM2MDUzMC9zYW1wYWktanVuaS0yMDIyLWtvbnN1bXNpLWxwZy1zdWJzaWRpLXRlbWJ1cy00NzY=",
-        "description": " Realisasi penyaluran Liquefied Petroleum Gas (LPG) subsidi tabung 3 Kg hingga Juni 2022 telah mencapai 3.804.123 metrik ton (mt)"
-    },
-    {
-        "title": "Catat! Pembatasan Beli Pertalite Jadi Berlaku September",
-        "link": "https://www.cnbcindonesia.com/news/20220802163901-4-360545/catat-pembatasan-beli-pertalite-jadi-berlaku-september",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE2MzkwMS00LTM2MDU0NS9jYXRhdC1wZW1iYXRhc2FuLWJlbGktcGVydGFsaXRlLWphZGktYmVybGFrdS1zZXB0ZW1iZXI=",
-        "description": " BPH Migas berharap pembatasan pembelian Pertalite berlaku pada September sambil menanti rampungnya revisi Perpres 191/2014"
-    },
-    {
-        "title": "Jasa Raharja Serahkan Santunan Korban Kecelakaan di Boyolali",
-        "link": "https://www.cnbcindonesia.com/news/20220802164043-4-360546/jasa-raharja-serahkan-santunan-korban-kecelakaan-di-boyolali",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE2NDA0My00LTM2MDU0Ni9qYXNhLXJhaGFyamEtc2VyYWhrYW4tc2FudHVuYW4ta29yYmFuLWtlY2VsYWthYW4tZGktYm95b2xhbGk=",
-        "description": " Jasa Raharja menyerahkan santunan kepada ahli waris korban kecelakaan lalu lintas yang melibatkan kendaraan dinas Badan Keamanan Laut (Bakamla)"
     }
 ]

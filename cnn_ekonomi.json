@@ -1,5 +1,19 @@
 [
     {
+        "title": "Seluruh Transaksi Pajak Pakai NIK Mulai 2024",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220802143354-532-829252/seluruh-transaksi-pajak-pakai-nik-mulai-2024",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTQzMzU0LTUzMi04MjkyNTIvc2VsdXJ1aC10cmFuc2Frc2ktcGFqYWstcGFrYWktbmlrLW11bGFpLTIwMjQ=",
+        "description": " DJP Kemenkeu memastikan seluruh transaksi perpajakan bisa dilakukan dengan Nomor Induk Kependudukan (NIK) mulai 1 Januari 2024."
+    },
+    {
+        "title": "Perusahaan Kripto Nomad Kena Bobol Rp2,82 T",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220802172317-92-829376/perusahaan-kripto-nomad-kena-bobol-rp282-t",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTcyMzE3LTkyLTgyOTM3Ni9wZXJ1c2FoYWFuLWtyaXB0by1ub21hZC1rZW5hLWJvYm9sLXJwMjgyLXQ=",
+        "description": " Nomad, perusahaan\u00c2\u00a0kripto di AS, terkena pencurian aset hingga US$190 juta setara Rp2,82 triliun."
+    },
+    {
         "title": "Perusahaan Adik Prabowo Angkut 50 Ribu Ton Gandum Ukraina ke Indonesia",
         "link": "https://www.cnnindonesia.com/ekonomi/20220802170751-92-829366/perusahaan-adik-prabowo-angkut-50-ribu-ton-gandum-ukraina-ke-indonesia",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTIwNjQ5LTc4LTgyOTEzNi9ydXBpYWgtbWVyYWRhbmcta2UtcnAxNDg4OS1raGF3YXRpcmthbi1la29ub21pLXJpLXRlcmRhbXBhay1pbmZsYXNp",
         "description": " Rupiah melemah 0,11 persen ke posisi Rp14.889 per dolar AS gara-gara kekhawatiran ekonomi RI terpengaruh lonjakan inflasi."
-    },
-    {
-        "title": "DJP Kantongi Data Orang Kaya Tak Tersentuh Pajak",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220802152628-532-829293/djp-kantongi-data-orang-kaya-tak-tersentuh-pajak",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTUyNjI4LTUzMi04MjkyOTMvZGpwLWthbnRvbmdpLWRhdGEtb3Jhbmcta2F5YS10YWstdGVyc2VudHVoLXBhamFr",
-        "description": " Dirjen Pajak Suryo Utomo memastikan sudah mengantongi nama-nama pengusaha kelas kakap yang belum tersentuh pajak dan sudah menindaklanjutinya."
-    },
-    {
-        "title": "Zulhas 'Paksa' Pengusaha Beli TBS Sawit Rp2.000 per Kg dari Petani",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220802134404-92-829216/zulhas-paksa-pengusaha-beli-tbs-sawit-rp2000-per-kg-dari-petani",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTM0NDA0LTkyLTgyOTIxNi96dWxoYXMtcGFrc2EtcGVuZ3VzYWhhLWJlbGktdGJzLXNhd2l0LXJwMjAwMC1wZXIta2ctZGFyaS1wZXRhbmk=",
-        "description": " Mendag Zulkifli Hasan meminta pengusaha untuk membeli TBS sawit dari petani di atas Rp2.000 per kg."
     }
 ]
