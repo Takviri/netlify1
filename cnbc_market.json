@@ -1,5 +1,19 @@
 [
     {
+        "title": "Gak Cuma Inflasi, Berikut Kabar Pasar Untuk Hari Ini",
+        "link": "https://www.cnbcindonesia.com/market/20220802073311-17-360335/gak-cuma-inflasi-berikut-kabar-pasar-untuk-hari-ini",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMDczMzExLTE3LTM2MDMzNS9nYWstY3VtYS1pbmZsYXNpLWJlcmlrdXQta2FiYXItcGFzYXItdW50dWstaGFyaS1pbmk=",
+        "description": " Yuk simak kabar emiten sebelum memulai perdagangan Selasa (2/8/2022)."
+    },
+    {
+        "title": "Ini 5 Saham yang Naik Tak Wajar, 'Haka' Atau Hati-hati Nih?",
+        "link": "https://www.cnbcindonesia.com/market/20220802010229-17-360311/ini-5-saham-yang-naik-tak-wajar-haka-atau-hati-hati-nih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMDEwMjI5LTE3LTM2MDMxMS9pbmktNS1zYWhhbS15YW5nLW5haWstdGFrLXdhamFyLWhha2EtYXRhdS1oYXRpLWhhdGktbmlo",
+        "description": " Pekan lalu kinerja indeks saham domestik ditutup dengan manis. Bersamaan dengan kenaikan nyaris 1%."
+    },
+    {
         "title": "Maju Tak Gentar, Emas Makin Bersinar",
         "link": "https://www.cnbcindonesia.com/market/20220802065237-17-360326/maju-tak-gentar-emas-makin-bersinar",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTc0NzEyLTIwLTM2MDI1NS9zZWRlcmV0LXBlbmd1c2FoYS1tdXNsaW0tdGVya2F5YS1kaS1kdW5pYS1hZGEtZGFyaS1pbmRvbmVzaWE=",
         "description": " Dalam data Forbes, setidaknya ada 22 miliarder Timur Tengah yang termasuk orang terkaya di dunia."
-    },
-    {
-        "title": "Jangan Salah! Sri Mulyani Cs Antisipasi Resesi Sejak Lama",
-        "link": "https://www.cnbcindonesia.com/market/20220801200837-17-360299/jangan-salah-sri-mulyani-cs-antisipasi-resesi-sejak-lama",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMjAwODM3LTE3LTM2MDI5OS9qYW5nYW4tc2FsYWgtc3JpLW11bHlhbmktY3MtYW50aXNpcGFzaS1yZXNlc2ktc2VqYWstbGFtYQ==",
-        "description": " KSSK mengungkapkan pertumbuhan ekonomi global diperkirakan akan disertai dengan meningkatnya stagflasi dan ketidakpastian pasar keuangan."
-    },
-    {
-        "title": "Usai Merugi, Bukalapak Cetak Laba Bersih Rp 8,59 Triliun",
-        "link": "https://www.cnbcindonesia.com/market/20220801185906-17-360280/usai-merugi-bukalapak-cetak-laba-bersih-rp-859-triliun",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTg1OTA2LTE3LTM2MDI4MC91c2FpLW1lcnVnaS1idWthbGFwYWstY2V0YWstbGFiYS1iZXJzaWgtcnAtODU5LXRyaWxpdW4=",
-        "description": " PT Bukalapak.com Tbk (BUKA) mencatat perolehan laba bersih sebesar Rp 8,59 triliun pada semester pertama tahun 2022."
     }
 ]

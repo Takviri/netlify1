@@ -1,5 +1,47 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/511500/album-perdana-dpr-ian-gambarkan-perjuangan-melawan-bipolar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMTUwMC9hbGJ1bS1wZXJkYW5hLWRwci1pYW4tZ2FtYmFya2FuLXBlcmp1YW5nYW4tbWVsYXdhbi1iaXBvbGFy",
+        "description": "DPR IAN, selaku musisi, sutradara dan videografer dari kolektif multimedia independen Dream Perfect Regime (DPR) bersama DPR LIVE, CREAM, dan REM merilis <a href=\"http://mediaindonesia.com/tag/musik\"&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/511514/wall-street-turun-tajam-akibat-data-ekonomi-mengecewakan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTUxNC93YWxsLXN0cmVldC10dXJ1bi10YWphbS1ha2liYXQtZGF0YS1la29ub21pLW1lbmdlY2V3YWthbg==",
+        "description": "WALL Street merosot pada akhir perdagangan Senin (Selasa pagi WIB), menghentikan kenaikan tiga hari berturut-turut dan menyerahkan beberapa keuntungan yang telah mereka cetak di minggu sebelumnya,&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511498/tahun-ini-istana-presiden-gelar-preayaan-hut-ri-secara-terbuka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNDk4L3RhaHVuLWluaS1pc3RhbmEtcHJlc2lkZW4tZ2VsYXItcHJlYXlhYW4taHV0LXJpLXNlY2FyYS10ZXJidWth",
+        "description": "KEPALA Sekretariat Presiden, Heru Budi Hartono, mengatakan Istana Kepresidenan akan menggelar peringatan Hari Ulang Tahun (HUT) ke-77&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/511510/tingkatkan-literasi-digital-agar-tidak-tergerus-zaman",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExNTEwL3RpbmdrYXRrYW4tbGl0ZXJhc2ktZGlnaXRhbC1hZ2FyLXRpZGFrLXRlcmdlcnVzLXphbWFu",
+        "description": "Budaya dalam literasi digital tak cukup hanya dengan kemampuan membaca saja, namun diperlukan kemampuan memahami serta menganalisa saat menggunakan perangkat keras dan lunak dalam lanskap digital.&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511474/mengawal-keberlangsungan-pesisir-cirebon",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNDc0L21lbmdhd2FsLWtlYmVybGFuZ3N1bmdhbi1wZXNpc2lyLWNpcmVib24=",
+        "description": "DI Indonesia, pesisir Cirebon merupakan salah satu pesisir terpadat di wilayah pantai utara (pantura). Menghadap ke Laut Jawa, pesisir Cirebon memiliki sedimen lumpur yang sangat halus sehingga perairan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/511509/sempat-alami-gangguan-bca-mobile-kini-sudah-normal-kembali",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTUwOS9zZW1wYXQtYWxhbWktZ2FuZ2d1YW4tYmNhLW1vYmlsZS1raW5pLXN1ZGFoLW5vcm1hbC1rZW1iYWxp",
+        "description": "Layanan BCA mobile yang sempat mengalami gangguan dan tidak dapat diakses oleh para nasabah sejak Senin (1/8) kemarin kini sudah berangsur normal. Executive Vice President Secretariat &amp;&#8230;"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/511508/biden-umumkan-as-berhasil-tewaskan-pemimpin-al-qaeda-di-afghanistan",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTE0OTYva2VtYmFsaS1kaXBhc2FuZ2thbi1kZW5nYW4tcmlia2EtZmFkaWEtbWVuZ2FrdS10aWRhay1jYW5nZ3VuZw==",
         "description": "PEBULU tangkis ganda putri Indonesia, Siti Fadia Silva Ramadhanti, mengaku tidak canggung kembali berpasangan dengan rekan lamanya&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/511494/gattuso-ingin-datangkan-melo-ke-valencia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTQ5NC9nYXR0dXNvLWluZ2luLWRhdGFuZ2thbi1tZWxvLWtlLXZhbGVuY2lh",
-        "description": "PELATIH klub La Liga Valencia Gennaro Gattuso dikabarkan ingin memboyong gelandang klub Serie A Juventus Arthur Melo ke timnya pada&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/511504/sebaiknya-jangan-mempotong-alpukat-dengan-pisau-logam-ini-alasannya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMTUwNC9zZWJhaWtueWEtamFuZ2FuLW1lbXBvdG9uZy1hbHB1a2F0LWRlbmdhbi1waXNhdS1sb2dhbS1pbmktYWxhc2Fubnlh",
-        "description": "Apabila Anda ingin memotong atau mengupas alpukat, pikirkan pisau mana yang harus digunakan. Pasalnya, bahan alat yang Anda gunakan sama pentingnya dengan ukurannya untuk menyelesaikan pekerjaan dengan&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/511503/band-virtual-timur-singgung-ruang-privasi-di-single-kedua",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMTUwMy9iYW5kLXZpcnR1YWwtdGltdXItc2luZ2d1bmctcnVhbmctcHJpdmFzaS1kaS1zaW5nbGUta2VkdWE=",
-        "description": "Timur, kelompok musik dengan konsep band virtual, merilis single terbaru mereka bertajuk Ruang Batas Publik. Lagu tersebut merupakan single kedua dari band dengan representasi karakter animasi&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/511493/diprotes-komunitas-penyandang-disbilitas-beyonce-ganti-lirik-lagunya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMTQ5My9kaXByb3Rlcy1rb211bml0YXMtcGVueWFuZGFuZy1kaXNiaWxpdGFzLWJleW9uY2UtZ2FudGktbGlyaWstbGFndW55YQ==",
-        "description": "BEYONCE akan menghilangkan istilah merendahkan bagi penyandang disabilitas dari lagunya yang berjudul Heated. Hal itu diungkapkan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/511492/aaron-ramsey-bergabung-dengan-nice",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTQ5Mi9hYXJvbi1yYW1zZXktYmVyZ2FidW5nLWRlbmdhbi1uaWNl",
-        "description": "KLUB Ligue 1 Nice, Senin (1/8), mengumumkan bergabungnya gelandang Wales Aaron Ramsey, sepekan setelah pemain tengah berusia 31 tahun&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/511499/emas-naik-59-dolar-as-kenaikan-empat-hari-berturut-turut",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTQ5OS9lbWFzLW5haWstNTktZG9sYXItYXMta2VuYWlrYW4tZW1wYXQtaGFyaS1iZXJ0dXJ1dC10dXJ1dA==",
-        "description": "HARGA Emas terdongkrak lagi pada akhir perdagangan Senin (Selasa pagi WIB), memperpanjang reli untuk hari keempat berturut-turut ditopang oleh dolar AS yang lebih lemah dan imbal hasil obligasi yang&#8230;"
     }
 ]
