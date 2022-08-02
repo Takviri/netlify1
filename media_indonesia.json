@@ -1,5 +1,61 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/511542/spalletti-puji-performa-kim-min-jae",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTU0Mi9zcGFsbGV0dGktcHVqaS1wZXJmb3JtYS1raW0tbWluLWphZQ==",
+        "description": "PELATIH klub Serie A Napoli Luciano Spalletti memberikan pujian kepada bek anyar Kim Min Jae yang didatangkan Il Partenopei dari klub&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/511557/kpu-ungkap-3-kategori-parpol-calon-pesertapemilu-2024",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTE1NTcva3B1LXVuZ2thcC0zLWthdGVnb3JpLXBhcnBvbC1jYWxvbi1wZXNlcnRhcGVtaWx1LTIwMjQ=",
+        "description": "KOMISI Pemilihan Umum (KPU) RI mengungkapkan tiga kategori partai politik (parpol) calon peserta Pemilu 2024. Pertama, Ketua KPU Hasyim Asy'ari membeberkan parpol peserta Pemilu tahun 2019 yang&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/511555/as-bantu-ukraina-lagi-usd550-juta-dalam-bentuk-persenjataan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMTU1NS9hcy1iYW50dS11a3JhaW5hLWxhZ2ktdXNkNTUwLWp1dGEtZGFsYW0tYmVudHVrLXBlcnNlbmphdGFhbg==",
+        "description": "PEMERINTAH Amerika Serikat (AS) mengumumkan pengiriman senjata baru senilai USD550 juta untuk pasukan Ukraina. Bantuan itu termasuk amunisi untuk peluncur roket dan senjata artileri yang semakin penting.&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/511554/pbb-khawatirkan-potensi-perang-nuklir",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMTU1NC9wYmIta2hhd2F0aXJrYW4tcG90ZW5zaS1wZXJhbmctbnVrbGly",
+        "description": "SEKRETARIS Jenderal Perserikatan Bangsa-Bangsa (PBB) Antonio Guterres mengingatkan kesalahpahaman dapat memicu bencana nuklir. Bahaya itu sedang mengintai dunia. &quot;Hari ini, bencana nuklir&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/511541/jadi-aksi-penutup-festival-musik-lollapalooza-j-hope-cetak-sejarah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMTU0MS9qYWRpLWFrc2ktcGVudXR1cC1mZXN0aXZhbC1tdXNpay1sb2xsYXBhbG9vemEtai1ob3BlLWNldGFrLXNlamFyYWg=",
+        "description": "PERSONEL grup K-Pop BTS, J-Hope, telah tampil sebagai bintang tamu penutup di festival musik tahunan Lollapalooza di Chicago, Amerika&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/511553/ganjar-gelontorkan-bantuan-untuk-bangun-desa-wisata",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExNTUzL2dhbmphci1nZWxvbnRvcmthbi1iYW50dWFuLXVudHVrLWJhbmd1bi1kZXNhLXdpc2F0YQ==",
+        "description": "GUBERNUR Jawa Tengah (Jateng) Ganjar Pranowo, meninjau bantuan keuangan Pemprov Jateng senilai Rp1 miliar untuk pengembangan desa wisata di Desa Sikasur, Kecamatan Belik, Kabupaten Pemalang. Bantuan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511551/klhk-tekankan-peran-penting-hutan-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNTUxL2tsaGstdGVrYW5rYW4tcGVyYW4tcGVudGluZy1odXRhbi1pbmRvbmVzaWE=",
+        "description": "KEMENTERIAN Lingkungan Hidup dan Kehutanan terus menyebarluaskan tujuan positif dari Indonesia&rsquo;s Forest and Other Land Use (FOLU) Net Sink 2030 di daerah. Plt. Direktur Jenderal Planologi Kehutanan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/511550/dua-hari-berturut-turut-ihsg-diprediksi-melemah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTU1MC9kdWEtaGFyaS1iZXJ0dXJ1dC10dXJ1dC1paHNnLWRpcHJlZGlrc2ktbWVsZW1haA==",
+        "description": "SETELAH diperkirakan melemah pada perdagangan kemarin, nyatanya IHSG (Indeks Harga Saham Gabungan) kemarin nyaman di zona hijau seharian.&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/511548/dpr-dukung-bumn-memulai-industri-kantong-darah-di-tanah-air",
         "image": "static/images/media_indonesia.png",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExNTQ3L3NhbmRpYWdhLWFqYWstcGVsYWt1LXBhcml3aXNhdGEtbGFidWFuLWJham8tYmVyZGlhbG9nLXNlbGVzYWlrYW4tbWFzYWxhaA==",
         "description": "MENTERI Pariwisata dan Ekonomi Kreatif/Kepala Badan Pariwisata dan Ekonomi Kreatif (Menparekraf) Sandiaga Salahuddin&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/511538/sempat-jeda-10-bulan-bts-akan-lanjutkan-run-bts",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMTUzOC9zZW1wYXQtamVkYS0xMC1idWxhbi1idHMtYWthbi1sYW5qdXRrYW4tcnVuLWJ0cw==",
-        "description": "BOY grup K-pop BTS mengumumkan acara realitas televisi berjudul Run BTS akan kembali menghiasi layar kaca setelah jeda selama 10 bulan.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511528/pt-di-danuac-jalin-kerja-sama-perawatan-c-130",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNTI4L3B0LWRpLWRhbnVhYy1qYWxpbi1rZXJqYS1zYW1hLXBlcmF3YXRhbi1jLTEzMA==",
-        "description": "BADAN usaha milik negara (BUMN) di bidang manufaktur pesawat terbang PT Dirgantara Indonesia (PT DI) dan Unity Accipiter Corporation&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/511522/mu-siapkan-tawaran-terakhir-untuk-de-jong",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTUyMi9tdS1zaWFwa2FuLXRhd2FyYW4tdGVyYWtoaXItdW50dWstZGUtam9uZw==",
-        "description": "KLUB Liga Primer Inggris Manchester United dikabarkan tengah mempersiapkan penawaran terakhir mereka untuk memboyong gelandang&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/511543/giias-talk-kampanyekan-elektrifikasi-kendaraan-kepada-komunitas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTE1NDMvZ2lpYXMtdGFsay1rYW1wYW55ZWthbi1lbGVrdHJpZmlrYXNpLWtlbmRhcmFhbi1rZXBhZGEta29tdW5pdGFz",
-        "description": "MENYONGSONG penyelenggaraan Gaikindo Indonesia International Auto Show (GIIAS) 2022 pada 11-21 Agustus di ICE &ndash; BSD City, Tangerang, GIIAS mengadakan rangkaian kegiatan pre-event bertajuk&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511540/vaksinasi-ternak-massal-tahap-2-di-jawa-tengah-dimulai",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExNTQwL3Zha3NpbmFzaS10ZXJuYWstbWFzc2FsLXRhaGFwLTItZGktamF3YS10ZW5nYWgtZGltdWxhaQ==",
-        "description": "VAKSINASI ternak untuk mencegah penyakit mulut dan kuku (PMK) di Jawa Tengah tahap kedua dimulai. Pemerintah Provinsi Jawa Tengah menyiapkan jutaan vaksin dari total kebutuhan enam juta dosis.&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/511520/arteta-yakin-penunjukkan-odegaard-sebagai-kapten-arsenal-bawa-dampak-positif",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTUyMC9hcnRldGEteWFraW4tcGVudW5qdWtrYW4tb2RlZ2FhcmQtc2ViYWdhaS1rYXB0ZW4tYXJzZW5hbC1iYXdhLWRhbXBhay1wb3NpdGlm",
-        "description": "PELATIH Arsenal Mikel Arteta meyakini gelandang Martin Odegaard akan memberikan dampak positif kepada timnya setelah ditunjuk menjadi&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511539/klinik-hewan-telemedicine-pet-pawlyclinic-hadir-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNTM5L2tsaW5pay1oZXdhbi10ZWxlbWVkaWNpbmUtcGV0LXBhd2x5Y2xpbmljLWhhZGlyLWluZG9uZXNpYQ==",
-        "description": "PLATFORM telemedicine hewan peliharaan yang berbasis di Singapura, Pawlyclinic, kini hadir di&nbsp; Indonesia, memberikan pemilik hewan peliharaan akses sesuai permintaan ke perawatan hewan. Pandemi&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/511537/polri-pastikan-irjen-sambo-tak-jabat-kasatgasus",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTE1MzcvcG9scmktcGFzdGlrYW4taXJqZW4tc2FtYm8tdGFrLWphYmF0LWthc2F0Z2FzdXM=",
-        "description": "KADIV Humas Polri Irjen Dedi Prasetyo mengungkapkan pihaknya telah menonaktifkan Irjen Ferdy Sambo dari jabatan sebagai Kepala Satuan Tugas Khusus (Kasatgassus). Hal itu dilakukan berbarengan dengan&#8230;"
     }
 ]
