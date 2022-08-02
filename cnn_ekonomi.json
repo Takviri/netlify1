@@ -1,5 +1,12 @@
 [
     {
+        "title": "Aksi Ambil Untung Bayangi Pergerakan IHSG Hari Ini",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220803054017-92-829509/aksi-ambil-untung-bayangi-pergerakan-ihsg-hari-ini",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAzMDU0MDE3LTkyLTgyOTUwOS9ha3NpLWFtYmlsLXVudHVuZy1iYXlhbmdpLXBlcmdlcmFrYW4taWhzZy1oYXJpLWluaQ==",
+        "description": " IHSG diperkirakan melemah pada perdagangan Rabu (3/8) akibat aksi ambil untung yang dilakukan pasar."
+    },
+    {
         "title": "ESDM Targetkan Ubah 1.000 Motor BBM Jadi Motor Listrik Tahun Ini",
         "link": "https://www.cnnindonesia.com/ekonomi/20220802154443-85-829309/esdm-targetkan-ubah-1000-motor-bbm-jadi-motor-listrik-tahun-ini",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTYzMjA2LTg1LTgyOTM0OS9oYXJnYS1taW55YWstcmktdHVydW4tamFkaS11cy0xMDY3My1wZXItYmFyZWwtcGFkYS1qdWxpLTIwMjI=",
         "description": " Kementerian ESDM menetapkan rata-rata harga minyak mentah RI turun menjadi US$106,73 per barel pada Juli 2022."
-    },
-    {
-        "title": "Pemerintah Targetkan Defisit APBN 2023 Maksimal 2,85 Persen",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220802145818-532-829274/pemerintah-targetkan-defisit-apbn-2023-maksimal-285-persen",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTQ1ODE4LTUzMi04MjkyNzQvcGVtZXJpbnRhaC10YXJnZXRrYW4tZGVmaXNpdC1hcGJuLTIwMjMtbWFrc2ltYWwtMjg1LXBlcnNlbg==",
-        "description": " Kementerian Keuangan menargetkan defisit Anggaran Pendapatan dan Belanja Negara 2023 berkisar 2,61 persen-2,85 persen terhadap produk domestik bruto (PDB)."
     }
 ]
