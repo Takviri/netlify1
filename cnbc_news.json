@@ -1,5 +1,33 @@
 [
     {
+        "title": "Nanjak Lagi, Kasus Covid-19 di RI Bertambah 5.827 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220802162358-4-360538/nanjak-lagi-kasus-covid-19-di-ri-bertambah-5827-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE2MjM1OC00LTM2MDUzOC9uYW5qYWstbGFnaS1rYXN1cy1jb3ZpZC0xOS1kaS1yaS1iZXJ0YW1iYWgtNTgyNy1oYXJpLWluaQ==",
+        "description": " Total kasus mencapai 6.216.621."
+    },
+    {
+        "title": "Harga Avtur Turun, Kabar Baik Buat Tiket Pesawat Nggak Ya?",
+        "link": "https://www.cnbcindonesia.com/news/20220802153737-4-360527/harga-avtur-turun-kabar-baik-buat-tiket-pesawat-nggak-ya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE1MzczNy00LTM2MDUyNy9oYXJnYS1hdnR1ci10dXJ1bi1rYWJhci1iYWlrLWJ1YXQtdGlrZXQtcGVzYXdhdC1uZ2dhay15YQ==",
+        "description": " Harga avtur terpantau sudah mengalami penurunan, namun tiket pesawat masih mahal."
+    },
+    {
+        "title": "Miris, Tak Ada yang Mau Berkontrak Batu Bara Dengan PLN",
+        "link": "https://www.cnbcindonesia.com/news/20220802153046-4-360522/miris-tak-ada-yang-mau-berkontrak-batu-bara-dengan-pln",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE1MzA0Ni00LTM2MDUyMi9taXJpcy10YWstYWRhLXlhbmctbWF1LWJlcmtvbnRyYWstYmF0dS1iYXJhLWRlbmdhbi1wbG4=",
+        "description": " T PLN (Persero) saat ini tengah menghadapi persoalan yang cukup serius terkait suplai batu bara untuk kebutuhan pembangkit listrik tenaga uap (PLTU)"
+    },
+    {
+        "title": "Duh! Giliran Asia Diguncang Resesi dan Inflasi",
+        "link": "https://www.cnbcindonesia.com/news/20220802133732-8-360475/duh-giliran-asia-diguncang-resesi-inflasi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjEzMzczMi04LTM2MDQ3NS9kdWgtZ2lsaXJhbi1hc2lhLWRpZ3VuY2FuZy1yZXNlc2ktaW5mbGFzaQ==",
+        "description": " Ekonomi kawasan Asia diguncang resesi dan inflasi tinggi."
+    },
+    {
         "title": "Heboh AS Ungkap Perisai Nuklir Rusia, Ini Jawaban Kremlin",
         "link": "https://www.cnbcindonesia.com/news/20220802140309-4-360488/heboh-as-ungkap-perisai-nuklir-rusia-ini-jawaban-kremlin",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE0MTMyOC00LTM2MDQ5Mi9ibWtnLWJ1a2Etc3VhcmEtc29hbC1wb3RlbnNpLXRzdW5hbWktMTAtbWV0ZXItY2lsYWNhcA==",
         "description": " BMKG mengingatkan masyarakat akan ancaman gempa bumi dan tsunami di sepanjang selatan Pulau Jawa"
-    },
-    {
-        "title": "AS Ultimatum China Terkait Rencana Pelosi ke Taiwan",
-        "link": "https://www.cnbcindonesia.com/news/20220802133734-8-360476/as-ultimatum-china-terkait-rencana-pelosi-ke-taiwan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjEzMzczNC04LTM2MDQ3Ni9hcy11bHRpbWF0dW0tY2hpbmEtdGVya2FpdC1yZW5jYW5hLXBlbG9zaS1rZS10YWl3YW4=",
-        "description": " Amerika Serikat beri peringatan keras ke China agar tak bereaksi berlebihan dalam merespon rencana Ketua DPR AS Nancy Pelosi untuk mengunjungi Taiwan."
-    },
-    {
-        "title": "Bumi Gonjang Ganjing, Iran Warning Bom New York Pakai Nuklir",
-        "link": "https://www.cnbcindonesia.com/news/20220802140249-4-360503/bumi-gonjang-ganjing-iran-warning-bom-new-york-pakai-nuklir",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE0MDI0OS00LTM2MDUwMy9idW1pLWdvbmphbmctZ2FuamluZy1pcmFuLXdhcm5pbmctYm9tLW5ldy15b3JrLXBha2FpLW51a2xpcg==",
-        "description": " Pemerintah Iran memberikan peringatan terbaru kepada Amerika Serikat (AS) terkait senjata nuklir"
-    },
-    {
-        "title": "Gawat! RI Bisa Krisis Listrik Lagi, PLN Sulit Dapat Batu Bara",
-        "link": "https://www.cnbcindonesia.com/news/20220802144849-4-360504/gawat-ri-bisa-krisis-listrik-lagi-pln-sulit-dapat-batu-bara",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE0NDg0OS00LTM2MDUwNC9nYXdhdC1yaS1iaXNhLWtyaXNpcy1saXN0cmlrLWxhZ2ktcGxuLXN1bGl0LWRhcGF0LWJhdHUtYmFyYQ==",
-        "description": " Pemasok batu bara dikabarkan enggan berkontrak dengan PLN karena harga DMO US$ 70 per ton terlalu rendah dengan harga pasar?"
-    },
-    {
-        "title": "Hari Kedua Pendaftaran Calon Peserta Pemilu 2024",
-        "link": "https://www.cnbcindonesia.com/news/20220802133735-8-360477/hari-kedua-pendaftaran-calon-peserta-pemilu-2024",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjEzMzczNS04LTM2MDQ3Ny9oYXJpLWtlZHVhLXBlbmRhZnRhcmFuLWNhbG9uLXBlc2VydGEtcGVtaWx1LTIwMjQ=",
-        "description": " Hari kedua pendaftaran partai politik untuk menjadi peserta pemilu legislatiF."
     }
 ]
