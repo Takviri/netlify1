@@ -1,5 +1,12 @@
 [
     {
+        "title": "Website Presiden Taiwan dan Flightradar Down Jelang Pelosi Tiba",
+        "link": "https://www.cnbcindonesia.com/news/20220802211110-4-360617/website-presiden-taiwan-flightradar-down-jelang-pelosi-tiba",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjIxMTExMC00LTM2MDYxNy93ZWJzaXRlLXByZXNpZGVuLXRhaXdhbi1mbGlnaHRyYWRhci1kb3duLWplbGFuZy1wZWxvc2ktdGliYQ==",
+        "description": " Situs resmi kepresidenan Taiwan down menjelang tibanya Ketua DPR Amerika Serikat Nancy Pelosi di Taipei."
+    },
+    {
         "title": "Kapal Jagung Ukraina Dekati Turki, Zelenskiy Masih Waswas",
         "link": "https://www.cnbcindonesia.com/news/20220802195918-4-360613/kapal-jagung-ukraina-dekati-turki-zelenskiy-masih-waswas",
         "image": "static/images/cnbc_news.png",
@@ -28,7 +35,7 @@
         "description": " Gubernur California Gavin Newsom mengumumkan keadaan darurat wabah cacar monyet (monkeypox)."
     },
     {
-        "title": "Awas Macet, Ada Konstruksi Pelebaran Jalan di Tol CIkampek",
+        "title": "Awas Macet, Ada Konstruksi Pelebaran Jalan di Tol Cikampek",
         "link": "https://www.cnbcindonesia.com/news/20220802191954-4-360610/awas-macet-ada-konstruksi-pelebaran-jalan-di-tol-cikampek",
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE5MTk1NC00LTM2MDYxMC9hd2FzLW1hY2V0LWFkYS1rb25zdHJ1a3NpLXBlbGViYXJhbi1qYWxhbi1kaS10b2wtY2lrYW1wZWs=",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE4Mzc0Ni00LTM2MDU5OS93YWppYi1tdWxhaS0xLWphbnVhcmktMjAyNC1zaW1hay1jYXJhLXZhbGlkYXNpLW5pay1qYWRpLW5wd3A=",
         "description": " Masyarakat diminta segera melakukan validasi NIK menjadi Nomor Pokok Wajib Pajak (NPWP) melalui laman resmi DJP."
-    },
-    {
-        "title": "Habis Cabai, Giliran Harga Ikan Kaleng Naik Terus",
-        "link": "https://www.cnbcindonesia.com/news/20220802182119-4-360597/habis-cabai-giliran-harga-ikan-kaleng-naik-terus",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE4MjExOS00LTM2MDU5Ny9oYWJpcy1jYWJhaS1naWxpcmFuLWhhcmdhLWlrYW4ta2FsZW5nLW5haWstdGVydXM=",
-        "description": " Harga ikan kaleng terpantau melanjutkan kenaikan dalam beberapa waktu terakhir."
     }
 ]
