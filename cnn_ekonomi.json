@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pelemahan Data Manufaktur Jungkalkan Harga Minyak Dunia",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220802071036-85-829019/pelemahan-data-manufaktur-jungkalkan-harga-minyak-dunia",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMDcxMDM2LTg1LTgyOTAxOS9wZWxlbWFoYW4tZGF0YS1tYW51ZmFrdHVyLWp1bmdrYWxrYW4taGFyZ2EtbWlueWFrLWR1bmlh",
+        "description": " Harga minyak dunia anjlok hampir 5 persen akibat dipicu pelemahan data manufaktur sejumlah negara dan kenaikan produksi minyak di Libya."
+    },
+    {
+        "title": "Pemerintah dan BI, Tolong Segera Rem Lonjakan Inflasi!",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220802062529-532-829000/pemerintah-dan-bi-tolong-segera-rem-lonjakan-inflasi",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMDYyNTI5LTUzMi04MjkwMDAvcGVtZXJpbnRhaC1kYW4tYmktdG9sb25nLXNlZ2VyYS1yZW0tbG9uamFrYW4taW5mbGFzaQ==",
+        "description": " Ekonom meminta pemerintah dan BI segera merespons lonjakan inflasi yang terjadi di dalam negeri belakangan ini supaya tak merembet ke mana-mana."
+    },
+    {
         "title": "Tanggal Muda atau Tua, Belanja di Transmart Hemat Pakai Allo Bank",
         "link": "https://www.cnnindonesia.com/ekonomi/20220801174934-97-828868/tanggal-muda-atau-tua-belanja-di-transmart-hemat-pakai-allo-bank",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMTkxODQ4LTkyLTgyODkxNC9tZW50YW4tcmktc3VkYWgtdGFrLWltcG9yLWphZ3VuZy1rZWN1YWxpLXVudHVrLWluZHVzdHJp",
         "description": " Mentan Syahrul Yasin Limpo menegaskan bahwa RI sudah tidak lagi mengimpor jagung, kecuali untuk bahan baku industri."
-    },
-    {
-        "title": "BI: Inflasi Pangan Turun Mulai Agustus Ditopang Pasokan Meningkat",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220801194353-532-828925/bi-inflasi-pangan-turun-mulai-agustus-ditopang-pasokan-meningkat",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMTk0MzUzLTUzMi04Mjg5MjUvYmktaW5mbGFzaS1wYW5nYW4tdHVydW4tbXVsYWktYWd1c3R1cy1kaXRvcGFuZy1wYXNva2FuLW1lbmluZ2thdA==",
-        "description": " BI memproyeksikan inflasi harga pangan akan mulai turun pada bulan ini, Agustus 2022, dan terus berlanjut hingga akhir tahun nanti."
-    },
-    {
-        "title": "Menkeu Percaya Diri Ekonomi Tumbuh Lebih dari 5 Persen di Kuartal II",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220801193440-532-828922/menkeu-percaya-diri-ekonomi-tumbuh-lebih-dari-5-persen-di-kuartal-ii",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMTkzNDQwLTUzMi04Mjg5MjIvbWVua2V1LXBlcmNheWEtZGlyaS1la29ub21pLXR1bWJ1aC1sZWJpaC1kYXJpLTUtcGVyc2VuLWRpLWt1YXJ0YWwtaWk=",
-        "description": " Menteri Keuangan Sri Mulyani memprediksi ekonomi RI tumbuh lebih dari 5 persen pada kuartal II 2022."
     }
 ]

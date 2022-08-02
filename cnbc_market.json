@@ -1,5 +1,26 @@
 [
     {
+        "title": "Maju Tak Gentar, Emas Makin Bersinar",
+        "link": "https://www.cnbcindonesia.com/market/20220802065237-17-360326/maju-tak-gentar-emas-makin-bersinar",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMDY1MjM3LTE3LTM2MDMyNi9tYWp1LXRhay1nZW50YXItZW1hcy1tYWtpbi1iZXJzaW5hcg==",
+        "description": " Harga emas terus merangkak naik."
+    },
+    {
+        "title": "Takut Resesi, Harga Minyak Ambles 4% Lebih!",
+        "link": "https://www.cnbcindonesia.com/market/20220802064403-17-360324/takut-resesi-harga-minyak-ambles-4-lebih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMDY0NDAzLTE3LTM2MDMyNC90YWt1dC1yZXNlc2ktaGFyZ2EtbWlueWFrLWFtYmxlcy00LWxlYmlo",
+        "description": " Kekhawatiran terhadap perlambatan ekonomi, bahkan resesi jadi beban bagi gerak harga si emas hitam."
+    },
+    {
+        "title": "Ambruk! Harga Batu Bara Turun Nyaris 3% ke Bawah US$ 400/Ton",
+        "link": "https://www.cnbcindonesia.com/market/20220802062003-17-360319/ambruk-harga-batu-bara-turun-nyaris-3-ke-bawah-us--400-ton",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMDYyMDAzLTE3LTM2MDMxOS9hbWJydWstaGFyZ2EtYmF0dS1iYXJhLXR1cnVuLW55YXJpcy0zLWtlLWJhd2FoLXVzLS00MDAtdG9u",
+        "description": " Harga batu bara jatuh 2,98% dibandingkan hari sebelumnya."
+    },
+    {
         "title": "Dua Saham Kapal Tercuan, Dua Saham Furniture Boncos",
         "link": "https://www.cnbcindonesia.com/market/20220802051710-17-360315/dua-saham-kapal-tercuan-dua-saham-furniture-boncos",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTg1OTA2LTE3LTM2MDI4MC91c2FpLW1lcnVnaS1idWthbGFwYWstY2V0YWstbGFiYS1iZXJzaWgtcnAtODU5LXRyaWxpdW4=",
         "description": " PT Bukalapak.com Tbk (BUKA) mencatat perolehan laba bersih sebesar Rp 8,59 triliun pada semester pertama tahun 2022."
-    },
-    {
-        "title": "Awal Agustus, Harga SBN Menguat Meski Inflasi Makin Panas",
-        "link": "https://www.cnbcindonesia.com/market/20220801182844-17-360269/awal-agustus-harga-sbn-menguat-meski-inflasi-makin-panas",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTgyODQ0LTE3LTM2MDI2OS9hd2FsLWFndXN0dXMtaGFyZ2Etc2JuLW1lbmd1YXQtbWVza2ktaW5mbGFzaS1tYWtpbi1wYW5hcw==",
-        "description": " Harga Surat Berharga Negara (SBN) kompak ditutup menguat pada perdagangan Senin (1/8/2022) awal pekan ini, meski inflasi di dalam negeri sudah mulai meninggi."
-    },
-    {
-        "title": "Mengawali Agustus, Dow Futures Terkoreksi Tipis",
-        "link": "https://www.cnbcindonesia.com/market/20220801164445-17-360223/mengawali-agustus-dow-futures-terkoreksi-tipis",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTY0NDQ1LTE3LTM2MDIyMy9tZW5nYXdhbGktYWd1c3R1cy1kb3ctZnV0dXJlcy10ZXJrb3Jla3NpLXRpcGlz",
-        "description": " Kontrak berjangka (futures) indeks bursa AS kompak terkoreksi pada perdagangan hari ini, di mana investor menunggu neraca keuangan"
-    },
-    {
-        "title": "Perbaiki Asabri, Erick Jamin Masa Depan Pensiunan Terjaga",
-        "link": "https://www.cnbcindonesia.com/market/20220801182629-17-360268/perbaiki-asabri-erick-jamin-masa-depan-pensiunan-terjaga",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTgyNjI5LTE3LTM2MDI2OC9wZXJiYWlraS1hc2FicmktZXJpY2stamFtaW4tbWFzYS1kZXBhbi1wZW5zaXVuYW4tdGVyamFnYQ==",
-        "description": " Terus Perbaiki Asabri, Erick Ingin Pastikan Masa Depan Pensiunan Terjaga"
     }
 ]
