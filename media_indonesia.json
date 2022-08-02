@@ -1,6 +1,48 @@
 [
     {
         "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511565/50-moto-hidup-sukses-islami-keren-lucu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNTY1LzUwLW1vdG8taGlkdXAtc3Vrc2VzLWlzbGFtaS1rZXJlbi1sdWN1",
+        "description": "MOTO hidup tiap orang berbeda-beda, tergantung dengan tujuan hidup masing-masing. Tujuan dari moto hidup sebagai penyemangat maupun prinsip hidup seseorang. Ada yang mengambil kutipan kata-kata&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/511591/pemkot-depok-kembali-liburkan-sekolah-cegah-penyebaran-covid-19",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTE1OTEvcGVta290LWRlcG9rLWtlbWJhbGktbGlidXJrYW4tc2Vrb2xhaC1jZWdhaC1wZW55ZWJhcmFuLWNvdmlkLTE5",
+        "description": "PEMERINTAH Kota (Pemkot) Depok, Jawa Barat kembali menghentikan belajar mengajar sekolah karena temuan kasus covid-19. Kali ini sekolah yang dihentikan belajar mengajar, yakni SMP Negeri 7 Kota Depok.&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511590/vaksin-covid-19-merah-putih-diharapkan-jadi-kadohut-ke-77-ri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNTkwL3Zha3Npbi1jb3ZpZC0xOS1tZXJhaC1wdXRpaC1kaWhhcmFwa2FuLWphZGkta2Fkb2h1dC1rZS03Ny1yaQ==",
+        "description": "PADA 17 Agustus 2022 yang bertepatan dengan HUT Proklamasi Indonesia diharapkan akan memiliki vaksin covid-19 dalam negeri yang diproduksi oleh BUMN Bio Farma bekerja sama dengan Baylor College of&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/511589/jaga-momentum-persatuan-besok-pan-daftar-kpu-bareng-golkar-dan-ppp",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTE1ODkvamFnYS1tb21lbnR1bS1wZXJzYXR1YW4tYmVzb2stcGFuLWRhZnRhci1rcHUtYmFyZW5nLWdvbGthci1kYW4tcHBw",
+        "description": "KETUA &nbsp;Umum (Ketum) Partai Amanat Nasional (PAN) Zulkifli Hasan memastikan, partainya akan mendaftar sebagai peserta Pemilu 2024 ke Komisi Pemilihan Umum (KPU), besok Rabu (3/8/2022), berbarengan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511578/ini-tips-jitu-menjaga-kebersihan-rumah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNTc4L2luaS10aXBzLWppdHUtbWVuamFnYS1rZWJlcnNpaGFuLXJ1bWFo",
+        "description": "RUMAH merupakan tempat dimana kita menghabiskan sebagian besar waktu, baik untuk beristirahat maupun berinteraksi dengan orang-orang&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/511588/ganja-untuk-medis-manfaat-atau-mudarat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTE1ODgvZ2FuamEtdW50dWstbWVkaXMtbWFuZmFhdC1hdGF1LW11ZGFyYXQ=",
+        "description": "Kegunaan tumbuhan ganja atau cannabis sativa, akhir-akhir ini, menjadi perbincangan hangat. Tanaman semusim yang tingginya bisa mencapai 2 meter,&#8230;"
+    },
+    {
+        "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/511587/seluruh-daerah-berstatus-ppkm-level-1-kemendagri-minta-pemda-siaga",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNTg3L3NlbHVydWgtZGFlcmFoLWJlcnN0YXR1cy1wcGttLWxldmVsLTEta2VtZW5kYWdyaS1taW50YS1wZW1kYS1zaWFnYQ==",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExNTgzL21pcmFzLXBlbWljdS11dGFtYS1rcmltaW5hbGl0YXMtZGktc3VsYXdlc2ktdXRhcmE=",
         "description": "MINUMAN keras (Miras) beralkohol menjadi pemicu utama maraknya kasus penganiyaan di wilayah teritorial Kepolisian Daerah Sulawesi Utara, sepekan belakangan. Hal itu terkuak saat terduga pelaku diinterogasi&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/511560/ateez-lakukan-comeback-dengan-rilis-mini-album",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMTU2MC9hdGVlei1sYWt1a2FuLWNvbWViYWNrLWRlbmdhbi1yaWxpcy1taW5pLWFsYnVt",
-        "description": "GRUP&nbsp;K-Pop Ateez melakukan comeback dengan merilis mini album kedelapan bertajuk The World EP.1: Movement, yang menandai awal&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511585/otoritas-labuan-bajo-jamin-keamanan-wisatawan-selama-aksi-mogok",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExNTg1L290b3JpdGFzLWxhYnVhbi1iYWpvLWphbWluLWtlYW1hbmFuLXdpc2F0YXdhbi1zZWxhbWEtYWtzaS1tb2dvaw==",
-        "description": "PEMERINTAH Kabupaten Manggarai Barat, Nusa Tenggara Timur (NTT),&nbsp;berkoordinasi dengan seluruh unsur Forkompimda (Forum Koordinasi Pimpinan Daerah) merespons cepat situasi keamanan dan stabilitas&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/511556/pbsi-targetkan-ribkafadia-capai-semifinal-kejuaraan-dunia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTE1NTYvcGJzaS10YXJnZXRrYW4tcmlia2FmYWRpYS1jYXBhaS1zZW1pZmluYWwta2VqdWFyYWFuLWR1bmlh",
-        "description": "PELATNAS bulu tangkis Cipayung menargetkan ganda putri Ribka Sugiarto/Siti Fadia Silva Ramadhanti lolos hingga babak semifinal Kejuaraan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/511580/pusri-berkomitmen-cegah-krisis-pangan-dengan-inovasi-tiada-henti",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTU4MC9wdXNyaS1iZXJrb21pdG1lbi1jZWdhaC1rcmlzaXMtcGFuZ2FuLWRlbmdhbi1pbm92YXNpLXRpYWRhLWhlbnRp",
-        "description": "SEBAGAI upaya mendukung ketahanan pangan, industri pupuk menjadi bagian penting. Apalagi saat ini, Indonesia disebut sudah masuk kategori kerawanan pangan. Karenanya, Gubernur Lembaga Ketahanan Nasional&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/511552/usai-dapatkan-kounde-barcelona-buru-dua-bek-chelsea",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTU1Mi91c2FpLWRhcGF0a2FuLWtvdW5kZS1iYXJjZWxvbmEtYnVydS1kdWEtYmVrLWNoZWxzZWE=",
-        "description": "KLUB La Liga Barcelona dikabarkan masih membidik dua pemain bertahan lagi setelah berhasil mengamankan bek Jules Kounde dari Sevilla&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511581/istana-buka-pendaftaran-bagi-masyarakat-yang-ingin-ikut-upcara-hut-ri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNTgxL2lzdGFuYS1idWthLXBlbmRhZnRhcmFuLWJhZ2ktbWFzeWFyYWthdC15YW5nLWluZ2luLWlrdXQtdXBjYXJhLWh1dC1yaQ==",
-        "description": "SEKRETARIAT Presiden secara resmi membuka pendaftaran melalui laman www.pandang.istanapresiden.go.id bagi masyarakat yang ingin mengikuti upacara <a href=\"http://mediaindonesia.com/tag/17-agustus\"&#8230;"
     }
 ]
