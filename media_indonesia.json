@@ -1,5 +1,61 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/511511/alonso-akan-gantikan-vettel-di-aston-martin",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTE1MTEvYWxvbnNvLWFrYW4tZ2FudGlrYW4tdmV0dGVsLWRpLWFzdG9uLW1hcnRpbg==",
+        "description": "JUARA dunia dua kali Formula 1 Fernando Alonso akan membalap bersama Aston Martin mulai musim 2023 setelah pembalap berusia 41&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511526/uji-klinis-fase-3-vaksin-covid-19-bumn-bio-farma-hampir-selesai",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNTI2L3VqaS1rbGluaXMtZmFzZS0zLXZha3Npbi1jb3ZpZC0xOS1idW1uLWJpby1mYXJtYS1oYW1waXItc2VsZXNhaQ==",
+        "description": "UJI kinis fase 3 vaksin covid-19 BUMN dilaksanakan di empat Center Studi: Fakultas Kedokteran (FK) Universitas Indonesia,&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/511525/hari-keempat-asean-paragames-2022-indonesia-incar-emas-dari-84-nomor-final",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTE1MjUvaGFyaS1rZWVtcGF0LWFzZWFuLXBhcmFnYW1lcy0yMDIyLWluZG9uZXNpYS1pbmNhci1lbWFzLWRhcmktODQtbm9tb3ItZmluYWw=",
+        "description": "PERBURUAN medali dari masing-masing kontingen peserta ASEAN Paragames 2022 semakin seru. Memasuki hari keempat penyelenggaraan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/511515/di-antara-negara-g20-inflasi-indonesia-relatif-terjaga",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTUxNS9kaS1hbnRhcmEtbmVnYXJhLWcyMC1pbmZsYXNpLWluZG9uZXNpYS1yZWxhdGlmLXRlcmphZ2E=",
+        "description": "Kepala Badan Pusat Statistik (BPS) Margo Yuwono menyatakan inflasi Indonesia secara tahunan mengalami peningkatan menjadi sebesar 4,94 persen (yoy) pada Juli 2022, masih dalam kondisi yang relatif&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/511505/ioh-menangkan-operator-of-the-year-di-ajang-seluar-award-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTUwNS9pb2gtbWVuYW5na2FuLW9wZXJhdG9yLW9mLXRoZS15ZWFyLWRpLWFqYW5nLXNlbHVhci1hd2FyZC0yMDIy",
+        "description": "INDOSAT Ooredoo Hutchison (IOH) memenangkan penghargaan Operator of The Year dan memperoleh lima penghargaan lainnya di ajang Selular&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/511524/optimalkan-perangkat-digital-untuk-meningkatkan-produktivitas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExNTI0L29wdGltYWxrYW4tcGVyYW5na2F0LWRpZ2l0YWwtdW50dWstbWVuaW5na2F0a2FuLXByb2R1a3Rpdml0YXM=",
+        "description": "Sejak Pandemi Covid-19 sekolah dan sistem pengajaran dilakukan secara online. Orangtua dan anak seolah dipaksa untuk beradaptasi dan melek teknologi. Setelah 2 tahun pandemi berlalu, baik anak dan&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/511523/lagi-dua-ribu-koin-emas-bakal-dirilis-zimbabwe",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMTUyMy9sYWdpLWR1YS1yaWJ1LWtvaW4tZW1hcy1iYWthbC1kaXJpbGlzLXppbWJhYndl",
+        "description": "Bank sentral Zimbabwe (Reserve Bank of Zimbabwe/RBZ) minggu ini akan merilis 2.000 koin emas lagi ke pasar, menyusul peluncuran yang sukses pekan lalu di mana semua 1.500 koin emas yang dirilis terjual&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/511521/pimred-kabar-tegal-dilaporkan-hilang-setelah-tiga-hari-tak-pulang-ke-rumah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExNTIxL3BpbXJlZC1rYWJhci10ZWdhbC1kaWxhcG9ya2FuLWhpbGFuZy1zZXRlbGFoLXRpZ2EtaGFyaS10YWstcHVsYW5nLWtlLXJ1bWFo",
+        "description": "PIMPINAN Redaksi (Pimred) media Kabar Tegal, jaringan Pikiran Rakyat, Lazarus Sandy Wella, 40, dilaporkan hilang. Hilangnya Lazarus Sandy Wella yang akrab disapa Sandy tercatat sebagai warga&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/511502/ksi-kcci-akan-gelar-sesi-kedua-kelas-bahasa-korea",
         "image": "static/images/media_indonesia.png",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMTUxOS9wZW1iYW5na2l0LWxpc3RyaWstamVybWFuLXlhbmctc2VtcGF0LWtyaXNpcy1wYXNva2FuLWdhcy1rZW1iYWxpLWJlcm9wZXJhc2k=",
         "description": "Pembangkit listrik Mehrum di Jerman kembali beroperasi karena krisis pasokan gas saat ini, menjadi pembangkit listrik tenaga batu bara pertama di negara itu yang melakukannya, kata sumber di pembangkit&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511501/ayo-mengenal-peristiwa-rengasdengklok",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNTAxL2F5by1tZW5nZW5hbC1wZXJpc3Rpd2EtcmVuZ2FzZGVuZ2tsb2s=",
-        "description": "KEMERDEKAAN Indonesia berasal dari proses yang panjang dan juga perjuangan yang besar. Kemerdekaan juga tidak lain berasal dari perdebatan dan diskusi alot untuk menentukan nasib terbaik bagi bangsa.&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/511517/as-bunuh-pemimpin-al-qaeda-ayman-al-zawahiri-di-afghanistan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMTUxNy9hcy1idW51aC1wZW1pbXBpbi1hbC1xYWVkYS1heW1hbi1hbC16YXdhaGlyaS1kaS1hZmdoYW5pc3Rhbg==",
-        "description": "PRESIDEN Amerika Serikat (AS) Joe Biden menyatakan pemimpin Al-Qaeda, Ayman al-Zawahiri meninggal dalam serangan pesawat&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/511516/kuota-segera-habis-penyaluran-bbm-bersubsidi-tepat-sasaran-wajib-dilakukan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTUxNi9rdW90YS1zZWdlcmEtaGFiaXMtcGVueWFsdXJhbi1iYm0tYmVyc3Vic2lkaS10ZXBhdC1zYXNhcmFuLXdhamliLWRpbGFrdWthbg==",
-        "description": "Pengaturan penyaluran tepat sasaran menjadi jalan keluar utama untuk antisipasi habisnya kuota BBM bersubsidi yang diprediksi akan terjadi sebelum akhir tahun nanti. Pemerintah harus segera mengambil&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/511500/album-perdana-dpr-ian-gambarkan-perjuangan-melawan-bipolar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMTUwMC9hbGJ1bS1wZXJkYW5hLWRwci1pYW4tZ2FtYmFya2FuLXBlcmp1YW5nYW4tbWVsYXdhbi1iaXBvbGFy",
-        "description": "DPR IAN, selaku musisi, sutradara dan videografer dari kolektif multimedia independen Dream Perfect Regime (DPR) bersama DPR LIVE, CREAM, dan REM merilis <a href=\"http://mediaindonesia.com/tag/musik\"&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/511514/wall-street-turun-tajam-akibat-data-ekonomi-mengecewakan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTUxNC93YWxsLXN0cmVldC10dXJ1bi10YWphbS1ha2liYXQtZGF0YS1la29ub21pLW1lbmdlY2V3YWthbg==",
-        "description": "WALL Street merosot pada akhir perdagangan Senin (Selasa pagi WIB), menghentikan kenaikan tiga hari berturut-turut dan menyerahkan beberapa keuntungan yang telah mereka cetak di minggu sebelumnya,&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511498/tahun-ini-istana-presiden-gelar-preayaan-hut-ri-secara-terbuka",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNDk4L3RhaHVuLWluaS1pc3RhbmEtcHJlc2lkZW4tZ2VsYXItcHJlYXlhYW4taHV0LXJpLXNlY2FyYS10ZXJidWth",
-        "description": "KEPALA Sekretariat Presiden, Heru Budi Hartono, mengatakan Istana Kepresidenan akan menggelar peringatan Hari Ulang Tahun (HUT) ke-77&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/511510/tingkatkan-literasi-digital-agar-tidak-tergerus-zaman",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTExNTEwL3RpbmdrYXRrYW4tbGl0ZXJhc2ktZGlnaXRhbC1hZ2FyLXRpZGFrLXRlcmdlcnVzLXphbWFu",
-        "description": "Budaya dalam literasi digital tak cukup hanya dengan kemampuan membaca saja, namun diperlukan kemampuan memahami serta menganalisa saat menggunakan perangkat keras dan lunak dalam lanskap digital.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511474/mengawal-keberlangsungan-pesisir-cirebon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNDc0L21lbmdhd2FsLWtlYmVybGFuZ3N1bmdhbi1wZXNpc2lyLWNpcmVib24=",
-        "description": "DI Indonesia, pesisir Cirebon merupakan salah satu pesisir terpadat di wilayah pantai utara (pantura). Menghadap ke Laut Jawa, pesisir Cirebon memiliki sedimen lumpur yang sangat halus sehingga perairan&#8230;"
     }
 ]
