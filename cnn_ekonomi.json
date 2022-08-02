@@ -1,5 +1,19 @@
 [
     {
+        "title": "KFC di China Mulai Jual Ceker Ayam Gara-gara Inflasi",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220802105246-92-829108/kfc-di-china-mulai-jual-ceker-ayam-gara-gara-inflasi",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTA1MjQ2LTkyLTgyOTEwOC9rZmMtZGktY2hpbmEtbXVsYWktanVhbC1jZWtlci1heWFtLWdhcmEtZ2FyYS1pbmZsYXNp",
+        "description": " KFC di China mulai menjual ceker ayam dalam menu mereka, sebagai upaya efisiensi dan memanfaatkan bahan baku yang tersedia."
+    },
+    {
+        "title": "Daftar Negara dengan Aktivitas Pabrik Berguguran, RI Tak Termasuk Ya",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220802102102-532-829097/daftar-negara-dengan-aktivitas-pabrik-berguguran-ri-tak-termasuk-ya",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTAyMTAyLTUzMi04MjkwOTcvZGFmdGFyLW5lZ2FyYS1kZW5nYW4tYWt0aXZpdGFzLXBhYnJpay1iZXJndWd1cmFuLXJpLXRhay10ZXJtYXN1ay15YQ==",
+        "description": " Aktivitas pabrik di sejumlah negara Asia dan dunia berguguran akibat tekanan ekonomi global dan lonjakan covid. Berikut daftarnya."
+    },
+    {
         "title": "Minuman The Coffee Bean Diskon Jadi Serba Rp25 Ribu",
         "link": "https://www.cnnindonesia.com/ekonomi/20220801181601-97-828884/minuman-the-coffee-bean-diskon-jadi-serba-rp25-ribu",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMDc0MDI4LTg1LTgyOTAyOS9kYWZ0YXItaGFyZ2EtYmJtLXRlcmJhcnUtZGktYWd1c3R1cy0yMDIy",
         "description": " Shell Indonesia menurunkan semua jenis harga BBM mulai Senin (1/8). Tapi langkah itu tak diikuti Pertamina. Dengan kebijakan itu, berikut harga BBM terbaru."
-    },
-    {
-        "title": "Daftar Lowongan Kerja PT KAI 2022",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220802075756-92-829041/daftar-lowongan-kerja-pt-kai-2022",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMDc1NzU2LTkyLTgyOTA0MS9kYWZ0YXItbG93b25nYW4ta2VyamEtcHQta2FpLTIwMjI=",
-        "description": " PT Kereta Api Indonesia (Persero) membuka lowongan kerja bagi seluruh masyarakat Indonesia mulai dari lulusan SMA hingga sarjana. Berikut rinciannya."
-    },
-    {
-        "title": "BI: Nilai Transaksi BI-FAST Tembus Rp339 Triliun",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220801204223-78-828943/bi-nilai-transaksi-bi-fast-tembus-rp339-triliun",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMjA0MjIzLTc4LTgyODk0My9iaS1uaWxhaS10cmFuc2Frc2ktYmktZmFzdC10ZW1idXMtcnAzMzktdHJpbGl1bg==",
-        "description": " BI mencatat jumlah transaksi BI-FAST sebanyak 87 juta hingga kuartal kedua ini, dengan nilai transaksi tembus Rp339 triliun."
     }
 ]

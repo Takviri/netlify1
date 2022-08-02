@@ -1,5 +1,26 @@
 [
     {
+        "title": "Jerinx Bebas dari Lapas Kerobokan Denpasar",
+        "link": "https://www.cnnindonesia.com/nasional/20220802111137-12-829115/jerinx-bebas-dari-lapas-kerobokan-denpasar",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjExMTEzNy0xMi04MjkxMTUvamVyaW54LWJlYmFzLWRhcmktbGFwYXMta2Vyb2Jva2FuLWRlbnBhc2Fy",
+        "description": " Jerinx keluar dari penjara sekitar pukul 11.27 Wita. Ia mengenakan baju merah didampingi istrinya, Nora Alexandra."
+    },
+    {
+        "title": "Mantan Bupati Bogor Rachmat Yasin Bebas dari Penjara Sukamiskin",
+        "link": "https://www.cnnindonesia.com/nasional/20220802110359-12-829116/mantan-bupati-bogor-rachmat-yasin-bebas-dari-penjara-sukamiskin",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjExMDM1OS0xMi04MjkxMTYvbWFudGFuLWJ1cGF0aS1ib2dvci1yYWNobWF0LXlhc2luLWJlYmFzLWRhcmktcGVuamFyYS1zdWthbWlza2lu",
+        "description": " Mantan Bupati Bogor Rachmat Yasin bebas dari penjara Sukamiskin."
+    },
+    {
+        "title": "Jokowi Perintahkan RKUHP Kembali Dibahas Bareng Masyarakat",
+        "link": "https://www.cnnindonesia.com/nasional/20220802105129-32-829112/jokowi-perintahkan-rkuhp-kembali-dibahas-bareng-masyarakat",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjEwNTEyOS0zMi04MjkxMTIvam9rb3dpLXBlcmludGFoa2FuLXJrdWhwLWtlbWJhbGktZGliYWhhcy1iYXJlbmctbWFzeWFyYWthdA==",
+        "description": " Presiden Jokowi menekankan 14 masalah yang jadi sorotan dalam RKUHP. Dia mau pemerintah melibatkan masyarakat dalam pembahasan RKUHP."
+    },
+    {
         "title": "Sepak Terjang Surya Darmadi, Pencetak Sejarah Kerugian Negara",
         "link": "https://www.cnnindonesia.com/nasional/20220802083718-12-829053/sepak-terjang-surya-darmadi-pencetak-sejarah-kerugian-negara",
         "image": "static/images/cnn_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDcxODEzNTAyMC0yMi04MjI4NzQvZm90by16aWtpci1rZWJhbmdzYWFuLTc3LXRhaHVuLWluZG9uZXNpYS1tZXJkZWth",
         "description": " Acara Zikir Kebangsaan 77 Tahun Indonesia merdeka di Istana Merdeka pada Senin (1/8) malam dihadiri para ulama dan tokoh-tokoh lintas agama."
-    },
-    {
-        "title": "Mabes Polri: Irjen Ferdy Sambo Tak Lagi Jabat Kasatgasus Usai Nonaktif",
-        "link": "https://www.cnnindonesia.com/nasional/20220802091617-12-829070/mabes-polri-irjen-ferdy-sambo-tak-lagi-jabat-kasatgasus-usai-nonaktif",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjA5MTYxNy0xMi04MjkwNzAvbWFiZXMtcG9scmktaXJqZW4tZmVyZHktc2FtYm8tdGFrLWxhZ2ktamFiYXQta2FzYXRnYXN1cy11c2FpLW5vbmFrdGlm",
-        "description": " Mabes Polri memastikan Irjen Ferdy Sambo tidak lagi mengisi jabatan struktural maupun nonstuktural usai dinonaktifkan Kapolri."
-    },
-    {
-        "title": "Polisi Ungkap Alasan JNE Kubur Beras Bansos Presiden di Depok",
-        "link": "https://www.cnnindonesia.com/nasional/20220802083342-12-829049/polisi-ungkap-alasan-jne-kubur-beras-bansos-presiden-di-depok",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjA4MzM0Mi0xMi04MjkwNDkvcG9saXNpLXVuZ2thcC1hbGFzYW4tam5lLWt1YnVyLWJlcmFzLWJhbnNvcy1wcmVzaWRlbi1kaS1kZXBvaw==",
-        "description": " Polisi mengungkap alasan JNE menguburkan paket beras bansos presiden di Kampung Serab, Depok."
-    },
-    {
-        "title": "Sudah 4 Tahun, Pemenang Lelang Aset BLBI Belum Terima Barang Lelang",
-        "link": "https://www.cnnindonesia.com/nasional/20220802090325-17-829061/sudah-4-tahun-pemenang-lelang-aset-blbi-belum-terima-barang-lelang",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjA5MDMyNS0xNy04MjkwNjEvc3VkYWgtNC10YWh1bi1wZW1lbmFuZy1sZWxhbmctYXNldC1ibGJpLWJlbHVtLXRlcmltYS1iYXJhbmctbGVsYW5n",
-        "description": " Berdasarkan ketentuan hukum,\u00c2\u00a0tak\u00c2\u00a0ada alasan hukum bagi Jaksa Agung Cq PPA untuk tidak memberikan hak PT WMKP berupa\u00c2\u00a011 bidang tanah atas perkara korupsi BLBI."
     }
 ]

@@ -1,5 +1,47 @@
 [
     {
+        "title": "Literasi dan Skill Digital,Kunci RI Jadi Jawara Ekonomi Digital",
+        "link": "https://www.cnbcindonesia.com/news/20220802104856-8-360412/literasi-skill-digitalkunci-ri-jadi-jawara-ekonomi-digital",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjEwNDg1Ni04LTM2MDQxMi9saXRlcmFzaS1za2lsbC1kaWdpdGFsa3VuY2ktcmktamFkaS1qYXdhcmEtZWtvbm9taS1kaWdpdGFs",
+        "description": " Literasi dan Skill Digital, Kunci Indonesia Menjadi Jawara Ekonomi Digital Asia"
+    },
+    {
+        "title": "Kuota Mau Habis, Pembatasan BBM Subsidi Mendesak Dilakukan!",
+        "link": "https://www.cnbcindonesia.com/news/20220802100546-4-360393/kuota-mau-habis-pembatasan-bbm-subsidi-mendesak-dilakukan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjEwMDU0Ni00LTM2MDM5My9rdW90YS1tYXUtaGFiaXMtcGVtYmF0YXNhbi1iYm0tc3Vic2lkaS1tZW5kZXNhay1kaWxha3VrYW4=",
+        "description": " Kuota BBM Pertalite sampai pada Juli 2022 tersisa 7,1 juta KL"
+    },
+    {
+        "title": "Inflasi Korsel Juli Capai 6,3%, Tertinggi dalam 24 Tahun",
+        "link": "https://www.cnbcindonesia.com/news/20220802100653-4-360392/inflasi-korsel-juli-capai-63-tertinggi-dalam-24-tahun",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjEwMDY1My00LTM2MDM5Mi9pbmZsYXNpLWtvcnNlbC1qdWxpLWNhcGFpLTYzLXRlcnRpbmdnaS1kYWxhbS0yNC10YWh1bg==",
+        "description": " Inflasi Korea Selatan pada Juli 2022 melesat 6,3% secara tahunan (year-on-year/yoy)."
+    },
+    {
+        "title": "AS Klaim Berhasil Bunuh Pemimpin Top Al-Qaeda",
+        "link": "https://www.cnbcindonesia.com/news/20220802100108-8-360387/as-klaim-berhasil-bunuh-pemimpin-top-al-qaeda",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjEwMDEwOC04LTM2MDM4Ny9hcy1rbGFpbS1iZXJoYXNpbC1idW51aC1wZW1pbXBpbi10b3AtYWwtcWFlZGE=",
+        "description": " Ayman Al-Zawahiri dilaporkan berhasil dibunuh oleh pemerintah Presiden Amerika Serikat"
+    },
+    {
+        "title": "Harga Tiket Pesawat Susah Turun, JKT-Bali Nyaris Rp 2 Juta",
+        "link": "https://www.cnbcindonesia.com/news/20220802101055-4-360403/harga-tiket-pesawat-susah-turun-jkt-bali-nyaris-rp-2-juta",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjEwMTA1NS00LTM2MDQwMy9oYXJnYS10aWtldC1wZXNhd2F0LXN1c2FoLXR1cnVuLWprdC1iYWxpLW55YXJpcy1ycC0yLWp1dGE=",
+        "description": " Tingkat kunjungan wisatawan dalam negeri dan luar negeri melonjak meski masih dihantui harga tiket mahal."
+    },
+    {
+        "title": "Heboh Istri Kim Jong Un Nangis di Depan Umum, Ini Sebabnya?",
+        "link": "https://www.cnbcindonesia.com/news/20220802103832-4-360408/heboh-istri-kim-jong-un-nangis-di-depan-umum-ini-sebabnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjEwMzgzMi00LTM2MDQwOC9oZWJvaC1pc3RyaS1raW0tam9uZy11bi1uYW5naXMtZGktZGVwYW4tdW11bS1pbmktc2ViYWJueWE=",
+        "description": " Ibu negara Korea Utara (Korut) Ri Sol Ju tertangkap kamera menangis di samping suaminya Kim Jong Un. Apa sebabnya."
+    },
+    {
         "title": "Alert! India Lapor Kematian Diduga Cacar Monyet Pertama Asia",
         "link": "https://www.cnbcindonesia.com/news/20220802101141-4-360397/alert-india-lapor-kematian-diduga-cacar-monyet-pertama-asia",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjA5MjUyNy03LTM2MDM2OC9uZ2VyaS1sdWJhbmctcmFrc2FzYS0yNS1tZXRlci1uZ2FuZ2EtZGktc2luaS1rb2stYmlzYQ==",
         "description": " Sebuah lubang pembuangan misterius berdiameter sekitar 25 meter (82 kaki) terlihat di area pertambangan di Tierra Amarilla town, Cile."
-    },
-    {
-        "title": "Dihantam Krisis Keuangan, Jokowi: Beberapa Negara Akan Ambruk",
-        "link": "https://www.cnbcindonesia.com/news/20220802102106-4-360400/dihantam-krisis-keuangan-jokowi-beberapa-negara-akan-ambruk",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjEwMjEwNi00LTM2MDQwMC9kaWhhbnRhbS1rcmlzaXMta2V1YW5nYW4tam9rb3dpLWJlYmVyYXBhLW5lZ2FyYS1ha2FuLWFtYnJ1aw==",
-        "description": " Jokowi menyebut beberapa negara akan ambruk, jatuh ke dalam krisis keuangan."
-    },
-    {
-        "title": "Nancy Pelosi \"Ngotot\" Kunjungi Taiwan",
-        "link": "https://www.cnbcindonesia.com/news/20220802100821-8-360394/nancy-pelosi-ngotot-kunjungi-taiwan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjEwMDgyMS04LTM2MDM5NC9uYW5jeS1wZWxvc2ktbmdvdG90LWt1bmp1bmdpLXRhaXdhbg==",
-        "description": " Nancy Pelosi diperkirakan akan bersikeras mengunjungi Taiwan"
-    },
-    {
-        "title": "Perhatian! Kuota BBM Pertalite dan Solar Bersubsidi Sudah Jebol",
-        "link": "https://www.cnbcindonesia.com/news/20220802092129-4-360366/perhatian-kuota-bbm-pertalite-solar-bersubsidi-sudah-jebol",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjA5MjEyOS00LTM2MDM2Ni9wZXJoYXRpYW4ta3VvdGEtYmJtLXBlcnRhbGl0ZS1zb2xhci1iZXJzdWJzaWRpLXN1ZGFoLWplYm9s",
-        "description": " BPH Migas dan Pertamina mencatat realisasi konsumsi Pertalite dan Solar Subsidi melejit"
-    },
-    {
-        "title": "PBB Sebut Umat Manusia 'Sejengkal' Menuju Kemusnahan, Kenapa?",
-        "link": "https://www.cnbcindonesia.com/news/20220802093939-4-360375/pbb-sebut-umat-manusia-sejengkal-menuju-kemusnahan-kenapa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjA5MzkzOS00LTM2MDM3NS9wYmItc2VidXQtdW1hdC1tYW51c2lhLXNlamVuZ2thbC1tZW51anUta2VtdXNuYWhhbi1rZW5hcGE=",
-        "description": " Perserikatan Bangsa-Bangsa (PBB) memberikan peringatan terbaru terkait potensi penggunaan senjata nuklir."
-    },
-    {
-        "title": "Haruskah Kita Khawatir Soal Inflasi RI, Bu Sri Mulyani?",
-        "link": "https://www.cnbcindonesia.com/news/20220802091738-4-360364/haruskah-kita-khawatir-soal-inflasi-ri-bu-sri-mulyani",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjA5MTczOC00LTM2MDM2NC9oYXJ1c2thaC1raXRhLWtoYXdhdGlyLXNvYWwtaW5mbGFzaS1yaS1idS1zcmktbXVseWFuaQ==",
-        "description": " Lonjakan inflasi di bulan Juli 2022 yang utamanya dipicu oleh gejolak harga pangan atau volatile food, berisiko besar pada peningkatan angka kemiskinan."
-    },
-    {
-        "title": "Covid-19 Melonjak, Perusahaan di Australia Diminta WFH",
-        "link": "https://www.cnbcindonesia.com/news/20220802100531-8-360391/covid-19-melonjak-perusahaan-di-australia-diminta-wfh",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjEwMDUzMS04LTM2MDM5MS9jb3ZpZC0xOS1tZWxvbmphay1wZXJ1c2FoYWFuLWRpLWF1c3RyYWxpYS1kaW1pbnRhLXdmaA==",
-        "description": " Australia kembali mengalami lonjakan kasus aktif Covid-19"
     }
 ]
