@@ -1,5 +1,33 @@
 [
     {
+        "title": "Abu Bakar Ba'asyir Kini Akui Pancasila: Dasarnya Tauhid",
+        "link": "https://www.cnnindonesia.com/nasional/20220802191038-20-829416/abu-bakar-baasyir-kini-akui-pancasila-dasarnya-tauhid",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjE5MTAzOC0yMC04Mjk0MTYvYWJ1LWJha2FyLWJhYXN5aXIta2luaS1ha3VpLXBhbmNhc2lsYS1kYXNhcm55YS10YXVoaWQ=",
+        "description": " Mantan napi terorisme, Abu Bakar Ba'asyir mengakui Pancasila didasari oleh Tauhid seperti tertuang dalam sila pertama."
+    },
+    {
+        "title": "IM57: Buron Surya Darmadi Jangan Sampai Seperti Edy Tansil",
+        "link": "https://www.cnnindonesia.com/nasional/20220802183550-12-829409/im57-buron-surya-darmadi-jangan-sampai-seperti-edy-tansil",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjE4MzU1MC0xMi04Mjk0MDkvaW01Ny1idXJvbi1zdXJ5YS1kYXJtYWRpLWphbmdhbi1zYW1wYWktc2VwZXJ0aS1lZHktdGFuc2ls",
+        "description": " IM57+, lembaga bentukan eks pegawai KPK, meminta penegak hukum serius memburu tersangka korupsi pemilik PT Duta Palma Surya Darmadi yang kabur ke luar negeri."
+    },
+    {
+        "title": "Kuasa Hukum Sebut Ada 6 Retakan di Tengkorak Brigadir J",
+        "link": "https://www.cnnindonesia.com/nasional/20220802183734-12-829407/kuasa-hukum-sebut-ada-6-retakan-di-tengkorak-brigadir-j",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjE4MzczNC0xMi04Mjk0MDcva3Vhc2EtaHVrdW0tc2VidXQtYWRhLTYtcmV0YWthbi1kaS10ZW5na29yYWstYnJpZ2FkaXItag==",
+        "description": " Kuasa hukum Brigadir J, Kamaruddin Simanjuntak mengungkap enam retakan di tengkorak berdasarkan hasil autopsi yang kedua."
+    },
+    {
+        "title": "Polisi: Beras Bansos Presiden di Depok Dikubur Tahun 2021",
+        "link": "https://www.cnnindonesia.com/nasional/20220802171141-12-829375/polisi-beras-bansos-presiden-di-depok-dikubur-tahun-2021",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjE3MTE0MS0xMi04MjkzNzUvcG9saXNpLWJlcmFzLWJhbnNvcy1wcmVzaWRlbi1kaS1kZXBvay1kaWt1YnVyLXRhaHVuLTIwMjE=",
+        "description": " Polisi menyebut peristiwa penguburan beras bantuan sosial (bansos) presiden di lahan Depok terjadi pada November 2021."
+    },
+    {
         "title": "Timsus Polri Periksa Dokter Forensik soal Kematian Brigadir J",
         "link": "https://www.cnnindonesia.com/nasional/20220802172355-12-829379/timsus-polri-periksa-dokter-forensik-soal-kematian-brigadir-j",
         "image": "static/images/cnn_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjE3NTI0MS0xMi04MjkzOTIvcG9scmktdG90YWwtYmVyYXMtYmFuc29zLXlhbmctZGlrdWJ1ci1kaS1kZXBvay0zNjc1LWtpbG9ncmFt",
         "description": " Mabes Polri menyatakan beras bansos dengan total 3.675 Kg itu setara dengan 139 keluarga penerima manfaat (KPM)."
-    },
-    {
-        "title": "Pabrik Tahu Meledak di Asahan Sumut, 7 Orang Terluka Cukup Parah",
-        "link": "https://www.cnnindonesia.com/nasional/20220802175222-20-829391/pabrik-tahu-meledak-di-asahan-sumut-7-orang-terluka-cukup-parah",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjE3NTIyMi0yMC04MjkzOTEvcGFicmlrLXRhaHUtbWVsZWRhay1kaS1hc2FoYW4tc3VtdXQtNy1vcmFuZy10ZXJsdWthLWN1a3VwLXBhcmFo",
-        "description": " Ledakan pabrik tahu di Asahan, Sumatera Utara diduga berasal dari mesin uap fermentasi tahu."
-    },
-    {
-        "title": "Alasan Polisi Larang Nindy Ayunda ke Luar Negeri Meski Belum Tersangka",
-        "link": "https://www.cnnindonesia.com/nasional/20220802173322-12-829383/alasan-polisi-larang-nindy-ayunda-ke-luar-negeri-meski-belum-tersangka",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjE3MzMyMi0xMi04MjkzODMvYWxhc2FuLXBvbGlzaS1sYXJhbmctbmluZHktYXl1bmRhLWtlLWx1YXItbmVnZXJpLW1lc2tpLWJlbHVtLXRlcnNhbmdrYQ==",
-        "description": " Sejauh ini, Nindy Ayunda belum menjadi tersangka dalam kasus dugaan penyekapan, namun polisi sudah melakukan pencegahan terhadap Nindy Ayunda."
-    },
-    {
-        "title": "Kasus Kematian Covid Meningkat 54 Persen dalam Sepekan",
-        "link": "https://www.cnnindonesia.com/nasional/20220802173300-20-829384/kasus-kematian-covid-meningkat-54-persen-dalam-sepekan",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjE3MzMwMC0yMC04MjkzODQva2FzdXMta2VtYXRpYW4tY292aWQtbWVuaW5na2F0LTU0LXBlcnNlbi1kYWxhbS1zZXBla2Fu",
-        "description": " Kenaikan\u00c2\u00a0kasus warga yang meninggal akibat terinfeksi virus corona (Covid-19) di Indonesia terhitung 54,68 persen lebih tinggi dibandingkan pekan sebelumnya."
-    },
-    {
-        "title": "Kepala BNPT: Terorisme Amalan Orang Bersekutu Setan",
-        "link": "https://www.cnnindonesia.com/nasional/20220802172603-20-829382/kepala-bnpt-terorisme-amalan-orang-bersekutu-setan",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjE3MjYwMy0yMC04MjkzODIva2VwYWxhLWJucHQtdGVyb3Jpc21lLWFtYWxhbi1vcmFuZy1iZXJzZWt1dHUtc2V0YW4=",
-        "description": " Kepala BNPT Komjen Pol. Boy Rafli Amar menyatakan paham terorisme bukan sebuah amalan agama, melainkan tindakan yang bersekutu dengan setan."
     }
 ]
