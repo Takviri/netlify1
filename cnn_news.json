@@ -1,5 +1,26 @@
 [
     {
+        "title": "Kemenko PMK: Beras Bansos Presiden Dikubur di Depok Tak Layak Konsumsi",
+        "link": "https://www.cnnindonesia.com/nasional/20220802074259-12-829030/kemenko-pmk-beras-bansos-presiden-dikubur-di-depok-tak-layak-konsumsi",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjA3NDI1OS0xMi04MjkwMzAva2VtZW5rby1wbWstYmVyYXMtYmFuc29zLXByZXNpZGVuLWRpa3VidXItZGktZGVwb2stdGFrLWxheWFrLWtvbnN1bXNp",
+        "description": " Kemenko PMK menyatakan beras bansos Presiden yang dikubur di Depok sudah tak layak konsumsi karena rusak saat dalam perjalanan distribusi."
+    },
+    {
+        "title": "Polisi Sebut JNE Sudah Ganti Beras Bansos yang Dikubur di Depok",
+        "link": "https://www.cnnindonesia.com/nasional/20220802073041-12-829026/polisi-sebut-jne-sudah-ganti-beras-bansos-yang-dikubur-di-depok",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjA3MzA0MS0xMi04MjkwMjYvcG9saXNpLXNlYnV0LWpuZS1zdWRhaC1nYW50aS1iZXJhcy1iYW5zb3MteWFuZy1kaWt1YnVyLWRpLWRlcG9r",
+        "description": " Polisi menyatakan, saat pemeriksaan, pihak JNE mengklaim telah mengganti\u00c2\u00a0beras bansos atau bantuan sosial presiden Jokowi yang rusak dan terkubur di Depok."
+    },
+    {
+        "title": "Pemerintah Buka 6 Bandara untuk Pintu Masuk Kedatangan Luar Negeri",
+        "link": "https://www.cnnindonesia.com/nasional/20220802073908-20-829027/pemerintah-buka-6-bandara-untuk-pintu-masuk-kedatangan-luar-negeri",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjA3MzkwOC0yMC04MjkwMjcvcGVtZXJpbnRhaC1idWthLTYtYmFuZGFyYS11bnR1ay1waW50dS1tYXN1ay1rZWRhdGFuZ2FuLWx1YXItbmVnZXJp",
+        "description": " Pemerintah kembali menambah enam pintu masuk kedatangan bagi para Pelaku Perjalanan Luar Negeri (PPLN) di Indonesia melalui jalur udara."
+    },
+    {
         "title": "Gunung Ibu di Halmahera Erupsi, Semburkan Abu Setinggi 800 Meter",
         "link": "https://www.cnnindonesia.com/nasional/20220802074906-20-829031/gunung-ibu-di-halmahera-erupsi-semburkan-abu-setinggi-800-meter",
         "image": "static/images/cnn_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjA2MDkwNy0xMi04Mjg5OTkvcGVzYW4tdGVyYWtoaXIta29wZGEtbXVzbGltaW4tdW50dWstYW5hay1kaS1zZWxlbWJhci1zdXJhdA==",
         "description": " Anggota TNI AD, Kopda Muslimin menyampaikan pesan terakhir untuk kedua buah hatinya lewat selembar surat."
-    },
-    {
-        "title": "PPKM Jawa-Bali Diperpanjang hingga 15 Agustus, Semua Daerah Level 1",
-        "link": "https://www.cnnindonesia.com/nasional/20220802052243-20-828996/ppkm-jawa-bali-diperpanjang-hingga-15-agustus-semua-daerah-level-1",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjA1MjI0My0yMC04Mjg5OTYvcHBrbS1qYXdhLWJhbGktZGlwZXJwYW5qYW5nLWhpbmdnYS0xNS1hZ3VzdHVzLXNlbXVhLWRhZXJhaC1sZXZlbC0x",
-        "description": "  Instruksi Menteri Dalam Negeri Nomor 38 Tahun 2022 diterbitkan untuk pelaksanaan PPKM di Jawa dan Bali yang berlaku mulai tanggal 2-15 Agustus 2022."
-    },
-    {
-        "title": "Polisi Periksa JNE hingga Kemensos Usut Bansos Dikubur di Depok",
-        "link": "https://www.cnnindonesia.com/nasional/20220801201546-12-828935/polisi-periksa-jne-hingga-kemensos-usut-bansos-dikubur-di-depok",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMTIwMTU0Ni0xMi04Mjg5MzUvcG9saXNpLXBlcmlrc2Etam5lLWhpbmdnYS1rZW1lbnNvcy11c3V0LWJhbnNvcy1kaWt1YnVyLWRpLWRlcG9r",
-        "description": " Polres Depok memeriksa sejumlah orang dari Kemensos dan JNE selaku pelaksana pemberian bansos ke masyarakat."
-    },
-    {
-        "title": "Bupati HSU Nonaktif Dituntut 9 Tahun Penjara Kasus Gratifikasi Proyek",
-        "link": "https://www.cnnindonesia.com/nasional/20220802024113-12-828989/bupati-hsu-nonaktif-dituntut-9-tahun-penjara-kasus-gratifikasi-proyek",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwMjAyNDExMy0xMi04Mjg5ODkvYnVwYXRpLWhzdS1ub25ha3RpZi1kaXR1bnR1dC05LXRhaHVuLXBlbmphcmEta2FzdXMtZ3JhdGlmaWthc2ktcHJveWVr",
-        "description": " Bupati HSU Nonaktif Abdul Wahid juga dituntut membayar uang pengganti Rp26 miliar lebih."
     }
 ]

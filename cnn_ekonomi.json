@@ -1,5 +1,12 @@
 [
     {
+        "title": "Daftar Lowongan Kerja PT KAI 2022",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220802075756-92-829041/daftar-lowongan-kerja-pt-kai-2022",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMDc1NzU2LTkyLTgyOTA0MS9kYWZ0YXItbG93b25nYW4ta2VyamEtcHQta2FpLTIwMjI=",
+        "description": " PT Kereta Api Indonesia (Persero) membuka lowongan kerja bagi seluruh masyarakat Indonesia mulai dari lulusan SMA hingga sarjana. Berikut rinciannya."
+    },
+    {
         "title": "BI: Nilai Transaksi BI-FAST Tembus Rp339 Triliun",
         "link": "https://www.cnnindonesia.com/ekonomi/20220801204223-78-828943/bi-nilai-transaksi-bi-fast-tembus-rp339-triliun",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMjMyMzU4LTg1LTgyODk3OS9qb2tvd2ktc3Vic2lkaS1iYm0taW5kb25lc2lhLXJwNTAyLXQtbmVnYXJhLW1hbmEtcHVuLXRhay1zYW5nZ3Vw",
         "description": " Jokowi menyampaikan harga BBM di negara lain mencapai Rp32 ribu per liter. Indonesia masih menjual BBM jenis Pertalite degan harga Rp7.500."
-    },
-    {
-        "title": "OJK: Dana Terhimpun di Pasar Modal Rp123,5 T per Juli 2022",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220801190331-92-828905/ojk-dana-terhimpun-di-pasar-modal-rp1235-t-per-juli-2022",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMTkwMzMxLTkyLTgyODkwNS9vamstZGFuYS10ZXJoaW1wdW4tZGktcGFzYXItbW9kYWwtcnAxMjM1LXQtcGVyLWp1bGktMjAyMg==",
-        "description": " OJK mencatat dana terhimpun di pasar modal mencapai Rp123,5 triliun per 26 Juli 2022."
     }
 ]
