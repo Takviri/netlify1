@@ -1,5 +1,40 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/511556/pbsi-targetkan-ribkafadia-capai-semifinal-kejuaraan-dunia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTE1NTYvcGJzaS10YXJnZXRrYW4tcmlia2FmYWRpYS1jYXBhaS1zZW1pZmluYWwta2VqdWFyYWFuLWR1bmlh",
+        "description": "PELATNAS bulu tangkis Cipayung menargetkan ganda putri Ribka Sugiarto/Siti Fadia Silva Ramadhanti lolos hingga babak semifinal Kejuaraan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/511580/pusri-berkomitmen-cegah-krisis-pangan-dengan-inovasi-tiada-henti",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTU4MC9wdXNyaS1iZXJrb21pdG1lbi1jZWdhaC1rcmlzaXMtcGFuZ2FuLWRlbmdhbi1pbm92YXNpLXRpYWRhLWhlbnRp",
+        "description": "SEBAGAI upaya mendukung ketahanan pangan, industri pupuk menjadi bagian penting. Apalagi saat ini, Indonesia disebut sudah masuk kategori kerawanan pangan. Karenanya, Gubernur Lembaga Ketahanan Nasional&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/511552/usai-dapatkan-kounde-barcelona-buru-dua-bek-chelsea",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTU1Mi91c2FpLWRhcGF0a2FuLWtvdW5kZS1iYXJjZWxvbmEtYnVydS1kdWEtYmVrLWNoZWxzZWE=",
+        "description": "KLUB La Liga Barcelona dikabarkan masih membidik dua pemain bertahan lagi setelah berhasil mengamankan bek Jules Kounde dari Sevilla&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511581/istana-buka-pendaftaran-bagi-masyarakat-yang-ingin-ikut-upcara-hut-ri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNTgxL2lzdGFuYS1idWthLXBlbmRhZnRhcmFuLWJhZ2ktbWFzeWFyYWthdC15YW5nLWluZ2luLWlrdXQtdXBjYXJhLWh1dC1yaQ==",
+        "description": "SEKRETARIAT Presiden secara resmi membuka pendaftaran melalui laman www.pandang.istanapresiden.go.id bagi masyarakat yang ingin mengikuti upacara <a href=\"http://mediaindonesia.com/tag/17-agustus\"&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511579/laporan-keuangan-laznas-bmm-raih-opini-wtp-dalam-21-tahun-berturut-turut",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNTc5L2xhcG9yYW4ta2V1YW5nYW4tbGF6bmFzLWJtbS1yYWloLW9waW5pLXd0cC1kYWxhbS0yMS10YWh1bi1iZXJ0dXJ1dC10dXJ1dA==",
+        "description": "LEMBAGA Amil Zakat Nasional (Laznas) Baitulmaal Muamalat (BMM) kembali meraih Opini Wajar Tanpa Pengecualian (WTP) berdasarkan hasil audit laporan keuangan tahun 2021 yang dilakukan oleh Kantor Akuntan&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/511576/hmi-karawang-dorong-partisipasi-politik-masyarakat-jelang-pemilu-2024",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTE1NzQvcGVtcHJvdi1ka2ktYWt1aS1yZXZpdGFsaXNhc2kta290YS10dWEtdGVybGFtYmF0",
         "description": "REVITALISASI Kota Tua Jakarta baru mencapai 93%. Padahal sebelumnya ditargetkan revitalisasi itu akan selesai Juli lalu. Namun,&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/511573/habis-terjual-dalam-tiga-bulan-senopati-boulevard-diakselerasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTU3My9oYWJpcy10ZXJqdWFsLWRhbGFtLXRpZ2EtYnVsYW4tc2Vub3BhdGktYm91bGV2YXJkLWRpYWtzZWxlcmFzaQ==",
-        "description": "The Shoppes at Senopati Boulevard yang menjadi destinasi favorit dari area komersial Township Vasanta Eco Town akan dipercepat pengerjaannya seiring dengan kesuksesan penjualan yang mampu terjual habis&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511572/fk-usk-edukasi-kesehatan-reproduksi-kepada-remaja-di-banda-aceh",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExNTcyL2ZrLXVzay1lZHVrYXNpLWtlc2VoYXRhbi1yZXByb2R1a3NpLWtlcGFkYS1yZW1hamEtZGktYmFuZGEtYWNlaA==",
-        "description": "UNIVERSITAS Syiah Kuala (USK) melalui SCORA CIMSA FK USK, kemarin memberikan edukasi kesehatan reproduksi kepada 23 remaja laki-laki dan perempuan Desa Meuraxa, Kota Banda Aceh. Edukasi tersebut diberikan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/511546/tinggalkan-inter-milan-sanchez-merapat-ke-marseille",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTU0Ni90aW5nZ2Fsa2FuLWludGVyLW1pbGFuLXNhbmNoZXotbWVyYXBhdC1rZS1tYXJzZWlsbGU=",
-        "description": "PENYERANG Alexis Sanchez dikabarkan telah sepakat mengakhiri kontraknya di klub Serie A Inter Milan pada bursa transfer pemain&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/511571/partai-buruh-optimistis-raup-7-persen-suara-di-pemilu-2024",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTE1NzEvcGFydGFpLWJ1cnVoLW9wdGltaXN0aXMtcmF1cC03LXBlcnNlbi1zdWFyYS1kaS1wZW1pbHUtMjAyNA==",
-        "description": "PARTAI Buruh yakin bisa lolos ke parlemen pada Pemilu 2024. Mereka bahkan percaya diri mampu meraup 7% suara pada Pemilu 2024&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/511570/zomato-siapkan-skema-multipel-ceo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTU3MC96b21hdG8tc2lhcGthbi1za2VtYS1tdWx0aXBlbC1jZW8=",
-        "description": "Zomato, perusahaan layanan pesan antar makanan asal India, merencanakan pembaruan struktur manajemennya dengan menyiapkan skema multipel CEO. Sehingga dengan demikian setiap bisnis individual&#8230;"
     }
 ]

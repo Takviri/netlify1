@@ -1,5 +1,47 @@
 [
     {
+        "title": "BMTR Milik Hary Tanoe Tercuan, ADMR Boy Thohir Boncos",
+        "link": "https://www.cnbcindonesia.com/market/20220802121206-17-360445/bmtr-milik-hary-tanoe-tercuan-admr-boy-thohir-boncos",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTIxMjA2LTE3LTM2MDQ0NS9ibXRyLW1pbGlrLWhhcnktdGFub2UtdGVyY3Vhbi1hZG1yLWJveS10aG9oaXItYm9uY29z",
+        "description": " 5 saham yang tampil perkasa dan 5 saham yang masuk top loser pada perdagangan sesi I Selasa (2/8/2022)."
+    },
+    {
+        "title": "Melesat Lagi, Kurs Dolar Singapura Tembus Rp 10.800",
+        "link": "https://www.cnbcindonesia.com/market/20220802110516-17-360419/melesat-lagi-kurs-dolar-singapura-tembus-rp-10800",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTEwNTE2LTE3LTM2MDQxOS9tZWxlc2F0LWxhZ2kta3Vycy1kb2xhci1zaW5nYXB1cmEtdGVtYnVzLXJwLTEwODAw",
+        "description": " Nilai tukar dolar Singapura menguat lagi melawan rupiah pada perdagangan Selasa (2/8/2022)"
+    },
+    {
+        "title": "BUMN Ini Diam-Diam Cicil Jual Saham Emiten Benang (SBAT)",
+        "link": "https://www.cnbcindonesia.com/market/20220802104759-17-360411/bumn-ini-diam-diam-cicil-jual-saham-emiten-benang--sbat-",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTA0NzU5LTE3LTM2MDQxMS9idW1uLWluaS1kaWFtLWRpYW0tY2ljaWwtanVhbC1zYWhhbS1lbWl0ZW4tYmVuYW5nLS1zYmF0LQ==",
+        "description": " BUMN PT INTI diketahui menjual perlahan sebagian kepemilikan sahamnya di emiten produsen benang PT Sejahtera Bintang Abadi Textile Tbk (SBAT)."
+    },
+    {
+        "title": "China-AS Panas, Harga Tembaga Jatuh",
+        "link": "https://www.cnbcindonesia.com/market/20220802115024-17-360433/china-as-panas-harga-tembaga-jatuh",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTE1MDI0LTE3LTM2MDQzMy9jaGluYS1hcy1wYW5hcy1oYXJnYS10ZW1iYWdhLWphdHVo",
+        "description": " Harga tembaga dunia anjlok pada perdagangan hari ini."
+    },
+    {
+        "title": "Top! Transaksi Super Apps Milik BRI Melonjak 136,5%",
+        "link": "https://www.cnbcindonesia.com/market/20220802115049-17-360435/top-transaksi-super-apps-milik-bri-melonjak-1365",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTE1MDQ5LTE3LTM2MDQzNS90b3AtdHJhbnNha3NpLXN1cGVyLWFwcHMtbWlsaWstYnJpLW1lbG9uamFrLTEzNjU=",
+        "description": " BRI akan terus mengembangkan layanan BRImo sebagai wujud transformasi digital sekaligus hadirkan layanan berorientasi customer centric."
+    },
+    {
+        "title": "Keren Nih! Bank Mandiri Operasikan 241 Digital Smart Branch",
+        "link": "https://www.cnbcindonesia.com/market/20220802115654-17-360438/keren-nih-bank-mandiri-operasikan-241-digital-smart-branch",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTE1NjU0LTE3LTM2MDQzOC9rZXJlbi1uaWgtYmFuay1tYW5kaXJpLW9wZXJhc2lrYW4tMjQxLWRpZ2l0YWwtc21hcnQtYnJhbmNo",
+        "description": " Bank Mandiri mengoperasikan 241 Cabang Digital Smart Branch Serentak di Seluruh Indonesia"
+    },
+    {
         "title": "Di Benua Biru, Rupiah Tertekan Oleh Dua Mata Uang Ini",
         "link": "https://www.cnbcindonesia.com/market/20220802103539-17-360407/di-benua-biru-rupiah-tertekan-oleh-dua-mata-uang-ini",
         "image": "static/images/cnbc_market.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTAxNzIyLTE3LTM2MDM5OS9zZW50aW1lbi1hc2luZy10ZXJoYWRhcC1ydXBpYWgtbWVtYmFpay1pbmktYnVrdGlueWE=",
         "description": " Rupiah pada minggu lalu sukses menghentikan pelemahan 7 pekan beruntun melawan dolar Amerika Serikat (AS)."
-    },
-    {
-        "title": "Duh, Rupiah Tetap Tertekan Nih Padahal Dolar AS Melemah",
-        "link": "https://www.cnbcindonesia.com/market/20220802100433-17-360389/duh-rupiah-tetap-tertekan-nih-padahal-dolar-as-melemah",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTAwNDMzLTE3LTM2MDM4OS9kdWgtcnVwaWFoLXRldGFwLXRlcnRla2FuLW5paC1wYWRhaGFsLWRvbGFyLWFzLW1lbGVtYWg=",
-        "description": " Kurs rupiah sempat menguat terhadap dolar AS tapi kemudian berbalik arah dan terkoreksi hingga di pertengahan perdagangan hari ini."
-    },
-    {
-        "title": "KB Bukopin Pimpin Kredit Sindikasi US$ 370 Juta ke IMFI",
-        "link": "https://www.cnbcindonesia.com/market/20220802105933-17-360418/kb-bukopin-pimpin-kredit-sindikasi-us--370-juta-ke-imfi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTA1OTMzLTE3LTM2MDQxOC9rYi1idWtvcGluLXBpbXBpbi1rcmVkaXQtc2luZGlrYXNpLXVzLS0zNzAtanV0YS1rZS1pbWZp",
-        "description": " Dalam skema pembiayaan ini, KB Bukopin bertindak sebagai Mandated Lead Arranger and Book runner yang berpartisipasi memberikan kredit sebesar US$ 30 juta."
-    },
-    {
-        "title": "Harga IPO Moratelindo Rp 396/Saham, Listing di BEI 8 Agustus",
-        "link": "https://www.cnbcindonesia.com/market/20220801181708-17-360265/harga-ipo-moratelindo-rp-396-saham-listing-di-bei-8-agustus",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAxMTgxNzA4LTE3LTM2MDI2NS9oYXJnYS1pcG8tbW9yYXRlbGluZG8tcnAtMzk2LXNhaGFtLWxpc3RpbmctZGktYmVpLTgtYWd1c3R1cw==",
-        "description": " PT Mora Telematika Indonesia Tbk (MORA) alias Moratelindo telah menetapkan harga Rp 396 per saham dalam penawaran umum perdana saham"
-    },
-    {
-        "title": "IPO, Toba Surimi Tetapkan Rp 150/Saham, Raup Rp 58,5 Miliar",
-        "link": "https://www.cnbcindonesia.com/market/20220802105339-17-360415/ipo-toba-surimi-tetapkan-rp-150-saham-raup-rp-585-miliar",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTA1MzM5LTE3LTM2MDQxNS9pcG8tdG9iYS1zdXJpbWktdGV0YXBrYW4tcnAtMTUwLXNhaGFtLXJhdXAtcnAtNTg1LW1pbGlhcg==",
-        "description": " Seluruh dana yang diperoleh dari hasil Penawaran Umum Perdana Saham ini, setelah dikurangi biaya-biaya emisi, sekitar 94,53% akan digunakan untuk modal kerja."
-    },
-    {
-        "title": "Inflasi RI Merangkak Naik, Pengusaha Harap BI7DRR Tetap 3,5%",
-        "link": "https://www.cnbcindonesia.com/market/20220802094252-19-360378/inflasi-ri-merangkak-naik-pengusaha-harap-bi7drr-tetap-35",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMDk0MjUyLTE5LTM2MDM3OC9pbmZsYXNpLXJpLW1lcmFuZ2thay1uYWlrLXBlbmd1c2FoYS1oYXJhcC1iaTdkcnItdGV0YXAtMzU=",
-        "description": " Inflasi RI Merangkak Naik, Pengusaha Harap Suku Bunga BI Tidak Naik"
-    },
-    {
-        "title": "Sah! Hong Kong Masuk Jurang Resesi",
-        "link": "https://www.cnbcindonesia.com/market/20220802100335-19-360388/sah-hong-kong-masuk-jurang-resesi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTAwMzM1LTE5LTM2MDM4OC9zYWgtaG9uZy1rb25nLW1hc3VrLWp1cmFuZy1yZXNlc2k=",
-        "description": " Produk domestik bruto Hong Kong kembali terkontraksi sebesar 1,4% pada kuartal dua tahun ini"
     }
 ]
