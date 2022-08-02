@@ -1,5 +1,40 @@
 [
     {
+        "title": "Catat! Pembatasan Beli Pertalite Jadi Berlaku September",
+        "link": "https://www.cnbcindonesia.com/news/20220802163901-4-360545/catat-pembatasan-beli-pertalite-jadi-berlaku-september",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE2MzkwMS00LTM2MDU0NS9jYXRhdC1wZW1iYXRhc2FuLWJlbGktcGVydGFsaXRlLWphZGktYmVybGFrdS1zZXB0ZW1iZXI=",
+        "description": " BPH Migas berharap pembatasan pembelian Pertalite berlaku pada September sambil menanti rampungnya revisi Perpres 191/2014"
+    },
+    {
+        "title": "Jasa Raharja Serahkan Santunan Korban Kecelakaan di Boyolali",
+        "link": "https://www.cnbcindonesia.com/news/20220802164043-4-360546/jasa-raharja-serahkan-santunan-korban-kecelakaan-di-boyolali",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE2NDA0My00LTM2MDU0Ni9qYXNhLXJhaGFyamEtc2VyYWhrYW4tc2FudHVuYW4ta29yYmFuLWtlY2VsYWthYW4tZGktYm95b2xhbGk=",
+        "description": " Jasa Raharja menyerahkan santunan kepada ahli waris korban kecelakaan lalu lintas yang melibatkan kendaraan dinas Badan Keamanan Laut (Bakamla)"
+    },
+    {
+        "title": "Potret Taiwan Siap-Siap Perang, Ada Simulasi Berlindung Warga",
+        "link": "https://www.cnbcindonesia.com/news/20220802144804-7-360508/potret-taiwan-siap-siap-perang-ada-simulasi-berlindung-warga",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE0NDgwNC03LTM2MDUwOC9wb3RyZXQtdGFpd2FuLXNpYXAtc2lhcC1wZXJhbmctYWRhLXNpbXVsYXNpLWJlcmxpbmR1bmctd2FyZ2E=",
+        "description": " Petugas polisi militer bersiap untuk latihan tentang cara membimbing warga ke tempat yang aman jika terjadi serangan di Taipei."
+    },
+    {
+        "title": "Anak Buah Sri Mulyani Was-was Setoran Pajak Seret, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220802155758-4-360531/anak-buah-sri-mulyani-was-was-setoran-pajak-seret-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE1NTc1OC00LTM2MDUzMS9hbmFrLWJ1YWgtc3JpLW11bHlhbmktd2FzLXdhcy1zZXRvcmFuLXBhamFrLXNlcmV0LWFkYS1hcGE=",
+        "description": " Hal tersebut disampaikan oleh Direktur Jenderal Pajak Suryo Utomo dalam media briefing di kantornya, Selasa (2/8/2022)."
+    },
+    {
+        "title": "Nasib 'Nyala' Listrik RI Bergantung Hidup di Ditjen Minerba",
+        "link": "https://www.cnbcindonesia.com/news/20220802154529-4-360526/nasib-nyala-listrik-ri-bergantung-hidup-di-ditjen-minerba",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE1NDUyOS00LTM2MDUyNi9uYXNpYi1ueWFsYS1saXN0cmlrLXJpLWJlcmdhbnR1bmctaGlkdXAtZGktZGl0amVuLW1pbmVyYmE=",
+        "description": " PLN hanya mengandalkan batu bara dari kewajiban pemasok ke Ditjen Minerba"
+    },
+    {
         "title": "Nanjak Lagi, Kasus Covid-19 di RI Bertambah 5.827 Hari Ini",
         "link": "https://www.cnbcindonesia.com/news/20220802162358-4-360538/nanjak-lagi-kasus-covid-19-di-ri-bertambah-5827-hari-ini",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE0MDMwOS00LTM2MDQ4OC9oZWJvaC1hcy11bmdrYXAtcGVyaXNhaS1udWtsaXItcnVzaWEtaW5pLWphd2FiYW4ta3JlbWxpbg==",
         "description": " Rusia menolak tuduhan Amerika Serikat (AS) tentang penggunaan pembangkit listrik tenaga nuklir (PLTN) Zaporozhye di Ukraina sebagai \"perisai nuklir\"."
-    },
-    {
-        "title": "Polemik Citayam Fashion Week Cs, Siapa Yang Berhak Atas HaKI?",
-        "link": "https://www.cnbcindonesia.com/news/20220802141744-8-360494/polemik-citayam-fashion-week-cs-siapa-yang-berhak-atas-haki",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE0MTc0NC04LTM2MDQ5NC9wb2xlbWlrLWNpdGF5YW0tZmFzaGlvbi13ZWVrLWNzLXNpYXBhLXlhbmctYmVyaGFrLWF0YXMtaGFraQ==",
-        "description": " Polemik Citayem Fashion Week Cs, Siapa Yang Berhak Atas HaKI?"
-    },
-    {
-        "title": "Siapa Nancy Pelosi? Buat AS-China Tegang, Taiwan Bisa Perang",
-        "link": "https://www.cnbcindonesia.com/news/20220802153037-4-360521/siapa-nancy-pelosi-buat-as-china-tegang-taiwan-bisa-perang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE1MzAzNy00LTM2MDUyMS9zaWFwYS1uYW5jeS1wZWxvc2ktYnVhdC1hcy1jaGluYS10ZWdhbmctdGFpd2FuLWJpc2EtcGVyYW5n",
-        "description": " Nancy Pelosi membuat heboh hubungan China dental Amerika Serikat (AS) dan Taiwan. Siapa dia?"
-    },
-    {
-        "title": "Awas Krisis Listrik, Pemasok Batu Bara Ogah Suplai ke PLN!",
-        "link": "https://www.cnbcindonesia.com/news/20220802151405-4-360516/awas-krisis-listrik-pemasok-batu-bara-ogah-suplai-ke-pln",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE1MTQwNS00LTM2MDUxNi9hd2FzLWtyaXNpcy1saXN0cmlrLXBlbWFzb2stYmF0dS1iYXJhLW9nYWgtc3VwbGFpLWtlLXBsbg==",
-        "description": " Pemasok batu bara dikabarkan menunggu terbentuknya BLU Batu Bara"
-    },
-    {
-        "title": "Diplomasi Batik Dubes RI untuk Korea Gaet Investasi Triliunan",
-        "link": "https://www.cnbcindonesia.com/news/20220802142119-4-360496/diplomasi-batik-dubes-ri-untuk-korea-gaet-investasi-triliunan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE0MjExOS00LTM2MDQ5Ni9kaXBsb21hc2ktYmF0aWstZHViZXMtcmktdW50dWsta29yZWEtZ2FldC1pbnZlc3Rhc2ktdHJpbGl1bmFu",
-        "description": " Siap penuturan Duta Besar Luar Biasa dan Berkuasa Penuh (LBBP) RI untuk Korea Selatan Gandi Sulistiyanto kepada CNBC Indonesia, Senin (1/8/2022)."
-    },
-    {
-        "title": "BMKG Buka Suara Soal Potensi Tsunami 10 Meter Cilacap",
-        "link": "https://www.cnbcindonesia.com/news/20220802141328-4-360492/bmkg-buka-suara-soal-potensi-tsunami-10-meter-cilacap",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMjE0MTMyOC00LTM2MDQ5Mi9ibWtnLWJ1a2Etc3VhcmEtc29hbC1wb3RlbnNpLXRzdW5hbWktMTAtbWV0ZXItY2lsYWNhcA==",
-        "description": " BMKG mengingatkan masyarakat akan ancaman gempa bumi dan tsunami di sepanjang selatan Pulau Jawa"
     }
 ]

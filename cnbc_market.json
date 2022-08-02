@@ -1,5 +1,33 @@
 [
     {
+        "title": "Ancaman Resesi Global, Perdagangan dan Investasi RI Terdampak?",
+        "link": "https://www.cnbcindonesia.com/market/20220802155119-19-360529/ancaman-resesi-global-perdagangan-investasi-ri-terdampak",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTU1MTE5LTE5LTM2MDUyOS9hbmNhbWFuLXJlc2VzaS1nbG9iYWwtcGVyZGFnYW5nYW4taW52ZXN0YXNpLXJpLXRlcmRhbXBhaw==",
+        "description": " Resesi Global Kian Nyata, Perdagangan Hingga Investasi RI Terancam"
+    },
+    {
+        "title": "Amerika Resesi, Investor Asing Pilih RI?",
+        "link": "https://www.cnbcindonesia.com/market/20220802163216-17-360542/amerika-resesi-investor-asing-pilih-ri",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTYzMjE2LTE3LTM2MDU0Mi9hbWVyaWthLXJlc2VzaS1pbnZlc3Rvci1hc2luZy1waWxpaC1yaQ==",
+        "description": " Minat investor asing untuk membeli Surat Berharga Negara (SBN) meningkat cukup tajam."
+    },
+    {
+        "title": "Transaksi Jumbo! BIPI Akuisisi PTT Mining Hong Kong Rp 7 T",
+        "link": "https://www.cnbcindonesia.com/market/20220802155041-17-360528/transaksi-jumbo-bipi-akuisisi-ptt-mining-hong-kong-rp-7-t",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTU1MDQxLTE3LTM2MDUyOC90cmFuc2Frc2ktanVtYm8tYmlwaS1ha3Vpc2lzaS1wdHQtbWluaW5nLWhvbmcta29uZy1ycC03LXQ=",
+        "description": " PT Astrindo Nusantara Infrastruktur Tbk (BIPI) mengakuisisi PTT Mining Ltd Hongkong (PTTML) senilai US$ 471 juta atau setara Rp 7 triliun"
+    },
+    {
+        "title": "Suku Bunga dan Harga Rumah Naik Jadi Tantangan Bisnis KPR Bank",
+        "link": "https://www.cnbcindonesia.com/market/20220802135647-19-360486/suku-bunga-harga-rumah-naik-jadi-tantangan-bisnis-kpr-bank",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTM1NjQ3LTE5LTM2MDQ4Ni9zdWt1LWJ1bmdhLWhhcmdhLXJ1bWFoLW5haWstamFkaS10YW50YW5nYW4tYmlzbmlzLWtwci1iYW5r",
+        "description": " Suku Bunga Hingga Harga Rumah Naik, Tantangan Bisnis KPR Bank"
+    },
+    {
         "title": "Saat Dunia Suram, Begini Cara Bijak Investasi Saham",
         "link": "https://www.cnbcindonesia.com/market/20220802151745-17-360524/saat-dunia-suram-begini-cara-bijak-investasi-saham",
         "image": "static/images/cnbc_market.png",
@@ -21,10 +49,10 @@
         "description": " Harga emas semakin bersinar."
     },
     {
-        "title": "SMAR Tebar Dividen Rp 576 M Dengan Yield 4%, Minat Gak?",
-        "link": "https://www.cnbcindonesia.com/market/20220802151941-17-360518/smar-tebar-dividen-rp-576-m-dengan-yield-4-minat-gak",
+        "title": "SMAR Tebar Dividen Rp 574 M Dengan Yield 4%, Minat Gak?",
+        "link": "https://www.cnbcindonesia.com/market/20220802151941-17-360518/smar-tebar-dividen-rp-574-m-dengan-yield-4-minat-gak",
         "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTUxOTQxLTE3LTM2MDUxOC9zbWFyLXRlYmFyLWRpdmlkZW4tcnAtNTc2LW0tZGVuZ2FuLXlpZWxkLTQtbWluYXQtZ2Fr",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTUxOTQxLTE3LTM2MDUxOC9zbWFyLXRlYmFyLWRpdmlkZW4tcnAtNTc0LW0tZGVuZ2FuLXlpZWxkLTQtbWluYXQtZ2Fr",
         "description": " Lantaran tahun buku 2022 masih berjalan, maka dividen yang dibagikan berupa dividen interim. Nilainya Rp 200 per saham."
     },
     {
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTUwODU2LTE3LTM2MDUwNy9rZWphZ3VuZy1wZXJpa3NhLTMtc2Frc2kta2FzdXMta29ydXBzaS1rcmFzLXdzYnA=",
         "description": " Kejagung Periksa Para Saksi Kasus Korupsi Krakatau Steel Dan Waskita Beton Precast"
-    },
-    {
-        "title": "Ada yang Tarik BBCA Cs Jelang Akhir Perdagangan, IHSG Selamat",
-        "link": "https://www.cnbcindonesia.com/market/20220802151410-17-360517/ada-yang-tarik-bbca-cs-jelang-akhir-perdagangan-ihsg-selamat",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTUxNDEwLTE3LTM2MDUxNy9hZGEteWFuZy10YXJpay1iYmNhLWNzLWplbGFuZy1ha2hpci1wZXJkYWdhbmdhbi1paHNnLXNlbGFtYXQ=",
-        "description": " IHSG sukses berakhir di zona hijau ketika mayoritas indeks saham Asia melemah."
-    },
-    {
-        "title": "Suku Bunga Makin Tinggi, Hidup Warga Australia Makin Susah!",
-        "link": "https://www.cnbcindonesia.com/market/20220802140940-17-360490/suku-bunga-makin-tinggi-hidup-warga-australia-makin-susah",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTQwOTQwLTE3LTM2MDQ5MC9zdWt1LWJ1bmdhLW1ha2luLXRpbmdnaS1oaWR1cC13YXJnYS1hdXN0cmFsaWEtbWFraW4tc3VzYWg=",
-        "description": " Bank sentral Australia (Reserve Bank of Australia/RBA) kembali menaikkan suku bunga acuanya pada Selasa (2/8/2022)."
-    },
-    {
-        "title": "Sentimen Asing Membaik, Rupiah Kok Batal Menguat?",
-        "link": "https://www.cnbcindonesia.com/market/20220802145722-17-360506/sentimen-asing-membaik-rupiah-kok-batal-menguat",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTQ1NzIyLTE3LTM2MDUwNi9zZW50aW1lbi1hc2luZy1tZW1iYWlrLXJ1cGlhaC1rb2stYmF0YWwtbWVuZ3VhdA==",
-        "description": " Rupiah kembali melemah melawan dolar Amerika Serikat (AS) pada perdagangan Selasa (2/8/2022)"
-    },
-    {
-        "title": "Kebakaran di Bursa Saham AS Merembet ke Eropa, Bursanya Merah",
-        "link": "https://www.cnbcindonesia.com/market/20220802143416-17-360501/kebakaran-di-bursa-saham-as-merembet-ke-eropa-bursanya-merah",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTQzNDE2LTE3LTM2MDUwMS9rZWJha2FyYW4tZGktYnVyc2Etc2FoYW0tYXMtbWVyZW1iZXQta2UtZXJvcGEtYnVyc2FueWEtbWVyYWg=",
-        "description": " Bursa saham Eropa di sesi awal kompak terkoreksi pada perdagangan Selasa (02/8/2022), di mana investor masih mengamati sentimen global."
     }
 ]
