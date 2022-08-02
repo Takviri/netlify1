@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/511835/ronaldo-dan-maguire-pesepak-bola-yang-paling-sering-dirundung-di-twitter",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTgzNS9yb25hbGRvLWRhbi1tYWd1aXJlLXBlc2VwYWstYm9sYS15YW5nLXBhbGluZy1zZXJpbmctZGlydW5kdW5nLWRpLXR3aXR0ZXI=",
+        "description": "DUET pemain Manchester United, Cristiano Ronaldo dan Harry Maguire, adalah pemain paling sering dirundung di Twitter pada&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/511841/rangers-terancam-tidak-lolos-ke-liga-champions",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTg0MS9yYW5nZXJzLXRlcmFuY2FtLXRpZGFrLWxvbG9zLWtlLWxpZ2EtY2hhbXBpb25z",
+        "description": "PELUANG Rangers untuk lolos ke babak penyisihan grup Liga Champions semakin menipis setelah klub Skotlandia itu kalah 2-0&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/511755/maladistribusi-dokter-bukan-untuk-diratapi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTE3NTUvbWFsYWRpc3RyaWJ1c2ktZG9rdGVyLWJ1a2FuLXVudHVrLWRpcmF0YXBp",
+        "description": "PADA April 2014, IDI menyelenggarakan kegiatan yang mengundang dokter senior, Andi Nafsiah Walinono Mboi SpA MPH, yang saat itu menjabat menteri kesehatan. Setelah membuka acara, Ibu Menteri secara&#8230;"
+    },
+    {
         "title": "Opini",
         "link": "https://m.mediaindonesia.com/opini/511801/menyelamatkan-indonesia-dari-keterpurukan",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTgzMC9yYi1sZWlwemlnLW9wdGltaXN0aXMtYmlzYS1wdWxhbmdrYW4td2VybmVyLWRhcmktY2hlbHNlYQ==",
         "description": "KLUB Bundesliga RB Leipzig optimistis bisa memulangkan penyerang Timo Werner dari klub Liga Primer Inggris Chelsea pada bursa&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511814/pemerintah-siapkan-tim-koordinasi-nasional-vokasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExODE0L3BlbWVyaW50YWgtc2lhcGthbi10aW0ta29vcmRpbmFzaS1uYXNpb25hbC12b2thc2k=",
-        "description": "PEMERINTAH menyiapkan Tim Koordinasi Nasional Vokasi dalam mewujudkan perubahan mendasar dan menyeluruh terhadap sistem pendidikan vokasi dan pelatihan vokasi. Salah satu langkah strategis adalah&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/511827/alexis-sanchez-selangkah-lagi-gabung-ke-marseille",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMTgyNy9hbGV4aXMtc2FuY2hlei1zZWxhbmdrYWgtbGFnaS1nYWJ1bmcta2UtbWFyc2VpbGxl",
-        "description": "Penyerang Alexis Sanchez menyepakati untuk mengakhiri kontraknya di Inter Milan pada bursa transfer pemain musim panas ini. Ia dikabarkan semakin dekat bergabung ke klub Liga Prancis Marseille.&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511825/pemkot-cirebon-telah-siapkan-anggaran-tangani-stunting",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExODI1L3BlbWtvdC1jaXJlYm9uLXRlbGFoLXNpYXBrYW4tYW5nZ2FyYW4tdGFuZ2FuaS1zdHVudGluZw==",
-        "description": "PEMERINTAH Kota (Pemkot) Cirebon Jawa Barat mengalokasikan dana khusus untuk penanganan stunting. Dana tersebar di sejumlah satuan tugas daerah. Sekretaris Daerah (Sekda) Kota Cirebon, Agus&#8230;"
     }
 ]
