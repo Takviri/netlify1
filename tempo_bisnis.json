@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kemenhub Gartiskan Pungutan Jasa Pendaratan Pesawat di Bandara",
+        "link": "https://bisnis.tempo.co/read/1618312/kemenhub-gartiskan-pungutan-jasa-pendaratan-pesawat-di-bandara",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjE4MzEyL2tlbWVuaHViLWdhcnRpc2thbi1wdW5ndXRhbi1qYXNhLXBlbmRhcmF0YW4tcGVzYXdhdC1kaS1iYW5kYXJh",
+        "description": "Kemenhub menggratiskan PNBP untuk jasa pendaratan, penempatan, dan penyimpanan pesawat udara mulai 29 Juli hingga 31 Desember 2022."
+    },
+    {
+        "title": "Freeport Indonesia Buka Lowongan Kerja bagi Fresh Graduate Lulusan D4 hingga S2",
+        "link": "https://bisnis.tempo.co/read/1618307/freeport-indonesia-buka-lowongan-kerja-bagi-fresh-graduate-lulusan-d4-hingga-s2",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjE4MzA3L2ZyZWVwb3J0LWluZG9uZXNpYS1idWthLWxvd29uZ2FuLWtlcmphLWJhZ2ktZnJlc2gtZ3JhZHVhdGUtbHVsdXNhbi1kNC1oaW5nZ2EtczI=",
+        "description": "PT Freeport Indonesia membuka lowongan kerja bagi lulusan D4, S1 dan S2 melalui Fresh Graduates Program (FGP). Apa saja syarat dan ketentuannya?"
+    },
+    {
         "title": "Sebut Negara Lain Kesulitan Gandum, Jokowi: Sudah Mahal, Barangnya Tak Ada",
         "link": "https://bisnis.tempo.co/read/1618302/sebut-negara-lain-kesulitan-gandum-jokowi-sudah-mahal-barangnya-tak-ada",
         "image": "static/images/tempo_bisnis.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjE4MjY4L3RhcmlmLWJhcnUtbWFzdWstcHVsYXUta29tb2RvLWJlcmxha3UtcGVtcHJvdi1udHQtdGVydXMtZXZhbHVhc2ktZGFuLXNvc2lhbGlzYXNp",
         "description": "Per 1 Agustus 2022 juga diberlakukan pembatasan pengunjung ke Pulau Komodo dan Pulau Padar."
-    },
-    {
-        "title": "IHSG Sentuh Zona Merah Setelah Pembukaan, Saham Antam hingga BCA Berpeluang Menguat",
-        "link": "https://bisnis.tempo.co/read/1618264/ihsg-sentuh-zona-merah-setelah-pembukaan-saham-antam-hingga-bca-berpeluang-menguat",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjE4MjY0L2loc2ctc2VudHVoLXpvbmEtbWVyYWgtc2V0ZWxhaC1wZW1idWthYW4tc2FoYW0tYW50YW0taGluZ2dhLWJjYS1iZXJwZWx1YW5nLW1lbmd1YXQ=",
-        "description": "Hingga 18 menit setelah perdagangan dibuka, IHSG terus melaju ke zona merah hingga terseret ke posisi 6.952,62"
-    },
-    {
-        "title": "Harga CPO Naik tapi TBS Sawit Masih Rendah, Petani: Kami Seperti Kena Bola Terus",
-        "link": "https://bisnis.tempo.co/read/1618227/harga-cpo-naik-tapi-tbs-sawit-masih-rendah-petani-kami-seperti-kena-bola-terus",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjE4MjI3L2hhcmdhLWNwby1uYWlrLXRhcGktdGJzLXNhd2l0LW1hc2loLXJlbmRhaC1wZXRhbmkta2FtaS1zZXBlcnRpLWtlbmEtYm9sYS10ZXJ1cw==",
-        "description": "Kalangan petani tak habis pikir kenaikan harga tender CPO di KPBN menjadi Rp 10.103 per kilogram saat ini tak kunjung mendongkrak harga TBS sawit."
     }
 ]

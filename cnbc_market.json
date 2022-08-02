@@ -1,5 +1,40 @@
 [
     {
+        "title": "Di Benua Biru, Rupiah Tertekan Oleh Dua Mata Uang Ini",
+        "link": "https://www.cnbcindonesia.com/market/20220802103539-17-360407/di-benua-biru-rupiah-tertekan-oleh-dua-mata-uang-ini",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTAzNTM5LTE3LTM2MDQwNy9kaS1iZW51YS1iaXJ1LXJ1cGlhaC10ZXJ0ZWthbi1vbGVoLWR1YS1tYXRhLXVhbmctaW5p",
+        "description": " Kurs rupiah terkoreksi terhadap euro dan poundsterling, tapi rupiah berhasil menguat terhadap dolar franc swiss"
+    },
+    {
+        "title": "Ini Penyebab IHSG Sesi I Berakhir Merah dan Drop 0,51%",
+        "link": "https://www.cnbcindonesia.com/market/20220802113625-17-360428/ini-penyebab-ihsg-sesi-i-berakhir-merah-drop-051",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTEzNjI1LTE3LTM2MDQyOC9pbmktcGVueWViYWItaWhzZy1zZXNpLWktYmVyYWtoaXItbWVyYWgtZHJvcC0wNTE=",
+        "description": " Indeks Harga Saham Gabungan (IHSG) berakhir terkoreksi 0,51% ke 6.933 pada perdagangan sesi I Selasa (2/8/2022)."
+    },
+    {
+        "title": "H1-2022, BUKA, PTPP Hingga ANJT Berhasil Cetak Laba Bersih",
+        "link": "https://www.cnbcindonesia.com/market/20220802101021-19-360396/h1-2022-buka-ptpp-hingga-anjt-berhasil-cetak-laba-bersih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTAxMDIxLTE5LTM2MDM5Ni9oMS0yMDIyLWJ1a2EtcHRwcC1oaW5nZ2EtYW5qdC1iZXJoYXNpbC1jZXRhay1sYWJhLWJlcnNpaA==",
+        "description": " PT Bukalapak Dot Com Tbk atau Bukalapak mencatat perolehan laba bersih sebesar Rp 8,59 Triliun"
+    },
+    {
+        "title": "Sentimen Asing Terhadap Rupiah Membaik, Ini Buktinya!",
+        "link": "https://www.cnbcindonesia.com/market/20220802101722-17-360399/sentimen-asing-terhadap-rupiah-membaik-ini-buktinya",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTAxNzIyLTE3LTM2MDM5OS9zZW50aW1lbi1hc2luZy10ZXJoYWRhcC1ydXBpYWgtbWVtYmFpay1pbmktYnVrdGlueWE=",
+        "description": " Rupiah pada minggu lalu sukses menghentikan pelemahan 7 pekan beruntun melawan dolar Amerika Serikat (AS)."
+    },
+    {
+        "title": "Duh, Rupiah Tetap Tertekan Nih Padahal Dolar AS Melemah",
+        "link": "https://www.cnbcindonesia.com/market/20220802100433-17-360389/duh-rupiah-tetap-tertekan-nih-padahal-dolar-as-melemah",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTAwNDMzLTE3LTM2MDM4OS9kdWgtcnVwaWFoLXRldGFwLXRlcnRla2FuLW5paC1wYWRhaGFsLWRvbGFyLWFzLW1lbGVtYWg=",
+        "description": " Kurs rupiah sempat menguat terhadap dolar AS tapi kemudian berbalik arah dan terkoreksi hingga di pertengahan perdagangan hari ini."
+    },
+    {
         "title": "KB Bukopin Pimpin Kredit Sindikasi US$ 370 Juta ke IMFI",
         "link": "https://www.cnbcindonesia.com/market/20220802105933-17-360418/kb-bukopin-pimpin-kredit-sindikasi-us--370-juta-ke-imfi",
         "image": "static/images/cnbc_market.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMTAwMzM1LTE5LTM2MDM4OC9zYWgtaG9uZy1rb25nLW1hc3VrLWp1cmFuZy1yZXNlc2k=",
         "description": " Produk domestik bruto Hong Kong kembali terkontraksi sebesar 1,4% pada kuartal dua tahun ini"
-    },
-    {
-        "title": "Bos Sawit yang Sabar Ya, Harga CPO Turun Nyaris 1%",
-        "link": "https://www.cnbcindonesia.com/market/20220802085057-17-360354/bos-sawit-yang-sabar-ya-harga-cpo-turun-nyaris-1",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMDg1MDU3LTE3LTM2MDM1NC9ib3Mtc2F3aXQteWFuZy1zYWJhci15YS1oYXJnYS1jcG8tdHVydW4tbnlhcmlzLTE=",
-        "description": " Harga minyak sawit mentah turun di sesi awal perdagangan pada hari ini. Artinya, harga CPO sudah jatuh selama hampir dua hari beruntun."
-    },
-    {
-        "title": "Harga Bitcoin Cs Kompak Merosot, Investor Mulai Ambil Untung?",
-        "link": "https://www.cnbcindonesia.com/market/20220802094333-17-360381/harga-bitcoin-cs-kompak-merosot-investor-mulai-ambil-untung",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMDk0MzMzLTE3LTM2MDM4MS9oYXJnYS1iaXRjb2luLWNzLWtvbXBhay1tZXJvc290LWludmVzdG9yLW11bGFpLWFtYmlsLXVudHVuZw==",
-        "description": " Harga kripto utama terpantau terkoreksi cenderung terbatas pada perdagangan Selasa (2/8/2022), karena investor mulai merealisasikan keuntungannya di aset kripto"
-    },
-    {
-        "title": "Bos Wanaartha Life Tersangka, Kasus Penggelapan Premi Nasabah",
-        "link": "https://www.cnbcindonesia.com/market/20220802094614-17-360382/bos-wanaartha-life-tersangka-kasus-penggelapan-premi-nasabah",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMDk0NjE0LTE3LTM2MDM4Mi9ib3Mtd2FuYWFydGhhLWxpZmUtdGVyc2FuZ2thLWthc3VzLXBlbmdnZWxhcGFuLXByZW1pLW5hc2FiYWg=",
-        "description": " Yanes dan kawan-kawan memberikan keterangan dan dokumen palsu kepada Otoritas Jasa Keuangan (OJK) dan pengelapan premi nasabah."
-    },
-    {
-        "title": "Debut di BEI, Saham Utama Radar Cahaya (RCCC) Ambles 5,19%",
-        "link": "https://www.cnbcindonesia.com/market/20220802094408-17-360380/debut-di-bei-saham-utama-radar-cahaya--rccc--ambles-519",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMDk0NDA4LTE3LTM2MDM4MC9kZWJ1dC1kaS1iZWktc2FoYW0tdXRhbWEtcmFkYXItY2FoYXlhLS1yY2NjLS1hbWJsZXMtNTE5",
-        "description": " pada pukul 09.57 WIB, saham RCCC terpantau ambles 5,19% ke level Rp 128 per unit."
-    },
-    {
-        "title": "Daya Beli Kelas Bawah Terimbas Inflasi, Ekonom: Harus Dijaga!",
-        "link": "https://www.cnbcindonesia.com/market/20220802094145-19-360377/daya-beli-kelas-bawah-terimbas-inflasi-ekonom-harus-dijaga",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODAyMDk0MTQ1LTE5LTM2MDM3Ny9kYXlhLWJlbGkta2VsYXMtYmF3YWgtdGVyaW1iYXMtaW5mbGFzaS1la29ub20taGFydXMtZGlqYWdh",
-        "description": " Ekonom: Paling Terimbas Inflasi, Daya Beli Kelas Bawah Harus Dijaga"
     }
 ]
