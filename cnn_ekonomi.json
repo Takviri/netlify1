@@ -1,5 +1,19 @@
 [
     {
+        "title": "INFOGRAFIS: Data Penerima dan Anggaran LPDP",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220803100322-535-829609/infografis-data-penerima-dan-anggaran-lpdp",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAzMTAwMzIyLTUzNS04Mjk2MDkvaW5mb2dyYWZpcy1kYXRhLXBlbmVyaW1hLWRhbi1hbmdnYXJhbi1scGRw",
+        "description": " Jumlah penerima beasiswa LPDP mencapai ribuan orang setiap tahunnya dengan anggaran dari negara RpRp2,6 triliun-Rp3,07 triliun per tahun."
+    },
+    {
+        "title": "Subsidi BBM Bengkak Jadi Rp502 T",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220803080924-532-829541/subsidi-bbm-bengkak-jadi-rp502-t",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAzMDgwOTI0LTUzMi04Mjk1NDEvc3Vic2lkaS1iYm0tYmVuZ2thay1qYWRpLXJwNTAyLXQ=",
+        "description": " Jokowi menyatakan subsidi BBM sudah bengkak dari Rp170 triliun jadi Rp502 triliun dan negara mana pun tak akan sanggup menanggung itu kecuali RI."
+    },
+    {
         "title": "Cerita Alumni LPDP Dapat Beasiswa: Maaf, Saya Tidak Merasa Berutang",
         "link": "https://www.cnnindonesia.com/ekonomi/20220803095747-532-829597/cerita-alumni-lpdp-dapat-beasiswa-maaf-saya-tidak-merasa-berutang",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAyMTc0MDAwLTk3LTgyOTM4Ni9raHVzdXMtcGVuZ2d1bmEtYWxsby1iYW5rLW1ha2FuLWRpLXdlbmR5cy1kaXNrb24tNDUtcGVyc2Vu",
         "description": " Mengawali bulan Agustus, Allo Bank bagi-bagi diskon 45 persen makan di Wendy's untuk pembelian produk reguler nonpromo."
-    },
-    {
-        "title": "Harga Emas Antam Terkulai Lemas ke Rp978 Ribu",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220803083417-92-829553/harga-emas-antam-terkulai-lemas-ke-rp978-ribu",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAzMDgzNDE3LTkyLTgyOTU1My9oYXJnYS1lbWFzLWFudGFtLXRlcmt1bGFpLWxlbWFzLWtlLXJwOTc4LXJpYnU=",
-        "description": " Harga emas Antam turun Rp6.000 ke Rp978 ribu per gram pada Rabu (3/8) ini."
-    },
-    {
-        "title": "Jenis Gigi Palsu yang Ditanggung BPJS Kesehatan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220801174046-83-828864/jenis-gigi-palsu-yang-ditanggung-bpjs-kesehatan",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODAxMTc0MDQ2LTgzLTgyODg2NC9qZW5pcy1naWdpLXBhbHN1LXlhbmctZGl0YW5nZ3VuZy1icGpzLWtlc2VoYXRhbg==",
-        "description": " Layanan pemasangan gigi palsu tidak sepenuhnya ditanggung oleh BPJS Kesehatan dan hanya berupa subsidi dana maksimal Rp1 juta."
     }
 ]
