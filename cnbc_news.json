@@ -1,5 +1,47 @@
 [
     {
+        "title": "Soal Penemuan Beras di Depok, Ini Kata Mensos",
+        "link": "https://www.cnbcindonesia.com/news/20220803101921-8-360711/soal-penemuan-beras-di-depok-ini-kata-mensos",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMzEwMTkyMS04LTM2MDcxMS9zb2FsLXBlbmVtdWFuLWJlcmFzLWRpLWRlcG9rLWluaS1rYXRhLW1lbnNvcw==",
+        "description": " Kementrian sosial telah menerjunkan tim untuk mengecek kasus penemuan beras di Depok Jawa Barat."
+    },
+    {
+        "title": "Awas Perang China-Taiwan, Pelosi Resmi Bertemu Tsai Ing Wen",
+        "link": "https://www.cnbcindonesia.com/news/20220803101902-4-360710/awas-perang-china-taiwan-pelosi-resmi-bertemu-tsai-ing-wen",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMzEwMTkwMi00LTM2MDcxMC9hd2FzLXBlcmFuZy1jaGluYS10YWl3YW4tcGVsb3NpLXJlc21pLWJlcnRlbXUtdHNhaS1pbmctd2Vu",
+        "description": " Dalam update terbaru CNBC International, Rabu (3/8/2022), Nancy Pelosi resmi bertemu dengan Presiden Taiwan Tsai Ing-wen"
+    },
+    {
+        "title": "Jokowi Panen Tol Hingga Akhir Tahun, Ini Daftarnya",
+        "link": "https://www.cnbcindonesia.com/news/20220803094607-4-360700/jokowi-panen-tol-hingga-akhir-tahun-ini-daftarnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMzA5NDYwNy00LTM2MDcwMC9qb2tvd2ktcGFuZW4tdG9sLWhpbmdnYS1ha2hpci10YWh1bi1pbmktZGFmdGFybnlh",
+        "description": " Setidaknya ada belasan tol yang direncanakan beroperasi hingga akhir tahun ini.Pemerintahan Joko Widodo Panen Tol Tahun Ini"
+    },
+    {
+        "title": "Sederet Cara Cek BPJS Kesehatan Aktif Atau Tidak, Simak!",
+        "link": "https://www.cnbcindonesia.com/news/20220803094619-4-360695/sederet-cara-cek-bpjs-kesehatan-aktif-atau-tidak-simak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMzA5NDYxOS00LTM2MDY5NS9zZWRlcmV0LWNhcmEtY2VrLWJwanMta2VzZWhhdGFuLWFrdGlmLWF0YXUtdGlkYWstc2ltYWs=",
+        "description": " Ada berbagai cara yang bisa Anda gunakan untuk mengecek apakah layanan BPJS Kesehatan Anda aktif atau tidak"
+    },
+    {
+        "title": "Di Balik Pertemuan Jokowi-Zelensky-Putin: Ada Kabar Gak Enak",
+        "link": "https://www.cnbcindonesia.com/news/20220803094016-4-360691/di-balik-pertemuan-jokowi-zelensky-putin-ada-kabar-gak-enak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMzA5NDAxNi00LTM2MDY5MS9kaS1iYWxpay1wZXJ0ZW11YW4tam9rb3dpLXplbGVuc2t5LXB1dGluLWFkYS1rYWJhci1nYWstZW5haw==",
+        "description": " Jokowi mengungkap secara rinci apa yang diketahuinya usai melakukan pertemuan dengan Ukraina dan Rusia"
+    },
+    {
+        "title": "Nancy Pelosi Mendarat di Taiwan, China Murka!",
+        "link": "https://www.cnbcindonesia.com/news/20220803094535-8-360694/nancy-pelosi-mendarat-di-taiwan-china-murka",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMzA5NDUzNS04LTM2MDY5NC9uYW5jeS1wZWxvc2ktbWVuZGFyYXQtZGktdGFpd2FuLWNoaW5hLW11cmth",
+        "description": " Nancy Pelosi telah tiba di ibu kota Taiwan Taipei pada Selasa 2 Agustus kemarin"
+    },
+    {
         "title": "Ini Sosok Pacar Putin yang Resmi Kena 'Bom' Sanksi AS",
         "link": "https://www.cnbcindonesia.com/news/20220803095420-4-360697/ini-sosok-pacar-putin-yang-resmi-kena-bom-sanksi-as",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMzA5NDQxMS04LTM2MDY5Mi9oYXJnYS1wYW5nYW4taW1wb3ItbWVyb2tldC1iaWtpbi1pbmZsYXNpLW5haWstYXBhLXNvbHVzaW55YQ==",
         "description": " Lonjakan Harga Pangan Impor Bikin Inflasi Menanjak, Apa Solusinya?"
-    },
-    {
-        "title": "Intip Hotel Terbang Tenaga Nuklir, Bisa Tampung 5.000 Tamu",
-        "link": "https://www.cnbcindonesia.com/news/20220803073307-7-360657/intip-hotel-terbang-tenaga-nuklir-bisa-tampung-5000-tamu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMzA3MzMwNy03LTM2MDY1Ny9pbnRpcC1ob3RlbC10ZXJiYW5nLXRlbmFnYS1udWtsaXItYmlzYS10YW1wdW5nLTUwMDAtdGFtdQ==",
-        "description": " Pesawat tersebut mampu menampung hingga 5.000 tamu."
-    },
-    {
-        "title": "Surat Berharga Negara Indonesia Tak Lagi Dikuasai Asing",
-        "link": "https://www.cnbcindonesia.com/news/20220803080358-4-360666/surat-berharga-negara-indonesia-tak-lagi-dikuasai-asing",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMzA4MDM1OC00LTM2MDY2Ni9zdXJhdC1iZXJoYXJnYS1uZWdhcmEtaW5kb25lc2lhLXRhay1sYWdpLWRpa3Vhc2FpLWFzaW5n",
-        "description": " Kepemilikan asing pada SBN semakin menipis, kini hanya tersisa 15,89%."
-    },
-    {
-        "title": "Makin Panas! Korut-Rusia Dukung China 'Hajar' AS soal Taiwan",
-        "link": "https://www.cnbcindonesia.com/news/20220803084312-4-360676/makin-panas-korut-rusia-dukung-china-hajar-as-soal-taiwan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMzA4NDMxMi00LTM2MDY3Ni9tYWtpbi1wYW5hcy1rb3J1dC1ydXNpYS1kdWt1bmctY2hpbmEtaGFqYXItYXMtc29hbC10YWl3YW4=",
-        "description": " Korea Utara (Korut) memberi dukungan ke China soal Taiwan, Rabu (3/8/2022)."
-    },
-    {
-        "title": "Pertamina Resmi Menaikkan 3 Jenis Harga BBM Non Subsidi",
-        "link": "https://www.cnbcindonesia.com/news/20220803085450-4-360679/pertamina-resmi-menaikkan-3-jenis-harga-bbm-non-subsidi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMzA4NTQ1MC00LTM2MDY3OS9wZXJ0YW1pbmEtcmVzbWktbWVuYWlra2FuLTMtamVuaXMtaGFyZ2EtYmJtLW5vbi1zdWJzaWRp",
-        "description": " Ketiga jenis BBM non subsidi itu adalah Pertamax Turbo, Pertamina Dex dan Dexlite"
-    },
-    {
-        "title": "Segini Iuran BPJS Kesehatan Bagi yang Gajinya di Atas 12 Juta",
-        "link": "https://www.cnbcindonesia.com/news/20220803073720-4-360650/segini-iuran-bpjs-kesehatan-bagi-yang-gajinya-di-atas-12-juta",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMzA3MzcyMC00LTM2MDY1MC9zZWdpbmktaXVyYW4tYnBqcy1rZXNlaGF0YW4tYmFnaS15YW5nLWdhamlueWEtZGktYXRhcy0xMi1qdXRh",
-        "description": " BPJS Kesehatan memiliki iuran berbeda untuk setiap tingkatan."
-    },
-    {
-        "title": "Perhatian! Harga BBM Pertamina Resmi Naik Lagi",
-        "link": "https://www.cnbcindonesia.com/news/20220803080628-4-360667/perhatian-harga-bbm-pertamina-resmi-naik-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwMzA4MDYyOC00LTM2MDY2Ny9wZXJoYXRpYW4taGFyZ2EtYmJtLXBlcnRhbWluYS1yZXNtaS1uYWlrLWxhZ2k=",
-        "description": " Pertamina pada 3 Agustus 2022 ini resmi menaikkan harga tiga jenis BBM Non Subsidi-nya yakni Pertamax Turbo, Dexlite dan Pertamina Dex"
     }
 ]
