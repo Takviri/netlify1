@@ -1,5 +1,26 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511859/sebagian-kota-besar-di-indonesia-diprakirakan-hujan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExODU5L3NlYmFnaWFuLWtvdGEtYmVzYXItZGktaW5kb25lc2lhLWRpcHJha2lyYWthbi1odWphbg==",
+        "description": "Badan Meteorologi, Klimatologi dan Geofisika (BMKG) memprakirakan sebagian kota besar di Indonesia mengalami hujan dengan intensitas beragam pada Rabu (3/8). Dalam informasi daring ditayangkan&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/511860/ini-syarat-joko-anwar-untuk-hadirkan-pengabdi-setan-3",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMTg2MC9pbmktc3lhcmF0LWpva28tYW53YXItdW50dWstaGFkaXJrYW4tcGVuZ2FiZGktc2V0YW4tMw==",
+        "description": "SUTRADARA Joko Anwar mengisyaratkan dirinya akan membuat film Pengabdi Setan 3 dengan catatan film kedua yang tayang pada&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/511858/pacar-putin-dan-sejumlah-pejabat-rusia-disanksi-as",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMTg1OC9wYWNhci1wdXRpbi1kYW4tc2VqdW1sYWgtcGVqYWJhdC1ydXNpYS1kaXNhbmtzaS1hcw==",
+        "description": "Amerika Serikat (AS) memasukkan daftar hitam pacar Presiden Rusia Vladimir Putin, Alina Kabaeva. Sanksi juga dijatuhkan kepada empat pejabat yang ditunjuk Rusia untuk mengelola wilayah pendudukan di&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/511857/fp-unwar-perkenalkan-teknologi-pakan-fermentasi-untuk-tingkatkan-produktifitas-babi-bali",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbmZvZ3JhZmlzLzUxMTg1NC90cmFkaXNpLW1lbWFuZ2dpbC1odWphbi1zdWt1LXNhc2Fr",
         "description": "Presean merupakan tradisi Suku Sasak di Pulau Lombok yang awalnya bertujuan untuk memanggil hujan."
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/511849/kacamelyv-prakaca-mengaku-sempat-tidak-pede-bintangi-serial-catatan-akhir-sekolah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMTg0OS9rYWNhbWVseXYtcHJha2FjYS1tZW5nYWt1LXNlbXBhdC10aWRhay1wZWRlLWJpbnRhbmdpLXNlcmlhbC1jYXRhdGFuLWFraGlyLXNla29sYWg=",
-        "description": "AKTRIS pendatang baru Kacamelyv Prakaca mengaku sempat merasa insecure atau tidak percaya diri saat casting untuk membintangi serial&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/511848/newjeans-akan-rilis-mini-album-perdana-pekan-depan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMTg0OC9uZXdqZWFucy1ha2FuLXJpbGlzLW1pbmktYWxidW0tcGVyZGFuYS1wZWthbi1kZXBhbg==",
-        "description": "NEWJEANS, grup K-Pop di bawah naungan ADOR, yang merupakan salah satu sub-label Hybe, siap melakukan debut secara resmi pada 8 Agustus&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/511780/telkomsel-masih-jadi-kontributor-utama-pendapatan-telkom",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTc4MC90ZWxrb21zZWwtbWFzaWgtamFkaS1rb250cmlidXRvci11dGFtYS1wZW5kYXBhdGFuLXRlbGtvbQ==",
-        "description": "Menutup paruh pertama tahun 2022, PT Telkom Indonesia (Persero) Tbk (Telkom) mencatat kinerja yang cukup baik. Perseroan membukukan pendapatan konsolidasi sebesar Rp72,0 triliun atau tumbuh 3,6% dibanding&#8230;"
     }
 ]
