@@ -1,5 +1,26 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/511857/fp-unwar-perkenalkan-teknologi-pakan-fermentasi-untuk-tingkatkan-produktifitas-babi-bali",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExODU3L2ZwLXVud2FyLXBlcmtlbmFsa2FuLXRla25vbG9naS1wYWthbi1mZXJtZW50YXNpLXVudHVrLXRpbmdrYXRrYW4tcHJvZHVrdGlmaXRhcy1iYWJpLWJhbGk=",
+        "description": "FAKULTAS Pertanian Universitas Warmadewa (FP-Unwar) memperkenalkan teknologi pakan fermentasi dalam upaya meningkatkan produktivitas ternak&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/511852/kabar-baik-single-penuh-sukacita-dari-atmojo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMTg1Mi9rYWJhci1iYWlrLXNpbmdsZS1wZW51aC1zdWthY2l0YS1kYXJpLWF0bW9qbw==",
+        "description": "PENYANYI Kakung Triadmojo, yang dikenal dengan nama Atmojo merilis single terbaru yang penuh sukacita berjudul Kabar Baik. Mengutip&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/511818/ancaman-megathrust-bmkg-dorong-pembentukan-komunitas-siaga-tsunami-di-pantai-selatan-jawa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExODE4L2FuY2FtYW4tbWVnYXRocnVzdC1ibWtnLWRvcm9uZy1wZW1iZW50dWthbi1rb211bml0YXMtc2lhZ2EtdHN1bmFtaS1kaS1wYW50YWktc2VsYXRhbi1qYXdh",
+        "description": "BADAN Meteorologi Klimatologi dan Geofisika (BMKG) mendorong Sekolah Lapang Gempa untuk membentuk komunitas siaga tsunami di masing-masing desa pesisir sebagai mitigasi terhadap potensi gempa megathrust&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/511856/setelah-tertunda-pekan-lalu-sidang-vonis-teddy-tjokrosapoetro-digelar-hari-ini",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMTc4MC90ZWxrb21zZWwtbWFzaWgtamFkaS1rb250cmlidXRvci11dGFtYS1wZW5kYXBhdGFuLXRlbGtvbQ==",
         "description": "Menutup paruh pertama tahun 2022, PT Telkom Indonesia (Persero) Tbk (Telkom) mencatat kinerja yang cukup baik. Perseroan membukukan pendapatan konsolidasi sebesar Rp72,0 triliun atau tumbuh 3,6% dibanding&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/511847/bmkg-waspadai-gelombang-tinggi-hingga-4-agustus",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTExODQ3L2Jta2ctd2FzcGFkYWktZ2Vsb21iYW5nLXRpbmdnaS1oaW5nZ2EtNC1hZ3VzdHVz",
-        "description": "BADAN Meteorologi, Klimatologi, dan Geofisika (BMKG) mengeluarkan peringatan dini terkait potensi gelombang tinggi di wilayah perairan Indonesia yang berlaku 3-4 Agustus 2022. Dilansir dari&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/511844/piastri-bantah-akan-gantikan-alonso-di-alpine-pada-2023",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTE4NDQvcGlhc3RyaS1iYW50YWgtYWthbi1nYW50aWthbi1hbG9uc28tZGktYWxwaW5lLXBhZGEtMjAyMw==",
-        "description": "OSCAR Piastri, Selasa (2/8), menegaskan dirinya tidak akan membalap untuk Alpine di ajang Formula 1 2023, kurang dari satu jam&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/511845/loka-pom-kota-tasikmalaya-sita-ribuan-kosmetik-ilegal-berbahaya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTExODQ1L2xva2EtcG9tLWtvdGEtdGFzaWttYWxheWEtc2l0YS1yaWJ1YW4ta29zbWV0aWstaWxlZ2FsLWJlcmJhaGF5YQ==",
-        "description": "LOKA Pengawas Obat dan Makanan (POM) Tasikmalaya, Jawa Barat menyita sebanyak 540 item atau 4.902 pices kosmetik ilegal mengandung&nbsp;karsinogenik dan pewarna buatan serta kadaluarsa, yang beredar&#8230;"
     }
 ]
