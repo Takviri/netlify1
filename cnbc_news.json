@@ -1,5 +1,47 @@
 [
     {
+        "title": "Baca Baik-baik! Begini Kondisi Ekonomi Indonesia Terkini",
+        "link": "https://www.cnbcindonesia.com/news/20220809082456-4-362151/baca-baik-baik-begini-kondisi-ekonomi-indonesia-terkini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTA4MjQ1Ni00LTM2MjE1MS9iYWNhLWJhaWstYmFpay1iZWdpbmkta29uZGlzaS1la29ub21pLWluZG9uZXNpYS10ZXJraW5p",
+        "description": " Situasi perekonomian ekonomi Indonesia kembali pulih dari krisis yang disebabkan oleh pandemi covid-19."
+    },
+    {
+        "title": "Merapat! 'Helikopter Uang' Jokowi Bakal Mendarat di Sini",
+        "link": "https://www.cnbcindonesia.com/news/20220809073249-4-362144/merapat-helikopter-uang-jokowi-bakal-mendarat-di-sini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTA3MzI0OS00LTM2MjE0NC9tZXJhcGF0LWhlbGlrb3B0ZXItdWFuZy1qb2tvd2ktYmFrYWwtbWVuZGFyYXQtZGktc2luaQ==",
+        "description": " Jokowi bertolak ke Kalimantan Barat dalam rangka kunjungan kerja"
+    },
+    {
+        "title": "Kelas 1-3 BPJS Kesehatan Dihapus! Iuran Resminya Jadi Segini",
+        "link": "https://www.cnbcindonesia.com/news/20220809071405-4-362139/kelas-1-3-bpjs-kesehatan-dihapus-iuran-resminya-jadi-segini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTA3MTQwNS00LTM2MjEzOS9rZWxhcy0xLTMtYnBqcy1rZXNlaGF0YW4tZGloYXB1cy1pdXJhbi1yZXNtaW55YS1qYWRpLXNlZ2luaQ==",
+        "description": " Berikut iuran resmi BPJS Kesehatan pasca mulai diberlakukannya kelas standar"
+    },
+    {
+        "title": "Perang Minggir Dulu! Ada Ancaman yang Lebih Ngeri Dari Covid",
+        "link": "https://www.cnbcindonesia.com/news/20220809070205-4-362132/perang-minggir-dulu-ada-ancaman-yang-lebih-ngeri-dari-covid",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTA3MDIwNS00LTM2MjEzMi9wZXJhbmctbWluZ2dpci1kdWx1LWFkYS1hbmNhbWFuLXlhbmctbGViaWgtbmdlcmktZGFyaS1jb3ZpZA==",
+        "description": " Terungkap ada ancaman yang lebih 'menakutkan' ketimbang pandemi Covid-19"
+    },
+    {
+        "title": "Live! Wamenkeu Bicara Ekonomi, APBN Hingga Harga Pertalite",
+        "link": "https://www.cnbcindonesia.com/news/20220809071802-4-362137/live-wamenkeu-bicara-ekonomi-apbn-hingga-harga-pertalite",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTA3MTgwMi00LTM2MjEzNy9saXZlLXdhbWVua2V1LWJpY2FyYS1la29ub21pLWFwYm4taGluZ2dhLWhhcmdhLXBlcnRhbGl0ZQ==",
+        "description": " Simak ulasannya dalam dialog eksklusif bersama Wakil Menteri Keuangan Suahasil Nazara di segmen khusus Economic Update pada program Squawk Box hari ini."
+    },
+    {
+        "title": "China Ungkap Alasan Sebenarnya AS Kirim Pelosi ke Taiwan",
+        "link": "https://www.cnbcindonesia.com/news/20220809064602-4-362128/china-ungkap-alasan-sebenarnya-as-kirim-pelosi-ke-taiwan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTA2NDYwMi00LTM2MjEyOC9jaGluYS11bmdrYXAtYWxhc2FuLXNlYmVuYXJueWEtYXMta2lyaW0tcGVsb3NpLWtlLXRhaXdhbg==",
+        "description": " China menyakini bahwa kunjungan Ketua Dewan Perwakilan Rakyat Amerika Serikat (DPR AS) Nancy Pelosi ke Taiwan merupakan bagian dari taktik Washington."
+    },
+    {
         "title": "Bocoran Terbaru Waktu Pencairan 'Duit' Pensiunan PNS Rp1 M",
         "link": "https://www.cnbcindonesia.com/news/20220809065604-4-362131/bocoran-terbaru-waktu-pencairan-duit-pensiunan-pns-rp1-m",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTA2MzQxNC00LTM2MjEyNC9iZXJrZWxpdC1kYXJpLXNhbmtzaS1iYXJhdC1wdXRpbi10ZWtlbi1kZWtyaXQtYmFydQ==",
         "description": " Presiden Rusia Vladimir Putin menandatangani dekrit terbaru terkait keuangan untuk mengatasi atau sekadar meredam sanksi Barat atas negaranya."
-    },
-    {
-        "title": "Sempat Heboh, Begini Kata Pengusaha Soal Cuti Lahir 6 Bulan",
-        "link": "https://www.cnbcindonesia.com/news/20220808234430-4-362109/sempat-heboh-begini-kata-pengusaha-soal-cuti-lahir-6-bulan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwODIzNDQzMC00LTM2MjEwOS9zZW1wYXQtaGVib2gtYmVnaW5pLWthdGEtcGVuZ3VzYWhhLXNvYWwtY3V0aS1sYWhpci02LWJ1bGFu",
-        "description": " Cuti\u00c2\u00a0Melahirkan Bakal 6 Bulan, Pengusaha Ngaku Belum Diajak Ngobrol"
-    },
-    {
-        "title": "Bukan Lembur, PNS-Pekerja Swasta DKI Bakal Pulang Lebih Malam",
-        "link": "https://www.cnbcindonesia.com/news/20220809000553-4-362111/bukan-lembur-pns-pekerja-swasta-dki-bakal-pulang-lebih-malam",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTAwMDU1My00LTM2MjExMS9idWthbi1sZW1idXItcG5zLXBla2VyamEtc3dhc3RhLWRraS1iYWthbC1wdWxhbmctbGViaWgtbWFsYW0=",
-        "description": " Pihak Kepolisian, Polda Metro Jaya mengusulkan perubahan jam kerja menjadi lebih siang. Yang diharapkan bisa mengurai kemacetan di jalanan Jakarta."
-    },
-    {
-        "title": "Rusia dan Ukraina Saling Tuding sebagai Pemicu 'Teror Nuklir'",
-        "link": "https://www.cnbcindonesia.com/news/20220809062002-4-362120/rusia-dan-ukraina-saling-tuding-sebagai-pemicu-teror-nuklir",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTA2MjAwMi00LTM2MjEyMC9ydXNpYS1kYW4tdWtyYWluYS1zYWxpbmctdHVkaW5nLXNlYmFnYWktcGVtaWN1LXRlcm9yLW51a2xpcg==",
-        "description": " Kyiv dan Moskow saling menyalahkan atas serangan penembakan di kompleks pembangkit listrik tenaga nuklir (PLTN) Zaporizhzhia Ukraina."
-    },
-    {
-        "title": "Catat! Mobil Genap Hari Ini Dilarang Melintas Lewat Sini",
-        "link": "https://www.cnbcindonesia.com/news/20220808234048-4-362108/catat-mobil-genap-hari-ini-dilarang-melintas-lewat-sini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwODIzNDA0OC00LTM2MjEwOC9jYXRhdC1tb2JpbC1nZW5hcC1oYXJpLWluaS1kaWxhcmFuZy1tZWxpbnRhcy1sZXdhdC1zaW5p",
-        "description": " Untuk mengurai kemacetan, Polda Metro Jaya memberlakukan sistem ganjil-genap di sejumlah titik."
-    },
-    {
-        "title": "Ini Dia Senjata yang Jadi 'Mimpi Buruk' Putin di Ukraina",
-        "link": "https://www.cnbcindonesia.com/news/20220809060323-4-362117/ini-dia-senjata-yang-jadi-mimpi-buruk-putin-di-ukraina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTA2MDMyMy00LTM2MjExNy9pbmktZGlhLXNlbmphdGEteWFuZy1qYWRpLW1pbXBpLWJ1cnVrLXB1dGluLWRpLXVrcmFpbmE=",
-        "description": " Amerika Serikat dinilai harus mengirim Ukraina lebih banyak Sistem Roket Artileri Mobilitas Tinggi (HIMARS) untuk membantunya memerangi Rusia."
-    },
-    {
-        "title": "Ini Bukti Terbaru Pasukan Putin Mulai Terdesak di Ukraina",
-        "link": "https://www.cnbcindonesia.com/news/20220809054801-4-362116/ini-bukti-terbaru-pasukan-putin-mulai-terdesak-di-ukraina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTA1NDgwMS00LTM2MjExNi9pbmktYnVrdGktdGVyYmFydS1wYXN1a2FuLXB1dGluLW11bGFpLXRlcmRlc2FrLWRpLXVrcmFpbmE=",
-        "description": " Pasukan Presiden Rusia Vladimir Putin sulit kian sulit untuk mencapai tujuannya di Ukraina."
     }
 ]
