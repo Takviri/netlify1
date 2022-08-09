@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pembicaraan Perjanjian Nuklir Iran Tekuk Harga Minyak",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220809073802-85-832014/pembicaraan-perjanjian-nuklir-iran-tekuk-harga-minyak",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MDczODAyLTg1LTgzMjAxNC9wZW1iaWNhcmFhbi1wZXJqYW5qaWFuLW51a2xpci1pcmFuLXRla3VrLWhhcmdhLW1pbnlhaw==",
+        "description": " Harga minyak dunia melemah pada perdagangan Selasa (9/8) pagi akibat tertekan perkembangan pembicaraan perjanjian nuklir Iran. Berikut alasannya."
+    },
+    {
+        "title": "Daftar Kenaikan Tarif Ojol Terbaru",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220808153346-92-831789/daftar-kenaikan-tarif-ojol-terbaru",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA4MTUzMzQ2LTkyLTgzMTc4OS9kYWZ0YXIta2VuYWlrYW4tdGFyaWYtb2pvbC10ZXJiYXJ1",
+        "description": " Kementerian Perhubungan menaikkan tarif ojol di tiga zonasi. Berikut daftar kenaikannya."
+    },
+    {
         "title": "Luhut Klaim Utang Rp7.000 T RI Terkecil di Dunia",
         "link": "https://www.cnnindonesia.com/ekonomi/20220809073858-532-832015/luhut-klaim-utang-rp7000-t-ri-terkecil-di-dunia",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MDU0NDMzLTkyLTgzMTk4NC9tb2RhbC1hc2luZy1kYW4tcmlsaXMta2luZXJqYS1lbWl0ZW4tamFkaS1vYmF0LWt1YXQtaWhzZy1oYXJpLWluaQ==",
         "description": " IHSG diproyeksikan menguat pada Selasa (9/8) akibat tertopang rilis data kinerja emiten pada semester I 2022 dan aliran modal asing."
-    },
-    {
-        "title": "Bunga Hipotek AS Turun ke Bawah 5 Persen",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220808141927-78-831762/bunga-hipotek-as-turun-ke-bawah-5-persen",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA4MTQxOTI3LTc4LTgzMTc2Mi9idW5nYS1oaXBvdGVrLWFzLXR1cnVuLWtlLWJhd2FoLTUtcGVyc2Vu",
-        "description": " Bunga hipotek Amerika Serikat (AS) turun ke bawah 5 persen untuk pertama kalinya sejak pertengahan April."
-    },
-    {
-        "title": "Pertamina Klaim Produksi Migas Naik usai Setahun Ambil Alih Blok Rokan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220809043245-85-831981/pertamina-klaim-produksi-migas-naik-usai-setahun-ambil-alih-blok-rokan",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MDQzMjQ1LTg1LTgzMTk4MS9wZXJ0YW1pbmEta2xhaW0tcHJvZHVrc2ktbWlnYXMtbmFpay11c2FpLXNldGFodW4tYW1iaWwtYWxpaC1ibG9rLXJva2Fu",
-        "description": " Setahuns etelah alih kelola Blok Rokan, Pertamina mengklaim berhasil meningkatkan produksi migas sebesar 965 ribu per barel per hari."
     }
 ]
