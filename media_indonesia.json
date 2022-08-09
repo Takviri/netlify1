@@ -1,6 +1,20 @@
 [
     {
         "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/513554/serena-wiliams-mengaku-berencana-pensiun-selepas-as-terbuka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTM1NTQvc2VyZW5hLXdpbGlhbXMtbWVuZ2FrdS1iZXJlbmNhbmEtcGVuc2l1bi1zZWxlcGFzLWFzLXRlcmJ1a2E=",
+        "description": "SERENA Williams, Selasa (9/8), mengumumkan rencana pensiun dari tenis setelah penampilannya di Amerika Serikat (AS) Terbuka&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/513552/dapat-undangan-dari-bwf-chico-akan-tampil-di-kejuaraan-dunia-bulu-tangkis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTM1NTIvZGFwYXQtdW5kYW5nYW4tZGFyaS1id2YtY2hpY28tYWthbi10YW1waWwtZGkta2VqdWFyYWFuLWR1bmlhLWJ1bHUtdGFuZ2tpcw==",
+        "description": "PEBULU tangkis tunggal putra Chico Aura Dwi Wardoyo masuk formasi anyar timnas Indonesia untuk Kejuaraan Dunia Bulu&#8230;"
+    },
+    {
+        "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/513551/zachabela-gantikan-adnanmychelle-di-kejuaraan-dunia-bulu-tangkis-2022",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTM1NTEvemFjaGFiZWxhLWdhbnRpa2FuLWFkbmFubXljaGVsbGUtZGkta2VqdWFyYWFuLWR1bmlhLWJ1bHUtdGFuZ2tpcy0yMDIy",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzU0Ny9ib3VybmVtb3V0aC1kYXRhbmdrYW4tc2VuZXNpLWRhcmktZmV5ZW5vb3Jk",
         "description": "KLUB Liga Primer Inggris Bournemouth resmi mengamankan jasa bek Marcos Senesi dari klub Eredivisie Feyenoord pada bursa transfer&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/513546/respons-petisi-pengabdi-setan-2-akan-dipasang-flash-warning",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMzU0Ni9yZXNwb25zLXBldGlzaS1wZW5nYWJkaS1zZXRhbi0yLWFrYW4tZGlwYXNhbmctZmxhc2gtd2FybmluZw==",
-        "description": "SEJAK awal pekan ini, muncul petisi online di Change.org berisi permintaan agar pembuat film dan pengelola bioskop memasang flash warning pada Pengabdi Setan 2: Communion di seluruh bioskop Indonesia.&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/513545/lini-belakang-keropos-west-ham-kejar-bek-psg",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzU0NS9saW5pLWJlbGFrYW5nLWtlcm9wb3Mtd2VzdC1oYW0ta2VqYXItYmVrLXBzZw==",
-        "description": "WEST Ham dikabarkan telah mengajukan tawaran memboyong bek tengah Thilo Kehrer dari Paris Saint-Germain pada bursa transfer pemain musim panas ini. Menurut Sky Sports, West Ham tengah menantikan&#8230;"
     }
 ]
