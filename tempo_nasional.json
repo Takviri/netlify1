@@ -1,5 +1,12 @@
 [
     {
+        "title": "Apa Itu Red Notice?",
+        "link": "https://nasional.tempo.co/read/1620735/apa-itu-red-notice",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjA3MzUvYXBhLWl0dS1yZWQtbm90aWNl",
+        "description": "Red Notice dikeluarkan untuk buronan yang dicari, baik untuk penuntutan atau menjalani hukuman."
+    },
+    {
         "title": "Top Nasional: Kunci Kasus Brigadir J di CCTV dan 2 Bukti Sebelum Tetapkan Ajudan Istri Sambo Tersangka",
         "link": "https://nasional.tempo.co/read/1620730/top-nasional-kunci-kasus-brigadir-j-di-cctv-dan-2-bukti-sebelum-tetapkan-ajudan-istri-sambo-tersangka",
         "image": "static/images/tempo_nasional.png",
@@ -61,12 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjA2NjUvbHBzay1ha2FuLWJlcnRlbXUtYmhhcmFkYS1lLXBhc3Rpa2FuLXNvYWwtanVzdGljZS1jb2xsYWJvcmF0b3ItZGkta2FzdXMtYnJpZ2FkaXItag==",
         "description": "Apabila Bharada E bersedia menjadi justice collaborator, maka ia harus memberikan keterangan sebenar-benarnya dalam kasus Brigadir J ini."
-    },
-    {
-        "title": "Sampaikan Fakta ke Publik, Pengacara Bharada E: Ngapain Ditutup-tutupi",
-        "link": "https://nasional.tempo.co/read/1620683/sampaikan-fakta-ke-publik-pengacara-bharada-e-ngapain-ditutup-tutupi",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjA2ODMvc2FtcGFpa2FuLWZha3RhLWtlLXB1Ymxpay1wZW5nYWNhcmEtYmhhcmFkYS1lLW5nYXBhaW4tZGl0dXR1cC10dXR1cGk=",
-        "description": "Menurut pengacara Bharada E, Muhammad Burhanudin sebetulnya polisi bisa saja mengumumkan berbagai fakta sebenarnya dari kasus Brigadir J."
     }
 ]
