@@ -1,5 +1,47 @@
 [
     {
+        "title": "Menteri Pertanian: Hati-hati, Besok Harga Mi Instan Naik 3 Kali Lipat",
+        "link": "https://bisnis.tempo.co/read/1620946/menteri-pertanian-hati-hati-besok-harga-mi-instan-naik-3-kali-lipat",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIwOTQ2L21lbnRlcmktcGVydGFuaWFuLWhhdGktaGF0aS1iZXNvay1oYXJnYS1taS1pbnN0YW4tbmFpay0zLWthbGktbGlwYXQ=",
+        "description": "Menteri Pertanian Syahrul Yasin Limpo mengingatkan adanya kemungkinan harga mi instan di pasaran naik dalam waktu dekat akibat perang Rusia-Ukraina."
+    },
+    {
+        "title": "Erick Thohir: Pelabuhan Terminal Kijing Harus Dimanfaatkan Secara Optimal",
+        "link": "https://bisnis.tempo.co/read/1620931/erick-thohir-pelabuhan-terminal-kijing-harus-dimanfaatkan-secara-optimal",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIwOTMxL2VyaWNrLXRob2hpci1wZWxhYnVoYW4tdGVybWluYWwta2lqaW5nLWhhcnVzLWRpbWFuZmFhdGthbi1zZWNhcmEtb3B0aW1hbA==",
+        "description": "Erick Thohir ikut menyaksikan peresmian pelabuhan Terminal Kijing oleh Presiden Jokowi di Kabupaten Mempawah, Pontianak, Kalimantan Barat."
+    },
+    {
+        "title": "Menteri ESDM Sebut Harga Batu Bara Tinggi Bisa Bikin RI Defisit Stok",
+        "link": "https://bisnis.tempo.co/read/1620924/menteri-esdm-sebut-harga-batu-bara-tinggi-bisa-bikin-ri-defisit-stok",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIwOTI0L21lbnRlcmktZXNkbS1zZWJ1dC1oYXJnYS1iYXR1LWJhcmEtdGluZ2dpLWJpc2EtYmlraW4tcmktZGVmaXNpdC1zdG9r",
+        "description": "Harga batu bara acuan pada Agustus 2022 ditetapkan US$ 321,59 per ton atau naik US$ 2,59 dolar dibandingkan dengan Juli 2022."
+    },
+    {
+        "title": "Pembentukan BLU Batu Bara Terhambat Perdebatan soal Payung Hukum",
+        "link": "https://bisnis.tempo.co/read/1620910/pembentukan-blu-batu-bara-terhambat-perdebatan-soal-payung-hukum",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIwOTEwL3BlbWJlbnR1a2FuLWJsdS1iYXR1LWJhcmEtdGVyaGFtYmF0LXBlcmRlYmF0YW4tc29hbC1wYXl1bmctaHVrdW0=",
+        "description": "Pembentukan BLU Batu Bara masih terhambat oleh penyusunan payung hukumm yakni antara perpres atau PP."
+    },
+    {
+        "title": "BPKN Sebut Dampak Kenaikan Tarif Ojek Online Minim: Hanya Rp 100 per Kilometer",
+        "link": "https://bisnis.tempo.co/read/1620905/bpkn-sebut-dampak-kenaikan-tarif-ojek-online-minim-hanya-rp-100-per-kilometer",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIwOTA1L2Jwa24tc2VidXQtZGFtcGFrLWtlbmFpa2FuLXRhcmlmLW9qZWstb25saW5lLW1pbmltLWhhbnlhLXJwLTEwMC1wZXIta2lsb21ldGVy",
+        "description": "BPKN juga mengatakan tarif ojek online belum mengalami perubahan sedari 2019."
+    },
+    {
+        "title": "Kiprah Shopee Bantu UMKM Berjaya di Pasar Lokal dan Global",
+        "link": "https://bisnis.tempo.co/read/1620900/kiprah-shopee-bantu-umkm-berjaya-di-pasar-lokal-dan-global",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIwOTAwL2tpcHJhaC1zaG9wZWUtYmFudHUtdW1rbS1iZXJqYXlhLWRpLXBhc2FyLWxva2FsLWRhbi1nbG9iYWw=",
+        "description": "Berbagai program diluncurkan Shopee untuk ikut mendorong pelaku UMKM naik kelas."
+    },
+    {
         "title": "Marak Tambang Ilegal, Menteri ESDM: Penegakan Hukum Diperlukan",
         "link": "https://bisnis.tempo.co/read/1620896/marak-tambang-ilegal-menteri-esdm-penegakan-hukum-diperlukan",
         "image": "static/images/tempo_bisnis.png",
@@ -26,47 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIwODc4L2tlbWVuZGFnLXNpdGEtcHJvZHVrLWJhamEtaW1wb3Itc2VuaWxhaS1ycC00MTYtbWlsaWFyLXp1bGhhcy10aWRhay1zZXN1YWktc25p",
         "description": "Kementerian Perdagangan menyita sementara produk baja yang diduga tidak memenuhi persyaratan mutu SNI senilai Rp41,68 miliar."
-    },
-    {
-        "title": "Protes Kebijakan Jaminan Terbang Pilot Garuda, Sekarga Surati Jokowi dan Dua Menteri",
-        "link": "https://bisnis.tempo.co/read/1620868/protes-kebijakan-jaminan-terbang-pilot-garuda-sekarga-surati-jokowi-dan-dua-menteri",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIwODY4L3Byb3Rlcy1rZWJpamFrYW4tamFtaW5hbi10ZXJiYW5nLXBpbG90LWdhcnVkYS1zZWthcmdhLXN1cmF0aS1qb2tvd2ktZGFuLWR1YS1tZW50ZXJp",
-        "description": "Serikat Karyawan Garuda Indonesia (Sekarga) keberatan dengan kebijakan jaminan jam terbang bagi para pilot."
-    },
-    {
-        "title": "Pemerintah Dikritik Usai Tesla Beli Hasil Tambang Nikel RI",
-        "link": "https://bisnis.tempo.co/read/1620864/pemerintah-dikritik-usai-tesla-beli-hasil-tambang-nikel-ri",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIwODY0L3BlbWVyaW50YWgtZGlrcml0aWstdXNhaS10ZXNsYS1iZWxpLWhhc2lsLXRhbWJhbmctbmlrZWwtcmk=",
-        "description": "Koalisi LSM telah menyurati Tesla untuk tidak membeli nikel dari Indonesia."
-    },
-    {
-        "title": "Ekonom Cemaskan Dampak Subsidi BBM Dikurangi pada Tahun Depan",
-        "link": "https://bisnis.tempo.co/read/1620863/ekonom-cemaskan-dampak-subsidi-bbm-dikurangi-pada-tahun-depan",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIwODYzL2Vrb25vbS1jZW1hc2thbi1kYW1wYWstc3Vic2lkaS1iYm0tZGlrdXJhbmdpLXBhZGEtdGFodW4tZGVwYW4=",
-        "description": "David Sumual mengatakan, kekhawatiran terhadap kecenderungan pemerintah mengurangi subsidi energi pada tahun depan menguat."
-    },
-    {
-        "title": "Fitur dan Kemudahan Baru untuk UMKM di Shopee Pilih Lokal",
-        "link": "https://bisnis.tempo.co/read/1620869/fitur-dan-kemudahan-baru-untuk-umkm-di-shopee-pilih-lokal",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIwODY5L2ZpdHVyLWRhbi1rZW11ZGFoYW4tYmFydS11bnR1ay11bWttLWRpLXNob3BlZS1waWxpaC1sb2thbA==",
-        "description": "Shopee Pilih Lokal juga membantu para pengusaha lokal untuk mendapatkan akses pada pelatihan, pendampingan dan juga ekspor agar dapat naik kelas."
-    },
-    {
-        "title": "Bank Jago dan GoTo Kerja Sama Perluas Akses Keuangan untuk UMKM",
-        "link": "https://bisnis.tempo.co/read/1620856/bank-jago-dan-goto-kerja-sama-perluas-akses-keuangan-untuk-umkm",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIwODU2L2JhbmstamFnby1kYW4tZ290by1rZXJqYS1zYW1hLXBlcmx1YXMtYWtzZXMta2V1YW5nYW4tdW50dWstdW1rbQ==",
-        "description": "PT Bank Jago Tbk menjalin kerja sama dengan Grup GoTo untuk memperluas akses keuangan bagi usaha mikro kecil dan menengah (UMKM)."
-    },
-    {
-        "title": "RRI Raih Penghargaan Most Engaging Media dari BMKG",
-        "link": "https://bisnis.tempo.co/read/1620836/rri-raih-penghargaan-most-engaging-media-dari-bmkg",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIwODM2L3JyaS1yYWloLXBlbmdoYXJnYWFuLW1vc3QtZW5nYWdpbmctbWVkaWEtZGFyaS1ibWtn",
-        "description": "TEMPO.CO, Jakarta - Radio Republik Indonesia atau RRI meraih penghargaan dari Badan Meteorologi, Klimatologi dan Geofisika (BMKG) sebagai Most Engaging Media, atau media yang paling banyak melibatkan publik dalam berbagai programnya."
     }
 ]
