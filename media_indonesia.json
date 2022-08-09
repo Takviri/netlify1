@@ -1,5 +1,19 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/513537/mengonter-radikalisme-memperkuat-moderasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTM1MzcvbWVuZ29udGVyLXJhZGlrYWxpc21lLW1lbXBlcmt1YXQtbW9kZXJhc2k=",
+        "description": "PANCASILA merupakan dasar negara, ideologi bangsa, dan sumber dari segala sumber hukum. Pancasila juga menjadi norma fundamental (fundamental norm), sekaligus pandangan hidup bangsa (weltanschauung).&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/513550/rb-leipzig-dapatkan-sesko-dari-salzburg",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzU1MC9yYi1sZWlwemlnLWRhcGF0a2FuLXNlc2tvLWRhcmktc2FsemJ1cmc=",
+        "description": "RB Leipzig berhasil mendapatkan jasa penyerang muda Benjamin Sesko dari Red Bull Salzburg, yang juga menjadi sasaran transfer&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/513549/sering-gonta-ganti-warna-rambut-ini-dampak-yang-dialami-lisa-blackpink",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMzU0MS9wZXJ1YmFoYW4tcmFtYnV0LWxpc2EtYmxhY2twaW5rLXlhbmctZGlraXJhLXdpZy1vbGVoLWJsaW5rcw==",
         "description": "DI video berdurasi 30 detik tersebut, BLACKPINK berterima kasih kepada semua blinks yang telah bersama-sama dengan mereka selama 6 tahun belakang ini. Selain ucapan terima kasih dari BLACKPINK,&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/513540/diprotes-fans-karena-kejar-arnautovic-mu-beralih-ke-morata",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzU0MC9kaXByb3Rlcy1mYW5zLWthcmVuYS1rZWphci1hcm5hdXRvdmljLW11LWJlcmFsaWgta2UtbW9yYXRh",
-        "description": "MANCHESTER United dikabarkan telah menarik diri dari perburuan striker Bologna Marko Arnautovic pada bursa transfer pemain musim panas ini. Sebelumnya Manchester United telah memberikan tawaran&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/513538/varian-omikron-muncul-lagi-di-xinjiang-dan-tibet-saat-puncak-liburan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMzUzOC92YXJpYW4tb21pa3Jvbi1tdW5jdWwtbGFnaS1kaS14aW5qaWFuZy1kYW4tdGliZXQtc2FhdC1wdW5jYWstbGlidXJhbg==",
-        "description": "KASUS covid-19 varian Omikron muncul kembali di Daerah Otonomi Xinjiang dan Daerah Otonomi Xizang atau Tibet, wilayah barat daya Tiongkok, yang kali ini terjadi pada puncak liburan musim panas.&#8230;"
     }
 ]
