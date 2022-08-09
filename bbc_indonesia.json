@@ -7,6 +7,13 @@
         "description": "Ini adalah pengingat bahwa jauh dari gemerlapnya Gangnam, di mana kerusakan besar terjadi akibat banjir, ratusan warga Korea hidup di apartemen-apartemen rubanah yang tak aman."
     },
     {
+        "title": "Apakah makhluk Bigfoot benar-benar ada?",
+        "link": "https://www.bbc.com/indonesia/articles/c0d14p122ydo",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvYXJ0aWNsZXMvYzBkMTRwMTIyeWRv",
+        "description": "Kisah tentang primata berbulu berkaki dua yang tinggal di hutan telah bertahan selama berabad-abad di British Columbia, Kanada. Tapi pertanyaan mungkin yang lebih penting daripada apakah makhluk itu benar-benar ada, adalah apa yang dilambangkan oleh makhluk itu."
+    },
+    {
         "title": "'Curah hujan makin ekstrem' dan banjir makin intens di Indonesia tapi penanganan 'biasa-biasa saja'",
         "link": "https://www.bbc.co.uk/indonesia/articles/cgrymv8lj8lo",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jNzJ6dm5keDR5em8=",
         "description": "Bukan cuma menggunakan amunisi dan peralatan tempur, musik juga dipakai dalam konflik China-Taiwan."
-    },
-    {
-        "title": "Bumi mencatat hari terpendek dalam sejarah karena rotasi lebih cepat, mengapa fenomena ini bisa terjadi?",
-        "link": "https://www.bbc.com/indonesia/majalah-62434963",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MjQzNDk2Mw==",
-        "description": "Pada tanggal 29 Juni tercatat sebagai hari lebih pendek 1,59 milidetik dari 24 jam karena Bumi berputar lebih cepat. Apa saja faktor yang membuat fenomena ini bisa terjadi?"
     }
 ]
