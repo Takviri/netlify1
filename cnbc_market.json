@@ -1,5 +1,40 @@
 [
     {
+        "title": "Elon Musk Mau Borong Rp 75 T, Saham Nikel Terbang",
+        "link": "https://www.cnbcindonesia.com/market/20220809113539-17-362240/elon-musk-mau-borong-rp-75-t-saham-nikel-terbang",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTEzNTM5LTE3LTM2MjI0MC9lbG9uLW11c2stbWF1LWJvcm9uZy1ycC03NS10LXNhaGFtLW5pa2VsLXRlcmJhbmc=",
+        "description": " Saham PT Aneka Tambang Tbk (ANTM), PT Vale Indonesia Tbk (INCO) dan PT Timah Tbk (TINS) kompak melesat lebih dari 3%."
+    },
+    {
+        "title": "Aturan Baru Fuel Surcharge, Maskapai Naikkan Harga Tiket?",
+        "link": "https://www.cnbcindonesia.com/market/20220809112449-19-362222/aturan-baru-fuel-surcharge-maskapai-naikkan-harga-tiket",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTEyNDQ5LTE5LTM2MjIyMi9hdHVyYW4tYmFydS1mdWVsLXN1cmNoYXJnZS1tYXNrYXBhaS1uYWlra2FuLWhhcmdhLXRpa2V0",
+        "description": " Aturan Baru Fuel Surcharge, Maskapai Naikkan Harga Tiket Pesawat?"
+    },
+    {
+        "title": "IHSG Sesi I Berakhir Menguat! Berhasil Tembus Level 7.100",
+        "link": "https://www.cnbcindonesia.com/market/20220809113335-17-362239/ihsg-sesi-i-berakhir-menguat-berhasil-tembus-level-7100",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTEzMzM1LTE3LTM2MjIzOS9paHNnLXNlc2ktaS1iZXJha2hpci1tZW5ndWF0LWJlcmhhc2lsLXRlbWJ1cy1sZXZlbC03MTAw",
+        "description": " Indeks Harga Saham Gabungan (IHSG) berakhir menguat 0,68% ke 7.134,82 pada penutupan perdagangan sesi I Selasa (9/8/2022)."
+    },
+    {
+        "title": "Pasar Fokus Data Inflasi AS, Dolar AS Lesu, Rupiah Ngegas!",
+        "link": "https://www.cnbcindonesia.com/market/20220809104345-17-362205/pasar-fokus-data-inflasi-as-dolar-as-lesu-rupiah-ngegas",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTA0MzQ1LTE3LTM2MjIwNS9wYXNhci1mb2t1cy1kYXRhLWluZmxhc2ktYXMtZG9sYXItYXMtbGVzdS1ydXBpYWgtbmdlZ2Fz",
+        "description": " Kurs rupiah berhasil mempertahankan penguatannya di hadapan dolar AS hingga di pertengahan perdagangan\u00c2\u00a0hari ini."
+    },
+    {
+        "title": "Pesta 'Durian Runtuh' Selesai 2023, Tandanya Sudah Kelihatan",
+        "link": "https://www.cnbcindonesia.com/market/20220809103309-17-362202/pesta-durian-runtuh-selesai-2023-tandanya-sudah-kelihatan",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTAzMzA5LTE3LTM2MjIwMi9wZXN0YS1kdXJpYW4tcnVudHVoLXNlbGVzYWktMjAyMy10YW5kYW55YS1zdWRhaC1rZWxpaGF0YW4=",
+        "description": " Indonesia diperkirakan tidak akan lagi menikmati idurian runtuh' tahun depan."
+    },
+    {
         "title": "Wow! Luhut Sebut Kontrak Kerja Sama Tesla Capai Rp 75 T",
         "link": "https://www.cnbcindonesia.com/market/20220809111342-17-362217/wow-luhut-sebut-kontrak-kerja-sama-tesla-capai-rp-75-t",
         "image": "static/images/cnbc_market.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MDgzMjA5LTE3LTM2MjE1My9zYWJhci15YS1ib3Mtc2F3aXQtaGFyZ2EtY3BvLXR1cnVuLWxhZ2ktc2V0ZWxhaC1yZWxpLTU=",
         "description": " Harga minyak sawit mentah turun di sesi awal perdagangan pada hari ini, padahal harga CPO reli 5% pada awal pekan ini. Apa penyebabnya?"
-    },
-    {
-        "title": "Inflasi AS Diramal Susut",
-        "link": "https://www.cnbcindonesia.com/market/20220809092817-19-362180/inflasi-as-diramal-susut",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MDkyODE3LTE5LTM2MjE4MC9pbmZsYXNpLWFzLWRpcmFtYWwtc3VzdXQ=",
-        "description": " Inflasi Amerika Serikat diprediksi turun di bulan Juli 2022 ini seiring penurunan tajam pada harga gas"
-    },
-    {
-        "title": "Siapakah Pemilik Zara? Orang Terkaya yang Hartanya Unlimited",
-        "link": "https://www.cnbcindonesia.com/market/20220809094133-17-362189/siapakah-pemilik-zara-orang-terkaya-yang-hartanya-unlimited",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MDk0MTMzLTE3LTM2MjE4OS9zaWFwYWthaC1wZW1pbGlrLXphcmEtb3JhbmctdGVya2F5YS15YW5nLWhhcnRhbnlhLXVubGltaXRlZA==",
-        "description": " Grup yang sejak April dipimpin oleh Marta Ortega, putri pendiri multi-miliarder Amancio Ortega, melaporkan penjualan 6,74 miliar euro"
-    },
-    {
-        "title": "Walau Pasar Sedang Galau, Rupiah Tetap Hijau",
-        "link": "https://www.cnbcindonesia.com/market/20220809070041-17-362133/walau-pasar-sedang-galau-rupiah-tetap-hijau",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MDcwMDQxLTE3LTM2MjEzMy93YWxhdS1wYXNhci1zZWRhbmctZ2FsYXUtcnVwaWFoLXRldGFwLWhpamF1",
-        "description": " Pelaku pasar sedang menanti kejelasan arah kebijakan bank sentral AS (The Federal Reserve/The Fed) sehingga memilih bermain aman."
-    },
-    {
-        "title": "Debut di BEI, TOOL dan BUAH Kompak Terbang, KLIN Ambles 10%",
-        "link": "https://www.cnbcindonesia.com/market/20220809090143-17-362168/debut-di-bei-tool-dan-buah-kompak-terbang-klin-ambles-10",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MDkwMTQzLTE3LTM2MjE2OC9kZWJ1dC1kaS1iZWktdG9vbC1kYW4tYnVhaC1rb21wYWstdGVyYmFuZy1rbGluLWFtYmxlcy0xMA==",
-        "description": " PT Rohartindo Nusantara Luas Tbk (TOOL), PT Klinko Karya Imaji Tbk (KLIN), dan PT Segar Kumala Indonesia Tbk (BUAH) resmi mencatatkan sahamnya pada hari ini"
-    },
-    {
-        "title": "Analis: Reli 7 Hari Beruntun, IHSG Rawan Koreksi",
-        "link": "https://www.cnbcindonesia.com/market/20220809091333-19-362175/analis-reli-7-hari-beruntun-ihsg-rawan-koreksi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MDkxMzMzLTE5LTM2MjE3NS9hbmFsaXMtcmVsaS03LWhhcmktYmVydW50dW4taWhzZy1yYXdhbi1rb3Jla3Np",
-        "description": " Analis: Mulai Masuk Area Overbough, IHSG Rawan Terkoreksi"
     }
 ]
