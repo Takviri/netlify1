@@ -1,5 +1,40 @@
 [
     {
+        "title": "Tips dan Trik Memulai Bisnis Waralaba",
+        "link": "https://www.cnbcindonesia.com/news/20220809094049-8-362187/tips-trik-memulai-bisnis-waralaba",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTA5NDA0OS04LTM2MjE4Ny90aXBzLXRyaWstbWVtdWxhaS1iaXNuaXMtd2FyYWxhYmE=",
+        "description": " Prospek bisnis waralaba semakin menarik terlebih di masa momentum pemulihan ekonomi nasional."
+    },
+    {
+        "title": "Brompton Seken Dilego Diskon Jutaan, Cek Harganya di Sini",
+        "link": "https://www.cnbcindonesia.com/news/20220809102706-4-362204/brompton-seken-dilego-diskon-jutaan-cek-harganya-di-sini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTEwMjcwNi00LTM2MjIwNC9icm9tcHRvbi1zZWtlbi1kaWxlZ28tZGlza29uLWp1dGFhbi1jZWstaGFyZ2FueWEtZGktc2luaQ==",
+        "description": " Harga sepeda mewah baru bekas seperti Brompton sudah mengalami penurunan semenjak tren bersepeda redup."
+    },
+    {
+        "title": "Capaian Blok Rokan Pascaalih Kelola, Produksi 161 Ribu BOPD",
+        "link": "https://www.cnbcindonesia.com/news/20220809102758-8-362199/capaian-blok-rokan-pascaalih-kelola-produksi-161-ribu-bopd",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTEwMjc1OC04LTM2MjE5OS9jYXBhaWFuLWJsb2stcm9rYW4tcGFzY2FhbGloLWtlbG9sYS1wcm9kdWtzaS0xNjEtcmlidS1ib3Bk",
+        "description": " Capaian Blok Rokan Pascaalih Kelola, Produksi Tembus 161 Ribu BOPD"
+    },
+    {
+        "title": "Sah! Daerah Kuasai 100% Blok Migas CPP",
+        "link": "https://www.cnbcindonesia.com/news/20220809102916-4-362201/sah-daerah-kuasai-100-blok-migas-cpp",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTEwMjkxNi00LTM2MjIwMS9zYWgtZGFlcmFoLWt1YXNhaS0xMDAtYmxvay1taWdhcy1jcHA=",
+        "description": " PT Bumi Siak Pusako (BSP) saat ini resmi mengelola 100% Wilayah Kerja (WK) Coastal Plain Pekanbaru (CPP)"
+    },
+    {
+        "title": "Ekonomi RI Masih Bisa Ngegas di Sisa Tahun? Ini Ramalannya!",
+        "link": "https://www.cnbcindonesia.com/news/20220809104308-4-362206/ekonomi-ri-masih-bisa-ngegas-di-sisa-tahun-ini-ramalannya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTEwNDMwOC00LTM2MjIwNi9la29ub21pLXJpLW1hc2loLWJpc2EtbmdlZ2FzLWRpLXNpc2EtdGFodW4taW5pLXJhbWFsYW5ueWE=",
+        "description": " Ekonomi Indonesia berhasil tumbuh di atas 5% pada semester I-2022"
+    },
+    {
         "title": "Tekan Inflasi, APBN Siap Bayar Subsidi ke PLN dan Pertamina",
         "link": "https://www.cnbcindonesia.com/news/20220809095512-8-362191/tekan-inflasi-apbn-siap-bayar-subsidi-ke-pln-pertamina",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTEwMTIyNy00LTM2MjE5Ny9qb2tvd2ktcmVzbWlrYW4tcGVsYWJ1aGFuLW1pc3Rlcml1cy1iZXJuaWxhaS1ycC0yOS10cmlsaXVu",
         "description": " Hingga saat ini, pelabuhan tersebut belum memiliki nama resmi"
-    },
-    {
-        "title": "Terbesar, Biden Tambah Paket Bantuan Ukraina USD 1 Miliar",
-        "link": "https://www.cnbcindonesia.com/news/20220809092622-8-362179/terbesar-biden-tambah-paket-bantuan-ukraina-usd-1-miliar",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTA5MjYyMi04LTM2MjE3OS90ZXJiZXNhci1iaWRlbi10YW1iYWgtcGFrZXQtYmFudHVhbi11a3JhaW5hLXVzZC0xLW1pbGlhcg==",
-        "description": " Joe Biden mengumumkan memberikan tambahan paket bantuan keamanan untuk Ukraina dengan nilai sebesar 1 Miliar USD"
-    },
-    {
-        "title": "Daftar Kecelakaan yang Tidak Ditanggung BPJS Kesehatan, Simak",
-        "link": "https://www.cnbcindonesia.com/news/20220809094108-4-362188/daftar-kecelakaan-yang-tidak-ditanggung-bpjs-kesehatan-simak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTA5NDEwOC00LTM2MjE4OC9kYWZ0YXIta2VjZWxha2Fhbi15YW5nLXRpZGFrLWRpdGFuZ2d1bmctYnBqcy1rZXNlaGF0YW4tc2ltYWs=",
-        "description": " Ada beberapa kejadian kecelakaan yang biaya pengobatannya tidak ditanggung oleh BPJS Kesehatan"
-    },
-    {
-        "title": "Tak Lagi Jor-joran! Pemerintah Jokowi Bakal 'Ngerem' Utang",
-        "link": "https://www.cnbcindonesia.com/news/20220809093204-4-362184/tak-lagi-jor-joran-pemerintah-jokowi-bakal-ngerem-utang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTA5MzIwNC00LTM2MjE4NC90YWstbGFnaS1qb3Itam9yYW4tcGVtZXJpbnRhaC1qb2tvd2ktYmFrYWwtbmdlcmVtLXV0YW5n",
-        "description": " Kementerian Keuangan memastikan Anggaran Pendapatan dan Belanja Negara (APBN) akan kembali sehat."
-    },
-    {
-        "title": "Belum Daftar MyPertamina? Siap-siap Ditolak Isi Pertalite",
-        "link": "https://www.cnbcindonesia.com/news/20220809091828-4-362178/belum-daftar-mypertamina-siap-siap-ditolak-isi-pertalite",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTA5MTgyOC00LTM2MjE3OC9iZWx1bS1kYWZ0YXItbXlwZXJ0YW1pbmEtc2lhcC1zaWFwLWRpdG9sYWstaXNpLXBlcnRhbGl0ZQ==",
-        "description": " Aturan mengenai pembatasan pembelian Pertalite diharapkan terbit pada pekan ini"
-    },
-    {
-        "title": "Memanas, Taiwan Was-Was Diinvasi China",
-        "link": "https://www.cnbcindonesia.com/news/20220809093047-8-362182/memanas-taiwan-was-was-diinvasi-china",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTA5MzA0Ny04LTM2MjE4Mi9tZW1hbmFzLXRhaXdhbi13YXMtd2FzLWRpaW52YXNpLWNoaW5h",
-        "description": " Taiwan mengaku khawatir China bakal melancarkan perang setelah terus memprovokasi sejak menggelar latihan besar-besaran di sekeliling wilayahnya"
     }
 ]
