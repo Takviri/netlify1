@@ -1,5 +1,33 @@
 [
     {
+        "title": "Menteri ESDM Buka Suara Polemik Suplai Batu Bara ke PLN",
+        "link": "https://www.cnbcindonesia.com/news/20220809120139-4-362249/menteri-esdm-buka-suara-polemik-suplai-batu-bara-ke-pln",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTEyMDEzOS00LTM2MjI0OS9tZW50ZXJpLWVzZG0tYnVrYS1zdWFyYS1wb2xlbWlrLXN1cGxhaS1iYXR1LWJhcmEta2UtcGxu",
+        "description": " Menteri ESDM sudah menerbitkan 123 surat penugasan kepada IUP, IUPK dan PKP2B untuk wajib mensuplai batu bara ke PLN"
+    },
+    {
+        "title": "Q2-2022, Ekonomi Filipina Melesat 7,4% (yoy)",
+        "link": "https://www.cnbcindonesia.com/news/20220809120816-8-362254/q2-2022-ekonomi-filipina-melesat-74--yoy-",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTEyMDgxNi04LTM2MjI1NC9xMi0yMDIyLWVrb25vbWktZmlsaXBpbmEtbWVsZXNhdC03NC0teW95LQ==",
+        "description": " Ekonomi Filipina melesat 7,4% secara tahunan di Q2-2022."
+    },
+    {
+        "title": "Optimisme Blok Rokan, Produksi Bisa 170 Ribu BOPD Akhir 2022",
+        "link": "https://www.cnbcindonesia.com/news/20220809110559-8-362211/optimisme-blok-rokan-produksi-bisa-170-ribu-bopd-akhir-2022",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTExMDU1OS04LTM2MjIxMS9vcHRpbWlzbWUtYmxvay1yb2thbi1wcm9kdWtzaS1iaXNhLTE3MC1yaWJ1LWJvcGQtYWtoaXItMjAyMg==",
+        "description": " Optimisme Blok Rokan, Produksi Bisa 170 Ribu BOPD di Akhir 2022"
+    },
+    {
+        "title": "Bahaya! RI Terancam 'Lumpuh' Kalau China-Taiwan Perang",
+        "link": "https://www.cnbcindonesia.com/news/20220809120501-4-362253/bahaya-ri-terancam-lumpuh-kalau-china-taiwan-perang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTEyMDUwMS00LTM2MjI1My9iYWhheWEtcmktdGVyYW5jYW0tbHVtcHVoLWthbGF1LWNoaW5hLXRhaXdhbi1wZXJhbmc=",
+        "description": " Ketegangan antara China dengan Taiwan bisa berdampak luas terhadap banyak negara, termasuk Indonesia."
+    },
+    {
         "title": "4 Negara Ini Bikin Rusia 'Pede' Serang Ukraina",
         "link": "https://www.cnbcindonesia.com/news/20220809113336-4-362237/4-negara-ini-bikin-rusia-pede-serang-ukraina",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTEyMTExOC00LTM2MjI1Ny9tZW1iYXlhbmdrYW4tbmFzaWItaW5kb25lc2lhLXNhYXQtY2hpbmEtdGFpd2FuLWJlbmVyYW4tcGVyYW5n",
         "description": " Panasnya hubungan China dan Taiwan menambah daftar ketidakpastian global."
-    },
-    {
-        "title": "Dunia 'CLBK' Dengan Energi Fosil",
-        "link": "https://www.cnbcindonesia.com/news/20220809093227-8-362183/dunia-clbk-dengan-energi-fosil",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTA5MzIyNy04LTM2MjE4My9kdW5pYS1jbGJrLWRlbmdhbi1lbmVyZ2ktZm9zaWw=",
-        "description": " Melesatnya harga energi global akibat konflik geopolitik Rusia dan Ukraina membuat banyak negara menghadapi krisis energi"
-    },
-    {
-        "title": "Mengintip Jumlah PNS DKI yang Bakal Pulang Kerja Lebih Malam",
-        "link": "https://www.cnbcindonesia.com/news/20220809112207-4-362221/mengintip-jumlah-pns-dki-yang-bakal-pulang-kerja-lebih-malam",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTExMjIwNy00LTM2MjIyMS9tZW5naW50aXAtanVtbGFoLXBucy1ka2kteWFuZy1iYWthbC1wdWxhbmcta2VyamEtbGViaWgtbWFsYW0=",
-        "description": " Berikut jumlah PNS DKI yang akan pekerja lebih siang dan pulang lebih malam"
-    },
-    {
-        "title": "Tenang...Surcharge Naik, Harga Tiket Pesawat Belum 'Meledak'",
-        "link": "https://www.cnbcindonesia.com/news/20220809112045-4-362220/tenangsurcharge-naik-harga-tiket-pesawat-belum-meledak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTExMjA0NS00LTM2MjIyMC90ZW5hbmdzdXJjaGFyZ2UtbmFpay1oYXJnYS10aWtldC1wZXNhd2F0LWJlbHVtLW1lbGVkYWs=",
-        "description": " Kementerian Perhubungan (Kemenhub) mengizinkan maskapai mengenakan biaya tambahan (surcharge) paling tinggi 15% dari batas atas untuk pesawat jet."
-    },
-    {
-        "title": "Boncos! Negara Tanggung Rp10 Ribu-an Dari 1 Liter Pertalite",
-        "link": "https://www.cnbcindonesia.com/news/20220809111038-4-362215/boncos-negara-tanggung-rp10-ribu-an-dari-1-liter-pertalite",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTExMTAzOC00LTM2MjIxNS9ib25jb3MtbmVnYXJhLXRhbmdndW5nLXJwMTAtcmlidS1hbi1kYXJpLTEtbGl0ZXItcGVydGFsaXRl",
-        "description": " Dirut Pertamina Nicke Widyawati menyatakan setiap liter Pertalite disubsidi hampir Rp 10 ribu."
     }
 ]

@@ -1,5 +1,12 @@
 [
     {
+        "title": "Literasi Digital Dapat Mengurangi Tindakan Cyber Bullying",
+        "link": "https://nasional.tempo.co/read/1620838/literasi-digital-dapat-mengurangi-tindakan-cyber-bullying",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjA4MzgvbGl0ZXJhc2ktZGlnaXRhbC1kYXBhdC1tZW5ndXJhbmdpLXRpbmRha2FuLWN5YmVyLWJ1bGx5aW5n",
+        "description": "Cyber bullying merupakan kejadian seorang anak atau remaja diejek, dihina, diintimidasi, atau  dipermalukan oleh anak atau remaja lain melalui media internet."
+    },
+    {
         "title": "Kasus Brigadir J: Mengenal Apa itu LPSK",
         "link": "https://nasional.tempo.co/read/1620831/kasus-brigadir-j-mengenal-apa-itu-lpsk",
         "image": "static/images/tempo_nasional.png",
@@ -61,12 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjA4MDUvc2VsYWluLXBlcmlrc2EtcHV0cmktY2FuZHJhd2F0aGktbHBzay1ha2FuLXNhbWJhbmdpLWJhcmVza3JpbS1oYXJpLWluaQ==",
         "description": "LPSK memiliki dua agenda hari ini. Memeriksa Putri Candrawathi dan menyambangi Bareskrim Mabes Polri."
-    },
-    {
-        "title": "Bandingkan Kasus Mutilasi Ryan Jombang, Mahfud Md Yakin Kasus Brigadir J Bakal Terungkap",
-        "link": "https://nasional.tempo.co/read/1620804/bandingkan-kasus-mutilasi-ryan-jombang-mahfud-md-yakin-kasus-brigadir-j-bakal-terungkap",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjA4MDQvYmFuZGluZ2thbi1rYXN1cy1tdXRpbGFzaS1yeWFuLWpvbWJhbmctbWFoZnVkLW1kLXlha2luLWthc3VzLWJyaWdhZGlyLWotYmFrYWwtdGVydW5na2Fw",
-        "description": "Mahfud MD membandingkan pengungkapan kasus Brigadir J dengan kasus mutilasi yang dilakukan Ryan di Jombang yang mampu diungkap"
     }
 ]
