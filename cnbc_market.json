@@ -1,5 +1,47 @@
 [
     {
+        "title": "ARTO dan GoTo Financial Dorong UMKM Pintar Kelola Keuangan",
+        "link": "https://www.cnbcindonesia.com/market/20220809134333-17-362309/arto-goto-financial-dorong-umkm-pintar-kelola-keuangan",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTM0MzMzLTE3LTM2MjMwOS9hcnRvLWdvdG8tZmluYW5jaWFsLWRvcm9uZy11bWttLXBpbnRhci1rZWxvbGEta2V1YW5nYW4=",
+        "description": " Bank Jago dan GoTo Financial mendorong kemudahan bagi para mitra usaha untuk dapat mengelola keuangannya secara mudah dan nyaman."
+    },
+    {
+        "title": "4 Hari JARR Melantai, Haji Isam Tambah Tajir Rp 2,6 T",
+        "link": "https://www.cnbcindonesia.com/market/20220809134241-17-362308/4-hari-jarr-melantai-haji-isam-tambah-tajir-rp-26-t",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTM0MjQxLTE3LTM2MjMwOC80LWhhcmktamFyci1tZWxhbnRhaS1oYWppLWlzYW0tdGFtYmFoLXRhamlyLXJwLTI2LXQ=",
+        "description": " Saham JARR kembali melesat hari ini"
+    },
+    {
+        "title": "Investor Wait dan See, Harga Tembaga Turun",
+        "link": "https://www.cnbcindonesia.com/market/20220809133747-17-362307/investor-wait-see-harga-tembaga-turun",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTMzNzQ3LTE3LTM2MjMwNy9pbnZlc3Rvci13YWl0LXNlZS1oYXJnYS10ZW1iYWdhLXR1cnVu",
+        "description": " Harga tembaga dunia melemah\u00c2\u00a0menjelang pengumuman inflasi Amerika Serikat (AS)"
+    },
+    {
+        "title": "Bos LPS: Tujuan Hampir Tercapai, Tapering Fed Segera Berakhir",
+        "link": "https://www.cnbcindonesia.com/market/20220809132833-19-362296/bos-lps-tujuan-hampir-tercapai-tapering-fed-segera-berakhir",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTMyODMzLTE5LTM2MjI5Ni9ib3MtbHBzLXR1anVhbi1oYW1waXItdGVyY2FwYWktdGFwZXJpbmctZmVkLXNlZ2VyYS1iZXJha2hpcg==",
+        "description": " Bos LPS: Tujuan Hampir Tercapai, Tapering The Fed Segera Berakhir"
+    },
+    {
+        "title": "Dana Wanaartha Belasan Triliun, yang Dilaporkan Cuma Rp 5 T",
+        "link": "https://www.cnbcindonesia.com/market/20220809132400-17-362293/dana-wanaartha-belasan-triliun-yang-dilaporkan-cuma-rp-5-t",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTMyNDAwLTE3LTM2MjI5My9kYW5hLXdhbmFhcnRoYS1iZWxhc2FuLXRyaWxpdW4teWFuZy1kaWxhcG9ya2FuLWN1bWEtcnAtNS10",
+        "description": " Berdasarkan hasil audit yang dilakukan, ada dugaan penggelapan dana hingga triliunan."
+    },
+    {
+        "title": "LPS: Ekonomi RI Tumbuh 5,5% Tahun Ini Amat Mudah Dicapai",
+        "link": "https://www.cnbcindonesia.com/market/20220809130312-17-362279/lps-ekonomi-ri-tumbuh-55-tahun-ini-amat-mudah-dicapai",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTMwMzEyLTE3LTM2MjI3OS9scHMtZWtvbm9taS1yaS10dW1idWgtNTUtdGFodW4taW5pLWFtYXQtbXVkYWgtZGljYXBhaQ==",
+        "description": " Ketua Dewan Komisioner Lembaga Penjamin Simpanan (LPS) Purbaya Yudhi Sadewa mengatakan angka pertumbuhan ekonomi 5,5% amat mudah untuk dicapai."
+    },
+    {
         "title": "Dolar AS Loyo, Harga Perak Berkilau",
         "link": "https://www.cnbcindonesia.com/market/20220809130400-17-362281/dolar-as-loyo-harga-perak-berkilau",
         "image": "static/images/cnbc_market.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTIyNTQ4LTE3LTM2MjI2MS9scHMtc2VidXQtYWRhLXNpdHVhc2ktYW5laC1kaS1la29ub21pLXJpLWFwYS1pdHU=",
         "description": " DPK valas tumbuh 4,5% artinya uang tidak lari keluar. Ada pergeseran dari deposito ke giro dan tabungan."
-    },
-    {
-        "title": "Asing Kabur Bersyukur, Pengelolaan SBN Jadi Lebih Mudah",
-        "link": "https://www.cnbcindonesia.com/market/20220809124907-17-362267/asing-kabur-bersyukur-pengelolaan-sbn-jadi-lebih-mudah",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTI0OTA3LTE3LTM2MjI2Ny9hc2luZy1rYWJ1ci1iZXJzeXVrdXItcGVuZ2Vsb2xhYW4tc2JuLWphZGktbGViaWgtbXVkYWg=",
-        "description": " Dalam kondisi tertentu, larinya dana asing justru menguntungkan sistem keuangan domestik."
-    },
-    {
-        "title": "Siap-siap! Ekonomi RI Bakal Bangkit, Ini Tanda-tandanya",
-        "link": "https://www.cnbcindonesia.com/market/20220809123210-17-362266/siap-siap-ekonomi-ri-bakal-bangkit-ini-tanda-tandanya",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTIzMjEwLTE3LTM2MjI2Ni9zaWFwLXNpYXAtZWtvbm9taS1yaS1iYWthbC1iYW5na2l0LWluaS10YW5kYS10YW5kYW55YQ==",
-        "description": " Hal tersebut tampak dari penurunan jumlah simpanan jangka panjang dan kenaikkan simpanan jangka pendek."
-    },
-    {
-        "title": "Ketua LPS: Nasib RI Bukan Ditentukan AS, tapi Kita Sendiri",
-        "link": "https://www.cnbcindonesia.com/market/20220809123144-17-362263/ketua-lps-nasib-ri-bukan-ditentukan-as-tapi-kita-sendiri",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTIzMTQ0LTE3LTM2MjI2My9rZXR1YS1scHMtbmFzaWItcmktYnVrYW4tZGl0ZW50dWthbi1hcy10YXBpLWtpdGEtc2VuZGlyaQ==",
-        "description": " Likuiditas perbankan domestik cukup baik dan bisa dijaga, sehingga tidak lagi bergantung pada global."
-    },
-    {
-        "title": "5 Saham Ini Pesta Pora di Sesi I, tapi Ingat Ada yang Boncos",
-        "link": "https://www.cnbcindonesia.com/market/20220809121306-17-362259/5-saham-ini-pesta-pora-di-sesi-i-tapi-ingat-ada-yang-boncos",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTIxMzA2LTE3LTM2MjI1OS81LXNhaGFtLWluaS1wZXN0YS1wb3JhLWRpLXNlc2ktaS10YXBpLWluZ2F0LWFkYS15YW5nLWJvbmNvcw==",
-        "description": " 5 saham yang tampil perkasa dan 5 saham yang masuk top losers pada perdagangan sesi I Selasa (9/8/2022)."
-    },
-    {
-        "title": "Masuk Bursa, Simak Target dan Rencana Ekspansi Klinko",
-        "link": "https://www.cnbcindonesia.com/market/20220809105402-17-362209/masuk-bursa-simak-target-dan-rencana-ekspansi-klinko",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTA1NDAyLTE3LTM2MjIwOS9tYXN1ay1idXJzYS1zaW1hay10YXJnZXQtZGFuLXJlbmNhbmEtZWtzcGFuc2kta2xpbmtv",
-        "description": " PT Klinko Karya Imaji Tbk (KLIN) menargetkan kenaikan pendapatan tahun ini sebesar 200% menjadi sebesar Rp 8,3 miliar."
-    },
-    {
-        "title": "IHSG Sudah Jenuh Beli, Waspada Profit Taking di Sesi Kedua",
-        "link": "https://www.cnbcindonesia.com/market/20220809114823-17-362248/ihsg-sudah-jenuh-beli-waspada-profit-taking-di-sesi-kedua",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTE0ODIzLTE3LTM2MjI0OC9paHNnLXN1ZGFoLWplbnVoLWJlbGktd2FzcGFkYS1wcm9maXQtdGFraW5nLWRpLXNlc2kta2VkdWE=",
-        "description": " Level resisten IHSG terdekat berada di 7.150 sedangkan support terdekat di 7.074."
     }
 ]

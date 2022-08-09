@@ -1,5 +1,33 @@
 [
     {
+        "title": "Banjir Terjang Ibu Kota Korsel, 7 Tewas",
+        "link": "https://www.cnbcindonesia.com/news/20220809120804-8-362252/banjir-terjang-ibu-kota-korsel-7-tewas",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTEyMDgwNC04LTM2MjI1Mi9iYW5qaXItdGVyamFuZy1pYnUta290YS1rb3JzZWwtNy10ZXdhcw==",
+        "description": " Banjir bandang menghantam sejumlah area utama di Kota Seoul kemarin malam."
+    },
+    {
+        "title": "Kalahkan Jepang, Korsel-China Agresif Garap Mobil Listrik RI",
+        "link": "https://www.cnbcindonesia.com/news/20220809130421-4-362282/kalahkan-jepang-korsel-china-agresif-garap-mobil-listrik-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTEzMDQyMS00LTM2MjI4Mi9rYWxhaGthbi1qZXBhbmcta29yc2VsLWNoaW5hLWFncmVzaWYtZ2FyYXAtbW9iaWwtbGlzdHJpay1yaQ==",
+        "description": " Tahun 2022 bisa disebut menjadi tonggak sejarah awal mula produksi mobil listrik di Tanah Air."
+    },
+    {
+        "title": "Taiwan Tuding China sedang Menyiapkan Rencana Invasi",
+        "link": "https://www.cnbcindonesia.com/news/20220809131947-4-362291/taiwan-tuding-china-sedang-menyiapkan-rencana-invasi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTEzMTk0Ny00LTM2MjI5MS90YWl3YW4tdHVkaW5nLWNoaW5hLXNlZGFuZy1tZW55aWFwa2FuLXJlbmNhbmEtaW52YXNp",
+        "description": " Taiwan menilan China sedang mempersiapkan invasi ke pulau tersebut."
+    },
+    {
+        "title": "Goks! Perang dengan Rusia, AS Beri Bantuan Rp 14 T ke Ukraina",
+        "link": "https://www.cnbcindonesia.com/news/20220809130521-4-362280/goks-perang-dengan-rusia-as-beri-bantuan-rp-14-t-ke-ukraina",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTEzMDUyMS00LTM2MjI4MC9nb2tzLXBlcmFuZy1kZW5nYW4tcnVzaWEtYXMtYmVyaS1iYW50dWFuLXJwLTE0LXQta2UtdWtyYWluYQ==",
+        "description": " Pemerintahan Amerika Serikat (AS) pimpinan Presiden Joe Biden kembali memberikan bantuan pertahanan kepada Ukraina yang digempur oleh Rusia."
+    },
+    {
         "title": "Menteri ESDM Buka Suara Polemik Suplai Batu Bara ke PLN",
         "link": "https://www.cnbcindonesia.com/news/20220809120139-4-362249/menteri-esdm-buka-suara-polemik-suplai-batu-bara-ke-pln",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTExNTM1MC00LTM2MjI0Ny9hbGVydC1wYWstYW5pZXMtYWRhLTI4LXpvbmEtbWVyYWgtdGVyc2ViYXItZGktamFrYXJ0YQ==",
         "description": " Perkembangan kasus Covid-19 di DKI Jakarta semakin mengkhawatirkan."
-    },
-    {
-        "title": "Harga Barang Makin Mahal, Alarm Tanda Bahaya Mulai Menyala!",
-        "link": "https://www.cnbcindonesia.com/news/20220809123203-4-362264/harga-barang-makin-mahal-alarm-tanda-bahaya-mulai-menyala",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTEyMzIwMy00LTM2MjI2NC9oYXJnYS1iYXJhbmctbWFraW4tbWFoYWwtYWxhcm0tdGFuZGEtYmFoYXlhLW11bGFpLW1lbnlhbGE=",
-        "description": " Indeks Penjualan Riil (IPR) terus menunjukkan penurunan dalam tiga bulan terakhir."
-    },
-    {
-        "title": "Duh! Baja Impor China Kembali Bikin Resah RI, Ini Buktinya",
-        "link": "https://www.cnbcindonesia.com/news/20220809123701-4-362265/duh-baja-impor-china-kembali-bikin-resah-ri-ini-buktinya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTEyMzcwMS00LTM2MjI2NS9kdWgtYmFqYS1pbXBvci1jaGluYS1rZW1iYWxpLWJpa2luLXJlc2FoLXJpLWluaS1idWt0aW55YQ==",
-        "description": " Kemendag mengamankan sementara produk baja impor China yang diduga tidak memenuhi persyaratan mutu Standar Nasional Indonesia (SNI)."
-    },
-    {
-        "title": "Banjir Parah Lumpuhkan Seoul Korsel, 7 Orang Tewas",
-        "link": "https://www.cnbcindonesia.com/news/20220809121246-8-362258/banjir-parah-lumpuhkan-seoul-korsel-7-orang-tewas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTEyMTI0Ni04LTM2MjI1OC9iYW5qaXItcGFyYWgtbHVtcHVoa2FuLXNlb3VsLWtvcnNlbC03LW9yYW5nLXRld2Fz",
-        "description": " Banjir parah menghantam sejumlah area utama di kota Seoul, Korea Selatan (Korsel), pada Senin (8/8/2022) malam."
-    },
-    {
-        "title": "Membayangkan Nasib Indonesia Saat China-Taiwan Beneran Perang",
-        "link": "https://www.cnbcindonesia.com/news/20220809121118-4-362257/membayangkan-nasib-indonesia-saat-china-taiwan-beneran-perang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwOTEyMTExOC00LTM2MjI1Ny9tZW1iYXlhbmdrYW4tbmFzaWItaW5kb25lc2lhLXNhYXQtY2hpbmEtdGFpd2FuLWJlbmVyYW4tcGVyYW5n",
-        "description": " Panasnya hubungan China dan Taiwan menambah daftar ketidakpastian global."
     }
 ]
