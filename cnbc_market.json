@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sedang Sakti, Rupiah Bisa Menguat ke Level Ini Lho!",
+        "link": "https://www.cnbcindonesia.com/market/20220810011718-17-362462/sedang-sakti-rupiah-bisa-menguat-ke-level-ini-lho",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMDExNzE4LTE3LTM2MjQ2Mi9zZWRhbmctc2FrdGktcnVwaWFoLWJpc2EtbWVuZ3VhdC1rZS1sZXZlbC1pbmktbGhv",
+        "description": " Ke mana arah Rupiah hari ini?"
+    },
+    {
+        "title": "Semua Mata Tertuju pada Inflasi AS, Ada Kejutan Hari Ini?",
+        "link": "https://www.cnbcindonesia.com/market/20220809180606-17-362431/semua-mata-tertuju-pada-inflasi-as-ada-kejutan-hari-ini",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTgwNjA2LTE3LTM2MjQzMS9zZW11YS1tYXRhLXRlcnR1anUtcGFkYS1pbmZsYXNpLWFzLWFkYS1rZWp1dGFuLWhhcmktaW5p",
+        "description": " Indeks saham, kurs rupiah, dan obligasi pemerintah kompak menguat pada perdagangan kemarin, hari ini bagaimana?"
+    },
+    {
         "title": "Investor Tunggu Rilis Inflasi AS, Wall Street Tertekan!",
         "link": "https://www.cnbcindonesia.com/market/20220809180455-17-362428/investor-tunggu-rilis-inflasi-as-wall-street-tertekan",
         "image": "static/images/cnbc_market.png",
@@ -49,24 +63,10 @@
         "description": " Regulasi Perijinan Rumit, Pengusaha Konstruksi Tertekan"
     },
     {
-        "title": "Digigat Rp 11 T, Blue Bird: Isu Lama, Lebih Baik Fokus Kerja",
-        "link": "https://www.cnbcindonesia.com/market/20220809173909-17-362412/digigat-rp-11-t-blue-bird-isu-lama-lebih-baik-fokus-kerja",
+        "title": "Digugat Rp 11 T, Blue Bird: Isu Lama, Lebih Baik Fokus Kerja",
+        "link": "https://www.cnbcindonesia.com/market/20220809173909-17-362412/digugat-rp-11-t-blue-bird-isu-lama-lebih-baik-fokus-kerja",
         "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTczOTA5LTE3LTM2MjQxMi9kaWdpZ2F0LXJwLTExLXQtYmx1ZS1iaXJkLWlzdS1sYW1hLWxlYmloLWJhaWstZm9rdXMta2VyamE=",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTczOTA5LTE3LTM2MjQxMi9kaWd1Z2F0LXJwLTExLXQtYmx1ZS1iaXJkLWlzdS1sYW1hLWxlYmloLWJhaWstZm9rdXMta2VyamE=",
         "description": " Alih-alih fokus pada gugatan tersebut, emiten berkode saham BIRD ini justru akan lebih fokus pada fundamental perusahaan."
-    },
-    {
-        "title": "Subsidi Belum Cukup, Ini PR Pemerintah Menjaga Daya Beli",
-        "link": "https://www.cnbcindonesia.com/market/20220809163445-19-362386/subsidi-belum-cukup-ini-pr-pemerintah-menjaga-daya-beli",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTYzNDQ1LTE5LTM2MjM4Ni9zdWJzaWRpLWJlbHVtLWN1a3VwLWluaS1wci1wZW1lcmludGFoLW1lbmphZ2EtZGF5YS1iZWxp",
-        "description": " Subsidi Belum Cukup, Ini PR Pemerintah Menjaga Daya Beli"
-    },
-    {
-        "title": "Perang Berlanjut, Ekonomi Jerman akan Kehilangan Rp 3.952 T",
-        "link": "https://www.cnbcindonesia.com/market/20220809163636-17-362388/perang-berlanjut-ekonomi-jerman-akan-kehilangan-rp-3952-t",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODA5MTYzNjM2LTE3LTM2MjM4OC9wZXJhbmctYmVybGFuanV0LWVrb25vbWktamVybWFuLWFrYW4ta2VoaWxhbmdhbi1ycC0zOTUyLXQ=",
-        "description": " Ekonomi Jerman diprediksi akan kehilangan nilai tambah lebih dari 260 miliar euro atau setara dengan Rp 3.952,4 triliun pada tahun 2030."
     }
 ]
