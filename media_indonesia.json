@@ -1,72 +1,72 @@
 [
     {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/513558/antetokounmpo-pimpin-yunani-tundukkan-spanyol",
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/513572/film-kamu-tidak-sendiri-buat-ayu-dyan-pasha-sadar-soal-inner-child",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTM1NTgvYW50ZXRva291bm1wby1waW1waW4teXVuYW5pLXR1bmR1a2thbi1zcGFueW9s",
-        "description": "BINTANG NBA Giannis Antetokounmpo mencetak 31 poin untuk memimpin timnas Yunani menang 86-70 atas Spanyol di laga persahabatan,&#8230;"
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMzU3Mi9maWxtLWthbXUtdGlkYWstc2VuZGlyaS1idWF0LWF5dS1keWFuLXBhc2hhLXNhZGFyLXNvYWwtaW5uZXItY2hpbGQ=",
+        "description": "AKTRIS Ayu Dyah Pasha mengaku film Kamu Tidak Sendiri membuatnya lebih menyadari tentang bahaya inner child yang terluka, yang sangat&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/513575/wajah-baru-borobudur-kian-menawan-sambut-wisatawan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEzNTc1L3dhamFoLWJhcnUtYm9yb2J1ZHVyLWtpYW4tbWVuYXdhbi1zYW1idXQtd2lzYXRhd2Fu",
+        "description": "PEMERINTAH mengebut revitalisasi kawasan wisata Super Prioritas Candi Borobudur. Kini, salah satu situs warisan budaya dunia itu tampil dengan wajah baru yang jauh lebih menarik. Dari segi tampilan,&#8230;"
     },
     {
         "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/513557/kembali-ke-leipzig-werner-mengaku-bahagia",
+        "link": "https://m.mediaindonesia.com/sepak-bola/513569/benfica-bertemu-kiev-dan-psv-kontra-rangers-di-playoff-liga-champions",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzU1Ny9rZW1iYWxpLWtlLWxlaXB6aWctd2VybmVyLW1lbmdha3UtYmFoYWdpYQ==",
-        "description": "STRIKER Timo Werner mengungkapkan rasa bahagianya dapat kembali ke klub Bundesliga RB Leipzig dari Chelsea pada bursa transfer&#8230;"
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzU2OS9iZW5maWNhLWJlcnRlbXUta2lldi1kYW4tcHN2LWtvbnRyYS1yYW5nZXJzLWRpLXBsYXlvZmYtbGlnYS1jaGFtcGlvbnM=",
+        "description": "JUARA dua kali Liga Champipons Benfica akan berhadapan dengan klub Ukraina Dynamo Kiev sementara klub Eredivisie PSV Eindhoven&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/513573/sejarah-yamamotoyama-salah-satu-perusahaan-teh-tertua-dan-terkaya-di-jepang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMzU3My9zZWphcmFoLXlhbWFtb3RveWFtYS1zYWxhaC1zYXR1LXBlcnVzYWhhYW4tdGVoLXRlcnR1YS1kYW4tdGVya2F5YS1kaS1qZXBhbmc=",
+        "description": "Dunia tampak sedikit berbeda ketika keluarga Yamamoto pindah ke Tokyo pada akhir abad ke-17. Di sana, mereka mendirikan toko teh kecil, tepatnya pada tahun 1690. Toko ini kemudian berkembang menjadi&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/513571/studi-ungkap-dampak-lingkungan-dari-57000-produk-yang-dijual-di-supermarket",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMzU3MS9zdHVkaS11bmdrYXAtZGFtcGFrLWxpbmdrdW5nYW4tZGFyaS01NzAwMC1wcm9kdWsteWFuZy1kaWp1YWwtZGktc3VwZXJtYXJrZXQ=",
+        "description": "Mengonsumsi buah dan sayuran dapat memberikan dampak nyata terhadap kesehatan dan juga lingkungan. Selain itu, pola makan yang berkelanjutan seperti mengurangi konsumsi daging merah dan protein hewani,&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/513566/cedera-punggung-osaka-mundur-di-putaran-pertama-toronto-masters",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTM1NjYvY2VkZXJhLXB1bmdndW5nLW9zYWthLW11bmR1ci1kaS1wdXRhcmFuLXBlcnRhbWEtdG9yb250by1tYXN0ZXJz",
+        "description": "PERAIH empat gelar Grand Slam Naomi Osaka mengundurkan diri di laga putaran pertama Montreal Masters, Selasa (9/8), setelah&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/513570/kebijakan-bank-sentral-as-terlalu-agresif-ciptakan-bencana-di-negara-lain",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMzU3MC9rZWJpamFrYW4tYmFuay1zZW50cmFsLWFzLXRlcmxhbHUtYWdyZXNpZi1jaXB0YWthbi1iZW5jYW5hLWRpLW5lZ2FyYS1sYWlu",
+        "description": "KENAIKAN suku bunga yang terlalu agresif oleh Federal Reserve (Bank Sentral) AS menciptakan stagflasi di seluruh dunia dan tidak serta merta akan mengatasi akar penyebab inflasi domestik, kata seorang&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/513564/kyrgios-bukukan-kemenangan-beruntun-ketujuh",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTM1NjQva3lyZ2lvcy1idWt1a2FuLWtlbWVuYW5nYW4tYmVydW50dW4ta2V0dWp1aA==",
+        "description": "RUNNER-UP Wimbledon Nick Kyrgios membukukan kemenangan 6-4 dan 6-4 atsa Sebastian Baez di putaran pertama Montreal Masters,&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/513568/bksap-desak-dewan-keamanan-pbb-bentuk-pasukan-perdamaian-untuk-palestina",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMzU2OC9ia3NhcC1kZXNhay1kZXdhbi1rZWFtYW5hbi1wYmItYmVudHVrLXBhc3VrYW4tcGVyZGFtYWlhbi11bnR1ay1wYWxlc3RpbmE=",
+        "description": "KETUA&nbsp; Badan Kerja Sama Antar Parlemen (BKSAP) DPR RI Fadli Zon mengutuk keras serangan terbaru Israel kepada warga Palestina. Ia pun mendesak agar Dewan Keamanan (DK) Perserikatan Bangsa-Bangsa&#8230;"
     },
     {
         "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/513563/kabareskrim-kecam-kuasa-hukum-yang-klaim-berhasil-buat-bharada-e-mengaku",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/513567/airlangga-zulkifli-hingga-suharso-monoarfa-daftar-bersama-ke-kpu",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTM1NjMva2FiYXJlc2tyaW0ta2VjYW0ta3Vhc2EtaHVrdW0teWFuZy1rbGFpbS1iZXJoYXNpbC1idWF0LWJoYXJhZGEtZS1tZW5nYWt1",
-        "description": "KEPALA Bareskrim Polri Komjen Pol Agus Andrianto menyebut pengakuan yang dibuat Bharada Richard Eliezer Pudihang Lumiu atau Bharada E terkait kasus penembakan <a href=\"http://mediaindonesia.com/tag/kasus-brigadir-j\"&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/513556/wijnaldum-mengaku-sudah-lama-ingin-bela-as-roma",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzU1Ni93aWpuYWxkdW0tbWVuZ2FrdS1zdWRhaC1sYW1hLWluZ2luLWJlbGEtYXMtcm9tYQ==",
-        "description": "GELANDANG anyar AS Roma Georginio Wijnaldum mengaku dirinya sudah lama berambisi bergabung dengan Giallorossi. Dikutip dari&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/513562/polisi-geledah-rumah-ferdy-sambo-selama-9-jam",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTM1NjIvcG9saXNpLWdlbGVkYWgtcnVtYWgtZmVyZHktc2FtYm8tc2VsYW1hLTktamFt",
-        "description": "KUASA hukum keluarga Irjen Ferdy Sambo, Arman Hanis, memastikan proses penggeledahan yang dilakukan di kediaman pribadi keliennya&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/513555/chelsea-siapkan-tawaran-baru-untuk-fofana",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzU1NS9jaGVsc2VhLXNpYXBrYW4tdGF3YXJhbi1iYXJ1LXVudHVrLWZvZmFuYQ==",
-        "description": "KLUB Liga Primer Inggris Chelsea dikabarkan telah mempersiapkan tawaran ketiga untuk bek Leicester City Wesley Fofana pada bursa&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/513554/serena-wiliams-mengaku-berencana-pensiun-selepas-as-terbuka",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTM1NTQvc2VyZW5hLXdpbGlhbXMtbWVuZ2FrdS1iZXJlbmNhbmEtcGVuc2l1bi1zZWxlcGFzLWFzLXRlcmJ1a2E=",
-        "description": "SERENA Williams, Selasa (9/8), mengumumkan rencana pensiun dari tenis setelah penampilannya di Amerika Serikat (AS) Terbuka&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/513552/dapat-undangan-dari-bwf-chico-akan-tampil-di-kejuaraan-dunia-bulu-tangkis",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTM1NTIvZGFwYXQtdW5kYW5nYW4tZGFyaS1id2YtY2hpY28tYWthbi10YW1waWwtZGkta2VqdWFyYWFuLWR1bmlhLWJ1bHUtdGFuZ2tpcw==",
-        "description": "PEBULU tangkis tunggal putra Chico Aura Dwi Wardoyo masuk formasi anyar timnas Indonesia untuk Kejuaraan Dunia Bulu&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/513551/zachabela-gantikan-adnanmychelle-di-kejuaraan-dunia-bulu-tangkis-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTM1NTEvemFjaGFiZWxhLWdhbnRpa2FuLWFkbmFubXljaGVsbGUtZGkta2VqdWFyYWFuLWR1bmlhLWJ1bHUtdGFuZ2tpcy0yMDIy",
-        "description": "PENGURUS Pusat Persatuan Bulu Tangkis Seluruh Indonesia (PP PBSI) mengirimkan ganda campuran Zachariah Josiahno Sumanti/Hediana Julimarbela ke ajang <a href=\"http://mediaindonesia.com/tag/kejuaraan-dunia-bulu-tangkis\"&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/513544/di-balik-kemajuan-pembangunan-manusia-dki-jakarta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTM1NDQvZGktYmFsaWsta2VtYWp1YW4tcGVtYmFuZ3VuYW4tbWFudXNpYS1ka2ktamFrYXJ0YQ==",
-        "description": "PARADIGMA pembangunan manusia (human development paradigm) menempatkan manusia sebagai titik sentral pembangunan dan bertujuan menciptakan lingkungan yang memungkinkan rakyat menikmati kehidupan&#8230;"
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTM1NjcvYWlybGFuZ2dhLXp1bGtpZmxpLWhpbmdnYS1zdWhhcnNvLW1vbm9hcmZhLWRhZnRhci1iZXJzYW1hLWtlLWtwdQ==",
+        "description": "PARA Ketua Umum Partai yang tergabung dalam Koalisi Indonesia Bersatu (KIB) mendatangi Komisi Pemilihan Umum (KPU) RI bersama. Ketum Golongan Karya (Golkar) Airlangga Hartanto, Ketum Partai&#8230;"
     }
 ]

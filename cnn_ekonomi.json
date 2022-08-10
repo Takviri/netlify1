@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ancaman Resesi Dunia Tekan Harga Minyak",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220810075520-85-832630/ancaman-resesi-dunia-tekan-harga-minyak",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEwMDc1NTIwLTg1LTgzMjYzMC9hbmNhbWFuLXJlc2VzaS1kdW5pYS10ZWthbi1oYXJnYS1taW55YWs=",
+        "description": " Harga minyak dunia turun tipis akibat tertekan kekhawatiran pasar atas resesi yang menghantui ekonomi dunia belakangan ini."
+    },
+    {
+        "title": "Daftar Tarif Ojol yang Naik Bulan Ini",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220810073842-92-832626/daftar-tarif-ojol-yang-naik-bulan-ini",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEwMDczODQyLTkyLTgzMjYyNi9kYWZ0YXItdGFyaWYtb2pvbC15YW5nLW5haWstYnVsYW4taW5p",
+        "description": " Kemenhub menaikkan tarif ojek online (ojol) pada Agustus ini. Berikut daftar tarif ojol yang naik."
+    },
+    {
+        "title": "Harga Mi Instan Terancam Naik 3 Kali Lipat",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220810072843-92-832622/harga-mi-instan-terancam-naik-3-kali-lipat",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEwMDcyODQzLTkyLTgzMjYyMi9oYXJnYS1taS1pbnN0YW4tdGVyYW5jYW0tbmFpay0zLWthbGktbGlwYXQ=",
+        "description": " Mentan Syahrul Yasin Limpo menyebut harga mi instan bakal naik tiga kali lipat sebagai imbas dari perang yang terjadi antara Rusia dan Ukraina."
+    },
+    {
+        "title": "Ancaman Krisis Batu Bara PLN dan Lembek Sikap Pemerintah ke Pengusaha",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220810062143-85-832597/ancaman-krisis-batu-bara-pln-dan-lembek-sikap-pemerintah-ke-pengusaha",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEwMDYyMTQzLTg1LTgzMjU5Ny9hbmNhbWFuLWtyaXNpcy1iYXR1LWJhcmEtcGxuLWRhbi1sZW1iZWstc2lrYXAtcGVtZXJpbnRhaC1rZS1wZW5ndXNhaGE=",
+        "description": " Menteri ESDM Arifin Tasrif menyebut krisis batu bara kembali mengancam PLN karena pengusaha\u00c2\u00a0menganggap 'murah' sanksi dari pemerintah ke pelanggar aturan."
+    },
+    {
+        "title": "Beli Kosmetik Rabbit Habit Pakai Allo Bank, Diskon Hingga 60 Persen",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220809165655-97-832384/beli-kosmetik-rabbit-habit-pakai-allo-bank-diskon-hingga-60-persen",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MTY1NjU1LTk3LTgzMjM4NC9iZWxpLWtvc21ldGlrLXJhYmJpdC1oYWJpdC1wYWthaS1hbGxvLWJhbmstZGlza29uLWhpbmdnYS02MC1wZXJzZW4=",
+        "description": " Setiap pembelian produk skincare atau makeup Rabbit Habit, berlaku diskon 60 persen dengan pembayaran melalui Allo Prime."
+    },
+    {
+        "title": "Pasar Properti Anjlok, Kota di China Cabut Aturan Batasi Beli Rumah",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220809150519-92-832293/pasar-properti-anjlok-kota-di-china-cabut-aturan-batasi-beli-rumah",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MTUwNTE5LTkyLTgzMjI5My9wYXNhci1wcm9wZXJ0aS1hbmpsb2sta290YS1kaS1jaGluYS1jYWJ1dC1hdHVyYW4tYmF0YXNpLWJlbGktcnVtYWg=",
+        "description": " Kota Langfang di China mencabut kebijakan pembatasan pembelian rumah untuk meningkatkan penjualan akibat penurunan pasar properti."
+    },
+    {
         "title": "Warga Bogor dan Jakarta Keluhkan Kelangkaan Pertalite",
         "link": "https://www.cnnindonesia.com/ekonomi/20220809195311-85-832486/warga-bogor-dan-jakarta-keluhkan-kelangkaan-pertalite",
         "image": "static/images/cnn_ekonomi.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MTQ1ODAwLTg1LTgzMjI4OS9wZW1lcmludGFoLW1hc2loLXBlcmRlYmF0a2FuLXBheXVuZy1odWt1bS1wZW1iZW50dWthbi1ibHUtYmF0dS1iYXJh",
         "description": " Menteri ESDM Arifin Tasrif menyebut pembentukan BLU batu bara hingga kini masih belum kelar karena ada perdebatan soal bentuk payung hukumnya."
-    },
-    {
-        "title": "Kementan Dorong Petani Pakai Pupuk Organik Gara-gara Krisis",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220809180439-92-832424/kementan-dorong-petani-pakai-pupuk-organik-gara-gara-krisis",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MTgwNDM5LTkyLTgzMjQyNC9rZW1lbnRhbi1kb3JvbmctcGV0YW5pLXBha2FpLXB1cHVrLW9yZ2FuaWstZ2FyYS1nYXJhLWtyaXNpcw==",
-        "description": " Pemerintah mendorong para petani menggunakan pupuk organik karena pupuk kimia mulai langka dan mahal."
-    },
-    {
-        "title": "Pemerintah Rilis 13 Proyek Strategis Nasional Baru",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220809204710-532-832524/pemerintah-rilis-13-proyek-strategis-nasional-baru",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MjA0NzEwLTUzMi04MzI1MjQvcGVtZXJpbnRhaC1yaWxpcy0xMy1wcm95ZWstc3RyYXRlZ2lzLW5hc2lvbmFsLWJhcnU=",
-        "description": " Pemerintah merilis 13 Proyek Strategis Nasional (PSN) baru. Proyek-proyek tersebut tersebar di berbagai wilayah dan terdiri dari berbagai sektor."
-    },
-    {
-        "title": "Erick Thohir Beber Nilai Strategis Terminal Kijing Pelabuhan Pontianak",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220809161057-92-832341/erick-thohir-beber-nilai-strategis-terminal-kijing-pelabuhan-pontianak",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MTYxMDU3LTkyLTgzMjM0MS9lcmljay10aG9oaXItYmViZXItbmlsYWktc3RyYXRlZ2lzLXRlcm1pbmFsLWtpamluZy1wZWxhYnVoYW4tcG9udGlhbmFr",
-        "description": " Erick Thohir mengungkapkan Terminal Kijing Pelabuhan Pontianak, Kalimantan Barat mampu menampung muatan hingga\u00c2\u00a01,95 juta TEUs kontainer dan 28 juta ton barang."
-    },
-    {
-        "title": "Tol Serpong-Balaraja Seksi 1A Gratis Mulai Besok hingga 21 Agustus",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220809174938-92-832416/tol-serpong-balaraja-seksi-1a-gratis-mulai-besok-hingga-21-agustus",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MTc0OTM4LTkyLTgzMjQxNi90b2wtc2VycG9uZy1iYWxhcmFqYS1zZWtzaS0xYS1ncmF0aXMtbXVsYWktYmVzb2staGluZ2dhLTIxLWFndXN0dXM=",
-        "description": " Ruas Tol Serpong-Balaraja (Serbaraja) dioperasikan gratis selama 10 Agustus-21 Agustus atau selama penyelenggaraan GIIAS 2022."
-    },
-    {
-        "title": "Snap Inc Bakal PHK Karyawan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220809123230-92-832179/snap-inc-bakal-phk-karyawan",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MTIzMjMwLTkyLTgzMjE3OS9zbmFwLWluYy1iYWthbC1waGsta2FyeWF3YW4=",
-        "description": " Snap Inc akan mem-PHK\u00c2\u00a0karyawan, mengikuti langkah Meta Inc. PHK diduga dilakukan terkait perlambatan ekonomi belakangan ini."
-    },
-    {
-        "title": "Blue Bird Tak Ingin Ikut-ikutan Naikkan Tarif Seperti Ojol",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220809190618-92-832447/blue-bird-tak-ingin-ikut-ikutan-naikkan-tarif-seperti-ojol",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MTkwNjE4LTkyLTgzMjQ0Ny9ibHVlLWJpcmQtdGFrLWluZ2luLWlrdXQtaWt1dGFuLW5haWtrYW4tdGFyaWYtc2VwZXJ0aS1vam9s",
-        "description": " PT Blue Bird Tbk belum akan menaikkan tarif layanan reguler taksi di tengah kenaikan tarif ojek online."
     }
 ]
