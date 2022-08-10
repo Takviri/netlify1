@@ -1,5 +1,26 @@
 [
     {
+        "title": "Simak! Ini Penyebab Invasi China ke Taiwan",
+        "link": "https://www.cnbcindonesia.com/news/20220810190756-4-362795/simak-ini-penyebab-invasi-china-ke-taiwan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDE5MDc1Ni00LTM2Mjc5NS9zaW1hay1pbmktcGVueWViYWItaW52YXNpLWNoaW5hLWtlLXRhaXdhbg==",
+        "description": " Sebenarnya apa motif China menginvasi Taiwan?"
+    },
+    {
+        "title": "Hot News: Harga Mie Naik Hingga Korsel Banjir",
+        "link": "https://www.cnbcindonesia.com/news/20220810185325-8-362794/hot-news-harga-mie-naik-hingga-korsel-banjir",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDE4NTMyNS04LTM2Mjc5NC9ob3QtbmV3cy1oYXJnYS1taWUtbmFpay1oaW5nZ2Eta29yc2VsLWJhbmppcg==",
+        "description": " harga mie instan naik\u00c2\u00a0hingga ditengah banjir parah yang terjadi di Seoul Korea Selatan sejak Senin malam."
+    },
+    {
+        "title": "Awas Bumerang, Ukraina Tutup Pipa Minyak Rusia ke Eropa",
+        "link": "https://www.cnbcindonesia.com/news/20220810175541-4-362775/awas-bumerang-ukraina-tutup-pipa-minyak-rusia-ke-eropa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDE3NTU0MS00LTM2Mjc3NS9hd2FzLWJ1bWVyYW5nLXVrcmFpbmEtdHV0dXAtcGlwYS1taW55YWstcnVzaWEta2UtZXJvcGE=",
+        "description": " Otoritas Ukraina memutuskan untuk menutup pipa minyak yang mengalir dari Rusia menuju Eropa"
+    },
+    {
         "title": "Terungkap! Ini Barang yang Diekspor Adik Prabowo dari Ukraina",
         "link": "https://www.cnbcindonesia.com/news/20220810182404-4-362780/terungkap-ini-barang-yang-diekspor-adik-prabowo-dari-ukraina",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDE3NDU0My00LTM2Mjc2NC9ydXNpYS1nZXJhaC1udWtsaXItYXMtZGktZXJvcGEtYXNpYS1wYXNpZmlrLW1hdS1kaXJ1ZGFs",
         "description": " Rusia menyatakan keresahannya terhadap keberadaan senjata nuklir Amerika Serikat (AS) di beberapa wilayah dunia seperti Eropa dan Asia-Pasifik"
-    },
-    {
-        "title": "Duh, Siap-Siap Harga Rumah Subsidi Bakal Naik",
-        "link": "https://www.cnbcindonesia.com/news/20220810183558-8-362786/duh-siap-siap-harga-rumah-subsidi-bakal-naik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDE4MzU1OC04LTM2Mjc4Ni9kdWgtc2lhcC1zaWFwLWhhcmdhLXJ1bWFoLXN1YnNpZGktYmFrYWwtbmFpaw==",
-        "description": " Duh, Siap-Siap Harga Rumah Subsidi Bakal Naik"
-    },
-    {
-        "title": "Suasana Memerah, Massa Buruh Bubar dari Kawasan DPR",
-        "link": "https://www.cnbcindonesia.com/news/20220810183649-7-362787/suasana-memerah-massa-buruh-bubar-dari-kawasan-dpr",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDE4MzY0OS03LTM2Mjc4Ny9zdWFzYW5hLW1lbWVyYWgtbWFzc2EtYnVydWgtYnViYXItZGFyaS1rYXdhc2FuLWRwcg==",
-        "description": " Aksi ini digelar karena pemerintah dan DPR tak menghiraukan berbagai aksi dan dialog baik sebelum maupun sesudah pengesahan UU Cipta Kerja."
-    },
-    {
-        "title": "APBN Bisa Jebol, Sri Mulyani Beri Pesan Khusus ke Pertamina!",
-        "link": "https://www.cnbcindonesia.com/news/20220810175507-4-362772/apbn-bisa-jebol-sri-mulyani-beri-pesan-khusus-ke-pertamina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDE3NTUwNy00LTM2Mjc3Mi9hcGJuLWJpc2EtamVib2wtc3JpLW11bHlhbmktYmVyaS1wZXNhbi1raHVzdXMta2UtcGVydGFtaW5h",
-        "description": " Belanja subsidi dalam APBN 2022 dikhawatirkan bisa jebol karena kuota bahan bakar minyak (BBM) jenis pertalite bakal lewati target."
     }
 ]
