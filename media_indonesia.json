@@ -1,6 +1,41 @@
 [
     {
         "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/513766/tingkatkan-kualitas-hidup-lansia-dengan-bijak-gunakan-garam",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEzNzY2L3RpbmdrYXRrYW4ta3VhbGl0YXMtaGlkdXAtbGFuc2lhLWRlbmdhbi1iaWphay1ndW5ha2FuLWdhcmFt",
+        "description": "ORANG lanjut usia (lansia) harus meningkatkan kualitas hidup. Peningkatan selera makan membantu dalam pemenuhan asupan gizi yang baik akan berujung pada perbaikan kondisi fisik dan kualitas hidup lansia.&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/513765/45-pmi-dan-13-tka-ilegal-akan-menyeberang-ke-malaysia-ditangkap-di-dumai",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEzNzY1LzQ1LXBtaS1kYW4tMTMtdGthLWlsZWdhbC1ha2FuLW1lbnllYmVyYW5nLWtlLW1hbGF5c2lhLWRpdGFuZ2thcC1kaS1kdW1haQ==",
+        "description": "SEBANYAK 45 WNI dan 13 WNA asal Bangladesh dan Myanmar ditangkap Selasa (9/8) oleh aparat penegak hukum karena dicurigai akan bepergian ke Malaysia secara ilegal setelah sempat berada sekitar jalan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/513764/ferdy-sambo-tersangka-gamki-puji-langkah-kapolri-bersih-bersih-polri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTM3NjQvZmVyZHktc2FtYm8tdGVyc2FuZ2thLWdhbWtpLXB1amktbGFuZ2thaC1rYXBvbHJpLWJlcnNpaC1iZXJzaWgtcG9scmk=",
+        "description": "Gerakan Angkatan Muda Kristen Indonesia (GAMKI) mengapresiasi Kapolri Jenderal Listyo Sigit Prabowo dalam perkembangan penanganan kasus pembunuhan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/513763/gagal-menyalip-pemotor-tewas-terlindas-mobil-boks-di-jalan-kedoya-raya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTM3NjMvZ2FnYWwtbWVueWFsaXAtcGVtb3Rvci10ZXdhcy10ZXJsaW5kYXMtbW9iaWwtYm9rcy1kaS1qYWxhbi1rZWRveWEtcmF5YQ==",
+        "description": "KECELAKAAN terjadi di Jalan Kedoya Raya, Kebon Jeruk, Jakarta Barat. Insiden ini mengakibatkan seorang pria tewas. Kanit Laka Lantas Polres Metro Jakarta Barat Ajun Komisaris Hartono Setiawan mengatakan,&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/513762/moeldoko-ingatkan-jangan-ada-gangguan-pemilu-2024",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTM3NjIvbW9lbGRva28taW5nYXRrYW4tamFuZ2FuLWFkYS1nYW5nZ3Vhbi1wZW1pbHUtMjAyNA==",
+        "description": "KEPALA Staf Kepresidenan Moeldoko menyerukan kepada seluruh jajaran pemerintahan untuk bersinergi mempersiapkan Pemilu 2024 dan meminimalisasi potensi gangguan yang ada. Tantangan Pemilu 2024, kata&#8230;"
+    },
+    {
+        "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/513761/8259-remaja-tuntas-divaksinasi-lengkap",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEzNzYxLzgyNTktcmVtYWphLXR1bnRhcy1kaXZha3NpbmFzaS1sZW5na2Fw",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEzNzYwL3JhaGFzaWEtc3Vrc2VzLXBlbGFrdS11bWttLWRhZXJhaC10ZW1idXMtZ2xvYmFs",
         "description": "PELAKU usaha mikro, kecil, menengah (UMKM) asal Solo, Monica Kumala, berhasil mendapatkan omzet ratusan juta rupiah per bulan berkat berjualan pakaian. Kesuksesan lain dirasakan UMKM tas kanvas asal&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/513756/dorong-umkm-lokal-tim-pengmas-umj-gelar-lokakarya-bagi-pengusaha-lokal-desa-kuripan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEzNzU2L2Rvcm9uZy11bWttLWxva2FsLXRpbS1wZW5nbWFzLXVtai1nZWxhci1sb2tha2FyeWEtYmFnaS1wZW5ndXNhaGEtbG9rYWwtZGVzYS1rdXJpcGFu",
-        "description": "TIM Program Kegiatan Pengabdian Masyarakat Skema Kemitraan Masyarakat (PKM) Universitas Muhammadiyah Jakarta menggelar kegiatan Workshop Penguatan Manajerial BUMDes dan Pelatihan Pembuatan Merek dan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/513755/pertambangan-masih-jadi-andalan-investasi-di-kalsel",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEzNzU1L3BlcnRhbWJhbmdhbi1tYXNpaC1qYWRpLWFuZGFsYW4taW52ZXN0YXNpLWRpLWthbHNlbA==",
-        "description": "SEKTOR pertambangan khususnya batu bara masih menjadi andalan investasi di Provinsi Kalimantan Selatan. Sepanjang 2022 nilai investasi yang masuk ke Kalsel sebesar Rp6,65 triliun dan didominasi sektor&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/513754/industri-tekstil-bertahan-di-tengah-pandemi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMzc1NC9pbmR1c3RyaS10ZWtzdGlsLWJlcnRhaGFuLWRpLXRlbmdhaC1wYW5kZW1p",
-        "description": "INDUSTRI tekstil dan produk tekstil (TPT) tetap bertahan selama pandemi, bahkan menjadi motor penggerak pertumbuhan ekonomi nasional. Hingga Juli 2022, komoditas unggulan itu mencatatkan nilai ekspor&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/513752/allgorhythm-fest-momentum-musisi-kenalkan-album-baru",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMzc1Mi9hbGxnb3JoeXRobS1mZXN0LW1vbWVudHVtLW11c2lzaS1rZW5hbGthbi1hbGJ1bS1iYXJ1",
-        "description": "SELEPAS vakum selama dua tahun lebih akibat pandemi Covid-19, kini para musisi merasakan kembali atmosfer manggung dalam arti sesungguhnya. Tidak lagi konser virtual.&nbsp; Hal ini diakui para&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/513751/airlangga-kib-ingin-mulai-pemilu-2024-dengan-hal-hal-baik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTM3NTEvYWlybGFuZ2dhLWtpYi1pbmdpbi1tdWxhaS1wZW1pbHUtMjAyNC1kZW5nYW4taGFsLWhhbC1iYWlr",
-        "description": "KOALISI Indonesia Bersatu (KIB) ingin memulai pesta demokrasi 2024 dengan hal-hal baik. Hal itu ditandai dengan pendaftaran diri sebagai peserta pemilu ke Gedung Komisi Pemilihan Umum (KPU) RI secara&#8230;"
     }
 ]
