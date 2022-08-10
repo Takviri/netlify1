@@ -1,5 +1,26 @@
 [
     {
+        "title": "BPIP Jabarkan Kiat ASN Berjiwa Pancasila",
+        "link": "https://nasional.tempo.co/read/1621227/bpip-jabarkan-kiat-asn-berjiwa-pancasila",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjEyMjcvYnBpcC1qYWJhcmthbi1raWF0LWFzbi1iZXJqaXdhLXBhbmNhc2lsYQ==",
+        "description": "ASN harus berkepribadian dan berkebudayaan Indonesia, memiliki semangat patriot yang utuh, semangat gotong royong, kesadaran bersahaja dan mengutamakan kejujuran."
+    },
+    {
+        "title": "Turnamen PUBG Mobile Season 4 Telah Hadir",
+        "link": "https://nasional.tempo.co/read/1621224/turnamen-pubg-mobile-season-4-telah-hadir",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjEyMjQvdHVybmFtZW4tcHViZy1tb2JpbGUtc2Vhc29uLTQtdGVsYWgtaGFkaXI=",
+        "description": "Hadiah pada Season 4 mencapai 100 juta rupiah, lebih besar dari musim-musim sebelumnya."
+    },
+    {
+        "title": "11 Polisi Ditahan karena Dugaan Pelanggaran Etik dan Profesi Kasus Brigadir J",
+        "link": "https://nasional.tempo.co/read/1621221/11-polisi-ditahan-karena-dugaan-pelanggaran-etik-dan-profesi-kasus-brigadir-j",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjEyMjEvMTEtcG9saXNpLWRpdGFoYW4ta2FyZW5hLWR1Z2Fhbi1wZWxhbmdnYXJhbi1ldGlrLWRhbi1wcm9mZXNpLWthc3VzLWJyaWdhZGlyLWo=",
+        "description": "Dedi menyebut 11 orang yang ditahan dalam kaitan kematian Brigadir J itu terdiri dari berbagai jabatan. Salah satunya adalah Irjen Ferdy Sambo"
+    },
+    {
         "title": "Kata Polri Soal Pemeriksaan Fahmi Alamsyah yang Diduga Terlibat di Kasus Brigadir J",
         "link": "https://nasional.tempo.co/read/1621219/kata-polri-soal-pemeriksaan-fahmi-alamsyah-yang-diduga-terlibat-di-kasus-brigadir-j",
         "image": "static/images/tempo_nasional.png",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjExOTQvcmVha3NpLW9yYW5nLXR1YS1icmlnYWRpci1qLXVzYWktdGFodS1hbmFrbnlhLWRpdGVtYmFrLWF0YXMtcGVyaW50YWgtZmVyZHktc2FtYm8=",
         "description": "Kapolri Jenderal Listyo Sigit Prabowo menyatakan Brigadir J ditembak atas perintah atasannya Irjen Ferdy Sambo."
-    },
-    {
-        "title": "Golkar, PAN, dan PPP ke KPU, Pasha Ungu Pimpin Rombongan Pawai",
-        "link": "https://nasional.tempo.co/read/1621191/golkar-pan-dan-ppp-ke-kpu-pasha-ungu-pimpin-rombongan-pawai",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjExOTEvZ29sa2FyLXBhbi1kYW4tcHBwLWtlLWtwdS1wYXNoYS11bmd1LXBpbXBpbi1yb21ib25nYW4tcGF3YWk=",
-        "description": "Penyanyi Pasha Ungu memimpin rombongan pawai kader Golkar, PAN dan PPP yang berbarengan menuju Kantor KPU untuk mendaftar sebagai peserta Pemilu 2024"
-    },
-    {
-        "title": "Profil Fahmi Alamsyah, yang Diduga Terlibat Buat Skenario Penembakan Brigadir J",
-        "link": "https://nasional.tempo.co/read/1621168/profil-fahmi-alamsyah-yang-diduga-terlibat-buat-skenario-penembakan-brigadir-j",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjExNjgvcHJvZmlsLWZhaG1pLWFsYW1zeWFoLXlhbmctZGlkdWdhLXRlcmxpYmF0LWJ1YXQtc2tlbmFyaW8tcGVuZW1iYWthbi1icmlnYWRpci1q",
-        "description": "Fahmi Alamsyah kini menjadi perbincangan setelah namanya dikaitkan dengan kasus penembakan Brigadir Nopryansah Yosua Hutabarat atau Brigadir J."
-    },
-    {
-        "title": "Perlu Antisipatif dengan Ketidakpastian Global",
-        "link": "https://nasional.tempo.co/read/1621187/perlu-antisipatif-dengan-ketidakpastian-global",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjExODcvcGVybHUtYW50aXNpcGF0aWYtZGVuZ2FuLWtldGlkYWtwYXN0aWFuLWdsb2JhbA==",
-        "description": "Kondisi geopolitik global bisa semakin buruk pada 2023. Pemerintah harus menghitung ulang APBN dan kebijakan subsidi."
     }
 ]
