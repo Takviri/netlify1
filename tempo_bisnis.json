@@ -1,5 +1,12 @@
 [
     {
+        "title": "Pendaftaran Mahasiswa Baru Politeknik Tempo Masih Dibuka Hingga September",
+        "link": "https://bisnis.tempo.co/read/1621409/pendaftaran-mahasiswa-baru-politeknik-tempo-masih-dibuka-hingga-september",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNDA5L3BlbmRhZnRhcmFuLW1haGFzaXN3YS1iYXJ1LXBvbGl0ZWtuaWstdGVtcG8tbWFzaWgtZGlidWthLWhpbmdnYS1zZXB0ZW1iZXI=",
+        "description": "Politeknik Tempo Jakarta masih membuka penerimaan mahasiswa baru untuk tahun akademik 2022/2023."
+    },
+    {
         "title": "DJBC: Perusahaan Penerima Fasilitas Kepabeanan Sumbang 40 Persen Ekspor Nasional",
         "link": "https://bisnis.tempo.co/read/1621392/djbc-perusahaan-penerima-fasilitas-kepabeanan-sumbang-40-persen-ekspor-nasional",
         "image": "static/images/tempo_bisnis.png",
@@ -61,12 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxMzM5L3RhcmlmLW9qZWstb25saW5lLW5haWstZ29qZWstcGFzdGlrYW4tcGVuZGFwYXRhbi1kcml2ZXItYmVya2VzaW5hbWJ1bmdhbg==",
         "description": "Gojek tengah mempelajari dan mendalami peraturan baru tentang tarif ojek online."
-    },
-    {
-        "title": "Kemendag: Harga Referensi CPO Turun Hampir 50 Persen",
-        "link": "https://bisnis.tempo.co/read/1621336/kemendag-harga-referensi-cpo-turun-hampir-50-persen",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxMzM2L2tlbWVuZGFnLWhhcmdhLXJlZmVyZW5zaS1jcG8tdHVydW4taGFtcGlyLTUwLXBlcnNlbg==",
-        "description": "Harga referensi produk minyak kelapa sawit atau crude palm oil (CPO) untuk penetapan bea keluar (BK) periode 9-15 Agustus 2022 adalah US$ 872,27 per metrik ton (MT)."
     }
 ]
