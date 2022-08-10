@@ -1,5 +1,12 @@
 [
     {
+        "title": "Inflasi AS 8,5%, Wall Street Kompak Melesat!",
+        "link": "https://www.cnbcindonesia.com/market/20220810174114-17-362763/inflasi-as-85-wall-street-kompak-melesat",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMTc0MTE0LTE3LTM2Mjc2My9pbmZsYXNpLWFzLTg1LXdhbGwtc3RyZWV0LWtvbXBhay1tZWxlc2F0",
+        "description": " Bursa saham AS kompak melejit pada pembukaan perdagangan hari ini,setelah rilis data inflasi AS yang menunjukkan penurunan."
+    },
+    {
         "title": "Mitratel Mulai Cari Pemasukan Dari Pihak Ketiga",
         "link": "https://www.cnbcindonesia.com/market/20220810184656-17-362793/mitratel-mulai-cari-pemasukan-dari-pihak-ketiga",
         "image": "static/images/cnbc_market.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMTYxMDAwLTE5LTM2MjcxNC9oYXJnYS1rb21vZGl0YXMtbWVsZXNhdC1zZWt0b3ItYmF0dS1iYXJhLWphZGktc3VtYmVyLWN1YW4=",
         "description": " Harga Komoditas Melesat, Sektor Batu Bara Jadi Sumber Cuan Bursa Saham?"
-    },
-    {
-        "title": "Kemendag Bantah Migor Rizki Program Pemerintah",
-        "link": "https://www.cnbcindonesia.com/market/20220810162605-17-362720/kemendag-bantah-migor-rizki-program-pemerintah",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMTYyNjA1LTE3LTM2MjcyMC9rZW1lbmRhZy1iYW50YWgtbWlnb3Itcml6a2ktcHJvZ3JhbS1wZW1lcmludGFo",
-        "description": " Kementerian Perdagangan (Kemendag) membantah bahwa minyak goreng Rizki seharga Rp 14.000 per liter bukanlah merek pemerintah."
     }
 ]
