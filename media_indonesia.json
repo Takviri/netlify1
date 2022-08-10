@@ -1,5 +1,47 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/513618/mantan-kekasih-ungkap-perlakuan-kasar-yang-diterima-dari-giggs",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzYxOC9tYW50YW4ta2VrYXNpaC11bmdrYXAtcGVybGFrdWFuLWthc2FyLXlhbmctZGl0ZXJpbWEtZGFyaS1naWdncw==",
+        "description": "MANTAN bintang Manchester United Ryan Giggs menyundul wajah mantan kekasihnya Kate Greville ketika dia berusaha mengakhiri hubungan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/513625/petugas-ppsu-aniaya-pacar-anies-dipecat-dan-serahkan-ke-pihak-berwajib",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTM2MjUvcGV0dWdhcy1wcHN1LWFuaWF5YS1wYWNhci1hbmllcy1kaXBlY2F0LWRhbi1zZXJhaGthbi1rZS1waWhhay1iZXJ3YWppYg==",
+        "description": "PETUGAS Penanganan Prasarana dan Sarana Umum (PPSU) atau pasukan oranye yang menganiaya sang pacar dipastikan akan menjalani proses hukum. Gubernur DKI Jakarta Anies Baswedan menegaskan tidak ada ruang&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/513623/personel-gabungan-polri-disiagakan-menjaga-aksi-demo-buruh-hari-ini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTM2MjMvcGVyc29uZWwtZ2FidW5nYW4tcG9scmktZGlzaWFnYWthbi1tZW5qYWdhLWFrc2ktZGVtby1idXJ1aC1oYXJpLWluaQ==",
+        "description": "POLRES Meteo Jakarta Barat menyiagakan sebanyak 278 personel gabungan guna pengamanan aksi demo dari element buruh yang rencananya akan digelar di depan gedung DPR/MPR pada Rabu (10/8). Personel&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/513622/muhaimin-minta-pemerintah-optimalkan-fasilitas-kesehatanuntuk-atasi-dbd",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEzNjIyL211aGFpbWluLW1pbnRhLXBlbWVyaW50YWgtb3B0aW1hbGthbi1mYXNpbGl0YXMta2VzZWhhdGFudW50dWstYXRhc2ktZGJk",
+        "description": "Muhaimin Minta Pemerintah Optimalkan Fasilitas Kesehatan&nbsp;untuk Atasi DBD Wakil Ketua DPR RI bidang Korkesra Abdul Muhaimin Iskandar meminta pemerintah mengoptimalkan pelayanan rumah sakit&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/513610/serena-williams-mengaku-ingin-berkembang-di-luar-tenis",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTM2MTAvc2VyZW5hLXdpbGxpYW1zLW1lbmdha3UtaW5naW4tYmVya2VtYmFuZy1kaS1sdWFyLXRlbmlz",
+        "description": "SERENA Williams mengungkapkan ingin berkembang di luar tenis saat mengumumkan rencana pensiun setelah penampilannya di Amerika&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/513619/penasihat-kapolri-mundur-usai-namanya-terseret-di-kasus-brigadir-j",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTM2MTkvcGVuYXNpaGF0LWthcG9scmktbXVuZHVyLXVzYWktbmFtYW55YS10ZXJzZXJldC1kaS1rYXN1cy1icmlnYWRpci1q",
+        "description": "PENASIHAT Ahli Kapolri bidang Komunikasi Publik Fahmi Alamsyah mengakui pengunduran dirinya yang sudah disampaikan kepada Kapolri Jenderal Listyo Sigit Prabowo, Selasa (9/8) sore. Pengunduran diri&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/513617/banjir-di-katingan-tengah-surut-aktivitas-warga-kembali-normal",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEzNjE0L21lZGlhLWluZG9uZXNpYS1sYXRpaC1yZXBvcnRlci1jaWxpay1tZW1idWF0LXR1bGlzYW4tbWVuYXJpaw==",
         "description": "MEDIA Indonesia kembali melaksanakan program Pelatihan Reporter Cilik. Di tahun 2022 ini, Media Indonesia bekerja sama dengan Majelis Dikdasmen Muhammadiyah untuk melatih anak-anak dari SD sampai SMP&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/513613/ihsg-hari-ini-dibuka-melemah-ke-posisi-707338",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMzYxMy9paHNnLWhhcmktaW5pLWRpYnVrYS1tZWxlbWFoLWtlLXBvc2lzaS03MDczMzg=",
-        "description": "PERGERAKAN Indeks Harga Saham gabungan (IHSG) pada hari ini, Rabu (10/8) dibuka melemah 29,5 poin atau 0,42 persen ke posisi 7.073,38. Sementara kelompok 45 saham unggulan atau indeks LQ45 turun 6,08&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/513612/12-tim-berjuang-di-babak-play-off-liga-champions",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzYxMi8xMi10aW0tYmVyanVhbmctZGktYmFiYWstcGxheS1vZmYtbGlnYS1jaGFtcGlvbnM=",
-        "description": "RANGERS berhasil melaju ke babak play-off Liga Champions 2022-2023 usai mengalahkan Union Saint-Gilloise 3-0 di leg kedua babak kualifikasi ketiga, Rabu (10/8) dini hari WIB. Saat ini sudah ada 12&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/513604/gauff-sebut-serena-williams-inspirasi-bagi-banyak-petenis-muda",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTM2MDQvZ2F1ZmYtc2VidXQtc2VyZW5hLXdpbGxpYW1zLWluc3BpcmFzaS1iYWdpLWJhbnlhay1wZXRlbmlzLW11ZGE=",
-        "description": "BINTANG tenis remaja Amerika Serikat (AS) mengaku terinspirasi untuk menjadi petenis oleh Serena Williams. Hal itu diungkapkannya,&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/513609/anies-baswedan-tidak-ada-ruang-bagi-pelaku-kekerasan-seksual",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTM2MDkvYW5pZXMtYmFzd2VkYW4tdGlkYWstYWRhLXJ1YW5nLWJhZ2ktcGVsYWt1LWtla2VyYXNhbi1zZWtzdWFs",
-        "description": "GUBERNUR DKI Jakarta, Anies Baswedan mengecam pelaku kekerasan dan peecehan seksual yang terjadi di lingkungan kerja Pemprov DKI Jakarta. &quot;Tidak ada ruang bagi kekerasan dan pelecehan di&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/513608/primaya-hospital-bekasi-barat-resmikan-layanan-khusus-lansia-di-momen-hut-ke-14",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEzNjA4L3ByaW1heWEtaG9zcGl0YWwtYmVrYXNpLWJhcmF0LXJlc21pa2FuLWxheWFuYW4ta2h1c3VzLWxhbnNpYS1kaS1tb21lbi1odXQta2UtMTQ=",
-        "description": "DALAM rangka hari jadinya yang ke-14 Primaya Hospital Bekasi Barat hadirkan Layanan Geriatri sebagai bentuk kepedulian terhadap pasien lansia. Layanan Geriatri sendiri merupakan sebuah layanan yang&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/513602/sidang-pelecehan-seksual-oleh-mendy-mulai-digelar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzYwMi9zaWRhbmctcGVsZWNlaGFuLXNla3N1YWwtb2xlaC1tZW5keS1tdWxhaS1kaWdlbGFy",
-        "description": "PEMAIN Manchester City Benjamin Mendy, Rabu (10/8), mulai menjalani sidang atas tuduhan pelecehan seksual dan pemerkosaan&#8230;"
     }
 ]

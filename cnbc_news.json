@@ -1,5 +1,47 @@
 [
     {
+        "title": "Mengintip Besaran Gaji dan Segudang Tunjangan Jenderal Polisi",
+        "link": "https://www.cnbcindonesia.com/news/20220810104034-4-362555/mengintip-besaran-gaji-segudang-tunjangan-jenderal-polisi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEwNDAzNC00LTM2MjU1NS9tZW5naW50aXAtYmVzYXJhbi1nYWppLXNlZ3VkYW5nLXR1bmphbmdhbi1qZW5kZXJhbC1wb2xpc2k=",
+        "description": " Berikut besaran gaji dan tunjangan yang diterima jajaran jenderal kepolisian"
+    },
+    {
+        "title": "Ramai Berobat Ke Luar Negeri, Mutu Layanan RS Jadi Masalah?",
+        "link": "https://www.cnbcindonesia.com/news/20220810102931-8-362551/ramai-berobat-ke-luar-negeri-mutu-layanan-rs-jadi-masalah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEwMjkzMS04LTM2MjU1MS9yYW1haS1iZXJvYmF0LWtlLWx1YXItbmVnZXJpLW11dHUtbGF5YW5hbi1ycy1qYWRpLW1hc2FsYWg=",
+        "description": " Ramai Berobat Ke Luar Negeri, Kualitas Layanan RS Jadi Persoalan"
+    },
+    {
+        "title": "Awas RI 'Diserang', Bos BI: Kita Harus Melindungi Diri!",
+        "link": "https://www.cnbcindonesia.com/news/20220810110439-4-362567/awas-ri-diserang-bos-bi-kita-harus-melindungi-diri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDExMDQzOS00LTM2MjU2Ny9hd2FzLXJpLWRpc2VyYW5nLWJvcy1iaS1raXRhLWhhcnVzLW1lbGluZHVuZ2ktZGlyaQ==",
+        "description": " Gubernur Bank Indonesia Perry Warjiyo mengungkapkan Indonesia saat ini tengah dibayangi ketidakpastian."
+    },
+    {
+        "title": "Anak Kos Nangis Mi Instan Bisa Naik 3x, Jokowi Sudah Warning",
+        "link": "https://www.cnbcindonesia.com/news/20220810105015-4-362562/anak-kos-nangis-mi-instan-bisa-naik-3x-jokowi-sudah-warning",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEwNTAxNS00LTM2MjU2Mi9hbmFrLWtvcy1uYW5naXMtbWktaW5zdGFuLWJpc2EtbmFpay0zeC1qb2tvd2ktc3VkYWgtd2FybmluZw==",
+        "description": " Efek domino perang Rusia-Ukraina masih berlanjut hingga sekarang. Termasuk ke Indonesia."
+    },
+    {
+        "title": "RI Belum Pulih Total, BI: Rakyat Baru Mulai Bisa Makan Enak",
+        "link": "https://www.cnbcindonesia.com/news/20220810105947-4-362565/ri-belum-pulih-total-bi-rakyat-baru-mulai-bisa-makan-enak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEwNTk0Ny00LTM2MjU2NS9yaS1iZWx1bS1wdWxpaC10b3RhbC1iaS1yYWt5YXQtYmFydS1tdWxhaS1iaXNhLW1ha2FuLWVuYWs=",
+        "description": " Ekonomi Indonesia mampu tumbuh sampai 5,44% pada kuartal II-2022."
+    },
+    {
+        "title": "Kebun dan Rekening Milik \"SD\" Disita Kejagung, Siapa Dia?",
+        "link": "https://www.cnbcindonesia.com/news/20220810091409-8-362524/kebun-rekening-milik-sd-disita-kejagung-siapa-dia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDA5MTQwOS04LTM2MjUyNC9rZWJ1bi1yZWtlbmluZy1taWxpay1zZC1kaXNpdGEta2VqYWd1bmctc2lhcGEtZGlh",
+        "description": " Surya Darmadi masih menjadi salah satu nama yang mencuat beberapa waktu belakangan"
+    },
+    {
         "title": "Xi Jinping Pening! Covid China Tembus 1000, Muncul Virus Baru",
         "link": "https://www.cnbcindonesia.com/news/20220810104610-4-362559/xi-jinping-pening-covid-china-tembus-1000-muncul-virus-baru",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDA5MzczNS04LTM2MjUzMy9tZW5ha2VyLWJpY2FyYS1wZWxhdGloYW4tZGlnaXRhbC10YWxlbnQtY2VwYXQtZGFwYXQta2VyamE=",
         "description": " Menaker Bicara Program Pelatihan Digital Talent, Cepat Dapat Kerja?"
-    },
-    {
-        "title": "Muncul Virus Langya di China, Lebih Mematikan dari Covid?",
-        "link": "https://www.cnbcindonesia.com/news/20220810103024-4-362552/muncul-virus-langya-di-china-lebih-mematikan-dari-covid",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEwMzAyNC00LTM2MjU1Mi9tdW5jdWwtdmlydXMtbGFuZ3lhLWRpLWNoaW5hLWxlYmloLW1lbWF0aWthbi1kYXJpLWNvdmlk",
-        "description": " Provinsi Shandong di timur dan provinsi Henan di tengah China melaporkan adanya jenis baru dari Henipavirus yang berasal dari hewan."
-    },
-    {
-        "title": "AS-China Panas Lagi, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220810090018-8-362516/as-china-panas-lagi-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDA5MDAxOC04LTM2MjUxNi9hcy1jaGluYS1wYW5hcy1sYWdpLWFkYS1hcGE=",
-        "description": " Hubungan Amerika Serikat dengan China makin memanas"
-    },
-    {
-        "title": "Mengintip Potret Kemeriahan Parade Hari Nasional Singapura",
-        "link": "https://www.cnbcindonesia.com/news/20220810084026-7-362504/mengintip-potret-kemeriahan-parade-hari-nasional-singapura",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDA4NDAyNi03LTM2MjUwNC9tZW5naW50aXAtcG90cmV0LWtlbWVyaWFoYW4tcGFyYWRlLWhhcmktbmFzaW9uYWwtc2luZ2FwdXJh",
-        "description": " Singapura merayakan kemerdekaan mereka dari Malaysia setiap tanggal 9 Agustus."
-    },
-    {
-        "title": "Irjen FS Jadi Tersangka, Kasus \"Brigadir J\" Terus Diusut",
-        "link": "https://www.cnbcindonesia.com/news/20220810091216-8-362522/irjen-fs-jadi-tersangka-kasus-brigadir-j-terus-diusut",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDA5MTIxNi04LTM2MjUyMi9pcmplbi1mcy1qYWRpLXRlcnNhbmdrYS1rYXN1cy1icmlnYWRpci1qLXRlcnVzLWRpdXN1dA==",
-        "description": " Mantan Kadiv Propam Polri Irjen Ferdy Sambo tersangka kasus kematian Nofryansyah Yosua Hutabarat atau Brigadir J"
-    },
-    {
-        "title": "Menaker 'Bongkar' Fakta Perusahaan Susah Cari Talenta Digital",
-        "link": "https://www.cnbcindonesia.com/news/20220810094935-4-362537/menaker-bongkar-fakta-perusahaan-susah-cari-talenta-digital",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDA5NDkzNS00LTM2MjUzNy9tZW5ha2VyLWJvbmdrYXItZmFrdGEtcGVydXNhaGFhbi1zdXNhaC1jYXJpLXRhbGVudGEtZGlnaXRhbA==",
-        "description": " Simak penuturan Menteri Ketenagakerjaan Ida Fauziyah berikut."
-    },
-    {
-        "title": "Jakarta Macet Gila, Begini Teguran Bos Pengusaha",
-        "link": "https://www.cnbcindonesia.com/news/20220810094553-4-362541/jakarta-macet-gila-begini-teguran-bos-pengusaha",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDA5NDU1My00LTM2MjU0MS9qYWthcnRhLW1hY2V0LWdpbGEtYmVnaW5pLXRlZ3VyYW4tYm9zLXBlbmd1c2FoYQ==",
-        "description": " Pengusaha mengkritik kemacetan di Jakarta yang hingga saat ini belum teratasi."
     }
 ]
