@@ -1,5 +1,33 @@
 [
     {
+        "title": "Malaysia-Thailand Teken Kerja Sama Bilateral USD 30 Miliar",
+        "link": "https://www.cnbcindonesia.com/news/20220810182609-8-362781/malaysia-thailand-teken-kerja-sama-bilateral-usd-30-miliar",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDE4MjYwOS04LTM2Mjc4MS9tYWxheXNpYS10aGFpbGFuZC10ZWtlbi1rZXJqYS1zYW1hLWJpbGF0ZXJhbC11c2QtMzAtbWlsaWFy",
+        "description": " Thailand dan Malaysia menyepakati perdagangan bilateral baru sebesar 30 miliar Dolar AS"
+    },
+    {
+        "title": "Pertalite Sisa 6,2 Juta KL Hingga Inflasi China Melesat 2,7%",
+        "link": "https://www.cnbcindonesia.com/news/20220810181811-8-362779/pertalite-sisa-62-juta-kl-hingga-inflasi-china-melesat-27",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDE4MTgxMS04LTM2Mjc3OS9wZXJ0YWxpdGUtc2lzYS02Mi1qdXRhLWtsLWhpbmdnYS1pbmZsYXNpLWNoaW5hLW1lbGVzYXQtMjc=",
+        "description": " kuota BBM jenis pertalite terus menipis\u00c2\u00a0hingga inflasi di China periode Juli 2022 tembus 2,7%"
+    },
+    {
+        "title": "WNI Doyan Berobat ke Malaysia, Luhut Mau Bikin RS Global",
+        "link": "https://www.cnbcindonesia.com/news/20220810171015-4-362752/wni-doyan-berobat-ke-malaysia-luhut-mau-bikin-rs-global",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDE3MTAxNS00LTM2Mjc1Mi93bmktZG95YW4tYmVyb2JhdC1rZS1tYWxheXNpYS1sdWh1dC1tYXUtYmlraW4tcnMtZ2xvYmFs",
+        "description": " Luhut pernah mewacanakan pembangunan rumah sakit internasional."
+    },
+    {
+        "title": "Rusia Gerah Nuklir AS di Eropa dan Asia-Pasifik, Mau Dirudal?",
+        "link": "https://www.cnbcindonesia.com/news/20220810174543-4-362764/rusia-gerah-nuklir-as-di-eropa-asia-pasifik-mau-dirudal",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDE3NDU0My00LTM2Mjc2NC9ydXNpYS1nZXJhaC1udWtsaXItYXMtZGktZXJvcGEtYXNpYS1wYXNpZmlrLW1hdS1kaXJ1ZGFs",
+        "description": " Rusia menyatakan keresahannya terhadap keberadaan senjata nuklir Amerika Serikat (AS) di beberapa wilayah dunia seperti Eropa dan Asia-Pasifik"
+    },
+    {
         "title": "Duh, Siap-Siap Harga Rumah Subsidi Bakal Naik",
         "link": "https://www.cnbcindonesia.com/news/20220810183558-8-362786/duh-siap-siap-harga-rumah-subsidi-bakal-naik",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDE3NTEyNy00LTM2Mjc2OC9wbG4tcGVyYmVzYXItY2FtcHVyYW4tYmlvbWFzc2EtMjAta2UtcGx0dQ==",
         "description": " PLN melakukan uji coba campuran biomassa ke PLTU dari sebelumnya 5% menjadi 20%"
-    },
-    {
-        "title": "Simak! Penjelasan Brompton Soal Harga Terjun Bebas",
-        "link": "https://www.cnbcindonesia.com/news/20220810174904-4-362776/simak-penjelasan-brompton-soal-harga-terjun-bebas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDE3NDkwNC00LTM2Mjc3Ni9zaW1hay1wZW5qZWxhc2FuLWJyb21wdG9uLXNvYWwtaGFyZ2EtdGVyanVuLWJlYmFz",
-        "description": " Soal Harga Sepeda Lipat di RI, Bos Brompton Buka Suara"
-    },
-    {
-        "title": "Update Corona: Kasus Covid-19 di RI Bertambah 5.926 Hari Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220810170343-16-362750/update-corona-kasus-covid-19-di-ri-bertambah-5926-hari-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDE3MDM0My0xNi0zNjI3NTAvdXBkYXRlLWNvcm9uYS1rYXN1cy1jb3ZpZC0xOS1kaS1yaS1iZXJ0YW1iYWgtNTkyNi1oYXJpLWluaQ==",
-        "description": " Tambahan 5.926 kasus itu lebih rendah dibandingkan kemarin yang tercatat 6.276. Dengan demikian saat ini total kasus 6.261.605."
-    },
-    {
-        "title": "Ramai Media Asing Beritakan Prabowo Siap Maju Pilpres 2024",
-        "link": "https://www.cnbcindonesia.com/news/20220810171947-4-362754/ramai-media-asing-beritakan-prabowo-siap-maju-pilpres-2024",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDE3MTk0Ny00LTM2Mjc1NC9yYW1haS1tZWRpYS1hc2luZy1iZXJpdGFrYW4tcHJhYm93by1zaWFwLW1hanUtcGlscHJlcy0yMDI0",
-        "description": " Keinginan Prabowo untuk mengikuti Pilpres 2024-2029 disampaikan usai mendaftarkan Partai Gerindra sebagai peserta Pemilu 2024 di kantor KPU, Senin (8/8/2022)."
-    },
-    {
-        "title": "Bak Kota Mati, Intip Sepinya Provinsi China Ini karena Covid",
-        "link": "https://www.cnbcindonesia.com/news/20220810164223-7-362727/bak-kota-mati-intip-sepinya-provinsi-china-ini-karena-covid",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDE2NDIyMy03LTM2MjcyNy9iYWsta290YS1tYXRpLWludGlwLXNlcGlueWEtcHJvdmluc2ktY2hpbmEtaW5pLWthcmVuYS1jb3ZpZA==",
-        "description": " Beberapa wilayah di Provinsi Hainan, China dikunci (lockdown) akibat Covid-19. Berikut potret beberapa wilayahnya."
     }
 ]
