@@ -1,5 +1,12 @@
 [
     {
+        "title": "Afganistan: Kisah penembak jitu Taliban yang sekarang jadi direktur pemerintahan daerah",
+        "link": "https://www.bbc.co.uk/indonesia/articles/crg6d93px5vo",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jcmc2ZDkzcHg1dm8=",
+        "description": "\u00e2\u0080\u009cDulu kami berperang menggunakan senjata api. Kini kami berusaha melayani rakyat dengan pena,\u00e2\u0080\u009d ujarnya."
+    },
+    {
         "title": "Di balik kebangkitan musik bertema anti-Muslim yang kian populer di India",
         "link": "https://www.bbc.co.uk/indonesia/articles/cjl599lxg36o",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC01MzczMTg3NA==",
         "description": "Indah, mudah, dan gratis: pemandangan hujan meteor akan menghiasi cakrawala dekat Anda pada pertengahan Agustus ini. Kapan, di mana dan bagaimana Anda dapat menikmatinya\u00e2\u0080\u00a6 dan tentu saja, mengapa itu terjadi?"
-    },
-    {
-        "title": "Israel-Gaza: Pasokan bantuan tiba menyusul gencatan senjata setelah 'perang roket' dengan korban puluhan orang meninggal, termasuk belasan anak-anak",
-        "link": "https://www.bbc.com/indonesia/dunia-62418002",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjI0MTgwMDI=",
-        "description": "Pasokan bantuan makanan dan bahan bakar telah tiba di Gaza setelah Israel sepakat melakukan gencatan senjata dengan kelompok Palestina yang memungkinkan dibukannya kembali perbatasan."
     }
 ]
