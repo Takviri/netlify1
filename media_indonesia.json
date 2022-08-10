@@ -1,5 +1,47 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/513834/bekuk-myanmar-indonesia-melaju-ke-final-aff-u-16",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzgzNC9iZWt1ay1teWFubWFyLWluZG9uZXNpYS1tZWxhanUta2UtZmluYWwtYWZmLXUtMTY=",
+        "description": "TIMNAS Indonesia berhasil melaju ke final Piala AFF U-16 2022&nbsp;setelah mengandaskan perlawanan Myanmar melalui adu tendangan penalti dengan skor 5-4 (1-1) dalam laga semifinal di Stadion Maguwoharjo,&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/513833/sudah-punya-lagu-sendiri-david-masih-enggan-lepas-nama-naif",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMzgzMy9zdWRhaC1wdW55YS1sYWd1LXNlbmRpcmktZGF2aWQtbWFzaWgtZW5nZ2FuLWxlcGFzLW5hbWEtbmFpZg==",
+        "description": "MUSIKUS David Bayu Danangjaya, 45, mengaku tidak ingin memaksakan diri untuk segera lepas dari nama besar band Naif. &quot;Enggak harus dipaksain kok, enggak lepas enggak masalah,&quot;&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/513831/barcelona-terancam-kehilangan-chrostensen-dan-kessie",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzgzMS9iYXJjZWxvbmEtdGVyYW5jYW0ta2VoaWxhbmdhbi1jaHJvc3RlbnNlbi1kYW4ta2Vzc2ll",
+        "description": "DUA pemain baru Barcelona, Andreas Christensen dan Franck Kessie bisa sama-sama pergi secara gratis jika klub tidak mampu mendaftarkan mereka sebelum pertandingan pembuka La Liga musim ini lawan Rayo&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/513830/baru-semusim-di-barca-memphis-depay-dikabarkan-merapat-ke-juventus",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzgzMC9iYXJ1LXNlbXVzaW0tZGktYmFyY2EtbWVtcGhpcy1kZXBheS1kaWthYmFya2FuLW1lcmFwYXQta2UtanV2ZW50dXM=",
+        "description": "BARU semusim di Barcelona, Memphis Depay dikabarkan merapat ke Juventus. Kedua klub dikabarkan sedikit lagi menyepakati nilai transfer penyerang tim nasional Belanda itu. Pemain berusia 28 tahun&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/513829/remaja-as-berbondong-bondong-tinggalkan-facebook",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTEzODI5L3JlbWFqYS1hcy1iZXJib25kb25nLWJvbmRvbmctdGluZ2dhbGthbi1mYWNlYm9vaw==",
+        "description": "REMAJA Amerika Serikat berbondong-bondong meninggalkan Facebook selama tujuh tahun terakhir. Mereka lebih memilih menghabiskan waktu di tempat berbagi video YouTube dan TikTok. Ini menurut data survei&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/513828/menang-adu-penalti-indonesia-lolos-ke-final-piala-aff-u-16",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzgyOC9tZW5hbmctYWR1LXBlbmFsdGktaW5kb25lc2lhLWxvbG9zLWtlLWZpbmFsLXBpYWxhLWFmZi11LTE2",
+        "description": "TIM U-16 Indonesia berhasil melaju ke final Piala AFF U-16 2022 setelah mengandaskan perlawanan Myanmar melalui adu tendangan penalti dengan skor 5-4 (1-1) dalam laga semifinal di Stadion Maguwoharjo,&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/513827/south-pacific-viscose-tampilkan-produk-serat-ramah-lingkungan-di-indointertex-inatex-2022",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEzODIyL3NlanVtbGFoLWRhbXBhay1wZXJjZXJhaWFuLWtlcGFkYS1hbmFr",
         "description": "HAMPIR setengah dari pasangan menikah di Amerika Serikat akhirnya bercerai, menurut beberapa perkiraan. Karena itu sering terjadi, betapa sulit dan traumatisnya perceraian untuk anak-anak.&nbsp;&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/513821/man-city-bantah-jual-bernardo-silva-ke-barca",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzgyMS9tYW4tY2l0eS1iYW50YWgtanVhbC1iZXJuYXJkby1zaWx2YS1rZS1iYXJjYQ==",
-        "description": "MANCHESTER City membantah telah menerima tawaran dari Barcelona untuk menjual Bernardo Silva. Pemain berusia 28 tahun itu telah dikaitkan dengan kepindahan ke Barcelona di dua bursa transfer musim&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/513820/kejagung-periksa-lima-saksi-korupsi-di-pt-waskita-beton-precast-tbk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTM4MjAva2VqYWd1bmctcGVyaWtzYS1saW1hLXNha3NpLWtvcnVwc2ktZGktcHQtd2Fza2l0YS1iZXRvbi1wcmVjYXN0LXRiaw==",
-        "description": "DIREKTUR Utama PT Waskita Beton Precast Tbk FX Purbayu Ratsunu (FPR) diperiksa terkait perkara dugaan tindak pidana korupsi penyimpangan penggunaan dana PT Waskita Beton Precast Tbk pada tahun 2016-&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/513819/mengenal-hormon-pada-manusia-ciri-ciri-ketidakseimbangan-hormon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEzODE5L21lbmdlbmFsLWhvcm1vbi1wYWRhLW1hbnVzaWEtY2lyaS1jaXJpLWtldGlkYWtzZWltYmFuZ2FuLWhvcm1vbg==",
-        "description": "TAHUKAH kamu hormon merupakan bagian terpenting dalam tubuh manusia dan melibatkan berbagai komponen untuk tetap bekerja dan berfungsi dengan baik? Untuk mengenal lebih dalam lagi tentang hormon pada&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/513818/pemerintah-ubah-tarif-batas-bawah-bea-keluar-cpo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMzgxOC9wZW1lcmludGFoLXViYWgtdGFyaWYtYmF0YXMtYmF3YWgtYmVhLWtlbHVhci1jcG8=",
-        "description": "PEMERINTAH resmi mengubah batas bawah tarif bea keluar atas komoditas Crude Palm Oil (CPO) dan produk turunannya dari yang sebelummya US$750 per metrik ton menjadi US$680 per metrik ton. Perubahan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/513817/nelayan-sulsel-dukung-ganjar-presiden-2024",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEzODE3L25lbGF5YW4tc3Vsc2VsLWR1a3VuZy1nYW5qYXItcHJlc2lkZW4tMjAyNA==",
-        "description": "TERIKNYA mentari di pesisir Matene tak menggoyahkan semangat komunitas nelayan di Tanete Rilau, Kabupaten Barru, Sulawesi Selatan (Sulsel) untuk berkumpul menyatakan aspirasinya: Ganjar Pranowo Presiden&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/513816/julo-dorong-inklusi-keuangan-lewat-kolaborasi-dengan-maliq-dessentials-di-lagu-indonesia-siapmelesat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMzgxNi9qdWxvLWRvcm9uZy1pbmtsdXNpLWtldWFuZ2FuLWxld2F0LWtvbGFib3Jhc2ktZGVuZ2FuLW1hbGlxLWRlc3NlbnRpYWxzLWRpLWxhZ3UtaW5kb25lc2lhLXNpYXBtZWxlc2F0",
-        "description": "PERUSAHAAN teknologi asal Indonesia, PT. JULO Teknologi Finansial (JULO) menggandeng grup musik Maliq &amp; D&rsquo;Essentials dan berkolaborasi membuat sebuah karya musik berjudul &lsquo;Indonesia&#8230;"
     }
 ]
