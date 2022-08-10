@@ -1,5 +1,33 @@
 [
     {
+        "title": "Gara-gara Inflasi, Nikel Tak Bergigi",
+        "link": "https://www.cnbcindonesia.com/market/20220810170858-17-362751/gara-gara-inflasi-nikel-tak-bergigi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMTcwODU4LTE3LTM2Mjc1MS9nYXJhLWdhcmEtaW5mbGFzaS1uaWtlbC10YWstYmVyZ2lnaQ==",
+        "description": " Harga nikel dunia melemah tipis setelah rilis inflasi China dan penantian inflasi AS."
+    },
+    {
+        "title": "Saham Grup Bakrie Kembali Menggeliat, Ada Apa Nih?",
+        "link": "https://www.cnbcindonesia.com/market/20220810153429-17-362705/saham-grup-bakrie-kembali-menggeliat-ada-apa-nih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMTUzNDI5LTE3LTM2MjcwNS9zYWhhbS1ncnVwLWJha3JpZS1rZW1iYWxpLW1lbmdnZWxpYXQtYWRhLWFwYS1uaWg=",
+        "description": " Saham-saham tersebut relatif malas bergerak bak zombie selama beberapa tahun terakhir."
+    },
+    {
+        "title": "Bursa Asia Ditutup Berjatuhan, STI Menghijau Sendirian",
+        "link": "https://www.cnbcindonesia.com/market/20220810164714-17-362735/bursa-asia-ditutup-berjatuhan-sti-menghijau-sendirian",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMTY0NzE0LTE3LTM2MjczNS9idXJzYS1hc2lhLWRpdHV0dXAtYmVyamF0dWhhbi1zdGktbWVuZ2hpamF1LXNlbmRpcmlhbg==",
+        "description": " Mayoritas bursa Asia-Pasifik melemah karena investor mencerna data inflasi China sembari menanti rilis data inflasi Amerika Serikat."
+    },
+    {
+        "title": "Bappebti: 383 Aset Kripto Bisa Diperdagangkan di Pasar Fisik",
+        "link": "https://www.cnbcindonesia.com/market/20220810154112-17-362707/bappebti-383-aset-kripto-bisa-diperdagangkan-di-pasar-fisik",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMTU0MTEyLTE3LTM2MjcwNy9iYXBwZWJ0aS0zODMtYXNldC1rcmlwdG8tYmlzYS1kaXBlcmRhZ2FuZ2thbi1kaS1wYXNhci1maXNpaw==",
+        "description": " Dalam Perba tersebut ditetapkan sebanyak 383 jenis aset kripto yang dapat diperdagangkan di pasar fisik aset kripto"
+    },
+    {
         "title": "Investor Main Aman, Harga Tembaga Turun",
         "link": "https://www.cnbcindonesia.com/market/20220810163815-17-362724/investor-main-aman-harga-tembaga-turun",
         "image": "static/images/cnbc_market.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMTI0MjQyLTE5LTM2MjYyOC9lbG9uLW11c2stbGVnby1sYWdpLXNhaGFtLXRlc2xh",
         "description": " Elon Musk, telah menjual 7,92 juta saham Tesla."
-    },
-    {
-        "title": "Menunggu Rilis Data Inflasi AS, Harga Emas Hari Ini Loyo",
-        "link": "https://www.cnbcindonesia.com/market/20220810153443-17-362706/menunggu-rilis-data-inflasi-as-harga-emas-hari-ini-loyo",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMTUzNDQzLTE3LTM2MjcwNi9tZW51bmdndS1yaWxpcy1kYXRhLWluZmxhc2ktYXMtaGFyZ2EtZW1hcy1oYXJpLWluaS1sb3lv",
-        "description": " Harga emas melandai 0,27%."
-    },
-    {
-        "title": "Harga Mie Instan Naik, Sandiaga Uno Ajak UKM Untuk 'Mikir'",
-        "link": "https://www.cnbcindonesia.com/market/20220810145149-17-362687/harga-mie-instan-naik-sandiaga-uno-ajak-ukm-untuk-mikir",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMTQ1MTQ5LTE3LTM2MjY4Ny9oYXJnYS1taWUtaW5zdGFuLW5haWstc2FuZGlhZ2EtdW5vLWFqYWstdWttLXVudHVrLW1pa2ly",
-        "description": " Indonesia mengandalkan pasokan gandum impor, dengan Rusia dan Ukraina merupakan negara pemasok gandum dunia."
-    },
-    {
-        "title": "Kena Profit Taking, IHSG Terlempar dari Zona 7.100",
-        "link": "https://www.cnbcindonesia.com/market/20220810152533-17-362703/kena-profit-taking-ihsg-terlempar-dari-zona-7100",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMTUyNTMzLTE3LTM2MjcwMy9rZW5hLXByb2ZpdC10YWtpbmctaWhzZy10ZXJsZW1wYXItZGFyaS16b25hLTcxMDA=",
-        "description": " IHSG ditutup merah hari ini"
-    },
-    {
-        "title": "Bos BEI Sebut Pasar Modal RI Tahan Gempuran Covid-19",
-        "link": "https://www.cnbcindonesia.com/market/20220810140343-17-362661/bos-bei-sebut-pasar-modal-ri-tahan-gempuran-covid-19",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMTQwMzQzLTE3LTM2MjY2MS9ib3MtYmVpLXNlYnV0LXBhc2FyLW1vZGFsLXJpLXRhaGFuLWdlbXB1cmFuLWNvdmlkLTE5",
-        "description": " Usia 45 Tahun BEI, Iman Rachman : Pasar Modal RI Tahan Dari Gempuran Covid-19"
     }
 ]
