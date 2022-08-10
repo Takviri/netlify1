@@ -1,5 +1,40 @@
 [
     {
+        "title": "Top! Diam-Diam Pesawat Buatan RI Dikirim ke Thailand",
+        "link": "https://www.cnbcindonesia.com/news/20220810121036-4-362602/top-diam-diam-pesawat-buatan-ri-dikirim-ke-thailand",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEyMTAzNi00LTM2MjYwMi90b3AtZGlhbS1kaWFtLXBlc2F3YXQtYnVhdGFuLXJpLWRpa2lyaW0ta2UtdGhhaWxhbmQ=",
+        "description": " Pekan lalu PTDI melakukan delivery 1 unit pesawat terbang NC212i untuk Thailand."
+    },
+    {
+        "title": "Pemerintah Mau Munculkan Konglomerat Baru, Ogah Itu-itu Terus",
+        "link": "https://www.cnbcindonesia.com/news/20220810132802-4-362645/pemerintah-mau-munculkan-konglomerat-baru-ogah-itu-itu-terus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEzMjgwMi00LTM2MjY0NS9wZW1lcmludGFoLW1hdS1tdW5jdWxrYW4ta29uZ2xvbWVyYXQtYmFydS1vZ2FoLWl0dS1pdHUtdGVydXM=",
+        "description": " Pemerintah tidak ingin konglomerat alias orang kaya di Indonesia hanya diisi orang yang sama terus menerus."
+    },
+    {
+        "title": "Markas Militer Rusia Meledak, 1 Orang Tewas",
+        "link": "https://www.cnbcindonesia.com/news/20220810124151-8-362625/markas-militer-rusia-meledak-1-orang-tewas",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEyNDE1MS04LTM2MjYyNS9tYXJrYXMtbWlsaXRlci1ydXNpYS1tZWxlZGFrLTEtb3JhbmctdGV3YXM=",
+        "description": " Pangkalan udara milik militer Rusia di Krimea meledak."
+    },
+    {
+        "title": "Brum..Brum, 6 Juta Motor Listrik Siap Mengaspal di RI",
+        "link": "https://www.cnbcindonesia.com/news/20220810121454-4-362605/brumbrum-6-juta-motor-listrik-siap-mengaspal-di-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEyMTQ1NC00LTM2MjYwNS9icnVtYnJ1bS02LWp1dGEtbW90b3ItbGlzdHJpay1zaWFwLW1lbmdhc3BhbC1kaS1yaQ==",
+        "description": " Kementerian ESDM menargetkan ada sebanyak 6 juta motor listrik siap mengaspal di RI tahun 2025"
+    },
+    {
+        "title": "Ultimatum Tito: Jika PNS Tidak Berubah, Akan Terlindas!",
+        "link": "https://www.cnbcindonesia.com/news/20220810115013-4-362587/ultimatum-tito-jika-pns-tidak-berubah-akan-terlindas",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDExNTAxMy00LTM2MjU4Ny91bHRpbWF0dW0tdGl0by1qaWthLXBucy10aWRhay1iZXJ1YmFoLWFrYW4tdGVybGluZGFz",
+        "description": " Simak penuturan Tito di Aula Kantor Bupati Sijunjung, Sumatra Barat, Selasa (9/8/2022)."
+    },
+    {
         "title": "Pertamina 'Pening', Kuota Pertalite Sisa 6,2 Juta KL",
         "link": "https://www.cnbcindonesia.com/news/20220810124027-4-362623/pertamina-pening-kuota-pertalite-sisa-62-juta-kl",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEyNDMzNC00LTM2MjYzMC9tYWFmLWtheWFrbnlhLW1hbGF5c2lhLWp1Z2EtYmFrYWwtc2FsaXAtaW5kb25lc2lhLWRlaA==",
         "description": " Laju pertumbuhan ekonomi Filipina jadi yang tercepat kedua di kawasan Asia Tenggara, setelah Vietnam."
-    },
-    {
-        "title": "Simak! Ini Perbandingan Ongkos Pakai Kendaraan BBM dan Listrik",
-        "link": "https://www.cnbcindonesia.com/news/20220810114937-4-362586/simak-ini-perbandingan-ongkos-pakai-kendaraan-bbm-listrik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDExNDkzNy00LTM2MjU4Ni9zaW1hay1pbmktcGVyYmFuZGluZ2FuLW9uZ2tvcy1wYWthaS1rZW5kYXJhYW4tYmJtLWxpc3RyaWs=",
-        "description": " Dirut PLN Darmawan Prasodjo membeberkan murahnya pemakaian kendaraan listrik"
-    },
-    {
-        "title": "Punya 'Harta Karun' Ini, Hilirisasi Mobil Listrik RI Terbaik!",
-        "link": "https://www.cnbcindonesia.com/news/20220810130006-4-362637/punya-harta-karun-ini-hilirisasi-mobil-listrik-ri-terbaik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEzMDAwNi00LTM2MjYzNy9wdW55YS1oYXJ0YS1rYXJ1bi1pbmktaGlsaXJpc2FzaS1tb2JpbC1saXN0cmlrLXJpLXRlcmJhaWs=",
-        "description": " Kepala BKPM Bahlil Lahadalia menyebutkan Indonesia menjadi negara terbaik dalam hilirisasi mobil listrik"
-    },
-    {
-        "title": "Misteri, Harta Kekayaan Ferdy Sambo Tak Tercatat di LHKPN",
-        "link": "https://www.cnbcindonesia.com/news/20220810124228-8-362627/misteri-harta-kekayaan-ferdy-sambo-tak-tercatat-di-lhkpn",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEyNDIyOC04LTM2MjYyNy9taXN0ZXJpLWhhcnRhLWtla2F5YWFuLWZlcmR5LXNhbWJvLXRhay10ZXJjYXRhdC1kaS1saGtwbg==",
-        "description": " Pasca ditetapkan jadi tersangka, harta kekayaan Ferdy Sambo jadi perhatian publik."
-    },
-    {
-        "title": "Terbaru! Defisit APBN 2023 Bakal Dipatok 2,87% PDB",
-        "link": "https://www.cnbcindonesia.com/news/20220810130044-4-362638/terbaru-defisit-apbn-2023-bakal-dipatok-287-pdb",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEzMDA0NC00LTM2MjYzOC90ZXJiYXJ1LWRlZmlzaXQtYXBibi0yMDIzLWJha2FsLWRpcGF0b2stMjg3LXBkYg==",
-        "description": " Defisit APBN akan dipatok pada level rendah, yaitu 2,87% terhadap produk domestik bruto (PDB)."
-    },
-    {
-        "title": "Duar! Potret Ledakan Dahsyat Guncang Pangkalan Militer Rusia",
-        "link": "https://www.cnbcindonesia.com/news/20220810121451-7-362607/duar-potret-ledakan-dahsyat-guncang-pangkalan-militer-rusia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEyMTQ1MS03LTM2MjYwNy9kdWFyLXBvdHJldC1sZWRha2FuLWRhaHN5YXQtZ3VuY2FuZy1wYW5na2FsYW4tbWlsaXRlci1ydXNpYQ==",
-        "description": " Ledakan dahsyat terjadi di pangkalan udara militer Rusia di dekat Novofedorivka, Krimea, Selasa (9/8/2022) waktu setempat. Spekulasi menyebut diserang Ukraina."
     }
 ]

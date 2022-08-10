@@ -1,5 +1,12 @@
 [
     {
+        "title": "BI: Dunia Sedang Bergejolak, Ekonomi Tengah Menurun Menuju Resesi",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220810111821-532-832741/bi-dunia-sedang-bergejolak-ekonomi-tengah-menurun-menuju-resesi",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEwMTExODIxLTUzMi04MzI3NDEvYmktZHVuaWEtc2VkYW5nLWJlcmdlam9sYWstZWtvbm9taS10ZW5nYWgtbWVudXJ1bi1tZW51anUtcmVzZXNp",
+        "description": " Bank Indonesia (BI) menyebut\u00c2\u00a0ekonomi dunia sedang bergejolak karena lonjakan inflasi dan\u00c2\u00a0ancaman resesi di sejumlah negara."
+    },
+    {
         "title": "Daftar Harga Mi Terbaru yang Kata Mentan Akan Naik 3 Kali Lipat",
         "link": "https://www.cnnindonesia.com/ekonomi/20220810125227-92-832796/daftar-harga-mi-terbaru-yang-kata-mentan-akan-naik-3-kali-lipat",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MjAyMTAzLTkyLTgzMjUxNi9wcm9kdWt0aXZpdGFzLXBla2VyamEtYXMtbWVyb3NvdC1wYWRhLWt1YXJ0YWwtaWktMjAyMg==",
         "description": " Departemen Tenaga Kerja Amerika Serikat menyebutkan produktivitas pekerja di negara tersebut merosot pada kuartal II 2022."
-    },
-    {
-        "title": "Bos Indofood Pede Harga Indomie Tak Terdampak Perang Rusia-Ukraina",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220810102520-92-832703/bos-indofood-pede-harga-indomie-tak-terdampak-perang-rusia-ukraina",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEwMTAyNTIwLTkyLTgzMjcwMy9ib3MtaW5kb2Zvb2QtcGVkZS1oYXJnYS1pbmRvbWllLXRhay10ZXJkYW1wYWstcGVyYW5nLXJ1c2lhLXVrcmFpbmE=",
-        "description": " Direktur PT Indofood Sukses Makmur Franky Welirang meyakini lonjakan harga gandum akibat perang Rusia-Ukraina tak akan berdampak ke harga Indomie."
     }
 ]
