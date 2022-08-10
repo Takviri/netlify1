@@ -1,5 +1,26 @@
 [
     {
+        "title": "Temuan Baru ICJR: Ada 73 Pasal Bermasalah di Draf RKUHP",
+        "link": "https://www.cnnindonesia.com/nasional/20220810181820-12-833020/temuan-baru-icjr-ada-73-pasal-bermasalah-di-draf-rkuhp",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMDE4MTgyMC0xMi04MzMwMjAvdGVtdWFuLWJhcnUtaWNqci1hZGEtNzMtcGFzYWwtYmVybWFzYWxhaC1kaS1kcmFmLXJrdWhw",
+        "description": " Indonesia Criminal Justice Reform (ICJR) menyebut jumlah pasal bermasalah bertambah dari 20 menjadi 73."
+    },
+    {
+        "title": "Kecelakaan Beruntun di Puncak Bogor, Satu Pemotor Tewas",
+        "link": "https://www.cnnindonesia.com/nasional/20220810183119-20-833029/kecelakaan-beruntun-di-puncak-bogor-satu-pemotor-tewas",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMDE4MzExOS0yMC04MzMwMjkva2VjZWxha2Fhbi1iZXJ1bnR1bi1kaS1wdW5jYWstYm9nb3Itc2F0dS1wZW1vdG9yLXRld2Fz",
+        "description": " Kecelakaan beruntun di Jalan Raya Umum Puncak, Megamendung, Bogor membuat satu pemotor vespa meninggal dunia."
+    },
+    {
+        "title": "Ospek Untirta Viral, Mahasiswa Baru Mengeluh Dijemur di Lapangan",
+        "link": "https://www.cnnindonesia.com/nasional/20220810182146-20-833026/ospek-untirta-viral-mahasiswa-baru-mengeluh-dijemur-di-lapangan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMDE4MjE0Ni0yMC04MzMwMjYvb3NwZWstdW50aXJ0YS12aXJhbC1tYWhhc2lzd2EtYmFydS1tZW5nZWx1aC1kaWplbXVyLWRpLWxhcGFuZ2Fu",
+        "description": " Saat ospek, mahasiswa dikabarkan dijemur di lapangan hingga dehidrasi dan beberapa mahasiswa pingsan."
+    },
+    {
         "title": "Enam Ambulans Brimob Keluar Beriringan dari Mako Brimob",
         "link": "https://www.cnnindonesia.com/nasional/20220810165823-20-832982/enam-ambulans-brimob-keluar-beriringan-dari-mako-brimob",
         "image": "static/images/cnn_news.png",
@@ -14,11 +35,11 @@
         "description": " Bripka Ricky Rizal (RR) dan KM ditetapkan sebagai tersangka dalam kasus tewasnya Brigadir J di rumah Irjen Ferdy Sambo."
     },
     {
-        "title": "Lansia di Cilegon Banten Suspek Cacar Monyet Jalani isolasi",
+        "title": "Lansia di Cilegon Banten Suspek Cacar Monyet Jalani Isolasi",
         "link": "https://www.cnnindonesia.com/nasional/20220810174619-20-833008/lansia-di-cilegon-banten-suspek-cacar-monyet-jalani-isolasi",
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMDE3NDYxOS0yMC04MzMwMDgvbGFuc2lhLWRpLWNpbGVnb24tYmFudGVuLXN1c3Blay1jYWNhci1tb255ZXQtamFsYW5pLWlzb2xhc2k=",
-        "description": " Seorang warga Kota Cilegon, Banten, berusia 60 tahun menjadi suspek cacat monyet atau monkeypox."
+        "description": " Seorang warga Kota Cilegon, Banten, berusia 60 tahun menjadi suspek cacar monyet atau monkeypox."
     },
     {
         "title": "Ferdy Sambo Tak Lengkap Laporkan Data LHKPN ke KPK",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMDE3MjAxMS0yMC04MzI5OTMvZ2VtcGEtbWFnbml0dWRvLTQxLWd1bmNhbmctcGlydS1tYWx1a3U=",
         "description": " Gempa bumi berkekuatan magnitudo 4,1 terjadi di Selatan Piru, Maluku, pada Selasa (10/8)."
-    },
-    {
-        "title": "Mengenal Tugas Fahmi Alamsyah, Penasihat Kapolri Terseret Kasus Sambo",
-        "link": "https://www.cnnindonesia.com/nasional/20220810160804-12-832946/mengenal-tugas-fahmi-alamsyah-penasihat-kapolri-terseret-kasus-sambo",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMDE2MDgwNC0xMi04MzI5NDYvbWVuZ2VuYWwtdHVnYXMtZmFobWktYWxhbXN5YWgtcGVuYXNpaGF0LWthcG9scmktdGVyc2VyZXQta2FzdXMtc2FtYm8=",
-        "description": " Penasihat Kapolri, Fahmi Alamsyah mengundurkan diri usai diduga terlibat dalam penyebaran skenario tembak-menembak di rumah Irjen Ferdy Sambo"
-    },
-    {
-        "title": "Sederet Kasus Ditangani Sambo, Kebakaran Kejagung hingga Laskar FPI",
-        "link": "https://www.cnnindonesia.com/nasional/20220810143133-12-832870/sederet-kasus-ditangani-sambo-kebakaran-kejagung-hingga-laskar-fpi",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMDE0MzEzMy0xMi04MzI4NzAvc2VkZXJldC1rYXN1cy1kaXRhbmdhbmktc2FtYm8ta2ViYWthcmFuLWtlamFndW5nLWhpbmdnYS1sYXNrYXItZnBp",
-        "description": " Selama berkiprah di Polri, jenderal bintang dua itu telah membongkar sejumlah kasus besar."
-    },
-    {
-        "title": "Polri Respons Mahfud soal Ancaman Pidana Pemberi Informasi Salah",
-        "link": "https://www.cnnindonesia.com/nasional/20220810164836-12-832973/polri-respons-mahfud-soal-ancaman-pidana-pemberi-informasi-salah",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMDE2NDgzNi0xMi04MzI5NzMvcG9scmktcmVzcG9ucy1tYWhmdWQtc29hbC1hbmNhbWFuLXBpZGFuYS1wZW1iZXJpLWluZm9ybWFzaS1zYWxhaA==",
-        "description": " Menko Polhukam Mahfud MD mengatakan polisi yang memberikan keterangan salah ke publik saat awal kasus Brigadir J bisa dikenai pidana."
     }
 ]
