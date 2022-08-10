@@ -1,5 +1,19 @@
 [
     {
+        "title": "Menaker Bicara BLT Subsidi Gaji, Jadi Cair Enggak Nih?",
+        "link": "https://www.cnbcindonesia.com/news/20220810080008-4-362503/menaker-bicara-blt-subsidi-gaji-jadi-cair-enggak-nih",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDA4MDAwOC00LTM2MjUwMy9tZW5ha2VyLWJpY2FyYS1ibHQtc3Vic2lkaS1nYWppLWphZGktY2Fpci1lbmdnYWstbmlo",
+        "description": " Pemerintah telah mengalokasikan dana penyaluran subsidi gaji pada tahun ini sebesar Rp 8,8 triliun"
+    },
+    {
+        "title": "Rusia Pamer 'Piala' Senjata AS-Inggris, Direbut di Ukraina",
+        "link": "https://www.cnbcindonesia.com/news/20220810070050-4-362480/rusia-pamer-piala-senjata-as-inggris-direbut-di-ukraina",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDA3MDA1MC00LTM2MjQ4MC9ydXNpYS1wYW1lci1waWFsYS1zZW5qYXRhLWFzLWluZ2dyaXMtZGlyZWJ1dC1kaS11a3JhaW5h",
+        "description": " Para pejabat Rusia telah memamerkan piala, termasuk senjata Amerika Serikat (AS), yang dilaporkan direbut militer Moskow selama perang di Ukraina."
+    },
+    {
         "title": "Masuk Tahun Politik, Akankah Harga BBM Naik Tahun Depan?",
         "link": "https://www.cnbcindonesia.com/news/20220810073323-4-362489/masuk-tahun-politik-akankah-harga-bbm-naik-tahun-depan",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDA2MzgzMi00LTM2MjQ2OS9hbmFrLWtvcy1zaWFwLXNpYXAtbmFuZ2lzLWhhcmdhLW1pLWluc3Rhbi1uYWlrLTMta2FsaS1saXBhdA==",
         "description": " Menteri Pertanian Syahrul Yasin Limpo memperingatkan, potensi lonjakan harga mi instan akibat efek domino perang Rusia-Ukraina."
-    },
-    {
-        "title": "Prioritas Jokowi 2023: Pemilu dan Bangun Ibu Kota Baru",
-        "link": "https://www.cnbcindonesia.com/news/20220810064006-4-362470/prioritas-jokowi-2023-pemilu-bangun-ibu-kota-baru",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDA2NDAwNi00LTM2MjQ3MC9wcmlvcml0YXMtam9rb3dpLTIwMjMtcGVtaWx1LWJhbmd1bi1pYnUta290YS1iYXJ1",
-        "description": " Pemilu dan pembangunan Ibu Kota Baru akan menjadi prioritas utama pemerintahan Jokowi di sisa satu tahun masa jabatannya"
-    },
-    {
-        "title": "Alert! Putin Disebut Siap Luncurkan Nuklir ke Ukraina 2023",
-        "link": "https://www.cnbcindonesia.com/news/20220810064328-4-362473/alert-putin-disebut-siap-luncurkan-nuklir-ke-ukraina-2023",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDA2NDMyOC00LTM2MjQ3My9hbGVydC1wdXRpbi1kaXNlYnV0LXNpYXAtbHVuY3Vya2FuLW51a2xpci1rZS11a3JhaW5hLTIwMjM=",
-        "description": " Presiden Rusia Vladimir Putin disebut akan meluncurkan serangan nuklir ke Ukraina pada musim semi 2023 mendatang."
     }
 ]

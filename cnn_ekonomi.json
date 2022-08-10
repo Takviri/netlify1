@@ -1,5 +1,12 @@
 [
     {
+        "title": "Kinerja Penjualan Eceran di RI Naik pada Juli 2022",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220809134729-532-832232/kinerja-penjualan-eceran-di-ri-naik-pada-juli-2022",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MTM0NzI5LTUzMi04MzIyMzIva2luZXJqYS1wZW5qdWFsYW4tZWNlcmFuLWRpLXJpLW5haWstcGFkYS1qdWxpLTIwMjI=",
+        "description": " Hasil Survei Penjualan Eceran (SPE) Bank Indonesia\u00c2\u00a0menyebut kinerja penjualan eceran pada Juli meningkat dipicu penjualan sandang, BBM dan suku cadang."
+    },
+    {
         "title": "Ancaman Resesi Dunia Tekan Harga Minyak",
         "link": "https://www.cnnindonesia.com/ekonomi/20220810075520-85-832630/ancaman-resesi-dunia-tekan-harga-minyak",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEwMDU0NjM3LTkyLTgzMjU5NC9sYXBvcmFuLWtpbmVyamEtZW1pdGVuLW1hc2loLWphZGktb2JhdC1rdWF0LWloc2ctaGFyaS1pbmk=",
         "description": " IHSG diperkirakan menguat pada Rabu (10/8) ini akibat tertopang rilis data kinerja emiten yang diperkirakan positif."
-    },
-    {
-        "title": "Pemerintah Masih Perdebatkan Payung Hukum Pembentukan BLU Batu Bara",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220809145800-85-832289/pemerintah-masih-perdebatkan-payung-hukum-pembentukan-blu-batu-bara",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MTQ1ODAwLTg1LTgzMjI4OS9wZW1lcmludGFoLW1hc2loLXBlcmRlYmF0a2FuLXBheXVuZy1odWt1bS1wZW1iZW50dWthbi1ibHUtYmF0dS1iYXJh",
-        "description": " Menteri ESDM Arifin Tasrif menyebut pembentukan BLU batu bara hingga kini masih belum kelar karena ada perdebatan soal bentuk payung hukumnya."
     }
 ]

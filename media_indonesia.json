@@ -1,5 +1,47 @@
 [
     {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/513574/cara-bijak-menjalani-patah-hati",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMzU3NC9jYXJhLWJpamFrLW1lbmphbGFuaS1wYXRhaC1oYXRp",
+        "description": "Buku-buku pengambangan diri belakangan kian marak dan muncul dengan banyak formula. Spesifikasi tema yang diulik pun tidak sekadar disajikan sebagai pengalaman pribadi, tapi sebagai pengetahuan baru&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/513580/harga-emas-naik-71-dolar-as-tertekan-inflasi-as",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMzU4MC9oYXJnYS1lbWFzLW5haWstNzEtZG9sYXItYXMtdGVydGVrYW4taW5mbGFzaS1hcw==",
+        "description": "HARGA Emas menguat pada akhir perdagangan Selasa (Rabu pagi WIB), memperpanjang keuntungan di atas level psikologis 1.800 dolar AS untuk hari kedua berturut-turut, ditopang dolar AS yang lebih lemah&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/513579/ukraina-bantah-sabotase-pangkalan-udara-rusia-di-krimea",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMzU3OS91a3JhaW5hLWJhbnRhaC1zYWJvdGFzZS1wYW5na2FsYW4tdWRhcmEtcnVzaWEtZGkta3JpbWVh",
+        "description": "UKRAINA membantah tudingan Rusia soal sabotase di pangkalan udara Saki, Krimea. Kyiv menuduh balik Moskow yang gagal menjaga amunisi segi meledak yang mengakibatkan satu tewas dan delapan orang terluka.&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/513577/kiat-sukses-petani-milenial-bertani-jahe-merah-di-sruwen",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEzNTc3L2tpYXQtc3Vrc2VzLXBldGFuaS1taWxlbmlhbC1iZXJ0YW5pLWphaGUtbWVyYWgtZGktc3J1d2Vu",
+        "description": "BAGI sebagian besar anak muda, menjadi petani bukanlah pilihan yang menarik. Namun, hal itu tidak berlaku bagi Eko Susilo (32 tahun). Pria kelahiran Boyolali ini mengaku memilih terjun di dunia pertanian&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/513578/puan-publik-menunggu-penuntasan-kasus-penembakan-brigadir-j-secara-transparan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTM1NzgvcHVhbi1wdWJsaWstbWVudW5nZ3UtcGVudW50YXNhbi1rYXN1cy1wZW5lbWJha2FuLWJyaWdhZGlyLWotc2VjYXJhLXRyYW5zcGFyYW4=",
+        "description": "KETUA&nbsp; DPR RI Puan Maharani meminta Polri untuk segera menuntaskan kasus penembakan yang menyebabkan tewasnya Brigadir Nofriansyah Yoshua Hutabarat atau Brigadir J. Ia juga mengingatkan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/513576/penyebaran-penyakit-mulut-dan-kuku-ternak-di-jateng-mereda",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEzNTc2L3BlbnllYmFyYW4tcGVueWFraXQtbXVsdXQtZGFuLWt1a3UtdGVybmFrLWRpLWphdGVuZy1tZXJlZGE=",
+        "description": "PENULARAN penyakit mulut dan kuku (PMK) di Jawa Tengah menurun dratis setelah digeber dengan vaksinasi ternak, sebanyak 60.000 dosis vaksin kembali datang Rabu (10/8) ini dan siap didistribusikan ke&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/513572/film-kamu-tidak-sendiri-buat-ayu-dyan-pasha-sadar-soal-inner-child",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMzU3My9zZWphcmFoLXlhbWFtb3RveWFtYS1zYWxhaC1zYXR1LXBlcnVzYWhhYW4tdGVoLXRlcnR1YS1kYW4tdGVya2F5YS1kaS1qZXBhbmc=",
         "description": "Dunia tampak sedikit berbeda ketika keluarga Yamamoto pindah ke Tokyo pada akhir abad ke-17. Di sana, mereka mendirikan toko teh kecil, tepatnya pada tahun 1690. Toko ini kemudian berkembang menjadi&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/513571/studi-ungkap-dampak-lingkungan-dari-57000-produk-yang-dijual-di-supermarket",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMzU3MS9zdHVkaS11bmdrYXAtZGFtcGFrLWxpbmdrdW5nYW4tZGFyaS01NzAwMC1wcm9kdWsteWFuZy1kaWp1YWwtZGktc3VwZXJtYXJrZXQ=",
-        "description": "Mengonsumsi buah dan sayuran dapat memberikan dampak nyata terhadap kesehatan dan juga lingkungan. Selain itu, pola makan yang berkelanjutan seperti mengurangi konsumsi daging merah dan protein hewani,&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/513566/cedera-punggung-osaka-mundur-di-putaran-pertama-toronto-masters",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTM1NjYvY2VkZXJhLXB1bmdndW5nLW9zYWthLW11bmR1ci1kaS1wdXRhcmFuLXBlcnRhbWEtdG9yb250by1tYXN0ZXJz",
-        "description": "PERAIH empat gelar Grand Slam Naomi Osaka mengundurkan diri di laga putaran pertama Montreal Masters, Selasa (9/8), setelah&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/513570/kebijakan-bank-sentral-as-terlalu-agresif-ciptakan-bencana-di-negara-lain",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMzU3MC9rZWJpamFrYW4tYmFuay1zZW50cmFsLWFzLXRlcmxhbHUtYWdyZXNpZi1jaXB0YWthbi1iZW5jYW5hLWRpLW5lZ2FyYS1sYWlu",
-        "description": "KENAIKAN suku bunga yang terlalu agresif oleh Federal Reserve (Bank Sentral) AS menciptakan stagflasi di seluruh dunia dan tidak serta merta akan mengatasi akar penyebab inflasi domestik, kata seorang&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/513564/kyrgios-bukukan-kemenangan-beruntun-ketujuh",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTM1NjQva3lyZ2lvcy1idWt1a2FuLWtlbWVuYW5nYW4tYmVydW50dW4ta2V0dWp1aA==",
-        "description": "RUNNER-UP Wimbledon Nick Kyrgios membukukan kemenangan 6-4 dan 6-4 atsa Sebastian Baez di putaran pertama Montreal Masters,&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/513568/bksap-desak-dewan-keamanan-pbb-bentuk-pasukan-perdamaian-untuk-palestina",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMzU2OC9ia3NhcC1kZXNhay1kZXdhbi1rZWFtYW5hbi1wYmItYmVudHVrLXBhc3VrYW4tcGVyZGFtYWlhbi11bnR1ay1wYWxlc3RpbmE=",
-        "description": "KETUA&nbsp; Badan Kerja Sama Antar Parlemen (BKSAP) DPR RI Fadli Zon mengutuk keras serangan terbaru Israel kepada warga Palestina. Ia pun mendesak agar Dewan Keamanan (DK) Perserikatan Bangsa-Bangsa&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/513567/airlangga-zulkifli-hingga-suharso-monoarfa-daftar-bersama-ke-kpu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTM1NjcvYWlybGFuZ2dhLXp1bGtpZmxpLWhpbmdnYS1zdWhhcnNvLW1vbm9hcmZhLWRhZnRhci1iZXJzYW1hLWtlLWtwdQ==",
-        "description": "PARA Ketua Umum Partai yang tergabung dalam Koalisi Indonesia Bersatu (KIB) mendatangi Komisi Pemilihan Umum (KPU) RI bersama. Ketum Golongan Karya (Golkar) Airlangga Hartanto, Ketum Partai&#8230;"
     }
 ]
