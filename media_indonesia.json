@@ -1,5 +1,54 @@
 [
     {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/513590/buruh-akan-berdemo-di-dpr-hari-ini-ini-rekayasa-lalu-lintas-yang-disiapkan-polisi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTM1OTAvYnVydWgtYWthbi1iZXJkZW1vLWRpLWRwci1oYXJpLWluaS1pbmktcmVrYXlhc2EtbGFsdS1saW50YXMteWFuZy1kaXNpYXBrYW4tcG9saXNp",
+        "description": "POLISI mengimbau masyarakat untuk menghindari kawasan Senayan, Jakarta Pusat. Sebab, sejumlah elemen buruh berencana menggelar aksi demonstrasi&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/513582/seoul-dilanda-banjir-8-orang-meninggal-dan-6-hilang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMzU4Mi9zZW91bC1kaWxhbmRhLWJhbmppci04LW9yYW5nLW1lbmluZ2dhbC1kYW4tNi1oaWxhbmc=",
+        "description": "HUJAN lebat yang melanda Seoul, Korea Selatan (Korsel) sejak siang hingga malam hari pada Senin (8/8) menyebabkan banjir bandang&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/513587/pembangunan-masjid-nursiah-daud-paloh-di-sigi-capai-80-persen",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEzNTg3L3BlbWJhbmd1bmFuLW1hc2ppZC1udXJzaWFoLWRhdWQtcGFsb2gtZGktc2lnaS1jYXBhaS04MC1wZXJzZW4=",
+        "description": "KETUA Yayasan Media Group, Ali Sadikin, meninjau pembangunan Masjid Nursiah Daud Paloh, di lokasi Sekolah Sukma Bangsa Sigi, di Desa Maku, Kecamatan Dolo, Kabupaten Sigi, Sulawesi Tengah, Rabu (10/8).&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/513589/penanganan-dampak-embun-beku-di-lanny-jaya-berjalan-baik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEzNTg5L3BlbmFuZ2FuYW4tZGFtcGFrLWVtYnVuLWJla3UtZGktbGFubnktamF5YS1iZXJqYWxhbi1iYWlr",
+        "description": "Deputi V Kepala Staf Kepresidenan Jaleswari Pramodhawardani memastikan bahwa penanganan dampak cuaca ekstrem embun beku di kabupaten Lanny Jaya, Papua, berjalan baik. Ia mengatakan kementerian/lembaga&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/513586/90-persen-ibu-menyusui-membutuhkan-dukungan-suami",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEzNTg2LzkwLXBlcnNlbi1pYnUtbWVueXVzdWktbWVtYnV0dWhrYW4tZHVrdW5nYW4tc3VhbWk=",
+        "description": "Penelitian dari Health Collaborative Center (HCC) menunjukkan sebanyak 90 persen atau 1.810 responden ibu menyusui membutuhkan dukungan suami, serta 59 persen atau 1.182 responden menginginkan dukungan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/513581/diultimatum-durant-pemilik-nets-tegaskan-dukungan-untuk-nash",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTM1ODEvZGl1bHRpbWF0dW0tZHVyYW50LXBlbWlsaWstbmV0cy10ZWdhc2thbi1kdWt1bmdhbi11bnR1ay1uYXNo",
+        "description": "PEMILIK Brooklyn Nets Joe Tsai menyatakan dukungannya kepada pelatih Steve Nash dan General Manager Sean Marks, Selasa (9/8)&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/513583/jakarta-dipercaya-awali-seleknas-indonesia-patriots-2022-cari-talenta-pebasket-terbaik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTM1ODMvamFrYXJ0YS1kaXBlcmNheWEtYXdhbGktc2VsZWtuYXMtaW5kb25lc2lhLXBhdHJpb3RzLTIwMjItY2FyaS10YWxlbnRhLXBlYmFza2V0LXRlcmJhaWs=",
+        "description": "PENGURUS Provinsi Persatuan Bola Basket Seluruh Indonesia (Perbasi) DKI Jakarta dipercaya untuk menjadi tuan rumah pertama kegiatan Seleksi Nasional (Seleknas) Indonesia Patriots 2022. Indonesia&#8230;"
+    },
+    {
         "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/513574/cara-bijak-menjalani-patah-hati",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMzU3OS91a3JhaW5hLWJhbnRhaC1zYWJvdGFzZS1wYW5na2FsYW4tdWRhcmEtcnVzaWEtZGkta3JpbWVh",
         "description": "UKRAINA membantah tudingan Rusia soal sabotase di pangkalan udara Saki, Krimea. Kyiv menuduh balik Moskow yang gagal menjaga amunisi segi meledak yang mengakibatkan satu tewas dan delapan orang terluka.&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/513577/kiat-sukses-petani-milenial-bertani-jahe-merah-di-sruwen",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEzNTc3L2tpYXQtc3Vrc2VzLXBldGFuaS1taWxlbmlhbC1iZXJ0YW5pLWphaGUtbWVyYWgtZGktc3J1d2Vu",
-        "description": "BAGI sebagian besar anak muda, menjadi petani bukanlah pilihan yang menarik. Namun, hal itu tidak berlaku bagi Eko Susilo (32 tahun). Pria kelahiran Boyolali ini mengaku memilih terjun di dunia pertanian&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/513578/puan-publik-menunggu-penuntasan-kasus-penembakan-brigadir-j-secara-transparan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTM1NzgvcHVhbi1wdWJsaWstbWVudW5nZ3UtcGVudW50YXNhbi1rYXN1cy1wZW5lbWJha2FuLWJyaWdhZGlyLWotc2VjYXJhLXRyYW5zcGFyYW4=",
-        "description": "KETUA&nbsp; DPR RI Puan Maharani meminta Polri untuk segera menuntaskan kasus penembakan yang menyebabkan tewasnya Brigadir Nofriansyah Yoshua Hutabarat atau Brigadir J. Ia juga mengingatkan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/513576/penyebaran-penyakit-mulut-dan-kuku-ternak-di-jateng-mereda",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEzNTc2L3BlbnllYmFyYW4tcGVueWFraXQtbXVsdXQtZGFuLWt1a3UtdGVybmFrLWRpLWphdGVuZy1tZXJlZGE=",
-        "description": "PENULARAN penyakit mulut dan kuku (PMK) di Jawa Tengah menurun dratis setelah digeber dengan vaksinasi ternak, sebanyak 60.000 dosis vaksin kembali datang Rabu (10/8) ini dan siap didistribusikan ke&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/513572/film-kamu-tidak-sendiri-buat-ayu-dyan-pasha-sadar-soal-inner-child",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxMzU3Mi9maWxtLWthbXUtdGlkYWstc2VuZGlyaS1idWF0LWF5dS1keWFuLXBhc2hhLXNhZGFyLXNvYWwtaW5uZXItY2hpbGQ=",
-        "description": "AKTRIS Ayu Dyah Pasha mengaku film Kamu Tidak Sendiri membuatnya lebih menyadari tentang bahaya inner child yang terluka, yang sangat&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/513575/wajah-baru-borobudur-kian-menawan-sambut-wisatawan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEzNTc1L3dhamFoLWJhcnUtYm9yb2J1ZHVyLWtpYW4tbWVuYXdhbi1zYW1idXQtd2lzYXRhd2Fu",
-        "description": "PEMERINTAH mengebut revitalisasi kawasan wisata Super Prioritas Candi Borobudur. Kini, salah satu situs warisan budaya dunia itu tampil dengan wajah baru yang jauh lebih menarik. Dari segi tampilan,&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/513569/benfica-bertemu-kiev-dan-psv-kontra-rangers-di-playoff-liga-champions",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzU2OS9iZW5maWNhLWJlcnRlbXUta2lldi1kYW4tcHN2LWtvbnRyYS1yYW5nZXJzLWRpLXBsYXlvZmYtbGlnYS1jaGFtcGlvbnM=",
-        "description": "JUARA dua kali Liga Champipons Benfica akan berhadapan dengan klub Ukraina Dynamo Kiev sementara klub Eredivisie PSV Eindhoven&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/513573/sejarah-yamamotoyama-salah-satu-perusahaan-teh-tertua-dan-terkaya-di-jepang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMzU3My9zZWphcmFoLXlhbWFtb3RveWFtYS1zYWxhaC1zYXR1LXBlcnVzYWhhYW4tdGVoLXRlcnR1YS1kYW4tdGVya2F5YS1kaS1qZXBhbmc=",
-        "description": "Dunia tampak sedikit berbeda ketika keluarga Yamamoto pindah ke Tokyo pada akhir abad ke-17. Di sana, mereka mendirikan toko teh kecil, tepatnya pada tahun 1690. Toko ini kemudian berkembang menjadi&#8230;"
     }
 ]

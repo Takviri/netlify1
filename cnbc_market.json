@@ -1,5 +1,26 @@
 [
     {
+        "title": "Dibuka di Zona Merah, Reli 7 Hari  IHSG Patah",
+        "link": "https://www.cnbcindonesia.com/market/20220810091521-19-362525/dibuka-di-zona-merah-reli-7-hari-ihsg-patah",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMDkxNTIxLTE5LTM2MjUyNS9kaWJ1a2EtZGktem9uYS1tZXJhaC1yZWxpLTctaGFyaS1paHNnLXBhdGFo",
+        "description": " Reli 7 Hari Patah, IHSG Dibuka di Zona Merah"
+    },
+    {
+        "title": "Sudah Terbang Berhari-hari, Akhirnya IHSG Kena Profit Taking",
+        "link": "https://www.cnbcindonesia.com/market/20220810090730-17-362521/sudah-terbang-berhari-hari-akhirnya-ihsg-kena-profit-taking",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMDkwNzMwLTE3LTM2MjUyMS9zdWRhaC10ZXJiYW5nLWJlcmhhcmktaGFyaS1ha2hpcm55YS1paHNnLWtlbmEtcHJvZml0LXRha2luZw==",
+        "description": " IHSG dibuka terkoreksi hari ini"
+    },
+    {
+        "title": "Amerika (Mungkin) Turunkan Bunga Tahun Depan, Rupiah Jaya!",
+        "link": "https://www.cnbcindonesia.com/market/20220810071559-17-362484/amerika--mungkin--turunkan-bunga-tahun-depan-rupiah-jaya",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMDcxNTU5LTE3LTM2MjQ4NC9hbWVyaWthLS1tdW5na2luLS10dXJ1bmthbi1idW5nYS10YWh1bi1kZXBhbi1ydXBpYWgtamF5YQ==",
+        "description": " Rupiah mampu memanfaatkan laju dolar AS yang melambat."
+    },
+    {
         "title": "Deg-degan Tunggu Data Inflasi China-AS, Bursa Asia Lesu",
         "link": "https://www.cnbcindonesia.com/market/20220810083312-17-362500/deg-degan-tunggu-data-inflasi-china-as-bursa-asia-lesu",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMDY1NzA0LTE3LTM2MjQ3OC9nYWdhbC10ZW1idXMta2UtdXMtLTE4MDAtb25zLWhhcmdhLWVtYXMtbWFsYWgtdHVydW4=",
         "description": " Harga emas melandai 0,03%."
-    },
-    {
-        "title": "Giliran Hetzer Medical dan Toba Surimi Listing Bareng di BEI",
-        "link": "https://www.cnbcindonesia.com/market/20220810074027-17-362492/giliran-hetzer-medical-dan-toba-surimi-listing-bareng-di-bei",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMDc0MDI3LTE3LTM2MjQ5Mi9naWxpcmFuLWhldHplci1tZWRpY2FsLWRhbi10b2JhLXN1cmltaS1saXN0aW5nLWJhcmVuZy1kaS1iZWk=",
-        "description": " Kali ini, jam perdagangan BEI akan dibuka oleh pencatatan saham PT Hetzer Medical Indonesia Tbk (MEDS) dan PT Toba Surimi Industries Tbk (CRAB)"
-    },
-    {
-        "title": "Harga Batu Bara Naik 4%! Gara-gara Putin Nih...",
-        "link": "https://www.cnbcindonesia.com/market/20220810061924-17-362464/harga-batu-bara-naik-4-gara-gara-putin-nih",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMDYxOTI0LTE3LTM2MjQ2NC9oYXJnYS1iYXR1LWJhcmEtbmFpay00LWdhcmEtZ2FyYS1wdXRpbi1uaWg=",
-        "description": " Harga batu bara melesat 4,02% dibandingkan hari sebelumnya."
-    },
-    {
-        "title": "Saham JARR Terbang Terus Hingga Ekspansi BUAH dan KLIN",
-        "link": "https://www.cnbcindonesia.com/market/20220810065317-17-362479/saham-jarr-terbang-terus-hingga-ekspansi-buah-dan-klin",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMDY1MzE3LTE3LTM2MjQ3OS9zYWhhbS1qYXJyLXRlcmJhbmctdGVydXMtaGluZ2dhLWVrc3BhbnNpLWJ1YWgtZGFuLWtsaW4=",
-        "description": " Yuk simak kabar emiten, sebelum memulai perdagangan Rabu (10/8/2022):"
     }
 ]
