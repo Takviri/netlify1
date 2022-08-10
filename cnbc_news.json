@@ -1,5 +1,47 @@
 [
     {
+        "title": "Duh, Gusti... Tarif Ojol Naik, Apa-apa Naik...",
+        "link": "https://www.cnbcindonesia.com/news/20220810140918-4-362668/duh-gusti-tarif-ojol-naik-apa-apa-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDE0MDkxOC00LTM2MjY2OC9kdWgtZ3VzdGktdGFyaWYtb2pvbC1uYWlrLWFwYS1hcGEtbmFpaw==",
+        "description": " Lonjakan harga pangan, sandang, serta tarif jasa angkutan diperkirakan tidak bisa dikompensasi dengan kenaikan\u00c2\u00a0UMP."
+    },
+    {
+        "title": "Tim Pembina Samsat Kejar 40 Juta Kendaraan Belum Bayar Pajak",
+        "link": "https://www.cnbcindonesia.com/news/20220810141528-4-362664/tim-pembina-samsat-kejar-40-juta-kendaraan-belum-bayar-pajak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDE0MTUyOC00LTM2MjY2NC90aW0tcGVtYmluYS1zYW1zYXQta2VqYXItNDAtanV0YS1rZW5kYXJhYW4tYmVsdW0tYmF5YXItcGFqYWs=",
+        "description": " Berdasarkan data PT Jasa Raharja, masih ada 40 juta atau 39% kendaraan bermotor yang saat ini belum melakukan pembayaran PKB."
+    },
+    {
+        "title": "Foxconn Sampai UEA Investasi Ratusan Triliun di RI",
+        "link": "https://www.cnbcindonesia.com/news/20220810132303-8-362643/foxconn-sampai-uea-investasi-ratusan-triliun-di-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEzMjMwMy04LTM2MjY0My9mb3hjb25uLXNhbXBhaS11ZWEtaW52ZXN0YXNpLXJhdHVzYW4tdHJpbGl1bi1kaS1yaQ==",
+        "description": " Foxconn Sampai Uni Emirat Arab Investasi Ratusan Riliun di Indonesia"
+    },
+    {
+        "title": "Jumlah Pelanggan Naik, Pendapatan PLN Lompat Jadi Rp2,83 T",
+        "link": "https://www.cnbcindonesia.com/news/20220810122846-4-362617/jumlah-pelanggan-naik-pendapatan-pln-lompat-jadi-rp283-t",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEyMjg0Ni00LTM2MjYxNy9qdW1sYWgtcGVsYW5nZ2FuLW5haWstcGVuZGFwYXRhbi1wbG4tbG9tcGF0LWphZGktcnAyODMtdA==",
+        "description": " PLN mencatat pelanggan perusahaan naik khususnya dari sektor pertanian"
+    },
+    {
+        "title": "Harga Terigu 'Terbang' Biang Kerok Mi Instan Bisa Naik 3x",
+        "link": "https://www.cnbcindonesia.com/news/20220810133847-4-362651/harga-terigu-terbang-biang-kerok-mi-instan-bisa-naik-3x",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEzMzg0Ny00LTM2MjY1MS9oYXJnYS10ZXJpZ3UtdGVyYmFuZy1iaWFuZy1rZXJvay1taS1pbnN0YW4tYmlzYS1uYWlrLTN4",
+        "description": " Pernyataan Menteri Pertanian (Mentan) Syahrul Yasin Limpo terkait harga mi instan bakal naik 3 kali lipat tengah jadi sorotan."
+    },
+    {
+        "title": "Diam-diam Adik Prabowo Ekspor Ini dari Ukraina, Nih Buktinya",
+        "link": "https://www.cnbcindonesia.com/news/20220810133504-4-362648/diam-diam-adik-prabowo-ekspor-ini-dari-ukraina-nih-buktinya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEzMzUwNC00LTM2MjY0OC9kaWFtLWRpYW0tYWRpay1wcmFib3dvLWVrc3Bvci1pbmktZGFyaS11a3JhaW5hLW5paC1idWt0aW55YQ==",
+        "description": " Adik Menhan Prabowo Subianto, Hashim Djojohadikusumo, disebut menjadi pihak pertama yang mengekspor hasil pangan Ukraina pasca serangan Rusia."
+    },
+    {
         "title": "Top! Diam-Diam Pesawat Buatan RI Dikirim ke Thailand",
         "link": "https://www.cnbcindonesia.com/news/20220810121036-4-362602/top-diam-diam-pesawat-buatan-ri-dikirim-ke-thailand",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEyMTQ1NC00LTM2MjYwNS9icnVtYnJ1bS02LWp1dGEtbW90b3ItbGlzdHJpay1zaWFwLW1lbmdhc3BhbC1kaS1yaQ==",
         "description": " Kementerian ESDM menargetkan ada sebanyak 6 juta motor listrik siap mengaspal di RI tahun 2025"
-    },
-    {
-        "title": "Ultimatum Tito: Jika PNS Tidak Berubah, Akan Terlindas!",
-        "link": "https://www.cnbcindonesia.com/news/20220810115013-4-362587/ultimatum-tito-jika-pns-tidak-berubah-akan-terlindas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDExNTAxMy00LTM2MjU4Ny91bHRpbWF0dW0tdGl0by1qaWthLXBucy10aWRhay1iZXJ1YmFoLWFrYW4tdGVybGluZGFz",
-        "description": " Simak penuturan Tito di Aula Kantor Bupati Sijunjung, Sumatra Barat, Selasa (9/8/2022)."
-    },
-    {
-        "title": "Pertamina 'Pening', Kuota Pertalite Sisa 6,2 Juta KL",
-        "link": "https://www.cnbcindonesia.com/news/20220810124027-4-362623/pertamina-pening-kuota-pertalite-sisa-62-juta-kl",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEyNDAyNy00LTM2MjYyMy9wZXJ0YW1pbmEtcGVuaW5nLWt1b3RhLXBlcnRhbGl0ZS1zaXNhLTYyLWp1dGEta2w=",
-        "description": " Pertamina Patra Niaga berharap aturan pembatasan BBM segera dilaksanakan"
-    },
-    {
-        "title": "Bahlil Lahadalia dan Resep Kelola Investasi RI",
-        "link": "https://www.cnbcindonesia.com/news/20220810130709-8-362640/bahlil-lahadalia-resep-kelola-investasi-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEzMDcwOS04LTM2MjY0MC9iYWhsaWwtbGFoYWRhbGlhLXJlc2VwLWtlbG9sYS1pbnZlc3Rhc2ktcmk=",
-        "description": " Bahlil Lahadalia dan Resep Kelola Investasi di Tengah Gejolak Global"
-    },
-    {
-        "title": "Sah! Tim Pembina Samsat Nasional Diresmikan, Apa Tugasnya?",
-        "link": "https://www.cnbcindonesia.com/news/20220810130823-4-362641/sah-tim-pembina-samsat-nasional-diresmikan-apa-tugasnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEzMDgyMy00LTM2MjY0MS9zYWgtdGltLXBlbWJpbmEtc2Ftc2F0LW5hc2lvbmFsLWRpcmVzbWlrYW4tYXBhLXR1Z2Fzbnlh",
-        "description": " Pembentukan\u00c2\u00a0Tim Pembina Samsat Tingkat Nasional sebagai salah satu upaya penguatan pengawasan dalam mengoptimalkan potensi penerimaan pendapatan negara."
-    },
-    {
-        "title": "Perbandingan HIMARS AS Vs Sistem Rudal China, Siapa Unggul?",
-        "link": "https://www.cnbcindonesia.com/news/20220810095830-4-362540/perbandingan-himars-as-vs-sistem-rudal-china-siapa-unggul",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDA5NTgzMC00LTM2MjU0MC9wZXJiYW5kaW5nYW4taGltYXJzLWFzLXZzLXNpc3RlbS1ydWRhbC1jaGluYS1zaWFwYS11bmdndWw=",
-        "description": " Selama melakukan latihan militer di sekitar Taiwan, China dilaporkan telah menguji senjata baru di gudang senjata mereka."
-    },
-    {
-        "title": "Maaf, Kayaknya Malaysia Juga Bakal Salip Indonesia Deh...",
-        "link": "https://www.cnbcindonesia.com/news/20220810124334-4-362630/maaf-kayaknya-malaysia-juga-bakal-salip-indonesia-deh",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDEyNDMzNC00LTM2MjYzMC9tYWFmLWtheWFrbnlhLW1hbGF5c2lhLWp1Z2EtYmFrYWwtc2FsaXAtaW5kb25lc2lhLWRlaA==",
-        "description": " Laju pertumbuhan ekonomi Filipina jadi yang tercepat kedua di kawasan Asia Tenggara, setelah Vietnam."
     }
 ]
