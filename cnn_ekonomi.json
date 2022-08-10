@@ -1,5 +1,19 @@
 [
     {
+        "title": "Warga Bogor dan Jakarta Keluhkan Kelangkaan Pertalite",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220809195311-85-832486/warga-bogor-dan-jakarta-keluhkan-kelangkaan-pertalite",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MTk1MzExLTg1LTgzMjQ4Ni93YXJnYS1ib2dvci1kYW4tamFrYXJ0YS1rZWx1aGthbi1rZWxhbmdrYWFuLXBlcnRhbGl0ZQ==",
+        "description": " Sejumlah warga Jakarta dan Bogor mengeluhkan pertalite langka di sejumlah Stasiun Pengisian Bahan Bakar Umum (SPBU)."
+    },
+    {
+        "title": "Bos PLN Curhat Soal Pasokan Batu Bara Kian Seret",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220809173647-85-832413/bos-pln-curhat-soal-pasokan-batu-bara-kian-seret",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MTczNjQ3LTg1LTgzMjQxMy9ib3MtcGxuLWN1cmhhdC1zb2FsLXBhc29rYW4tYmF0dS1iYXJhLWtpYW4tc2VyZXQ=",
+        "description": " Direktur Utama PT Perusahaan Listrik Negara (Persero) (PLN) Darmawan Prasodjo blak-blakan soal pasokan batu bara kian seret memasuki semester II 2022."
+    },
+    {
         "title": "Laporan Kinerja Emiten Masih Jadi Obat Kuat IHSG Hari Ini",
         "link": "https://www.cnnindonesia.com/ekonomi/20220810054637-92-832594/laporan-kinerja-emiten-masih-jadi-obat-kuat-ihsg-hari-ini",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MTkwNjE4LTkyLTgzMjQ0Ny9ibHVlLWJpcmQtdGFrLWluZ2luLWlrdXQtaWt1dGFuLW5haWtrYW4tdGFyaWYtc2VwZXJ0aS1vam9s",
         "description": " PT Blue Bird Tbk belum akan menaikkan tarif layanan reguler taksi di tengah kenaikan tarif ojek online."
-    },
-    {
-        "title": "Krisis Menggila, Tarif Listrik Sri Lanka Naik Hingga 264 Persen",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220809185244-85-832440/krisis-menggila-tarif-listrik-sri-lanka-naik-hingga-264-persen",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MTg1MjQ0LTg1LTgzMjQ0MC9rcmlzaXMtbWVuZ2dpbGEtdGFyaWYtbGlzdHJpay1zcmktbGFua2EtbmFpay1oaW5nZ2EtMjY0LXBlcnNlbg==",
-        "description": " Sri Lanka akan menaikkan tarif listrik hingga 264 persen untuk golongan masyarakat yang paling sedikit mengkonsumsi listrik."
-    },
-    {
-        "title": "Daftar Tarif Angkutan Terbaru di Jakarta usai Tarif Ojol Naik",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220809175451-92-832421/daftar-tarif-angkutan-terbaru-di-jakarta-usai-tarif-ojol-naik",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MTc1NDUxLTkyLTgzMjQyMS9kYWZ0YXItdGFyaWYtYW5na3V0YW4tdGVyYmFydS1kaS1qYWthcnRhLXVzYWktdGFyaWYtb2pvbC1uYWlr",
-        "description": " KRL merupakan transportasi paling murah dibandingkan dengan MRT, TransJakarta, dan ojek online."
     }
 ]

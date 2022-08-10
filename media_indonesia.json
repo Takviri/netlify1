@@ -1,5 +1,19 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/513558/antetokounmpo-pimpin-yunani-tundukkan-spanyol",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTM1NTgvYW50ZXRva291bm1wby1waW1waW4teXVuYW5pLXR1bmR1a2thbi1zcGFueW9s",
+        "description": "BINTANG NBA Giannis Antetokounmpo mencetak 31 poin untuk memimpin timnas Yunani menang 86-70 atas Spanyol di laga persahabatan,&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/513557/kembali-ke-leipzig-werner-mengaku-bahagia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzU1Ny9rZW1iYWxpLWtlLWxlaXB6aWctd2VybmVyLW1lbmdha3UtYmFoYWdpYQ==",
+        "description": "STRIKER Timo Werner mengungkapkan rasa bahagianya dapat kembali ke klub Bundesliga RB Leipzig dari Chelsea pada bursa transfer&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/513563/kabareskrim-kecam-kuasa-hukum-yang-klaim-berhasil-buat-bharada-e-mengaku",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTM1NDQvZGktYmFsaWsta2VtYWp1YW4tcGVtYmFuZ3VuYW4tbWFudXNpYS1ka2ktamFrYXJ0YQ==",
         "description": "PARADIGMA pembangunan manusia (human development paradigm) menempatkan manusia sebagai titik sentral pembangunan dan bertujuan menciptakan lingkungan yang memungkinkan rakyat menikmati kehidupan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/513553/mahfud-tegaskan-pemerintah-akan-terus-mengawal-kasus-brigadir-j",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTM1NTMvbWFoZnVkLXRlZ2Fza2FuLXBlbWVyaW50YWgtYWthbi10ZXJ1cy1tZW5nYXdhbC1rYXN1cy1icmlnYWRpci1q",
-        "description": "MENTERI Koordinator Bidang Politik, Hukum, dan Keamanan (Menko Polhukam) Mahfud MD menyatakan pemerintah, melalui Kemenko Polhukam, akan terus mengawal pengusutan kasus kematian Brigadir Yoshua Hutabarat&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/513537/mengonter-radikalisme-memperkuat-moderasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTM1MzcvbWVuZ29udGVyLXJhZGlrYWxpc21lLW1lbXBlcmt1YXQtbW9kZXJhc2k=",
-        "description": "PANCASILA merupakan dasar negara, ideologi bangsa, dan sumber dari segala sumber hukum. Pancasila juga menjadi norma fundamental (fundamental norm), sekaligus pandangan hidup bangsa (weltanschauung).&#8230;"
     }
 ]
