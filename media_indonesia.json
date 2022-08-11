@@ -1,5 +1,19 @@
 [
     {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/514125/ini-harga-dan-spesifikasi-samsung-seri-z-flip-4-5g-terbaru",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE0MTI1L2luaS1oYXJnYS1kYW4tc3Blc2lmaWthc2ktc2Ftc3VuZy1zZXJpLXotZmxpcC00LTVnLXRlcmJhcnU=",
+        "description": "PRODUSEN ponsel pintar Samsung telah mengumumkan ponsel pintar layar lipat generasi terbaru mereka, Galaxy Z Flip 4 5G, di acara Samsung&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514124/werner-mengaku-putuskan-kembali-ke-leipzig-karena-flick",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDEyNC93ZXJuZXItbWVuZ2FrdS1wdXR1c2thbi1rZW1iYWxpLWtlLWxlaXB6aWcta2FyZW5hLWZsaWNr",
+        "description": "STRIKER RB Leipzig Timo Werner mengatakan manajer timnas Jerman Hansi Flick adalah orang mendorongnya untuk kembali ke RB Leipzig&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/514123/fabio-asher-rilis-dua-single-baru-sekaligus",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDExOS9tdS1kaWxhcG9ya2FuLXRlcnRhcmlrLWRhdGFuZ2thbi1nYWtwbw==",
         "description": "PENYERANG sayap PSV Eindhoven Cody Gakpo dilaporkan menjadi target buruan terbaru Manchester United pada bursa transfer&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/514118/meriahkan-giias-2022-fuso-tampilkan-produk-ramah-lingkungan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQxMTgvbWVyaWFoa2FuLWdpaWFzLTIwMjItZnVzby10YW1waWxrYW4tcHJvZHVrLXJhbWFoLWxpbmdrdW5nYW4=",
-        "description": "PT Krama Yudha Tiga Berlian Motors (KTB) memamerkan produk yang diklaim tangguh dan ramah lingkungan di ajang Gaikindo Indonesia International Auto Show (GIIAS) 2022 di Indonesia Convention Exhibition&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/514116/toyota-hadirkan-sports-car-all-new-gr86-dan-lima-model-gr-sport-di-giias",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQxMTYvdG95b3RhLWhhZGlya2FuLXNwb3J0cy1jYXItYWxsLW5ldy1ncjg2LWRhbi1saW1hLW1vZGVsLWdyLXNwb3J0LWRpLWdpaWFz",
-        "description": "UNTUK menegaskan komitmennya dalam menghadirkan 'Joy of GAZOO Racing' (GR)&nbsp;ke seluruh masyarakat Indonesia, PT Toyota-Astra Motor (TAM) memperkenalkan enam model baru GAZOO Racing pada&#8230;"
     }
 ]
