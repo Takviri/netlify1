@@ -1,6 +1,13 @@
 [
     {
         "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/514118/meriahkan-giias-2022-fuso-tampilkan-produk-ramah-lingkungan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQxMTgvbWVyaWFoa2FuLWdpaWFzLTIwMjItZnVzby10YW1waWxrYW4tcHJvZHVrLXJhbWFoLWxpbmdrdW5nYW4=",
+        "description": "PT Krama Yudha Tiga Berlian Motors (KTB) memamerkan produk yang diklaim tangguh dan ramah lingkungan di ajang Gaikindo Indonesia International Auto Show (GIIAS) 2022 di Indonesia Convention Exhibition&#8230;"
+    },
+    {
+        "title": "Otomotif",
         "link": "https://m.mediaindonesia.com/otomotif/514116/toyota-hadirkan-sports-car-all-new-gr86-dan-lima-model-gr-sport-di-giias",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQxMTYvdG95b3RhLWhhZGlya2FuLXNwb3J0cy1jYXItYWxsLW5ldy1ncjg2LWRhbi1saW1hLW1vZGVsLWdyLXNwb3J0LWRpLWdpaWFz",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTQxMDUvenZlcmV2LWZva3VzLXBlbXVsaWhhbi1qZWxhbmctdXMtb3Blbg==",
         "description": "PETENIS peringkat dua dunia Alexander Zverev menyatakan dirinya berpacu dengan waktu untuk memulihkan kondisi demi bisa tampil di US Open. Ia baru saja menjalani operasi pada ligamen pergelangan kakinya&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514104/final-aff-u-16-pelatih-vietnam-minta-pssi-jamin-keamanan-pemainnya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDEwNC9maW5hbC1hZmYtdS0xNi1wZWxhdGloLXZpZXRuYW0tbWludGEtcHNzaS1qYW1pbi1rZWFtYW5hbi1wZW1haW5ueWE=",
-        "description": "PELATIH timnas U-16 Vietnam, Nguyen Quoc Tuan, meminta PSSI untuk menjamin keamanan para pemainnya saat berlaga kontra Indonesia di Piala AFF U-16 2022 pada Jumat (12/8) besok. Pihaknya berharap&#8230;"
     }
 ]
