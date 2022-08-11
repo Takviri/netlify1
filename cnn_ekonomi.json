@@ -1,5 +1,33 @@
 [
     {
+        "title": "Wings Buka Suara soal Isu Harga Mi Instan Naik Sampai 3 Kali Lipat",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220811140117-92-833378/wings-buka-suara-soal-isu-harga-mi-instan-naik-sampai-3-kali-lipat",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODExMTQwMTE3LTkyLTgzMzM3OC93aW5ncy1idWthLXN1YXJhLXNvYWwtaXN1LWhhcmdhLW1pLWluc3Rhbi1uYWlrLXNhbXBhaS0zLWthbGktbGlwYXQ=",
+        "description": " PT Wings Group Indonesia, pemilik merek \"Mie Sedaap\", angkat bicara terkait dengan harga mi instan yang diprediksi naik tiga kali lipat dalam waktu dekat."
+    },
+    {
+        "title": "Antisipasi Krisis Pangan, Jokowi Targetkan Tanam 1 Juta Kelapa Genjah",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220811122143-532-833305/antisipasi-krisis-pangan-jokowi-targetkan-tanam-1-juta-kelapa-genjah",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODExMTIyMTQzLTUzMi04MzMzMDUvYW50aXNpcGFzaS1rcmlzaXMtcGFuZ2FuLWpva293aS10YXJnZXRrYW4tdGFuYW0tMS1qdXRhLWtlbGFwYS1nZW5qYWg=",
+        "description": " Presiden Jokowi menargetkan menanam 1 juta bibit kelapa genjah untuk mengantisipasi krisis pangan. Berikut daerah yang ditanami."
+    },
+    {
+        "title": "Minyak Goreng Curah di Jakarta Akhirnya Jinak di Rp14 Ribu per Liter",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220811124605-92-833323/minyak-goreng-curah-di-jakarta-akhirnya-jinak-di-rp14-ribu-per-liter",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODExMTI0NjA1LTkyLTgzMzMyMy9taW55YWstZ29yZW5nLWN1cmFoLWRpLWpha2FydGEtYWtoaXJueWEtamluYWstZGktcnAxNC1yaWJ1LXBlci1saXRlcg==",
+        "description": " Harga minyak goreng curah di Jakarta yang sempat melesat ke atas level Rp20 ribu per\u00c2\u00a0kg akhirnya mulai jinak ke Rp14 ribu. Berikut gambarannya."
+    },
+    {
+        "title": "Grup Emtek Lepas Saham Dana Rp4,51 T ke Lazada",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220811131755-92-833352/grup-emtek-lepas-saham-dana-rp451-t-ke-lazada",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODExMTMxNzU1LTkyLTgzMzM1Mi9ncnVwLWVtdGVrLWxlcGFzLXNhaGFtLWRhbmEtcnA0NTEtdC1rZS1sYXphZGE=",
+        "description": " PT Kreatif Media Karya (KMK), anak usaha PT Elang Mahkota Teknologi Tbk (Emtek), menjual sahamnya di induk perusahaan DANA PT Elang Andalan Nusantara (EAN)."
+    },
+    {
         "title": "Kemenkeu Gelontorkan Subsidi Bunga KUR Lebih dari Rp24 T Tahun Ini",
         "link": "https://www.cnnindonesia.com/ekonomi/20220811105849-532-833261/kemenkeu-gelontorkan-subsidi-bunga-kur-lebih-dari-rp24-t-tahun-ini",
         "image": "static/images/cnn_ekonomi.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODExMTEzMDE3LTkyLTgzMzI4MC9iYW50YWgtbWVudGFuLW1lbmRhZy1wYXN0aWthbi1oYXJnYS1taS10YWstbmFpay0zLWthbGktbGlwYXQ=",
         "description": " Mendag Zulkifli Hasan membantah harga mi instan akan naik 3 kali lipat sebagaimana pernah disampaikan Mentan Syahrul Yasin Limpo. Ini alasannya."
-    },
-    {
-        "title": "India Pilih Uang Asia untuk Impor Batu Bara Rusia Ketimbang Dolar AS",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220811095124-85-833244/india-pilih-uang-asia-untuk-impor-batu-bara-rusia-ketimbang-dolar-as",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODExMDk1MTI0LTg1LTgzMzI0NC9pbmRpYS1waWxpaC11YW5nLWFzaWEtdW50dWstaW1wb3ItYmF0dS1iYXJhLXJ1c2lhLWtldGltYmFuZy1kb2xhci1hcw==",
-        "description": " Perusahaan India lebih memilih memakai uang Asia untuk membayar impor batu bara Rusia ketimbang dolar AS. Berikut alasannya."
-    },
-    {
-        "title": "Wali Kota Solo Apresiasi Peran PLN Sukseskan Konser Dream Theater",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220811103350-90-833256/wali-kota-solo-apresiasi-peran-pln-sukseskan-konser-dream-theater",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODExMTAzMzUwLTkwLTgzMzI1Ni93YWxpLWtvdGEtc29sby1hcHJlc2lhc2ktcGVyYW4tcGxuLXN1a3Nlc2thbi1rb25zZXItZHJlYW0tdGhlYXRlcg==",
-        "description": " Dukungan PLN\u00c2\u00a0ini merupakan wujud komitmen\u00c2\u00a0untuk serta dalam pemulihan geliat perekonomian nasional, yakni dengan menghadirkan listrik yang andal."
-    },
-    {
-        "title": "Singapura Pangkas Proyeksi Pertumbuhan Ekonomi Akibat Lonjakan Inflasi",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220811102503-532-833258/singapura-pangkas-proyeksi-pertumbuhan-ekonomi-akibat-lonjakan-inflasi",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODExMTAyNTAzLTUzMi04MzMyNTgvc2luZ2FwdXJhLXBhbmdrYXMtcHJveWVrc2ktcGVydHVtYnVoYW4tZWtvbm9taS1ha2liYXQtbG9uamFrYW4taW5mbGFzaQ==",
-        "description": " Singapura memangkas proyeksi pertumbuhan ekonomi dari 3 persen-5 persen menjadi 1 persen-4 persen seiring dengan lonjakan inflasi belakanga ini."
-    },
-    {
-        "title": "Santap Nikmat Harga Hemat, 3 Porsi Sushi Gyu Katsu Nikaido Rp63 Ribu",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220809172534-97-832404/santap-nikmat-harga-hemat-3-porsi-sushi-gyu-katsu-nikaido-rp63-ribu",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MTcyNTM0LTk3LTgzMjQwNC9zYW50YXAtbmlrbWF0LWhhcmdhLWhlbWF0LTMtcG9yc2ktc3VzaGktZ3l1LWthdHN1LW5pa2FpZG8tcnA2My1yaWJ1",
-        "description": " Allo Bank\u00c2\u00a0kasih diskon 30 persen untuk pembelian 3 porsi sushi Gyu Katsu Nikaido jadi tinggal bayar Rp63 ribu saja."
     }
 ]

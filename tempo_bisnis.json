@@ -1,5 +1,54 @@
 [
     {
+        "title": "Harga Mi Instan di Bali Mulai Naik, Pengusaha: Tidak Ada Kepanikan",
+        "link": "https://bisnis.tempo.co/read/1621685/harga-mi-instan-di-bali-mulai-naik-pengusaha-tidak-ada-kepanikan",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNjg1L2hhcmdhLW1pLWluc3Rhbi1kaS1iYWxpLW11bGFpLW5haWstcGVuZ3VzYWhhLXRpZGFrLWFkYS1rZXBhbmlrYW4=",
+        "description": "Pedagang sembako di Pasar Katrangan, Ni Made Kartini, mengatakan harga mi instan per dus dari distributor sudah mengalami kenaikan Rp 10 ribu."
+    },
+    {
+        "title": "Analis Proyeksi BRI Raih Laba Besar di Akhir Tahun",
+        "link": "https://bisnis.tempo.co/read/1621683/analis-proyeksi-bri-raih-laba-besar-di-akhir-tahun",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNjgzL2FuYWxpcy1wcm95ZWtzaS1icmktcmFpaC1sYWJhLWJlc2FyLWRpLWFraGlyLXRhaHVu",
+        "description": "Meningkatnya kemampuan BRI dalam mencetak laba tidak terlepas dari pertumbuhan kredit, menjaga beban dana, dan menurunnya biaya provisi."
+    },
+    {
+        "title": "Bantu UMKM Naik Kelas, BRI Gelar Pengusaha Muda BRILian 2022",
+        "link": "https://bisnis.tempo.co/read/1621678/bantu-umkm-naik-kelas-bri-gelar-pengusaha-muda-brilian-2022",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNjc4L2JhbnR1LXVta20tbmFpay1rZWxhcy1icmktZ2VsYXItcGVuZ3VzYWhhLW11ZGEtYnJpbGlhbi0yMDIy",
+        "description": "Peserta yang dinyatakan lolos seleksi akan menjalani berbagai rangkaian kegiatan."
+    },
+    {
+        "title": "Mendag Teken Nota Kesepahaman dengan PBNU, Dorong UMKM Santri Naik Kelas",
+        "link": "https://bisnis.tempo.co/read/1621662/mendag-teken-nota-kesepahaman-dengan-pbnu-dorong-umkm-santri-naik-kelas",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNjYyL21lbmRhZy10ZWtlbi1ub3RhLWtlc2VwYWhhbWFuLWRlbmdhbi1wYm51LWRvcm9uZy11bWttLXNhbnRyaS1uYWlrLWtlbGFz",
+        "description": "Zulhas menuturkan pada 2021, UMKM berkontribusi dominan terhadap produk domestik bruto (PDB) Indonesia dan menyerap sebagian besar tenaga kerja."
+    },
+    {
+        "title": "Bank Mandiri Buka Lowongan Kerja Lewat Jalur Officer Development Program, Simak Syaratnya",
+        "link": "https://bisnis.tempo.co/read/1621616/bank-mandiri-buka-lowongan-kerja-lewat-jalur-officer-development-program-simak-syaratnya",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNjE2L2JhbmstbWFuZGlyaS1idWthLWxvd29uZ2FuLWtlcmphLWxld2F0LWphbHVyLW9mZmljZXItZGV2ZWxvcG1lbnQtcHJvZ3JhbS1zaW1hay1zeWFyYXRueWE=",
+        "description": "Bank Mandiri pada bulan Agustus ini membuka lowongan kerja lewat jalur Officer Development Program. Apa saja syarat dan ketentuannya?"
+    },
+    {
+        "title": "Erick Thohir: Garuda Sudah on The Track, tapi Harus Dikawal",
+        "link": "https://bisnis.tempo.co/read/1621661/erick-thohir-garuda-sudah-on-the-track-tapi-harus-dikawal",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNjYxL2VyaWNrLXRob2hpci1nYXJ1ZGEtc3VkYWgtb24tdGhlLXRyYWNrLXRhcGktaGFydXMtZGlrYXdhbA==",
+        "description": "Erick Thohir memastikan restrukturisasi Garuda telah berjalan sesuai yang diharapkan dalam dua bulan terakhir."
+    },
+    {
+        "title": "Bahlil: Yang Menyelamatkan Ekonomi saat Krisis Bukan Pengusaha Besar, tapi UMKM",
+        "link": "https://bisnis.tempo.co/read/1621652/bahlil-yang-menyelamatkan-ekonomi-saat-krisis-bukan-pengusaha-besar-tapi-umkm",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNjUyL2JhaGxpbC15YW5nLW1lbnllbGFtYXRrYW4tZWtvbm9taS1zYWF0LWtyaXNpcy1idWthbi1wZW5ndXNhaGEtYmVzYXItdGFwaS11bWtt",
+        "description": "Bahlil mencontohkan saat krisis 1998. Saat itu, kata di, para pengusaha besar  lari atau mempailitkan diri."
+    },
+    {
         "title": "Tarif Ojol Naik, Pengguna Curhat: Berat, Tapi Sudah Jadi Kebutuhan Primer",
         "link": "https://bisnis.tempo.co/read/1621639/tarif-ojol-naik-pengguna-curhat-berat-tapi-sudah-jadi-kebutuhan-primer",
         "image": "static/images/tempo_bisnis.png",
@@ -19,54 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNjMwL3BpbG90LWdhcnVkYS1iYW50YWgtcnVnaWthbi1uZWdhcmEtc2VsYW1hLXBhbmRlbWktZGFyaS1hd2FsLWthbWktYmVya29yYmFu",
         "description": "Kebijakan jaminan jam terbang bagi para pilot Garuda atau Guarantee Hour Allowance (GHA) diduga membuat keuangan perusahaan membengkak."
-    },
-    {
-        "title": "Airlangga Dorong Akselerasi Pemberian Vaksin Booster di Rumah Sakit",
-        "link": "https://bisnis.tempo.co/read/1621613/airlangga-dorong-akselerasi-pemberian-vaksin-booster-di-rumah-sakit",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNjEzL2FpcmxhbmdnYS1kb3JvbmctYWtzZWxlcmFzaS1wZW1iZXJpYW4tdmFrc2luLWJvb3N0ZXItZGktcnVtYWgtc2FraXQ=",
-        "description": "Airlangga Hartarto mendorong percepatan pemberian vaksin booster Covid-19 melalui peresmian cabang baru RS Citra Arafiq di Sawangan, Depok."
-    },
-    {
-        "title": "Jokowi Minta KUR Tersalurkan Lebih dari Rp 320 Triliun di 2024, Sri Mulyani: Sangat Besar",
-        "link": "https://bisnis.tempo.co/read/1621609/jokowi-minta-kur-tersalurkan-lebih-dari-rp-320-triliun-di-2024-sri-mulyani-sangat-besar",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNjA5L2pva293aS1taW50YS1rdXItdGVyc2FsdXJrYW4tbGViaWgtZGFyaS1ycC0zMjAtdHJpbGl1bi1kaS0yMDI0LXNyaS1tdWx5YW5pLXNhbmdhdC1iZXNhcg==",
-        "description": "Sri Mulyani menyatakan Jokowi telah meminta agar target volume penyaluran KUR bisa dinaikkan hingga lebih dari Rp 320 triliun pada tahun 2024."
-    },
-    {
-        "title": "Pelaku Usaha Ini Sebut Mental dan Mindset adalah Dasar Merintis Bisnis",
-        "link": "https://bisnis.tempo.co/read/1621593/pelaku-usaha-ini-sebut-mental-dan-mindset-adalah-dasar-merintis-bisnis",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNTkzL3BlbGFrdS11c2FoYS1pbmktc2VidXQtbWVudGFsLWRhbi1taW5kc2V0LWFkYWxhaC1kYXNhci1tZXJpbnRpcy1iaXNuaXM=",
-        "description": "Pelaku usaha industri fesyen butik ByArra Armita Hutagalung mengatakan mental dan mindset menjadi dasar saat merintis usaha."
-    },
-    {
-        "title": "Terkini Bisnis: Bos Indofood Bicara Soal Harga Mi Instan, Daftar 13 Proyek Strategis Nasional",
-        "link": "https://bisnis.tempo.co/read/1621596/terkini-bisnis-bos-indofood-bicara-soal-harga-mi-instan-daftar-13-proyek-strategis-nasional",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNTk2L3RlcmtpbmktYmlzbmlzLWJvcy1pbmRvZm9vZC1iaWNhcmEtc29hbC1oYXJnYS1taS1pbnN0YW4tZGFmdGFyLTEzLXByb3llay1zdHJhdGVnaXMtbmFzaW9uYWw=",
-        "description": "Berita terkini bisnis hingga siang ini dimulai dari Bos Indofood yang membantah harga mi instan yang disebut-sebut bakal naik hingga tiga kali lipat."
-    },
-    {
-        "title": "Harga Mi Instan Disebut Akan Naik 3 Kali Lipat, Zulkifli Hasan: Gandum Turun per September",
-        "link": "https://bisnis.tempo.co/read/1621588/harga-mi-instan-disebut-akan-naik-3-kali-lipat-zulkifli-hasan-gandum-turun-per-september",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNTg4L2hhcmdhLW1pLWluc3Rhbi1kaXNlYnV0LWFrYW4tbmFpay0zLWthbGktbGlwYXQtenVsa2lmbGktaGFzYW4tZ2FuZHVtLXR1cnVuLXBlci1zZXB0ZW1iZXI=",
-        "description": "Zulkifli Hasan yakin harga mi instan tidak bakal melonjak hingga tiga kali lipat seperti yang disebut oleh Menteri Pertanian sebelumnya. Kenapa?"
-    },
-    {
-        "title": "Harga Emas Antam Hari Ini Stabil di Rp 995 Ribu per Gram",
-        "link": "https://bisnis.tempo.co/read/1621577/harga-emas-antam-hari-ini-stabil-di-rp-995-ribu-per-gram",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNTc3L2hhcmdhLWVtYXMtYW50YW0taGFyaS1pbmktc3RhYmlsLWRpLXJwLTk5NS1yaWJ1LXBlci1ncmFt",
-        "description": "Harga emas batangan PT Aneka Tambang Tbk. atau harga emas Antam pada perdagangan hari ini masih stabil atau sama dengan kemarin."
-    },
-    {
-        "title": "Beda Pernyataan Mentan dan Mendag soal Harga Mi Instan Naik 3 Kali Lipat",
-        "link": "https://bisnis.tempo.co/read/1621584/beda-pernyataan-mentan-dan-mendag-soal-harga-mi-instan-naik-3-kali-lipat",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNTg0L2JlZGEtcGVybnlhdGFhbi1tZW50YW4tZGFuLW1lbmRhZy1zb2FsLWhhcmdhLW1pLWluc3Rhbi1uYWlrLTMta2FsaS1saXBhdA==",
-        "description": "Menteri Pertanian dan Menteri Perdagangan mengemukakan pendapat berbeda soal kenaikan harga mi instan."
     }
 ]
