@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kabar Buruk Baru: Air Hujan Planet Tercemar Zat Kimia Beracun, Tak Aman Diminum",
+        "link": "https://www.vice.com/id_id/article/m7gban/ilmuwan-sebut-air-hujan-di-planet-bumi-tidak-aman-diminum-karena-sudah-tercemar-perfluoroalkyl",
+        "image": "static/images/vice.png",
+        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9tN2diYW4vaWxtdXdhbi1zZWJ1dC1haXItaHVqYW4tZGktcGxhbmV0LWJ1bWktdGlkYWstYW1hbi1kaW1pbnVtLWthcmVuYS1zdWRhaC10ZXJjZW1hci1wZXJmbHVvcm9hbGt5bA==",
+        "description": "<enu di daerah terpencil seperti Antartika dan dataran tinggi Tibet sekalipun, air hujan mengandung kadar \u00e2\u0080\u009cbahan kimia abadi\u00e2\u0080\u009d dalam jumlah besar. Zat ini berbahaya dan sulit terurai."
+    },
+    {
+        "title": "Ferdy Sambo Puncak Gunung Es: Banyak Polisi Rekayasa Kasus, dari Jenderal Sampai Kroco",
+        "link": "https://www.vice.com/id_id/article/88qxx5/pembunuhan-brigadir-j-oleh-irjen-ferdy-sambo-puncak-gunung-es-daftar-rekayasa-kasus-oleh-anggota-polri",
+        "image": "static/images/vice.png",
+        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS84OHF4eDUvcGVtYnVudWhhbi1icmlnYWRpci1qLW9sZWgtaXJqZW4tZmVyZHktc2FtYm8tcHVuY2FrLWd1bnVuZy1lcy1kYWZ0YXItcmVrYXlhc2Eta2FzdXMtb2xlaC1hbmdnb3RhLXBvbHJp",
+        "description": "Laporan polisi merekayasa kasus berulangkali tercatat LSM serta media. Di tengah sorotan negatif publik, polisi berkukuh menolak ungkap motif Irjen Sambo, berdalih \"jaga perasaan\"."
+    },
+    {
         "title": "Masyarakat Adat Mentawai Menuntut UU Sumbar Direvisi karena Minang-sentris",
         "link": "https://www.vice.com/id_id/article/5d399b/masyarakat-adat-mentawai-menuntut-uu-sumbar-karena-tidak-akomodir-adat-mereka",
         "image": "static/images/vice.png",
@@ -54,19 +68,5 @@
         "image": "static/images/vice.png",
         "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS83azg4engvbWVuZ2ludGlwLXBlcmp1YW5nYW4tc3VrdS1zYWFtaS15YW5nLWFraGlybnlhLWRpYWt1aS1wZW1lcmludGFoLXJ1c2lh",
         "description": "Fotografer Natalya Saprunova menyorot kebudayaan suku Saami yang di Rusia. Keberadaan penduduk asli ini tersingkir sejak era Soviet, dan sejarahnya nyaris terlupakan."
-    },
-    {
-        "title": "Pasanganku Jago di Ranjang, Tapi Kenapa Aku Sekarang Tidak Menikmatinya Ya?",
-        "link": "https://www.vice.com/id_id/article/5d3pm3/pasanganku-jago-di-ranjang-tapi-kenapa-aku-sekarang-tidak-menikmatinya-ya",
-        "image": "static/images/vice.png",
-        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS81ZDNwbTMvcGFzYW5nYW5rdS1qYWdvLWRpLXJhbmphbmctdGFwaS1rZW5hcGEtYWt1LXNla2FyYW5nLXRpZGFrLW1lbmlrbWF0aW55YS15YQ==",
-        "description": "Problem macam ini banyak dialami pasangan, tapi sulit dibicarakan terbuka. Bercinta ternyata bukan sekadar kemampuan menyenangkan pasangan, tapi juga perkara psikologis."
-    },
-    {
-        "title": "Tiongkok Akan Kirim Satelit untuk Jadikan Bulan Perisai Bumi",
-        "link": "https://www.vice.com/id_id/article/epzzjw/tiongkok-akan-kirim-satelit-untuk-jadikan-bulan-perisai-bumi",
-        "image": "static/images/vice.png",
-        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9lcHp6ancvdGlvbmdrb2stYWthbi1raXJpbS1zYXRlbGl0LXVudHVrLWphZGlrYW4tYnVsYW4tcGVyaXNhaS1idW1p",
-        "description": "Astronom Tiongkok tertarik menyelidiki kondisi alam semesta ketika masih diliputi kegelapan, dengan cara menjadikan bulan perisai dari gangguan sinyal kosmik."
     }
 ]
