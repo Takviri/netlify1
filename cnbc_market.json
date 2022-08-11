@@ -1,5 +1,19 @@
 [
     {
+        "title": "Harga Mie Instan Naik, Eh.. Saham Produsennya Ikut Naik",
+        "link": "https://www.cnbcindonesia.com/market/20220811120333-17-362928/harga-mie-instan-naik-eh-saham-produsennya-ikut-naik",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTIwMzMzLTE3LTM2MjkyOC9oYXJnYS1taWUtaW5zdGFuLW5haWstZWgtc2FoYW0tcHJvZHVzZW5ueWEtaWt1dC1uYWlr",
+        "description": " Bahan baku utama untuk membuat mie instan adalah gandum."
+    },
+    {
+        "title": "Mi Instant Mulai Naik, Berapa Harga Jual di Luar Negeri?",
+        "link": "https://www.cnbcindonesia.com/market/20220811115329-17-362918/mi-instant-mulai-naik-berapa-harga-jual-di-luar-negeri",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTE1MzI5LTE3LTM2MjkxOC9taS1pbnN0YW50LW11bGFpLW5haWstYmVyYXBhLWhhcmdhLWp1YWwtZGktbHVhci1uZWdlcmk=",
+        "description": " Saat harga Indomie mulai merangkak naik, berapa harga Indomie di Luar Indonesia?"
+    },
+    {
         "title": "Sinar Mas Rampungkan Investasi di DANA Rp 2,97 T",
         "link": "https://www.cnbcindonesia.com/market/20220811114042-17-362914/sinar-mas-rampungkan-investasi-di-dana-rp-297-t",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTAyMDIwLTE3LTM2Mjg4Ny9rZWx1YXJnYS1zYXJpYWF0bWFkamEtanVhbC1kYW5hLWtlLWxhemFkYS1ycC00NTEtdA==",
         "description": " Nilai transaksi penjualan tersebut US$ 304,5 juta atau setara Rp 4,51 triliun."
-    },
-    {
-        "title": "Inflasi AS Turun, IHSG Kembali ke Level 7.100",
-        "link": "https://www.cnbcindonesia.com/market/20220811101839-19-362884/inflasi-as-turun-ihsg-kembali-ke-level-7100",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTAxODM5LTE5LTM2Mjg4NC9pbmZsYXNpLWFzLXR1cnVuLWloc2cta2VtYmFsaS1rZS1sZXZlbC03MTAw",
-        "description": " Inflasi AS Turun, IHSG Kembali ke Level 7.100"
-    },
-    {
-        "title": "Deretan Orang Terkaya Paling Muda di RI, Hartanya Triliunan",
-        "link": "https://www.cnbcindonesia.com/market/20220811094347-17-362869/deretan-orang-terkaya-paling-muda-di-ri-hartanya-triliunan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMDk0MzQ3LTE3LTM2Mjg2OS9kZXJldGFuLW9yYW5nLXRlcmtheWEtcGFsaW5nLW11ZGEtZGktcmktaGFydGFueWEtdHJpbGl1bmFu",
-        "description": " Dari daftar 50 orang terkaya di Indonesia yang dirilis Forbes dalam Indonesian Billionaire List, berikut beberapa nama pengusaha muda yang masuk daftar tersebut"
     }
 ]

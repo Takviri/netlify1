@@ -1,5 +1,12 @@
 [
     {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/513889/ferrari-tarik-23-ribu-mobil-dengan-alasan-cacat-pengereman",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTM4ODkvZmVycmFyaS10YXJpay0yMy1yaWJ1LW1vYmlsLWRlbmdhbi1hbGFzYW4tY2FjYXQtcGVuZ2VyZW1hbg==",
+        "description": "Produsen mobil sport legendaris Ferrari dilaporkan menarik kembali dari peredaran untuk perbaikan (recall) lebih dari 23.000 mobil karena cacat sistem pengereman. Menurut penarikan yang diajukan&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/513888/sejumlah-bumn-peringkat-teratas-100-perusahaan-terbesar-indonesia-erick-alhamdulillah",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxMzg4MC9rYXJpbS1iZW56ZW1hLWJlcnBlbHVhbmdyYWloLWJhbGxvbi1kb3I=",
         "description": "KARIM Benzema mencetak gol penting saat membantu Real Madrid mengalahkan Eintracht Frankfurt di ajang Piala Super UEFA, Kamis (11/8) dini hari WIB. Penyerang Prancis itu menjadi pencetak gol&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/513879/perubahan-iklim-turut-picu-munculnya-pandemi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEzODc5L3BlcnViYWhhbi1pa2xpbS10dXJ1dC1waWN1LW11bmN1bG55YS1wYW5kZW1p",
-        "description": "INISIATOR Pandemic Talks Firdza Radiany menilai akar masalah munculnya Covid-19 atau &nbsp;virus SARS-CoV-2 disebabkan oleh perubahan iklim, pemanasan global dan perubahan cuaca. Bukan hanya&#8230;"
     }
 ]

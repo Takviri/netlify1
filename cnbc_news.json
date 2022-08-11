@@ -1,5 +1,40 @@
 [
     {
+        "title": "Jadi, Subsidi BBM Bengkak Gegara Diskon Pajak Mobil Nih?",
+        "link": "https://www.cnbcindonesia.com/news/20220811112229-4-362912/jadi-subsidi-bbm-bengkak-gegara-diskon-pajak-mobil-nih",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTExMjIyOS00LTM2MjkxMi9qYWRpLXN1YnNpZGktYmJtLWJlbmdrYWstZ2VnYXJhLWRpc2tvbi1wYWphay1tb2JpbC1uaWg=",
+        "description": " Kebijakan membebaskan pajak mobil sejak tahun lalu menjadi buah simalakama bagi pemerintah."
+    },
+    {
+        "title": "Q2-2022, Ekonomi Singapura Tumbuh 4,4%",
+        "link": "https://www.cnbcindonesia.com/news/20220811114908-8-362915/q2-2022-ekonomi-singapura-tumbuh-44",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTExNDkwOC04LTM2MjkxNS9xMi0yMDIyLWVrb25vbWktc2luZ2FwdXJhLXR1bWJ1aC00NA==",
+        "description": " Ekonomi Singapura pada kuartal kedua tahun ini tumbuh 4,4%"
+    },
+    {
+        "title": "Perbandingan Harga BBM di Asean, RI Masih yang Paling Murah?",
+        "link": "https://www.cnbcindonesia.com/news/20220811110323-4-362900/perbandingan-harga-bbm-di-asean-ri-masih-yang-paling-murah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTExMDMyMy00LTM2MjkwMC9wZXJiYW5kaW5nYW4taGFyZ2EtYmJtLWRpLWFzZWFuLXJpLW1hc2loLXlhbmctcGFsaW5nLW11cmFo",
+        "description": " Perbandingan harga BBM se Asia Tenggara"
+    },
+    {
+        "title": "RI Temukan 'Harta Karun Super Langka', Negara Lain Tak Punya!",
+        "link": "https://www.cnbcindonesia.com/news/20220811120127-4-362927/ri-temukan-harta-karun-super-langka-negara-lain-tak-punya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTEyMDEyNy00LTM2MjkyNy9yaS10ZW11a2FuLWhhcnRhLWthcnVuLXN1cGVyLWxhbmdrYS1uZWdhcmEtbGFpbi10YWstcHVueWE=",
+        "description": " Badan Geologi mendeteksi adanya potensi mineral logam tanah jarang di Indonesia, yang jarang dimiliki oleh negara-negara lain"
+    },
+    {
+        "title": "Live! Muhadjir Ungkap Jurus Jokowi Basmi Kemiskinan Ekstrem",
+        "link": "https://www.cnbcindonesia.com/news/20220810220321-4-362806/live-muhadjir-ungkap-jurus-jokowi-basmi-kemiskinan-ekstrem",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDIyMDMyMS00LTM2MjgwNi9saXZlLW11aGFkamlyLXVuZ2thcC1qdXJ1cy1qb2tvd2ktYmFzbWkta2VtaXNraW5hbi1la3N0cmVt",
+        "description": " Simak penuturan Menteri Koordinator Bidang Pembangunan Manusia dan Kebudayaan Muhadjir Effendy dalam segmen khusus Economic Update di program Power Lunch."
+    },
+    {
         "title": "Tak Sampai Oktober, Kuota Pertalite Bisa Ludes Lebih Cepat!",
         "link": "https://www.cnbcindonesia.com/news/20220811103821-4-362894/tak-sampai-oktober-kuota-pertalite-bisa-ludes-lebih-cepat",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTExMzA0MS00LTM2MjkxMS9la29ub21pLXJpLW1lcm9rZXQtc3JpLW11bHlhbmktdGFrLXVzYWgtanVtYXdh",
         "description": " Pertumbuhan ekonomi Indonesia yang mencapai 5,44% (year on year) pada Kuartal II-2022 merupakan sesuatu yang sangat mengesankan"
-    },
-    {
-        "title": "Harga Gandum Naik, Produsen Tepung Pastikan Pasokan Aman",
-        "link": "https://www.cnbcindonesia.com/news/20220811093441-8-362865/harga-gandum-naik-produsen-tepung-pastikan-pasokan-aman",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTA5MzQ0MS04LTM2Mjg2NS9oYXJnYS1nYW5kdW0tbmFpay1wcm9kdXNlbi10ZXB1bmctcGFzdGlrYW4tcGFzb2thbi1hbWFu",
-        "description": " Harga Gandum Naik, Produsen Tepung Pastikan Pasokan Aman"
-    },
-    {
-        "title": "Gawat! Kuota BBM Pertalite dan Solar Habis Dua Bulan Lagi",
-        "link": "https://www.cnbcindonesia.com/news/20220811111543-4-362903/gawat-kuota-bbm-pertalite-dan-solar-habis-dua-bulan-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTExMTU0My00LTM2MjkwMy9nYXdhdC1rdW90YS1iYm0tcGVydGFsaXRlLWRhbi1zb2xhci1oYWJpcy1kdWEtYnVsYW4tbGFnaQ==",
-        "description": " BPH Migas mencatat jika tidak ada pengendalian kuota Pertalite dan Solar habis dua bulan lagi"
-    },
-    {
-        "title": "Gaji Petugas Pemilu Naik, Seharusnya Tembus Puluhan Juta Lho",
-        "link": "https://www.cnbcindonesia.com/news/20220811111107-4-362902/gaji-petugas-pemilu-naik-seharusnya-tembus-puluhan-juta-lho",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTExMTEwNy00LTM2MjkwMi9nYWppLXBldHVnYXMtcGVtaWx1LW5haWstc2VoYXJ1c255YS10ZW1idXMtcHVsdWhhbi1qdXRhLWxobw==",
-        "description": " KPU sebelumnya mengusulkan kenaikan honor petugas pemilu hingga tiga kali lipat"
-    },
-    {
-        "title": "Harga Mi Instan Sudah 'Terbang', Kini di Atas Rp 100 Ribu/Dus",
-        "link": "https://www.cnbcindonesia.com/news/20220811102044-4-362888/harga-mi-instan-sudah-terbang-kini-di-atas-rp-100-ribu-dus",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTEwMjA0NC00LTM2Mjg4OC9oYXJnYS1taS1pbnN0YW4tc3VkYWgtdGVyYmFuZy1raW5pLWRpLWF0YXMtcnAtMTAwLXJpYnUtZHVz",
-        "description": " Proyeksi kenaikan harga mi instan sempat heboh, tapi di lapangan memang sudah naik meski tak sampai 3 kali lipat."
-    },
-    {
-        "title": "Catat! Kuota Pertalite Sisa 6,2 Juta KL, Solar 5,01 Juta KL",
-        "link": "https://www.cnbcindonesia.com/news/20220811102022-4-362891/catat-kuota-pertalite-sisa-62-juta-kl-solar-501-juta-kl",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTEwMjAyMi00LTM2Mjg5MS9jYXRhdC1rdW90YS1wZXJ0YWxpdGUtc2lzYS02Mi1qdXRhLWtsLXNvbGFyLTUwMS1qdXRhLWts",
-        "description": " Kuota BBM Pertalite dan Solar Subsidi kian menipis"
     }
 ]
