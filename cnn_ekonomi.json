@@ -1,5 +1,19 @@
 [
     {
+        "title": "1.874 Perusahaan Terima Fasilitas Kepabeanan",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220810200421-532-833072/1874-perusahaan-terima-fasilitas-kepabeanan",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEwMjAwNDIxLTUzMi04MzMwNzIvMTg3NC1wZXJ1c2FoYWFuLXRlcmltYS1mYXNpbGl0YXMta2VwYWJlYW5hbg==",
+        "description": " DJBC Kemenkeu\u00c2\u00a0mencatat 1.874 perusahaan sudah mendapatkan fasilitas kepabeanan dari pemerintah hingga 31 Juli 2022."
+    },
+    {
+        "title": "Harga Minyak Perkasa Usai Inflasi AS Melandai pada Juli 2022",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220810113646-85-832757/harga-minyak-perkasa-usai-inflasi-as-melandai-pada-juli-2022",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEwMTEzNjQ2LTg1LTgzMjc1Ny9oYXJnYS1taW55YWstcGVya2FzYS11c2FpLWluZmxhc2ktYXMtbWVsYW5kYWktcGFkYS1qdWxpLTIwMjI=",
+        "description": " Harga minyak dunia menguat lebih dari 1 persen usai inflasi di AS melandai pada Juli kemarin. Hal itu memicu spekulasi pasar permintaan minyak naik."
+    },
+    {
         "title": "Bank Mandiri Klaim Kebakaran Plaza Mandiri Tak Ganggu Operasional",
         "link": "https://www.cnnindonesia.com/ekonomi/20220811080647-78-833199/bank-mandiri-klaim-kebakaran-plaza-mandiri-tak-ganggu-operasional",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEwMjAzNTI5LTUzMi04MzMwODUva2VtZW5rZXUtYmVyaS1zaW55YWwtY3VrYWktcm9rb2stYWthbi1uYWlrLXRpbmdnaS1kaS0yMDIz",
         "description": " DJBC Kemenkeu memberi sinyal cukai rokok 2023 bakal naik lebih tinggi dari tahun ini yang sebesar 12 persen."
-    },
-    {
-        "title": "IHSG Diprediksi Loyo Jelang Rilis Data Ekonomi AS dan China",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220811054618-92-833143/ihsg-diprediksi-loyo-jelang-rilis-data-ekonomi-as-dan-china",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODExMDU0NjE4LTkyLTgzMzE0My9paHNnLWRpcHJlZGlrc2ktbG95by1qZWxhbmctcmlsaXMtZGF0YS1la29ub21pLWFzLWRhbi1jaGluYQ==",
-        "description": " IHSG diprediksi melemah jelang rilis data ekonomi AS dan China pada Kamis (11/8). Pelemahan sudah terlihat dari faktor teknikal indeks."
-    },
-    {
-        "title": "Morgan Stanley Prediksi Ekonomi India Terkuat di Asia pada 2022-2023",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220810192838-532-833058/morgan-stanley-prediksi-ekonomi-india-terkuat-di-asia-pada-2022-2023",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEwMTkyODM4LTUzMi04MzMwNTgvbW9yZ2FuLXN0YW5sZXktcHJlZGlrc2ktZWtvbm9taS1pbmRpYS10ZXJrdWF0LWRpLWFzaWEtcGFkYS0yMDIyLTIwMjM=",
-        "description": " Morgan Stanley memprediksi ekonomi India menjadi yang terkuat di Asia pada 2022-2023."
     }
 ]
