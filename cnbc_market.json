@@ -1,5 +1,19 @@
 [
     {
+        "title": "Bursa Asia Terbang, Investor Party 'Till Drop",
+        "link": "https://www.cnbcindonesia.com/market/20220811163123-17-363062/bursa-asia-terbang-investor-party-till-drop",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTYzMTIzLTE3LTM2MzA2Mi9idXJzYS1hc2lhLXRlcmJhbmctaW52ZXN0b3ItcGFydHktdGlsbC1kcm9w",
+        "description": " Investor merespons positif dari rilis data inflasi terbaru Amerika Serikat pada Juli 2022."
+    },
+    {
+        "title": "Error di Jam Perdagangan, BEI Panggil Ajaib dan Stockbit",
+        "link": "https://www.cnbcindonesia.com/market/20220811162830-17-363058/error-di-jam-perdagangan-bei-panggil-ajaib-stockbit",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTYyODMwLTE3LTM2MzA1OC9lcnJvci1kaS1qYW0tcGVyZGFnYW5nYW4tYmVpLXBhbmdnaWwtYWphaWItc3RvY2tiaXQ=",
+        "description": " Aplikasi investasi saham Stockbit dan Ajaib sempat mengalami kendala."
+    },
+    {
         "title": "Sentimen Global Membaik, Bursa Eropa Dibuka Cerah!",
         "link": "https://www.cnbcindonesia.com/market/20220811153102-17-363024/sentimen-global-membaik-bursa-eropa-dibuka-cerah",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTQwMDE4LTE3LTM2Mjk3Ny90dW5qdW5nYW4tcGxhemEtNS1zZW1wYXQtdGVyYmFrYXItbGFiYS1wd29uLWxvbXBhdC02Mg==",
         "description": " Pendapatan ini meningkat 11,7% dari realisasi periode yang sama tahun lalu yang berjumlah Rp 2,46 triliun."
-    },
-    {
-        "title": "Inflasi AS Mulai Dingin, Harga Timah Melejit Nyaris 2%!",
-        "link": "https://www.cnbcindonesia.com/market/20220811142327-17-362988/inflasi-as-mulai-dingin-harga-timah-melejit-nyaris-2",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTQyMzI3LTE3LTM2Mjk4OC9pbmZsYXNpLWFzLW11bGFpLWRpbmdpbi1oYXJnYS10aW1haC1tZWxlaml0LW55YXJpcy0y",
-        "description": " Harga timah dunia melesat karena ekspektasi investor meredanya agresivitas kenaikan suku bunga acuan."
-    },
-    {
-        "title": "Produsen Batu Bara Termal Terbesar RI, Siapa Pemilik BUMI?",
-        "link": "https://www.cnbcindonesia.com/market/20220811125851-17-362959/produsen-batu-bara-termal-terbesar-ri-siapa-pemilik-bumi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTI1ODUxLTE3LTM2Mjk1OS9wcm9kdXNlbi1iYXR1LWJhcmEtdGVybWFsLXRlcmJlc2FyLXJpLXNpYXBhLXBlbWlsaWstYnVtaQ==",
-        "description": " Produksi besar ini diperoleh dari operasi dua tambang raksasa di pulau Kalimantan yakni Kaltim Prima Coal (KPC) dan Arutmin Indonesia."
     }
 ]
