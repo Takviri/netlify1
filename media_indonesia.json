@@ -1,17 +1,52 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/513869/nakes-di-ambon-mulai-divaksinasi-covid-19-ke-empat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEzODY5L25ha2VzLWRpLWFtYm9uLW11bGFpLWRpdmFrc2luYXNpLWNvdmlkLTE5LWtlLWVtcGF0",
+        "description": "TENAGA kesehatan (nakes) di kota Ambon mulai menerima vaksinasi penguat kedua di setiap fasilitas Kesehatan, kata Kepala Dinas Kesehatan kota Ambon, Wendy Pelupessy. &quot;Kita telah mulai melaksanakan&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/513868/tiongkok-bocorkan-tujuan-as-dukung-ukraina",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMzg2OC90aW9uZ2tvay1ib2Nvcmthbi10dWp1YW4tYXMtZHVrdW5nLXVrcmFpbmE=",
+        "description": "DUTA Besar Tiongkok untuk Rusia, Zhang Hanhui, menyebut Amerika Serikat (AS) sebagai penghasut utama perang di Ukraina. Dia juga menuduh Washington berusaha menghancurkan Moskow lewat konflik tersebut.&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/513867/korut-tuduh-korsel-sebarkan-covid-19-di-negaranya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMzg2Ny9rb3J1dC10dWR1aC1rb3JzZWwtc2ViYXJrYW4tY292aWQtMTktZGktbmVnYXJhbnlh",
+        "description": "Saudari Presiden Korea Utara (Korut) Kim Jong Un, Yo Jong menuduh Korea Selatan (Korsel) menyebarkan Covid-19 di negaranya melalui balon dan uang. Pyongyang menyatakan akan membalasnya. &quot;Sangat&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/513866/kapal-gandum-pertama-dari-ukraina-tiba-di-turki",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxMzg2Ni9rYXBhbC1nYW5kdW0tcGVydGFtYS1kYXJpLXVrcmFpbmEtdGliYS1kaS10dXJraQ==",
+        "description": "Kapal gandum pertama yang meninggalkan Ukraina di bawah kesepakatan yang didukung PBB pekan lalu telah berlabuh di Turki pada Rabu (10/8). Muatan kapal berbendera Sierra Leone, bernama Razoni itu sudah&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/513863/pusri-pastikan-pengadaan-barang-dan-jasa-terhindar-praktik-korupsi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMzg2My9wdXNyaS1wYXN0aWthbi1wZW5nYWRhYW4tYmFyYW5nLWRhbi1qYXNhLXRlcmhpbmRhci1wcmFrdGlrLWtvcnVwc2k=",
+        "description": "PT Pupuk Sriwidjaja Palembang memastikan proses pengadaan barang dan jasa di perusahaan pupuk tersebut sudah menghindari celah tindak pidana korupsi. Direktur Utama PT Pupuk Sriwidjaja (Pusri)&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/513865/pemerintah-siapkan-insentif-bagi-perusahaan-produsen-ebt",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMzg2NS9wZW1lcmludGFoLXNpYXBrYW4taW5zZW50aWYtYmFnaS1wZXJ1c2FoYWFuLXByb2R1c2VuLWVidA==",
+        "description": "Pemerintah menyiapkan insentif fiskal di sisi kepabeanan dan cukai untuk perusahaan yang memproduksi energi baru terbarukan (EBT). Pemberian insentif itu melanjutkan dan mendukung beberapa fasilitas&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/513864/mau-punya-kamar-tidur-estetik-coba-ide-dekorasi-berikut-ini",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTEzODY0L21hdS1wdW55YS1rYW1hci10aWR1ci1lc3RldGlrLWNvYmEtaWRlLWRla29yYXNpLWJlcmlrdXQtaW5p",
         "description": "KAMAR tidur merupakan salah satu tempat manusia menghabiskan waktu paling banyak. Untuk itu, penting bagi kita untuk membuat kamar tidur bersih, nyaman, dan indah. Namun, seringkali kita tidak bisa&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/513862/booth-daihatsu-awesomeverse-di-giias-2022-berikan-warna-dan-pengalaman-baru",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTM4NjIvYm9vdGgtZGFpaGF0c3UtYXdlc29tZXZlcnNlLWRpLWdpaWFzLTIwMjItYmVyaWthbi13YXJuYS1kYW4tcGVuZ2FsYW1hbi1iYXJ1",
-        "description": "PADA ajang eksibisi GIIAS (GAIKINDO Indonesia International Auto Show) 2022 yang bertempat di ICE BSD City pada 11&ndash;21 Agustus 2022, Daihatsu hadirkan booth dengan suasana baru dan berbeda di&#8230;"
     },
     {
         "title": "Internasional",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMzg1OC9wdXB1ay11cmVhLWRhbi1ucGstaGFydXMtZGlmb2t1c2thbi11bnR1ay10YW5hbWFuLWtvbW9kaXRhcy11dGFtYQ==",
         "description": "PEMERINTAH Republik Indonesia melalui Kementerian Pertanian (Kementan) sedang berupaya untuk mengoptimalkan tata kelola pupuk bersubsidi. Karena itu mengeluarkan Peraturan Menteri Pertanian (Permentan)&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/513859/dpr-soroti-kinerja-sejumlah-perusahaan-bumn",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMzg1OS9kcHItc29yb3RpLWtpbmVyamEtc2VqdW1sYWgtcGVydXNhaGFhbi1idW1u",
-        "description": "ANGGOTA Komisi VI DPR RI Rudi Hartono Bangun menyoroti kinerja sejumlah perusahaan Badan Usaha Milik Negara. Pertama, PT Perkebunan Nusantara I (PTPN I) yang dinilainya terus merugi, padahal&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/513857/pembangunan-daerah-3t-butuh-keberpihakan-pemerintah-pusat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMzg1Ny9wZW1iYW5ndW5hbi1kYWVyYWgtM3QtYnV0dWgta2ViZXJwaWhha2FuLXBlbWVyaW50YWgtcHVzYXQ=",
-        "description": "ANGGOTA Komisi VI DPR RI Nevi Zuairina menegaskan bahwa pembangunan daerah terdepan, terluar, dan tertinggal (3T) membutuhkan keberpihakan pemerintah pusat. Hal tersebut diungkapkannya saat&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/513856/kenaikan-suhu-di-malam-hari-dapat-memicu-tingkat-kematian-hingga-60",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxMzg1Ni9rZW5haWthbi1zdWh1LWRpLW1hbGFtLWhhcmktZGFwYXQtbWVtaWN1LXRpbmdrYXQta2VtYXRpYW4taGluZ2dhLTYw",
-        "description": "Para ilmuwan di University of North Carolina, Chapel Hill memperkirakan bahwa suhu panas di malam hari akan meningkatkan angka kematian di seluruh dunia hingga 60% pada akhir abad ini. Para&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/513855/komunikasi-kesiapan-hadapi-krisis-pangan-kuncinya-sinergitas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxMzg1NS9rb211bmlrYXNpLWtlc2lhcGFuLWhhZGFwaS1rcmlzaXMtcGFuZ2FuLWt1bmNpbnlhLXNpbmVyZ2l0YXM=",
-        "description": "SINERGITAS yang kuat menjadi unsur penting dalam upaya mempercepat proses diseminasi informasi melalui kanal yang dimiliki instansi pemerintah.&nbsp; Hal itu disampaikan Direktur Jenderal Informasi&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/513854/wapres-amin-resmikan-opop-kalimantan-selatan-expo-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTEzODU0L3dhcHJlcy1hbWluLXJlc21pa2FuLW9wb3Ata2FsaW1hbnRhbi1zZWxhdGFuLWV4cG8tMjAyMg==",
-        "description": "WAKIL Presiden (Wapres) KH Ma'ruf Amin dijadwalkan akan membuka One Pesantren One Product (OPOP) Kalimantan&#8230;"
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "Angin Segar Buat Bos Sawit, Harga CPO Naik 1% Lebih!",
+        "link": "https://www.cnbcindonesia.com/market/20220811085827-17-362850/angin-segar-buat-bos-sawit-harga-cpo-naik-1-lebih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMDg1ODI3LTE3LTM2Mjg1MC9hbmdpbi1zZWdhci1idWF0LWJvcy1zYXdpdC1oYXJnYS1jcG8tbmFpay0xLWxlYmlo",
+        "description": " Harga minyak sawit mentah melesat di sesi awal perdagangan pada\u00c2\u00a0hari ini"
+    },
+    {
+        "title": "BI 7DRR Tetap Ga Ngaruh, Asing Borong 10 Saham di Bursa RI",
+        "link": "https://www.cnbcindonesia.com/market/20220811094206-17-362868/bi-7drr-tetap-ga-ngaruh-asing-borong-10-saham-di-bursa-ri",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMDk0MjA2LTE3LTM2Mjg2OC9iaS03ZHJyLXRldGFwLWdhLW5nYXJ1aC1hc2luZy1ib3JvbmctMTAtc2FoYW0tZGktYnVyc2Etcmk=",
+        "description": " Hal ini khususnya terjadi pasca pengumuman ekonomi RI yang mengalami ekspansi pada kuartal dua tahun ini."
+    },
+    {
         "title": "Koreksi Gak Pake Lama, IHSG Hari Ini Bangkit Terbang 1%!",
         "link": "https://www.cnbcindonesia.com/market/20220811085945-17-362853/koreksi-gak-pake-lama-ihsg-hari-ini-bangkit-terbang-1",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMDY0MjA5LTE3LTM2MjgyMS9pbmZsYXNpLWFzLW1lbGFuZGFpLWhhcmdhLWVtYXMtaWt1dGFuLWx1bmdsYWk=",
         "description": " Harga emas menyusut 0,12%."
-    },
-    {
-        "title": "Cek! Butuh Modal Berapa Untuk Bikin SPBU Shell dan AKR?",
-        "link": "https://www.cnbcindonesia.com/market/20220810132321-17-362644/cek-butuh-modal-berapa-untuk-bikin-spbu-shell-dan-akr",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEwMTMyMzIxLTE3LTM2MjY0NC9jZWstYnV0dWgtbW9kYWwtYmVyYXBhLXVudHVrLWJpa2luLXNwYnUtc2hlbGwtZGFuLWFrcg==",
-        "description": " Bisnis franchise Stasiun Pengisian Bahan Bakar Umum/SPBU di Indonesia masih menarik untuk dibahas."
-    },
-    {
-        "title": "Kabar Gembira dari Amerika Dongkrak Harga Minyak",
-        "link": "https://www.cnbcindonesia.com/market/20220811064755-17-362823/kabar-gembira-dari-amerika-dongkrak-harga-minyak",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMDY0NzU1LTE3LTM2MjgyMy9rYWJhci1nZW1iaXJhLWRhcmktYW1lcmlrYS1kb25na3Jhay1oYXJnYS1taW55YWs=",
-        "description": " Kabar dari Amerika Serikat (AS) sepertinya ampuh untuk mendongkrak harga si emas hitam."
     }
 ]
