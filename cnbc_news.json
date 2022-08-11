@@ -1,5 +1,40 @@
 [
     {
+        "title": "Rusia Makin Terjepit, Putin Galang Dukungan",
+        "link": "https://www.cnbcindonesia.com/news/20220811124418-8-362954/rusia-makin-terjepit-putin-galang-dukungan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTEyNDQxOC04LTM2Mjk1NC9ydXNpYS1tYWtpbi10ZXJqZXBpdC1wdXRpbi1nYWxhbmctZHVrdW5nYW4=",
+        "description": " Presiden Rusia Vladimir Putin tampak berupaya menggalang dukungan."
+    },
+    {
+        "title": "Kas Negara Isinya Rp 3.000 T, Uangnya Habis Buat Apa Saja?",
+        "link": "https://www.cnbcindonesia.com/news/20220811122724-4-362944/kas-negara-isinya-rp-3000-t-uangnya-habis-buat-apa-saja",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTEyMjcyNC00LTM2Mjk0NC9rYXMtbmVnYXJhLWlzaW55YS1ycC0zMDAwLXQtdWFuZ255YS1oYWJpcy1idWF0LWFwYS1zYWph",
+        "description": " Belanja negara di tahun ini yang ditargetkan mencapai Rp 3.169,1 triliun."
+    },
+    {
+        "title": "Mentan Warning Soal Gandum, Ini Penjelasan Anak Buah Zulhas",
+        "link": "https://www.cnbcindonesia.com/news/20220811115510-4-362932/mentan-warning-soal-gandum-ini-penjelasan-anak-buah-zulhas",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTExNTUxMC00LTM2MjkzMi9tZW50YW4td2FybmluZy1zb2FsLWdhbmR1bS1pbmktcGVuamVsYXNhbi1hbmFrLWJ1YWgtenVsaGFz",
+        "description": " Perang Rusia-Ukraina yang masih terus berlanjut berdampak pada pasokan dan harga gandum."
+    },
+    {
+        "title": "Muhadjir Effendy dan Jurus Tangani 4% Angka Kemiskinan Ekstrem",
+        "link": "https://www.cnbcindonesia.com/news/20220811123048-8-362945/muhadjir-effendy-jurus-tangani-4-angka-kemiskinan-ekstrem",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTEyMzA0OC04LTM2Mjk0NS9tdWhhZGppci1lZmZlbmR5LWp1cnVzLXRhbmdhbmktNC1hbmdrYS1rZW1pc2tpbmFuLWVrc3RyZW0=",
+        "description": " Muhadjir Effendy dan Jurus Tangani 4% Angka Kemiskinan Ekstrem RI"
+    },
+    {
+        "title": "Awas Perang Gak Jadi Batal, Giliran Taiwan Tembak-tembakan",
+        "link": "https://www.cnbcindonesia.com/news/20220811124258-4-362952/awas-perang-gak-jadi-batal-giliran-taiwan-tembak-tembakan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTEyNDI1OC00LTM2Mjk1Mi9hd2FzLXBlcmFuZy1nYWstamFkaS1iYXRhbC1naWxpcmFuLXRhaXdhbi10ZW1iYWstdGVtYmFrYW4=",
+        "description": " Tentara Taiwan dilaporkan mengadakan latihan tembak- menembak, Kamis (11/8/2022)."
+    },
+    {
         "title": "'Harta Karun Super Langka' RI, Bisa Bikin Kendaraan Tempur!",
         "link": "https://www.cnbcindonesia.com/news/20220811123428-4-362948/harta-karun-super-langka-ri-bisa-bikin-kendaraan-tempur",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTExMjIyOS00LTM2MjkxMi9qYWRpLXN1YnNpZGktYmJtLWJlbmdrYWstZ2VnYXJhLWRpc2tvbi1wYWphay1tb2JpbC1uaWg=",
         "description": " Kebijakan membebaskan pajak mobil sejak tahun lalu menjadi buah simalakama bagi pemerintah."
-    },
-    {
-        "title": "Q2-2022, Ekonomi Singapura Tumbuh 4,4%",
-        "link": "https://www.cnbcindonesia.com/news/20220811114908-8-362915/q2-2022-ekonomi-singapura-tumbuh-44",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTExNDkwOC04LTM2MjkxNS9xMi0yMDIyLWVrb25vbWktc2luZ2FwdXJhLXR1bWJ1aC00NA==",
-        "description": " Ekonomi Singapura pada kuartal kedua tahun ini tumbuh 4,4%"
-    },
-    {
-        "title": "Perbandingan Harga BBM di Asean, RI Masih yang Paling Murah?",
-        "link": "https://www.cnbcindonesia.com/news/20220811110323-4-362900/perbandingan-harga-bbm-di-asean-ri-masih-yang-paling-murah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTExMDMyMy00LTM2MjkwMC9wZXJiYW5kaW5nYW4taGFyZ2EtYmJtLWRpLWFzZWFuLXJpLW1hc2loLXlhbmctcGFsaW5nLW11cmFo",
-        "description": " Perbandingan harga BBM se Asia Tenggara"
-    },
-    {
-        "title": "RI Temukan 'Harta Karun Super Langka', Negara Lain Tak Punya!",
-        "link": "https://www.cnbcindonesia.com/news/20220811120127-4-362927/ri-temukan-harta-karun-super-langka-negara-lain-tak-punya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTEyMDEyNy00LTM2MjkyNy9yaS10ZW11a2FuLWhhcnRhLWthcnVuLXN1cGVyLWxhbmdrYS1uZWdhcmEtbGFpbi10YWstcHVueWE=",
-        "description": " Badan Geologi mendeteksi adanya potensi mineral logam tanah jarang di Indonesia, yang jarang dimiliki oleh negara-negara lain"
-    },
-    {
-        "title": "Live! Muhadjir Ungkap Jurus Jokowi Basmi Kemiskinan Ekstrem",
-        "link": "https://www.cnbcindonesia.com/news/20220810220321-4-362806/live-muhadjir-ungkap-jurus-jokowi-basmi-kemiskinan-ekstrem",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMDIyMDMyMS00LTM2MjgwNi9saXZlLW11aGFkamlyLXVuZ2thcC1qdXJ1cy1qb2tvd2ktYmFzbWkta2VtaXNraW5hbi1la3N0cmVt",
-        "description": " Simak penuturan Menteri Koordinator Bidang Pembangunan Manusia dan Kebudayaan Muhadjir Effendy dalam segmen khusus Economic Update di program Power Lunch."
-    },
-    {
-        "title": "Tak Sampai Oktober, Kuota Pertalite Bisa Ludes Lebih Cepat!",
-        "link": "https://www.cnbcindonesia.com/news/20220811103821-4-362894/tak-sampai-oktober-kuota-pertalite-bisa-ludes-lebih-cepat",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTEwMzgyMS00LTM2Mjg5NC90YWstc2FtcGFpLW9rdG9iZXIta3VvdGEtcGVydGFsaXRlLWJpc2EtbHVkZXMtbGViaWgtY2VwYXQ=",
-        "description": " Kuota BBM Pertalite diprediksi ludes pada September 2022"
     }
 ]
