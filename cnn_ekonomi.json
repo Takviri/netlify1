@@ -1,5 +1,19 @@
 [
     {
+        "title": "Singapura Pangkas Proyeksi Pertumbuhan Ekonomi Akibat Lonjakan Inflasi",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220811102503-532-833258/singapura-pangkas-proyeksi-pertumbuhan-ekonomi-akibat-lonjakan-inflasi",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODExMTAyNTAzLTUzMi04MzMyNTgvc2luZ2FwdXJhLXBhbmdrYXMtcHJveWVrc2ktcGVydHVtYnVoYW4tZWtvbm9taS1ha2liYXQtbG9uamFrYW4taW5mbGFzaQ==",
+        "description": " Singapura memangkas proyeksi pertumbuhan ekonomi dari 3 persen-5 persen menjadi 1 persen-4 persen seiring dengan lonjakan inflasi belakanga ini."
+    },
+    {
+        "title": "Santap Nikmat Harga Hemat, 3 Porsi Sushi Gyu Katsu Nikaido Rp63 Ribu",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220809172534-97-832404/santap-nikmat-harga-hemat-3-porsi-sushi-gyu-katsu-nikaido-rp63-ribu",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODA5MTcyNTM0LTk3LTgzMjQwNC9zYW50YXAtbmlrbWF0LWhhcmdhLWhlbWF0LTMtcG9yc2ktc3VzaGktZ3l1LWthdHN1LW5pa2FpZG8tcnA2My1yaWJ1",
+        "description": " Allo Bank\u00c2\u00a0kasih diskon 30 persen untuk pembelian 3 porsi sushi Gyu Katsu Nikaido jadi tinggal bayar Rp63 ribu saja."
+    },
+    {
         "title": "Sri Mulyani Minta Pertamina Kendalikan Konsumsi BBM Subsidi",
         "link": "https://www.cnnindonesia.com/ekonomi/20220811075139-532-833190/sri-mulyani-minta-pertamina-kendalikan-konsumsi-bbm-subsidi",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEwMTEzNjQ2LTg1LTgzMjc1Ny9oYXJnYS1taW55YWstcGVya2FzYS11c2FpLWluZmxhc2ktYXMtbWVsYW5kYWktcGFkYS1qdWxpLTIwMjI=",
         "description": " Harga minyak dunia menguat lebih dari 1 persen usai inflasi di AS melandai pada Juli kemarin. Hal itu memicu spekulasi pasar permintaan minyak naik."
-    },
-    {
-        "title": "Bank Mandiri Klaim Kebakaran Plaza Mandiri Tak Ganggu Operasional",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220811080647-78-833199/bank-mandiri-klaim-kebakaran-plaza-mandiri-tak-ganggu-operasional",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODExMDgwNjQ3LTc4LTgzMzE5OS9iYW5rLW1hbmRpcmkta2xhaW0ta2ViYWthcmFuLXBsYXphLW1hbmRpcmktdGFrLWdhbmdndS1vcGVyYXNpb25hbA==",
-        "description": " PT Bank Mandiri memastikan kebakaran yang terjadi di Lantai 1, Plaza Mandiri, Jakarta Pusat pada Kamis (11/8) dini hari tak mengganggu operasional perusahaan."
-    },
-    {
-        "title": "Babi Jadi Penyebab Inflasi China Melesat ke Level Tertinggi Sejak 2020",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220811073440-532-833186/babi-jadi-penyebab-inflasi-china-melesat-ke-level-tertinggi-sejak-2020",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODExMDczNDQwLTUzMi04MzMxODYvYmFiaS1qYWRpLXBlbnllYmFiLWluZmxhc2ktY2hpbmEtbWVsZXNhdC1rZS1sZXZlbC10ZXJ0aW5nZ2ktc2VqYWstMjAyMA==",
-        "description": " Inflasi China melonjak ke level 2,7 persen (yoy) pada Juli 2022 atau ke level tertinggi dalam 2 tahun terakhir\u00c2\u00a0akibat kenaikan harga daging babi."
     }
 ]
