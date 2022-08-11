@@ -1,5 +1,33 @@
 [
     {
+        "title": "'Harta Karun Super Langka' RI, Bisa Bikin Kendaraan Tempur!",
+        "link": "https://www.cnbcindonesia.com/news/20220811123428-4-362948/harta-karun-super-langka-ri-bisa-bikin-kendaraan-tempur",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTEyMzQyOC00LTM2Mjk0OC9oYXJ0YS1rYXJ1bi1zdXBlci1sYW5na2EtcmktYmlzYS1iaWtpbi1rZW5kYXJhYW4tdGVtcHVy",
+        "description": " Indonesia memiliki harta karun super langka berupa mineral logam tanah jarang, bisa jadi bahan baku baterai listrik sampai kendaraan tempur"
+    },
+    {
+        "title": "10.000 Orang Ngungsi, Potret Ngeri Kebakaran Hutan di Prancis",
+        "link": "https://www.cnbcindonesia.com/news/20220811120053-7-362919/10000-orang-ngungsi-potret-ngeri-kebakaran-hutan-di-prancis",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTEyMDA1My03LTM2MjkxOS8xMDAwMC1vcmFuZy1uZ3VuZ3NpLXBvdHJldC1uZ2VyaS1rZWJha2FyYW4taHV0YW4tZGktcHJhbmNpcw==",
+        "description": " Kebakaran hutan terjadi di Prancis. Akibatnya 10.000 penduduk sekitarnya harus dievakuasi."
+    },
+    {
+        "title": "AS Terbitkan UU Semikonduktor, China Protes Keras",
+        "link": "https://www.cnbcindonesia.com/news/20220811114626-8-362916/as-terbitkan-uu-semikonduktor-china-protes-keras",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTExNDYyNi04LTM2MjkxNi9hcy10ZXJiaXRrYW4tdXUtc2VtaWtvbmR1a3Rvci1jaGluYS1wcm90ZXMta2VyYXM=",
+        "description": " Undang-undang semikonduktor yang diterbitkan Amerika Serikat direspons oleh China"
+    },
+    {
+        "title": "Heboh Kades Sawer Biduan Pake Duit Segepok, Berapa Gajinya?",
+        "link": "https://www.cnbcindonesia.com/news/20220811112224-4-362906/heboh-kades-sawer-biduan-pake-duit-segepok-berapa-gajinya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTExMjIyNC00LTM2MjkwNi9oZWJvaC1rYWRlcy1zYXdlci1iaWR1YW4tcGFrZS1kdWl0LXNlZ2Vwb2stYmVyYXBhLWdhamlueWE=",
+        "description": " Simak besaran gaji kepala desa di Indonesia"
+    },
+    {
         "title": "Jadi, Subsidi BBM Bengkak Gegara Diskon Pajak Mobil Nih?",
         "link": "https://www.cnbcindonesia.com/news/20220811112229-4-362912/jadi-subsidi-bbm-bengkak-gegara-diskon-pajak-mobil-nih",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTEwMzgyMS00LTM2Mjg5NC90YWstc2FtcGFpLW9rdG9iZXIta3VvdGEtcGVydGFsaXRlLWJpc2EtbHVkZXMtbGViaWgtY2VwYXQ=",
         "description": " Kuota BBM Pertalite diprediksi ludes pada September 2022"
-    },
-    {
-        "title": "Antisipasi Fraud, Kemendag Godok Aturan Aset Kripto",
-        "link": "https://www.cnbcindonesia.com/news/20220811101342-8-362881/antisipasi-fraud-kemendag-godok-aturan-aset-kripto",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTEwMTM0Mi04LTM2Mjg4MS9hbnRpc2lwYXNpLWZyYXVkLWtlbWVuZGFnLWdvZG9rLWF0dXJhbi1hc2V0LWtyaXB0bw==",
-        "description": " Antisipasi Fraud, Kemendag Godok Aturan Aset Kripto"
-    },
-    {
-        "title": "Inflasi AS Melonjak Karena BBM, China Gegara Babi, Indonesia?",
-        "link": "https://www.cnbcindonesia.com/news/20220811104255-4-362896/inflasi-as-melonjak-karena-bbm-china-gegara-babi-indonesia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTEwNDI1NS00LTM2Mjg5Ni9pbmZsYXNpLWFzLW1lbG9uamFrLWthcmVuYS1iYm0tY2hpbmEtZ2VnYXJhLWJhYmktaW5kb25lc2lh",
-        "description": " Beberapa negara alami lonjakan inflasi yang luar biasa dalam beberapa bulan terakhir."
-    },
-    {
-        "title": "Malaysia Salip Indonesia! Ini Resepnya...",
-        "link": "https://www.cnbcindonesia.com/news/20220811112925-4-362909/malaysia-salip-indonesia-ini-resepnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTExMjkyNS00LTM2MjkwOS9tYWxheXNpYS1zYWxpcC1pbmRvbmVzaWEtaW5pLXJlc2Vwbnlh",
-        "description": " Ekonomi Malaysia diperkirakan akan tumbuh 6,7% yoy."
-    },
-    {
-        "title": "Ekonomi RI Meroket, Sri Mulyani: Tak Usah Jumawa!",
-        "link": "https://www.cnbcindonesia.com/news/20220811113041-4-362911/ekonomi-ri-meroket-sri-mulyani-tak-usah-jumawa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTExMzA0MS00LTM2MjkxMS9la29ub21pLXJpLW1lcm9rZXQtc3JpLW11bHlhbmktdGFrLXVzYWgtanVtYXdh",
-        "description": " Pertumbuhan ekonomi Indonesia yang mencapai 5,44% (year on year) pada Kuartal II-2022 merupakan sesuatu yang sangat mengesankan"
     }
 ]

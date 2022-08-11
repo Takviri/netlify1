@@ -14,6 +14,13 @@
         "description": "Krisis di industri properti China dianggap krusial karena sektor ini merupakan salah satu penopang perekonomian negara tersebut."
     },
     {
+        "title": "Mengapa semakin banyak pasangan muda berminat pada hubungan terbuka?",
+        "link": "https://www.bbc.co.uk/indonesia/articles/c848mwd9lgyo",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jODQ4bXdkOWxneW8=",
+        "description": "Kendati belum sepenuhnya menjadi hal yang 'mainstream' saat ini, minat pada hubungan yang terbuka atau open relationship di kalangan muda meningkat. Apa penyebabnya?"
+    },
+    {
         "title": "Sania Khan - Perempuan yang mengunggah soal perceraiannya di TikTok, kemudian dibunuh oleh sang mantan suami",
         "link": "https://www.bbc.co.uk/indonesia/articles/cljn528ze3zo",
         "image": "static/images/bbc_indonesia.png",
@@ -49,13 +56,6 @@
         "description": "Lagu yang dinyanyikan Chaturvedi adalah bagian dari tren musik di antara kalangan pendukung sayap kanan Hindu yang gemar menebar kebencian terhadap para Muslim di YouTube dan Platform media sosial lainnya."
     },
     {
-        "title": "'Kakek saya mencuri mahakarya seniman ternama di London, tapi mengembalikannya empat tahun kemudian'",
-        "link": "https://www.bbc.co.uk/indonesia/articles/crg6dx2g772o",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jcmc2ZHgyZzc3Mm8=",
-        "description": "\"Bagi saya yang penting adalah memasukkan sudut pandang keluarga saya dalam cerita ini dan faktor-faktor yang mempengaruhi pengambilan keputusan kakek-nenek saya itu,\" kata Christopher, cucu Kempton Bunton yang mencuri lukisan."
-    },
-    {
         "title": "Ferdy Sambo tersangka tewasnya Brigadir J, 'perwira tinggi pertama' yang tersangkut pembunuhan, polisi akui 'ada rekayasa'",
         "link": "https://www.bbc.co.uk/indonesia/articles/cml91p0zd4po",
         "image": "static/images/bbc_indonesia.png",
@@ -63,10 +63,10 @@
         "description": "Ferdy Sambo, mantan Kepala Divisi Propam ditetapkan sebagai tersangka kasus tewasnya Brigadir Nofriansyah Yosua Hutabarat atau Brigadir J, perwira tinggi pertama yang tersangkut pembunuhan, kasus dengan ancaman maksimal hukuman mati."
     },
     {
-        "title": "Sertifikat keperawanan: Kisah kaum perempuan Iran yang perlu bukti perawan untuk menikah",
-        "link": "https://www.bbc.com/indonesia/majalah-62476610",
+        "title": "'Kakek saya mencuri mahakarya seniman ternama di London, tapi mengembalikannya empat tahun kemudian'",
+        "link": "https://www.bbc.co.uk/indonesia/articles/crg6dx2g772o",
         "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MjQ3NjYxMA==",
-        "description": "Di Iran, banyak perempuan yang harus menjalani tes keperawanan sebelum menikah, namun kini banyak orang yang menentangnya."
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jcmc2ZHgyZzc3Mm8=",
+        "description": "\"Bagi saya yang penting adalah memasukkan sudut pandang keluarga saya dalam cerita ini dan faktor-faktor yang mempengaruhi pengambilan keputusan kakek-nenek saya itu,\" kata Christopher, cucu Kempton Bunton yang mencuri lukisan."
     }
 ]
