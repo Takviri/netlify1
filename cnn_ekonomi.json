@@ -1,5 +1,19 @@
 [
     {
+        "title": "Data Inflasi AS Angkat Rupiah ke Rp14.817",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220811084209-78-833221/data-inflasi-as-angkat-rupiah-ke-rp14817",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODExMDg0MjA5LTc4LTgzMzIyMS9kYXRhLWluZmxhc2ktYXMtYW5na2F0LXJ1cGlhaC1rZS1ycDE0ODE3",
+        "description": " Nilai tukar rupiah menguat 0,36 persen pada Kamis (11/8) pagi akibat terangkat data inflasi AS yang melandai."
+    },
+    {
+        "title": "Harga Emas Antam Mogok di Rp995 Ribu Hari Ini",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220810165913-92-832978/harga-emas-antam-mogok-di-rp995-ribu-hari-ini",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEwMTY1OTEzLTkyLTgzMjk3OC9oYXJnYS1lbWFzLWFudGFtLW1vZ29rLWRpLXJwOTk1LXJpYnUtaGFyaS1pbmk=",
+        "description": " Harga emas Antam bertengger di level Rp995 ribu per gram pada Kamis (11/8) ini, tak bergerak jika dibandingkan Rabu (10/8) kemarin."
+    },
+    {
         "title": "1.874 Perusahaan Terima Fasilitas Kepabeanan",
         "link": "https://www.cnnindonesia.com/ekonomi/20220810200421-532-833072/1874-perusahaan-terima-fasilitas-kepabeanan",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODExMDYyNzQwLTUzMi04MzMxNDkvc2FudGFpLXBvdGVuc2kta2VuYWlrYW4taGFyZ2EtbWktdGFrLWFrYW4tYmVyZGFtcGFrLWJlc2FyLWtlLWluZmxhc2k=",
         "description": " Ekonom menilai kenaikan harga mi yang diprediksi oleh Jokowi dan Mentan Syahrul Yasin Limpo tak akan berdampak besar ke inflasi."
-    },
-    {
-        "title": "Harga Minyak Melonjak, Sepertiga Warga Inggris Bakal Jatuh Miskin",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220810163625-85-832966/harga-minyak-melonjak-sepertiga-warga-inggris-bakal-jatuh-miskin",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEwMTYzNjI1LTg1LTgzMjk2Ni9oYXJnYS1taW55YWstbWVsb25qYWstc2VwZXJ0aWdhLXdhcmdhLWluZ2dyaXMtYmFrYWwtamF0dWgtbWlza2lu",
-        "description": " Sepertiga rumah tangga Inggris bakal jatuh miskin karena tagihan energi membengkak pada Januari 2023."
-    },
-    {
-        "title": "Kemenkeu Beri Sinyal Cukai Rokok Akan Naik Tinggi di 2023",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220810203529-532-833085/kemenkeu-beri-sinyal-cukai-rokok-akan-naik-tinggi-di-2023",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEwMjAzNTI5LTUzMi04MzMwODUva2VtZW5rZXUtYmVyaS1zaW55YWwtY3VrYWktcm9rb2stYWthbi1uYWlrLXRpbmdnaS1kaS0yMDIz",
-        "description": " DJBC Kemenkeu memberi sinyal cukai rokok 2023 bakal naik lebih tinggi dari tahun ini yang sebesar 12 persen."
     }
 ]
