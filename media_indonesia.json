@@ -1,5 +1,19 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/514128/im3-rilis-lagu-kolaborasi-musisi-lintas-genre-untuk-rayakan-17-agustus",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDEyOC9pbTMtcmlsaXMtbGFndS1rb2xhYm9yYXNpLW11c2lzaS1saW50YXMtZ2VucmUtdW50dWstcmF5YWthbi0xNy1hZ3VzdHVz",
+        "description": "MENYAMBUT momen penuh semangat di bulan kemerdekaan Indonesia, IM3 kembali menghadirkan kampanye terbaru, Menjadi Indonesia. Dengan&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/514127/ini-kelebihan-dan-peningkatan-fitur-samsung-z-flip-4-5g",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE0MTI3L2luaS1rZWxlYmloYW4tZGFuLXBlbmluZ2thdGFuLWZpdHVyLXNhbXN1bmctei1mbGlwLTQtNWc=",
+        "description": "MENERUSKAN model Galaxy Z Flip 3, Samsung kembali mengumumkan model baru dalam keluarga Galaxy Z series yaitu Galaxy Z Flip 4.&#8230;"
+    },
+    {
         "title": "Teknologi",
         "link": "https://m.mediaindonesia.com/teknologi/514125/ini-harga-dan-spesifikasi-samsung-seri-z-flip-4-5g-terbaru",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDEyMS9pbmktcG90cmV0LWxpYW0tZ2FsbGFnaGVyLXlhbmctbWVtYnVhdC1oZWJvaC1uZXRpemVu",
         "description": "LIAM Gallagher membuat heboh para penggemarnya setelah fotonya bersama petugas bandara di Bali muncul di dunia maya. Dalam&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514120/gobel-minta-pemda-serius-majukan-ekonomi-kawasan-perbatasan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0MTIwL2dvYmVsLW1pbnRhLXBlbWRhLXNlcml1cy1tYWp1a2FuLWVrb25vbWkta2F3YXNhbi1wZXJiYXRhc2Fu",
-        "description": "WAKIL Ketua DPR RI Bidang Korinbang, Rachmat Gobel, diterima Gubernur Kalimantan Barat Sutarmidji beserta jajarannya di Pendopo Gubernur Kalimantan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514119/mu-dilaporkan-tertarik-datangkan-gakpo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDExOS9tdS1kaWxhcG9ya2FuLXRlcnRhcmlrLWRhdGFuZ2thbi1nYWtwbw==",
-        "description": "PENYERANG sayap PSV Eindhoven Cody Gakpo dilaporkan menjadi target buruan terbaru Manchester United pada bursa transfer&#8230;"
     }
 ]

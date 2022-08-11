@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sudah Ngegas, Waspada IHSG Masih Ada Risiko Profit Taking",
+        "link": "https://www.cnbcindonesia.com/market/20220812010639-17-363143/sudah-ngegas-waspada-ihsg-masih-ada-risiko-profit-taking",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMDEwNjM5LTE3LTM2MzE0My9zdWRhaC1uZ2VnYXMtd2FzcGFkYS1paHNnLW1hc2loLWFkYS1yaXNpa28tcHJvZml0LXRha2luZw==",
+        "description": " Ke mana arah IHSG hari ini?"
+    },
+    {
+        "title": "Kemarin Sudah Nanjak, Gerak Rupiah Hari Ini Terbatas",
+        "link": "https://www.cnbcindonesia.com/market/20220812011051-17-363145/kemarin-sudah-nanjak-gerak-rupiah-hari-ini-terbatas",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMDExMDUxLTE3LTM2MzE0NS9rZW1hcmluLXN1ZGFoLW5hbmphay1nZXJhay1ydXBpYWgtaGFyaS1pbmktdGVyYmF0YXM=",
+        "description": " Ke mana arah rupiah hari ini?"
+    },
+    {
+        "title": "Lampu Kuning! Wall Street Galau, IHSG Semoga Kuat...",
+        "link": "https://www.cnbcindonesia.com/market/20220811184458-17-363104/lampu-kuning-wall-street-galau-ihsg-semoga-kuat",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTg0NDU4LTE3LTM2MzEwNC9sYW1wdS1rdW5pbmctd2FsbC1zdHJlZXQtZ2FsYXUtaWhzZy1zZW1vZ2Eta3VhdA==",
+        "description": " Pasar keuangan Indonesia kompak bangkit kemarin."
+    },
+    {
         "title": "'Keajaiban' Inflasi Datang, Wall Street Dibuka Happy",
         "link": "https://www.cnbcindonesia.com/market/20220811173828-17-363084/keajaiban-inflasi-datang-wall-street-dibuka-happy",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTYyNjA0LTE5LTM2MzA1Ni9sYWdpLWxhZ2ktcGFzb2thbi1iYXR1LWJhcmEta2UtcGxuLXNlcmV0LWFwYS1wZW55ZWJhYm55YQ==",
         "description": " Lagi-lagi Pasokan Batu Bara ke PLN Seret, Apa Penyebabnya?"
-    },
-    {
-        "title": "Menkeu Curhat Belum Semua UMKM Tersentuh Digitalisasi",
-        "link": "https://www.cnbcindonesia.com/market/20220811162303-17-363057/menkeu-curhat-belum-semua-umkm-tersentuh-digitalisasi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTYyMzAzLTE3LTM2MzA1Ny9tZW5rZXUtY3VyaGF0LWJlbHVtLXNlbXVhLXVta20tdGVyc2VudHVoLWRpZ2l0YWxpc2FzaQ==",
-        "description": " Akses keuangan digital menjadi sangat penting untuk memajukan perekonomian nasional."
-    },
-    {
-        "title": "Tersangka Korupsi Terbesar Surya Darmadi Dicekal Imigrasi",
-        "link": "https://www.cnbcindonesia.com/market/20220811172958-17-363082/tersangka-korupsi-terbesar-surya-darmadi-dicekal-imigrasi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTcyOTU4LTE3LTM2MzA4Mi90ZXJzYW5na2Eta29ydXBzaS10ZXJiZXNhci1zdXJ5YS1kYXJtYWRpLWRpY2VrYWwtaW1pZ3Jhc2k=",
-        "description": " Pencegahan dicanangkan setelah Ditwasdakim menerima permohonan terkait hal tersebut dari Kejaksaan Agung RI."
-    },
-    {
-        "title": "Dari Ratusan Juta Rakyat RI, Cuma 65% yang Punya Rekening",
-        "link": "https://www.cnbcindonesia.com/market/20220811161436-17-363050/dari-ratusan-juta-rakyat-ri-cuma-65-yang-punya-rekening",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTYxNDM2LTE3LTM2MzA1MC9kYXJpLXJhdHVzYW4tanV0YS1yYWt5YXQtcmktY3VtYS02NS15YW5nLXB1bnlhLXJla2VuaW5n",
-        "description": " Menteri Keuangan Sri Mulyani Indrawati mengatakan, penetrasi keuangan di Indonesia harus terus dilakukan."
     }
 ]
