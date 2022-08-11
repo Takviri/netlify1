@@ -1,5 +1,47 @@
 [
     {
+        "title": "Baru Ulang Tahun ke45, Bursa Efek Indonesia Sejatinya Ada Sejak Zaman Kolonial",
+        "link": "https://bisnis.tempo.co/read/1621846/baru-ulang-tahun-ke45-bursa-efek-indonesia-sejatinya-ada-sejak-zaman-kolonial",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxODQ2L2JhcnUtdWxhbmctdGFodW4ta2U0NS1idXJzYS1lZmVrLWluZG9uZXNpYS1zZWphdGlueWEtYWRhLXNlamFrLXphbWFuLWtvbG9uaWFs",
+        "description": "Tahun 2007 menjadi titik penting bagi perkembangan pasar modal di Indonesia. Pada tahun ini, bursa saham menjadi Bursa Efek Indonesia."
+    },
+    {
+        "title": "Temuan Rokok Ilegal di Bandung Meningkat, Pengiriman via Jastip",
+        "link": "https://bisnis.tempo.co/read/1621844/temuan-rokok-ilegal-di-bandung-meningkat-pengiriman-via-jastip",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxODQ0L3RlbXVhbi1yb2tvay1pbGVnYWwtZGktYmFuZHVuZy1tZW5pbmdrYXQtcGVuZ2lyaW1hbi12aWEtamFzdGlw",
+        "description": "Bea Cukai mencatat temuan rokok ilegal kian bertambah seiring dengan naiknya tarif cukai rokok."
+    },
+    {
+        "title": "Hari Ini di Tahun 1867: Kilas Balik Beroperasinya Jalur Kereta Api Perdana di Jawa",
+        "link": "https://bisnis.tempo.co/read/1621816/hari-ini-di-tahun-1867-kilas-balik-beroperasinya-jalur-kereta-api-perdana-di-jawa",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxODE2L2hhcmktaW5pLWRpLXRhaHVuLTE4Njcta2lsYXMtYmFsaWstYmVyb3BlcmFzaW55YS1qYWx1ci1rZXJldGEtYXBpLXBlcmRhbmEtZGktamF3YQ==",
+        "description": "Inilah proyek pembangunan jalur kereta api perdana antara Semarang, Solo, hingga Yogjakarta di era kolonial Belanda."
+    },
+    {
+        "title": "Harga Minyak Goreng Curah di Papua Rp 18 Ribu per Liter, Pasokan Minyakita Masih Minim",
+        "link": "https://bisnis.tempo.co/read/1621840/harga-minyak-goreng-curah-di-papua-rp-18-ribu-per-liter-pasokan-minyakita-masih-minim",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxODQwL2hhcmdhLW1pbnlhay1nb3JlbmctY3VyYWgtZGktcGFwdWEtcnAtMTgtcmlidS1wZXItbGl0ZXItcGFzb2thbi1taW55YWtpdGEtbWFzaWgtbWluaW0=",
+        "description": "Kementerian Perdagangan mencatat kebutuhan minyak goreng curah murah di Papua dan Papua Barat mencapai 6.000 liter per bulan."
+    },
+    {
+        "title": "Gotong Royong Jadi Kunci Sukses Program JKN",
+        "link": "https://bisnis.tempo.co/read/1621838/gotong-royong-jadi-kunci-sukses-program-jkn",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxODM4L2dvdG9uZy1yb3lvbmctamFkaS1rdW5jaS1zdWtzZXMtcHJvZ3JhbS1qa24=",
+        "description": "BPJS Kesehatan gencar menjalin kolaborasi demi mencapai cakupan kesehatan semesta atau UHC."
+    },
+    {
+        "title": "Rekomendasi 4 Brand Lokal Produk Kerajinan Tangan sedang Hits",
+        "link": "https://bisnis.tempo.co/read/1621832/rekomendasi-4-brand-lokal-produk-kerajinan-tangan-sedang-hits",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxODMyL3Jla29tZW5kYXNpLTQtYnJhbmQtbG9rYWwtcHJvZHVrLWtlcmFqaW5hbi10YW5nYW4tc2VkYW5nLWhpdHM=",
+        "description": "Brand lokal berkembang bersama Shopee Pilih Lokal."
+    },
+    {
         "title": "Pertumbuhan Industri Vape Rumahan Diperkirakan Tertahan, Apa Penyebabnya?",
         "link": "https://bisnis.tempo.co/read/1621828/pertumbuhan-industri-vape-rumahan-diperkirakan-tertahan-apa-penyebabnya",
         "image": "static/images/tempo_bisnis.png",
@@ -26,47 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxODA3L2tvbGFib3Jhc2ktc29saWQta290YS1zdWthYnVtaS1kYW4tYnBqcy1rZXNlaGF0YW4tcGVyY2VwYXQtdWhjLWprbg==",
         "description": "Sebanyak 339.468 jiwa atau 95,55 persen penduduk Kota Sukabumi resmi terdaftar sebagai peserta JKN per 1 Agustus 2022"
-    },
-    {
-        "title": "Harga Mi Instan Bisa Melonjak 3 Kali Lipat Akibat Perang: Efek Seretnya Pasokan...",
-        "link": "https://bisnis.tempo.co/read/1621800/harga-mi-instan-bisa-melonjak-3-kali-lipat-akibat-perang-efek-seretnya-pasokan",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxODAwL2hhcmdhLW1pLWluc3Rhbi1iaXNhLW1lbG9uamFrLTMta2FsaS1saXBhdC1ha2liYXQtcGVyYW5nLWVmZWstc2VyZXRueWEtcGFzb2thbg==",
-        "description": "Rusia dan Ukraina adalah negara terbesar dunia penghasil gandum, bahan baku mi instan. Kedua negara tercatat pegang 30-40 persen pengekspor gandum."
-    },
-    {
-        "title": "Sri Mulyani: APBN Surplus Rp 106,1 Triliun pada Juli 2022",
-        "link": "https://bisnis.tempo.co/read/1621792/sri-mulyani-apbn-surplus-rp-1061-triliun-pada-juli-2022",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNzkyL3NyaS1tdWx5YW5pLWFwYm4tc3VycGx1cy1ycC0xMDYxLXRyaWxpdW4tcGFkYS1qdWxpLTIwMjI=",
-        "description": "Menteri Keuangan Sri Mulyani Indrawati mengatakan surplus Anggaran Pendapatan dan Belanja Negara (APBN) Rp 106,1 triliun pada Juli 2022."
-    },
-    {
-        "title": "Harga TBS Sawit Petani Rp 2.000 per kg, Bulan ini Ekspor 4 Juta Ton CPO",
-        "link": "https://bisnis.tempo.co/read/1621767/harga-tbs-sawit-petani-rp-2-000-per-kg-bulan-ini-ekspor-4-juta-ton-cpo",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNzY3L2hhcmdhLXRicy1zYXdpdC1wZXRhbmktcnAtMi0wMDAtcGVyLWtnLWJ1bGFuLWluaS1la3Nwb3ItNC1qdXRhLXRvbi1jcG8=",
-        "description": "Zulkifli Hasan memastikan, harga TBS sawit petani akan di atas Rp 2.000 per kg pada Agustus 2022 sesuai permintaan Presiden Joko Widodo."
-    },
-    {
-        "title": "Kementan Jelaskan Maksud Harga Mi Instan Bisa Naik 3 Kali Lipat",
-        "link": "https://bisnis.tempo.co/read/1621784/kementan-jelaskan-maksud-harga-mi-instan-bisa-naik-3-kali-lipat",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNzg0L2tlbWVudGFuLWplbGFza2FuLW1ha3N1ZC1oYXJnYS1taS1pbnN0YW4tYmlzYS1uYWlrLTMta2FsaS1saXBhdA==",
-        "description": "Kementerian Pertanian menjelaskan maksud dari pernyataan Menteri Pertanian Syahrul Yasin Limpo yang mengatakan harga mi instan bisa naik 3 kali lipat dalam waktu dekat."
-    },
-    {
-        "title": "Sri Mulyani Laporkan Subsidi Energi hingga Juli 2022 Sudah Terpakai Rp 116,2 T",
-        "link": "https://bisnis.tempo.co/read/1621790/sri-mulyani-laporkan-subsidi-energi-hingga-juli-2022-sudah-terpakai-rp-1162-t",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNzkwL3NyaS1tdWx5YW5pLWxhcG9ya2FuLXN1YnNpZGktZW5lcmdpLWhpbmdnYS1qdWxpLTIwMjItc3VkYWgtdGVycGFrYWktcnAtMTE2Mi10",
-        "description": "Sri Mulyani mengungkapkan realisasi belanja kompensasi dan subsidi telah mencapai Rp221 triliun per Juli 2022."
-    },
-    {
-        "title": "Cerita Jokowi Mulai Proyek 1 Juta Kelapa Genjah dan Petani Belum Pernah Lihat Pohonnya",
-        "link": "https://bisnis.tempo.co/read/1621770/cerita-jokowi-mulai-proyek-1-juta-kelapa-genjah-dan-petani-belum-pernah-lihat-pohonnya",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIxNzcwL2Nlcml0YS1qb2tvd2ktbXVsYWktcHJveWVrLTEtanV0YS1rZWxhcGEtZ2VuamFoLWRhbi1wZXRhbmktYmVsdW0tcGVybmFoLWxpaGF0LXBvaG9ubnlh",
-        "description": "Jokowi memulai proyek penanaman 1 juta pohon kelapa genjah, dengan target awal 200 ribu di Solo Raya yaitu Sukoharjo, Karanganyar, dan Boyolali, di Jawa Tengah."
     }
 ]
