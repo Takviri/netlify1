@@ -1,5 +1,26 @@
 [
     {
+        "title": "Sinyal Kenaikan Harga BBM, Bahlil: di Sini Naik Seribu Ribut!",
+        "link": "https://www.cnbcindonesia.com/news/20220812152723-4-363349/sinyal-kenaikan-harga-bbm-bahlil-di-sini-naik-seribu-ribut",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE1MjcyMy00LTM2MzM0OS9zaW55YWwta2VuYWlrYW4taGFyZ2EtYmJtLWJhaGxpbC1kaS1zaW5pLW5haWstc2VyaWJ1LXJpYnV0",
+        "description": " Menteri Investasi/Kepala BKPM memberikan sinyal kenaikan harga BBM"
+    },
+    {
+        "title": "Ukraina Serang Pangkalan Udara Rusia, Ini Kata Putin",
+        "link": "https://www.cnbcindonesia.com/news/20220812133342-8-363297/ukraina-serang-pangkalan-udara-rusia-ini-kata-putin",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzMzM0Mi04LTM2MzI5Ny91a3JhaW5hLXNlcmFuZy1wYW5na2FsYW4tdWRhcmEtcnVzaWEtaW5pLWthdGEtcHV0aW4=",
+        "description": " Rusia melanjutkan serangan di selatan dan timur Ukraina."
+    },
+    {
+        "title": "WNI Jadi Korban Penipuan di Kamboja, Ini Kata Menlu Retno",
+        "link": "https://www.cnbcindonesia.com/news/20220812131959-4-363283/wni-jadi-korban-penipuan-di-kamboja-ini-kata-menlu-retno",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzMTk1OS00LTM2MzI4My93bmktamFkaS1rb3JiYW4tcGVuaXB1YW4tZGkta2FtYm9qYS1pbmkta2F0YS1tZW5sdS1yZXRubw==",
+        "description": " Ratusan Warga Negara Indonesia (WNI) menjadi korban penipuan perusahaan investasi palsu di kota Sihanoukville, Kamboja."
+    },
+    {
         "title": "Krisis Pangan Itu Nyata, Ini Buktinya!",
         "link": "https://www.cnbcindonesia.com/news/20220812145253-4-363331/krisis-pangan-itu-nyata-ini-buktinya",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE1MjQ0OC00LTM2MzM0Ni9iZWRhay1iYXlpLWpvaG5zb24tam9obnNvbi1pbmktYmFrYWwtaGlsYW5nLWFkYS1hcGE=",
         "description": " Manajemen Johnson dan Johnson (JdanJ) akan berhenti menjual bedak bayi berbahan dasar talc secara global pada 2023."
-    },
-    {
-        "title": "Covid RI Masih Tinggi, Pemerintah Kebut Vaksinasi Booster",
-        "link": "https://www.cnbcindonesia.com/news/20220812133341-8-363296/covid-ri-masih-tinggi-pemerintah-kebut-vaksinasi-booster",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzMzM0MS04LTM2MzI5Ni9jb3ZpZC1yaS1tYXNpaC10aW5nZ2ktcGVtZXJpbnRhaC1rZWJ1dC12YWtzaW5hc2ktYm9vc3Rlcg==",
-        "description": " Pemerintah gencarkan target vaksinasi booster."
-    },
-    {
-        "title": "Heboh Mi Instan Naik Harga, di Transmart Bisa Irit Segini",
-        "link": "https://www.cnbcindonesia.com/news/20220812150907-4-363336/heboh-mi-instan-naik-harga-di-transmart-bisa-irit-segini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE1MDkwNy00LTM2MzMzNi9oZWJvaC1taS1pbnN0YW4tbmFpay1oYXJnYS1kaS10cmFuc21hcnQtYmlzYS1pcml0LXNlZ2luaQ==",
-        "description": " Harga-harga pangan terpantau naik hingga memicu inflasi."
-    },
-    {
-        "title": "Cek Aturan Lengkap Perjalanan Domestik Baru, Wajib Booster?",
-        "link": "https://www.cnbcindonesia.com/news/20220812145125-4-363330/cek-aturan-lengkap-perjalanan-domestik-baru-wajib-booster",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE0NTEyNS00LTM2MzMzMC9jZWstYXR1cmFuLWxlbmdrYXAtcGVyamFsYW5hbi1kb21lc3Rpay1iYXJ1LXdhamliLWJvb3N0ZXI=",
-        "description": " Satuan Tugas Penanganan Covid-19 kembali mengeluarkan aturan perjalanan dalam negeri terbaru."
     }
 ]
