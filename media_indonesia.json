@@ -1,5 +1,54 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/514213/menanti-taji-petenis-nomor-satu-dunia-iga-swiatek",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTQyMTMvbWVuYW50aS10YWppLXBldGVuaXMtbm9tb3Itc2F0dS1kdW5pYS1pZ2Etc3dpYXRlaw==",
+        "description": "LANGKAH petenis nomor satu dunia Iga Swiatek terhenti di babak 16 besar Kanada Terbuka 2022. Juara Prancis Terbuka 2022 itu kalah dari petenis Brasil Beatriz Haddad Maia dalam pertarungan sengit tiga&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/514193/irwansyah-pastikan-tunggal-putra-siap-tampil-di-kejuaraan-dunia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTQxOTMvaXJ3YW5zeWFoLXBhc3Rpa2FuLXR1bmdnYWwtcHV0cmEtc2lhcC10YW1waWwtZGkta2VqdWFyYWFuLWR1bmlh",
+        "description": "PELATIH bulu tangkis tunggal putra Pelatnas PBSI, Irwansyah, memastikan persiapan timnya menghadapi Kejuaraan Dunia&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514212/partai-berkarya-targetkan-30-kursi-dpr-di-pemilu-2024",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQyMTIvcGFydGFpLWJlcmthcnlhLXRhcmdldGthbi0zMC1rdXJzaS1kcHItZGktcGVtaWx1LTIwMjQ=",
+        "description": "PARTAI Berkarya resmi mendaftarkan diri sebagai peserta Pemilihan Umum (Pemilu) 2024. Partai itu menjadi partai politik (parpol)&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514211/guru-besar-ipb-perkirakan-tahun-2029-1-dari-2-orang-dewasa-alami-obesitas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0MjExL2d1cnUtYmVzYXItaXBiLXBlcmtpcmFrYW4tdGFodW4tMjAyOS0xLWRhcmktMi1vcmFuZy1kZXdhc2EtYWxhbWktb2Jlc2l0YXM=",
+        "description": "MASALAH obesitas pada orang dewasa di Indonesia cukup tinggi. Selama sekitar satu dekade terakhir (2007-2018), prevalensi overweight, obesitas dan obesitas sentral meningkat cukup pesat. Jika tidak&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/514188/aamir-khan-buat-remake-forrest-gump",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDE4OC9hYW1pci1raGFuLWJ1YXQtcmVtYWtlLWZvcnJlc3QtZ3VtcA==",
+        "description": "SALAH satu bintang terbesar di India tengah mempersiapkan penayangan remake film Hollywood Forrest Gump (1994) sebagai upaya menghidupkan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514209/kuasa-dicabut-sepihak-kuasa-hukum-bharada-e-bakal-minta-rp15-triliun-ke-negara",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQyMDkva3Vhc2EtZGljYWJ1dC1zZXBpaGFrLWt1YXNhLWh1a3VtLWJoYXJhZGEtZS1iYWthbC1taW50YS1ycDE1LXRyaWxpdW4ta2UtbmVnYXJh",
+        "description": "DEOLIPA Yumara, mantan kuasa hukum Bharada Richard Eliezer Pudihang Lumiu (RE) atau Bharada E kecewa dengan pencabutan kuasa secara&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/514208/terkait-pemeriksaan-pc-komnas-ham-mengunggu-kesiapan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTQyMDgvdGVya2FpdC1wZW1lcmlrc2Fhbi1wYy1rb21uYXMtaGFtLW1lbmd1bmdndS1rZXNpYXBhbg==",
+        "description": "KETUA Komnas HAM Ahmad Taufan Damanik terkait pemeriksaan dari istri Irjen Ferdy Sambo (FS) yaitu Putri Candrawathi (PS) mengatakan masih menunggu kesiapan dari yang bersangkutan. &quot;Ibu&#8230;"
+    },
+    {
         "title": "Teknologi",
         "link": "https://m.mediaindonesia.com/teknologi/514182/gim-dynasty-warriors-overlords-resmi-dirilis-di-ponsel",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0MjA1L3l1ay1uaWttYXRpLXBha2V0LWxpYnVyYW4ta2VsdWFyZ2EtZGktc3dpc3MtYmVsaG90ZWwtcG9uZG9rLWluZGFo",
         "description": "SWISS-belhotel Pondok Indah menggelar promo paket liburan keluarga dengan kamar tipe Family Two Bedroom atau Superior connecting yang luas dan cukup untuk semua anggota keluarga. Paket liburan keluarga&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514204/jokowi-beri-tanda-kehormatan-bagi-nakes-yang-gugur-karena-covid-19",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0MjA0L2pva293aS1iZXJpLXRhbmRhLWtlaG9ybWF0YW4tYmFnaS1uYWtlcy15YW5nLWd1Z3VyLWthcmVuYS1jb3ZpZC0xOQ==",
-        "description": "MEMPERINGATI Hari Ulang Tahun ke-77 Kemerdekaan RI, Presiden RI Joko Widodo memutuskan menganugerahkan Tanda Kehormatan Bintang&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514203/lorin-sentul-hotel-manjakan-pengunjung-hotel-dengan-membuka-kembali-layanan-spa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0MjAzL2xvcmluLXNlbnR1bC1ob3RlbC1tYW5qYWthbi1wZW5ndW5qdW5nLWhvdGVsLWRlbmdhbi1tZW1idWthLWtlbWJhbGktbGF5YW5hbi1zcGE=",
-        "description": "FASILITAS spa saat ini sudah terdapat dalam hotel yang diperuntukkan bagi tamu yang menginap. Hal ini memberikan kemudahan bagi tamu yang berlibur di akomodasi tersebut, sehingga tamu tidak perlu keluar&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/514175/film-decision-to-leave-akan-wakili-korsel-di-piala-oscar-2023",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDE3NS9maWxtLWRlY2lzaW9uLXRvLWxlYXZlLWFrYW4td2FraWxpLWtvcnNlbC1kaS1waWFsYS1vc2Nhci0yMDIz",
-        "description": "FILM romantis Decision to Leave, karya sutradara Park Chan-wook akan mewakili Korea Selatan (Korsel) di ajang penghargaan Oscar,&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514200/jadwal-piala-dunia-dimajukan-qatar-dan-ekuador-jadi-laga-pembuka",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDIwMC9qYWR3YWwtcGlhbGEtZHVuaWEtZGltYWp1a2FuLXFhdGFyLWRhbi1la3VhZG9yLWphZGktbGFnYS1wZW1idWth",
-        "description": "FIFA resmi memajukan kick off Piala Dunia 2022 Qatar seharii lebih cepat menjadi 20 November 2022. Tuan rumah akan melawan Ekuador di laga pembuka. Sebelumya, laga perdana Piala Dunia 2022 akan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514170/berencana-menikah-ini-tips-mendapatkan-restu-orangtua-dan-calon-mertua",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0MTcwL2JlcmVuY2FuYS1tZW5pa2FoLWluaS10aXBzLW1lbmRhcGF0a2FuLXJlc3R1LW9yYW5ndHVhLWRhbi1jYWxvbi1tZXJ0dWE=",
-        "description": "PSIKOLOG klinis dewasa dari Universitas Indonesia Pingkan Cynthia Belinda Rumondor membagikan tips untuk meyakinkan orangtua dan calon&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514199/polri-sebut-bharada-e-cabut-kuasa-pendampingan-hukum-terhadap-deolipa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQxOTkvcG9scmktc2VidXQtYmhhcmFkYS1lLWNhYnV0LWt1YXNhLXBlbmRhbXBpbmdhbi1odWt1bS10ZXJoYWRhcC1kZW9saXBh",
-        "description": "BARESKRIM Polri menyatakan Bharada Richard Eliezer alias E telah mencabut surat kuasa pendampingan hukum terhadap tim pengacara Deolipa Yumara dan M Boerhanuddin. Dirtipidum Bareskrim Polri&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514197/lapas-kendari-berdayakan-narapidana-untuk-kembangkan-pertanian-hidroponik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0MTk3L2xhcGFzLWtlbmRhcmktYmVyZGF5YWthbi1uYXJhcGlkYW5hLXVudHVrLWtlbWJhbmdrYW4tcGVydGFuaWFuLWhpZHJvcG9uaWs=",
-        "description": "Lembaga Pemasyarakatan (Lapas) Kelas II A Kendari, Sulawesi Tenggara, memberdayakan narapidana dalam pengembangan pertanian tanaman hidroponik. Kasubsi Kegiatan Kerja dan Pelaporan Hasil Kerja&#8230;"
     }
 ]

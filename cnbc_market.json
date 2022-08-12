@@ -1,5 +1,12 @@
 [
     {
+        "title": "Investor Tarik Cuan Dulu, IHSG Sesi I Berakhir Melemah 0,36%",
+        "link": "https://www.cnbcindonesia.com/market/20220812113500-17-363258/investor-tarik-cuan-dulu-ihsg-sesi-i-berakhir-melemah-036",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTEzNTAwLTE3LTM2MzI1OC9pbnZlc3Rvci10YXJpay1jdWFuLWR1bHUtaWhzZy1zZXNpLWktYmVyYWtoaXItbWVsZW1haC0wMzY=",
+        "description": " Indeks Harga Saham Gabungan (IHSG) berakhir terkoreksi 0,36% ke 7.134,4 pada penutupan perdagangan sesi I Jumat (12/8/2022)."
+    },
+    {
         "title": "BI: Ruang Kenaikan Suku Bunga Acuan Terbuka",
         "link": "https://www.cnbcindonesia.com/market/20220812114739-17-363263/bi-ruang-kenaikan-suku-bunga-acuan-terbuka",
         "image": "static/images/cnbc_market.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTYzNzUwLTIwLTM2MzA2NC9pbnRpcC1kZXJldGFuLWNhcmEtcGVtZXJpbnRhaGFuLWpva293aS1wZXJhbmdpLWluZmxhc2k=",
         "description": " Inflasi tinggi akan menjadi momok bagi negara kita karena menjadi penghambat pertumbuhan ekonomi"
-    },
-    {
-        "title": "Inflasi Tingkat Grosir AS Turun, Klaim Pengangguran Meroket",
-        "link": "https://www.cnbcindonesia.com/market/20220812093727-19-363202/inflasi-tingkat-grosir-as-turun-klaim-pengangguran-meroket",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMDkzNzI3LTE5LTM2MzIwMi9pbmZsYXNpLXRpbmdrYXQtZ3Jvc2lyLWFzLXR1cnVuLWtsYWltLXBlbmdhbmdndXJhbi1tZXJva2V0",
-        "description": " Departemen tenaga kerja Amerika Serikat melaporkan indeks harga produsen Amerika Serikat"
     }
 ]
