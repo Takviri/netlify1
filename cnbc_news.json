@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sambo dan Prabowo Jadi Sorotan Media Asing, Kenapa?",
+        "link": "https://www.cnbcindonesia.com/news/20220813053018-4-363442/sambo-dan-prabowo-jadi-sorotan-media-asing-kenapa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMzA1MzAxOC00LTM2MzQ0Mi9zYW1iby1kYW4tcHJhYm93by1qYWRpLXNvcm90YW4tbWVkaWEtYXNpbmcta2VuYXBh",
+        "description": " Indonesia tengah menjadi sorotan media asing. Setidaknya ada dua sosok yang mengundang perhatian tersebut."
+    },
+    {
         "title": "Mantap! Lebih 20 Juta Pedagang RI Sudah Gunakan QRIS",
         "link": "https://www.cnbcindonesia.com/news/20220812184607-4-363435/mantap-lebih-20-juta-pedagang-ri-sudah-gunakan-qris",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE1MjMyNS0xNi0zNjMzNDUvc2VuamF0YS1tZW1hdGlrYW4taXJhbi1pbmktYmlzYS1iaWtpbi1hcy1pc3JhZWwtdHVuZHVr",
         "description": " Iran rupanya memiliki beberapa persenjataan yang cukup mumpuni."
-    },
-    {
-        "title": "Hari UMKM Nasional: Alfamart Dukung Pemulihan Ekonomi",
-        "link": "https://www.cnbcindonesia.com/news/20220812195926-4-363441/hari-umkm-nasional-alfamart-dukung-pemulihan-ekonomi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE5NTkyNi00LTM2MzQ0MS9oYXJpLXVta20tbmFzaW9uYWwtYWxmYW1hcnQtZHVrdW5nLXBlbXVsaWhhbi1la29ub21p",
-        "description": " Lebih dari 180 pengusaha produk lokal terbantu karena dipasarkan di gerai Alfamart dan lebih dari 9.000 pengusaha tenant UMKM buka tenant di halaman Alfamart."
     }
 ]
