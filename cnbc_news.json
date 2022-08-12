@@ -1,5 +1,33 @@
 [
     {
+        "title": "Sempat Dicabut, 80 Izin Usaha Tambang Siap Dipulihkan Lagi",
+        "link": "https://www.cnbcindonesia.com/news/20220812162234-4-363375/sempat-dicabut-80-izin-usaha-tambang-siap-dipulihkan-lagi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE2MjIzNC00LTM2MzM3NS9zZW1wYXQtZGljYWJ1dC04MC1pemluLXVzYWhhLXRhbWJhbmctc2lhcC1kaXB1bGloa2FuLWxhZ2k=",
+        "description": " Menteri Investasi/Kepala\u00c2\u00a0BKPM Bahlil Lahadalia berjanji bakal memulihkan sebanyak 75-80\u00c2\u00a0IUP yang sempat dicabut"
+    },
+    {
+        "title": "Harga Mobil Listrik Wuling Jadi Murah, Ternyata Ini Sebabnya",
+        "link": "https://www.cnbcindonesia.com/news/20220812161451-4-363373/harga-mobil-listrik-wuling-jadi-murah-ternyata-ini-sebabnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE2MTQ1MS00LTM2MzM3My9oYXJnYS1tb2JpbC1saXN0cmlrLXd1bGluZy1qYWRpLW11cmFoLXRlcm55YXRhLWluaS1zZWJhYm55YQ==",
+        "description": " Wuling memperbarui harga mobil listrik terbarunya, yakni Wuling Air-ev."
+    },
+    {
+        "title": "Penampakan Angkot Listrik yang Bakal Mondar-Mandir di Jakarta",
+        "link": "https://www.cnbcindonesia.com/news/20220812154403-7-363356/penampakan-angkot-listrik-yang-bakal-mondar-mandir-di-jakarta",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE1NDQwMy03LTM2MzM1Ni9wZW5hbXBha2FuLWFuZ2tvdC1saXN0cmlrLXlhbmctYmFrYWwtbW9uZGFyLW1hbmRpci1kaS1qYWthcnRh",
+        "description": " Dalam waktu dekat, pemerintah provinsi DKI Jakarta kabarnya bakal menggunakan DFSK Gelora-e sebagai transportasi umum tengah kota."
+    },
+    {
+        "title": "Dari Satelit! Pangkalan Militer Rusia 'Gosong' Akibat Ledakan",
+        "link": "https://www.cnbcindonesia.com/news/20220812151043-7-363338/dari-satelit-pangkalan-militer-rusia-gosong-akibat-ledakan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE1MTA0My03LTM2MzMzOC9kYXJpLXNhdGVsaXQtcGFuZ2thbGFuLW1pbGl0ZXItcnVzaWEtZ29zb25nLWFraWJhdC1sZWRha2Fu",
+        "description": " Pangkalan militer Rusia di Krimea meledak Rabu lalu. Satu orang dilaporkan tewas dan beberapa terluka. Ini foto satelit sebelum dan sesudah kejadian."
+    },
+    {
         "title": "Buwas Tiba-tiba Muncul di Istana Bertemu Jokowi! Ada Apa?",
         "link": "https://www.cnbcindonesia.com/news/20220812160616-4-363371/buwas-tiba-tiba-muncul-di-istana-bertemu-jokowi-ada-apa",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE1MjcyMy00LTM2MzM0OS9zaW55YWwta2VuYWlrYW4taGFyZ2EtYmJtLWJhaGxpbC1kaS1zaW5pLW5haWstc2VyaWJ1LXJpYnV0",
         "description": " Menteri Investasi/Kepala BKPM memberikan sinyal kenaikan harga BBM"
-    },
-    {
-        "title": "Ukraina Serang Pangkalan Udara Rusia, Ini Kata Putin",
-        "link": "https://www.cnbcindonesia.com/news/20220812133342-8-363297/ukraina-serang-pangkalan-udara-rusia-ini-kata-putin",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzMzM0Mi04LTM2MzI5Ny91a3JhaW5hLXNlcmFuZy1wYW5na2FsYW4tdWRhcmEtcnVzaWEtaW5pLWthdGEtcHV0aW4=",
-        "description": " Rusia melanjutkan serangan di selatan dan timur Ukraina."
-    },
-    {
-        "title": "WNI Jadi Korban Penipuan di Kamboja, Ini Kata Menlu Retno",
-        "link": "https://www.cnbcindonesia.com/news/20220812131959-4-363283/wni-jadi-korban-penipuan-di-kamboja-ini-kata-menlu-retno",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzMTk1OS00LTM2MzI4My93bmktamFkaS1rb3JiYW4tcGVuaXB1YW4tZGkta2FtYm9qYS1pbmkta2F0YS1tZW5sdS1yZXRubw==",
-        "description": " Ratusan Warga Negara Indonesia (WNI) menjadi korban penipuan perusahaan investasi palsu di kota Sihanoukville, Kamboja."
-    },
-    {
-        "title": "Krisis Pangan Itu Nyata, Ini Buktinya!",
-        "link": "https://www.cnbcindonesia.com/news/20220812145253-4-363331/krisis-pangan-itu-nyata-ini-buktinya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE0NTI1My00LTM2MzMzMS9rcmlzaXMtcGFuZ2FuLWl0dS1ueWF0YS1pbmktYnVrdGlueWE=",
-        "description": " Produksi biji-bijian pangan dunia diprediksi akan menurun secara global."
-    },
-    {
-        "title": "Sri Mulyani Beberkan Gelapnya Dunia Kini, Jangan Kaget!",
-        "link": "https://www.cnbcindonesia.com/news/20220812162359-4-363377/sri-mulyani-beberkan-gelapnya-dunia-kini-jangan-kaget",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE2MjM1OS00LTM2MzM3Ny9zcmktbXVseWFuaS1iZWJlcmthbi1nZWxhcG55YS1kdW5pYS1raW5pLWphbmdhbi1rYWdldA==",
-        "description": " Risiko perekonomian global dan Indonesia bergeser, dari kesehatan ke geopolitik yang memicu disrupsi pasokan yang menyebabkan inflasi melesat naik."
     }
 ]
