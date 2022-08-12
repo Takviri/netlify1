@@ -1,5 +1,26 @@
 [
     {
+        "title": "Satgas Minta RI Waspada Positivity Rate Covid Naik Hampir 2 Kali Lipat",
+        "link": "https://www.cnnindonesia.com/nasional/20220813030850-20-834152/satgas-minta-ri-waspada-positivity-rate-covid-naik-hampir-2-kali-lipat",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMzAzMDg1MC0yMC04MzQxNTIvc2F0Z2FzLW1pbnRhLXJpLXdhc3BhZGEtcG9zaXRpdml0eS1yYXRlLWNvdmlkLW5haWstaGFtcGlyLTIta2FsaS1saXBhdA==",
+        "description": " Satgas Penanganan Covid-19 menuturkan kenaikan angka positivity rate virus corona ini merefleksikan kenaikan kasus positif Covid-19 di tengah masyarakat."
+    },
+    {
+        "title": "Bobby Respons RS di Medan Gelar Catwalk ala Citayam Fashion Week",
+        "link": "https://www.cnnindonesia.com/nasional/20220813024209-20-834151/bobby-respons-rs-di-medan-gelar-catwalk-ala-citayam-fashion-week",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMzAyNDIwOS0yMC04MzQxNTEvYm9iYnktcmVzcG9ucy1ycy1kaS1tZWRhbi1nZWxhci1jYXR3YWxrLWFsYS1jaXRheWFtLWZhc2hpb24td2Vlaw==",
+        "description": " Wali Kota Medan Bobby Naustion buka suara terkait perdebatan pagelaran catwalk ala Citayam Fashin Week di RSUD Dr Pirngadi hingga diklaim mengganggu pasien."
+    },
+    {
+        "title": "Kemenkes Wanti-wanti Puncak Kasus Covid-19 Bisa Terjadi Akhir Agustus",
+        "link": "https://www.cnnindonesia.com/nasional/20220812165412-20-833971/kemenkes-wanti-wanti-puncak-kasus-covid-19-bisa-terjadi-akhir-agustus",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMjE2NTQxMi0yMC04MzM5NzEva2VtZW5rZXMtd2FudGktd2FudGktcHVuY2FrLWthc3VzLWNvdmlkLTE5LWJpc2EtdGVyamFkaS1ha2hpci1hZ3VzdHVz",
+        "description": " Kemenkes\u00c2\u00a0memprediksi puncak kasus virus Covid-19 di Indonesia kemungkinan masih bisa terjadi pada akhir Agustus 2022."
+    },
+    {
         "title": "Bupati Pemalang Tersangka Suap dan 5 Tersangka Lain Ditahan 20 Hari",
         "link": "https://www.cnnindonesia.com/nasional/20220813020354-12-834147/bupati-pemalang-tersangka-suap-dan-5-tersangka-lain-ditahan-20-hari",
         "image": "static/images/cnn_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMjIzNDQyMS0xMi04MzQxMzAva3BrLXRldGFwa2FuLWJ1cGF0aS1wZW1hbGFuZy10ZXJzYW5na2EtZHVnYWFuLXN1YXAtanVhbC1iZWxpLWphYmF0YW4=",
         "description": " Penetapan tersangka ini merupakan tindak lanjut dari Operasi Tangkap Tangan (OTT) yang digelar KPK di Pemalang dan Jakarta pada Kamis (11/8)."
-    },
-    {
-        "title": "DKI Gelar Acara Puncak Jakarnaval 2022 di Sirkuit Formula E",
-        "link": "https://www.cnnindonesia.com/nasional/20220812232804-20-834129/dki-gelar-acara-puncak-jakarnaval-2022-di-sirkuit-formula-e",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMjIzMjgwNC0yMC04MzQxMjkvZGtpLWdlbGFyLWFjYXJhLXB1bmNhay1qYWthcm5hdmFsLTIwMjItZGktc2lya3VpdC1mb3JtdWxhLWU=",
-        "description": " Jakarnaval 2022 akan digelar di Sirkuit Internasional E-Prix Jakarta sebagai apresiasi pegiat ekonomi kreatif dan komunitas di Ibu Kota."
-    },
-    {
-        "title": "KPK Sita Rp6,1 Miliar dari Kasus Dugaan Suap Bupati Pemalang",
-        "link": "https://www.cnnindonesia.com/nasional/20220812231503-12-834128/kpk-sita-rp61-miliar-dari-kasus-dugaan-suap-bupati-pemalang",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMjIzMTUwMy0xMi04MzQxMjgva3BrLXNpdGEtcnA2MS1taWxpYXItZGFyaS1rYXN1cy1kdWdhYW4tc3VhcC1idXBhdGktcGVtYWxhbmc=",
-        "description": " Uang tunai hingga rekening bank senilai total Rp6,1 miliar disita KPK usai menetapkan Bupati Pemalang Mukti Agung sebagai tersangka kasus suap."
-    },
-    {
-        "title": "Pengacara: Brigadir J Diduga Disiksa di Paminal Mabes Polri",
-        "link": "https://www.cnnindonesia.com/nasional/20220812202733-12-834089/pengacara-brigadir-j-diduga-disiksa-di-paminal-mabes-polri",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMjIwMjczMy0xMi04MzQwODkvcGVuZ2FjYXJhLWJyaWdhZGlyLWotZGlkdWdhLWRpc2lrc2EtZGktcGFtaW5hbC1tYWJlcy1wb2xyaQ==",
-        "description": " Kuasa Hukum Keluarga Brigadir J, Kamaruddin Simanjuntak meminta kamera pengawas (CCTV) di Mabes Polri untuk segera diperiksa."
     }
 ]
