@@ -1,5 +1,47 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/514356/pariwisata-di-diy-tetap-terapkan-prokes",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0MzU2L3Bhcml3aXNhdGEtZGktZGl5LXRldGFwLXRlcmFwa2FuLXByb2tlcw==",
+        "description": "PARIWISATA di DIY mulai bangkit dengan banyaknya acara konser musik ataupun sport tourism yang diadakan. Namun, Kepala Dinas Pariwisata DIY, Singgih Raharjo menegaskan protokol kesehatan (prokes) tetap&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/514355/pelajar-di-kudus-ciptakan-berbagai-makanan-olahan-sorgum",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0MzU1L3BlbGFqYXItZGkta3VkdXMtY2lwdGFrYW4tYmVyYmFnYWktbWFrYW5hbi1vbGFoYW4tc29yZ3Vt",
+        "description": "MASYARAKAT mungkin masih jarang memanfaatkan sorgum sebagai olahan makanan, namun bagi pelajar di Kudus, Jawa Tengah, ini justru menjadi makanan favorit dan dapat diolah menjadi berbagai makanan pengganti&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/514353/pemerintah-genjot-pangan-lokal-pengganti-komoditas-impor",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDM1My9wZW1lcmludGFoLWdlbmpvdC1wYW5nYW4tbG9rYWwtcGVuZ2dhbnRpLWtvbW9kaXRhcy1pbXBvcg==",
+        "description": "PEMERINTAH melalui Kementerian Pertanian (Kementan) menggenjot produksi beberapa pangan lokal sebagai upaya melepas ketergantungan impor. Sejumlah komoditas pangan impor, seperti gandum, sempat terkendala&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/514352/desa-wisata-bukit-waung-kini-teraliri-listrik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0MzUyL2Rlc2Etd2lzYXRhLWJ1a2l0LXdhdW5nLWtpbmktdGVyYWxpcmktbGlzdHJpaw==",
+        "description": "DESA Wisata Bukit Waung Modangan Sumberoto, Kabupaten Malang, yang dikenal sebagai lokasi wisata Paralayang kini terang benderang setelah PT PLN (Persero) Unit Induk Distribusi Jawa Timur memberikan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514350/mengenal-hemoglobin-ini-akibatnya-jika-kekurangannya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0MzUwL21lbmdlbmFsLWhlbW9nbG9iaW4taW5pLWFraWJhdG55YS1qaWthLWtla3VyYW5nYW5ueWE=",
+        "description": "DARAH merupakan salah satu komponen paling penting dalam tubuh sebagai pengantar oksigen. Darah mengambil peran krusial dalam tubuh.&nbsp; Terdapat empat jenis sel dalam darah, sel darah merah,&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514348/super-garuda-shield-2022-tak-ada-hubungannya-dengan-ketegangan-tiongkok-taiwan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQzNDgvc3VwZXItZ2FydWRhLXNoaWVsZC0yMDIyLXRhay1hZGEtaHVidW5nYW5ueWEtZGVuZ2FuLWtldGVnYW5nYW4tdGlvbmdrb2stdGFpd2Fu",
+        "description": "LATIHAN militer bersama antara TNI dengan US Army bertajuk Super Garuda Shield 2022 di Baturaja, OKU, Sumatera Selatan, sama sekali tidak terkait dengan ketegangan hubungan Tiongkok dan Taiwan sedang&#8230;"
+    },
+    {
         "title": "Otomotif",
         "link": "https://m.mediaindonesia.com/otomotif/514346/ud-trucks-hadirkan-rangkaian-quester-euro-5",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTQzNDMvcGVtcHJvdi1qYWthcnRhLXZha3NpbmFzaS11cGF5YS13dWp1ZGthbi16ZXJvLWNhc2UtcG1r",
         "description": "PENYEBARAN penyakit mulut dan kuku (PMK) mulai ada tanda-tanda terkendali. Satuan Tugas (Satgas) PMK mencatat dari 37 provinsi sebanyak 24 provinsi terpapar wabah PMK. Dari jumlah itu, enam provinsi&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514342/kabupaten-mukomuko-tambah-desa-wisata",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0MzQyL2thYnVwYXRlbi1tdWtvbXVrby10YW1iYWgtZGVzYS13aXNhdGE=",
-        "description": "PEMERINTAH Kabupaten (Pemkab) Mukomuko, Bengkulu mengembangkan 53 desa wisata tahun ini. Hal ini dilakukan untuk menambah jumlah lokasi wisata di Bengkulu. Kepala Dinas Pariwisata, Kepemudaan,&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514341/ketua-mpr-ri-apresiasi-pameran-lukisan-langkah-5inga-7antan-karya-ireng-halimun",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0MzQxL2tldHVhLW1wci1yaS1hcHJlc2lhc2ktcGFtZXJhbi1sdWtpc2FuLWxhbmdrYWgtNWluZ2EtN2FudGFuLWthcnlhLWlyZW5nLWhhbGltdW4=",
-        "description": "KETUA MPR RI Bambang Soesatyo mengapresiasi pameran seni lukis karya Ireng Halimun, bertajuk 'Langkah 5inga 7antan'. Eksistensi Ireng dalam dunia seni lukis tidak hadir dari ruang hampa, melainkan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514340/sejarah-dan-tujuan-pembentukan-kni",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0MzQwL3NlamFyYWgtZGFuLXR1anVhbi1wZW1iZW50dWthbi1rbmk=",
-        "description": "KEMERDEKAAN NKRI merupakan hasil dari kolaborasi, kerja sama, dan pengorbanan segala pihak, baik individu maupun instansi. KNI ialah salah satu dari organisasi yang ikut membantu kemerdekaan NKRI bersama&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514339/sambut-hut-ri-aplikasi-pemesanan-kamar-hotel-di-bali-beri-diskon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0MzM5L3NhbWJ1dC1odXQtcmktYXBsaWthc2ktcGVtZXNhbmFuLWthbWFyLWhvdGVsLWRpLWJhbGktYmVyaS1kaXNrb24=",
-        "description": "DI tengah situasi pandemi yang kian berangsur membaik, para pelaku industri pariwisata Bali mulai bisa bernapas lega. Perlahan namun pasti, wisatawan lokal maupun mancanegara kembali mewarnai&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/514338/indofood-dukung-bahan-baku-lokal-untuk-mie-instant",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDMzOC9pbmRvZm9vZC1kdWt1bmctYmFoYW4tYmFrdS1sb2thbC11bnR1ay1taWUtaW5zdGFudA==",
-        "description": "DIREKTUR PT Indofood Sukses Makmur Tbk (INDF), Franciscus Welirang atau yang dikenal Franky Welirang mendukung penuh upaya Kementerian Pertanian (Kementan) dalam antisipasi krisis pangan global dengan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514334/politeknik-pariwisata-nhi-bandung-hadirkan-menparekraf-dalam-studium-generale",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0MzM0L3BvbGl0ZWtuaWstcGFyaXdpc2F0YS1uaGktYmFuZHVuZy1oYWRpcmthbi1tZW5wYXJla3JhZi1kYWxhbS1zdHVkaXVtLWdlbmVyYWxl",
-        "description": "POLITEKNIK Pariwisata NHI Bandung menggelar rangkaian kegiatan studium generale periode perkuliahan Agustus-Desember 2022, yang dilaksanakan secara hybrid bertepatan dengan Penerimaan Mahasiswa Baru&#8230;"
     }
 ]
