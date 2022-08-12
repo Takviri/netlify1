@@ -1,5 +1,47 @@
 [
     {
+        "title": "RI Lewat! Soal Utang, Uncle Sam Jagonya",
+        "link": "https://www.cnbcindonesia.com/news/20220812133343-8-363299/ri-lewat-soal-utang-uncle-sam-jagonya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzMzM0My04LTM2MzI5OS9yaS1sZXdhdC1zb2FsLXV0YW5nLXVuY2xlLXNhbS1qYWdvbnlh",
+        "description": " China semakin agresif \"membuang\" surat utang pemerintah Negeri Paman Sam."
+    },
+    {
+        "title": "Sah! Mobil dan Motor Ini Dilarang Isi Pertalite",
+        "link": "https://www.cnbcindonesia.com/news/20220812154008-4-363365/sah-mobil-dan-motor-ini-dilarang-isi-pertalite",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE1NDAwOC00LTM2MzM2NS9zYWgtbW9iaWwtZGFuLW1vdG9yLWluaS1kaWxhcmFuZy1pc2ktcGVydGFsaXRl",
+        "description": " Menteri Investasi/Kepala BKPM membeberkan kriteria mobil dan motor yang dilarang isi Pertalite"
+    },
+    {
+        "title": "Harga Mi Instan Diam-Diam Sudah Naik, Ini Pengakuan Pedagang",
+        "link": "https://www.cnbcindonesia.com/news/20220812141916-4-363324/harga-mi-instan-diam-diam-sudah-naik-ini-pengakuan-pedagang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE0MTkxNi00LTM2MzMyNC9oYXJnYS1taS1pbnN0YW4tZGlhbS1kaWFtLXN1ZGFoLW5haWstaW5pLXBlbmdha3Vhbi1wZWRhZ2FuZw==",
+        "description": " Harga mi instan tengah menjadi sorotan saat ini."
+    },
+    {
+        "title": "Menlu Retno Ungkap Peran RI di Presidensi G20, Apa Saja?",
+        "link": "https://www.cnbcindonesia.com/news/20220812132857-8-363290/menlu-retno-ungkap-peran-ri-di-presidensi-g20-apa-saja",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzMjg1Ny04LTM2MzI5MC9tZW5sdS1yZXRuby11bmdrYXAtcGVyYW4tcmktZGktcHJlc2lkZW5zaS1nMjAtYXBhLXNhamE=",
+        "description": " Menlu Retno Ungkap Peran RI di Presidensi G20, Apa Saja?"
+    },
+    {
+        "title": "Daftar Harga BBM se Asean, RI yang Termahal?",
+        "link": "https://www.cnbcindonesia.com/news/20220812140821-4-363322/daftar-harga-bbm-se-asean-ri-yang-termahal",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE0MDgyMS00LTM2MzMyMi9kYWZ0YXItaGFyZ2EtYmJtLXNlLWFzZWFuLXJpLXlhbmctdGVybWFoYWw=",
+        "description": " Daftar harga BBM se Asean di tengah melejitnya harga minyak mentah dunia"
+    },
+    {
+        "title": "Situasi Ekonomi 2023 Gelap, Jangan Anggap Enteng!",
+        "link": "https://www.cnbcindonesia.com/news/20220812144457-4-363327/situasi-ekonomi-2023-gelap-jangan-anggap-enteng",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE0NDQ1Ny00LTM2MzMyNy9zaXR1YXNpLWVrb25vbWktMjAyMy1nZWxhcC1qYW5nYW4tYW5nZ2FwLWVudGVuZw==",
+        "description": " Situasi perekonomian dunia semakin gelap."
+    },
+    {
         "title": "Menlu Retno Buka-bukaan soal Klaim Tumpang Tindih di LCS",
         "link": "https://www.cnbcindonesia.com/news/20220812132037-4-363284/menlu-retno-buka-bukaan-soal-klaim-tumpang-tindih-di-lcs",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE1MDMzNC00LTM2MzMzNC9zaWFwLXNpYXAtbWVudGVyaS1qb2tvd2ktaW5pLWJlcmktc2lueWFsLWhhcmdhLWJibS1uYWlr",
         "description": " Menteri Investasi/Kepala BKPM Bahlil Lahadalia menyatakan siap-siap kalau katakanlah harga BBM naik"
-    },
-    {
-        "title": "8 Fakta Baru Rusia-Ukraina, Ada Drone Iran Ikut Perang",
-        "link": "https://www.cnbcindonesia.com/news/20220812144957-4-363328/8-fakta-baru-rusia-ukraina-ada-drone-iran-ikut-perang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE0NDk1Ny00LTM2MzMyOC84LWZha3RhLWJhcnUtcnVzaWEtdWtyYWluYS1hZGEtZHJvbmUtaXJhbi1pa3V0LXBlcmFuZw==",
-        "description": " Pertempuran antara pasukan Rusia dan Ukraina masih terus terjadi. Ini 8 fakta barunya"
-    },
-    {
-        "title": "4 Langkah Kemenlu Tangani Kasus Penyekapan WNI di Kamboja",
-        "link": "https://www.cnbcindonesia.com/news/20220812135608-8-363313/4-langkah-kemenlu-tangani-kasus-penyekapan-wni-di-kamboja",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzNTYwOC04LTM2MzMxMy80LWxhbmdrYWgta2VtZW5sdS10YW5nYW5pLWthc3VzLXBlbnlla2FwYW4td25pLWRpLWthbWJvamE=",
-        "description": " 4 Langkah Kemenlu Tangani Kasus Penyekapan WNI di Kamboja"
-    },
-    {
-        "title": "Rapimnas Gerindra 2022: Kader Tunggu Jawaban Prabowo Nyapres",
-        "link": "https://www.cnbcindonesia.com/news/20220812134931-4-363315/rapimnas-gerindra-2022-kader-tunggu-jawaban-prabowo-nyapres",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzNDkzMS00LTM2MzMxNS9yYXBpbW5hcy1nZXJpbmRyYS0yMDIyLWthZGVyLXR1bmdndS1qYXdhYmFuLXByYWJvd28tbnlhcHJlcw==",
-        "description": " Muzani menyebut kinerja Prabowo sebagai menteri pertahanan patut diperhitungkan."
-    },
-    {
-        "title": "Ini Syarat Perjalanan Baru Usia 18 Tahun ke Bawah, Wajib PCR?",
-        "link": "https://www.cnbcindonesia.com/news/20220812143907-4-363326/ini-syarat-perjalanan-baru-usia-18-tahun-ke-bawah-wajib-pcr",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE0MzkwNy00LTM2MzMyNi9pbmktc3lhcmF0LXBlcmphbGFuYW4tYmFydS11c2lhLTE4LXRhaHVuLWtlLWJhd2FoLXdhamliLXBjcg==",
-        "description": " Kepala Satgas\u00c2\u00a0Covid-19 Letjen TNI Suharyanto menetapkan syarat perjalanan khusus bagi warga usia 6 sampai 17 tahun."
-    },
-    {
-        "title": "Hati-hati, Mr Erdogan! Lira Turki Bisa Makin Nyungsep...",
-        "link": "https://www.cnbcindonesia.com/news/20220812135434-4-363314/hati-hati-mr-erdogan-lira-turki-bisa-makin-nyungsep",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzNTQzNC00LTM2MzMxNC9oYXRpLWhhdGktbXItZXJkb2dhbi1saXJhLXR1cmtpLWJpc2EtbWFraW4tbnl1bmdzZXA=",
-        "description": " Defisit transaksi berjalan Turki melebar 191% (year on year/yoy) menjadi US$ 3,46 miliar pada Juni tahun ini."
-    },
-    {
-        "title": "Angkot Listrik Bakal Mondar-Mandir di Sudirman-Thamrin?",
-        "link": "https://www.cnbcindonesia.com/news/20220812140247-4-363321/angkot-listrik-bakal-mondar-mandir-di-sudirman-thamrin",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE0MDI0Ny00LTM2MzMyMS9hbmdrb3QtbGlzdHJpay1iYWthbC1tb25kYXItbWFuZGlyLWRpLXN1ZGlybWFuLXRoYW1yaW4=",
-        "description": " Jalanan Sudirman-Thamrin Jakarta bakal memiliki opsi transportasi umum yang baru, yakni dengan kehadiran 20 angkutan kota (angkot) listrik."
     }
 ]

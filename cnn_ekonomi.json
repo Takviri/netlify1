@@ -1,5 +1,19 @@
 [
     {
+        "title": "Ekonomi Inggris Makin Mendekat ke Resesi",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220812140519-532-833871/ekonomi-inggris-makin-mendekat-ke-resesi",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEyMTQwNTE5LTUzMi04MzM4NzEvZWtvbm9taS1pbmdncmlzLW1ha2luLW1lbmRla2F0LWtlLXJlc2VzaQ==",
+        "description": " Ekonomi Inggris makin mendekat ke resesi setelah pertumbuhannya turun ke level 0,1 persen pada kuartal II 2022, menyusut\u00c2\u00a0dari kuartal I yang masih 0,8 persen."
+    },
+    {
+        "title": "VIDEO: Bedak Bayi Johnson Berhenti Dijual 2023",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220812114147-96-833798/video-bedak-bayi-johnson-berhenti-dijual-2023",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEyMTE0MTQ3LTk2LTgzMzc5OC92aWRlby1iZWRhay1iYXlpLWpvaG5zb24tYmVyaGVudGktZGlqdWFsLTIwMjM=",
+        "description": " Johnson dan Johnson akan menghentikan penjualan bedak bayi berbahan talc secara global pada 2023 mendatang."
+    },
+    {
         "title": "IHSG Lunglai ke 7.129 Meski 262 Saham Menguat",
         "link": "https://www.cnnindonesia.com/ekonomi/20220812151255-92-833923/ihsg-lunglai-ke-7129-meski-262-saham-menguat",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEyMTIxODIxLTkyLTgzMzgxMy9rY2ljLXRhbmdndW5nLXV0YW5nLXBlbWJlbmdrYWthbi1iaWF5YS1rZXJldGEtY2VwYXQtamFrYXJ0YS1iYW5kdW5n",
         "description": " Staf Khusus Menteri BUMN Arya Sinulingga mengatakan tambahan utang atas pembengkakan biaya proyek kereta cepat Jakarta-Bandung akan ditanggung oleh KCIC."
-    },
-    {
-        "title": "Erick Thohir Sebut Pemerintah Sedang Hitung Ulang Subsidi BBM",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220812100832-85-833735/erick-thohir-sebut-pemerintah-sedang-hitung-ulang-subsidi-bbm",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEyMTAwODMyLTg1LTgzMzczNS9lcmljay10aG9oaXItc2VidXQtcGVtZXJpbnRhaC1zZWRhbmctaGl0dW5nLXVsYW5nLXN1YnNpZGktYmJt",
-        "description": " Menteri BUMN Erick Thohir menyebut pemerintah sedang menghitung ulang kebijakan subsidi BBM supaya tepat sasaran dan tidak membebani APBN."
-    },
-    {
-        "title": "DANA Tuntaskan Investasi Baru dengan Sinar Mas dan Lazada Group",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220812120112-97-833810/dana-tuntaskan-investasi-baru-dengan-sinar-mas-dan-lazada-group",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEyMTIwMTEyLTk3LTgzMzgxMC9kYW5hLXR1bnRhc2thbi1pbnZlc3Rhc2ktYmFydS1kZW5nYW4tc2luYXItbWFzLWRhbi1sYXphZGEtZ3JvdXA=",
-        "description": " Aplikasi dompet digital, DANA\u00c2\u00a0mengumumkan penyelesaian\u00c2\u00a0transaksi investasi terbaru dari Sinar Mas dan perusahaan e-commerce Lazada Group."
     }
 ]
