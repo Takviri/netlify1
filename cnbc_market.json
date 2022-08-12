@@ -1,5 +1,26 @@
 [
     {
+        "title": "Ampun... Harga Emas Turun 3 Hari Beruntun",
+        "link": "https://www.cnbcindonesia.com/market/20220812064215-17-363155/ampun-harga-emas-turun-3-hari-beruntun",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMDY0MjE1LTE3LTM2MzE1NS9hbXB1bi1oYXJnYS1lbWFzLXR1cnVuLTMtaGFyaS1iZXJ1bnR1bg==",
+        "description": " Harga emas menyusut 0,16%."
+    },
+    {
+        "title": "Harga Batu Bara Jatuh, Turun Hampir 1%",
+        "link": "https://www.cnbcindonesia.com/market/20220812060635-17-363148/harga-batu-bara-jatuh-turun-hampir-1",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMDYwNjM1LTE3LTM2MzE0OC9oYXJnYS1iYXR1LWJhcmEtamF0dWgtdHVydW4taGFtcGlyLTE=",
+        "description": " Harga batu bara\u00c2\u00a0turun 0,92% dibandingkan hari sebelumnya."
+    },
+    {
+        "title": "Citibank Prediksi Pertumbuhan Ekonomi RI 5,2%",
+        "link": "https://www.cnbcindonesia.com/market/20220812072737-17-363165/citibank-prediksi-pertumbuhan-ekonomi-ri-52",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMDcyNzM3LTE3LTM2MzE2NS9jaXRpYmFuay1wcmVkaWtzaS1wZXJ0dW1idWhhbi1la29ub21pLXJpLTUy",
+        "description": " Citibank Indonesia memprediksi pertumbuhan ekonomi Indonesia 5,2% lebih rendah dari prediksi pemerintah sebesar 5,3%."
+    },
+    {
         "title": "Kabar Pasar: Lazada dan Sinar Mas Beli DANA - Update WanaArtha",
         "link": "https://www.cnbcindonesia.com/market/20220812070627-17-363163/kabar-pasar-lazada-sinar-mas-beli-dana--update-wanaartha",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTg0NDU4LTE3LTM2MzEwNC9sYW1wdS1rdW5pbmctd2FsbC1zdHJlZXQtZ2FsYXUtaWhzZy1zZW1vZ2Eta3VhdA==",
         "description": " Pasar keuangan Indonesia kompak bangkit kemarin."
-    },
-    {
-        "title": "'Keajaiban' Inflasi Datang, Wall Street Dibuka Happy",
-        "link": "https://www.cnbcindonesia.com/market/20220811173828-17-363084/keajaiban-inflasi-datang-wall-street-dibuka-happy",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTczODI4LTE3LTM2MzA4NC9rZWFqYWliYW4taW5mbGFzaS1kYXRhbmctd2FsbC1zdHJlZXQtZGlidWthLWhhcHB5",
-        "description": " Bursa saham AS kompak menguat pada pembukaan perdagangan\u00c2\u00a0hari ini,\u00c2\u00a0setelah data inflasi AS menunjukkan perlambatan."
-    },
-    {
-        "title": "Sri Mulyani: Teknologi Digital Jadi Juru Selamat Ekonomi",
-        "link": "https://www.cnbcindonesia.com/market/20220811194459-17-363126/sri-mulyani-teknologi-digital-jadi-juru-selamat-ekonomi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTk0NDU5LTE3LTM2MzEyNi9zcmktbXVseWFuaS10ZWtub2xvZ2ktZGlnaXRhbC1qYWRpLWp1cnUtc2VsYW1hdC1la29ub21p",
-        "description": " Belajar dari pandemi Covd-19 yang melumpuhkan di hampir semua sektor, infrastruktur digital sangat membantu agar kehidupan dan roda perekonomian terus berputar."
-    },
-    {
-        "title": "Kendala 'Digitalisasi' Desa: Sinyal",
-        "link": "https://www.cnbcindonesia.com/market/20220811191025-17-363125/kendala-digitalisasi-desa-sinyal",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODExMTkxMDI1LTE3LTM2MzEyNS9rZW5kYWxhLWRpZ2l0YWxpc2FzaS1kZXNhLXNpbnlhbA==",
-        "description": " Belajar dari pandemi Covid-19, koneksi jaringan menjadi sangat penting bagi aktivitas masyarakat."
     }
 ]

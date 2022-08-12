@@ -1,5 +1,40 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/514134/disney-hotstar-hadirkan-serial-tentang-groot",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDEzNC9kaXNuZXktaG90c3Rhci1oYWRpcmthbi1zZXJpYWwtdGVudGFuZy1ncm9vdA==",
+        "description": "MARVEL kembali mengeluarkan serial terbarunya, yang tayang mulai Rabu (10/8) di Disney+ Hotstar. Serial animasi pendek ini akan menceritakan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514141/mendikbudristek-ingin-ekosistem-teknologi-terus-dorong-inovasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0MTQxL21lbmRpa2J1ZHJpc3Rlay1pbmdpbi1la29zaXN0ZW0tdGVrbm9sb2dpLXRlcnVzLWRvcm9uZy1pbm92YXNp",
+        "description": "PEMERINTAH akan terus mendorong dan memastikan ekosistem teknologi pendidikan dapat digunakan dan mendorong lahirnya inovasi baik dalam pembelajaran maupun administrasi pendidikan. Demikian&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/514140/aaji-gelar-seminar-motivasi-dan-beri-penghargaan-agen-asuransi-berprestasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0MTQwL2FhamktZ2VsYXItc2VtaW5hci1tb3RpdmFzaS1kYW4tYmVyaS1wZW5naGFyZ2Fhbi1hZ2VuLWFzdXJhbnNpLWJlcnByZXN0YXNp",
+        "description": "AJANG Top Agent Awards Asosiasi Asuransi Jiwa Indonesia (TAA AAJI) ke-35 tahun 2022 di hari kedua, Kamis (11/8) menggelar Convention atau Seminar Motivasi dan Pemberian Penghargaan Agen Asuransi Jiwa&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/514133/minta-bantuan-lewat-medsos-penyintas-kecelakaan-helikopter-di-hutan-panama-berhasil-diselamatkan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNDEzMy9taW50YS1iYW50dWFuLWxld2F0LW1lZHNvcy1wZW55aW50YXMta2VjZWxha2Fhbi1oZWxpa29wdGVyLWRpLWh1dGFuLXBhbmFtYS1iZXJoYXNpbC1kaXNlbGFtYXRrYW4=",
+        "description": "ENAM orang penyintas kecelakaan helikopter di hutan Panama berhasil diselamatkan setelah salah satu dari mereka mengunggah permintaan&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/514139/kartunis-prancis-jean-jacques-sempe-tutup-usia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDEzOS9rYXJ0dW5pcy1wcmFuY2lzLWplYW4tamFjcXVlcy1zZW1wZS10dXR1cC11c2lh",
+        "description": "JEAN-JAQUES Sempe, ilustrator serial anak-anak Prancis Little Nicolas, meninggal dunia di usia 89 tahun. Selain lewat serial&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/514132/manchester-city-dekati-raphael-guerreiro",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDEyOC9pbTMtcmlsaXMtbGFndS1rb2xhYm9yYXNpLW11c2lzaS1saW50YXMtZ2VucmUtdW50dWstcmF5YWthbi0xNy1hZ3VzdHVz",
         "description": "MENYAMBUT momen penuh semangat di bulan kemerdekaan Indonesia, IM3 kembali menghadirkan kampanye terbaru, Menjadi Indonesia. Dengan&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/514127/ini-kelebihan-dan-peningkatan-fitur-samsung-z-flip-4-5g",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE0MTI3L2luaS1rZWxlYmloYW4tZGFuLXBlbmluZ2thdGFuLWZpdHVyLXNhbXN1bmctei1mbGlwLTQtNWc=",
-        "description": "MENERUSKAN model Galaxy Z Flip 3, Samsung kembali mengumumkan model baru dalam keluarga Galaxy Z series yaitu Galaxy Z Flip 4.&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/514125/ini-harga-dan-spesifikasi-samsung-seri-z-flip-4-5g-terbaru",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE0MTI1L2luaS1oYXJnYS1kYW4tc3Blc2lmaWthc2ktc2Ftc3VuZy1zZXJpLXotZmxpcC00LTVnLXRlcmJhcnU=",
-        "description": "PRODUSEN ponsel pintar Samsung telah mengumumkan ponsel pintar layar lipat generasi terbaru mereka, Galaxy Z Flip 4 5G, di acara Samsung&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514124/werner-mengaku-putuskan-kembali-ke-leipzig-karena-flick",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDEyNC93ZXJuZXItbWVuZ2FrdS1wdXR1c2thbi1rZW1iYWxpLWtlLWxlaXB6aWcta2FyZW5hLWZsaWNr",
-        "description": "STRIKER RB Leipzig Timo Werner mengatakan manajer timnas Jerman Hansi Flick adalah orang mendorongnya untuk kembali ke RB Leipzig&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/514123/fabio-asher-rilis-dua-single-baru-sekaligus",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDEyMy9mYWJpby1hc2hlci1yaWxpcy1kdWEtc2luZ2xlLWJhcnUtc2VrYWxpZ3Vz",
-        "description": "SETELAH sukses dengan dua single pertamanya, Bertahan Terluka dan Rumah Singgah, musisi Indonesia pendatang baru, Fabio Asher, pekan&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/514110/ikn-dan-kesetaraan-pembangunan-wilayah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTQxMTAvaWtuLWRhbi1rZXNldGFyYWFuLXBlbWJhbmd1bmFuLXdpbGF5YWg=",
-        "description": "SALAH satu hasil kunjungan Presiden Joko Widodo ke Tiongkok, Jepang, dan Korea Selatan ialah ketertarikan investor di ibu kota negara (IKN). Menurut Badan Koordinaasi Penanaman Modal (BKPM), minat&#8230;"
     }
 ]
