@@ -1,5 +1,26 @@
 [
     {
+        "title": "Harga BBM Naik, Banyakan Untung atau Ruginya?",
+        "link": "https://www.cnbcindonesia.com/news/20220812182059-4-363426/harga-bbm-naik-banyakan-untung-atau-ruginya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE4MjA1OS00LTM2MzQyNi9oYXJnYS1iYm0tbmFpay1iYW55YWthbi11bnR1bmctYXRhdS1ydWdpbnlh",
+        "description": " APBN 2022 tidak kuat lagi untuk menahan kenaikan harga BBM."
+    },
+    {
+        "title": "Senjata Mematikan Iran Ini Bisa Bikin AS dan Israel Tunduk",
+        "link": "https://www.cnbcindonesia.com/news/20220812152325-16-363345/senjata-mematikan-iran-ini-bisa-bikin-as-israel-tunduk",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE1MjMyNS0xNi0zNjMzNDUvc2VuamF0YS1tZW1hdGlrYW4taXJhbi1pbmktYmlzYS1iaWtpbi1hcy1pc3JhZWwtdHVuZHVr",
+        "description": " Iran rupanya memiliki beberapa persenjataan yang cukup mumpuni."
+    },
+    {
+        "title": "Hari UMKM Nasional: Alfamart Dukung Pemulihan Ekonomi",
+        "link": "https://www.cnbcindonesia.com/news/20220812195926-4-363441/hari-umkm-nasional-alfamart-dukung-pemulihan-ekonomi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE5NTkyNi00LTM2MzQ0MS9oYXJpLXVta20tbmFzaW9uYWwtYWxmYW1hcnQtZHVrdW5nLXBlbXVsaWhhbi1la29ub21p",
+        "description": " Lebih dari 180 pengusaha produk lokal terbantu karena dipasarkan di gerai Alfamart dan lebih dari 9.000 pengusaha tenant UMKM buka tenant di halaman Alfamart."
+    },
+    {
         "title": "Harga Minyak Goreng Curah Tiba-tiba Naik, Gegara CPO?",
         "link": "https://www.cnbcindonesia.com/news/20220812175040-16-363419/harga-minyak-goreng-curah-tiba-tiba-naik-gegara-cpo",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE3MTIyMC00LTM2MzQwMC9hbnRhcmEtcGVydXNhaGFhbi1taWdhcy1hcy1hdGF1LWJ1bW4tcmkteWFuZy1tYXN1ay1tYXNlbGE=",
         "description": " Menteri Investasi/Kepala BKPM Lahadalia mengatakan mitra Inpex di Blok Masela antara Perusahaan AS atau BUMN"
-    },
-    {
-        "title": "Jokowi Buka Suara! Benarkah 'Endorse' Prabowo-Ganjar?",
-        "link": "https://www.cnbcindonesia.com/news/20220812184233-4-363434/jokowi-buka-suara-benarkah-endorse-prabowo-ganjar",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE4NDIzMy00LTM2MzQzNC9qb2tvd2ktYnVrYS1zdWFyYS1iZW5hcmthaC1lbmRvcnNlLXByYWJvd28tZ2FuamFy",
-        "description": " Jokowi akhirnya buka suara perihal dukungan terhadap Gubernur Jawa Tengah Ganjar Pranowo dan Menteri Pertahanan Prabowo Subianto"
-    },
-    {
-        "title": "Krisis Pangan Mengancam, Ini Tantangan RI",
-        "link": "https://www.cnbcindonesia.com/news/20220812175336-8-363421/krisis-pangan-mengancam-ini-tantangan-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE3NTMzNi04LTM2MzQyMS9rcmlzaXMtcGFuZ2FuLW1lbmdhbmNhbS1pbmktdGFudGFuZ2FuLXJp",
-        "description": " Krisis Pangan Mengancam, Ini Tantangan RI"
-    },
-    {
-        "title": "Gunung Emas 'Perawan' RI Sekelas Freeport, Siapa yang Kelola?",
-        "link": "https://www.cnbcindonesia.com/news/20220812170057-4-363396/gunung-emas-perawan-ri-sekelas-freeport-siapa-yang-kelola",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE3MDA1Ny00LTM2MzM5Ni9ndW51bmctZW1hcy1wZXJhd2FuLXJpLXNla2VsYXMtZnJlZXBvcnQtc2lhcGEteWFuZy1rZWxvbGE=",
-        "description": " Menteri Investasi/Kepala BKPM Bahlil Lahadalia sedang menyiapkan skema pengelolaan Blok Wabu"
     }
 ]
