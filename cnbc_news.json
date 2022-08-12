@@ -1,5 +1,33 @@
 [
     {
+        "title": "Menlu Retno Buka-bukaan soal Klaim Tumpang Tindih di LCS",
+        "link": "https://www.cnbcindonesia.com/news/20220812132037-4-363284/menlu-retno-buka-bukaan-soal-klaim-tumpang-tindih-di-lcs",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzMjAzNy00LTM2MzI4NC9tZW5sdS1yZXRuby1idWthLWJ1a2Fhbi1zb2FsLWtsYWltLXR1bXBhbmctdGluZGloLWRpLWxjcw==",
+        "description": " Menlu RI menjawab soal klaim tumpang tindih di Laut China Selatan."
+    },
+    {
+        "title": "Solar di Pantura Langka, Supir Truk Tak Berdaya",
+        "link": "https://www.cnbcindonesia.com/news/20220812133340-8-363295/solar-di-pantura-langka-supir-truk-tak-berdaya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzMzM0MC04LTM2MzI5NS9zb2xhci1kaS1wYW50dXJhLWxhbmdrYS1zdXBpci10cnVrLXRhay1iZXJkYXlh",
+        "description": " Sejumlah SPBU di jalur pantura kehabisan stok solar."
+    },
+    {
+        "title": "DKI Dikepung Covid: Banyak Zona Merah, Kasus Aktif 19 Ribu",
+        "link": "https://www.cnbcindonesia.com/news/20220812142617-4-363325/dki-dikepung-covid-banyak-zona-merah-kasus-aktif-19-ribu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE0MjYxNy00LTM2MzMyNS9ka2ktZGlrZXB1bmctY292aWQtYmFueWFrLXpvbmEtbWVyYWgta2FzdXMtYWt0aWYtMTktcmlidQ==",
+        "description": " Angka positivity rate di DKI Jakarta sudah melewati batas yang ditetapkan WHO yakni 5%"
+    },
+    {
+        "title": "Siap-siap! Menteri Jokowi Ini Beri Sinyal Harga BBM Naik",
+        "link": "https://www.cnbcindonesia.com/news/20220812150334-4-363334/siap-siap-menteri-jokowi-ini-beri-sinyal-harga-bbm-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE1MDMzNC00LTM2MzMzNC9zaWFwLXNpYXAtbWVudGVyaS1qb2tvd2ktaW5pLWJlcmktc2lueWFsLWhhcmdhLWJibS1uYWlr",
+        "description": " Menteri Investasi/Kepala BKPM Bahlil Lahadalia menyatakan siap-siap kalau katakanlah harga BBM naik"
+    },
+    {
         "title": "8 Fakta Baru Rusia-Ukraina, Ada Drone Iran Ikut Perang",
         "link": "https://www.cnbcindonesia.com/news/20220812144957-4-363328/8-fakta-baru-rusia-ukraina-ada-drone-iran-ikut-perang",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE0MDI0Ny00LTM2MzMyMS9hbmdrb3QtbGlzdHJpay1iYWthbC1tb25kYXItbWFuZGlyLWRpLXN1ZGlybWFuLXRoYW1yaW4=",
         "description": " Jalanan Sudirman-Thamrin Jakarta bakal memiliki opsi transportasi umum yang baru, yakni dengan kehadiran 20 angkutan kota (angkot) listrik."
-    },
-    {
-        "title": "McDonald's Siap Buka Lagi Gerai Restoran di Ukraina",
-        "link": "https://www.cnbcindonesia.com/news/20220812133343-8-363298/mcdonalds-siap-buka-lagi-gerai-restoran-di-ukraina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzMzM0My04LTM2MzI5OC9tY2RvbmFsZHMtc2lhcC1idWthLWxhZ2ktZ2VyYWktcmVzdG9yYW4tZGktdWtyYWluYQ==",
-        "description": " McDonald's Siap Buka Lagi Gerai Restoran di Ukraina"
-    },
-    {
-        "title": "Soal Subsidi BBM, Erick Thohir: Apa Sudah Tepat Sasaran?",
-        "link": "https://www.cnbcindonesia.com/news/20220812135140-4-363311/soal-subsidi-bbm-erick-thohir-apa-sudah-tepat-sasaran",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzNTE0MC00LTM2MzMxMS9zb2FsLXN1YnNpZGktYmJtLWVyaWNrLXRob2hpci1hcGEtc3VkYWgtdGVwYXQtc2FzYXJhbg==",
-        "description": " Menteri BUMN Erick Thohir mengatakan pihaknya sedang menghitung ulang subsidi BBM"
-    },
-    {
-        "title": "Buka-bukaan Menlu Perkuat Peran RI di ASEAN Hingga LCS",
-        "link": "https://www.cnbcindonesia.com/news/20220812135451-8-363312/buka-bukaan-menlu-perkuat-peran-ri-di-asean-hingga-lcs",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzNTQ1MS04LTM2MzMxMi9idWthLWJ1a2Fhbi1tZW5sdS1wZXJrdWF0LXBlcmFuLXJpLWRpLWFzZWFuLWhpbmdnYS1sY3M=",
-        "description": " Buka-bukaan Menlu Soal Penguatan Peran RI di ASEAN Hingga LCS"
-    },
-    {
-        "title": "Ini Ternyata Rahasia Harga Mi Instan yang Lagi Naik",
-        "link": "https://www.cnbcindonesia.com/news/20220812133335-4-363301/ini-ternyata-rahasia-harga-mi-instan-yang-lagi-naik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzMzMzNS00LTM2MzMwMS9pbmktdGVybnlhdGEtcmFoYXNpYS1oYXJnYS1taS1pbnN0YW4teWFuZy1sYWdpLW5haWs=",
-        "description": " Direktur PT Indofood Sukses Makmur Tbk (INDF) Franky Welirang buka suara soal ramai harga mi instan yang dikabarkan bakal naik hingga 3 kali lipat."
     }
 ]
