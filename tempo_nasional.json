@@ -1,5 +1,54 @@
 [
     {
+        "title": "Moeldoko Sebut Sorgum Sumber Pangan Masa Depan",
+        "link": "https://nasional.tempo.co/read/1622183/moeldoko-sebut-sorgum-sumber-pangan-masa-depan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjIxODMvbW9lbGRva28tc2VidXQtc29yZ3VtLXN1bWJlci1wYW5nYW4tbWFzYS1kZXBhbg==",
+        "description": "Moeldoko mengatakan sorgum sebagai sumber pangan masa depan karena dapat diolah menjadi berbagai macam produk dengan rasa lezat."
+    },
+    {
+        "title": "Mendagri Jelaskan Spirit Pembentukan Daerah Otonomi Baru Papua",
+        "link": "https://nasional.tempo.co/read/1622186/mendagri-jelaskan-spirit-pembentukan-daerah-otonomi-baru-papua",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjIxODYvbWVuZGFncmktamVsYXNrYW4tc3Bpcml0LXBlbWJlbnR1a2FuLWRhZXJhaC1vdG9ub21pLWJhcnUtcGFwdWE=",
+        "description": "Pelayanan publik diharapkan lebih cepat dan mudah akibat birokrasi yang semakin ramping."
+    },
+    {
+        "title": "120 Tahun Bung Hatta, Sumbangsih Pemikiran Mohammad Hatta untuk Negeri",
+        "link": "https://nasional.tempo.co/read/1622189/120-tahun-bung-hatta-sumbangsih-pemikiran-mohammad-hatta-untuk-negeri",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjIxODkvMTIwLXRhaHVuLWJ1bmctaGF0dGEtc3VtYmFuZ3NpaC1wZW1pa2lyYW4tbW9oYW1tYWQtaGF0dGEtdW50dWstbmVnZXJp",
+        "description": "Hari ini, 12 Agustus 1902, atau 120 tahun silam, merupakan kelahiran Mohammad Hatta atau Bung Hatta. Banyak sumbansih pemikirannya untuk negeri ini."
+    },
+    {
+        "title": "Ferdy Sambo Mengaku Merekayasa Skenario dan Rusak TKP Pembunuhan Brigadir J",
+        "link": "https://nasional.tempo.co/read/1622187/ferdy-sambo-mengaku-merekayasa-skenario-dan-rusak-tkp-pembunuhan-brigadir-j",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjIxODcvZmVyZHktc2FtYm8tbWVuZ2FrdS1tZXJla2F5YXNhLXNrZW5hcmlvLWRhbi1ydXNhay10a3AtcGVtYnVudWhhbi1icmlnYWRpci1q",
+        "description": "Ferdy Sambo mengatakan siap bertanggung jawab atas tindakannya sekaligus meminta maaf kepada masyarakat dan Komnas HAM."
+    },
+    {
+        "title": "Kamrussamad Minta Pemerintah Segera Bertindak Atasi Inflasi Pangan",
+        "link": "https://nasional.tempo.co/read/1622188/kamrussamad-minta-pemerintah-segera-bertindak-atasi-inflasi-pangan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjIxODgva2FtcnVzc2FtYWQtbWludGEtcGVtZXJpbnRhaC1zZWdlcmEtYmVydGluZGFrLWF0YXNpLWluZmxhc2ktcGFuZ2Fu",
+        "description": "Inflasi pangan tidak boleh lebih dari angka 5-6 persen. Diperlukan kebijakan moneter untuk mengatasinya."
+    },
+    {
+        "title": "Ferdy Sambo Mengaku ke Komnas HAM Jadi Aktor Utama Pembunuhan Brigdir J",
+        "link": "https://nasional.tempo.co/read/1622176/ferdy-sambo-mengaku-ke-komnas-ham-jadi-aktor-utama-pembunuhan-brigdir-j",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjIxNzYvZmVyZHktc2FtYm8tbWVuZ2FrdS1rZS1rb21uYXMtaGFtLWphZGktYWt0b3ItdXRhbWEtcGVtYnVudWhhbi1icmlnZGlyLWo=",
+        "description": "Ferdy Sambo, katanya, mengakui sejak awal merekayasa dan mendistorsi informasi agar peristiwa pembunuhan Brigadir J kasus tembak-menembak."
+    },
+    {
+        "title": "Tingkatkan Nasionalisme dan Patriotisme, Mendagri Lakukan Penancapan Tiang Bendera Merah Putih di Merauke",
+        "link": "https://nasional.tempo.co/read/1622178/tingkatkan-nasionalisme-dan-patriotisme-mendagri-lakukan-penancapan-tiang-bendera-merah-putih-di-merauke",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjIxNzgvdGluZ2thdGthbi1uYXNpb25hbGlzbWUtZGFuLXBhdHJpb3Rpc21lLW1lbmRhZ3JpLWxha3VrYW4tcGVuYW5jYXBhbi10aWFuZy1iZW5kZXJhLW1lcmFoLXB1dGloLWRpLW1lcmF1a2U=",
+        "description": "Mendagri merasa bangga karena dapat kembali mengunjungi Provinsi Papua"
+    },
+    {
         "title": "Jokowi Belum Tentukan MenPAN RB Baru Pengganti Tjahjo Kumolo",
         "link": "https://nasional.tempo.co/read/1622171/jokowi-belum-tentukan-menpan-rb-baru-pengganti-tjahjo-kumolo",
         "image": "static/images/tempo_nasional.png",
@@ -19,54 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjIxNTkvam9rb3dpLXRlbXVpLWxlbWJhZ2EtdGluZ2dpLW5lZ2FyYS1iYWhhcy1zdWJzaWRpLWJibS1rYWxhdS10YWsta3VhdC1iYWdhaW1hbmE=",
         "description": "Presiden Jokowi menemui para kepala lembaga tinggi negara. Selama 2,5 jam mereka membahas krisis global. Soal subsidi BBM juga dibicarakan."
-    },
-    {
-        "title": "OTT Bupati Pemalang, KPK Sita Uang Rupiah",
-        "link": "https://nasional.tempo.co/read/1622150/ott-bupati-pemalang-kpk-sita-uang-rupiah",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjIxNTAvb3R0LWJ1cGF0aS1wZW1hbGFuZy1rcGstc2l0YS11YW5nLXJ1cGlhaA==",
-        "description": "KPK menyita duit dengan mata uang rupiah dalam operasi tangkap tangan terhadap Bupati Pemalang Mukti Agung Wibowo."
-    },
-    {
-        "title": "Jokowi Bicara Soal Kabar Dukungan untuk Prabowo dan Ganjar di Pilpres 2024",
-        "link": "https://nasional.tempo.co/read/1622146/jokowi-bicara-soal-kabar-dukungan-untuk-prabowo-dan-ganjar-di-pilpres-2024",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjIxNDYvam9rb3dpLWJpY2FyYS1zb2FsLWthYmFyLWR1a3VuZ2FuLXVudHVrLXByYWJvd28tZGFuLWdhbmphci1kaS1waWxwcmVzLTIwMjQ=",
-        "description": "Jokowi angkat bicara soal kabar dukungan dia kepada Prabowo dan Ganjar untuk maju dalam Pilpres 2024."
-    },
-    {
-        "title": "Bagaimana Media Asing Memberitakan Kasus Ferdy Sambo?",
-        "link": "https://nasional.tempo.co/read/1622137/bagaimana-media-asing-memberitakan-kasus-ferdy-sambo",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjIxMzcvYmFnYWltYW5hLW1lZGlhLWFzaW5nLW1lbWJlcml0YWthbi1rYXN1cy1mZXJkeS1zYW1ibw==",
-        "description": "Terseretnya nama perwira tinggi Polri, Irjen Ferdy Sambo, dalam kasus kematian Brigadir J mendapat perhatian dari media asing."
-    },
-    {
-        "title": "Geram Ada Anggota Paspampres Pukul Warga Solo, Gibran: Saya Cari Orangnya",
-        "link": "https://nasional.tempo.co/read/1622133/geram-ada-anggota-paspampres-pukul-warga-solo-gibran-saya-cari-orangnya",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjIxMzMvZ2VyYW0tYWRhLWFuZ2dvdGEtcGFzcGFtcHJlcy1wdWt1bC13YXJnYS1zb2xvLWdpYnJhbi1zYXlhLWNhcmktb3JhbmdueWE=",
-        "description": "Wali Kota Solo Gibran Rakabuming Raka memanggil anggota Paspampres yang dikabarkan telah memukul seorang warga kota itu."
-    },
-    {
-        "title": "Polri Belum Ungkap Motif Kasus Irjen Ferdy Sambo, Jokowi: Tanya ke Kapolri",
-        "link": "https://nasional.tempo.co/read/1622123/polri-belum-ungkap-motif-kasus-irjen-ferdy-sambo-jokowi-tanya-ke-kapolri",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjIxMjMvcG9scmktYmVsdW0tdW5na2FwLW1vdGlmLWthc3VzLWlyamVuLWZlcmR5LXNhbWJvLWpva293aS10YW55YS1rZS1rYXBvbHJp",
-        "description": "Polri masih belum mengungkap motif pembunuhan Brigadir J yang diotaki Irjen Ferdy Sambo. Presiden Jokowi minta tanya ke Kapolri."
-    },
-    {
-        "title": "Kemenkominfo bersama GNLD Siberkreasi, Paberik Soeara Rakjat, Pemkot Jakarta Barat dan Suku Dinas Sosial Jakarta Barat menyelenggarakan Kegiatan Kelas Podcast untuk Difabel Netra",
-        "link": "https://nasional.tempo.co/read/1622118/kemenkominfo-bersama-gnld-siberkreasi-paberik-soeara-rakjat-pemkot-jakarta-barat-dan-suku-dinas-sosial-jakarta-barat-menyelenggarakan-kegiatan-kelas-podcast-untuk-difabel-netra",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjIxMTgva2VtZW5rb21pbmZvLWJlcnNhbWEtZ25sZC1zaWJlcmtyZWFzaS1wYWJlcmlrLXNvZWFyYS1yYWtqYXQtcGVta290LWpha2FydGEtYmFyYXQtZGFuLXN1a3UtZGluYXMtc29zaWFsLWpha2FydGEtYmFyYXQtbWVueWVsZW5nZ2FyYWthbi1rZWdpYXRhbi1rZWxhcy1wb2RjYXN0LXVudHVrLWRpZmFiZWwtbmV0cmE=",
-        "description": "Kemenkominfo bersama GNLD Siberkreasi, Paberik Soeara Rakjat, Pemkot Jakarta Barat dan Suku Dinas Sosial Jakarta Barat menyelenggarakan Kegiatan Kelas Podcast untuk Difabel Netra"
-    },
-    {
-        "title": "Rombongan Komnas HAM Tiba di Mako Brimob untuk Periksa Ferdy Sambo dan Bharada E",
-        "link": "https://nasional.tempo.co/read/1622113/rombongan-komnas-ham-tiba-di-mako-brimob-untuk-periksa-ferdy-sambo-dan-bharada-e",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjIxMTMvcm9tYm9uZ2FuLWtvbW5hcy1oYW0tdGliYS1kaS1tYWtvLWJyaW1vYi11bnR1ay1wZXJpa3NhLWZlcmR5LXNhbWJvLWRhbi1iaGFyYWRhLWU=",
-        "description": "Komnas HAM sore ini akan memeriksa Irjen Ferdy Sambo dan Bharada E. Mereka telah tiba di Mako Brimob Kelapa Dua, Depok."
     }
 ]
