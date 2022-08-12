@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514132/manchester-city-dekati-raphael-guerreiro",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDEzMi9tYW5jaGVzdGVyLWNpdHktZGVrYXRpLXJhcGhhZWwtZ3VlcnJlaXJv",
+        "description": "KLUB Liga Primer Inggris Manchester City tengah berusaha memboyong bek sayap kiri Raphael Guerreiro dari klub Bundesliga&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514131/hari-ini-kcci-akan-perkenalkan-permainan-tradisional-korea-di-bekasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0MTMxL2hhcmktaW5pLWtjY2ktYWthbi1wZXJrZW5hbGthbi1wZXJtYWluYW4tdHJhZGlzaW9uYWwta29yZWEtZGktYmVrYXNp",
+        "description": "SEIRING berjalannya waktu, kepopuleran konten Hallyu kian berkembang di masyarakat global termasuk Indonesia. Tidak&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/514130/yuk-kenali-liam-gallagher-lewat-7-lagu-terbaik-oasis",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTQxMTAvaWtuLWRhbi1rZXNldGFyYWFuLXBlbWJhbmd1bmFuLXdpbGF5YWg=",
         "description": "SALAH satu hasil kunjungan Presiden Joko Widodo ke Tiongkok, Jepang, dan Korea Selatan ialah ketertarikan investor di ibu kota negara (IKN). Menurut Badan Koordinaasi Penanaman Modal (BKPM), minat&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514126/alexis-sanchez-resmi-berseragam-marseille",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDEyNi9hbGV4aXMtc2FuY2hlei1yZXNtaS1iZXJzZXJhZ2FtLW1hcnNlaWxsZQ==",
-        "description": "MARSEILLE mengontrak mantan bintang Arsenal dan Barcelona Alexis Sanchez dengan status bebas transfer setelah penyerang itu hengkang&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/514106/lesson-learned-problem-dan-solusi-stunting-di-indonesia-timur",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTQxMDYvbGVzc29uLWxlYXJuZWQtcHJvYmxlbS1kYW4tc29sdXNpLXN0dW50aW5nLWRpLWluZG9uZXNpYS10aW11cg==",
-        "description": "LEBIH dari seperempat balita di kawasan Indonesia timur&nbsp;menderita stunting. Potret buram masalah gizi ini&nbsp;terungkap jelas dalam Survei Status Gizi Indonesia (SSGI) 2021. Dengan prevalensi&#8230;"
     }
 ]

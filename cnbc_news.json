@@ -1,5 +1,40 @@
 [
     {
+        "title": "Simak! Kabar Baik Buat Pecinta Mi Instan Dari Bos Indofood",
+        "link": "https://www.cnbcindonesia.com/news/20220812014056-4-363146/simak-kabar-baik-buat-pecinta-mi-instan-dari-bos-indofood",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjAxNDA1Ni00LTM2MzE0Ni9zaW1hay1rYWJhci1iYWlrLWJ1YXQtcGVjaW50YS1taS1pbnN0YW4tZGFyaS1ib3MtaW5kb2Zvb2Q=",
+        "description": " Harga mi instan diprediksi bisa melonjak hingga 3 kali lipat. Akibat efek domino perang Rusia-Ukraina yang memicu lonjakan harga gandum dunia."
+    },
+    {
+        "title": "Sepi Bak Kuburan, Mal Hits Jakarta Ini Sekarang Dagang Tisu",
+        "link": "https://www.cnbcindonesia.com/news/20220812005737-4-363142/sepi-bak-kuburan-mal-hits-jakarta-ini-sekarang-dagang-tisu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjAwNTczNy00LTM2MzE0Mi9zZXBpLWJhay1rdWJ1cmFuLW1hbC1oaXRzLWpha2FydGEtaW5pLXNla2FyYW5nLWRhZ2FuZy10aXN1",
+        "description": " Dulu, Glodok City jadi mal rekomendasi bagi warga Jakarta dan sekitarnya yang ingin membeli barang elektronik. Mal legendaris ini dulu sangat ramai."
+    },
+    {
+        "title": "Diam-diam AS dan China Mesra Banget Loh, Ini Buktinya!",
+        "link": "https://www.cnbcindonesia.com/news/20220811165333-4-363072/diam-diam-as-china-mesra-banget-loh-ini-buktinya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTE2NTMzMy00LTM2MzA3Mi9kaWFtLWRpYW0tYXMtY2hpbmEtbWVzcmEtYmFuZ2V0LWxvaC1pbmktYnVrdGlueWE=",
+        "description": " China tetap membutuhkan AS sebagai tempat berinvestasi demi meningkatkan posisi tawar mereka dalam perekonomian global."
+    },
+    {
+        "title": "Mau Naik, Cek Harga Mi Instan Terbaru di Sini",
+        "link": "https://www.cnbcindonesia.com/news/20220812005117-4-363141/mau-naik-cek-harga-mi-instan-terbaru-di-sini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjAwNTExNy00LTM2MzE0MS9tYXUtbmFpay1jZWstaGFyZ2EtbWktaW5zdGFuLXRlcmJhcnUtZGktc2luaQ==",
+        "description": " Mi instan tengah jadi sorotan menyusul pernyataan Menteri Pertanian (Mentan) Syahrul Yasin Limpo yang menyatakan harga mi instan bakal naik 3 kali lipat."
+    },
+    {
+        "title": "Wow! Sri Mulyani Selamatkan RI dari Tambahan Utang Rp221 T",
+        "link": "https://www.cnbcindonesia.com/news/20220811202405-4-363132/wow-sri-mulyani-selamatkan-ri-dari-tambahan-utang-rp221-t",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTIwMjQwNS00LTM2MzEzMi93b3ctc3JpLW11bHlhbmktc2VsYW1hdGthbi1yaS1kYXJpLXRhbWJhaGFuLXV0YW5nLXJwMjIxLXQ=",
+        "description": " Pemerintah memperkirakan defisit anggaran pendapatan dan belanja negara (APBN) 2022 bisa mencapai 3,92% dari produk domestik bruto"
+    },
+    {
         "title": "Ngerasa Gak Sih Kalau Jakarta Makin Macet? Ini Penyebabnya",
         "link": "https://www.cnbcindonesia.com/news/20220812004137-4-363140/ngerasa-gak-sih-kalau-jakarta-makin-macet-ini-penyebabnya",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjA2MTMwMi00LTM2MzE0OS9wdXRpbi1kaXNlYnV0LW11bGFpLW1lbGVtYWgtaGlsYW5nLWtvbnRyb2wtaW5pLWJ1a3Rpbnlh",
         "description": " Posisi pasukan Presiden Rusia Vladimir Putin di Ukraina kian melemah."
-    },
-    {
-        "title": "Foto Satelit! 3 'Kawah' Menganga di Pangkalan Militer Rusia",
-        "link": "https://www.cnbcindonesia.com/news/20220811181015-7-363090/foto-satelit-3-kawah-menganga-di-pangkalan-militer-rusia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTE4MTAxNS03LTM2MzA5MC9mb3RvLXNhdGVsaXQtMy1rYXdhaC1tZW5nYW5nYS1kaS1wYW5na2FsYW4tbWlsaXRlci1ydXNpYQ==",
-        "description": " Gambar yang dirilis perusahaan satelit independen Planet Labs menunjukkan tiga \"kawah\" tanda hantaman ke bangunan di pangkalan udara Saki Rusia, di Krimea."
-    },
-    {
-        "title": "Krisis Energi Minggir, Hal Ini Bisa Rusak Parah Ekonomi Eropa",
-        "link": "https://www.cnbcindonesia.com/news/20220811212809-4-363136/krisis-energi-minggir-hal-ini-bisa-rusak-parah-ekonomi-eropa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTIxMjgwOS00LTM2MzEzNi9rcmlzaXMtZW5lcmdpLW1pbmdnaXItaGFsLWluaS1iaXNhLXJ1c2FrLXBhcmFoLWVrb25vbWktZXJvcGE=",
-        "description": " Eropa saat ini terancam mengalami kerusakan parah pada ekonomi."
-    },
-    {
-        "title": "Saat Adik Prabowo Bicara Ekspor Ukraina Rusia dan Mie Instan RI",
-        "link": "https://www.cnbcindonesia.com/news/20220811211442-4-363135/saat-adik-prabowo-bicara-ekspor-ukraina-rusia-mie-instan-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTIxMTQ0Mi00LTM2MzEzNS9zYWF0LWFkaWstcHJhYm93by1iaWNhcmEtZWtzcG9yLXVrcmFpbmEtcnVzaWEtbWllLWluc3Rhbi1yaQ==",
-        "description": " Konglomerat Indonesia yang juga adik dari Menteri Pertahanan (Menhan) Prabowo Subianto, Hashim Djojohadikusumo buka suara soal ekspor dari Ukraina dan Rusia"
-    },
-    {
-        "title": "Waduh 73 Juta Pemuda Nganggur di Muka Bumi, Kok Bisa?",
-        "link": "https://www.cnbcindonesia.com/news/20220811203807-4-363133/waduh-73-juta-pemuda-nganggur-di-muka-bumi-kok-bisa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTIwMzgwNy00LTM2MzEzMy93YWR1aC03My1qdXRhLXBlbXVkYS1uZ2FuZ2d1ci1kaS1tdWthLWJ1bWkta29rLWJpc2E=",
-        "description": " Organisasi Perburuhan Internasional (ILO) merilis data pengangguran dunia pada tahun 2022."
-    },
-    {
-        "title": "Top! Rp16 T Duit Orang Tajir di Luar Negeri Bakal Balik ke RI",
-        "link": "https://www.cnbcindonesia.com/news/20220811210610-4-363134/top-rp16-t-duit-orang-tajir-di-luar-negeri-bakal-balik-ke-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMTIxMDYxMC00LTM2MzEzNC90b3AtcnAxNi10LWR1aXQtb3JhbmctdGFqaXItZGktbHVhci1uZWdlcmktYmFrYWwtYmFsaWsta2Utcmk=",
-        "description": " Sekitar Rp 16 triliun uang warga kaya RI di luar negeri akan kembali ke RI."
     }
 ]
