@@ -1,5 +1,40 @@
 [
     {
+        "title": "Covid RI Masih Tinggi, Pemerintah Kebut Vaksinasi Booster",
+        "link": "https://www.cnbcindonesia.com/news/20220812133341-8-363296/covid-ri-masih-tinggi-pemerintah-kebut-vaksinasi-booster",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzMzM0MS04LTM2MzI5Ni9jb3ZpZC1yaS1tYXNpaC10aW5nZ2ktcGVtZXJpbnRhaC1rZWJ1dC12YWtzaW5hc2ktYm9vc3Rlcg==",
+        "description": " Pemerintah gencarkan target vaksinasi booster."
+    },
+    {
+        "title": "Heboh Mi Instan Naik Harga, di Transmart Bisa Irit Segini",
+        "link": "https://www.cnbcindonesia.com/news/20220812150907-4-363336/heboh-mi-instan-naik-harga-di-transmart-bisa-irit-segini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE1MDkwNy00LTM2MzMzNi9oZWJvaC1taS1pbnN0YW4tbmFpay1oYXJnYS1kaS10cmFuc21hcnQtYmlzYS1pcml0LXNlZ2luaQ==",
+        "description": " Harga-harga pangan terpantau naik hingga memicu inflasi."
+    },
+    {
+        "title": "Cek Aturan Lengkap Perjalanan Domestik Baru, Wajib Booster?",
+        "link": "https://www.cnbcindonesia.com/news/20220812145125-4-363330/cek-aturan-lengkap-perjalanan-domestik-baru-wajib-booster",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE0NTEyNS00LTM2MzMzMC9jZWstYXR1cmFuLWxlbmdrYXAtcGVyamFsYW5hbi1kb21lc3Rpay1iYXJ1LXdhamliLWJvb3N0ZXI=",
+        "description": " Satuan Tugas Penanganan Covid-19 kembali mengeluarkan aturan perjalanan dalam negeri terbaru."
+    },
+    {
+        "title": "Lihat Data Ini Sih, Harusnya Harga BBM Memang Naik!",
+        "link": "https://www.cnbcindonesia.com/news/20220812155727-4-363367/lihat-data-ini-sih-harusnya-harga-bbm-memang-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE1NTcyNy00LTM2MzM2Ny9saWhhdC1kYXRhLWluaS1zaWgtaGFydXNueWEtaGFyZ2EtYmJtLW1lbWFuZy1uYWlr",
+        "description": " Sinyal kenaikan harga bahan bakar minyak (BBM) muncul dari mulut Menteri Investasi/Kepala Badan Koordinasi Penanaman Modal (BKPM) Bahlil Lahadalia."
+    },
+    {
+        "title": "Apindo dan Tantangan Pemulihan Bisnis Hadapi Fluktuasi Ekonomi",
+        "link": "https://www.cnbcindonesia.com/news/20220812152557-8-363347/apindo-tantangan-pemulihan-bisnis-hadapi-fluktuasi-ekonomi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE1MjU1Ny04LTM2MzM0Ny9hcGluZG8tdGFudGFuZ2FuLXBlbXVsaWhhbi1iaXNuaXMtaGFkYXBpLWZsdWt0dWFzaS1la29ub21p",
+        "description": " Apindo dan Tantangan Pemulihan Bisnis Hadapi Fluktuasi Ekonomi"
+    },
+    {
         "title": "RI Lewat! Soal Utang, Uncle Sam Jagonya",
         "link": "https://www.cnbcindonesia.com/news/20220812133343-8-363299/ri-lewat-soal-utang-uncle-sam-jagonya",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE0MDgyMS00LTM2MzMyMi9kYWZ0YXItaGFyZ2EtYmJtLXNlLWFzZWFuLXJpLXlhbmctdGVybWFoYWw=",
         "description": " Daftar harga BBM se Asean di tengah melejitnya harga minyak mentah dunia"
-    },
-    {
-        "title": "Situasi Ekonomi 2023 Gelap, Jangan Anggap Enteng!",
-        "link": "https://www.cnbcindonesia.com/news/20220812144457-4-363327/situasi-ekonomi-2023-gelap-jangan-anggap-enteng",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE0NDQ1Ny00LTM2MzMyNy9zaXR1YXNpLWVrb25vbWktMjAyMy1nZWxhcC1qYW5nYW4tYW5nZ2FwLWVudGVuZw==",
-        "description": " Situasi perekonomian dunia semakin gelap."
-    },
-    {
-        "title": "Menlu Retno Buka-bukaan soal Klaim Tumpang Tindih di LCS",
-        "link": "https://www.cnbcindonesia.com/news/20220812132037-4-363284/menlu-retno-buka-bukaan-soal-klaim-tumpang-tindih-di-lcs",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzMjAzNy00LTM2MzI4NC9tZW5sdS1yZXRuby1idWthLWJ1a2Fhbi1zb2FsLWtsYWltLXR1bXBhbmctdGluZGloLWRpLWxjcw==",
-        "description": " Menlu RI menjawab soal klaim tumpang tindih di Laut China Selatan."
-    },
-    {
-        "title": "Solar di Pantura Langka, Supir Truk Tak Berdaya",
-        "link": "https://www.cnbcindonesia.com/news/20220812133340-8-363295/solar-di-pantura-langka-supir-truk-tak-berdaya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzMzM0MC04LTM2MzI5NS9zb2xhci1kaS1wYW50dXJhLWxhbmdrYS1zdXBpci10cnVrLXRhay1iZXJkYXlh",
-        "description": " Sejumlah SPBU di jalur pantura kehabisan stok solar."
-    },
-    {
-        "title": "DKI Dikepung Covid: Banyak Zona Merah, Kasus Aktif 19 Ribu",
-        "link": "https://www.cnbcindonesia.com/news/20220812142617-4-363325/dki-dikepung-covid-banyak-zona-merah-kasus-aktif-19-ribu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE0MjYxNy00LTM2MzMyNS9ka2ktZGlrZXB1bmctY292aWQtYmFueWFrLXpvbmEtbWVyYWgta2FzdXMtYWt0aWYtMTktcmlidQ==",
-        "description": " Angka positivity rate di DKI Jakarta sudah melewati batas yang ditetapkan WHO yakni 5%"
-    },
-    {
-        "title": "Siap-siap! Menteri Jokowi Ini Beri Sinyal Harga BBM Naik",
-        "link": "https://www.cnbcindonesia.com/news/20220812150334-4-363334/siap-siap-menteri-jokowi-ini-beri-sinyal-harga-bbm-naik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjE1MDMzNC00LTM2MzMzNC9zaWFwLXNpYXAtbWVudGVyaS1qb2tvd2ktaW5pLWJlcmktc2lueWFsLWhhcmdhLWJibS1uYWlr",
-        "description": " Menteri Investasi/Kepala BKPM Bahlil Lahadalia menyatakan siap-siap kalau katakanlah harga BBM naik"
     }
 ]

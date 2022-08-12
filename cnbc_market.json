@@ -1,5 +1,26 @@
 [
     {
+        "title": "Redup, Harga Emas Turun Terus",
+        "link": "https://www.cnbcindonesia.com/market/20220812154608-17-363364/redup-harga-emas-turun-terus",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTU0NjA4LTE3LTM2MzM2NC9yZWR1cC1oYXJnYS1lbWFzLXR1cnVuLXRlcnVz",
+        "description": " Harga emas menyusut 0,03%."
+    },
+    {
+        "title": "To the Moon! Harga Nikel Seminggu Naik 7%",
+        "link": "https://www.cnbcindonesia.com/market/20220812155519-17-363366/to-the-moon-harga-nikel-seminggu-naik-7",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTU1NTE5LTE3LTM2MzM2Ni90by10aGUtbW9vbi1oYXJnYS1uaWtlbC1zZW1pbmdndS1uYWlrLTc=",
+        "description": " Harga nikel dunia menguat karena persediaan yang terus menyusut."
+    },
+    {
+        "title": "Laba Bersih Emtek Terbang 922,3% di Semester I, Gegara Ini?",
+        "link": "https://www.cnbcindonesia.com/market/20220812113120-17-363256/laba-bersih-emtek-terbang-9223-di-semester-i-gegara-ini",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTEzMTIwLTE3LTM2MzI1Ni9sYWJhLWJlcnNpaC1lbXRlay10ZXJiYW5nLTkyMjMtZGktc2VtZXN0ZXItaS1nZWdhcmEtaW5p",
+        "description": " PT Elang Mahkota Teknologi Tbk (EMTK), mengumumkan kenaikan laba 922,3% menjadi Rp 2,70 triliun pada semester pertama tahun ini"
+    },
+    {
         "title": "Dahsyat! Laba Bersih Indo Tambangraya Meroket 291,8%",
         "link": "https://www.cnbcindonesia.com/market/20220812114033-17-363262/dahsyat-laba-bersih-indo-tambangraya-meroket-2918",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTIzMDMzLTE3LTM2MzI3MS81LW1lcmVrLW1vdG9yLWxpc3RyaWstYmVzdXRhbi1lbWl0ZW4tYmVpLXZvbHRhLWhpbmdnYS1hbHZh",
         "description": " Berikut adalah daftar emiten yang ikut terjun dalam bisnis kendaraan listrik yang diramal menjadi bagian integral dari bisnis sektor transportasi masa depan."
-    },
-    {
-        "title": "Pasar Abaikan Ambruknya Wall Street, Bursa Eropa Dibuka Cerah",
-        "link": "https://www.cnbcindonesia.com/market/20220812134655-17-363309/pasar-abaikan-ambruknya-wall-street-bursa-eropa-dibuka-cerah",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTM0NjU1LTE3LTM2MzMwOS9wYXNhci1hYmFpa2FuLWFtYnJ1a255YS13YWxsLXN0cmVldC1idXJzYS1lcm9wYS1kaWJ1a2EtY2VyYWg=",
-        "description": " Bursa saham Eropa di sesi awal bergerak menguat pada perdagangan hari ini."
-    },
-    {
-        "title": "Terungkap! Resesi Bakal Menjauh Selama Orang RI Bisa Makan",
-        "link": "https://www.cnbcindonesia.com/market/20220812140646-17-363319/terungkap-resesi-bakal-menjauh-selama-orang-ri-bisa-makan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTQwNjQ2LTE3LTM2MzMxOS90ZXJ1bmdrYXAtcmVzZXNpLWJha2FsLW1lbmphdWgtc2VsYW1hLW9yYW5nLXJpLWJpc2EtbWFrYW4=",
-        "description": " Indonesia bisa makin jauh dari resesi, salah satunya dengan menjaga isi perut rakyat terpenuhi."
-    },
-    {
-        "title": "Bos Indofood: Kenaikan Harga Mi Instan Bukan Karena Perang",
-        "link": "https://www.cnbcindonesia.com/market/20220812133622-17-363300/bos-indofood-kenaikan-harga-mi-instan-bukan-karena-perang",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTMzNjIyLTE3LTM2MzMwMC9ib3MtaW5kb2Zvb2Qta2VuYWlrYW4taGFyZ2EtbWktaW5zdGFuLWJ1a2FuLWthcmVuYS1wZXJhbmc=",
-        "description": " Permasalahan ini sudah terjadi sejak 2021 imbas perubahan iklim yang membuat gagal panen meski perang rusia juga berdampak kepada kenaikan harga."
     }
 ]
