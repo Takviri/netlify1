@@ -1,5 +1,12 @@
 [
     {
+        "title": "Empat Fakta Pertumbuhan Ekonomi Indonesia",
+        "link": "https://bisnis.tempo.co/read/1622264/empat-fakta-pertumbuhan-ekonomi-indonesia",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIyMjY0L2VtcGF0LWZha3RhLXBlcnR1bWJ1aGFuLWVrb25vbWktaW5kb25lc2lh",
+        "description": "Salah satu fakta dari Pertumbuhan Ekonomi Indonesia adalah lapangan usaha penyediaan akomodasi dan makan minum yang pertumbuhannya tinggi."
+    },
+    {
         "title": "PMN Telat Cair, Bos Garuda: Mudah-mudahan Tidak Pengaruh ke Layanan",
         "link": "https://bisnis.tempo.co/read/1622240/pmn-telat-cair-bos-garuda-mudah-mudahan-tidak-pengaruh-ke-layanan",
         "image": "static/images/tempo_bisnis.png",
@@ -61,12 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIyMTY4L2dhcnVkYS10dW5qdWstbWFudGFuLWJvcy1hbmFrLXVzYWhhLWtyYWthdGF1LXN0ZWVsLWphZGktZGlyZWt0dXItaHVtYW4tY2FwaXRhbA==",
         "description": "Director of Human Capital Garuda Indonesia Aryaperwira Adileksana digantikan oleh Salman El Farisiy."
-    },
-    {
-        "title": "Terkini Bisnis: Proyek Mangkrak di Ancol hingga BRI Setor Dividen Terbesar",
-        "link": "https://bisnis.tempo.co/read/1622162/terkini-bisnis-proyek-mangkrak-di-ancol-hingga-bri-setor-dividen-terbesar",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjIyMTYyL3RlcmtpbmktYmlzbmlzLXByb3llay1tYW5na3Jhay1kaS1hbmNvbC1oaW5nZ2EtYnJpLXNldG9yLWRpdmlkZW4tdGVyYmVzYXI=",
-        "description": "Berita terkini ekonomi bisnis hingga Jumat sore, 12 Agustus 2022 dimulai dengan cerita Thomas Trikasih Lembong bahwa banyak proyek mangkrak di Ancol."
     }
 ]
