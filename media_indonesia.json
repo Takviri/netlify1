@@ -1,5 +1,47 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514138/valencia-pinjam-nico-gonzalez-dari-barcelona",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDEzOC92YWxlbmNpYS1waW5qYW0tbmljby1nb256YWxlei1kYXJpLWJhcmNlbG9uYQ==",
+        "description": "VALENCIA resmi mendatangkan gelandang muda berbakat Nico Gonzalez dari Barcelona sebagai pemain pinjaman untuk musim 2022/23.&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514152/era-sergap-jadi-motor-listrik-militer-segera-terwujud",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQxNTIvZXJhLXNlcmdhcC1qYWRpLW1vdG9yLWxpc3RyaWstbWlsaXRlci1zZWdlcmEtdGVyd3VqdWQ=",
+        "description": "PEKAN Litbang Pertahanan 2022 dimeriahkan dengan karya-karya anak bangsa, salah satunya ialah sepeda motor listrik yang dikenal dengan SERGAP electrical tactical motorbike. Karya anak&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514154/bmkg-hari-ini-sebagian-besar-wilayah-indonesia-berawan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0MTU0L2Jta2ctaGFyaS1pbmktc2ViYWdpYW4tYmVzYXItd2lsYXlhaC1pbmRvbmVzaWEtYmVyYXdhbg==",
+        "description": "BADAN Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan sebagian besar wilayah Indonesia hari ini, Jumat (12/8) cerah berawan. Wilayah yang diperkirakan berawan yakni Serang, Semarang,&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/514137/yuk-mengenal-groot-yang-serialnya-sedang-tayang-di-disney-hotstar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDEzNy95dWstbWVuZ2VuYWwtZ3Jvb3QteWFuZy1zZXJpYWxueWEtc2VkYW5nLXRheWFuZy1kaS1kaXNuZXktaG90c3Rhcg==",
+        "description": "SIAPA &nbsp;yang tidak mengenal kalimat &ldquo;I am Groot&rdquo;? Tiga kata itu merupakan dialog tunggal dari karakter fiksi Marvel bernama Groot. Pada Rabu (10/8), Marvel merilis serial terbarunya&#8230;"
+    },
+    {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/514151/275-mercedes-benz-hyper-one-diproduksi-dirakit-gunakan-tangan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQxNTEvMjc1LW1lcmNlZGVzLWJlbnotaHlwZXItb25lLWRpcHJvZHVrc2ktZGlyYWtpdC1ndW5ha2FuLXRhbmdhbg==",
+        "description": "Mercedes-Benz telah memulai produksi mobil hyper One yang terinspirasi dari Formula Satu. Pembuat mobil mengklaim bahwa masing-masing dari 275 mobil akan dibuat dengan tangan dan setiap mobil membutuhkan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514148/kurangi-sampah-organik-mahasiswa-undip-ajak-warga-buat-kompos-takakura",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0MTQ4L2t1cmFuZ2ktc2FtcGFoLW9yZ2FuaWstbWFoYXNpc3dhLXVuZGlwLWFqYWstd2FyZ2EtYnVhdC1rb21wb3MtdGFrYWt1cmE=",
+        "description": "SAMPAH saat ini sampah menjadi permasalahan yang sudah mencapai skala global. Bahkan di Indonesia permasalahan tersebut seakan-akan tidak pernah terselesaikan. Angka pertumbuhan penduduk yang terus&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/514150/blackpink-bakal-rilis-album-fisik-berbahan-ramah-lingkungan",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNDE0Ni8xMTItcGFicmlrLWRpLWthbWJvamEtZGlidWthLWRhbGFtLXR1anVoLWJ1bGFuLXNlcmFwLTc2NjI0LXBla2VyamE=",
         "description": "Sebanyak 112 pabrik baru dengan total investasi US$1,19 miliar, telah dibuka di Kamboja selama tujuh bulan pertama 2022, kata juru bicara kementerian perindustrian di Phnom Penh, Kamis (11/8/2022).&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514145/bank-syariah-indonesia-bantu-segmen-pendidikan-islam-lewat-total-solutions",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0MTQ1L2Jhbmstc3lhcmlhaC1pbmRvbmVzaWEtYmFudHUtc2VnbWVuLXBlbmRpZGlrYW4taXNsYW0tbGV3YXQtdG90YWwtc29sdXRpb25z",
-        "description": "BANK Syariah Indonesia berkomitmen membantu pengembangan pendidikan islam di Indonesia. Komitmen itu ditunjukkan dengan digelarnya pertemuan dengan 50 Ketua yayasan dan kepala sekolah di Ciputat, Tangerang&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/514143/tarif-baru-ojek-online-dinilai-dapat-mengerek-laju-inflasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDE0My90YXJpZi1iYXJ1LW9qZWstb25saW5lLWRpbmlsYWktZGFwYXQtbWVuZ2VyZWstbGFqdS1pbmZsYXNp",
-        "description": "Ekonom Institute for Development of Economic and Finance (Indef) Nailul Huda menilai tarif baru ojek daring atau ojek online (ojol) yang ditetapkan Kementerian Perhubungan, dapat mengerek laju inflasi&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514135/chelsea-ingin-boyong-de-jong-dan-aubameyang-dari-barcelona",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDEzNS9jaGVsc2VhLWluZ2luLWJveW9uZy1kZS1qb25nLWRhbi1hdWJhbWV5YW5nLWRhcmktYmFyY2Vsb25h",
-        "description": "KLUB Liga Primer Inggris Chelsea dikabarkan siap mendatangkan gelandang Frenkie de Jong dan penyerang Pierre-Emerick Aubameyang dari&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/514142/ketua-dpr-ingatkan-pemerintah-bersiap-hadapi-kelangkaan-pertalite",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDE0Mi9rZXR1YS1kcHItaW5nYXRrYW4tcGVtZXJpbnRhaC1iZXJzaWFwLWhhZGFwaS1rZWxhbmdrYWFuLXBlcnRhbGl0ZQ==",
-        "description": "PADA pekan-pekan ke depan, BBM jenis Pertalite diprediksi akan semakin langka. Ketua DPR RI Puan Maharani pun mengingatkan pemerintah agar menyiapkan diri menghadapi krisis pertalite. BBM bersubsidi&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/514134/disney-hotstar-hadirkan-serial-tentang-groot",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDEzNC9kaXNuZXktaG90c3Rhci1oYWRpcmthbi1zZXJpYWwtdGVudGFuZy1ncm9vdA==",
-        "description": "MARVEL kembali mengeluarkan serial terbarunya, yang tayang mulai Rabu (10/8) di Disney+ Hotstar. Serial animasi pendek ini akan menceritakan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514141/mendikbudristek-ingin-ekosistem-teknologi-terus-dorong-inovasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0MTQxL21lbmRpa2J1ZHJpc3Rlay1pbmdpbi1la29zaXN0ZW0tdGVrbm9sb2dpLXRlcnVzLWRvcm9uZy1pbm92YXNp",
-        "description": "PEMERINTAH akan terus mendorong dan memastikan ekosistem teknologi pendidikan dapat digunakan dan mendorong lahirnya inovasi baik dalam pembelajaran maupun administrasi pendidikan. Demikian&#8230;"
     }
 ]

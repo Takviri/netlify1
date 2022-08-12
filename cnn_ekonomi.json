@@ -1,5 +1,12 @@
 [
     {
+        "title": "McDonald's Akan Buka Lagi di Ukraina",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220812081755-92-833691/mcdonalds-akan-buka-lagi-di-ukraina",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEyMDgxNzU1LTkyLTgzMzY5MS9tY2RvbmFsZHMtYWthbi1idWthLWxhZ2ktZGktdWtyYWluYQ==",
+        "description": " McDonald's akan membuka operasional lagi di Ukraina setelah sempat tutup bulan akibat invasi Rusia."
+    },
+    {
         "title": "Konsumen Meikarta Mengeluh Apartemen Tak Kunjung Kelar sejak 2019",
         "link": "https://www.cnnindonesia.com/ekonomi/20220811195039-92-833603/konsumen-meikarta-mengeluh-apartemen-tak-kunjung-kelar-sejak-2019",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEyMDU0NjU5LTkyLTgzMzY2NC9yaWxpcy1raW5lcmphLWVtaXRlbi1tYXNpaC1qYWRpLW9iYXQta3VhdC1paHNnLWRpLWFraGlyLXBla2Fu",
         "description": " IHSG diprediksi menguat pada akhir pekan ini akibat tertopang rilis data kinerja emiten dan meredanya kekhawatiran pasar atas lonjakan inflasi."
-    },
-    {
-        "title": "Investasi Kripto Menjadi yang Terpopuler Nomor 2 di Australia",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220811142514-92-833397/investasi-kripto-menjadi-yang-terpopuler-nomor-2-di-australia",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODExMTQyNTE0LTkyLTgzMzM5Ny9pbnZlc3Rhc2kta3JpcHRvLW1lbmphZGkteWFuZy10ZXJwb3B1bGVyLW5vbW9yLTItZGktYXVzdHJhbGlh",
-        "description": " Investasi kripto menjadi yang terpopuler nomor 2 di Australia setelah saham. Tapi investor mendapatkan pengetahuan dari Youtube bukan penasihat keuangan."
     }
 ]
