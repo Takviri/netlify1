@@ -1,5 +1,40 @@
 [
     {
+        "title": "Breaking News: Ekonomi Inggris Kontraksi, Siap-siap Resesi",
+        "link": "https://www.cnbcindonesia.com/news/20220812135114-4-363310/breaking-news-ekonomi-inggris-kontraksi-siap-siap-resesi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzNTExNC00LTM2MzMxMC9icmVha2luZy1uZXdzLWVrb25vbWktaW5nZ3Jpcy1rb250cmFrc2ktc2lhcC1zaWFwLXJlc2VzaQ==",
+        "description": " Ekonomi Inggris berkontraksi di kuartal-II (Q2) 2022. Biaya hidup yang makin melejit memukul rumah tangga."
+    },
+    {
+        "title": "Retno Marsudi dan Diplomasi RI Perjuangkan Kepentingan Nasional",
+        "link": "https://www.cnbcindonesia.com/news/20220812132245-8-363287/retno-marsudi-diplomasi-ri-perjuangkan-kepentingan-nasional",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzMjI0NS04LTM2MzI4Ny9yZXRuby1tYXJzdWRpLWRpcGxvbWFzaS1yaS1wZXJqdWFuZ2thbi1rZXBlbnRpbmdhbi1uYXNpb25hbA==",
+        "description": " Retno Marsudi dan Diplomasi RI Perjuangkan Kepentingan Nasional"
+    },
+    {
+        "title": "Cara Mudah Cek Nomor BPJS Kesehatan Pakai NIK KTP",
+        "link": "https://www.cnbcindonesia.com/news/20220812132244-4-363288/cara-mudah-cek-nomor-bpjs-kesehatan-pakai-nik-ktp",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzMjI0NC00LTM2MzI4OC9jYXJhLW11ZGFoLWNlay1ub21vci1icGpzLWtlc2VoYXRhbi1wYWthaS1uaWsta3Rw",
+        "description": " Ada beberapa cara untuk mengecek nomor Badan Penyelenggara Jaminan Sosial (BPJS) Kesehatan."
+    },
+    {
+        "title": "Menlu Retno: Saya Bukan 'Geer', Indonesia Selalu Dihormati",
+        "link": "https://www.cnbcindonesia.com/news/20220812132112-4-363285/menlu-retno-saya-bukan-geer-indonesia-selalu-dihormati",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzMjExMi00LTM2MzI4NS9tZW5sdS1yZXRuby1zYXlhLWJ1a2FuLWdlZXItaW5kb25lc2lhLXNlbGFsdS1kaWhvcm1hdGk=",
+        "description": " Indonesia menjadi negara yang selalu dihormati di mata dunia."
+    },
+    {
+        "title": "Bikin Geger, Muncul Penampakan Daihatsu Ayla Listrik",
+        "link": "https://www.cnbcindonesia.com/news/20220812130449-7-363276/bikin-geger-muncul-penampakan-daihatsu-ayla-listrik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEzMDQ0OS03LTM2MzI3Ni9iaWtpbi1nZWdlci1tdW5jdWwtcGVuYW1wYWthbi1kYWloYXRzdS1heWxhLWxpc3RyaWs=",
+        "description": " Meskipun masih konsep, mobil listrik ini cukup menyedot perhatian pengunjung pameran GIIAS 2022 untuk melihat-lihat desainnya."
+    },
+    {
         "title": "600 Ribu Mobil Daftar MyPertamina, Kapan Pertalite Dibatasi?",
         "link": "https://www.cnbcindonesia.com/news/20220812130319-4-363275/600-ribu-mobil-daftar-mypertamina-kapan-pertalite-dibatasi",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjEwNTU0Ni00LTM2MzIzMS9saXZlLW1lbmx1LWJpY2FyYS1kaXBsb21hc2ktZWtvbm9taS1kaS10ZW5nYWgta3Jpc2lzLWdsb2JhbA==",
         "description": " Simak penjelasan Menteri Luar Negeri Retno Marsudi dalam segmen khusus Economic Update di program Power Lunch, Jumat (12/8/2022)."
-    },
-    {
-        "title": "Pameran Mobil GIIAS Membeludak Pengunjung, Ini Penampakannya",
-        "link": "https://www.cnbcindonesia.com/news/20220812111223-7-363239/pameran-mobil-giias-membeludak-pengunjung-ini-penampakannya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjExMTIyMy03LTM2MzIzOS9wYW1lcmFuLW1vYmlsLWdpaWFzLW1lbWJlbHVkYWstcGVuZ3VuanVuZy1pbmktcGVuYW1wYWthbm55YQ==",
-        "description": " Pameran mobil ini diikuti 25 merek kendaraan penumpang dan komersil anggota GAIKINDO serta menghadirkan produk mobil dan sepeda motor terbaru."
-    },
-    {
-        "title": "Marak PETI, Rencana Kerja Tambang Buram Siap-siap Ditindak!",
-        "link": "https://www.cnbcindonesia.com/news/20220812112555-4-363260/marak-peti-rencana-kerja-tambang-buram-siap-siap-ditindak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjExMjU1NS00LTM2MzI2MC9tYXJhay1wZXRpLXJlbmNhbmEta2VyamEtdGFtYmFuZy1idXJhbS1zaWFwLXNpYXAtZGl0aW5kYWs=",
-        "description": " Menteri ESDM menaruh perhatian penuh terhadap pertambangan tanpa izin (PETI)"
-    },
-    {
-        "title": "Tarif Bundling Antarmoda, DKI Ajak Warga Naik Angkutan Umum",
-        "link": "https://www.cnbcindonesia.com/news/20220812110439-8-363235/tarif-bundling-antarmoda-dki-ajak-warga-naik-angkutan-umum",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjExMDQzOS04LTM2MzIzNS90YXJpZi1idW5kbGluZy1hbnRhcm1vZGEtZGtpLWFqYWstd2FyZ2EtbmFpay1hbmdrdXRhbi11bXVt",
-        "description": " Tarif Bundling Antarmoda, DKI Ajak Warga Naik Angkutan Umum"
-    },
-    {
-        "title": "Tegas! Begini Warning Zulhas ke Pedagang Baju Bekas Impor",
-        "link": "https://www.cnbcindonesia.com/news/20220812114250-4-363265/tegas-begini-warning-zulhas-ke-pedagang-baju-bekas-impor",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjExNDI1MC00LTM2MzI2NS90ZWdhcy1iZWdpbmktd2FybmluZy16dWxoYXMta2UtcGVkYWdhbmctYmFqdS1iZWthcy1pbXBvcg==",
-        "description": " Toko pakaian bekas atau thrift shop memang sedang tren saat ini."
-    },
-    {
-        "title": "Properti China 'Megap-megap', Bisnis Lain Bisa Kena Getahnya",
-        "link": "https://www.cnbcindonesia.com/news/20220812112050-4-363244/properti-china-megap-megap-bisnis-lain-bisa-kena-getahnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMjExMjA1MC00LTM2MzI0NC9wcm9wZXJ0aS1jaGluYS1tZWdhcC1tZWdhcC1iaXNuaXMtbGFpbi1iaXNhLWtlbmEtZ2V0YWhueWE=",
-        "description": " Masalah di sekotr properti, terutama real estat, di China dapat meluas ke sektor utama lainnya jika masalah terus berlanjut."
     }
 ]
