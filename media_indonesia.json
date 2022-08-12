@@ -1,5 +1,61 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/514149/nadal-pastikan-akan-tampil-di-cincinnati-masters",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTQxNDkvbmFkYWwtcGFzdGlrYW4tYWthbi10YW1waWwtZGktY2luY2lubmF0aS1tYXN0ZXJz",
+        "description": "RAFAEL&nbsp;Nadal meningkatkan harapan tampil di Amerika Serikat (AS) Terbuka tahun ini mengumumkan akan berlaga di turnamen Cincinnati&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/514163/penculik-anjing-lady-gaga-dihukum-enam-tahun-penjara",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDE2My9wZW5jdWxpay1hbmppbmctbGFkeS1nYWdhLWRpaHVrdW0tZW5hbS10YWh1bi1wZW5qYXJh",
+        "description": "Laki-laki kedua yang didakwa menculik anjing peliharaan milik Lady Gaga pada Kamis (11/8) waktu setempat dijatuhi hukuman enam tahun penjara setelah mengakui perannya dalam peristiwa tersebut.&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/514162/gita-cinta-production-kembali-menggelar-jakarta-melayu-festival",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDE2Mi9naXRhLWNpbnRhLXByb2R1Y3Rpb24ta2VtYmFsaS1tZW5nZ2VsYXItamFrYXJ0YS1tZWxheXUtZmVzdGl2YWw=",
+        "description": "Pagelaran budaya Melayu yang identik dengan konser musik ini digelar di Beach City Entertainment Center, Taman Impian Jaya Ancol, tepat pada hari kemerdekaan Indonesia ke-77 yaitu tanggal 17 Agustus&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/514160/desa-energi-berdikari-pertamina-dorong-petani-boyolali-kembangkan-energi-terbarukan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDE2MC9kZXNhLWVuZXJnaS1iZXJkaWthcmktcGVydGFtaW5hLWRvcm9uZy1wZXRhbmktYm95b2xhbGkta2VtYmFuZ2thbi1lbmVyZ2ktdGVyYmFydWthbg==",
+        "description": "SEBAGAI upaya menghadirkan energi bersih dan ramah lingkungan, Pertamina terus mendorong inovasi energi baru terbarukan melalui Program Desa Energi Berdikari.&nbsp; Program itu melatih Kelompok&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514159/ketua-kpk-tegaskan-penangkapan-bupati-pemalang-dan-beberapa-orang-diduga-terlibat-suap",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQxNTkva2V0dWEta3BrLXRlZ2Fza2FuLXBlbmFuZ2thcGFuLWJ1cGF0aS1wZW1hbGFuZy1kYW4tYmViZXJhcGEtb3JhbmctZGlkdWdhLXRlcmxpYmF0LXN1YXA=",
+        "description": "Ketua Komisi Pemberantasan Korupsi (KPK) Firli Bahuri menyebut penangkapan terhadap Bupati Pemalang Mukti Agung Wibowo terkait dengan dugaan suap. &quot;MAW (Mukti Agung Wibowo) dan beberapa&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/514144/ji-chang-wook-dan-sooyoung-snsd-bintangi-drama-if-you-wish-upon-me",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDE0NC9qaS1jaGFuZy13b29rLWRhbi1zb295b3VuZy1zbnNkLWJpbnRhbmdpLWRyYW1hLWlmLXlvdS13aXNoLXVwb24tbWU=",
+        "description": "TAYANG perdana di Viu, Rabu (10/8) malam waktu Korea, If You Wish Upon Me hadir menemani para penonton setia drama Korea setiap&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514157/kpk-menduga-bupati-pemalang-terlibat-kasus-suap",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQxNTcva3BrLW1lbmR1Z2EtYnVwYXRpLXBlbWFsYW5nLXRlcmxpYmF0LWthc3VzLXN1YXA=",
+        "description": "Komisi Pemberantasan Korupsi (KPK) menduga Bupati Pemalang Mukti Agung Wibowo terlibat kasus suap dalam pengadaan barang dan jasa serta jabatan. &quot;Berkaitan dugaan tindak pidana korupsi&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/514156/menyoal-fondasi-kemerdekaan-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTQxNTYvbWVueW9hbC1mb25kYXNpLWtlbWVyZGVrYWFuLWluZG9uZXNpYQ==",
+        "description": "PADA 17 Agustus 2022 Republik Indonesia tepat berusia 77 tahun. HUT RI kali ini mengambil tema Pulih Lebih Cepat, Bangkit Lebih Kuat, tema yang diambil setelah dua tahun lebih negeri kita menghadapi&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/514138/valencia-pinjam-nico-gonzalez-dari-barcelona",
         "image": "static/images/media_indonesia.png",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQxNTIvZXJhLXNlcmdhcC1qYWRpLW1vdG9yLWxpc3RyaWstbWlsaXRlci1zZWdlcmEtdGVyd3VqdWQ=",
         "description": "PEKAN Litbang Pertahanan 2022 dimeriahkan dengan karya-karya anak bangsa, salah satunya ialah sepeda motor listrik yang dikenal dengan SERGAP electrical tactical motorbike. Karya anak&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514154/bmkg-hari-ini-sebagian-besar-wilayah-indonesia-berawan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0MTU0L2Jta2ctaGFyaS1pbmktc2ViYWdpYW4tYmVzYXItd2lsYXlhaC1pbmRvbmVzaWEtYmVyYXdhbg==",
-        "description": "BADAN Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan sebagian besar wilayah Indonesia hari ini, Jumat (12/8) cerah berawan. Wilayah yang diperkirakan berawan yakni Serang, Semarang,&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/514137/yuk-mengenal-groot-yang-serialnya-sedang-tayang-di-disney-hotstar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDEzNy95dWstbWVuZ2VuYWwtZ3Jvb3QteWFuZy1zZXJpYWxueWEtc2VkYW5nLXRheWFuZy1kaS1kaXNuZXktaG90c3Rhcg==",
-        "description": "SIAPA &nbsp;yang tidak mengenal kalimat &ldquo;I am Groot&rdquo;? Tiga kata itu merupakan dialog tunggal dari karakter fiksi Marvel bernama Groot. Pada Rabu (10/8), Marvel merilis serial terbarunya&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/514151/275-mercedes-benz-hyper-one-diproduksi-dirakit-gunakan-tangan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQxNTEvMjc1LW1lcmNlZGVzLWJlbnotaHlwZXItb25lLWRpcHJvZHVrc2ktZGlyYWtpdC1ndW5ha2FuLXRhbmdhbg==",
-        "description": "Mercedes-Benz telah memulai produksi mobil hyper One yang terinspirasi dari Formula Satu. Pembuat mobil mengklaim bahwa masing-masing dari 275 mobil akan dibuat dengan tangan dan setiap mobil membutuhkan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514148/kurangi-sampah-organik-mahasiswa-undip-ajak-warga-buat-kompos-takakura",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0MTQ4L2t1cmFuZ2ktc2FtcGFoLW9yZ2FuaWstbWFoYXNpc3dhLXVuZGlwLWFqYWstd2FyZ2EtYnVhdC1rb21wb3MtdGFrYWt1cmE=",
-        "description": "SAMPAH saat ini sampah menjadi permasalahan yang sudah mencapai skala global. Bahkan di Indonesia permasalahan tersebut seakan-akan tidak pernah terselesaikan. Angka pertumbuhan penduduk yang terus&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/514150/blackpink-bakal-rilis-album-fisik-berbahan-ramah-lingkungan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDE1MC9ibGFja3BpbmstYmFrYWwtcmlsaXMtYWxidW0tZmlzaWstYmVyYmFoYW4tcmFtYWgtbGluZ2t1bmdhbg==",
-        "description": "Album studio kedua girl grup K-pop Blackpink yang dijadwalkan rilis pada 16 September akan dibuat dengan menggunakan bahan-bahan yang ramah lingkungan, menurut keterangan dari YG Entertainment pada&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514136/laga-pembuka-piala-dunia-2022-dimajukan-satu-hari",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDEzNi9sYWdhLXBlbWJ1a2EtcGlhbGEtZHVuaWEtMjAyMi1kaW1hanVrYW4tc2F0dS1oYXJp",
-        "description": "LAGA pembuka Piala Dunia 2022, antara tuan rumah Qatar dan Ekuador, dimajukan satu hari menjadi 20 November 2022. Hal itu&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514147/perajin-piala-di-kudus-banjir-order-di-hut-ri-ke-77",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0MTQ3L3BlcmFqaW4tcGlhbGEtZGkta3VkdXMtYmFuamlyLW9yZGVyLWRpLWh1dC1yaS1rZS03Nw==",
-        "description": "KAMPUNG perajin piala yang berlokasi di Dusun Ledok, Desa Demangan, Kota, Kudus, Jawa Tengah, menjadi kampung dengan segudang penghargaan yang telah dibuat dari berbagai kegiatan kejuaraan daerah maupun&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/514146/112-pabrik-di-kamboja-dibuka-dalam-tujuh-bulan-serap-76624-pekerja",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNDE0Ni8xMTItcGFicmlrLWRpLWthbWJvamEtZGlidWthLWRhbGFtLXR1anVoLWJ1bGFuLXNlcmFwLTc2NjI0LXBla2VyamE=",
-        "description": "Sebanyak 112 pabrik baru dengan total investasi US$1,19 miliar, telah dibuka di Kamboja selama tujuh bulan pertama 2022, kata juru bicara kementerian perindustrian di Phnom Penh, Kamis (11/8/2022).&#8230;"
     }
 ]
