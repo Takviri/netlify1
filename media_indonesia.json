@@ -1,5 +1,19 @@
 [
     {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/514234/kisah-penyintas-kanker-yunani-manfaatkan-pengobatan-tradisional-tiongkok",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNDIzNC9raXNhaC1wZW55aW50YXMta2Fua2VyLXl1bmFuaS1tYW5mYWF0a2FuLXBlbmdvYmF0YW4tdHJhZGlzaW9uYWwtdGlvbmdrb2s=",
+        "description": "KETIKA&nbsp;Marina Efraimoglou menjadi bankir sukses di usia dua puluhan dengan gelar master dari London School of Economics, tampaknya dunia begitu indah. Namun hal itu sampai dia didiagnosis menderita&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/514233/kemendag-musnahkan-750-bal-pakaian-bekas-senilai-rp-85-miliar-dalam-gerakan-jumat-bersih",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDIzMy9rZW1lbmRhZy1tdXNuYWhrYW4tNzUwLWJhbC1wYWthaWFuLWJla2FzLXNlbmlsYWktcnAtODUtbWlsaWFyLWRhbGFtLWdlcmFrYW4tanVtYXQtYmVyc2lo",
+        "description": "Kementerian Perdagangan melakukan pemusnahan secara simbolis 750 bal pakaian bekas yang diduga asal impor senilai Rp8,5 miliar. Aksi pemusnahan ini berlangsung hari ini, Jumat (12/8), di kawasan pergudangan&#8230;"
+    },
+    {
         "title": "Megapolitan",
         "link": "https://m.mediaindonesia.com/megapolitan/514232/polisi-ringkus-sopir-taksi-dpo-kasus-pencabulan-anak-8-tahun",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0MjI2L2tway1zZWdlbC1hc2V0LWtvcnVwdG9yLWFuZ2luLXByYXNldHlvLWFqaS1kaS1rb3RhLXlvZ3lha2FydGE=",
         "description": "PETUGAS Komisi Pemberantasan Korupsi (KPK), kemarin, memasang papan informasi penyitaan di sebuah lahan dan bangunan yang ada di Jalan Surami, Kelurahan Mantrijeron, Kemantren (Kecamatan) Mantrijeron,&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/514225/giias-2022-resmi-dibuka-airlangga-senang-banyak-kendaraan-listrik-dipamerkan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQyMjUvZ2lpYXMtMjAyMi1yZXNtaS1kaWJ1a2EtYWlybGFuZ2dhLXNlbmFuZy1iYW55YWsta2VuZGFyYWFuLWxpc3RyaWstZGlwYW1lcmthbg==",
-        "description": "PAMERAN otomotif terbesar di Indonesia yaitu GAIKINDO Indonesia International Auto Show (GIIAS) 2022 resmi dibuka oleh Menteri Koordinator Bidang perekonomian Airlangga Hartarto dan Menteri Perindustrian,&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514224/ganjar-instruksikan-wakil-bupati-pemalang-ambialih-pemerintahan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0MjI0L2dhbmphci1pbnN0cnVrc2lrYW4td2FraWwtYnVwYXRpLXBlbWFsYW5nLWFtYmlhbGloLXBlbWVyaW50YWhhbg==",
-        "description": "GUBERNUR Jawa Tengah Ganjar Pranowo menginstruksikan Wakil Bupati Pemalang Mansyur Hidayat segera mengambil alih pemerintahan di kabupaten tersebut. Instruksi dikeluarkan setelah Bupati Pemalang MAW&#8230;"
     }
 ]

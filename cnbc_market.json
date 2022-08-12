@@ -1,5 +1,12 @@
 [
     {
+        "title": "Bos Indofood: Kenaikan Harga Mi Instan Bukan Karena Perang",
+        "link": "https://www.cnbcindonesia.com/market/20220812133622-17-363300/bos-indofood-kenaikan-harga-mi-instan-bukan-karena-perang",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTMzNjIyLTE3LTM2MzMwMC9ib3MtaW5kb2Zvb2Qta2VuYWlrYW4taGFyZ2EtbWktaW5zdGFuLWJ1a2FuLWthcmVuYS1wZXJhbmc=",
+        "description": " Permasalahan ini sudah terjadi sejak 2021 imbas perubahan iklim yang membuat gagal panen meski perang rusia juga berdampak kepada kenaikan harga."
+    },
+    {
         "title": "Messi yang Sabar Ya... Inflasi Argentina Meroket 71%!",
         "link": "https://www.cnbcindonesia.com/market/20220812132812-17-363291/messi-yang-sabar-ya-inflasi-argentina-meroket-71",
         "image": "static/images/cnbc_market.png",
@@ -28,10 +35,10 @@
         "description": " Indeks Harga Saham Gabungan (IHSG) ditutup melemah 0,3% di 7.134,4 pada sesi I perdagangan Jumat (12/8/2022)."
     },
     {
-        "title": "Emiten Grup Barkie Tercuan, Giliran AMMS Ambles Nih!",
-        "link": "https://www.cnbcindonesia.com/market/20220812115940-17-363267/emiten-grup-barkie-tercuan-giliran-amms-ambles-nih",
+        "title": "Emiten Grup Bakrie Tercuan, Giliran AMMS Ambles Nih!",
+        "link": "https://www.cnbcindonesia.com/market/20220812115940-17-363267/emiten-grup-bakrie-tercuan-giliran-amms-ambles-nih",
         "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTE1OTQwLTE3LTM2MzI2Ny9lbWl0ZW4tZ3J1cC1iYXJraWUtdGVyY3Vhbi1naWxpcmFuLWFtbXMtYW1ibGVzLW5paA==",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTE1OTQwLTE3LTM2MzI2Ny9lbWl0ZW4tZ3J1cC1iYWtyaWUtdGVyY3Vhbi1naWxpcmFuLWFtbXMtYW1ibGVzLW5paA==",
         "description": " 5 saham yang tampil perkasa dan 5 saham yang masuk top losers pada perdagangan sesi I Jumat (12/8/2022)."
     },
     {
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTEzNTAwLTE3LTM2MzI1OC9pbnZlc3Rvci10YXJpay1jdWFuLWR1bHUtaWhzZy1zZXNpLWktYmVyYWtoaXItbWVsZW1haC0wMzY=",
         "description": " Indeks Harga Saham Gabungan (IHSG) berakhir terkoreksi 0,36% ke 7.134,4 pada penutupan perdagangan sesi I Jumat (12/8/2022)."
-    },
-    {
-        "title": "BI: Ruang Kenaikan Suku Bunga Acuan Terbuka",
-        "link": "https://www.cnbcindonesia.com/market/20220812114739-17-363263/bi-ruang-kenaikan-suku-bunga-acuan-terbuka",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTE0NzM5LTE3LTM2MzI2My9iaS1ydWFuZy1rZW5haWthbi1zdWt1LWJ1bmdhLWFjdWFuLXRlcmJ1a2E=",
-        "description": " Bank Indonesia (BI) saat ini masih menahan suku bunga acuan pada level 3,5%"
     }
 ]
