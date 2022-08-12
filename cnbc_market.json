@@ -1,5 +1,33 @@
 [
     {
+        "title": "Menutup Pekan Ini, Bursa Asia Kurang Kompak Nikkei Melesat",
+        "link": "https://www.cnbcindonesia.com/market/20220812164622-17-363392/menutup-pekan-ini-bursa-asia-kurang-kompak-nikkei-melesat",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTY0NjIyLTE3LTM2MzM5Mi9tZW51dHVwLXBla2FuLWluaS1idXJzYS1hc2lhLWt1cmFuZy1rb21wYWstbmlra2VpLW1lbGVzYXQ=",
+        "description": " Bursa Asia-Pasifik ditutup bervariasi pada perdagangan Jumat (12/8/2022), di mana investor masih mencerna data inflasi Amerika Serikat yang mulai melandai."
+    },
+    {
+        "title": "Agen Properti ERA Diambil Alih Perusahaan Singapura, Siapa?",
+        "link": "https://www.cnbcindonesia.com/market/20220812153529-17-363354/agen-properti-era-diambil-alih-perusahaan-singapura-siapa",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTUzNTI5LTE3LTM2MzM1NC9hZ2VuLXByb3BlcnRpLWVyYS1kaWFtYmlsLWFsaWgtcGVydXNhaGFhbi1zaW5nYXB1cmEtc2lhcGE=",
+        "description": " Agen properti PT Era Graharealty Tbk (IPAC) mengumumkan bahwa telah terjadi perubahan dalam pengendalian terhadap perseroan."
+    },
+    {
+        "title": "Borong 3 Penghargaan, BRI Raih Pengakuan Internasional",
+        "link": "https://www.cnbcindonesia.com/market/20220812163302-17-363388/borong-3-penghargaan-bri-raih-pengakuan-internasional",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTYzMzAyLTE3LTM2MzM4OC9ib3JvbmctMy1wZW5naGFyZ2Fhbi1icmktcmFpaC1wZW5nYWt1YW4taW50ZXJuYXNpb25hbA==",
+        "description": " Porsi bisnis treasury BRI terus mengalami peningkatan setiap tahun untuk ikut menopang total fee dan pendapatan operasional."
+    },
+    {
+        "title": "Harga Karet Anjlok, Terendah dalam 7 Bulan",
+        "link": "https://www.cnbcindonesia.com/market/20220812162428-17-363378/harga-karet-anjlok-terendah-dalam-7-bulan",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTYyNDI4LTE3LTM2MzM3OC9oYXJnYS1rYXJldC1hbmpsb2stdGVyZW5kYWgtZGFsYW0tNy1idWxhbg==",
+        "description": " Harga karet dunia merosot ke area terendah dalam 7 bulan yang lalu"
+    },
+    {
         "title": "Redup, Harga Emas Turun Terus",
         "link": "https://www.cnbcindonesia.com/market/20220812154608-17-363364/redup-harga-emas-turun-terus",
         "image": "static/images/cnbc_market.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTUyODMzLTE3LTM2MzM1MC9iZXJ0YWhhbi1kaS1wc2lrb2xvZ2lzLTcxMDAta29yZWtzaS1paHNnLW1hc2loLXNlaGF0",
         "description": " IHSG sempat menyentuh posisi terendah di 7.113,58."
-    },
-    {
-        "title": "Jelang Akhir Pekan Harga Tembaga Bikin Happy",
-        "link": "https://www.cnbcindonesia.com/market/20220812153118-17-363352/jelang-akhir-pekan-harga-tembaga-bikin-happy",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTUzMTE4LTE3LTM2MzM1Mi9qZWxhbmctYWtoaXItcGVrYW4taGFyZ2EtdGVtYmFnYS1iaWtpbi1oYXBweQ==",
-        "description": " Harga tembaga dunia menguat karena persediaan yang menyusut."
-    },
-    {
-        "title": "Rupiah Makin Kuat, Goodbye Rp 15.000/US$!",
-        "link": "https://www.cnbcindonesia.com/market/20220812140455-17-363320/rupiah-makin-kuat-goodbye-rp-15000-us-",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTQwNDU1LTE3LTM2MzMyMC9ydXBpYWgtbWFraW4ta3VhdC1nb29kYnllLXJwLTE1MDAwLXVzLQ==",
-        "description": " Nilai tukar rupiah terhadap dolar Amerika Serikat (AS) ditutup menguat pada perdagangan pagi hari ini."
-    },
-    {
-        "title": "Pertumbuhan Ekonomi Malaysia-Filipina Salip RI, Mata Uangnya?",
-        "link": "https://www.cnbcindonesia.com/market/20220812143536-17-363337/pertumbuhan-ekonomi-malaysia-filipina-salip-ri-mata-uangnya",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTQzNTM2LTE3LTM2MzMzNy9wZXJ0dW1idWhhbi1la29ub21pLW1hbGF5c2lhLWZpbGlwaW5hLXNhbGlwLXJpLW1hdGEtdWFuZ255YQ==",
-        "description": " Di hadapan dolar AS, kinerja mata uang Indonesia yaitu rupiah lebih baik ketimbang ringgit Malaysia dan peso Filipina."
-    },
-    {
-        "title": "5 Merek Motor Listrik Besutan Emiten BEI, Volta Hingga ALVA",
-        "link": "https://www.cnbcindonesia.com/market/20220812123033-17-363271/5-merek-motor-listrik-besutan-emiten-bei-volta-hingga-alva",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEyMTIzMDMzLTE3LTM2MzI3MS81LW1lcmVrLW1vdG9yLWxpc3RyaWstYmVzdXRhbi1lbWl0ZW4tYmVpLXZvbHRhLWhpbmdnYS1hbHZh",
-        "description": " Berikut adalah daftar emiten yang ikut terjun dalam bisnis kendaraan listrik yang diramal menjadi bagian integral dari bisnis sektor transportasi masa depan."
     }
 ]
