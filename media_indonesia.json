@@ -1,6 +1,13 @@
 [
     {
         "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/514564/subaru-luncurkan-suv-kompak-xv-dan-mobil-sport-brz",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQ1NjQvc3ViYXJ1LWx1bmN1cmthbi1zdXYta29tcGFrLXh2LWRhbi1tb2JpbC1zcG9ydC1icno=",
+        "description": "UNTUK pertama kalinya, Subaru mengikuti gelaran Gaikindo Indonesia International Auto Show (GIIAS) di ICE BSD City, Tangerang, Banten. Berlokasi di Hall 5C, Subaru Indonesia hadir mengusung tema besar&#8230;"
+    },
+    {
+        "title": "Otomotif",
         "link": "https://m.mediaindonesia.com/otomotif/514563/gaikindo-ajak-masyarakat-mencoba-kendaraan-listrik-di-giias",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQ1NjMvZ2Fpa2luZG8tYWphay1tYXN5YXJha2F0LW1lbmNvYmEta2VuZGFyYWFuLWxpc3RyaWstZGktZ2lpYXM=",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0NTUxL21lcmF1cC1jdWFuLXNlYmFnYWkta3JlYXRvci1rb250ZW4=",
         "description": "MELAKUKAN branding di era digital harus jeli dalam mengemas konten yang akan disampaikan. Kejelian mengemas pesan yang ditujukan kepada masyarakat menjadi kunci sukses. &quot;Di era&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/514552/perlindungan-data-pribadi-penting-untuk-cegah-kerugian-dari-aktivitas-digital",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE0NTUyL3BlcmxpbmR1bmdhbi1kYXRhLXByaWJhZGktcGVudGluZy11bnR1ay1jZWdhaC1rZXJ1Z2lhbi1kYXJpLWFrdGl2aXRhcy1kaWdpdGFs",
-        "description": "PENGGUNAAN internet dan media sosial oleh masyarakat Indonesia terus meningkat. Sayangnya, literasi digital di Indonesia masih dalam taraf menengah. Apalagi pada pilar keamanan digital. Padahal risiko&#8230;"
     }
 ]
