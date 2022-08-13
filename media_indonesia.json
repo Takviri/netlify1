@@ -1,9 +1,65 @@
 [
     {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/514541/peterokimia-gresik-raih-penghargaan-tertinggi-tjsl-csr-award-2022",
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514545/mahasiswa-kkn-undip-ajak-remaja-terapkan-gaya-hidup-zero-waste",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDU0MS9wZXRlcm9raW1pYS1ncmVzaWstcmFpaC1wZW5naGFyZ2Fhbi10ZXJ0aW5nZ2ktdGpzbC1jc3ItYXdhcmQtMjAyMg==",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0NTQ1L21haGFzaXN3YS1ra24tdW5kaXAtYWphay1yZW1hamEtdGVyYXBrYW4tZ2F5YS1oaWR1cC16ZXJvLXdhc3Rl",
+        "description": "SAAT ini Indonesia tengah menghadapi banyak permasalahan lingkungan yang salah satunya sektor persampahan. Permasalahan sampah tersebut seakan-akan tidak berujung dan sulit untuk menemukan solusi yang&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/514549/tingkatkan-daya-saing-umkm-sampoerna-gencarkan-pembinaan-dan-digitalisasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDU0OS90aW5na2F0a2FuLWRheWEtc2FpbmctdW1rbS1zYW1wb2VybmEtZ2VuY2Fya2FuLXBlbWJpbmFhbi1kYW4tZGlnaXRhbGlzYXNp",
+        "description": "MEMPERINGATI Hari UMKM Nasional yang jatuh pada 12 Agustus, PT HM Sampoerna Tbk. (Sampoerna) melalui payung program keberlanjutan &ldquo;Sampoerna Untuk Indonesia&rdquo; menyelenggarakan rangkaian&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514547/lx-international-gandeng-sejumlah-perguruan-tinggi-kembangkan-talenta-digital",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0NTQ3L2x4LWludGVybmF0aW9uYWwtZ2FuZGVuZy1zZWp1bWxhaC1wZXJndXJ1YW4tdGluZ2dpLWtlbWJhbmdrYW4tdGFsZW50YS1kaWdpdGFs",
+        "description": "LX International (atau dulu lebih dikenal, LG International) menyelenggarakan seremoni penandatanganan kerja sama (MoU serta MoA) dengan beberapa perguruan tinggi, yang bertempat di Kampus Politeknik&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514546/formappi-fungsi-legislasi-dpr-biasa-saja",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQ1NDYvZm9ybWFwcGktZnVuZ3NpLWxlZ2lzbGFzaS1kcHItYmlhc2Etc2FqYQ==",
+        "description": "KINERJA Dewan Perwakilan Rakyat (DPR) RI periode 2019-2024 pada masa sidang V menuai catatan terutama fungsi legislasi. Meskipun dinilai cukup produktif, tapi undang-undang yang disahkan bukan prioritas.&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/514544/bijak-bermedia-sosial-untuk-tangkal-konten-negatif",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE0NTQ0L2JpamFrLWJlcm1lZGlhLXNvc2lhbC11bnR1ay10YW5na2FsLWtvbnRlbi1uZWdhdGlm",
+        "description": "BANYAKNYA pengguna media sosial di Indonesia membuktikan bahwa begitu pesatnya perkembangan teknologi informasi dan komunikasi di zaman 4.0 ini. Apabila tidak digunakan secara bijak, maka dapat menimbulkan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514543/barcelona-miliki-target-berebut-gelar-juara-musim-ini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDU0My9iYXJjZWxvbmEtbWlsaWtpLXRhcmdldC1iZXJlYnV0LWdlbGFyLWp1YXJhLW11c2ltLWluaQ==",
+        "description": "PELATIH Barcelona Xavi Hernandez menegaskan timnya memiliki target untuk meraih gelar juara jelang laga pekan perdana Liga Spanyol menghadapi Rayo Vallecano di Stadion Camp Nou, Barcelona, Sabtu.&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/514542/atasi-amartha-hangtuah-satria-muda-curi-kemenangan-pertama-playoff-ibl",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTQ1NDIvYXRhc2ktYW1hcnRoYS1oYW5ndHVhaC1zYXRyaWEtbXVkYS1jdXJpLWtlbWVuYW5nYW4tcGVydGFtYS1wbGF5b2ZmLWlibA==",
+        "description": "SATRIA Muda Pertamina Jakarta meraih kemenangan pertama dalam babak playoff Liga Bola Basket Indonesia (IBL) 2022 setelah mengatasi perlawanan sengit Amartha Hangtuah. Dalam pertandingan&#8230;"
+    },
+    {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/514540/insan-otomotif-dukung-motor-listrik-besutan-bmi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQ1NDAvaW5zYW4tb3RvbW90aWYtZHVrdW5nLW1vdG9yLWxpc3RyaWstYmVzdXRhbi1ibWk=",
+        "description": "PT BYXE Motor Indonesia (BMI) terus mematangkan kesiapan produksi motor listrik karya anak bangsa. Bahkan BYXE, XADE, Sergap dan prototype&nbsp;motor patroli diharapkan segera diproduksi secara&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/514541/petrokimia-gresik-raih-penghargaan-tertinggi-tjsl-csr-award-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDU0MS9wZXRyb2tpbWlhLWdyZXNpay1yYWloLXBlbmdoYXJnYWFuLXRlcnRpbmdnaS10anNsLWNzci1hd2FyZC0yMDIy",
         "description": "PETROKIMIA Gresik memperoleh apresiasi tertinggi berupa Bintang 5 dalam ajang nasional Tanggung Jawab Sosial dan Lingkungan (TJSL) &amp; CSR Award 2022 yang diselenggarakan Majalah BUMN Track bersama&#8230;"
     },
     {
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NTM5L2tvbXVuaXRhcy1tYWstZ2FuamFyLWdhcnV0LWJlcmRvYS1tZW1vaG9uLWtlbWFqdWFuLWJhbmdzYQ==",
         "description": "RATUSAN Ibu-Ibu bergabung ke dalam komunitas relawan Mak Ganjar untuk mengikuti acara Zikir dan Do'a Bersama untuk Kemajuan Bangsa di Pesantren Darussalikin, Sukaratu, Kabupaten Garut, Jawa Barat&nbsp;&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/514538/5000-an-warga-bekasi-deklarasikan-ganjar-sebagai-presiden-2024",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTQ1MzgvNTAwMC1hbi13YXJnYS1iZWthc2ktZGVrbGFyYXNpa2FuLWdhbmphci1zZWJhZ2FpLXByZXNpZGVuLTIwMjQ=",
-        "description": "SEKITAR 5000-an warga Bekasi berkumpul di kawasan Danau Tambelang, Kecamatan Sukatani, Kabupaten Bekasi, Jawa Barat, Sabtu (13/8/2022). Mereka datang dari berbagai latar belakang profesi dan tergabung&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/514537/indonesia-finalkan-hasil-pertemuan-g20-dwg-tekankan-multilateralisme",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDUzNy9pbmRvbmVzaWEtZmluYWxrYW4taGFzaWwtcGVydGVtdWFuLWcyMC1kd2ctdGVrYW5rYW4tbXVsdGlsYXRlcmFsaXNtZQ==",
-        "description": "PELAKSANAAN pertemuan ketiga G20 Development Working Group (DWG) pada 10-12 Agustus 2022 di Bali telah mencapai akhir dengan menekankan pentingnya multilateralisme hingga pendanaan pembangunan.<br&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514536/perempuan-milenial-sumsel-ajak-pilih-figur-yang-terbukti-memajukan-perempuan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NTM2L3BlcmVtcHVhbi1taWxlbmlhbC1zdW1zZWwtYWphay1waWxpaC1maWd1ci15YW5nLXRlcmJ1a3RpLW1lbWFqdWthbi1wZXJlbXB1YW4=",
-        "description": "TIDAK kurang dari 500 perempuan millenial bergabung dalam gerakan &quot;Ganjar Pranowo Presiden 2024&quot; yang diinisiasi jaringan Srikandi Ganjar Sumatera Selatan (Sumsel) di Kota Palembang, Sumsel,&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/514533/manusia-sebagai-penentu-katastrofe",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTQ1MzMvbWFudXNpYS1zZWJhZ2FpLXBlbmVudHUta2F0YXN0cm9mZQ==",
-        "description": "MEDIA massa sering menyebutkan bencana alam melanda Indonesia. Kejadian tsunami Aceh 2004 menjadi salah satu bencana terbesar di Indonesia dalam 20 tahun terakhir. Setidaknya 250 ribu orang dari berbagai&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514535/aston-villa-raih-kemenangan-perdana-usai-tekuk-everton-2-1",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDUzNS9hc3Rvbi12aWxsYS1yYWloLWtlbWVuYW5nYW4tcGVyZGFuYS11c2FpLXRla3VrLWV2ZXJ0b24tMi0x",
-        "description": "ASTON Villa meraih kemenangan perdana usai menekuk tim tamu Everton 2-1 dalam pertandingan pekan kedua Liga Premier Inggris di Stadion Villa Park, Birmingham, Sabtu (13/8) malam WIB. Dua gol Aston&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514534/dokter-fiza-berbagi-tips-melepas-penat-dengan-rutinitas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0NTM0L2Rva3Rlci1maXphLWJlcmJhZ2ktdGlwcy1tZWxlcGFzLXBlbmF0LWRlbmdhbi1ydXRpbml0YXM=",
-        "description": "Dokter spesialis kulit dan kelamin, dr. Hafiza Fikri Fadel, Sp.KK berbagi resep menghilangkan kepenatan rutinitas harian. Direktur klinik Dermis Skin &amp; Slimming Center Jakarta ini mengaku&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/514532/bumilangit-kenalkan-para-jagoan-patriot-di-pop-art-jakarta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNDUzMi9idW1pbGFuZ2l0LWtlbmFsa2FuLXBhcmEtamFnb2FuLXBhdHJpb3QtZGktcG9wLWFydC1qYWthcnRh",
-        "description": "&nbsp; Setelah memperkenalkan secara luas karakter Gundala lewat film dan beberapa produk turunan kekayaan intelektualnya, kini Bumilangit kembali dengan memperkenalkan deretan karakter jagoan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514531/kebakaran-landa-permukiman-padat-di-palabuhanratu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NTMxL2tlYmFrYXJhbi1sYW5kYS1wZXJtdWtpbWFuLXBhZGF0LWRpLXBhbGFidWhhbnJhdHU=",
-        "description": "KEBAKARAN melanda kawasan padat penduduk di Kampung Cempakaputih, Palabuhanratu, Kabupaten Sukabumi, Jawa Barat, Sabtu (13/8), menyebabkan dua rumah rata dengan tanah dan dua lainnya terdampak.<br&#8230;"
     }
 ]
