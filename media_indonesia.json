@@ -1,9 +1,16 @@
 [
     {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/514562/literasi-digital-bikin-pemanfaat-e-commerce-makin-optimal",
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/514563/gaikindo-ajak-masyarakat-mencoba-kendaraan-listrik-di-giias",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE0NTYyL2xpdGVyYXNpLWRpZ2l0YWwtYmlraW4tcGVtYW5mYWF0LWUtY29tbWVyY2UtbWFraW4tb3B0aW1hbA==",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQ1NjMvZ2Fpa2luZG8tYWphay1tYXN5YXJha2F0LW1lbmNvYmEta2VuZGFyYWFuLWxpc3RyaWstZGktZ2lpYXM=",
+        "description": "PENYELENGGARAAN&nbsp;pameran otomotif terbesar di Indonesia, Gaikindo Indonesia International Auto Show (GIIAS) 2022 di ICE BSD City, Tangerang, memasuki momentum akhir pekan pertama. Peluncuran ragam&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/514562/literasi-digital-bikin-pemanfaatan-e-commerce-makin-optimal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE0NTYyL2xpdGVyYXNpLWRpZ2l0YWwtYmlraW4tcGVtYW5mYWF0YW4tZS1jb21tZXJjZS1tYWtpbi1vcHRpbWFs",
         "description": "LOKAPASAR atau e-commerce adalah sebuah model bisnis yang melibatkan individu atau perusahaan untuk melakukan kegiatan jual beli di internet.&nbsp; Podcaster dan Co-Founder Paberik Soeara Rakjat&#8230;"
     },
     {
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE0NTUyL3BlcmxpbmR1bmdhbi1kYXRhLXByaWJhZGktcGVudGluZy11bnR1ay1jZWdhaC1rZXJ1Z2lhbi1kYXJpLWFrdGl2aXRhcy1kaWdpdGFs",
         "description": "PENGGUNAAN internet dan media sosial oleh masyarakat Indonesia terus meningkat. Sayangnya, literasi digital di Indonesia masih dalam taraf menengah. Apalagi pada pilar keamanan digital. Padahal risiko&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/514548/prawira-bandung-dan-pelita-jaya-rebut-laga-perdana-playoff",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTQ1NDgvcHJhd2lyYS1iYW5kdW5nLWRhbi1wZWxpdGEtamF5YS1yZWJ1dC1sYWdhLXBlcmRhbmEtcGxheW9mZg==",
-        "description": "PRAWIRA Bandung dan Pelita Jaya Bakrie Jakarta sama-sama mengamankan laga perdana babak playoff Liga Bola Basket Indonesia (IBL) 2022 di C-Tra Arena Bandung, Sabtu (13/8). Prawira Bandung harus&#8230;"
     }
 ]
