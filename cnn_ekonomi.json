@@ -1,5 +1,12 @@
 [
     {
+        "title": "BNI Gandeng Indomaret Perkuat Ekosistem Cashless",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220813103735-83-834188/bni-gandeng-indomaret-perkuat-ekosistem-cashless",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEzMTAzNzM1LTgzLTgzNDE4OC9ibmktZ2FuZGVuZy1pbmRvbWFyZXQtcGVya3VhdC1la29zaXN0ZW0tY2FzaGxlc3M=",
+        "description": " Dalam kolaborasi ini, BNI dan Indomaret menghadirkan pembayaran nontunai menggunakan QRIS BNI Mobile Banking."
+    },
+    {
         "title": "Atur Ulang Biaya Transportasi Agar Tak Boncos Usai Tarif Ojol Naik",
         "link": "https://www.cnnindonesia.com/ekonomi/20220811200243-83-833610/atur-ulang-biaya-transportasi-agar-tak-boncos-usai-tarif-ojol-naik",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEyMTkyMTM2LTkyLTgzNDA2Ni9iaS1wcmVkaWtzaS1hZ3VzdHVzLWRlZmxhc2ktMDEtcGVyc2VuLWdlZ2FyYS1iYXdhbmctbWVyYWg=",
         "description": " Survei Bank Indonesia (BI) memprediksi deflasi 0,1 persen pada pekan kedua Agustus 2022 karena penurunan harga bawang merah hingga minyak goreng."
-    },
-    {
-        "title": "BPH Migas Yakin Potensi Penjualan Pertalite Ilegal Kecil",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220812170904-85-833983/bph-migas-yakin-potensi-penjualan-pertalite-ilegal-kecil",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEyMTcwOTA0LTg1LTgzMzk4My9icGgtbWlnYXMteWFraW4tcG90ZW5zaS1wZW5qdWFsYW4tcGVydGFsaXRlLWlsZWdhbC1rZWNpbA==",
-        "description": " BPH Migas meyakini potensi penjualan pertalite ilegal usai kebijakan pembatasan yang diterapkan Pertamina sangatlah kecil."
     }
 ]
