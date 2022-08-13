@@ -1,5 +1,19 @@
 [
     {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514568/hari-terakhir-pendaftaran-peserta-pemilu-2024-dua-parpol-belum-konfirmasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQ1NjgvaGFyaS10ZXJha2hpci1wZW5kYWZ0YXJhbi1wZXNlcnRhLXBlbWlsdS0yMDI0LWR1YS1wYXJwb2wtYmVsdW0ta29uZmlybWFzaQ==",
+        "description": "KOMISI Pemilihan Umum (KPU) RI menyatakan ada dua partai politik (parpol) yang belum melakukan konfirmasi untuk mendaftar sebagai peserta Pemilu&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/514526/sudoku-edisi-14-agustus-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNDUyNi9zdWRva3UtZWRpc2ktMTQtYWd1c3R1cy0yMDIy",
+        "description": "SUDOKU atau dikenal juga dengan tebak angka (number place)"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/514577/ten-hag-minta-penggemar-tidak-salahkan-pemain-usai-mu-jadi-juru-kunci-klasemen",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNDU1OC9tYXJ5YXRpLWRhbi1hZHJpYW4tbWFyZGlhbi1ha2hpci1tYW5pcy1rZWdpZ2loYW4taWJ1LWRhbi1hbmFr",
         "description": "KISAH perjuangan untuk bertemu kembali juga dialami Maryati dan anaknya Adrian Mardiansyah. Maryati terpisah dari buah hati yang akrab disapa Ryyan itu selama 16 tahun. Mereka akhirnya bisa&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514573/neymar-dan-mbappe-cetak-gol-psg-hantam-montpellier",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDU3My9uZXltYXItZGFuLW1iYXBwZS1jZXRhay1nb2wtcHNnLWhhbnRhbS1tb250cGVsbGllcg==",
-        "description": "NEYMAR melanjutkan performa apiknya di pembuka musim Ligue 1 dengan mencetak dua gol sementara Kylian Mbappe menandai kembalinya&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/514555/trena-mustika-dan-treni-fitriyana-liku-takdir-si-kembar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNDU1NS90cmVuYS1tdXN0aWthLWRhbi10cmVuaS1maXRyaXlhbmEtbGlrdS10YWtkaXItc2kta2VtYmFy",
-        "description": " EPISODE berjudul Menemukan Akar yang Hilang yang tayang malam ini menghadirkan orangorang yang baru dapat bersatu lagi dengan keluarga setelah lama terpisahkan. Kisah pertama ialah Trena Mustika&#8230;"
     }
 ]
