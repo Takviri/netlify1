@@ -1,5 +1,19 @@
 [
     {
+        "title": "Ramai Orang Terkaya Dunia Danai Cari Harta Karun di Sini",
+        "link": "https://www.cnbcindonesia.com/news/20220813174931-4-363522/ramai-orang-terkaya-dunia-danai-cari-harta-karun-di-sini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMzE3NDkzMS00LTM2MzUyMi9yYW1haS1vcmFuZy10ZXJrYXlhLWR1bmlhLWRhbmFpLWNhcmktaGFydGEta2FydW4tZGktc2luaQ==",
+        "description": " Beberapa figur terkaya dunia dilaporkan beramai-ramai mendanai kegiatan eksplorasi mineral di wilayah Greenland."
+    },
+    {
+        "title": "Awas! Covid RI Masih Tinggi, Ada 19 Meninggal Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220813184432-16-363533/awas-covid-ri-masih-tinggi-ada-19-meninggal-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMzE4NDQzMi0xNi0zNjM1MzMvYXdhcy1jb3ZpZC1yaS1tYXNpaC10aW5nZ2ktYWRhLTE5LW1lbmluZ2dhbC1oYXJpLWluaQ==",
+        "description": " Penambahan kasus covid-19 di Indonesia bertambah 5.104 kasus pada Sabtu (13/8/2022)."
+    },
+    {
         "title": "Perkenalkan Langya, Virus Baru Bahaya dari China",
         "link": "https://www.cnbcindonesia.com/news/20220813173736-4-363520/perkenalkan-langya-virus-baru-bahaya-dari-china",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMzE2MjYyMS00LTM2MzUwNy9iZWEtYmFsaWstbmFtYS1rZW5kYXJhYW4tYmVrYXMtZGl1c3Vsa2FuLWdyYXRpcw==",
         "description": " Pemerintah daerah dapat menghapus Pajak Progresif dan Bea Balik Nama Kendaraan Bermotor Atas Kendaraan Bekas (BBN 2)."
-    },
-    {
-        "title": "Kiamat PNS Nyata, Jabatan 'Terlaris' Ini Akan Hilang Duluan",
-        "link": "https://www.cnbcindonesia.com/news/20220813161208-4-363497/kiamat-pns-nyata-jabatan-terlaris-ini-akan-hilang-duluan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxMzE2MTIwOC00LTM2MzQ5Ny9raWFtYXQtcG5zLW55YXRhLWphYmF0YW4tdGVybGFyaXMtaW5pLWFrYW4taGlsYW5nLWR1bHVhbg==",
-        "description": " Pengurangan jumlah pegawai negeri sipil (PNS) mungkin akan segera terjadi."
-    },
-    {
-        "title": "Usai China, Giliran Taiwan Latihan Militer di Selat Taiwan",
-        "link": "https://www.cnbcindonesia.com/news/20220808143026-7-361966/usai-china-giliran-taiwan-latihan-militer-di-selat-taiwan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgwODE0MzAyNi03LTM2MTk2Ni91c2FpLWNoaW5hLWdpbGlyYW4tdGFpd2FuLWxhdGloYW4tbWlsaXRlci1kaS1zZWxhdC10YWl3YW4=",
-        "description": " Taiwan kembali menggelar latihan militer pada Jumat (12/8) waktu setempat."
     }
 ]
