@@ -1,5 +1,19 @@
 [
     {
+        "title": "Hikayat Menjaga Taman Nasional Kerinci Seblat",
+        "link": "https://www.cnnindonesia.com/nasional/20220813105532-20-834191/hikayat-menjaga-taman-nasional-kerinci-seblat",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMzEwNTUzMi0yMC04MzQxOTEvaGlrYXlhdC1tZW5qYWdhLXRhbWFuLW5hc2lvbmFsLWtlcmluY2ktc2VibGF0",
+        "description": " Taman Nasional Kerinci Seblat atau TNKS berpuluh tahun menghadapi perambahan. Kini warga bahu-membahu menjaga hutan dan mendapatkan kesejahteraan setelahnya."
+    },
+    {
+        "title": "Pertama di Indonesia, Kibaran Merah Putih Raksasa di Teluk Mamuju",
+        "link": "https://www.cnnindonesia.com/nasional/20220813110910-25-834194/pertama-di-indonesia-kibaran-merah-putih-raksasa-di-teluk-mamuju",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMzExMDkxMC0yNS04MzQxOTQvcGVydGFtYS1kaS1pbmRvbmVzaWEta2liYXJhbi1tZXJhaC1wdXRpaC1yYWtzYXNhLWRpLXRlbHVrLW1hbXVqdQ==",
+        "description": " Untuk pertama kalinya, pengibaran\u00c2\u00a0Sang Saka Merah Putih ini dilakukan di atas permukaan laut."
+    },
+    {
         "title": "Koalisi, Capres dan Cawapres PKB-Gerindra di Tangan Prabowo-Cak Imin",
         "link": "https://www.cnnindonesia.com/nasional/20220813113337-32-834198/koalisi-capres-dan-cawapres-pkb-gerindra-di-tangan-prabowo-cak-imin",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMzA5NTExMi0zMi04MzQxODIvY2FrLWltaW4taGFkaXJpLXJhcGltbmFzLWdlcmluZHJhLWRpc2FtYnV0LWhhbmdhdC1wcmFib3dv",
         "description": " Cak Imin bersama Prabowo tampak hangat saat menghadiri Rapimnas Gerindra di kawasan Sentul, Bogor, Jawa Barat, Sabtu (13/8)."
-    },
-    {
-        "title": "Prabowo: Lebih Baik Gerindra Bubar daripada Berkhianat ke Rakyat",
-        "link": "https://www.cnnindonesia.com/nasional/20220813084243-32-834168/prabowo-lebih-baik-gerindra-bubar-daripada-berkhianat-ke-rakyat",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMzA4NDI0My0zMi04MzQxNjgvcHJhYm93by1sZWJpaC1iYWlrLWdlcmluZHJhLWJ1YmFyLWRhcmlwYWRhLWJlcmtoaWFuYXQta2UtcmFreWF0",
-        "description": " Ketua Umum Partai Gerindra Prabowo Subianto menyatakan bakal maju sebagai calon presiden 2024."
-    },
-    {
-        "title": "Update Lengkap Kasus Pembunuhan Brigadir J di Rumah Ferdy Sambo",
-        "link": "https://www.cnnindonesia.com/nasional/20220812202646-12-834102/update-lengkap-kasus-pembunuhan-brigadir-j-di-rumah-ferdy-sambo",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxMjIwMjY0Ni0xMi04MzQxMDIvdXBkYXRlLWxlbmdrYXAta2FzdXMtcGVtYnVudWhhbi1icmlnYWRpci1qLWRpLXJ1bWFoLWZlcmR5LXNhbWJv",
-        "description": " Temuan baru terkait kasus penembakan Brigadir Yosua Hutabarat atau Brigadir J. Termasuk pengakuan Sambo soal menjadi aktor utama pembunuhan."
     }
 ]
