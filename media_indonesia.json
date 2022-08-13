@@ -1,5 +1,40 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514577/ten-hag-minta-penggemar-tidak-salahkan-pemain-usai-mu-jadi-juru-kunci-klasemen",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDU3Ny90ZW4taGFnLW1pbnRhLXBlbmdnZW1hci10aWRhay1zYWxhaGthbi1wZW1haW4tdXNhaS1tdS1qYWRpLWp1cnUta3VuY2kta2xhc2VtZW4=",
+        "description": "MANAJER Manchester United Erik ten Hag menegaskan dirinya bertanggung jawab penuh atas kekalahan telak 4-0 di kandang Brentford, Minggu (14/8) dini hari WIB, yang menyebabkan Setan Merah menjadi juru&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/514522/jon-bodo-lomba-agustusan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNDUyMi9qb24tYm9kby1sb21iYS1hZ3VzdHVzYW4=",
+        "description": "JON...bagi kerupuknya donk"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/514576/popovici-pecahkan-rekor-dunia-renang-nomor-100-meter-gaya-bebas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTQ1NzYvcG9wb3ZpY2ktcGVjYWhrYW4tcmVrb3ItZHVuaWEtcmVuYW5nLW5vbW9yLTEwMC1tZXRlci1nYXlhLWJlYmFz",
+        "description": "PERENANG Rumania David Popovici memecahkan rekor dunia renang 100 meter gaya bebas di Kejuaraan Eropa di Roma, Sabtu (13/8). &quot;Rasanya&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/514575/kalahkan-pegula-halep-melaju-ke-final-toronto-masters",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTQ1NzUva2FsYWhrYW4tcGVndWxhLWhhbGVwLW1lbGFqdS1rZS1maW5hbC10b3JvbnRvLW1hc3RlcnM=",
+        "description": "SIMONA Halep mengalahkan Jessica Pegula 2-6, 6-3, dan 6-4 untuk melaju ke final Toronto Masters, Sabtu (14/8). Mantan&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/514521/bung-sentil-polisi-baik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNDUyMS9idW5nLXNlbnRpbC1wb2xpc2ktYmFpaw==",
+        "description": "WAAAHH, gilaakk!!! Pekan ini kita berada dalam sejarah sangat memalukan Kepolisian Indonesia\n&nbsp;"
+    },
+    {
         "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/514559/reinhard-dan-deiby-selvia-bira-suara-merdu-pengantar-pertemuan",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNDU1NS90cmVuYS1tdXN0aWthLWRhbi10cmVuaS1maXRyaXlhbmEtbGlrdS10YWtkaXItc2kta2VtYmFy",
         "description": " EPISODE berjudul Menemukan Akar yang Hilang yang tayang malam ini menghadirkan orangorang yang baru dapat bersatu lagi dengan keluarga setelah lama terpisahkan. Kisah pertama ialah Trena Mustika&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514572/arema-menang-di-kandang-bali-united",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDU3Mi9hcmVtYS1tZW5hbmctZGkta2FuZGFuZy1iYWxpLXVuaXRlZA==",
-        "description": "AREMA FC mencetak kemenangan 2-1 atas Bali United FC pada pertandingan ketiga Liga 1 Indonesia 2022/2023 di Stadion Kapten I Wayan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514571/milan-buka-musim-dengan-hajar-udinese",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDU3MS9taWxhbi1idWthLW11c2ltLWRlbmdhbi1oYWphci11ZGluZXNl",
-        "description": "AC Milan mengawali upaya mempertahankan gelar Serie A dengan menang 4-2 atas Udinese pada pertandingan pertama Serie A musim ini,&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/514530/kemandirian-pangan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTQ1MzAva2VtYW5kaXJpYW4tcGFuZ2Fu",
-        "description": "KITA barangkali bisa menyebut dengan mudah bahan makanan yang terbuat dari pisang. Mulai kue pisang, keripik, kolak, sirup, hingga pisang goreng. Begitu pula dengan singkong dan ketela. Semua komoditas&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514570/bermain-dengan-10-pemain-monaco-bermain-imbang-dengan-rennes",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDU3MC9iZXJtYWluLWRlbmdhbi0xMC1wZW1haW4tbW9uYWNvLWJlcm1haW4taW1iYW5nLWRlbmdhbi1yZW5uZXM=",
-        "description": "KESALAHAN mengerikan yang dilakukan kiper pengganti Dogan Alemdar membuat Breel Embolo menyamakan kedudukan ketika Monaco bangkit setelah tersisih dari babak kualifikasi Liga Champions, tengah pekan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514569/kembali-ke-leipzig-werner-langsung-cetak-gol",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDU2OS9rZW1iYWxpLWtlLWxlaXB6aWctd2VybmVyLWxhbmdzdW5nLWNldGFrLWdvbA==",
-        "description": "MANTAN striker Chelsea Timo Werner mencetak gol dalam reuninya dengan RB Leipzig. Tetapi, gol itu tidak cukup mengamankan kemenangan pertama timnya musim ini setelah ditahan imbang Cologne 2-2 di laga&#8230;"
     }
 ]
