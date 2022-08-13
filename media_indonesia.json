@@ -1,5 +1,47 @@
 [
     {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/514402/intoleransi-di-sman-58-jakarta-effendi-sudah-tidak-ada-persoalan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTQ0MDIvaW50b2xlcmFuc2ktZGktc21hbi01OC1qYWthcnRhLWVmZmVuZGktc3VkYWgtdGlkYWstYWRhLXBlcnNvYWxhbg==",
+        "description": "PERISTIWA intoleransi sejatinya tidak dapat dibenarkan, khususnya di lingkungan sekolah. Tahun 2020, seorang oknum guru dari SMAN 58 Jakarta berinisial TS sempat mengirimkan pesan jangan memilih ketua&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514401/kista-fisiologis-yang-datang-dan-pergi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0NDAxL2tpc3RhLWZpc2lvbG9naXMteWFuZy1kYXRhbmctZGFuLXBlcmdp",
+        "description": "MASYARAKAT umumnya takut jika memiliki kista pada organ tubuhnya. Padahal, kista tidak selamanya mengerikan. Terdapat kista yang tidak perlu obat ataupun operasi akan sembuh dengan sendirinya, yang&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514400/kuasa-hukum-nizar-dahlan-yakin-menang-di-praperadilan-lawan-kpk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQ0MDAva3Vhc2EtaHVrdW0tbml6YXItZGFobGFuLXlha2luLW1lbmFuZy1kaS1wcmFwZXJhZGlsYW4tbGF3YW4ta3Br",
+        "description": "HAKIM Pengadilan Negeri (PN) Jakarta Selatan (Jaksel) menetapkan putusan praperadilan Kader Senior Partai Persatuan Pembangunan (PPP) Nizar Dahlan, melawan Komisi Pemberantasan Korupsi (KPK) pada Senin&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514399/pssi-kucurkan-bonus-rp500-juta-pada-timnas-u-16-yang-juarai-piala-aff",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDM5OS9wc3NpLWt1Y3Vya2FuLWJvbnVzLXJwNTAwLWp1dGEtcGFkYS10aW1uYXMtdS0xNi15YW5nLWp1YXJhaS1waWFsYS1hZmY=",
+        "description": "KETUA Umum PSSI Mochamad Iriawan mengatakan pihaknya memberikan bonus sebesar Rp500 juta kepada tim nasional (timnas) U-16 yang berhasil menjuarai Piala AFF U-16 2022. &quot;Alhamdulillah kami&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/514397/hut-ri-bendera-merah-putih-siap-dikibarkan-pemuda-aceh-di-puncak-gunung-halimun",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0Mzk3L2h1dC1yaS1iZW5kZXJhLW1lcmFoLXB1dGloLXNpYXAtZGlraWJhcmthbi1wZW11ZGEtYWNlaC1kaS1wdW5jYWstZ3VudW5nLWhhbGltdW4=",
+        "description": "SEPULUH orang muda-mudi pencinta alam yang tergabung dalam tim Ekspedisi Merdeka, akan mengibarkan bendera sangsaka merah putih di puncak Gunung Halimun, Kabupaten Pidie Provinsi Aceh. Pengibaran merah&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514398/sambut-hut-ri-ke-77-lewat-seni-mural",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0Mzk4L3NhbWJ1dC1odXQtcmkta2UtNzctbGV3YXQtc2VuaS1tdXJhbA==",
+        "description": "MENYAMBUT HUT ke-77 Kemerdekaan Republik Indonesia, Komunitas Kolaborasi bersama Jakarta Art Movement membuat mural di beberapa titik wilayah Jakarta. Seni Mural yang dibuat tahun ini bertemakan kemandirian&#8230;"
+    },
+    {
         "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/514351/lebih-privat-dengan-3-fitur-baru-whatsapp",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDM4OS9iYXJjZWxvbmEtYnVrYW4tbWFuY2hlc3Rlci11bml0ZWQ=",
         "description": "KETIKA November tahun lalu diminta kembali ke Barcelona, Xavi Hernandez sadar bahwa ia dibutuhkan untuk menyelamatkan klub yang pernah membesarkannya agar tidak semakin terpuruk. Namun, mantan playmaker&nbsp;terbaik&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514395/isi-kemerdekaan-ri-smkpp-kementan-tanam-77-pohon-di-banjarbaru",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0Mzk1L2lzaS1rZW1lcmRla2Fhbi1yaS1zbWtwcC1rZW1lbnRhbi10YW5hbS03Ny1wb2hvbi1kaS1iYW5qYXJiYXJ1",
-        "description": "DALAM rangka menyemarakkan peringatan HUT Kemerdekaan RI ke-77, 17 Agustus 2022, Banjarbaru, Provinsi Kalimantan Selatan, Kamis [11/8]. Kepala SMK PPN Banjarbaru, Budi Santoso mengatakan kegiatan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514370/teras-narang-ruu-masyarakat-hukum-adat-mendesak-diundangkan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQzNzAvdGVyYXMtbmFyYW5nLXJ1dS1tYXN5YXJha2F0LWh1a3VtLWFkYXQtbWVuZGVzYWstZGl1bmRhbmdrYW4=",
-        "description": "PENDIRI Pusat Kajian Otonomi Daerah Fakultas Hukum Universitas Kristen Indonesia (PUSKOD FH UKI) Dr. Teras Narang mengatakan, Rancangan Undang-undang atau RUU masyarakat adat seharusnya segera menjadi&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/514376/inspirasi-damai-aceh-ke-ukraina",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTQzNzYvaW5zcGlyYXNpLWRhbWFpLWFjZWgta2UtdWtyYWluYQ==",
-        "description": "TOKOH nasional Surya Paloh menyebutkan Aceh saat ini kalah maju jika dibandingkan dengan provinsi lain, baik dari segi fisik maupun nonfisik. Surya Paloh menuturkan harus diakui hari ini Aceh sudah&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/514373/ironi-filantropi-dan-pengepul-donasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTQzNzMvaXJvbmktZmlsYW50cm9waS1kYW4tcGVuZ2VwdWwtZG9uYXNp",
-        "description": "BERITA tentang lembaga filantropi beken diterpa masalah sedang ramai beberapa pekan terakhir ini. Mereka sedang tidak baik-baik saja. Aksi Cepat Tanggap (ACT) dikenal sebagai lembaga filantropi yang&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/514390/new-xpander-cross-bukan-sekadar-facelift",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQzOTAvbmV3LXhwYW5kZXItY3Jvc3MtYnVrYW4tc2VrYWRhci1mYWNlbGlmdA==",
-        "description": "BERTEPATAN dengan diresmikannya pameran otomotif Gaikindo Indonesia International Auto Show (GIIAS) 2022 pada Kamis (11/8), PT Mitsubishi Motors Krama Yudha Sales Indonesia (MMKSI) juga secara resmi&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514388/jamu-psis-persib-bertekad-pecah-telor-kemenangan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDM4OC9qYW11LXBzaXMtcGVyc2liLWJlcnRla2FkLXBlY2FoLXRlbG9yLWtlbWVuYW5nYW4=",
-        "description": "WALAU tanpa pelatih definitif, Persib Bandung tetap menargetkan kemenangan pada laga menjamu PSIS Semarang dalam lanjutan Liga 1 2022-2023 di Stadion Gelora Bandung Lautan Api (GBLA), Sabtu (13/8).&#8230;"
     }
 ]
