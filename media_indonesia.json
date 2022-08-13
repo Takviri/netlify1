@@ -1,5 +1,54 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514491/pendidikan-indonesia-pulih-lebih-cepat-dan-bangkit-lebih-kuat-dengan-dukungan-teknologi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0NDkxL3BlbmRpZGlrYW4taW5kb25lc2lhLXB1bGloLWxlYmloLWNlcGF0LWRhbi1iYW5na2l0LWxlYmloLWt1YXQtZGVuZ2FuLWR1a3VuZ2FuLXRla25vbG9naQ==",
+        "description": "PROSES pembelajaran di era pandemi memaksa tenaga pendidik, peserta didik, dan orang tua untuk beralih menggunakan teknologi. Saat ini, dalam pemulihan pembelajaran pascapandemi, Kementerian Pendidikan,&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/514497/paspor-ri-ditolak-di-jerman-ini-solusi-dari-ditjen-imigrasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNDQ5Ny9wYXNwb3ItcmktZGl0b2xhay1kaS1qZXJtYW4taW5pLXNvbHVzaS1kYXJpLWRpdGplbi1pbWlncmFzaQ==",
+        "description": "DIREKTORAT Jenderal (Ditjen) Imigrasi Kementerian Hukum dan Hak Asasi (Kemenkumham) RI mengatakan pemegang paspor tanpa kolom tanda tangan tujuan Jerman bisa mengajukan pengesahan tanda tangan ke kantor&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514496/sepuluh-parpol-belum-lengkapi-berkas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQ0OTYvc2VwdWx1aC1wYXJwb2wtYmVsdW0tbGVuZ2thcGktYmVya2Fz",
+        "description": "KOMISI Pemilihan Umum (KPU) menyebut jumlah partai politik (parpol) yang dinyatakan belum melengkapi berkas peserta Pemilu 2024 bertambah. Pada Sabtu, 13 Agustus 2022 terdapat penambahan dua parpol,&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/514495/bea-cukai-bawa-umkm-naik-kelas-ekonomi-tancap-gas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDQ5NS9iZWEtY3VrYWktYmF3YS11bWttLW5haWsta2VsYXMtZWtvbm9taS10YW5jYXAtZ2Fz",
+        "description": "USAHA Mikro Kecil dan Menengah (UMKM) memiliki peran besar dalam meningkatkan perekonomian dan menjamin kesejahteraan masyarakat Indonesia. Bea Cukai, sebagai instansi kepabeanan yang mengemban&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/514490/dua-tahun-absen-karena-pandemi-jakarta-marathon-kembali-digelar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTQ0OTAvZHVhLXRhaHVuLWFic2VuLWthcmVuYS1wYW5kZW1pLWpha2FydGEtbWFyYXRob24ta2VtYmFsaS1kaWdlbGFy",
+        "description": "MEDIA Group Netwok (MGN) kembali berpartisipasi dalam kegiatan Jakarta Marathon yang rencananya digelar pada 16 Oktober mendatang. Setelah dua tahun vakum karena pandemi covid-19, ajang lomba&#8230;"
+    },
+    {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/514493/toyota-hadirkan-sports-car-all-new-gr86-dan-5-model-gr-sport-baru-di-giias-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQ0OTMvdG95b3RhLWhhZGlya2FuLXNwb3J0cy1jYXItYWxsLW5ldy1ncjg2LWRhbi01LW1vZGVsLWdyLXNwb3J0LWJhcnUtZGktZ2lpYXMtMjAyMg==",
+        "description": "BERKOMITMEN untuk menghadirkan Joy of GAZOO Racing (GR) ke seluruh masyarakat Indonesia, PT Toyota-Astra Motor (TAM) memperkenalkan 6 model baru GAZOO Racing sekaligus di booth Toyota Hall&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514492/buronan-kpk-dan-kejaksaan-agung-surya-darmadi-akan-ke-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQ0OTIvYnVyb25hbi1rcGstZGFuLWtlamFrc2Fhbi1hZ3VuZy1zdXJ5YS1kYXJtYWRpLWFrYW4ta2UtaW5kb25lc2lh",
+        "description": "TERSANGKA kasus korupsi penguasaan lahan sawit Surya Darmadi akan kembali ke Indonesia. Darmadi bakal bawa bukti untuk membantah dugaan korupsi yang disangkakan kepadanya. &quot;Pak Surya Darmadi&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/514486/hadapi-chelsea-tottenham-belum-bisa-mainkan-lenglet",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQ0ODcvYW5hay1idWFoLWthcGFsLWRpaGFyYXAtcGF0dWhpLWh1a3VtLWRpLW5lZ2FyYS1sYWlu",
         "description": "PENGAMAT maritim Marcellus Hakeng Jayawibawa mengungkapkan keprihatian atas 4 anak buah kapal warga negara Indonesia (ABK WNI) yang ditahan Sea Guard Tiongkok. Kejadian itu viral di kalangan warganet.&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/514485/toyota-hadirkan-komplit-teknologi-kendaraan-elektrifikasi-di-giias-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQ0ODUvdG95b3RhLWhhZGlya2FuLWtvbXBsaXQtdGVrbm9sb2dpLWtlbmRhcmFhbi1lbGVrdHJpZmlrYXNpLWRpLWdpaWFzLTIwMjI=",
-        "description": "MEMBAWA tema &ldquo;Let&rsquo;s Go Beyond&rdquo; sebagai semangat Toyota diperhelatan Gaikindo Indonesia International Auto Show (GIIAS) 2022 yang berlangsung di ICE BSD City, Tangerang &ndash;&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514484/dua-kecamatan-di-pangandaran-tergenang-akibat-luapan-sungai",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NDg0L2R1YS1rZWNhbWF0YW4tZGktcGFuZ2FuZGFyYW4tdGVyZ2VuYW5nLWFraWJhdC1sdWFwYW4tc3VuZ2Fp",
-        "description": "INTENSITAS hujan tinggi yang terjadi di berbagai wilayah telah menyebabkan Sungai Citumang dan Sungai Cijolang meluap dan menggenangi permukiman warga di Desa Bojong, Kecamatan Parigi, dan Desa Cikalong,&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/514483/komisi-iv-dpr-dukung-kementan-perluas-subtitusi-pangan-lokal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDQ4My9rb21pc2ktaXYtZHByLWR1a3VuZy1rZW1lbnRhbi1wZXJsdWFzLXN1YnRpdHVzaS1wYW5nYW4tbG9rYWw=",
-        "description": "ANGGOTA Komisi IV DPR RI, Muhammad Syafrudin merespoms positif upaya Kementerian Pertanian (Kementan) dalam meningkatkan perluasan subtitusi pangan lokal sorgum. Menurutnya, perluasan tersebut merupakan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514482/erick-thohir-berharap-milenial-kian-tertarik-kenali-sejarah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0NDgyL2VyaWNrLXRob2hpci1iZXJoYXJhcC1taWxlbmlhbC1raWFuLXRlcnRhcmlrLWtlbmFsaS1zZWphcmFo",
-        "description": "MENTERI Badan Usaha Milik Negara (BUMN) Erick Thohir berharap generasi milenial Indonesia kian tertarik mempelajari sejarah bangsa. Hal itu diungkapkan Erick saat menghadiri pembukaan Pameran Arsip&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/514481/bos-judi-online-diduga-aniaya-eks-karyawan-di-jakut",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTQ0ODEvYm9zLWp1ZGktb25saW5lLWRpZHVnYS1hbmlheWEtZWtzLWthcnlhd2FuLWRpLWpha3V0",
-        "description": "PRIA berinisial J, 22, melaporkan bos perusahaan judi daring (online) yang beroperasi di Penjaringan, Jakarta Utara, terkait dugaan penganiayaan. Laporan J teregister dengan nomor LP/B/289/IV/2022/SPKT/POLRES&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/514480/pelaku-penusukan-salman-rushdie-ditangkap",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNDQ4MC9wZWxha3UtcGVudXN1a2FuLXNhbG1hbi1ydXNoZGllLWRpdGFuZ2thcA==",
-        "description": "KEPOLISIAN Amerika Serikat mengidentifikasi Hadi Matar, 24, dari New Jersey, sebagai pelaku penusukan terhadap penulis kontroversial Salman Rushdie, 75. Surat kabar ultrakonservatif Iran Kayhan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514478/jemaah-haji-kloter-8-debarkasi-padang-tiba-di-tanah-air",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NDc4L2plbWFhaC1oYWppLWtsb3Rlci04LWRlYmFya2FzaS1wYWRhbmctdGliYS1kaS10YW5haC1haXI=",
-        "description": "JEMAAH haji kloter 8 Debarkasi Padang tiba dengan selamat di Bandara Internasional Minangkabau (BIM), Kabupaten Padang Pariaman, Sumatra Barat, Sabtu (13/8). Tampak raut bahagia terlukis dari&#8230;"
     }
 ]
