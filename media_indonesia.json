@@ -1,5 +1,33 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514486/hadapi-chelsea-tottenham-belum-bisa-mainkan-lenglet",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDQ4Ni9oYWRhcGktY2hlbHNlYS10b3R0ZW5oYW0tYmVsdW0tYmlzYS1tYWlua2FuLWxlbmdsZXQ=",
+        "description": "PELATIH Tottenham Hotspur Antonio Conte memastikan ia belum bisa memainkan bek anyar Clement Lenglet ketika menghadapi Chelsea pada pekan kedua Liga Primer Inggris di Stadion Stamford Bridge, London,&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514489/parade-upaya-menuju-penetapan-hari-kebaya-nasional",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0NDg5L3BhcmFkZS11cGF5YS1tZW51anUtcGVuZXRhcGFuLWhhcmkta2ViYXlhLW5hc2lvbmFs",
+        "description": "SELAIN sebagai rangkaian perayaan kemerdekaan Indonesia, Parade Kebaya Nusantara juga ditujukan menjadi kampanye penetapan hari kebaya nasional dan pengajuan warisan budaya Indonesia ke UNESCO.&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514487/anak-buah-kapal-diharap-patuhi-hukum-di-negara-lain",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQ0ODcvYW5hay1idWFoLWthcGFsLWRpaGFyYXAtcGF0dWhpLWh1a3VtLWRpLW5lZ2FyYS1sYWlu",
+        "description": "PENGAMAT maritim Marcellus Hakeng Jayawibawa mengungkapkan keprihatian atas 4 anak buah kapal warga negara Indonesia (ABK WNI) yang ditahan Sea Guard Tiongkok. Kejadian itu viral di kalangan warganet.&#8230;"
+    },
+    {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/514485/toyota-hadirkan-komplit-teknologi-kendaraan-elektrifikasi-di-giias-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQ0ODUvdG95b3RhLWhhZGlya2FuLWtvbXBsaXQtdGVrbm9sb2dpLWtlbmRhcmFhbi1lbGVrdHJpZmlrYXNpLWRpLWdpaWFzLTIwMjI=",
+        "description": "MEMBAWA tema &ldquo;Let&rsquo;s Go Beyond&rdquo; sebagai semangat Toyota diperhelatan Gaikindo Indonesia International Auto Show (GIIAS) 2022 yang berlangsung di ICE BSD City, Tangerang &ndash;&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/514484/dua-kecamatan-di-pangandaran-tergenang-akibat-luapan-sungai",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NDc4L2plbWFhaC1oYWppLWtsb3Rlci04LWRlYmFya2FzaS1wYWRhbmctdGliYS1kaS10YW5haC1haXI=",
         "description": "JEMAAH haji kloter 8 Debarkasi Padang tiba dengan selamat di Bandara Internasional Minangkabau (BIM), Kabupaten Padang Pariaman, Sumatra Barat, Sabtu (13/8). Tampak raut bahagia terlukis dari&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/514479/pertamina-pastikan-stok-bbm-subsidi-masih-dalam-posisi-aman",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDQ3OS9wZXJ0YW1pbmEtcGFzdGlrYW4tc3Rvay1iYm0tc3Vic2lkaS1tYXNpaC1kYWxhbS1wb3Npc2ktYW1hbg==",
-        "description": "ISU kenaikan harga BBM makin memanas. Meskipun demikian, PT Pertamina (Persero) memastikan bahwa sampai saat ini stok BBM nasional masih dalam posisi aman. Corporate Secretary Pertamina Patra&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514477/lpsk-tidak-bisa-beri-perlindungan-kepada-istri-sambo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQ0NzcvbHBzay10aWRhay1iaXNhLWJlcmktcGVybGluZHVuZ2FuLWtlcGFkYS1pc3RyaS1zYW1ibw==",
-        "description": "LEMBAGA Perlindungan Saksi dan Korban (LPSK) tidak bisa memberikan perlindungan terhadap istri Ferdy Sambo, Putri Candrawathi yang meminta perlindungan setelah mengaku sebagai korban pelecehan seksual&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514476/pembangunan-ikn-berjalan-tni-tambah-personel-pengamanan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NDc2L3BlbWJhbmd1bmFuLWlrbi1iZXJqYWxhbi10bmktdGFtYmFoLXBlcnNvbmVsLXBlbmdhbWFuYW4=",
-        "description": "UNTUK mengawal pembangunan di wilayah Ibu Kota Negara (IKN) Nusantara, Komando Distrik Militer (Kodim) 0913/Penajam Paser Utara (PPU) di Kalimantan Timur (Kaltim) melakukan operasi pengamanan. Operasi&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514475/tim-sar-temukan-nelayan-terseret-arus-di-perairan-jembrana",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NDc1L3RpbS1zYXItdGVtdWthbi1uZWxheWFuLXRlcnNlcmV0LWFydXMtZGktcGVyYWlyYW4tamVtYnJhbmE=",
-        "description": "WARGA Desa Yeh Sumbul, Kabupaten Jembrana, Bali, Budianto, 23, yang sebelumnya dikabarkan hilang terseret arus di Yeh Sumbul akhirnya ditemukan, Sabtu (13/8) siang, sudah kondisi meninggal dunia.&#8230;"
     }
 ]
