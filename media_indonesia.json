@@ -1,6 +1,13 @@
 [
     {
         "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514566/dibekap-brentford-manchester-united-juru-kunci-klasemen-liga-primer-inggris",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDU2Ni9kaWJla2FwLWJyZW50Zm9yZC1tYW5jaGVzdGVyLXVuaXRlZC1qdXJ1LWt1bmNpLWtsYXNlbWVuLWxpZ2EtcHJpbWVyLWluZ2dyaXM=",
+        "description": "KIPRAH buruk Manchester United di awal musim Liga Primer Inggris berlanjut setelah mereka dipermalukan Brentford 4-0,&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/514565/city-hajar-bournemouth-di-etihad",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDU2NS9jaXR5LWhhamFyLWJvdXJuZW1vdXRoLWRpLWV0aWhhZA==",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NTUzL3RpdGlrLWFwaS1iZXJ0YW1iYWgtMTAta2FsaS1saXBhdC1zdW11dC1zaWFnYS1rYXJodXRsYQ==",
         "description": "PEMERINTAH Sumatra Utara meminta seluruh pihak terkait bersiaga menangani kebakaran hutan dan lahan (karhutla) karena titik api bertambah signifikan beberapa waktu terakhir. Gubernur Sumut Edy&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514550/hujan-meteor-perseid-bisa-dilihat-mulai-malam-ini-hingga-besok",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0NTUwL2h1amFuLW1ldGVvci1wZXJzZWlkLWJpc2EtZGlsaWhhdC1tdWxhaS1tYWxhbS1pbmktaGluZ2dhLWJlc29r",
-        "description": "PENELITI ahli utama di Pusat Riset dan Atmosfer Badan Riset dan&nbsp; Inovasi Nasional (BRIN) Thomas Djamaluddin mengatakan puncak hujan meteor perseid dapat disaksikan pada 13 Agustus dan 14 Agustus&#8230;"
     }
 ]
