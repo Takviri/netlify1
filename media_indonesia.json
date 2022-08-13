@@ -1,5 +1,40 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/514553/titik-api-bertambah-10-kali-lipat-sumut-siaga-karhutla",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NTUzL3RpdGlrLWFwaS1iZXJ0YW1iYWgtMTAta2FsaS1saXBhdC1zdW11dC1zaWFnYS1rYXJodXRsYQ==",
+        "description": "PEMERINTAH Sumatra Utara meminta seluruh pihak terkait bersiaga menangani kebakaran hutan dan lahan (karhutla) karena titik api bertambah signifikan beberapa waktu terakhir. Gubernur Sumut Edy&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514550/hujan-meteor-perseid-bisa-dilihat-mulai-malam-ini-hingga-besok",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0NTUwL2h1amFuLW1ldGVvci1wZXJzZWlkLWJpc2EtZGlsaWhhdC1tdWxhaS1tYWxhbS1pbmktaGluZ2dhLWJlc29r",
+        "description": "PENELITI ahli utama di Pusat Riset dan Atmosfer Badan Riset dan&nbsp; Inovasi Nasional (BRIN) Thomas Djamaluddin mengatakan puncak hujan meteor perseid dapat disaksikan pada 13 Agustus dan 14 Agustus&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514551/meraup-cuan-sebagai-kreator-konten",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0NTUxL21lcmF1cC1jdWFuLXNlYmFnYWkta3JlYXRvci1rb250ZW4=",
+        "description": "MELAKUKAN branding di era digital harus jeli dalam mengemas konten yang akan disampaikan. Kejelian mengemas pesan yang ditujukan kepada masyarakat menjadi kunci sukses. &quot;Di era&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/514552/perlindungan-data-pribadi-penting-untuk-cegah-kerugian-dari-aktivitas-digital",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE0NTUyL3BlcmxpbmR1bmdhbi1kYXRhLXByaWJhZGktcGVudGluZy11bnR1ay1jZWdhaC1rZXJ1Z2lhbi1kYXJpLWFrdGl2aXRhcy1kaWdpdGFs",
+        "description": "PENGGUNAAN internet dan media sosial oleh masyarakat Indonesia terus meningkat. Sayangnya, literasi digital di Indonesia masih dalam taraf menengah. Apalagi pada pilar keamanan digital. Padahal risiko&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/514548/prawira-bandung-dan-pelita-jaya-rebut-laga-perdana-playoff",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTQ1NDgvcHJhd2lyYS1iYW5kdW5nLWRhbi1wZWxpdGEtamF5YS1yZWJ1dC1sYWdhLXBlcmRhbmEtcGxheW9mZg==",
+        "description": "PRAWIRA Bandung dan Pelita Jaya Bakrie Jakarta sama-sama mengamankan laga perdana babak playoff Liga Bola Basket Indonesia (IBL) 2022 di C-Tra Arena Bandung, Sabtu (13/8). Prawira Bandung harus&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/514545/mahasiswa-kkn-undip-ajak-remaja-terapkan-gaya-hidup-zero-waste",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE0NTQ0L2JpamFrLWJlcm1lZGlhLXNvc2lhbC11bnR1ay10YW5na2FsLWtvbnRlbi1uZWdhdGlm",
         "description": "BANYAKNYA pengguna media sosial di Indonesia membuktikan bahwa begitu pesatnya perkembangan teknologi informasi dan komunikasi di zaman 4.0 ini. Apabila tidak digunakan secara bijak, maka dapat menimbulkan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514543/barcelona-miliki-target-berebut-gelar-juara-musim-ini",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDU0My9iYXJjZWxvbmEtbWlsaWtpLXRhcmdldC1iZXJlYnV0LWdlbGFyLWp1YXJhLW11c2ltLWluaQ==",
-        "description": "PELATIH Barcelona Xavi Hernandez menegaskan timnya memiliki target untuk meraih gelar juara jelang laga pekan perdana Liga Spanyol menghadapi Rayo Vallecano di Stadion Camp Nou, Barcelona, Sabtu.&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/514542/atasi-amartha-hangtuah-satria-muda-curi-kemenangan-pertama-playoff-ibl",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTQ1NDIvYXRhc2ktYW1hcnRoYS1oYW5ndHVhaC1zYXRyaWEtbXVkYS1jdXJpLWtlbWVuYW5nYW4tcGVydGFtYS1wbGF5b2ZmLWlibA==",
-        "description": "SATRIA Muda Pertamina Jakarta meraih kemenangan pertama dalam babak playoff Liga Bola Basket Indonesia (IBL) 2022 setelah mengatasi perlawanan sengit Amartha Hangtuah. Dalam pertandingan&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/514540/insan-otomotif-dukung-motor-listrik-besutan-bmi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQ1NDAvaW5zYW4tb3RvbW90aWYtZHVrdW5nLW1vdG9yLWxpc3RyaWstYmVzdXRhbi1ibWk=",
-        "description": "PT BYXE Motor Indonesia (BMI) terus mematangkan kesiapan produksi motor listrik karya anak bangsa. Bahkan BYXE, XADE, Sergap dan prototype&nbsp;motor patroli diharapkan segera diproduksi secara&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/514541/petrokimia-gresik-raih-penghargaan-tertinggi-tjsl-csr-award-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDU0MS9wZXRyb2tpbWlhLWdyZXNpay1yYWloLXBlbmdoYXJnYWFuLXRlcnRpbmdnaS10anNsLWNzci1hd2FyZC0yMDIy",
-        "description": "PETROKIMIA Gresik memperoleh apresiasi tertinggi berupa Bintang 5 dalam ajang nasional Tanggung Jawab Sosial dan Lingkungan (TJSL) &amp; CSR Award 2022 yang diselenggarakan Majalah BUMN Track bersama&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514539/komunitas-mak-ganjar-garut-berdoa-memohon-kemajuan-bangsa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NTM5L2tvbXVuaXRhcy1tYWstZ2FuamFyLWdhcnV0LWJlcmRvYS1tZW1vaG9uLWtlbWFqdWFuLWJhbmdzYQ==",
-        "description": "RATUSAN Ibu-Ibu bergabung ke dalam komunitas relawan Mak Ganjar untuk mengikuti acara Zikir dan Do'a Bersama untuk Kemajuan Bangsa di Pesantren Darussalikin, Sukaratu, Kabupaten Garut, Jawa Barat&nbsp;&#8230;"
     }
 ]
