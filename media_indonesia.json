@@ -1,5 +1,40 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/514516/angkat-besi-perkasa-di-isg-rizki-juniansyah-sumbang-tiga-emas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTQ1MTYvYW5na2F0LWJlc2ktcGVya2FzYS1kaS1pc2ctcml6a2ktanVuaWFuc3lhaC1zdW1iYW5nLXRpZ2EtZW1hcw==",
+        "description": "LIFTER Indonesia Rizki Juniansyah menyumbang medali emas dari cabang olahraga angkat besi Islamic Solidarity Games (ISG) 2021 di Konya, Turkiye, Sabtu (13/8) waktu setempat. Rizki yang turun&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/514515/film-12-cerita-anggara-merangkum-segala-spektrum-emosi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDUxNS9maWxtLTEyLWNlcml0YS1hbmdnYXJhLW1lcmFuZ2t1bS1zZWdhbGEtc3Bla3RydW0tZW1vc2k=",
+        "description": "FILM 12 Cerita Anggara dibuat bukan hanya sekadar film yang menampilkan cerita cinta remaja. Sang sutradara Fajar Bustomi memastikan film tersebut akan penuh makna dan sensasi rasa bagi para penonton.&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/514514/shanghai-perpanjang-tes-wajib-covid-19-hingga-september",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNDUxNC9zaGFuZ2hhaS1wZXJwYW5qYW5nLXRlcy13YWppYi1jb3ZpZC0xOS1oaW5nZ2Etc2VwdGVtYmVy",
+        "description": "KOTA paling padat penduduk di Tiongkok, Shanghai, memperluas tes wajib covid-19 mingguan dan memperpanjang tes gratis hingga akhir September dalam upaya mengendalikan virus korona. Demikian diumumkan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514513/conte-pastikan-lenglet-absen-hadapi-chelsea",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDUxMy9jb250ZS1wYXN0aWthbi1sZW5nbGV0LWFic2VuLWhhZGFwaS1jaGVsc2Vh",
+        "description": "PELATIH Tottenham Hotspur Antonio Conte memastikan bek anyar Clement Lenglet belum dapat dimainkan ketika menghadapi Chelsea pada pekan kedua Liga Inggris di Stadion Stamford Bridge, London, Minggu&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/514512/kebangkitan-kendaraan-listrik-dalam-mengubah-lintasan-emisi-gas-rumah-kaca",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTQ1MTIva2ViYW5na2l0YW4ta2VuZGFyYWFuLWxpc3RyaWstZGFsYW0tbWVuZ3ViYWgtbGludGFzYW4tZW1pc2ktZ2FzLXJ1bWFoLWthY2E=",
+        "description": "TRANSPORTASI telah menjadi salah satu sektor kunci yang membentuk lanskap energi di kawasan The Association of Southeast Asian Nations (ASEAN). Pada 2017 sektor transportasi berkontribusi sebanyak&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/514511/ribuan-seniman-tampil-di-cfd-simpang-lima-semarang",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDUwNi9hcnRldGEtcHJlZGlrc2ktbGFnYS1rb250cmEtbGVpY2VzdGVyLWNpdHktYWthbi1iZXJqYWxhbi1zdWxpdA==",
         "description": "PELATIH Arsenal Mikel Arteta memperkirakan laga kontra Leicester City pada pekan kedua Liga Inggris di Stadion Emirates, London, Sabtu, akan berjalan sulit. Dikutip dari situs resmi klub, hari&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514505/eks-pengacara-bharada-e-ada-intervensi-untuk-mencabut-surat-kuasa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQ1MDUvZWtzLXBlbmdhY2FyYS1iaGFyYWRhLWUtYWRhLWludGVydmVuc2ktdW50dWstbWVuY2FidXQtc3VyYXQta3Vhc2E=",
-        "description": "EKS penasihat hukum Bhayangkara Dua (Bharada) Richard Eliezer Pudihang Lumiu alias Bharada E, Deolipa Yumara, menduga ada yang tidak beres dari surat pencabutan kuasa atas dirinya yang ditandatangani&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/514504/gaya-kaca-mata-protagonis-ala-brad-pitt",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNDUwNC9nYXlhLWthY2EtbWF0YS1wcm90YWdvbmlzLWFsYS1icmFkLXBpdHQ=",
-        "description": "Police, merek grup De Rigo, bekerja sama dengan Sony Pictures untuk film Hollywood baru 'Bullet Train yang dibintangi aktor Brad Pitt.&nbsp; Dalam film yang disutradarai David Leitch&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514503/kasus-positif-covid-19-bertambah-5104",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0NTAzL2thc3VzLXBvc2l0aWYtY292aWQtMTktYmVydGFtYmFoLTUxMDQ=",
-        "description": "SATUAN Tugas (Satgas) Penanganan COVID-19 melaporkan kasus orang yang terkonfirmasi positif kini menjadi 6.278.332 setelah bertambah 5.104 hingga Sabtu pukul 12.00 WIB. Dari data Satgas yang&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514502/diduga-gelapkan-uang-rp16-m-ketua-aeki-lampung-ditangkap",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NTAyL2RpZHVnYS1nZWxhcGthbi11YW5nLXJwMTYtbS1rZXR1YS1hZWtpLWxhbXB1bmctZGl0YW5na2Fw",
-        "description": "JAJARAN Subdit 3 Ditreskrimum Polda Lampung menangkap Ketua Asosiasi Eksportir dan Industri Kopi Indonesia (AEKI) Lampung Juprius atas dugaan tindak pidana penggelapan uang hasil penjualan kopi senilai&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514501/chelsea-ujian-sesungguhnya-untuk-tottenham",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDUwMS9jaGVsc2VhLXVqaWFuLXNlc3VuZ2d1aG55YS11bnR1ay10b3R0ZW5oYW0=",
-        "description": "MANAJER Tottenham Hotspur Antonio Conte mengatakan laga Derby London melawan Chelsea di Stamford Bridge, Minggu (14/8) malam WIB akan jadi ujian bagi kemajuan timnya di awal musim ini. The Lilywhites&#8230;"
     }
 ]
