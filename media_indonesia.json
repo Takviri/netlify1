@@ -1,5 +1,12 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/514746/bullet-train-puncaki-box-office",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDc0Ni9idWxsZXQtdHJhaW4tcHVuY2FraS1ib3gtb2ZmaWNl",
+        "description": "FILM produksi Sony, Bullet Train, memuncaki Box Office untuk pekan kedua secara beruntun.&nbsp; Film aksi yang dibintangi&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/514738/tuchel-kritik-wasit-setelah-chelsea-imbang-dengan-spurs",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTQ3MDYvbWVtYWtuYWkta2VtZXJkZWthYW4=",
         "description": "BANGSA Indonesia tahun ini memperingati kemerdekaannya yang ke-77. Kemerdekaan dari penjajahan bangsa asing yang pernah menguasai wilayah Indonesia. Rakyat Indonesia banyak yang memperingati kemerdekaan&#8230;"
-    },
-    {
-        "title": "Kolom Pakar",
-        "link": "https://m.mediaindonesia.com/kolom-pakar/514720/merdeka-bung",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9rb2xvbS1wYWthci81MTQ3MjAvbWVyZGVrYS1idW5n",
-        "description": "MERDEKA punya banyak makna, baik yang kini maupun lalu. Tujuh puluh tujuh tahun sudah, merdeka semakin menemukan relevansinya meski banyak juga yang tersamar karena tenggelam dengan rutinitas. Euforia&#8230;"
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "'Cari Perkara' dengan China, Kongres AS Kunjungi Taiwan",
+        "link": "https://www.cnbcindonesia.com/news/20220815060831-4-363651/cari-perkara-dengan-china-kongres-as-kunjungi-taiwan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA2MDgzMS00LTM2MzY1MS9jYXJpLXBlcmthcmEtZGVuZ2FuLWNoaW5hLWtvbmdyZXMtYXMta3VuanVuZ2ktdGFpd2Fu",
+        "description": " Delegasi Kongres Amerika Serikat (AS) tiba di Taiwan pada Minggu (14/8/2022) untuk menemui Presiden Tsai Ing-wen."
+    },
+    {
+        "title": "Pasukan Putin Mulai Melemah di Ukraina, Ini Bukti Terbarunya",
+        "link": "https://www.cnbcindonesia.com/news/20220815055020-4-363650/pasukan-putin-mulai-melemah-di-ukraina-ini-bukti-terbarunya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA1NTAyMC00LTM2MzY1MC9wYXN1a2FuLXB1dGluLW11bGFpLW1lbGVtYWgtZGktdWtyYWluYS1pbmktYnVrdGktdGVyYmFydW55YQ==",
+        "description": " Sederet bukti melemahnya pasukan Rusia di Ukraina."
+    },
+    {
         "title": "Sinar Mas Kuasai Tambang Batu Bara di Australia",
         "link": "https://www.cnbcindonesia.com/news/20220814131533-4-363575/sinar-mas-kuasai-tambang-batu-bara-di-australia",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNDE3MDU0Ni00LTM2MzYyMS9wYXN1a2FuLXJ1c2lhLWRpLWZhc2lsaXRhcy1udWtsaXItbXVsYWktZGFwYXQtdGVrYW5hbi11a3JhaW5h",
         "description": " Presiden Ukraina Volodymyr Zelensky memastikan tentara Rusia yang menduduki pembangkit listrik tenaga nuklir, Fasilitas Zaporizhzhia akan jadi target pasukannya"
-    },
-    {
-        "title": "Ada Sinyal Harga BBM Naik, Ini Kata Pertamina..",
-        "link": "https://www.cnbcindonesia.com/news/20220814171638-4-363622/ada-sinyal-harga-bbm-naik-ini-kata-pertamina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNDE3MTYzOC00LTM2MzYyMi9hZGEtc2lueWFsLWhhcmdhLWJibS1uYWlrLWluaS1rYXRhLXBlcnRhbWluYQ==",
-        "description": " Menteri Investasi/Kepala BKPM memberikan sinyal kenaikan harga BBM"
-    },
-    {
-        "title": "Kasus Positif Covid-19 RI Turun, Hari Ini Tambah 4.442 Orang",
-        "link": "https://www.cnbcindonesia.com/news/20220814174944-4-363625/kasus-positif-covid-19-ri-turun-hari-ini-tambah-4442-orang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNDE3NDk0NC00LTM2MzYyNS9rYXN1cy1wb3NpdGlmLWNvdmlkLTE5LXJpLXR1cnVuLWhhcmktaW5pLXRhbWJhaC00NDQyLW9yYW5n",
-        "description": " Satgas Penanganan Covid-19 mencatat, kasus Covid-19 RI mencapai 6.282.774"
     }
 ]
