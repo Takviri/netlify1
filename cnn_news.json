@@ -1,5 +1,19 @@
 [
     {
+        "title": "Daftar Pemilu 2024, Partai Cucu Soeharto Ingin Kurangi Utang Negara",
+        "link": "https://www.cnnindonesia.com/nasional/20220814164546-32-834479/daftar-pemilu-2024-partai-cucu-soeharto-ingin-kurangi-utang-negara",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNDE2NDU0Ni0zMi04MzQ0NzkvZGFmdGFyLXBlbWlsdS0yMDI0LXBhcnRhaS1jdWN1LXNvZWhhcnRvLWluZ2luLWt1cmFuZ2ktdXRhbmctbmVnYXJh",
+        "description": " Cucu mantan Presiden Soeharto, Ari Sigit mendaftarkan Partai Karya Republik sebagai calon peserta Pemilu 2024 ke KPU"
+    },
+    {
+        "title": "Penyidik Bareskrim ke Magelang Usut Kepingan Alur Kasus Ferdy Sambo",
+        "link": "https://www.cnnindonesia.com/nasional/20220814172019-12-834483/penyidik-bareskrim-ke-magelang-usut-kepingan-alur-kasus-ferdy-sambo",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNDE3MjAxOS0xMi04MzQ0ODMvcGVueWlkaWstYmFyZXNrcmltLWtlLW1hZ2VsYW5nLXVzdXQta2VwaW5nYW4tYWx1ci1rYXN1cy1mZXJkeS1zYW1ibw==",
+        "description": " Polri mengaku tak bisa mengabaikan rangkaian peristiwa di Magelang untuk menelusuri kematian Brigadir J di rumah dinas Irjen Ferdy Sambo di Jakarta."
+    },
+    {
         "title": "Positif Covid Bertambah 4.442 Kasus, Pasien Meninggal Dunia 18",
         "link": "https://www.cnnindonesia.com/nasional/20220814113722-20-834421/positif-covid-bertambah-4442-kasus-pasien-meninggal-dunia-18",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNDE1NTU0Mi0yMC04MzQ0NzMva2VjZWxha2Fhbi1tYXV0LXRydWstbXVhdGFuLXRlcHVuZy1kaS1qYWx1ci10ZW5na29yYWstY2lhbmp1ci01LXRld2Fz",
         "description": " Sebuah truk bermuatan tepung terigu diduga mengalami rem blong di jalur tengkorak Sukabumi-Cianjur hingga menghantam lima kendaraan, tiga di antaranya motor."
-    },
-    {
-        "title": "RI Raih Penghargaan Swasembada Pangan, Jokowi Terima Kasih ke Petani",
-        "link": "https://www.cnnindonesia.com/nasional/20220814150425-20-834464/ri-raih-penghargaan-swasembada-pangan-jokowi-terima-kasih-ke-petani",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNDE1MDQyNS0yMC04MzQ0NjQvcmktcmFpaC1wZW5naGFyZ2Fhbi1zd2FzZW1iYWRhLXBhbmdhbi1qb2tvd2ktdGVyaW1hLWthc2loLWtlLXBldGFuaQ==",
-        "description": " Presiden Jokowi mengucapkan terima kasih kepada para petani usai menerima penghargaan ketahanan pangan beras dari International Rice Research Institute (IRRI)."
-    },
-    {
-        "title": "Daftar Kejanggalan Skenario Ferdy Sambo yang Terbongkar",
-        "link": "https://www.cnnindonesia.com/nasional/20220814142752-12-834460/daftar-kejanggalan-skenario-ferdy-sambo-yang-terbongkar",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNDE0Mjc1Mi0xMi04MzQ0NjAvZGFmdGFyLWtlamFuZ2dhbGFuLXNrZW5hcmlvLWZlcmR5LXNhbWJvLXlhbmctdGVyYm9uZ2thcg==",
-        "description": " Skenario Ferdy Sambo yang sempat diumumkan Polri kini terbantahkan. Kematian Brigadir J bukan akibat baku tembak. Sambo pun tidak sedang tes swab saat kejadian."
     }
 ]
