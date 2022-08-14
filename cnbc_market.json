@@ -1,5 +1,19 @@
 [
     {
+        "title": "Lompat 16% Sepekan, Harga Batu Bara Kembali ke US$ 400/Ton",
+        "link": "https://www.cnbcindonesia.com/market/20220814092801-17-363554/lompat-16-sepekan-harga-batu-bara-kembali-ke-us--400-ton",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE0MDkyODAxLTE3LTM2MzU1NC9sb21wYXQtMTYtc2VwZWthbi1oYXJnYS1iYXR1LWJhcmEta2VtYmFsaS1rZS11cy0tNDAwLXRvbg==",
+        "description": " Harga batu bara dunia bangkit setelah tertekan sepanjang perdagangan pekan lalu"
+    },
+    {
+        "title": "Sepak Terjang Jouska, Dari Idola Medsos Berakhir di Bui",
+        "link": "https://www.cnbcindonesia.com/market/20220813164242-17-363510/sepak-terjang-jouska-dari-idola-medsos-berakhir-di-bui",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEzMTY0MjQyLTE3LTM2MzUxMC9zZXBhay10ZXJqYW5nLWpvdXNrYS1kYXJpLWlkb2xhLW1lZHNvcy1iZXJha2hpci1kaS1idWk=",
+        "description": " Jouska divonis hukuman penjara selama 7 tahun dan denda Rp 2 miliar."
+    },
+    {
         "title": "Tersangka Dugaan Korupsi Surya Darmadi Akan Kembali ke RI",
         "link": "https://www.cnbcindonesia.com/market/20220814092508-17-363553/tersangka-dugaan-korupsi-surya-darmadi-akan-kembali-ke-ri",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE0MDc0NjIzLTE3LTM2MzU0NC9wZXJqYWxhbmFuLWpvdXNrYS1oaW5nZ2EtdGVyc2FuZHVuZy1rZWphaGF0YW4tcGFzYXItbW9kYWw=",
         "description": " as perbuatannya, Aakar mendapat hukuman penjara selama 7 tahun dan denda Rp 2 miliar atas kasusnya tersebut."
-    },
-    {
-        "title": "Begini Resep Investasi dari Warren Buffett Saat Resesi",
-        "link": "https://www.cnbcindonesia.com/market/20220813181620-17-363523/begini-resep-investasi-dari-warren-buffett-saat-resesi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEzMTgxNjIwLTE3LTM2MzUyMy9iZWdpbmktcmVzZXAtaW52ZXN0YXNpLWRhcmktd2FycmVuLWJ1ZmZldHQtc2FhdC1yZXNlc2k=",
-        "description": " Resesi mulai melanda beberapa bagian di dunia, aman untuk investasi?"
-    },
-    {
-        "title": "Harga Bitcoin cs Lagi Merayap Naik, Ini Datanya",
-        "link": "https://www.cnbcindonesia.com/market/20220813174235-20-363521/harga-bitcoin-cs-lagi-merayap-naik-ini-datanya",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODEzMTc0MjM1LTIwLTM2MzUyMS9oYXJnYS1iaXRjb2luLWNzLWxhZ2ktbWVyYXlhcC1uYWlrLWluaS1kYXRhbnlh",
-        "description": " Harga kripto utama terus melanjutkan tren positif."
     }
 ]

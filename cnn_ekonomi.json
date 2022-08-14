@@ -1,5 +1,19 @@
 [
     {
+        "title": "FOTO: Geliat Pembuatan Patung Garuda Jelang HUT Kemerdekaan RI",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220814091425-94-834368/foto-geliat-pembuatan-patung-garuda-jelang-hut-kemerdekaan-ri",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE0MDkxNDI1LTk0LTgzNDM2OC9mb3RvLWdlbGlhdC1wZW1idWF0YW4tcGF0dW5nLWdhcnVkYS1qZWxhbmctaHV0LWtlbWVyZGVrYWFuLXJp",
+        "description": " Industri pembuatan patung garuda kembali menggeliat jelang HUT Kemerdekaan RI"
+    },
+    {
+        "title": "Allo Bank Kasih Diskon di Warung Wardani Bali, Dijamin Bikin Kenyang",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220811172449-97-833541/allo-bank-kasih-diskon-di-warung-wardani-bali-dijamin-bikin-kenyang",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODExMTcyNDQ5LTk3LTgzMzU0MS9hbGxvLWJhbmsta2FzaWgtZGlza29uLWRpLXdhcnVuZy13YXJkYW5pLWJhbGktZGlqYW1pbi1iaWtpbi1rZW55YW5n",
+        "description": " Warung Wardani Bali kasih diskon sampai 45 persen lewat pembayaran dengan Allo Prime."
+    },
+    {
         "title": "Daftar Rincian Kenaikan Tarif Ojol Terbaru",
         "link": "https://www.cnnindonesia.com/ekonomi/20220811191342-96-833587/daftar-rincian-kenaikan-tarif-ojol-terbaru",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEyMTIwMjAzLTgzLTgzMzgxMS81LWRva3VtZW4teWFuZy1oYXJ1cy1kaWJhd2Etc2FhdC1tZWxhaGlya2FuLWRlbmdhbi1icGpzLWtlc2VoYXRhbg==",
         "description": " Agar peserta\u00c2\u00a0dapat mengajukan klaim, ada sejumlah dokumen yang harus dibawa saat melahirkan dengan BPJS Kesehatan."
-    },
-    {
-        "title": "BNI Gandeng Indomaret Perkuat Ekosistem Cashless",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220813103735-83-834188/bni-gandeng-indomaret-perkuat-ekosistem-cashless",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEzMTAzNzM1LTgzLTgzNDE4OC9ibmktZ2FuZGVuZy1pbmRvbWFyZXQtcGVya3VhdC1la29zaXN0ZW0tY2FzaGxlc3M=",
-        "description": " Dalam kolaborasi ini, BNI dan Indomaret menghadirkan pembayaran nontunai menggunakan QRIS BNI Mobile Banking."
-    },
-    {
-        "title": "Atur Ulang Biaya Transportasi Agar Tak Boncos Usai Tarif Ojol Naik",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220811200243-83-833610/atur-ulang-biaya-transportasi-agar-tak-boncos-usai-tarif-ojol-naik",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODExMjAwMjQzLTgzLTgzMzYxMC9hdHVyLXVsYW5nLWJpYXlhLXRyYW5zcG9ydGFzaS1hZ2FyLXRhay1ib25jb3MtdXNhaS10YXJpZi1vam9sLW5haWs=",
-        "description": " Kemenhub menaikkan tarif ojol di tiga zonasi. Lantas, bagaimana agar keuangan tetap sehat dan pengeluaran tak membengkak? Berikut caranya."
     }
 ]
