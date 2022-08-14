@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kolom Pakar",
+        "link": "https://m.mediaindonesia.com/kolom-pakar/514720/merdeka-bung",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9rb2xvbS1wYWthci81MTQ3MjAvbWVyZGVrYS1idW5n",
+        "description": "MERDEKA punya banyak makna, baik yang kini maupun lalu. Tujuh puluh tujuh tahun sudah, merdeka semakin menemukan relevansinya meski banyak juga yang tersamar karena tenggelam dengan rutinitas. Euforia&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514735/conte-dan-tuchel-diganjar-kartu-merah-saat-chelsea-dan-spurs-bermain-imbang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDczNS9jb250ZS1kYW4tdHVjaGVsLWRpZ2FuamFyLWthcnR1LW1lcmFoLXNhYXQtY2hlbHNlYS1kYW4tc3B1cnMtYmVybWFpbi1pbWJhbmc=",
+        "description": "MANAJER Chelsea Thomas Tuchel dan juru taktik Tottenham Hotspur Antonio Conte sama-sama diganjar kartu merah di laga Liga&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/514733/ma-dong-seok-akan-hadapi-serangga-raksasa-di-serial-terbaru",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQ3Mjcva2VzYW4tYXdhbC1tZW5jaWNpcGktbW9iaWwtbGlzdHJpay13dWxpbmctYWlyLWV2",
         "description": "USAI meluncurkan dan melakukan debut global Wuling Air ev di ajang Gaikindo Indonesia International Auto Show (GIIAS) 2022, Wuling Motors memberikan kesempatan kepada sejumlah jurnalis untuk merasakan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/514726/ikuti-kemenhub-gojek-tunda-kenaikan-tarif-ojol",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDcyNi9pa3V0aS1rZW1lbmh1Yi1nb2play10dW5kYS1rZW5haWthbi10YXJpZi1vam9s",
-        "description": "SESUAI arahan Kementerian Perhubungan (Kemenhub), Gojek akan memberlakukan kenaikan tarif angkutan pada akhir bulan ini. Semula Keputusan Menteri Perhubungan Nomor KP 564 Tahun 2022 tentang&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/514725/pemuda-di-tangerang-sekap-dan-perkosa-perempuan-16-tahun",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTQ3MjUvcGVtdWRhLWRpLXRhbmdlcmFuZy1zZWthcC1kYW4tcGVya29zYS1wZXJlbXB1YW4tMTYtdGFodW4=",
-        "description": "POLSEK Kresek meringkus pemuda berinisial FM, 20, warga Desa Kemuning, Kecamatan Kresek, Kabupaten Tangerang setelah menyekap dan memperkosa perempuan berusia 16 tahun. Kapolsek Kresek AKP Osman&#8230;"
     }
 ]
