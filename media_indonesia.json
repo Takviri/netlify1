@@ -1,5 +1,47 @@
 [
     {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514642/kuasa-hukum-sebut-istri-ferry-mursyidan-baldan-dikriminalisasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQ2NDIva3Vhc2EtaHVrdW0tc2VidXQtaXN0cmktZmVycnktbXVyc3lpZGFuLWJhbGRhbi1kaWtyaW1pbmFsaXNhc2k=",
+        "description": "DIREKTORAT Tindak Pidana Ekonomi Khusus (Dittipideksus) Badan Reserse Kriminal (Bareskrim) Polri menetapkan istri eks Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional (ATR/BPN) Ferry Mursyidan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514634/tuchel-tegaskan-chelsea-siap-hadapi-spurs",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDYzNC90dWNoZWwtdGVnYXNrYW4tY2hlbHNlYS1zaWFwLWhhZGFwaS1zcHVycw==",
+        "description": "PELATIH Chelsea Thomas Tuchel memastikan timnya siap menghadapi Tottenham Hotspur pada pekan kedua Liga Primer Inggris&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/514641/kemenhub-kenaikan-tarif-ojol-diundur-sementara",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDY0MS9rZW1lbmh1Yi1rZW5haWthbi10YXJpZi1vam9sLWRpdW5kdXItc2VtZW50YXJh",
+        "description": "KEMENTERIAN Perhubungan (Kemenhub) mengumumkan bahwa pemberlakuan penyesuaian tarif ojek online (ojol) diundur sementara.&nbsp; Awalnya, Keputusan Menteri Perhubungan (Kepmenhub) Nomor KP 564&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/514640/aplikasi-digital-parenting-ruang-ortu-by-asia-resmi-diluncurkan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE0NjQwL2FwbGlrYXNpLWRpZ2l0YWwtcGFyZW50aW5nLXJ1YW5nLW9ydHUtYnktYXNpYS1yZXNtaS1kaWx1bmN1cmthbg==",
+        "description": "RUANG Ortu&nbsp;by ASIA, aplikasi digital parenting pertama di Indonesia yang memudahkan orangtua dalam mengasuh dan memantau perkembangan anak-anak mereka, resmi diluncurkan ke publik pada&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514639/ac-milan-dan-inter-awali-liga-italia-dengan-kemenangan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDYzOS9hYy1taWxhbi1kYW4taW50ZXItYXdhbGktbGlnYS1pdGFsaWEtZGVuZ2FuLWtlbWVuYW5nYW4=",
+        "description": "AC Milan mengawali Liga Italia Seri A 2022/2023 dengan kemenangan 4-2 atas Udinese di San Siro pada Minggu (14/8) dini hari WIB.&nbsp; Juara bertahan Seri A itu mampu bangkit dari ketertinggalan&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/514621/penikam-rushdie-simpatisan-iran",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNDYyMS9wZW5pa2FtLXJ1c2hkaWUtc2ltcGF0aXNhbi1pcmFu",
+        "description": "PELAKU penusukan terhadap novelis berdarah India, Salman Rushdie, Hadi Matar, 24, dari New Jersey, Amerika Serikat (AS) diduga&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/514620/ten-hag-kecewa-kepada-performa-pemain-mu",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDYxNy9kaWFuZ2dhcC1yZW1laGthbi1iYWhheWEta2Fua2VyLWVwaXNvZGUtdGVyYmFydS1leHRyYW9yZGluYXJ5LWF0dG9ybmV5LXdvby1kaWtyaXRpaw==",
         "description": "SERIAL drama Korea Extraordinary Attorney Woo dianggap tidak peka terhadap pasien kanker dan orang-orang yang mereka cintai.&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514633/sebanyak-1050-seniman-meriahkan-hut-ke-72-provinsi-jateng",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NjMzL3NlYmFueWFrLTEwNTAtc2VuaW1hbi1tZXJpYWhrYW4taHV0LWtlLTcyLXByb3ZpbnNpLWphdGVuZw==",
-        "description": "RIBUAN orang memadati Lapangan Pancasila Simpang Lima Kota Semarang pada Minggu (14/8/2022) pagi. Dengan antusias, warga menyaksikan pertunjukan spektakuler seni tradisional jaranan dan gending-gending&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514632/ketua-kwarnas-ajak-pramuka-selalu-berdedikasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0NjMyL2tldHVhLWt3YXJuYXMtYWphay1wcmFtdWthLXNlbGFsdS1iZXJkZWRpa2FzaQ==",
-        "description": "KETUA Kwartir Nasional (Kwarnas) Gerakan Pramuka Budi Waseso mengajak seluruh anggota Pramuka untuk selalu berdedikasi dan tetap&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/514631/delapanwarga-israel-jadi-sasaran-penembakan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNDYzMS9kZWxhcGFud2FyZ2EtaXNyYWVsLWphZGktc2FzYXJhbi1wZW5lbWJha2Fu",
-        "description": "DELAPAN warga Israel pengguna bus menjadi sasaran penembakan seorang pria Palestina di Yerusalem. Dua orang di antaranya mengalami luka serius. &quot;Seorang pria bersenjata melepaskan tembakan&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/514615/lee-jung-hyun-bintangi-film-limit",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDYxNS9sZWUtanVuZy1oeXVuLWJpbnRhbmdpLWZpbG0tbGltaXQ=",
-        "description": "FILM thriller kriminal Limit, yang akan ditayangkan di bioskop Korea Selatan pada bulan ini, menyoroti misi penyelamatan anak korban&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514630/ratusan-perempuan-milenial-di-palembang-harapkan-ganjar-pranowo-jadi-presiden",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NjMwL3JhdHVzYW4tcGVyZW1wdWFuLW1pbGVuaWFsLWRpLXBhbGVtYmFuZy1oYXJhcGthbi1nYW5qYXItcHJhbm93by1qYWRpLXByZXNpZGVu",
-        "description": "SEBANYAK 500 perempuan millenial bergabung dalam gerakan &quot;Ganjar Pranowo Presiden 2024&quot;, yang diinisiasi jaringan Srikandi&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/514629/ukraina-siaprebut-kembali-pltn-zaporizhia-dari-tangan-militer-rusia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNDYyOS91a3JhaW5hLXNpYXByZWJ1dC1rZW1iYWxpLXBsdG4temFwb3JpemhpYS1kYXJpLXRhbmdhbi1taWxpdGVyLXJ1c2lh",
-        "description": "PRESIDEN Ukraina, Volodymyr Zelensky mengatakan pasukannya menargetkan tentara Rusia yang menduduki pembangkit listrik tenaga nuklir (PLTN) Zaporizhzhia. Pasukan Rusia merebut stasiun itu di awal perang.&#8230;"
     }
 ]
