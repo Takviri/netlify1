@@ -1,5 +1,19 @@
 [
     {
+        "title": "Terungkap! Ini Pemilik Antibodi Covid-19 Tertinggi di RI",
+        "link": "https://www.cnbcindonesia.com/news/20220814183800-4-363633/terungkap-ini-pemilik-antibodi-covid-19-tertinggi-di-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNDE4MzgwMC00LTM2MzYzMy90ZXJ1bmdrYXAtaW5pLXBlbWlsaWstYW50aWJvZGktY292aWQtMTktdGVydGluZ2dpLWRpLXJp",
+        "description": " Jumlah warga Indonesia yang sudah memiliki antibodi Covid-19 saat ini mencapai 98%"
+    },
+    {
+        "title": "Bikin Panas, 11 Pesawat Militer China Melintasi Taiwan",
+        "link": "https://www.cnbcindonesia.com/news/20220814183432-4-363632/bikin-panas-11-pesawat-militer-china-melintasi-taiwan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNDE4MzQzMi00LTM2MzYzMi9iaWtpbi1wYW5hcy0xMS1wZXNhd2F0LW1pbGl0ZXItY2hpbmEtbWVsaW50YXNpLXRhaXdhbg==",
+        "description": " Kementerian Pertahanan Taiwan menyebutkan 11 pesawat militer China melintasi garis tengah Selat Taiwan"
+    },
+    {
         "title": "Nambah  Kasus Baru, Ini Kondisi Corona Indonesia Sepekan",
         "link": "https://www.cnbcindonesia.com/news/20220814165939-4-363620/nambah-kasus-baru-ini-kondisi-corona-indonesia-sepekan",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNDE0NDEzMC00LTM2MzU5NS90b3AtcmktcGVyaW5na2F0LWtlZHVhLXByb2R1a3NpLXBhZGktZGktYXNlYW4taW5pLWJ1a3Rpbnlh",
         "description": " Indonesia dikatakan menjadi negara dengan tingkat produktifitas kedua di Asia Tenggara"
-    },
-    {
-        "title": "Gawat! Tetangga RI Ini Alami Kelangkaan Obat Demam dan Batuk",
-        "link": "https://www.cnbcindonesia.com/news/20220814144353-4-363596/gawat-tetangga-ri-ini-alami-kelangkaan-obat-demam-batuk",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNDE0NDM1My00LTM2MzU5Ni9nYXdhdC10ZXRhbmdnYS1yaS1pbmktYWxhbWkta2VsYW5na2Fhbi1vYmF0LWRlbWFtLWJhdHVr",
-        "description": " Akibat banyaknya masyarakat yang mengobati virus Covid-19 secara mandiri, Singapura mengalami kelangkaan obat untum demam dan pilek"
-    },
-    {
-        "title": "Sinar Mas Land, LLV dan Microsoft Kolaborasi Akselerasi Startup",
-        "link": "https://www.cnbcindonesia.com/news/20220814154033-4-363603/sinar-mas-land-llv-microsoft-kolaborasi-akselerasi-startup",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNDE1NDAzMy00LTM2MzYwMy9zaW5hci1tYXMtbGFuZC1sbHYtbWljcm9zb2Z0LWtvbGFib3Jhc2ktYWtzZWxlcmFzaS1zdGFydHVw",
-        "description": " Living Lab Ventures (LLV), sebuah investment arm dari Sinar Mas Land berkomitmen mendukung pengembangan startup di Indonesia."
     }
 ]
