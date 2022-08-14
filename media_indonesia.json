@@ -1,5 +1,26 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/514736/episode-perdana-house-of-the-dragon-tuai-pujian",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDczNi9lcGlzb2RlLXBlcmRhbmEtaG91c2Utb2YtdGhlLWRyYWdvbi10dWFpLXB1amlhbg==",
+        "description": "BEBERAPA pekan lalu, House of the Dragon menggelar pemutaran perdana di Los Angeles. Beberapa orang beruntung yang menghadiri&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514739/musiala-kembali-cetak-gol-bayern-kalahkan-wolfsburg",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDczOS9tdXNpYWxhLWtlbWJhbGktY2V0YWstZ29sLWJheWVybi1rYWxhaGthbi13b2xmc2J1cmc=",
+        "description": "PENYERANG Bayern Muenchen yang berusia 19 tahun Jamal Musiala melanjutkan performa apiknya pada musim ini dengan mencetak gol kala Bayern menang 2-0 atas Wolfsburg di laga <a href=\"http://mediaindonesia.com/tag/bundesliga\"&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/514706/memaknai-kemerdekaan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTQ3MDYvbWVtYWtuYWkta2VtZXJkZWthYW4=",
+        "description": "BANGSA Indonesia tahun ini memperingati kemerdekaannya yang ke-77. Kemerdekaan dari penjajahan bangsa asing yang pernah menguasai wilayah Indonesia. Rakyat Indonesia banyak yang memperingati kemerdekaan&#8230;"
+    },
+    {
         "title": "Kolom Pakar",
         "link": "https://m.mediaindonesia.com/kolom-pakar/514720/merdeka-bung",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDczMS9wZXJzaXRhLW1lbmFuZy1kaS1rYW5kYW5nLXBlcnNpcw==",
         "description": "PERSIS Solo belum mampu memenuhi ambisinya meraih kemenangan setelah dipermalukan tim tamu Persita Tangerang 1-2 dalam pertandingan lanjutan kompetisi <a href=\"http://mediaindonesia.com/tag/liga-1\"&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514729/warga-muaro-jambi-bangkit-bersama-teman-sandi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NzI5L3dhcmdhLW11YXJvLWphbWJpLWJhbmdraXQtYmVyc2FtYS10ZW1hbi1zYW5kaQ==",
-        "description": "DALAM rangka mendeklarasikan Sandiaga Uno, Teman Sandi, turut menghadirkan aneka kegiatan di Muaro Jambi, Minggu (14/8). Masyarakat&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/514728/dua-personel-xdinary-heroes-positif-covid-19",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDcyOC9kdWEtcGVyc29uZWwteGRpbmFyeS1oZXJvZXMtcG9zaXRpZi1jb3ZpZC0xOQ==",
-        "description": "XDINARY Heroes membatalkan jadwal kegiatan mereka setelah O.de dan Jungsu dinyatakan positif covid-19. Agensi JYP Entertainment&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/514727/kesan-awal-mencicipi-mobil-listrik-wuling-air-ev",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQ3Mjcva2VzYW4tYXdhbC1tZW5jaWNpcGktbW9iaWwtbGlzdHJpay13dWxpbmctYWlyLWV2",
-        "description": "USAI meluncurkan dan melakukan debut global Wuling Air ev di ajang Gaikindo Indonesia International Auto Show (GIIAS) 2022, Wuling Motors memberikan kesempatan kepada sejumlah jurnalis untuk merasakan&#8230;"
     }
 ]
