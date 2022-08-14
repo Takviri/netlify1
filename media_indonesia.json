@@ -1,5 +1,19 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/514581/lagu-baru-megadeth-ejek-orang-yang-pakai-kaos-band-tanpa-tahu-lagu-band-itu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDU4MS9sYWd1LWJhcnUtbWVnYWRldGgtZWplay1vcmFuZy15YW5nLXBha2FpLWthb3MtYmFuZC10YW5wYS10YWh1LWxhZ3UtYmFuZC1pdHU=",
+        "description": "PENTOLAN Megadeth Dave Mustaine mengungapkan bahwa album baru bandnya akan menghadirkan lagu yang berkisah tentang perempuan yang mengenakan&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/514580/konser-40-tahun-vina-panduwinata-akan-digelar-september",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDU4MC9rb25zZXItNDAtdGFodW4tdmluYS1wYW5kdXdpbmF0YS1ha2FuLWRpZ2VsYXItc2VwdGVtYmVy",
+        "description": "PENYANYI legendaris Indonesia Vina Panduwinata siap menyapa para penggemarnya melalui konser musik bertajuk 40 Tahun Selalu Cinta Vina&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/514579/dilantik-jadi-pns-ni-nengah-widiasih-berterima-kasih-pada-presiden",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTQ1NzUva2FsYWhrYW4tcGVndWxhLWhhbGVwLW1lbGFqdS1rZS1maW5hbC10b3JvbnRvLW1hc3RlcnM=",
         "description": "SIMONA Halep mengalahkan Jessica Pegula 2-6, 6-3, dan 6-4 untuk melaju ke final Toronto Masters, Sabtu (14/8). Mantan&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/514521/bung-sentil-polisi-baik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNDUyMS9idW5nLXNlbnRpbC1wb2xpc2ktYmFpaw==",
-        "description": "WAAAHH, gilaakk!!! Pekan ini kita berada dalam sejarah sangat memalukan Kepolisian Indonesia\n&nbsp;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/514559/reinhard-dan-deiby-selvia-bira-suara-merdu-pengantar-pertemuan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNDU1OS9yZWluaGFyZC1kYW4tZGVpYnktc2VsdmlhLWJpcmEtc3VhcmEtbWVyZHUtcGVuZ2FudGFyLXBlcnRlbXVhbg==",
-        "description": "KERUSUHAN Maluku Utara tahun 2000 berdampak perpisahan pasangan Yordan Bitjara - Deiby Selvia Bira dengan buah hati mereka, Reinhard. Di usia enam tahun, bocah yang disapa Rein itu dibawa ke&#8230;"
     }
 ]
