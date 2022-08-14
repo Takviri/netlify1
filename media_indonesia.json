@@ -1,6 +1,55 @@
 [
     {
         "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/514598/kunjungi-desa-terpencil-aiptu-yoseph-harus-gotong-motor",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NTk4L2t1bmp1bmdpLWRlc2EtdGVycGVuY2lsLWFpcHR1LXlvc2VwaC1oYXJ1cy1nb3RvbmctbW90b3I=",
+        "description": "AKSES jalan masuk yang hanya berupa jalan setapak dan terjal mengharuskan Aiptu Yoseph Sulaiman Ali Baba menggotong sepeda motornya dengan dibantu warga dusun dan terpisah dari rombongan tim Polres&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/514609/anti-ketinggalan-fitur-terbaru-whatsapp-tahun-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE0NjA5L2FudGkta2V0aW5nZ2FsYW4tZml0dXItdGVyYmFydS13aGF0c2FwcC10YWh1bi0yMDIy",
+        "description": "Fitur terbaru WhatsApp tahun 2022 kini semakin banyak dan menambah gaya berkomunikasi menjadi lebih interaktif. Jika Anda adalah pengguna aplikasi komunikasi WhatsApp maka Anda sudah&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/514607/aktif-digitalisasi-pasar-bank-dki-dan-perwakilan-bi-jakarta-pantau-penerapan-qris-di-pasar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDYwNy9ha3RpZi1kaWdpdGFsaXNhc2ktcGFzYXItYmFuay1ka2ktZGFuLXBlcndha2lsYW4tYmktamFrYXJ0YS1wYW50YXUtcGVuZXJhcGFuLXFyaXMtZGktcGFzYXI=",
+        "description": "Akselerasi transformasi layanan digital terus dilakukan oleh Bank DKI, salah satunya dalam memberikan kemudahan bagi sektor UMKM.&nbsp; Bank DKI bersama Bank Indonesia melakukan kegiatan monitoring&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514605/program-sampah-plastik-tukar-beras-dari-sinar-mas-land-raih-penghargaan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0NjA1L3Byb2dyYW0tc2FtcGFoLXBsYXN0aWstdHVrYXItYmVyYXMtZGFyaS1zaW5hci1tYXMtbGFuZC1yYWloLXBlbmdoYXJnYWFu",
+        "description": "SINAR Mas Land terus menunjukkan performa terbaik sehingga mendapat apresiasi penghargaan dari sejumlah&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/514595/sejumlah-bintang-k-pop-beri-donasi-untuk-korban-banjir-korea",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDU5NS9zZWp1bWxhaC1iaW50YW5nLWstcG9wLWJlcmktZG9uYXNpLXVudHVrLWtvcmJhbi1iYW5qaXIta29yZWE=",
+        "description": "JIYOUNG GOT7, Kim Jin Woo WINNER, Kim Hye Soo, Yoo Jae Suk, Suzy, IU, Psy, Jay Park, hingga Kim Go Eun berdonasi untuk membantu masyarakat&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514603/gender-studies-forum-bahas-kekerasan-seksual-di-pendidikan-tinggi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0NjAzL2dlbmRlci1zdHVkaWVzLWZvcnVtLWJhaGFzLWtla2VyYXNhbi1zZWtzdWFsLWRpLXBlbmRpZGlrYW4tdGluZ2dp",
+        "description": "KEKERASAN seksual merupakan masalah serius yang dapat terjadi kepada siapa pun serta kapan pun dan di mana pun. Bahkan dalam lingkungan pendidikan yang seharusnya menjadi tempat menuntut ilmu, masyarakat&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514606/penggantian-kurikulum-terus-menerus-sebabkan-pendidikan-indonesia-mandek-20-tahun-terakhir",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0NjA2L3BlbmdnYW50aWFuLWt1cmlrdWx1bS10ZXJ1cy1tZW5lcnVzLXNlYmFia2FuLXBlbmRpZGlrYW4taW5kb25lc2lhLW1hbmRlay0yMC10YWh1bi10ZXJha2hpcg==",
+        "description": "PERIHAL kurikulum dinilai sangat krusial dalam sistim pendidikan. Namun pergantian kurikulum di sistim pendidikan nasional yang dilakukan terus menerus tanpa arah menyebabkan kualitas pendidikan justru&#8230;"
+    },
+    {
+        "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/514593/bank-indonesia-ntt-lepas-ekspor-perdana-kacang-lurik-organik-ke-jerman",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NTkzL2JhbmstaW5kb25lc2lhLW50dC1sZXBhcy1la3Nwb3ItcGVyZGFuYS1rYWNhbmctbHVyaWstb3JnYW5pay1rZS1qZXJtYW4=",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQ1OTEva3BrLXBhc3Rpa2FuLWJlbHVtLXRlcmtlbmRhbGEtdXNhaS1kaXRpbmdnYWwtbGlsaS1waW50YXVsaQ==",
         "description": "KOMISI Pemberantasan Korupsi (KPK) menunggu pemerintah dan DPR memproses penggantian mantan Komisioner Lili Pintauli Siregar. Meski satu&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514589/kpk-pantau-kelanjutan-pengusutan-tppu-setnov-di-bareskrim",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQ1ODkva3BrLXBhbnRhdS1rZWxhbmp1dGFuLXBlbmd1c3V0YW4tdHBwdS1zZXRub3YtZGktYmFyZXNrcmlt",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) kembali memantau kelanjutan pengusutan dugaan tindak pidana pencucian uang (TPPU) yang menjerat mantan Ketua DPR <a href=\"http://mediaindonesia.com/tag/setya-novanto\"&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/514599/haddad-maia-akan-hadapi-halep-di-final-toronto-masters",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTQ1OTkvaGFkZGFkLW1haWEtYWthbi1oYWRhcGktaGFsZXAtZGktZmluYWwtdG9yb250by1tYXN0ZXJz",
-        "description": "PETENIS Brasil Beatriz Haddad Maia berhasil melaju ke babak final Toronto Masters untuk berhadapan dengan Simona Halep.&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514586/kpk-sebut-bupati-mamberamo-kabur-ke-papua-nugini",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQ1ODYva3BrLXNlYnV0LWJ1cGF0aS1tYW1iZXJhbW8ta2FidXIta2UtcGFwdWEtbnVnaW5p",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) memastikan Bupati Mamberamo Tengah Ricky Ham Pagawak berada di Papua Nugini. Informasi itu diklaim&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514596/inter-milan-raih-tiga-poin-di-kandang-lecce",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDU5Ni9pbnRlci1taWxhbi1yYWloLXRpZ2EtcG9pbi1kaS1rYW5kYW5nLWxlY2Nl",
-        "description": "INTER Milan sukses mencuri tiga poin saat mengalahkan Lecce dengan skor 2-1 pada pekan perdana Serie A di Stadio Via del Mare, Lecce,&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/514584/serunya-bermain-permainan-tradisional-korea-di-bekasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTQ1ODQvc2VydW55YS1iZXJtYWluLXBlcm1haW5hbi10cmFkaXNpb25hbC1rb3JlYS1kaS1iZWthc2k=",
-        "description": "PADA Jumat (12/8), Korean Cultural Center Indonesia (KCCI) menggelar sebuah acara luring bertajuk Permainan Tradisional&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/514583/jelang-perilisan-ep-terbaru-little-dragon-luncurkan-single-frisco",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDU4My9qZWxhbmctcGVyaWxpc2FuLWVwLXRlcmJhcnUtbGl0dGxlLWRyYWdvbi1sdW5jdXJrYW4tc2luZ2xlLWZyaXNjbw==",
-        "description": "BAND elektronik peraih nominasi penghargaan Grammy, Little Dragon, mengumumkan EP terbaru mereka, Opening The Door, siap dirilis pada 16 September lewat label <a href=\"http://mediaindonesia.com/tag/musik\"&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514594/dpr-apresiasi-perkembangan-kualitas-layanan-rs-murni-teguh-medan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0NTk0L2Rwci1hcHJlc2lhc2ktcGVya2VtYmFuZ2FuLWt1YWxpdGFzLWxheWFuYW4tcnMtbXVybmktdGVndWgtbWVkYW4=",
-        "description": "WAKIL Ketua&nbsp;Badan Urusan Rumah Tangga (BURT) DPR RI Achmad Dimyati Natakusumah mengapresiasi perkembangan seluruh fasilitas dan kualitas layanan kesehatan yang diberikan oleh&nbsp;Rumah Sakit&#8230;"
     }
 ]
