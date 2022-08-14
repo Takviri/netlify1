@@ -1,5 +1,47 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514715/persis-dipermalukan-di-kandang-oleh-persita",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDcxNS9wZXJzaXMtZGlwZXJtYWx1a2FuLWRpLWthbmRhbmctb2xlaC1wZXJzaXRh",
+        "description": "PERSIS Solo belum mampu memenuhi ambisinya meraih kemenangan setelah dipermalukan tim tamu Persita Tangerang 1-2 dalam pertandingan lanjutan kompetisi Liga 1 2022/2023 di Stadion Manahan Solo, Minggu&#8230;"
+    },
+    {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/514714/debut-global-honda-suv-rs-concept",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTQ3MTQvZGVidXQtZ2xvYmFsLWhvbmRhLXN1di1ycy1jb25jZXB0",
+        "description": "SETELAH tahun lalu menampilkan Honda SUV RS Concept, Honda menampilkan wujud nyata dari pengembangan model konsep tersebut untuk pertama kalinya di dunia di ajang GIIAS 2022. Model terbaru Honda ini&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/514713/sahabat-sandi-gelar-pelatihan-barista-untuk-ciptakan-lapangan-kerja",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTQ3MTMvc2FoYWJhdC1zYW5kaS1nZWxhci1wZWxhdGloYW4tYmFyaXN0YS11bnR1ay1jaXB0YWthbi1sYXBhbmdhbi1rZXJqYQ==",
+        "description": "SANDIUNO menggelar pelatihan Barista Kopi di Seso' Jl Tanah Abang II No.44, Jakarta Pusat. Kegiatan tersebut guna mengasah keterampilan para millenial dalam bidang kopi. Faizal Fiqri Ketua&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/514712/pln-kebut-penataan-infrastruktur-kelistrikan-g20-di-bali",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDcxMi9wbG4ta2VidXQtcGVuYXRhYW4taW5mcmFzdHJ1a3R1ci1rZWxpc3RyaWthbi1nMjAtZGktYmFsaQ==",
+        "description": "PT PLN (Persero) tengah mempercepat penyelesaian infrastruktur pengamanan kelistrikan untuk Konferensi Tingkat Tinggi (KTT) G20 di Bali pada 15 November 2022. Saat ini progres tersebut mencapai 88,6%.&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/514711/pujakesuma-nilai-ganjar-konsisten-rawat-seni-budaya-bangsa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NzExL3B1amFrZXN1bWEtbmlsYWktZ2FuamFyLWtvbnNpc3Rlbi1yYXdhdC1zZW5pLWJ1ZGF5YS1iYW5nc2E=",
+        "description": "RIBUAN mata terarah ke sebuah panggung besar di lapangan Garuda Tanjung Morawa, Deli Serdang, Sumatra Utara. Orang-orang tengah menyaksikan gelaran kesenian tradisional Reog Ponorogo. Kesenian khas&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514710/pelanggaran-kode-etik-berat-ferdy-sambo-berpotensi-dipecat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQ3MTAvcGVsYW5nZ2FyYW4ta29kZS1ldGlrLWJlcmF0LWZlcmR5LXNhbWJvLWJlcnBvdGVuc2ktZGlwZWNhdA==",
+        "description": "INDONESIA Police Watch (IPW) menyampaikan bahwa eks Kadiv Propam Mabes Polri Irjen Ferdy Sambo bisa dijatuhkan sanksi etik berat. Bahkan, dia bisa dipecat dari satuan, jika terbukti melanggar kode&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/514708/sinar-mas-agribusiness-and-food-ajak-masyarakat-garap-kebun-belakang-rumah",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDcwMi9wc20tYmVyYmVrYWwtdHJlbi1wb3NpdGlmLWhhZGFwaS1yYW5zLW51c2FudGFyYQ==",
         "description": "RANS Nusantara FC&nbsp;akan menjamu&nbsp;PSM Makassar&nbsp;pada pekan keempat&nbsp;Liga 1&nbsp;di Stadion Pakansari, Cibinong, Bogor, Jawa Barat, Senin (15/8). Tantangan berat menanti RANS Nusantara&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514704/harga-cabai-rawit-di-bangka-masih-bertengger-rp97-ribu-perkilo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NzA0L2hhcmdhLWNhYmFpLXJhd2l0LWRpLWJhbmdrYS1tYXNpaC1iZXJ0ZW5nZ2VyLXJwOTctcmlidS1wZXJraWxv",
-        "description": "HARGA cabai rawit di pulau Bangka Provinsi Bangka Belitung (Babel) masih tergolong tinggi, meski harga turun tetap tinggi dibanding sebelum lonjakan lalu. Harga cabai rawit masih di angka Rp97 ribu&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/514703/sinergi-kub-untuk-pengembangan-bisnis-bpd",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDcwMy9zaW5lcmdpLWt1Yi11bnR1ay1wZW5nZW1iYW5nYW4tYmlzbmlzLWJwZA==",
-        "description": "DALAM memperkuat stabilitas sistem perbankan Indonesia, Otoritas Jasa Keuangan menelurkan Peraturan Otoritas Jasa Keuangan (POJK) Nomor 12 Tahun 2020 tentang Konsolidasi Bank Umum dan POJK 12 Tahun&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514701/omg-jatim-beberkan-alasan-dukung-ganjar-pranowo-presiden-2024",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0NzAxL29tZy1qYXRpbS1iZWJlcmthbi1hbGFzYW4tZHVrdW5nLWdhbmphci1wcmFub3dvLXByZXNpZGVuLTIwMjQ=",
-        "description": "RIBUAN anak muda&nbsp; gabungan dari&nbsp; Kabupaten/ Kota Mojokerto, Kabupaten Gresik, dan Kabupaten Lamongan sepakat ikut serta dalam gerakan Ganjar Pranowo Presiden 2024. Mereka tertarik karena&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514700/madura-united-tahan-persebaya-dengan-2-2",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDcwMC9tYWR1cmEtdW5pdGVkLXRhaGFuLXBlcnNlYmF5YS1kZW5nYW4tMi0y",
-        "description": "MADURA United berhasil menahan imbang Persebaya Surabaya dengan skor 2-2 pada lanjutan BRI Liga 1 di Stadion Gelora Bung Tomo, Surabaya, Minggu (14/8). Hasil itu membuat Persebaya masih berada&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514699/sinar-mas-land-bantu-penyandang-disabilitas-lansia-yatim-piatu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0Njk5L3NpbmFyLW1hcy1sYW5kLWJhbnR1LXBlbnlhbmRhbmctZGlzYWJpbGl0YXMtbGFuc2lhLXlhdGltLXBpYXR1",
-        "description": "WUJUDKAN kepedulian perusahaan kepada masyarakat sekitar, Sinar Mas Land melalui PT Bumi Serpong Damai Tbk&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/514698/wagub-dki-jakarta-buka-jakarnaval-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTQ2OTgvd2FndWItZGtpLWpha2FydGEtYnVrYS1qYWthcm5hdmFsLTIwMjI=",
-        "description": "WAKIL Gubernur DKI Jakarta Ahmad Riza Patria secara langsung membuka Jakarnaval 2022 di Jakarta International E-Prix Circuit (JIEC), Ancol, Jakarta, pada Minggu (14/8) ini. &quot;Saya mewakili&#8230;"
     }
 ]
