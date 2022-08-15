@@ -1,5 +1,40 @@
 [
     {
+        "title": "Durian Runtuh! Setoran Ekspor Sawit Cetak Rekor",
+        "link": "https://www.cnbcindonesia.com/news/20220815071613-4-363668/durian-runtuh-setoran-ekspor-sawit-cetak-rekor",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA3MTYxMy00LTM2MzY2OC9kdXJpYW4tcnVudHVoLXNldG9yYW4tZWtzcG9yLXNhd2l0LWNldGFrLXJla29y",
+        "description": " Penerimaan BK dari CPO dan produk turunannya pada Juli bahkan menjadi yang tertinggi sepanjang tahun ini."
+    },
+    {
+        "title": "Bocoran Pidato Nota Keuangan Jokowi: Gaji PNS Bakal Naik?",
+        "link": "https://www.cnbcindonesia.com/news/20220815065954-4-363662/bocoran-pidato-nota-keuangan-jokowi-gaji-pns-bakal-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA2NTk1NC00LTM2MzY2Mi9ib2NvcmFuLXBpZGF0by1ub3RhLWtldWFuZ2FuLWpva293aS1nYWppLXBucy1iYWthbC1uYWlr",
+        "description": " Presiden Jokowi akan menyampaikan pidato kenegaraan beserta RUU APBN 2023 dan Nota Keuangan besok"
+    },
+    {
+        "title": "Dunia Diserang Triple Horor! 9 Negara Ini Korbannya, Ada RI?",
+        "link": "https://www.cnbcindonesia.com/news/20220815071610-4-363667/dunia-diserang-triple-horor-9-negara-ini-korbannya-ada-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA3MTYxMC00LTM2MzY2Ny9kdW5pYS1kaXNlcmFuZy10cmlwbGUtaG9yb3ItOS1uZWdhcmEtaW5pLWtvcmJhbm55YS1hZGEtcmk=",
+        "description": " Ekonomi dunia berpotensi gagal mempertahankan momentum pertumbuhan tinggi pascapandemi Covid-19 pada 2023."
+    },
+    {
+        "title": "Live Now! Erick Thohir Buka-Bukaan Soal Babak Baru BUMN",
+        "link": "https://www.cnbcindonesia.com/news/20220815074945-4-363673/live-now-erick-thohir-buka-bukaan-soal-babak-baru-bumn",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA3NDk0NS00LTM2MzY3My9saXZlLW5vdy1lcmljay10aG9oaXItYnVrYS1idWthYW4tc29hbC1iYWJhay1iYXJ1LWJ1bW4=",
+        "description": " dialog eksklusif bersama Menteri BUMN, Erick Thohir dalam segmen Economic Update di program Squawk Box, CNBC Indonesia pukul 08:00-9:30 WIB."
+    },
+    {
+        "title": "Gawat! China Dilaporkan Mulai Serang Rusia",
+        "link": "https://www.cnbcindonesia.com/news/20220815074122-4-363670/gawat-china-dilaporkan-mulai-serang-rusia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA3NDEyMi00LTM2MzY3MC9nYXdhdC1jaGluYS1kaWxhcG9ya2FuLW11bGFpLXNlcmFuZy1ydXNpYQ==",
+        "description": " China dilaporkan mulai melancarkan serangan kepada Rusia."
+    },
+    {
         "title": "Awas! 3 Lembaga Asing Ternama Ini Ungkap Ramalan Mengerikan",
         "link": "https://www.cnbcindonesia.com/news/20220815065715-4-363664/awas-3-lembaga-asing-ternama-ini-ungkap-ramalan-mengerikan",
         "image": "static/images/cnbc_news.png",
@@ -7,7 +42,7 @@
         "description": " Setelah pandemi yang melandai, ekonomi dunia ternyata kembali dihadapkan oleh tantangan hebat."
     },
     {
-        "title": "Putin Disebut Sakit-Sakitan, Ini Calon Penggantinya",
+        "title": "Putin Disebut Sakit-sakitan, Ini Calon Penggantinya",
         "link": "https://www.cnbcindonesia.com/news/20220815071736-4-363666/putin-disebut-sakit-sakitan-ini-calon-penggantinya",
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA3MTczNi00LTM2MzY2Ni9wdXRpbi1kaXNlYnV0LXNha2l0LXNha2l0YW4taW5pLWNhbG9uLXBlbmdnYW50aW55YQ==",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA2NDUwNi00LTM2MzY1OS9ob3Jvci10cmlwbGUta3Jpc2lzLXlhbmctZGlzZWJ1dC1qb2tvd2ktamFkaS1wZXRha2EtYnVhdC1yaQ==",
         "description": " Presiden Joko Widodo (Jokowi) mengemukakan situasi horor yang dialami dunia saat ini."
-    },
-    {
-        "title": "Simak Ciri-ciri Anda Positif Covid Varian Baru, Segera Cek!",
-        "link": "https://www.cnbcindonesia.com/news/20220815063851-4-363656/simak-ciri-ciri-anda-positif-covid-varian-baru-segera-cek",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA2Mzg1MS00LTM2MzY1Ni9zaW1hay1jaXJpLWNpcmktYW5kYS1wb3NpdGlmLWNvdmlkLXZhcmlhbi1iYXJ1LXNlZ2VyYS1jZWs=",
-        "description": " Berikut kriteria Anda terkonfirmasi positif Covid-19 varian baru"
-    },
-    {
-        "title": "5 Larangan 'Gila' di Korea Utara, Warga Asing Berani Coba?",
-        "link": "https://www.cnbcindonesia.com/news/20220815064401-4-363657/5-larangan-gila-di-korea-utara-warga-asing-berani-coba",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA2NDQwMS00LTM2MzY1Ny81LWxhcmFuZ2FuLWdpbGEtZGkta29yZWEtdXRhcmEtd2FyZ2EtYXNpbmctYmVyYW5pLWNvYmE=",
-        "description": " Korea Utara (Korut) dikenal menjadi salah satu negara dengan peraturan yang sangat ketat di dunia."
-    },
-    {
-        "title": "Syarat Naik Pesawat Terbaru 2022, Wajib Tes PCR Bukan Antigen",
-        "link": "https://www.cnbcindonesia.com/news/20220815063404-4-363655/syarat-naik-pesawat-terbaru-2022-wajib-tes-pcr-bukan-antigen",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA2MzQwNC00LTM2MzY1NS9zeWFyYXQtbmFpay1wZXNhd2F0LXRlcmJhcnUtMjAyMi13YWppYi10ZXMtcGNyLWJ1a2FuLWFudGlnZW4=",
-        "description": " Ketentuan atau syarat perjalanan domestik kini diperbarui. Salah satunya, syarat wajib menunjukkan hasil negatif tes PCR."
-    },
-    {
-        "title": "Putin Disebut Buat Kesalahan Besar di Ukraina, Ini Sebabnya",
-        "link": "https://www.cnbcindonesia.com/news/20220815062846-4-363653/putin-disebut-buat-kesalahan-besar-di-ukraina-ini-sebabnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA2Mjg0Ni00LTM2MzY1My9wdXRpbi1kaXNlYnV0LWJ1YXQta2VzYWxhaGFuLWJlc2FyLWRpLXVrcmFpbmEtaW5pLXNlYmFibnlh",
-        "description": " Presiden Rusia Vladimir Putin disebut salah menerapkan strategi saat menyerang Ukraina pada 24 Februari lalu."
-    },
-    {
-        "title": "'Cari Perkara' dengan China, Kongres AS Kunjungi Taiwan",
-        "link": "https://www.cnbcindonesia.com/news/20220815060831-4-363651/cari-perkara-dengan-china-kongres-as-kunjungi-taiwan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA2MDgzMS00LTM2MzY1MS9jYXJpLXBlcmthcmEtZGVuZ2FuLWNoaW5hLWtvbmdyZXMtYXMta3VuanVuZ2ktdGFpd2Fu",
-        "description": " Delegasi Kongres Amerika Serikat (AS) tiba di Taiwan pada Minggu (14/8/2022) untuk menemui Presiden Tsai Ing-wen."
     }
 ]
