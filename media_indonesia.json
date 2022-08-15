@@ -1,5 +1,54 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/514786/sambut-17-agustus-yuni-shara-kenakan-pakaian-ala-pejuang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDc4Ni9zYW1idXQtMTctYWd1c3R1cy15dW5pLXNoYXJhLWtlbmFrYW4tcGFrYWlhbi1hbGEtcGVqdWFuZw==",
+        "description": "PENYANYI Yuni Shara, 50, mengenakan pakaian ala pejuang dalam sebuah pembuatan video klip lagu berjudul Satria Indonesia dalam rangka menyambut HUT&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/514813/pablo-carreno-busta-rebut-gelar-juara-kanada-terbuka-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTQ4MTMvcGFibG8tY2FycmVuby1idXN0YS1yZWJ1dC1nZWxhci1qdWFyYS1rYW5hZGEtdGVyYnVrYS0yMDIy",
+        "description": "Petenis Spanyol Pablo Carreno Busta berhasil merebut gelar juara Kanada Terbuka 2022, sekaligus menjadi gelar pertamanya pada kejuaraan ATP Masters 1000, Senin (15/8) WIB. Tampil sebagai petenis&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/514811/mercedes-tepis-rumor-ganti-hamilton-dengan-sergio-perez",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTQ4MTEvbWVyY2VkZXMtdGVwaXMtcnVtb3ItZ2FudGktaGFtaWx0b24tZGVuZ2FuLXNlcmdpby1wZXJleg==",
+        "description": "Prinsipal Mercedes Toto Wolff, membantah bahwa pihaknya tengah melakukan pembicaraan dengan pemabalap Formula 1 (F1) lain, termasuk Sergio Perez, untuk menggantikan posisi Lewis Hamilton pada balapan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514809/gelar-atria-weddng-fair-x-ohana-enterprise-atria-gading-serpong-siapkan-hadiah-prewedding-di-seoul",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0ODA5L2dlbGFyLWF0cmlhLXdlZGRuZy1mYWlyLXgtb2hhbmEtZW50ZXJwcmlzZS1hdHJpYS1nYWRpbmctc2VycG9uZy1zaWFwa2FuLWhhZGlhaC1wcmV3ZWRkaW5nLWRpLXNlb3Vs",
+        "description": "PANDEMI Covid-19 di tanah air membuat sejumlah calon pasangan pengantin harus menunda rencana pesta pernikahannya di beberapa tahun terakhir. Namun, menyusul diadakannya program vaksinasi booster Covid-19,&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514808/kebijakan-reforma-agraria-jokowi-solusi-tuntaskan-persoalan-tanah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQ4MDgva2ViaWpha2FuLXJlZm9ybWEtYWdyYXJpYS1qb2tvd2ktc29sdXNpLXR1bnRhc2thbi1wZXJzb2FsYW4tdGFuYWg=",
+        "description": "PRESIDEN Joko Widodo (Jokowi) dinilai memiliki komitmen yang kuat dalam upaya meredam konflik agraria di tengah masyarakat. Kebijakan-kebijakan yang dikeluarkannya menjadi solusi dari persoalan yang&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514784/tuchel-tegaskan-tidak-ada-dendam-dengan-conte",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDc4NC90dWNoZWwtdGVnYXNrYW4tdGlkYWstYWRhLWRlbmRhbS1kZW5nYW4tY29udGU=",
+        "description": "DERBI London, yang mempertemukan Chelsea dan Tottenham Hotspur di Stamford Bridge di laga Liga Primer Inggris, Minggu&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/514806/wamen-atr-bpn-raja-juli-antoni-hadiri-peringatan-17-tahun-damai-aceh",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0ODA2L3dhbWVuLWF0ci1icG4tcmFqYS1qdWxpLWFudG9uaS1oYWRpcmktcGVyaW5nYXRhbi0xNy10YWh1bi1kYW1haS1hY2Vo",
+        "description": "WAKIL Menteri Agraria dan Tata Ruang/Wakil Kepala Badan Pertanahan Nasional (ATR/BPN) Raja Juli Antoni menyerahkan sertifikat hak atas tanah kepada masyarakat di di Kabupaten Aceh Besar, Kabupaten&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/514783/conte-puas-spurs-sukses-imbangi-chelsea",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0ODAyL2Rwdy1zYWhhYmF0LWdhbmphci1rYWxzZWwtZ2VsYXIta29uc29saWRhc2kta3VhdGthbi10ZWthZC1tZW51anUtcGlscHJlcy0yMDI0",
         "description": "PERGERAKAN Sahabat Ganjar untuk memenangkan Ganjar Pranowo pada 2024 mendatang semakin aktif di setiap daerah di Indonesia. Karena hal tersebut, DPW Kalimantan siap berjuang dan melakukan konsolidasi&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/514781/berkat-film-12-cerita-glen-anggara-junior-roberts-sadari-makna-waktu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDc4MS9iZXJrYXQtZmlsbS0xMi1jZXJpdGEtZ2xlbi1hbmdnYXJhLWp1bmlvci1yb2JlcnRzLXNhZGFyaS1tYWtuYS13YWt0dQ==",
-        "description": "AKTOR Junior Roberts mengaku dirinya menjadi lebih menyadari tentang makna waktu setelah terlibat memainkan peran utama di film 12 Cerita&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/514801/lima-senator-as-kunjungi-taiwan-tiongkok-marah-lagi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNDgwMS9saW1hLXNlbmF0b3ItYXMta3VuanVuZ2ktdGFpd2FuLXRpb25na29rLW1hcmFoLWxhZ2k=",
-        "description": "Kemarahan Tiongkok kembali membara setelah kunjungan Ketua DPR Amerika Serikat (AS) Nancy Pelosi di Taiwan. Penyebabnya karena Washington mengirim sejumlah pejabat ke pulau yang masuk peta satu-China&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514800/hut-ke-72-jateng-gambarkan-keberagaman-ganjar-tekankan-praktik-baik-ke-jajaran-pemda",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0ODAwL2h1dC1rZS03Mi1qYXRlbmctZ2FtYmFya2FuLWtlYmVyYWdhbWFuLWdhbmphci10ZWthbmthbi1wcmFrdGlrLWJhaWsta2UtamFqYXJhbi1wZW1kYQ==",
-        "description": "UPACARA peringatan HUT ke-72 Provinsi Jawa Tengah di halaman Kantor Gubernur Jawa Tengah diikuti oleh beragam etnis nusantara yang ada di Jawa Tengah. Mereka datang mengenakan pakaian adat dan membawa&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/514799/kementan-indonesia-sudah-dapat-mencukupi-kebutuhan-beras-konsumsi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDc5OS9rZW1lbnRhbi1pbmRvbmVzaWEtc3VkYWgtZGFwYXQtbWVuY3VrdXBpLWtlYnV0dWhhbi1iZXJhcy1rb25zdW1zaQ==",
-        "description": "Kepala Biro Humas dan Informasi Publik Kementerian Pertanian Kuntoro Boga Andri mengatakan bahwa Indonesia memang saat ini sudah bisa mencukupi kebutuhan beras konsumsi. Bahkan stok beras disebutnya&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/514797/banyak-promo-dari-perbankan-semarakkan-77-tahun-indonesia-ini-promo-dari-bank-bjb",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDc5Ny9iYW55YWstcHJvbW8tZGFyaS1wZXJiYW5rYW4tc2VtYXJha2thbi03Ny10YWh1bi1pbmRvbmVzaWEtaW5pLXByb21vLWRhcmktYmFuay1iamI=",
-        "description": "77 tahun silam, naskah Proklamasi dibacakan secara lantang oleh Ir. Soekarno sebagai deklarasi atas kemerdekaan Indonesia. Peristiwa dimana menjadi tonggak sejarah bagi bangsa Indonesia lepas dari&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514740/jalan-kaki-selama-dua-menit-usai-makan-kurangi-turunkan-gula-darah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0NzQwL2phbGFuLWtha2ktc2VsYW1hLWR1YS1tZW5pdC11c2FpLW1ha2FuLWt1cmFuZ2ktdHVydW5rYW4tZ3VsYS1kYXJhaA==",
-        "description": "Tujuh studi yang dilakukan para peneliti di University of Limerick di Irlandia menunjukkan bahwa berjalan kaki selama dua menit setelah makan dapat membantu menurunkan gula darah dan mengurangi risiko&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514795/serahkan-achmad-bakrie-award-puan-apresiasi-dedikasi-dokter-tanggulangi-covid-19",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0Nzk1L3NlcmFoa2FuLWFjaG1hZC1iYWtyaWUtYXdhcmQtcHVhbi1hcHJlc2lhc2ktZGVkaWthc2ktZG9rdGVyLXRhbmdndWxhbmdpLWNvdmlkLTE5",
-        "description": "KETUA DPR RI Puan Maharani ditunjuk sebagai salah satu tokoh yang menyerahkan award kepada pemenang Penghargaan Achmad Bakrie (PAB) XVIII 2022. Puan memberikan selamat kepada seluruh penerima award&#8230;"
     }
 ]
