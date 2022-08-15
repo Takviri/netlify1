@@ -1,10 +1,38 @@
 [
     {
+        "title": "Tak Diduga Puluhan Juta HP Sudah Dibuat di RI, Termasuk Nokia",
+        "link": "https://www.cnbcindonesia.com/news/20220815101537-4-363740/tak-diduga-puluhan-juta-hp-sudah-dibuat-di-ri-termasuk-nokia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTEwMTUzNy00LTM2Mzc0MC90YWstZGlkdWdhLXB1bHVoYW4tanV0YS1ocC1zdWRhaC1kaWJ1YXQtZGktcmktdGVybWFzdWstbm9raWE=",
+        "description": " Indonesia ternyata sudah mampu produksi maupun perakitan ponsel atau HP hingga puluhan juta unit per tahun."
+    },
+    {
+        "title": "Bos PLN Blak-Blakan Soal Pasokan Batu Bara dan Gas Pembangkit",
+        "link": "https://www.cnbcindonesia.com/news/20220815094349-8-363727/bos-pln-blak-blakan-soal-pasokan-batu-bara-gas-pembangkit",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA5NDM0OS04LTM2MzcyNy9ib3MtcGxuLWJsYWstYmxha2FuLXNvYWwtcGFzb2thbi1iYXR1LWJhcmEtZ2FzLXBlbWJhbmdraXQ=",
+        "description": " Bos PLN Blak-Blakan Soal Tersendatnya Pasokan Batu Bara Hingga Gas"
+    },
+    {
+        "title": "Patahkan Ekspektasi Analis, China Pangkas Suku Bunga Pinjaman",
+        "link": "https://www.cnbcindonesia.com/news/20220815102234-4-363742/patahkan-ekspektasi-analis-china-pangkas-suku-bunga-pinjaman",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTEwMjIzNC00LTM2Mzc0Mi9wYXRhaGthbi1la3NwZWt0YXNpLWFuYWxpcy1jaGluYS1wYW5na2FzLXN1a3UtYnVuZ2EtcGluamFtYW4=",
+        "description": " Bank sentral China secara tak terduga memangkas suku bunga utama untuk kedua kalinya tahun ini."
+    },
+    {
         "title": "Semua Orang Ngomongin Sambo, Kuota BBM Lagi Sekarat!",
         "link": "https://www.cnbcindonesia.com/news/20220815093237-4-363720/semua-orang-ngomongin-sambo-kuota-bbm-lagi-sekarat",
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA5MzIzNy00LTM2MzcyMC9zZW11YS1vcmFuZy1uZ29tb25naW4tc2FtYm8ta3VvdGEtYmJtLWxhZ2ktc2VrYXJhdA==",
         "description": " Di saat semua orang bicara mengenai kasus yang menimpa Ferdy Sambo, publik nampaknya lupa bahwa ada hal yang lebih genting"
+    },
+    {
+        "title": "Jerman Tolak Paspor Baru WNI, Ini Penyebabnya!",
+        "link": "https://www.cnbcindonesia.com/news/20220815092944-8-363713/jerman-tolak-paspor-baru-wni-ini-penyebabnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA5Mjk0NC04LTM2MzcxMy9qZXJtYW4tdG9sYWstcGFzcG9yLWJhcnUtd25pLWluaS1wZW55ZWJhYm55YQ==",
+        "description": " Pemerintah Jerman menolak paspor baru Indonesia yang tidak memuat kolom tanda tangan di halaman belakang paspor"
     },
     {
         "title": "Top! RI Bisa Jadi Pusat Industri Panas Bumi Skala Dunia",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA5NTA1NC00LTM2MzczMi9ib3MtcGxuLWJsYWstYmxha2FuLWtvbmRpc2ktc3VwbGFpLWJhdHUtYmFyYS11bnR1ay1wZW1iYW5na2l0",
         "description": " Direktur Utama PLN, Darmawan Prasodjo buka-bukaan soal kondisi batu bara terkini untuk pembangkit listrik PLN"
-    },
-    {
-        "title": "Terungkap! Alasan Daihatsu Bikin Versi Mobil Listrik Ayla",
-        "link": "https://www.cnbcindonesia.com/news/20220815085448-4-363702/terungkap-alasan-daihatsu-bikin-versi-mobil-listrik-ayla",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA4NTQ0OC00LTM2MzcwMi90ZXJ1bmdrYXAtYWxhc2FuLWRhaWhhdHN1LWJpa2luLXZlcnNpLW1vYmlsLWxpc3RyaWstYXlsYQ==",
-        "description": " Daihatsu memperkenalkan Ayla ev di ajang GIIAS 2022."
-    },
-    {
-        "title": "Soal Utang BUMN Karya, Erick Thohir: Lihat Juga Kontribusinya",
-        "link": "https://www.cnbcindonesia.com/news/20220814183352-8-363630/soal-utang-bumn-karya-erick-thohir-lihat-juga-kontribusinya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNDE4MzM1Mi04LTM2MzYzMC9zb2FsLXV0YW5nLWJ1bW4ta2FyeWEtZXJpY2stdGhvaGlyLWxpaGF0LWp1Z2Eta29udHJpYnVzaW55YQ==",
-        "description": " Soal Utang BUMN Karya, Erick Thohir: Lihat Juga Kontribusinya!"
-    },
-    {
-        "title": "Anti Resesi! Ekonomi Jepang Tumbuh 2,2%",
-        "link": "https://www.cnbcindonesia.com/news/20220815093539-4-363723/anti-resesi-ekonomi-jepang-tumbuh-22",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA5MzUzOS00LTM2MzcyMy9hbnRpLXJlc2VzaS1la29ub21pLWplcGFuZy10dW1idWgtMjI=",
-        "description": " Produk Domestik Bruto (PDB) Jepang tumbuh 2,2% year on year (yoy) pada kuartal II-2022."
-    },
-    {
-        "title": "Resmi Naik! Cek Harga Terbaru BBM Pertamina di SPBU Hari Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220815084921-4-363700/resmi-naik-cek-harga-terbaru-bbm-pertamina-di-spbu-hari-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTA4NDkyMS00LTM2MzcwMC9yZXNtaS1uYWlrLWNlay1oYXJnYS10ZXJiYXJ1LWJibS1wZXJ0YW1pbmEtZGktc3BidS1oYXJpLWluaQ==",
-        "description": " Harga BBM non subsidi Pertamina resmi naik pada 3 Agustus 2022"
     }
 ]
