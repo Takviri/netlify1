@@ -1,5 +1,33 @@
 [
     {
+        "title": "Lagi Dihitung! Harga Pertalite Jadi Rp 10.000 per Liter?",
+        "link": "https://www.cnbcindonesia.com/news/20220815201354-4-363986/lagi-dihitung-harga-pertalite-jadi-rp-10000-per-liter",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTIwMTM1NC00LTM2Mzk4Ni9sYWdpLWRpaGl0dW5nLWhhcmdhLXBlcnRhbGl0ZS1qYWRpLXJwLTEwMDAwLXBlci1saXRlcg==",
+        "description": " Bahan Bakar Minyak (BBM) jenis Pertalite akan naik. Lalu berapa harganya?"
+    },
+    {
+        "title": "Hot News: Sinyal Kenaikan BBM, Hingga Triple Krisis Ancam RI",
+        "link": "https://www.cnbcindonesia.com/news/20220815182130-8-363953/hot-news-sinyal-kenaikan-bbm-hingga-triple-krisis-ancam-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTE4MjEzMC04LTM2Mzk1My9ob3QtbmV3cy1zaW55YWwta2VuYWlrYW4tYmJtLWhpbmdnYS10cmlwbGUta3Jpc2lzLWFuY2FtLXJp",
+        "description": " Sinyal kenaikan harga BBM pertalite semakin kuat, jika sebelumnya muncul dari Menteri Investasi / Kepala BKPM Bahlil Lahadalia"
+    },
+    {
+        "title": "Orang Antre Beli Pertalite di SPBU Makin Mengular",
+        "link": "https://www.cnbcindonesia.com/news/20220815181947-7-363954/orang-antre-beli-pertalite-di-spbu-makin-mengular",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTE4MTk0Ny03LTM2Mzk1NC9vcmFuZy1hbnRyZS1iZWxpLXBlcnRhbGl0ZS1kaS1zcGJ1LW1ha2luLW1lbmd1bGFy",
+        "description": " Pemerintah berniat untuk membatasi distribusi Pertalite hanya kepada orang yang berhak agar subsidi energi dapat lebih tepat sasaran. Kini sudah ada antrean."
+    },
+    {
+        "title": "Sita Bahan Baku Baja China, IISIA Sanjung Menteri Perdagangan",
+        "link": "https://www.cnbcindonesia.com/news/20220815200530-4-363984/sita-bahan-baku-baja-china-iisia-sanjung-menteri-perdagangan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTIwMDUzMC00LTM2Mzk4NC9zaXRhLWJhaGFuLWJha3UtYmFqYS1jaGluYS1paXNpYS1zYW5qdW5nLW1lbnRlcmktcGVyZGFnYW5nYW4=",
+        "description": " Produk baja impor BjLS asal China yang disita Kementerian Perdagangan tidak memenuhi kualitas yang dipersyaratkan dan tidak sesuai dengan ketentuan SNI."
+    },
+    {
         "title": "Jreng! Jepang Buat Marah China-Korsel, Bawa Perang Dunia",
         "link": "https://www.cnbcindonesia.com/news/20220815180758-4-363949/jreng-jepang-buat-marah-china-korsel-bawa-perang-dunia",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTE5NDQ0Ni00LTM2Mzk4MS9rYXN1cy1iYXJ1LWNvdmlkLXJpLW5hbWJhaC0zNTg4LTI2LW1lbmluZ2dhbA==",
         "description": " Kementerian Kesehatan mencatat 3.588 kasus baru Covid-19, Senin (15/8/2022)."
-    },
-    {
-        "title": "Diam-diam China Lakukan Serangan Rahasia ke Rusia, Kok Bisa?",
-        "link": "https://www.cnbcindonesia.com/news/20220815182724-4-363963/diam-diam-china-lakukan-serangan-rahasia-ke-rusia-kok-bisa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTE4MjcyNC00LTM2Mzk2My9kaWFtLWRpYW0tY2hpbmEtbGFrdWthbi1zZXJhbmdhbi1yYWhhc2lhLWtlLXJ1c2lhLWtvay1iaXNh",
-        "description": " China dilaporkan melancarkan serangan rahasia ke Rusia."
-    },
-    {
-        "title": "Tren Orang Naik Bus dan Kereta Lagi Tinggi, Pesawat Mahal?",
-        "link": "https://www.cnbcindonesia.com/news/20220815184546-4-363965/tren-orang-naik-bus-dan-kereta-lagi-tinggi-pesawat-mahal",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTE4NDU0Ni00LTM2Mzk2NS90cmVuLW9yYW5nLW5haWstYnVzLWRhbi1rZXJldGEtbGFnaS10aW5nZ2ktcGVzYXdhdC1tYWhhbA==",
-        "description": " Jumlah penumpang angkutan transportasi darat seperti bus dan kereta api tengah meningkat saat ini."
-    },
-    {
-        "title": "Arab Izinkan Warga 49 Negara Umrah Pakai Visa Turis, RI?",
-        "link": "https://www.cnbcindonesia.com/news/20220815171933-4-363933/arab-izinkan-warga-49-negara-umrah-pakai-visa-turis-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTE3MTkzMy00LTM2MzkzMy9hcmFiLWl6aW5rYW4td2FyZ2EtNDktbmVnYXJhLXVtcmFoLXBha2FpLXZpc2EtdHVyaXMtcmk=",
-        "description": " Arab Saudi telah mengizinkan WNA yang memperoleh visa turis dan visa komersial untuk melakukan umrah selama mereka tinggal di negara tersebut."
-    },
-    {
-        "title": "Harga Pertalite Bakal Naik, Hingga Ekonomi Jepang Anti Badai",
-        "link": "https://www.cnbcindonesia.com/news/20220815181334-8-363952/harga-pertalite-bakal-naik-hingga-ekonomi-jepang-anti-badai",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTE4MTMzNC04LTM2Mzk1Mi9oYXJnYS1wZXJ0YWxpdGUtYmFrYWwtbmFpay1oaW5nZ2EtZWtvbm9taS1qZXBhbmctYW50aS1iYWRhaQ==",
-        "description": " Pemerintah diperkirakan tidak akan menambah kuota bahan bakar minyak jenis Pertalite dan Solar subsidi yang saat ini kondisinya sedang sekarat"
     }
 ]
