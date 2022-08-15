@@ -1,5 +1,47 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514904/dpr-kurikulum-merdekadiharapkan-jadi-solusi-kualitas-pendidikan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0OTA0L2Rwci1rdXJpa3VsdW0tbWVyZGVrYWRpaGFyYXBrYW4tamFkaS1zb2x1c2kta3VhbGl0YXMtcGVuZGlkaWthbg==",
+        "description": "MANDEKNYA kualitas pendidikan Indonesia dalam 20 tahun terakhir, berdasarkan pengamatan PISA dari OECD, harus disudahi. Dalam hal ini, melalui penerapan Kurikulum Merdeka, sehingga tidak perlu ada&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514902/update-15-agustus-3588-kasus-covid-19-terdeteksi-hari-ini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0OTAyL3VwZGF0ZS0xNS1hZ3VzdHVzLTM1ODgta2FzdXMtY292aWQtMTktdGVyZGV0ZWtzaS1oYXJpLWluaQ==",
+        "description": "KASUS covid-19 di Indonesia belum menunjukkan tanda melandai. Hari ini, Senin (15/8), kasus covid-19 bertambah 3.588. Sehingga total kasus konfirmasi positif di Indonesia mencapai 6.286.362 orang.&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/514901/iran-akan-sampaikan-proposal-pembicaraan-nuklir-final-senin-malam",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNDkwMS9pcmFuLWFrYW4tc2FtcGFpa2FuLXByb3Bvc2FsLXBlbWJpY2FyYWFuLW51a2xpci1maW5hbC1zZW5pbi1tYWxhbQ==",
+        "description": "MENTERI Luar Negeri Iran mengatakan Teheran akan menyampaikan proposal final pada Senin (15/8) malam dalam pembicaraan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/514900/dukung-green-industry-pt-ksi-siapkan-proyek-krakatau-urban-valley-berkonsep-ramah-lingkungan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDkwMC9kdWt1bmctZ3JlZW4taW5kdXN0cnktcHQta3NpLXNpYXBrYW4tcHJveWVrLWtyYWthdGF1LXVyYmFuLXZhbGxleS1iZXJrb25zZXAtcmFtYWgtbGluZ2t1bmdhbg==",
+        "description": "KONSEP industri yang ramah lingkungan merupakan sesuatu yang sudah harus diterapkan. Karena itu, PT Krakatau Sarana Infrastruktur (KSI) menyiapkan proyek Krakatau Urban Valley yang mengusung konsep&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/514899/tenaga-honorer-mogok-kerja-pelayanan-disdukcapil-bandung-barat-lumpuh",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0ODk5L3RlbmFnYS1ob25vcmVyLW1vZ29rLWtlcmphLXBlbGF5YW5hbi1kaXNkdWtjYXBpbC1iYW5kdW5nLWJhcmF0LWx1bXB1aA==",
+        "description": "PELAYANAN di Dinas Kependudukan dan Pencatatan Sipil (Disdukcapil) Kabupaten Bandung Barat, Jawa Barat, Senin (15/8) terhenti. Akibatnya, warga yang hendak mengurus dokumen kependudukan menjadi terlantar&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/514898/komoditas-kelapa-sawit-catat-kemajuan-dalam-perlindungan-hutan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0ODk4L2tvbW9kaXRhcy1rZWxhcGEtc2F3aXQtY2F0YXQta2VtYWp1YW4tZGFsYW0tcGVybGluZHVuZ2FuLWh1dGFu",
+        "description": "KOMODITAS kelapa sawit tercatat telah membuat kemajuan signifikan dalam perlindungan hutan. Hal tersebut diungkapkan Founder &amp; CEO Satelligence, Niels Wielaard, berdasarkan hasil pemantauan&#8230;"
+    },
+    {
         "title": "Teknologi",
         "link": "https://m.mediaindonesia.com/teknologi/514897/binance-tunjuk-yi-he-pimpin-usaha-modal-ventura-binance-labs",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQ4OTQva29tbmFzLWhhbS1hZGEtdGVtdWFuLXlhbmctY3VtYS1iaXNhLWRpamVsYXNrYW4taXN0cmktc2FtYm8=",
         "description": "KOMISI Nasional Hak Asasi Manusia (Komnas HAM) masih membutuhkan keterangan istri mantan Kadiv Propam Polri Irjen Ferdy Sambo, Putri Candawathi. Keterangan putri dibutuhkan untuk mengonfirmasi sejumlah&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/514892/kebutuhan-hunian-naik-nobu-bank-tangkap-peluang-kpr",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDg5Mi9rZWJ1dHVoYW4taHVuaWFuLW5haWstbm9idS1iYW5rLXRhbmdrYXAtcGVsdWFuZy1rcHI=",
-        "description": "KEBUTUHAN hunian tercatat meningkat secara konsisten setelah pandemi covid-19 menunjukkan kecenderungan mereda. Data Bank Indonesia menunjukkan penyaluran kredit perbankan di sektor properti terus&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514893/tata-kelola-yang-baik-jaga-reputasi-ikn",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQ4OTMvdGF0YS1rZWxvbGEteWFuZy1iYWlrLWphZ2EtcmVwdXRhc2ktaWtu",
-        "description": "Kepala Otorita Ibu Kota Nusantara Bambang Susantono menegaskan, penegakan tata kelola yang yang baik akan menjaga reputasi dan kredibilitas Ibu Kota Nusantara (IKN). Penanganan lingkungan, sosial,&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514891/sandiaga-uno-ciptalapangan-kerja-lewat-desa-wisata-perlang-babel",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0ODkxL3NhbmRpYWdhLXVuby1jaXB0YWxhcGFuZ2FuLWtlcmphLWxld2F0LWRlc2Etd2lzYXRhLXBlcmxhbmctYmFiZWw=",
-        "description": "ANUGERAH Desa Wisata Indonesia (ADWI) 2022 kali ini menyambangi Desa Wisata Perlang. Desa yang berada di Kecamatan Lubuk Besar, Kabupaten Tengah, Provinsi Kepulauan Bangka Belitung&nbsp; (Babel), tersebut&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/514890/airlangga-paparkan-ketahanan-ekonomi-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDg5MC9haXJsYW5nZ2EtcGFwYXJrYW4ta2V0YWhhbmFuLWVrb25vbWktaW5kb25lc2lh",
-        "description": "Perekonomian Indonesia terus menciptakan optimisme dan berhasil bertumbuh di atas 5% pada tiga triwulan terakhir. Bahkan Badan Pusat Statistik menyebutkan pertumbuhan ekonomi Indonesia yang mencapai&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514889/raih-delapan-medali-pemerintah-siapkan-beasiswa-untuk-peserta-ioi-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0ODg5L3JhaWgtZGVsYXBhbi1tZWRhbGktcGVtZXJpbnRhaC1zaWFwa2FuLWJlYXNpc3dhLXVudHVrLXBlc2VydGEtaW9pLTIwMjI=",
-        "description": "Pemerintah Indonesia melalui Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbud-Ristek) menyiapakan bantuan beasiswa bagi peserta International Olympiad in Informatics (IOI) 2022.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514888/wapres-pemerintah-berencana-naikkan-setoran-haji",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0ODg4L3dhcHJlcy1wZW1lcmludGFoLWJlcmVuY2FuYS1uYWlra2FuLXNldG9yYW4taGFqaQ==",
-        "description": "PEMERINTAH berencana menaikkan dana setoran haji kepada calon jemaah. Menurut Wakil Presiden Ma&rsquo;ruf Amin, langkah ini harus dilakukan, agar dana haji yang dikelola Badan Pengelola Keuangan Haji&#8230;"
     }
 ]
