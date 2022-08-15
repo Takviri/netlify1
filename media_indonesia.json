@@ -1,6 +1,48 @@
 [
     {
         "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514974/barcelona-pagari-aubameuang-rp450-miliar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDk3NC9iYXJjZWxvbmEtcGFnYXJpLWF1YmFtZXVhbmctcnA0NTAtbWlsaWFy",
+        "description": "BARCELONA dikabarkan meminta 30 juta euro (sekitar Rp451 miliar) kepada Chelsea untuk melepaskan penyerang Pierre-Emerick Aubameyang pada bursa transfer pemain musim panas ini. Chelsea diketahui&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/514973/dewa-meriahkan-perayaan-hut-ke-77-jawa-barat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0OTczL2Rld2EtbWVyaWFoa2FuLXBlcmF5YWFuLWh1dC1rZS03Ny1qYXdhLWJhcmF0",
+        "description": "&nbsp; BAND papan atas Tanah Air, Dewa, akan memeriahkan perayaan ulang tahun ke-77 Jawa Barat pada 19 Agustus mendatang. Ahmad Dhani dkk akan tampil langsung di Lapangan Tegalega,&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/514970/pt-jaswita-jabar-gandeng-perbankan-siapkan-pembiayaan-bagi-jemaah-umrah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0OTcwL3B0LWphc3dpdGEtamFiYXItZ2FuZGVuZy1wZXJiYW5rYW4tc2lhcGthbi1wZW1iaWF5YWFuLWJhZ2ktamVtYWFoLXVtcmFo",
+        "description": "KEBERANGKATAN umrah sudah kembali normal. Sudah banyak jemaah yang diberangkatkan ke Tanah Suci. Direktur Keuangan PT Jaswita Jabar, Shobirin, mengatakan, pihaknya sudah memberangkatkan tiga&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514971/psm-petik-kemenangan-dari-rans-nusantara",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDk3MS9wc20tcGV0aWsta2VtZW5hbmdhbi1kYXJpLXJhbnMtbnVzYW50YXJh",
+        "description": "PSM Makassar mencuri tiga poin ketika bertandang melawan RANS Nusantara FC pada pekan keempat BRI Liga 1 2022/2023. Kemenangan dipetik skuad Juku Eja secara dramatis melalui gol di penghujung pertandingan.&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/514968/penerapan-kimia-sederhana-dan-kepedulian-kesehatan-warga-desa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTQ5NjgvcGVuZXJhcGFuLWtpbWlhLXNlZGVyaGFuYS1kYW4ta2VwZWR1bGlhbi1rZXNlaGF0YW4td2FyZ2EtZGVzYQ==",
+        "description": "AWAL 2020 dunia mengalami kondisi yang cukup buruk dengan adanya pandemi covid-19. Situasi ini membuat hampir semua sektor mengalami kerugian dan kendala baik finansial maupun yang lainnya, sehingga&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/514969/kominfo-blokir-3164-sebaran-hoaks-vaksin-covid-19",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTQ5Njkva29taW5mby1ibG9raXItMzE2NC1zZWJhcmFuLWhvYWtzLXZha3Npbi1jb3ZpZC0xOQ==",
+        "description": "KEMENTERIAN Komunikasi dan Informatika (Kominfo) menemukan ratusan hoaks terkait vaksin covid-19 hingga Senin (15/8). Hoaks yang disebarkan lebih dari tiga ribu kali di media sosial itu sudah diblokir.&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/514967/psg-tawarkan-icardi-ke-manchester-united-dan-galatasaray",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDk2Ny9wc2ctdGF3YXJrYW4taWNhcmRpLWtlLW1hbmNoZXN0ZXItdW5pdGVkLWRhbi1nYWxhdGFzYXJheQ==",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNDk2NS9kb3Nlbi11Z20tdHJhbnNmb3JtYXNpLWJ1bW4tb2xlaC1lcmljay10aG9oaXItZGluaWxhaS1iZXJoYXNpbA==",
         "description": "FORTUNE Indonesia membuat peringkat 100 perusahaan yang memiliki pendapatan terbesar di Indonesia untuk satu tahun fiskal. Dari jumlah tersebut ada 20 Badan Usaha Milik Negara (BUMN) yang masuk&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514956/masta-masakan-sehat-atasi-stunting-dari-garut",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0OTU2L21hc3RhLW1hc2FrYW4tc2VoYXQtYXRhc2ktc3R1bnRpbmctZGFyaS1nYXJ1dA==",
-        "description": "PROVINSI Jawa Barat merupakan satu dari 12 provinsi prioritas percepatan penurunan stunting nasional karena angka prevalensi stuntingnya tinggi, di atas rata-rata nasional 24,4%. Kabupaten Garut menjadi&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/514962/warga-gunung-sahari-selatan-kemayoran-resah-terancam-kehilangan-tempat-tinggal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTQ5NjIvd2FyZ2EtZ3VudW5nLXNhaGFyaS1zZWxhdGFuLWtlbWF5b3Jhbi1yZXNhaC10ZXJhbmNhbS1rZWhpbGFuZ2FuLXRlbXBhdC10aW5nZ2Fs",
-        "description": "PULUHAN warga RT10/01, Kelurahan Gunung Sahari Selatan (GSS), Kemayoran, Jakarta Pusat resah menyusul adanya rencana eksekusi lahan yang akan dilakukan pihak Pengadilan Negeri (PN) Jakarta Pusat.&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/514961/pacu-umkm-naik-kelas-mceasy-luncurkan-sistem-manajemen-transportasi-versi-mobile",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE0OTYxL3BhY3UtdW1rbS1uYWlrLWtlbGFzLW1jZWFzeS1sdW5jdXJrYW4tc2lzdGVtLW1hbmFqZW1lbi10cmFuc3BvcnRhc2ktdmVyc2ktbW9iaWxl",
-        "description": "USAHA&nbsp;Mikro, Kecil dan Menengah (UMKM) memiliki peran strategis dalam perekonomian.&nbsp;Berdasarkan data Kementerian Koperasi dan Usaha Kecil dan Menengah (Kemenkop UKM), jumlah UMKM di Indonesia&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/514960/rayakan-hut-ri-tiga-bumn-gelar-program-bakti-bumn-di-lampung",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE0OTYwL3JheWFrYW4taHV0LXJpLXRpZ2EtYnVtbi1nZWxhci1wcm9ncmFtLWJha3RpLWJ1bW4tZGktbGFtcHVuZw==",
-        "description": "TIGA BUMN di Provinsi Lampung memeriahkan HUT RI ke-77 dengan menyelenggarakan Program Relawan Bakti BUMN untuk Indonesia. Ketiga BUMN tersebut adalah PT Telkom, PT Bukit Asam dan PTPN VII. Kegiatan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/514958/1706-juta-orang-sudah-divaksinasi-lengkap",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE0OTU4LzE3MDYtanV0YS1vcmFuZy1zdWRhaC1kaXZha3NpbmFzaS1sZW5na2Fw",
-        "description": "PEMERINTAH terus masyarakat Indonesia yang disuntik vaksin covid-19 dosis kedua terus bertambah. Total 170.501.541 orang telah menerima vaksin lengkap per Senin (15/8) &quot;Jumlah yang disuntik&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/514957/disdik-dki-jakarta-jamin-keberagamaan-di-lingkungan-sekolah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTQ5NTcvZGlzZGlrLWRraS1qYWthcnRhLWphbWluLWtlYmVyYWdhbWFhbi1kaS1saW5na3VuZ2FuLXNla29sYWg=",
-        "description": "DINAS Pendidikan (Disdik) DKI Jakarta menjamin adanya proses edukasi tentang keberagaman dan sikap saling menghargai di seluruh sekolah Ibu Kota.&nbsp; Organisasi perangkat daerah (OPD) tersebut&#8230;"
     }
 ]
