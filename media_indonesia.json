@@ -1,5 +1,19 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/515008/ini-manfaat-mendongeng-di-era-digitalisasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1MDA4L2luaS1tYW5mYWF0LW1lbmRvbmdlbmctZGktZXJhLWRpZ2l0YWxpc2FzaQ==",
+        "description": "MENDONGENG adalah budaya yang identik dilakukan melalui lisan dan tulisan. Umumnya dilakukan oleh orangtua kepada anak sebelum&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/515006/okaay-rilis-album-perdana",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTAwNi9va2FheS1yaWxpcy1hbGJ1bS1wZXJkYW5h",
+        "description": "DUO asal Indonesia OKAAY, yang digawangi Niko Al Hakim alias Okin bersama Kaay merilis album perdana mereka Together We Are Okaay,&#8230;"
+    },
+    {
         "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/515009/johnny-depp-bakal-sutradarai-film-biografi-amedeo-modigliani",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNDk5OS9wZW5nYWRpbGFuLW15YW5tYXItamF0dWhrYW4tdm9uaXMtZW5hbS10YWh1bi11bnR1ay1zdXUta3lpLWRhbGFtLWthc3VzLWtvcnVwc2k=",
         "description": "PENGADILAN junta Myanmar menjatuhkan vonis penjara selama enam tahun kepada Aung San Suu Kyi atas tuduhan korupsi. Vonis itu membuat&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/515000/osimhen-jadi-sasaran-pelcehan-rasial-saat-napoli-bekap-verona",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTAwMC9vc2ltaGVuLWphZGktc2FzYXJhbi1wZWxjZWhhbi1yYXNpYWwtc2FhdC1uYXBvbGktYmVrYXAtdmVyb25h",
-        "description": "NAPOLI membukukan kemenangan telak 5-2 atas Verona di pekan pertama Serie A, Selasa (16/8), yang diwarnai aksi rasisme pendukung&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/514952/kemerdekaan-kemiskinan-dan-pendidikan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTQ5NTIva2VtZXJkZWthYW4ta2VtaXNraW5hbi1kYW4tcGVuZGlkaWthbg==",
-        "description": "SETIAP perayaan hari kemerdekaan kita selalu ingat janji kemerdekaan. Janji tersebut termuat dalam Pembukaan UUD 1945, pemerintah negara Indonesia melindungi segenap bangsa Indonesia dan seluruh tumpah&#8230;"
     }
 ]
