@@ -1,5 +1,47 @@
 [
     {
+        "title": "Bamsoet Ajak HIPMI Dukung Sejuta Wirausaha Baru",
+        "link": "https://nasional.tempo.co/read/1623099/bamsoet-ajak-hipmi-dukung-sejuta-wirausaha-baru",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMwOTkvYmFtc29ldC1hamFrLWhpcG1pLWR1a3VuZy1zZWp1dGEtd2lyYXVzYWhhLWJhcnU=",
+        "description": "HIPMI bisa berperan dengan membantu percepatan migrasi kendaraan dari berbahan bakar minyak ke bermotor listrik."
+    },
+    {
+        "title": "Syarief Hasan Soroti Lonjakan Inflasi Pangan",
+        "link": "https://nasional.tempo.co/read/1623097/syarief-hasan-soroti-lonjakan-inflasi-pangan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMwOTcvc3lhcmllZi1oYXNhbi1zb3JvdGktbG9uamFrYW4taW5mbGFzaS1wYW5nYW4=",
+        "description": "Inflasi pangan pada Juli 2022 yang mencapai angka 11,47 persen. Inflasi yang normal di angka 5-6 persen."
+    },
+    {
+        "title": "Indonesia Swasembada Beras, Mentan SYL: Kejayaan Terulang",
+        "link": "https://nasional.tempo.co/read/1623094/indonesia-swasembada-beras-mentan-syl-kejayaan-terulang",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMwOTQvaW5kb25lc2lhLXN3YXNlbWJhZGEtYmVyYXMtbWVudGFuLXN5bC1rZWpheWFhbi10ZXJ1bGFuZw==",
+        "description": "Pada tahun 1984, Pak Harto mendapatkan penghargaan swasembada beras dari FAO."
+    },
+    {
+        "title": "Kejaksaan Agung Resmi Tahan Surya Darmadi di Rutan Salemba",
+        "link": "https://nasional.tempo.co/read/1623091/kejaksaan-agung-resmi-tahan-surya-darmadi-di-rutan-salemba",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMwOTEva2VqYWtzYWFuLWFndW5nLXJlc21pLXRhaGFuLXN1cnlhLWRhcm1hZGktZGktcnV0YW4tc2FsZW1iYQ==",
+        "description": "Surya Darmadi menyerahkan diri ke Kejaksaan setelah menjadi buronan. Dia terbang dari Taiwan ke Indonesia untuk memenuhi panggilan Kejaksaan Agung."
+    },
+    {
+        "title": "Diakui Lembaga Internasional Sudah Swasembada, Kementan: Stok Beras Lebih Dari 10 Juta Ton",
+        "link": "https://nasional.tempo.co/read/1623093/diakui-lembaga-internasional-sudah-swasembada-kementan-stok-beras-lebih-dari-10-juta-ton",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMwOTMvZGlha3VpLWxlbWJhZ2EtaW50ZXJuYXNpb25hbC1zdWRhaC1zd2FzZW1iYWRhLWtlbWVudGFuLXN0b2stYmVyYXMtbGViaWgtZGFyaS0xMC1qdXRhLXRvbg==",
+        "description": "Kuntoro menyatakan Indonesia sudah tidak mengimpor beras konsumsi."
+    },
+    {
+        "title": "Zulhas Ingin Dukung Sandiaga Uno di 2024, Sekjen PAN: Bagian Komunikasi Politik",
+        "link": "https://nasional.tempo.co/read/1623089/zulhas-ingin-dukung-sandiaga-uno-di-2024-sekjen-pan-bagian-komunikasi-politik",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMwODkvenVsaGFzLWluZ2luLWR1a3VuZy1zYW5kaWFnYS11bm8tZGktMjAyNC1zZWtqZW4tcGFuLWJhZ2lhbi1rb211bmlrYXNpLXBvbGl0aWs=",
+        "description": "Sekretaris Jenderal Partai Amanat Nasional (PAN), Eddy Soeparno, menyebut pernyataan Zulkifli Hasan atau Zulhas yang ingin mendukung Sandiaga Uno dalam Pilpres 2024 merupakan bagian dari komunikasi politik. Ketua Umum PAN itu menyampaikan dukungannya saat bertemu Sandiaga di Retail Summit 2022, Sarinah, Jakarta Pusat hari ini."
+    },
+    {
         "title": "Timnas U-16 Diundang Hadiri Upacara 17 Agustus di Istana Merdeka",
         "link": "https://nasional.tempo.co/read/1623078/timnas-u-16-diundang-hadiri-upacara-17-agustus-di-istana-merdeka",
         "image": "static/images/tempo_nasional.png",
@@ -26,47 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMwNTcvcGVuZ2FjYXJhLXNlYnV0LXN1cnlhLWRhcm1hZGktbWFuZ2tpci1kYXJpLXBhbmdnaWxhbi1rZWphZ3VuZy1rYXJlbmEtdGFrLXRhaHU=",
         "description": "Kejaksaan Agung pada 1 Agustus 2022 menetapkan Surya Darmadi sebagai tersangka atas dugaan penyerobotan lahan kelapa sawit dengan luas 37.095 hektare"
-    },
-    {
-        "title": "KPK akan Koordinasi Soal Surya Darmadi yang Serahkan Diri ke Kejaksaan Agung",
-        "link": "https://nasional.tempo.co/read/1623053/kpk-akan-koordinasi-soal-surya-darmadi-yang-serahkan-diri-ke-kejaksaan-agung",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMwNTMva3BrLWFrYW4ta29vcmRpbmFzaS1zb2FsLXN1cnlhLWRhcm1hZGkteWFuZy1zZXJhaGthbi1kaXJpLWtlLWtlamFrc2Fhbi1hZ3VuZw==",
-        "description": "Surya Darmadi menyerahkan diri ke Kejaksaan Agung pada Senin, 15 Agustus 2022. Kejaksaan berencana akan langsung menahan konglomerat itu."
-    },
-    {
-        "title": "Komnas HAM Temukan Indikasi Obstruction of Justice di TKP Duren Tiga",
-        "link": "https://nasional.tempo.co/read/1623044/komnas-ham-temukan-indikasi-obstruction-of-justice-di-tkp-duren-tiga",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMwNDQva29tbmFzLWhhbS10ZW11a2FuLWluZGlrYXNpLW9ic3RydWN0aW9uLW9mLWp1c3RpY2UtZGktdGtwLWR1cmVuLXRpZ2E=",
-        "description": "Saat di dalam TKP, Komnas HAM langsung menguji atau mencocokkan sejumlah foto atau keterangan yang sebelumnya t"
-    },
-    {
-        "title": "Bamsoet Akui PPHN Buat Jamin Keberlangsungan IKN",
-        "link": "https://nasional.tempo.co/read/1623037/bamsoet-akui-pphn-buat-jamin-keberlangsungan-ikn",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMwMzcvYmFtc29ldC1ha3VpLXBwaG4tYnVhdC1qYW1pbi1rZWJlcmxhbmdzdW5nYW4taWtu",
-        "description": "Untuk menjamin keberlanjutan proyek IKN, kata Bamsoet, maka pihaknya bakal memasukkan IKN ke dalam PPHN agar tetap bisa berlanjut."
-    },
-    {
-        "title": "Bamsoet Apresiasi Penghargaan Achmad Bakrie XVIII 2022",
-        "link": "https://nasional.tempo.co/read/1623043/bamsoet-apresiasi-penghargaan-achmad-bakrie-xviii-2022",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMwNDMvYmFtc29ldC1hcHJlc2lhc2ktcGVuZ2hhcmdhYW4tYWNobWFkLWJha3JpZS14dmlpaS0yMDIy",
-        "description": "Sejak digelar perdana pada 2003, Penghargaan Achmad Bakrie telah memberikan penghargaan kepada sekitar 80 tokoh/lembaga."
-    },
-    {
-        "title": "Ketua MPR Laporkan Perkembangan PPHN di Sidang Tahunan Besok",
-        "link": "https://nasional.tempo.co/read/1623029/ketua-mpr-laporkan-perkembangan-pphn-di-sidang-tahunan-besok",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMwMjkva2V0dWEtbXByLWxhcG9ya2FuLXBlcmtlbWJhbmdhbi1wcGhuLWRpLXNpZGFuZy10YWh1bmFuLWJlc29r",
-        "description": "Bamsoetmengatakan bahwa rapat gabungan MPR bersama fraksi dan kelompok DPD telah menyetujui pembentukan panitia ad hoc PPHN."
-    },
-    {
-        "title": "Jokowi Kukuhkan Paskibraka 17 Agustus di Istana Merdeka",
-        "link": "https://nasional.tempo.co/read/1623024/jokowi-kukuhkan-paskibraka-17-agustus-di-istana-merdeka",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMwMjQvam9rb3dpLWt1a3Voa2FuLXBhc2tpYnJha2EtMTctYWd1c3R1cy1kaS1pc3RhbmEtbWVyZGVrYQ==",
-        "description": "Presiden Jokowi mengukuhkan Pasukan Pengibar Bendera Pusaka (Paskibraka) di Istana Merdeka, Jakarta Pusat sore ini. ."
     }
 ]
