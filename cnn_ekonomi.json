@@ -1,5 +1,19 @@
 [
     {
+        "title": "Garuda Tebar Diskon 15 Persen ke 10 Rute",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220815175032-92-834930/garuda-tebar-diskon-15-persen-ke-10-rute",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTc1MDMyLTkyLTgzNDkzMC9nYXJ1ZGEtdGViYXItZGlza29uLTE1LXBlcnNlbi1rZS0xMC1ydXRl",
+        "description": " Garuda Indonesia memberikan diskon 15 persen beserta berbagai cashback jika membayar dengan BNI. Dengan diskon itu, berikut harga tiket ke 10 rute."
+    },
+    {
+        "title": "Ma'ruf Amin Soroti Subsidi Biaya Haji Rp60 Juta dari BPKH",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220815170851-532-834905/maruf-amin-soroti-subsidi-biaya-haji-rp60-juta-dari-bpkh",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTcwODUxLTUzMi04MzQ5MDUvbWFydWYtYW1pbi1zb3JvdGktc3Vic2lkaS1iaWF5YS1oYWppLXJwNjAtanV0YS1kYXJpLWJwa2g=",
+        "description": " Wapres Ma'ruf Amin menyebut subsidi biaya haji yang dikeluarkan BPKH terlalu besar karena mencapai Rp60 juta dari total biaya Rp100 juta per orang."
+    },
+    {
         "title": "Kemendag Targetkan Pembentukan Bursa Kripto di RI Kelar Tahun Ini",
         "link": "https://www.cnnindonesia.com/ekonomi/20220815160951-92-834860/kemendag-targetkan-pembentukan-bursa-kripto-di-ri-kelar-tahun-ini",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTU0ODEzLTgzLTgzNDg0Ny9rZW1lbmRhZ3JpLWRhZXJhaC1iaXNhLWhhcHVzLXBhamFrLXByb2dyZXNpZi1rZW5kYXJhYW4tZGFuLWJibi0y",
         "description": " Kemendagri menyampaikan, pemerintah daerah bisa menghapus menghapus pajak progresif dan bea balik nama kendaraan bermotor atas kendaraan bekas."
-    },
-    {
-        "title": "Profil Surya Darmadi, Taipan Tersangka Korupsi yang Rugikan RI Rp78 T",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220815145001-92-834787/profil-surya-darmadi-taipan-tersangka-korupsi-yang-rugikan-ri-rp78-t",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTQ1MDAxLTkyLTgzNDc4Ny9wcm9maWwtc3VyeWEtZGFybWFkaS10YWlwYW4tdGVyc2FuZ2thLWtvcnVwc2kteWFuZy1ydWdpa2FuLXJpLXJwNzgtdA==",
-        "description": " Pengusaha sawit Surya Darmadi sekarang ini menjadi tersangka korupsi yang disebut merugikan negara Rp78 triliun. Berikut profilnya."
-    },
-    {
-        "title": "IHSG Loyo ke 7.093 Awal Pekan Ini",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220815150652-92-834816/ihsg-loyo-ke-7093-awal-pekan-ini",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTUwNjUyLTkyLTgzNDgxNi9paHNnLWxveW8ta2UtNzA5My1hd2FsLXBla2FuLWluaQ==",
-        "description": " IHSG ditutup di 7.093 pada Senin (15/8) ini. Posisi itu melemah 36 poin atau 0,5 persen dibandingkan Jumat (12/8) kemarin."
     }
 ]
