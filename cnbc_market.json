@@ -1,5 +1,47 @@
 [
     {
+        "title": "Kenalin, Calon Emiten Batu Bara Baru: Black Diamond Resources",
+        "link": "https://www.cnbcindonesia.com/market/20220815093149-17-363719/kenalin-calon-emiten-batu-bara-baru-black-diamond-resources",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MDkzMTQ5LTE3LTM2MzcxOS9rZW5hbGluLWNhbG9uLWVtaXRlbi1iYXR1LWJhcmEtYmFydS1ibGFjay1kaWFtb25kLXJlc291cmNlcw==",
+        "description": " PT Black Diamond Resources Tbk (COAL), perusahaan tambang batu bara, berencana melantai di Bursa Efek Indonesia (BEI) dengan dana yang diincar Rp 227,5 miliar"
+    },
+    {
+        "title": "Jelang Rilis Necara Dagang RI, IHSG Sesi I Berakhir Merah!",
+        "link": "https://www.cnbcindonesia.com/market/20220815113631-17-363772/jelang-rilis-necara-dagang-ri-ihsg-sesi-i-berakhir-merah",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MTEzNjMxLTE3LTM2Mzc3Mi9qZWxhbmctcmlsaXMtbmVjYXJhLWRhZ2FuZy1yaS1paHNnLXNlc2ktaS1iZXJha2hpci1tZXJhaA==",
+        "description": " Indeks Harga Saham Gabungan (IHSG) berakhir terkoreksi 0,2% ke 7.114,8 pada penutupan perdagangan sesi I Senin (15/8/2022)."
+    },
+    {
+        "title": "Menuju Ethereum 2.0, Harga Ethereum Nyaris Sentuh US$ 2.000",
+        "link": "https://www.cnbcindonesia.com/market/20220815101426-17-363738/menuju-ethereum-20-harga-ethereum-nyaris-sentuh-us--2000",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MTAxNDI2LTE3LTM2MzczOC9tZW51anUtZXRoZXJldW0tMjAtaGFyZ2EtZXRoZXJldW0tbnlhcmlzLXNlbnR1aC11cy0tMjAwMA==",
+        "description": " Harga Kripto Ethereum Nyaris Menyentuh US$ 2.000, jelang\u00c2\u00a0upgrade atau\u00c2\u00a0merge yang diberi nama Ethereum 2.0"
+    },
+    {
+        "title": "Laba LSIP Tumbuh 8,41%, Saat Terjadi Penurunan Penjualan",
+        "link": "https://www.cnbcindonesia.com/market/20220815112404-17-363771/laba-lsip-tumbuh-841-saat-terjadi-penurunan-penjualan",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MTEyNDA0LTE3LTM2Mzc3MS9sYWJhLWxzaXAtdHVtYnVoLTg0MS1zYWF0LXRlcmphZGktcGVudXJ1bmFuLXBlbmp1YWxhbg==",
+        "description": " Pendapatan perseroan tercatat mengalami penurunan, pada saat pemerintah menerapkan larangan ekspor sawit pada kuartal II-2022."
+    },
+    {
+        "title": "Erick Thohir Wanti-wanti 2023, Banyak Negara Bisa Bangkrut",
+        "link": "https://www.cnbcindonesia.com/market/20220815105146-17-363754/erick-thohir-wanti-wanti-2023-banyak-negara-bisa-bangkrut",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MTA1MTQ2LTE3LTM2Mzc1NC9lcmljay10aG9oaXItd2FudGktd2FudGktMjAyMy1iYW55YWstbmVnYXJhLWJpc2EtYmFuZ2tydXQ=",
+        "description": " Erick mengungkapkan, artinya, Indonesia harus memperkuat perekonomian dalam negeri"
+    },
+    {
+        "title": "To The Moon, Laba Aramco Melesat 90%",
+        "link": "https://www.cnbcindonesia.com/market/20220815103937-19-363745/to-the-moon-laba-aramco-melesat-90",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MTAzOTM3LTE5LTM2Mzc0NS90by10aGUtbW9vbi1sYWJhLWFyYW1jby1tZWxlc2F0LTkw",
+        "description": " Saudi Aramco melesat hingga 90% pada kuartal kedua tahun 2022 ini atau mencapai 48,4 Miliar USD"
+    },
+    {
         "title": "UMKM Naik Kelas, Erick: Ekonomi Kerakyatan Jadi Fondasi",
         "link": "https://www.cnbcindonesia.com/market/20220815111946-17-363762/umkm-naik-kelas-erick-ekonomi-kerakyatan-jadi-fondasi",
         "image": "static/images/cnbc_market.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MTEwODI1LTE3LTM2Mzc1OS91dGFuZy1sdWFyLW5lZ2VyaS1yaS1tZW55dXN1dC1kYXJpLWNoaW5hLS1hcy1zaXNhLXNlZ2luaQ==",
         "description": " Utang Luar Negeri (ULN) Indonesia pada kuartal-II 2022 tercatat sebesar US$ 403,0 miliar atau Rp 5.919,2 triliun (kurs Rp 14.688/US$)."
-    },
-    {
-        "title": "Masih Takut Resesi? Investasi Ini Bisa Kasih Cuan Gede",
-        "link": "https://www.cnbcindonesia.com/market/20220815094943-17-363731/masih-takut-resesi-investasi-ini-bisa-kasih-cuan-gede",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MDk0OTQzLTE3LTM2MzczMS9tYXNpaC10YWt1dC1yZXNlc2ktaW52ZXN0YXNpLWluaS1iaXNhLWthc2loLWN1YW4tZ2VkZQ==",
-        "description": " Setidaknya masih terdapat sejumlah kelas aset lain atau bagian dari kelas aset yang secara historis terbukti dapat melindungi harta yang nilainya kian menciut."
-    },
-    {
-        "title": "Surya Darmadi Pelaku Korupsi Terbesar, Tiba di RI Hari Ini",
-        "link": "https://www.cnbcindonesia.com/market/20220815104920-17-363751/surya-darmadi-pelaku-korupsi-terbesar-tiba-di-ri-hari-ini",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MTA0OTIwLTE3LTM2Mzc1MS9zdXJ5YS1kYXJtYWRpLXBlbGFrdS1rb3J1cHNpLXRlcmJlc2FyLXRpYmEtZGktcmktaGFyaS1pbmk=",
-        "description": " Dalam kasus ini, Kejagung juga menetapkan mantan Bupati Indragiri Hulu (Inhu) sebagai tersangka di kasus ini."
-    },
-    {
-        "title": "Top! Utang Luar Negeri RI Turun Terus, Kini Tersisa Rp5.919 T",
-        "link": "https://www.cnbcindonesia.com/market/20220815105112-17-363753/top-utang-luar-negeri-ri-turun-terus-kini-tersisa-rp5919-t",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MTA1MTEyLTE3LTM2Mzc1My90b3AtdXRhbmctbHVhci1uZWdlcmktcmktdHVydW4tdGVydXMta2luaS10ZXJzaXNhLXJwNTkxOS10",
-        "description": " ULN Indonesia pada kuartal-II 2022 menurun. Posisi ULN Indonesia pada akhir triwulan II 2022 tercatat sebesar US$ 403,0 miliar atau Rp 5.919,2 triliun"
-    },
-    {
-        "title": "5 BUMN China Hengkang Dari Wall Street",
-        "link": "https://www.cnbcindonesia.com/market/20220815103810-19-363743/5-bumn-china-hengkang-dari-wall-street",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MTAzODEwLTE5LTM2Mzc0My81LWJ1bW4tY2hpbmEtaGVuZ2thbmctZGFyaS13YWxsLXN0cmVldA==",
-        "description": " 5 Badan Usaha Milik Negara China memutuskan untuk delisting dari New York Stock Exchange pada akhir Agustus ini"
-    },
-    {
-        "title": "Raksasa Teknologi PHK Karyawan, Dari Amazon Hingga Microsoft",
-        "link": "https://www.cnbcindonesia.com/market/20220815094045-17-363725/raksasa-teknologi-phk-karyawan-dari-amazon-hingga-microsoft",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MDk0MDQ1LTE3LTM2MzcyNS9yYWtzYXNhLXRla25vbG9naS1waGsta2FyeWF3YW4tZGFyaS1hbWF6b24taGluZ2dhLW1pY3Jvc29mdA==",
-        "description": " Keputusan PHK bukan tanpa alasan."
-    },
-    {
-        "title": "Pengacara Hotman Paris Siap Bela Pegawai Alfamart, Gratis!",
-        "link": "https://www.cnbcindonesia.com/market/20220815103902-17-363747/pengacara-hotman-paris-siap-bela-pegawai-alfamart-gratis",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MTAzOTAyLTE3LTM2Mzc0Ny9wZW5nYWNhcmEtaG90bWFuLXBhcmlzLXNpYXAtYmVsYS1wZWdhd2FpLWFsZmFtYXJ0LWdyYXRpcw==",
-        "description": " Sedang berada di Bali, Hotman menjelaskan kalau dirinya siap membela pegawai Alfamart tanpa tarif sepeser pun"
     }
 ]
