@@ -1,5 +1,33 @@
 [
     {
+        "title": "IHSG Loyo ke 7.093 Awal Pekan Ini",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220815150652-92-834816/ihsg-loyo-ke-7093-awal-pekan-ini",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTUwNjUyLTkyLTgzNDgxNi9paHNnLWxveW8ta2UtNzA5My1hd2FsLXBla2FuLWluaQ==",
+        "description": " IHSG ditutup di 7.093 pada Senin (15/8) ini. Posisi itu melemah 36 poin atau 0,5 persen dibandingkan Jumat (12/8) kemarin."
+    },
+    {
+        "title": "7 Ide Bisnis untuk 17 Agustus yang Mendulang Cuan",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220810180504-97-834728/7-ide-bisnis-untuk-17-agustus-yang-mendulang-cuan",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEwMTgwNTA0LTk3LTgzNDcyOC83LWlkZS1iaXNuaXMtdW50dWstMTctYWd1c3R1cy15YW5nLW1lbmR1bGFuZy1jdWFu",
+        "description": " Peringatan HUT RI bisa dimanfaatkan untuk menambah pundi-pundi rupiah. Berikut 7 rekomendasi ide bisnis untuk 17 Agustus yang datangkan cuan."
+    },
+    {
+        "title": "Meikarta Respons Jerit Pembeli Tak Kunjung Terima Apartemen Sejak 2019",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220815144257-92-834780/meikarta-respons-jerit-pembeli-tak-kunjung-terima-apartemen-sejak-2019",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTQ0MjU3LTkyLTgzNDc4MC9tZWlrYXJ0YS1yZXNwb25zLWplcml0LXBlbWJlbGktdGFrLWt1bmp1bmctdGVyaW1hLWFwYXJ0ZW1lbi1zZWphay0yMDE5",
+        "description": " Mahkota Sentosa Utama angkat suara soal keluhan Perkumpulan Komunitas Peduli Konsumen Meikarta yang tak kunjung mendapat apartemen. Begini dalih mereka."
+    },
+    {
+        "title": "Hari UMKM, Sejumlah UMKM Alami Lonjakan Penjualan di Tokopedia",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220815145127-97-834788/hari-umkm-sejumlah-umkm-alami-lonjakan-penjualan-di-tokopedia",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTQ1MTI3LTk3LTgzNDc4OC9oYXJpLXVta20tc2VqdW1sYWgtdW1rbS1hbGFtaS1sb25qYWthbi1wZW5qdWFsYW4tZGktdG9rb3BlZGlh",
+        "description": " Tokopedia sebagai bagian dari Grup GoTo terus berkolaborasi membantu UMKM lokal menciptakan peluang melalui pemanfaatan teknologi."
+    },
+    {
         "title": "Impor Gandum RI dari Ukraina Anjlok 97 Persen Sejak Awal Tahun",
         "link": "https://www.cnnindonesia.com/ekonomi/20220815143613-92-834777/impor-gandum-ri-dari-ukraina-anjlok-97-persen-sejak-awal-tahun",
         "image": "static/images/cnn_ekonomi.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTE1NDE0LTc4LTgzNDY4NS9jaGluYS1wYW5na2FzLXN1a3UtYnVuZ2EtYWN1YW4tZGVtaS1kb25na3Jhay1la29ub21p",
         "description": " Bank sentral China (People's Bank of China/ PBoC) memangkas suku bunga acuan pinjaman satu tahun 10 basis poin ke 2,75 persen pada Senin (15/8)."
-    },
-    {
-        "title": "Syarat Pencairan BPJS Ketenagakerjaan, Pensiun sampai Klaim Sebagian",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220815111943-83-834667/syarat-pencairan-bpjs-ketenagakerjaan-pensiun-sampai-klaim-sebagian",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTExOTQzLTgzLTgzNDY2Ny9zeWFyYXQtcGVuY2FpcmFuLWJwanMta2V0ZW5hZ2FrZXJqYWFuLXBlbnNpdW4tc2FtcGFpLWtsYWltLXNlYmFnaWFu",
-        "description": " Peserta BPJS Ketenagakerjaan dapat mencairkan Jaminan Hari Tua (JHT)-nya.\u00c2\u00a0Berikut\u00c2\u00a0kriteria dan syarat pencairan BPJS Ketenagakerjaan yang harus dipenuhi."
-    },
-    {
-        "title": "Alfamart Tunjuk Hotman Paris Jadi Kuasa Hukum Pegawai Diancam UU ITE",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220815122126-92-834698/alfamart-tunjuk-hotman-paris-jadi-kuasa-hukum-pegawai-diancam-uu-ite",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTIyMTI2LTkyLTgzNDY5OC9hbGZhbWFydC10dW5qdWstaG90bWFuLXBhcmlzLWphZGkta3Vhc2EtaHVrdW0tcGVnYXdhaS1kaWFuY2FtLXV1LWl0ZQ==",
-        "description": " Alfamart\u00c2\u00a0menunjuk pengacara Hotman Paris Hutapea sebagai kuasa hukum atas kasus intimidasi yang dialami oleh salah satu karyawannya di cabang Sampora Tangsel."
-    },
-    {
-        "title": "Surplus Neraca Dagang RI Turun Jadi US$4,23 M per Juli 2022",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220815105441-92-834656/surplus-neraca-dagang-ri-turun-jadi-us-423-m-per-juli-2022",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTA1NDQxLTkyLTgzNDY1Ni9zdXJwbHVzLW5lcmFjYS1kYWdhbmctcmktdHVydW4tamFkaS11cy00MjMtbS1wZXItanVsaS0yMDIy",
-        "description": " BPS mencatat neraca dagang RI turun dari US$5,15 miliar menjadi US$4,23 miliar pada Juli 2022."
-    },
-    {
-        "title": "Setiap Senin, Belanja Buah di Transmart Diskonnya Dobel",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220815115108-97-834683/setiap-senin-belanja-buah-di-transmart-diskonnya-dobel",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTE1MTA4LTk3LTgzNDY4My9zZXRpYXAtc2VuaW4tYmVsYW5qYS1idWFoLWRpLXRyYW5zbWFydC1kaXNrb25ueWEtZG9iZWw=",
-        "description": " Transmart kasih diskon 10 persen plus 10 persen untuk belanja aneka buah segar lokal dan impor pakai Allo Bank."
     }
 ]
