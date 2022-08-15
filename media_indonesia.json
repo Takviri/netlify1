@@ -1,5 +1,12 @@
 [
     {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/514991/apple-ancang-ancang-genjot-iklan-di-aplikasi-bawaan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNDk5MS9hcHBsZS1hbmNhbmctYW5jYW5nLWdlbmpvdC1pa2xhbi1kaS1hcGxpa2FzaS1iYXdhYW4=",
+        "description": "Apple Inc dikabarkan akan menampilkan lebih banyak iklan di aplikasi bawaan yang terdapat di perangkat iPhone dan produk Apple lainnya. Iklan-iklan tersebut akan muncul di beberapa aplikasi populer&#8230;"
+    },
+    {
         "title": "Otomotif",
         "link": "https://m.mediaindonesia.com/otomotif/514992/giias-tawarkan-harga-tiket-spesial-di-hari-kemerdekaan",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNDk4MC9wdXRpbi1wZXJsdWFzLWtlcmphLXNhbWEtZGVuZ2FuLWtvcnV0",
         "description": "PRESIDEN Rusia Vladimir Putin mengatakan kepada pemimpin Korea Utara (Korut), Kim Jong Un bahwa kedua negara akan memperluas hubungan bilateral. Kerja sama ini berlandaskan prinsip yang komprehensif&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514978/psg-sebut-paredes-banjir-peminat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDk3OC9wc2ctc2VidXQtcGFyZWRlcy1iYW5qaXItcGVtaW5hdA==",
-        "description": "PELATIH Paris Saint Germain (PSG) Christophe Galtier buka suara tentang spekulasi masa depan Leandro Paredes yang didekati Juventus. Galtier mengakui sudah menerima sejumlah tawaran untuk gelandang&#8230;"
     }
 ]
