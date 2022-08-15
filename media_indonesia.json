@@ -1,5 +1,47 @@
 [
     {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/515009/johnny-depp-bakal-sutradarai-film-biografi-amedeo-modigliani",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNTAwOS9qb2hubnktZGVwcC1iYWthbC1zdXRyYWRhcmFpLWZpbG0tYmlvZ3JhZmktYW1lZGVvLW1vZGlnbGlhbmk=",
+        "description": "Aktor Hollywood Johnny Depp akan menyutradarai film biografi Amedeo Modigliani, pelukis Italia terkenal yang meninggal dalam kemiskinan pada 1920. Menurut Hollywood Reporter, Depp akan memproduksi&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/515004/dinda-ghania-kembali-berkolaborasi-dengan-melly-goeslaw",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTAwNC9kaW5kYS1naGFuaWEta2VtYmFsaS1iZXJrb2xhYm9yYXNpLWRlbmdhbi1tZWxseS1nb2VzbGF3",
+        "description": "PENYANYI Dinda Ghania Althafunnisa, untuk kali kedua, menggandeng Melly Goeslaw, kali ini, dalam lagu berjudul Kamu Bukan Sejarah setelah&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515007/kakorlantas-minta-polantas-gelar-survei-lalin-agar-pelayanan-maksimal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTUwMDcva2Frb3JsYW50YXMtbWludGEtcG9sYW50YXMtZ2VsYXItc3VydmVpLWxhbGluLWFnYXItcGVsYXlhbmFuLW1ha3NpbWFs",
+        "description": "KEPALA Korps Lalu Lintas (Kakorlantas) Polri Irjen Pol Firman Shantyabudi meminta agar para polisi lalu lintas (Polantas) melakukan survei tentang keinginan masyarakat terkait lalu lintas. Menurut&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/515002/agensi-ungkap-kondisi-han-so-hee-pascacedera",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTAwMi9hZ2Vuc2ktdW5na2FwLWtvbmRpc2ktaGFuLXNvLWhlZS1wYXNjYWNlZGVyYQ==",
+        "description": "AGENSI yang menaungi Han So Hee, 9ato Entertainment, mengumumkan kabar terbaru sang aktris setelah mengalami cedera di lokasi&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515005/pengamat-minta-firli-perkuat-pengawasan-jelang-pemilu-2024",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTUwMDUvcGVuZ2FtYXQtbWludGEtZmlybGktcGVya3VhdC1wZW5nYXdhc2FuLWplbGFuZy1wZW1pbHUtMjAyNA==",
+        "description": "PENANGKAPAN Bupati Pemalang, Jawa Tengah, Mukti Agung Wibowo menambah daftar panjang kepala daerah yang berurusan dengan Komisi Pemberantasan Korupsi (KPK). Sepanjang tahun 2022, terhitung hingga&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/515003/relawan-mak-ganjar-berikan-bantuan-10-ribu-pohon-cabai-di-jakarta",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTUwMDMvcmVsYXdhbi1tYWstZ2FuamFyLWJlcmlrYW4tYmFudHVhbi0xMC1yaWJ1LXBvaG9uLWNhYmFpLWRpLWpha2FydGE=",
+        "description": "RELAWAN Mak Ganjar memberikan bantuan 10.000 pohon cabai untuk warga Jakarta. Kegiatan ini merupakan program &quot;Petik Masak&quot; yang pertama kali digelar di Kemayoran, Jakarta Pusat. Ketua&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/515001/rybakina-menang-di-putaran-pertama-cincinnati-masters",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTQ5NTIva2VtZXJkZWthYW4ta2VtaXNraW5hbi1kYW4tcGVuZGlkaWthbg==",
         "description": "SETIAP perayaan hari kemerdekaan kita selalu ingat janji kemerdekaan. Janji tersebut termuat dalam Pembukaan UUD 1945, pemerintah negara Indonesia melindungi segenap bangsa Indonesia dan seluruh tumpah&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514998/vlahovic-cetak-dua-gol-juventus-hajar-sassuolo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDk5OC92bGFob3ZpYy1jZXRhay1kdWEtZ29sLWp1dmVudHVzLWhhamFyLXNhc3N1b2xv",
-        "description": "DUSAN Vlahovic mencetak dua gol saat Juventus menang 3-0 atas Sassuolo di laga pekan pertama Serie A, Selasa (16/8) dini hari WIB.&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514997/nunez-diusir-wasit-liverpool-ditahan-imbang-palace",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDk5Ny9udW5lei1kaXVzaXItd2FzaXQtbGl2ZXJwb29sLWRpdGFoYW4taW1iYW5nLXBhbGFjZQ==",
-        "description": "LIVERPOOL bangkit dengan 10 pemain setelah Darwin Nunez diganjar kartu merah untuk meraih hasil imbang 1-1 melawan Crystal Palace di laga <a href=\"http://mediaindonesia.com/tag/liga-primer-inggris\"&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/514996/tom-dumoulin-putuskan-pensiun-dari-balap-sepeda",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTQ5OTYvdG9tLWR1bW91bGluLXB1dHVza2FuLXBlbnNpdW4tZGFyaS1iYWxhcC1zZXBlZGE=",
-        "description": "PEMBALAP sepeda Belanda Tom Dumoulin, Senin (15/8), mengumumkan pensiun dari dunia profesional balap sepeda, lebih awal dari&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/514995/dubes-australia-resmikan-pojok-baja-di-perpustaan-jakarta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTQ5OTUvZHViZXMtYXVzdHJhbGlhLXJlc21pa2FuLXBvam9rLWJhamEtZGktcGVycHVzdGFhbi1qYWthcnRh",
-        "description": "DUTA Besar Australia&nbsp;untuk Indonesia Penny Williams, Senin (15/8), meresmikan Pojok Baca Australia di Perpustaakaan Jakarta,&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514994/morata-cetak-dua-gol-atletico-menang-di-kandang-getafe",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDk5NC9tb3JhdGEtY2V0YWstZHVhLWdvbC1hdGxldGljby1tZW5hbmctZGkta2FuZGFuZy1nZXRhZmU=",
-        "description": "ALVARO Morata mencetak dua gol untuk mengantarkan Atletico Madrid menang 3-0 di kandang Getafe di laga pekan pertama La Liga, Selasa&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514993/dikritik-karena-ikut-angkat-trofi-piala-aff-u-16-ini-pembelaan-ketua-pssi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDk5My9kaWtyaXRpay1rYXJlbmEtaWt1dC1hbmdrYXQtdHJvZmktcGlhbGEtYWZmLXUtMTYtaW5pLXBlbWJlbGFhbi1rZXR1YS1wc3Np",
-        "description": "KETUA PSSI Mochamad Iriawan mengklarifikasi dirinya yang ikut-ikutan mengangkat trofi Piala AFF U-16 usai Indonesia mengalahkan&#8230;"
     }
 ]
