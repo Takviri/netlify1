@@ -1,5 +1,33 @@
 [
     {
+        "title": "China-Taiwan Tegang Produksi Mobil Terancam, Bos Honda Komen",
+        "link": "https://www.cnbcindonesia.com/news/20220815185356-4-363966/china-taiwan-tegang-produksi-mobil-terancam-bos-honda-komen",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTE4NTM1Ni00LTM2Mzk2Ni9jaGluYS10YWl3YW4tdGVnYW5nLXByb2R1a3NpLW1vYmlsLXRlcmFuY2FtLWJvcy1ob25kYS1rb21lbg==",
+        "description": " Memanasnya hubungan China Dan Taiwan bisa berdampak terhadap banyak sektor, termasuk otomotif."
+    },
+    {
+        "title": "Tersangka Korupsi Terbesar, Surya Darmadi Ditahan Kejagung",
+        "link": "https://www.cnbcindonesia.com/news/20220815182417-8-363960/tersangka-korupsi-terbesar-surya-darmadi-ditahan-kejagung",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTE4MjQxNy04LTM2Mzk2MC90ZXJzYW5na2Eta29ydXBzaS10ZXJiZXNhci1zdXJ5YS1kYXJtYWRpLWRpdGFoYW4ta2VqYWd1bmc=",
+        "description": " Kejaksaan Agung menjemput Surya Darmadi di Bandara Soekarno-Hatta, Cengkareng pada 15 Agustus 2022."
+    },
+    {
+        "title": "Kasus Baru Covid RI Nambah 3.588, 26 Meninggal",
+        "link": "https://www.cnbcindonesia.com/news/20220815194446-4-363981/kasus-baru-covid-ri-nambah-3588-26-meninggal",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTE5NDQ0Ni00LTM2Mzk4MS9rYXN1cy1iYXJ1LWNvdmlkLXJpLW5hbWJhaC0zNTg4LTI2LW1lbmluZ2dhbA==",
+        "description": " Kementerian Kesehatan mencatat 3.588 kasus baru Covid-19, Senin (15/8/2022)."
+    },
+    {
+        "title": "Diam-diam China Lakukan Serangan Rahasia ke Rusia, Kok Bisa?",
+        "link": "https://www.cnbcindonesia.com/news/20220815182724-4-363963/diam-diam-china-lakukan-serangan-rahasia-ke-rusia-kok-bisa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTE4MjcyNC00LTM2Mzk2My9kaWFtLWRpYW0tY2hpbmEtbGFrdWthbi1zZXJhbmdhbi1yYWhhc2lhLWtlLXJ1c2lhLWtvay1iaXNh",
+        "description": " China dilaporkan melancarkan serangan rahasia ke Rusia."
+    },
+    {
         "title": "Tren Orang Naik Bus dan Kereta Lagi Tinggi, Pesawat Mahal?",
         "link": "https://www.cnbcindonesia.com/news/20220815184546-4-363965/tren-orang-naik-bus-dan-kereta-lagi-tinggi-pesawat-mahal",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTE2MDMxNS04LTM2Mzg5Ni93aW5kZmFsbC1rb21vZGl0YXMtbXVsYWktYnViYXItbmFzaWItZWtzcG9yLXJpLWJha2FsLWdpbWFuYQ==",
         "description": " Windfall Komoditas Mulai Bubar, Nasib Ekspor RI Bakal Gimana?"
-    },
-    {
-        "title": "Korban Triple Horor Dunia: Ada Tetangga Indonesia!",
-        "link": "https://www.cnbcindonesia.com/news/20220815160209-16-363895/korban-triple-horor-dunia-ada-tetangga-indonesia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTE2MDIwOS0xNi0zNjM4OTUva29yYmFuLXRyaXBsZS1ob3Jvci1kdW5pYS1hZGEtdGV0YW5nZ2EtaW5kb25lc2lh",
-        "description": " Ekonomi dunia berpotensi gagal mempertahankan momentum pertumbuhan tinggi pasca pandemi Covid-19 pada 2023."
-    },
-    {
-        "title": "Anti Ribet! Begini Cara dan Tahapan Klaim BPJS Ketenagakerjaan",
-        "link": "https://www.cnbcindonesia.com/news/20220815171841-4-363934/anti-ribet-begini-cara-tahapan-klaim-bpjs-ketenagakerjaan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTE3MTg0MS00LTM2MzkzNC9hbnRpLXJpYmV0LWJlZ2luaS1jYXJhLXRhaGFwYW4ta2xhaW0tYnBqcy1rZXRlbmFnYWtlcmphYW4=",
-        "description": " Berikut sejumlah cara dan syarat bagi Anda yang ingin mencairkan klaim BPJS Ketenagakerjaan secara online"
-    },
-    {
-        "title": "Buronan Korupsi, Surya Darmadi Balik Ke RI",
-        "link": "https://www.cnbcindonesia.com/news/20220815181004-8-363951/buronan-korupsi-surya-darmadi-balik-ke-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTE4MTAwNC04LTM2Mzk1MS9idXJvbmFuLWtvcnVwc2ktc3VyeWEtZGFybWFkaS1iYWxpay1rZS1yaQ==",
-        "description": " Buronan Korupsi, Surya Darmadi Balik Ke RI"
-    },
-    {
-        "title": "RI Swasembada Beras Gegara Konsumsi Domestik Turun Terus?",
-        "link": "https://www.cnbcindonesia.com/news/20220815165529-4-363928/ri-swasembada-beras-gegara-konsumsi-domestik-turun-terus",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTE2NTUyOS00LTM2MzkyOC9yaS1zd2FzZW1iYWRhLWJlcmFzLWdlZ2FyYS1rb25zdW1zaS1kb21lc3Rpay10dXJ1bi10ZXJ1cw==",
-        "description": " Indonesia mendapatkan penghargaan dari International Rice Research Institute atas keberhasilan sistem ketahanan pangan Indonesia dalam hal swasembada beras."
     }
 ]

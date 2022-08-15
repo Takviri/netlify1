@@ -1,5 +1,12 @@
 [
     {
+        "title": "BI: Utang Luar Negeri RI Turun Jadi USD 403 Miliar Per Juni 2022",
+        "link": "https://www.jawapos.com/ekonomi/15/08/2022/bi-utang-luar-negeri-ri-turun-jadi-usd-403-miliar-per-juni-2022/?page=all",
+        "image": "static/images/jawapos_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS8xNS8wOC8yMDIyL2JpLXV0YW5nLWx1YXItbmVnZXJpLXJpLXR1cnVuLWphZGktdXNkLTQwMy1taWxpYXItcGVyLWp1bmktMjAyMi8=",
+        "description": "Penurunan posisi ULN pemerintah karena adanya pelunasan pinjaman bilateral, komersial, dan multilateral yang jatuh tempo selama April hingga Juni 2022."
+    },
+    {
         "title": "Di IPEX 2022, BTN Tawarkan Bunga KPR 2,2 Persen untuk Tahun Pertama",
         "link": "https://www.jawapos.com/ekonomi/properti/15/08/2022/di-ipex-2022-btn-tawarkan-bunga-kpr-22-persen-untuk-tahun-pertama/?page=all",
         "image": "static/images/jawapos_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/jawapos_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS9maW5hbmNlLzE1LzA4LzIwMjIvcGFjdS11bWttLWJhbmstaW5kb25lc2lhLWRhbi1iYW5rLWRraS1wYXRhdS1wZW1hbmZhdGFhbi1xcmlzLWRpLXBhc2FyLw==",
         "description": "Hingga Juli 2022, transaksi QRIS melalui JakOne Mobile Bank DKI tumbuh mencapai 477.262 transaksi senilai Rp 11 triliun."
-    },
-    {
-        "title": "Harga Global Gila-gilaan, Pendapatan Bersih Naik Tipis, ini Sebabnya",
-        "link": "https://www.jawapos.com/ekonomi/bisnis/15/08/2022/harga-global-gila-gilaan-pendapatan-bersih-naik-tipis-ini-sebabnya/?page=all",
-        "image": "static/images/jawapos_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS9iaXNuaXMvMTUvMDgvMjAyMi9oYXJnYS1nbG9iYWwtZ2lsYS1naWxhYW4tcGVuZGFwYXRhbi1iZXJzaWgtbmFpay10aXBpcy1pbmktc2ViYWJueWEv",
-        "description": "Meski demikian, laba bersih perseroan masih naik 24,6 persen, dari Rp 649,3 miliar pada semester I 2021 menjadi Rp 809,3 miliar pada semester I 2022."
     }
 ]
