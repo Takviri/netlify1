@@ -1,6 +1,13 @@
 [
     {
         "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/514749/pandji-pragiwaksono-sebut-industri-komedi-indonesia-harus-dikembangkan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDc0OS9wYW5kamktcHJhZ2l3YWtzb25vLXNlYnV0LWluZHVzdHJpLWtvbWVkaS1pbmRvbmVzaWEtaGFydXMtZGlrZW1iYW5na2Fu",
+        "description": "KOMIKA Pandji Pragiwaksono berpendapat industri komedi di Indonesia, terutama komedi tunggal (stand up comedy), masih harus ditumbuhkan&#8230;"
+    },
+    {
+        "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/514748/ini-pernyataan-perdana-kim-garam-usai-dipecat-le-sserafim",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDc0OC9pbmktcGVybnlhdGFhbi1wZXJkYW5hLWtpbS1nYXJhbS11c2FpLWRpcGVjYXQtbGUtc3NlcmFmaW0=",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDc0Mi9pbW1vYmlsZS1hbnRhci1sYXppby1rYWxhaGthbi1ib2xvZ25h",
         "description": "CIRO Immobille memastikan Lazio menang 2-1 atas Bologna di laga pekan pertama&nbsp;Serie A, Minggu (14/8), saat kedua tim mengakhiri&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/514741/film-pendek-taylor-swift-penuhi-syarat-jadi-nominasi-academy-awards",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDc0MS9maWxtLXBlbmRlay10YXlsb3Itc3dpZnQtcGVudWhpLXN5YXJhdC1qYWRpLW5vbWluYXNpLWFjYWRlbXktYXdhcmRz",
-        "description": "Proyek film pendek Taylor Swift &quot;All Too Well: The Short Film&quot; dilaporkan telah memenuhi syarat untuk menjadi nominasi Academy Awards atau disebut juga Piala Oscar pada tahun depan di kategori&#8230;"
     }
 ]
