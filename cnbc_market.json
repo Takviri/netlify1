@@ -1,5 +1,26 @@
 [
     {
+        "title": "Berlari Terlalu Kencang, Rupiah Terpleset Juga",
+        "link": "https://www.cnbcindonesia.com/market/20220815091655-17-363706/berlari-terlalu-kencang-rupiah-terpleset-juga",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MDkxNjU1LTE3LTM2MzcwNi9iZXJsYXJpLXRlcmxhbHUta2VuY2FuZy1ydXBpYWgtdGVycGxlc2V0LWp1Z2E=",
+        "description": " Rupiah pada pekan lalu menguat tajam melawan dolar Amerika Serikat (AS) hingga menyentuh level terkuat dalam dua bulan terakhir."
+    },
+    {
+        "title": "Yang Lain Capek, IHSG Gak Pake Istirahat! Hijau Lagi Nih",
+        "link": "https://www.cnbcindonesia.com/market/20220815090459-17-363704/yang-lain-capek-ihsg-gak-pake-istirahat-hijau-lagi-nih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MDkwNDU5LTE3LTM2MzcwNC95YW5nLWxhaW4tY2FwZWstaWhzZy1nYWstcGFrZS1pc3RpcmFoYXQtaGlqYXUtbGFnaS1uaWg=",
+        "description": " Penguatan IHSG tak terlepas dari kinerja Wall Street yang sukses melesat signifikan akhir pekan lalu."
+    },
+    {
+        "title": "Banjir Duit Asing! Rp 15 Triliun Masuk ke RI Dalam 10 Hari",
+        "link": "https://www.cnbcindonesia.com/market/20220815080806-17-363679/banjir-duit-asing-rp-15-triliun-masuk-ke-ri-dalam-10-hari",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MDgwODA2LTE3LTM2MzY3OS9iYW5qaXItZHVpdC1hc2luZy1ycC0xNS10cmlsaXVuLW1hc3VrLWtlLXJpLWRhbGFtLTEwLWhhcmk=",
+        "description": " Pasar finansial Indonesia bersinar pada bulan ini, investor asing kembali berbondong-bondong mengalirkan modalnya ke dalam negeri."
+    },
+    {
         "title": "IHSG Sepertinya Berfluktuasi, Bursa Asia DIbuka Bervariasi",
         "link": "https://www.cnbcindonesia.com/market/20220815083705-17-363696/ihsg-sepertinya-berfluktuasi-bursa-asia-dibuka-bervariasi",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE0MjMwMDE4LTE3LTM2MzY0MS9kZXJldGFuLXRvcC1nYWluZXJzLWxvc2Vycy1yYWZpLXRlcnVudHVuZy1idW1pLXRlcmJ1bnR1bmc=",
         "description": " Kendati melemah pada perdagangan akhir pekan lalu, tetapi IHSG masih menguat 0,63% dalam sepekan."
-    },
-    {
-        "title": "IHSG Rawan Koreksi, Level 7.100 Menjadi Kunci",
-        "link": "https://www.cnbcindonesia.com/market/20220815023105-17-363645/ihsg-rawan-koreksi-level-7100-menjadi-kunci",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MDIzMTA1LTE3LTM2MzY0NS9paHNnLXJhd2FuLWtvcmVrc2ktbGV2ZWwtNzEwMC1tZW5qYWRpLWt1bmNp",
-        "description": " Untuk melihat arah pergerakan IHSG hari ini, simak ulasan teknikal berikut."
-    },
-    {
-        "title": "Tinggal Klik, Kamu Bakal Tahu Kabar Pasar Hari Ini",
-        "link": "https://www.cnbcindonesia.com/market/20220815000355-17-363644/tinggal-klik-kamu-bakal-tahu-kabar-pasar-hari-ini",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MDAwMzU1LTE3LTM2MzY0NC90aW5nZ2FsLWtsaWsta2FtdS1iYWthbC10YWh1LWthYmFyLXBhc2FyLWhhcmktaW5p",
-        "description": " Berikut kabar pasar yang telah Tim CNBC Indonesia rangkum."
-    },
-    {
-        "title": "Awal Pekan, Harga Emas Sudah Tertekan",
-        "link": "https://www.cnbcindonesia.com/market/20220815062007-17-363652/awal-pekan-harga-emas-sudah-tertekan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MDYyMDA3LTE3LTM2MzY1Mi9hd2FsLXBla2FuLWhhcmdhLWVtYXMtc3VkYWgtdGVydGVrYW4=",
-        "description": " Harga emas menyusut 0,13%."
     }
 ]

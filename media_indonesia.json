@@ -1,5 +1,19 @@
 [
     {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/514763/parade-kebaya-nusantara",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNDc2My9wYXJhZGUta2ViYXlhLW51c2FudGFyYQ==",
+        "description": "Sekitar tujuh deret di anak tangga yang panjang telah berjejer puluhan ibu dengan ragam busana warna-warni mereka. Ada yang bernuansa merah putih, hijau, kuning, merah, dan jingga. Semarak warna-warni&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514761/debut-alexis-sanchez-di-marseille-berakhir-imbang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDc2MS9kZWJ1dC1hbGV4aXMtc2FuY2hlei1kaS1tYXJzZWlsbGUtYmVyYWtoaXItaW1iYW5n",
+        "description": "ALEXIS Sanchez masuk sebagai pemain pengganti di laga debutnya bersama Marseille saat OM bermain imbang 1-1 dengan Brest di laga Ligue&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/514760/halep-juarai-turnamen-masters-1000-di-kanada-untuk-ketiga-kalinya",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDc1Mi9wcmlsbHktbGF0dWNvbnNpbmEtc2VidXQtZmlsbS0xMi1jZXJpdGEtZ2xlbi1hbmdnYXJhLXViYWgtc2lrYXBueWE=",
         "description": "AKTRIS Prilly Latuconsina mengaku film 12 Cerita Glen Anggara telah membawa dampak perubahan sikap yang positif bagi dirinya untuk lebih&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/514754/real-madrid-menang-di-kandang-almeria",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDc1NC9yZWFsLW1hZHJpZC1tZW5hbmctZGkta2FuZGFuZy1hbG1lcmlh",
-        "description": "REAL Madrid memulai musim La Liga 2022/2023 dengan kemenangan atas Almeria 2-1 di Almeria Estadio Medetirraneo, Senin (15/8) dini&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/514751/mumun-rilis-trailer-kedua",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNDc1MS9tdW11bi1yaWxpcy10cmFpbGVyLWtlZHVh",
-        "description": "FILM Mumun, yang merupakan adaptasi dari sinetron Jadi Pocong, merilis trailer kedua yang menampilkan teror bermotif balas dendam yang&#8230;"
     }
 ]
