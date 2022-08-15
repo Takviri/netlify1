@@ -1,5 +1,26 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/514952/kemerdekaan-kemiskinan-dan-pendidikan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTQ5NTIva2VtZXJkZWthYW4ta2VtaXNraW5hbi1kYW4tcGVuZGlkaWthbg==",
+        "description": "SETIAP perayaan hari kemerdekaan kita selalu ingat janji kemerdekaan. Janji tersebut termuat dalam Pembukaan UUD 1945, pemerintah negara Indonesia melindungi segenap bangsa Indonesia dan seluruh tumpah&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514998/vlahovic-cetak-dua-gol-juventus-hajar-sassuolo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDk5OC92bGFob3ZpYy1jZXRhay1kdWEtZ29sLWp1dmVudHVzLWhhamFyLXNhc3N1b2xv",
+        "description": "DUSAN Vlahovic mencetak dua gol saat Juventus menang 3-0 atas Sassuolo di laga pekan pertama Serie A, Selasa (16/8) dini hari WIB.&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/514997/nunez-diusir-wasit-liverpool-ditahan-imbang-palace",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNDk5Ny9udW5lei1kaXVzaXItd2FzaXQtbGl2ZXJwb29sLWRpdGFoYW4taW1iYW5nLXBhbGFjZQ==",
+        "description": "LIVERPOOL bangkit dengan 10 pemain setelah Darwin Nunez diganjar kartu merah untuk meraih hasil imbang 1-1 melawan Crystal Palace di laga <a href=\"http://mediaindonesia.com/tag/liga-primer-inggris\"&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/514996/tom-dumoulin-putuskan-pensiun-dari-balap-sepeda",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTQ5OTAvbXVuZ2tpbmthaC1tZWxlZ2FsaXNhc2ktZ2FuamEtdW50dWstbWVkaXM=",
         "description": "&quot;SAYA seorang ibu yang ingin mengusahakan yang terbaik untuk anak saya.&quot; Inilah kata-kata yang terlontar dari Santi Warastuti, seorang ibu yang memiliki anak penderita cerebral palsy. Sosok&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/514989/sambut-hut-ri-keakwa-gelar-festival-perahu-dan-dokter-terbang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNDk4OS9zYW1idXQtaHV0LXJpLWtlYWt3YS1nZWxhci1mZXN0aXZhbC1wZXJhaHUtZGFuLWRva3Rlci10ZXJiYW5n",
-        "description": "Menyambut HUT ke-77 kemerdekaan RI, Keakwa, salah satu kawasan wisata pesisir di Timika, Kabupaten Mimika, Papua, akan hadirkan suguhan spesial.&nbsp; Maximus Tipagau, Ketua Yayasan Somatua&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/514982/si-ungu-pendeteksi-boraks-dan-formalin",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTQ5ODIvc2ktdW5ndS1wZW5kZXRla3NpLWJvcmFrcy1kYW4tZm9ybWFsaW4=",
-        "description": "SEBAGIAN besar masyarakat Indonesia kerap menikmati makanan jalanan yang murah, enak di lidah, dan tak bikin kantong kering. Tapi di zaman pandemi covid-19 seperti ini, banyak makanan yang tidak habis&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/514987/bintangi-film-jailangkung-titi-kamal-alami-hal-mistik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNDk4Ny9iaW50YW5naS1maWxtLWphaWxhbmdrdW5nLXRpdGkta2FtYWwtYWxhbWktaGFsLW1pc3Rpaw==",
-        "description": "Film Jailangkung: Sandekala persembahan Sky Media dan CJ ENM meluncurkan poster dan trailer resmi, Senin (15/8). Film yang akan tayang di bioskop Tanah Air pada 22 September mendatang ini mengangkat&#8230;"
     }
 ]
