@@ -1,5 +1,54 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/515034/tuchel-dan-conte-didakwa-lakukan-tindakan-tidak-pantas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTAzNC90dWNoZWwtZGFuLWNvbnRlLWRpZGFrd2EtbGFrdWthbi10aW5kYWthbi10aWRhay1wYW50YXM=",
+        "description": "MANAJER Chelsea Thomas Tuchel dan pelatih Tottenham Hotspur Antonio Conte didakwa melakukan tindakan tidak pantas dalam laga Liga&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/515040/indonesia-iran-perkuat-kerja-sama-bidang-tekonologi-dan-kesehatan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1MDQwL2luZG9uZXNpYS1pcmFuLXBlcmt1YXQta2VyamEtc2FtYS1iaWRhbmctdGVrb25vbG9naS1kYW4ta2VzZWhhdGFu",
+        "description": "KETUA&nbsp; Grup Kerja Sama Bilateral (GKSB) DPR RI-Iran Nihayatul Wafiroh menerima Duta Besar Iran untuk Indonesia Mohammad Azad. Dalam pertemuan bilateral ini, kedua belah pihak saling berbagi&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515038/nizar-dahlan-optimis-kpk-tindaklanjuti-laporannya-soal-suharso-monoarfa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTUwMzgvbml6YXItZGFobGFuLW9wdGltaXMta3BrLXRpbmRha2xhbmp1dGktbGFwb3Jhbm55YS1zb2FsLXN1aGFyc28tbW9ub2FyZmE=",
+        "description": "HAKIM tunggal Pengadilan Negeri (PN) Jakarta Selatan (Jaksel) menolak materi gugatan praperadilan yang diajukan kader Partai Persatuan Pembangunan (PPP), Nizar Dahlan, terhadap Komisi Pemberantasan&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/515029/lima-personel-positif-covid-19-jo1-batal-tampil-di-kcon-la",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTAyOS9saW1hLXBlcnNvbmVsLXBvc2l0aWYtY292aWQtMTktam8xLWJhdGFsLXRhbXBpbC1kaS1rY29uLWxh",
+        "description": "LIMA personel grup idola J-pop JO1, Sato Keigo, Kawanishi Takumi, Kono Junki, Kinjo Sukai, dan Mamehara Issei terkonfirmasi positif covid-19.&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/515037/indeks-pembangunan-manusia-kalsel-dikalim-meningkat-terus",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1MDM3L2luZGVrcy1wZW1iYW5ndW5hbi1tYW51c2lhLWthbHNlbC1kaWthbGltLW1lbmluZ2thdC10ZXJ1cw==",
+        "description": "PEMERINTAH Provinsi Kalimantan Selatan mengklaim capaian indeks pembangunan manusia (IPM) di wilayah tersebut terus meningkat. Hal ini dikemukakan Gubernur Kalimantan Selatan, Sahbirin Noor,&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/515036/di-jaksel-kowarteg-berbagi-makanan-sosialiasasikan-ganjar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTUwMzYvZGktamFrc2VsLWtvd2FydGVnLWJlcmJhZ2ktbWFrYW5hbi1zb3NpYWxpYXNhc2lrYW4tZ2FuamFy",
+        "description": "ASPIRASI 'Ganjar Presiden 2024' kembali disuarakan Kolaborasi Warteg Indonesia (Kowarteg) melalui aksinya berbagi paket makanan dan alat dapur di beberapa titik di Jakarta Selatan. Mereka menyasar&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515035/mandiri-capital-indonesia-raih-penghargaan-bisnis-indonesia-award-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTAzNS9tYW5kaXJpLWNhcGl0YWwtaW5kb25lc2lhLXJhaWgtcGVuZ2hhcmdhYW4tYmlzbmlzLWluZG9uZXNpYS1hd2FyZC0yMDIy",
+        "description": "PT Mandiri Capital Indonesia (MCI) terus berkomitmen mendorong inisiatf inovasi untuk berkontribusi bagi sistem ekosistem digital di Indonesia. Komitmen tersebut berbuah penghargaan Bisnis Indonesia&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/515030/bmkg-prediksi-hujan-deras-di-sejumlah-wilayah-indonesia",
         "image": "static/images/media_indonesia.png",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTAzMy9kaXJhLXN1Z2FuZGktdGV0YXAtZ3VndXAtbWVueWFueWktZGktZGVwYW4tcHJlc2lkZW4=",
         "description": "Meski bukan pertama kalinya diundang ke istana untuk bernyanyi dalam upacara 17 Agustus, rupanya Dira Sugandi tetap merasa gugup ketika harus menyanyi di hadapan presiden. &nbsp; &quot;Tetap&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/515013/rosie-darling-rilis-ep-golden-age",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTAxMy9yb3NpZS1kYXJsaW5nLXJpbGlzLWVwLWdvbGRlbi1hZ2U=",
-        "description": "MUSISI Amerika Serikat (AS) kelahiran Boston, yang kini berbasis di Los Angeles, Rosie Darling, melepas EP terbarunya Golden Age, yang dirilis bersamaan dengan <a href=\"http://mediaindonesia.com/tag/musik\"&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/515032/murray-kalahkan-wawrinka-di-putaran-pertama-cincinnati-masters",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTUwMzIvbXVycmF5LWthbGFoa2FuLXdhd3JpbmthLWRpLXB1dGFyYW4tcGVydGFtYS1jaW5jaW5uYXRpLW1hc3RlcnM=",
-        "description": "ANDY Murray memenangkan laga pertamanya di hardcourt pada tahun ini dengan mengalahkan Stan Wawrinka 7-6 (7/3), 5-7, dan 7-5 di putaran pertama <a href=\"http://mediaindonesia.com/tag/cincinnati-masters\"&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/515031/pendapatan-pelaku-industri-gim-lokal-terbanyak-berasal-dari-ekspor",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTAzMS9wZW5kYXBhdGFuLXBlbGFrdS1pbmR1c3RyaS1naW0tbG9rYWwtdGVyYmFueWFrLWJlcmFzYWwtZGFyaS1la3Nwb3I=",
-        "description": "Presiden Asosiasi Game Indonesia (AGI) Cipto Adiguno menyebutkan pendapatan pelaku industri gim lokal saat ini paling banyak berasal dari kegiatan ekspor dengan negara tujuan yaitu kawasan Eropa dan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/515012/kapolres-flotim-bagikan-bendera-merah-putih-serta-sembako-di-desa-terpencil",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1MDEyL2thcG9scmVzLWZsb3RpbS1iYWdpa2FuLWJlbmRlcmEtbWVyYWgtcHV0aWgtc2VydGEtc2VtYmFrby1kaS1kZXNhLXRlcnBlbmNpbA==",
-        "description": "MENJELANG HUT Republik Indonesia ke-77, Jajaran Kepolisian Resor (Polres) Flores Timur (Flotim) berpatroli ke desa-desa terpencil&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/515028/kemenangan-monica-nike-adiba-hadiah-manis-untuk-hut-kemerdekaan-ri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTAyOC9rZW1lbmFuZ2FuLW1vbmljYS1uaWtlLWFkaWJhLWhhZGlhaC1tYW5pcy11bnR1ay1odXQta2VtZXJkZWthYW4tcmk=",
-        "description": "Satu lagi prestasi membanggakan ditorehkan anak bangsa di pentas dunia Internasional. Monica Nike Adiba atau yang akrab dipanggil&nbsp; &quot;Keke&quot;&nbsp; berhasil menjadi Juara Dunia di ajang&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515027/mahasiswa-ugm-raih-juara-1-iem-chem-e-car-presentation-competition-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1MDI3L21haGFzaXN3YS11Z20tcmFpaC1qdWFyYS0xLWllbS1jaGVtLWUtY2FyLXByZXNlbnRhdGlvbi1jb21wZXRpdGlvbi0yMDIy",
-        "description": "MAHASISWA Universitas Gadjah Mada (UGM), kembali menunjukkan keunggulannya di kancah internasional. Kali ini, tim Reactics Chem-E Car, Reactic Janaka yang meraih prestasi sebagai juara pertama pada&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/515026/meriahkan-hut-ke-77-ri-sahabat-sandiuno-gelar-tournamen-sepak-bola-di-jakarta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTUwMjYvbWVyaWFoa2FuLWh1dC1rZS03Ny1yaS1zYWhhYmF0LXNhbmRpdW5vLWdlbGFyLXRvdXJuYW1lbi1zZXBhay1ib2xhLWRpLWpha2FydGE=",
-        "description": "RELAWAN Sahabat Sandiuno Jakarta menggelar perlombaan sepak bola dalam rangka memeriahkan HUT ke 77 Republik Indonesia (RI). Perlombaan tersebut di selenggarakan di Kelurahan Rorotan, Kecamatan Cilincing,&#8230;"
     }
 ]
