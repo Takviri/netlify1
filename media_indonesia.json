@@ -1,5 +1,19 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/515341/indy-barends-isi-kemerdekaan-dengan-menanamkan-nilai-nilai-toleransi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTM0MS9pbmR5LWJhcmVuZHMtaXNpLWtlbWVyZGVrYWFuLWRlbmdhbi1tZW5hbmFta2FuLW5pbGFpLW5pbGFpLXRvbGVyYW5zaQ==",
+        "description": "MENYAMBUT Hari Ulang Tahun (HUT) ke-77 RI, Indy Barends mengatakan dia selalu berusaha menanamkan nilai toleransi, terutama pada&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/515340/egan-bernal-kembali-membalap-pascakecelakaan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTUzNDAvZWdhbi1iZXJuYWwta2VtYmFsaS1tZW1iYWxhcC1wYXNjYWtlY2VsYWthYW4=",
+        "description": "JUARA Tour de France 2019 Egan Bernal kembali balapan sepeda di Tour of Denmark, Selasa (16/8), delapan bulan sejak ia mengalami&#8230;"
+    },
+    {
         "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/515339/djournal-coffee-rilis-seri-nusa-rasa-oat-series-dengan-7-varian",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTUzMzIvaW5pLXN1c3VuYW4tdXBhY2FyYS0xNy1hZ3VzdHVzLWRpLWlzdGFuYS1uZWdhcmEtaGFyaS1pbmk=",
         "description": "DALAM rangka memperingati HUT Kemerdekaan ke-77 Republik Indonesia, hari ini, Rabu (17/8), akan digelar upacara bendera di Istana&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515331/deolipa-laporkan-kuasa-hukum-bharada-e-terkait-pencemaran-nama-baik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTUzMzEvZGVvbGlwYS1sYXBvcmthbi1rdWFzYS1odWt1bS1iaGFyYWRhLWUtdGVya2FpdC1wZW5jZW1hcmFuLW5hbWEtYmFpaw==",
-        "description": "MANTAN kuasa hukum Bharada E, Deolipa Yumara, melaporkan pengacara baru dari tersangka penembakan Brigadir J tersebut ke Polres&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/515330/mmksi-hadirkan-program-mitsubishi-peduli-anak-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTUzMzAvbW1rc2ktaGFkaXJrYW4tcHJvZ3JhbS1taXRzdWJpc2hpLXBlZHVsaS1hbmFrLWluZG9uZXNpYQ==",
-        "description": "SEBAGAI bentuk kelanjutan dari kampanye 'Mitsubishi Motors Peduli Anak Indonesia', PT Mitsubishi Motors Krama Yudha Sales Indonesia (MMKSI) menyerahkan donasi kepada perwakilan dari UNICEF&#8230;"
     }
 ]
