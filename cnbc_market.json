@@ -1,5 +1,12 @@
 [
     {
+        "title": "Lumayan, Harga Batu Bara Naik Hampir 2%",
+        "link": "https://www.cnbcindonesia.com/market/20220816062124-17-364003/lumayan-harga-batu-bara-naik-hampir-2",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE2MDYyMTI0LTE3LTM2NDAwMy9sdW1heWFuLWhhcmdhLWJhdHUtYmFyYS1uYWlrLWhhbXBpci0y",
+        "description": " Harga batu bara melesat 1,86% dibandingkan pada perdagangan Jumat pekan lalu."
+    },
+    {
         "title": "Kemarin Ambruk, Sanggupkah Jokowi Bangkitkan IHSG Hari Ini?",
         "link": "https://www.cnbcindonesia.com/market/20220816040506-17-363999/kemarin-ambruk-sanggupkah-jokowi-bangkitkan-ihsg-hari-ini",
         "image": "static/images/cnbc_market.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MTc0NTU5LTE3LTM2Mzk0My9kdWgtZWZlay1kYXJpLWFtZXJpa2EtZGFuLWNoaW5hLWhhcmdhLWVtYXMtYW1icm9sLTE1",
         "description": " Harga emas ambruk 1,5%."
-    },
-    {
-        "title": "Direktur BNI Beberkan Jurus BNI Genjot Kinerja di Tahun 2022",
-        "link": "https://www.cnbcindonesia.com/market/20220815175321-17-363945/direktur-bni-beberkan-jurus-bni-genjot-kinerja-di-tahun-2022",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE1MTc1MzIxLTE3LTM2Mzk0NS9kaXJla3R1ci1ibmktYmViZXJrYW4tanVydXMtYm5pLWdlbmpvdC1raW5lcmphLWRpLXRhaHVuLTIwMjI=",
-        "description": " Simak penjelasan Direktur Corporate Banking BNI Silvano Rumantir."
     }
 ]
