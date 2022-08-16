@@ -1,5 +1,12 @@
 [
     {
+        "title": "Presiden Menilai Indonesia Miliki Potensi untuk Bangun Indonesia Maju",
+        "link": "https://nasional.tempo.co/read/1623554/presiden-menilai-indonesia-miliki-potensi-untuk-bangun-indonesia-maju",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjM1NTQvcHJlc2lkZW4tbWVuaWxhaS1pbmRvbmVzaWEtbWlsaWtpLXBvdGVuc2ktdW50dWstYmFuZ3VuLWluZG9uZXNpYS1tYWp1",
+        "description": "Presiden Jokowi menjelaskan, kekuatan yang dimiliki Indonesia adalah sumber daya alam yang melimpah. #InfoTempo"
+    },
+    {
         "title": "Pembukaan Sidang Tahunan, Ketua MPR Ajak Gelorakan Semangat Kemerdekaan",
         "link": "https://nasional.tempo.co/read/1623548/pembukaan-sidang-tahunan-ketua-mpr-ajak-gelorakan-semangat-kemerdekaan",
         "image": "static/images/tempo_nasional.png",
@@ -61,12 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjM0ODcva2tiLWRpZHVnYS1iYWthci1tZXMtZGluYXMtcGVyaHVidW5nYW4tZGktaW50YW4tamF5YS1wYXB1YQ==",
         "description": "KKB juga melakukan penembakan di tiga lokasi yaitu dari Mamba, belakang BPD dan belakang polsek."
-    },
-    {
-        "title": "KPK Sita Tanah dan SPBU Senilai Rp 25 Miliar di Kasus Nindya Karya",
-        "link": "https://nasional.tempo.co/read/1623481/kpk-sita-tanah-dan-spbu-senilai-rp-25-miliar-di-kasus-nindya-karya",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjM0ODEva3BrLXNpdGEtdGFuYWgtZGFuLXNwYnUtc2VuaWxhaS1ycC0yNS1taWxpYXItZGkta2FzdXMtbmluZHlhLWthcnlh",
-        "description": "KPK menyita sejumlah aset senilai Rp 25 miliar dari kasus korupsi dengan terdakwa korporasi PT Nindya Karya dan PT Tuah Sejati"
     }
 ]
