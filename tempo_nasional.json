@@ -1,5 +1,33 @@
 [
     {
+        "title": "Sidang Nota Keuangan MPR, Jokowi Klaim Indonesia Berhasil Tangani Krisis Global",
+        "link": "https://nasional.tempo.co/read/1623310/sidang-nota-keuangan-mpr-jokowi-klaim-indonesia-berhasil-tangani-krisis-global",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMzMTAvc2lkYW5nLW5vdGEta2V1YW5nYW4tbXByLWpva293aS1rbGFpbS1pbmRvbmVzaWEtYmVyaGFzaWwtdGFuZ2FuaS1rcmlzaXMtZ2xvYmFs",
+        "description": "Jokowi mengklaim ekonomi berhasil tumbuh positif di 5,44 persen pada kuartal II tahun 2022."
+    },
+    {
+        "title": "Kasus Berita Bohong, Bahar Smith Divonis 6 Bulan 15 Hari  Penjara",
+        "link": "https://nasional.tempo.co/read/1623306/kasus-berita-bohong-bahar-smith-divonis-6-bulan-15-haripenjara",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMzMDYva2FzdXMtYmVyaXRhLWJvaG9uZy1iYWhhci1zbWl0aC1kaXZvbmlzLTYtYnVsYW4tMTUtaGFyaXBlbmphcmE=",
+        "description": "Penceramah Bahar Smith divonis 6 bulan 15 hari penjara oleh majelis Hakim PN Bandung pada hari ini. Hakim minta Bahar lebih bijak nantinya."
+    },
+    {
+        "title": "Soal Capres Koalisi Gerindra - PKB, Prabowo: Ojo Kesusu",
+        "link": "https://nasional.tempo.co/read/1623305/soal-capres-koalisi-gerindra-pkb-prabowo-ojo-kesusu",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMzMDUvc29hbC1jYXByZXMta29hbGlzaS1nZXJpbmRyYS1wa2ItcHJhYm93by1vam8ta2VzdXN1",
+        "description": "Prabowo Subianto sudah menyatakan akan kembali maju sebagai calon presiden di Pemilihan Presiden atau Pilpres 2024."
+    },
+    {
+        "title": "Cerita Tim KPK yang Disebut Juga Ingin Jemput Surya Darmadi",
+        "link": "https://nasional.tempo.co/read/1623303/cerita-tim-kpk-yang-disebut-juga-ingin-jemput-surya-darmadi",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMzMDMvY2VyaXRhLXRpbS1rcGsteWFuZy1kaXNlYnV0LWp1Z2EtaW5naW4tamVtcHV0LXN1cnlhLWRhcm1hZGk=",
+        "description": "Surya Darmadi berstatus tersangka KPK, namun tak pernah tertangkap. Dia baru pulang setelah Kejaksaan Agung menetapkannya sebagai tersangka."
+    },
+    {
         "title": "Jokowi Klaim Kondisi Antikorupsi Terus Membaik",
         "link": "https://nasional.tempo.co/read/1623301/jokowi-klaim-kondisi-antikorupsi-terus-membaik",
         "image": "static/images/tempo_nasional.png",
@@ -40,33 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMyNjYvcHVhbi1tYWhhcmFuaS10YWh1bi1wb2xpdGlrLWRhdGFuZy1sZWJpaC1hd2Fs",
         "description": "Ketua DPR RI Puan Maharani mengatakan tahun politik seperti datang lebih awal. Hal ini menandakan masyarakat sudah dewasa dalam menghadapi perbedaan."
-    },
-    {
-        "title": "Sidang Tahunan MPR, Bamsoet Laporkan Rencana Hadirkan PPHN Lewat Konvensi Ketatanegaraan",
-        "link": "https://nasional.tempo.co/read/1623256/sidang-tahunan-mpr-bamsoet-laporkan-rencana-hadirkan-pphn-lewat-konvensi-ketatanegaraan",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMyNTYvc2lkYW5nLXRhaHVuYW4tbXByLWJhbXNvZXQtbGFwb3JrYW4tcmVuY2FuYS1oYWRpcmthbi1wcGhuLWxld2F0LWtvbnZlbnNpLWtldGF0YW5lZ2FyYWFu",
-        "description": "Bambang Soesatyo secara resmi melaporkan rencana menghadirkan PPHN lewat konvensi ketatanegaraan di hadapan Sidang Tahunan MPR."
-    },
-    {
-        "title": "KPK Geledah Perusahaan Mardani Maming",
-        "link": "https://nasional.tempo.co/read/1623255/kpk-geledah-perusahaan-mardani-maming",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMyNTUva3BrLWdlbGVkYWgtcGVydXNhaGFhbi1tYXJkYW5pLW1hbWluZw==",
-        "description": "Mardani Maming diduga menerima suap dari pemilik PT Prolindo Cipta Nusantara Henry Soetio yang saat ini sudah meninggal."
-    },
-    {
-        "title": "Presiden Kukuhkan Paskibraka 2022 Asuhan BPIP",
-        "link": "https://nasional.tempo.co/read/1623140/presiden-kukuhkan-paskibraka-2022-asuhan-bpip",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMxNDAvcHJlc2lkZW4ta3VrdWhrYW4tcGFza2licmFrYS0yMDIyLWFzdWhhbi1icGlw",
-        "description": "Presiden Republik Indonesia Joko Widodo mengukuhkan 68 anggota calon Pasukan Pengibar Bendera Pusaka"
-    },
-    {
-        "title": "Pantun Bamsoet di Sidang Tahunan: Capres Tak Perlu Bimbang, Pesan Presiden Ojo Kesusu",
-        "link": "https://nasional.tempo.co/read/1623247/pantun-bamsoet-di-sidang-tahunan-capres-tak-perlu-bimbang-pesan-presiden-ojo-kesusu",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjMyNDcvcGFudHVuLWJhbXNvZXQtZGktc2lkYW5nLXRhaHVuYW4tY2FwcmVzLXRhay1wZXJsdS1iaW1iYW5nLXBlc2FuLXByZXNpZGVuLW9qby1rZXN1c3U=",
-        "description": "Menutup pidato di Sidang Tahunan MPR, Bamsoet membaca pantun yang meminta para capres tak perlu terburu- buru. Ojo kesusu."
     }
 ]

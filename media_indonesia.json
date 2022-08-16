@@ -1,5 +1,47 @@
 [
     {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/515106/mengembalikan-kebanggaan-yang-hakiki-terhadap-merah-putih",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTUxMDYvbWVuZ2VtYmFsaWthbi1rZWJhbmdnYWFuLXlhbmctaGFraWtpLXRlcmhhZGFwLW1lcmFoLXB1dGlo",
+        "description": "SETIAP tahun saya mendedikasikan diri untuk pergi ke negara-negara yang belum pernah saya kunjungi. Motivasinya sederhana, untuk mengetahui kearifan lokal (local wisdom), apa yang sama atau&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515107/menperin-perusahaan-keramik-as-realisasikan-investasi-rp145-t-di-cikarang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTEwNy9tZW5wZXJpbi1wZXJ1c2FoYWFuLWtlcmFtaWstYXMtcmVhbGlzYXNpa2FuLWludmVzdGFzaS1ycDE0NS10LWRpLWNpa2FyYW5n",
+        "description": "MENTERI Perindustrian (Menperin) Agus Gumiwang Kartasasmita mengungkapkan, perusahaan global Amerika Serikat, PT Kohler Manufacturing Indonesia telah merealisasikan investasinya sebesar Rp14,5 triliun&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515105/pimpin-pasar-keuangan-syariah-bsi-raih-bisnis-indonesia-award-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTEwNS9waW1waW4tcGFzYXIta2V1YW5nYW4tc3lhcmlhaC1ic2ktcmFpaC1iaXNuaXMtaW5kb25lc2lhLWF3YXJkLTIwMjI=",
+        "description": "PT Bank Syariah Indonesia Tbk. (BRIS) berhasil meraih penghargaan Bank Terbaik Sektor Perbankan Syariah dalam ajang Bisnis Indonesia Award (BIA) 2022 yang&nbsp;bertemakan &ldquo;Bangkit pada Tahun&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/515104/klopp-mengaku-bangga-meski-liverpool-ditahan-imbang-palace",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTEwNC9rbG9wcC1tZW5nYWt1LWJhbmdnYS1tZXNraS1saXZlcnBvb2wtZGl0YWhhbi1pbWJhbmctcGFsYWNl",
+        "description": "JUERGEN Klopp menyatakan dirinya tetap bangga walau Liverpool harus puas dengan raihan satu poin dalam laga pekan kedua Liga&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/515103/gerakan-pramuka-solusi-atasi-kecanduan-gawai-pada-anak-dan-remaja",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1MTAzL2dlcmFrYW4tcHJhbXVrYS1zb2x1c2ktYXRhc2kta2VjYW5kdWFuLWdhd2FpLXBhZGEtYW5hay1kYW4tcmVtYWph",
+        "description": "HARI ulang tahun (HUT) gerakan Pramuka ke-61 yang jatuh pada tanggal 14 Agustus 2022 kembali mengingatkan betapa pentingnya &nbsp;nilai-nilai dasar kepramukaan untuk diterapkan pada anak-anak masa&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/515102/sambut-17-agustus-disney-hotstar-hadirkan-sejumlah-film-termasuk-kkn-di-desa-penari",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTEwMi9zYW1idXQtMTctYWd1c3R1cy1kaXNuZXktaG90c3Rhci1oYWRpcmthbi1zZWp1bWxhaC1maWxtLXRlcm1hc3VrLWtrbi1kaS1kZXNhLXBlbmFyaQ==",
+        "description": "LAYANAN streaming Disney+ Hotstar menghadirkan sederet film Indonesia dalam rangka perayaan HUT ke-77 Kemerdekaan RI, Rabu (17/8). Salah&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/515100/durant-bantah-berencana-pensiun",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTUwOTcvcHJlc2lkZW4tc2luZ2d1bmctdGlnYS1tZWdha29ydXBzaS15YW5nLWRpdXN1dC1rZWphZ3VuZy1kYWxhbS1waWRhdG8ta2VuZWdhcmFhbg==",
         "description": "PRESIDEN Joko Widodo mengapresiasi upaya pembongkaran kasus-kasus korupsi dengan kerugian negara besar yang dilakukan aparat&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/515096/sinergi-dan-kolaborasi-membangun-akuntabilitas-serta-transparansi-melalui-sai20",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTUwOTYvc2luZXJnaS1kYW4ta29sYWJvcmFzaS1tZW1iYW5ndW4tYWt1bnRhYmlsaXRhcy1zZXJ0YS10cmFuc3BhcmFuc2ktbWVsYWx1aS1zYWkyMA==",
-        "description": "SINERGI&nbsp;dan kolaborasi merupakan prinsip dasar yang menjadi kunci bagi dunia untuk menyelesaikan segala masalah yang ada. Selama ini, dunia internasional memang telah menjalankan dua prinsip tersebut.&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/515095/velluto-gelato-luncurkan-kampanye-taste-of-happiness",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1MDk1L3ZlbGx1dG8tZ2VsYXRvLWx1bmN1cmthbi1rYW1wYW55ZS10YXN0ZS1vZi1oYXBwaW5lc3M=",
-        "description": "Empat tahun sudah Velluto Gelato menyebarkan kebahagiaan lewat rasa khas Italia. Untuk merayakannya sekaligus berterima kasih pada konsumen yang sudah setia dan mempercayai Velluto Gelato, brand gelato&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/515094/sosialisasi-kejuaraan-dunia-dengan-gowes-pendidikan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1MDk0L3Nvc2lhbGlzYXNpLWtlanVhcmFhbi1kdW5pYS1kZW5nYW4tZ293ZXMtcGVuZGlkaWthbg==",
-        "description": "MATA warga dunia, dalam dua pekan ke depan akan tertuju ke Kalimantan Tengah. Di Palangkaya Raya, ibu kota provinsi itu, ratusan atlet internasional akan berlaga dalam kejuaraan dunia balap sepeda&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/515093/iga-swiatek-mengaku-terlalu-malu-berbicara-dengan-serena-williams",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTUwOTMvaWdhLXN3aWF0ZWstbWVuZ2FrdS10ZXJsYWx1LW1hbHUtYmVyYmljYXJhLWRlbmdhbi1zZXJlbmEtd2lsbGlhbXM=",
-        "description": "IGA Swiatek, Senin (15/8), mengakui meski dirinya adalah petenis nomor satu dunia, dia tetap masih terintimidasi kala bertemu Serena&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/515092/kalimantan-tengah-siap-jadi-tuan-rumah-uci-mtb-eliminator-world-cup-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1MDkyL2thbGltYW50YW4tdGVuZ2FoLXNpYXAtamFkaS10dWFuLXJ1bWFoLXVjaS1tdGItZWxpbWluYXRvci13b3JsZC1jdXAtMjAyMg==",
-        "description": "PERINGATAN Hari Ulang Tahun (HUT) ke-77 Kemerdekaan Republik Indonesia tahun 2022 menjadi momentum istimewa bagi Provinsi Kalimantan Tengah. Daerah ini telah ditunjuk oleh Pengurus Besar (PB) Ikatan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/515091/ihsg-pada-hari-ini-dibuka-menguat-ke-posisi-711426",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTA5MS9paHNnLXBhZGEtaGFyaS1pbmktZGlidWthLW1lbmd1YXQta2UtcG9zaXNpLTcxMTQyNg==",
-        "description": "PERGERAKAN Indeks Harga Saham gabungan (IHSG) pada awal pekan ini, Selasa (16/8)&nbsp;dibuka menguat 20,99 poin atau 0,3 persen ke posisi 7.114,26. Sementara, kelompok 45 saham unggulan atau indeks&#8230;"
     }
 ]
