@@ -1,5 +1,40 @@
 [
     {
+        "title": "Pembukaan Sidang Tahunan, Ketua MPR Ajak Gelorakan Semangat Kemerdekaan",
+        "link": "https://nasional.tempo.co/read/1623548/pembukaan-sidang-tahunan-ketua-mpr-ajak-gelorakan-semangat-kemerdekaan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjM1NDgvcGVtYnVrYWFuLXNpZGFuZy10YWh1bmFuLWtldHVhLW1wci1hamFrLWdlbG9yYWthbi1zZW1hbmdhdC1rZW1lcmRla2Fhbg==",
+        "description": "Bamsoet pun mengajak seluruh rakyat Indonesia untuk menggelorakan semangat kemerdekaan dan perjuangan para pahlawan bangsa. #InfoTempo"
+    },
+    {
+        "title": "Hari Ini 77 Tahun Lalu, Sukarni Cs Culik Soekarno-Hatta",
+        "link": "https://nasional.tempo.co/read/1623545/hari-ini-77-tahun-lalu-sukarni-cs-culik-soekarno-hatta",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjM1NDUvaGFyaS1pbmktNzctdGFodW4tbGFsdS1zdWthcm5pLWNzLWN1bGlrLXNvZWthcm5vLWhhdHRh",
+        "description": "Sukarni cs mengambil keputusan yang menyimpang, menculik Bung Karno dan Bung Hatta dengan maksud menyingkirkan kedua tokoh itu dari pengaruh Jepang."
+    },
+    {
+        "title": "Pengacara Brigadir J Duga Uang Rp 200 Juta di Rekening Kliennya Ditransfer ke Tersangka",
+        "link": "https://nasional.tempo.co/read/1623541/pengacara-brigadir-j-duga-uang-rp-200-juta-di-rekening-kliennya-ditransfer-ke-tersangka",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjM1NDEvcGVuZ2FjYXJhLWJyaWdhZGlyLWotZHVnYS11YW5nLXJwLTIwMC1qdXRhLWRpLXJla2VuaW5nLWtsaWVubnlhLWRpdHJhbnNmZXIta2UtdGVyc2FuZ2th",
+        "description": "Pengacara keluarga Brigadir J atau Nopryansah Yosua Hutabarat, Kamaruddin Simanjuntak mengatakan uang Yosua dicuri setelah tewas dibunuh."
+    },
+    {
+        "title": "Haluan Negara Jamin Keberlangsungan Pembangunan IKN",
+        "link": "https://nasional.tempo.co/read/1623539/haluan-negara-jamin-keberlangsungan-pembangunan-ikn",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjM1MzkvaGFsdWFuLW5lZ2FyYS1qYW1pbi1rZWJlcmxhbmdzdW5nYW4tcGVtYmFuZ3VuYW4taWtu",
+        "description": "Pokok-Pokok Haluan Negara tidak akan mengurangi sistem presidensial. #InfoTempo"
+    },
+    {
+        "title": "Sepak Terjang HOS Tjokroaminoto Dirikan Sarekat Islam Lalu Menjadi Tokoh Kemerdekaan",
+        "link": "https://nasional.tempo.co/read/1623536/sepak-terjang-hos-tjokroaminoto-dirikan-sarekat-islam-lalu-menjadi-tokoh-kemerdekaan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjM1MzYvc2VwYWstdGVyamFuZy1ob3MtdGpva3JvYW1pbm90by1kaXJpa2FuLXNhcmVrYXQtaXNsYW0tbGFsdS1tZW5qYWRpLXRva29oLWtlbWVyZGVrYWFu",
+        "description": "Tulisan yang Tjokroaminoto tuangkan dalam Bintang Soerabaja adalah kritik untuk pemerintah Hindia Belanda."
+    },
+    {
         "title": "Prabowo Bertemu Empat Mata dengan Hary Tanoe, Perindo Bakal Merapat ke Koalisi Gerindra-PKB?",
         "link": "https://nasional.tempo.co/read/1623510/prabowo-bertemu-empat-mata-dengan-hary-tanoe-perindo-bakal-merapat-ke-koalisi-gerindra-pkb",
         "image": "static/images/tempo_nasional.png",
@@ -21,10 +56,10 @@
         "description": "Sebanyak 16 partai gagal menjadi calon peserta Pemilu 2024, karena dokumen pendaftaran mereka dinyatakan tidak lengkap hingga akhir masa pendaftaran pada 14 Agustus 2022."
     },
     {
-        "title": "KKB Diduga Bakar Mes Dinasi Perhubungan di Intan Jaya Papua",
-        "link": "https://nasional.tempo.co/read/1623487/kkb-diduga-bakar-mes-dinasi-perhubungan-di-intan-jaya-papua",
+        "title": "KKB Diduga Bakar Mes Dinas Perhubungan di Intan Jaya Papua",
+        "link": "https://nasional.tempo.co/read/1623487/kkb-diduga-bakar-mes-dinas-perhubungan-di-intan-jaya-papua",
         "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjM0ODcva2tiLWRpZHVnYS1iYWthci1tZXMtZGluYXNpLXBlcmh1YnVuZ2FuLWRpLWludGFuLWpheWEtcGFwdWE=",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjM0ODcva2tiLWRpZHVnYS1iYWthci1tZXMtZGluYXMtcGVyaHVidW5nYW4tZGktaW50YW4tamF5YS1wYXB1YQ==",
         "description": "KKB juga melakukan penembakan di tiga lokasi yaitu dari Mamba, belakang BPD dan belakang polsek."
     },
     {
@@ -33,40 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjM0ODEva3BrLXNpdGEtdGFuYWgtZGFuLXNwYnUtc2VuaWxhaS1ycC0yNS1taWxpYXItZGkta2FzdXMtbmluZHlhLWthcnlh",
         "description": "KPK menyita sejumlah aset senilai Rp 25 miliar dari kasus korupsi dengan terdakwa korporasi PT Nindya Karya dan PT Tuah Sejati"
-    },
-    {
-        "title": "Inilah Perlindungan yang Didapat Bharada E setelah Berstatus Justice Collaborator",
-        "link": "https://nasional.tempo.co/read/1623476/inilah-perlindungan-yang-didapat-bharada-e-setelah-berstatus-justice-collaborator",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjM0NzYvaW5pbGFoLXBlcmxpbmR1bmdhbi15YW5nLWRpZGFwYXQtYmhhcmFkYS1lLXNldGVsYWgtYmVyc3RhdHVzLWp1c3RpY2UtY29sbGFib3JhdG9y",
-        "description": "Sebagai justice collaborator, Bharada E akan menerima beberapa perlindungan. Di antaranya perlindungan fisik melekat, hukum, keluarga, dan rehabilitasi psikologis."
-    },
-    {
-        "title": "Kapolri Cs Digugat Deolipa soal Pencopotannya dari Pengacara Bharada E",
-        "link": "https://nasional.tempo.co/read/1623479/kapolri-cs-digugat-deolipa-soal-pencopotannya-dari-pengacara-bharada-e",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjM0Nzkva2Fwb2xyaS1jcy1kaWd1Z2F0LWRlb2xpcGEtc29hbC1wZW5jb3BvdGFubnlhLWRhcmktcGVuZ2FjYXJhLWJoYXJhZGEtZQ==",
-        "description": "Selain Kapolri, pihak tergugat lainnya adalah Bharada E atau Richard dan Ronny Berty Talpesy"
-    },
-    {
-        "title": "Ini Alasan Mengapa 17 Agustus Dipilih Sebagai Hari Kemerdekaan Indonesia",
-        "link": "https://nasional.tempo.co/read/1623466/ini-alasan-mengapa-17-agustus-dipilih-sebagai-hari-kemerdekaan-indonesia",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjM0NjYvaW5pLWFsYXNhbi1tZW5nYXBhLTE3LWFndXN0dXMtZGlwaWxpaC1zZWJhZ2FpLWhhcmkta2VtZXJkZWthYW4taW5kb25lc2lh",
-        "description": "Apa alasan Soekarno memilih 17 Agustus sebagai Hari Kemerdekaan Indonesia karena angka suci dan Al-Quran."
-    },
-    {
-        "title": "Di Koalisi Gerindra-PKB, Cak Imin dan Prabowo Sama-sama Capres",
-        "link": "https://nasional.tempo.co/read/1623461/di-koalisi-gerindra-pkb-cak-imin-dan-prabowo-sama-sama-capres",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjM0NjEvZGkta29hbGlzaS1nZXJpbmRyYS1wa2ItY2FrLWltaW4tZGFuLXByYWJvd28tc2FtYS1zYW1hLWNhcHJlcw==",
-        "description": "Menurut Cak Imin, keputusan koalisi menentukan capres antara dirinya atau Prabowo masih menunggu partai-partai lain bergabung koalisi"
-    },
-    {
-        "title": "Ketua PDIP Puan Bakal Secepatnya Bertemu Ketum Parpol Lain Jajaki Koalisi",
-        "link": "https://nasional.tempo.co/read/1623453/ketua-pdip-puan-bakal-secepatnya-bertemu-ketum-parpol-lain-jajaki-koalisi",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjM0NTMva2V0dWEtcGRpcC1wdWFuLWJha2FsLXNlY2VwYXRueWEtYmVydGVtdS1rZXR1bS1wYXJwb2wtbGFpbi1qYWpha2kta29hbGlzaQ==",
-        "description": "Ketua DPP PDIP Puan Maharani memastikan bahwa partai banteng akan tetap berkoalisi dengan partai lain untuk mengusung calon presiden di Pilpres 2024."
     }
 ]
