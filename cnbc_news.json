@@ -1,5 +1,33 @@
 [
     {
+        "title": "Jelang Kemerdekaan, Kasus Covid Hari Ini Bertambah 5.869",
+        "link": "https://www.cnbcindonesia.com/news/20220816180656-16-364328/jelang-kemerdekaan-kasus-covid-hari-ini-bertambah-5869",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE4MDY1Ni0xNi0zNjQzMjgvamVsYW5nLWtlbWVyZGVrYWFuLWthc3VzLWNvdmlkLWhhcmktaW5pLWJlcnRhbWJhaC01ODY5",
+        "description": " Satgas Penanganan Covid-19 mencatat, pertambahan konfirmasi positif Covid-19 RI hari ini, Selasa (16/8/2022) mencapai 5.869 kasus."
+    },
+    {
+        "title": "Wow! Jokowi Panen Tol Tahun Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220816180819-8-364330/wow-jokowi-panen-tol-tahun-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE4MDgxOS04LTM2NDMzMC93b3ctam9rb3dpLXBhbmVuLXRvbC10YWh1bi1pbmk=",
+        "description": " Wow! Jokowi Panen Tol Tahun Ini"
+    },
+    {
+        "title": "Duh! Tak Ada Lagi Dana Penanganan Covid-19 Tahun Depan",
+        "link": "https://www.cnbcindonesia.com/news/20220816173036-4-364317/duh-tak-ada-lagi-dana-penanganan-covid-19-tahun-depan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE3MzAzNi00LTM2NDMxNy9kdWgtdGFrLWFkYS1sYWdpLWRhbmEtcGVuYW5nYW5hbi1jb3ZpZC0xOS10YWh1bi1kZXBhbg==",
+        "description": " Pemerintah memutuskan untuk tak lagi mengalokasikan dana untuk penanganan Covid-19 pada tahun depan"
+    },
+    {
+        "title": "Ngeri.. 13 Jet Tempur Jerman Wara-Wiri Dekat RI, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220816164113-4-364292/ngeri-13-jet-tempur-jerman-wara-wiri-dekat-ri-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE2NDExMy00LTM2NDI5Mi9uZ2VyaS0xMy1qZXQtdGVtcHVyLWplcm1hbi13YXJhLXdpcmktZGVrYXQtcmktYWRhLWFwYQ==",
+        "description": " Sebanyak 13 jet tempur Jerman kini sedang dalam perjalanan ke Indo-Pasifik. Ada apa?"
+    },
+    {
         "title": "Bos IKN Ungkap Sederet Daya Tarik Investasi Ibu Kota Baru",
         "link": "https://www.cnbcindonesia.com/news/20220816133454-8-364197/bos-ikn-ungkap-sederet-daya-tarik-investasi-ibu-kota-baru",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE3MjYxNS04LTM2NDMxNS93b3ctc3JpLW11bHlhbmktc2VidXQtcGVtdWxpaGFuLWVrb25vbWktcmktdG9wLTMtZHVuaWE=",
         "description": " Wow! Sri Mulyani Sebut Pemulihan Ekonomi RI Top 3 Dunia"
-    },
-    {
-        "title": "Jokowi Panen Tol, Tahun Ini Nambah Segini",
-        "link": "https://www.cnbcindonesia.com/news/20220816173407-16-364318/jokowi-panen-tol-tahun-ini-nambah-segini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE3MzQwNy0xNi0zNjQzMTgvam9rb3dpLXBhbmVuLXRvbC10YWh1bi1pbmktbmFtYmFoLXNlZ2luaQ==",
-        "description": " Hingga Agustus 2022, sudah ada 43 km jalan tol baru beroperasi."
-    },
-    {
-        "title": "Duh Biyung, Target Lifting Minyak di RAPBN 2023 Makin Tipis!",
-        "link": "https://www.cnbcindonesia.com/news/20220816172747-4-364313/duh-biyung-target-lifting-minyak-di-rapbn-2023-makin-tipis",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE3Mjc0Ny00LTM2NDMxMy9kdWgtYml5dW5nLXRhcmdldC1saWZ0aW5nLW1pbnlhay1kaS1yYXBibi0yMDIzLW1ha2luLXRpcGlz",
-        "description": " Presiden RI Joko Widodo mencatat target lifting minyak bumi tahun depan hanya 660.000 barel per hari"
-    },
-    {
-        "title": "Kemenkeu Pastikan Arsitektur APBN Kuat Hadapi Gejolak Global",
-        "link": "https://www.cnbcindonesia.com/news/20220816162854-8-364285/kemenkeu-pastikan-arsitektur-apbn-kuat-hadapi-gejolak-global",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE2Mjg1NC04LTM2NDI4NS9rZW1lbmtldS1wYXN0aWthbi1hcnNpdGVrdHVyLWFwYm4ta3VhdC1oYWRhcGktZ2Vqb2xhay1nbG9iYWw=",
-        "description": " Kemenkeu Pastikan Arsitektur APBN 2023 Kuat Hadapi Gejolak Global"
-    },
-    {
-        "title": "Bos IKN Ungkap Sederet Insentif Penanam Modal di Ibu Kota RI",
-        "link": "https://www.cnbcindonesia.com/news/20220816163245-4-364288/bos-ikn-ungkap-sederet-insentif-penanam-modal-di-ibu-kota-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE2MzI0NS00LTM2NDI4OC9ib3MtaWtuLXVuZ2thcC1zZWRlcmV0LWluc2VudGlmLXBlbmFuYW0tbW9kYWwtZGktaWJ1LWtvdGEtcmk=",
-        "description": " Simak penjelasan Kepala Otorita IKN Bambang Susantono berikut ini."
     }
 ]
