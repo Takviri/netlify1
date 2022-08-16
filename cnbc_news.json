@@ -1,5 +1,40 @@
 [
     {
+        "title": "Transportasi Canggih IKN, Bus Tanpa Sopir Hingga Tol Laut",
+        "link": "https://www.cnbcindonesia.com/news/20220816130338-8-364187/transportasi-canggih-ikn-bus-tanpa-sopir-hingga-tol-laut",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjEzMDMzOC04LTM2NDE4Ny90cmFuc3BvcnRhc2ktY2FuZ2dpaC1pa24tYnVzLXRhbnBhLXNvcGlyLWhpbmdnYS10b2wtbGF1dA==",
+        "description": " Moda Transprotasi Canggih di IKN, Bus Tanpa Sopir Hingga Tol Laut"
+    },
+    {
+        "title": "Warga Jabodetabek Bebas Nongkrong Lagi, Ini Respons Bos Mal",
+        "link": "https://www.cnbcindonesia.com/news/20220816130253-4-364189/warga-jabodetabek-bebas-nongkrong-lagi-ini-respons-bos-mal",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjEzMDI1My00LTM2NDE4OS93YXJnYS1qYWJvZGV0YWJlay1iZWJhcy1ub25na3JvbmctbGFnaS1pbmktcmVzcG9ucy1ib3MtbWFs",
+        "description": " Pemerintah memperpanjang pemberlakuan pembatasan kegiatan masyarakat (PPKM) level 1 di wilayah Jawa-Bali mulai 16 Agustus hingga 29 Agustus 2022."
+    },
+    {
+        "title": "Covid Minggir, Ini yang Bikin Jokowi Khawatir: Krisis!",
+        "link": "https://www.cnbcindonesia.com/news/20220816124423-4-364172/covid-minggir-ini-yang-bikin-jokowi-khawatir-krisis",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjEyNDQyMy00LTM2NDE3Mi9jb3ZpZC1taW5nZ2lyLWluaS15YW5nLWJpa2luLWpva293aS1raGF3YXRpci1rcmlzaXM=",
+        "description": " Kata \"negara\" disebut sebanyak 22 kali, \"ekonomi\" muncul sebanyak 14 kali sementara \"krisis\" sebanyak 11 kali."
+    },
+    {
+        "title": "Menteri ESDM: Perubahan Harga Pertalite Masih Dikoordinasikan",
+        "link": "https://www.cnbcindonesia.com/news/20220816125442-4-364173/menteri-esdm-perubahan-harga-pertalite-masih-dikoordinasikan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjEyNTQ0Mi00LTM2NDE3My9tZW50ZXJpLWVzZG0tcGVydWJhaGFuLWhhcmdhLXBlcnRhbGl0ZS1tYXNpaC1kaWtvb3JkaW5hc2lrYW4=",
+        "description": " Menteri ESDM Arifin Tasrif menyebutkan erubahan harga BBM Pertalite masih dikoordinasikan"
+    },
+    {
+        "title": "Zelensky Peringatkan 'Malapetaka' Baru Mengancam Eropa, Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220816121618-4-364165/zelensky-peringatkan-malapetaka-baru-mengancam-eropa-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjEyMTYxOC00LTM2NDE2NS96ZWxlbnNreS1wZXJpbmdhdGthbi1tYWxhcGV0YWthLWJhcnUtbWVuZ2FuY2FtLWVyb3BhLWFwYQ==",
+        "description": " Presiden Ukraiana Volodymyr Zelensky memperingatkan akan malapetaka baru yang mengancam Eropa."
+    },
+    {
         "title": "Uji Poin Penting Pidato Kenegaraan Jokowi, Apa Kata Ekonom?",
         "link": "https://www.cnbcindonesia.com/news/20220816120917-8-364160/uji-poin-penting-pidato-kenegaraan-jokowi-apa-kata-ekonom",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjExNDczOC04LTM2NDE1MS9iZXJiYWdhaS1rcmlzaXMtbWVuZ2ludGFpLXJpLWpva293aS1lbGluZy1sYW4td2FzcG9kbw==",
         "description": " Bebagai Krisis Mengintai RI, Jokowi : Kita Harus \"Eling Lan Waspodo\""
-    },
-    {
-        "title": "Simak! Pidato Lengkap Jokowi di Sidang Tahunan MPR/DPR",
-        "link": "https://www.cnbcindonesia.com/news/20220816115657-4-364156/simak-pidato-lengkap-jokowi-di-sidang-tahunan-mpr-dpr",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjExNTY1Ny00LTM2NDE1Ni9zaW1hay1waWRhdG8tbGVuZ2thcC1qb2tvd2ktZGktc2lkYW5nLXRhaHVuYW4tbXByLWRwcg==",
-        "description": " Presiden Joko Widodo (Jokowi) menyampaikan pidato kenegaraan dalam sidang tahunan MPR RI dan sidang bersama DPR RI dan DPD RI Tahun 2022, Selasa (16/8/2022)."
-    },
-    {
-        "title": "Kiprah Relawan Bakti, Bantu UMKM Naik Kelas Lewat Rumah BUMN",
-        "link": "https://www.cnbcindonesia.com/news/20220816120932-4-364162/kiprah-relawan-bakti-bantu-umkm-naik-kelas-lewat-rumah-bumn",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjEyMDkzMi00LTM2NDE2Mi9raXByYWgtcmVsYXdhbi1iYWt0aS1iYW50dS11bWttLW5haWsta2VsYXMtbGV3YXQtcnVtYWgtYnVtbg==",
-        "description": " Kementerian Badan Usaha Milik Negara (BUMN) bersama PT Pertamina (Persero) telah meresmikan Rumah BUMN di Klungkung, Bali."
-    },
-    {
-        "title": "Harga BBM Pertalite Bakal Naik, DPR: Sejujurnya Kami Takut!",
-        "link": "https://www.cnbcindonesia.com/news/20220816115239-4-364154/harga-bbm-pertalite-bakal-naik-dpr-sejujurnya-kami-takut",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjExNTIzOS00LTM2NDE1NC9oYXJnYS1iYm0tcGVydGFsaXRlLWJha2FsLW5haWstZHByLXNlanVqdXJueWEta2FtaS10YWt1dA==",
-        "description": " Ketua Komisi VII DPR Sugeng Suparwoto menyatakan pihaknya takut dengan kenaikan harga BBM subsidi"
-    },
-    {
-        "title": "Live Now! Bos IKN Bicara Update Pembangunan Ibu Kota Baru RI",
-        "link": "https://www.cnbcindonesia.com/news/20220815222451-4-363990/live-now-bos-ikn-bicara-update-pembangunan-ibu-kota-baru-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTIyMjQ1MS00LTM2Mzk5MC9saXZlLW5vdy1ib3MtaWtuLWJpY2FyYS11cGRhdGUtcGVtYmFuZ3VuYW4taWJ1LWtvdGEtYmFydS1yaQ==",
-        "description": " Saksikan penjelasan Kepala Badan Otorita IKN Bambang Susantono dalam Economic Update program Power Lunch, Selasa (16/8/2022) pukul 12.15 WIB."
-    },
-    {
-        "title": "Dukung Perkembangan Startup, Pertamina Gelar Pertamuda 2022",
-        "link": "https://www.cnbcindonesia.com/news/20220816120204-4-364158/dukung-perkembangan-startup-pertamina-gelar-pertamuda-2022",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjEyMDIwNC00LTM2NDE1OC9kdWt1bmctcGVya2VtYmFuZ2FuLXN0YXJ0dXAtcGVydGFtaW5hLWdlbGFyLXBlcnRhbXVkYS0yMDIy",
-        "description": " Pertamina secara resmi kembali menggelar ajang Pertamuda: Seed dan Scale Up 2022 pada Senin (15/8)."
     }
 ]
