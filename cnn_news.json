@@ -1,5 +1,26 @@
 [
     {
+        "title": "PPKM Jawa-Bali Diperpanjang Hingga 29 Agustus, Semua Daerah Level 1",
+        "link": "https://www.cnnindonesia.com/nasional/20220816065713-20-835058/ppkm-jawa-bali-diperpanjang-hingga-29-agustus-semua-daerah-level-1",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNjA2NTcxMy0yMC04MzUwNTgvcHBrbS1qYXdhLWJhbGktZGlwZXJwYW5qYW5nLWhpbmdnYS0yOS1hZ3VzdHVzLXNlbXVhLWRhZXJhaC1sZXZlbC0x",
+        "description": " Semua kabupaten/kota di Jawa dan Bali menerapkan level 1 lantaran mayoritas penduduk sudah memiliki kekebalan terhadap Covid-19."
+    },
+    {
+        "title": "Sindir Mahfud di Kasus Sambo, Bambang Pacul Dilaporkan ke MKD DPR",
+        "link": "https://www.cnnindonesia.com/nasional/20220816064944-32-835052/sindir-mahfud-di-kasus-sambo-bambang-pacul-dilaporkan-ke-mkd-dpr",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNjA2NDk0NC0zMi04MzUwNTIvc2luZGlyLW1haGZ1ZC1kaS1rYXN1cy1zYW1iby1iYW1iYW5nLXBhY3VsLWRpbGFwb3JrYW4ta2UtbWtkLWRwcg==",
+        "description": " Ketua Komisi III DPR Bambang Wuryanto alias Bambang Pacul dilaporkan ke Mahkamah Kehormatan Dewan (MKD) oleh kelompok bernama\u00c2\u00a0Sahabat Mahfud."
+    },
+    {
+        "title": "Kasus Pencurian Cokelat Mariana Vs Pegawai Alfamart Dihentikan",
+        "link": "https://www.cnnindonesia.com/nasional/20220816063102-12-835051/kasus-pencurian-cokelat-mariana-vs-pegawai-alfamart-dihentikan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNjA2MzEwMi0xMi04MzUwNTEva2FzdXMtcGVuY3VyaWFuLWNva2VsYXQtbWFyaWFuYS12cy1wZWdhd2FpLWFsZmFtYXJ0LWRpaGVudGlrYW4=",
+        "description": " Polisi menyebut ada kebiasaan sedikit unik di kasus pencurian cokelat oleh Mariana di Alfamart Cisauk, yang dipahami semua pihak untuk kemudian berdamai."
+    },
+    {
         "title": "Bawaslu Mengeluh Serba Dibatasi Saat Awasi Pendaftaran Parpol Pemilu",
         "link": "https://www.cnnindonesia.com/nasional/20220815171342-32-834909/bawaslu-mengeluh-serba-dibatasi-saat-awasi-pendaftaran-parpol-pemilu",
         "image": "static/images/cnn_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNjAwNDcxMi0xMi04MzUwMjQvYmVya2FzLWxlbmdrYXAtYXlhaC12YW5lc3NhLWtob25nLXNlZ2VyYS1kaWFkaWxp",
         "description": " Berkas kasus tersangka berinisial RP yang juga merupakan calon mertua Indra Kenz resmi diserahkan ke pihak kejaksaan."
-    },
-    {
-        "title": "Lagi di Malaysia, SBY Absen Sidang Tahunan MPR dan Upacara di Istana",
-        "link": "https://www.cnnindonesia.com/nasional/20220815203040-20-834996/lagi-di-malaysia-sby-absen-sidang-tahunan-mpr-dan-upacara-di-istana",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNTIwMzA0MC0yMC04MzQ5OTYvbGFnaS1kaS1tYWxheXNpYS1zYnktYWJzZW4tc2lkYW5nLXRhaHVuYW4tbXByLWRhbi11cGFjYXJhLWRpLWlzdGFuYQ==",
-        "description": " Presiden keenam RI SBY akan absen dari sidang tahunan MPR dan upacara kenegaraan HUT RI di Istana Merdeka karena sedang di Malaysia."
-    },
-    {
-        "title": "Petinggi Summarecon Penyuap Eks Walkot Yogya Mulai Disidang 22 Agustus",
-        "link": "https://www.cnnindonesia.com/nasional/20220815121444-12-834695/petinggi-summarecon-penyuap-eks-walkot-yogya-mulai-disidang-22-agustus",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNTEyMTQ0NC0xMi04MzQ2OTUvcGV0aW5nZ2ktc3VtbWFyZWNvbi1wZW55dWFwLWVrcy13YWxrb3QteW9neWEtbXVsYWktZGlzaWRhbmctMjItYWd1c3R1cw==",
-        "description": " Humas PN\u00c2\u00a0Jogja mengatakan\u00c2\u00a0institusi itu telah menunjuk dan menetapkan tim majelis hakim tipikor yang akan menyidangkan perkara suap izin apartemen Yogyakarta."
-    },
-    {
-        "title": "Satgas Ingatkan Jangan Sampai Perayaan HUT RI Sebabkan Lonjakan Covid",
-        "link": "https://www.cnnindonesia.com/nasional/20220815172506-20-834913/satgas-ingatkan-jangan-sampai-perayaan-hut-ri-sebabkan-lonjakan-covid",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNTE3MjUwNi0yMC04MzQ5MTMvc2F0Z2FzLWluZ2F0a2FuLWphbmdhbi1zYW1wYWktcGVyYXlhYW4taHV0LXJpLXNlYmFia2FuLWxvbmpha2FuLWNvdmlk",
-        "description": " Satgas Penanganan Covid-19 mewanti-wanti masyarakat agar tetap mematuhi protokol kesehatan demi mencegah penularan virus."
     }
 ]

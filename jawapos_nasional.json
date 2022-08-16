@@ -1,5 +1,19 @@
 [
     {
+        "title": "PPKM Jawa-Bali Diperpanjang, Seluruh Daerah Level 1",
+        "link": "https://www.jawapos.com/nasional/16/08/2022/ppkm-jawa-bali-diperpanjang-seluruh-daerah-level-1/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMTYvMDgvMjAyMi9wcGttLWphd2EtYmFsaS1kaXBlcnBhbmphbmctc2VsdXJ1aC1kYWVyYWgtbGV2ZWwtMS8=",
+        "description": "Pemerintah memutuskan untuk kembali memperpanjang kebijakan PPKM di wilayah Jawa-Bali mulai 16 sampai 29 Agustus"
+    },
+    {
+        "title": "BMKG Peringatkan Potensi Hujan Lebat Sejumlah Wilayah Indonesia",
+        "link": "https://www.jawapos.com/nasional/16/08/2022/bmkg-peringatkan-potensi-hujan-lebat-sejumlah-wilayah-indonesia/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMTYvMDgvMjAyMi9ibWtnLXBlcmluZ2F0a2FuLXBvdGVuc2ktaHVqYW4tbGViYXQtc2VqdW1sYWgtd2lsYXlhaC1pbmRvbmVzaWEv",
+        "description": "BMKG memperingatkan potensi hujan lebat di sejumlah wilayah Indonesia. Termasuk beberapa provinsi di Sumatera, Jawa, dan Kalimantan"
+    },
+    {
         "title": "Ongkos Haji Reguler Tahun Ini Tembus Rp 100 Juta",
         "link": "https://www.jawapos.com/nasional/16/08/2022/ongkos-haji-reguler-tahun-ini-tembus-rp-100-juta/?page=all",
         "image": "static/images/jawapos_nasional.png",
@@ -54,19 +68,5 @@
         "image": "static/images/jawapos_nasional.png",
         "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvcG9saXRpay8xNS8wOC8yMDIyL2JlcmFudGFzLW1hZmlhLXRhbmFoLWpva293aS1kaXNhcmFua2FuLWJlbnR1ay1iYWRhbi1hZC1ob2Mv",
         "description": "Penyelesaian konflik pertanahan melalui pengadilan, penegakan hukum, dan BPN, belum sepenuhnya efektif. Hal tersebut berdasarkan advokasi oleh FKMTI."
-    },
-    {
-        "title": "Bawaslu Beberkan Sejumlah Kendala Pengawasan pada Pendaftaran Parpol",
-        "link": "https://www.jawapos.com/nasional/politik/15/08/2022/bawaslu-beberkan-sejumlah-kendala-pengawasan-pada-pendaftaran-parpol/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvcG9saXRpay8xNS8wOC8yMDIyL2Jhd2FzbHUtYmViZXJrYW4tc2VqdW1sYWgta2VuZGFsYS1wZW5nYXdhc2FuLXBhZGEtcGVuZGFmdGFyYW4tcGFycG9sLw==",
-        "description": "Bawaslu juga tidak menerapkan pengawasan melekat secara optimal dalam proses verifikasi administrasi bagi partai politik yang sudah lengkap dokumen pendaftaran."
-    },
-    {
-        "title": "Komnas HAM: Tinggal Putri Candrawati yang Belum Diperiksa",
-        "link": "https://www.jawapos.com/nasional/15/08/2022/komnas-ham-tinggal-putri-candrawati-yang-belum-diperiksa/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMTUvMDgvMjAyMi9rb21uYXMtaGFtLXRpbmdnYWwtcHV0cmktY2FuZHJhd2F0aS15YW5nLWJlbHVtLWRpcGVyaWtzYS8=",
-        "description": "Anam mengatakan, hingga kini masih mencoba menjadwalkan ulang pemeriksaannya dengan istri Sambo, Putri Candrawati."
     }
 ]

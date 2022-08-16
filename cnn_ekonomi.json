@@ -1,5 +1,19 @@
 [
     {
+        "title": "Promo 17-an, Beli Biskuit di Transmart Cuma Rp1.000",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220815164601-97-834883/promo-17-an-beli-biskuit-di-transmart-cuma-rp1000",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTY0NjAxLTk3LTgzNDg4My9wcm9tby0xNy1hbi1iZWxpLWJpc2t1aXQtZGktdHJhbnNtYXJ0LWN1bWEtcnAxMDAw",
+        "description": " Di promo 'Agustus Buuanyak Bonus' ini, Transmart kasih harga spesial Rp1.000 aja untuk pembelian biskuit Roma."
+    },
+    {
+        "title": "Curiga Harga Pertalite Bakal Naik Karena Pasokan Pertamina Kritis",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220816064918-85-835054/curiga-harga-pertalite-bakal-naik-karena-pasokan-pertamina-kritis",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE2MDY0OTE4LTg1LTgzNTA1NC9jdXJpZ2EtaGFyZ2EtcGVydGFsaXRlLWJha2FsLW5haWsta2FyZW5hLXBhc29rYW4tcGVydGFtaW5hLWtyaXRpcw==",
+        "description": " Pengamat curiga\u00c2\u00a0kuota Pertalite sudah menipis, bahkan diperkirakan habis paling lama pertengahan Oktober 2022."
+    },
+    {
         "title": "BPS Waspadai Konflik China-Taiwan ke Neraca Dagang RI",
         "link": "https://www.cnnindonesia.com/ekonomi/20220815133009-92-834746/bps-waspadai-konflik-china-taiwan-ke-neraca-dagang-ri",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTk1MjAwLTg1LTgzNDk3Ny9hcmFiLWdlbG9udG9ya2FuLXJwNy10LWtlLXBlcnVzYWhhYW4tcnVzaWEtZGktdGVuZ2FoLWludmFzaS11a3JhaW5h",
         "description": " Perusahaan investasi Arab menggelontorkan Rp7,37 triliun ke sejumlah perusahaan energi Rusia saat Moskow melancarkan invasi ke Ukraina. Ini rinciannya."
-    },
-    {
-        "title": "49 Penyalahgunaan BBM Subsidi Terungkap Sampai Agustus 2022",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220812113445-85-833796/49-penyalahgunaan-bbm-subsidi-terungkap-sampai-agustus-2022",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODEyMTEzNDQ1LTg1LTgzMzc5Ni80OS1wZW55YWxhaGd1bmFhbi1iYm0tc3Vic2lkaS10ZXJ1bmdrYXAtc2FtcGFpLWFndXN0dXMtMjAyMg==",
-        "description": " Pertamina mencatat 49 kasus penyalahgunaan bahan bakar minyak (BBM) subsidi sepanjang Januari-Agustus 2022. Berikut penjelasannya."
-    },
-    {
-        "title": "Ekonomi Thailand Tumbuh 2,5 Persen di Kuartal II 2022",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220815140514-532-834764/ekonomi-thailand-tumbuh-25-persen-di-kuartal-ii-2022",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTQwNTE0LTUzMi04MzQ3NjQvZWtvbm9taS10aGFpbGFuZC10dW1idWgtMjUtcGVyc2VuLWRpLWt1YXJ0YWwtaWktMjAyMg==",
-        "description": " Ekonomi Thailand mencapai 2,5 persen pada kuartal II 2022, lebih tinggi dari periode yang sama tahun lalu."
     }
 ]
