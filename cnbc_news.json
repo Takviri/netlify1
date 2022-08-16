@@ -1,5 +1,12 @@
 [
     {
+        "title": "tolong hapus",
+        "link": "https://www.cnbcindonesia.com/news/20220816181319-16-364333/tolong-hapus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE4MTMxOS0xNi0zNjQzMzMvdG9sb25nLWhhcHVz",
+        "description": " Menteri Pekerjaan Umum dan Perumahan Rakyat Basuki Hadimuljono mengatakan, pembangunan infrastruktur tetap menjadi salah satu agenda prioritas pemerintah."
+    },
+    {
         "title": "Ngeri! Ilmuwan Ungkap Skenario 'Neraka Dunia' Perang Nuklir",
         "link": "https://www.cnbcindonesia.com/news/20220816161224-4-364280/ngeri-ilmuwan-ungkap-skenario-neraka-dunia-perang-nuklir",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE4MzExNS00LTM2NDM0My9oZWJvaC1wcmFib3dvLWRpdGVyaWFraS1kaS10ZW5nYWgtamFsYW4tcmF5YS1hZGEtYXBh",
         "description": " Seseorang tak dikenal tiba-tiba meneriaki Menteri Pertahanan Prabowo Subianto"
-    },
-    {
-        "title": "Subsidi BBM RI Bagai Buah Simalakama",
-        "link": "https://www.cnbcindonesia.com/news/20220816192547-8-364357/subsidi-bbm-ri-bagai-buah-simalakama",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE5MjU0Ny04LTM2NDM1Ny9zdWJzaWRpLWJibS1yaS1iYWdhaS1idWFoLXNpbWFsYWthbWE=",
-        "description": " Subsidi BBM RI Bagai Buah Simalakama"
     }
 ]
