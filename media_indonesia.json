@@ -1,6 +1,55 @@
 [
     {
         "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/515049/iran-bantah-terkait-dengan-pelaku-penusukan-salman-rushdie",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTA0OS9pcmFuLWJhbnRhaC10ZXJrYWl0LWRlbmdhbi1wZWxha3UtcGVudXN1a2FuLXNhbG1hbi1ydXNoZGll",
+        "description": "IRAN, Senin (15/8), membantah memiliki kaitan dengan pelaku penyerangan terhadap penulis Inggris Salman Rushdie. Namun, 'Negeri&#8230;"
+    },
+    {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/515055/skf-siap-kembangkan-bearing-khusus-kendaraan-listrik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTUwNTUvc2tmLXNpYXAta2VtYmFuZ2thbi1iZWFyaW5nLWtodXN1cy1rZW5kYXJhYW4tbGlzdHJpaw==",
+        "description": "PT SKF Indonesia terus memperkuat posisi sebagai pemimpin pasar dalam industri bearing dengan debutnya di pameran terbesar otomotif Indonesia &ndash; Gaikindo Internasional Auto Show (GIIAS) 2022 yang&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/515054/peringati-kemerdekaan-ribuan-santri-di-lampung-hadiri-dzikir-akbar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1MDU0L3BlcmluZ2F0aS1rZW1lcmRla2Fhbi1yaWJ1YW4tc2FudHJpLWRpLWxhbXB1bmctaGFkaXJpLWR6aWtpci1ha2Jhcg==",
+        "description": "RIBUAN santri di Gunung Sugih, Kabupaten Lampung Tengah berdzikir akbar dan melakukan doa bersama untuk mengenang jasa pahlawan Indonesia jelang Hut RI ke-77. Mereka juga mendoakan <a href=\"http://mediaindonesia.com/tag/ganjar-pranowo\"&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/515053/empat-kabupaten-di-maluku-utara-diprediksi-mengalami-cuaca-buruk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1MDUzL2VtcGF0LWthYnVwYXRlbi1kaS1tYWx1a3UtdXRhcmEtZGlwcmVkaWtzaS1tZW5nYWxhbWktY3VhY2EtYnVydWs=",
+        "description": "Badan Meteorologi Klimatologi dan Geofisika (BMKG) Stasiun Meteorologi Sultan Baabullah Ternate memprediksi empat kabupaten di Maluku Utara (Malut) mengalami cuaca buruk. &quot;Kami telah mengeluarkan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515052/kpk-perpanjang-masa-tahanan-mantan-bupati-tanah-bumbu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTUwNTIva3BrLXBlcnBhbmphbmctbWFzYS10YWhhbmFuLW1hbnRhbi1idXBhdGktdGFuYWgtYnVtYnU=",
+        "description": "Komisi Pemberantasan Korupsi (KPK) memperpanjang masa penahanan selama 40 hari ke depan terhadap mantan Bupati Tanah Bumbu Mardani H. Maming (MM). Mardani ialah tersangka kasus dugaan suap dan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/515051/yuk-mengenal-jasmine-seymour-ilustrator-buku-anak-terbaik-australia-2020",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1MDUxL3l1ay1tZW5nZW5hbC1qYXNtaW5lLXNleW1vdXItaWx1c3RyYXRvci1idWt1LWFuYWstdGVyYmFpay1hdXN0cmFsaWEtMjAyMA==",
+        "description": "JASMINE Seymour merupakan seorang penulis dan ilustrator buku yang berasal dari Australia, lebih tepatnya Dharug, penduduk asli Australia&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/515045/persiapan-ganda-putra-jelang-piala-dunia-bulu-tangkis-masuki-tahap-akhir",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTUwNDUvcGVyc2lhcGFuLWdhbmRhLXB1dHJhLWplbGFuZy1waWFsYS1kdW5pYS1idWx1LXRhbmdraXMtbWFzdWtpLXRhaGFwLWFraGly",
+        "description": "PELATIH ganda putra Pelatnas PBSI Cipayung, Aryono Miranat, menuturkan sektor asuhannya kini sudah memasuki tahap akhir dari fase latihan tiga hari menjelang keberangkatan ke Tokyo, Jepang untuk mengikuti&#8230;"
+    },
+    {
+        "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/515042/rilis-ulang-bandara-chiki-fawzi-gandeng-sang-ayah",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTA0Mi9yaWxpcy11bGFuZy1iYW5kYXJhLWNoaWtpLWZhd3ppLWdhbmRlbmctc2FuZy1heWFo",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1MDQ3L3BtYi11bnRhcjIwMjItbWFoYXNpc3dhaGFydXNiZXJrYXJha3Rlci1rZWJhbmdzYWFuLXVudHVrLWtlbWJhbmdrYW4tZGlyaQ==",
         "description": "MAHASISWA harus mempunyai karakter yang baik dan terus mengembangkan diri. Menjadi manusia yang sukses harus mempunyai tiga hal, yaitu knowledge, skill, attitude. Ketiganya harus berjalan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/515046/menteri-investasi-pastikan-hilirisasi-di-freeport-indonesia-berjalan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTA0Ni9tZW50ZXJpLWludmVzdGFzaS1wYXN0aWthbi1oaWxpcmlzYXNpLWRpLWZyZWVwb3J0LWluZG9uZXNpYS1iZXJqYWxhbg==",
-        "description": "Menteri Investasi/Kepala Badan Koordinasi Penanaman Modal (BKPM) Bahlil Lahadalia melepas keberangkatan kapal pengumpan Ajkwa yang mengangkut konsentrat tembaga PT Freeport Indonesia (PTFI) di Kawasan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515044/serahkan-achmad-bakrie-award-puan-apresiasi-seluruh-penerima-award",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1MDQ0L3NlcmFoa2FuLWFjaG1hZC1iYWtyaWUtYXdhcmQtcHVhbi1hcHJlc2lhc2ktc2VsdXJ1aC1wZW5lcmltYS1hd2FyZA==",
-        "description": "Ketua DPR RI Puan Maharani menghadiri acara Malam Penganugerahan Penghargaan Achmad Bakrie (PAB) XVIII/2022 yang diselenggarakan pada Minggu (14/6/2022) bertempat di Gedung Djakarta Theatre. Puan ditunjuk&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/515039/derita-gerd-chef-marinka-jalani-diet-gluten-free",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTAzOS9kZXJpdGEtZ2VyZC1jaGVmLW1hcmlua2EtamFsYW5pLWRpZXQtZ2x1dGVuLWZyZWU=",
-        "description": "CHEF Marinka tengah menjalani diet bebas gluten, gluten free, guna mengatasi GERD yang dia derita. &quot;Memilih bahan&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/515043/raja-malaysia-tiba-di-turki-untuk-kunjungan-kenegaraan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNTA0My9yYWphLW1hbGF5c2lhLXRpYmEtZGktdHVya2ktdW50dWsta3VuanVuZ2FuLWtlbmVnYXJhYW4=",
-        "description": "Raja Malaysia Sultan Abdullah tiba di Turki pada Senin (15/8) untuk melakukan kunjungan kenegaraan selama tujuh hari, menurut laporan kantor berita Bernama. Kunjungan kenegaraan yang akan berlangsung&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515041/mendagri-desakpemda-percepat-realisasi-belanja",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTUwNDEvbWVuZGFncmktZGVzYWtwZW1kYS1wZXJjZXBhdC1yZWFsaXNhc2ktYmVsYW5qYQ==",
-        "description": "MENTERI Dalam Negeri (Mendagri) Muhammad Tito Karnavian terus mendorong pemerintah daerah (Pemda) untuk mempercepat realisasi belanja Anggaran Pendapatan dan Belanja Daerah (APBD). Sebagaimana&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/515034/tuchel-dan-conte-didakwa-lakukan-tindakan-tidak-pantas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTAzNC90dWNoZWwtZGFuLWNvbnRlLWRpZGFrd2EtbGFrdWthbi10aW5kYWthbi10aWRhay1wYW50YXM=",
-        "description": "MANAJER Chelsea Thomas Tuchel dan pelatih Tottenham Hotspur Antonio Conte didakwa melakukan tindakan tidak pantas dalam laga Liga&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515040/indonesia-iran-perkuat-kerja-sama-bidang-tekonologi-dan-kesehatan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1MDQwL2luZG9uZXNpYS1pcmFuLXBlcmt1YXQta2VyamEtc2FtYS1iaWRhbmctdGVrb25vbG9naS1kYW4ta2VzZWhhdGFu",
-        "description": "KETUA&nbsp; Grup Kerja Sama Bilateral (GKSB) DPR RI-Iran Nihayatul Wafiroh menerima Duta Besar Iran untuk Indonesia Mohammad Azad. Dalam pertemuan bilateral ini, kedua belah pihak saling berbagi&#8230;"
     }
 ]
