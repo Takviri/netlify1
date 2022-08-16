@@ -1,5 +1,54 @@
 [
     {
+        "title": "Impor BBM Melonjak, Tapi Pertalite Langka",
+        "link": "https://www.cnbcindonesia.com/news/20220816090813-8-364043/impor-bbm-melonjak-tapi-pertalite-langka",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA5MDgxMy04LTM2NDA0My9pbXBvci1iYm0tbWVsb25qYWstdGFwaS1wZXJ0YWxpdGUtbGFuZ2th",
+        "description": " Badan Pusat Statistik mencatat impor hasil minyak termasuk bahan bakar minyak atau BBM melonjak 97,71% sepanjang Januari hingga Juli 2022"
+    },
+    {
+        "title": "Harga BBM Pertalite Bersiap Naik? Ini Kata Menteri ESDM",
+        "link": "https://www.cnbcindonesia.com/news/20220816083507-4-364031/harga-bbm-pertalite-bersiap-naik-ini-kata-menteri-esdm",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA4MzUwNy00LTM2NDAzMS9oYXJnYS1iYm0tcGVydGFsaXRlLWJlcnNpYXAtbmFpay1pbmkta2F0YS1tZW50ZXJpLWVzZG0=",
+        "description": " Menteri ESDM Arifin Tasrif buka suara perihal kabar bakal naiknya harga BBM Pertalite"
+    },
+    {
+        "title": "Bocoran Terbaru Nasib PNS 2023: Gaji Pokok Naik Nih?",
+        "link": "https://www.cnbcindonesia.com/news/20220816084124-4-364033/bocoran-terbaru-nasib-pns-2023-gaji-pokok-naik-nih",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA4NDEyNC00LTM2NDAzMy9ib2NvcmFuLXRlcmJhcnUtbmFzaWItcG5zLTIwMjMtZ2FqaS1wb2tvay1uYWlrLW5paA==",
+        "description": " Jokowi akan menyampaikan keterangan pemerintah terkait RUU APBN 2023 dan Nota Keuangan pada hari ini"
+    },
+    {
+        "title": "Tolong Pak Jokowi, Heboh WNI di Inggris Terancam Kerja Paksa",
+        "link": "https://www.cnbcindonesia.com/news/20220815200541-4-363983/tolong-pak-jokowi-heboh-wni-di-inggris-terancam-kerja-paksa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTIwMDU0MS00LTM2Mzk4My90b2xvbmctcGFrLWpva293aS1oZWJvaC13bmktZGktaW5nZ3Jpcy10ZXJhbmNhbS1rZXJqYS1wYWtzYQ==",
+        "description": " Para WNI yang menjadi pekerja pemetik buah di Inggris terancam \"kerja paksa\". Ini penyebabnya?"
+    },
+    {
+        "title": "Riset dan Inovasi BRIN Perkuat Ketahanan Pangan dan Energi RI",
+        "link": "https://www.cnbcindonesia.com/news/20220816085608-8-364035/riset-inovasi-brin-perkuat-ketahanan-pangan-energi-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA4NTYwOC04LTM2NDAzNS9yaXNldC1pbm92YXNpLWJyaW4tcGVya3VhdC1rZXRhaGFuYW4tcGFuZ2FuLWVuZXJnaS1yaQ==",
+        "description": " Riset dan Inovasi BRIN Perkuat Ketahanan Pangan dan Energi RI"
+    },
+    {
+        "title": "Bukan Demam! Ternyata Ini Gejala Covid Gelombang Kali Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220816083713-4-364032/bukan-demam-ternyata-ini-gejala-covid-gelombang-kali-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA4MzcxMy00LTM2NDAzMi9idWthbi1kZW1hbS10ZXJueWF0YS1pbmktZ2VqYWxhLWNvdmlkLWdlbG9tYmFuZy1rYWxpLWluaQ==",
+        "description": " Mutasi virus corona terus menyebar, bahkan memiliki gejala yang sedikit berbeda dibandingkan dengan strain aslinya."
+    },
+    {
+        "title": "Pertalite Siap Naik, Ini Harga Terbaru BBM Pertamina di SPBU",
+        "link": "https://www.cnbcindonesia.com/news/20220816065521-4-364007/pertalite-siap-naik-ini-harga-terbaru-bbm-pertamina-di-spbu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA2NTUyMS00LTM2NDAwNy9wZXJ0YWxpdGUtc2lhcC1uYWlrLWluaS1oYXJnYS10ZXJiYXJ1LWJibS1wZXJ0YW1pbmEtZGktc3BidQ==",
+        "description": " Pemerintah sudah memberikan sinyal akan adanya kenaikan harga BBM Pertalite"
+    },
+    {
         "title": "Putin dan Kim Jong Un Saling Kirim Surat, Ini Isinya",
         "link": "https://www.cnbcindonesia.com/news/20220816082229-4-364028/putin-dan-kim-jong-un-saling-kirim-surat-ini-isinya",
         "image": "static/images/cnbc_news.png",
@@ -19,54 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA4MDUyMC00LTM2NDAyNC9iZWdpbmktbmdlcmlueWEtdHJpcGxlLWtyaXNpcy1ob3Jvci15YW5nLWRpdW5na2FwLWpva293aQ==",
         "description": " Jokowi mengungkap sebuah tabir mengenai situasi perekonomian dunia yang saat ini dalam keadaan yang tidak baik-baik saja."
-    },
-    {
-        "title": "Aturan Terbaru PPKM Level 1 Jabodetabek: WFO Hingga Mal",
-        "link": "https://www.cnbcindonesia.com/news/20220816080146-4-364023/aturan-terbaru-ppkm-level-1-jabodetabek-wfo-hingga-mal",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA4MDE0Ni00LTM2NDAyMy9hdHVyYW4tdGVyYmFydS1wcGttLWxldmVsLTEtamFib2RldGFiZWstd2ZvLWhpbmdnYS1tYWw=",
-        "description": " Berikut sejumlah aturan terbaru PPKM Jawa-Bali yang diperpanjang hingga 29 Agustus 2022"
-    },
-    {
-        "title": "Bank Sentral Ini Pekerjakan Peramal, Buat Terawang Resesi?",
-        "link": "https://www.cnbcindonesia.com/news/20220816074836-4-364017/bank-sentral-ini-pekerjakan-peramal-buat-terawang-resesi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA3NDgzNi00LTM2NDAxNy9iYW5rLXNlbnRyYWwtaW5pLXBla2VyamFrYW4tcGVyYW1hbC1idWF0LXRlcmF3YW5nLXJlc2VzaQ==",
-        "description": " Bank Nasional Rumania (BNR) dilaporkan telah mempekerjakan peramal terkemuka, Minerva."
-    },
-    {
-        "title": "PPKM Level 1 Jabodetabek: Bebas 'Kongkow' Hingga 29 Agustus",
-        "link": "https://www.cnbcindonesia.com/news/20220816074257-4-364016/ppkm-level-1-jabodetabek-bebas-kongkow-hingga-29-agustus",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA3NDI1Ny00LTM2NDAxNi9wcGttLWxldmVsLTEtamFib2RldGFiZWstYmViYXMta29uZ2tvdy1oaW5nZ2EtMjktYWd1c3R1cw==",
-        "description": " PPKM Jawa-Bali kembali diperpanjang hingga 29 Agustus 2022 mendatang"
-    },
-    {
-        "title": "Kawan Jadi Lawan! China Disebut Mulai Serang Rusia, PD 3?",
-        "link": "https://www.cnbcindonesia.com/news/20220816072620-4-364014/kawan-jadi-lawan-china-disebut-mulai-serang-rusia-pd-3",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA3MjYyMC00LTM2NDAxNC9rYXdhbi1qYWRpLWxhd2FuLWNoaW5hLWRpc2VidXQtbXVsYWktc2VyYW5nLXJ1c2lhLXBkLTM=",
-        "description": " China disebut mulai melancarkan serangan kepada Rusia."
-    },
-    {
-        "title": "PPKM Level 1 Diperpanjang, Cek Aturan Baru Sektor Esensial",
-        "link": "https://www.cnbcindonesia.com/news/20220816071637-4-364013/ppkm-level-1-diperpanjang-cek-aturan-baru-sektor-esensial",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA3MTYzNy00LTM2NDAxMy9wcGttLWxldmVsLTEtZGlwZXJwYW5qYW5nLWNlay1hdHVyYW4tYmFydS1zZWt0b3ItZXNlbnNpYWw=",
-        "description": " Pemberlakuan pembatasan kegiatan masyarakat (PPKM) level 1 di seluruh wilayah Jawa dan Bali diperpanjang mulai hari ini, Selasa (16/8/2022) hingga 29/8/2022."
-    },
-    {
-        "title": "Jawa-Bali PPKM Level 1, Ini Aturan Baru Ngemal dan ke Bioskop",
-        "link": "https://www.cnbcindonesia.com/news/20220816065112-4-364006/jawa-bali-ppkm-level-1-ini-aturan-baru-ngemal-ke-bioskop",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA2NTExMi00LTM2NDAwNi9qYXdhLWJhbGktcHBrbS1sZXZlbC0xLWluaS1hdHVyYW4tYmFydS1uZ2VtYWwta2UtYmlvc2tvcA==",
-        "description": " Pemerintah kembali memperpanjang pemberlakuan pembatasan kegiatan masyarakat (PPKM) level 1 di seluruh wilayah Jawa dan Bali."
-    },
-    {
-        "title": "Dulu Tempat Nongkrong Hits, Mal Jakarta Ini Makin Sepi Parah",
-        "link": "https://www.cnbcindonesia.com/news/20220816000710-4-363995/dulu-tempat-nongkrong-hits-mal-jakarta-ini-makin-sepi-parah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjAwMDcxMC00LTM2Mzk5NS9kdWx1LXRlbXBhdC1ub25na3JvbmctaGl0cy1tYWwtamFrYXJ0YS1pbmktbWFraW4tc2VwaS1wYXJhaA==",
-        "description": " \u00c2\u00a0Proyek-proyek pembangunan mal atau pusat perbelanjaan baru di Jakarta dan sekitarnya terpantau masih terus berlangsung."
     }
 ]
