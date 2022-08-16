@@ -1,5 +1,54 @@
 [
     {
+        "title": "Ekonomi Indonesia Meroket, Jokowi: Tetap Hati-hati!",
+        "link": "https://www.cnbcindonesia.com/news/20220816105542-4-364104/ekonomi-indonesia-meroket-jokowi-tetap-hati-hati",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjEwNTU0Mi00LTM2NDEwNC9la29ub21pLWluZG9uZXNpYS1tZXJva2V0LWpva293aS10ZXRhcC1oYXRpLWhhdGk=",
+        "description": " Presiden Joko Widodo (Jokowi) mengungkapkan fundamental ekonomi Indonesia sangat baik di tengah kondisi dunia yang bergejolak."
+    },
+    {
+        "title": "Jokowi Bongkar Lagi Triple Krisis yang Bikin Dunia Ambruk!",
+        "link": "https://www.cnbcindonesia.com/news/20220816105438-4-364102/jokowi-bongkar-lagi-triple-krisis-yang-bikin-dunia-ambruk",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjEwNTQzOC00LTM2NDEwMi9qb2tvd2ktYm9uZ2thci1sYWdpLXRyaXBsZS1rcmlzaXMteWFuZy1iaWtpbi1kdW5pYS1hbWJydWs=",
+        "description": " Hal ini dikemukakan Jokowi dalam Sidang Tahunan MPR RI dan Pidato Kenegaraan Presiden Dalam Rangka HUT ke-77 Kemerdekaan RI Dalam Sidang Bersama DPR RI-DPD RI."
+    },
+    {
+        "title": "Inggris Restui Penggunaan Bivalen Untuk Booster Anti-Omicron",
+        "link": "https://www.cnbcindonesia.com/news/20220816090431-8-364039/inggris-restui-penggunaan-bivalen-untuk-booster-anti-omicron",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA5MDQzMS04LTM2NDAzOS9pbmdncmlzLXJlc3R1aS1wZW5nZ3VuYWFuLWJpdmFsZW4tdW50dWstYm9vc3Rlci1hbnRpLW9taWNyb24=",
+        "description": " Medicines and Healthcare Products Regulatory Agency memberikan izin penggunaan bivalen moderna sebagai vaksin booster bagi orang dewasa"
+    },
+    {
+        "title": "Puan Sebut Tahun Politik Datang Lebih Awal, Apa Buktinya Ya?",
+        "link": "https://www.cnbcindonesia.com/news/20220816095458-4-364072/puan-sebut-tahun-politik-datang-lebih-awal-apa-buktinya-ya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA5NTQ1OC00LTM2NDA3Mi9wdWFuLXNlYnV0LXRhaHVuLXBvbGl0aWstZGF0YW5nLWxlYmloLWF3YWwtYXBhLWJ1a3RpbnlhLXlh",
+        "description": " Simak penuturan Puan berikut ini."
+    },
+    {
+        "title": "Ekonomi RI H1-2022, Demand Domestik RI Belum Pulih Maksimal",
+        "link": "https://www.cnbcindonesia.com/news/20220816103044-8-364087/ekonomi-ri-h1-2022-demand-domestik-ri-belum-pulih-maksimal",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjEwMzA0NC04LTM2NDA4Ny9la29ub21pLXJpLWgxLTIwMjItZGVtYW5kLWRvbWVzdGlrLXJpLWJlbHVtLXB1bGloLW1ha3NpbWFs",
+        "description": " Ekonomi RI H1-2022, Demand Domestik Belum Pulih Maksimal"
+    },
+    {
+        "title": "Puan Maharani: Jangan Lagi Ada Minyak Goreng Langka",
+        "link": "https://www.cnbcindonesia.com/news/20220816102759-4-364086/puan-maharani-jangan-lagi-ada-minyak-goreng-langka",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjEwMjc1OS00LTM2NDA4Ni9wdWFuLW1haGFyYW5pLWphbmdhbi1sYWdpLWFkYS1taW55YWstZ29yZW5nLWxhbmdrYQ==",
+        "description": " Puan Maharani mengingatkan jangan sampai ada lagi kelangkaan minyak goreng di dalam negeri."
+    },
+    {
+        "title": "Puan: Warga Indonesia Jangan Jadi Kuli di Negeri Sendiri",
+        "link": "https://www.cnbcindonesia.com/news/20220816103006-4-364088/puan-warga-indonesia-jangan-jadi-kuli-di-negeri-sendiri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjEwMzAwNi00LTM2NDA4OC9wdWFuLXdhcmdhLWluZG9uZXNpYS1qYW5nYW4tamFkaS1rdWxpLWRpLW5lZ2VyaS1zZW5kaXJp",
+        "description": " Ketua Dewan Perwakilan Rakyat (DPR) Puan Maharani menginginkan masyarakat Indonesia tidak menjadi kuli di negeri sendiri."
+    },
+    {
         "title": "Mungkin Ini Biang Keladi BBM Bersubsidi Langka",
         "link": "https://www.cnbcindonesia.com/news/20220816093417-4-364057/mungkin-ini-biang-keladi-bbm-bersubsidi-langka",
         "image": "static/images/cnbc_news.png",
@@ -19,54 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA5NDkyMC00LTM2NDA3MC9zdXJhdC1yYWhhc2lhLXVuZ2thcC10cnVtcC1kdWt1bmctaXNyYWVsLWNhcGxvay1wYWxlc3RpbmE=",
         "description": " Mantan Presiden Amerika Serikat (AS) Donald Trump disebut mendukung rencana Israel untuk menganeksasi atau mencaplok wilayah Tepi Barat milik Palestina."
-    },
-    {
-        "title": "Potret Jokowi Kenakan Baju Adat Paksian dari Bangka Belitung",
-        "link": "https://www.cnbcindonesia.com/news/20220816094432-7-364064/potret-jokowi-kenakan-baju-adat-paksian-dari-bangka-belitung",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA5NDQzMi03LTM2NDA2NC9wb3RyZXQtam9rb3dpLWtlbmFrYW4tYmFqdS1hZGF0LXBha3NpYW4tZGFyaS1iYW5na2EtYmVsaXR1bmc=",
-        "description": " Presiden Jokowi mengenakan pakaian adat Paksian dari Bangka Belitung saat menyampaikan pidato kenegaraan jelang peringatan Hari Kemerdekaan Indonesia."
-    },
-    {
-        "title": "Ingatkan Jokowi Soal Utang, Bamsoet Was-was Krisis!",
-        "link": "https://www.cnbcindonesia.com/news/20220816095855-4-364076/ingatkan-jokowi-soal-utang-bamsoet-was-was-krisis",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA5NTg1NS00LTM2NDA3Ni9pbmdhdGthbi1qb2tvd2ktc29hbC11dGFuZy1iYW1zb2V0LXdhcy13YXMta3Jpc2lz",
-        "description": " Ancaman krisis global kini ada di depan mata. Pemerintah, perlu waspada terhadap peningkatan utang."
-    },
-    {
-        "title": "Ketua MPR: IKN Tak Boleh Berhenti Meski Presiden Berganti!",
-        "link": "https://www.cnbcindonesia.com/news/20220816100431-4-364081/ketua-mpr-ikn-tak-boleh-berhenti-meski-presiden-berganti",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjEwMDQzMS00LTM2NDA4MS9rZXR1YS1tcHItaWtuLXRhay1ib2xlaC1iZXJoZW50aS1tZXNraS1wcmVzaWRlbi1iZXJnYW50aQ==",
-        "description": " Ketua Majelis Permusyawaratan Rakyat (MPR) Bambang Soesatyo meminta agar semua pihak mendukung pemindahan Ibu Kota Negara (IKN)."
-    },
-    {
-        "title": "Barat Desak Rusia Segera Tinggalkan PLTN Zaporizhzhia",
-        "link": "https://www.cnbcindonesia.com/news/20220816090611-8-364041/barat-desak-rusia-segera-tinggalkan-pltn-zaporizhzhia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA5MDYxMS04LTM2NDA0MS9iYXJhdC1kZXNhay1ydXNpYS1zZWdlcmEtdGluZ2dhbGthbi1wbHRuLXphcG9yaXpoemhpYQ==",
-        "description": " Negara-negara barat telah meminta Rusia untuk segera menarik pasukan militernya dari Pembangkit Listrik Tenaga Nuklir Zaporizhzhia"
-    },
-    {
-        "title": "Ketua MPR RI: 66 Negara Diprediksi Bangkrut dan Ambruk",
-        "link": "https://www.cnbcindonesia.com/news/20220816100005-4-364078/ketua-mpr-ri-66-negara-diprediksi-bangkrut-dan-ambruk",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjEwMDAwNS00LTM2NDA3OC9rZXR1YS1tcHItcmktNjYtbmVnYXJhLWRpcHJlZGlrc2ktYmFuZ2tydXQtZGFuLWFtYnJ1aw==",
-        "description": " Ketua MPR RI Bambang Soesatyo dalam paparannya di sudang bersama hari ini mengatakan bahwa situasi global saat ini sedang dihantui ancaman krisis global"
-    },
-    {
-        "title": "Bamsoet : RI Terancam HiperInflasi, Bisa Tembus 10-12%!",
-        "link": "https://www.cnbcindonesia.com/news/20220816095753-4-364075/bamsoet-ri-terancam-hiperinflasi-bisa-tembus-10-12",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA5NTc1My00LTM2NDA3NS9iYW1zb2V0LXJpLXRlcmFuY2FtLWhpcGVyaW5mbGFzaS1iaXNhLXRlbWJ1cy0xMC0xMg==",
-        "description": " Bamsoet menyebut laju inflasi diperkirakan berada pada kisaran 10-12% pada September 2022 mendatang"
-    },
-    {
-        "title": "Horor Triple Krisis!, Ketua MPR: Ini Semakin Tidak Menentu",
-        "link": "https://www.cnbcindonesia.com/news/20220816095534-4-364073/horor-triple-krisis-ketua-mpr-ini-semakin-tidak-menentu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA5NTUzNC00LTM2NDA3My9ob3Jvci10cmlwbGUta3Jpc2lzLWtldHVhLW1wci1pbmktc2VtYWtpbi10aWRhay1tZW5lbnR1",
-        "description": " Ketua Majelis Permusyawaratan Rakyat (MPR) Bambang Soesatyo menyampaikan situasi ekonomi global yang semakin suram."
     }
 ]
