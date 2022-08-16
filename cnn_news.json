@@ -1,5 +1,19 @@
 [
     {
+        "title": "Hari Kemerdekaan dan Rencana Jokowi Upacara 17 Agustus 2024 di IKN",
+        "link": "https://www.cnnindonesia.com/nasional/20220817011448-20-835543/hari-kemerdekaan-dan-rencana-jokowi-upacara-17-agustus-2024-di-ikn",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNzAxMTQ0OC0yMC04MzU1NDMvaGFyaS1rZW1lcmRla2Fhbi1kYW4tcmVuY2FuYS1qb2tvd2ktdXBhY2FyYS0xNy1hZ3VzdHVzLTIwMjQtZGktaWtu",
+        "description": " Presiden RI Joko Widodo (Jokowi) berencana menyelenggarakan upacara peringatan Kemerdekaan Indonesia tahun 2024 di Ibu Kota Negara (IKN) Nusantara."
+    },
+    {
+        "title": "Pengibaran Merah Putih, Pengguna Jalan Diminta Berhenti Pukul 10.17",
+        "link": "https://www.cnnindonesia.com/nasional/20220817010230-20-835541/pengibaran-merah-putih-pengguna-jalan-diminta-berhenti-pukul-1017",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNzAxMDIzMC0yMC04MzU1NDEvcGVuZ2liYXJhbi1tZXJhaC1wdXRpaC1wZW5nZ3VuYS1qYWxhbi1kaW1pbnRhLWJlcmhlbnRpLXB1a3VsLTEwMTc=",
+        "description": " Pengguna jalan yang berada di wilayah Jakarta Pusat akan diminta untuk berhenti sejenak pukul 10.17 WIB pada Rabu (17/8)."
+    },
+    {
         "title": "13 Napi Korupsi di Aceh Dapat Remisi HUT Kemerdekaan RI",
         "link": "https://www.cnnindonesia.com/nasional/20220816183726-12-835460/13-napi-korupsi-di-aceh-dapat-remisi-hut-kemerdekaan-ri",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNjE0MjgxMy0zMi04MzUzMDUvaWJhcy1ha3VpLWRlbW9rcmF0LWJ1dHVoLWtvYWxpc2ktYmVzYXItdW50dWstcGlscHJlcy0yMDI0",
         "description": " Waketum Demokrat mengatakan komunikasi politik partainya tak akan hanya berhenti pada satu atau dua partai saja untuk menghadapi pemilu 2024."
-    },
-    {
-        "title": "16 Partai Tak Lolos Pendaftaran Bisa Gugat KPU ke Bawaslu",
-        "link": "https://www.cnnindonesia.com/nasional/20220817014630-32-835544/16-partai-tak-lolos-pendaftaran-bisa-gugat-kpu-ke-bawaslu",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNzAxNDYzMC0zMi04MzU1NDQvMTYtcGFydGFpLXRhay1sb2xvcy1wZW5kYWZ0YXJhbi1iaXNhLWd1Z2F0LWtwdS1rZS1iYXdhc2x1",
-        "description": " Badan Pengawas Pemilihan Umum (Bawaslu)\u00c2\u00a0siap terima\u00c2\u00a0gugatan partai politik (parpol) yang tidak berhasil lolos pendaftaran."
-    },
-    {
-        "title": "KPU Tanggapi soal Batasi Bawaslu saat Awasi Pendaftaran Peserta Pemilu",
-        "link": "https://www.cnnindonesia.com/nasional/20220816152209-20-835348/kpu-tanggapi-soal-batasi-bawaslu-saat-awasi-pendaftaran-peserta-pemilu",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNjE1MjIwOS0yMC04MzUzNDgva3B1LXRhbmdnYXBpLXNvYWwtYmF0YXNpLWJhd2FzbHUtc2FhdC1hd2FzaS1wZW5kYWZ0YXJhbi1wZXNlcnRhLXBlbWlsdQ==",
-        "description": " Komisioner KPU menjelaskan ihwal waktu terbatas yang diberikan kepada Bawaslu saat verifikasi administrasi parpol pendaftar Pemilu 2024."
     }
 ]
