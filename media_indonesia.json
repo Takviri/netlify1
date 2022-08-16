@@ -1,5 +1,19 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/515333/osaka-tersingkir-di-putaran-pertama-cincinnati-masters",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTUzMzMvb3Nha2EtdGVyc2luZ2tpci1kaS1wdXRhcmFuLXBlcnRhbWEtY2luY2lubmF0aS1tYXN0ZXJz",
+        "description": "PERFORMA buruk Naomi Osaka berlanjut setelah juara Grand Slam empat kali itu itu tersingkir di putaran pertama Cincinnati&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515332/ini-susunan-upacara-17-agustus-di-istana-negara-hari-ini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTUzMzIvaW5pLXN1c3VuYW4tdXBhY2FyYS0xNy1hZ3VzdHVzLWRpLWlzdGFuYS1uZWdhcmEtaGFyaS1pbmk=",
+        "description": "DALAM rangka memperingati HUT Kemerdekaan ke-77 Republik Indonesia, hari ini, Rabu (17/8), akan digelar upacara bendera di Istana&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/515331/deolipa-laporkan-kuasa-hukum-bharada-e-terkait-pencemaran-nama-baik",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTMyMy93YXRmb3JkLXRvbGFrLXRhd2FyYW4tbmV3Y2FzdGxlLXVudHVrLWpvYW8tcGVkcm8=",
         "description": "WATFORD dikabarkan menolak tawaran Newcastle United untuk membeli striker Joao Pedro pada bursa transfer pemain musim panas ini. Dikabarkan Newcastle memberikan penawaran sebesar 17,5 juta pounds&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/515322/tandukan-darwin-nunez-berbuntut-ancaman-pembunuhan-kepada-joachim-andersen",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTMyMi90YW5kdWthbi1kYXJ3aW4tbnVuZXotYmVyYnVudHV0LWFuY2FtYW4tcGVtYnVudWhhbi1rZXBhZGEtam9hY2hpbS1hbmRlcnNlbg==",
-        "description": "ANCAMAN pembunuhan diterima bek Crystal Palace, Joachim Andersen. Ancaman ini muncul menyusul insiden tandukkan pemain Liverpool, Darwin Nunez kepada Andersen dalam laga Liga Primer Inggris, akhir&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515321/408-juta-masyarakat-telah-divaksinasi-booster",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1MzIxLzQwOC1qdXRhLW1hc3lhcmFrYXQtdGVsYWgtZGl2YWtzaW5hc2ktYm9vc3Rlcg==",
-        "description": "PEMERINTAH terus menggenjot vaksinasi covid-19. Hari ini, Selasa (16/8) lebih dari 40 juta masyarakat rentan dan umum sudah menerima vaksin covid-19 dosis ketiga atau booster.&nbsp; &ldquo;Jumlah&#8230;"
     }
 ]
