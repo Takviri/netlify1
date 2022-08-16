@@ -1,5 +1,12 @@
 [
     {
+        "title": "Kenapa Ya Kita Gampang Capek Kalau Berpikir Keras? Ternyata Begini Penjelasannya",
+        "link": "https://www.vice.com/id_id/article/pkgakv/alasan-ilmiah-kita-merasa-capek-setelah-berpikir-keras",
+        "image": "static/images/vice.png",
+        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9wa2dha3YvYWxhc2FuLWlsbWlhaC1raXRhLW1lcmFzYS1jYXBlay1zZXRlbGFoLWJlcnBpa2lyLWtlcmFz",
+        "description": "Penelitian terbaru menyimpulkan aktivitas yang menguras otak memengaruhi kinerja manusia, terutama saat mengambil keputusan. Jadi, wajar kalau ada orang yang malas berpikir :P"
+    },
+    {
         "title": "Ingat Para Pekerja, Pelecehan di Grup WA Kantor Bisa Dilaporkan Pakai UU TPKS",
         "link": "https://www.vice.com/id_id/article/wxnjbx/pelecehan-di-grup-whatsapp-kantor-bisa-dilaporkan-ke-polisi-dengan-uu-tpks",
         "image": "static/images/vice.png",
@@ -61,12 +68,5 @@
         "image": "static/images/vice.png",
         "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9qZ3BlNTQvZ2FtZS1pLWFtLWplc3VzLWNocmlzdC1tdWxhaS1iaXNhLXRlcnNlZGlhLWRlbW9ueWEtZGktc3RlYW0tZ2FtZXItYmVycGVyYW4=",
         "description": "Dalam game simulasi \u00e2\u0080\u0098I Am Jesus Christ\u00e2\u0080\u0099 yang sempat jadi meme viral itu, kalian berperan langsung jadi Yesus menangkal bola energi disemburkan iblis."
-    },
-    {
-        "title": "Hanya di Momen Ini, Umat Sunni-Syiah Mau Beribadah Bersama",
-        "link": "https://www.vice.com/id_id/article/dy733k/perayaan-asyura-di-shah-jeewna-pakistan-mempersatukan-umat-sunni-dan-syiah",
-        "image": "static/images/vice.png",
-        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9keTczM2svcGVyYXlhYW4tYXN5dXJhLWRpLXNoYWgtamVld25hLXBha2lzdGFuLW1lbXBlcnNhdHVrYW4tdW1hdC1zdW5uaS1kYW4tc3lpYWg=",
-        "description": "Setiap momen Asyura, umat Muslim Sunni dan Syiah di Pakistan melupakan konflik, untuk bersama-sama memperingati hari wafatnya cucu Rasulullah SAW."
     }
 ]
