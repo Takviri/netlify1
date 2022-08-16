@@ -1,5 +1,12 @@
 [
     {
+        "title": "Seperti Inilah Penampakan Kota Bebas Mobil, Sangat Asri dan Nyaman",
+        "link": "https://www.vice.com/id_id/article/epzznk/desain-kota-tanpa-mobil-pribadi-asri-dan-nyaman-penuh-taman-hasil-analisis-dall-e",
+        "image": "static/images/vice.png",
+        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9lcHp6bmsvZGVzYWluLWtvdGEtdGFucGEtbW9iaWwtcHJpYmFkaS1hc3JpLWRhbi1ueWFtYW4tcGVudWgtdGFtYW4taGFzaWwtYW5hbGlzaXMtZGFsbC1l",
+        "description": "Teknologi AI bernama DALL-E bisa digunakan untuk membayangkan daerah perkotaan yang minim mobil. Hasilnya bikin kita bergumam, \"kapan ya kita tak lagi bergantung mobil pribadi?\""
+    },
+    {
         "title": "MA Vonis Bebas Dosen Unri Terduga Pelaku Kekerasan Seksual Karena Tak Ada Saksi",
         "link": "https://www.vice.com/id_id/article/z34mw4/kurang-saksi-ma-vonis-bebas-dosen-unri-syafri-harto-terduga-pelaku-kekerasan-seksual-terhadap-mahasiswi",
         "image": "static/images/vice.png",
@@ -61,12 +68,5 @@
         "image": "static/images/vice.png",
         "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS92N3ZiYjkva29yZWEtdXRhcmEtbWVuZ2FrdS10ZXJiZWJhcy1kYXJpLWNvdmlkLTE5LWtpbS1qb25nLXVuLWNhYnV0LWF0dXJhbi1zb2NpYWwtZGlzdGFuY2luZw==",
         "description": "Kim Jong-un mengklaim negara mereka sukses \"mengalahkan\" penularan Covid-19 tak sampai setahun, total kematian 'hanya' 74 orang. Namanya juga Korut, semua klaim itu sulit diverifikasi."
-    },
-    {
-        "title": "Kabar Buruk Baru: Air Hujan Planet Tercemar Zat Kimia Beracun, Tak Aman Diminum",
-        "link": "https://www.vice.com/id_id/article/m7gban/ilmuwan-sebut-air-hujan-di-planet-bumi-tidak-aman-diminum-karena-sudah-tercemar-perfluoroalkyl",
-        "image": "static/images/vice.png",
-        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9tN2diYW4vaWxtdXdhbi1zZWJ1dC1haXItaHVqYW4tZGktcGxhbmV0LWJ1bWktdGlkYWstYW1hbi1kaW1pbnVtLWthcmVuYS1zdWRhaC10ZXJjZW1hci1wZXJmbHVvcm9hbGt5bA==",
-        "description": "Ilmuwan bilang di daerah terpencil seperti Antartika dan dataran tinggi Tibet sekalipun, air hujan mengandung kadar \u00e2\u0080\u009cbahan kimia abadi\u00e2\u0080\u009d dalam jumlah besar. Zat ini berbahaya dan sulit terurai."
     }
 ]

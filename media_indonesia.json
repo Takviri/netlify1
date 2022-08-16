@@ -1,5 +1,40 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/515100/durant-bantah-berencana-pensiun",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTUxMDAvZHVyYW50LWJhbnRhaC1iZXJlbmNhbmEtcGVuc2l1bg==",
+        "description": "BINTANG Brooklyn Nets Kevin Durant akhirnya buka suara untuk membantah rumor yang beredar bahwa dirinya berencana pensiun dalam&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515099/ketua-mpr-apresiasi-misi-perdamaian-jokowi-ke-rusia-dan-ukraina",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTUwOTkva2V0dWEtbXByLWFwcmVzaWFzaS1taXNpLXBlcmRhbWFpYW4tam9rb3dpLWtlLXJ1c2lhLWRhbi11a3JhaW5h",
+        "description": "KETUA MPR Bambang Soesatyo mengapresiasi langkah Presiden Joko Widodo (Jokowi) yang melakukan misi perdamaian dalam perang Rusia-Ukraina.&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/515098/ten-hag-mulai-berubah-pikiran-soal-masa-depan-ronaldo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTA5OC90ZW4taGFnLW11bGFpLWJlcnViYWgtcGlraXJhbi1zb2FsLW1hc2EtZGVwYW4tcm9uYWxkbw==",
+        "description": "MANAJER Manchester United (MU) Erik ten Hag dilaporkan berubah pikiran mengenai nasib Cristiano Ronaldo. Ten Hag, kini,&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515097/presiden-singgung-tiga-megakorupsi-yang-diusut-kejagung-dalam-pidato-kenegaraan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTUwOTcvcHJlc2lkZW4tc2luZ2d1bmctdGlnYS1tZWdha29ydXBzaS15YW5nLWRpdXN1dC1rZWphZ3VuZy1kYWxhbS1waWRhdG8ta2VuZWdhcmFhbg==",
+        "description": "PRESIDEN Joko Widodo mengapresiasi upaya pembongkaran kasus-kasus korupsi dengan kerugian negara besar yang dilakukan aparat&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/515096/sinergi-dan-kolaborasi-membangun-akuntabilitas-serta-transparansi-melalui-sai20",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTUwOTYvc2luZXJnaS1kYW4ta29sYWJvcmFzaS1tZW1iYW5ndW4tYWt1bnRhYmlsaXRhcy1zZXJ0YS10cmFuc3BhcmFuc2ktbWVsYWx1aS1zYWkyMA==",
+        "description": "SINERGI&nbsp;dan kolaborasi merupakan prinsip dasar yang menjadi kunci bagi dunia untuk menyelesaikan segala masalah yang ada. Selama ini, dunia internasional memang telah menjalankan dua prinsip tersebut.&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/515095/velluto-gelato-luncurkan-kampanye-taste-of-happiness",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTA5MS9paHNnLXBhZGEtaGFyaS1pbmktZGlidWthLW1lbmd1YXQta2UtcG9zaXNpLTcxMTQyNg==",
         "description": "PERGERAKAN Indeks Harga Saham gabungan (IHSG) pada awal pekan ini, Selasa (16/8)&nbsp;dibuka menguat 20,99 poin atau 0,3 persen ke posisi 7.114,26. Sementara, kelompok 45 saham unggulan atau indeks&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/515090/presiden-jokowi-indonesia-negara-yang-berhasil",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTA5MC9wcmVzaWRlbi1qb2tvd2ktaW5kb25lc2lhLW5lZ2FyYS15YW5nLWJlcmhhc2ls",
-        "description": "DI tengah-tengah tantangan berat global, mulai dari pandemi covid-19 hingga perang antara Ukraina dan Rusia, Indonesia mampu menunjukkan kinerja yang apik, baik dari segi penanganan kesehatan hingga&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515089/makassar-international-eight-festival-and-forum-2022-pada-7-11-september-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1MDg5L21ha2Fzc2FyLWludGVybmF0aW9uYWwtZWlnaHQtZmVzdGl2YWwtYW5kLWZvcnVtLTIwMjItcGFkYS03LTExLXNlcHRlbWJlci0yMDIy",
-        "description": "MAKASSAR International Eight Festival and Forum atau yang dikenal dengan sebutan F8 membawa energi positif bagi pelaku industri kreatif dan pariwisata di Kota Makassar, Sulawesi Selatan untuk&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/515088/pulih-dari-cedera-roglic-buru-gelar-di-vuelta-a-espana",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTUwODgvcHVsaWgtZGFyaS1jZWRlcmEtcm9nbGljLWJ1cnUtZ2VsYXItZGktdnVlbHRhLWEtZXNwYW5h",
-        "description": "PRIMOZ Roglic akan turun membalap di Grand Tour terakhir musim ini, Vuelta a Espana, setelah mengalami cedera serius di ajang&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/515087/kecelakaan-maut-di-tol-jagorawi-arah-jakarta-3-orang-meninggal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTUwODcva2VjZWxha2Fhbi1tYXV0LWRpLXRvbC1qYWdvcmF3aS1hcmFoLWpha2FydGEtMy1vcmFuZy1tZW5pbmdnYWw=",
-        "description": "KECELAKAAN lalu lintas melibatkan mini bus dan truk tangki terjadi di ruas Tol Jagorawi KM 6+800 arah Jakarta pada Selasa (16/8). Tiga orang tewas dalam kecelakaan tersebut. Kainduk PJR Tol&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515086/pengendalian-karhutla-kunci-menuju-folu-net-sink-2030",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1MDg2L3BlbmdlbmRhbGlhbi1rYXJodXRsYS1rdW5jaS1tZW51anUtZm9sdS1uZXQtc2luay0yMDMw",
-        "description": "INDONESIA telah meratifikasi Paris Agreement melalui dokumen Nationally Determined Contribution (NDC) yang menjadi kewajiban nasional di dalam agenda perubahan iklim global. Dokumen NDC menetapkan&#8230;"
     }
 ]
