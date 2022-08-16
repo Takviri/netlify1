@@ -1,5 +1,40 @@
 [
     {
+        "title": "Subsidi BBM RI Bagai Buah Simalakama",
+        "link": "https://www.cnbcindonesia.com/news/20220816192547-8-364357/subsidi-bbm-ri-bagai-buah-simalakama",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE5MjU0Ny04LTM2NDM1Ny9zdWJzaWRpLWJibS1yaS1iYWdhaS1idWFoLXNpbWFsYWthbWE=",
+        "description": " Subsidi BBM RI Bagai Buah Simalakama"
+    },
+    {
+        "title": "Ada 'Opor' Dalam Jurus Menteri Basuki, Apa Itu?",
+        "link": "https://www.cnbcindonesia.com/news/20220816183652-4-364348/ada-opor-dalam-jurus-menteri-basuki-apa-itu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE4MzY1Mi00LTM2NDM0OC9hZGEtb3Bvci1kYWxhbS1qdXJ1cy1tZW50ZXJpLWJhc3VraS1hcGEtaXR1",
+        "description": " Menteri PUPR mengatakan sejumlah proyek infrastruktur difokuskan bisa rampung di tahun 2024."
+    },
+    {
+        "title": "Putin Siap Jual Senjata Canggihnya ke Sekutu Secara Global",
+        "link": "https://www.cnbcindonesia.com/news/20220816130202-8-364185/putin-siap-jual-senjata-canggihnya-ke-sekutu-secara-global",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjEzMDIwMi04LTM2NDE4NS9wdXRpbi1zaWFwLWp1YWwtc2VuamF0YS1jYW5nZ2lobnlhLWtlLXNla3V0dS1zZWNhcmEtZ2xvYmFs",
+        "description": " Putin menyatakan siap menjual senjata canggih kepada sekutu secara global."
+    },
+    {
+        "title": "Tinggal Tunggu Waktu, Pembatasan Beli Pertalite Segera Jalan!",
+        "link": "https://www.cnbcindonesia.com/news/20220816180840-4-364331/tinggal-tunggu-waktu-pembatasan-beli-pertalite-segera-jalan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE4MDg0MC00LTM2NDMzMS90aW5nZ2FsLXR1bmdndS13YWt0dS1wZW1iYXRhc2FuLWJlbGktcGVydGFsaXRlLXNlZ2VyYS1qYWxhbg==",
+        "description": " Menteri ESDM Arifin Tasrif menyatakan aturan pembatasan Pertalite diharapkan jalan secepatnya"
+    },
+    {
+        "title": "Putin Teriak, Nih 'Biang Kerok' Perang Gak Kelar-kelar",
+        "link": "https://www.cnbcindonesia.com/news/20220816173240-4-364322/putin-teriak-nih-biang-kerok-perang-gak-kelar-kelar",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE3MzI0MC00LTM2NDMyMi9wdXRpbi10ZXJpYWstbmloLWJpYW5nLWtlcm9rLXBlcmFuZy1nYWsta2VsYXIta2VsYXI=",
+        "description": " Presiden Rusia Vladimir Putin menuding Amerika Serikat (AS) berusaha untuk memperpanjang konflik di Ukraina."
+    },
+    {
         "title": "Bangun Istana dan Kantor di IKN, Pemerintah Siapkan Rp20 T",
         "link": "https://www.cnbcindonesia.com/news/20220816180514-4-364329/bangun-istana-kantor-di-ikn-pemerintah-siapkan-rp20-t",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE4MzY0OS04LTM2NDM0NS93aW5kZmFsbC1rb21vZGl0YXMtcGFqYWstcmktdGVtYnVzLXJwLTIwMDAtdHJpbGl1bg==",
         "description": " Windfall Komoditas, Pajak RI Tembus Rp 2000 Triliun"
-    },
-    {
-        "title": "Ampun! Kasus Covid-19 Hari Ini Melonjak Lagi",
-        "link": "https://www.cnbcindonesia.com/news/20220816183133-4-364344/ampun-kasus-covid-19-hari-ini-melonjak-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE4MzEzMy00LTM2NDM0NC9hbXB1bi1rYXN1cy1jb3ZpZC0xOS1oYXJpLWluaS1tZWxvbmphay1sYWdp",
-        "description": " Satgas Penanganan Covid-19 mencatat, pertambahan konfirmasi positif Covid-19 RI hari ini, Selasa (16/8/2022) mencapai 5.869 kasus."
-    },
-    {
-        "title": "Windfall Komoditas Berakhir, Anggaran Negara Masih Aman?",
-        "link": "https://www.cnbcindonesia.com/news/20220816164446-8-364295/windfall-komoditas-berakhir-anggaran-negara-masih-aman",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE2NDQ0Ni04LTM2NDI5NS93aW5kZmFsbC1rb21vZGl0YXMtYmVyYWtoaXItYW5nZ2FyYW4tbmVnYXJhLW1hc2loLWFtYW4=",
-        "description": " Windfall Komoditas Berakhir, Anggaran Negara Masih Aman?"
-    },
-    {
-        "title": "Jelang Kemerdekaan, Kasus Covid Hari Ini Bertambah 5.869",
-        "link": "https://www.cnbcindonesia.com/news/20220816180656-16-364328/jelang-kemerdekaan-kasus-covid-hari-ini-bertambah-5869",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE4MDY1Ni0xNi0zNjQzMjgvamVsYW5nLWtlbWVyZGVrYWFuLWthc3VzLWNvdmlkLWhhcmktaW5pLWJlcnRhbWJhaC01ODY5",
-        "description": " Satgas Penanganan Covid-19 mencatat, pertambahan konfirmasi positif Covid-19 RI hari ini, Selasa (16/8/2022) mencapai 5.869 kasus."
-    },
-    {
-        "title": "Wow! Jokowi Panen Tol Tahun Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220816180819-8-364330/wow-jokowi-panen-tol-tahun-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE4MDgxOS04LTM2NDMzMC93b3ctam9rb3dpLXBhbmVuLXRvbC10YWh1bi1pbmk=",
-        "description": " Wow! Jokowi Panen Tol Tahun Ini"
-    },
-    {
-        "title": "Duh! Tak Ada Lagi Dana Penanganan Covid-19 Tahun Depan",
-        "link": "https://www.cnbcindonesia.com/news/20220816173036-4-364317/duh-tak-ada-lagi-dana-penanganan-covid-19-tahun-depan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE3MzAzNi00LTM2NDMxNy9kdWgtdGFrLWFkYS1sYWdpLWRhbmEtcGVuYW5nYW5hbi1jb3ZpZC0xOS10YWh1bi1kZXBhbg==",
-        "description": " Pemerintah memutuskan untuk tak lagi mengalokasikan dana untuk penanganan Covid-19 pada tahun depan"
     }
 ]
