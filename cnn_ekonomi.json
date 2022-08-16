@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pemerintah Pede Minyak Makan Merah Bakal Diserap Pasar",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220816073411-92-835062/pemerintah-pede-minyak-makan-merah-bakal-diserap-pasar",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE2MDczNDExLTkyLTgzNTA2Mi9wZW1lcmludGFoLXBlZGUtbWlueWFrLW1ha2FuLW1lcmFoLWJha2FsLWRpc2VyYXAtcGFzYXI=",
+        "description": " Menkop UKM Teten Masduki mengklaim teknologi produksi dan bisnis model minyak makan merah sudah ada."
+    },
+    {
+        "title": "Ciri-ciri Harga Pertalite Bakal Naik",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220816072301-85-835059/ciri-ciri-harga-pertalite-bakal-naik",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE2MDcyMzAxLTg1LTgzNTA1OS9jaXJpLWNpcmktaGFyZ2EtcGVydGFsaXRlLWJha2FsLW5haWs=",
+        "description": " Pemerintah memperlihatkan ciri-ciri menaikkan BBM bersubsidi, Pertalite, dengan menyinggung anggaran subsidi yang semakin besar."
+    },
+    {
         "title": "Promo 17-an, Beli Biskuit di Transmart Cuma Rp1.000",
         "link": "https://www.cnnindonesia.com/ekonomi/20220815164601-97-834883/promo-17-an-beli-biskuit-di-transmart-cuma-rp1000",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTgwODU2LTc4LTgzNDkzNi9hc29zaWFzaS1maW50ZWNoLWFuY2FtLXBpZGFuYWthbi1waWhhay15YW5nLWNhdHV0LW5hbWEtMTctcGluam9sLWxlZ2Fs",
         "description": " AFPI akan membawa ke jalur hukum pihak yang mencatut nama pinjaman online legal milik para anggotanya karena merugikan masyarakat dan penyedia jasa."
-    },
-    {
-        "title": "Impor BBM Melonjak 97 Persen di Tengah Isu Kelangkaan Pertalite",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220815171256-85-834908/impor-bbm-melonjak-97-persen-di-tengah-isu-kelangkaan-pertalite",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTcxMjU2LTg1LTgzNDkwOC9pbXBvci1iYm0tbWVsb25qYWstOTctcGVyc2VuLWRpLXRlbmdhaC1pc3Uta2VsYW5na2Fhbi1wZXJ0YWxpdGU=",
-        "description": " BPS mencatat impor hasil minyak termasuk BBM naik signifikan 97 persen sepanjang Januari-Juli 2022. Lonjakan terjadi di tengah kelangkaan pertalite."
-    },
-    {
-        "title": "Arab Gelontorkan Rp7 T ke Perusahaan Rusia di Tengah Invasi Ukraina",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220815195200-85-834977/arab-gelontorkan-rp7-t-ke-perusahaan-rusia-di-tengah-invasi-ukraina",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE1MTk1MjAwLTg1LTgzNDk3Ny9hcmFiLWdlbG9udG9ya2FuLXJwNy10LWtlLXBlcnVzYWhhYW4tcnVzaWEtZGktdGVuZ2FoLWludmFzaS11a3JhaW5h",
-        "description": " Perusahaan investasi Arab menggelontorkan Rp7,37 triliun ke sejumlah perusahaan energi Rusia saat Moskow melancarkan invasi ke Ukraina. Ini rinciannya."
     }
 ]

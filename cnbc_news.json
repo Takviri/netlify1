@@ -1,5 +1,19 @@
 [
     {
+        "title": "PPKM Level 1 Jabodetabek: Bebas 'Kongkow' Hingga 29 Agustus",
+        "link": "https://www.cnbcindonesia.com/news/20220816074257-4-364016/ppkm-level-1-jabodetabek-bebas-kongkow-hingga-29-agustus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA3NDI1Ny00LTM2NDAxNi9wcGttLWxldmVsLTEtamFib2RldGFiZWstYmViYXMta29uZ2tvdy1oaW5nZ2EtMjktYWd1c3R1cw==",
+        "description": " PPKM Jawa-Bali kembali diperpanjang hingga 29 Agustus 2022 mendatang"
+    },
+    {
+        "title": "Kawan Jadi Lawan! China Disebut Mulai Serang Rusia, PD 3?",
+        "link": "https://www.cnbcindonesia.com/news/20220816072620-4-364014/kawan-jadi-lawan-china-disebut-mulai-serang-rusia-pd-3",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA3MjYyMC00LTM2NDAxNC9rYXdhbi1qYWRpLWxhd2FuLWNoaW5hLWRpc2VidXQtbXVsYWktc2VyYW5nLXJ1c2lhLXBkLTM=",
+        "description": " China disebut mulai melancarkan serangan kepada Rusia."
+    },
+    {
         "title": "PPKM Level 1 Diperpanjang, Cek Aturan Baru Sektor Esensial",
         "link": "https://www.cnbcindonesia.com/news/20220816071637-4-364013/ppkm-level-1-diperpanjang-cek-aturan-baru-sektor-esensial",
         "image": "static/images/cnbc_news.png",
@@ -49,24 +63,10 @@
         "description": " Setelah kondisi pasukannya terus dipertanyakan di Ukraina, Presiden Rusia Vladimir Putin kini memberikan 'ancaman' baru."
     },
     {
-        "title": "PPKM Diperpanjang (Lagi), Seluruh Wilayah RI Level 1!",
-        "link": "https://www.cnbcindonesia.com/news/20220816060619-4-364002/ppkm-diperpanjang--lagi--seluruh-wilayah-ri-level-1",
+        "title": "PPKM Diperpanjang (Lagi), Seluruh Wilayah Jawa-Bali Level 1!",
+        "link": "https://www.cnbcindonesia.com/news/20220816060619-4-364002/ppkm-diperpanjang--lagi--seluruh-wilayah-jawa-bali-level-1",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA2MDYxOS00LTM2NDAwMi9wcGttLWRpcGVycGFuamFuZy0tbGFnaS0tc2VsdXJ1aC13aWxheWFoLXJpLWxldmVsLTE=",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjA2MDYxOS00LTM2NDAwMi9wcGttLWRpcGVycGFuamFuZy0tbGFnaS0tc2VsdXJ1aC13aWxheWFoLWphd2EtYmFsaS1sZXZlbC0x",
         "description": " Pemerintah memutuskan untuk kembali memperpanjang kebijakan pelaksanaan Pemberlakuan Pembatasan Kegiatan Masyarakat (PPKM)."
-    },
-    {
-        "title": "AS Latihan Perang dengan RI, China dengan Thailand",
-        "link": "https://www.cnbcindonesia.com/news/20220815190218-4-363968/as-latihan-perang-dengan-ri-china-dengan-thailand",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTE5MDIxOC00LTM2Mzk2OC9hcy1sYXRpaGFuLXBlcmFuZy1kZW5nYW4tcmktY2hpbmEtZGVuZ2FuLXRoYWlsYW5k",
-        "description": " Amerika Serikat (AS) dan China menunjukkan kekuatan militer mereka secara terpisah di wilayah Asia Tenggara selama akhir pekan."
-    },
-    {
-        "title": "Utang RI Kini Tembus Rp 7.163,12 Triliun",
-        "link": "https://www.cnbcindonesia.com/news/20220815211155-4-363988/utang-ri-kini-tembus-rp-716312-triliun",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTIxMTE1NS00LTM2Mzk4OC91dGFuZy1yaS1raW5pLXRlbWJ1cy1ycC03MTYzMTItdHJpbGl1bg==",
-        "description": " Kemenkeu mencatat posisi utang pemerintah hingga Juli 2022 telah mencapai Rp 7.163,12 triliun atau setara 39,56% dari produk domestik bruto (PDB)."
     }
 ]
