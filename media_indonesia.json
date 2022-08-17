@@ -1,5 +1,47 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/515483/masyarakat-adat-masih-belum-nikmati-kemerdekaan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NDgzL21hc3lhcmFrYXQtYWRhdC1tYXNpaC1iZWx1bS1uaWttYXRpLWtlbWVyZGVrYWFu",
+        "description": "77 Tahun sejak Indonesia di deklarasikan kemerdekaannya, Masyarakat Adat masih belum menikmati kemerdekaan. Hal itu diungkapkan oleh Direktur Perluasan Partisipasi Politik Masyarakat Adat Aliansi Masyarakat&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515475/nasdem-usulkan-pembahasan-14-isu-krusial-revisi-kuhp-melalui-simulasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU0NzUvbmFzZGVtLXVzdWxrYW4tcGVtYmFoYXNhbi0xNC1pc3Uta3J1c2lhbC1yZXZpc2kta3VocC1tZWxhbHVpLXNpbXVsYXNp",
+        "description": "ANGGOTA Komisi III DPR Taufik Basari mengusulkan dibuat simulasi dalam pembahasan revisi Kitab Undang-undang Hukum Pidana (KUHP). Simulasi dikhususkan hanya untuk ketentuan yang dianggap masih kontroversial.&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515482/presiden-dijadwalkan-kunjungi-ikn-nusantara-pada-akhir-agustus",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU0ODIvcHJlc2lkZW4tZGlqYWR3YWxrYW4ta3VuanVuZ2ktaWtuLW51c2FudGFyYS1wYWRhLWFraGlyLWFndXN0dXM=",
+        "description": "PRESIDEN Joko Widodo dijadwalkan mengunjungi Ibu Kota Negara (IKN) Nusantara di Kabupaten Penajam Paser Utara, Kalimantan Timur, pada akhir Agustus 2022.&nbsp; Hal itu diungkapkan Kepala Sekretariat&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515480/berpartisipasi-membangun-negara-ini-catatan-setoran-pajak-pt-timah-tbk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTQ4MC9iZXJwYXJ0aXNpcGFzaS1tZW1iYW5ndW4tbmVnYXJhLWluaS1jYXRhdGFuLXNldG9yYW4tcGFqYWstcHQtdGltYWgtdGJr",
+        "description": "HARGA komoditas timah yang melejit di awal tahun 2022 juga turut mendorong peningkatan penerimaan Negara dari sektor pajak dan Penerimaan Negara Bukan Pajak (PNBP) pada semester satu tahun 2022.&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/515481/halte-transjakarta-gelora-bung-karno-kembali-beroperasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTU0ODEvaGFsdGUtdHJhbnNqYWthcnRhLWdlbG9yYS1idW5nLWthcm5vLWtlbWJhbGktYmVyb3BlcmFzaQ==",
+        "description": "Halte Bus Transjakarta Gelora Bung Karno (GBK) kembali beroperasi usai direvitalisasi. Halte tersebut efektif melayani pelanggan bertepatan pada hari Kemerdekaan Republik Indonesia (RI) ke-77 yang&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/515479/hut-ke-77-ri-luhut-kita-bangsa-hebat-tangani-covid-19",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NDc5L2h1dC1rZS03Ny1yaS1sdWh1dC1raXRhLWJhbmdzYS1oZWJhdC10YW5nYW5pLWNvdmlkLTE5",
+        "description": "Menteri Koordinator Bidang Kemaritiman dan Investasi Luhut Binsar Pandjaitan mengungkapkan, Indonesia bangsa hebat dalam menangani kasus covid-19 selama dua tahun terakhir. Ini disampaikan Luhut&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/515478/menteri-airlangga-dorong-japnas-untuk-kembangkan-beragam-industri-usaha",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTQ3Ni90aGUtY2l0aXplbi1oaW5nZ2EtbGl2ZXJwb29sLXVjYXBrYW4taHV0LWtlLTc3LXJlcHVibGlrLWluZG9uZXNpYQ==",
         "description": "BEBERAPA klub besar Liga Inggris mulai dari Manchester City hingga Chelsea turut memberikan ucapan selamat Hari Kemerdekaan RI melalui media sosial mereka masing-masing, hari ini. Dilansir dari&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515468/menkominfo-ajak-jaga-kedaulatan-digital-di-momen-hut-ke-77-ri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU0NjgvbWVua29taW5mby1hamFrLWphZ2Eta2VkYXVsYXRhbi1kaWdpdGFsLWRpLW1vbWVuLWh1dC1rZS03Ny1yaQ==",
-        "description": "MENTERI Komunikasi dan Informatika (Menkominfo) Johnny G.Plate mengajak masyarakat untuk bisa menjaga kedaulatan digital nasional di momen Hari Ulang Tahun (HUT) ke-77 Republik Indonesia. Kedaulatan&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/515474/ikut-kompetisi-fiba-timnas-basket-u-18-putri-langsung-tc",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU0NzQvaWt1dC1rb21wZXRpc2ktZmliYS10aW1uYXMtYmFza2V0LXUtMTgtcHV0cmktbGFuZ3N1bmctdGM=",
-        "description": "TIM Pelatih dari timnas basket U-18 putri sudah mendapatkan komposisi roster untuk berjuang di FIBA U-18 Women's Asian Championship 2022 di Bengaluru, India, pada 5-11 September mendatang.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515471/dere-bersyukur-bisa-tampil-di-istana-meriahkan-upacara-hut-ri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NDcxL2RlcmUtYmVyc3l1a3VyLWJpc2EtdGFtcGlsLWRpLWlzdGFuYS1tZXJpYWhrYW4tdXBhY2FyYS1odXQtcmk=",
-        "description": "PENYANYI Theresia Margaretha Gultom atau yang lebih dikenal dengan nama Dere mengaku bersyukur dapat menjadi salah satu penampil yang memeriahkan upacara Hari Ulang Tahun (HUT) ke-77 Republik Indonesia&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/515466/bertandang-ke-semarang-persik-siap-curi-poin-dari-psis",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTQ2Ni9iZXJ0YW5kYW5nLWtlLXNlbWFyYW5nLXBlcnNpay1zaWFwLWN1cmktcG9pbi1kYXJpLXBzaXM=",
-        "description": "PERSIK Kediri siap mencuri poin saat bertandang ke kandang PSIS Semarang dalam pertandingan lanjutan kompetisi Liga 1 Indonesia 2022/ 2023 di Stadion Jatidiri Semarang, Kamis (18/8). Pelatih&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/515469/musisi-peringatan-hut-ke-77-ri-jadi-bahan-refleksi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTQ2OS9tdXNpc2ktcGVyaW5nYXRhbi1odXQta2UtNzctcmktamFkaS1iYWhhbi1yZWZsZWtzaQ==",
-        "description": "Musisi Cholil Mahmud dari grup musik Efek Rumah Kaca memandang peringatan Hari Ulang Tahun (HUT) ke-77 Republik Indonesia yang dirayakan dan dimeriahkan oleh masyarakat menjadi bahan refleksi bagi&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515470/kemendagri-apbd-2023-alokasikan-anggaran-pendidikan-agama-dan-keagamaan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NDcwL2tlbWVuZGFncmktYXBiZC0yMDIzLWFsb2thc2lrYW4tYW5nZ2FyYW4tcGVuZGlkaWthbi1hZ2FtYS1kYW4ta2VhZ2FtYWFu",
-        "description": "KEMENTERIAN Dalam Negeri (Kemendagri) memastikan akan ada alokasi anggaran untuk pendidikan agama dan keagamaan pada APBD 2023. &quot;Kemendagri sedang menyusun Peraturan Menteri Dalam Negeri&#8230;"
     }
 ]
