@@ -1,5 +1,12 @@
 [
     {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/515598/mg-ikut-main-elektrifikasi-di-giias",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTU1OTgvbWctaWt1dC1tYWluLWVsZWt0cmlmaWthc2ktZGktZ2lpYXM=",
+        "description": "MORRIS Garage (MG) menghadirkan koleksi mobil listrik (electric vehicle) yakni MG ZS EV, yang merupakan mobil SUV bertenaga 100% elektrik di ajang Gaikindo Indonesia International Automotive Show (GIIAS&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/515596/umkm-nahdliyin-siap-bangkit-dan-bertumbuh",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTU5MS9wb3MtaW5kb25lc2lhLWJ1a2EtNzcwMC1wb3NhamEtZHJvcC1wb2ludC1kaS1zZWx1cnVoLWluZG9uZXNpYQ==",
         "description": "PT Pos Indonesia (Persero) membuka 7.700 PosAja Drop Point di seluruh Indonesia, untuk memberikan emudahan akses bagi masyarakat dan pelaku UMKM melakukan pengiriman barang. Program pemberdayaan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/515587/spurs-sepakat-pinjamkan-ndombele-ke-napoli",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTU4Ny9zcHVycy1zZXBha2F0LXBpbmphbWthbi1uZG9tYmVsZS1rZS1uYXBvbGk=",
-        "description": "NAPOLI dikabarkan telah berhasil mencapai kesepakatan dengan Tottenham Hotspur untuk meminjam Tanguy Ndombele, yang akan melaksanakan tes medis pada Kamis (18/8). Kabar tersebut disampaikan&#8230;"
     }
 ]
