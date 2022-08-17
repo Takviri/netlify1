@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515478/menteri-airlangga-dorong-japnas-untuk-kembangkan-beragam-industri-usaha",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTQ3OC9tZW50ZXJpLWFpcmxhbmdnYS1kb3JvbmctamFwbmFzLXVudHVrLWtlbWJhbmdrYW4tYmVyYWdhbS1pbmR1c3RyaS11c2FoYQ==",
+        "description": "METERI&nbsp;Koordinator Bidang Perekonomian Airlangga Hartarto mengatakan bahwa berbagai upaya pemerintah untuk mendorong pemulihan ekonomi membutuhkan peran dan kerja sama dari seluruh stakeholder.&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/515472/menteri-lhk-hut-ri-ke-77-semangat-baru-untuk-tumbuh-dan-maju",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NDcyL21lbnRlcmktbGhrLWh1dC1yaS1rZS03Ny1zZW1hbmdhdC1iYXJ1LXVudHVrLXR1bWJ1aC1kYW4tbWFqdQ==",
+        "description": "PERINGATAN Hari Kemerdekaan ke-77 Republik Indonesia tahun ini mengusung tema Pulih Lebih Cepat, Bangkit Lebih Kuat. Terkait hal ini, Menteri Lingkungan Hidup dan Kehutanan menyampaikan Presiden RI&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/515477/polisi-selidiki-kebakaran-indekos-yang-tewaskan-enam-orang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTU0NzcvcG9saXNpLXNlbGlkaWtpLWtlYmFrYXJhbi1pbmRla29zLXlhbmctdGV3YXNrYW4tZW5hbS1vcmFuZw==",
+        "description": "Polisi menyelidiki penyebab kebakaran tempat indekos di kelurahan Duri Selatan, Tambora, Jakarta Barat, yang mengakibatkan enam orang tewas dan tiga mengalami luka bakar, Rabu. &quot;Masih dalam&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/515476/the-citizen-hingga-liverpool-ucapkan-hut-ke-77-republik-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTQ3Ni90aGUtY2l0aXplbi1oaW5nZ2EtbGl2ZXJwb29sLXVjYXBrYW4taHV0LWtlLTc3LXJlcHVibGlrLWluZG9uZXNpYQ==",
+        "description": "BEBERAPA klub besar Liga Inggris mulai dari Manchester City hingga Chelsea turut memberikan ucapan selamat Hari Kemerdekaan RI melalui media sosial mereka masing-masing, hari ini. Dilansir dari&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515468/menkominfo-ajak-jaga-kedaulatan-digital-di-momen-hut-ke-77-ri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU0NjgvbWVua29taW5mby1hamFrLWphZ2Eta2VkYXVsYXRhbi1kaWdpdGFsLWRpLW1vbWVuLWh1dC1rZS03Ny1yaQ==",
+        "description": "MENTERI Komunikasi dan Informatika (Menkominfo) Johnny G.Plate mengajak masyarakat untuk bisa menjaga kedaulatan digital nasional di momen Hari Ulang Tahun (HUT) ke-77 Republik Indonesia. Kedaulatan&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/515474/ikut-kompetisi-fiba-timnas-basket-u-18-putri-langsung-tc",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU0NzQvaWt1dC1rb21wZXRpc2ktZmliYS10aW1uYXMtYmFza2V0LXUtMTgtcHV0cmktbGFuZ3N1bmctdGM=",
+        "description": "TIM Pelatih dari timnas basket U-18 putri sudah mendapatkan komposisi roster untuk berjuang di FIBA U-18 Women's Asian Championship 2022 di Bengaluru, India, pada 5-11 September mendatang.&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/515471/dere-bersyukur-bisa-tampil-di-istana-meriahkan-upacara-hut-ri",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NDcwL2tlbWVuZGFncmktYXBiZC0yMDIzLWFsb2thc2lrYW4tYW5nZ2FyYW4tcGVuZGlkaWthbi1hZ2FtYS1kYW4ta2VhZ2FtYWFu",
         "description": "KEMENTERIAN Dalam Negeri (Kemendagri) memastikan akan ada alokasi anggaran untuk pendidikan agama dan keagamaan pada APBD 2023. &quot;Kemendagri sedang menyusun Peraturan Menteri Dalam Negeri&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/515467/mandiri-energi-pertamina-kembangkan-diesel-biohidrokarbon-dan-bioavtur",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTQ2Ny9tYW5kaXJpLWVuZXJnaS1wZXJ0YW1pbmEta2VtYmFuZ2thbi1kaWVzZWwtYmlvaGlkcm9rYXJib24tZGFuLWJpb2F2dHVy",
-        "description": "PT Pertamina (Persero) mengembangkan penelitian dan teknologi diesel biohidrokarbon dan bioavtur. Upaya ini dilakukan dalam ikhtiar Pertamina untuk mempercepat ketahanan dan kemandirian energi bagi&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/515465/presiden-aayg-dukung-pemerintah-ri-wujudkan-perdamaian-dunia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNTQ2NS9wcmVzaWRlbi1hYXlnLWR1a3VuZy1wZW1lcmludGFoLXJpLXd1anVka2FuLXBlcmRhbWFpYW4tZHVuaWE=",
-        "description": "DI HUT RI ke-77 Presiden Asian African Youth Government (AAYG), Respiratori Saddam Al Jihad mendukung pemerintah Republik Indonesia untuk terlibat aktif mewujudkan perdamaian dunia. Hal itu disampaikan&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/515463/presiden-ingatkan-penyanyi-cilik-farel-prayoga-untuk-tidak-lupa-belajar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNTQ2My9wcmVzaWRlbi1pbmdhdGthbi1wZW55YW55aS1jaWxpay1mYXJlbC1wcmF5b2dhLXVudHVrLXRpZGFrLWx1cGEtYmVsYWphcg==",
-        "description": "&nbsp; UPACARA peringatan detik-detik proklamasi di Istana Merdeka, Jakarta, Rabu (17/8), telah selesai. Namun ada salah satu aksi di acara tersebut yang sangat sulit dilupakan, yakni penampilan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515464/menpan-rb-baru-akan-dilantik-bulan-ini-di-ikn-nusantara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU0NjQvbWVucGFuLXJiLWJhcnUtYWthbi1kaWxhbnRpay1idWxhbi1pbmktZGktaWtuLW51c2FudGFyYQ==",
-        "description": "PELANTIKAN menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (menpan RB) yang baru dijadwalkan berlangsung di Ibu Kota Nusantara bersamaan dengan peletakan batu pertama atau ground breaking&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515462/menko-pmk-pimpin-upacara-hut-ke-77-ri-di-ponpes-milik-abu-bakar-baasyir",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU0NjIvbWVua28tcG1rLXBpbXBpbi11cGFjYXJhLWh1dC1rZS03Ny1yaS1kaS1wb25wZXMtbWlsaWstYWJ1LWJha2FyLWJhYXN5aXI=",
-        "description": "PENDIRI Ponpes Al-Mukmin, Ustaz Abu Bakar Ba'asyir menghadiri upacara peringatan HUT Ke-77 Kemerdekaan RI pada Rabu (17/8) di Pondok Pesantren Al Mukmin Ngruki, Sukoharjo, Jawa Tengah. Menurut&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/515461/nasdem-pastikan-sebulan-lagi-akses-jalan-ke-wilayah-terisolir-bisa-tembus",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NDYxL25hc2RlbS1wYXN0aWthbi1zZWJ1bGFuLWxhZ2ktYWtzZXMtamFsYW4ta2Utd2lsYXlhaC10ZXJpc29saXItYmlzYS10ZW1idXM=",
-        "description": "PADA hari ulang tahun (HUT) Republik Indonesia ke-77, salah satu kecamatan di Kabupaten Luwu Utara, Sulawesi Selatan, masih terisolir karena akses jalan yang sangat sulit. Untuk tiba di Kecamatan Rampi&#8230;"
     }
 ]

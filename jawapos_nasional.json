@@ -1,5 +1,19 @@
 [
     {
+        "title": "Tren Merdeka Bekerja di Mana Saja dan Kapan Saja",
+        "link": "https://www.jawapos.com/nasional/17/08/2022/tren-merdeka-bekerja-di-mana-saja-dan-kapan-saja/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMTcvMDgvMjAyMi90cmVuLW1lcmRla2EtYmVrZXJqYS1kaS1tYW5hLXNhamEtZGFuLWthcGFuLXNhamEv",
+        "description": "Makin banyak alternatif pekerjaan yang tak mengekang kemerdekaan pegiatnya. Mereka bisa bebas menentukan sendiri tempat hingga jam kerja."
+    },
+    {
+        "title": "HUT ke-77 RI, Puan Ajak Seluruh Anak Bangsa Bangun Kekuatan Nasional",
+        "link": "https://www.jawapos.com/nasional/politik/17/08/2022/hut-ke-77-ri-puan-ajak-seluruh-anak-bangsa-bangun-kekuatan-nasional/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvcG9saXRpay8xNy8wOC8yMDIyL2h1dC1rZS03Ny1yaS1wdWFuLWFqYWstc2VsdXJ1aC1hbmFrLWJhbmdzYS1iYW5ndW4ta2VrdWF0YW4tbmFzaW9uYWwv",
+        "description": "Banyak cara bagi anak bangsa berpartisipasi membangun kekuatan nasional. Hal itu dapat dilakukan lewat peran dan porsi masing-masing setiap warga negara."
+    },
+    {
         "title": "Upacara HUT Ke-77 RI di Intan Jaya Diwarnai Baku Tembak Aparat dan KSB",
         "link": "https://www.jawapos.com/nasional/17/08/2022/upacara-hut-ke-77-ri-di-intan-jaya-diwarnai-baku-tembak-aparat-dan-ksb/?page=all",
         "image": "static/images/jawapos_nasional.png",
@@ -54,19 +68,5 @@
         "image": "static/images/jawapos_nasional.png",
         "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMTcvMDgvMjAyMi90bmktamFtaW4tc3RhYmlsaXRhcy1rZWFtYW5hbi1vYmplay12aXRhbC1uYXNpb25hbC1zbWVsdGVyLW5pa2VsLw==",
         "description": "Langkah ini sebagai komitmen TNI untuk memastikan investasi hilirisasi nikel yang dicanangkan oleh Presiden Joko Widodo (Jokowi) berjalan sesuai target."
-    },
-    {
-        "title": "Pimpin Upacara HUT ke-77, Ini Pesan Menteri Nadiem",
-        "link": "https://www.jawapos.com/nasional/pendidikan/17/08/2022/pimpin-upacara-hut-ke-77-ini-pesan-menteri-nadiem/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvcGVuZGlkaWthbi8xNy8wOC8yMDIyL3BpbXBpbi11cGFjYXJhLWh1dC1rZS03Ny1pbmktcGVzYW4tbWVudGVyaS1uYWRpZW0v",
-        "description": "Nadiem Makarim mengatakan, peringatan HUT ke-77 tahun ini mengusung semangat 'Pulih Lebih Cepat, Bangkit Lebih Kuat'."
-    },
-    {
-        "title": "Tingkatkan Infrastruktur FKTP, BPJS Kesehatan Gandeng Bank BPD Bali",
-        "link": "https://www.jawapos.com/nasional/17/08/2022/tingkatkan-infrastruktur-fktp-bpjs-kesehatan-gandeng-bank-bpd-bali/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMTcvMDgvMjAyMi90aW5na2F0a2FuLWluZnJhc3RydWt0dXItZmt0cC1icGpzLWtlc2VoYXRhbi1nYW5kZW5nLWJhbmstYnBkLWJhbGkv",
-        "description": "Provinsi Bali merupakan daerah pertama yang mencapai Universal Health Coverage (UHC) 95 persen dalam rangka memberikan jaminan sosial kesehatan."
     }
 ]
