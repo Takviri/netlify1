@@ -1,5 +1,47 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/515418/ini-alasan-sutradara-hadirkan-aktor-ternama-di-serigala-terakhir-2",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTQxOC9pbmktYWxhc2FuLXN1dHJhZGFyYS1oYWRpcmthbi1ha3Rvci10ZXJuYW1hLWRpLXNlcmlnYWxhLXRlcmFraGlyLTI=",
+        "description": "SUTRADARA sekaligus penulis serial Serigala Terakhir 2, Tommy Dewo, mengatakan alasannya memilih menghadirkan aktor ternama, seperti&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/515417/peringati-hut-ke-77-ri-ganjar-pranowo-ajak-berantas-intoleransi-dan-radikalisme",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NDE3L3BlcmluZ2F0aS1odXQta2UtNzctcmktZ2FuamFyLXByYW5vd28tYWphay1iZXJhbnRhcy1pbnRvbGVyYW5zaS1kYW4tcmFkaWthbGlzbWU=",
+        "description": "SEBANYAK 22 eks narapidana teroris khidmat mengikuti upacara bendera dalam peringatan Hari Ulang Tahun (HUT) ke 77 Republik Indonesia di Lapangan Pancasila Simpanglima, Kota Semarang, Rabu (17/8/2022).&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/515416/anies-persatuan-bisa-terwujud-jika-kesetaraan-tercapai",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTU0MTYvYW5pZXMtcGVyc2F0dWFuLWJpc2EtdGVyd3VqdWQtamlrYS1rZXNldGFyYWFuLXRlcmNhcGFp",
+        "description": "GUBERNUR DKI Jakarta Anies Baswedan mengatakan persatuan dan kesatuan bangsa bisa sepenuhnya diwujudkan jika pemerintah bisa menciptakan kesetaraan di seluruh lapisan masyarakat. Hal tersebut&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/515415/hut-ke-77-ri-nadiem-lanjutkan-gotong-royong-wujudkan-merdeka-belajar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NDE1L2h1dC1rZS03Ny1yaS1uYWRpZW0tbGFuanV0a2FuLWdvdG9uZy1yb3lvbmctd3VqdWRrYW4tbWVyZGVrYS1iZWxhamFy",
+        "description": "KEMENTERIAN Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbud-Ristek) menggelar upacara bendera dalam rangka Peringatan Hari Ulang Tahun (HUT) ke-77 Kemerdekaan Republik Indonesia (RI) dengan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515414/hutke-77-ri-mentan-syl-sampaikan-terima-kasih-kepada-para-petani",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTQxNC9odXRrZS03Ny1yaS1tZW50YW4tc3lsLXNhbXBhaWthbi10ZXJpbWEta2FzaWgta2VwYWRhLXBhcmEtcGV0YW5p",
+        "description": "MENTERI Pertanian Syahrul Yasin Limpo (Mentan SYL) menyampaikan terima kasih atas perjuangan para petani yang selama ini terus berproduksi. Menurut SYL, kerja keras mereka terbukti jadi pemicu&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/515413/lewat-twitter-elon-musk-mengaku-akan-beli-manchester-united",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTQxMy9sZXdhdC10d2l0dGVyLWVsb24tbXVzay1tZW5nYWt1LWFrYW4tYmVsaS1tYW5jaGVzdGVyLXVuaXRlZA==",
+        "description": "ELON Musk, Selasa (16/8) malam, mencicit bahwa dirinya akan membeli klub Liga Primer Inggris Manchester United. Namun,&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/515412/kai-iringi-indonesia-pulih-lebih-cepat-dengan-semangat-melayani",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTQwNi9qb2tvd2ktdGVyaW1hLXRpbW5hcy11LTE2LWRpLWlzdGFuYS1tZXJkZWth",
         "description": "PRESIDEN Joko Widodo (Jokowi) di Istana Merdeka, Jakarta, Rabu (17/8), menerima Timnas U-16, yang baru saja menjuarai Piala AFF&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515408/kampanye-the-rising-tide-kumpulkan-68-ton-sampah-dari-rumah-tangga",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NDA4L2thbXBhbnllLXRoZS1yaXNpbmctdGlkZS1rdW1wdWxrYW4tNjgtdG9uLXNhbXBhaC1kYXJpLXJ1bWFoLXRhbmdnYQ==",
-        "description": "Menteri LHK Siti Nurbaya melakukan penyambutan dan memberi apresiasi kepada Muryansyah, pelaku Solo Triathlon yang telah menempuh jarak Bali &ndash; Jakarta sejauh 1.293 km, Selasa, (16/8) di Jakarta.&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515404/kuasa-hukum-tuding-irjen-sambo-gasak-rp200-juta-dari-rekening-brigadir-j",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU0MDQva3Vhc2EtaHVrdW0tdHVkaW5nLWlyamVuLXNhbWJvLWdhc2FrLXJwMjAwLWp1dGEtZGFyaS1yZWtlbmluZy1icmlnYWRpci1q",
-        "description": "KUASA hukum keluarga Brigadir Nofriansyah Yosua Hutabarat alias Brigadir J, Kamaruddin Simanjuntak, mengungkap dugaan Irjen&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/515403/israel-akhirnya-akui-membunuh-5-anak-palestina-yang-sedang-bermain",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNTQwMy9pc3JhZWwtYWtoaXJueWEtYWt1aS1tZW1idW51aC01LWFuYWstcGFsZXN0aW5hLXlhbmctc2VkYW5nLWJlcm1haW4=",
-        "description": "MILITER Israel mengonfirmasi 'Negeri Zionis' itu bertanggung jawab atas kematian lima anak-anak Palestina. Insiden itu terjadi&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/515402/baju-adat-dolomani-hingga-kebaya-karya-didiet-maulana-di-istana-negara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNTQwMi9iYWp1LWFkYXQtZG9sb21hbmktaGluZ2dhLWtlYmF5YS1rYXJ5YS1kaWRpZXQtbWF1bGFuYS1kaS1pc3RhbmEtbmVnYXJh",
-        "description": "Peringatan hari kemerdekaan Republik Indonesia setiap tanggal 17 Agustus di Istana Negara Jakarta selalu diwarnai dengan ragam pakaian adat nasional. Para pejabat hingga tamu undangan ramai-ramai menampilkan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515400/hut-ri-ke-77-menpora-harap-bangsa-indonesia-makin-optimistis-hadapi-tantangan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NDAwL2h1dC1yaS1rZS03Ny1tZW5wb3JhLWhhcmFwLWJhbmdzYS1pbmRvbmVzaWEtbWFraW4tb3B0aW1pc3Rpcy1oYWRhcGktdGFudGFuZ2Fu",
-        "description": "MENTERI Pemuda dan Olahraga Republik Indonesia (Menpora RI) Zainudin Amali, mengucapkan selamat Hari Ulang Tahun (HUT) Kemerdekaan Republik Indonesia ke 77 yang diperingati pada hari ini, Rabu, (17/8).&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/515399/tanggul-kali-grogol-jebol-belasan-rumah-di-limo-depok-terendam-banjir",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTUzOTkvdGFuZ2d1bC1rYWxpLWdyb2dvbC1qZWJvbC1iZWxhc2FuLXJ1bWFoLWRpLWxpbW8tZGVwb2stdGVyZW5kYW0tYmFuamly",
-        "description": "TANGGUL kali atau bangunan penahan aliran air Kali Grogol jebol dan mengakibatkan 12 rumah warga terendam banjir. Kepala Bidang Pengendalian Operasional Dinas Pemadam Kebakaran dan Penyelamatan&#8230;"
     }
 ]
