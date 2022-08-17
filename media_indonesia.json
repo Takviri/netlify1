@@ -1,5 +1,33 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/515348/psv-tahan-imbang-rangers-di-leg-pertama-playoff-liga-champions",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTM0OC9wc3YtdGFoYW4taW1iYW5nLXJhbmdlcnMtZGktbGVnLXBlcnRhbWEtcGxheW9mZi1saWdhLWNoYW1waW9ucw==",
+        "description": "ARMANDO Obisco menyelamatkan Walter Benitez saat PSV Eindhoven memaksakan hasil imbang 2-2 melawan Rangers di laga leg pertama playoff Liga&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/515347/ini-rangkaian-upacara-pengibaran-bendera-di-istana-merdeka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1MzQ3L2luaS1yYW5na2FpYW4tdXBhY2FyYS1wZW5naWJhcmFuLWJlbmRlcmEtZGktaXN0YW5hLW1lcmRla2E=",
+        "description": "RANGKAIAN Upacara Pengibaran Bendera Merah Putih di Istana Negara akan dimulai pukul 9.40 WIB. Prosesi tersebut diawali dengan peniupan terompet pertama yang dilanjutkan peniupan terompet kedua empat&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/515346/kalahkan-davidovich-fokina-kyrgios-melaju-ke-putaran-kedua-cincinnati-masters",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTUzNDYva2FsYWhrYW4tZGF2aWRvdmljaC1mb2tpbmEta3lyZ2lvcy1tZWxhanUta2UtcHV0YXJhbi1rZWR1YS1jaW5jaW5uYXRpLW1hc3RlcnM=",
+        "description": "NICK Kyrgios melaju ke putaran kedua Cincinnati Masters setelah mengalahkan Alejandro Davidovich Fokina 7-5 dan 6-4, Selasa&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/515344/pengelola-desa-wisata-di-kulonprogo-dibekali-kemampuan-pemasaran-digital",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1MzQ0L3BlbmdlbG9sYS1kZXNhLXdpc2F0YS1kaS1rdWxvbnByb2dvLWRpYmVrYWxpLWtlbWFtcHVhbi1wZW1hc2FyYW4tZGlnaXRhbA==",
+        "description": "DIREKTORAT Ekonomi Digital, Kementerian Komunikasi dan Informatika, menyelenggarakan Pendampingan Adopsi Teknologi Digital Sektor Pariwisata untuk empat desa wisata di Kulonprogo, yaitu Jatimulyo,&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/515308/bi-bisa-beli-sbn-tahun-depan-skb-menkeu-bi-diperpanjang-lagi",
         "image": "static/images/media_indonesia.png",
@@ -12,6 +40,13 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTM0My9yYW1haWthbi1odXQtcmktcHViZy1tb2JpbGUtaGFkaXJrYW4tcmFnYW0tcGVybG9tYmFhbg==",
         "description": "GUNA turut serta meramaikan acara hari ulang tahun (HUT) ke-77 Republik Indonesia, gim video Player Unknown's Battlegrounds (PUBG) Mobile menghadirkan serangkaian kegiatan komunitas meliputi kompetisi&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/515345/brighton-boyong-estupian-dari-villarreal",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTM0NS9icmlnaHRvbi1ib3lvbmctZXN0dXBpYW4tZGFyaS12aWxsYXJyZWFs",
+        "description": "KLUB Liga Primer Inggris Brighton and Hove Albion mendatangkan bek Pervis Estupian dari klub La Liga Villarreal&#8230;"
     },
     {
         "title": "Sepak Bola",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTUzNDAvZWdhbi1iZXJuYWwta2VtYmFsaS1tZW1iYWxhcC1wYXNjYWtlY2VsYWthYW4=",
         "description": "JUARA Tour de France 2019 Egan Bernal kembali balapan sepeda di Tour of Denmark, Selasa (16/8), delapan bulan sejak ia mengalami&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/515339/djournal-coffee-rilis-seri-nusa-rasa-oat-series-dengan-7-varian",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNTMzOS9kam91cm5hbC1jb2ZmZWUtcmlsaXMtc2VyaS1udXNhLXJhc2Etb2F0LXNlcmllcy1kZW5nYW4tNy12YXJpYW4=",
-        "description": "KOPI belakangan ini menjadi tren untuk dikonsumsi masyarakat. Berbagai tempat menyediakan banyak cita rasa dengan nama yang unik untuk&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/515337/boy-william-iya-gue-enggak-jadi-nikah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTMzNy9ib3ktd2lsbGlhbS1peWEtZ3VlLWVuZ2dhay1qYWRpLW5pa2Fo",
-        "description": "BOY William akhinya buka suara terkait kabar yang beredar. Melalui vlog yang diunggah di kanal YouTube pribadinya, Minggu (14/8),&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/515338/venus-williams-kalah-di-putaran-pertama-cincinnati-masters",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTUzMzgvdmVudXMtd2lsbGlhbXMta2FsYWgtZGktcHV0YXJhbi1wZXJ0YW1hLWNpbmNpbm5hdGktbWFzdGVycw==",
-        "description": "VENIUS Williams tersingkir di putaran pertama Cincinnati Masters, Selasa (16/8). Petenis Amerika Serikat (AS) berusia&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/515336/spurs-datangkan-udogie-dari-udinese",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTMzNi9zcHVycy1kYXRhbmdrYW4tdWRvZ2llLWRhcmktdWRpbmVzZQ==",
-        "description": "KLUB Liga Primer Inggris Tottenham Hotspur mendatangkan bek Udinese Destiny Udogie dengan biaya transfer 15 juta pound&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515335/presiden-pimpin-apel-kehormatan-dan-renungan-suci-di-tmp-kalibata",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTUzMzUvcHJlc2lkZW4tcGltcGluLWFwZWwta2Vob3JtYXRhbi1kYW4tcmVudW5nYW4tc3VjaS1kaS10bXAta2FsaWJhdGE=",
-        "description": "PRESIDEN Joko Widodo memimpin apel kehormatan dan renungan suci di Taman Makam Pahlawan (TMP) Nasional Utama&nbsp;Kalibata, Jakarta, Rabu (17/8) dini hari. Acara yang digelar tepat pukul 00.00 WIB&#8230;"
     }
 ]
