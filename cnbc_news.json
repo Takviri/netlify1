@@ -1,5 +1,26 @@
 [
     {
+        "title": "Harga BBM Keekonomian Pertalite Rp 13.150 per Liter",
+        "link": "https://www.cnbcindonesia.com/news/20220817095740-4-364403/harga-bbm-keekonomian-pertalite-rp-13150-per-liter",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzA5NTc0MC00LTM2NDQwMy9oYXJnYS1iYm0ta2Vla29ub21pYW4tcGVydGFsaXRlLXJwLTEzMTUwLXBlci1saXRlcg==",
+        "description": " Menko Perekonomian Airlangga Hartarto menyatakan harga keekonomian Pertalite tembus Rp 13.150 per liter"
+    },
+    {
+        "title": "Diserbu Baju Impor, Industri Tekstil Butuh Kepastian",
+        "link": "https://www.cnbcindonesia.com/news/20220815120828-8-363786/diserbu-baju-impor-industri-tekstil-butuh-kepastian",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTEyMDgyOC04LTM2Mzc4Ni9kaXNlcmJ1LWJhanUtaW1wb3ItaW5kdXN0cmktdGVrc3RpbC1idXR1aC1rZXBhc3RpYW4=",
+        "description": " Diserbu Baju Impor, Industri Tekstil Butuh Kepastian Pasar Lokal"
+    },
+    {
+        "title": "Terungkap! Isi Chat Putin ke Kim Jong Un, Mau Serang Siapa?",
+        "link": "https://www.cnbcindonesia.com/news/20220817090236-4-364385/terungkap-isi-chat-putin-ke-kim-jong-un-mau-serang-siapa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzA5MDIzNi00LTM2NDM4NS90ZXJ1bmdrYXAtaXNpLWNoYXQtcHV0aW4ta2Uta2ltLWpvbmctdW4tbWF1LXNlcmFuZy1zaWFwYQ==",
+        "description": " Presiden Rusia Vladimir Putin dan Pemimpin Tertinggi Korea Utara (Korut) Kim Jong Un disebutkan saling berkirim surat belum lama ini."
+    },
+    {
         "title": "10 Negara Pemberi Subsidi BBM Terbesar di Dunia, Ada RI ?",
         "link": "https://www.cnbcindonesia.com/news/20220817094034-4-364400/10-negara-pemberi-subsidi-bbm-terbesar-di-dunia-ada-ri-",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzA4MzkxMS00LTM2NDM4Mi92bGFkaW1pci1wdXRpbi1hcy1pbmdpbi1wZXJhbmctZGktdWtyYWluYS1iZXJrZXBhbmphbmdhbg==",
         "description": " Putin mengatakan bahwa Amerika ingin memperpanjang perang di Ukraina."
-    },
-    {
-        "title": "Rusia Murka, Tuding Ukraina Sabotase Pangkalan Udara",
-        "link": "https://www.cnbcindonesia.com/news/20220817074009-4-364374/rusia-murka-tuding-ukraina-sabotase-pangkalan-udara",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzA3NDAwOS00LTM2NDM3NC9ydXNpYS1tdXJrYS10dWRpbmctdWtyYWluYS1zYWJvdGFzZS1wYW5na2FsYW4tdWRhcmE=",
-        "description": " Markas itu menjadi jalur logistik yang penting bagi Rusia dalam melaksanakan serangan militer di wilayah milik Kyiv."
-    },
-    {
-        "title": "Adik Prabowo Diam-Diam Ekspor dari Ukraina, Ini Buktinya",
-        "link": "https://www.cnbcindonesia.com/news/20220817074724-4-364375/adik-prabowo-diam-diam-ekspor-dari-ukraina-ini-buktinya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzA3NDcyNC00LTM2NDM3NS9hZGlrLXByYWJvd28tZGlhbS1kaWFtLWVrc3Bvci1kYXJpLXVrcmFpbmEtaW5pLWJ1a3Rpbnlh",
-        "description": " Perusahaan konglomerasi milik taipan Hashim Djojohadikusumo, Arsari Group, telah memiliki izin ekspor bahan-bahan pangan dari Ukraina."
-    },
-    {
-        "title": "Elon Musk Beli Manchester United!",
-        "link": "https://www.cnbcindonesia.com/news/20220817073834-4-364373/elon-musk-beli-manchester-united",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzA3MzgzNC00LTM2NDM3My9lbG9uLW11c2stYmVsaS1tYW5jaGVzdGVyLXVuaXRlZA==",
-        "description": " CEO Tesla Elon Musk membeli MU."
     }
 ]
