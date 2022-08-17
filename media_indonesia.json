@@ -1,5 +1,47 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/515576/melli-darsa-center-dukung-bulan-imunisasi-anak-nasional-gelar-sentra-imunisasi-di-bogor",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NTc2L21lbGxpLWRhcnNhLWNlbnRlci1kdWt1bmctYnVsYW4taW11bmlzYXNpLWFuYWstbmFzaW9uYWwtZ2VsYXItc2VudHJhLWltdW5pc2FzaS1kaS1ib2dvcg==",
+        "description": "PEMERINTAH Indonesia tengah gencar melaksanakan Bulan Imunisasi Anak Nasional (BIAN) di sepanjang Agustus 2022. Hal ini adalah upaya Pemerintah untuk melindungi anak-anak dari berbagai penyakit, antara&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/515575/parade-merdeka-di-tanjung-lesung-dimeriahkan-pengibaran-bendera-di-tengah-laut",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NTc1L3BhcmFkZS1tZXJkZWthLWRpLXRhbmp1bmctbGVzdW5nLWRpbWVyaWFoa2FuLXBlbmdpYmFyYW4tYmVuZGVyYS1kaS10ZW5nYWgtbGF1dA==",
+        "description": "MEMPERINGATI HUT Kemerdekaan RI ke-77, Tanjung Lesung menggelar Parade Merdeka : Tanjung Lesung Tanam Kembali pada 16-17 Agustus di Lalasa Beach Club, Tanjung Lesung, Banten. Ajang itu dimeriahkan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/515574/puluhan-titik-panas-terpantau-di-kaltim",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NTc0L3B1bHVoYW4tdGl0aWstcGFuYXMtdGVycGFudGF1LWRpLWthbHRpbQ==",
+        "description": "BADAN Meteorologi Klimatologi dan Geofisika (BMKG) melalui Stasiun Meteorologi di Balikpapan, mendeteksi 48 titik panas tersebar pada empat kabupaten di Kalimantan Timur (Kaltim) yang memiliki tingkat&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/515573/kolaborasi-iisip-dan-kendilima-siap-ciptakan-wirausahawan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NTczL2tvbGFib3Jhc2ktaWlzaXAtZGFuLWtlbmRpbGltYS1zaWFwLWNpcHRha2FuLXdpcmF1c2FoYXdhbg==",
+        "description": "KOLABORASI perguruan tinggi dan industri bukan semata menghasilkan sarjana belaka. Tujuan lebih besar dari hal tersebut adalah menciptakan wirausahawan tangguh untuk menjawab tantangan pasar. &quot;Perguruan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515572/bnpt-upacara-hut-ke-77-ri-di-ponpes-milik-baasyir-sebagai-rasa-syukur",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU1NzIvYm5wdC11cGFjYXJhLWh1dC1rZS03Ny1yaS1kaS1wb25wZXMtbWlsaWstYmFhc3lpci1zZWJhZ2FpLXJhc2Etc3l1a3Vy",
+        "description": "DIREKTUR Deradikalisasi Badan Nasional Penanggulangan Terorisme (BNP) Irfan Idris menyebut pelaksanaan upacara hari kemerdekaan Republik Indonesia di Pondok Al Mukmin Ngruki merupakan sebuah bentuk&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/515571/tottenham-rampungkan-transfer-destiny-udogie",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTU3MS90b3R0ZW5oYW0tcmFtcHVuZ2thbi10cmFuc2Zlci1kZXN0aW55LXVkb2dpZQ==",
+        "description": "KLUB Liga Primer Inggris Tottenham Hotspur merampungkan proses transfer bek sayap kiri Destiny Udogie dari klub Italia Udinese. Udogie didatangan ke Tottenham dengan biaya transfer yang diperkirakan&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/515570/transformasi-bisnis-perkuat-pln-hadapi-tantangan-global",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NTY3LzI5MS13YXJnYS1iaW5hYW4tbGFwYXMta2VsYXMtaWliLXB1cndha2FydGEtZGFwYXQtcmVtaXNpLWh1dC1yaQ==",
         "description": "291 warga binaan di Lapas Kelas IIB Purwakarta, Jawa Barat mendapatkan remisi HUT ke-77 RI, mulai dari 1 hingga 6 bulan. Tiga orang diantaranya langsung bebas. Penyerahan surat remisi dilakukan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/515566/seribu-penari-pelajar-tampil-dalam-tarian-daerah-meriahkan-hut-ri-di-mbay",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NTY2L3NlcmlidS1wZW5hcmktcGVsYWphci10YW1waWwtZGFsYW0tdGFyaWFuLWRhZXJhaC1tZXJpYWhrYW4taHV0LXJpLWRpLW1iYXk=",
-        "description": "SERIBU penari dari&nbsp; sejumlah pelajar di Kota Mbay, Kabupaten Nagekeo, NTT tampil memukau penonton dalam tarian kolosal&nbsp; memeriahkan hari kemerdekaan RI yang ke 77. Rabu(17/8).&nbsp; Ribuan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/515565/bupati-intan-jaya-sebut-upacara-hut-ri-berlangsung-khidmat-titip-pesan-akhiri-konflik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NTY1L2J1cGF0aS1pbnRhbi1qYXlhLXNlYnV0LXVwYWNhcmEtaHV0LXJpLWJlcmxhbmdzdW5nLWtoaWRtYXQtdGl0aXAtcGVzYW4tYWtoaXJpLWtvbmZsaWs=",
-        "description": "MESKI diwarnai gangguan aksi Kelompok sipil bersenjata, pelaksanaan upacara HUT RI Ke-77 di Kabupaten Intan Jaya, Papua berhasil digelar dengan penuh khidmat.&nbsp; Bupati Intan Jaya Natalis&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/515563/anggota-dpr-papua-boy-markus-dawir-ajak-masyarakat-kepulauan-yapen-kawal-nkri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NTYzL2FuZ2dvdGEtZHByLXBhcHVhLWJveS1tYXJrdXMtZGF3aXItYWphay1tYXN5YXJha2F0LWtlcHVsYXVhbi15YXBlbi1rYXdhbC1ua3Jp",
-        "description": "ANGGOTA DPRP Papua, Boy Markus Dawir menghadiri acara puncak peringatan HUT RI ke-77 di Stadion Marora kabupaten kepulauan Yapen, Rabu 17 Agustus 2022. Dari Stadion Marora, Boy Markus Dawir&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515561/pimpin-upacara-peringatan-kemerdekaan-di-ponpes-al-mukmin-ngruki-ini-pesan-menko-pmk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NTYxL3BpbXBpbi11cGFjYXJhLXBlcmluZ2F0YW4ta2VtZXJkZWthYW4tZGktcG9ucGVzLWFsLW11a21pbi1uZ3J1a2ktaW5pLXBlc2FuLW1lbmtvLXBtaw==",
-        "description": "UPACARA peringatan Hari Ulang Tahun Republik Indonesia (HUT RI) ke-77 pada 17 Agustus 2022 dilakukan dengan cara yang cukup spesial oleh Menteri Koordinator Bidang Pembangunan Manusia dan Kebudayaan&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/515559/wagub-dki-jakarta-lepas-lari-lintas-juang-sma-labschool-jakarta-peringati-hut-ri-ke-77",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTU1NTkvd2FndWItZGtpLWpha2FydGEtbGVwYXMtbGFyaS1saW50YXMtanVhbmctc21hLWxhYnNjaG9vbC1qYWthcnRhLXBlcmluZ2F0aS1odXQtcmkta2UtNzc=",
-        "description": "SMA Labschool Jakarta merayakan peringatan HUT Kemerdekaan RI dengan cara yang cukup unik, berbeda dari sekolah lain. Peringatan HUT Kemerdekaan RI ke-77 ala Labschool diberi nama &quot;Lari Lintas&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515557/gelar-upacara-peringatan-hut-ri-ke-77-untar-tanamkan-nasionalisme-dan-patriotisme",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NTU3L2dlbGFyLXVwYWNhcmEtcGVyaW5nYXRhbi1odXQtcmkta2UtNzctdW50YXItdGFuYW1rYW4tbmFzaW9uYWxpc21lLWRhbi1wYXRyaW90aXNtZQ==",
-        "description": "UNIVERSITAS Tarumanagara menggelar upacara bendera memperingati Hati Kemerdekaan RI ke-77, Rabu (17/8). Selain civitas akademika Untar, upacara itu juga diikuti unsur TNI/{olri/ Rektor Untar&#8230;"
     }
 ]
