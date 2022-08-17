@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515412/kai-iringi-indonesia-pulih-lebih-cepat-dengan-semangat-melayani",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTQxMi9rYWktaXJpbmdpLWluZG9uZXNpYS1wdWxpaC1sZWJpaC1jZXBhdC1kZW5nYW4tc2VtYW5nYXQtbWVsYXlhbmk=",
+        "description": "TAHUN ini, Indonesia memperingati kemerdekaannya yang ke-77 tahun. Selama lebih dari tujuh dekade, semua elemen bangsa tidak berhenti berjuang demi kemajuan bangsa dan negara. Begitu pula dengan PT&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/515411/vidi-aldiano-mengaku-lakukan-persiapan-esktra-untuk-tampil-di-istana",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTQxMS92aWRpLWFsZGlhbm8tbWVuZ2FrdS1sYWt1a2FuLXBlcnNpYXBhbi1lc2t0cmEtdW50dWstdGFtcGlsLWRpLWlzdGFuYQ==",
+        "description": "PENYANYI Vidi Aldiano mengaku melakukan persiapan ekstra sejak pukul 04.00 WIB untuk tampil di Istana Merdeka, Jakarta Pusat dalam rangkaian perayaan <a href=\"http://mediaindonesia.com/tag/17-agustus\"&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/515409/ukraina-klaim-sukses-buat-rusia-kelabakan-di-krimea",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNTQwOS91a3JhaW5hLWtsYWltLXN1a3Nlcy1idWF0LXJ1c2lhLWtlbGFiYWthbi1kaS1rcmltZWE=",
+        "description": "UKRAINA telah menyatakan kesuksesan atas sejumlah serangan di Krimea yang membuat Rusia panik. Kyiv akan melanjutkannya sampai kekuatan Moskow melemah. &quot;Dalam serangan balasan yang bertujuan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/515406/jokowi-terima-timnas-u-16-di-istana-merdeka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTQwNi9qb2tvd2ktdGVyaW1hLXRpbW5hcy11LTE2LWRpLWlzdGFuYS1tZXJkZWth",
+        "description": "PRESIDEN Joko Widodo (Jokowi) di Istana Merdeka, Jakarta, Rabu (17/8), menerima Timnas U-16, yang baru saja menjuarai Piala AFF&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/515408/kampanye-the-rising-tide-kumpulkan-68-ton-sampah-dari-rumah-tangga",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NDA4L2thbXBhbnllLXRoZS1yaXNpbmctdGlkZS1rdW1wdWxrYW4tNjgtdG9uLXNhbXBhaC1kYXJpLXJ1bWFoLXRhbmdnYQ==",
+        "description": "Menteri LHK Siti Nurbaya melakukan penyambutan dan memberi apresiasi kepada Muryansyah, pelaku Solo Triathlon yang telah menempuh jarak Bali &ndash; Jakarta sejauh 1.293 km, Selasa, (16/8) di Jakarta.&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515404/kuasa-hukum-tuding-irjen-sambo-gasak-rp200-juta-dari-rekening-brigadir-j",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU0MDQva3Vhc2EtaHVrdW0tdHVkaW5nLWlyamVuLXNhbWJvLWdhc2FrLXJwMjAwLWp1dGEtZGFyaS1yZWtlbmluZy1icmlnYWRpci1q",
+        "description": "KUASA hukum keluarga Brigadir Nofriansyah Yosua Hutabarat alias Brigadir J, Kamaruddin Simanjuntak, mengungkap dugaan Irjen&#8230;"
+    },
+    {
         "title": "Internasional",
         "link": "https://m.mediaindonesia.com/internasional/515403/israel-akhirnya-akui-membunuh-5-anak-palestina-yang-sedang-bermain",
         "image": "static/images/media_indonesia.png",
@@ -22,51 +64,9 @@
     },
     {
         "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/515399/tanggul-kali-gorogol-jebol-belasan-rumah-di-limo-depok-terendam-banjir",
+        "link": "https://m.mediaindonesia.com/megapolitan/515399/tanggul-kali-grogol-jebol-belasan-rumah-di-limo-depok-terendam-banjir",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTUzOTkvdGFuZ2d1bC1rYWxpLWdvcm9nb2wtamVib2wtYmVsYXNhbi1ydW1haC1kaS1saW1vLWRlcG9rLXRlcmVuZGFtLWJhbmppcg==",
-        "description": "TANGGUL kali atau bangunan penahan aliran air Kali Gorogol jebol dan mengakibatkan 12 rumah warga terendam banjir. Kepala Bidang Pengendalian Operasional Dinas Pemadam Kebakaran dan Penyelamatan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515398/ini-daftar-baju-adat-yang-pernah-dikenakan-jokowi-pada-peringatan-hut-ri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTUzOTgvaW5pLWRhZnRhci1iYWp1LWFkYXQteWFuZy1wZXJuYWgtZGlrZW5ha2FuLWpva293aS1wYWRhLXBlcmluZ2F0YW4taHV0LXJp",
-        "description": "PRESIDEN Joko Widodo kembali mengenakan pakaian adat daerah dalam Upacara Detik-Detik Proklamasi. Pada upacara peringatan hari&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/515397/anies-baswedan-hut-ke-77-ri-momentum-perjuangkan-keadilan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTUzOTcvYW5pZXMtYmFzd2VkYW4taHV0LWtlLTc3LXJpLW1vbWVudHVtLXBlcmp1YW5na2FuLWtlYWRpbGFu",
-        "description": "GUBERNUR DKI Jakarta Anies Baswedan menyebut Peringatan HUT ke-77 RI harus menjadi momentum bagi seluruh masyarakat Indonesia untuk terus berjuang memperoleh keadilan yang hakiki. &quot;Sesuai&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/515395/ikut-upacara-17-agustus-asn-pemkab-flotim-pakai-busana-adat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1Mzk1L2lrdXQtdXBhY2FyYS0xNy1hZ3VzdHVzLWFzbi1wZW1rYWItZmxvdGltLXBha2FpLWJ1c2FuYS1hZGF0",
-        "description": "DALAM &nbsp;rangka memperingati Hari Ulang Tahun (HUT) Kemerdekaan ke-77 Republik Indonesia, aparatur sipil negara (ASN) di Kabupaten&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/515393/yuk-intip-pameran-arsip-dan-mobil-kepresidenan-ri-di-sarinah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNTM5My95dWstaW50aXAtcGFtZXJhbi1hcnNpcC1kYW4tbW9iaWwta2VwcmVzaWRlbmFuLXJpLWRpLXNhcmluYWg=",
-        "description": "Sebuah Mercedes Benz S280 berwarna putih keluaran tahun 1980 terparkir di pelataran parkir selatan pusat perbelanjaan Sarinah, Jakarta Pusat. Mobil itu pernah digunakan oleh tiga presiden RI, yakni&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/515394/hut-ke-77-ri-sekitar-150-tukik-dilepas-di-pantai-biaung-denpasar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1Mzk0L2h1dC1rZS03Ny1yaS1zZWtpdGFyLTE1MC10dWtpay1kaWxlcGFzLWRpLXBhbnRhaS1iaWF1bmctZGVucGFzYXI=",
-        "description": "PEMKOT Denpasar, Bali merayakan HUT ke 77 Kemerdekaan RI dengan cara melepas 150 tukik di Pantai Biaung, Kecamatan Denpasar Timur. Pelepasan dilakukan oleh TP PKK Kota Denpasar dan Dharma Wanita Persatuan&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/515392/wagub-dki-minta-pengunjung-tebet-eco-park-disiplin-dan-jaga-kebersihan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTUzOTIvd2FndWItZGtpLW1pbnRhLXBlbmd1bmp1bmctdGViZXQtZWNvLXBhcmstZGlzaXBsaW4tZGFuLWphZ2Eta2ViZXJzaWhhbg==",
-        "description": "WAKIL Gubernur DKI Jakarta Ahmad Riza Patria meminta warga menjaga kedisiplinan dan kebersihan di Tebet Eco Park, Jakarta&#8230;"
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTUzOTkvdGFuZ2d1bC1rYWxpLWdyb2dvbC1qZWJvbC1iZWxhc2FuLXJ1bWFoLWRpLWxpbW8tZGVwb2stdGVyZW5kYW0tYmFuamly",
+        "description": "TANGGUL kali atau bangunan penahan aliran air Kali Grogol jebol dan mengakibatkan 12 rumah warga terendam banjir. Kepala Bidang Pengendalian Operasional Dinas Pemadam Kebakaran dan Penyelamatan&#8230;"
     }
 ]
