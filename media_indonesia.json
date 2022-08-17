@@ -1,5 +1,19 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/515610/joshua-bantah-berencana-pensiun",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU2MTAvam9zaHVhLWJhbnRhaC1iZXJlbmNhbmEtcGVuc2l1bg==",
+        "description": "PETINJU kelas berat Anthony Joshua, Rabu (17/8), membantah kabar yang menyebut dirinya berencana pensiun jika kembali kalah dari Oleksandr&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/515609/lebron-james-perpanjangan-kontrak-dengan-lakers",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU2MDkvbGVicm9uLWphbWVzLXBlcnBhbmphbmdhbi1rb250cmFrLWRlbmdhbi1sYWtlcnM=",
+        "description": "LEBRON James menandatangani perpanjangan kontrak berdurasi dua tahun dengan Los Angeles Lakers, yang bernilai US$97,1 juta (sekitar Rp1,4&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/515606/lo-celso-senang-kembali-berseragam-villarreal",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTYwMy9iZXJhcmRpLWJlcnRhaGFuLWRpLXNhc3N1b2xvLWhpbmdnYS0yMDI3",
         "description": "DOMENICO Berardi, Rabu (17/8), telah menandatangani kontrak baru dengan Sassuolo yang memastikan gelandang itu bertahan di klub&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/515602/besiktas-tertarik-pinjam-alli-dari-everton",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTYwMi9iZXNpa3Rhcy10ZXJ0YXJpay1waW5qYW0tYWxsaS1kYXJpLWV2ZXJ0b24=",
-        "description": "KLUB Turki Besiktas dikabarkan sedang dalam proses pembicaraan dengan Everton tentang kemungkinan peminjaman gelandang Inggris Dele&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/515601/kalah-dari-norrie-murray-akui-fisiknya-bermasalah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU2MDEva2FsYWgtZGFyaS1ub3JyaWUtbXVycmF5LWFrdWktZmlzaWtueWEtYmVybWFzYWxhaA==",
-        "description": "ANDY Murray membutuhkan bantuan terapis di akhir pertandingan setelah dia tersingkir dari putaran kedua Cincinnati Masters&#8230;"
     }
 ]
