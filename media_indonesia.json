@@ -1,10 +1,66 @@
 [
     {
         "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/515596/umkm-nahdliyin-siap-bangkit-dan-bertumbuh",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NTk2L3Vta20tbmFoZGxpeWluLXNpYXAtYmFuZ2tpdC1kYW4tYmVydHVtYnVo",
+        "description": "KRISIS ekonomi global akibat pandemi covid-19 mengakibatkan kegiatan bisnis domistik mengalami keruntuhan yang signifikan. Pegiat usaha logistik, pariwisata, perdagangan termasuk jasa, merupakan sektor&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/515597/beralih-dari-rabiot-mu-kini-incar-moises-caideo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTU5Ny9iZXJhbGloLWRhcmktcmFiaW90LW11LWtpbmktaW5jYXItbW9pc2VzLWNhaWRlbw==",
+        "description": "MANCHESTER United dikabarkan beralih gelandang Brighton and Hove Albion Moises Caicedo selepas gagal mendapatkan Adrien Rabiot dari Juventus Manchester United sejauh ini gagal menemukan kesepakatan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/515595/everton-kejar-striker-tajam-blackburn",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTU5NS9ldmVydG9uLWtlamFyLXN0cmlrZXItdGFqYW0tYmxhY2tidXJu",
+        "description": "EVERTON dikabarkan membidik penyerang Blackburn Rovers Brereton Diaz ke dalam daftar target penyerang anyar untuk bursa transfer pemain musim panas ini. Masuknya nama Diaz ke dalam daftar ini&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/515594/pebulutangkis-senior-hendra-setiawan-berbagi-inspirasi-bangun-semangat-kemerdekaan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU1OTQvcGVidWx1dGFuZ2tpcy1zZW5pb3ItaGVuZHJhLXNldGlhd2FuLWJlcmJhZ2ktaW5zcGlyYXNpLWJhbmd1bi1zZW1hbmdhdC1rZW1lcmRla2Fhbg==",
+        "description": "KEMERDEKAAN&nbsp;sudah kita rasakan sejak lama dan saat ini bangsa Indonesia &nbsp;genap berusia ke-77 tahun pada hari Rabu (17/8). Kini kita semua berada pada era globalisasi dimana serba keterbukaan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515593/4-pesan-mendagri-di-wilayah-perbatasan-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU1OTMvNC1wZXNhbi1tZW5kYWdyaS1kaS13aWxheWFoLXBlcmJhdGFzYW4taW5kb25lc2lh",
+        "description": "MENTERI Dalam Negeri Tito Karnavian menyampaikan empat pesan kepada para pihak di perbatasan Republik Indonesia.  Kepala Badan Strategi Kebijakan Dalam Negeri (BSKDN) Kementerian Dalam&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/515592/chelsea-dapatkan-gelandang-muda-cesare-casadei-dari-inter-milan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTU5Mi9jaGVsc2VhLWRhcGF0a2FuLWdlbGFuZGFuZy1tdWRhLWNlc2FyZS1jYXNhZGVpLWRhcmktaW50ZXItbWlsYW4=",
+        "description": "CHELSEA dikabarkan telah mencapai kesepakatan untuk mendaratkan gelandang muda Cesare Casadei dari Inter Milan pada bursa transfer pemain musim panas ini. Chelsea diyakini mengeluarkan dana&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/515590/brigjen-tni-achmad-fauzi-kunjungi-15-veteran-pejuang-kemerdekaan-di-bandung",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NTkwL2JyaWdqZW4tdG5pLWFjaG1hZC1mYXV6aS1rdW5qdW5naS0xNS12ZXRlcmFuLXBlanVhbmcta2VtZXJkZWthYW4tZGktYmFuZHVuZw==",
+        "description": " DIREKTUR Pengkajian dan Pengembangan Sekolah Staf dan Komando Angkatan Darat (Seskoad) Brigjen TNI Achmad Fauzi mengunjungi kediaman beberapa veteran perang di Kota Bandung pada&#8230;"
+    },
+    {
+        "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/515589/organisasi-kebangsaan-indonesia-bersatu-ajak-warga-optimistis-menjadi-bangsa-yang-besar",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NTg5L29yZ2FuaXNhc2kta2ViYW5nc2Fhbi1pbmRvbmVzaWEtYmVyc2F0dS1hamFrLXdhcmdhLW9wdGltaXN0aXMtbWVuamFkaS1iYW5nc2EteWFuZy1iZXNhcg==",
         "description": "&nbsp; HUT ke-77 Kemerdekaan RI harus menjadi momentum penguatan persatuan dan kesatuan bangsa. Ini penting agar Indonesia menjadi negara yang kuat dengan rakyat yang sejahtera. Demikian&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515591/pos-indonesia-buka-7700-posaja-drop-point-di-seluruh-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTU5MS9wb3MtaW5kb25lc2lhLWJ1a2EtNzcwMC1wb3NhamEtZHJvcC1wb2ludC1kaS1zZWx1cnVoLWluZG9uZXNpYQ==",
+        "description": "PT Pos Indonesia (Persero) membuka 7.700 PosAja Drop Point di seluruh Indonesia, untuk memberikan emudahan akses bagi masyarakat dan pelaku UMKM melakukan pengiriman barang. Program pemberdayaan&#8230;"
     },
     {
         "title": "Sepak Bola",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTU4Ny9zcHVycy1zZXBha2F0LXBpbmphbWthbi1uZG9tYmVsZS1rZS1uYXBvbGk=",
         "description": "NAPOLI dikabarkan telah berhasil mencapai kesepakatan dengan Tottenham Hotspur untuk meminjam Tanguy Ndombele, yang akan melaksanakan tes medis pada Kamis (18/8). Kabar tersebut disampaikan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515585/2894-masyarakat-telah-divaksinasi-booter",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NTg1LzI4OTQtbWFzeWFyYWthdC10ZWxhaC1kaXZha3NpbmFzaS1ib290ZXI=",
-        "description": "PEMERINTAH terus menggenjot vaksinasi covid-19 di tengah kasus yang masih melonjak. Sebanyak 40.872.561 juta masyarakat rentan dan umum sudah menerima vaksin covid-19 dosis ketiga atau booster per&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/515584/hino-gelar-talkshow-peduli-keselamatan-berkendara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTU1ODQvaGluby1nZWxhci10YWxrc2hvdy1wZWR1bGkta2VzZWxhbWF0YW4tYmVya2VuZGFyYQ==",
-        "description": "&nbsp;PT Hino Motors Sales Indonesia (HMSI) mengadakan serangkaian acara talkshow mengenai keselamatan dalam berkendara bagi pengemudi truk dan bus di ajang GIIAS 2022. Mengangkat tema 'Hino Peduli&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/515583/fajarrian-berusaha-tampil-tanpa-beban-di-kejuaraan-dunia-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU1ODMvZmFqYXJyaWFuLWJlcnVzYWhhLXRhbXBpbC10YW5wYS1iZWJhbi1kaS1rZWp1YXJhYW4tZHVuaWEtMjAyMg==",
-        "description": "PADA Kejuaraan Dunia 2022 yang berlangsung di Tokyo, Jepang, pasangan Fajar Alfian/Muhammad Rian Ardianto tak ingin terbebani dalam persaingan sektor ganda putra yang semakin ketat. Adapun pasangan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515582/5-ribu-orang-terima-vaksin-kedua-di-hari-kemerdekaan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NTgyLzUtcmlidS1vcmFuZy10ZXJpbWEtdmFrc2luLWtlZHVhLWRpLWhhcmkta2VtZXJkZWthYW4=",
-        "description": "PEMERINTAH terus menggenjot vaksinasi covid-19 di tengah kasus yang terus melonjak. Total 170.549.667 orang telah menerima vaksin lengkap per Rabu (17/8) &quot;Jumlah yang disuntik dosis kedua&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515581/6865-lansia-telah-divaksinasi-lengkap",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NTgxLzY4NjUtbGFuc2lhLXRlbGFoLWRpdmFrc2luYXNpLWxlbmdrYXA=",
-        "description": "PEMERINTAH terus menggenjot vaksinasi covid-19 bagi lanjut usia (lansia) dan remaja. Sebanyak 14.796.367 lansia telah menerima vaksin dosis lengkap per Rabu (17/8) &ldquo;Jumlah itu setara 68,65&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/515580/seo-penting-dioptimalkan-untuk-bisnis-digital-begini-caranya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE1NTgwL3Nlby1wZW50aW5nLWRpb3B0aW1hbGthbi11bnR1ay1iaXNuaXMtZGlnaXRhbC1iZWdpbmktY2FyYW55YQ==",
-        "description": "DALAM mengelola sebuah situs internet atau website, diperlukan kemampuan Search engine optimization (SEO). Duta Kampus UNPI dan Praktisi Literasi Digital Lucy Ayu Daningsih menjelaskan, SEO&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/515579/manchester-united-berminat-pinjam-pulisic-dari-chelsea",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTU3OS9tYW5jaGVzdGVyLXVuaXRlZC1iZXJtaW5hdC1waW5qYW0tcHVsaXNpYy1kYXJpLWNoZWxzZWE=",
-        "description": "MANCHESTER United tertarik menggunakan jasa Christian Pulisic pada musim panas ini. Setan Merah menambah daftar klub yang menaruh hati untuk memboyong pemain Chelsea tersebut. Pembicaraan untuk&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/515578/jelang-laga-kontra-dewa-united-madura-united-optimalkan-persiapan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTU3OC9qZWxhbmctbGFnYS1rb250cmEtZGV3YS11bml0ZWQtbWFkdXJhLXVuaXRlZC1vcHRpbWFsa2FuLXBlcnNpYXBhbg==",
-        "description": "MADURA United FC memaksimalkan waktu singkat yang dimiliki untuk melakukan persiapan menghadapi laga lanjutan kontra Dewa United FC di Stadion Gelora Bangkalan, Madura, pada Jumat (19/8) mendatang.&#8230;"
     }
 ]
