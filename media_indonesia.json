@@ -1,5 +1,26 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515308/bi-bisa-beli-sbn-tahun-depan-skb-menkeu-bi-diperpanjang-lagi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTMwOC9iaS1iaXNhLWJlbGktc2JuLXRhaHVuLWRlcGFuLXNrYi1tZW5rZXUtYmktZGlwZXJwYW5qYW5nLWxhZ2k=",
+        "description": "PEMERINTAH membuka opsi bahwa Bank Indonsia (BI) dapat melakukan pembelian di pasar perdana Surat Berharga Negara (SBN) yang diterbitkan pemerintah. &nbsp; Hal itu tercantum dalam Pasal&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/515343/ramaikan-hut-ri-pubg-mobile-hadirkan-ragam-perlombaan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTM0My9yYW1haWthbi1odXQtcmktcHViZy1tb2JpbGUtaGFkaXJrYW4tcmFnYW0tcGVybG9tYmFhbg==",
+        "description": "GUNA turut serta meramaikan acara hari ulang tahun (HUT) ke-77 Republik Indonesia, gim video Player Unknown's Battlegrounds (PUBG) Mobile menghadirkan serangkaian kegiatan komunitas meliputi kompetisi&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/515342/laga-kualifikasi-piala-dunia-antara-brasil-dan-argentina-akhirnya-dibatalkan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTM0Mi9sYWdhLWt1YWxpZmlrYXNpLXBpYWxhLWR1bmlhLWFudGFyYS1icmFzaWwtZGFuLWFyZ2VudGluYS1ha2hpcm55YS1kaWJhdGFsa2Fu",
+        "description": "LAGA kualifikasi Piala Dunia 2022 antara Brasil dan Argentina, yang tahun lalu dihentikan, tidak akan dipertandingkan lagi.&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/515341/indy-barends-isi-kemerdekaan-dengan-menanamkan-nilai-nilai-toleransi",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTUzMzUvcHJlc2lkZW4tcGltcGluLWFwZWwta2Vob3JtYXRhbi1kYW4tcmVudW5nYW4tc3VjaS1kaS10bXAta2FsaWJhdGE=",
         "description": "PRESIDEN Joko Widodo memimpin apel kehormatan dan renungan suci di Taman Makam Pahlawan (TMP) Nasional Utama&nbsp;Kalibata, Jakarta, Rabu (17/8) dini hari. Acara yang digelar tepat pukul 00.00 WIB&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515334/yuk-mengenal-3-jenis-perpindahan-kalor-dan-contohnya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1MzM0L3l1ay1tZW5nZW5hbC0zLWplbmlzLXBlcnBpbmRhaGFuLWthbG9yLWRhbi1jb250b2hueWE=",
-        "description": "KALOR merupakan bentuk energi panas atau jumlah panas yang ada dalam sebuah benda. Kalor dapat dikatakan sebagai energi panas yang&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/515333/osaka-tersingkir-di-putaran-pertama-cincinnati-masters",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTUzMzMvb3Nha2EtdGVyc2luZ2tpci1kaS1wdXRhcmFuLXBlcnRhbWEtY2luY2lubmF0aS1tYXN0ZXJz",
-        "description": "PERFORMA buruk Naomi Osaka berlanjut setelah juara Grand Slam empat kali itu itu tersingkir di putaran pertama Cincinnati&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515332/ini-susunan-upacara-17-agustus-di-istana-negara-hari-ini",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTUzMzIvaW5pLXN1c3VuYW4tdXBhY2FyYS0xNy1hZ3VzdHVzLWRpLWlzdGFuYS1uZWdhcmEtaGFyaS1pbmk=",
-        "description": "DALAM rangka memperingati HUT Kemerdekaan ke-77 Republik Indonesia, hari ini, Rabu (17/8), akan digelar upacara bendera di Istana&#8230;"
     }
 ]
