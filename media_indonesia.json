@@ -1,5 +1,19 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515515/melonjak-drastis-penumpang-angkasa-pura-i-tembus-5-juta-di-juli",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTUxNS9tZWxvbmphay1kcmFzdGlzLXBlbnVtcGFuZy1hbmdrYXNhLXB1cmEtaS10ZW1idXMtNS1qdXRhLWRpLWp1bGk=",
+        "description": "PT Angkasa Pura atau AP I mencatat adanya lonjakan pergerakan penumpang di 15 bandara hingga menembus 5.089.254 orang selama Juli 2022. Jika dibandingkan dengan periode yang sama pada tahun&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/515514/tiga-penyanyi-meriahkan-upacara-penurunan-bendera-di-istana-merdeka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTUxNC90aWdhLXBlbnlhbnlpLW1lcmlhaGthbi11cGFjYXJhLXBlbnVydW5hbi1iZW5kZXJhLWRpLWlzdGFuYS1tZXJkZWth",
+        "description": "Penyanyi Naura Ayu, Andmesh Kamaleng, serta Dira Sugandi memeriahkan sesi hiburan dan kesenian pada upacara penurunan bendera di Istana Merdeka, Jakarta, Rabu (17/8). Ketiganya tampil secara&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/515513/polda-jambi-segel-23-gudang-diduga-untuk-penimbunan-bbm-ilegal",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NTA2L3VzYWktdXBhY2FyYS1odXQta2VtZXJkZWthYW4tcmktd2FyZ2EtZ2VydWR1ay1iYWxhaS1kZXNhLXRlcmthaXQtYXN1c2lsYQ==",
         "description": "USAI upacara peringatan HUT Kemerdekaan Republik Indonesia Ke-77, puluhan warga geruduk Balai Desa Kutamendala, Kecamatan Tonjong, Kabupaten Brebes, Jawa Tengah, (17/8). Aksi unjuk rasa tersebut&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515505/dpr-desak-bawaslu-lakukan-upaya-hukum-atas-pencatutan-nik-275-anggotanya-di-pendaftaran-pemilu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU1MDUvZHByLWRlc2FrLWJhd2FzbHUtbGFrdWthbi11cGF5YS1odWt1bS1hdGFzLXBlbmNhdHV0YW4tbmlrLTI3NS1hbmdnb3RhbnlhLWRpLXBlbmRhZnRhcmFuLXBlbWlsdQ==",
-        "description": "WAKIL Ketua Komisi II DPR RI, Junimart Girsang mendesak Badan Pengawas Pemilu (Bawaslu) untuk segera melakukan investigasi dan upaya hukum atas temuan pencatutan nomor induk kependudukan (NIK) 275&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/515504/rayakan-hut-ke-77-ri-sobat-erick-rapatkan-barisan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTU1MDQvcmF5YWthbi1odXQta2UtNzctcmktc29iYXQtZXJpY2stcmFwYXRrYW4tYmFyaXNhbg==",
-        "description": "RELAWAN Sobat Erick memperingati sekaligus memeriahkan Hari Ulang Tahun (HUT) Kemerdekaan Ke-77 RI dengan menggelar berbagai&#8230;"
     }
 ]
