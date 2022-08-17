@@ -1,5 +1,12 @@
 [
     {
+        "title": "Indonesia Merdeka, Saatnya Ekonomi Bangkit",
+        "link": "https://www.cnbcindonesia.com/news/20220817120048-8-364434/indonesia-merdeka-saatnya-ekonomi-bangkit",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzEyMDA0OC04LTM2NDQzNC9pbmRvbmVzaWEtbWVyZGVrYS1zYWF0bnlhLWVrb25vbWktYmFuZ2tpdA==",
+        "description": " Indonesia Merdeka, Saatnya Ekonomi Bangkit"
+    },
+    {
         "title": "Kata Kunci Pidato Kenegaraan Jokowi: 'Eling Lan Waspodo'",
         "link": "https://www.cnbcindonesia.com/news/20220817105417-4-364418/kata-kunci-pidato-kenegaraan-jokowi-eling-lan-waspodo",
         "image": "static/images/cnbc_news.png",
@@ -14,10 +21,10 @@
         "description": " Antisipasi Merosotnya Surplus Neraca Dagang, Jokowi Kudu Piye"
     },
     {
-        "title": "Jokow Sebut 107 Negara Kena Dampak Krisis, RI Termasuk?",
-        "link": "https://www.cnbcindonesia.com/news/20220817103941-4-364408/jokow-sebut-107-negara-kena-dampak-krisis-ri-termasuk",
+        "title": "Jokowi Sebut 107 Negara Kena Dampak Krisis, RI Termasuk?",
+        "link": "https://www.cnbcindonesia.com/news/20220817103941-4-364408/jokowi-sebut-107-negara-kena-dampak-krisis-ri-termasuk",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzEwMzk0MS00LTM2NDQwOC9qb2tvdy1zZWJ1dC0xMDctbmVnYXJhLWtlbmEtZGFtcGFrLWtyaXNpcy1yaS10ZXJtYXN1aw==",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzEwMzk0MS00LTM2NDQwOC9qb2tvd2ktc2VidXQtMTA3LW5lZ2FyYS1rZW5hLWRhbXBhay1rcmlzaXMtcmktdGVybWFzdWs=",
         "description": " Terdapat 107 negara terdampak krisis, di mana sebagian di antaranya diperkirakan jatuh bangkrut."
     },
     {
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzA5NTc0MC00LTM2NDQwMy9oYXJnYS1iYm0ta2Vla29ub21pYW4tcGVydGFsaXRlLXJwLTEzMTUwLXBlci1saXRlcg==",
         "description": " Menko Perekonomian Airlangga Hartarto menyatakan harga keekonomian Pertalite tembus Rp 13.150 per liter"
-    },
-    {
-        "title": "Diserbu Baju Impor, Industri Tekstil Butuh Kepastian",
-        "link": "https://www.cnbcindonesia.com/news/20220815120828-8-363786/diserbu-baju-impor-industri-tekstil-butuh-kepastian",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTEyMDgyOC04LTM2Mzc4Ni9kaXNlcmJ1LWJhanUtaW1wb3ItaW5kdXN0cmktdGVrc3RpbC1idXR1aC1rZXBhc3RpYW4=",
-        "description": " Diserbu Baju Impor, Industri Tekstil Butuh Kepastian Pasar Lokal"
     }
 ]
