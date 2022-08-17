@@ -1,5 +1,40 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/515355/gregoria-tetap-berlatih-meski-sakit-demi-tampil-di-kejuaraan-dunia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTUzNTUvZ3JlZ29yaWEtdGV0YXAtYmVybGF0aWgtbWVza2ktc2FraXQtZGVtaS10YW1waWwtZGkta2VqdWFyYWFuLWR1bmlh",
+        "description": "PEBULU tangkis tunggal putri Gregoria Mariska Tunjung sempat mengalami sakit sepulang dari Singapura Terbuka. Namun, kini kondisinya sudah kembali sehat dan lebih bersemangat berlatih demi mengikuti&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/515359/hut-ke-77-ri-pln-babel-terangi-masyarakat-dan-wisata-pantai-tambak-sukamandi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1MzU5L2h1dC1rZS03Ny1yaS1wbG4tYmFiZWwtdGVyYW5naS1tYXN5YXJha2F0LWRhbi13aXNhdGEtcGFudGFpLXRhbWJhay1zdWthbWFuZGk=",
+        "description": "BUPATI&nbsp;Belitung Timur, Drs. Burhanuddin sangat mengapresiasi dan berterima kasih kepada PLN atas penyediaan jaringan listrik pada salah satu pantai di Kecamatan Damar.&nbsp; Suksesnya pembanguan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515358/pemerintah-tawarkan-sukuk-ritel-sr017-dengan-kupon-tetap-59-persen",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTM1OC9wZW1lcmludGFoLXRhd2Fya2FuLXN1a3VrLXJpdGVsLXNyMDE3LWRlbmdhbi1rdXBvbi10ZXRhcC01OS1wZXJzZW4=",
+        "description": "PEMERINTAH menawarkan Surat Berharga Syariah Negara (SBSN) atau sukuk ritel seri SR017 kepada investor&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/515357/aksi-petugas-amankan-212-calon-pmi-di-sumut-hingga-4-hari-dikritisi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1MzU3L2Frc2ktcGV0dWdhcy1hbWFua2FuLTIxMi1jYWxvbi1wbWktZGktc3VtdXQtaGluZ2dhLTQtaGFyaS1kaWtyaXRpc2k=",
+        "description": "SEBANYAK 212 orang calon pekerja migran Indonesia (PMI) diamankan di Bandara Kualanamu, Deli Serdang, Sumatera Utara (Sumut). Mereka rencananya akan berangkat ke Kamboja menggunakan pesawat Lion Air&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/515352/film-gendut-siapa-takut-rilis-poster-dan-trailer",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTM1Mi9maWxtLWdlbmR1dC1zaWFwYS10YWt1dC1yaWxpcy1wb3N0ZXItZGFuLXRyYWlsZXI=",
+        "description": "FILM komedi romantis Gendut Siapa Takut?!, Selasa (16/8), resmi merilis poster dan trailer perdana yang menampilkan Marshanda sebagai&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/515350/masyarakat-diingatkan-untuk-berhati-hati-saat-bermedia-sosial",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTUzNDkvZm9ybXVsYS0xLWFrYW4tZ3VuYWthbi1tZXNpbi1kYW4tYmJtLWJhcnUtcGFkYS0yMDI2",
         "description": "KOMISI Olahraga Balap Motor Dunia (FIA), Selasa (16/8), mengatakan mesin atau power unit baru akan digunakan di Formula 1 mulai&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/515348/psv-tahan-imbang-rangers-di-leg-pertama-playoff-liga-champions",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTM0OC9wc3YtdGFoYW4taW1iYW5nLXJhbmdlcnMtZGktbGVnLXBlcnRhbWEtcGxheW9mZi1saWdhLWNoYW1waW9ucw==",
-        "description": "ARMANDO Obisco menyelamatkan Walter Benitez saat PSV Eindhoven memaksakan hasil imbang 2-2 melawan Rangers di laga leg pertama playoff Liga&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515347/ini-rangkaian-upacara-pengibaran-bendera-di-istana-merdeka",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1MzQ3L2luaS1yYW5na2FpYW4tdXBhY2FyYS1wZW5naWJhcmFuLWJlbmRlcmEtZGktaXN0YW5hLW1lcmRla2E=",
-        "description": "RANGKAIAN Upacara Pengibaran Bendera Merah Putih di Istana Negara akan dimulai pukul 9.40 WIB. Prosesi tersebut diawali dengan peniupan terompet pertama yang dilanjutkan peniupan terompet kedua empat&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/515346/kalahkan-davidovich-fokina-kyrgios-melaju-ke-putaran-kedua-cincinnati-masters",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTUzNDYva2FsYWhrYW4tZGF2aWRvdmljaC1mb2tpbmEta3lyZ2lvcy1tZWxhanUta2UtcHV0YXJhbi1rZWR1YS1jaW5jaW5uYXRpLW1hc3RlcnM=",
-        "description": "NICK Kyrgios melaju ke putaran kedua Cincinnati Masters setelah mengalahkan Alejandro Davidovich Fokina 7-5 dan 6-4, Selasa&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/515344/pengelola-desa-wisata-di-kulonprogo-dibekali-kemampuan-pemasaran-digital",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1MzQ0L3BlbmdlbG9sYS1kZXNhLXdpc2F0YS1kaS1rdWxvbnByb2dvLWRpYmVrYWxpLWtlbWFtcHVhbi1wZW1hc2FyYW4tZGlnaXRhbA==",
-        "description": "DIREKTORAT Ekonomi Digital, Kementerian Komunikasi dan Informatika, menyelenggarakan Pendampingan Adopsi Teknologi Digital Sektor Pariwisata untuk empat desa wisata di Kulonprogo, yaitu Jatimulyo,&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/515308/bi-bisa-beli-sbn-tahun-depan-skb-menkeu-bi-diperpanjang-lagi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTMwOC9iaS1iaXNhLWJlbGktc2JuLXRhaHVuLWRlcGFuLXNrYi1tZW5rZXUtYmktZGlwZXJwYW5qYW5nLWxhZ2k=",
-        "description": "PEMERINTAH membuka opsi bahwa Bank Indonsia (BI) dapat melakukan pembelian di pasar perdana Surat Berharga Negara (SBN) yang diterbitkan pemerintah. &nbsp; Hal itu tercantum dalam Pasal&#8230;"
     }
 ]
