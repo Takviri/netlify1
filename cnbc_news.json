@@ -1,5 +1,26 @@
 [
     {
+        "title": "Ngeri.. Inflasi Inggris Meledak, Segera Masuk Jurang Resesi?",
+        "link": "https://www.cnbcindonesia.com/news/20220817170107-4-364508/ngeri-inflasi-inggris-meledak-segera-masuk-jurang-resesi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzE3MDEwNy00LTM2NDUwOC9uZ2VyaS1pbmZsYXNpLWluZ2dyaXMtbWVsZWRhay1zZWdlcmEtbWFzdWstanVyYW5nLXJlc2VzaQ==",
+        "description": " Inflasi Inggris pada Juli 2022 kian meninggi dan mencapai level tertinggi baru dalam 40 tahun."
+    },
+    {
+        "title": "RI Tak Sendirian, 9 Negara Ini Juga Merdeka di Bulan Agustus",
+        "link": "https://www.cnbcindonesia.com/news/20220817094025-4-364399/ri-tak-sendirian-9-negara-ini-juga-merdeka-di-bulan-agustus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzA5NDAyNS00LTM2NDM5OS9yaS10YWstc2VuZGlyaWFuLTktbmVnYXJhLWluaS1qdWdhLW1lcmRla2EtZGktYnVsYW4tYWd1c3R1cw==",
+        "description": " Indonesia merayakan Hari Kemerdekaan ke-77 pada 17 Agustus 2022. Tapi ada sejumlah negara juga merayakan hari penting di bulan yang sama. Apa saja?"
+    },
+    {
+        "title": "Gokil! RI Bakal Punya 4.000 Km Jalan Tol Sampai 2024",
+        "link": "https://www.cnbcindonesia.com/news/20220817181158-4-364515/gokil-ri-bakal-punya-4000-km-jalan-tol-sampai-2024",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzE4MTE1OC00LTM2NDUxNS9nb2tpbC1yaS1iYWthbC1wdW55YS00MDAwLWttLWphbGFuLXRvbC1zYW1wYWktMjAyNA==",
+        "description": " Basuki\u00c2\u00a0menyampaikan beberapa capaian dan target proyek infrastruktur pemerintahan Presiden Jokowi."
+    },
+    {
         "title": "Terungkap! Pertalite Harusnya Dijual di Atas Rp 13.000/Liter",
         "link": "https://www.cnbcindonesia.com/news/20220817194710-4-364528/terungkap-pertalite-harusnya-dijual-di-atas-rp-13000-liter",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzE2NDU0Ny03LTM2NDQ5NS9raGlkbWF0bnlhLWRldGlrLWRldGlrLXVwYWNhcmEtcHJva2xhbWFzaS1odXQtcmkta2UtNzc=",
         "description": " Peringatan HUT ke-77 Kemerdekaan RI tahun ini mengusung tema \"Pulih Lebih Cepat, Bangkit Lebih Kuat\"."
-    },
-    {
-        "title": "HUT RI ke-77, Pertamina Komit Sediakan Energi Bagi Bangsa",
-        "link": "https://www.cnbcindonesia.com/news/20220817152718-4-364473/hut-ri-ke-77-pertamina-komit-sediakan-energi-bagi-bangsa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzE1MjcxOC00LTM2NDQ3My9odXQtcmkta2UtNzctcGVydGFtaW5hLWtvbWl0LXNlZGlha2FuLWVuZXJnaS1iYWdpLWJhbmdzYQ==",
-        "description": " Pertamina mengusung pesan kemerdekaan \"Energi untuk Bangkit Lebih Kuat\" dalam upacara HUT RI ke-77 di Kilang Cilacap."
-    },
-    {
-        "title": "Harga Minyak 2023 Masih Tinggi, Jokowi Bakar Uang Rp 336,7 T",
-        "link": "https://www.cnbcindonesia.com/news/20220817143118-4-364468/harga-minyak-2023-masih-tinggi-jokowi-bakar-uang-rp-3367-t",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzE0MzExOC00LTM2NDQ2OC9oYXJnYS1taW55YWstMjAyMy1tYXNpaC10aW5nZ2ktam9rb3dpLWJha2FyLXVhbmctcnAtMzM2Ny10",
-        "description": " Dalam RAPBN 2023, harga minyak bumi diperkirakan mencapai US$ 90 per barel, lebih rendah dari asumsi 2022 yang mencapai US$ 95 hingga US$ 105 per barel."
-    },
-    {
-        "title": "Didukung Pemerintah dan PLN, Sopi'i Rasakan Arti Kemerdekaan",
-        "link": "https://www.cnbcindonesia.com/news/20220817153919-4-364475/didukung-pemerintah-dan-pln-sopii-rasakan-arti-kemerdekaan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzE1MzkxOS00LTM2NDQ3NS9kaWR1a3VuZy1wZW1lcmludGFoLWRhbi1wbG4tc29waWktcmFzYWthbi1hcnRpLWtlbWVyZGVrYWFu",
-        "description": " Program\u00c2\u00a0Bantuan Pasang Baru Listrik diperuntukkan bagi rumah tangga tidak mampu yang terdaftar dalam Data Terpadu Kesejahteraan Sosial (DTKS)."
     }
 ]
