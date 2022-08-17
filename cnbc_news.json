@@ -1,5 +1,26 @@
 [
     {
+        "title": "Adik Prabowo Diam-Diam Ekspor dari Ukraina, Ini Buktinya",
+        "link": "https://www.cnbcindonesia.com/news/20220817074724-4-364375/adik-prabowo-diam-diam-ekspor-dari-ukraina-ini-buktinya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzA3NDcyNC00LTM2NDM3NS9hZGlrLXByYWJvd28tZGlhbS1kaWFtLWVrc3Bvci1kYXJpLXVrcmFpbmEtaW5pLWJ1a3Rpbnlh",
+        "description": " Perusahaan konglomerasi milik taipan Hashim Djojohadikusumo, Arsari Group, telah memiliki izin ekspor bahan-bahan pangan dari Ukraina."
+    },
+    {
+        "title": "Elon Musk Beli Manchester United!",
+        "link": "https://www.cnbcindonesia.com/news/20220817073834-4-364373/elon-musk-beli-manchester-united",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzA3MzgzNC00LTM2NDM3My9lbG9uLW11c2stYmVsaS1tYW5jaGVzdGVyLXVuaXRlZA==",
+        "description": " CEO Tesla Elon Musk membeli MU."
+    },
+    {
+        "title": "77 Tahun RI Merdeka Masih Impor Pangan, Ini Daftarnya!",
+        "link": "https://www.cnbcindonesia.com/news/20220817064448-4-364366/77-tahun-ri-merdeka-masih-impor-pangan-ini-daftarnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzA2NDQ0OC00LTM2NDM2Ni83Ny10YWh1bi1yaS1tZXJkZWthLW1hc2loLWltcG9yLXBhbmdhbi1pbmktZGFmdGFybnlh",
+        "description": " Indonesia memang sudah merdeka selama 77 tahun, tapi masih harus mengimpor sejumlah komoditas pangan hingga saat ini."
+    },
+    {
         "title": "KBRI London Buka Suara soal 'Kerja Paksa' WNI di Inggris",
         "link": "https://www.cnbcindonesia.com/news/20220817070755-4-364371/kbri-london-buka-suara-soal-kerja-paksa-wni-di-inggris",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE4MTMxOS0xNi0zNjQzMzMvdG9sb25nLWhhcHVz",
         "description": " Menteri Pekerjaan Umum dan Perumahan Rakyat Basuki Hadimuljono mengatakan, pembangunan infrastruktur tetap menjadi salah satu agenda prioritas pemerintah."
-    },
-    {
-        "title": "Ngeri! Ilmuwan Ungkap Skenario 'Neraka Dunia' Perang Nuklir",
-        "link": "https://www.cnbcindonesia.com/news/20220816161224-4-364280/ngeri-ilmuwan-ungkap-skenario-neraka-dunia-perang-nuklir",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE2MTIyNC00LTM2NDI4MC9uZ2VyaS1pbG11d2FuLXVuZ2thcC1za2VuYXJpby1uZXJha2EtZHVuaWEtcGVyYW5nLW51a2xpcg==",
-        "description": " Para ilmuwan mengatakan ada beberapa skenario horor 'neraka dunia' akibat penggunaan senjata nuklir."
-    },
-    {
-        "title": "Duh, Adik Kim Jong Un Diolok-olok Waktu Pidato Soal Covid",
-        "link": "https://www.cnbcindonesia.com/news/20220816163310-4-364287/duh-adik-kim-jong-un-diolok-olok-waktu-pidato-soal-covid",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjE2MzMxMC00LTM2NDI4Ny9kdWgtYWRpay1raW0tam9uZy11bi1kaW9sb2stb2xvay13YWt0dS1waWRhdG8tc29hbC1jb3ZpZA==",
-        "description": " Adik perempuan pemimpin Korea Utara (Korut) Kim Jong Un hadir untuk mengumumkan berakhirnya krisis Covid-19 di negara tersebut."
-    },
-    {
-        "title": "Perang Rusia-Ukraina Sudah Mau 6 Bulan, Simak 8 Update-nya!",
-        "link": "https://www.cnbcindonesia.com/news/20220816105743-4-364106/perang-rusia-ukraina-sudah-mau-6-bulan-simak-8-update-nya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjEwNTc0My00LTM2NDEwNi9wZXJhbmctcnVzaWEtdWtyYWluYS1zdWRhaC1tYXUtNi1idWxhbi1zaW1hay04LXVwZGF0ZS1ueWE=",
-        "description": " Perang Rusia-Ukraina masih terus berlangsung. Ini sejumlah update-nya."
     }
 ]
