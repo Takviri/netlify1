@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515635/puan-maharani-indonesia-masih-akan-hadapi-ketidakpastian",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTYzNS9wdWFuLW1haGFyYW5pLWluZG9uZXNpYS1tYXNpaC1ha2FuLWhhZGFwaS1rZXRpZGFrcGFzdGlhbg==",
+        "description": "KETUA DPR RI&nbsp;Puan Maharani menekankan, tugas membangun Bangsa dan Negara Indonesia ke depan menghadapi tantangan dan kendala yang tidak ringan. Indonesia masih menghadapi ketidakpastian&#8230;"
+    },
+    {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/515634/kemenparekraf-dan-magnus-digital-kembangkan-wonderverse-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE1NjM0L2tlbWVucGFyZWtyYWYtZGFuLW1hZ251cy1kaWdpdGFsLWtlbWJhbmdrYW4td29uZGVydmVyc2UtaW5kb25lc2lh",
+        "description": "KEMENTERIAN Pariwisata dan Ekonomi Kreatif (Kemenparekraf) dan Magnus Digital Indonesia, konsultan ad-tech marketing bagian dari Volare Advertising Network, mengembangkan WonderVerse Indonesia. Ini&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515633/sekjen-dpr-ajak-pegawai-maknai-hut-ri-dengan-karya-dan-perubahan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU2MzMvc2VramVuLWRwci1hamFrLXBlZ2F3YWktbWFrbmFpLWh1dC1yaS1kZW5nYW4ta2FyeWEtZGFuLXBlcnViYWhhbg==",
+        "description": "SETELAH dua tahun diadakan secara virtual, untuk pertama kalinya Sekretariat Jenderal DPR RI kembali melaksanakan Upacara Peringatan Hari Kemerdekaan Republik Indonesia yang dihadiri secara fisik oleh&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/515632/pbb-mulai-rangkaian-pertemuan-dengan-junta-militer-myanmar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNTYzMi9wYmItbXVsYWktcmFuZ2thaWFuLXBlcnRlbXVhbi1kZW5nYW4tanVudGEtbWlsaXRlci1teWFubWFy",
+        "description": "UTUSAN Khusus PBB untuk Myanmar, Noeleen Heyzer, memulai rangkaian pertemuan dengan jajaran petinggi junta militer. Pertemuan pertama&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/515631/medali-emas-isg-jadi-kado-manis-duet-pemanah-riau-egarezza-untuk-hut-kemerdekaan-ke-77-ri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU2MzEvbWVkYWxpLWVtYXMtaXNnLWphZGkta2Fkby1tYW5pcy1kdWV0LXBlbWFuYWgtcmlhdS1lZ2FyZXp6YS11bnR1ay1odXQta2VtZXJkZWthYW4ta2UtNzctcmk=",
+        "description": "LANTUNAN lagu Indonesia Raya berkumandang di Saracoglu Sports Facilities, tepat di hari perayaan HUT Kemerdekaan RI ke-77, Rabu (17/8). &nbsp;Lagu kebangsaan Indonesia itu bergema karena torehan prestasi&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515630/kondisi-ekonomi-tak-stabil-investasi-reksa-dana-bisa-jadi-pilihan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTYzMC9rb25kaXNpLWVrb25vbWktdGFrLXN0YWJpbC1pbnZlc3Rhc2ktcmVrc2EtZGFuYS1iaXNhLWphZGktcGlsaWhhbg==",
+        "description": "BARU-baru ini, Direktur Pelaksana Dana Moneter Internasional (International Monetary Fund/IMF) Kristalina Georgieva menyampaikan prospek ekonomi global pada tahun 2023 yang disebutnya sebagai&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/515624/musim-baru-nba-akan-dibuka-dengan-laga-warriors-vs-lakers-dan-sixers-vs-celtics",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTYxOC9nb21lei1tZW5nYWt1LXRpZGFrLXNhYmFyLWRpbGF0aWgtZ3VhcmRpb2xh",
         "description": "BEK sayap Sergio Gomez mengaku tidak sabar bermain di bawah arahan pelatih Pep Guardiola setelah resmi bergabung dengan klub Liga Primer Inggris <a href=\"http://mediaindonesia.com/tag/manchester-city\"&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/515626/omg-langkat-rayakan-hut-ke-77-ri-sembari-sosialisasikan-ganjar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NjI2L29tZy1sYW5na2F0LXJheWFrYW4taHV0LWtlLTc3LXJpLXNlbWJhcmktc29zaWFsaXNhc2lrYW4tZ2FuamFy",
-        "description": "BENDERA Merah Putih berkibar megah di tiang salah satu lapangan di Barak Induk, Desa Harapan Maju, Kecamatan Sei Lepan, Kabupaten Langkat, Sumatera Utara. Di bawahnya, ribuan pemuda, milenial hingga&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/515617/aap-rocky-mengaku-tidak-bersalah-dalam-kasus-senjata-api",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTYxNy9hYXAtcm9ja3ktbWVuZ2FrdS10aWRhay1iZXJzYWxhaC1kYWxhbS1rYXN1cy1zZW5qYXRhLWFwaQ==",
-        "description": "RAPPER Amerika Serikat (AS) A$AP Rocky, Rabu (17/8), mengaku tidak bersalah atas dua dakwaan penyerangan menggunakan senjata api&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/515615/bts-akan-luncurkan-proyek-foto-jungkook-jadi-yang-pertama",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTYxNS9idHMtYWthbi1sdW5jdXJrYW4tcHJveWVrLWZvdG8tanVuZ2tvb2stamFkaS15YW5nLXBlcnRhbWE=",
-        "description": "GRUP idola K-pop Bangtan Sonyeondan (BTS) akan merilis serangkaian foto melalui proyek terbaru mereka, mulai 1 September 2022. Seperti&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/515625/mdb-group-bentangkan-bendera-merah-putih-raksasa-di-lahan-tambang-batu-bara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTYyNS9tZGItZ3JvdXAtYmVudGFuZ2thbi1iZW5kZXJhLW1lcmFoLXB1dGloLXJha3Nhc2EtZGktbGFoYW4tdGFtYmFuZy1iYXR1LWJhcmE=",
-        "description": "MEMPERINGATI HUT ke-77 Kemerdekaan Indonesia, Media Djaya Bersama Group yang memiliki 2 IUP Produksi Tambang Batubara atas PT Mifa Bersaudara &amp; PT Bara Energi Lestari di Provinsi Aceh untuk pertama&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515623/raih-rekor-muri-puspotdirga-kibarkan-bendera-merah-putih-di-30-kota",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NjIzL3JhaWgtcmVrb3ItbXVyaS1wdXNwb3RkaXJnYS1raWJhcmthbi1iZW5kZXJhLW1lcmFoLXB1dGloLWRpLTMwLWtvdGE=",
-        "description": "MEMPERINGATI HUT RI ke-77, Pusat Potensi Kedirgantaraan TNI Angkatan Udara (Puspotdirga)&nbsp;&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/515614/ineos-siap-beli-manchester-united",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTYxNC9pbmVvcy1zaWFwLWJlbGktbWFuY2hlc3Rlci11bml0ZWQ=",
-        "description": "PENGUSAHA Inggris Jim Ratcliffe tertarik untuk membeli Manchester United jika klub Liga Primer Inggris itu dijual. Hal&#8230;"
     }
 ]
