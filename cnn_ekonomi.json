@@ -1,5 +1,19 @@
 [
     {
+        "title": "Zulhas: Saya Nggak Senang Kalau Harga Daging Ayam Turun",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220818093807-92-835921/zulhas-saya-nggak-senang-kalau-harga-daging-ayam-turun",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE4MDkzODA3LTkyLTgzNTkyMS96dWxoYXMtc2F5YS1uZ2dhay1zZW5hbmcta2FsYXUtaGFyZ2EtZGFnaW5nLWF5YW0tdHVydW4=",
+        "description": " Mendag Zulhas mengaku tak senang jika harga daging ayam turun, karena akan merugikan peternak."
+    },
+    {
+        "title": "Harga Minyak Dunia Makin Mahal ke US$93 per Barel",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220818091009-85-835910/harga-minyak-dunia-makin-mahal-ke-us-93-per-barel",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE4MDkxMDA5LTg1LTgzNTkxMC9oYXJnYS1taW55YWstZHVuaWEtbWFraW4tbWFoYWwta2UtdXMtOTMtcGVyLWJhcmVs",
+        "description": " Harga minyak mentah dunia menguat 1,5 persen berkat kenaikan ekspor pada perdagangan Kamis (18/8) waktu Indonesia.\u00c2\u00a0"
+    },
+    {
         "title": "The Fed Diprediksi Dovish, Rupiah Melemah ke Rp14.785 per Dolar AS",
         "link": "https://www.cnnindonesia.com/ekonomi/20220818091205-78-835911/the-fed-diprediksi-dovish-rupiah-melemah-ke-rp14785-per-dolar-as",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE4MDY1NDQwLTg1LTgzNTg2MC9oaXR1bmdhbi1la29ub20taGFyZ2EtcGVydGFsaXRlLW5haWstcnAxMC1yaWJ1LWluZmxhc2ktNjUtcGVyc2Vu",
         "description": " Ekonom menghitung bila harga Pertalite naik Rp10 ribu, maka inflasi bisa melaju ke level 6,5 persen."
-    },
-    {
-        "title": "Inflasi Inggris Tertinggi dalam 40 Tahun ke Level 10,1 Persen",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220818062623-532-835845/inflasi-inggris-tertinggi-dalam-40-tahun-ke-level-101-persen",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE4MDYyNjIzLTUzMi04MzU4NDUvaW5mbGFzaS1pbmdncmlzLXRlcnRpbmdnaS1kYWxhbS00MC10YWh1bi1rZS1sZXZlbC0xMDEtcGVyc2Vu",
-        "description": " Inflasi Inggris tertinggi dalam 40 tahun dengan realisasi 10,1 persen pada Juli 2022."
-    },
-    {
-        "title": "Musim Rilis Lapkeu Emiten Bakal Dorong Laju IHSG",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220818060551-92-835842/musim-rilis-lapkeu-emiten-bakal-dorong-laju-ihsg",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE4MDYwNTUxLTkyLTgzNTg0Mi9tdXNpbS1yaWxpcy1sYXBrZXUtZW1pdGVuLWJha2FsLWRvcm9uZy1sYWp1LWloc2c=",
-        "description": " IHSG diprediksi menguat pada perdagangan Kamis (18/8), ditopang oleh rilis laporan keuangan emiten semester I 2022."
     }
 ]
