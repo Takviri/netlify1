@@ -1,5 +1,19 @@
 [
     {
+        "title": "Jokowi Desak Sri Mulyani Hitung Ulang Duit Negara untuk Subsidi BBM",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220818110445-532-835960/jokowi-desak-sri-mulyani-hitung-ulang-duit-negara-untuk-subsidi-bbm",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE4MTEwNDQ1LTUzMi04MzU5NjAvam9rb3dpLWRlc2FrLXNyaS1tdWx5YW5pLWhpdHVuZy11bGFuZy1kdWl0LW5lZ2FyYS11bnR1ay1zdWJzaWRpLWJibQ==",
+        "description": " Presiden Jokowi memerintahkan Menteri Keuangan Sri Mulyani menghitung ulang kemampuan uang negara untuk menahan harga BBM."
+    },
+    {
+        "title": "Zulhas Bakal Digitalisasi 1.000 Pasar dan 1 Juta Pedagang",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220818104103-92-835951/zulhas-bakal-digitalisasi-1000-pasar-dan-1-juta-pedagang",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE4MTA0MTAzLTkyLTgzNTk1MS96dWxoYXMtYmFrYWwtZGlnaXRhbGlzYXNpLTEwMDAtcGFzYXItZGFuLTEtanV0YS1wZWRhZ2FuZw==",
+        "description": " Menteri Perdagangan Zulkifli Hasan menargetkan 1.000 pasar atau 1 juta pedagang terdigitalisasi hingga akhir tahun ini."
+    },
+    {
         "title": "BI Rilis Uang Baru, Uang Rupiah Lama Tetap Berlaku",
         "link": "https://www.cnnindonesia.com/ekonomi/20220818102205-78-835944/bi-rilis-uang-baru-uang-rupiah-lama-tetap-berlaku",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE4MDg0OTQ3LTkyLTgzNTkwNS9oYXJnYS1lbWFzLWFudGFtLWFuamxvay1ycDUwMDAtcGVyLWdyYW0tamFkaS1ycDk3NS1yaWJ1",
         "description": " Harga emas Antam anjlok Rp5.000 per gram menjadi Rp975 ribu pada Kamis (18/8) pagi jelang rilis suku bunga The Fed."
-    },
-    {
-        "title": "BI Resmi Luncurkan Uang Kertas Baru Rp1.000-Rp100.000",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220818084111-78-835902/bi-resmi-luncurkan-uang-kertas-baru-rp1000-rp100000",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE4MDg0MTExLTc4LTgzNTkwMi9iaS1yZXNtaS1sdW5jdXJrYW4tdWFuZy1rZXJ0YXMtYmFydS1ycDEwMDAtcnAxMDAwMDA=",
-        "description": " Bank Indonesia (BI) resmi merilis uang rupiah kertas baru tahun emisi 2022 untuk pecahan Rp1.000 sampai Rp100 ribu."
-    },
-    {
-        "title": "Pasokan Minyak Mentah AS Turun 158 Ribu Barel per Hari",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220818080555-85-835878/pasokan-minyak-mentah-as-turun-158-ribu-barel-per-hari",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE4MDgwNTU1LTg1LTgzNTg3OC9wYXNva2FuLW1pbnlhay1tZW50YWgtYXMtdHVydW4tMTU4LXJpYnUtYmFyZWwtcGVyLWhhcmk=",
-        "description": " Pasokan kilang minyak mentah Amerika Serikat (AS) turun 158 ribu barel per hari (bph) pada pekan ini dibandingkan pekan lalu."
     }
 ]
