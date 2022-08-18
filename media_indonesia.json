@@ -1,5 +1,61 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515812/dorong-umkm-terus-tumbuh-lewat-digitalisasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTgxMi9kb3JvbmctdW1rbS10ZXJ1cy10dW1idWgtbGV3YXQtZGlnaXRhbGlzYXNp",
+        "description": "UMKM merupakan instrumen penting dalam menjaga stabilitas ekonomi. Hal tersebut lantaran sektor ini menguasai hampir 99% bisnis di Indonesia. Belum lagi menurut data BPS, UMKM berkontribusi terhadap&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515811/soal-dugaan-suap-sambo-polri-fokus-pembunuhan-berencana",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU4MTEvc29hbC1kdWdhYW4tc3VhcC1zYW1iby1wb2xyaS1mb2t1cy1wZW1idW51aGFuLWJlcmVuY2FuYQ==",
+        "description": "POLRI belum mau mengusut kasus dugaan suap yang dilakukan eks Kadiv Propam Polri Irjen Ferdy Sambo terhadap Lembaga Perlindungan Saksi dan Korban (LPSK). Polri berdalih tengah fokus membuktikan terkait&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515810/sinar-mas-land-dukung-klikdokter-tampil-dengan-wajah-baru",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTgxMC9zaW5hci1tYXMtbGFuZC1kdWt1bmcta2xpa2Rva3Rlci10YW1waWwtZGVuZ2FuLXdhamFoLWJhcnU=",
+        "description": "BERSAMAAN dengan momen istimewa Hari Kemerdekaan Indonesia, KlikDokter hadir dengan tampilan wajah baru yang menawarkan solusi kesehatan terpercaya, mudah, dan nyaman digunakan melalui ekosistem layanan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/515808/kapolri-perintahkan-berantas-perjudian-dan-bekingnya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTU4MDgva2Fwb2xyaS1wZXJpbnRhaGthbi1iZXJhbnRhcy1wZXJqdWRpYW4tZGFuLWJla2luZ255YQ==",
+        "description": "KAPOLRI Jenderal Listyo Sigit Prabowo geram melihat aktivitas judi yang masih bergentayangan di Tanah Air. Dia memerintahkan jajaran untuk memberantas habis pelaku judi yang masih merajalela tersebut.&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/515807/temukan-pungli-di-lapas-kanwil-kemenkumham-sulsel-segera-beri-sanksi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1ODA3L3RlbXVrYW4tcHVuZ2xpLWRpLWxhcGFzLWthbndpbC1rZW1lbmt1bWhhbS1zdWxzZWwtc2VnZXJhLWJlcmktc2Fua3Np",
+        "description": "KEPALA Kantor Wilayah (Kakanwil) Kementerian Hukum dan Hak Asasi Manusia (Kemenkumham) Sulawesi Selatan, Liberti Sitinjak, mengatakan pihaknya menemukan praktik pungutan liar (pungli) di Lapas Kelas&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515806/uang-kertas-rupiah-tahun-emisi-2016-masih-berlaku",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTgwNi91YW5nLWtlcnRhcy1ydXBpYWgtdGFodW4tZW1pc2ktMjAxNi1tYXNpaC1iZXJsYWt1",
+        "description": "Uang kertas rupiah tahun emisi (TE) 2016 tidak akan diedarkan lagi oleh Bank Indonesia. Ini menyusul keputusan bank sentral merilis tujuh uang kertas rupiah emisi 2022. Namun demikian, uang kertas&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515805/perluas-ekosistem-pembayaran-danamon-tingkatkan-kerja-sama-dengan-linkqu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTgwNS9wZXJsdWFzLWVrb3Npc3RlbS1wZW1iYXlhcmFuLWRhbmFtb24tdGluZ2thdGthbi1rZXJqYS1zYW1hLWRlbmdhbi1saW5rcXU=",
+        "description": "DALAM rangka memperluas ekosistem pembayaran bagi nasabah, PT Bank Danamon Indonesia Tbk meningkatkan kerja sama dengan aplikasi transfer dana PT Tri Usaha Berkat (LinkQu) untuk menyediakan layanan&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/515804/dwayne-johnson-minta-warner-bros-hapus-black-adam-dari-shazam",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTgwNC9kd2F5bmUtam9obnNvbi1taW50YS13YXJuZXItYnJvcy1oYXB1cy1ibGFjay1hZGFtLWRhcmktc2hhemFt",
+        "description": "DWAYNE Johnson &quot;Black Adam&quot; akhirnya akan tayang di bioskop pada Oktober ini, tetapi karakternya sebenarnya sudah memulai debutnya di &quot;Shazam!&quot; pada 2019 silam setelah Warner Bros&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/515802/maruf-aminpolitik-identitas-jangan-digunakan-saat-kampanye",
         "image": "static/images/media_indonesia.png",
@@ -12,61 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU4MDEvZmVyZHktc2FtYm8tZGFuLXB1dHJpLWNhbmRyYXdhdGhpLWFrYW4tZGlsYXBvcmthbi1rYXJlbmEtZml0bmFoLWJyaWdhZGlyLWo=",
         "description": "TIM kuasa hukum Keluarga Brigadir J Hutabarat, Kamaruddin Simanjuntak, tiba di Jambi, Kamis (18/8/2022) sore guna menjemput surat kuasa berisi laporan balik atas pernyataan palsu atau kebohongan mantan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/515800/rekrut-matheus-nunes-wolves-pecahkan-rekor-transfer",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTgwMC9yZWtydXQtbWF0aGV1cy1udW5lcy13b2x2ZXMtcGVjYWhrYW4tcmVrb3ItdHJhbnNmZXI=",
-        "description": "WOLVERHAMPTON Wanderers resmi mendatangkan gelandang Sporting Lisbon dan tim nasional Portugal Matheus Nunes dengan memecahkan rekor transfer klub Inggris tersebut senilai 38 juta poundsterling (sekitar&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515799/surya-darmadi-klaim-asetnya-hanya-rp5-triliun",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU3OTkvc3VyeWEtZGFybWFkaS1rbGFpbS1hc2V0bnlhLWhhbnlhLXJwNS10cmlsaXVu",
-        "description": "PEMILIK Duta Palma Group Surya Darmadi mengakui hanya memiliki aset sebesar Rp5 triliun. Itu merupakan aset terkait perkebunan kelapa sawit yang dimiliki Surya di Indragiri Hulu, Riau.&nbsp; Klaim&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/515798/terbengkalai-dan-mangkrak-pemprov-sumsel-batalkan-hgu-pasar-cinde",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1Nzk4L3RlcmJlbmdrYWxhaS1kYW4tbWFuZ2tyYWstcGVtcHJvdi1zdW1zZWwtYmF0YWxrYW4taGd1LXBhc2FyLWNpbmRl",
-        "description": "PEMERINTAH Provinsi Sumatra Selatan meminta Badan Pertanahan Nasional (BPN) Provinsi Sumsel membatalkan Hak Guna Usaha (HGU) Pasar Cinde, Palembang, yang sampai saat digunakan atas nama investor.&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/515797/pemko-medan-jangan-lamban-tangani-persoalan-banjir",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1Nzk3L3BlbWtvLW1lZGFuLWphbmdhbi1sYW1iYW4tdGFuZ2FuaS1wZXJzb2FsYW4tYmFuamly",
-        "description": "HUJAN deras yang melanda Kota Medan, Sumatra Utara, hampir satu malam membuat ruas jalan di 21 Kecamatan terendam banjir pada Kamis (18/8/2022) pagi. Sejumlah kendaraan yang melintas jadi rusak dan&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/515796/gandeng-microsoft-roc9id-bangun-ketahanan-digital",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE1Nzk2L2dhbmRlbmctbWljcm9zb2Z0LXJvYzlpZC1iYW5ndW4ta2V0YWhhbmFuLWRpZ2l0YWw=",
-        "description": "NAWATECH bersama dengan IDCloudHost resmi memperkenalkan Republic of Cloud9 (ROC9.id) seiring dengan penyambutan Hari Kemerdekaan Indonesia ke-77.&nbsp; Republic of Cloud9 (ROC9.id) merupakan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/515795/pt-santi-gandeng-investor-asing-budi-daya-malapri-di-lembata",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1Nzk1L3B0LXNhbnRpLWdhbmRlbmctaW52ZXN0b3ItYXNpbmctYnVkaS1kYXlhLW1hbGFwcmktZGktbGVtYmF0YQ==",
-        "description": "&nbsp;  PT Sahabat Nusantara Teknologi Inovasi (PT Santi) mengandeng investor asal Belanda, untuk berinvestasi pada budi daya malapri di Kabupaten Lembata, Nusa Tenggara Timur.&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/515794/menhub-akan-panggil-stakeholder-untuk-stabilkan-harga-tiket-pesawat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTc5NC9tZW5odWItYWthbi1wYW5nZ2lsLXN0YWtlaG9sZGVyLXVudHVrLXN0YWJpbGthbi1oYXJnYS10aWtldC1wZXNhd2F0",
-        "description": "MENTERI Perhubungan (Menhub) Budi Karya Sumadi membeberkan sejumlah langkah untuk menstabilkan harga tiket pesawat yang sejalan dengan arahan Presiden Joko Widodo pada Rapat Koordinasi Nasional Pengendalian&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515793/perkenalkan-alat-musik-tradisional-ke-pemuda-imu-inodnesia-luncurkan-aplikasi-gim",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NzkzL3BlcmtlbmFsa2FuLWFsYXQtbXVzaWstdHJhZGlzaW9uYWwta2UtcGVtdWRhLWltdS1pbm9kbmVzaWEtbHVuY3Vya2FuLWFwbGlrYXNpLWdpbQ==",
-        "description": "MERAYAKAN hari kemerdekaan Republik Indonesia ke-77, Intelligence and Music (IMU) Indonesia meluncurkan platform gim yang dapat menjadi wadah penggunanya untuk lebih mengenal alat musik tradisional&#8230;"
     }
 ]
