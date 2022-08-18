@@ -1,5 +1,40 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/515624/musim-baru-nba-akan-dibuka-dengan-laga-warriors-vs-lakers-dan-sixers-vs-celtics",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU2MjQvbXVzaW0tYmFydS1uYmEtYWthbi1kaWJ1a2EtZGVuZ2FuLWxhZ2Etd2FycmlvcnMtdnMtbGFrZXJzLWRhbi1zaXhlcnMtdnMtY2VsdGljcw==",
+        "description": "JUARA bertahan NBA Golden State Warriors akan menjamu Los Angeles Lakers, sedangkan Philadelphia 76ers akan bertandang ke markas Boston&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515629/rayakan-hut-ri-bri-resmikan-menara-brilian-berkonsep-green-smart-building",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTYyOS9yYXlha2FuLWh1dC1yaS1icmktcmVzbWlrYW4tbWVuYXJhLWJyaWxpYW4tYmVya29uc2VwLWdyZWVuLXNtYXJ0LWJ1aWxkaW5n",
+        "description": "BERTEPATAN dengan Hari Kemerdekaan ke-77 Republik Indonesia PT Bank Rakyat Indonesia (Persero) Tbk melakukan peresmian gedung baru &ldquo;Menara BRILiaN&rdquo; pada Rabu (17/08). Gedung bernuansa&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/515628/hore-proyek-tol-listrik-di-pulau-flores-sudah-terinterkoneksi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NjI4L2hvcmUtcHJveWVrLXRvbC1saXN0cmlrLWRpLXB1bGF1LWZsb3Jlcy1zdWRhaC10ZXJpbnRlcmtvbmVrc2k=",
+        "description": "PERUSAHAN Listrik Nasional (PLN) akhirnya menyelesaikan proyek tol listrik di wilayah Pulau Flores, NTT. Tol listrik dimaksud adalah jaringan transmisi dan distribusi berupa Saluran Udara Tegangan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/515618/gomez-mengaku-tidak-sabar-dilatih-guardiola",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTYxOC9nb21lei1tZW5nYWt1LXRpZGFrLXNhYmFyLWRpbGF0aWgtZ3VhcmRpb2xh",
+        "description": "BEK sayap Sergio Gomez mengaku tidak sabar bermain di bawah arahan pelatih Pep Guardiola setelah resmi bergabung dengan klub Liga Primer Inggris <a href=\"http://mediaindonesia.com/tag/manchester-city\"&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/515626/omg-langkat-rayakan-hut-ke-77-ri-sembari-sosialisasikan-ganjar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NjI2L29tZy1sYW5na2F0LXJheWFrYW4taHV0LWtlLTc3LXJpLXNlbWJhcmktc29zaWFsaXNhc2lrYW4tZ2FuamFy",
+        "description": "BENDERA Merah Putih berkibar megah di tiang salah satu lapangan di Barak Induk, Desa Harapan Maju, Kecamatan Sei Lepan, Kabupaten Langkat, Sumatera Utara. Di bawahnya, ribuan pemuda, milenial hingga&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/515617/aap-rocky-mengaku-tidak-bersalah-dalam-kasus-senjata-api",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTYxNC9pbmVvcy1zaWFwLWJlbGktbWFuY2hlc3Rlci11bml0ZWQ=",
         "description": "PENGUSAHA Inggris Jim Ratcliffe tertarik untuk membeli Manchester United jika klub Liga Primer Inggris itu dijual. Hal&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/515622/di-hut-ri-ke-77-srikandi-jatim-tancapkan-merah-putih-di-dasar-laut-gili-ketapang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NjIyL2RpLWh1dC1yaS1rZS03Ny1zcmlrYW5kaS1qYXRpbS10YW5jYXBrYW4tbWVyYWgtcHV0aWgtZGktZGFzYXItbGF1dC1naWxpLWtldGFwYW5n",
-        "description": "RELAWAN Srikandi Ganjar Jawa Timur punya cara unik dalam memperingati Hari Kemerdekaan ke-77 Republik Indonesia. Cara ini sekaligus sebagai ajakan mendukung aspirasi 'Ganjar Pranowo Presiden 2024'&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/515621/hut-ke-77-ri-media-djaya-bersama-group-komit-bangkit-lebih-kuat-dari-aceh-untuk-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTYyMS9odXQta2UtNzctcmktbWVkaWEtZGpheWEtYmVyc2FtYS1ncm91cC1rb21pdC1iYW5na2l0LWxlYmloLWt1YXQtZGFyaS1hY2VoLXVudHVrLWluZG9uZXNpYQ==",
-        "description": "SEBAGAI pemegang hak pertambangan eksklusif operasi produksi PT Mifa Bersaudara (MIFA) dan PT Bara Energi Lestari (BEL), Media Djaya Bersama (MDB) Group komit untuk bangkit lebih kuat melalui semangat&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/515620/as-terbuka-bagikan-wild-cards-thiem-venus-williams-dan-kenin-dapat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU2MjAvYXMtdGVyYnVrYS1iYWdpa2FuLXdpbGQtY2FyZHMtdGhpZW0tdmVudXMtd2lsbGlhbXMtZGFuLWtlbmluLWRhcGF0",
-        "description": "JUARA Amerika Serikat (AS) Terbuka 2020 Dominic Thiem serta dua juara Grand Slam putri, Venus Williams dan Sofia Kenin, menjadi&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515588/ingin-tembus-pasar-global",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NTg4L2luZ2luLXRlbWJ1cy1wYXNhci1nbG9iYWw=",
-        "description": "SALAH satu yang menjadi harapan dengan hadirnya Kraf Studio bagi Dian Kurnia Arismawan ialah bisa memberikan pilihan bagi para orangtua yang ingin memiliki waktu bermain bersama sang anak. Kraf&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/515619/lebron-james-perpanjang-kontrak-dua-tahun-dengan-lakers",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU2MTkvbGVicm9uLWphbWVzLXBlcnBhbmphbmcta29udHJhay1kdWEtdGFodW4tZGVuZ2FuLWxha2Vycw==",
-        "description": "LeBron James menyetujui persyaratan perpanjangan kontrak dua tahun bersama Los Angeles Lakers senilai US$97,1 juta (Rp1,4 triliun). Kesepakatan itu, menurut ESPN dan The Athletic, sudah termasuk&#8230;"
     }
 ]
