@@ -1,5 +1,19 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/515586/mengemas-kardus-bekas-jadi-berkelas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NTg2L21lbmdlbWFzLWthcmR1cy1iZWthcy1qYWRpLWJlcmtlbGFz",
+        "description": "DI sebuah meja yang beralas papan hijau bergaris, tangan Dian Kurnia Arismawan terampil menggunting sebuah pola di atas kardus bekas. Tangannya menggunting kardus mengikuti pola yang tergambar di kertas&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/515613/everton-incar-penyerang-blackburn-brereton-diaz",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTYxMy9ldmVydG9uLWluY2FyLXBlbnllcmFuZy1ibGFja2J1cm4tYnJlcmV0b24tZGlheg==",
+        "description": "KLUB Liga Primer Inggris Everton dikabarkan telah menambahkan nama penyerang Blackburn Rovers Brereton Diaz ke dalam daftar target&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/515612/film-24-jam-bersama-gaspar-masuk-seleksi-asian-project-market-2022",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU2MDQvcXVpbnRhbmEtZGlkaXNrdWFsaWZpa2FzaS1kYXJpLXRvdXItZGUtZnJhbmNlLWthcmVuYS10cmFtYWRvbA==",
         "description": "PEMBALAP sepeda Kolombia dari tim Arkea-Samsic, Nairo Quintana, didiskualifikasi dari Tour de France tahun ini setelah terbukti&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/515608/kyrgios-disingkirkan-fritz-di-cincinnati-masters",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU2MDgva3lyZ2lvcy1kaXNpbmdraXJrYW4tZnJpdHotZGktY2luY2lubmF0aS1tYXN0ZXJz",
-        "description": "NICK Kyrgios gagal menampilkan permainan terbaik saat kalah 6-3 dan 6-2 dari petenis Amerika Serikat (AS) Taylor Fritz di laga Cincinnati&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/515555/merdeka-sejak-dari-pangan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTU1NTUvbWVyZGVrYS1zZWphay1kYXJpLXBhbmdhbg==",
-        "description": "ANCAMAN krisis pangan kembali menjadi perhatian Presiden Joko Widodo. Terbaru ketika kunjungan kerja di Boyolali, Jawa Tengah, Kamis (11/8), Presiden Jokowi mengutarakan bahwa ada 300 juta lebih orang&#8230;"
     }
 ]
