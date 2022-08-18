@@ -1,5 +1,19 @@
 [
     {
+        "title": "Hitungan Ekonom: Harga Pertalite Naik Rp10 Ribu, Inflasi 6,5 Persen",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220818065440-85-835860/hitungan-ekonom-harga-pertalite-naik-rp10-ribu-inflasi-65-persen",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE4MDY1NDQwLTg1LTgzNTg2MC9oaXR1bmdhbi1la29ub20taGFyZ2EtcGVydGFsaXRlLW5haWstcnAxMC1yaWJ1LWluZmxhc2ktNjUtcGVyc2Vu",
+        "description": " Ekonom menghitung bila harga Pertalite naik Rp10 ribu, maka inflasi bisa melaju ke level 6,5 persen."
+    },
+    {
+        "title": "Inflasi Inggris Tertinggi dalam 40 Tahun ke Level 10,1 Persen",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220818062623-532-835845/inflasi-inggris-tertinggi-dalam-40-tahun-ke-level-101-persen",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE4MDYyNjIzLTUzMi04MzU4NDUvaW5mbGFzaS1pbmdncmlzLXRlcnRpbmdnaS1kYWxhbS00MC10YWh1bi1rZS1sZXZlbC0xMDEtcGVyc2Vu",
+        "description": " Inflasi Inggris tertinggi dalam 40 tahun dengan realisasi 10,1 persen pada Juli 2022."
+    },
+    {
         "title": "Musim Rilis Lapkeu Emiten Bakal Dorong Laju IHSG",
         "link": "https://www.cnnindonesia.com/ekonomi/20220818060551-92-835842/musim-rilis-lapkeu-emiten-bakal-dorong-laju-ihsg",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE3MTk1NDA4LTc4LTgzNTgwMC9ndWJlcm51ci1iYW5rLXNlbnRyYWwtbWVzaXItbXVuZHVyLWRpLXRlbmdhaC1rcmlzaXM=",
         "description": " Gubernur Bank Sentral Mesir Tareq Amer mengundurkan diri pada Rabu (17/8) di tengah krisis ekonomi yang melanda negaranya."
-    },
-    {
-        "title": "Produsen Mi Instan Thailand Minta Izin Kerek Harga, Pertama Sejak 2008",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220817184535-92-835785/produsen-mi-instan-thailand-minta-izin-kerek-harga-pertama-sejak-2008",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE3MTg0NTM1LTkyLTgzNTc4NS9wcm9kdXNlbi1taS1pbnN0YW4tdGhhaWxhbmQtbWludGEtaXppbi1rZXJlay1oYXJnYS1wZXJ0YW1hLXNlamFrLTIwMDg=",
-        "description": " Lima produsen utama mi instan di Thailand mendesak pemerintah untuk mengizinkan kenaikan harga dalam sepekan karena lonjakan harga gandum."
-    },
-    {
-        "title": "Inflasi Inggris Tembus 10,1 Persen, Rekor Tertinggi 40 Tahun",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220817173407-532-835774/inflasi-inggris-tembus-101-persen-rekor-tertinggi-40-tahun",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE3MTczNDA3LTUzMi04MzU3NzQvaW5mbGFzaS1pbmdncmlzLXRlbWJ1cy0xMDEtcGVyc2VuLXJla29yLXRlcnRpbmdnaS00MC10YWh1bg==",
-        "description": " Inflasi di Inggris menembus 10,1 persen pada Juli 2022 karena lonjakan harga pangan mulai dari roti, keju, hingga telur."
     }
 ]

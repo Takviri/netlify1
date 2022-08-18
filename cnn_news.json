@@ -1,5 +1,19 @@
 [
     {
+        "title": "INFOGRAFIS: Jumlah Partai Daftar Pemilu Sejak 2009",
+        "link": "https://www.cnnindonesia.com/nasional/20220816123013-35-835223/infografis-jumlah-partai-daftar-pemilu-sejak-2009",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNjEyMzAxMy0zNS04MzUyMjMvaW5mb2dyYWZpcy1qdW1sYWgtcGFydGFpLWRhZnRhci1wZW1pbHUtc2VqYWstMjAwOQ==",
+        "description": " Jumlah partai yang mendaftar sebagai calon peserta pemilihan umum cenderung naik turun sejak 2009 lalu. Paling banyak pada tahun 2009."
+    },
+    {
+        "title": "Komnas HAM Respons Keppres Pelanggaran HAM Berat Nonyudisial Jokowi",
+        "link": "https://www.cnnindonesia.com/nasional/20220817203114-12-835805/komnas-ham-respons-keppres-pelanggaran-ham-berat-nonyudisial-jokowi",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNzIwMzExNC0xMi04MzU4MDUva29tbmFzLWhhbS1yZXNwb25zLWtlcHByZXMtcGVsYW5nZ2FyYW4taGFtLWJlcmF0LW5vbnl1ZGlzaWFsLWpva293aQ==",
+        "description": " Komnas HAM\u00c2\u00a0angkat\u00c2\u00a0suara soal Keppres Pembentukan Tim Penyelesaian Non-Yudisial Pelanggaran HAM Masa Lalu yang baru diteken Presiden Joko Widodo (Jokowi)."
+    },
+    {
         "title": "Ibu di Tasik yang Meninggal Saat Balap Karung Idap Penyakit Hipertensi",
         "link": "https://www.cnnindonesia.com/nasional/20220818043823-20-835839/ibu-di-tasik-yang-meninggal-saat-balap-karung-idap-penyakit-hipertensi",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNzE3MTY0OS0xMi04MzU3NzUvMTAtbmFwaS1rb3J1cHNpLWRhbi0xLW5hcGl0ZXItZGktbGFwYXMtbWFrYXNzYXItZGFwYXQtcmVtaXNpLWh1dC1yaQ==",
         "description": " Kalapas Makassar mengatakan\u00c2\u00a0pada acara pemberian remisi HUT Proklamasi tahun ini ada delapan\u00c2\u00a0napi yang\u00c2\u00a0langsung bebas."
-    },
-    {
-        "title": "Ahok Singgung Partai Nasionalis Tak Amalkan Pancasila",
-        "link": "https://www.cnnindonesia.com/nasional/20220817220632-32-835817/ahok-singgung-partai-nasionalis-tak-amalkan-pancasila",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNzIyMDYzMi0zMi04MzU4MTcvYWhvay1zaW5nZ3VuZy1wYXJ0YWktbmFzaW9uYWxpcy10YWstYW1hbGthbi1wYW5jYXNpbGE=",
-        "description": " Basuki Tjahaja Purnama alias Ahok menyinggung bahwa masih banyak partai politik nasionalis di Indonesia yang tak bisa mengamalkan nilai-nilai dari Pancasila."
-    },
-    {
-        "title": "Pintu Air Pasar Ikan Siaga 2, Pluit hingga Cilincing Waspada Banjir",
-        "link": "https://www.cnnindonesia.com/nasional/20220817213217-20-835813/pintu-air-pasar-ikan-siaga-2-pluit-hingga-cilincing-waspada-banjir",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxNzIxMzIxNy0yMC04MzU4MTMvcGludHUtYWlyLXBhc2FyLWlrYW4tc2lhZ2EtMi1wbHVpdC1oaW5nZ2EtY2lsaW5jaW5nLXdhc3BhZGEtYmFuamly",
-        "description": " Pos pantau Pintu Air Pasar Ikan Jakarta Utara saat ini berada di status siaga 2 atau siaga."
     }
 ]

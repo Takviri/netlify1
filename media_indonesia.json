@@ -1,5 +1,26 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/515612/film-24-jam-bersama-gaspar-masuk-seleksi-asian-project-market-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTYxMi9maWxtLTI0LWphbS1iZXJzYW1hLWdhc3Bhci1tYXN1ay1zZWxla3NpLWFzaWFuLXByb2plY3QtbWFya2V0LTIwMjI=",
+        "description": "FILM 24 Jam Bersama Gaspar, yang disutradarai Yosep Anggi Noen terpilih menjadi salah satu proyek film yang terseleksi untuk dipresentasikan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/515611/pasien-cedera-olahraga-sebaiknya-segera-ditangani-secara-agresif",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NjExL3Bhc2llbi1jZWRlcmEtb2xhaHJhZ2Etc2ViYWlrbnlhLXNlZ2VyYS1kaXRhbmdhbmktc2VjYXJhLWFncmVzaWY=",
+        "description": "DOKTER spesialis kedokteran olahraga Antonius Andi Kurniawan menyarankan pasien cedera olahraga segera mendapatkan penanangan agresif&#8230;"
+    },
+    {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/515616/daihatsu-pamerkan-rocky-hybrid-di-giias-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTU2MTYvZGFpaGF0c3UtcGFtZXJrYW4tcm9ja3ktaHlicmlkLWRpLWdpaWFzLTIwMjI=",
+        "description": "DAIHATSU menunjukkan komitmennya dalam tahapannya menuju tren elektrifikasi secara bertahap di Indonesia dengan menampilkan Daihatsu Rocky HEV (Hybrid Electric Vehicle) di booth Daihatsu&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/515610/joshua-bantah-berencana-pensiun",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTU1NTUvbWVyZGVrYS1zZWphay1kYXJpLXBhbmdhbg==",
         "description": "ANCAMAN krisis pangan kembali menjadi perhatian Presiden Joko Widodo. Terbaru ketika kunjungan kerja di Boyolali, Jawa Tengah, Kamis (11/8), Presiden Jokowi mengutarakan bahwa ada 300 juta lebih orang&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/515607/benfica-kalahkan-dynamo-kiev-di-leg-pertama-playoff-liga-champions",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTYwNy9iZW5maWNhLWthbGFoa2FuLWR5bmFtby1raWV2LWRpLWxlZy1wZXJ0YW1hLXBsYXlvZmYtbGlnYS1jaGFtcGlvbnM=",
-        "description": "BENFICA meletakkan satu kaki di babak penyisihan grup Liga Champions setelah menang 2-0 atas Dynamo Kiev di laga leg pertama&#8230;"
-    },
-    {
-        "title": "Opini",
-        "link": "https://m.mediaindonesia.com/opini/515558/dpr-dan-prolegnas-sebuah-upaya-mendedahkan-persoalan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTU1NTgvZHByLWRhbi1wcm9sZWduYXMtc2VidWFoLXVwYXlhLW1lbmRlZGFoa2FuLXBlcnNvYWxhbg==",
-        "description": "SESUNGGUHNYA&nbsp;term&nbsp;&lsquo;percepatan&rsquo; dalam konteks kerja-kerja legislasi di DPR menyisakan sejumlah masalah mendasar. Masalah itu terkait pandangan atau persepsi kebanyakan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/515603/berardi-bertahan-di-sassuolo-hingga-2027",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTYwMy9iZXJhcmRpLWJlcnRhaGFuLWRpLXNhc3N1b2xvLWhpbmdnYS0yMDI3",
-        "description": "DOMENICO Berardi, Rabu (17/8), telah menandatangani kontrak baru dengan Sassuolo yang memastikan gelandang itu bertahan di klub&#8230;"
     }
 ]

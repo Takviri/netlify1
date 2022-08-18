@@ -1,5 +1,19 @@
 [
     {
+        "title": "Bunda, Ada Nih Minyak Goreng Bermerek Gak Sampai Rp13.000!",
+        "link": "https://www.cnbcindonesia.com/news/20220818064248-4-364570/bunda-ada-nih-minyak-goreng-bermerek-gak-sampai-rp13000",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODA2NDI0OC00LTM2NDU3MC9idW5kYS1hZGEtbmloLW1pbnlhay1nb3JlbmctYmVybWVyZWstZ2FrLXNhbXBhaS1ycDEzMDAw",
+        "description": " Harga minyak goreng kini semakin turun dan barangnya pun banyak bahkan membanjiri toko modern dan pasar."
+    },
+    {
+        "title": "Bukan Sri Lanka! Tambah Lagi Negara Terancam Bangkrut: Mesir",
+        "link": "https://www.cnbcindonesia.com/news/20220817194138-4-364527/bukan-sri-lanka-tambah-lagi-negara-terancam-bangkrut-mesir",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzE5NDEzOC00LTM2NDUyNy9idWthbi1zcmktbGFua2EtdGFtYmFoLWxhZ2ktbmVnYXJhLXRlcmFuY2FtLWJhbmdrcnV0LW1lc2ly",
+        "description": " Mesir terancam bangkrut seperti Sri Lanka. Krisis ekonomi tengah terjadi di negara itu."
+    },
+    {
         "title": "Bom Guncang Masjid di Afghanistan, Korban Jiwa Berjatuhan",
         "link": "https://www.cnbcindonesia.com/news/20220818062703-4-364568/bom-guncang-masjid-di-afghanistan-korban-jiwa-berjatuhan",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzE3NDk0MS00LTM2NDUxMS9mYWt0YS1iYXJ1LWVrb25vbWktamVwYW5nLW1lbWJhaWstc2loLXRhcGk=",
         "description": " Impor Jepang melejit. Memperdalam defisit perdagangan."
-    },
-    {
-        "title": "Ada 383 Kripto Dapat Diperdagangkan Sebagai Komoditi",
-        "link": "https://www.cnbcindonesia.com/news/20220817201831-4-364533/ada-383-kripto-dapat-diperdagangkan-sebagai-komoditi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzIwMTgzMS00LTM2NDUzMy9hZGEtMzgzLWtyaXB0by1kYXBhdC1kaXBlcmRhZ2FuZ2thbi1zZWJhZ2FpLWtvbW9kaXRp",
-        "description": " Kemendag memastikan ada 383 jenis aset kripto terdaftar memenuhi syarat dari Bappebti dan dapat diperdagangkan di pasar fisik."
-    },
-    {
-        "title": "Ada yang 'Hilang' di Pidato Kenegaraan Jokowi, Ini Faktanya",
-        "link": "https://www.cnbcindonesia.com/news/20220817200707-4-364530/ada-yang-hilang-di-pidato-kenegaraan-jokowi-ini-faktanya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzIwMDcwNy00LTM2NDUzMC9hZGEteWFuZy1oaWxhbmctZGktcGlkYXRvLWtlbmVnYXJhYW4tam9rb3dpLWluaS1mYWt0YW55YQ==",
-        "description": " Kata apa yang tak disebut oleh Jokowi, padahal biasanya sering disebut?"
     }
 ]

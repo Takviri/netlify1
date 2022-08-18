@@ -1,5 +1,19 @@
 [
     {
+        "title": "IHSG Pepet 7.200, Tapi Waspadai Dampak Wall Street Semalam",
+        "link": "https://www.cnbcindonesia.com/market/20220818002502-17-364558/ihsg-pepet-7200-tapi-waspadai-dampak-wall-street-semalam",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE4MDAyNTAyLTE3LTM2NDU1OC9paHNnLXBlcGV0LTcyMDAtdGFwaS13YXNwYWRhaS1kYW1wYWstd2FsbC1zdHJlZXQtc2VtYWxhbQ==",
+        "description": " Ekonomi Indonesia diharapkan dapat tumbuh 5,3% tahun depan."
+    },
+    {
+        "title": "Melesat Hampir 3%, Harga Batu Bara Dekati Rekor Tertinggi",
+        "link": "https://www.cnbcindonesia.com/market/20220818061725-17-364567/melesat-hampir-3-harga-batu-bara-dekati-rekor-tertinggi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE4MDYxNzI1LTE3LTM2NDU2Ny9tZWxlc2F0LWhhbXBpci0zLWhhcmdhLWJhdHUtYmFyYS1kZWthdGktcmVrb3ItdGVydGluZ2dp",
+        "description": " Harga batu bara melesat 2,72%."
+    },
+    {
         "title": "Wall Street Ambruk, Awas IHSG Terperosok Hari Ini!",
         "link": "https://www.cnbcindonesia.com/market/20220818052718-17-364565/wall-street-ambruk-awas-ihsg-terperosok-hari-ini",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE3MTU1OTAwLTE3LTM2NDQ3OC9zYWhhbS1kaWJvcm9uZy1sby1raGVuZy1ob25nLXNpYXBhLXBlbWlsaWstaW50aWxhbmQ=",
         "description": " Jika menilik sejarahnya, Intiland Development didirikan tanggal 10 Juni 1983."
-    },
-    {
-        "title": "Kenaikan Pertalite Bisa Bikin Rupiah Jeblok, Investor Cemas?",
-        "link": "https://www.cnbcindonesia.com/market/20220817150912-17-364470/kenaikan-pertalite-bisa-bikin-rupiah-jeblok-investor-cemas",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE3MTUwOTEyLTE3LTM2NDQ3MC9rZW5haWthbi1wZXJ0YWxpdGUtYmlzYS1iaWtpbi1ydXBpYWgtamVibG9rLWludmVzdG9yLWNlbWFz",
-        "description": " Nilai tukar rupiah melemah dalam dua hari terakhir melawan dolar Amerika Serikat (AS)"
-    },
-    {
-        "title": "Gokil! Inflasi Inggris Tembus 10%, Tertinggi Dalam 40 Tahun",
-        "link": "https://www.cnbcindonesia.com/market/20220817162431-17-364488/gokil-inflasi-inggris-tembus-10-tertinggi-dalam-40-tahun",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE3MTYyNDMxLTE3LTM2NDQ4OC9nb2tpbC1pbmZsYXNpLWluZ2dyaXMtdGVtYnVzLTEwLXRlcnRpbmdnaS1kYWxhbS00MC10YWh1bg==",
-        "description": " Inflasi Inggris pada Juli 2022 tembus 10,1%, tertinggi dalam 40 tahun terakhir."
     }
 ]
