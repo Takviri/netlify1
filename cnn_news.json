@@ -1,5 +1,19 @@
 [
     {
+        "title": "Positif Covid-19 Bertambah 4.039 Kasus, Kematian 21",
+        "link": "https://www.cnnindonesia.com/nasional/20220818172046-20-836179/positif-covid-19-bertambah-4039-kasus-kematian-21",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxODE3MjA0Ni0yMC04MzYxNzkvcG9zaXRpZi1jb3ZpZC0xOS1iZXJ0YW1iYWgtNDAzOS1rYXN1cy1rZW1hdGlhbi0yMQ==",
+        "description": " Kasus positif Covid-19 bertambah 4.039 dalam 24 jam terakhir. Kematian juga bertambah 21 jiwa."
+    },
+    {
+        "title": "MKD Akan Panggil Mahfud dan IPW soal Dugaan Uang Sambo ke Anggota DPR",
+        "link": "https://www.cnnindonesia.com/nasional/20220818161429-12-836158/mkd-akan-panggil-mahfud-dan-ipw-soal-dugaan-uang-sambo-ke-anggota-dpr",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxODE2MTQyOS0xMi04MzYxNTgvbWtkLWFrYW4tcGFuZ2dpbC1tYWhmdWQtZGFuLWlwdy1zb2FsLWR1Z2Fhbi11YW5nLXNhbWJvLWtlLWFuZ2dvdGEtZHBy",
+        "description": " Pemanggilan itu terkait kasus aliran dana ke DPR RI yang diduga melibatkan mantan Kadiv Propam Polri Irjen Ferdy Sambo."
+    },
+    {
         "title": "Polri Disebut Belum Dapat Info soal Uang Miliaran di Rumah Sambo",
         "link": "https://www.cnnindonesia.com/nasional/20220818164220-12-836166/polri-disebut-belum-dapat-info-soal-uang-miliaran-di-rumah-sambo",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxODE1MTQ1Ny0xMi04MzYxMTEva2V0ZXJhbmdhbi1zYWtzaS1wZXJrdWF0LWRha3dhYW4tcGVuY2FidWxhbi1iZWNoaS1idW5na2FtLXVzYWktc2lkYW5n",
         "description": " Terdakwa kasus pencabulan dan pemerkosaan Moch Subchi Azal Tsani (MSAT) alias Bechi bungkam usai menjalani sidang lanjutan, di Pengadilan Negeri (PN) Surabaya."
-    },
-    {
-        "title": "Kasus Dugaan Paksa Siswi Berjilbab, Kepsek dan 3 Guru Disanksi Ringan",
-        "link": "https://www.cnnindonesia.com/nasional/20220818151811-12-836114/kasus-dugaan-paksa-siswi-berjilbab-kepsek-dan-3-guru-disanksi-ringan",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxODE1MTgxMS0xMi04MzYxMTQva2FzdXMtZHVnYWFuLXBha3NhLXNpc3dpLWJlcmppbGJhYi1rZXBzZWstZGFuLTMtZ3VydS1kaXNhbmtzaS1yaW5nYW4=",
-        "description": " Kepala Sekolah dan tiga guru SMAN 1 Banguntapan Bantul DIY menerima sanksi disiplin\u00c2\u00a0terkait kasus pemaksaan pemakaian jilbab kepada\u00c2\u00a0siswinya."
-    },
-    {
-        "title": "Putra Siregar dan Rico Valentino Divonis 6 Bulan Bui Kasus Penganiayaan",
-        "link": "https://www.cnnindonesia.com/nasional/20220818153330-12-836125/putra-siregar-rico-valentino-divonis-6-bulan-bui-kasus-penganiayaan",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgxODE1MzMzMC0xMi04MzYxMjUvcHV0cmEtc2lyZWdhci1yaWNvLXZhbGVudGluby1kaXZvbmlzLTYtYnVsYW4tYnVpLWthc3VzLXBlbmdhbmlheWFhbg==",
-        "description": " Bos PStore, Putra Siregar, dan Rico Valentino divonis 6 bulan penjara karena dinilai terbukti bersalah melakukan penganiayaan terhadap Muhammad Nur Alamsyah."
     }
 ]

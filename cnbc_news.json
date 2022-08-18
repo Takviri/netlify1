@@ -1,5 +1,40 @@
 [
     {
+        "title": "Update Covid-19 di RI 18 Agustus: Kasus Baru Bertambah 4.039",
+        "link": "https://www.cnbcindonesia.com/news/20220815112304-4-363764/update-covid-19-di-ri-18-agustus-kasus-baru-bertambah-4039",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNTExMjMwNC00LTM2Mzc2NC91cGRhdGUtY292aWQtMTktZGktcmktMTgtYWd1c3R1cy1rYXN1cy1iYXJ1LWJlcnRhbWJhaC00MDM5",
+        "description": " Simak data terbaru Covid-19 hari ini."
+    },
+    {
+        "title": "Jadi Andalan Produksi Migas RI, Ini Tantangan Pertamina..",
+        "link": "https://www.cnbcindonesia.com/news/20220818144148-4-364779/jadi-andalan-produksi-migas-ri-ini-tantangan-pertamina",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE0NDE0OC00LTM2NDc3OS9qYWRpLWFuZGFsYW4tcHJvZHVrc2ktbWlnYXMtcmktaW5pLXRhbnRhbmdhbi1wZXJ0YW1pbmE=",
+        "description": " 60% produksi migas nasional berasal dari PT Pertamina (Persero)"
+    },
+    {
+        "title": "Simak Lokasi Penukaran Uang Baru, Batas Maksimal Rp1 Juta",
+        "link": "https://www.cnbcindonesia.com/news/20220818165931-4-364838/simak-lokasi-penukaran-uang-baru-batas-maksimal-rp1-juta",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE2NTkzMS00LTM2NDgzOC9zaW1hay1sb2thc2ktcGVudWthcmFuLXVhbmctYmFydS1iYXRhcy1tYWtzaW1hbC1ycDEtanV0YQ==",
+        "description": " Berikut lokasi penukaran, jadwal, dan batas maksimal penukaran uang bagi Anda yang ingin menukar uang baru"
+    },
+    {
+        "title": "Bocoran Hangat! Siap-siap Cukai Rokok Bisa Naik Lagi",
+        "link": "https://www.cnbcindonesia.com/news/20220818143730-4-364777/bocoran-hangat-siap-siap-cukai-rokok-bisa-naik-lagi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE0MzczMC00LTM2NDc3Ny9ib2NvcmFuLWhhbmdhdC1zaWFwLXNpYXAtY3VrYWktcm9rb2stYmlzYS1uYWlrLWxhZ2k=",
+        "description": " Pemerintah menetapkan target penerimaan cukai sebesar Rp 245,4 triliun pada rancangan anggaran pendapatan dan belanja (RAPBN) tahun 2023."
+    },
+    {
+        "title": "Zelensky Ungkap Ketakutan Terbesar Putin, Apa Itu?",
+        "link": "https://www.cnbcindonesia.com/news/20220818144345-4-364781/zelensky-ungkap-ketakutan-terbesar-putin-apa-itu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE0NDM0NS00LTM2NDc4MS96ZWxlbnNreS11bmdrYXAta2V0YWt1dGFuLXRlcmJlc2FyLXB1dGluLWFwYS1pdHU=",
+        "description": " Presiden Ukraina Volodymyr Zelensky menguak ketakutan besar yang dihadapi oleh Presiden Rusia Vladimir Putin."
+    },
+    {
         "title": "Keren! Pasar-Pasar Becek Dilayani Belanja Via Ojek Online",
         "link": "https://www.cnbcindonesia.com/news/20220818135617-7-364759/keren-pasar-pasar-becek-dilayani-belanja-via-ojek-online",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE2MzMzOS00LTM2NDgxNi9iZW5hcmthaC1iaS1tYXUtbGVueWFwa2FuLWtvaW4tc2VjZW5nYW4taW5pLWZha3Rhbnlh",
         "description": " Simak penjelasan lengkap Bank Indonesia terkait hal tersebut"
-    },
-    {
-        "title": "Disentil Jokowi, Segini Harga Tiket Pesawat JKT-Bali Sekarang",
-        "link": "https://www.cnbcindonesia.com/news/20220818151644-4-364790/disentil-jokowi-segini-harga-tiket-pesawat-jkt-bali-sekarang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE1MTY0NC00LTM2NDc5MC9kaXNlbnRpbC1qb2tvd2ktc2VnaW5pLWhhcmdhLXRpa2V0LXBlc2F3YXQtamt0LWJhbGktc2VrYXJhbmc=",
-        "description": " Presiden Joko Widodo (Jokowi) ikut menyoroti lonjakan harga tiket pesawat menyusul terbatasnya armada yang sudah berlangsung sejak beberapa bulan lalu."
-    },
-    {
-        "title": "Begini Nasib Uang Rupiah Lama yang Sebentar Lagi Ditinggalkan",
-        "link": "https://www.cnbcindonesia.com/news/20220818160334-4-364809/begini-nasib-uang-rupiah-lama-yang-sebentar-lagi-ditinggalkan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE2MDMzNC00LTM2NDgwOS9iZWdpbmktbmFzaWItdWFuZy1ydXBpYWgtbGFtYS15YW5nLXNlYmVudGFyLWxhZ2ktZGl0aW5nZ2Fsa2Fu",
-        "description": " BI telah mengeluarkan tujuh uang kertas baru dalam rangka memperingati Hari Ulang Tahun Kemerdekaan Indonesia ke-77"
-    },
-    {
-        "title": "Nah Ini! Daftar Proyek Megah Jokowi 2023, Jumlahnya Rp392 T",
-        "link": "https://www.cnbcindonesia.com/news/20220818135534-4-364752/nah-ini-daftar-proyek-megah-jokowi-2023-jumlahnya-rp392-t",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODEzNTUzNC00LTM2NDc1Mi9uYWgtaW5pLWRhZnRhci1wcm95ZWstbWVnYWgtam9rb3dpLTIwMjMtanVtbGFobnlhLXJwMzkyLXQ=",
-        "description": " Pemerintah telah menganggarkan biaya pembangunan infrastruktur tahun depan sebesar Rp392 triliun."
-    },
-    {
-        "title": "Kasus Covid-19 di RI Jadi Sorotan WHO, Ada Peringatan Baru",
-        "link": "https://www.cnbcindonesia.com/news/20220818161351-4-364813/kasus-covid-19-di-ri-jadi-sorotan-who-ada-peringatan-baru",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE2MTM1MS00LTM2NDgxMy9rYXN1cy1jb3ZpZC0xOS1kaS1yaS1qYWRpLXNvcm90YW4td2hvLWFkYS1wZXJpbmdhdGFuLWJhcnU=",
-        "description": " Kasus Covid-19 di Indonesia kembali mendapat sorotan dari Organisasi Kesehatan Dunia (WHO)."
-    },
-    {
-        "title": "Pengangguran Australia Turun, Bunga Acuan Naik Lagi Dong?",
-        "link": "https://www.cnbcindonesia.com/news/20220818134351-4-364749/pengangguran-australia-turun-bunga-acuan-naik-lagi-dong",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODEzNDM1MS00LTM2NDc0OS9wZW5nYW5nZ3VyYW4tYXVzdHJhbGlhLXR1cnVuLWJ1bmdhLWFjdWFuLW5haWstbGFnaS1kb25n",
-        "description": " Tingkat pengangguran Australia untuk Juli 2022 dilaporkan turun ke level terendah\u00c2\u00a0dalam 48 tahun terakhir."
     }
 ]
