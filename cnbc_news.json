@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pemilu Khidmat, IHSG Melesat?",
+        "link": "https://www.cnbcindonesia.com/news/20220818195705-8-364881/pemilu-khidmat-ihsg-melesat",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE5NTcwNS04LTM2NDg4MS9wZW1pbHUta2hpZG1hdC1paHNnLW1lbGVzYXQ=",
+        "description": " Sejumlah partai kini telah mendaftarkan dirinya untuk mengikuti pemilu."
+    },
+    {
+        "title": "Perang Ukraina Bubar Dulu, \"Resesi Seks\" Kini Serang Rusia",
+        "link": "https://www.cnbcindonesia.com/news/20220818193159-4-364878/perang-ukraina-bubar-dulu-resesi-seks-kini-serang-rusia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE5MzE1OS00LTM2NDg3OC9wZXJhbmctdWtyYWluYS1idWJhci1kdWx1LXJlc2VzaS1zZWtzLWtpbmktc2VyYW5nLXJ1c2lh",
+        "description": " Krisis populasi, salah satunya disebabkan \"resesi seks\" sepertinya tak hanya terjadi di China. Ini juga melanda Rusia."
+    },
+    {
         "title": "Bukan Ukraina! Negara Ini Laporkan Diserang Rusia",
         "link": "https://www.cnbcindonesia.com/news/20220818185435-4-364875/bukan-ukraina-negara-ini-laporkan-diserang-rusia",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE4MTYzMS00LTM2NDg1NS9tYW50YW4td2FtZW4tZXNkbS1iaWNhcmEtcGVyYW4tZ2FzLWRhbGFtLXRyYW5zaXNpLWVuZXJnaQ==",
         "description": " Potensi gas di Indonesia berlimpah dan mampu digunakan dalam transisi energi"
-    },
-    {
-        "title": "Jokowi Turun Tangan, Siapkan Cara Harga Tiket Pesawat Turun",
-        "link": "https://www.cnbcindonesia.com/news/20220818180310-4-364849/jokowi-turun-tangan-siapkan-cara-harga-tiket-pesawat-turun",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE4MDMxMC00LTM2NDg0OS9qb2tvd2ktdHVydW4tdGFuZ2FuLXNpYXBrYW4tY2FyYS1oYXJnYS10aWtldC1wZXNhd2F0LXR1cnVu",
-        "description": " Menteri Perhubungan Budi Karya Sumadi membeberkan sejumlah langkah untuk menstabilkan harga tiket pesawat."
-    },
-    {
-        "title": "Kasus Covid-19 di RI Bertambah 4.039, Total Tembus 6,3 Juta",
-        "link": "https://www.cnbcindonesia.com/news/20220818174059-16-364844/kasus-covid-19-di-ri-bertambah-4039-total-tembus-63-juta",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE3NDA1OS0xNi0zNjQ4NDQva2FzdXMtY292aWQtMTktZGktcmktYmVydGFtYmFoLTQwMzktdG90YWwtdGVtYnVzLTYzLWp1dGE=",
-        "description": " Total kasus mencapai 6.301.523."
     }
 ]
