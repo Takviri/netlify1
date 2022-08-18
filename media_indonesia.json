@@ -1,5 +1,33 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515657/pasar-properti-tangerang-menarik-lpkr-lakukan-diversifikasi-produk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTY1Ny9wYXNhci1wcm9wZXJ0aS10YW5nZXJhbmctbWVuYXJpay1scGtyLWxha3VrYW4tZGl2ZXJzaWZpa2FzaS1wcm9kdWs=",
+        "description": "Berdasarkan data Rumah.com Indonesia Property Market Index (RIPMI), indeks harga rumah dalam 3 tahun terakhir meningkat 10% dengan kenaikan harga lebih besar terjadi di area Jabodetabek, salah satunya&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515656/ditangkap-lagi-eks-walkot-cimahi-terseret-kasus-yang-melibatkan-mantan-penyidik-kpk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU2NTYvZGl0YW5na2FwLWxhZ2ktZWtzLXdhbGtvdC1jaW1haGktdGVyc2VyZXQta2FzdXMteWFuZy1tZWxpYmF0a2FuLW1hbnRhbi1wZW55aWRpay1rcGs=",
+        "description": "KOMISI Pemberantasan Korupsi (KPK) membuka penyidikan baru kasus dugaan penerimaan gratifikasi yang menjerat mantan Wali Kota (Walkot) Cimahi Ajay M&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/515655/quartararo-dituntut-tampil-sempurna-di-austria",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU2NTUvcXVhcnRhcmFyby1kaXR1bnR1dC10YW1waWwtc2VtcHVybmEtZGktYXVzdHJpYQ==",
+        "description": "PEMBALAP Yamaha Fabio Quartararo harus tampil sempurna di GP Austria, akhir pekan ini, guna menjaga posisinya sebagai pemuncak klasemen sementara MotoGP&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/515654/relief-indonesia-festival-2022-usung-tema-harmoni-indonesiaku",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NjU0L3JlbGllZi1pbmRvbmVzaWEtZmVzdGl2YWwtMjAyMi11c3VuZy10ZW1hLWhhcm1vbmktaW5kb25lc2lha3U=",
+        "description": "RELIEF Indonesia Gemilang kembali menggelar Relief Indonesia Festival (RIF) 2022 pada 16 - 21 Agustus 2022 di Gandaria Ciy, Jakarta Selatan. Event ini merupakan agenda yang selalu digelar di&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/515653/napoli-hanya-bersedia-bayar-25-persen-gaji-navas",
         "image": "static/images/media_indonesia.png",
@@ -40,33 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNTY0Ny9sZWRha2FuLWJvbS1tZW55YXNhci1tYXNqaWQtZGkta2FidWwtMjBvcmFuZy10ZXdhcw==",
         "description": "SEBANYAK 20 orang tewas usai menjadi korban serangan bom terhadap sebuah masjid di Kabul, Afghanistan. Taliban mengecam aksi keji tersebut yang disinyalir dilakukan kelompok oposisi. &quot;Sebanyak&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/515646/bersiaplah-otomatisasi-dan-industri-hijau-memunculkan-jenis-pekerjaan-baru",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTY0Ni9iZXJzaWFwbGFoLW90b21hdGlzYXNpLWRhbi1pbmR1c3RyaS1oaWphdS1tZW11bmN1bGthbi1qZW5pcy1wZWtlcmphYW4tYmFydQ==",
-        "description": "KETUA Umum Kamar Dagang dan Industri (Kadin) Indonesia, Arsjad Rasjid mengatakan, dari studi terbaru McKinsey, 30 persen pekerja global akan tergantikan oleh otomatisasi pada tahun 2030. Selain itu,&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/515644/milenial-garut-rayakan-hut-ke-77-ri-gemakan-inspirasi-ganjar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NjQ0L21pbGVuaWFsLWdhcnV0LXJheWFrYW4taHV0LWtlLTc3LXJpLWdlbWFrYW4taW5zcGlyYXNpLWdhbmphcg==",
-        "description": "SEBANYAK 52 tenda usaha mikro, kecil dan menengah (UMKM) turut meramaikan Konser Milenial Memperingati HUT ke-77 RI yang diadakan di Wisata Kuliner Kerkof, Jalan Merdeka, Kecamatan Tarogong Kidul,&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515643/267-ribu-tenagakesehatan-telah-disuntik-vaksin-covid-19-keempat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NjQzLzI2Ny1yaWJ1LXRlbmFnYWtlc2VoYXRhbi10ZWxhaC1kaXN1bnRpay12YWtzaW4tY292aWQtMTkta2VlbXBhdA==",
-        "description": "BERDASARKAN data dari Kementerian Kesehatan, hingga Kamis (18/8), sebanyak 267.816 tenaga kesehatan telah mendapatkan vaksinasi covid-19 dosis keempat. Sementara itu, tenaga&nbsp;kesehatan yang&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/515642/everton-tolak-tawaran-chelsea-untuk-gordon",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTY0Mi9ldmVydG9uLXRvbGFrLXRhd2FyYW4tY2hlbHNlYS11bnR1ay1nb3Jkb24=",
-        "description": "KLUB Liga Primer Inggris Everton telah menolak tawaran sebesar 45 juta pound sterling atau sekitar Rp800 miliar dari Chelsea untuk&#8230;"
     }
 ]
