@@ -1,5 +1,33 @@
 [
     {
+        "title": "Kasus Covid-19 di RI Bertambah 4.039, Total Tembus 6,3 Juta",
+        "link": "https://www.cnbcindonesia.com/news/20220818174059-16-364844/kasus-covid-19-di-ri-bertambah-4039-total-tembus-63-juta",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE3NDA1OS0xNi0zNjQ4NDQva2FzdXMtY292aWQtMTktZGktcmktYmVydGFtYmFoLTQwMzktdG90YWwtdGVtYnVzLTYzLWp1dGE=",
+        "description": " Total kasus mencapai 6.301.523."
+    },
+    {
+        "title": "Jasa Raharja Jamin Seluruh Korban Kecelakaan di Cianjur",
+        "link": "https://www.cnbcindonesia.com/news/20220818185252-4-364876/jasa-raharja-jamin-seluruh-korban-kecelakaan-di-cianjur",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE4NTI1Mi00LTM2NDg3Ni9qYXNhLXJhaGFyamEtamFtaW4tc2VsdXJ1aC1rb3JiYW4ta2VjZWxha2Fhbi1kaS1jaWFuanVy",
+        "description": " Jasa Raharja telah mendata dan melengkapi berkas ahli waris penerima santunannya terhadap korban meninggal dunia maupun luka-luka."
+    },
+    {
+        "title": "Gak Bisa Move On, Eropa Balik Lagi ke Fosil",
+        "link": "https://www.cnbcindonesia.com/news/20220818174824-4-364845/gak-bisa-move-on-eropa-balik-lagi-ke-fosil",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE3NDgyNC00LTM2NDg0NS9nYWstYmlzYS1tb3ZlLW9uLWVyb3BhLWJhbGlrLWxhZ2kta2UtZm9zaWw=",
+        "description": " Banyak negara Eropa yang mengalami krisis energi kembali ke energi fosil"
+    },
+    {
+        "title": "Putin Tiba-tiba Telepon Jokowi, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220818183646-4-364872/putin-tiba-tiba-telepon-jokowi-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE4MzY0Ni00LTM2NDg3Mi9wdXRpbi10aWJhLXRpYmEtdGVsZXBvbi1qb2tvd2ktYWRhLWFwYQ==",
+        "description": " Presiden Rusia Vladimir Putin tiba-tiba menelepon Presiden RI Joko Widodo (Jokowi). Ini dilakukan Kamis (18/8/2022)."
+    },
+    {
         "title": "Hot! Ini Penampakan Pesta Liar PM Cantik Finlandia yang Viral",
         "link": "https://www.cnbcindonesia.com/news/20220818170525-4-364841/hot-ini-penampakan-pesta-liar-pm-cantik-finlandia-yang-viral",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE2Mzk0NC00LTM2NDgyMy9sYXdhbi1iZXJhdC1wZW5naGFuY3VyLWF2YW56YS1tb2JpbC1pbmktZGktYmF3YWgtcnAtMjAwLWp1dGE=",
         "description": " Suzuki membuat kejutan di ajang GIIAS 2022 ini dengan meluncurkan mobil mungil S-Presso."
-    },
-    {
-        "title": "Jasa Raharja Serahkan Santunan Korban Kecelakaan di Cianjur",
-        "link": "https://www.cnbcindonesia.com/news/20220818180850-4-364851/jasa-raharja-serahkan-santunan-korban-kecelakaan-di-cianjur",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE4MDg1MC00LTM2NDg1MS9qYXNhLXJhaGFyamEtc2VyYWhrYW4tc2FudHVuYW4ta29yYmFuLWtlY2VsYWthYW4tZGktY2lhbmp1cg==",
-        "description": " Jasa Raharja pastikan santunan meninggal dunia akibat kecelakaan dapat diterima oleh ahli waris melalui proses transfer atau overbooking."
-    },
-    {
-        "title": "RI Temukan Harta Karun Baru di Papua, Lokasinya di Sini",
-        "link": "https://www.cnbcindonesia.com/news/20220818154509-4-364804/ri-temukan-harta-karun-baru-di-papua-lokasinya-di-sini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE1NDUwOS00LTM2NDgwNC9yaS10ZW11a2FuLWhhcnRhLWthcnVuLWJhcnUtZGktcGFwdWEtbG9rYXNpbnlhLWRpLXNpbmk=",
-        "description": " PHE\u00c2\u00a0Regional 4 yang melakukan kegiatan pengeboran sumur eksplorasi Markisa (MKS)-001 di Wilayah Kerja (WK) Pertamina EP, Field Papua, Papua Barat"
-    },
-    {
-        "title": "Sri Mulyani Sebut RI Bisa Melesat, Kalau Warganya Bayar Pajak",
-        "link": "https://www.cnbcindonesia.com/news/20220818161529-4-364814/sri-mulyani-sebut-ri-bisa-melesat-kalau-warganya-bayar-pajak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE2MTUyOS00LTM2NDgxNC9zcmktbXVseWFuaS1zZWJ1dC1yaS1iaXNhLW1lbGVzYXQta2FsYXUtd2FyZ2FueWEtYmF5YXItcGFqYWs=",
-        "description": " Sri Mulyani kembali mengingatkan generasi muda bahwa pajak yang dipungut oleh negara adalah tulang punggung atau fondasi yang penting bagi ekonomi."
-    },
-    {
-        "title": "Lifting Migas Masih Anjlok, Target 1 Juta Barel Semu?",
-        "link": "https://www.cnbcindonesia.com/news/20220818151050-4-364793/lifting-migas-masih-anjlok-target-1-juta-barel-semu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE1MTA1MC00LTM2NDc5My9saWZ0aW5nLW1pZ2FzLW1hc2loLWFuamxvay10YXJnZXQtMS1qdXRhLWJhcmVsLXNlbXU=",
-        "description": " Komisi VII DPR pesimis target 1 juta barel bisa tercapai di 2030"
     }
 ]
