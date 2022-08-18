@@ -1,5 +1,40 @@
 [
     {
+        "title": "Ditutup Naik 5,93%, Ini Target Terdekat Saham BUMI",
+        "link": "https://www.cnbcindonesia.com/market/20220818151753-17-364802/ditutup-naik-593-ini-target-terdekat-saham-bumi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE4MTUxNzUzLTE3LTM2NDgwMi9kaXR1dHVwLW5haWstNTkzLWluaS10YXJnZXQtdGVyZGVrYXQtc2FoYW0tYnVtaQ==",
+        "description": " Penguatan saham BUMI sendiri pada hari ini terdorong oleh lonjakan harga batu bara dunia yang tembus di atas US$ 400/ton."
+    },
+    {
+        "title": "Erick Buka-bukaan Tujuan Rights Issue Garuda Cs",
+        "link": "https://www.cnbcindonesia.com/market/20220818153740-17-364798/erick-buka-bukaan-tujuan-rights-issue-garuda-cs",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE4MTUzNzQwLTE3LTM2NDc5OC9lcmljay1idWthLWJ1a2Fhbi10dWp1YW4tcmlnaHRzLWlzc3VlLWdhcnVkYS1jcw==",
+        "description": " Erick menyebut aksi korporasi kelima BUMN tersebut bertujuan untuk menjaga permodalan."
+    },
+    {
+        "title": "The Fed Masih Bakal Dongkrak Bunga Acuan, Harga Nikel Layu",
+        "link": "https://www.cnbcindonesia.com/market/20220818153752-17-364797/the-fed-masih-bakal-dongkrak-bunga-acuan-harga-nikel-layu",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE4MTUzNzUyLTE3LTM2NDc5Ny90aGUtZmVkLW1hc2loLWJha2FsLWRvbmdrcmFrLWJ1bmdhLWFjdWFuLWhhcmdhLW5pa2VsLWxheXU=",
+        "description": " Harga nikel dunia merosor setelah rilis\u00c2\u00a0notula rapat FOMC."
+    },
+    {
+        "title": "Emas Masih Galau, Harga Naik Tipis-tipis",
+        "link": "https://www.cnbcindonesia.com/market/20220818153312-17-364796/emas-masih-galau-harga-naik-tipis-tipis",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE4MTUzMzEyLTE3LTM2NDc5Ni9lbWFzLW1hc2loLWdhbGF1LWhhcmdhLW5haWstdGlwaXMtdGlwaXM=",
+        "description": " Harga emas menguat tipis 0,05%."
+    },
+    {
+        "title": "Terbang Tinggi Pasca Libur Kemerdekaan, IHSG Pepet 7.200 Nih",
+        "link": "https://www.cnbcindonesia.com/market/20220818151535-17-364792/terbang-tinggi-pasca-libur-kemerdekaan-ihsg-pepet-7200-nih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE4MTUxNTM1LTE3LTM2NDc5Mi90ZXJiYW5nLXRpbmdnaS1wYXNjYS1saWJ1ci1rZW1lcmRla2Fhbi1paHNnLXBlcGV0LTcyMDAtbmlo",
+        "description": " IHSG ditutup menghijau hari ini"
+    },
+    {
         "title": "Besok, Giliran KPK Periksa Surya Darmadi!",
         "link": "https://www.cnbcindonesia.com/market/20220818145519-17-364787/besok-giliran-kpk-periksa-surya-darmadi",
         "image": "static/images/cnbc_market.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE4MTQzMzQ1LTE4LTM2NDc2OC9zdXJ5YS1kYXJtYWRpLWRpLWt1cnNpLXJvZGEtZGliYXdhLWFtYnVsYW5zLWtlLXJzdS1hZGh5YWtzYQ==",
         "description": " Pemeriksaan terhadap Surya Darmadi dihentikan sementara karena kondisi kesehatan yang tidak memungkinkan."
-    },
-    {
-        "title": "Rupiah Jeblok 3 Hari Beruntun, Dua Hal Ini Biang Keroknya!",
-        "link": "https://www.cnbcindonesia.com/market/20220818150208-17-364789/rupiah-jeblok-3-hari-beruntun-dua-hal-ini-biang-keroknya",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE4MTUwMjA4LTE3LTM2NDc4OS9ydXBpYWgtamVibG9rLTMtaGFyaS1iZXJ1bnR1bi1kdWEtaGFsLWluaS1iaWFuZy1rZXJva255YQ==",
-        "description": " Rupiah kembali melemah melawan dolar Amerika Serikat (AS) pada perdagangan Kamis (18/8/2022)"
-    },
-    {
-        "title": "Modal Kerja Hingga Efisiensi, Kunci Daya Tahan Dunia Industri",
-        "link": "https://www.cnbcindonesia.com/market/20220818144208-19-364778/modal-kerja-hingga-efisiensi-kunci-daya-tahan-dunia-industri",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE4MTQ0MjA4LTE5LTM2NDc3OC9tb2RhbC1rZXJqYS1oaW5nZ2EtZWZpc2llbnNpLWt1bmNpLWRheWEtdGFoYW4tZHVuaWEtaW5kdXN0cmk=",
-        "description": " Modal Kerja Hingga Efisiensi, Kunci Daya Tahan Dunia Industri"
-    },
-    {
-        "title": "Baru 9 Pertanyaan Surya Darmadi Drop, Dibawa ke RSU Adhyaksa",
-        "link": "https://www.cnbcindonesia.com/market/20220818144600-17-364782/baru-9-pertanyaan-surya-darmadi-drop-dibawa-ke-rsu-adhyaksa",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE4MTQ0NjAwLTE3LTM2NDc4Mi9iYXJ1LTktcGVydGFueWFhbi1zdXJ5YS1kYXJtYWRpLWRyb3AtZGliYXdhLWtlLXJzdS1hZGh5YWtzYQ==",
-        "description": " Surya Darmadi keluar dari Kejagung menggunakan Ambulance sekitar pukul 13:50 WIB untuk kemudian dibawa ke RSU Adhyaksa, Ceger, Jakarta Timur"
-    },
-    {
-        "title": "Ini Bedanya Kasus Surya Darmadi di KPK dan di Kejagung!",
-        "link": "https://www.cnbcindonesia.com/market/20220818140901-17-364757/ini-bedanya-kasus-surya-darmadi-di-kpk-dan-di-kejagung",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE4MTQwOTAxLTE3LTM2NDc1Ny9pbmktYmVkYW55YS1rYXN1cy1zdXJ5YS1kYXJtYWRpLWRpLWtway1kYW4tZGkta2VqYWd1bmc=",
-        "description": " Kasus Surya Darmadi, Ini Jejak Perkara di KPK Hingga di Kejagung"
-    },
-    {
-        "title": "Jadi Senjata Redam Inflasi, Dolar Singapura Bisa Makin Mahal",
-        "link": "https://www.cnbcindonesia.com/market/20220818120547-17-364708/jadi-senjata-redam-inflasi-dolar-singapura-bisa-makin-mahal",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE4MTIwNTQ3LTE3LTM2NDcwOC9qYWRpLXNlbmphdGEtcmVkYW0taW5mbGFzaS1kb2xhci1zaW5nYXB1cmEtYmlzYS1tYWtpbi1tYWhhbA==",
-        "description": " Dolar Singapura sempat beberapa kali menyentuh level Rp 10.800/SG$ dalam satu bulan terakhir."
     }
 ]

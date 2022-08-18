@@ -1,5 +1,54 @@
 [
     {
+        "title": "Tak Kasat Mata! Ada Gambar 'Misterius' di Uang Rupiah Baru",
+        "link": "https://www.cnbcindonesia.com/news/20220818154940-4-364806/tak-kasat-mata-ada-gambar-misterius-di-uang-rupiah-baru",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE1NDk0MC00LTM2NDgwNi90YWsta2FzYXQtbWF0YS1hZGEtZ2FtYmFyLW1pc3Rlcml1cy1kaS11YW5nLXJ1cGlhaC1iYXJ1",
+        "description": " Gambar 'misterius' yang dimaksud hanya bisa dilihat dengan menggunakan sinar ultraviolet"
+    },
+    {
+        "title": "Ayo Siap-siap! Jokowi Bakal Tebar Bansos Rp479 Triliun",
+        "link": "https://www.cnbcindonesia.com/news/20220818134659-4-364750/ayo-siap-siap-jokowi-bakal-tebar-bansos-rp479-triliun",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODEzNDY1OS00LTM2NDc1MC9heW8tc2lhcC1zaWFwLWpva293aS1iYWthbC10ZWJhci1iYW5zb3MtcnA0NzktdHJpbGl1bg==",
+        "description": " Pemerintah akan mengelontorkan anggaran perlindungan sosial sekitar Rp479,1 triliun."
+    },
+    {
+        "title": "Jurus Pertamina Tangkal Penurunan Produksi Blok Rokan!",
+        "link": "https://www.cnbcindonesia.com/news/20220818134011-4-364746/jurus-pertamina-tangkal-penurunan-produksi-blok-rokan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODEzNDAxMS00LTM2NDc0Ni9qdXJ1cy1wZXJ0YW1pbmEtdGFuZ2thbC1wZW51cnVuYW4tcHJvZHVrc2ktYmxvay1yb2thbg==",
+        "description": " Dirut Pertamina Hulu Rokan yakin bisa meningkatkan produksi Blok Rokan"
+    },
+    {
+        "title": "Waduh, Cash Flow Perusahaan Properti China Menyusut",
+        "link": "https://www.cnbcindonesia.com/news/20220818145334-8-364784/waduh-cash-flow-perusahaan-properti-china-menyusut",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE0NTMzNC04LTM2NDc4NC93YWR1aC1jYXNoLWZsb3ctcGVydXNhaGFhbi1wcm9wZXJ0aS1jaGluYS1tZW55dXN1dA==",
+        "description": " Arus kas pengembang properti China pada bulan Juli menyusut 24% secara tahunan"
+    },
+    {
+        "title": "Dokumen Bocor, Ternyata AS Tahu Rusia Bakal Serang Ukraina",
+        "link": "https://www.cnbcindonesia.com/news/20220818145644-4-364788/dokumen-bocor-ternyata-as-tahu-rusia-bakal-serang-ukraina",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE0NTY0NC00LTM2NDc4OC9kb2t1bWVuLWJvY29yLXRlcm55YXRhLWFzLXRhaHUtcnVzaWEtYmFrYWwtc2VyYW5nLXVrcmFpbmE=",
+        "description": " AS sudah tahu Ukraina bakal diseran Rusia."
+    },
+    {
+        "title": "Program BBM 1 Harga Wujudkan Keadilan di Wilayah 3T",
+        "link": "https://www.cnbcindonesia.com/news/20220818152900-4-364794/program-bbm-1-harga-wujudkan-keadilan-di-wilayah-3t",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE1MjkwMC00LTM2NDc5NC9wcm9ncmFtLWJibS0xLWhhcmdhLXd1anVka2FuLWtlYWRpbGFuLWRpLXdpbGF5YWgtM3Q=",
+        "description": " Pemerintah telah melaksanakan Program BBM Satu Harga di daerah 3T di seluruh Indonesia yang dijalankan PT Pertamina (Persero) sejak 2017"
+    },
+    {
+        "title": "Jokowi Akui Ini Bikin Harga BBM Naik Tak Bisa Ditahan Lagi",
+        "link": "https://www.cnbcindonesia.com/news/20220818092954-4-364624/jokowi-akui-ini-bikin-harga-bbm-naik-tak-bisa-ditahan-lagi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODA5Mjk1NC00LTM2NDYyNC9qb2tvd2ktYWt1aS1pbmktYmlraW4taGFyZ2EtYmJtLW5haWstdGFrLWJpc2EtZGl0YWhhbi1sYWdp",
+        "description": " Jokowi buka suara mengenai kondisi tekanan pada anggaran pendapatan dan belanja negara (APBN) imbas melejitnya harga minyak dunia."
+    },
+    {
         "title": "AS Bicarakan Dagang Dengan Taiwan, China Panas",
         "link": "https://www.cnbcindonesia.com/news/20220818144241-8-364780/as-bicarakan-dagang-dengan-taiwan-china-panas",
         "image": "static/images/cnbc_news.png",
@@ -7,66 +56,17 @@
         "description": " AS Bicarakan Dagang Dengan Taiwan, China Panas"
     },
     {
+        "title": "Resmi! Tetangga RI Ini Impor Minyak Rusia, Siapa?",
+        "link": "https://www.cnbcindonesia.com/news/20220818124635-4-364720/resmi-tetangga-ri-ini-impor-minyak-rusia-siapa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODEyNDYzNS00LTM2NDcyMC9yZXNtaS10ZXRhbmdnYS1yaS1pbmktaW1wb3ItbWlueWFrLXJ1c2lhLXNpYXBh",
+        "description": " Myanmar, tetangga RI sesama ASEAN, berencana mengimpor minyak Rusia. Ini guna meredakan kekhawatiran pasokan dan kenaikan harga."
+    },
+    {
         "title": "Gerbang Besar Industri Maju RI, Jokowi: Tak Sampai 2030",
         "link": "https://www.cnbcindonesia.com/news/20220818114438-4-364700/gerbang-besar-industri-maju-ri-jokowi-tak-sampai-2030",
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODExNDQzOC00LTM2NDcwMC9nZXJiYW5nLWJlc2FyLWluZHVzdHJpLW1hanUtcmktam9rb3dpLXRhay1zYW1wYWktMjAzMA==",
         "description": " Presiden RI Jokowi memaparkan upaya Indonesia menjadi industri yang maju di tahun 2030"
-    },
-    {
-        "title": "Saat Gubernur BI Pamer Uang Rupiah Baru ke Jokowi",
-        "link": "https://www.cnbcindonesia.com/news/20220818133126-7-364734/saat-gubernur-bi-pamer-uang-rupiah-baru-ke-jokowi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODEzMzEyNi03LTM2NDczNC9zYWF0LWd1YmVybnVyLWJpLXBhbWVyLXVhbmctcnVwaWFoLWJhcnUta2Utam9rb3dp",
-        "description": " Pemerintah dan Bank Indonesia meluncurkan 7 (tujuh) pecahan Uang Rupiah Kertas Tahun Emisi 2022 (Uang TE 2022)."
-    },
-    {
-        "title": "Prabowo Terbesar! Ini 10 Kementerian dengan Dana Jumbo 2023",
-        "link": "https://www.cnbcindonesia.com/news/20220818133759-4-364743/prabowo-terbesar-ini-10-kementerian-dengan-dana-jumbo-2023",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODEzMzc1OS00LTM2NDc0My9wcmFib3dvLXRlcmJlc2FyLWluaS0xMC1rZW1lbnRlcmlhbi1kZW5nYW4tZGFuYS1qdW1iby0yMDIz",
-        "description": " Pemerintah menganggarkan belanja dalam RAPBN 2023 sebesar Rp3.041,7 triliun."
-    },
-    {
-        "title": "Ditanya Lagi Soal 3 Periode, Jokowi: Saya Jawab Bolak-Balik",
-        "link": "https://www.cnbcindonesia.com/news/20220817224213-4-364555/ditanya-lagi-soal-3-periode-jokowi-saya-jawab-bolak-balik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzIyNDIxMy00LTM2NDU1NS9kaXRhbnlhLWxhZ2ktc29hbC0zLXBlcmlvZGUtam9rb3dpLXNheWEtamF3YWItYm9sYWstYmFsaWs=",
-        "description": " Simak penjelasan Jokowi dalam Economic Update 2022 yang ditayangkan pada program Squawkbox, Kamis (18/8/2022)."
-    },
-    {
-        "title": "Duit Rp 23 T Disiapkan Buat IKN, Jokowi Akui Masih Kurang",
-        "link": "https://www.cnbcindonesia.com/news/20220818011308-4-364563/duit-rp-23-t-disiapkan-buat-ikn-jokowi-akui-masih-kurang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODAxMTMwOC00LTM2NDU2My9kdWl0LXJwLTIzLXQtZGlzaWFwa2FuLWJ1YXQtaWtuLWpva293aS1ha3VpLW1hc2loLWt1cmFuZw==",
-        "description": " Proyek\u00c2\u00a0IKN membutuhkan anggaran US$33 miliar atau Rp 487,31 triliun"
-    },
-    {
-        "title": "Tol Japek II Selatan Dikebut, JKT-BDG Nanti Kurang 1 Jam",
-        "link": "https://www.cnbcindonesia.com/news/20220818130003-4-364736/tol-japek-ii-selatan-dikebut-jkt-bdg-nanti-kurang-1-jam",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODEzMDAwMy00LTM2NDczNi90b2wtamFwZWstaWktc2VsYXRhbi1kaWtlYnV0LWprdC1iZGctbmFudGkta3VyYW5nLTEtamFt",
-        "description": " Akses tol alternatif\u00c2\u00a0Jakarta-Bandung di Tahun\u00c2\u00a02023 Bakal Ada yang Beroperasi Lho"
-    },
-    {
-        "title": "SWF Terbesar Dunia Ini Boncos Rp 2.500 T, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220818131335-4-364728/swf-terbesar-dunia-ini-boncos-rp-2500-t-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODEzMTMzNS00LTM2NDcyOC9zd2YtdGVyYmVzYXItZHVuaWEtaW5pLWJvbmNvcy1ycC0yNTAwLXQtYWRhLWFwYQ==",
-        "description": " Pengelolaan Dana Investasi (SWF) Norwegia, NMIB melaporkan kerugian hingga US$ 174 miliar atau setara Rp 2.582 triliun pada Semester I 2022."
-    },
-    {
-        "title": "Ternyata Ini yang Diucap Jokowi Saat Temui Zelenskyy dan Putin",
-        "link": "https://www.cnbcindonesia.com/news/20220818080855-4-364590/ternyata-ini-yang-diucap-jokowi-saat-temui-zelenskyy-putin",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODA4MDg1NS00LTM2NDU5MC90ZXJueWF0YS1pbmkteWFuZy1kaXVjYXAtam9rb3dpLXNhYXQtdGVtdWktemVsZW5za3l5LXB1dGlu",
-        "description": " Jokowi bercerita mengenai pertemuan genting dengan Presiden Ukraina Volodymyr Zelenskyy dan Presiden Rusia Vladimir Putin."
-    },
-    {
-        "title": "Ini Bukti Terbaru Eropa Mulai Pecah Gegara Rusia",
-        "link": "https://www.cnbcindonesia.com/news/20220818133909-4-364744/ini-bukti-terbaru-eropa-mulai-pecah-gegara-rusia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODEzMzkwOS00LTM2NDc0NC9pbmktYnVrdGktdGVyYmFydS1lcm9wYS1tdWxhaS1wZWNhaC1nZWdhcmEtcnVzaWE=",
-        "description": " Negara-negara Uni Eropa (UE) masih belum mencapai konsensus mengenai penutupan perbatasan bagi warga Rusia yang ingin mengunjungi wilayah itu."
     }
 ]
