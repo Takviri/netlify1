@@ -1,5 +1,33 @@
 [
     {
+        "title": "Inflasi \"Makan Korban\", Inggris Terancam Mogok Massal",
+        "link": "https://www.cnbcindonesia.com/news/20220818141019-4-364758/inflasi-makan-korban-inggris-terancam-mogok-massal",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE0MTAxOS00LTM2NDc1OC9pbmZsYXNpLW1ha2FuLWtvcmJhbi1pbmdncmlzLXRlcmFuY2FtLW1vZ29rLW1hc3NhbA==",
+        "description": " Inflasi tinggi membuat masalah baru di Inggris. Puluhan ribu orang diperkirakan akan melakukan pemogokan masal selama dua hari berturut-turut."
+    },
+    {
+        "title": "Negara Gratiskan BPJS Sampai BBM Murah, Uang dari Mana?",
+        "link": "https://www.cnbcindonesia.com/news/20220818180516-4-364850/negara-gratiskan-bpjs-sampai-bbm-murah-uang-dari-mana",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE4MDUxNi00LTM2NDg1MC9uZWdhcmEtZ3JhdGlza2FuLWJwanMtc2FtcGFpLWJibS1tdXJhaC11YW5nLWRhcmktbWFuYQ==",
+        "description": " Manfaat pajak dapat dirasakan dalam berbagai sarana atau prasarana yang kita pakai."
+    },
+    {
+        "title": "Mantan Wamen ESDM Bicara Peran Gas Dalam Transisi Energi",
+        "link": "https://www.cnbcindonesia.com/news/20220818181631-4-364855/mantan-wamen-esdm-bicara-peran-gas-dalam-transisi-energi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE4MTYzMS00LTM2NDg1NS9tYW50YW4td2FtZW4tZXNkbS1iaWNhcmEtcGVyYW4tZ2FzLWRhbGFtLXRyYW5zaXNpLWVuZXJnaQ==",
+        "description": " Potensi gas di Indonesia berlimpah dan mampu digunakan dalam transisi energi"
+    },
+    {
+        "title": "Jokowi Turun Tangan, Siapkan Cara Harga Tiket Pesawat Turun",
+        "link": "https://www.cnbcindonesia.com/news/20220818180310-4-364849/jokowi-turun-tangan-siapkan-cara-harga-tiket-pesawat-turun",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE4MDMxMC00LTM2NDg0OS9qb2tvd2ktdHVydW4tdGFuZ2FuLXNpYXBrYW4tY2FyYS1oYXJnYS10aWtldC1wZXNhd2F0LXR1cnVu",
+        "description": " Menteri Perhubungan Budi Karya Sumadi membeberkan sejumlah langkah untuk menstabilkan harga tiket pesawat."
+    },
+    {
         "title": "Kasus Covid-19 di RI Bertambah 4.039, Total Tembus 6,3 Juta",
         "link": "https://www.cnbcindonesia.com/news/20220818174059-16-364844/kasus-covid-19-di-ri-bertambah-4039-total-tembus-63-juta",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE4NDAwMS04LTM2NDg3My9waWxwcmVzLXNlYmVudGFyLWxhZ2ktaW52ZXN0b3ItcGlsaWgtc2lhcGEteWE=",
         "description": " Pilpres Sebentar Lagi, Investor Pilih Siapa ya?"
-    },
-    {
-        "title": "Perang Ganggu 4% Pasokan Minyak Dunia, Eropa Terjepit!",
-        "link": "https://www.cnbcindonesia.com/news/20220818170437-4-364840/perang-ganggu-4-pasokan-minyak-dunia-eropa-terjepit",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE3MDQzNy00LTM2NDg0MC9wZXJhbmctZ2FuZ2d1LTQtcGFzb2thbi1taW55YWstZHVuaWEtZXJvcGEtdGVyamVwaXQ=",
-        "description": " Perang Rusia-Ukraina telah membuat 4% pasokan minyak ke pasar dunia terganggu."
-    },
-    {
-        "title": "Banyak Kendala, MRT Jakarta Fase 2A Nembus Perut Bumi 27 M",
-        "link": "https://www.cnbcindonesia.com/news/20220818164624-4-364837/banyak-kendala-mrt-jakarta-fase-2a-nembus-perut-bumi-27-m",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE2NDYyNC00LTM2NDgzNy9iYW55YWsta2VuZGFsYS1tcnQtamFrYXJ0YS1mYXNlLTJhLW5lbWJ1cy1wZXJ1dC1idW1pLTI3LW0=",
-        "description": " Pembangunan MRT Jakarta Fase 2A dengan total panjang sekitar 6,3 kilometer resmi dimulai."
-    },
-    {
-        "title": "Tentang Rupiah Versi Terbaru, Cek Dulu Nih Biar Gak Kaget!",
-        "link": "https://www.cnbcindonesia.com/news/20220818163954-16-364824/tentang-rupiah-versi-terbaru-cek-dulu-nih-biar-gak-kaget",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE2Mzk1NC0xNi0zNjQ4MjQvdGVudGFuZy1ydXBpYWgtdmVyc2ktdGVyYmFydS1jZWstZHVsdS1uaWgtYmlhci1nYWsta2FnZXQ=",
-        "description": " Rupiah kertas Tahun Emisi 2022, hari ini, Kamis (18/8/2022) diluncurkan Pemerintah dan Bank Indonesia."
-    },
-    {
-        "title": "Lawan Berat Penghancur Avanza, Mobil Ini di Bawah Rp 200 Juta",
-        "link": "https://www.cnbcindonesia.com/news/20220818163944-4-364823/lawan-berat-penghancur-avanza-mobil-ini-di-bawah-rp-200-juta",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODE2Mzk0NC00LTM2NDgyMy9sYXdhbi1iZXJhdC1wZW5naGFuY3VyLWF2YW56YS1tb2JpbC1pbmktZGktYmF3YWgtcnAtMjAwLWp1dGE=",
-        "description": " Suzuki membuat kejutan di ajang GIIAS 2022 ini dengan meluncurkan mobil mungil S-Presso."
     }
 ]
