@@ -1,5 +1,47 @@
 [
     {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/515695/inh-salurkan-ratusan-paket-logistik-darurat-untuk-korban-gaza",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNTY5NS9pbmgtc2FsdXJrYW4tcmF0dXNhbi1wYWtldC1sb2dpc3Rpay1kYXJ1cmF0LXVudHVrLWtvcmJhbi1nYXph",
+        "description": "AGRESI Israel di Jalur Gaza baru-baru ini meninggalkan kesedihan yang mendalam bagi jutaan warga yang tinggal di daerah tersebut. Guna meringankan beban dan kesedihan para korban, Lembaga Kemanusiaan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515694/kebijakan-jokowi-dinilai-dorong-pertumbuhan-entrepeneur-muda",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTY5NC9rZWJpamFrYW4tam9rb3dpLWRpbmlsYWktZG9yb25nLXBlcnR1bWJ1aGFuLWVudHJlcGVuZXVyLW11ZGE=",
+        "description": "FOKUS Presiden Joko Widodo (Jokowi) dalam menggenjot sektor investasi berdampak positif bagi pertumbuhan pengusaha muda. Kebijakannya berhasil membuka peluang usaha milik generasi muda semakin berkembang.<br&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515693/harga-pertalite-naik-jadi-rp10-ribuliter-inflasi-bisa-65",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTY5My9oYXJnYS1wZXJ0YWxpdGUtbmFpay1qYWRpLXJwMTAtcmlidWxpdGVyLWluZmxhc2ktYmlzYS02NQ==",
+        "description": "PENGAMAT ekonomi menghitung jika harga bahan bakar minyak (BBM) pertalite naik dari Rp7650 per liter menjadi Rp10.000 per liter, diperkirakan inflasi tahun ini melonjak hingga 6,5% year on year (yoy).&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/515692/pt-clm-dukung-upaya-pemerintah-maksimalkan-ekspor-nikel",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NjkyL3B0LWNsbS1kdWt1bmctdXBheWEtcGVtZXJpbnRhaC1tYWtzaW1hbGthbi1la3Nwb3ItbmlrZWw=",
+        "description": "SEORANG pengusaha yang sukses pastinya memulai bisnisnya dari bawah. Seperti halnya Helmut Hermawan yang akrab disapa Helmut kelahiran Jakarta 12 April 1977 yang dikenal sebagai pengusaha tambang.&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515691/komitmen-jaga-ketahanan-energi-nasional-pertamina-sukses-temukan-cadangan-migas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTY5MS9rb21pdG1lbi1qYWdhLWtldGFoYW5hbi1lbmVyZ2ktbmFzaW9uYWwtcGVydGFtaW5hLXN1a3Nlcy10ZW11a2FuLWNhZGFuZ2FuLW1pZ2Fz",
+        "description": "PT Pertamina Hulu Energi (PHE), sebagai Subholding Upstream Pertamina, melalui aktivitas Eksplorasi secara konsisten berkomitmen berkontribusi dalam mencapai ketahanan energi nasional.&nbsp; Hal&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/515690/asar-humanity-distribusikan-makanan-siap-santap-untuk-warga-di-jalur-gaza",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNTY5MC9hc2FyLWh1bWFuaXR5LWRpc3RyaWJ1c2lrYW4tbWFrYW5hbi1zaWFwLXNhbnRhcC11bnR1ay13YXJnYS1kaS1qYWx1ci1nYXph",
+        "description": "MILITER Israel kembali membombardir Gaza dengan jet-jet tempurnya pada Jumat pekan lalu. Mendengar kabar buruk tersebut, Senin (8/8) dengan gesit Asar Humanity bersama mitranya yang berada di&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/515689/wapres-konstitusi-jadi-landasan-kebangkitan-pascapandemi",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTY4Ni9yZWZsZWtzaS1odXQta2UtNzctcmktd2lyYXVzYWhhLW11ZGEtdW50dWstaW5kb25lc2lhLXRhbmdndWg=",
         "description": "MENGINJAK usia ke-77 tahun, Indonesia tetap berdiri dengan Usaha Mikro Kecil dan Menengah (UMKM) sebagai salah satu penopang ekonomi bangsa. Oleh karena itu, penting untuk memberikan perhatian&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/515684/kejar-mimpi-balerina-jade-princessa-berangkat-ke-as-besok",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTY4NC9rZWphci1taW1waS1iYWxlcmluYS1qYWRlLXByaW5jZXNzYS1iZXJhbmdrYXQta2UtYXMtYmVzb2s=",
-        "description": "&quot;GANTUNGKAN&nbsp;cita-cita mu setinggi langit! Bermimpilah setinggi langit. Jika engkau jatuh, engkau akan jatuh di antara bintang-bintang.&quot; Ini diucapkan Ir. Soekarno di Ende, NTB, pada&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/515683/presiden-kembali-soroti-lambatnya-kinerja-pemda-serap-apbd",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTY4My9wcmVzaWRlbi1rZW1iYWxpLXNvcm90aS1sYW1iYXRueWEta2luZXJqYS1wZW1kYS1zZXJhcC1hcGJk",
-        "description": "PRESIDEN Joko Widodo (Jokowi) kembali menyoroti lambatnya kinerja pemerintah daerah dalam merealisasikan Anggaran Pendapatan dan Belanja&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515682/kompolnas-prihatin-kasat-narkoba-polres-karawang-terlibat-narkoba",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU2ODIva29tcG9sbmFzLXByaWhhdGluLWthc2F0LW5hcmtvYmEtcG9scmVzLWthcmF3YW5nLXRlcmxpYmF0LW5hcmtvYmE=",
-        "description": "KOMISIONER Kompolnas Poengky Indarti mengaku prihatin atas ditangkapnya Kasat Narkoba Polres Karawang berinisal AKP ENM&nbsp; (Edi Nurdin Massa) yang diduga terlibat peredaran narkoba. Poengky&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515681/kpk-berpeluang-seret-pihak-lain-dari-kasus-surya-darmadi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU2ODEva3BrLWJlcnBlbHVhbmctc2VyZXQtcGloYWstbGFpbi1kYXJpLWthc3VzLXN1cnlhLWRhcm1hZGk=",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) berpeluang menyeret pihak lain dari kasus dugaan rasuah yang menjerat pemilik PT Duta Palma Group, Surya&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/515680/meta-tetap-memblokir-akun-donald-trump-meski-berencana-jadi-capres",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNTY4MC9tZXRhLXRldGFwLW1lbWJsb2tpci1ha3VuLWRvbmFsZC10cnVtcC1tZXNraS1iZXJlbmNhbmEtamFkaS1jYXByZXM=",
-        "description": "Meta, perusahaan induk Facebook, tetap memblokir akun milik Donald Trump meski pun dia berencana mencalonkan diri sebagai Presiden Amerika Serikat pada pemilihan umum 2024 nanti. Diberitakan&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/515679/rayakan-kemerdekaan-ri-dnc-dan-evon-andrean-gelar-dnc-independence-run-and-exhibition-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTU2NzkvcmF5YWthbi1rZW1lcmRla2Fhbi1yaS1kbmMtZGFuLWV2b24tYW5kcmVhbi1nZWxhci1kbmMtaW5kZXBlbmRlbmNlLXJ1bi1hbmQtZXhoaWJpdGlvbi0yMDIy",
-        "description": "Sebagai salah satu komunitas mobil dan motor mewah, DayNightCrew (DNC) tidak ingin ketinggalan memeriahkan HUT RI ke-77 pada Rabu (17/8) dengan menyelenggarakan DNC Independence Run and Exhibition&#8230;"
     }
 ]
