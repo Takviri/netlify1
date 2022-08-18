@@ -1,6 +1,55 @@
 [
     {
         "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/515623/raih-rekor-muri-puspotdirga-kibarkan-bendera-merah-putih-di-30-kota",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NjIzL3JhaWgtcmVrb3ItbXVyaS1wdXNwb3RkaXJnYS1raWJhcmthbi1iZW5kZXJhLW1lcmFoLXB1dGloLWRpLTMwLWtvdGE=",
+        "description": "MEMPERINGATI HUT RI ke-77, Pusat Potensi Kedirgantaraan TNI Angkatan Udara (Puspotdirga)&nbsp;&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/515614/ineos-siap-beli-manchester-united",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTYxNC9pbmVvcy1zaWFwLWJlbGktbWFuY2hlc3Rlci11bml0ZWQ=",
+        "description": "PENGUSAHA Inggris Jim Ratcliffe tertarik untuk membeli Manchester United jika klub Liga Primer Inggris itu dijual. Hal&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/515622/di-hut-ri-ke-77-srikandi-jatim-tancapkan-merah-putih-di-dasar-laut-gili-ketapang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE1NjIyL2RpLWh1dC1yaS1rZS03Ny1zcmlrYW5kaS1qYXRpbS10YW5jYXBrYW4tbWVyYWgtcHV0aWgtZGktZGFzYXItbGF1dC1naWxpLWtldGFwYW5n",
+        "description": "RELAWAN Srikandi Ganjar Jawa Timur punya cara unik dalam memperingati Hari Kemerdekaan ke-77 Republik Indonesia. Cara ini sekaligus sebagai ajakan mendukung aspirasi 'Ganjar Pranowo Presiden 2024'&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/515621/hut-ke-77-ri-media-djaya-bersama-group-komit-bangkit-lebih-kuat-dari-aceh-untuk-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTYyMS9odXQta2UtNzctcmktbWVkaWEtZGpheWEtYmVyc2FtYS1ncm91cC1rb21pdC1iYW5na2l0LWxlYmloLWt1YXQtZGFyaS1hY2VoLXVudHVrLWluZG9uZXNpYQ==",
+        "description": "SEBAGAI pemegang hak pertambangan eksklusif operasi produksi PT Mifa Bersaudara (MIFA) dan PT Bara Energi Lestari (BEL), Media Djaya Bersama (MDB) Group komit untuk bangkit lebih kuat melalui semangat&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/515620/as-terbuka-bagikan-wild-cards-thiem-venus-williams-dan-kenin-dapat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU2MjAvYXMtdGVyYnVrYS1iYWdpa2FuLXdpbGQtY2FyZHMtdGhpZW0tdmVudXMtd2lsbGlhbXMtZGFuLWtlbmluLWRhcGF0",
+        "description": "JUARA Amerika Serikat (AS) Terbuka 2020 Dominic Thiem serta dua juara Grand Slam putri, Venus Williams dan Sofia Kenin, menjadi&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/515588/ingin-tembus-pasar-global",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NTg4L2luZ2luLXRlbWJ1cy1wYXNhci1nbG9iYWw=",
+        "description": "SALAH satu yang menjadi harapan dengan hadirnya Kraf Studio bagi Dian Kurnia Arismawan ialah bisa memberikan pilihan bagi para orangtua yang ingin memiliki waktu bermain bersama sang anak. Kraf&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/515619/lebron-james-perpanjang-kontrak-dua-tahun-dengan-lakers",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU2MTkvbGVicm9uLWphbWVzLXBlcnBhbmphbmcta29udHJhay1kdWEtdGFodW4tZGVuZ2FuLWxha2Vycw==",
+        "description": "LeBron James menyetujui persyaratan perpanjangan kontrak dua tahun bersama Los Angeles Lakers senilai US$97,1 juta (Rp1,4 triliun). Kesepakatan itu, menurut ESPN dan The Athletic, sudah termasuk&#8230;"
+    },
+    {
+        "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/515586/mengemas-kardus-bekas-jadi-berkelas",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NTg2L21lbmdlbWFzLWthcmR1cy1iZWthcy1qYWRpLWJlcmtlbGFz",
@@ -19,54 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTYxMi9maWxtLTI0LWphbS1iZXJzYW1hLWdhc3Bhci1tYXN1ay1zZWxla3NpLWFzaWFuLXByb2plY3QtbWFya2V0LTIwMjI=",
         "description": "FILM 24 Jam Bersama Gaspar, yang disutradarai Yosep Anggi Noen terpilih menjadi salah satu proyek film yang terseleksi untuk dipresentasikan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515611/pasien-cedera-olahraga-sebaiknya-segera-ditangani-secara-agresif",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NjExL3Bhc2llbi1jZWRlcmEtb2xhaHJhZ2Etc2ViYWlrbnlhLXNlZ2VyYS1kaXRhbmdhbmktc2VjYXJhLWFncmVzaWY=",
-        "description": "DOKTER spesialis kedokteran olahraga Antonius Andi Kurniawan menyarankan pasien cedera olahraga segera mendapatkan penanangan agresif&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/515616/daihatsu-pamerkan-rocky-hybrid-di-giias-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTU2MTYvZGFpaGF0c3UtcGFtZXJrYW4tcm9ja3ktaHlicmlkLWRpLWdpaWFzLTIwMjI=",
-        "description": "DAIHATSU menunjukkan komitmennya dalam tahapannya menuju tren elektrifikasi secara bertahap di Indonesia dengan menampilkan Daihatsu Rocky HEV (Hybrid Electric Vehicle) di booth Daihatsu&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/515610/joshua-bantah-berencana-pensiun",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU2MTAvam9zaHVhLWJhbnRhaC1iZXJlbmNhbmEtcGVuc2l1bg==",
-        "description": "PETINJU kelas berat Anthony Joshua, Rabu (17/8), membantah kabar yang menyebut dirinya berencana pensiun jika kembali kalah dari Oleksandr&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/515609/lebron-james-perpanjangan-kontrak-dengan-lakers",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU2MDkvbGVicm9uLWphbWVzLXBlcnBhbmphbmdhbi1rb250cmFrLWRlbmdhbi1sYWtlcnM=",
-        "description": "LEBRON James menandatangani perpanjangan kontrak berdurasi dua tahun dengan Los Angeles Lakers, yang bernilai US$97,1 juta (sekitar Rp1,4&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/515606/lo-celso-senang-kembali-berseragam-villarreal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTYwNi9sby1jZWxzby1zZW5hbmcta2VtYmFsaS1iZXJzZXJhZ2FtLXZpbGxhcnJlYWw=",
-        "description": "GELANDANG Giovani Lo Celso mengaku senang kembali ke Villarreal setelah dipinjamkan lagi oleh Tottenham Hotspur ke klub La Liga&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/515605/sevilla-datangkan-nianzou-dari-bayern",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTYwNS9zZXZpbGxhLWRhdGFuZ2thbi1uaWFuem91LWRhcmktYmF5ZXJu",
-        "description": "KLUB La Liga Sevilla mendatangkan bek Tanguy Nianzou dari klub Bundesliga Bayern Muenchen dengan kontrak selama lima tahun. Hal itu&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/515604/quintana-didiskualifikasi-dari-tour-de-france-karena-tramadol",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU2MDQvcXVpbnRhbmEtZGlkaXNrdWFsaWZpa2FzaS1kYXJpLXRvdXItZGUtZnJhbmNlLWthcmVuYS10cmFtYWRvbA==",
-        "description": "PEMBALAP sepeda Kolombia dari tim Arkea-Samsic, Nairo Quintana, didiskualifikasi dari Tour de France tahun ini setelah terbukti&#8230;"
     }
 ]

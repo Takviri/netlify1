@@ -1,5 +1,19 @@
 [
     {
+        "title": "Jadi, Kapan PNS Bisa Menikmati Gaji Rp 9 Juta Per Bulan?",
+        "link": "https://www.cnbcindonesia.com/news/20220818070944-4-364577/jadi-kapan-pns-bisa-menikmati-gaji-rp-9-juta-per-bulan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODA3MDk0NC00LTM2NDU3Ny9qYWRpLWthcGFuLXBucy1iaXNhLW1lbmlrbWF0aS1nYWppLXJwLTktanV0YS1wZXItYnVsYW4=",
+        "description": " Berikut kabar terbaru mengenai rencana pemerintah menaikkan gaji PNS hingga Rp 9 juta per bulan"
+    },
+    {
+        "title": "Setahun Mati, China Hidupkan Reaktor Nuklir Lagi, Kenapa?",
+        "link": "https://www.cnbcindonesia.com/news/20220817184136-4-364520/setahun-mati-china-hidupkan-reaktor-nuklir-lagi-kenapa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzE4NDEzNi00LTM2NDUyMC9zZXRhaHVuLW1hdGktY2hpbmEtaGlkdXBrYW4tcmVha3Rvci1udWtsaXItbGFnaS1rZW5hcGE=",
+        "description": " Sebuah reaktor nuklir di Taishan provinsi Guangdong China hidup kembali. Ini terjadi setelah lebih dari setahun lalu fasilitas tersebut telah ditutup."
+    },
+    {
         "title": "Jika Tak Pernah Sakit, Apakah BPJS Kesehatan Bisa Dicairkan?",
         "link": "https://www.cnbcindonesia.com/news/20220818070740-4-364572/jika-tak-pernah-sakit-apakah-bpjs-kesehatan-bisa-dicairkan",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzIwNTMzNS03LTM2NDUzOC9tZW5jZWthbS0xNy1ib20tZGFuLXBlbWJha2FyYW4tc2VyYW5nLXRoYWlsYW5k",
         "description": " Ledakan dan kebakaran melanda setidaknya 17 lokasi di Thailand Selatan."
-    },
-    {
-        "title": "Harga Mi Instan di RI Naik Diam-Diam, di Thailand Harus Izin",
-        "link": "https://www.cnbcindonesia.com/news/20220817202816-4-364534/harga-mi-instan-di-ri-naik-diam-diam-di-thailand-harus-izin",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzIwMjgxNi00LTM2NDUzNC9oYXJnYS1taS1pbnN0YW4tZGktcmktbmFpay1kaWFtLWRpYW0tZGktdGhhaWxhbmQtaGFydXMtaXppbg==",
-        "description": " Para produsen utama mi instan di Thailand menekan pemerintah di negara itu untuk memberikan izin kenaikan harga."
-    },
-    {
-        "title": "Penjualan Retail AS Stagnan, Ini Pertanda Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220817200843-4-364532/penjualan-retail-as-stagnan-ini-pertanda-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNzIwMDg0My00LTM2NDUzMi9wZW5qdWFsYW4tcmV0YWlsLWFzLXN0YWduYW4taW5pLXBlcnRhbmRhLWFwYQ==",
-        "description": " Penjualan ritel Amerika Serikat (AS) sedikit berubah pada bulan Juli tercatat stagnan."
     }
 ]
