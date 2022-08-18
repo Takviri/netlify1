@@ -1,5 +1,47 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/515653/napoli-hanya-bersedia-bayar-25-persen-gaji-navas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTY1My9uYXBvbGktaGFueWEtYmVyc2VkaWEtYmF5YXItMjUtcGVyc2VuLWdhamktbmF2YXM=",
+        "description": "NAPOLI dilaporkan hanya bersedia membayar 25% gaji penjaga gawang Keylor Navas jika jadi meminjam sang pemain dari Paris Saint-Germain&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/515651/lakers-bakal-pensiunkan-nomor-punggung-16-milik-pau-gasol",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTU2NTEvbGFrZXJzLWJha2FsLXBlbnNpdW5rYW4tbm9tb3ItcHVuZ2d1bmctMTYtbWlsaWstcGF1LWdhc29s",
+        "description": "LOS Angeles Lakers bakal memensiunkan nomor punggung 16 yang pernah dikenakan Pau Gasol. Hal itu diumumkan klub NBA itu. Kamis (18/8).&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/515650/peneliti-brin-sebut-konflik-manusia-dan-satwa-liar-meningkat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1NjUwL3BlbmVsaXRpLWJyaW4tc2VidXQta29uZmxpay1tYW51c2lhLWRhbi1zYXR3YS1saWFyLW1lbmluZ2thdA==",
+        "description": "DALAM kurun waktu 10 tahun terakhir, konflik antara manusia dan satwa liar terus terjadi dan tidak ada tanda-tanda mereda. Konflik ini terjadi hampir di seluruh provinsi di Sumatera. Provinsi&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/515649/ryan-giggs-jadikan-rekor-disiplinnya-di-mu-sebagai-pembelaan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTY0OS9yeWFuLWdpZ2dzLWphZGlrYW4tcmVrb3ItZGlzaXBsaW5ueWEtZGktbXUtc2ViYWdhaS1wZW1iZWxhYW4=",
+        "description": "MANTAN bintang Manchester United Ryan Giggs, yang tengah diadili karena menyerang dan mengendalikan mantan kekasihnya, Rabu (17/8),&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/515648/anies-umumkan-kebijakan-bebas-pbb-bagi-rumah-di-bawah-rp2-m",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTU2NDgvYW5pZXMtdW11bWthbi1rZWJpamFrYW4tYmViYXMtcGJiLWJhZ2ktcnVtYWgtZGktYmF3YWgtcnAyLW0=",
+        "description": "ADA kado hari ulang tahun (HUT) ke-77 Republik Indonesia yang diberikan oleh Gubernur DKI Jakarta Anies Baswedan. Kado tersebut berupa kebijakan pajak yang adil dan merata yakni keringanan pajak bumi&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/515647/ledakan-bom-menyasar-masjid-di-kabul-20orang-tewas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNTY0Ny9sZWRha2FuLWJvbS1tZW55YXNhci1tYXNqaWQtZGkta2FidWwtMjBvcmFuZy10ZXdhcw==",
+        "description": "SEBANYAK 20 orang tewas usai menjadi korban serangan bom terhadap sebuah masjid di Kabul, Afghanistan. Taliban mengecam aksi keji tersebut yang disinyalir dilakukan kelompok oposisi. &quot;Sebanyak&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/515646/bersiaplah-otomatisasi-dan-industri-hijau-memunculkan-jenis-pekerjaan-baru",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTY0Mi9ldmVydG9uLXRvbGFrLXRhd2FyYW4tY2hlbHNlYS11bnR1ay1nb3Jkb24=",
         "description": "KLUB Liga Primer Inggris Everton telah menolak tawaran sebesar 45 juta pound sterling atau sekitar Rp800 miliar dari Chelsea untuk&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/515641/umkm-go-digital-2024-pemerintah-perlu-dukung-industri-telekomunikasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTY0MS91bWttLWdvLWRpZ2l0YWwtMjAyNC1wZW1lcmludGFoLXBlcmx1LWR1a3VuZy1pbmR1c3RyaS10ZWxla29tdW5pa2FzaQ==",
-        "description": "PRESIDEN Joko Widodo (Jokowi) menargetkan 30 juta pelaku usaha mikro, kecil, dan menengah (UMKM) untuk go digital. Dari target tersebut, saat ini telah ada 19 juta UMKM yang bergabung di ekosistem&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/515639/kiper-pss-ini-mengaku-bangga-pernah-jadi-paskibraka",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNTYzOS9raXBlci1wc3MtaW5pLW1lbmdha3UtYmFuZ2dhLXBlcm5haC1qYWRpLXBhc2tpYnJha2E=",
-        "description": "KIPER PSS Sleman Dimas Fani bangga pernah menjadi pasukan pengibar bendera pusaka (Paskibraka) pada peringatan HUT Kemerdekaan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515638/hari-ini-apeng-tersangka-korupsi-rp78-triliun-diperiksa-kejagung",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU2MzgvaGFyaS1pbmktYXBlbmctdGVyc2FuZ2thLWtvcnVwc2ktcnA3OC10cmlsaXVuLWRpcGVyaWtzYS1rZWphZ3VuZw==",
-        "description": "PENYIDIK Jaksa Agung Muda Bidang Tindak Pidana Khusus (JAM-Pidsus) Kejaksaan Agung kembali memeriksa bos PT Duta Palma Group Surya Darmadi alias Apeng, hari ini. Apeng merupakan tersangka kasus korupsi&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/515637/bakn-dpr-berikan-catatan-atas-pidato-presiden-terkait-pengantar-rapbn-2023",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTYzNy9iYWtuLWRwci1iZXJpa2FuLWNhdGF0YW4tYXRhcy1waWRhdG8tcHJlc2lkZW4tdGVya2FpdC1wZW5nYW50YXItcmFwYm4tMjAyMw==",
-        "description": "Wakil Ketua Badan Akuntabilitas Keuangan Negara (BAKN) DPR RI Anis Byarwati memberikan catatan atas Pidato Presiden Joko Widodo tentang Penyampaian Pengantar/ Keterangan Pemerintah atas RUU tentang&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/515636/serial-extraordinary-attorney-woo-akan-diadaptasi-jadi-drama-musikal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTYzNi9zZXJpYWwtZXh0cmFvcmRpbmFyeS1hdHRvcm5leS13b28tYWthbi1kaWFkYXB0YXNpLWphZGktZHJhbWEtbXVzaWthbA==",
-        "description": "SERIAL drama Korea Extraordinary Attorney Woo akan diadaptasi menjadi pertunjukan drama musikal pada 2024. Hal itu diungkapkan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/515635/puan-maharani-indonesia-masih-akan-hadapi-ketidakpastian",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNTYzNS9wdWFuLW1haGFyYW5pLWluZG9uZXNpYS1tYXNpaC1ha2FuLWhhZGFwaS1rZXRpZGFrcGFzdGlhbg==",
-        "description": "KETUA DPR RI&nbsp;Puan Maharani menekankan, tugas membangun Bangsa dan Negara Indonesia ke depan menghadapi tantangan dan kendala yang tidak ringan. Indonesia masih menghadapi ketidakpastian&#8230;"
     }
 ]
