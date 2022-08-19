@@ -1,5 +1,19 @@
 [
     {
+        "title": "Asyik! Jakarta-Bandung Lewat Tol Ini Tak Sampai 1 Jam",
+        "link": "https://www.cnbcindonesia.com/news/20220819182632-16-365168/asyik-jakarta-bandung-lewat-tol-ini-tak-sampai-1-jam",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE4MjYzMi0xNi0zNjUxNjgvYXN5aWstamFrYXJ0YS1iYW5kdW5nLWxld2F0LXRvbC1pbmktdGFrLXNhbXBhaS0xLWphbQ==",
+        "description": " Diperkirakan jika tol ini sudah tersambung sepenuhnya 62 km, maka perjalanan dari Jakarta menuju Bandung diprediksikan hanya sekitar 1 jam."
+    },
+    {
+        "title": "Hapus Citra Jepang, Miniso Bakal Ubah Penampilan",
+        "link": "https://www.cnbcindonesia.com/news/20220819202217-4-365195/hapus-citra-jepang-miniso-bakal-ubah-penampilan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTIwMjIxNy00LTM2NTE5NS9oYXB1cy1jaXRyYS1qZXBhbmctbWluaXNvLWJha2FsLXViYWgtcGVuYW1waWxhbg==",
+        "description": " Jaringan toko asal China, Miniso Group mengumumkan bakal melakukan perubahan papan nama di lebih dari 1.900 unit gerai, termasuk di luar negeri."
+    },
+    {
         "title": "Alert! Covid-19 RI Melonjak, Hari Ini Tembus 5.000 Lagi",
         "link": "https://www.cnbcindonesia.com/news/20220819184336-16-365175/alert-covid-19-ri-melonjak-hari-ini-tembus-5000-lagi",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE3Mzk1NS03LTM2NTE1NS9hbmNhbWFuLWR1bmlhLXNlbGFpbi1jb3ZpZC1tYWthbi1rb3JiYW4tbGFnaS1jaGluYQ==",
         "description": " China diterjang banjir bandang. Kejadian itu juga berdampak ribuan orang dan menewaskan 16 jiwa. Ini diyakini akibat ancaman selain Covid-19, perubahan iklim."
-    },
-    {
-        "title": "Lewat Tol Ini JKT-BDG Bisa Cuma Sejam, Segini Tarifnya",
-        "link": "https://www.cnbcindonesia.com/news/20220819185208-4-365185/lewat-tol-ini-jkt-bdg-bisa-cuma-sejam-segini-tarifnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE4NTIwOC00LTM2NTE4NS9sZXdhdC10b2wtaW5pLWprdC1iZGctYmlzYS1jdW1hLXNlamFtLXNlZ2luaS10YXJpZm55YQ==",
-        "description": " Panjang ruas tol Jakarta-Cikampek (Japek) Selatan dirancang mencapai 62 km."
-    },
-    {
-        "title": "Bukan Main! Gak Cuma Beras, BUMN Ini Pun Mau Ekspor Jagung",
-        "link": "https://www.cnbcindonesia.com/news/20220819181300-4-365166/bukan-main-gak-cuma-beras-bumn-ini-pun-mau-ekspor-jagung",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE4MTMwMC00LTM2NTE2Ni9idWthbi1tYWluLWdhay1jdW1hLWJlcmFzLWJ1bW4taW5pLXB1bi1tYXUtZWtzcG9yLWphZ3VuZw==",
-        "description": " Perum Bulog berencana melakukan ekspor Jagung ke Filipina dalam waktu dekat."
     }
 ]
