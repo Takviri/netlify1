@@ -1,5 +1,26 @@
 [
     {
+        "title": "Breaking News: Harga Minyak Naik 3% Lebih!",
+        "link": "https://www.cnbcindonesia.com/market/20220819063857-17-364905/breaking-news-harga-minyak-naik-3-lebih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE5MDYzODU3LTE3LTM2NDkwNS9icmVha2luZy1uZXdzLWhhcmdhLW1pbnlhay1uYWlrLTMtbGViaWg=",
+        "description": " Harga minyak dunia melesat pada perdagangan pagi ini. Maklum, harga si emas hitam sudah anjlok cukup dalam."
+    },
+    {
+        "title": "Prank Elon Musk Beli MU Bisa Berbuntut Panjang, Ini Sebabnya",
+        "link": "https://www.cnbcindonesia.com/market/20220818164021-20-364822/prank-elon-musk-beli-mu-bisa-berbuntut-panjang-ini-sebabnya",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE4MTY0MDIxLTIwLTM2NDgyMi9wcmFuay1lbG9uLW11c2stYmVsaS1tdS1iaXNhLWJlcmJ1bnR1dC1wYW5qYW5nLWluaS1zZWJhYm55YQ==",
+        "description": " Lelucon Elon Musk yang akan membeli MU bisa berbuntut panjang."
+    },
+    {
+        "title": "Wall Street 'Ngegas' Lagi, IHSG Kembali Berjaya?",
+        "link": "https://www.cnbcindonesia.com/market/20220819054652-17-364901/wall-street-ngegas-lagi-ihsg-kembali-berjaya",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE5MDU0NjUyLTE3LTM2NDkwMS93YWxsLXN0cmVldC1uZ2VnYXMtbGFnaS1paHNnLWtlbWJhbGktYmVyamF5YQ==",
+        "description": " Pasar keuangan Indonesia mencatatkan kinerja yang beragam pada perdagangan kemarin, Kamis (19/8/2022)."
+    },
+    {
         "title": "Alamak! Wall Street Loyo di Pembukaan Perdagangan, Kenapa?",
         "link": "https://www.cnbcindonesia.com/market/20220818201742-17-364885/alamak-wall-street-loyo-di-pembukaan-perdagangan-kenapa",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE4MTMyNzMwLTE3LTM2NDczMy9rcmlwdG8tbWFzaWgtcmF3YW4ta3Jpc2lzLWNlbHNpdXMtbWVtYnVydWstYmVyYW5pLWJhY2E=",
         "description": " Celsius menghadapi krisis keuangan yang lebih buruk dari yang diprediksi sebelumnya, di mana Celsius dikabarkan akan kehabisan uangnya pada Oktober mendatang."
-    },
-    {
-        "title": "Pasca Rilis Risalah Rapat The Fed, Dow Futures Naik Tipis",
-        "link": "https://www.cnbcindonesia.com/market/20220818175909-17-364847/pasca-rilis-risalah-rapat-the-fed-dow-futures-naik-tipis",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE4MTc1OTA5LTE3LTM2NDg0Ny9wYXNjYS1yaWxpcy1yaXNhbGFoLXJhcGF0LXRoZS1mZWQtZG93LWZ1dHVyZXMtbmFpay10aXBpcw==",
-        "description": " Kontrak berjangka (futures) indeks bursa AS naik tipis pada perdagangan\u00c2\u00a0hari ini"
-    },
-    {
-        "title": "Surya Darmadi Kaget Disebut Rugikan Negara Rp 78 T",
-        "link": "https://www.cnbcindonesia.com/market/20220818161240-17-364811/surya-darmadi-kaget-disebut-rugikan-negara-rp-78-t",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE4MTYxMjQwLTE3LTM2NDgxMS9zdXJ5YS1kYXJtYWRpLWthZ2V0LWRpc2VidXQtcnVnaWthbi1uZWdhcmEtcnAtNzgtdA==",
-        "description": " Surya Darmadi Terkejut Ia Disebut Rugikan Negara Rp 78 T, Padahal Asetnya Hanya Rp 5 T"
-    },
-    {
-        "title": "Negara Ini Makin Bergantung sama Batu Bara, RI Dapat Berkah?",
-        "link": "https://www.cnbcindonesia.com/market/20220818123409-17-364713/negara-ini-makin-bergantung-sama-batu-bara-ri-dapat-berkah",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODE4MTIzNDA5LTE3LTM2NDcxMy9uZWdhcmEtaW5pLW1ha2luLWJlcmdhbnR1bmctc2FtYS1iYXR1LWJhcmEtcmktZGFwYXQtYmVya2Fo",
-        "description": " Kebutuhan batu bara India kemungkinan meningkat"
     }
 ]
