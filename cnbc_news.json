@@ -1,5 +1,19 @@
 [
     {
+        "title": "Murah! Harga Minyak Goreng Sudah Benar-benar Makin Turun",
+        "link": "https://www.cnbcindonesia.com/news/20220820015405-4-365207/murah-harga-minyak-goreng-sudah-benar-benar-makin-turun",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDAxNTQwNS00LTM2NTIwNy9tdXJhaC1oYXJnYS1taW55YWstZ29yZW5nLXN1ZGFoLWJlbmFyLWJlbmFyLW1ha2luLXR1cnVu",
+        "description": " Harga minyak goreng turun lagi! Dan kini secara rata-rata nasional sudah menyentuh harga eceran tertinggi (HET)."
+    },
+    {
+        "title": "Simak! Jadwal Ganjil Genap Hari Ini, Hari Sabtu Berlaku?",
+        "link": "https://www.cnbcindonesia.com/news/20220820014333-4-365206/simak-jadwal-ganjil-genap-hari-ini-hari-sabtu-berlaku",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDAxNDMzMy00LTM2NTIwNi9zaW1hay1qYWR3YWwtZ2FuamlsLWdlbmFwLWhhcmktaW5pLWhhcmktc2FidHUtYmVybGFrdQ==",
+        "description": " Kepolisian memperluas pemberlakuan sistem ganjil genap dari sebelumnya di 13 titik, menjadi 26 titik."
+    },
+    {
         "title": "Awas Panas! Finlandia 'Ngamuk' ke Rusia, Kenapa?",
         "link": "https://www.cnbcindonesia.com/news/20220819190041-4-365187/awas-panas-finlandia-ngamuk-ke-rusia-kenapa",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE4MjYzMi0xNi0zNjUxNjgvYXN5aWstamFrYXJ0YS1iYW5kdW5nLWxld2F0LXRvbC1pbmktdGFrLXNhbXBhaS0xLWphbQ==",
         "description": " Diperkirakan jika tol ini sudah tersambung sepenuhnya 62 km, maka perjalanan dari Jakarta menuju Bandung diprediksikan hanya sekitar 1 jam."
-    },
-    {
-        "title": "Hapus Citra Jepang, Miniso Bakal Ubah Penampilan",
-        "link": "https://www.cnbcindonesia.com/news/20220819202217-4-365195/hapus-citra-jepang-miniso-bakal-ubah-penampilan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTIwMjIxNy00LTM2NTE5NS9oYXB1cy1jaXRyYS1qZXBhbmctbWluaXNvLWJha2FsLXViYWgtcGVuYW1waWxhbg==",
-        "description": " Jaringan toko asal China, Miniso Group mengumumkan bakal melakukan perubahan papan nama di lebih dari 1.900 unit gerai, termasuk di luar negeri."
-    },
-    {
-        "title": "Alert! Covid-19 RI Melonjak, Hari Ini Tembus 5.000 Lagi",
-        "link": "https://www.cnbcindonesia.com/news/20220819184336-16-365175/alert-covid-19-ri-melonjak-hari-ini-tembus-5000-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE4NDMzNi0xNi0zNjUxNzUvYWxlcnQtY292aWQtMTktcmktbWVsb25qYWstaGFyaS1pbmktdGVtYnVzLTUwMDAtbGFnaQ==",
-        "description": " Hari ini, kasus konfirmasi positif Covid-19 tercatat 5.163 orang dan ada 109 kasus aktif."
     }
 ]
