@@ -1,6 +1,41 @@
 [
     {
         "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/516008/pelatih-targetkan-ganda-putri-raih-medali-di-kejuaraan-dunia-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTYwMDgvcGVsYXRpaC10YXJnZXRrYW4tZ2FuZGEtcHV0cmktcmFpaC1tZWRhbGktZGkta2VqdWFyYWFuLWR1bmlhLTIwMjI=",
+        "description": "TIM bulu tangkis Indonesia berambisi membawa pulang medali dari nomor ganda putri di Kejuaraan Dunia BWF 2022, yang&#8230;"
+    },
+    {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/516007/wimt-2022-riders-tuntas-jelajahi-lima-negara",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTYwMDcvd2ltdC0yMDIyLXJpZGVycy10dW50YXMtamVsYWphaGktbGltYS1uZWdhcmE=",
+        "description": "JELANG hari ulang tahun (HUT) ke-77 RI, Wonderful Indonesia Motorbike Touring (WIMT) 2022 Riders akhirnya sukses menuntaskan kegiatan touring lintas negara yang diselenggarakan Ikatan Motor Indonesia&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/516006/superman-is-dead-kembali-ke-jalur-independen-mulai-tahun-ini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjAwNi9zdXBlcm1hbi1pcy1kZWFkLWtlbWJhbGkta2UtamFsdXItaW5kZXBlbmRlbi1tdWxhaS10YWh1bi1pbmk=",
+        "description": "GRUP musik punk rock Superman Is Dead (disingkat SID), Kamis (18/8), bertepatan dengan peringatan hari jadi ke-27 mereka,&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/516005/kotta-go-hotel-yogyakarta-gelar-media-gathering-bertema-fun-synergy-with-media",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2MDA1L2tvdHRhLWdvLWhvdGVsLXlvZ3lha2FydGEtZ2VsYXItbWVkaWEtZ2F0aGVyaW5nLWJlcnRlbWEtZnVuLXN5bmVyZ3ktd2l0aC1tZWRpYQ==",
+        "description": "DALAM rangka memperingati Hari Kemerdekaan Republik Indonesia yang ke- 77 tahun, Kotta GO Hottel Yogyakarta mengadakan Media Gathering pada Selasa (16/8).&nbsp; Kegiatan Media Gathering&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/516004/lalahuta-perkenalkan-tiga-vokalis-baru-lewat-single-tak-cuma-angan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjAwNC9sYWxhaHV0YS1wZXJrZW5hbGthbi10aWdhLXZva2FsaXMtYmFydS1sZXdhdC1zaW5nbGUtdGFrLWN1bWEtYW5nYW4=",
+        "description": "GRUP musik Lalahuta merilis single terbaru Tak Cuma Angan, yang menjadi momen perkenalan tiga vokalis terbaru mereka yakni Yerry Ririasa,&#8230;"
+    },
+    {
+        "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/516003/nba-kembali-gelar-global-games-setelah-dua-tahun-absen-karena-covid-19",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTYwMDMvbmJhLWtlbWJhbGktZ2VsYXItZ2xvYmFsLWdhbWVzLXNldGVsYWgtZHVhLXRhaHVuLWFic2VuLWthcmVuYS1jb3ZpZC0xOQ==",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTYwMDAvbWVyaWFoa2FuLWh1dC1yaS1rZS03Ny1zbXBuLTE5LWtvdGEtZGVwb2staGFkaXJrYW4ta3VsaW5lci1hbmdrcmluZ2FuLWRpLXNla29sYWg=",
         "description": "MEMERIAHKAN Hari Ulang Tahun Kemerdekaan Republik Indonesia (HUT-RI) ke-77, Sekolah Menengah Pertama Negeri (SMPN) 19 Kota Depok menghadirkan kegiatan angkringan dengan aneka macam hidangan tradisional.&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515999/kapolri-kepercayaan-publik-penting-untuk-terus-kawal-kebijakan-pemerintah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU5OTkva2Fwb2xyaS1rZXBlcmNheWFhbi1wdWJsaWstcGVudGluZy11bnR1ay10ZXJ1cy1rYXdhbC1rZWJpamFrYW4tcGVtZXJpbnRhaA==",
-        "description": "Kapolri Jenderal Listyo Sigit Prabowo menginstruksikan kepada seluruh jajarannya untuk kembali meraih kepercayaan publik terhadap institusi Polri. Hal itu dilakukan untuk terus berkomitmen mengawal&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/515998/dua-pelajar-sigi-diajak-berkunjung-ke-studio-metrotv",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE1OTk4L2R1YS1wZWxhamFyLXNpZ2ktZGlhamFrLWJlcmt1bmp1bmcta2Utc3R1ZGlvLW1ldHJvdHY=",
-        "description": "KETUA Yayasan Media Group Ali Sadikin mengundang dua pelajar perwakilan&nbsp;dari Kabupaten Sigi, Sulawesi Tengah, untuk hadir&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/515997/semarakkan-hut-ri-ke-77-sandiaga-uno-buka-pesta-rakyat-di-bekasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTU5OTcvc2VtYXJha2thbi1odXQtcmkta2UtNzctc2FuZGlhZ2EtdW5vLWJ1a2EtcGVzdGEtcmFreWF0LWRpLWJla2FzaQ==",
-        "description": "MENTERI Pariwisata dan Ekonomi Kreatif&nbsp; (Menparekraf) Sandiaga Uno membuka acara Pesta Rakyat di salah satu ikon Mall tertua di Bekasi yakni Mall Bekasi Junction (pasar proyek) yang diselenggarakan&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/515990/thuy-rilis-single-baru-playing-tricks",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNTk5MC90aHV5LXJpbGlzLXNpbmdsZS1iYXJ1LXBsYXlpbmctdHJpY2tz",
-        "description": "MUSISI Amerika Serikat (AS), Thuy merilis single terbaru berjudul Playing Tricks, yang dirilis bersamaan dengan video klip berbentuk&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/515996/kpk-angkut-dokumen-dari-perusahaan-mardani-maming-di-kalsel",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTU5OTYva3BrLWFuZ2t1dC1kb2t1bWVuLWRhcmktcGVydXNhaGFhbi1tYXJkYW5pLW1hbWluZy1kaS1rYWxzZWw=",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) mengangkut sejumlah dokumen usai menggeledah PT Batulicin Enam Sembilan (BL 69) di Kabupaten Tanah Bumbu, Kalimantan Selatan (Kalsel). Perusahaan tersebut milik tersangka&#8230;"
     }
 ]
