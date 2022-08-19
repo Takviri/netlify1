@@ -1,6 +1,41 @@
 [
     {
         "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/516090/stok-beras-dan-jagung-melimpah-bulog-ketahanan-pangan-aman",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjA5MC9zdG9rLWJlcmFzLWRhbi1qYWd1bmctbWVsaW1wYWgtYnVsb2cta2V0YWhhbmFuLXBhbmdhbi1hbWFu",
+        "description": "PERUM Bulog menyatakan kondisi ketahanan pangan Indonesia cukup aman. Hal itu tercermin dari kemampuan produksi bahan pangan utama, seperti beras dan jagung, yang baik. &quot;Untuk beras stoknya&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/516089/hentikan-covid-19-korut-puji-militernya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNjA4OS9oZW50aWthbi1jb3ZpZC0xOS1rb3J1dC1wdWppLW1pbGl0ZXJueWE=",
+        "description": "Pemimpin Korea Utara (Korut), Kim Jong Un menyelenggarakan sebuah upacara sebagai bentuk terima kasih para petugas medis militer. Dia menyatakan keberhasilan penanggulangan covid-19 berkat dedikasi&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/516088/the-next-vibes-season-2-diikuti-peserta-dari-berbagai-penjuru-indonesia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjA4OC90aGUtbmV4dC12aWJlcy1zZWFzb24tMi1kaWlrdXRpLXBlc2VydGEtZGFyaS1iZXJiYWdhaS1wZW5qdXJ1LWluZG9uZXNpYQ==",
+        "description": "Ajang pencarian bakat online terbesar di Indonesia &ldquo;The Next Vibes&rdquo; telah memasuki Season 2. Pada putaran baru ini, sangat terasa peningkatan kualitas dan daerah-daerah asal perserta. Peningkatan&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/516087/lewandowski-jadi-korban-pencurian",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjA4Ny9sZXdhbmRvd3NraS1qYWRpLWtvcmJhbi1wZW5jdXJpYW4=",
+        "description": "NASIB sial dialami penyerang baru Barcelona, Robert Lewandowski. mantan pemain Bayern Muenchen itu menjadi korban aksi pencurian. Peristiwa itu terjadi terjadi saat Lewandowski saat hendak memasuki&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/516086/app-sinar-mas-perkenalkan-industri-pulp-dan-kertas-berkelanjutan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2MDg2L2FwcC1zaW5hci1tYXMtcGVya2VuYWxrYW4taW5kdXN0cmktcHVscC1kYW4ta2VydGFzLWJlcmtlbGFuanV0YW4=",
+        "description": "DALAM upaya mendukung program Merdeka Belajar-Kampus Merdeka (MBKM) Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), Asia Pulp &amp; Paper (APP) Sinar Mas memperkenalkan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/516085/pengertian-reklame-ciri-ciri-tujuan-dan-contoh",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjA4NS9wZW5nZXJ0aWFuLXJla2xhbWUtY2lyaS1jaXJpLXR1anVhbi1kYW4tY29udG9o",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2MDgxL2NpcGVsYW5nLWhlcmFuZy1ha2FuLWphZGktaWtvbi1iYXJ1LXdpc2F0YS1kaS1rb3RhLXN1a2FidW1p",
         "description": "KOTA Sukabumi, Jawa Barat, notabene minim wisata alam. Pemerintah daerah setempat pun terus berupaya memaksimalkan potensi yang ada di tengah keterbatasan agar bisa menarik minat wisatawan datang ke&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/516080/sopir-taksi-dpo-kasus-pencabulan-anak-serahkan-diri",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTYwODAvc29waXItdGFrc2ktZHBvLWthc3VzLXBlbmNhYnVsYW4tYW5hay1zZXJhaGthbi1kaXJp",
-        "description": "SOPIR&nbsp;taksi bernama Ali Suyatno, 50, menyerahkan diri ke polisi setelah ditetapkan sebagai daftar pencarian orang (DPO) dalam kasus pencabulan anak di bawah umur. Lembaga Bantuan Hukum Mawar Saron&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/516079/hut-ke-77-ri-wali-kota-tangsel-serahkan-102-sertifikat-tanah-untuk-warga",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTYwNzkvaHV0LWtlLTc3LXJpLXdhbGkta290YS10YW5nc2VsLXNlcmFoa2FuLTEwMi1zZXJ0aWZpa2F0LXRhbmFoLXVudHVrLXdhcmdh",
-        "description": "Wali Kota Tangerang Selatan (Tangsel) Benyamin Davnie menyerahkan secara simbolis sertifikat tanah kepada warga. Penyerahan sertifikat tersebut digelar saat upacara pengibaran bendera merah putih di&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/516078/dortmund-ogah-tampung-ronaldo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjA3OC9kb3J0bXVuZC1vZ2FoLXRhbXB1bmctcm9uYWxkbw==",
-        "description": "SPEKULASI transfer Cristiano Ronaldo, makin liar. Kini, megabintang Manchester United itu dilaporkan mendekat ke klub Bundesliga, Borussia Dortmund. Seperti dilansir media terkenal Jerman, Bild,&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/516077/gubernur-anies-inisiasi-hunian-terjangkau-sewa-di-kawasan-tod-mrt-jakarta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTYwNzcvZ3ViZXJudXItYW5pZXMtaW5pc2lhc2ktaHVuaWFuLXRlcmphbmdrYXUtc2V3YS1kaS1rYXdhc2FuLXRvZC1tcnQtamFrYXJ0YQ==",
-        "description": "HADIRNYA MRT Jakarta telah mengubah mobilitas warga Jakarta dengan segala kemudahan, kenyamanan, dan keamanannya. Meski demikian, dampak meningkatnya nilai lahan dan properti yang berpotensi&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516073/peduli-sampah-plastik-resta-pendopo-km-456-hadirkan-inovasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2MDczL3BlZHVsaS1zYW1wYWgtcGxhc3Rpay1yZXN0YS1wZW5kb3BvLWttLTQ1Ni1oYWRpcmthbi1pbm92YXNp",
-        "description": "AREA peristirahatan dan destinasi wisata garapan PT Astari Marga Sarana sebagai salah satu anak perusahaan Astra Property, Resta Pendopo KM 456, menghadirkan berbagai inovasi terbaru dalam pengurangan&#8230;"
     }
 ]
