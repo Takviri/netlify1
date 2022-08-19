@@ -1,5 +1,47 @@
 [
     {
+        "title": "Makin Panas, China: Kemerdekaan Taiwan Berarti Perang",
+        "link": "https://www.cnbcindonesia.com/news/20220819142316-4-365081/makin-panas-china-kemerdekaan-taiwan-berarti-perang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE0MjMxNi00LTM2NTA4MS9tYWtpbi1wYW5hcy1jaGluYS1rZW1lcmRla2Fhbi10YWl3YW4tYmVyYXJ0aS1wZXJhbmc=",
+        "description": " China kembali melontarkan pernyataan keras kepada Taiwan. Kali ini, pernyataan itu diutarakan oleh Duta Besar China untuk Inggris, Zheng Zeguang."
+    },
+    {
+        "title": "3.000 Bus TransJakarta Disulap Jadi Bus Listrik, Mulai Kapan?",
+        "link": "https://www.cnbcindonesia.com/news/20220819154410-4-365106/3000-bus-transjakarta-disulap-jadi-bus-listrik-mulai-kapan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE1NDQxMC00LTM2NTEwNi8zMDAwLWJ1cy10cmFuc2pha2FydGEtZGlzdWxhcC1qYWRpLWJ1cy1saXN0cmlrLW11bGFpLWthcGFu",
+        "description": " PT TransJakarta akan mengubah 3.000 armada bus berbahan bakar diesel menjadi bus listrik"
+    },
+    {
+        "title": "Luhut: Harga BBM Tidak Mungkin Kita Pertahankan Lagi",
+        "link": "https://www.cnbcindonesia.com/news/20220819154725-4-365109/luhut-harga-bbm-tidak-mungkin-kita-pertahankan-lagi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE1NDcyNS00LTM2NTEwOS9sdWh1dC1oYXJnYS1iYm0tdGlkYWstbXVuZ2tpbi1raXRhLXBlcnRhaGFua2FuLWxhZ2k=",
+        "description": " Menko Marves Luhut Binsar Pandjaitan menyatakan bahwa Presiden RI Jokowi mengindikasikan harga BBM tidak mungkin dipertahankan"
+    },
+    {
+        "title": "Terungkap! Ini Dia Pemicu Fenomena Lahan Kosong di DKI",
+        "link": "https://www.cnbcindonesia.com/news/20220819145941-4-365095/terungkap-ini-dia-pemicu-fenomena-lahan-kosong-di-dki",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE0NTk0MS00LTM2NTA5NS90ZXJ1bmdrYXAtaW5pLWRpYS1wZW1pY3UtZmVub21lbmEtbGFoYW4ta29zb25nLWRpLWRraQ==",
+        "description": " Lahan-lahan kosong bermunculan di DKI Jakarta."
+    },
+    {
+        "title": "Harga Tiket Pesawat Mulai Turun, JKT-SIN Bisa Cuma 700 Ribuan",
+        "link": "https://www.cnbcindonesia.com/news/20220819143647-4-365093/harga-tiket-pesawat-mulai-turun-jkt-sin-bisa-cuma-700-ribuan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE0MzY0Ny00LTM2NTA5My9oYXJnYS10aWtldC1wZXNhd2F0LW11bGFpLXR1cnVuLWprdC1zaW4tYmlzYS1jdW1hLTcwMC1yaWJ1YW4=",
+        "description": " Harga tiket pesawat mulai menunjukkan sinyal penurunan, menyusul harga avtur."
+    },
+    {
+        "title": "Geger Video Pesta Liar Viral, PM Cantik Finlandia Buka Suara",
+        "link": "https://www.cnbcindonesia.com/news/20220819144427-4-365092/geger-video-pesta-liar-viral-pm-cantik-finlandia-buka-suara",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE0NDQyNy00LTM2NTA5Mi9nZWdlci12aWRlby1wZXN0YS1saWFyLXZpcmFsLXBtLWNhbnRpay1maW5sYW5kaWEtYnVrYS1zdWFyYQ==",
+        "description": " Perdana Menteri Finlandia Sanna Marin buka suara dengan viralnya video \"pesta liar\" yang ia datangi bersama sejumlah rekannya."
+    },
+    {
         "title": "Mimpi Besar Menteri Teten, UMKM Jadi Tulang Punggung Ekonomi",
         "link": "https://www.cnbcindonesia.com/news/20220819144202-8-365091/mimpi-besar-menteri-teten-umkm-jadi-tulang-punggung-ekonomi",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE0MDM1MS00LTM2NTA2MC9qYW1pbmFuLWJpLXVhbmctcnVwaWFoLWJhcnUtc3VsaXQtZGlwYWxzdWthbg==",
         "description": " BI menjamin uang kertas rupiah tahun emisi 2022 semakin sulit dipalsukan"
-    },
-    {
-        "title": "Inovasi Kemenkop UKM Kejar Target Kredit UMKM 30% di 2024",
-        "link": "https://www.cnbcindonesia.com/news/20220819133642-8-365053/inovasi-kemenkop-ukm-kejar-target-kredit-umkm-30-di-2024",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTEzMzY0Mi04LTM2NTA1My9pbm92YXNpLWtlbWVua29wLXVrbS1rZWphci10YXJnZXQta3JlZGl0LXVta20tMzAtZGktMjAyNA==",
-        "description": " Inovasi Kemenkop UKM Kejar Target Kredit UMKM 30% di 2024"
-    },
-    {
-        "title": "'Wanita Iblis' Korut Sarankan Presiden Korsel Tutup Mulut",
-        "link": "https://www.cnbcindonesia.com/news/20220819135134-4-365057/wanita-iblis-korut-sarankan-presiden-korsel-tutup-mulut",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTEzNTEzNC00LTM2NTA1Ny93YW5pdGEtaWJsaXMta29ydXQtc2FyYW5rYW4tcHJlc2lkZW4ta29yc2VsLXR1dHVwLW11bHV0",
-        "description": " Korea Utara (Korut) menolak mentah-mentah tawaran bantuan ekonomi dari Korea Selatan (Korsel) dengan 'imbalan' pelucutan senjata nuklir tetangganya tersebut."
-    },
-    {
-        "title": "Waktu Pembatasan Beli BBM Pertalite Belum Ada Kepastian!",
-        "link": "https://www.cnbcindonesia.com/news/20220819140613-4-365061/waktu-pembatasan-beli-bbm-pertalite-belum-ada-kepastian",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE0MDYxMy00LTM2NTA2MS93YWt0dS1wZW1iYXRhc2FuLWJlbGktYmJtLXBlcnRhbGl0ZS1iZWx1bS1hZGEta2VwYXN0aWFu",
-        "description": " Menteri ESDM Arifin Tasrif belum bisa menyebutkan kapan pembatasan Pertalite akan dijalankan, ia hanya minta untuk menunggu"
-    },
-    {
-        "title": "Ngeri! Pilot Boeing 737 Ketiduran, Pesawat Gagal Mendarat",
-        "link": "https://www.cnbcindonesia.com/news/20220819131559-4-365039/ngeri-pilot-boeing-737-ketiduran-pesawat-gagal-mendarat",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTEzMTU1OS00LTM2NTAzOS9uZ2VyaS1waWxvdC1ib2VpbmctNzM3LWtldGlkdXJhbi1wZXNhd2F0LWdhZ2FsLW1lbmRhcmF0",
-        "description": " Sebuah pesawat udara berjenis Boeing 737 dilaporkan gagal mendarat saat terbang karena pilot tertidur."
-    },
-    {
-        "title": "Teten Masduki dan Strategi Perkuat Kontribusi UMKM Bagi Ekonomi",
-        "link": "https://www.cnbcindonesia.com/news/20220819133518-8-365051/teten-masduki-strategi-perkuat-kontribusi-umkm-bagi-ekonomi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTEzMzUxOC04LTM2NTA1MS90ZXRlbi1tYXNkdWtpLXN0cmF0ZWdpLXBlcmt1YXQta29udHJpYnVzaS11bWttLWJhZ2ktZWtvbm9taQ==",
-        "description": " Teten Masduki dan Strategi Perkuat Kontribusi UMKM Bagi Ekonomi"
-    },
-    {
-        "title": "Intip Gaya Erdogan Temui Zelensky di Ukraina, Ada yang Beda?",
-        "link": "https://www.cnbcindonesia.com/news/20220819132114-7-365040/intip-gaya-erdogan-temui-zelensky-di-ukraina-ada-yang-beda",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTEzMjExNC03LTM2NTA0MC9pbnRpcC1nYXlhLWVyZG9nYW4tdGVtdWktemVsZW5za3ktZGktdWtyYWluYS1hZGEteWFuZy1iZWRh",
-        "description": " Presiden Turki Recep Tayyip Erdogan bertemu dengan Presiden Ukraina Volodymyr Zelenskyy di kota Lviv, Ukraina, dekat perbatasan Polandia, Kamis (18/8/2022)."
     }
 ]
