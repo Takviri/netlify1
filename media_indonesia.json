@@ -1,5 +1,26 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/516022/filmhansan-rising-dragon-tuai-pujian",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjAyMi9maWxtaGFuc2FuLXJpc2luZy1kcmFnb24tdHVhaS1wdWppYW4=",
+        "description": "KOREA Cultural Centre Indonesia (KCCI) menggelar pemutaran perdana film Hansan: Rising Dragon di CGV Grand Indonesia pada Kamis (18/8). Beberapa waktu lalu, film itu menembus angka 6 juta penonton&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516021/ini-syarat-dan-biaya-pembuatan-sim-c",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTYwMjEvaW5pLXN5YXJhdC1kYW4tYmlheWEtcGVtYnVhdGFuLXNpbS1j",
+        "description": "DALAM berlalu lintas, pengendara diharuskan untuk memiliki Surat Izin Mengemudi (SIM), untuk menunjukkan legalitasnya mengendara, baik&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/516019/raducanu-tersingkir-di-putaran-ketiga-cincinnati-masters",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTYwMTkvcmFkdWNhbnUtdGVyc2luZ2tpci1kaS1wdXRhcmFuLWtldGlnYS1jaW5jaW5uYXRpLW1hc3RlcnM=",
+        "description": "PETENIS peringkat teratas Amerika Serikat (AS) Jessica Pegula&nbsp;mengakhiri laju juara AS Terbuka Emma Raducanu di babak ketiga Cincinnati&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/516016/janji-tegas-soal-judi-kapolri-kapolres-direktur-kapolda-saya-copot",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjAwOS9kaXRvbnRvbi1sYW5nc3VuZy1wZW5kdWt1bmctcHNzLWJlcnRla2FkLWthbGFoa2FuLXBlcnNpYg==",
         "description": "PELATIH Kepala PSS Sleman Seto Nurdiantoro mengatakan kehadiran suporter menjadi motivasi lebih bagi timnya untuk menang atas Persib Bandung pada laga lanjutan <a href=\"http://mediaindonesia.com/tag/liga-1\"&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/516008/pelatih-targetkan-ganda-putri-raih-medali-di-kejuaraan-dunia-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTYwMDgvcGVsYXRpaC10YXJnZXRrYW4tZ2FuZGEtcHV0cmktcmFpaC1tZWRhbGktZGkta2VqdWFyYWFuLWR1bmlhLTIwMjI=",
-        "description": "TIM bulu tangkis Indonesia berambisi membawa pulang medali dari nomor ganda putri di Kejuaraan Dunia BWF 2022, yang&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/516007/wimt-2022-riders-tuntas-jelajahi-lima-negara",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTYwMDcvd2ltdC0yMDIyLXJpZGVycy10dW50YXMtamVsYWphaGktbGltYS1uZWdhcmE=",
-        "description": "JELANG hari ulang tahun (HUT) ke-77 RI, Wonderful Indonesia Motorbike Touring (WIMT) 2022 Riders akhirnya sukses menuntaskan kegiatan touring lintas negara yang diselenggarakan Ikatan Motor Indonesia&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/516006/superman-is-dead-kembali-ke-jalur-independen-mulai-tahun-ini",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjAwNi9zdXBlcm1hbi1pcy1kZWFkLWtlbWJhbGkta2UtamFsdXItaW5kZXBlbmRlbi1tdWxhaS10YWh1bi1pbmk=",
-        "description": "GRUP musik punk rock Superman Is Dead (disingkat SID), Kamis (18/8), bertepatan dengan peringatan hari jadi ke-27 mereka,&#8230;"
     }
 ]
