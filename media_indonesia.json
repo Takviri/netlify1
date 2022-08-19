@@ -1,5 +1,19 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/516204/komitmen-hasnur-group-menjalankan-bisnis-berkelanjutan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2MjA0L2tvbWl0bWVuLWhhc251ci1ncm91cC1tZW5qYWxhbmthbi1iaXNuaXMtYmVya2VsYW5qdXRhbg==",
+        "description": "MENGUSUNG tagline &ldquo;Bersatu dan Tumbuh lebih cepat kuat dan berkah&rdquo; Hasnur Group merayakan ulang tahun yang ke-56 pada 27 Agustus 2022. Kegiatan sendiri telah berlangsung&#8230;"
+    },
+    {
+        "title": "Opini",
+        "link": "https://m.mediaindonesia.com/opini/516096/merdeka-berdaulat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vcGluaS81MTYwOTYvbWVyZGVrYS1iZXJkYXVsYXQ=",
+        "description": "APA makna usia 77 tahun? Bagi seorang manusia, berhasil mencapai umur 77 bisa dikatakan luar biasa meskipun ketika angka harapan hidup semakin meningkat, lebih banyak lagi yang mampu mencapainya. Walau&#8230;"
+    },
+    {
         "title": "Otomotif",
         "link": "https://m.mediaindonesia.com/otomotif/516203/honda-tingkatkan-layanan-purnajual",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2MTk2L3JhdHVzYW4tdGl0aWstcGFuYXMtYmVydGViYXJhbi1kaS1iYWJlbA==",
         "description": "RATUSAN titik panas atau hotspot yang diduga dari kebakaran hutan dan lahan (karhutla) terpantau satelit di Bangka Belitung (Babel), Jumat (19/8). Kepala Badan Penanggulangan Bencana Daerah (BPBD)&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516195/dcf-2022-digelar-2-4-september",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2MTk1L2RjZi0yMDIyLWRpZ2VsYXItMi00LXNlcHRlbWJlcg==",
-        "description": "SETELAH digelar secara virtual karena pandemi Covid-19, ajang Dieng Culture Festival (DCF) 2022 akan dilaksanakan secara tatap muka. Sebagian tiket acara yang akan diselenggarakan 2-4 September mendatang&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/516194/5000-pelari-siap-semarakkan-brimo-colourful-run-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjE5NC81MDAwLXBlbGFyaS1zaWFwLXNlbWFyYWtrYW4tYnJpbW8tY29sb3VyZnVsLXJ1bi0yMDIy",
-        "description": "SEBANYAK&nbsp;5.000 pelari individu turut berpartisipasi dalam event BRImo Colourful Run 2022 yang diselenggarakan PT Bank Rakyat Indonesia (Persero) Tbk pada Minggu (21/8) di Plaza Timur Gelora Bung&#8230;"
     }
 ]
