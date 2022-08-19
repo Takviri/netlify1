@@ -1,5 +1,33 @@
 [
     {
+        "title": "Alert! Kasus Covid-19 RI Hari Ini Melonjak Lagi Tembus 5.000",
+        "link": "https://www.cnbcindonesia.com/news/20220819161436-4-365120/alert-kasus-covid-19-ri-hari-ini-melonjak-lagi-tembus-5000",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE2MTQzNi00LTM2NTEyMC9hbGVydC1rYXN1cy1jb3ZpZC0xOS1yaS1oYXJpLWluaS1tZWxvbmphay1sYWdpLXRlbWJ1cy01MDAw",
+        "description": " Kasus harian Covid-19 Indonesia kembali tembus 5.000"
+    },
+    {
+        "title": "Aksi Nyata Kemenkop UKM Wujudkan UMKM Go Digital",
+        "link": "https://www.cnbcindonesia.com/news/20220819141223-8-365067/aksi-nyata-kemenkop-ukm-wujudkan-umkm-go-digital",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE0MTIyMy04LTM2NTA2Ny9ha3NpLW55YXRhLWtlbWVua29wLXVrbS13dWp1ZGthbi11bWttLWdvLWRpZ2l0YWw=",
+        "description": " Aksi Nyata Kemenkop UKM Wujudkan UMKM Go Digital"
+    },
+    {
+        "title": "Gawat Darurat! Neraca Migas RI Defisit Terdalam Sejak 2010",
+        "link": "https://www.cnbcindonesia.com/news/20220819155439-4-365114/gawat-darurat-neraca-migas-ri-defisit-terdalam-sejak-2010",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE1NTQzOS00LTM2NTExNC9nYXdhdC1kYXJ1cmF0LW5lcmFjYS1taWdhcy1yaS1kZWZpc2l0LXRlcmRhbGFtLXNlamFrLTIwMTA=",
+        "description": " Neraca pembayaran migas defisit parah karena volume impor dan harganya juga meningkat"
+    },
+    {
+        "title": "Potret Sejarah Rupiah: Dari Era 'Kumpeni' Sampai Emisi 2022",
+        "link": "https://www.cnbcindonesia.com/news/20220819141337-7-365069/potret-sejarah-rupiah-dari-era-kumpeni-sampai-emisi-2022",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE0MTMzNy03LTM2NTA2OS9wb3RyZXQtc2VqYXJhaC1ydXBpYWgtZGFyaS1lcmEta3VtcGVuaS1zYW1wYWktZW1pc2ktMjAyMg==",
+        "description": " Bank Indonesia (BI) menggelar Festival Rupiah Berdaulat Indonesia (FERBI) 2022 dengan tema Bersatu Dalam Rupiah Berdaulat di NKRI."
+    },
+    {
         "title": "Makin Panas, China: Kemerdekaan Taiwan Berarti Perang",
         "link": "https://www.cnbcindonesia.com/news/20220819142316-4-365081/makin-panas-china-kemerdekaan-taiwan-berarti-perang",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE0NDQyNy00LTM2NTA5Mi9nZWdlci12aWRlby1wZXN0YS1saWFyLXZpcmFsLXBtLWNhbnRpay1maW5sYW5kaWEtYnVrYS1zdWFyYQ==",
         "description": " Perdana Menteri Finlandia Sanna Marin buka suara dengan viralnya video \"pesta liar\" yang ia datangi bersama sejumlah rekannya."
-    },
-    {
-        "title": "Mimpi Besar Menteri Teten, UMKM Jadi Tulang Punggung Ekonomi",
-        "link": "https://www.cnbcindonesia.com/news/20220819144202-8-365091/mimpi-besar-menteri-teten-umkm-jadi-tulang-punggung-ekonomi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE0NDIwMi04LTM2NTA5MS9taW1waS1iZXNhci1tZW50ZXJpLXRldGVuLXVta20tamFkaS10dWxhbmctcHVuZ2d1bmctZWtvbm9taQ==",
-        "description": " Mimpi Besar Menteri Teten, UMKM Jadi Tulang Punggung Ekonomi RI"
-    },
-    {
-        "title": "Menteri ESDM Sebut RI Waspada di Kuartal IV, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220819143909-4-365088/menteri-esdm-sebut-ri-waspada-di-kuartal-iv-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE0MzkwOS00LTM2NTA4OC9tZW50ZXJpLWVzZG0tc2VidXQtcmktd2FzcGFkYS1kaS1rdWFydGFsLWl2LWFkYS1hcGE=",
-        "description": " Menteri ESDM Arifin Tasrif sebut permintaan BBM akan mengalami peningkatan di kuartal IV, khususnya untuk listrik"
-    },
-    {
-        "title": "Siap-siap! Kenaikan Harga BBM Pertalite Diumumkan Pekan Depan",
-        "link": "https://www.cnbcindonesia.com/news/20220819151035-4-365097/siap-siap-kenaikan-harga-bbm-pertalite-diumumkan-pekan-depan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE1MTAzNS00LTM2NTA5Ny9zaWFwLXNpYXAta2VuYWlrYW4taGFyZ2EtYmJtLXBlcnRhbGl0ZS1kaXVtdW1rYW4tcGVrYW4tZGVwYW4=",
-        "description": " Menko Marves Luhut Binsar Pandjaitan menyatakan, Presiden Jokowi akan mengumumkan kenaikan harga BBM Pertalite pekan depan"
-    },
-    {
-        "title": "Jaminan BI: Uang Rupiah Baru Sulit Dipalsukan!",
-        "link": "https://www.cnbcindonesia.com/news/20220819140351-4-365060/jaminan-bi-uang-rupiah-baru-sulit-dipalsukan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE0MDM1MS00LTM2NTA2MC9qYW1pbmFuLWJpLXVhbmctcnVwaWFoLWJhcnUtc3VsaXQtZGlwYWxzdWthbg==",
-        "description": " BI menjamin uang kertas rupiah tahun emisi 2022 semakin sulit dipalsukan"
     }
 ]
