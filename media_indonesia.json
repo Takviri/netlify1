@@ -1,6 +1,20 @@
 [
     {
         "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/516344/jon-bodo-merdeka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNjM0NC9qb24tYm9kby1tZXJkZWth",
+        "description": "KENAPA kam Nen, lemes banget kayak belum makan aja."
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/516342/bung-sentil-kerajaan-ketoprak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNjM0Mi9idW5nLXNlbnRpbC1rZXJhamFhbi1rZXRvcHJhaw==",
+        "description": "KATA pejabat tinggi, di Polri ada klaster-klaster seperti kerajaan. Sangat berkuasa dan sulit di tembus.\n&nbsp;"
+    },
+    {
+        "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/516373/lima-pahlawan-kemajuan-keluarga",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNjM3My9saW1hLXBhaGxhd2FuLWtlbWFqdWFuLWtlbHVhcmdh",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2MzY0L3Nvc2lhbC1tZWRpYS1qYWRpLWplbWJhdGFuLXVudHVrLW1lbmViYXIta2ViYWlrYW4=",
         "description": "SOSIAL media (sosmed) kini menjadi wadah baru bagi masyarakat untuk bersuara. Dengan jangkauannya yang luas, sosial media memiliki kekuatan untuk menggalang berbagai aksi dan suara masyarakat dari&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/516368/giias-2022-gelar-malam-penghargaan-peserta-pameran",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTYzNjgvZ2lpYXMtMjAyMi1nZWxhci1tYWxhbS1wZW5naGFyZ2Fhbi1wZXNlcnRhLXBhbWVyYW4=",
-        "description": "PAMERAN otomotif Gaikindo Indonesia International Auto Show (GIIAS) 2022 akan segera berakhir. Memasuki hari ke-10 pada Sabtu (20/8) pengunjung terlihat sangat antusias pada semua zona pameran. Mulai&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/516367/kowarteg-tebarkan-aspirasi-ganjar-di-jakarta-pusat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTYzNjcva293YXJ0ZWctdGViYXJrYW4tYXNwaXJhc2ktZ2FuamFyLWRpLWpha2FydGEtcHVzYXQ=",
-        "description": "PARA relawan Komunitas Warteg Indonesia (Kowarteg) melanjutkan gerilya menyebarkan aspirasi &lsquo;Ganjar Pranowo Presiden 2024&rsquo;, Sabtu (20/8/2022). Kali ini, mereka menyambangi Pasar Pintu Air&#8230;"
     }
 ]
