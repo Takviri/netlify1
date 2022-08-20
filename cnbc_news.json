@@ -1,5 +1,19 @@
 [
     {
+        "title": "Petani China Gagal Panen Akibat Kekeringan Parah",
+        "link": "https://www.cnbcindonesia.com/news/20220820132504-7-365255/petani-china-gagal-panen-akibat-kekeringan-parah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDEzMjUwNC03LTM2NTI1NS9wZXRhbmktY2hpbmEtZ2FnYWwtcGFuZW4tYWtpYmF0LWtla2VyaW5nYW4tcGFyYWg=",
+        "description": " China menyatakan keadaan darurat kekeringan pertamanya pada tahun ini. Akibat gelombang panas dan suhu terik hingga mengeringkan beberapa daerah sungai."
+    },
+    {
+        "title": "Mr Biden Sabar Ya! China - Rusia Makin Mesra, Ini Buktinya",
+        "link": "https://www.cnbcindonesia.com/news/20220820134019-4-365262/mr-biden-sabar-ya-china--rusia-makin-mesra-ini-buktinya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDEzNDAxOS00LTM2NTI2Mi9tci1iaWRlbi1zYWJhci15YS1jaGluYS0tcnVzaWEtbWFraW4tbWVzcmEtaW5pLWJ1a3Rpbnlh",
+        "description": " Rusia mempertahankan posisinya sebagai pemasok minyak utama China untuk bulan ketiga pada Juli 2022."
+    },
+    {
         "title": "Ternyata! Jokowi Masih Ingin Pembatasan BBM, Bukan Harga Naik",
         "link": "https://www.cnbcindonesia.com/news/20220820132236-4-365253/ternyata-jokowi-masih-ingin-pembatasan-bbm-bukan-harga-naik",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTIwMzM1Ni00LTM2NTE5Ni9za2FuZGFsLWxhZ2ktc2V0ZWxhaC1wbS1maW5sYW5kaWEta2luaS1rYW5zZWxpci1qZXJtYW4=",
         "description": " Kanselir Jerman Olaf Scholz terseret pusaran skandal pajak."
-    },
-    {
-        "title": "Hot News: Rusia VS Ukraina Hingga, Vaksin Covid-19 di RI",
-        "link": "https://www.cnbcindonesia.com/news/20220819183610-8-365173/hot-news-rusia-vs-ukraina-hingga-vaksin-covid-19-di-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTE4MzYxMC04LTM2NTE3My9ob3QtbmV3cy1ydXNpYS12cy11a3JhaW5hLWhpbmdnYS12YWtzaW4tY292aWQtMTktZGktcmk=",
-        "description": " Rusia mengerahkan pesawat tempur yang dipersenjatai dengan rudal hipersonik, hingga sejumlah vaksin dijadikan Booster di Indonesia."
-    },
-    {
-        "title": "Kuota Menipis-Subsidi Tak Tepat Sasaran, Harga BBM Kudu Naik?",
-        "link": "https://www.cnbcindonesia.com/news/20220818120645-8-364709/kuota-menipis-subsidi-tak-tepat-sasaran-harga-bbm-kudu-naik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxODEyMDY0NS04LTM2NDcwOS9rdW90YS1tZW5pcGlzLXN1YnNpZGktdGFrLXRlcGF0LXNhc2FyYW4taGFyZ2EtYmJtLWt1ZHUtbmFpaw==",
-        "description": " Kuota Menipis dan Subsidi Tak Tepat Sasaran, Harga BBM Subsidi Harus Naik?"
     }
 ]
