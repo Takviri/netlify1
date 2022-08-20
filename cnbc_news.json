@@ -1,5 +1,19 @@
 [
     {
+        "title": "Update Kasus Covid-19 di RI: Hari Ini Bertambah 4.922",
+        "link": "https://www.cnbcindonesia.com/news/20220820181231-4-365296/update-kasus-covid-19-di-ri-hari-ini-bertambah-4922",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE4MTIzMS00LTM2NTI5Ni91cGRhdGUta2FzdXMtY292aWQtMTktZGktcmktaGFyaS1pbmktYmVydGFtYmFoLTQ5MjI=",
+        "description": " Hari ini ada 4.922 kasus konfirmasi Covid, melandai dibandingkan dengan kemarin"
+    },
+    {
+        "title": "Kecelakaan di Tol, Ini Sepak Terjang Hermanto Dardak",
+        "link": "https://www.cnbcindonesia.com/news/20220820171629-8-365292/kecelakaan-di-tol-ini-sepak-terjang-hermanto-dardak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE3MTYyOS04LTM2NTI5Mi9rZWNlbGFrYWFuLWRpLXRvbC1pbmktc2VwYWstdGVyamFuZy1oZXJtYW50by1kYXJkYWs=",
+        "description": " Kecelakaan di Tol, Ini Sepak Terjang Hermanto Dardak"
+    },
+    {
         "title": "Insiden Kapal Tanker Jepang Tabrak Kapal Kargo China",
         "link": "https://www.cnbcindonesia.com/news/20220820162254-7-365282/insiden-kapal-tanker-jepang-tabrak-kapal-kargo-china",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE1MDY1NC00LTM2NTI3MC9lcmljay1idWthbi16YW1hbm55YS1sYWdpLW9yYW5nLWtheWEtcGFrYWktYmJtLXN1YnNpZGk=",
         "description": " Menteri BUMN Erick Thohir mengatakan sudah bukan eranya lagi yang mampu justru memakai BBM bersubsidi"
-    },
-    {
-        "title": "Siap-Siap! Kalau Sampai Naik, Harga Pertalite Jadi Segini",
-        "link": "https://www.cnbcindonesia.com/news/20220820145129-4-365268/siap-siap-kalau-sampai-naik-harga-pertalite-jadi-segini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE0NTEyOS00LTM2NTI2OC9zaWFwLXNpYXAta2FsYXUtc2FtcGFpLW5haWstaGFyZ2EtcGVydGFsaXRlLWphZGktc2VnaW5p",
-        "description": " Harga Pertamax keekonomian Rp 15.150, namun di eceran masih Rp 12.500 per liter. Dan Pertalite keekonomiannya Rp 13.150 tapi ecerannya Rp 7.650 per liter"
-    },
-    {
-        "title": "Orang Inggris Ini Bilang Putin Harusnya Gak Hadir di G20 Bali",
-        "link": "https://www.cnbcindonesia.com/news/20220820161841-4-365281/orang-inggris-ini-bilang-putin-harusnya-gak-hadir-di-g20-bali",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE2MTg0MS00LTM2NTI4MS9vcmFuZy1pbmdncmlzLWluaS1iaWxhbmctcHV0aW4taGFydXNueWEtZ2FrLWhhZGlyLWRpLWcyMC1iYWxp",
-        "description": " Salah satu kandidat Perdana Menteri Inggris, Rishi Sunak, meminta G20 untuk melarang Presiden Rusia Vladimir Putin ikut dalam pertemuan G20 di Bali"
     }
 ]
