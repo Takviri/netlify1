@@ -1,5 +1,47 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/516346/bastianini-raih-pole-position-motogp-austria",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTYzNDYvYmFzdGlhbmluaS1yYWloLXBvbGUtcG9zaXRpb24tbW90b2dwLWF1c3RyaWE=",
+        "description": "PEMBALAP Italia, Enea Bastianini akan start dari posisi terdepan MotoGP Austria besok, setelah di babak kualifikasi, Sabtu (20/8) menjadi yang tercepat. Pembalap tim Ducati-Gresini tersebut memenangi&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/516339/mengenang-hermanto-dardak-wakil-menteri-pekerjaan-umum-era-sby",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjMzOS9tZW5nZW5hbmctaGVybWFudG8tZGFyZGFrLXdha2lsLW1lbnRlcmktcGVrZXJqYWFuLXVtdW0tZXJhLXNieQ==",
+        "description": "KECELAKAAN di ruas Tol Pemalang-Batang pada jam setengah empat Sabtu pagi (20/8) merenggut nyawa salah satu putra terbaik yang dimiliki Indonesia. Sosok insinyur dan teknokrat yang kontribusinya&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/516343/sahabat-ganjar-bidik-siswa-berprestasi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2MzQzL3NhaGFiYXQtZ2FuamFyLWJpZGlrLXNpc3dhLWJlcnByZXN0YXNp",
+        "description": "LOMBA Kejuruan Siswa (LKS) merupakan ajang kompetisi untuk mengukur kemampuan kompetensi siswa SMK. Setelah sukses menggelar di beberapa kota besar sebelumnya, Sahabat Ganjar kembali mengadakan ajang&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/516341/bawa-tottenham-tundukkan-wolverhampton-kane-cetak-rekor-liga-primer",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjM0MS9iYXdhLXRvdHRlbmhhbS10dW5kdWtrYW4td29sdmVyaGFtcHRvbi1rYW5lLWNldGFrLXJla29yLWxpZ2EtcHJpbWVy",
+        "description": "TOTTENHAM Hotspur meraih poin sempurna saat menjamu Wolverhampton Wanderers dalam lanjutan Liga Primer Inggris, Sabtu (20/8). Bermain di kandang, Tottenham menang 1-0 melalui gol Harry Kane menit ke-64.&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/516337/pakar-kasus-cacar-monyet-di-dunia-meningkat-20-dalam-seminggu",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2MzM3L3Bha2FyLWthc3VzLWNhY2FyLW1vbnlldC1kaS1kdW5pYS1tZW5pbmdrYXQtMjAtZGFsYW0tc2VtaW5nZ3U=",
+        "description": "MANTAN Direktur Penyakit Menular Badan Kesehatan Dunia (WHO) Asia Tenggara, Prof Tjandra Yoga Aditama mengungkapkan kasus cacar monyet di dunia terus mengalami peningkatan. Dalam statistik disebutkan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516340/sebarkan-hoaks-ok-kaligis-laporkan-pemilik-akun-twiter-elisabethn_",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTYzNDAvc2ViYXJrYW4taG9ha3Mtb2sta2FsaWdpcy1sYXBvcmthbi1wZW1pbGlrLWFrdW4tdHdpdGVyLWVsaXNhYmV0aG5f",
+        "description": "DINILAI mencemarkan nama baik dan menyebarkan berita bohong, Elisabeth Novitasari Sijabat yang menggunakan akun Twitter @elisabethn_ akan dilaporkan ke polisi oleh pengacara OC Kaligis. Demikian&#8230;"
+    },
+    {
         "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/516334/sidak-spbu-erick-pastikan-ketersediaan-bbm-bersubsidi-di-tangerang",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTYzMzAvcGVsaXRhLWpheWEtcmVidXQtZ2ltLXBlcnRhbWEtc2VtaWZpbmFsLWlibA==",
         "description": "PELITA Jaya Bakrie Jakarta mampu merebut gim pertama partai semifinal IBL 2022 melawan West Bandits Combiphar Solo di GOR C-Tra Arena Bandung, Jawa Barat, Sabtu (20/8). Kemenangan 80-71 diraih finalis&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516331/golkar-klaten-targetkan-10-kursi-dprd",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2MzMxL2dvbGthci1rbGF0ZW4tdGFyZ2V0a2FuLTEwLWt1cnNpLWRwcmQ=",
-        "description": " DEWAN Pimpinan Daerah (DPD) Partai Golkar Kabupaten Klaten, Jawa Tengah, menargetkan 10 kursi di DPRD Klaten pada Pemilu 2024. Untuk itu, mereka sudah mulai melakukan pengintegrasian kegiatan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516329/putri-habibie-luncurkan-nugget-ikan-ciroyom-produk-kreasi-kelompok-pkk-desa-ciroyom",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2MzI5L3B1dHJpLWhhYmliaWUtbHVuY3Vya2FuLW51Z2dldC1pa2FuLWNpcm95b20tcHJvZHVrLWtyZWFzaS1rZWxvbXBvay1wa2stZGVzYS1jaXJveW9t",
-        "description": "PEGIAT Memasak, Putri Habibie .eluncurkan Nugget Ikan Ciroyom, produk kreasi Kelompok Ibu Pembinaan Kesejahteraan Keluarga (PKK) di Desa Ciroyom, Kabupaten Bandung Barat, Jawa Barat. Nugget Ikan Ciroyom&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/516328/cacar-monyet-bisa-sembuh-dengan-sendirinya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2MzI4L2NhY2FyLW1vbnlldC1iaXNhLXNlbWJ1aC1kZW5nYW4tc2VuZGlyaW55YQ==",
-        "description": "JURU Bicara Kementerian Mohammad Syahril mengungkapkan, virus cacar monyet berbeda dengan covid-19 yang membutuhkan penanganan khusus. Ia menegaskan bahwa cacar monyet bukanlah penyakit yang berat.&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516327/gereja-di-yogyakarta-gelorakan-semangat-harmony-in-diversity",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2MzI3L2dlcmVqYS1kaS15b2d5YWthcnRhLWdlbG9yYWthbi1zZW1hbmdhdC1oYXJtb255LWluLWRpdmVyc2l0eQ==",
-        "description": "GEREJA Kristus Raja Baciro menggelar Dialog Kebangsaan Memperingati HUT Kemerdekaan ke-77 RI, Jumat (20/8) malam. Dialog lintas iman ini mengangkat tema Harmony in Diversity. Uskup Agung Semarang&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/516326/sck-cg-siapkan-beasiswa-untuk-siswa-berprestasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2MzI2L3Njay1jZy1zaWFwa2FuLWJlYXNpc3dhLXVudHVrLXNpc3dhLWJlcnByZXN0YXNp",
-        "description": "BERTEMA 'Culture Day', Sekolah Citra Kasih Citra Garden (SCK CG) Jakarta, menggelar open house di Gedung TK-SD di Citra 2 dan Dedung SMP-SMA di Citra 5, Sabtu (20/8). Open ini digelar sebagai&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/516325/sebagai-bentuk-peduli-kemanusiaan-alumni-smandel-gelar-donor-darah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTYzMjUvc2ViYWdhaS1iZW50dWstcGVkdWxpLWtlbWFudXNpYWFuLWFsdW1uaS1zbWFuZGVsLWdlbGFyLWRvbm9yLWRhcmFo",
-        "description": "DALAM rangka memperingati ulang tahun&nbsp;ke-64 SMAN 8 (Smandel) Jakarta, pengurus IAS (Ikatan Alumni Smandel) menggelar acara donor darah dan juga bazaar oleh dan untuk alumni. Pelaksanaan dua kegiatan&#8230;"
     }
 ]

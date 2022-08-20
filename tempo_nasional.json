@@ -1,5 +1,12 @@
 [
     {
+        "title": "Lima Hal yang Membuat Pertanian Kuat",
+        "link": "https://nasional.tempo.co/read/1624953/lima-hal-yang-membuat-pertanian-kuat",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjQ5NTMvbGltYS1oYWwteWFuZy1tZW1idWF0LXBlcnRhbmlhbi1rdWF0",
+        "description": "Indonesia terbukti mampu bertahan salah satunya berkat adanya pertanian yang kuat"
+    },
+    {
         "title": "Kemenkes Imbau Masyarakat Jaga Prokes karena Cacar Monyet Menular Lewat Sentuhan",
         "link": "https://nasional.tempo.co/read/1624936/kemenkes-imbau-masyarakat-jaga-prokes-karena-cacar-monyet-menular-lewat-sentuhan",
         "image": "static/images/tempo_nasional.png",
@@ -61,12 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjQ4OTcvc2VsYWluLWZlcmR5LXNhbWJvLWRhbi1pc3RyaW55YS1pbmlsYWgtNC1wYXNhbmdhbi1wZWphYmF0LXlhbmctcGVybmFoLWphZGktdGVyc2FuZ2th",
         "description": "Tak hanya Ferdy Sambo dan Putri Candrawathi, berikut ini daftar pasangan pejabat yang menjadi tersangka sebuah tindak pidana."
-    },
-    {
-        "title": "Komnas HAM: Keterangan Putri Candrawathi Jadi Pelengkap Laporan yang Diserahkan ke Presiden",
-        "link": "https://nasional.tempo.co/read/1624903/komnas-ham-keterangan-putri-candrawathi-jadi-pelengkap-laporan-yang-diserahkan-ke-presiden",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjQ5MDMva29tbmFzLWhhbS1rZXRlcmFuZ2FuLXB1dHJpLWNhbmRyYXdhdGhpLWphZGktcGVsZW5na2FwLWxhcG9yYW4teWFuZy1kaXNlcmFoa2FuLWtlLXByZXNpZGVu",
-        "description": "Menurut Komnas HAM finalisasi laporan tetap dilakukan meski tanpa keterangan Putri Candrawathi. Laporan dipaparkan ke DPR saat RDP Senin."
     }
 ]

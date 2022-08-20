@@ -1,5 +1,26 @@
 [
     {
+        "title": "Kemenkes Siapkan Pengadaan 10.000 Vaksin Cacar Monyet",
+        "link": "https://www.cnbcindonesia.com/news/20220820203117-4-365304/kemenkes-siapkan-pengadaan-10000-vaksin-cacar-monyet",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDIwMzExNy00LTM2NTMwNC9rZW1lbmtlcy1zaWFwa2FuLXBlbmdhZGFhbi0xMDAwMC12YWtzaW4tY2FjYXItbW9ueWV0",
+        "description": " Insya Allah ada sekitar 10.000 vaksin"
+    },
+    {
+        "title": "Banyak Minyak, Arab Saudi Ternyata Punya Utang Maha Dahsyat",
+        "link": "https://www.cnbcindonesia.com/news/20220820201712-4-365303/banyak-minyak-arab-saudi-ternyata-punya-utang-maha-dahsyat",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDIwMTcxMi00LTM2NTMwMy9iYW55YWstbWlueWFrLWFyYWItc2F1ZGktdGVybnlhdGEtcHVueWEtdXRhbmctbWFoYS1kYWhzeWF0",
+        "description": " Pandemi Covid-19 Membuat Utang Arab Saudi Terus Membengkak"
+    },
+    {
+        "title": "Biar Paham! Cacar Monyet Tak Serang Kelompok Tertentu",
+        "link": "https://www.cnbcindonesia.com/news/20220820195815-4-365302/biar-paham-cacar-monyet-tak-serang-kelompok-tertentu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE5NTgxNS00LTM2NTMwMi9iaWFyLXBhaGFtLWNhY2FyLW1vbnlldC10YWstc2VyYW5nLWtlbG9tcG9rLXRlcnRlbnR1",
+        "description": " Cacar monyet tidak menyerang kelompok-kelompok tertentu, jangan sampai ada salah pemahaman"
+    },
+    {
         "title": "Kalau Pertalite Naik, Ini Dampak Ngeri Bagi Menengah ke Bawah",
         "link": "https://www.cnbcindonesia.com/news/20220820194435-4-365301/kalau-pertalite-naik-ini-dampak-ngeri-bagi-menengah-ke-bawah",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE2MjI1NC03LTM2NTI4Mi9pbnNpZGVuLWthcGFsLXRhbmtlci1qZXBhbmctdGFicmFrLWthcGFsLWthcmdvLWNoaW5h",
         "description": " Sebuah kapal tanker kimia Jepang menabrak sebuah kapal kargo di lepas pantai barat daya Jepang."
-    },
-    {
-        "title": "Dilema 'Negara Gagal' Lebanon: Kerja Ga Digaji-Krisis-Korupsi",
-        "link": "https://www.cnbcindonesia.com/news/20220820163207-4-365288/dilema-negara-gagal-lebanon-kerja-ga-digaji-krisis-korupsi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE2MzIwNy00LTM2NTI4OC9kaWxlbWEtbmVnYXJhLWdhZ2FsLWxlYmFub24ta2VyamEtZ2EtZGlnYWppLWtyaXNpcy1rb3J1cHNp",
-        "description": " Krisis ekonomi yang melanda Lebanon semakin parah hingga membuat negara ini disebut 'negara gagal'."
-    },
-    {
-        "title": "Waspada! Cacar Monyet Sudah Masuk RI, 1 Orang Terkonfirmasi",
-        "link": "https://www.cnbcindonesia.com/news/20220820172653-4-365293/waspada-cacar-monyet-sudah-masuk-ri-1-orang-terkonfirmasi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE3MjY1My00LTM2NTI5My93YXNwYWRhLWNhY2FyLW1vbnlldC1zdWRhaC1tYXN1ay1yaS0xLW9yYW5nLXRlcmtvbmZpcm1hc2k=",
-        "description": " seperti juga negara-negara tetangga lainnya, penyakit ini sudah masuk Indonesia."
-    },
-    {
-        "title": "Bandara Kertajati Siap Terbangkan Jemaah Umrah Mulai November",
-        "link": "https://www.cnbcindonesia.com/news/20220820155953-4-365278/bandara-kertajati-siap-terbangkan-jemaah-umrah-mulai-november",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE1NTk1My00LTM2NTI3OC9iYW5kYXJhLWtlcnRhamF0aS1zaWFwLXRlcmJhbmdrYW4tamVtYWFoLXVtcmFoLW11bGFpLW5vdmVtYmVy",
-        "description": " Seluruh fasilitas keamanan dan pelayanan di Bandara Kertajati dipastikan siap untuk melayani penerbangan umrah mulai November 2022"
     }
 ]
