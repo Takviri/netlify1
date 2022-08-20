@@ -1,5 +1,12 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/516237/exxonmobil-cepu-limited-menunjuk-carole-gall-sebagai-presiden",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjIzNy9leHhvbm1vYmlsLWNlcHUtbGltaXRlZC1tZW51bmp1ay1jYXJvbGUtZ2FsbC1zZWJhZ2FpLXByZXNpZGVu",
+        "description": "EXXONMOBIL Cepu Limited telah menunjuk Carole Gall sebagai Presiden, dan berlaku efektif pada 1 Juli 2022. Gall akan bertempat di Jakarta. Sebelum menempati posisi saat ini, Carole menjabat&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/516236/konser-kemerdekaan-indonesia-korsel-ganjar-spirit-mempererat-hubungan-antarnegara",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNjIzMC9wdXRpbi1zZXR1anUtcGx0bi16YXBvcml6aHpoaWEtZGlrdW5qdW5naS1pYWVh",
         "description": "Presiden Rusia, Vladimir Putin, mengizinkan kunjungan tim inspektur independen PBB ke pembangkit listrik tenaga nuklir (PLTN) Zaporizhzhia. Alasannya Moskow enggan dijadikan kambing hitam jika fasilitas&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/516229/pengamat-menyulut-inflasi-harga-bbm-subsidi-tidak-seharusnya-naik",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjIyOS9wZW5nYW1hdC1tZW55dWx1dC1pbmZsYXNpLWhhcmdhLWJibS1zdWJzaWRpLXRpZGFrLXNlaGFydXNueWEtbmFpaw==",
-        "description": "Pengamat Ekonomi Energi Universitas Gadjah Mada (UGM) Fahmy Radhi berpandangan harga bahan bakar minyak (BBM) subsidi tak seharusnya naik. Alasannya, kenaikkan harga pertalite dan solar yang proporsi&#8230;"
     }
 ]
