@@ -1,6 +1,48 @@
 [
     {
         "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/516360/pertamina-pastikan-stok-pertalite-solar-aman-untuk-19-hari-ke-depan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjM2MC9wZXJ0YW1pbmEtcGFzdGlrYW4tc3Rvay1wZXJ0YWxpdGUtc29sYXItYW1hbi11bnR1ay0xOS1oYXJpLWtlLWRlcGFu",
+        "description": "PERTAMINA Patra Niaga, Sub Holding Commercial &amp; Trading PT Pertamina (Persero) memastikan stok bahan bakar minyak (BBM) subsidi yaitu pertalite dan solar cukup 19 hari ke depan. Demikian data per&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516366/kpk-sita-sejumlah-uang-dari-ott-rektor-unila",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTYzNjYva3BrLXNpdGEtc2VqdW1sYWgtdWFuZy1kYXJpLW90dC1yZWt0b3ItdW5pbGE=",
+        "description": "KOMISI Pemberantasan Korupsi (KPK) turut mengamankan barang bukti sejumlah uang dan catatan keuangan dari operasi tangkap tangan (OTT) Rektor Universitas Lampung (Unila) Karomani dan kawan-kawan pada&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/516359/bekap-rans-nusantara-persija-kembali-ke-jalur-kemenangan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjM1OS9iZWthcC1yYW5zLW51c2FudGFyYS1wZXJzaWphLWtlbWJhbGkta2UtamFsdXIta2VtZW5hbmdhbg==",
+        "description": "PERSIJA Jakarta kembali ke jalur kemenangan setelah mengalahkan tuan rumah RANS Nusantara 3-0 dalam pertandingan pekan kelima Liga 1 2022/2023 di Stadion Pakansari, Sabtu (20/8) malam WIB. Kemenangan&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/516363/sandiaga-buka-lapangan-kerja-baru-di-riau-dengan-memanfaatkan-limbah-sawit",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2MzYzL3NhbmRpYWdhLWJ1a2EtbGFwYW5nYW4ta2VyamEtYmFydS1kaS1yaWF1LWRlbmdhbi1tZW1hbmZhYXRrYW4tbGltYmFoLXNhd2l0",
+        "description": "MENPAREKRAF Sandiaga Salahuddin Uno bersama Gerakan Masyarakat Wirausaha (Gemawira) memberikan pelatihan pembuatan sabun cream dan hand rub yang terbuat dari bahan limbah cangkang sawit. Sandiaga menginginkan&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516362/pemantau-pemilu-pb-pmii-dorong-keterlibatan-perempuan-di-bawaslu-provinsi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTYzNjIvcGVtYW50YXUtcGVtaWx1LXBiLXBtaWktZG9yb25nLWtldGVybGliYXRhbi1wZXJlbXB1YW4tZGktYmF3YXNsdS1wcm92aW5zaQ==",
+        "description": "PEMANTAU Pemilu PB PMII mendorong keterlibatan perempuan dalam proses uji kepatutan dan kelayakan (fit and proper test) anggota Bawaslu di 25 provinsi se-Indonesia yang akan berlangsung mulai 22 Agustus&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/516361/pb-hmi-minta-kasus-mega-proyek-infrastruktur-multi-years-rp27-t-di-sumut-diusut-tuntas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2MzYxL3BiLWhtaS1taW50YS1rYXN1cy1tZWdhLXByb3llay1pbmZyYXN0cnVrdHVyLW11bHRpLXllYXJzLXJwMjctdC1kaS1zdW11dC1kaXVzdXQtdHVudGFz",
+        "description": "BELAKANGAN ini ramai diperbincangkan publik di Provinsi Sumatera Utara terkait isu kasus yang berkembang mengenai tender lanjutan Mega Proyek yang dimenangkan oleh PT Waskita (BUMN),&nbsp; KSO dengan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
         "link": "https://m.mediaindonesia.com/ekonomi/516357/pemerintah-diminta-hati-hati-naikkan-cukai-rokok",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjM1Ny9wZW1lcmludGFoLWRpbWludGEtaGF0aS1oYXRpLW5haWtrYW4tY3VrYWktcm9rb2s=",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2MzU1L3BhcHVhLW11ZGEtaW5zcHJpdGFyaWYtaW5pc2lhc2ktdGFuYW1pLWphZ3VuZy1kaS1sZW1iYWgta2ViYXItcGFwdWEtYmFyYXQ=",
         "description": "HAMPARAN hijau daun jagung membentang luas di lembah Kebar, Distrik Kebar Timur, Kabupaten Tambrauw, Provinsi Papua Barat. Lahan di Distrik Kebar Timur itu dulunya lahan mati. Namun kini, lahan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/516354/pengamat-sistem-jalur-mandiri-di-perguruan-tinggi-harus-ditutup",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2MzU0L3BlbmdhbWF0LXNpc3RlbS1qYWx1ci1tYW5kaXJpLWRpLXBlcmd1cnVhbi10aW5nZ2ktaGFydXMtZGl0dXR1cA==",
-        "description": "PENGAMAT Kebijakan Pendidikan Cecep Darmawan menyarankan agar sistem tes masuk jalur mandiri di Perguruan Tinggi ditutup. Menurut dia, sistem itulah yang mengundang adanya penyelewengan dana pendidikan.&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/516353/motogp-gelar-sprint-race-pembalap-khawatir",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTYzNTMvbW90b2dwLWdlbGFyLXNwcmludC1yYWNlLXBlbWJhbGFwLWtoYXdhdGly",
-        "description": "MOTOGP akan mengikuti jejak Formula 1 memperkenalkan sprint race mulai musim depan. Keputusan itu resmi diumumkan FIM, Sabtu (20/8), dengan harapan meningkatkan minat penggemar serta eksposur ajang&#8230;"
-    },
-    {
-        "title": "Weekend",
-        "link": "https://m.mediaindonesia.com/weekend/516352/jkt48-dan-merry-riana-bakal-meriahkan-event-literasi-digital-kominfo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNjM1Mi9qa3Q0OC1kYW4tbWVycnktcmlhbmEtYmFrYWwtbWVyaWFoa2FuLWV2ZW50LWxpdGVyYXNpLWRpZ2l0YWwta29taW5mbw==",
-        "description": "Kementerian Komunikasi dan informatika&nbsp;(Kemenkominfo) berkolaborasi dengan Siberkreasi&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/516351/pemerintah-diminta-hati-hati-naikkan-cukai-rokok",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjM1MS9wZW1lcmludGFoLWRpbWludGEtaGF0aS1oYXRpLW5haWtrYW4tY3VrYWktcm9rb2s=",
-        "description": "PEMERINTAH diminta berhati-hati dalam menentukan kebijakan tarif cukai hasil tembakau (CHT) pada 2023 kendati perekonomian nasional mulai membaik. Wakil Ketua Bidang Kerja Sama Antarlembaga&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516350/purnawirawan-tni-tewas-ditikam-gm-fkppi-usut-tuntas",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTYzNTAvcHVybmF3aXJhd2FuLXRuaS10ZXdhcy1kaXRpa2FtLWdtLWZrcHBpLXVzdXQtdHVudGFz",
-        "description": "SEORANG supir mebel tewas usai ditikam pemilik ruko bernama Henry Hernando alias Aseng di Jalan Adiwarta, RT1/12, Lembang, Kabupaten Bandung Barat, Jawa Barat, Selasa (16/8) sekitar pukul 08.15 WIB.&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/516347/casemiro-hengkang-ancelotti-tetap-tenang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjM0Ny9jYXNlbWlyby1oZW5na2FuZy1hbmNlbG90dGktdGV0YXAtdGVuYW5n",
-        "description": "PELATIH Real Madrid Carlo Ancelotti mengaku tidak khawatir meski ditinggal pergi Casemiro. Gelandang Brasil berusia 30 tahun tersebut resmi dilepas ke Manchester United dengan biaya mencapai 60 juta&#8230;"
     }
 ]
