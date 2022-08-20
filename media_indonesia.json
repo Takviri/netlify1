@@ -1,5 +1,47 @@
 [
     {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516232/kejagung-tetap-sita-aset-surya-darmadi-meski-sedang-dibantarkan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTYyMzIva2VqYWd1bmctdGV0YXAtc2l0YS1hc2V0LXN1cnlhLWRhcm1hZGktbWVza2ktc2VkYW5nLWRpYmFudGFya2Fu",
+        "description": "PENYIDIK Jaksa Agung Muda Bidang Tindak Pidana Khusus (JAM-Pidsus) terus melakukan penyitaan aset-aset milik bos PT Duta Palma Group, Surya Darmadi, meski saat ini Surya dalam status pembantaran. Tersangka&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/516231/perkuat-kemitraan-iluni-universitas-indonesia-dan-ika-usakti-jalin-kerja-sama",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2MjMxL3Blcmt1YXQta2VtaXRyYWFuLWlsdW5pLXVuaXZlcnNpdGFzLWluZG9uZXNpYS1kYW4taWthLXVzYWt0aS1qYWxpbi1rZXJqYS1zYW1h",
+        "description": "Bangun Sistem Jejaring Alumni di Era Digitalisasi, ILUNI UI dan IKA Usakti Jalin Kerja Sama KETUA Umum Ikatan Alumni Universitas Indonesia (Iluni UI) Andre Rahadian dan Ketua Umum Ikatan Alumni&#8230;"
+    },
+    {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/516221/yang-terdalam-hadirkan-pohon-harapan-di-pop-art-jakarta-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNjIyMS95YW5nLXRlcmRhbGFtLWhhZGlya2FuLXBvaG9uLWhhcmFwYW4tZGktcG9wLWFydC1qYWthcnRhLTIwMjI=",
+        "description": "MEMULAI perjalannya di tahun 2015, akun Instagram Yang Terdalam (YTD) menemukan momentumnya pada 2017. Sejak itu, akun tersebut diikuti banyak warganet, dan kini terhimpun setidaknya ada 996 ribu pengikut&#8230;"
+    },
+    {
+        "title": "Internasional",
+        "link": "https://m.mediaindonesia.com/internasional/516230/putin-setuju-pltn-zaporizhzhia-dikunjungi-iaea",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNjIzMC9wdXRpbi1zZXR1anUtcGx0bi16YXBvcml6aHpoaWEtZGlrdW5qdW5naS1pYWVh",
+        "description": "Presiden Rusia, Vladimir Putin, mengizinkan kunjungan tim inspektur independen PBB ke pembangkit listrik tenaga nuklir (PLTN) Zaporizhzhia. Alasannya Moskow enggan dijadikan kambing hitam jika fasilitas&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/516229/pengamat-menyulut-inflasi-harga-bbm-subsidi-tidak-seharusnya-naik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjIyOS9wZW5nYW1hdC1tZW55dWx1dC1pbmZsYXNpLWhhcmdhLWJibS1zdWJzaWRpLXRpZGFrLXNlaGFydXNueWEtbmFpaw==",
+        "description": "Pengamat Ekonomi Energi Universitas Gadjah Mada (UGM) Fahmy Radhi berpandangan harga bahan bakar minyak (BBM) subsidi tak seharusnya naik. Alasannya, kenaikkan harga pertalite dan solar yang proporsi&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/516228/kemenko-pmk-minta-bpjs-kesehatan-maksimalkan-digitalisasi-layanan-kesehatan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2MjI4L2tlbWVua28tcG1rLW1pbnRhLWJwanMta2VzZWhhdGFuLW1ha3NpbWFsa2FuLWRpZ2l0YWxpc2FzaS1sYXlhbmFuLWtlc2VoYXRhbg==",
+        "description": "Guna memastikan akses layanan peserta BPJS Kesehatan tetap terpenuhi, khususnya selama masa pandemi covid-19, Kemenko Pembangunan Manusia dan Kebudayaan meminta BPJS Kesehatan untuk memaksimalkan digitalisasi&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/516226/elena-rybakina-tersisih-di-perempat-final-cincinnati-masters",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNjIxNi9maXJlLWljZS1mYWNpYWwtaGFkaXItZGktaW5kb25lc2lh",
         "description": "SETELAH&nbsp; kurang lebih satu tahun memenuhi kebutuhan perawatan kulit di dalam negeri, iS Clinical produk perawatan kulis asal Amerika Serikat, secara resmi mengumumkan kehadirannya di Indonesia,&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516222/meski-sudah-malam-mentan-dan-petani-di-konsel-tetap-semangat-tanam-serempak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2MjIyL21lc2tpLXN1ZGFoLW1hbGFtLW1lbnRhbi1kYW4tcGV0YW5pLWRpLWtvbnNlbC10ZXRhcC1zZW1hbmdhdC10YW5hbS1zZXJlbXBhaw==",
-        "description": "ADA hal unik dalam kunjungan kerja Mentan Syahrul Yasin Limpo di Konawe Selatan, Petani melakukan tanam serempak malam hari. Penanaman ini dalam rangka pencapaian produksi pangan diwarnai antusiasme&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516220/hut-ke-77-ri-jadi-momentum-renungkan-kembali-tri-sakti",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTYyMjAvaHV0LWtlLTc3LXJpLWphZGktbW9tZW50dW0tcmVudW5na2FuLWtlbWJhbGktdHJpLXNha3Rp",
-        "description": "ANGGOTA Komisi II DPR RI Riyanta mengatakan bahwa HUT Ke-77 RI harus menjadi momentum untuk merenungkan kembali cita-cita pendiri bangsa menuju bangsa berdaulat, salah satunya Prinsip Tri Sakti yang&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/516219/ini-kronologi-kecelakan-tol-pemalang-yang-tewaskan-ayahanda-emil-dardak",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2MjE5L2luaS1rcm9ub2xvZ2kta2VjZWxha2FuLXRvbC1wZW1hbGFuZy15YW5nLXRld2Fza2FuLWF5YWhhbmRhLWVtaWwtZGFyZGFr",
-        "description": "PT Pemalang Batang Tol Road (PBTR) mengungkapkan, kronologi kecelakaan di ruas tol Pemalang-Batang yang menewaskan ayahanda Wakil Gubernur Jawa Timur Emil Dardak, Hermanto Dardak pada, Sabtu (20/8).&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/516218/ayah-wagub-jawa-timur-achmad-dardak-meninggal-dunia-usai-kecelakaan-di-tol-pemalang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2MjE4L2F5YWgtd2FndWItamF3YS10aW11ci1hY2htYWQtZGFyZGFrLW1lbmluZ2dhbC1kdW5pYS11c2FpLWtlY2VsYWthYW4tZGktdG9sLXBlbWFsYW5n",
-        "description": "Achmad Hermanto Dardak ayah dari Emil Elestianto Dardak Wakil Gubernur Jawa Timur dikabarkan meninggal dunia pada Sabtu (20/8) pagi. Mantan Wakil Menteri Pekerjaan Umum ini meninggal dunia dalam&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/516217/dampingi-presiden-di-jamnas-2022-menpora-pramuka-bagian-generasi-muda-yang-juga-harus-diperhatikan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2MjE3L2RhbXBpbmdpLXByZXNpZGVuLWRpLWphbW5hcy0yMDIyLW1lbnBvcmEtcHJhbXVrYS1iYWdpYW4tZ2VuZXJhc2ktbXVkYS15YW5nLWp1Z2EtaGFydXMtZGlwZXJoYXRpa2Fu",
-        "description": "MENTERI Pemuda dan Olahraga Republik Indonesia (Menpora RI) Zainudin Amali mendampingi Presiden Joko Widodo meninjau pelaksanaan Jambore Nasional (Jamnas) XI tahun 2022 di Bumi Perkemahan Cibubur (Buperta&#8230;"
-    },
-    {
-        "title": "Internasional",
-        "link": "https://m.mediaindonesia.com/internasional/516215/taiwan-merapat-ke-as-tiongkok-berang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9pbnRlcm5hc2lvbmFsLzUxNjIxNS90YWl3YW4tbWVyYXBhdC1rZS1hcy10aW9uZ2tvay1iZXJhbmc=",
-        "description": "Tiongkok dengan tegas menentang pembicaraan perdagangan antara Amerika Serikat (AS) dan Taiwan. Beijing menegaskan akan mengambil segala tindakan yang diperlukan untuk menjaga kedaulatan, keamanan,&#8230;"
     }
 ]
