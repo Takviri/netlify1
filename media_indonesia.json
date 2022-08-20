@@ -1,5 +1,26 @@
 [
     {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/516352/jkt48-dan-merry-riana-bakal-meriahkan-event-literasi-digital-kominfo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNjM1Mi9qa3Q0OC1kYW4tbWVycnktcmlhbmEtYmFrYWwtbWVyaWFoa2FuLWV2ZW50LWxpdGVyYXNpLWRpZ2l0YWwta29taW5mbw==",
+        "description": "Kementerian Komunikasi dan informatika&nbsp;(Kemenkominfo) berkolaborasi dengan Siberkreasi&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/516351/pemerintah-diminta-hati-hati-naikkan-cukai-rokok",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjM1MS9wZW1lcmludGFoLWRpbWludGEtaGF0aS1oYXRpLW5haWtrYW4tY3VrYWktcm9rb2s=",
+        "description": "PEMERINTAH diminta berhati-hati dalam menentukan kebijakan tarif cukai hasil tembakau (CHT) pada 2023 kendati perekonomian nasional mulai membaik. Wakil Ketua Bidang Kerja Sama Antarlembaga&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516350/purnawirawan-tni-tewas-ditikam-gm-fkppi-usut-tuntas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTYzNTAvcHVybmF3aXJhd2FuLXRuaS10ZXdhcy1kaXRpa2FtLWdtLWZrcHBpLXVzdXQtdHVudGFz",
+        "description": "SEORANG supir mebel tewas usai ditikam pemilik ruko bernama Henry Hernando alias Aseng di Jalan Adiwarta, RT1/12, Lembang, Kabupaten Bandung Barat, Jawa Barat, Selasa (16/8) sekitar pukul 08.15 WIB.&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/516347/casemiro-hengkang-ancelotti-tetap-tenang",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjM0MS9iYXdhLXRvdHRlbmhhbS10dW5kdWtrYW4td29sdmVyaGFtcHRvbi1rYW5lLWNldGFrLXJla29yLWxpZ2EtcHJpbWVy",
         "description": "TOTTENHAM Hotspur meraih poin sempurna saat menjamu Wolverhampton Wanderers dalam lanjutan Liga Primer Inggris, Sabtu (20/8). Bermain di kandang, Tottenham menang 1-0 melalui gol Harry Kane menit ke-64.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/516337/pakar-kasus-cacar-monyet-di-dunia-meningkat-20-dalam-seminggu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2MzM3L3Bha2FyLWthc3VzLWNhY2FyLW1vbnlldC1kaS1kdW5pYS1tZW5pbmdrYXQtMjAtZGFsYW0tc2VtaW5nZ3U=",
-        "description": "MANTAN Direktur Penyakit Menular Badan Kesehatan Dunia (WHO) Asia Tenggara, Prof Tjandra Yoga Aditama mengungkapkan kasus cacar monyet di dunia terus mengalami peningkatan. Dalam statistik disebutkan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516340/sebarkan-hoaks-ok-kaligis-laporkan-pemilik-akun-twiter-elisabethn_",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTYzNDAvc2ViYXJrYW4taG9ha3Mtb2sta2FsaWdpcy1sYXBvcmthbi1wZW1pbGlrLWFrdW4tdHdpdGVyLWVsaXNhYmV0aG5f",
-        "description": "DINILAI mencemarkan nama baik dan menyebarkan berita bohong, Elisabeth Novitasari Sijabat yang menggunakan akun Twitter @elisabethn_ akan dilaporkan ke polisi oleh pengacara OC Kaligis. Demikian&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/516334/sidak-spbu-erick-pastikan-ketersediaan-bbm-bersubsidi-di-tangerang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjMzNC9zaWRhay1zcGJ1LWVyaWNrLXBhc3Rpa2FuLWtldGVyc2VkaWFhbi1iYm0tYmVyc3Vic2lkaS1kaS10YW5nZXJhbmc=",
-        "description": "MENTERI Badan Usaha Milik Negara (BUMN) Erick Thohir berkomitmen memastikan ketersediaan pasokan bahan bakar minyak (BBM). Usai meresmikan Jembatan Sungai Kimarpu di Pagedangan Udik, Kronjo, Kabupatan&#8230;"
     }
 ]

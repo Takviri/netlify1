@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pertamina Patra Niaga Jamin Pasokan BBM Aman",
+        "link": "https://www.cnbcindonesia.com/news/20220820215218-4-365308/pertamina-patra-niaga-jamin-pasokan-bbm-aman",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDIxNTIxOC00LTM2NTMwOC9wZXJ0YW1pbmEtcGF0cmEtbmlhZ2EtamFtaW4tcGFzb2thbi1iYm0tYW1hbg==",
+        "description": " Pertamina Patra Niaga, Sub Holding Commercial dan Trading PT Pertamina (Persero) terus memastikan stok Pertalite dan Solar dalam kondisi aman"
+    },
+    {
+        "title": "Hore! Anies Bebaskan PBB Rumah untuk Warga DKI Jakarta",
+        "link": "https://www.cnbcindonesia.com/news/20220820211043-4-365306/hore-anies-bebaskan-pbb-rumah-untuk-warga-dki-jakarta",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDIxMTA0My00LTM2NTMwNi9ob3JlLWFuaWVzLWJlYmFza2FuLXBiYi1ydW1haC11bnR1ay13YXJnYS1ka2ktamFrYXJ0YQ==",
+        "description": " Gubernur Provinsi DKI Jakarta Anies Baswedan menggratiskan tarif PBB bagi rumah yang memiliki nilai jual objek pajak di bawah Rp 2 miliar."
+    },
+    {
         "title": "Sri Mulyani: Ujian yang Dihadapi RI Bukan Kaleng-kaleng",
         "link": "https://www.cnbcindonesia.com/news/20220820210316-4-365305/sri-mulyani-ujian-yang-dihadapi-ri-bukan-kaleng-kaleng",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE4MDAxOC0xNi0zNjUyOTUvdGFtYmFoYW4ta2FzdXMtY292aWQtMTktZGktcmktaGFyaS1pbmktZGktYmF3YWgtNTAwMA==",
         "description": " Hari ini ada 4.922 kasus konfirmasi Covid, melandai dibandingkan dengan kemarin"
-    },
-    {
-        "title": "Update Kasus Covid-19 di RI: Hari Ini Bertambah 4.922",
-        "link": "https://www.cnbcindonesia.com/news/20220820181231-4-365296/update-kasus-covid-19-di-ri-hari-ini-bertambah-4922",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE4MTIzMS00LTM2NTI5Ni91cGRhdGUta2FzdXMtY292aWQtMTktZGktcmktaGFyaS1pbmktYmVydGFtYmFoLTQ5MjI=",
-        "description": " Hari ini ada 4.922 kasus konfirmasi Covid, melandai dibandingkan dengan kemarin"
-    },
-    {
-        "title": "Kecelakaan di Tol, Ini Sepak Terjang Hermanto Dardak",
-        "link": "https://www.cnbcindonesia.com/news/20220820171629-8-365292/kecelakaan-di-tol-ini-sepak-terjang-hermanto-dardak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE3MTYyOS04LTM2NTI5Mi9rZWNlbGFrYWFuLWRpLXRvbC1pbmktc2VwYWstdGVyamFuZy1oZXJtYW50by1kYXJkYWs=",
-        "description": " Kecelakaan di Tol, Ini Sepak Terjang Hermanto Dardak"
     }
 ]
