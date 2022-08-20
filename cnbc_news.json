@@ -1,5 +1,12 @@
 [
     {
+        "title": "Tambahan Kasus Covid-19 di RI Hari Ini di Bawah 5.000",
+        "link": "https://www.cnbcindonesia.com/news/20220820180018-16-365295/tambahan-kasus-covid-19-di-ri-hari-ini-di-bawah-5000",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE4MDAxOC0xNi0zNjUyOTUvdGFtYmFoYW4ta2FzdXMtY292aWQtMTktZGktcmktaGFyaS1pbmktZGktYmF3YWgtNTAwMA==",
+        "description": " Hari ini ada 4.922 kasus konfirmasi Covid, melandai dibandingkan dengan kemarin"
+    },
+    {
         "title": "Update Kasus Covid-19 di RI: Hari Ini Bertambah 4.922",
         "link": "https://www.cnbcindonesia.com/news/20220820181231-4-365296/update-kasus-covid-19-di-ri-hari-ini-bertambah-4922",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE1MTUyOC00LTM2NTI3MS81LWJhbmRhcmEtYW5na2FzYS1wdXJhLWlpLXN1a3Nlcy1wdWxhbmdrYW4tNDE0NjgtamVtYWFoLWhhamk=",
         "description": " Sebanyak lima bandara AP II melayani kepulangan sebanyak total 41.468 jemaah haji dan petugas yang tergabung dalam 106 kloter."
-    },
-    {
-        "title": "Erick: Bukan Zamannya Lagi Orang Kaya Pakai BBM Subsidi",
-        "link": "https://www.cnbcindonesia.com/news/20220820150654-4-365270/erick-bukan-zamannya-lagi-orang-kaya-pakai-bbm-subsidi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE1MDY1NC00LTM2NTI3MC9lcmljay1idWthbi16YW1hbm55YS1sYWdpLW9yYW5nLWtheWEtcGFrYWktYmJtLXN1YnNpZGk=",
-        "description": " Menteri BUMN Erick Thohir mengatakan sudah bukan eranya lagi yang mampu justru memakai BBM bersubsidi"
     }
 ]
