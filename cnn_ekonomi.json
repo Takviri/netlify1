@@ -1,5 +1,12 @@
 [
     {
+        "title": "Biaya Hidup Lajang Lebih Mahal Daripada Mereka yang Berpasangan",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220816082504-83-835074/biaya-hidup-lajang-lebih-mahal-daripada-mereka-yang-berpasangan",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE2MDgyNTA0LTgzLTgzNTA3NC9iaWF5YS1oaWR1cC1sYWphbmctbGViaWgtbWFoYWwtZGFyaXBhZGEtbWVyZWthLXlhbmctYmVycGFzYW5nYW4=",
+        "description": " Hidup lajang disebut lebih mahal karena memenuhi kebutuhan dasar dan tagihan sendirian, sementara bantuan sosial tidak mampir bagi mereka yang single."
+    },
+    {
         "title": "Luhut Targetkan Nilai Ekspor RI Tembus Rp4.460,43 T pada 2024",
         "link": "https://www.cnnindonesia.com/ekonomi/20220819191833-92-836736/luhut-targetkan-nilai-ekspor-ri-tembus-rp446043-t-pada-2024",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE5MjAyNjQ5LTkyLTgzNjc2Ni9iaW9za29wLWNpbmV3b3JsZC1hanVrYW4tcGVybW9ob25hbi1wYWlsaXQtYWtpYmF0LXV0YW5nLXJwNzEtdA==",
         "description": " Grup Cineworld sedang bersiap untuk mengajukan permohonan bangkrut ke pengadilan akibat utang Rp71,4 triliun dan gagal pulih dari tekanan covid."
-    },
-    {
-        "title": "Tokopedia Perluas Metode Pembayaran dengan Layanan GoPayLater Cicil",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220819201749-97-836761/tokopedia-perluas-metode-pembayaran-dengan-layanan-gopaylater-cicil",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE5MjAxNzQ5LTk3LTgzNjc2MS90b2tvcGVkaWEtcGVybHVhcy1tZXRvZGUtcGVtYmF5YXJhbi1kZW5nYW4tbGF5YW5hbi1nb3BheWxhdGVyLWNpY2ls",
-        "description": " Tokopedia memperkenalkan GoPayLater Cicil sebagai opsi tambahan pembayaran digital bagi pelanggan Tokopedia yang disebut mempermudah pelanggan."
     }
 ]
