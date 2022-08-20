@@ -1,5 +1,12 @@
 [
     {
+        "title": "Teknologi",
+        "link": "https://m.mediaindonesia.com/teknologi/516370/jangan-terjerat-pinjol-ilegal-begini-cara-menghindarinya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE2MzcwL2phbmdhbi10ZXJqZXJhdC1waW5qb2wtaWxlZ2FsLWJlZ2luaS1jYXJhLW1lbmdoaW5kYXJpbnlh",
+        "description": "TRANSAKSI keuangan digital tak dimungkiri memberikan kemudahan dan memiliki banyak keunggulan tapi bukan berarti tanpa risiko. Data diri bisa menjadi pintu gerbang penipuan dan kejahatan lainnya di&#8230;"
+    },
+    {
         "title": "Otomotif",
         "link": "https://m.mediaindonesia.com/otomotif/516369/tiga-komunitas-wuling-ikut-di-first-driving-impression-air-ev",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2MzYzL3NhbmRpYWdhLWJ1a2EtbGFwYW5nYW4ta2VyamEtYmFydS1kaS1yaWF1LWRlbmdhbi1tZW1hbmZhYXRrYW4tbGltYmFoLXNhd2l0",
         "description": "MENPAREKRAF Sandiaga Salahuddin Uno bersama Gerakan Masyarakat Wirausaha (Gemawira) memberikan pelatihan pembuatan sabun cream dan hand rub yang terbuat dari bahan limbah cangkang sawit. Sandiaga menginginkan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516362/pemantau-pemilu-pb-pmii-dorong-keterlibatan-perempuan-di-bawaslu-provinsi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTYzNjIvcGVtYW50YXUtcGVtaWx1LXBiLXBtaWktZG9yb25nLWtldGVybGliYXRhbi1wZXJlbXB1YW4tZGktYmF3YXNsdS1wcm92aW5zaQ==",
-        "description": "PEMANTAU Pemilu PB PMII mendorong keterlibatan perempuan dalam proses uji kepatutan dan kelayakan (fit and proper test) anggota Bawaslu di 25 provinsi se-Indonesia yang akan berlangsung mulai 22 Agustus&#8230;"
     }
 ]
