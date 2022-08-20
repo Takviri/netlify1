@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cacar Monyet Bisa Sembuh Sendiri, Tak Perlu Isolasi Khusus",
+        "link": "https://www.cnbcindonesia.com/news/20220820190938-4-365299/cacar-monyet-bisa-sembuh-sendiri-tak-perlu-isolasi-khusus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE5MDkzOC00LTM2NTI5OS9jYWNhci1tb255ZXQtYmlzYS1zZW1idWgtc2VuZGlyaS10YWstcGVybHUtaXNvbGFzaS1raHVzdXM=",
+        "description": " Berbeda dengan Covid-19, ini isolasinya tidak harus di ruangan bertekanan negatif"
+    },
+    {
         "title": "Tambahan Kasus Covid-19 di RI Hari Ini di Bawah 5.000",
         "link": "https://www.cnbcindonesia.com/news/20220820180018-16-365295/tambahan-kasus-covid-19-di-ri-hari-ini-di-bawah-5000",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE2NTkzMy00LTM2NTI5MC8xLW9yYW5nLXRlcmtvbmZpcm1hc2ktY2FjYXItbW9ueWV0LWRpLXJpLWxha2ktbGFraS0yNy10YWh1bg==",
         "description": " ada satu orang pasien terkonfirmasi cacar monyet (monkeypox) di Indonesia."
-    },
-    {
-        "title": "5 Bandara Angkasa Pura II Sukses Pulangkan 41.468 Jemaah Haji",
-        "link": "https://www.cnbcindonesia.com/news/20220820151528-4-365271/5-bandara-angkasa-pura-ii-sukses-pulangkan-41468-jemaah-haji",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE1MTUyOC00LTM2NTI3MS81LWJhbmRhcmEtYW5na2FzYS1wdXJhLWlpLXN1a3Nlcy1wdWxhbmdrYW4tNDE0NjgtamVtYWFoLWhhamk=",
-        "description": " Sebanyak lima bandara AP II melayani kepulangan sebanyak total 41.468 jemaah haji dan petugas yang tergabung dalam 106 kloter."
     }
 ]
