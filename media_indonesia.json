@@ -1,5 +1,12 @@
 [
     {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/516353/motogp-gelar-sprint-race-pembalap-khawatir",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTYzNTMvbW90b2dwLWdlbGFyLXNwcmludC1yYWNlLXBlbWJhbGFwLWtoYXdhdGly",
+        "description": "MOTOGP akan mengikuti jejak Formula 1 memperkenalkan sprint race mulai musim depan. Keputusan itu resmi diumumkan FIM, Sabtu (20/8), dengan harapan meningkatkan minat penggemar serta eksposur ajang&#8230;"
+    },
+    {
         "title": "Weekend",
         "link": "https://m.mediaindonesia.com/weekend/516352/jkt48-dan-merry-riana-bakal-meriahkan-event-literasi-digital-kominfo",
         "image": "static/images/media_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2MzQzL3NhaGFiYXQtZ2FuamFyLWJpZGlrLXNpc3dhLWJlcnByZXN0YXNp",
         "description": "LOMBA Kejuruan Siswa (LKS) merupakan ajang kompetisi untuk mengukur kemampuan kompetensi siswa SMK. Setelah sukses menggelar di beberapa kota besar sebelumnya, Sahabat Ganjar kembali mengadakan ajang&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/516341/bawa-tottenham-tundukkan-wolverhampton-kane-cetak-rekor-liga-primer",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjM0MS9iYXdhLXRvdHRlbmhhbS10dW5kdWtrYW4td29sdmVyaGFtcHRvbi1rYW5lLWNldGFrLXJla29yLWxpZ2EtcHJpbWVy",
-        "description": "TOTTENHAM Hotspur meraih poin sempurna saat menjamu Wolverhampton Wanderers dalam lanjutan Liga Primer Inggris, Sabtu (20/8). Bermain di kandang, Tottenham menang 1-0 melalui gol Harry Kane menit ke-64.&#8230;"
     }
 ]
