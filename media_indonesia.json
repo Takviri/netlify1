@@ -1,5 +1,40 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/516501/laba-taspen-life-tumbuh-6061-pada-semester-i-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjUwMS9sYWJhLXRhc3Blbi1saWZlLXR1bWJ1aC02MDYxLXBhZGEtc2VtZXN0ZXItaS0yMDIy",
+        "description": "TASPEN Life membukukan kinerja positif selama semester I tahun 2022 (unaudited) dengan capaian laba sebesar Rp35,44 miliar atau tumbuh sebesar 60,61% jika dibandingkan dengan periode yang&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/516500/rebut-kemenangan-di-gp-austria-bagnaia-cetak-hattrick",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTY1MDAvcmVidXQta2VtZW5hbmdhbi1kaS1ncC1hdXN0cmlhLWJhZ25haWEtY2V0YWstaGF0dHJpY2s=",
+        "description": "FRANCESCO Bagnaia meraih kemenangan di tiga balapan secara beruntun berkat penampilan sensasional di Grand Prix Austria, Minggu (21/8), di saat Fabio Quartararo mengganggu pesta podium Ducati di Red&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/516499/sandiaga-uno-dorong-brand-lokal-jadi-tuan-rumah-di-negeri-sendiri",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjQ5OS9zYW5kaWFnYS11bm8tZG9yb25nLWJyYW5kLWxva2FsLWphZGktdHVhbi1ydW1haC1kaS1uZWdlcmktc2VuZGlyaQ==",
+        "description": "DALAM sebuah unggahan video di akun TikTok resminya pada Sabtu (20/8), Sandiaga Uno lantang menyebut Indonesia tak perlu takut jika nantinya akan diembargo oleh Amerika Serikat (AS) akibat Indonesia&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/516498/1000-ingkung-ayam-dan-tumpeng-warnai-festival-wiwit-mbako-panen-kopi-temanggung",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NDk4LzEwMDAtaW5na3VuZy1heWFtLWRhbi10dW1wZW5nLXdhcm5haS1mZXN0aXZhbC13aXdpdC1tYmFrby1wYW5lbi1rb3BpLXRlbWFuZ2d1bmc=",
+        "description": "GELARAN festival 'Wiwit Mbako Panen Kopi' yang digelar Pemerintah Kabupaten Temanggung, Jawa Tengah, berakhir, Minggu (21/8). Acara makan bersama ribuan petani yang hadir di Alun Alun Kota&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/516496/penjual-sayur-terancam-10-tahun-penjara-akibat-judi-online",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NDk2L3Blbmp1YWwtc2F5dXItdGVyYW5jYW0tMTAtdGFodW4tcGVuamFyYS1ha2liYXQtanVkaS1vbmxpbmU=",
+        "description": "SEORANG penjual sayur yang juga ibu rumah tangga berinisial OK, 42, dan seorang tukang ojek yakni JP, 42, di Kupang, Provinsi Nusa Tenggara Timur (NTT), terancam hukuman 10 tahun penjara setelah tertangkap&#8230;"
+    },
+    {
         "title": "Megapolitan",
         "link": "https://m.mediaindonesia.com/megapolitan/516495/polisi-masih-selidiki-kebakaran-di-simprug-tewaskan-seorang-warga",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2NDkxL3BlcmdlbGFyYW4td2F5YW5nLXJhc2EtcnVwYS1iaGlzbWEtcGFkdWthbi13YXlhbmctb3Jhbmcta29taWstZGFuLWZpbG0=",
         "description": "PARA penggiat seni pertunjukan, khususnya wayang orang terus menciptakan bagaimana kesenian adiluhung ini beralih bentuk senapas dengan kondisi zaman. Kesenian wayang orang perlu digarap dengan gairah&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516490/harga-bahan-pangan-pokok-di-klaten-stabil",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NDkwL2hhcmdhLWJhaGFuLXBhbmdhbi1wb2tvay1kaS1rbGF0ZW4tc3RhYmls",
-        "description": "HARGA bahan pangan pokok di Kabupaten Klaten, Jawa Tengah, stabil dalam dua pekan terakhir. Ketersediaan bahan kebutuhan sehari-hari di pasar tradisional itu pun aman. Sementara,&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/516488/kebakaran-landa-putri-duyung-cottage-ancol-3-unit-hangus",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTY0ODgva2ViYWthcmFuLWxhbmRhLXB1dHJpLWR1eXVuZy1jb3R0YWdlLWFuY29sLTMtdW5pdC1oYW5ndXM=",
-        "description": "KEBAKARAN terjadi di Putri Duyung Cottage, kawasan wisata Taman Impian Jaya Ancol, Pademangan, Jakarta Utara, pada Minggu (21/8) sekitar pukul 17.13 WIB. Humas Dinas Penanggulangan Kebakaran&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516487/emak-emak-di-lampung-kompak-dukung-ganjar-presiden-2024",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NDg3L2VtYWstZW1hay1kaS1sYW1wdW5nLWtvbXBhay1kdWt1bmctZ2FuamFyLXByZXNpZGVuLTIwMjQ=",
-        "description": "SELAMA tiga hari berturut-turut, yakni 17 hingga 19 Agustus 2022, ribuan emak-emak di Gunung Pasir Jaya, Kecamatan Sekampung Udik, Kabupaten Lampung Timur menggelar 'pesta 17-an' untuk merayakan&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/516486/wagub-ariza-resmikan-lintasan-joging-di-jakarta-timur",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTY0ODYvd2FndWItYXJpemEtcmVzbWlrYW4tbGludGFzYW4tam9naW5nLWRpLWpha2FydGEtdGltdXI=",
-        "description": "WAKIL Gubernur DKI Jakarta Ahmad Riza Patria meresmikan trek joging Taman Kolaborasi yang berada di Komplek IKIP Duren Sawit Jakarta, Minggu (21/8). Ia menyampaikan, ruang ketiga yang ramah&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516485/kapolri-diminta-tindak-kejahatan-korporasi-asuransi-unit-link",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTY0ODUva2Fwb2xyaS1kaW1pbnRhLXRpbmRhay1rZWphaGF0YW4ta29ycG9yYXNpLWFzdXJhbnNpLXVuaXQtbGluaw==",
-        "description": "SIKAP tegas Kapolri Jenderal Listyo Sigit Prabowo membenahi institusinya direspons positif oleh Komunitas Korban Asuransi Unit Link. Kapolri diharapkan juga bisa merespons pengaduan dari para korban&#8230;"
     }
 ]
