@@ -1,10 +1,24 @@
 [
     {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/516392/wali-kota-jakarta-selatan-resmikan-gerai-samsat-di-itc-kuningan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTYzOTIvd2FsaS1rb3RhLWpha2FydGEtc2VsYXRhbi1yZXNtaWthbi1nZXJhaS1zYW1zYXQtZGktaXRjLWt1bmluZ2Fu",
+        "description": "SINAR Mas Land melalui ITC Group berupaya terus memberikan pelayanan terbaik bagi masyarakat. Kali ini,&#8230;"
+    },
+    {
         "title": "Humaniora",
         "link": "https://m.mediaindonesia.com/humaniora/516390/mahasiswa-unila-yang-masuk-jalur-suap-cacat-hukum-nasibnya-gimana",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2MzkwL21haGFzaXN3YS11bmlsYS15YW5nLW1hc3VrLWphbHVyLXN1YXAtY2FjYXQtaHVrdW0tbmFzaWJueWEtZ2ltYW5h",
         "description": "KOMISI Pemberantasan Korupsi (KPK) menetapkan Rektor Universitas Lampung (Unila) Karomani sebagai tersangka dugaan suap penerimaan calon mahasiswa baru di kampusnya. Kementerian Pendidikan, Kebudayaan,&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/516391/pensiunan-ptpn-2-terima-rumahdi-kota-mandiri-bekala",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2MzkxL3BlbnNpdW5hbi1wdHBuLTItdGVyaW1hLXJ1bWFoZGkta290YS1tYW5kaXJpLWJla2FsYQ==",
+        "description": "SUASANA haru mewarnai penyerahan kunci rumah dari Direktur PTPN 2 Irwan Perangin-Angin kepada 30 pensiunan karyawan BUMN perkebunan itu di kompleks perumahan Kota Mandiri Bekala, Kabupaten Deli Serdang,&#8230;"
     },
     {
         "title": "Nusantara",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTYzODIvcmVrdG9yLXVuaWxhLXNpbXBhbi1kdWl0LXN1YXAtZGktZGVwb3NpdG8tZGFuLWxvZ2FtLW11bGlh",
         "description": "KOMISI Pemberantasan Korupsi (KPK) menetapkan Rektor Universitas Lampung (Unila) Karoman sebagai tersangka dugaan suap penerimaan calon mahasiswa baru di kampus yang dipimpinnya. Uang hasil suap itu&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516380/rumah-belajar-batik-di-tasikmalaya-ditargetkan-dongkrak-ekonomi-warga",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2MzgwL3J1bWFoLWJlbGFqYXItYmF0aWstZGktdGFzaWttYWxheWEtZGl0YXJnZXRrYW4tZG9uZ2tyYWstZWtvbm9taS13YXJnYQ==",
-        "description": "RUMAH belajar batik Tasikmalaya di Kelurahan Mulyasari, Kecamatan Tamansari, Kota Tasikmalaya resmi beroperasi. Peresmian dilakukan Ketua Dekranasda Provinsi Jawa Barat, Atalia Praratya, Sabtu (20/8).&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516379/kpk-tetapkan-rektor-unila-tersangka-suap-penerimaan-calon-mahasiswa-baru",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTYzNzkva3BrLXRldGFwa2FuLXJla3Rvci11bmlsYS10ZXJzYW5na2Etc3VhcC1wZW5lcmltYWFuLWNhbG9uLW1haGFzaXN3YS1iYXJ1",
-        "description": "KOMISI Pemberantasan Korupsi (KPK) menetapkan Rektor Universitas Lampung (Unila) Karomani (KRM) sebagai tersangka&#8230;"
     }
 ]
