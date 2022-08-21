@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kekeringan Bikin Harta Karun Hingga Batu Prasejarah Muncul",
+        "link": "https://www.cnbcindonesia.com/news/20220816103216-7-364110/kekeringan-bikin-harta-karun-hingga-batu-prasejarah-muncul",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxNjEwMzIxNi03LTM2NDExMC9rZWtlcmluZ2FuLWJpa2luLWhhcnRhLWthcnVuLWhpbmdnYS1iYXR1LXByYXNlamFyYWgtbXVuY3Vs",
+        "description": " Kekeringan tengah melanda sebagian wilayah di Eropa, termasuk Italia dan Spanyol, selama berminggu-minggu. Bencana ini menimbulkan sesuatu yang tak terduga."
+    },
+    {
+        "title": "Dilarang Mandi saat Badai Petir, Ilmuwan Jelaskan Alasannya",
+        "link": "https://www.cnbcindonesia.com/news/20220821145551-4-365385/dilarang-mandi-saat-badai-petir-ilmuwan-jelaskan-alasannya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMTE0NTU1MS00LTM2NTM4NS9kaWxhcmFuZy1tYW5kaS1zYWF0LWJhZGFpLXBldGlyLWlsbXV3YW4tamVsYXNrYW4tYWxhc2Fubnlh",
+        "description": " Kebanyakan orang sudah familiar dengan keselamatan dasar badai petir, seperti menghindari berdiri di bawah pohon atau di dekat jendela."
+    },
+    {
         "title": "Kasus Megakorupsi, Kelangkaan BBM, hingga Kekeringan di China",
         "link": "https://www.cnbcindonesia.com/news/20220816114137-7-364140/kasus-megakorupsi-kelangkaan-bbm-hingga-kekeringan-di-china",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMTExMTczMy00LTM2NTM2NC9ydXNpYS1rbGFpbS1wYXN1a2FubnlhLWRpcmFjdW4tdWtyYWluYS1iaWxhbmctc2FsYWgtbWFrYW4=",
         "description": " Kementerian Pertahanan Rusia menuduh Ukraina meracuni sejumlah prajuritnya."
-    },
-    {
-        "title": "Luhut Bolak Balik Di-PHP Tesla, RI Kena Prank Elon Musk?",
-        "link": "https://www.cnbcindonesia.com/news/20220821104916-4-365361/luhut-bolak-balik-di-php-tesla-ri-kena-prank-elon-musk",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMTEwNDkxNi00LTM2NTM2MS9sdWh1dC1ib2xhay1iYWxpay1kaS1waHAtdGVzbGEtcmkta2VuYS1wcmFuay1lbG9uLW11c2s=",
-        "description": " Isu Tesla Inc mau berinvestasi di Indonesia sudah berhembus dari tahun 2020 lalu. Namun rencana ini masih juga belum terealisasi sampai saat ini."
-    },
-    {
-        "title": "Gedung Milik Surya Darmadi Disita, Lokasinya di Jakarta Pusat",
-        "link": "https://www.cnbcindonesia.com/news/20220821103634-4-365359/gedung-milik-surya-darmadi-disita-lokasinya-di-jakarta-pusat",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMTEwMzYzNC00LTM2NTM1OS9nZWR1bmctbWlsaWstc3VyeWEtZGFybWFkaS1kaXNpdGEtbG9rYXNpbnlhLWRpLWpha2FydGEtcHVzYXQ=",
-        "description": " Dua aset tanah dan bangunan milik tersangka kasus korupsi lahan sawit oleh PT Duta Palma di Kabupaten Indragiri Hulu, Surya Darmadi, disita."
     }
 ]
