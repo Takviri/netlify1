@@ -1,5 +1,69 @@
 [
     {
+        "title": "Lim Xiao Ming",
+        "link": "https://m.jpnn.com/news/lim-xiao-ming",
+        "image": "None",
+        "uid": "aHR0cHM6Ly9tLmpwbm4uY29tL25ld3MvbGltLXhpYW8tbWluZw==",
+        "description": "None",
+        "date": "None"
+    },
+    {
+        "title": "Gandeng UI, Daewoong Bangun Laboratorium Bioanalitik Pertama di Indonesia",
+        "link": "https://m.jpnn.com/news/gandeng-ui-daewoong-bangun-laboratorium-bioanalitik-pertama-di-indonesia",
+        "image": "None",
+        "uid": "aHR0cHM6Ly9tLmpwbm4uY29tL25ld3MvZ2FuZGVuZy11aS1kYWV3b29uZy1iYW5ndW4tbGFib3JhdG9yaXVtLWJpb2FuYWxpdGlrLXBlcnRhbWEtZGktaW5kb25lc2lh",
+        "description": "None",
+        "date": "None"
+    },
+    {
+        "title": "Jelang Satu Abad, PBNU Memberi Perhatian Khusus pada Gerakan Perempuan NU",
+        "link": "https://m.jpnn.com/news/jelang-satu-abad-pbnu-memberi-perhatian-khusus-pada-gerakan-perempuan-nu",
+        "image": "None",
+        "uid": "aHR0cHM6Ly9tLmpwbm4uY29tL25ld3MvamVsYW5nLXNhdHUtYWJhZC1wYm51LW1lbWJlcmktcGVyaGF0aWFuLWtodXN1cy1wYWRhLWdlcmFrYW4tcGVyZW1wdWFuLW51",
+        "description": "None",
+        "date": "None"
+    },
+    {
+        "title": "Frans Faisal Akhirnya Buka Suara Soal Hubungan dengan Nathalie Holscher, Ternyata",
+        "link": "https://m.jpnn.com/news/frans-faisal-akhirnya-buka-suara-soal-hubungan-dengan-nathalie-holscher-ternyata",
+        "image": "None",
+        "uid": "aHR0cHM6Ly9tLmpwbm4uY29tL25ld3MvZnJhbnMtZmFpc2FsLWFraGlybnlhLWJ1a2Etc3VhcmEtc29hbC1odWJ1bmdhbi1kZW5nYW4tbmF0aGFsaWUtaG9sc2NoZXItdGVybnlhdGE=",
+        "description": "None",
+        "date": "None"
+    },
+    {
+        "title": "TNI AU Kirim 6 Pesawat Tempur F-16 ke Australia",
+        "link": "https://m.jpnn.com/news/tni-au-kirim-6-pesawat-tempur-f-16-ke-australia",
+        "image": "None",
+        "uid": "aHR0cHM6Ly9tLmpwbm4uY29tL25ld3MvdG5pLWF1LWtpcmltLTYtcGVzYXdhdC10ZW1wdXItZi0xNi1rZS1hdXN0cmFsaWE=",
+        "description": "None",
+        "date": "None"
+    },
+    {
+        "title": "4 Tanda Akun WhatsApp Anda Telah Disadap Orang Asing",
+        "link": "https://m.jpnn.com/news/waspada-ini-4-tanda-akun-whatsapp-anda-telah-disadap-orang-tak-dikenal",
+        "image": "None",
+        "uid": "aHR0cHM6Ly9tLmpwbm4uY29tL25ld3Mvd2FzcGFkYS1pbmktNC10YW5kYS1ha3VuLXdoYXRzYXBwLWFuZGEtdGVsYWgtZGlzYWRhcC1vcmFuZy10YWstZGlrZW5hbA==",
+        "description": "None",
+        "date": "None"
+    },
+    {
+        "title": "Bobby Nasution: Tawuran dan Narkoba Harus Kita Perangi Bersama",
+        "link": "https://m.jpnn.com/news/bobby-nasution-tawuran-dan-narkoba-harus-kita-perangi-bersama",
+        "image": "None",
+        "uid": "aHR0cHM6Ly9tLmpwbm4uY29tL25ld3MvYm9iYnktbmFzdXRpb24tdGF3dXJhbi1kYW4tbmFya29iYS1oYXJ1cy1raXRhLXBlcmFuZ2ktYmVyc2FtYQ==",
+        "description": "None",
+        "date": "None"
+    },
+    {
+        "title": "Sprint Race Akan Diterapkan di MotoGP 2023, Berikut Penjelasannya",
+        "link": "https://m.jpnn.com/news/sprint-race-akan-diterapkan-di-motogp-2023-berikut-penjelasannya",
+        "image": "None",
+        "uid": "aHR0cHM6Ly9tLmpwbm4uY29tL25ld3Mvc3ByaW50LXJhY2UtYWthbi1kaXRlcmFwa2FuLWRpLW1vdG9ncC0yMDIzLWJlcmlrdXQtcGVuamVsYXNhbm55YQ==",
+        "description": "None",
+        "date": "None"
+    },
+    {
         "title": "Kenaikan Harga BBM Sedang Digodok, Bakal Jadi Berapa?",
         "link": "https://m.jpnn.com/news/kenaikan-harga-bbm-sedang-digodok-bakal-jadi-berapa",
         "image": "None",
@@ -92,70 +156,6 @@
         "link": "https://m.jpnn.com/news/diguyur-hujan-deras-atap-panggung-parade-perahu-hias-di-palembang-ambruk-ada-korban",
         "image": "None",
         "uid": "aHR0cHM6Ly9tLmpwbm4uY29tL25ld3MvZGlndXl1ci1odWphbi1kZXJhcy1hdGFwLXBhbmdndW5nLXBhcmFkZS1wZXJhaHUtaGlhcy1kaS1wYWxlbWJhbmctYW1icnVrLWFkYS1rb3JiYW4=",
-        "description": "None",
-        "date": "None"
-    },
-    {
-        "title": "Hasil Survei ICRC: 76 Persen Masyarakat Puas Terhadap Kinerja Anies",
-        "link": "https://m.jpnn.com/news/hasil-survei-icrc-76-persen-masyarakat-puas-terhadap-kinerja-anies",
-        "image": "None",
-        "uid": "aHR0cHM6Ly9tLmpwbm4uY29tL25ld3MvaGFzaWwtc3VydmVpLWljcmMtNzYtcGVyc2VuLW1hc3lhcmFrYXQtcHVhcy10ZXJoYWRhcC1raW5lcmphLWFuaWVz",
-        "description": "None",
-        "date": "None"
-    },
-    {
-        "title": "Hasil Survei ICRC: 73,6 Persen Masyarakat Puas dengan Kinerja Anies Baswedan",
-        "link": "https://m.jpnn.com/news/hasil-survei-icrc-736-persen-masyarakat-puas-dengan-kinerja-anies-baswedan",
-        "image": "None",
-        "uid": "aHR0cHM6Ly9tLmpwbm4uY29tL25ld3MvaGFzaWwtc3VydmVpLWljcmMtNzM2LXBlcnNlbi1tYXN5YXJha2F0LXB1YXMtZGVuZ2FuLWtpbmVyamEtYW5pZXMtYmFzd2VkYW4=",
-        "description": "None",
-        "date": "None"
-    },
-    {
-        "title": "Atta Halilintar Dilarikan ke Rumah Sakit, Aurel Hermansyah Memohon Doa",
-        "link": "https://m.jpnn.com/news/atta-halilintar-dilarikan-ke-rumah-sakit-aurel-hermansyah-memohon-doa",
-        "image": "None",
-        "uid": "aHR0cHM6Ly9tLmpwbm4uY29tL25ld3MvYXR0YS1oYWxpbGludGFyLWRpbGFyaWthbi1rZS1ydW1haC1zYWtpdC1hdXJlbC1oZXJtYW5zeWFoLW1lbW9ob24tZG9h",
-        "description": "None",
-        "date": "None"
-    },
-    {
-        "title": "Nikita Mirzani Beber Anaknya Ogah Diajak ke Tempat Ini, Oh Begitu",
-        "link": "https://m.jpnn.com/news/nikita-mirzani-beber-anaknya-ogah-diajak-ke-tempat-ini-oh-begitu",
-        "image": "None",
-        "uid": "aHR0cHM6Ly9tLmpwbm4uY29tL25ld3MvbmlraXRhLW1pcnphbmktYmViZXItYW5ha255YS1vZ2FoLWRpYWphay1rZS10ZW1wYXQtaW5pLW9oLWJlZ2l0dQ==",
-        "description": "None",
-        "date": "None"
-    },
-    {
-        "title": "Soal Ferdy Sambo, Nikita Mirzani: Enggak Kenal",
-        "link": "https://m.jpnn.com/news/soal-ferdy-sambo-nikita-mirzani-enggak-kenal",
-        "image": "None",
-        "uid": "aHR0cHM6Ly9tLmpwbm4uY29tL25ld3Mvc29hbC1mZXJkeS1zYW1iby1uaWtpdGEtbWlyemFuaS1lbmdnYWsta2VuYWw=",
-        "description": "None",
-        "date": "None"
-    },
-    {
-        "title": "Pengakuan MJ Tanam 1.500 Batang Ganja Bikin Geleng Kepala",
-        "link": "https://m.jpnn.com/news/pengakuan-mj-tanam-1500-batang-ganja-bikin-geleng-kepala",
-        "image": "None",
-        "uid": "aHR0cHM6Ly9tLmpwbm4uY29tL25ld3MvcGVuZ2FrdWFuLW1qLXRhbmFtLTE1MDAtYmF0YW5nLWdhbmphLWJpa2luLWdlbGVuZy1rZXBhbGE=",
-        "description": "None",
-        "date": "None"
-    },
-    {
-        "title": "3 Berita Artis Terheboh: Nikita Mirzani Bongkar Sosok FS, Rico Ceper Enggak Bisa Tidur",
-        "link": "https://m.jpnn.com/news/3-berita-artis-terheboh-nikita-mirzani-bongkar-sosok-fs-rico-ceper-enggak-bisa-tidur",
-        "image": "None",
-        "uid": "aHR0cHM6Ly9tLmpwbm4uY29tL25ld3MvMy1iZXJpdGEtYXJ0aXMtdGVyaGVib2gtbmlraXRhLW1pcnphbmktYm9uZ2thci1zb3Nvay1mcy1yaWNvLWNlcGVyLWVuZ2dhay1iaXNhLXRpZHVy",
-        "description": "None",
-        "date": "None"
-    },
-    {
-        "title": "Ternyata Hotman Paris Sudah Menduga Istri Ferdy Sambo jadi Tersangka",
-        "link": "https://m.jpnn.com/news/ternyata-hotman-paris-sudah-menduga-istri-ferdy-sambo-jadi-tersangka",
-        "image": "None",
-        "uid": "aHR0cHM6Ly9tLmpwbm4uY29tL25ld3MvdGVybnlhdGEtaG90bWFuLXBhcmlzLXN1ZGFoLW1lbmR1Z2EtaXN0cmktZmVyZHktc2FtYm8tamFkaS10ZXJzYW5na2E=",
         "description": "None",
         "date": "None"
     }

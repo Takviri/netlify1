@@ -1,5 +1,19 @@
 [
     {
+        "title": "Data Pelanggan Bocor di Internet, PLN Buru-buru Investigasi!",
+        "link": "https://www.cnbcindonesia.com/news/20220821003028-4-365310/data-pelanggan-bocor-di-internet-pln-buru-buru-investigasi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMTAwMzAyOC00LTM2NTMxMC9kYXRhLXBlbGFuZ2dhbi1ib2Nvci1kaS1pbnRlcm5ldC1wbG4tYnVydS1idXJ1LWludmVzdGlnYXNp",
+        "description": " PLN didukung oleh Kemenkominfo dan BSSN."
+    },
+    {
+        "title": "Rumah Bawah Rp2 Miliar Bebas PBB, Lainnya Diskon Pak Anies?",
+        "link": "https://www.cnbcindonesia.com/news/20220821063758-4-365345/rumah-bawah-rp2-miliar-bebas-pbb-lainnya-diskon-pak-anies",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMTA2Mzc1OC00LTM2NTM0NS9ydW1haC1iYXdhaC1ycDItbWlsaWFyLWJlYmFzLXBiYi1sYWlubnlhLWRpc2tvbi1wYWstYW5pZXM=",
+        "description": " Gubernur DKI Jakarta Anies Baswedan membebaskan pajak bumi dan bangunan (PBB) untuk rumah di bawah Rp 2 miliar."
+    },
+    {
         "title": "Pertamina Patra Niaga Jamin Pasokan BBM Aman",
         "link": "https://www.cnbcindonesia.com/news/20220820215218-4-365308/pertamina-patra-niaga-jamin-pasokan-bbm-aman",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDIyMDUyNC00LTM2NTMwOS9wbG4taGluZ2dhLWJzc24tbGFrdWthbi1wZW5nYW1hbmFuLWRhdGFiYXNlLXBlbGFuZ2dhbg==",
         "description": " PT PLN (Persero) melakukan investigasi dan penanganan data pelanggan yang terekspos di internet"
-    },
-    {
-        "title": "Tenang! Covid Masih Lebih Berat dari Cacar Monyet",
-        "link": "https://www.cnbcindonesia.com/news/20220820193315-4-365300/tenang-covid-masih-lebih-berat-dari-cacar-monyet",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE5MzMxNS00LTM2NTMwMC90ZW5hbmctY292aWQtbWFzaWgtbGViaWgtYmVyYXQtZGFyaS1jYWNhci1tb255ZXQ=",
-        "description": " Jadi cacar monyet tidak terlalu berat sakitnya, kalau dibandingkan dengan Covid-19, jauh."
-    },
-    {
-        "title": "Cacar Monyet Bisa Sembuh Sendiri, Tak Perlu Isolasi Khusus",
-        "link": "https://www.cnbcindonesia.com/news/20220820190938-4-365299/cacar-monyet-bisa-sembuh-sendiri-tak-perlu-isolasi-khusus",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMDE5MDkzOC00LTM2NTI5OS9jYWNhci1tb255ZXQtYmlzYS1zZW1idWgtc2VuZGlyaS10YWstcGVybHUtaXNvbGFzaS1raHVzdXM=",
-        "description": " Berbeda dengan Covid-19, ini isolasinya tidak harus di ruangan bertekanan negatif"
     }
 ]
