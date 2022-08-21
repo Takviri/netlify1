@@ -1,5 +1,26 @@
 [
     {
+        "title": "Hermanto Dardak, Pendidikan hingga Perjalanan Karier di Kementerian Pekerjaan Umum",
+        "link": "https://nasional.tempo.co/read/1625029/hermanto-dardak-pendidikan-hingga-perjalanan-karier-di-kementerian-pekerjaan-umum",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjUwMjkvaGVybWFudG8tZGFyZGFrLXBlbmRpZGlrYW4taGluZ2dhLXBlcmphbGFuYW4ta2FyaWVyLWRpLWtlbWVudGVyaWFuLXBla2VyamFhbi11bXVt",
+        "description": "Pada 2014, Hermanto Dardak menerima penghargaan di bidang pembangunan jalan, International Road Federation (IRF) Professional of the Year"
+    },
+    {
+        "title": "Kiprah Sam Ratulangi Putra Tondano yang Diabadaikan dalam Uang Baru Rp 20.000",
+        "link": "https://nasional.tempo.co/read/1625028/kiprah-sam-ratulangi-putra-tondano-yang-diabadaikan-dalam-uang-baru-rp-20-000",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjUwMjgva2lwcmFoLXNhbS1yYXR1bGFuZ2ktcHV0cmEtdG9uZGFuby15YW5nLWRpYWJhZGFpa2FuLWRhbGFtLXVhbmctYmFydS1ycC0yMC0wMDA=",
+        "description": "Sam Ratulangi pahlawan nasional diabadikan dalam gambar uang baru pecahan Rp 20.000. Begini kiprah Gubernur Sulawesi pertama itu."
+    },
+    {
+        "title": "Bupati Kediri Bakal Bikin Konser Lagi di Penghujung Tahun",
+        "link": "https://nasional.tempo.co/read/1624960/bupati-kediri-bakal-bikin-konser-lagi-di-penghujung-tahun",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjQ5NjAvYnVwYXRpLWtlZGlyaS1iYWthbC1iaWtpbi1rb25zZXItbGFnaS1kaS1wZW5naHVqdW5nLXRhaHVu",
+        "description": "Dia bakal menghelat konser yang lebih menarik lagi di penghujung tahun."
+    },
+    {
         "title": "KPK Periksa Tiga Pejabat Unila di Lampung",
         "link": "https://nasional.tempo.co/read/1625009/kpk-periksa-tiga-pejabat-unila-di-lampung",
         "image": "static/images/tempo_nasional.png",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjQ5NjEvaWRoYW0tY2hhbGlkLWFudGFyYS1udS1wb2xpdGlrLWRhbi1wZW5kaWRpa2FuLXVudHVrLXlhbmctdGFrLWJlcnB1bnlh",
         "description": "Idham Chalid pernah menjabat sebagai Wakil Perdana Menteri pada Kabinet Ali Sastroamidjojo II dan Kabinet Djuanda pada Orde Lama."
-    },
-    {
-        "title": "Lima Hal yang Membuat Pertanian Kuat",
-        "link": "https://nasional.tempo.co/read/1624953/lima-hal-yang-membuat-pertanian-kuat",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjQ5NTMvbGltYS1oYWwteWFuZy1tZW1idWF0LXBlcnRhbmlhbi1rdWF0",
-        "description": "Indonesia terbukti mampu bertahan salah satunya berkat adanya pertanian yang kuat"
-    },
-    {
-        "title": "Kemenkes Imbau Masyarakat Jaga Prokes karena Cacar Monyet Menular Lewat Sentuhan",
-        "link": "https://nasional.tempo.co/read/1624936/kemenkes-imbau-masyarakat-jaga-prokes-karena-cacar-monyet-menular-lewat-sentuhan",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjQ5MzYva2VtZW5rZXMtaW1iYXUtbWFzeWFyYWthdC1qYWdhLXByb2tlcy1rYXJlbmEtY2FjYXItbW9ueWV0LW1lbnVsYXItbGV3YXQtc2VudHVoYW4=",
-        "description": "Kemenkes mengimbau masyarakat agar menghindari kontak langsung dengan pasien cacar monyet karena penularan terjadi melalui sentuhan."
-    },
-    {
-        "title": "Dipicu Kekerasan Seksual 1998, Inilah Sejarah Berdirinya Komnas Perempuan",
-        "link": "https://nasional.tempo.co/read/1624915/dipicu-kekerasan-seksual-1998-inilah-sejarah-berdirinya-komnas-perempuan",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjQ5MTUvZGlwaWN1LWtla2VyYXNhbi1zZWtzdWFsLTE5OTgtaW5pbGFoLXNlamFyYWgtYmVyZGlyaW55YS1rb21uYXMtcGVyZW1wdWFu",
-        "description": "Komnas Perempuan dibentuk sebagai buntut tindak kekerasan terhadap perempuan dalam kerusuhan Mei 1998."
     }
 ]
