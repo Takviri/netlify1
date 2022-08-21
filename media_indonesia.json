@@ -1,5 +1,47 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/516464/performa-apik-the-gunners-di-awal-musim",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjQ2NC9wZXJmb3JtYS1hcGlrLXRoZS1ndW5uZXJzLWRpLWF3YWwtbXVzaW0=",
+        "description": "HASIL positif ditunjukkan Arsenal pada awal musim Liga Primer Inggris 2022/2023, di mana The Gunners --julukan Arsenal-- sukses memetik kemenangan ketiga berturut-trut. Menghadapi Bournemouth&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/516463/pemkot-bekasi-gelar-lebaran-betawi-dan-ngarak-barong",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTY0NjMvcGVta290LWJla2FzaS1nZWxhci1sZWJhcmFuLWJldGF3aS1kYW4tbmdhcmFrLWJhcm9uZw==",
+        "description": "PERGELARAN kegiatan budaya lokal lebaran betawi dan ngarak barong di Kampung Sawah, Kecamatan Pondok Melati, Kota Bekasi, Jawa Barat, berlangsung meriah. Pelaksana tugas (Plt) Wali Kota Bekasi&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/516462/waskita-dipercaya-bangun-proyek-jalan-senilai-us221-juta-di-timor-leste",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjQ2Mi93YXNraXRhLWRpcGVyY2F5YS1iYW5ndW4tcHJveWVrLWphbGFuLXNlbmlsYWktdXMyMjEtanV0YS1kaS10aW1vci1sZXN0ZQ==",
+        "description": "PT Waskita Karya (Persero) Tbk. mendapat kepercayaan untuk membangun infrastruktur Timor Leste dengan memenangkan tender proyek Jalan Noefefan - Oenuno di O&eacute;-Cusse, Timor Leste senilai US$22,1&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/516461/upi-bandung-kukuhkan-kepala-kejaksaan-tinggi-jabar-sebagai-profesor-kehormatan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2NDYxL3VwaS1iYW5kdW5nLWt1a3Voa2FuLWtlcGFsYS1rZWpha3NhYW4tdGluZ2dpLWphYmFyLXNlYmFnYWktcHJvZmVzb3Ita2Vob3JtYXRhbg==",
+        "description": " Rektor Universitas Pendidikan Indonesia (UPI) Bandung, Jawa Barat,&nbsp;&nbsp; Prof M Solehuddin mengukuhkan Kepala Kejaksaan Tinggi Asep Nana Mulyana, sebagai Profesor Kehormatan pada&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/516460/tsitsipas-tantang-coric-di-final-western-southern-open-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTY0NjAvdHNpdHNpcGFzLXRhbnRhbmctY29yaWMtZGktZmluYWwtd2VzdGVybi1zb3V0aGVybi1vcGVuLTIwMjI=",
+        "description": "PEREBUTAN gelar juara Western &amp; Southern Terbuka 2022 di Cincinnati, Ohio, AS, akan menyajikan pertarungan antara petenis Yunani Stefanos Tsitsipas dan petenis Kroasia Borna Coric, Senin (22/8)&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/516459/telkom-tegaskan-tidak-jual-beli-data-pelanggan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjQ1OS90ZWxrb20tdGVnYXNrYW4tdGlkYWstanVhbC1iZWxpLWRhdGEtcGVsYW5nZ2Fu",
+        "description": "PT Telkom Indonesia TBK (Telkom) menyatakan mereka berkomitmen menjaga keamanan data pelanggan dan tidak pernah memperjualbelikan data pelanggan, merespons dugaan kebocoran data pelanggan IndiHome.<br&#8230;"
+    },
+    {
         "title": "Teknologi",
         "link": "https://m.mediaindonesia.com/teknologi/516458/melalui-instant-approval-koinworks-permudah-pendanaan-untuk-ukm",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NDU1L21pbS1nZWxhci1wYW5lbi1yYXlhLWJlcnNhbWEta2Vsb21wb2stdGFuaS1iaW5hYW4tZGktc2VyYW5n",
         "description": "PEMBINAAN berkesinambungan yang dilakukan Masyarakat Indonesia Maju (MIM) terhadap para kelompok tani di Serang, Banten, berbuahkan hasil.&nbsp; Para petani yang tergabung dalam Gabungan Kelompok&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516454/kinerja-apik-erick-bikin-partai-melirik-untuk-pilpres-2024",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTY0NTQva2luZXJqYS1hcGlrLWVyaWNrLWJpa2luLXBhcnRhaS1tZWxpcmlrLXVudHVrLXBpbHByZXMtMjAyNA==",
-        "description": "MENTERI BUMN Erick Thohir dinilai sangat potensial untuk dilirik partai-partai politik sebagai kandidat calon presiden (capres) ataupun calon wakil presiden (cawapres) pada kontestasi Pilpres 2024.&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/516453/reuni-akbar-purna-jamnas-deklarasikan-gugus-purna-jambore-pramuka",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2NDUzL3JldW5pLWFrYmFyLXB1cm5hLWphbW5hcy1kZWtsYXJhc2lrYW4tZ3VndXMtcHVybmEtamFtYm9yZS1wcmFtdWth",
-        "description": "REUNI Akbar 2 Purna Jambore&nbsp;Nasional (Jamnas) kali ini begitu istimewa, pasalnya&nbsp;para peserta reuni yang jumlahnya mencapai lebih dari 400-an orang dan datang dari berbagai provinsi di seluruh&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/516452/dukung-prigi-dan-amir-memeriksa-kesehatan-sungai-sungai-di-indonesia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2NDUyL2R1a3VuZy1wcmlnaS1kYW4tYW1pci1tZW1lcmlrc2Eta2VzZWhhdGFuLXN1bmdhaS1zdW5nYWktZGktaW5kb25lc2lh",
-        "description": "HAI TemanBaik, perkenalkan kami Prigi dan Amir dari tim Ekspedisi Sungai Nusantara. Kami sangat menyukai sungai dan sehari-hari kami melakukan pengamatan dan penelitian tentang ekosistem sungai. Sayangnya,&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516451/menteri-ppn-22-negara-konfirmasi-hadir-dwg-g20-belitung",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NDUxL21lbnRlcmktcHBuLTIyLW5lZ2FyYS1rb25maXJtYXNpLWhhZGlyLWR3Zy1nMjAtYmVsaXR1bmc=",
-        "description": "MENTERI Perencanaan Pembangunan Nasional (PPN)/Kepala Badan Perencanaan Pembangunan Nasional (Bappenas) Suharso Monoarfa menyampaikan 22 negara memberikan konfirmasi baik secara teregistrasi maupun&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516450/titik-panas-berpotensi-karhutla-kembali-muncul-di-kalsel",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NDUwL3RpdGlrLXBhbmFzLWJlcnBvdGVuc2kta2FyaHV0bGEta2VtYmFsaS1tdW5jdWwtZGkta2Fsc2Vs",
-        "description": "TITIK panas (hot spot)&nbsp; kembali muncul di sejumlah wilayah Provinsi Kalimantan Selatan, seiring kondisi cuaca panas dalam beberapa waktu terakhir. Kepala Badan Penanggulangan Bencana&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516449/survei-capres-elektabilitas-anies-di-atas-prabowo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTY0NDkvc3VydmVpLWNhcHJlcy1lbGVrdGFiaWxpdGFzLWFuaWVzLWRpLWF0YXMtcHJhYm93bw==",
-        "description": "HASIL survei yang dirilis Algoritma Research and Consulting&nbsp; menempatkan Gubernur Jawa Tengah&nbsp;Ganjar Pranowo&nbsp;dan Gubernur DKI Jakarta&nbsp;Anies Baswedan&nbsp;di dua posisi teratas tingkat&#8230;"
     }
 ]
