@@ -1,5 +1,47 @@
 [
     {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/516450/titik-panas-berpotensi-karhutla-kembali-muncul-di-kalsel",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NDUwL3RpdGlrLXBhbmFzLWJlcnBvdGVuc2kta2FyaHV0bGEta2VtYmFsaS1tdW5jdWwtZGkta2Fsc2Vs",
+        "description": "TITIK panas (hot spot)&nbsp; kembali muncul di sejumlah wilayah Provinsi Kalimantan Selatan, seiring kondisi cuaca panas dalam beberapa waktu terakhir. Kepala Badan Penanggulangan Bencana&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516449/survei-capres-elektabilitas-anies-di-atas-prabowo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTY0NDkvc3VydmVpLWNhcHJlcy1lbGVrdGFiaWxpdGFzLWFuaWVzLWRpLWF0YXMtcHJhYm93bw==",
+        "description": "HASIL survei yang dirilis Algoritma Research and Consulting&nbsp; menempatkan Gubernur Jawa Tengah&nbsp;Ganjar Pranowo&nbsp;dan Gubernur DKI Jakarta&nbsp;Anies Baswedan&nbsp;di dua posisi teratas tingkat&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/516448/pentingnya-kesehatan-mental-di-tengah-kesibukan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2NDQ4L3BlbnRpbmdueWEta2VzZWhhdGFuLW1lbnRhbC1kaS10ZW5nYWgta2VzaWJ1a2Fu",
+        "description": "SEMAKIN hari masyarakat semakin sadar betapa pentingnya kesehatan mental alias mental health. Bagaimana tidak, terganggunya mental health tidak hanya dapat memengaruhi psikologi, namun juga dapat memengaruhi&#8230;"
+    },
+    {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/516447/segera-mengaspal-di-indonesia-begini-eksterior-tiggo-8-pro",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTY0NDcvc2VnZXJhLW1lbmdhc3BhbC1kaS1pbmRvbmVzaWEtYmVnaW5pLWVrc3Rlcmlvci10aWdnby04LXBybw==",
+        "description": "SEBAGAI salah satu produk unggulan Chery dari seri Tiggo yang sebentar lagi akan mengaspal di Indonesia, sekitar Oktober 2022, Tiggo 8 Pro merupakan sebuah SUV premium yang sudah mendapat pengakuan&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/516446/update-21-agustus-1897-kasus-covid-19-terdeteksi-di-jakarta-hari-ini",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTY0NDYvdXBkYXRlLTIxLWFndXN0dXMtMTg5Ny1rYXN1cy1jb3ZpZC0xOS10ZXJkZXRla3NpLWRpLWpha2FydGEtaGFyaS1pbmk=",
+        "description": "KASUS covid-19 belum juga surut. Sebanyak 1.897 kasus dari 3.949 kasus covid-19 nasional ditemukan di Provinsi DKI Jakarta pada Minggu (21/8). Angka itu setara dengan 48 persen dari total kasus hari&#8230;"
+    },
+    {
+        "title": "Otomotif",
+        "link": "https://m.mediaindonesia.com/otomotif/516438/wuling-kumala-group-resmikan-diler-dengan-visual-baru-di-bandung",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTY0Mzgvd3VsaW5nLWt1bWFsYS1ncm91cC1yZXNtaWthbi1kaWxlci1kZW5nYW4tdmlzdWFsLWJhcnUtZGktYmFuZHVuZw==",
+        "description": "WULING Motors (Wuling) bersama dengan Kumala Group meresmikan pembukaan diler Wuling Kumala Group Bandung, Minggu (21/8). Diler yang mengusung identitas visual terbaru dari Wuling ini merupakan diler&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/516445/kader-pdip-bambang-suryadi-dukung-pencalonan-prabowo-puan-di-pilpres-2024",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2NDQyL2x1YXBrYW4ta2VjZXdhLXdhcmdhbmV0LXNlcmJ1LWFrdW4taW5zdGFncmFtLXVuaWxh",
         "description": "KOMISI Pemberantasan Korupsi (KPK) berhasil mengamankan Rektor Universitas Lampung (Unila) Karomani bersama enam pejabat lainya dalam operasi tangkap tangan (OTT), Sabtu (20/8). Penangkapan yang dilakukan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516441/puncak-acara-exploring-mandeh-road-to-bcl-berlangsung-meriah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NDQxL3B1bmNhay1hY2FyYS1leHBsb3JpbmctbWFuZGVoLXJvYWQtdG8tYmNsLWJlcmxhbmdzdW5nLW1lcmlhaA==",
-        "description": "KEMENTERIAN Kelautan dan Perikanan (KKP) menggelar puncak acara Exploring Mandeh: Road To Bulan Cinta Laut (BCL) di Pantai Purus, Kota Padang, Sumatra Barat, Minggu (21/8). Ratusan orang tumpah&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516440/terduga-pelaku-pembunuhan-di-garut-ditangkap-polisi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NDQwL3RlcmR1Z2EtcGVsYWt1LXBlbWJ1bnVoYW4tZGktZ2FydXQtZGl0YW5na2FwLXBvbGlzaQ==",
-        "description": "POLRES Garut mengamankan seorang pelaku diduga telah melakukan pembunuhan, yang mayatnya ditemukan tanpa identitas di Kampung Mekar Pamili, Desa Sukajaya, Kecamatan Cisewu tepatnya berada di sekitar&#8230;"
-    },
-    {
-        "title": "Otomotif",
-        "link": "https://m.mediaindonesia.com/otomotif/516439/lewat-ayla-dan-sirion-daihatsu-hadirkan-sahabat-seru-dan-sahabat-muda-di-giias-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vdG9tb3RpZi81MTY0MzkvbGV3YXQtYXlsYS1kYW4tc2lyaW9uLWRhaWhhdHN1LWhhZGlya2FuLXNhaGFiYXQtc2VydS1kYW4tc2FoYWJhdC1tdWRhLWRpLWdpaWFzLTIwMjI=",
-        "description": "MEMERIAHKAN ajang Gaikindo Indonesia International Auto Show (GIIAS) 2022 yang diselenggarakan pada tanggal 11-21 Agustus 2022, booth Daihatsu yang berlokasi di Hall 5A ICE BSD, Tangerang menampilkan&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516437/mpr-soroti-kasus-ott-rektor-unila",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTY0MzcvbXByLXNvcm90aS1rYXN1cy1vdHQtcmVrdG9yLXVuaWxh",
-        "description": "TERTANGKAPNYA pimpinan lembaga pendidikan oleh Komisi Pemberantasan Korupsi di tengah dampak krisis global yang mengancam banyak sektor, sangat memprihatinkan. Penting bagi setiap anak bangsa untuk&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/516436/pengamat-seleksi-jalur-mandiri-masuk-ptn-harus-dihapus",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2NDM2L3BlbmdhbWF0LXNlbGVrc2ktamFsdXItbWFuZGlyaS1tYXN1ay1wdG4taGFydXMtZGloYXB1cw==",
-        "description": "PENGAMAT pendidikan Ina Liem menilai seleksi jalur mandiri masuk Perguruan Tinggi Negeri (PTN) perlu dihapus. Pasalnya, seleksi mandiri merupakan jalur yang paling rawan korupsi. &quot;Sebetulnya&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/516435/bri-salurkan-dana-pendidikan-bagi-68-paskibraka-dan-1800-anak-pelaku-usaha-mikro",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjQzNS9icmktc2FsdXJrYW4tZGFuYS1wZW5kaWRpa2FuLWJhZ2ktNjgtcGFza2licmFrYS1kYW4tMTgwMC1hbmFrLXBlbGFrdS11c2FoYS1taWtybw==",
-        "description": "DALAM rangka memaknai Hari Kemerdekaan Republik Indonesia (RI) yang ke-77 dengan semangat untuk bangkit dan berbagi, PT Bank Rakyat Indonesia (Persero) Tbk atau BRI memberikan apresiasi kepada 68 Paskibraka&#8230;"
     }
 ]
