@@ -1,5 +1,12 @@
 [
     {
+        "title": "Darya Dugina, putri sekutu dekat Putin yang meninggal dalam bom mobil di Moskow",
+        "link": "https://www.bbc.com/indonesia/articles/c3gweyxrl1xo",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvYXJ0aWNsZXMvYzNnd2V5eHJsMXhv",
+        "description": "Putri dari Alexander Dugin, sekutu dekat Presiden Rusia Vladimir Putin meninggal dunia dalam serangan bom di jalan raya dekat Moskow. Bom ini diperkirakan menargetkan Alexander, yang di saat terakhir memutuskan ganti mobil."
+    },
+    {
         "title": "Serangan drone dari Ukraina targetkan armada Laut Hitam Rusia di Krimea",
         "link": "https://www.bbc.com/indonesia/articles/cgry78198z0o",
         "image": "static/images/bbc_indonesia.png",
@@ -14,13 +21,6 @@
         "description": "Pada 1960-an, pemerintah Spanyol merelokasi penduduk Granadilla karena kota itu akan ditenggelamkan demi sebuah waduk baru. Ketika semua penduduk sudah terusir, kota itu tidak kunjung tenggelam."
     },
     {
-        "title": "Kisah perempuan tua yang 'memperbaiki' lukisan Yesus hingga menjadi meme di seluruh dunia",
-        "link": "https://www.bbc.com/indonesia/articles/cxryk95lpgxo",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvYXJ0aWNsZXMvY3hyeWs5NWxwZ3hv",
-        "description": "Tanpa keahlian melukis, Cecilia Giminez \"berniat baik membenahi\" lukisan Yesus Kristus karya seniman Elias Garc\u00c3\u00ada Mart\u00c3\u00adnez. Hasil 'karya' Cecilia kemudian menjadi meme di seluruh dunia, bahkan lebih terkenal dibanding lukisan aslinya."
-    },
-    {
         "title": "Mimpi punya apartemen masih 'angan-angan', konsumen apartemen Meikarta merasa diperlakukan 'tidak adil'",
         "link": "https://www.bbc.co.uk/indonesia/articles/cje8vg1zvq2o",
         "image": "static/images/bbc_indonesia.png",
@@ -28,18 +28,18 @@
         "description": "Waluyo dan Suryadi sudah mengeluarkan uang hingga ratusan juta untuk membeli apartemen pertama mereka. Tapi, upaya yang sudah mereka lakukan selama kurang lebih lima tahun untuk mewujudkan mimpi itu masih jauh dari kata terwujud."
     },
     {
+        "title": "Kisah perempuan tua yang 'memperbaiki' lukisan Yesus hingga menjadi meme di seluruh dunia",
+        "link": "https://www.bbc.com/indonesia/articles/cxryk95lpgxo",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvYXJ0aWNsZXMvY3hyeWs5NWxwZ3hv",
+        "description": "Tanpa keahlian melukis, Cecilia Giminez \"berniat baik membenahi\" lukisan Yesus Kristus karya seniman Elias Garc\u00c3\u00ada Mart\u00c3\u00adnez. Hasil 'karya' Cecilia kemudian menjadi meme di seluruh dunia, bahkan lebih terkenal dibanding lukisan aslinya."
+    },
+    {
         "title": "Dapatkah belalang menggantikan daging sapi?",
         "link": "https://www.bbc.com/indonesia/articles/c2507ew42rro",
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvYXJ0aWNsZXMvYzI1MDdldzQycnJv",
         "description": "Bagi banyak orang di Eropa dan Amerika Serikat, jangkrik dan belalang bukanlah santapan. Namun, serangga tersebut adalah camilan yang populer di sebagian wilayah Afrika dan Asia. Serangga tidak hanya sarat gizi, tapi juga minim risiko terhadap iklim."
-    },
-    {
-        "title": "Cacar monyet: Pasien terkonfirmasi pertama di Indonesia ditemukan di Jakarta",
-        "link": "https://www.bbc.com/indonesia/indonesia-62418001",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYyNDE4MDAx",
-        "description": "Kementerian Kesehatan mengumumkan satu pasien cacar monyet atau monkeypox di Indonesia. Kasus tersebut ditemukan di wilayah DKI Jakarta."
     },
     {
         "title": "Temuan kawah bekas hantaman asteroid yang kemungkinan ikut membinasakan dinosaurus",
@@ -63,10 +63,10 @@
         "description": "Seorang guru seni di Guangzhou, China memenangkan gugatan senilai 40.000 yuan (Rp89 juta) dalam kasus pemecatan yang dianggap tidak adil, setelah kucing peliharannya muncul di kelas online yang dia ajar."
     },
     {
-        "title": "Terpidana Bom Bali Umar Patek dapat segera bebas, PM Australia sebut warganya \u2018sangat sedih\u2019",
-        "link": "https://www.bbc.com/indonesia/articles/c51e6ln5872o",
+        "title": "Cacar monyet: Pasien terkonfirmasi pertama di Indonesia ditemukan di Jakarta",
+        "link": "https://www.bbc.com/indonesia/indonesia-62418001",
         "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvYXJ0aWNsZXMvYzUxZTZsbjU4NzJv",
-        "description": "Perdana Menteri Australia Anthony Albanese berkata warganya \u00e2\u0080\u009csangat sedih\u00e2\u0080\u009c mendengar berita bahwa pria yang bertanggung jawab atas pengeboman di Bali pada 2002 menjalani hukuman penjara yang jauh lebih rendah dari vonis."
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYyNDE4MDAx",
+        "description": "Kementerian Kesehatan mengumumkan satu pasien cacar monyet atau monkeypox di Indonesia. Kasus tersebut ditemukan di wilayah DKI Jakarta."
     }
 ]
