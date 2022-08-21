@@ -1,6 +1,27 @@
 [
     {
         "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/516521/jennifer-lopez-dan-ben-affleck-gelar-pesta-pernikahan-mewah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjUyMS9qZW5uaWZlci1sb3Blei1kYW4tYmVuLWFmZmxlY2stZ2VsYXItcGVzdGEtcGVybmlrYWhhbi1tZXdhaA==",
+        "description": "PASANGAN selebritas Jennifer Lopez dan Ben Affleck, Sabtu (20/8) waktu setempat, mengadakan pesta pernikahan mewah di rumah bintang&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/516520/jungkook-pecahkan-rekor-spotify-as",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjUyMC9qdW5na29vay1wZWNhaGthbi1yZWtvci1zcG90aWZ5LWFz",
+        "description": "PERSONEL boygrup K-Pop BTS Jungkook memantapkan cengkeramannya yang kuat di tangga lagu Spotify Amerika Serikat AS dan global lewat&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/516525/manchester-city-dan-newcastle-bermain-imbang-dalam-drama-enam-gol",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjUyNS9tYW5jaGVzdGVyLWNpdHktZGFuLW5ld2Nhc3RsZS1iZXJtYWluLWltYmFuZy1kYWxhbS1kcmFtYS1lbmFtLWdvbA==",
+        "description": "LAGA Newcastle United melawan Manchester City berlangsung penuh drama dengan skor akhir 3-3 dalam laga lanjutan pekan ke-3&#8230;"
+    },
+    {
+        "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/516519/dragon-ball-puncaki-box-office",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjUxOS9kcmFnb24tYmFsbC1wdW5jYWtpLWJveC1vZmZpY2U=",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjUxNy9kZXJ5Y2std2hpYmxleS10ZWxhaC1tZW5qdWFsLWthdGFsb2cta2FyeWFueWE=",
         "description": "PENTOLAN Sum 41 Deryck Whibley menyusul sejumlah musisi Amerika Serikat (AS) yang menjual katalog musiknya. Whibley menjual katalog&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/516516/frankfurt-ditahan-imbang-cologne",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjUxNi9mcmFua2Z1cnQtZGl0YWhhbi1pbWJhbmctY29sb2duZQ==",
-        "description": "EINTRACHT Frankfurt belum juga meraih kemenangan pada musim ini setelah juara Liga Europa itu ditahan imbang tim tamu Cologne di laga Bundesliga,&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/516515/napoli-pinjam-raspadori-dari-sassuolo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjUxNS9uYXBvbGktcGluamFtLXJhc3BhZG9yaS1kYXJpLXNhc3N1b2xv",
-        "description": "NAPOLI resmi mengumumkan transfer Giacomo Raspadori sebagai pemain pinjaman dari Sassuolo, Minggu (21/8). Dalam sebuah pernyataan&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/516514/tiktok-makin-digemari-untuk-kembangkan-bisnis-ini-tips-manfaatkan-tiktok-ads",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE2NTE0L3Rpa3Rvay1tYWtpbi1kaWdlbWFyaS11bnR1ay1rZW1iYW5na2FuLWJpc25pcy1pbmktdGlwcy1tYW5mYWF0a2FuLXRpa3Rvay1hZHM=",
-        "description": "PLATFORM Tiktok menjadi salah satu media sosial terpopuler saat ini dengan semakin banyak penggunanya. Platform berbagi video itu pun banyak digunakan untuk mengembangkan bisnis digital oleh penggunanya,&#8230;"
     }
 ]
