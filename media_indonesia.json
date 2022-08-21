@@ -1,5 +1,12 @@
 [
     {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/516513/wakil-presiden-maruf-amin-direncanakan-meresmikan-brk-syariah-25-agustus-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjUxMy93YWtpbC1wcmVzaWRlbi1tYXJ1Zi1hbWluLWRpcmVuY2FuYWthbi1tZXJlc21pa2FuLWJyay1zeWFyaWFoLTI1LWFndXN0dXMtMjAyMg==",
+        "description": "DENGAN telah terbitnya izin konversi Bank Riau Kepri dari Bank Konvensional menjadi Bank Umum Syariah (BUS) sesuai dengan Surat Keputusan Anggota Dewan Komisioner Otoritas Jasa Keuangan Nomor KEP-93/D.03/2022&#8230;"
+    },
+    {
         "title": "Politik dan Hukum",
         "link": "https://m.mediaindonesia.com/politik-dan-hukum/516511/survei-smrc-sebut-elektabilitas-ganjar-semakin-unggul",
         "image": "static/images/media_indonesia.png",
@@ -12,6 +19,13 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2NTEwL2thay1zZXRvLW1pbnRhLXBvbHJpLWxpbmR1bmdpLWFuYWstYW5hay1mZXJkeS1zYW1ibw==",
         "description": "KETUA Lembaga Perlindungan Anak Indonesia (LPAI) Seto Mulyadi atau dikenal sebagai Kak Seto mendesak Polri untuk melindungi anak-anak Ferdy Sambo dan Putri Candrawathi setelah pasangan suami istri&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/516512/agar-cupang-ciseeng-dan-guppy-mojosongo-terkirim-hingga-jauh",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NTEyL2FnYXItY3VwYW5nLWNpc2VlbmctZGFuLWd1cHB5LW1vam9zb25nby10ZXJraXJpbS1oaW5nZ2EtamF1aA==",
+        "description": "Tugu yang berdiri di tepi jalan dengan patung dua ekor lele yang tengah meliuk, lengkap dengan kumisnya itu menyambut saat memasuki Kecamatan Ciseeng, Kabupaten Bogor, Jawa Barat. Ada tulisan &lsquo;Selamat&#8230;"
     },
     {
         "title": "Nusantara",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTY1MDQvZGV3YW4tcGltcGluYW4td2lsYXlhaC1wcHAtcmlhdS1kdWt1bmctc2FuZGlhZ2EtdW5vLW1hanUtcGlscHJlcy0yMDI0",
         "description": "JELANG Pemilihan Umum (Pemilu) 2024, dukungan untuk maju dalam kontestasi Pemilihan Presiden (Pilpres) kembali diterima Sandiaga Salahuddin Uno.&nbsp; Kali ini, dukungan untuk maju sebagai calon&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/516501/laba-taspen-life-tumbuh-6061-pada-semester-i-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjUwMS9sYWJhLXRhc3Blbi1saWZlLXR1bWJ1aC02MDYxLXBhZGEtc2VtZXN0ZXItaS0yMDIy",
-        "description": "TASPEN Life membukukan kinerja positif selama semester I tahun 2022 (unaudited) dengan capaian laba sebesar Rp35,44 miliar atau tumbuh sebesar 60,61% jika dibandingkan dengan periode yang&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/516500/rebut-kemenangan-di-gp-austria-bagnaia-cetak-hattrick",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTY1MDAvcmVidXQta2VtZW5hbmdhbi1kaS1ncC1hdXN0cmlhLWJhZ25haWEtY2V0YWstaGF0dHJpY2s=",
-        "description": "FRANCESCO Bagnaia meraih kemenangan di tiga balapan secara beruntun berkat penampilan sensasional di Grand Prix Austria, Minggu (21/8), di saat Fabio Quartararo mengganggu pesta podium Ducati di Red&#8230;"
     }
 ]
