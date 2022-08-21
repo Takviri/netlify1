@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pandemi Belum Usai, Hari Ini Ada 3.949 Kasus Covid Baru",
+        "link": "https://www.cnbcindonesia.com/news/20220821165236-16-365399/pandemi-belum-usai-hari-ini-ada-3949-kasus-covid-baru",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMTE2NTIzNi0xNi0zNjUzOTkvcGFuZGVtaS1iZWx1bS11c2FpLWhhcmktaW5pLWFkYS0zOTQ5LWthc3VzLWNvdmlkLWJhcnU=",
+        "description": " Pandemi masih jauh dari usai. Indonesia mencatat 3.949 kasus baru COVID-19 pada Minggu (21/8/2022)."
+    },
+    {
+        "title": "Terima kasih Pak Anies, Rumah di Bawah Rp2 Miliar Bebas PBB",
+        "link": "https://www.cnbcindonesia.com/news/20220821153118-16-365389/terima-kasih-pak-anies-rumah-di-bawah-rp2-miliar-bebas-pbb",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMTE1MzExOC0xNi0zNjUzODkvdGVyaW1hLWthc2loLXBhay1hbmllcy1ydW1haC1kaS1iYXdhaC1ycDItbWlsaWFyLWJlYmFzLXBiYg==",
+        "description": " Gubernur DKI Jakarta Anies Baswedan membebaskan pajak bumi dan bangunan (PBB) untuk rumah di bawah Rp 2 miliar."
+    },
+    {
         "title": "Menantu Jokowi Ini Siap Selesaikan 3 Masalah di Medan Belawan",
         "link": "https://www.cnbcindonesia.com/news/20220821171446-4-365400/menantu-jokowi-ini-siap-selesaikan-3-masalah-di-medan-belawan",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMTEzNDQ0OC00LTM2NTM3NS9ydXNpYS1kaW1pbnRhLXRpbmdnYWxrYW4tcGx0bi16YXBvcml6aHpoaWEtYWRhLWJhaGF5YS1iZXNhcg==",
         "description": " Sekretaris Jenderal PBB Antonio Guterres memperingatkan adanya potensi kerusakan pada pembangkit listrik tenaga nuklir (PLTN) Zaporizhzhia di Ukraina."
-    },
-    {
-        "title": "Jika Harga BBM Subsidi Tak Naik, Ini Dampaknya ke Beban APBN",
-        "link": "https://www.cnbcindonesia.com/news/20220819114627-8-365015/jika-harga-bbm-subsidi-tak-naik-ini-dampaknya-ke-beban-apbn",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgxOTExNDYyNy04LTM2NTAxNS9qaWthLWhhcmdhLWJibS1zdWJzaWRpLXRhay1uYWlrLWluaS1kYW1wYWtueWEta2UtYmViYW4tYXBibg==",
-        "description": " Jika Harga BBM Subsidi Tak Naik, Begini Dampaknya ke Beban APBN!"
-    },
-    {
-        "title": "Geram Putin Mau Datang ke Bali, Calon PM Inggris Bicara Moral",
-        "link": "https://www.cnbcindonesia.com/news/20220821130103-4-365371/geram-putin-mau-datang-ke-bali-calon-pm-inggris-bicara-moral",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMTEzMDEwMy00LTM2NTM3MS9nZXJhbS1wdXRpbi1tYXUtZGF0YW5nLWtlLWJhbGktY2Fsb24tcG0taW5nZ3Jpcy1iaWNhcmEtbW9yYWw=",
-        "description": " Presiden Rusia Vladimir Putin dilaporkan akan menghadiri KTT G20 di Bali pada November mendatang."
     }
 ]
