@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kolom Pakar",
+        "link": "https://m.mediaindonesia.com/kolom-pakar/516489/kesiapan-partai-politik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9rb2xvbS1wYWthci81MTY0ODkva2VzaWFwYW4tcGFydGFpLXBvbGl0aWs=",
+        "description": "TAHUN ini partai politik sibuk menyiapkan keikutsertaan mereka dalam gelaran Pemilihan Umum (Pemilu) 2024. Seperti biasa, saat musim tahun politik tiba, kehadiran partai politik bak cendawan pada musim&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/516518/aston-villa-boyong-sarr-dari-watford",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjUxOC9hc3Rvbi12aWxsYS1ib3lvbmctc2Fyci1kYXJpLXdhdGZvcmQ=",
+        "description": "ASTON Villa dilaporkan telah menyepakati transfer pemain sayap Ismaila Sarr dari Watford. Hal itu dilaporkan Daily Mail, Minggu&#8230;"
+    },
+    {
         "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/516517/deryck-whibley-telah-menjual-katalog-karyanya",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NTEyL2FnYXItY3VwYW5nLWNpc2VlbmctZGFuLWd1cHB5LW1vam9zb25nby10ZXJraXJpbS1oaW5nZ2EtamF1aA==",
         "description": "Tugu yang berdiri di tepi jalan dengan patung dua ekor lele yang tengah meliuk, lengkap dengan kumisnya itu menyambut saat memasuki Kecamatan Ciseeng, Kabupaten Bogor, Jawa Barat. Ada tulisan &lsquo;Selamat&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516509/kapolres-cimahi-janji-penanganan-kasus-pembunuhan-purnawirawan-tni-transparan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NTA5L2thcG9scmVzLWNpbWFoaS1qYW5qaS1wZW5hbmdhbmFuLWthc3VzLXBlbWJ1bnVoYW4tcHVybmF3aXJhd2FuLXRuaS10cmFuc3BhcmFu",
-        "description": "SEKITAR seratus purnawirawan TNI mendatangi Polsek Lembang, Polres Cimahi, Jawa Barat, untuk menanyakan perkembangan serta mengawal kasus penganiayaan yang menyebabkan tewasnya Letkol Inf (Purn) Muhammad&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516508/puluhan-aktivis-di-kota-bandung-tolak-penganiayaan-terhadap-binatang",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NTA4L3B1bHVoYW4tYWt0aXZpcy1kaS1rb3RhLWJhbmR1bmctdG9sYWstcGVuZ2FuaWF5YWFuLXRlcmhhZGFwLWJpbmF0YW5n",
-        "description": "PULUHAN aktivis, pemilik, hingga pecinta hewan se-Bandung, Jawa Barat, berkumpul di Taman Cikapayang, Kota Bandung, pada Minggu (21/8). Mereka menyuarakan penolakan penganiayaan terhadap binatang.&#8230;"
     }
 ]
