@@ -1,5 +1,19 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/516531/ini-contoh-daftar-pustaka-dan-cara-penulisan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2NTMxL2luaS1jb250b2gtZGFmdGFyLXB1c3Rha2EtZGFuLWNhcmEtcGVudWxpc2Fu",
+        "description": "PERNAHKAH Anda mendengar kata daftar pustaka? Daftar pustaka biasanya terletak pada bagian akhir karya ilmiah dan merupakan bagian yang sangatlah penting.&nbsp; Meski secara struktur letaknya&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/516526/maslany-mengaku-tidak-bisa-berhenti-tertawa-saat-syuting-episode-1-she-hulk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjUyNi9tYXNsYW55LW1lbmdha3UtdGlkYWstYmlzYS1iZXJoZW50aS10ZXJ0YXdhLXNhYXQtc3l1dGluZy1lcGlzb2RlLTEtc2hlLWh1bGs=",
+        "description": "BINTANG serial Marvel She-Hulk: Attorney at Law, Tatiana Maslany, mengatakan dia tidak bisa berhenti tertawa&nbsp;saat merekam satu&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/516524/semua-ganda-putra-indonesia-dapat-bye-di-putaran-pertama-kejuaraan-dunia",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjUyMC9qdW5na29vay1wZWNhaGthbi1yZWtvci1zcG90aWZ5LWFz",
         "description": "PERSONEL boygrup K-Pop BTS Jungkook memantapkan cengkeramannya yang kuat di tangga lagu Spotify Amerika Serikat AS dan global lewat&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/516525/manchester-city-dan-newcastle-bermain-imbang-dalam-drama-enam-gol",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjUyNS9tYW5jaGVzdGVyLWNpdHktZGFuLW5ld2Nhc3RsZS1iZXJtYWluLWltYmFuZy1kYWxhbS1kcmFtYS1lbmFtLWdvbA==",
-        "description": "LAGA Newcastle United melawan Manchester City berlangsung penuh drama dengan skor akhir 3-3 dalam laga lanjutan pekan ke-3&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/516519/dragon-ball-puncaki-box-office",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjUxOS9kcmFnb24tYmFsbC1wdW5jYWtpLWJveC1vZmZpY2U=",
-        "description": "FILM animasi Jepang Dragon Ball Super: Super Hero sukses memuncaki Box Office Amerika Utara setelah meraup pendapatan sebesar US$20,1 juta. Raihan itu sangat hebat bagi film produksi Crunchyroll,&#8230;"
     }
 ]

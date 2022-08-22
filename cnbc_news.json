@@ -1,9 +1,16 @@
 [
     {
-        "title": "Xi JinpingPening, Ada Bencana Baru \"Acak-acak\" Ekonomi China",
-        "link": "https://www.cnbcindonesia.com/news/20220822062554-4-365430/xi-jinpingpening-ada-bencana-baru-acak-acak-ekonomi-china",
+        "title": "Pantas Perang Ukraina Tak Kunjung Usai: Rusia Menang Banyak!",
+        "link": "https://www.cnbcindonesia.com/news/20220822063218-4-365433/pantas-perang-ukraina-tak-kunjung-usai-rusia-menang-banyak",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjA2MjU1NC00LTM2NTQzMC94aS1qaW5waW5ncGVuaW5nLWFkYS1iZW5jYW5hLWJhcnUtYWNhay1hY2FrLWVrb25vbWktY2hpbmE=",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjA2MzIxOC00LTM2NTQzMy9wYW50YXMtcGVyYW5nLXVrcmFpbmEtdGFrLWt1bmp1bmctdXNhaS1ydXNpYS1tZW5hbmctYmFueWFr",
+        "description": " Menteri Pariwisata dan Ekonomi Kreatif (Menparekraf) RI, Sandiaga Salahuddin Uno, memaparkan alasan mengapa perang Rusia-Ukraina tidak kunjung usai."
+    },
+    {
+        "title": "Xi Jinping Pening, Ada Bencana Baru \"Acak-acak\" Ekonomi China",
+        "link": "https://www.cnbcindonesia.com/news/20220822062554-4-365430/xi-jinping-pening-ada-bencana-baru-acak-acak-ekonomi-china",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjA2MjU1NC00LTM2NTQzMC94aS1qaW5waW5nLXBlbmluZy1hZGEtYmVuY2FuYS1iYXJ1LWFjYWstYWNhay1la29ub21pLWNoaW5h",
         "description": " China saat ini mengalami bencana baru. Bukan Covid-19 melainkan gelombang panas."
     },
     {
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMTE2MjAyNy00LTM2NTM5Ni9vcmFuZy1rYXlhLWR1bmlhLXBhdHVuZ2FuLWRhbmFpLXByb3llay1wZXJidXJ1YW4taGFydGEta2FydW4=",
         "description": " Sejumlah orang terkaya di dunia rela mendanai proyek perburuan harta karun besar-besaran."
-    },
-    {
-        "title": "Resmi Naik, Cek Harga Terbaru BBM Pertamina di Seluruh SPBU",
-        "link": "https://www.cnbcindonesia.com/news/20220821155844-4-365393/resmi-naik-cek-harga-terbaru-bbm-pertamina-di-seluruh-spbu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMTE1NTg0NC00LTM2NTM5My9yZXNtaS1uYWlrLWNlay1oYXJnYS10ZXJiYXJ1LWJibS1wZXJ0YW1pbmEtZGktc2VsdXJ1aC1zcGJ1",
-        "description": " PT Pertamina (Persero) kembali menaikkan harga tiga jenis Bahan Bakar Minyak (BBM) yakni Pertamax Turbo, Dexlite dan Pertamina Dex"
     }
 ]
