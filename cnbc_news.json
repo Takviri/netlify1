@@ -1,5 +1,47 @@
 [
     {
+        "title": "Cetak Rekor, Harga Telur Ayam Tiba-Tiba 'Meledak'",
+        "link": "https://www.cnbcindonesia.com/news/20220822164032-7-365657/cetak-rekor-harga-telur-ayam-tiba-tiba-meledak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjE2NDAzMi03LTM2NTY1Ny9jZXRhay1yZWtvci1oYXJnYS10ZWx1ci1heWFtLXRpYmEtdGliYS1tZWxlZGFr",
+        "description": " Usai harga minyak goreng yang mulai mereda, kini giliran harga telur ayam yang melonjak tajam."
+    },
+    {
+        "title": "Hari Ini Kasus Covid-19 RI Turun Jadi 3.300",
+        "link": "https://www.cnbcindonesia.com/news/20220822174145-4-365691/hari-ini-kasus-covid-19-ri-turun-jadi-3300",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjE3NDE0NS00LTM2NTY5MS9oYXJpLWluaS1rYXN1cy1jb3ZpZC0xOS1yaS10dXJ1bi1qYWRpLTMzMDA=",
+        "description": " Hanya saja, jumlah korban meninggal hari ini lebih tinggi, yaitu 19 meninggal karena Covid-19 dari sehari sebelumnya 12 orang."
+    },
+    {
+        "title": "Strategi ATR/BPN Kejar Target Reforma Agraria 9 Juta Hektar L",
+        "link": "https://www.cnbcindonesia.com/news/20220822160835-8-365645/strategi-atr-bpn-kejar-target-reforma-agraria-9-juta-hektar-l",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjE2MDgzNS04LTM2NTY0NS9zdHJhdGVnaS1hdHItYnBuLWtlamFyLXRhcmdldC1yZWZvcm1hLWFncmFyaWEtOS1qdXRhLWhla3Rhci1s",
+        "description": " Strategi ATR/BPN Kejar Target Reforma Agraria 9 Juta Hektar Lahan"
+    },
+    {
+        "title": "Cara dan Syarat Mengaktifkan Kembali Kepesertaan BPJS Kesehatan",
+        "link": "https://www.cnbcindonesia.com/news/20220822152458-4-365632/cara-syarat-mengaktifkan-kembali-kepesertaan-bpjs-kesehatan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjE1MjQ1OC00LTM2NTYzMi9jYXJhLXN5YXJhdC1tZW5nYWt0aWZrYW4ta2VtYmFsaS1rZXBlc2VydGFhbi1icGpzLWtlc2VoYXRhbg==",
+        "description": " Ada cara mudah bagi Anda yang ingin kembali mengaktifkan layanan BPJS Kesehatan yang sudah lama tidak aktif"
+    },
+    {
+        "title": "Kuota Pertalite Sekarat, Nambah 5 Juta KL Lagi Pun Gak Cukup!",
+        "link": "https://www.cnbcindonesia.com/news/20220822161346-4-365649/kuota-pertalite-sekarat-nambah-5-juta-kl-lagi-pun-gak-cukup",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjE2MTM0Ni00LTM2NTY0OS9rdW90YS1wZXJ0YWxpdGUtc2VrYXJhdC1uYW1iYWgtNS1qdXRhLWtsLWxhZ2ktcHVuLWdhay1jdWt1cA==",
+        "description": " BPH Migas mencatat, apabila kuota BBM Pertalite ditambah 5 juta KL tidak akan mencukupi untuk tahun ini"
+    },
+    {
+        "title": "Sering Delay Setelah Pandemi, Maskapai Ini Beri Kompensasi",
+        "link": "https://www.cnbcindonesia.com/news/20220822163910-4-365655/sering-delay-setelah-pandemi-maskapai-ini-beri-kompensasi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjE2MzkxMC00LTM2NTY1NS9zZXJpbmctZGVsYXktc2V0ZWxhaC1wYW5kZW1pLW1hc2thcGFpLWluaS1iZXJpLWtvbXBlbnNhc2k=",
+        "description": " Maskapai penerbangan asal Australia, Qantas Airways, memberikan kompensasi kepada penumpangnya atas sejumlah masalah yang terjadi."
+    },
+    {
         "title": "Dear Pak Jokowi! Kalau BBM Harus Naik, Ini Waktu yang Tepat",
         "link": "https://www.cnbcindonesia.com/news/20220822152349-4-365634/dear-pak-jokowi-kalau-bbm-harus-naik-ini-waktu-yang-tepat",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjE2NTM1MS00LTM2NTY3MS9oYXJnYS10ZWx1ci10ZXJiYW5nLWxhZ2ktZGktamFrYXJ0YS1ycDMzMDAw",
         "description": " Harga telur ayam ras terpantau melonjak lagi, setelah sempat melandai beberapa waktu lalu."
-    },
-    {
-        "title": "ATR/BPN Urus Lahan dan Tanah Kawasan IKN Agar Bebas Sengketa",
-        "link": "https://www.cnbcindonesia.com/news/20220822161610-8-365648/atr-bpn-urus-lahan-tanah-kawasan-ikn-agar-bebas-sengketa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjE2MTYxMC04LTM2NTY0OC9hdHItYnBuLXVydXMtbGFoYW4tdGFuYWgta2F3YXNhbi1pa24tYWdhci1iZWJhcy1zZW5na2V0YQ==",
-        "description": " ATR/BPN Urus Lahan dan Tanah Kawasan IKN Agar Bebas Sengketa"
-    },
-    {
-        "title": "Blok Rokan Bersiap Jadi Wilayah Produksi Migas Terbesar RI",
-        "link": "https://www.cnbcindonesia.com/news/20220822153144-4-365636/blok-rokan-bersiap-jadi-wilayah-produksi-migas-terbesar-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjE1MzE0NC00LTM2NTYzNi9ibG9rLXJva2FuLWJlcnNpYXAtamFkaS13aWxheWFoLXByb2R1a3NpLW1pZ2FzLXRlcmJlc2FyLXJp",
-        "description": " Kepala BPH Migas menyatakan Produksi Blok Rokan akan menyalip Blok Cepu"
-    },
-    {
-        "title": "DPR: Harga BBM Pertalite dan Solar Sudah Tak Bisa Ditahan Lagi",
-        "link": "https://www.cnbcindonesia.com/news/20220822163349-4-365654/dpr-harga-bbm-pertalite-solar-sudah-tak-bisa-ditahan-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjE2MzM0OS00LTM2NTY1NC9kcHItaGFyZ2EtYmJtLXBlcnRhbGl0ZS1zb2xhci1zdWRhaC10YWstYmlzYS1kaXRhaGFuLWxhZ2k=",
-        "description": " Satu suara dengan pemerintah, Komisi VII DPR mengatakan harga BBM Pertalite dan Solar Subsidi tidak bisa ditahan lagi"
-    },
-    {
-        "title": "Ada Jalur 'Rahasia' Lowongan Kerja PCPM BI 2022, Ini Dia!",
-        "link": "https://www.cnbcindonesia.com/news/20220822152018-4-365630/ada-jalur-rahasia-lowongan-kerja-pcpm-bi-2022-ini-dia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjE1MjAxOC00LTM2NTYzMC9hZGEtamFsdXItcmFoYXNpYS1sb3dvbmdhbi1rZXJqYS1wY3BtLWJpLTIwMjItaW5pLWRpYQ==",
-        "description": " Berikut jalur-jalur 'khusus' lowongan kerja PCPM BI 2022"
-    },
-    {
-        "title": "Jokowi Tambah Subsidi Solar Jadi Rp1.000/liter Tahun Depan",
-        "link": "https://www.cnbcindonesia.com/news/20220822150540-4-365623/jokowi-tambah-subsidi-solar-jadi-rp1000-liter-tahun-depan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjE1MDU0MC00LTM2NTYyMy9qb2tvd2ktdGFtYmFoLXN1YnNpZGktc29sYXItamFkaS1ycDEwMDAtbGl0ZXItdGFodW4tZGVwYW4=",
-        "description": " Pemerintah ternyata berencana menaikkan subsidi solar dari Rp500 menjadi Rp1.000 per liter pada tahun depan."
-    },
-    {
-        "title": "Jokowi Sentil 'OKB' yang Doyan Petantang-Petenteng, Siapa ya?",
-        "link": "https://www.cnbcindonesia.com/news/20220822161635-4-365650/jokowi-sentil-okb-yang-doyan-petantang-petenteng-siapa-ya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjE2MTYzNS00LTM2NTY1MC9qb2tvd2ktc2VudGlsLW9rYi15YW5nLWRveWFuLXBldGFudGFuZy1wZXRlbnRlbmctc2lhcGEteWE=",
-        "description": " Jokowi menyampaikan pesan khusus bagi masyarakat penerima sertifikat tanah"
     }
 ]

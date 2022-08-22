@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kasus Positif Capai 3.300, Meninggal 19 Orang",
+        "link": "https://www.cnnindonesia.com/nasional/20220822131544-20-837519/kasus-positif-capai-3300-meninggal-19-orang",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyMjEzMTU0NC0yMC04Mzc1MTkva2FzdXMtcG9zaXRpZi1jYXBhaS0zMzAwLW1lbmluZ2dhbC0xOS1vcmFuZw==",
+        "description": " Satuan Tugas Penanganan Covid-19 menyatakan ada penambahan 3.300 kasus konfirmasi positif terinfeksi virus corona di Indonesia pada Senin (22/8)."
+    },
+    {
+        "title": "Komnas HAM Ungkap Sosok Skuad Lama yang Ancam Bunuh Brigadir J",
+        "link": "https://www.cnnindonesia.com/nasional/20220822171942-12-837660/komnas-ham-ungkap-sosok-skuad-lama-yang-ancam-bunuh-brigadir-j",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyMjE3MTk0Mi0xMi04Mzc2NjAva29tbmFzLWhhbS11bmdrYXAtc29zb2stc2t1YWQtbGFtYS15YW5nLWFuY2FtLWJ1bnVoLWJyaWdhZGlyLWo=",
+        "description": " Komnas HAM ungkap sosok 'skuad lama' yang disebut pernah memberikan ancaman pembunuhan terhadap Brigadir J."
+    },
+    {
         "title": "Suara Kapolda Sumut Meninggi Ditanya Isu Kaisar Sambo Konsorsium 303",
         "link": "https://www.cnnindonesia.com/nasional/20220822165226-12-837640/suara-kapolda-sumut-meninggi-ditanya-isu-kaisar-sambo-konsorsium-303",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyMjE2MjAyOS0yMC04Mzc2MjIvcG9saXRpa3VzLXBkaXAtc29yb3RpLWtpbmVyamEtYW5pZXMtc2VsYW1hLXBpbXBpbi1qYWthcnRh",
         "description": " Gembong Warsono mengatakan tidak ada pekerjaan spektakuler yang dikerjakan Gubernur DKI Jakarta Anies Baswedan selama lima tahun memimpin Ibu Kota."
-    },
-    {
-        "title": "VIDEO: Hasil Autopsi Ulang Brigadir J Ungkap Hanya Ada Luka Tembak",
-        "link": "https://www.cnnindonesia.com/nasional/20220822154544-16-837597/video-hasil-autopsi-ulang-brigadir-j-ungkap-hanya-ada-luka-tembak",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyMjE1NDU0NC0xNi04Mzc1OTcvdmlkZW8taGFzaWwtYXV0b3BzaS11bGFuZy1icmlnYWRpci1qLXVuZ2thcC1oYW55YS1hZGEtbHVrYS10ZW1iYWs=",
-        "description": " Ketua tim dokter forensik gabungan Ade Firmansyah Sugiharto menyebutkan hasil autopsi menunjukkan tidak ada luka-luka selain luka tembak, pada Senin (22/8)."
-    },
-    {
-        "title": "Hasil Autopsi Ulang: Tak Ditemukan Kuku Brigadir J Dicabut",
-        "link": "https://www.cnnindonesia.com/nasional/20220822160606-12-837610/hasil-autopsi-ulang-tak-ditemukan-kuku-brigadir-j-dicabut",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyMjE2MDYwNi0xMi04Mzc2MTAvaGFzaWwtYXV0b3BzaS11bGFuZy10YWstZGl0ZW11a2FuLWt1a3UtYnJpZ2FkaXItai1kaWNhYnV0",
-        "description": " Ketua tim dokter forensik gabungan Ade Firmansyah Sugiharto memastikan hasil autopsi ulang tak menemukan kuku Brigadir J dicabut."
     }
 ]
