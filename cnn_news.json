@@ -1,5 +1,33 @@
 [
     {
+        "title": "Menkes Soal Cacar Monyet: You Look Ugly Definitely, But You'll Survive",
+        "link": "https://www.cnnindonesia.com/nasional/20220822131604-20-837520/menkes-soal-cacar-monyet-you-look-ugly-definitely-but-youll-survive",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyMjEzMTYwNC0yMC04Mzc1MjAvbWVua2VzLXNvYWwtY2FjYXItbW9ueWV0LXlvdS1sb29rLXVnbHktZGVmaW5pdGVseS1idXQteW91bGwtc3Vydml2ZQ==",
+        "description": " Menteri Kesehatan Budi Gunadi Sadikin memastikan penyakit Monkeypox atau cacar monyet tidak bakal menyebabkan angka kematian tinggi seperti Covid-19."
+    },
+    {
+        "title": "KAI Kirim Peringatan Kedua Bongkar Lokalisasi Gunung Antang di Jaktim",
+        "link": "https://www.cnnindonesia.com/nasional/20220822125404-20-837511/kai-kirim-peringatan-kedua-bongkar-lokalisasi-gunung-antang-di-jaktim",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyMjEyNTQwNC0yMC04Mzc1MTEva2FpLWtpcmltLXBlcmluZ2F0YW4ta2VkdWEtYm9uZ2thci1sb2thbGlzYXNpLWd1bnVuZy1hbnRhbmctZGktamFrdGlt",
+        "description": " Humas PT KAI Daop 1 Jakarta mengatakan sejauh ini pihaknya baru mengirim SP2 agar penghuni lokalisasi Gunung Antang di Matraman membongkar bangunan sendiri."
+    },
+    {
+        "title": "Arteria Sorot Gaya Hidup Karopaminal Polri: Jangan Sampai Jadi Kanker",
+        "link": "https://www.cnnindonesia.com/nasional/20220822124733-12-837512/arteria-sorot-gaya-hidup-karopaminal-polri-jangan-sampai-jadi-kanker",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyMjEyNDczMy0xMi04Mzc1MTIvYXJ0ZXJpYS1zb3JvdC1nYXlhLWhpZHVwLWthcm9wYW1pbmFsLXBvbHJpLWphbmdhbi1zYW1wYWktamFkaS1rYW5rZXI=",
+        "description": " Anggota Komisi III DPR RI dari fraksi PDI Perjuangan Arteria Dahlan menyentil gaya hidup Karopaminal Divisi Propam Polri."
+    },
+    {
+        "title": "Mahfud MD Jelaskan soal Kerajaan Sambo dan Bagan Konsorsium 303",
+        "link": "https://www.cnnindonesia.com/nasional/20220822121823-12-837484/mahfud-md-jelaskan-soal-kerajaan-sambo-dan-bagan-konsorsium-303",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyMjEyMTgyMy0xMi04Mzc0ODQvbWFoZnVkLW1kLWplbGFza2FuLXNvYWwta2VyYWphYW4tc2FtYm8tZGFuLWJhZ2FuLWtvbnNvcnNpdW0tMzAz",
+        "description": " Ketua Kompolnas Mahfud MD mendapat banyak pertanyaan seputar kasus Ferdy Sambo, termasuk soal Konsorsium 303 dan Kerajaan Sambo."
+    },
+    {
         "title": "Kejagung Sita Gedung PT Duta Palma Grup dan Hotel di Kuta Bali",
         "link": "https://www.cnnindonesia.com/nasional/20220822123447-12-837492/kejagung-sita-gedung-pt-duta-palma-grup-dan-hotel-di-kuta-bali",
         "image": "static/images/cnn_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyMjEyMTIzMy0zMi04Mzc0ODIvZHByLWRlc2FrLW1haGZ1ZC1tZC11bmdrYXAtbmFtYS1rb21qZW4tYW5jYW0tbXVuZHVyLWRpLWthc3VzLXNhbWJv",
         "description": " Menko Polhukam yang juga Ketua Kompolnas Mahfud MD mau menyampaikan sosok Komjen yang mengancam mundur terkait kasus Irjen Ferdy Sambo secara konfidensial."
-    },
-    {
-        "title": "PDIP Tolak Usul Kapolri Diberhentikan Buntut Kasus Ferdy Sambo",
-        "link": "https://www.cnnindonesia.com/nasional/20220822120615-32-837472/pdip-tolak-usul-kapolri-diberhentikan-buntut-kasus-ferdy-sambo",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyMjEyMDYxNS0zMi04Mzc0NzIvcGRpcC10b2xhay11c3VsLWthcG9scmktZGliZXJoZW50aWthbi1idW50dXQta2FzdXMtZmVyZHktc2FtYm8=",
-        "description": " Anggota Komisi III DPR dari Fraksi PDIP, Trimedya Panjaitan menganggap kinerja Kapolri Jenderal Listyo Sigit sudah terasa di kasus kematian Brigadir J."
-    },
-    {
-        "title": "Arteria Dahlan Kritik Keras Benny Mamoto: Ngomong Kencang Tapi Salah",
-        "link": "https://www.cnnindonesia.com/nasional/20220822114039-32-837470/arteria-dahlan-kritik-keras-benny-mamoto-ngomong-kencang-tapi-salah",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyMjExNDAzOS0zMi04Mzc0NzAvYXJ0ZXJpYS1kYWhsYW4ta3JpdGlrLWtlcmFzLWJlbm55LW1hbW90by1uZ29tb25nLWtlbmNhbmctdGFwaS1zYWxhaA==",
-        "description": " Anggota Komisi III DPR Arteria Dahlan menyebut Ketua Harian Kompolnas Benny Mamoto sebagai sosok yang bicara kencang di kasus Sambo, tapi salah."
-    },
-    {
-        "title": "Mahfud Tolak Tanggapi Usul Penonaktifan Kapolri dan Isu Komjen Mundur",
-        "link": "https://www.cnnindonesia.com/nasional/20220822114636-32-837466/mahfud-tolak-tanggapi-usul-penonaktifan-kapolri-isu-komjen-mundur",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyMjExNDYzNi0zMi04Mzc0NjYvbWFoZnVkLXRvbGFrLXRhbmdnYXBpLXVzdWwtcGVub25ha3RpZmFuLWthcG9scmktaXN1LWtvbWplbi1tdW5kdXI=",
-        "description": " Ketua Kompolnas Mahfud MD menolak menjawab atau memberikan tanggapan terkait usulan penonaktifan Kapolri Jenderal Listyo Sigit Prabowo."
-    },
-    {
-        "title": "Bobby Nasution Bawa Medan Jadi Kota Kreatif",
-        "link": "https://www.cnnindonesia.com/nasional/20220822114304-37-837463/bobby-nasution-bawa-medan-jadi-kota-kreatif",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyMjExNDMwNC0zNy04Mzc0NjMvYm9iYnktbmFzdXRpb24tYmF3YS1tZWRhbi1qYWRpLWtvdGEta3JlYXRpZg==",
-        "description": " Wali Kota Medan Bobby Nasution yang kerap melibatkan peran anak muda serta memberi ruang bagi pegiat kreatif menyalurkan karya dan kreatifitas mereka."
     }
 ]
