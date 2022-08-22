@@ -14,6 +14,13 @@
         "description": "Isu LBGT memecah masyarakat Singapura dalam beberapa tahun terakhir. Setelah pencabutan larangan homoseksualitas, pemerintah meminta warganya untuk menghentikan perselisihan."
     },
     {
+        "title": "Apakah cokelat hitam bermanfaat bagi kesehatan?",
+        "link": "https://www.bbc.co.uk/indonesia/articles/crgk7p6zezdo",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jcmdrN3A2emV6ZG8=",
+        "description": "Kita sudah lama diberitahu bahwa cokelat tidak baik untuk kesehatan. Tetapi ternyata cokelat hitam memiliki manfaat tersendiri."
+    },
+    {
         "title": "Perempuan yang mencoba membuat 'saingan Google karya anak bangsa', namun gagal",
         "link": "https://www.bbc.co.uk/indonesia/articles/cn4ql63m65do",
         "image": "static/images/bbc_indonesia.png",
@@ -42,13 +49,6 @@
         "description": "Bagan menstruasi mendorong percakapan yang lebih terbuka tentang pengalaman perempuan, dan membantu melawan tabu."
     },
     {
-        "title": "Serangan drone dari Ukraina targetkan armada Laut Hitam Rusia di Krimea",
-        "link": "https://www.bbc.com/indonesia/articles/cgry78198z0o",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvYXJ0aWNsZXMvY2dyeTc4MTk4ejBv",
-        "description": "Sejumlah serangan pesawat tak berawak telah dilaporkan terjadi di Krimea dalam beberapa hari terakhir, salah satunya di pangkalan udara dekat Sevastopol pada hari Kamis dan satu lagi di pelabuhan pada hari Jumat."
-    },
-    {
         "title": "Kota peninggalan umat Islam di Spanyol yang warganya diusir paksa",
         "link": "https://www.bbc.com/indonesia/articles/c03zy1ejrdro",
         "image": "static/images/bbc_indonesia.png",
@@ -63,10 +63,10 @@
         "description": "Waluyo dan Suryadi sudah mengeluarkan uang hingga ratusan juta untuk membeli apartemen pertama mereka. Tapi, upaya yang sudah mereka lakukan selama kurang lebih lima tahun untuk mewujudkan mimpi itu masih jauh dari kata terwujud."
     },
     {
-        "title": "Kisah perempuan tua yang 'memperbaiki' lukisan Yesus hingga menjadi meme di seluruh dunia",
-        "link": "https://www.bbc.com/indonesia/articles/cxryk95lpgxo",
+        "title": "Serangan drone dari Ukraina targetkan armada Laut Hitam Rusia di Krimea",
+        "link": "https://www.bbc.com/indonesia/articles/cgry78198z0o",
         "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvYXJ0aWNsZXMvY3hyeWs5NWxwZ3hv",
-        "description": "Tanpa keahlian melukis, Cecilia Giminez \"berniat baik membenahi\" lukisan Yesus Kristus karya seniman Elias Garc\u00c3\u00ada Mart\u00c3\u00adnez. Hasil 'karya' Cecilia kemudian menjadi meme di seluruh dunia, bahkan lebih terkenal dibanding lukisan aslinya."
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvYXJ0aWNsZXMvY2dyeTc4MTk4ejBv",
+        "description": "Sejumlah serangan pesawat tak berawak telah dilaporkan terjadi di Krimea dalam beberapa hari terakhir, salah satunya di pangkalan udara dekat Sevastopol pada hari Kamis dan satu lagi di pelabuhan pada hari Jumat."
     }
 ]
