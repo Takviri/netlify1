@@ -1,6 +1,48 @@
 [
     {
         "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/516547/hbo-max-hapus-sekitar-200-episode-sesame-street",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjU0Ny9oYm8tbWF4LWhhcHVzLXNla2l0YXItMjAwLWVwaXNvZGUtc2VzYW1lLXN0cmVldA==",
+        "description": "HBO Max terus melakukan aksi bersih-bersih di platformnya termasuk menghapus sekitar 200 episode lama acara anak-anak Sesame Street.&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/516546/denyut-kepedulian-generasi-muda-atasi-perubahan-iklim-kian-menguat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2NTQ2L2Rlbnl1dC1rZXBlZHVsaWFuLWdlbmVyYXNpLW11ZGEtYXRhc2ktcGVydWJhaGFuLWlrbGltLWtpYW4tbWVuZ3VhdA==",
+        "description": "MENTERI Lingkungan Hidup dan Kehutanan (LHK) Siti Nurbaya mengungkapkan jika Kementerian Lingkungan Hidup dan Kehutanan (KLHK) menyambut dengan sangat baik setiap denyut gerakan kepedulian terhadap&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516545/siang-ini-hasil-autopsi-ulang-brigadir-j-diserahkan-ke-bareskrim",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTY1NDUvc2lhbmctaW5pLWhhc2lsLWF1dG9wc2ktdWxhbmctYnJpZ2FkaXItai1kaXNlcmFoa2FuLWtlLWJhcmVza3JpbQ==",
+        "description": "PERHIMPUNAN Dokter Forensik Indonesia (PDFI) siang ini siap menyerahkan hasil autopsi ulang Brigadir&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/516544/film-enola-holmes-2-akan-tayang-4-november-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjU0NC9maWxtLWVub2xhLWhvbG1lcy0yLWFrYW4tdGF5YW5nLTQtbm92ZW1iZXItMjAyMg==",
+        "description": "SETELAH berhasil menyelesaikan kasus pertamanya, Enola Holmes (Millie Bobby Brown) kini resmi menjalani profesi yang sama dengan kakaknya&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/516542/pemkab-wondama-siap-biayai-pendidikan-dokter-spesialis-ini-syaratnya",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NTQyL3BlbWthYi13b25kYW1hLXNpYXAtYmlheWFpLXBlbmRpZGlrYW4tZG9rdGVyLXNwZXNpYWxpcy1pbmktc3lhcmF0bnlh",
+        "description": "PEMERINTAH Kabupaten Teluk Wondama, Papua Barat menyatakan siap membiayai pendidikan spesialis dokter. Khususnya tenaga dokter yang mau bertugas di daerah itu guna meningkatkan mutu pelayanan RSUD&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/516543/sanur-village-festival-dihadiri-hampir-20-ribu-pengunjung-per-hari",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NTQzL3NhbnVyLXZpbGxhZ2UtZmVzdGl2YWwtZGloYWRpcmktaGFtcGlyLTIwLXJpYnUtcGVuZ3VuanVuZy1wZXItaGFyaQ==",
+        "description": "PADA hari kelima Sanur Village Festival 2022, Ketua Panitia Ida Bagus Gede Sidharta Putra atau Gusde menyampaikan bahwa acara ini mampu mendatangkan 20 ribu orang pengunjung per hari. &nbsp;&nbsp;<br&#8230;"
+    },
+    {
+        "title": "Hiburan",
         "link": "https://m.mediaindonesia.com/hiburan/516541/raline-shah-jadi-narator-di-film-dokumenter",
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjU0MS9yYWxpbmUtc2hhaC1qYWRpLW5hcmF0b3ItZGktZmlsbS1kb2t1bWVudGVy",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTY1Mzgvd2FyZ2EtY2VuZ2thcmVuZy1hbnR1c2lhcy1kdWt1bmctcHJvZ3JhbS1wZXRpay1tYXNhay1yZWxhd2FuLW1hay1nYW5qYXI=",
         "description": "RELAWAN Mak Ganjar membagikan 1.000 pot pohon cabai di Pedongkelan Belakang, Cengkareng, Jakarta Barat. Dalam kegiatan ini warga juga diberikan pelatihan cara menanam cabai. Kegiatan ini merupakan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/516537/jokowi-akan-luncurkan-food-estate-dan-serahkan-sertifikat-tanah-di-jawa-timur",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjUzNy9qb2tvd2ktYWthbi1sdW5jdXJrYW4tZm9vZC1lc3RhdGUtZGFuLXNlcmFoa2FuLXNlcnRpZmlrYXQtdGFuYWgtZGktamF3YS10aW11cg==",
-        "description": "PRESIDEN Joko Widodo akan mengawali kegiatan kunjungan kerja hari kedua di Jawa Timur di Kecamatan Penceng, Gresik. Di sana, Jokowi, sapaan Presiden, akan meluncurkan lumbung pangan sentra mangga&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/516536/kalahka-kvitova-garcia-juara-cincinnati-masters",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTY1MzYva2FsYWhrYS1rdml0b3ZhLWdhcmNpYS1qdWFyYS1jaW5jaW5uYXRpLW1hc3RlcnM=",
-        "description": "PETENIS kualifikasi Caroline Garcia menjadi juara Cincinnati Masters usai mengalahkan Petra Kvitova 6-2 dan 6-4, Minggu&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/516535/kanker-hoppus-damaikan-blink-182",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjUzNS9rYW5rZXItaG9wcHVzLWRhbWFpa2FuLWJsaW5rLTE4Mg==",
-        "description": "MARK Hoppus siap beraksi lagi. Dalam edisi terbaru majalah PEOPLE, bassis-vokalis Blink-182 itu membahas masa depan band setelah&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/516534/wijnaldum-patah-kaki-saat-latihan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjUzNC93aWpuYWxkdW0tcGF0YWgta2FraS1zYWF0LWxhdGloYW4=",
-        "description": "GEORGINIO Wijnaldum mengalami patah kaki di sesi latihan. Hal itu diungkapkan klub Serie A AS Roma, Minggu (21/8). &quot;Akibat&#8230;"
-    },
-    {
-        "title": "Megapolitan",
-        "link": "https://m.mediaindonesia.com/megapolitan/516533/hut-ri-ke-77-dpd-nasdem-bogor-ajak-generasi-milienial-semangat-isi-kemerdekaan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTY1MzMvaHV0LXJpLWtlLTc3LWRwZC1uYXNkZW0tYm9nb3ItYWphay1nZW5lcmFzaS1taWxpZW5pYWwtc2VtYW5nYXQtaXNpLWtlbWVyZGVrYWFu",
-        "description": "MEMERIAHKAN peringatan Hari Ulang Tahun Kemerdekaan Republik Indonesia ke-77, DPD NasDem Kabupaten Bogor menyelenggarakan berbagai kegiatan diantaranya lomba jalan sehat, Hiburan dan pemberian santunan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/516532/atletico-kalah-di-kandang-sendiri-dari-villarreal",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjUzMi9hdGxldGljby1rYWxhaC1kaS1rYW5kYW5nLXNlbmRpcmktZGFyaS12aWxsYXJyZWFs",
-        "description": "VILLARREAL meraih kemenangan 2-0 di kandang Atletico Madrid dalam laga lanjutan La Liga, Minggu (21/8), lewat gol di babak kedua&#8230;"
     }
 ]
