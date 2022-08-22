@@ -1,5 +1,40 @@
 [
     {
+        "title": "Weekend",
+        "link": "https://m.mediaindonesia.com/weekend/516701/andrea-hirata-akhirnya-terbitkan-novel-yang-hampir-membuatnya-menyerah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS93ZWVrZW5kLzUxNjcwMS9hbmRyZWEtaGlyYXRhLWFraGlybnlhLXRlcmJpdGthbi1ub3ZlbC15YW5nLWhhbXBpci1tZW1idWF0bnlhLW1lbnllcmFo",
+        "description": "SETELAH menerbitkan Buku Besar Peminum Kopi pada 2020, Andrea Hirata menerbitkan novel terbaru Minggu (21/8). Berjudul Brianna dan Bottomwise, novel ke-14 karyanya itu berkisah tentang petualangan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/516702/mentan-syl-panen-sorgum-di-kabupaten-lamongan-jawa-timur",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjcwMi9tZW50YW4tc3lsLXBhbmVuLXNvcmd1bS1kaS1rYWJ1cGF0ZW4tbGFtb25nYW4tamF3YS10aW11cg==",
+        "description": "MENTERI Pertanian Syahrul Yasin Limpo (Mentan SYL) bersama Bupati Lamongan, Yuhronur Efendi melakukan panen sorgum di Kecamatan Sugio, Kabupaten Lamongan, Jawa Timur, Senin (22/8). Menurut Mentan,&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/516700/kitchen-take-over-besama-chef-norman-ismail-di-maison-teraskita-bandung",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NzAwL2tpdGNoZW4tdGFrZS1vdmVyLWJlc2FtYS1jaGVmLW5vcm1hbi1pc21haWwtZGktbWFpc29uLXRlcmFza2l0YS1iYW5kdW5n",
+        "description": "HUBUNGAN baik merupakan salah satu aset yang tak ternilai dan harus selalu dijaga dari waktu ke waktu. Untuk itu, Maison Teraskita Bandung, hotel berbintang empat di kawasan Jalan Asia Afrika dengan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/516699/dpp-knpi-dorong-percepatan-penanggulangan-wabah-pmk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2Njk5L2RwcC1rbnBpLWRvcm9uZy1wZXJjZXBhdGFuLXBlbmFuZ2d1bGFuZ2FuLXdhYmFoLXBtaw==",
+        "description": "KOMITE Nasional Pemuda Indonesia (KNPI) tidak hanya peduli dengan masalah politik semata, namun juga masalah lain yang muncul di masyarakat, termasuk wabah penyakit mulut dan ternak (PMK). KNPI ikut&#8230;"
+    },
+    {
+        "title": "Nusantara",
+        "link": "https://m.mediaindonesia.com/nusantara/516698/sandiaga-uno-dorongdesa-wisata-untuk-bangkitkan-ekonomi-bangsa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2Njk4L3NhbmRpYWdhLXVuby1kb3JvbmdkZXNhLXdpc2F0YS11bnR1ay1iYW5na2l0a2FuLWVrb25vbWktYmFuZ3Nh",
+        "description": "MENTERI Pariwisata dan Ekonomi Kreatiif (Menparekraf) Sandiaga Salahuddin Uno pulang ke kampung halamannya di Kabupaten Siak, Riau. Kunjungan Mas Menteri-sapaan akrab Sandiaga-ke Riau dalam&#8230;"
+    },
+    {
         "title": "Nusantara",
         "link": "https://m.mediaindonesia.com/nusantara/516696/pegunungan-meratus-terus-jadi-incaran-pertambangan-ilegal",
         "image": "static/images/media_indonesia.png",
@@ -22,9 +57,9 @@
     },
     {
         "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/516693/astindo-travel-fair-2022-diharap-turut-bangkitkan-bisnis-trevel-agent",
+        "link": "https://m.mediaindonesia.com/ekonomi/516693/astindo-travel-fair-2022-diharap-turut-bangkitkan-bisnis-travel-agent",
         "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjY5My9hc3RpbmRvLXRyYXZlbC1mYWlyLTIwMjItZGloYXJhcC10dXJ1dC1iYW5na2l0a2FuLWJpc25pcy10cmV2ZWwtYWdlbnQ=",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjY5My9hc3RpbmRvLXRyYXZlbC1mYWlyLTIwMjItZGloYXJhcC10dXJ1dC1iYW5na2l0a2FuLWJpc25pcy10cmF2ZWwtYWdlbnQ=",
         "description": "SEIRING dengan misi untuk mereaktivasi industri pariwisata dan mendukung pemulihan ekonomi nasional, Astindo (Asosiasi Travel Agent Indonesia) akan kembali menggelar Astindo Travel Fair 2022. Astindo&#8230;"
     },
     {
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2NjkxL2Rpbmtlcy1ka2ktaW1iYXUtbWFzeWFyYWthdC10aWRhay1wYW5pay1rYXJlbmEtY2FjYXItbW9ueWV0",
         "description": "DINAS Kesehatan DKI Jakarta mengimbau masyarakat untuk tenang dan&nbsp; tidak panik karena temuan kasus konfirmasi cacar monyet (monkeypox) pertama di Indonesia oleh Kementerian Kesehatan&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516692/pemkot-denpasar-gelar-operasi-pasar-untuk-kendalikan-inflasi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NjkyL3BlbWtvdC1kZW5wYXNhci1nZWxhci1vcGVyYXNpLXBhc2FyLXVudHVrLWtlbmRhbGlrYW4taW5mbGFzaQ==",
-        "description": "MENINDAKLANJUTI hasil High Level Meeting (HLM) dalam menekan inflasi, Tim Pengendalian Inflasi Daerah (TPID) Pemkot Denpasar, Bali menggelar operasi pasar di dua titik pasar tradisional yakni, Pasar&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516690/lagi-kualitas-komoditas-bpnt-dikeluhkan-warga-penerima-di-cianjur",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NjkwL2xhZ2kta3VhbGl0YXMta29tb2RpdGFzLWJwbnQtZGlrZWx1aGthbi13YXJnYS1wZW5lcmltYS1kaS1jaWFuanVy",
-        "description": "KOMODITAS bantuan pangan nontunai (BPNT) yang diterima keluarga penerima manfaat (KPM) di Desa Ciwalen Kecamatan&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/516689/wakil-ketua-mpr-peningkatan-literasi-digital-percepat-ekonomi-tumbuh",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjY4OS93YWtpbC1rZXR1YS1tcHItcGVuaW5na2F0YW4tbGl0ZXJhc2ktZGlnaXRhbC1wZXJjZXBhdC1la29ub21pLXR1bWJ1aA==",
-        "description": "WAKIL Ketua MPR RI Lestari Moerdijat mendorong peningkatan literasi digital dari sisi etika dan budaya digital masyarakat untuk membuka beragam potensi percepatan pertumbuhan ekonomi nasional.&#8230;"
-    },
-    {
-        "title": "Ekonomi",
-        "link": "https://m.mediaindonesia.com/ekonomi/516688/gaslink-cylinder-dan-gtm-pgn-siap-jangkau-wilayah-non-jaringan-pipa",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjY4OC9nYXNsaW5rLWN5bGluZGVyLWRhbi1ndG0tcGduLXNpYXAtamFuZ2thdS13aWxheWFoLW5vbi1qYXJpbmdhbi1waXBh",
-        "description": "SUBHOLDING Gas Pertamina melalui anak perusahaan PT Gagas Energi Indonesia (&ldquo;Gagas&rdquo;) terus menjalankan komitmen memberikan solusi pemenuhan energi yang lebih efisien dan ramah lingkungan&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/516687/rachmat-gobel-ajak-pramuka-gorontalo-membangun-daerah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2Njg3L3JhY2htYXQtZ29iZWwtYWphay1wcmFtdWthLWdvcm9udGFsby1tZW1iYW5ndW4tZGFlcmFo",
-        "description": "WAKIL Ketua DPR RI Koordinator Bidang Industri dan Pembangunan (Korinbang) mengajak peserta Jambore Nasional XI 2022 dari Provinsi Gorontalo untuk membangun daerahnya yang sampai kini masih merupakan&#8230;"
     }
 ]
