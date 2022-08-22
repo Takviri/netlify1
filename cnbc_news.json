@@ -1,5 +1,47 @@
 [
     {
+        "title": "Kabar Baik! 3 Jurus Bikin Harga Tiket Pesawat Bisa Murah 20%",
+        "link": "https://www.cnbcindonesia.com/news/20220822104030-4-365512/kabar-baik-3-jurus-bikin-harga-tiket-pesawat-bisa-murah-20",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjEwNDAzMC00LTM2NTUxMi9rYWJhci1iYWlrLTMtanVydXMtYmlraW4taGFyZ2EtdGlrZXQtcGVzYXdhdC1iaXNhLW11cmFoLTIw",
+        "description": " Harga tiket pesawat sempat menggila sekitar 1-2 bulan lalu.\u00c2\u00a0Kini mulai melandai."
+    },
+    {
+        "title": "RI Punya 'Harta Karun' 9,7 Miliar Barel Minyak, Ini Lokasinya",
+        "link": "https://www.cnbcindonesia.com/news/20220822104757-4-365515/ri-punya-harta-karun-97-miliar-barel-minyak-ini-lokasinya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjEwNDc1Ny00LTM2NTUxNS9yaS1wdW55YS1oYXJ0YS1rYXJ1bi05Ny1taWxpYXItYmFyZWwtbWlueWFrLWluaS1sb2thc2lueWE=",
+        "description": " Kepala SKK Migas Dwi Soetjipto mengungkapkan adanya potensi cadangan minyak di Timor, Buton, Warin hingga Pulau Aru"
+    },
+    {
+        "title": "Jokowi Sudah Siapkan Rencana Kenaikan BBM, Simak Bocorannya!",
+        "link": "https://www.cnbcindonesia.com/news/20220822100334-4-365499/jokowi-sudah-siapkan-rencana-kenaikan-bbm-simak-bocorannya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjEwMDMzNC00LTM2NTQ5OS9qb2tvd2ktc3VkYWgtc2lhcGthbi1yZW5jYW5hLWtlbmFpa2FuLWJibS1zaW1hay1ib2NvcmFubnlh",
+        "description": " Berikut penjelasan lengkap Jokowi mengenai kebijakan harga BBM"
+    },
+    {
+        "title": "BI Terbitkan Rupiah Kertas Baru, Versi Digital Apa Kabar?",
+        "link": "https://www.cnbcindonesia.com/news/20220822100618-4-365500/bi-terbitkan-rupiah-kertas-baru-versi-digital-apa-kabar",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjEwMDYxOC00LTM2NTUwMC9iaS10ZXJiaXRrYW4tcnVwaWFoLWtlcnRhcy1iYXJ1LXZlcnNpLWRpZ2l0YWwtYXBhLWthYmFy",
+        "description": " Bank Indonesia (BI) belum lama ini resmi menerbitkan 7 pecahan uang kertas tahun emisi 2022."
+    },
+    {
+        "title": "Dwi Soetjipto dan Nasib Investasi Asing di Proyek Migas RI",
+        "link": "https://www.cnbcindonesia.com/news/20220822101111-8-365504/dwi-soetjipto-nasib-investasi-asing-di-proyek-migas-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjEwMTExMS04LTM2NTUwNC9kd2ktc29ldGppcHRvLW5hc2liLWludmVzdGFzaS1hc2luZy1kaS1wcm95ZWstbWlnYXMtcmk=",
+        "description": " Dwi Soetjipto dan Nasib Investasi Asing di Proyek Migas Raksasa RI"
+    },
+    {
+        "title": "Jangan Kaget, Tetangga RI Ini Pusat \"Crazy Rich\" Dunia 2030",
+        "link": "https://www.cnbcindonesia.com/news/20220822101754-4-365505/jangan-kaget-tetangga-ri-ini-pusat-crazy-rich-dunia-2030",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjEwMTc1NC00LTM2NTUwNS9qYW5nYW4ta2FnZXQtdGV0YW5nZ2EtcmktaW5pLXB1c2F0LWNyYXp5LXJpY2gtZHVuaWEtMjAzMA==",
+        "description": " Dalam delapan tahun, jumlah crazy rich di Singapura akan lebih banyak daripada Amerika Serikat (AS), China atau negara ekonomi lainnya di kawasan Asia-Pasifik."
+    },
+    {
         "title": "Lapor, Pak Jokowi! Harga Tiket Pesawat Udah Turun Jadi Segini",
         "link": "https://www.cnbcindonesia.com/news/20220822100326-4-365498/lapor-pak-jokowi-harga-tiket-pesawat-udah-turun-jadi-segini",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjEwMzIyNi00LTM2NTUwOS9kYXBhdC1ycC01MDAwLXRyaWxpdW4tbmVnZXJpLXB1dGluLWN1YW4tcGVyYW5nLXVrcmFpbmE=",
         "description": " Dampak perang yang tengah menjadi 'momok' bagi negara-negara di dunia ternyata tetap ada negara yang meraup keuntungan."
-    },
-    {
-        "title": "Harga BBM Pertalite Sudah Pasti Naik? Ini Tanda-tandanya",
-        "link": "https://www.cnbcindonesia.com/news/20220822102647-4-365506/harga-bbm-pertalite-sudah-pasti-naik-ini-tanda-tandanya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjEwMjY0Ny00LTM2NTUwNi9oYXJnYS1iYm0tcGVydGFsaXRlLXN1ZGFoLXBhc3RpLW5haWstaW5pLXRhbmRhLXRhbmRhbnlh",
-        "description": " Pemerintah yakni para menteri sudah memberikan sinyal-sinyal kenaikan harga BBm Pertalite dan Solar Subsidi"
-    },
-    {
-        "title": "Alasan Pemerintah Kembangkan Sorgum Jadi Substitusi Gandum",
-        "link": "https://www.cnbcindonesia.com/news/20220822091335-8-365476/alasan-pemerintah-kembangkan-sorgum-jadi-substitusi-gandum",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjA5MTMzNS04LTM2NTQ3Ni9hbGFzYW4tcGVtZXJpbnRhaC1rZW1iYW5na2FuLXNvcmd1bS1qYWRpLXN1YnN0aXR1c2ktZ2FuZHVt",
-        "description": " Alasan Pemerintah Kembangkan Sorgum Jadi Substitusi Gandum"
-    },
-    {
-        "title": "Harga Tiket Pesawat Sempat 'Meledak' Menhub Minta Diskon PPN",
-        "link": "https://www.cnbcindonesia.com/news/20220822092642-4-365491/harga-tiket-pesawat-sempat-meledak-menhub-minta-diskon-ppn",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjA5MjY0Mi00LTM2NTQ5MS9oYXJnYS10aWtldC1wZXNhd2F0LXNlbXBhdC1tZWxlZGFrLW1lbmh1Yi1taW50YS1kaXNrb24tcHBu",
-        "description": " Pemerintah tengah berupaya menstabilkan harga tiket pesawat agar tidak menimbulkan inflasi yang tinggi."
-    },
-    {
-        "title": "Ngeri! Tanda Resesi Eropa Kian Nyata, Ini Bukti Barunya",
-        "link": "https://www.cnbcindonesia.com/news/20220822100949-4-365501/ngeri-tanda-resesi-eropa-kian-nyata-ini-bukti-barunya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjEwMDk0OS00LTM2NTUwMS9uZ2VyaS10YW5kYS1yZXNlc2ktZXJvcGEta2lhbi1ueWF0YS1pbmktYnVrdGktYmFydW55YQ==",
-        "description": " Tanda resesi ekonomi di Eropa makin terlihat."
-    },
-    {
-        "title": "SKK Migas Jawab Isu ExxonMobil Bakal Hengkang Dari Blok Cepu",
-        "link": "https://www.cnbcindonesia.com/news/20220822095500-8-365494/skk-migas-jawab-isu-exxonmobil-bakal-hengkang-dari-blok-cepu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjA5NTUwMC04LTM2NTQ5NC9za2stbWlnYXMtamF3YWItaXN1LWV4eG9ubW9iaWwtYmFrYWwtaGVuZ2thbmctZGFyaS1ibG9rLWNlcHU=",
-        "description": " Bos SKK Migas Jawab Isu ExxonMobil Bakal Hengkang Dari Blok Cepu"
-    },
-    {
-        "title": "Ogah Basa-Basi, Luhut Bakal Temui Elon Musk dan Tagih Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220822093624-4-365489/ogah-basa-basi-luhut-bakal-temui-elon-musk-tagih-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjA5MzYyNC00LTM2NTQ4OS9vZ2FoLWJhc2EtYmFzaS1sdWh1dC1iYWthbC10ZW11aS1lbG9uLW11c2stdGFnaWgtaW5p",
-        "description": " Hingga saat ini, belum ada kejelasan pasti mengenai rencana investasi Tesla Inc di Indonesia"
     }
 ]
