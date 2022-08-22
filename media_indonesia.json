@@ -1,5 +1,40 @@
 [
     {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/516541/raline-shah-jadi-narator-di-film-dokumenter",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjU0MS9yYWxpbmUtc2hhaC1qYWRpLW5hcmF0b3ItZGktZmlsbS1kb2t1bWVudGVy",
+        "description": "AKTRIS Raline Shah didapuk menjadi narator untuk film dokumenter bertajuk Eating Our Way To Extinction, yang sebentar lagi akan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/516540/festival-budaya-pamalayu-libatkan-siswa-berkebutuhan-khusus",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2NTQwL2Zlc3RpdmFsLWJ1ZGF5YS1wYW1hbGF5dS1saWJhdGthbi1zaXN3YS1iZXJrZWJ1dHVoYW4ta2h1c3Vz",
+        "description": "FESTIVAL Pamalayu yang merupakan bagian dari Kenduri Swarnabhumi hadir dengan warna yang berbeda. Festival budaya yang diselenggarakan Direktorat Jenderal Kebudayaan, Kemendikbud-Ristek bersama&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516539/mendagri-ingatkan-kepala-daerah-optimalisasi-apbd-agar-inflasi-terkendali",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTY1MzkvbWVuZGFncmktaW5nYXRrYW4ta2VwYWxhLWRhZXJhaC1vcHRpbWFsaXNhc2ktYXBiZC1hZ2FyLWluZmxhc2ktdGVya2VuZGFsaQ==",
+        "description": "MENTERI Dalam Negeri (Mendagri) Tito Karnavian meminta kepala daerah melakukan optimalisasi Anggaran Pendapatan dan Belanja Daerah (APBD). Tujuannya untuk mengendalikan inflasi yang terjadi di daerah.&#8230;"
+    },
+    {
+        "title": "Megapolitan",
+        "link": "https://m.mediaindonesia.com/megapolitan/516538/warga-cengkareng-antusias-dukung-program-petik-masak-relawan-mak-ganjar",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9tZWdhcG9saXRhbi81MTY1Mzgvd2FyZ2EtY2VuZ2thcmVuZy1hbnR1c2lhcy1kdWt1bmctcHJvZ3JhbS1wZXRpay1tYXNhay1yZWxhd2FuLW1hay1nYW5qYXI=",
+        "description": "RELAWAN Mak Ganjar membagikan 1.000 pot pohon cabai di Pedongkelan Belakang, Cengkareng, Jakarta Barat. Dalam kegiatan ini warga juga diberikan pelatihan cara menanam cabai. Kegiatan ini merupakan&#8230;"
+    },
+    {
+        "title": "Ekonomi",
+        "link": "https://m.mediaindonesia.com/ekonomi/516537/jokowi-akan-luncurkan-food-estate-dan-serahkan-sertifikat-tanah-di-jawa-timur",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9la29ub21pLzUxNjUzNy9qb2tvd2ktYWthbi1sdW5jdXJrYW4tZm9vZC1lc3RhdGUtZGFuLXNlcmFoa2FuLXNlcnRpZmlrYXQtdGFuYWgtZGktamF3YS10aW11cg==",
+        "description": "PRESIDEN Joko Widodo akan mengawali kegiatan kunjungan kerja hari kedua di Jawa Timur di Kecamatan Penceng, Gresik. Di sana, Jokowi, sapaan Presiden, akan meluncurkan lumbung pangan sentra mangga&#8230;"
+    },
+    {
         "title": "Olahraga",
         "link": "https://m.mediaindonesia.com/olahraga/516536/kalahka-kvitova-garcia-juara-cincinnati-masters",
         "image": "static/images/media_indonesia.png",
@@ -33,40 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjUzMi9hdGxldGljby1rYWxhaC1kaS1rYW5kYW5nLXNlbmRpcmktZGFyaS12aWxsYXJyZWFs",
         "description": "VILLARREAL meraih kemenangan 2-0 di kandang Atletico Madrid dalam laga lanjutan La Liga, Minggu (21/8), lewat gol di babak kedua&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/516531/ini-contoh-daftar-pustaka-dan-cara-penulisan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2NTMxL2luaS1jb250b2gtZGFmdGFyLXB1c3Rha2EtZGFuLWNhcmEtcGVudWxpc2Fu",
-        "description": "PERNAHKAH Anda mendengar kata daftar pustaka? Daftar pustaka biasanya terletak pada bagian akhir karya ilmiah dan merupakan bagian yang sangatlah penting.&nbsp; Meski secara struktur letaknya&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/516526/maslany-mengaku-tidak-bisa-berhenti-tertawa-saat-syuting-episode-1-she-hulk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjUyNi9tYXNsYW55LW1lbmdha3UtdGlkYWstYmlzYS1iZXJoZW50aS10ZXJ0YXdhLXNhYXQtc3l1dGluZy1lcGlzb2RlLTEtc2hlLWh1bGs=",
-        "description": "BINTANG serial Marvel She-Hulk: Attorney at Law, Tatiana Maslany, mengatakan dia tidak bisa berhenti tertawa&nbsp;saat merekam satu&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/516524/semua-ganda-putra-indonesia-dapat-bye-di-putaran-pertama-kejuaraan-dunia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTY1MjQvc2VtdWEtZ2FuZGEtcHV0cmEtaW5kb25lc2lhLWRhcGF0LWJ5ZS1kaS1wdXRhcmFuLXBlcnRhbWEta2VqdWFyYWFuLWR1bmlh",
-        "description": "EMPAT ganda putra Indonesia yang berlaga di ajang Kejuaraan Dunia Bulu Tangkis 2022 mendapat keuntungan dengan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/516530/kvaratskhelia-bersinar-saat-napoli-tekuk-monza",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjUzMC9rdmFyYXRza2hlbGlhLWJlcnNpbmFyLXNhYXQtbmFwb2xpLXRla3VrLW1vbnph",
-        "description": "KHVICHA Kvaratskhelia memastikan Napoli melanjutkan performa apik mereka di awal musim Serie A dengan mencetak dua gol saat Il Partenopei&#8230;"
-    },
-    {
-        "title": "Hiburan",
-        "link": "https://m.mediaindonesia.com/hiburan/516523/gara-gara-jimin-penjualan-samyang-meningkat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjUyMy9nYXJhLWdhcmEtamltaW4tcGVuanVhbGFuLXNhbXlhbmctbWVuaW5na2F0",
-        "description": "PERSONEL grup K-Pop BTS, Jimin, adalah salah satu model merek terkuat di dunia karena popularitas globalnya yang luar biasa. Dia memiliki&#8230;"
     }
 ]
