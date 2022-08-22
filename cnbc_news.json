@@ -1,16 +1,58 @@
 [
     {
-        "title": "Diobral! Rumah di Kawasan Elit Ini Cuma Rp 4 Miliar",
-        "link": "https://www.cnbcindonesia.com/news/20220822111234-4-365522/diobral-rumah-di-kawasan-elit-ini-cuma-rp-4-miliar",
+        "title": "Gelombang Panas Sebabkan Sungai di China dan Eropa Kekeringan",
+        "link": "https://www.cnbcindonesia.com/news/20220822091516-8-365478/gelombang-panas-sebabkan-sungai-di-china-eropa-kekeringan",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjExMTIzNC00LTM2NTUyMi9kaW9icmFsLXJ1bWFoLWRpLWthd2FzYW4tZWxpdC1pbmktY3VtYS1ycC00LW1pbGlhcg==",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjA5MTUxNi04LTM2NTQ3OC9nZWxvbWJhbmctcGFuYXMtc2ViYWJrYW4tc3VuZ2FpLWRpLWNoaW5hLWVyb3BhLWtla2VyaW5nYW4=",
+        "description": " China dan Eropa dilanda kekeringan akibat gelombang panas ekstrem yang terjadi dalam beberapa minggu ini"
+    },
+    {
+        "title": "Wapres Buka Suara Soal Kenaikan Harga BBM, Simak Baik-baik!",
+        "link": "https://www.cnbcindonesia.com/news/20220822112607-4-365528/wapres-buka-suara-soal-kenaikan-harga-bbm-simak-baik-baik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjExMjYwNy00LTM2NTUyOC93YXByZXMtYnVrYS1zdWFyYS1zb2FsLWtlbmFpa2FuLWhhcmdhLWJibS1zaW1hay1iYWlrLWJhaWs=",
+        "description": " Wakil Presiden Maruf Amin menyampaikan persoalan harga bahan bakar minyak (BBM) jenis pertalite dan solar masih dibahas dalam internal pemerintah."
+    },
+    {
+        "title": "ExxonMobil Bakal Cabut dari Lapangan Migas Terbesar RI?",
+        "link": "https://www.cnbcindonesia.com/news/20220822110315-4-365519/exxonmobil-bakal-cabut-dari-lapangan-migas-terbesar-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjExMDMxNS00LTM2NTUxOS9leHhvbm1vYmlsLWJha2FsLWNhYnV0LWRhcmktbGFwYW5nYW4tbWlnYXMtdGVyYmVzYXItcmk=",
+        "description": " Kepala SKK Migas Dwi Soetjipto menjawab isu bakal cabutnya ExxonMobil dari Blok Cepu"
+    },
+    {
+        "title": "BPH Migas:Kuota Pertalite Sudah 75%, Diproyeksi Habis Oktober",
+        "link": "https://www.cnbcindonesia.com/news/20220822112021-8-365526/bph-migaskuota-pertalite-sudah-75-diproyeksi-habis-oktober",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjExMjAyMS04LTM2NTUyNi9icGgtbWlnYXNrdW90YS1wZXJ0YWxpdGUtc3VkYWgtNzUtZGlwcm95ZWtzaS1oYWJpcy1va3RvYmVy",
+        "description": " BPH Migas: Kuota Pertalite Sudah 75%, Diproyeksi Habis Oktober 2022"
+    },
+    {
+        "title": "Maaf Naikin Ga Level, China Pangkas Suku Bunga",
+        "link": "https://www.cnbcindonesia.com/news/20220822112926-4-365533/maaf-naikin-ga-level-china-pangkas-suku-bunga",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjExMjkyNi00LTM2NTUzMy9tYWFmLW5haWtpbi1nYS1sZXZlbC1jaGluYS1wYW5na2FzLXN1a3UtYnVuZ2E=",
+        "description": " Bank sentral China, People's Bank of China (PBOC), memangkas suku bunga acuan, Senin (22/8/2022)."
+    },
+    {
+        "title": "Rusia Bikin Jerman Galau, \"Malu-Malu\" soal Nuklir",
+        "link": "https://www.cnbcindonesia.com/news/20220822112358-4-365527/rusia-bikin-jerman-galau-malu-malu-soal-nuklir",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjExMjM1OC00LTM2NTUyNy9ydXNpYS1iaWtpbi1qZXJtYW4tZ2FsYXUtbWFsdS1tYWx1LXNvYWwtbnVrbGly",
+        "description": " Ancaman pemotongan suplai gas dalam jangka panjang dari Rusia ke Uni Eropa membuat Jerman pusing."
+    },
+    {
+        "title": "Rumah Elite Pondok Indah Ada yang Diobral Harga Rp 4 Miliar",
+        "link": "https://www.cnbcindonesia.com/news/20220822111234-4-365522/rumah-elite-pondok-indah-ada-yang-diobral-harga-rp-4-miliar",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjExMTIzNC00LTM2NTUyMi9ydW1haC1lbGl0ZS1wb25kb2staW5kYWgtYWRhLXlhbmctZGlvYnJhbC1oYXJnYS1ycC00LW1pbGlhcg==",
         "description": " Cek harga rumah di kawasan Pondok Indah yang dibanderol murah, jauh di bawah Rp 80 miliar.\u00c2\u00a0"
     },
     {
-        "title": "KSP Ungkap Jurus Antisipasi Ancaman Krisis Pangan dan Energi",
-        "link": "https://www.cnbcindonesia.com/news/20220822093658-8-365488/ksp-ungkap-jurus-antisipasi-ancaman-krisis-pangan-energi",
+        "title": "Moeldoko Bicara Ancaman Krisis Pangan dan Energi",
+        "link": "https://www.cnbcindonesia.com/news/20220822093658-8-365488/moeldoko-bicara-ancaman-krisis-pangan-energi",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjA5MzY1OC04LTM2NTQ4OC9rc3AtdW5na2FwLWp1cnVzLWFudGlzaXBhc2ktYW5jYW1hbi1rcmlzaXMtcGFuZ2FuLWVuZXJnaQ==",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjA5MzY1OC04LTM2NTQ4OC9tb2VsZG9rby1iaWNhcmEtYW5jYW1hbi1rcmlzaXMtcGFuZ2FuLWVuZXJnaQ==",
         "description": " KSP Buka-bukaan Jurus Antisipasi Ancaman Krisis Pangan dan Energi"
     },
     {
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjEwMjM1OS00LTM2NTUwNy9sYXBvci1wYWstam9rb3dpLWluaS1hbmFsaXNhLTUtZWtvbm9tLXNvYWwta2VuYWlrYW4tYmJt",
         "description": " Pemerintah digadang-gadang akan menaikkan bahan bakar minyak (BBM)."
-    },
-    {
-        "title": "Harga BBM Subsidi Bakal Naik Atau Tidak? Ini Kata Komisi VII",
-        "link": "https://www.cnbcindonesia.com/news/20220822111748-8-365525/harga-bbm-subsidi-bakal-naik-atau-tidak-ini-kata-komisi-vii",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjExMTc0OC04LTM2NTUyNS9oYXJnYS1iYm0tc3Vic2lkaS1iYWthbC1uYWlrLWF0YXUtdGlkYWstaW5pLWthdGEta29taXNpLXZpaQ==",
-        "description": " Harga BBM Subsidi Bakal Naik Atau Tidak? Ini Kata Komisi VII"
-    },
-    {
-        "title": "Kabar Baik! 3 Jurus Bikin Harga Tiket Pesawat Bisa Murah 20%",
-        "link": "https://www.cnbcindonesia.com/news/20220822104030-4-365512/kabar-baik-3-jurus-bikin-harga-tiket-pesawat-bisa-murah-20",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjEwNDAzMC00LTM2NTUxMi9rYWJhci1iYWlrLTMtanVydXMtYmlraW4taGFyZ2EtdGlrZXQtcGVzYXdhdC1iaXNhLW11cmFoLTIw",
-        "description": " Harga tiket pesawat sempat menggila sekitar 1-2 bulan lalu.\u00c2\u00a0Kini mulai melandai."
-    },
-    {
-        "title": "RI Punya 'Harta Karun' 9,7 Miliar Barel Minyak, Ini Lokasinya",
-        "link": "https://www.cnbcindonesia.com/news/20220822104757-4-365515/ri-punya-harta-karun-97-miliar-barel-minyak-ini-lokasinya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjEwNDc1Ny00LTM2NTUxNS9yaS1wdW55YS1oYXJ0YS1rYXJ1bi05Ny1taWxpYXItYmFyZWwtbWlueWFrLWluaS1sb2thc2lueWE=",
-        "description": " Kepala SKK Migas Dwi Soetjipto mengungkapkan adanya potensi cadangan minyak di Timor, Buton, Warin hingga Pulau Aru"
-    },
-    {
-        "title": "Jokowi Sudah Siapkan Rencana Kenaikan BBM, Simak Bocorannya!",
-        "link": "https://www.cnbcindonesia.com/news/20220822100334-4-365499/jokowi-sudah-siapkan-rencana-kenaikan-bbm-simak-bocorannya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjEwMDMzNC00LTM2NTQ5OS9qb2tvd2ktc3VkYWgtc2lhcGthbi1yZW5jYW5hLWtlbmFpa2FuLWJibS1zaW1hay1ib2NvcmFubnlh",
-        "description": " Berikut penjelasan lengkap Jokowi mengenai kebijakan harga BBM"
-    },
-    {
-        "title": "BI Terbitkan Rupiah Kertas Baru, Versi Digital Apa Kabar?",
-        "link": "https://www.cnbcindonesia.com/news/20220822100618-4-365500/bi-terbitkan-rupiah-kertas-baru-versi-digital-apa-kabar",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjEwMDYxOC00LTM2NTUwMC9iaS10ZXJiaXRrYW4tcnVwaWFoLWtlcnRhcy1iYXJ1LXZlcnNpLWRpZ2l0YWwtYXBhLWthYmFy",
-        "description": " Bank Indonesia (BI) belum lama ini resmi menerbitkan 7 pecahan uang kertas tahun emisi 2022."
-    },
-    {
-        "title": "Dwi Soetjipto dan Nasib Investasi Asing di Proyek Migas RI",
-        "link": "https://www.cnbcindonesia.com/news/20220822101111-8-365504/dwi-soetjipto-nasib-investasi-asing-di-proyek-migas-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjEwMTExMS04LTM2NTUwNC9kd2ktc29ldGppcHRvLW5hc2liLWludmVzdGFzaS1hc2luZy1kaS1wcm95ZWstbWlnYXMtcmk=",
-        "description": " Dwi Soetjipto dan Nasib Investasi Asing di Proyek Migas Raksasa RI"
     }
 ]
