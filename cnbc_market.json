@@ -1,5 +1,26 @@
 [
     {
+        "title": "China Pangkas Suku Bunga, Investor Karet Girang",
+        "link": "https://www.cnbcindonesia.com/market/20220822163901-17-365656/china-pangkas-suku-bunga-investor-karet-girang",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIyMTYzOTAxLTE3LTM2NTY1Ni9jaGluYS1wYW5na2FzLXN1a3UtYnVuZ2EtaW52ZXN0b3Ita2FyZXQtZ2lyYW5n",
+        "description": " Harga karet melemah setelah China memangkas suku bunganya"
+    },
+    {
+        "title": "Kimia Farma Diminati Asing, SWF China Dikabarkan Minat Masuk",
+        "link": "https://www.cnbcindonesia.com/market/20220822183050-17-365707/kimia-farma-diminati-asing-swf-china-dikabarkan-minat-masuk",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIyMTgzMDUwLTE3LTM2NTcwNy9raW1pYS1mYXJtYS1kaW1pbmF0aS1hc2luZy1zd2YtY2hpbmEtZGlrYWJhcmthbi1taW5hdC1tYXN1aw==",
+        "description": " Direktur Utama PT Bio Farma Honesti Basyir mengatakan, selain SWF INA maupun SWF China kan masuk melalui rights issue Kimia Farma"
+    },
+    {
+        "title": "Kabar Buruk! Wall Street Bakal 'Kebakaran' Hari Ini, Kenapa?",
+        "link": "https://www.cnbcindonesia.com/market/20220822170453-17-365674/kabar-buruk-wall-street-bakal-kebakaran-hari-ini-kenapa",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIyMTcwNDUzLTE3LTM2NTY3NC9rYWJhci1idXJ1ay13YWxsLXN0cmVldC1iYWthbC1rZWJha2FyYW4taGFyaS1pbmkta2VuYXBh",
+        "description": " Hal tersebut disebabkan oleh kekhawatiran Wall Street akan potensi kenaikan kembali suku bunga secara agresif oleh The Fed."
+    },
+    {
         "title": "Bursa Asia Ditutup Merana, Kecuali Shanghai-STI",
         "link": "https://www.cnbcindonesia.com/market/20220822164857-17-365669/bursa-asia-ditutup-merana-kecuali-shanghai-sti",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIyMTYzMzI1LTE3LTM2NTY2Ny9rYXN1cy1taW55YWstZ29yZW5nLXRlcnNhbmdrYS1kaWRha3dhLXJ1Z2lrYW4tbmVnYXJhLXJwLTE4LXQ=",
         "description": " Sejumlah nama siap disidangkan, salah satunya Lin Che Wei."
-    },
-    {
-        "title": "Emiten Properti Mulai Bangkit Usai Tekanan Pandemi",
-        "link": "https://www.cnbcindonesia.com/market/20220822162353-19-365651/emiten-properti-mulai-bangkit-usai-tekanan-pandemi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIyMTYyMzUzLTE5LTM2NTY1MS9lbWl0ZW4tcHJvcGVydGktbXVsYWktYmFuZ2tpdC11c2FpLXRla2FuYW4tcGFuZGVtaQ==",
-        "description": " Emiten Properti Mulai Bangkit Usai Tekanan Pandemi"
-    },
-    {
-        "title": "China Borong Nikel Lagi, Harga Langsung Naik",
-        "link": "https://www.cnbcindonesia.com/market/20220822160756-17-365646/china-borong-nikel-lagi-harga-langsung-naik",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIyMTYwNzU2LTE3LTM2NTY0Ni9jaGluYS1ib3JvbmctbmlrZWwtbGFnaS1oYXJnYS1sYW5nc3VuZy1uYWlr",
-        "description": " Harga nikel dunia meningkat karena permintaan dari China jadi pendorong harga."
-    },
-    {
-        "title": "Ada Kabar Mau Diakuisisi SMFG, Saham Grup Panin Terbang",
-        "link": "https://www.cnbcindonesia.com/market/20220822154106-17-365639/ada-kabar-mau-diakuisisi-smfg-saham-grup-panin-terbang",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIyMTU0MTA2LTE3LTM2NTYzOS9hZGEta2FiYXItbWF1LWRpYWt1aXNpc2ktc21mZy1zYWhhbS1ncnVwLXBhbmluLXRlcmJhbmc=",
-        "description": " Saham Grup Panin terpantau berterbangan pada perdagangan sesi kedua Senin (22/8/2022)"
     }
 ]
