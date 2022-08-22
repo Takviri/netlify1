@@ -1,5 +1,47 @@
 [
     {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/516582/yuk-mengenal-apa-itu-benda-cair",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2NTgyL3l1ay1tZW5nZW5hbC1hcGEtaXR1LWJlbmRhLWNhaXI=",
+        "description": "TERDAPAT tiga jenis benda, yaitu benda padat, gas, dan cair. Masing masing memiliki ciri ciri dan bentuknya tersendiri. Kali ini, mari membahas mengenai benda cair. Benda cair adalah salah satu&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516580/bawaslu-buka-pendaftaran-permohonan-sengketa-parpol",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTY1ODAvYmF3YXNsdS1idWthLXBlbmRhZnRhcmFuLXBlcm1vaG9uYW4tc2VuZ2tldGEtcGFycG9s",
+        "description": "BADAN Pengawas Pemilihan Umum (Bawaslu) membuka pendaftaran permohonan sengketa partai politik (parpol) yang gagal lolos pendaftaran pemilu 2024.&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516579/bmi-jaksel-ajak-generasi-muda-sukseskan-pemilu-2024",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTY1NzkvYm1pLWpha3NlbC1hamFrLWdlbmVyYXNpLW11ZGEtc3Vrc2Vza2FuLXBlbWlsdS0yMDI0",
+        "description": "PEMILIHAN umum (pemilu) merupakan pesta demokrasi bagi warga Indonesia tanpa terkecuali termasuk generasi muda. Keikutsertaan generasi muda dalam pemilu, akan makin memajukan sistem demokrasi di Tanah&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/516578/ini-tips-menjaga-kesehatan-kulit-dari-son-ye-jin",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjU3OC9pbmktdGlwcy1tZW5qYWdhLWtlc2VoYXRhbi1rdWxpdC1kYXJpLXNvbi15ZS1qaW4=",
+        "description": "SELEBRITAS Korea Selatan Son Ye Jin mengungkapkan dirinya rutin mengonsumsi buah peach dan bluberi setiap pagi karena bermanfaat untuk kesehatan&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/516577/gakkum-klhk-ringkus-pelaku-perdagangan-bagian-tubuh-trenggiling-di-medan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2NTc3L2dha2t1bS1rbGhrLXJpbmdrdXMtcGVsYWt1LXBlcmRhZ2FuZ2FuLWJhZ2lhbi10dWJ1aC10cmVuZ2dpbGluZy1kaS1tZWRhbg==",
+        "description": "TIM Balai Penegakan Hukum Kementerian Lingkungan Hidup dan Kehutanan (KLHK) Wilayah Sumatra berhasil menangkap 2 orang pelaku penjual sisik dan lidah trenggiling. Kedua pelaku berinisial H (39) dan&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/516576/dapat-peran-indigo-frislly-herlind-minta-masukkan-dari-filo-dan-risa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjU3Ni9kYXBhdC1wZXJhbi1pbmRpZ28tZnJpc2xseS1oZXJsaW5kLW1pbnRhLW1hc3Vra2FuLWRhcmktZmlsby1kYW4tcmlzYQ==",
+        "description": "MESKIPUN dikenal sebagai sosok anak indigo, aktris Frislly Herlind tetap meminta bantuan rekan sesama anak indigo yaitu Filo Sebastian dan Risa Saraswati, untuk mendalami perannya dalam <a href=\"http://mediaindonesia.com/tag/film\"&#8230;"
+    },
+    {
         "title": "Sepak Bola",
         "link": "https://m.mediaindonesia.com/sepak-bola/516575/mane-tidak-terkejut-dengan-performa-gemilang-bayern-di-awal-musim",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjU3Mi9jaG9pLXdvby1zaGlrLXNvbi1zdWsta3UtZGFuLWxlZS1oZWUtam9vbi1iaW50YW5naS1zZXJpYWwtbXVyZGVyLWRpZWFyeQ==",
         "description": "AKTOR Korea Selatan Choi Woo Shik, Son Suk Ku, dan Lee Hee Joon akan beradu akting dalam serial Netflix Murder DIEary. Dikutip&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/516571/kendati-dipaksa-main-rubber-set-ginting-lolos-ke-babak-kedua",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTY1NzEva2VuZGF0aS1kaXBha3NhLW1haW4tcnViYmVyLXNldC1naW50aW5nLWxvbG9zLWtlLWJhYmFrLWtlZHVh",
-        "description": "PEMIAN&nbsp;tunggal putra andalan Indonesia, Anthony Sinisuka Ginting, dipaksa menelan kekalahan di gim pembuka saat menghadapi Ygor Coelho, sebelum akhirnya mendulang dua kemenangan pada gim terakhir&#8230;"
-    },
-    {
-        "title": "Humaniora",
-        "link": "https://m.mediaindonesia.com/humaniora/516570/menkes-ungkap-penularan-cacar-monyet-tak-semudah-covid-19",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2NTcwL21lbmtlcy11bmdrYXAtcGVudWxhcmFuLWNhY2FyLW1vbnlldC10YWstc2VtdWRhaC1jb3ZpZC0xOQ==",
-        "description": "MENTERI Kesehatan (Menkes) Budi Gunadi Sadikin meminta masyarakat untuk tidak panik terkait temuan kasus cacar monyet pertama di Indonesia. Hal ini, kata Budi, karena penularannya tidak semudah covid-19.&#8230;"
-    },
-    {
-        "title": "Teknologi",
-        "link": "https://m.mediaindonesia.com/teknologi/516569/ini-empat-cara-agar-tetap-aman-saat-bermain-internet",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvNTE2NTY5L2luaS1lbXBhdC1jYXJhLWFnYXItdGV0YXAtYW1hbi1zYWF0LWJlcm1haW4taW50ZXJuZXQ=",
-        "description": "BERITA tentang data bocor kembali menyeruak, paling tidak pada akhir pekan lalu ada dua kasus dugaan data bocor. Ada banyak&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/516567/mbappe-samai-rekor-gol-tercepat-ligue-1-psg-hajar-lille",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjU2Ny9tYmFwcGUtc2FtYWktcmVrb3ItZ29sLXRlcmNlcGF0LWxpZ3VlLTEtcHNnLWhhamFyLWxpbGxl",
-        "description": "KYLIAN Mbappe, yang mencetak hattrick, memecahkan rekor gol tercepat Ligue 1 saat menjebol gawang Lille saat laga baru berlangsung&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516566/kpk-diminta-usut-proses-penerimaan-mahasiswa-di-kampus-negeri-lainnya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTY1NjYva3BrLWRpbWludGEtdXN1dC1wcm9zZXMtcGVuZXJpbWFhbi1tYWhhc2lzd2EtZGkta2FtcHVzLW5lZ2VyaS1sYWlubnlh",
-        "description": "KOORDINATOR Masyarakat Antikorupsi Indonesia (MAKI) Boyamin Saiman meminta Komisi Pemberantasan Korupsi (KPK) terus mengembangkan kasus dugaan suap penerimaan mahasiswa jalur mandiri di Universitas&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516564/dpr-dari-fraksi-ppp-usulkan-revisi-terbatas-uu-kepolisian",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTY1NjQvZHByLWRhcmktZnJha3NpLXBwcC11c3Vsa2FuLXJldmlzaS10ZXJiYXRhcy11dS1rZXBvbGlzaWFu",
-        "description": "Sekretaris Fraksi PPP DPR RI Achmad Baidowi mengusulkan revisi terbatas Undang-Undang nomor 2 tahun 2002 tentang Kepolisian, dengan tujuan agar berjalan reformasi dan penguatan kelembagaan institusi.<br&#8230;"
     }
 ]
