@@ -1,5 +1,26 @@
 [
     {
+        "title": "Tunggu Keputusan Bos BI, IHSG Bisa Mantul Gak Nih?",
+        "link": "https://www.cnbcindonesia.com/market/20220823011241-17-365734/tunggu-keputusan-bos-bi-ihsg-bisa-mantul-gak-nih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDExMjQxLTE3LTM2NTczNC90dW5nZ3Uta2VwdXR1c2FuLWJvcy1iaS1paHNnLWJpc2EtbWFudHVsLWdhay1uaWg=",
+        "description": " Ke mana arah IHSG hari ini ?"
+    },
+    {
+        "title": "Harga Minyak Galau Pagi Ini",
+        "link": "https://www.cnbcindonesia.com/market/20220823055600-17-365739/harga-minyak-galau-pagi-ini",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDU1NjAwLTE3LTM2NTczOS9oYXJnYS1taW55YWstZ2FsYXUtcGFnaS1pbmk=",
+        "description": " Harga minyak dunia bergerak variatif pada perdagangan pagi hari ini. Tarik-menarik sentimen membuat harga si emas hitam galau."
+    },
+    {
+        "title": "Apa Kabar IHSG Hari Ini? Pantau The Fed dan MH Thamrin",
+        "link": "https://www.cnbcindonesia.com/market/20220823054027-17-365737/apa-kabar-ihsg-hari-ini-pantau-the-fed-mh-thamrin",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDU0MDI3LTE3LTM2NTczNy9hcGEta2FiYXItaWhzZy1oYXJpLWluaS1wYW50YXUtdGhlLWZlZC1taC10aGFtcmlu",
+        "description": " Pasar keuangan Indonesia pada perdagangan Senin (22/8/2022) kemarin kompak terkoreksi. Bagaimana hari ini?"
+    },
+    {
         "title": "Divonis 6 Tahun Penjara, Ini Kesalahan Aakar Jouska",
         "link": "https://www.cnbcindonesia.com/market/20220822205334-17-365730/divonis-6-tahun-penjara-ini-kesalahan-aakar-jouska",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIyMTYzOTAxLTE3LTM2NTY1Ni9jaGluYS1wYW5na2FzLXN1a3UtYnVuZ2EtaW52ZXN0b3Ita2FyZXQtZ2lyYW5n",
         "description": " Harga karet melemah setelah China memangkas suku bunganya"
-    },
-    {
-        "title": "Kimia Farma Diminati Asing, SWF China Dikabarkan Minat Masuk",
-        "link": "https://www.cnbcindonesia.com/market/20220822183050-17-365707/kimia-farma-diminati-asing-swf-china-dikabarkan-minat-masuk",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIyMTgzMDUwLTE3LTM2NTcwNy9raW1pYS1mYXJtYS1kaW1pbmF0aS1hc2luZy1zd2YtY2hpbmEtZGlrYWJhcmthbi1taW5hdC1tYXN1aw==",
-        "description": " Direktur Utama PT Bio Farma Honesti Basyir mengatakan, selain SWF INA maupun SWF China kan masuk melalui rights issue Kimia Farma"
-    },
-    {
-        "title": "Kabar Buruk! Wall Street Bakal 'Kebakaran' Hari Ini, Kenapa?",
-        "link": "https://www.cnbcindonesia.com/market/20220822170453-17-365674/kabar-buruk-wall-street-bakal-kebakaran-hari-ini-kenapa",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIyMTcwNDUzLTE3LTM2NTY3NC9rYWJhci1idXJ1ay13YWxsLXN0cmVldC1iYWthbC1rZWJha2FyYW4taGFyaS1pbmkta2VuYXBh",
-        "description": " Hal tersebut disebabkan oleh kekhawatiran Wall Street akan potensi kenaikan kembali suku bunga secara agresif oleh The Fed."
-    },
-    {
-        "title": "Bursa Asia Ditutup Merana, Kecuali Shanghai-STI",
-        "link": "https://www.cnbcindonesia.com/market/20220822164857-17-365669/bursa-asia-ditutup-merana-kecuali-shanghai-sti",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIyMTY0ODU3LTE3LTM2NTY2OS9idXJzYS1hc2lhLWRpdHV0dXAtbWVyYW5hLWtlY3VhbGktc2hhbmdoYWktc3Rp",
-        "description": " Investor khawatir akan pengetatan kembali kebijakan moneter bank sentral Amerika Serikat kembali muncul."
     }
 ]
