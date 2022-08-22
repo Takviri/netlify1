@@ -1,5 +1,47 @@
 [
     {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/516575/mane-tidak-terkejut-dengan-performa-gemilang-bayern-di-awal-musim",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjU3NS9tYW5lLXRpZGFrLXRlcmtlanV0LWRlbmdhbi1wZXJmb3JtYS1nZW1pbGFuZy1iYXllcm4tZGktYXdhbC1tdXNpbQ==",
+        "description": "PENYERANG Bayern Muenchen Sadio Mane mengaku dirinya tidak terkejut dengan penampilan gemilang Die Roten di awal musim mengingat&#8230;"
+    },
+    {
+        "title": "Sepak Bola",
+        "link": "https://m.mediaindonesia.com/sepak-bola/516574/manchester-united-naikkan-tawaran-untuk-antony",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjU3NC9tYW5jaGVzdGVyLXVuaXRlZC1uYWlra2FuLXRhd2FyYW4tdW50dWstYW50b255",
+        "description": "MANCHESTER United akan mengajukan penawaran terbaru guna mendapatkan pemain sayap Ajax Amsterdam Antony, yang disebut laman&#8230;"
+    },
+    {
+        "title": "Politik dan Hukum",
+        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516573/generasi-muda-harus-paham-mekanisme-pemerintah-dalam-lindungi-data-pribadi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTY1NzMvZ2VuZXJhc2ktbXVkYS1oYXJ1cy1wYWhhbS1tZWthbmlzbWUtcGVtZXJpbnRhaC1kYWxhbS1saW5kdW5naS1kYXRhLXByaWJhZGk=",
+        "description": "ANGGOTA Komisi I DPR RI Rizki Aulia Rahman Natakusumah berharap generasi muda mengerti mekanisme cara kerja pemerintah dalam melaksanakan perlindungan data pribadi. Pengetahuan tersebut tentunya&#8230;"
+    },
+    {
+        "title": "Hiburan",
+        "link": "https://m.mediaindonesia.com/hiburan/516572/choi-woo-shik-son-suk-ku-dan-lee-hee-joon-bintangi-serial-murder-dieary",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9oaWJ1cmFuLzUxNjU3Mi9jaG9pLXdvby1zaGlrLXNvbi1zdWsta3UtZGFuLWxlZS1oZWUtam9vbi1iaW50YW5naS1zZXJpYWwtbXVyZGVyLWRpZWFyeQ==",
+        "description": "AKTOR Korea Selatan Choi Woo Shik, Son Suk Ku, dan Lee Hee Joon akan beradu akting dalam serial Netflix Murder DIEary. Dikutip&#8230;"
+    },
+    {
+        "title": "Olahraga",
+        "link": "https://m.mediaindonesia.com/olahraga/516571/kendati-dipaksa-main-rubber-set-ginting-lolos-ke-babak-kedua",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTY1NzEva2VuZGF0aS1kaXBha3NhLW1haW4tcnViYmVyLXNldC1naW50aW5nLWxvbG9zLWtlLWJhYmFrLWtlZHVh",
+        "description": "PEMIAN&nbsp;tunggal putra andalan Indonesia, Anthony Sinisuka Ginting, dipaksa menelan kekalahan di gim pembuka saat menghadapi Ygor Coelho, sebelum akhirnya mendulang dua kemenangan pada gim terakhir&#8230;"
+    },
+    {
+        "title": "Humaniora",
+        "link": "https://m.mediaindonesia.com/humaniora/516570/menkes-ungkap-penularan-cacar-monyet-tak-semudah-covid-19",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9odW1hbmlvcmEvNTE2NTcwL21lbmtlcy11bmdrYXAtcGVudWxhcmFuLWNhY2FyLW1vbnlldC10YWstc2VtdWRhaC1jb3ZpZC0xOQ==",
+        "description": "MENTERI Kesehatan (Menkes) Budi Gunadi Sadikin meminta masyarakat untuk tidak panik terkait temuan kasus cacar monyet pertama di Indonesia. Hal ini, kata Budi, karena penularannya tidak semudah covid-19.&#8230;"
+    },
+    {
         "title": "Teknologi",
         "link": "https://m.mediaindonesia.com/teknologi/516569/ini-empat-cara-agar-tetap-aman-saat-bermain-internet",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTY1NjQvZHByLWRhcmktZnJha3NpLXBwcC11c3Vsa2FuLXJldmlzaS10ZXJiYXRhcy11dS1rZXBvbGlzaWFu",
         "description": "Sekretaris Fraksi PPP DPR RI Achmad Baidowi mengusulkan revisi terbatas Undang-Undang nomor 2 tahun 2002 tentang Kepolisian, dengan tujuan agar berjalan reformasi dan penguatan kelembagaan institusi.<br&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516561/sebagian-besar-pasien-covid-19-di-kota-semarang-dari-luar-daerah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NTYxL3NlYmFnaWFuLWJlc2FyLXBhc2llbi1jb3ZpZC0xOS1kaS1rb3RhLXNlbWFyYW5nLWRhcmktbHVhci1kYWVyYWg=",
-        "description": "MEMASUKI awal pekan ini, kasus covid-19 di Jawa Tengah meningkat dari sebelumnya 1.755 orang kini menjadi 1.884 orang di 35 Kabupaten dan Kota di provinsi ini dirawat di rumah sakit maupun isolasi,&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/516560/chico-wakil-indonesia-pertama-yang-terhenti-pada-babak-pertama",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTY1NjAvY2hpY28td2FraWwtaW5kb25lc2lhLXBlcnRhbWEteWFuZy10ZXJoZW50aS1wYWRhLWJhYmFrLXBlcnRhbWE=",
-        "description": "PEBULU&nbsp; tangkis tunggal putra Chico Aura Dwi Wardoyo menjadi wakil Indonesia pertama yang terhenti dalam babak pembuka Kejuaraan Dunia BWF 2022 di Tokyo, Jepang, Senin (22/8).  Chico&#8230;"
-    },
-    {
-        "title": "Olahraga",
-        "link": "https://m.mediaindonesia.com/olahraga/516559/coric-kalahkan-tsitsipas-di-final-cincinnati-masters",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9vbGFocmFnYS81MTY1NTkvY29yaWMta2FsYWhrYW4tdHNpdHNpcGFzLWRpLWZpbmFsLWNpbmNpbm5hdGktbWFzdGVycw==",
-        "description": "BORNA Coric, yang baru kembali bertanding pada Maret setelah absen selama satu tahun karena cedera bahu, menjadi juara Cincinnati&#8230;"
-    },
-    {
-        "title": "Politik dan Hukum",
-        "link": "https://m.mediaindonesia.com/politik-dan-hukum/516558/eks-kapolres-jaksel-jalani-penempatan-khusus-terkait-kasus-brigadir-j",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9wb2xpdGlrLWRhbi1odWt1bS81MTY1NTgvZWtzLWthcG9scmVzLWpha3NlbC1qYWxhbmktcGVuZW1wYXRhbi1raHVzdXMtdGVya2FpdC1rYXN1cy1icmlnYWRpci1q",
-        "description": "MANTAN Kapolres Jakarta Selatan Kombes Pol. Budhi Herdi Susianto menjalani penempatan khusus (patsus) di Mako Brimob, Kelapa Dua Depok, terkait dugaan pelanggaran etik tidak profesional dalam penanganan&#8230;"
-    },
-    {
-        "title": "Sepak Bola",
-        "link": "https://m.mediaindonesia.com/sepak-bola/516557/ac-milan-imbang-di-kandang-atalanta",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9zZXBhay1ib2xhLzUxNjU1Ny9hYy1taWxhbi1pbWJhbmctZGkta2FuZGFuZy1hdGFsYW50YQ==",
-        "description": "AC &nbsp;Milan bermain imbang 1-1 di kandang Atalanta di laga pekan kedua Serie A di Stadio Atleti Azzurri d'Italia, Senin (22/8)&#8230;"
-    },
-    {
-        "title": "Nusantara",
-        "link": "https://m.mediaindonesia.com/nusantara/516555/bmkg-waspada-kekeringan-meteorologi-meski-ada-hujan-di-puncak-kemarau",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tLm1lZGlhaW5kb25lc2lhLmNvbS9udXNhbnRhcmEvNTE2NTU1L2Jta2ctd2FzcGFkYS1rZWtlcmluZ2FuLW1ldGVvcm9sb2dpLW1lc2tpLWFkYS1odWphbi1kaS1wdW5jYWsta2VtYXJhdQ==",
-        "description": "BADAN Meteorologi, Klimatologi, dan Geofisika (BMKG) menyatakan, memasuki periode puncak musim kemarau 2022, masyarakat perlu mewaspadai akan terjadinya bencana kekeringan, kebakaran hutan dan lahan,&#8230;"
     }
 ]
