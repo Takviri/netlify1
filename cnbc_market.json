@@ -1,5 +1,19 @@
 [
     {
+        "title": "China Borong Nikel Lagi, Harga Langsung Naik",
+        "link": "https://www.cnbcindonesia.com/market/20220822160756-17-365646/china-borong-nikel-lagi-harga-langsung-naik",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIyMTYwNzU2LTE3LTM2NTY0Ni9jaGluYS1ib3JvbmctbmlrZWwtbGFnaS1oYXJnYS1sYW5nc3VuZy1uYWlr",
+        "description": " Harga nikel dunia meningkat karena permintaan dari China jadi pendorong harga."
+    },
+    {
+        "title": "Ada Kabar Mau Diakuisisi SMFG, Saham Grup Panin Terbang",
+        "link": "https://www.cnbcindonesia.com/market/20220822154106-17-365639/ada-kabar-mau-diakuisisi-smfg-saham-grup-panin-terbang",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIyMTU0MTA2LTE3LTM2NTYzOS9hZGEta2FiYXItbWF1LWRpYWt1aXNpc2ktc21mZy1zYWhhbS1ncnVwLXBhbmluLXRlcmJhbmc=",
+        "description": " Saham Grup Panin terpantau berterbangan pada perdagangan sesi kedua Senin (22/8/2022)"
+    },
+    {
         "title": "Sukses Implementasikan ESG, BRI Borong 3 Penghargaan",
         "link": "https://www.cnbcindonesia.com/market/20220822154000-17-365637/sukses-implementasikan-esg-bri-borong-3-penghargaan",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIyMTMzOTA1LTE3LTM2NTU5NS9jaGluYS1iaWtpbi1rYWdldC1kb2xhci1zaW5nYXB1cmEtamFkaS10ZXJwZWxlc2V0",
         "description": " Nilai tukar dolar Singapura sempat melemah melawan rupiah di awal perdagangan Senin (22/8/2022)"
-    },
-    {
-        "title": "Bedah Kinerja Ciamik Bank BJB",
-        "link": "https://www.cnbcindonesia.com/market/20220822134217-19-365596/bedah-kinerja-ciamik-bank-bjb",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIyMTM0MjE3LTE5LTM2NTU5Ni9iZWRhaC1raW5lcmphLWNpYW1pay1iYW5rLWJqYg==",
-        "description": " Bedah Kinerja Ciamik Bank BJB"
-    },
-    {
-        "title": "Ini Beda Gugatan Pidana dan Perdata yang Dialami Jouska",
-        "link": "https://www.cnbcindonesia.com/market/20220822135604-17-365600/ini-beda-gugatan-pidana-dan-perdata-yang-dialami-jouska",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIyMTM1NjA0LTE3LTM2NTYwMC9pbmktYmVkYS1ndWdhdGFuLXBpZGFuYS1kYW4tcGVyZGF0YS15YW5nLWRpYWxhbWktam91c2th",
-        "description": " Dalam dua tahun terakhir ini PT Jouska Finansial Indonesia tengah menjalani dua proses hukum, yakni perdata dan pidana."
     }
 ]
