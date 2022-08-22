@@ -1,5 +1,19 @@
 [
     {
+        "title": "Garuda Digugat di Australia Gara-gara Belum Bayar Sewa Pesawat",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220822071352-92-837323/garuda-digugat-di-australia-gara-gara-belum-bayar-sewa-pesawat",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODIyMDcxMzUyLTkyLTgzNzMyMy9nYXJ1ZGEtZGlndWdhdC1kaS1hdXN0cmFsaWEtZ2FyYS1nYXJhLWJlbHVtLWJheWFyLXNld2EtcGVzYXdhdA==",
+        "description": " PT Garuda Indonesia (Persero) Tbk digugat di Australia karena belum membayar biaya sewa pesawat."
+    },
+    {
+        "title": "Harga Minyak Dunia Turun 1,5 Persen Sepekan Karena Ketakutan Resesi",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220822070401-85-837322/harga-minyak-dunia-turun-15-persen-sepekan-karena-ketakutan-resesi",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODIyMDcwNDAxLTg1LTgzNzMyMi9oYXJnYS1taW55YWstZHVuaWEtdHVydW4tMTUtcGVyc2VuLXNlcGVrYW4ta2FyZW5hLWtldGFrdXRhbi1yZXNlc2k=",
+        "description": " Harga minyak dunia stabil pada akhir perdagangan pekan lalu, tetapi turun 1,5 persen dalam sepekan karena kekhawatiran resesi ekonomi."
+    },
+    {
         "title": "Emiten Energi Jadi Pilihan di Tengah Wacana Kenaikan Harga BBM",
         "link": "https://www.cnnindonesia.com/ekonomi/20220822063504-92-837306/emiten-energi-jadi-pilihan-di-tengah-wacana-kenaikan-harga-bbm",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODIxMTE0MzE2LTg1LTgzNzExNy9sdWh1dC1zb2FsLWlzdS1rZW5haWthbi1oYXJnYS1iYm0ta2VwdXR1c2FuLWFraGlyLWRpLXRhbmdhbi1wcmVzaWRlbg==",
         "description": " Menko Marinves Luhut Binsar Panjaitan menyebut keputusan akhir rencana kenaikan harga BBM berada di tangan Presiden Jokowi."
-    },
-    {
-        "title": "Beli Skincare Shiseido Diskon Dobel di Metro Pakai Allo Bank",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220819185515-97-836710/beli-skincare-shiseido-diskon-dobel-di-metro-pakai-allo-bank",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODE5MTg1NTE1LTk3LTgzNjcxMC9iZWxpLXNraW5jYXJlLXNoaXNlaWRvLWRpc2tvbi1kb2JlbC1kaS1tZXRyby1wYWthaS1hbGxvLWJhbms=",
-        "description": " Metro Dept Store memberikan promo eksklusif diskon 15+10 persen untuk pembelian produk Shiseido menggunakan Allo Bank."
-    },
-    {
-        "title": "PUPR Alokasikan Rp600 M, Bangun Rusun untuk Pekerja Konstruksi IKN",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220821092244-92-837058/pupr-alokasikan-rp600-m-bangun-rusun-untuk-pekerja-konstruksi-ikn",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODIxMDkyMjQ0LTkyLTgzNzA1OC9wdXByLWFsb2thc2lrYW4tcnA2MDAtbS1iYW5ndW4tcnVzdW4tdW50dWstcGVrZXJqYS1rb25zdHJ1a3NpLWlrbg==",
-        "description": " Kementerian PUPR mengalokasikan anggaran Rp600 miliar untuk membangun 22 menara rusun bagi 17 ribu pekerja konstruksi IKN."
     }
 ]
