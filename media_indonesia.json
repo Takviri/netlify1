@@ -1,5 +1,19 @@
 [
     {
+        "title": "Tantangan Sertifikasi Kompetensi Wartawan",
+        "link": "https://mediaindonesia.com/opini/517085/tantangan-sertifikasi-kompetensi-wartawan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vb3BpbmkvNTE3MDg1L3RhbnRhbmdhbi1zZXJ0aWZpa2FzaS1rb21wZXRlbnNpLXdhcnRhd2Fu",
+        "description": "PERKEMBANGAN industri media di era digital yang demikian pesat dewasa ini mesti diikuti dengan pengembangan kompetensi dan profesionalisme wartawan."
+    },
+    {
+        "title": "Yowha Rilis Ulang Go Blind",
+        "link": "https://mediaindonesia.com/hiburan/517133/yowha-rilis-ulang-go-blind",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaGlidXJhbi81MTcxMzMveW93aGEtcmlsaXMtdWxhbmctZ28tYmxpbmQ=",
+        "description": "Berbeda dengan karyanya yang lain, Yowha mengatakan proses pembuatan Go Blind memakan waktu yang sangat panjang dan cukup menantang."
+    },
+    {
         "title": "Ini Tips Hidup Sehat dari Mikha Tambayong",
         "link": "https://mediaindonesia.com/hiburan/517132/ini-tips-hidup-sehat-dari-mikha-tambayong",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vc2VwYWstYm9sYS81MTcxMTkvbmV3Y2FzdGxlLWtlYnV0LXByb3Nlcy10cmFuc2Zlci1qb2FvLXBlZHJv",
         "description": "Newcastle United diyakini melayangkan tawaran sebesar 30 juta pounds atau sekitar Rp524 miliar"
-    },
-    {
-        "title": "Chelsea dan Barcelona Optimistis Transfer Aubameyang Segera Rampung",
-        "link": "https://mediaindonesia.com/sepak-bola/517117/chelsea-dan-barcelona-optimistis-transfer-aubameyang-segera-rampung",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vc2VwYWstYm9sYS81MTcxMTcvY2hlbHNlYS1kYW4tYmFyY2Vsb25hLW9wdGltaXN0aXMtdHJhbnNmZXItYXViYW1leWFuZy1zZWdlcmEtcmFtcHVuZw==",
-        "description": "Diperkirakan kesepakatan yang akan terjalin antara Chelsea dan Barcelona untuk Aubameyang di kisaran harga 15 hingga 25 juta pounds"
-    },
-    {
-        "title": "Bocah Korban Kebakaran di Kota Tasikmalaya Meninggal Dunia",
-        "link": "https://mediaindonesia.com/nusantara/517116/bocah-korban-kebakaran-di-kota-tasikmalaya-meninggal-dunia",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vbnVzYW50YXJhLzUxNzExNi9ib2NhaC1rb3JiYW4ta2ViYWthcmFuLWRpLWtvdGEtdGFzaWttYWxheWEtbWVuaW5nZ2FsLWR1bmlh",
-        "description": "AJ, 6, yang menjadi korban kebakaran sebuah rumah di Jalan Tubagus Abdulah, Kampung Cimerak, Kelurahan Sukaasih, Kecamatan Purbaratu, Kota Tasikmalaya, Jawa Barat, meninggal dunia."
     }
 ]
