@@ -1,5 +1,19 @@
 [
     {
+        "title": "Petani Antusias Ikuti Pelatihan Literasi Keuangan di Luwu Timur",
+        "link": "https://bisnis.tempo.co/read/1625839/petani-antusias-ikuti-pelatihan-literasi-keuangan-di-luwu-timur",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI1ODM5L3BldGFuaS1hbnR1c2lhcy1pa3V0aS1wZWxhdGloYW4tbGl0ZXJhc2kta2V1YW5nYW4tZGktbHV3dS10aW11cg==",
+        "description": "Petani diajarkan cara mengakses Kredit Usaha Rakyat (KUR) dan pengelolaan anggaran KUR untuk biaya produksi dan pengelolaan keuangan rumah tangga."
+    },
+    {
+        "title": "Dugaan 26 Juta Data IndiHome Bocor, Pakar: Bisa Dikopi Berulang-ulang",
+        "link": "https://bisnis.tempo.co/read/1625832/dugaan-26-juta-data-indihome-bocor-pakar-bisa-dikopi-berulang-ulang",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI1ODMyL2R1Z2Fhbi0yNi1qdXRhLWRhdGEtaW5kaWhvbWUtYm9jb3ItcGFrYXItYmlzYS1kaWtvcGktYmVydWxhbmctdWxhbmc=",
+        "description": "Pakar keamanan siber dan forensik digital dari Vaksincom, Alfons Tanujaya, menanggapi dugaan kebocoran 26 juta data pelanggan IndiHome."
+    },
+    {
         "title": "Terkini Bisnis: Judi Online Subur karena Peminatnya Tinggi, Harga Pertalite Naik Ekonomi RI Buyar",
         "link": "https://bisnis.tempo.co/read/1625829/terkini-bisnis-judi-online-subur-karena-peminatnya-tinggi-harga-pertalite-naik-ekonomi-ri-buyar",
         "image": "static/images/tempo_bisnis.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI1Nzk0L3R1cnVuLXJwLTMtMDAwLWhhcmdhLWVtYXMtYW50YW0taGFyaS1pbmktcnAtOTY4LXJpYnUtcGVyLWdyYW0=",
         "description": "Harga emas batangan PT Aneka Tambang Tbk (ANTM) atau emas Antam pada perdagangan Selasa, 23 Agustus 2022 turun Rp 3.000 dibandingkan dengan kemarin."
-    },
-    {
-        "title": "Ekonom: Pemulihan Ekonomi Indonesia Buyar Jika Harga BBM Naik",
-        "link": "https://bisnis.tempo.co/read/1625789/ekonom-pemulihan-ekonomi-indonesia-buyar-jika-harga-bbm-naik",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI1Nzg5L2Vrb25vbS1wZW11bGloYW4tZWtvbm9taS1pbmRvbmVzaWEtYnV5YXItamlrYS1oYXJnYS1iYm0tbmFpaw==",
-        "description": "Bhima Yudhistira mengatakan pemulihan perekonomian Indonesia bisa terdampak akibat kenaikan harga bahan bakar minyak (BBM) bersubsidi."
-    },
-    {
-        "title": "Kenaikan Harga BBM Bersubsidi Juga Berdampak ke Masyarakat Kelas Menengah, Ini Hitungannya",
-        "link": "https://bisnis.tempo.co/read/1625780/kenaikan-harga-bbm-bersubsidi-juga-berdampak-ke-masyarakat-kelas-menengah-ini-hitungannya",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI1NzgwL2tlbmFpa2FuLWhhcmdhLWJibS1iZXJzdWJzaWRpLWp1Z2EtYmVyZGFtcGFrLWtlLW1hc3lhcmFrYXQta2VsYXMtbWVuZW5nYWgtaW5pLWhpdHVuZ2Fubnlh",
-        "description": "Ekonom Celios menilai kenaikan harga BBM subsidi tak hanya memukul masyarakat miskin, tapi juga masyarakat kelas menengah. Begini hitung-hitungannya."
     }
 ]
