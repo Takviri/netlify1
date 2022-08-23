@@ -1,5 +1,47 @@
 [
     {
+        "title": "Inflasi RI Meroket, Harusnya Gaji PNS Naik 7%",
+        "link": "https://www.cnbcindonesia.com/news/20220823133324-4-365909/inflasi-ri-meroket-harusnya-gaji-pns-naik-7",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEzMzMyNC00LTM2NTkwOS9pbmZsYXNpLXJpLW1lcm9rZXQtaGFydXNueWEtZ2FqaS1wbnMtbmFpay03",
+        "description": " Suara dukungan untuk kenaikan gaji Aparatur Sipil Negara (ASN), termasuk Pegawai Negeri Sipil (PNS) terus bermunculan."
+    },
+    {
+        "title": "Bos BI Ramal Transaksi Berjalan RI 2022 Surplus 1,5% PDB",
+        "link": "https://www.cnbcindonesia.com/news/20220823141525-4-365934/bos-bi-ramal-transaksi-berjalan-ri-2022-surplus-15-pdb",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE0MTUyNS00LTM2NTkzNC9ib3MtYmktcmFtYWwtdHJhbnNha3NpLWJlcmphbGFuLXJpLTIwMjItc3VycGx1cy0xNS1wZGI=",
+        "description": " Kinerja pembayaran Indonesia diperkirakan akan terjaga dengan transaksi berjalan yang surplus dalam kisaran 0,3% sampai defisit 1,5%"
+    },
+    {
+        "title": "Pendaftaran DTKS Jakarta, Simak Syarat dan Ketentuan Lengkapnya",
+        "link": "https://www.cnbcindonesia.com/news/20220823133514-4-365913/pendaftaran-dtks-jakarta-simak-syarat-ketentuan-lengkapnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEzMzUxNC00LTM2NTkxMy9wZW5kYWZ0YXJhbi1kdGtzLWpha2FydGEtc2ltYWstc3lhcmF0LWtldGVudHVhbi1sZW5na2Fwbnlh",
+        "description": " Pendaftaran Data Terpadu Kesejahteraan Sosial (DTKS) 2022 tahap ketiga telah resmi dibuka."
+    },
+    {
+        "title": "Bukan Cuma Inggris, Wanita di Sini Ramai Jadi PSK Demi Makan",
+        "link": "https://www.cnbcindonesia.com/news/20220823133304-4-365908/bukan-cuma-inggris-wanita-di-sini-ramai-jadi-psk-demi-makan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEzMzMwNC00LTM2NTkwOC9idWthbi1jdW1hLWluZ2dyaXMtd2FuaXRhLWRpLXNpbmktcmFtYWktamFkaS1wc2stZGVtaS1tYWthbg==",
+        "description": " Inflasi yang melonjak dan telah menyebabkan krisis biaya hidup telah telah memicu banyak wanita \"banting setir\" menjadi pekerja seks komersial (PSK)."
+    },
+    {
+        "title": "'Harta Karun' Minyak RI Ditawarkan ke Raksasa Migas Dunia",
+        "link": "https://www.cnbcindonesia.com/news/20220823131811-4-365901/harta-karun-minyak-ri-ditawarkan-ke-raksasa-migas-dunia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEzMTgxMS00LTM2NTkwMS9oYXJ0YS1rYXJ1bi1taW55YWstcmktZGl0YXdhcmthbi1rZS1yYWtzYXNhLW1pZ2FzLWR1bmlh",
+        "description": " BPH Migas aktif menawarkan potensi minyak bumi kepada investor dunia yang terletak di lima are"
+    },
+    {
+        "title": "Ini Dia PNS Sultan Daerah! Gajinya Paling Tinggi Se-Indonesia",
+        "link": "https://www.cnbcindonesia.com/news/20220823131043-4-365897/ini-dia-pns-sultan-daerah-gajinya-paling-tinggi-se-indonesia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEzMTA0My00LTM2NTg5Ny9pbmktZGlhLXBucy1zdWx0YW4tZGFlcmFoLWdhamlueWEtcGFsaW5nLXRpbmdnaS1zZS1pbmRvbmVzaWE=",
+        "description": " Tahukah Anda, siapa abdi negara dengan gaji terbesar di Indonesia?"
+    },
+    {
         "title": "Antrean Mengular Warga DKI Demi Uang Baru Tahun Emisi 2022",
         "link": "https://www.cnbcindonesia.com/news/20220823125917-7-365887/antrean-mengular-warga-dki-demi-uang-baru-tahun-emisi-2022",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEyNDg1NS00LTM2NTg5OS9tZW50ZXJpLWpva293aS1taW50YS1kaXNrb24tdGlrZXQtcGVzYXdhdC1tYXUtY2VrLXN5YXJhdG55YQ==",
         "description": " Menteri Perhubungan (Menhub) Budi Karya Sumadi meminta maskapai untuk memberikan diskon tiket pesawat di hari kerja atau weekdays dan siang hari."
-    },
-    {
-        "title": "Uni Eropa Terancam Pecah, Polandia Jadi Biang \"Rusuh\"",
-        "link": "https://www.cnbcindonesia.com/news/20220823120053-4-365867/uni-eropa-terancam-pecah-polandia-jadi-biang-rusuh",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEyMDA1My00LTM2NTg2Ny91bmktZXJvcGEtdGVyYW5jYW0tcGVjYWgtcG9sYW5kaWEtamFkaS1iaWFuZy1ydXN1aA==",
-        "description": " Menteri Luar Negeri Polandia Zbigniew Rau mengatakan bahwa Uni Eropa (UE) memiliki kecenderungan imperialistik dalam kebijakan politiknya."
-    },
-    {
-        "title": "Jokowi Mau Sulap RI Surplus Dagang Dengan China, Ini Jurusnya",
-        "link": "https://www.cnbcindonesia.com/news/20220823120443-4-365882/jokowi-mau-sulap-ri-surplus-dagang-dengan-china-ini-jurusnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEyMDQ0My00LTM2NTg4Mi9qb2tvd2ktbWF1LXN1bGFwLXJpLXN1cnBsdXMtZGFnYW5nLWRlbmdhbi1jaGluYS1pbmktanVydXNueWE=",
-        "description": " Presiden Joko Widodo (Jokowi) yakin Indonesia bakal memperbaiki neraca dagang dengan China di tahun ini."
-    },
-    {
-        "title": "Babi Minggir! Inflasi Picu 'Perang Ayam' di Korea",
-        "link": "https://www.cnbcindonesia.com/news/20220823122528-4-365881/babi-minggir-inflasi-picu-perang-ayam-di-korea",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEyMjUyOC00LTM2NTg4MS9iYWJpLW1pbmdnaXItaW5mbGFzaS1waWN1LXBlcmFuZy1heWFtLWRpLWtvcmVh",
-        "description": " Inflasi membuat perang ayam terjadi di Korea Selatan (Korsel)."
-    },
-    {
-        "title": "Ngamuk Ladang Gas Mau Diacak-acak, Negara Ini Ancam Perang",
-        "link": "https://www.cnbcindonesia.com/news/20220823103315-4-365832/ngamuk-ladang-gas-mau-diacak-acak-negara-ini-ancam-perang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEwMzMxNS00LTM2NTgzMi9uZ2FtdWstbGFkYW5nLWdhcy1tYXUtZGlhY2FrLWFjYWstbmVnYXJhLWluaS1hbmNhbS1wZXJhbmc=",
-        "description": " Israel mengancam perang jika aset gasnya diganggu kelompok Hizbullah di Lebanon."
-    },
-    {
-        "title": "Bencana Baru di China Bakal Bikin RI Ketiban 'Durian Runtuh'",
-        "link": "https://www.cnbcindonesia.com/news/20220823115711-4-365866/bencana-baru-di-china-bakal-bikin-ri-ketiban-durian-runtuh",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzExNTcxMS00LTM2NTg2Ni9iZW5jYW5hLWJhcnUtZGktY2hpbmEtYmFrYWwtYmlraW4tcmkta2V0aWJhbi1kdXJpYW4tcnVudHVo",
-        "description": " Gelombang panas yang memicu kekeringan telah membuat air surut di beberapa sungai besar di China."
-    },
-    {
-        "title": "Info Terbaru: Berikut Kisaran Harga Kenaikan BBM Pertalite",
-        "link": "https://www.cnbcindonesia.com/news/20220823124453-4-365885/info-terbaru-berikut-kisaran-harga-kenaikan-bbm-pertalite",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEyNDQ1My00LTM2NTg4NS9pbmZvLXRlcmJhcnUtYmVyaWt1dC1raXNhcmFuLWhhcmdhLWtlbmFpa2FuLWJibS1wZXJ0YWxpdGU=",
-        "description": " Range kenaikan harga BBM Pertalite berada dikisaran Rp 1.000 - Rp 2.500 per liternya"
     }
 ]
