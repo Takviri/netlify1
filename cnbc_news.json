@@ -1,5 +1,12 @@
 [
     {
+        "title": "Kiamat ATM Semakin Nyata, BI Kasih Bukti Baru",
+        "link": "https://www.cnbcindonesia.com/news/20220823194405-4-366058/kiamat-atm-semakin-nyata-bi-kasih-bukti-baru",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE5NDQwNS00LTM2NjA1OC9raWFtYXQtYXRtLXNlbWFraW4tbnlhdGEtYmkta2FzaWgtYnVrdGktYmFydQ==",
+        "description": " Kiamat ATM"
+    },
+    {
         "title": "Bank di Indonesia Masih Untung Besar",
         "link": "https://www.cnbcindonesia.com/news/20220823183847-4-366052/bank-di-indonesia-masih-untung-besar",
         "image": "static/images/cnbc_news.png",
@@ -42,10 +49,10 @@
         "description": " Berikut ini negara-negara di dunia pernah mencoba dan beberapa kali gagal akibat faktor ketidakstabilan ekonomi dan ketidaksiapan di lapangan."
     },
     {
-        "title": "Adu Rayu Mobil Produk Listrik Baru Di Tanah Air",
-        "link": "https://www.cnbcindonesia.com/news/20220823194846-8-366059/adu-rayu-mobil-produk-listrik-baru-di-tanah-air",
+        "title": "Adu Rayu Produk Mobil Listrik Baru di Tanah Air",
+        "link": "https://www.cnbcindonesia.com/news/20220823194846-8-366059/adu-rayu-produk-mobil-listrik-baru-di-tanah-air",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE5NDg0Ni04LTM2NjA1OS9hZHUtcmF5dS1tb2JpbC1wcm9kdWstbGlzdHJpay1iYXJ1LWRpLXRhbmFoLWFpcg==",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE5NDg0Ni04LTM2NjA1OS9hZHUtcmF5dS1wcm9kdWstbW9iaWwtbGlzdHJpay1iYXJ1LWRpLXRhbmFoLWFpcg==",
         "description": " Adu Rayu Mobil Produk Listrik Baru Di Tanah Air"
     },
     {
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE4MTUxOC00LTM2NjA0NC9iaWFyLXBhaGFtLWluaS1hbGFzYW4ta2VuYXBhLWhhcmdhLWJibS1wZXJ0YWxpdGUtYmFrYWwtbmFpaw==",
         "description": " Harga BBM bakal naik karena nilai subsidi BBM sudah mengalami pembengkakan"
-    },
-    {
-        "title": "Jokowi: Miris Liat APBN/APBD Dipakai Belanja Impor",
-        "link": "https://www.cnbcindonesia.com/news/20220823170011-8-366022/jokowi-miris-liat-apbn-apbd-dipakai-belanja-impor",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE3MDAxMS04LTM2NjAyMi9qb2tvd2ktbWlyaXMtbGlhdC1hcGJuLWFwYmQtZGlwYWthaS1iZWxhbmphLWltcG9y",
-        "description": " Presiden Joko Widodo miris melihat APBN yang dikumpulkan Pemerintah dari PNBP ekspor batu bara dan minyak sawit justru dipakai untuk membeli barang impor."
     }
 ]
