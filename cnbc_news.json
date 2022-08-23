@@ -1,5 +1,40 @@
 [
     {
+        "title": "Jokowi: Miris Liat APBN/APBD Dipakai Belanja Impor",
+        "link": "https://www.cnbcindonesia.com/news/20220823170011-8-366022/jokowi-miris-liat-apbn-apbd-dipakai-belanja-impor",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE3MDAxMS04LTM2NjAyMi9qb2tvd2ktbWlyaXMtbGlhdC1hcGJuLWFwYmQtZGlwYWthaS1iZWxhbmphLWltcG9y",
+        "description": " Presiden Joko Widodo miris melihat APBN yang dikumpulkan Pemerintah dari PNBP ekspor batu bara dan minyak sawit justru dipakai untuk membeli barang impor."
+    },
+    {
+        "title": "Pasokan Berlimpah, Transisi Energi Bisa Andalkan Peran Gas",
+        "link": "https://www.cnbcindonesia.com/news/20220823175113-4-366035/pasokan-berlimpah-transisi-energi-bisa-andalkan-peran-gas",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE3NTExMy00LTM2NjAzNS9wYXNva2FuLWJlcmxpbXBhaC10cmFuc2lzaS1lbmVyZ2ktYmlzYS1hbmRhbGthbi1wZXJhbi1nYXM=",
+        "description": " Peran gas bisa diandalkan dalam transisi energi sebagai energi fosil yang lebih bersih"
+    },
+    {
+        "title": "Transferan Jokowi Rp800 T Habis 'Dimakan' PNS Daerah",
+        "link": "https://www.cnbcindonesia.com/news/20220823170058-16-366023/transferan-jokowi-rp800-t-habis-dimakan-pns-daerah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE3MDA1OC0xNi0zNjYwMjMvdHJhbnNmZXJhbi1qb2tvd2ktcnA4MDAtdC1oYWJpcy1kaW1ha2FuLXBucy1kYWVyYWg=",
+        "description": " Dana transfer ke daerah dan dana desa (TKDD) sebagian besar hanya digunakan untuk membayar gaji pegawai negeri sipil (PNS) daerah."
+    },
+    {
+        "title": "Wow! Motor Listrik Serbu RI",
+        "link": "https://www.cnbcindonesia.com/news/20220823183725-8-366050/wow-motor-listrik-serbu-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE4MzcyNS04LTM2NjA1MC93b3ctbW90b3ItbGlzdHJpay1zZXJidS1yaQ==",
+        "description": " Motor listrik baru mulai menyerbu industri otomotif Indonesia tapi yang merilis kendaraan-kendaraan itu kebanyakan perusahaan start-up."
+    },
+    {
+        "title": "Bukan Cuma Resesi Seks, Populasi China Juga Turun Gegara Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220823175104-4-366034/bukan-cuma-resesi-seks-populasi-china-juga-turun-gegara-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE3NTEwNC00LTM2NjAzNC9idWthbi1jdW1hLXJlc2VzaS1zZWtzLXBvcHVsYXNpLWNoaW5hLWp1Z2EtdHVydW4tZ2VnYXJhLWluaQ==",
+        "description": " China tengah diterpa fenomena resesi seks."
+    },
+    {
         "title": "Tak Usah Khawatir, Sri Mulyani Beri Bukti Utang RI Aman!",
         "link": "https://www.cnbcindonesia.com/news/20220823174911-4-366032/tak-usah-khawatir-sri-mulyani-beri-bukti-utang-ri-aman",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE3MjIyMS00LTM2NjAyNy9zcmktbXVseWFuaS1idWthLWJ1a2Fhbi1zb2FsLXNpbWFsYWthbWEtaGFyZ2EtYmJt",
         "description": " Pemerintah kini dihadapkan pada pilihan sulit mengenai kebijakan bahan bakar minyak (BBM) Pertalite dan Solar."
-    },
-    {
-        "title": "BI Naikkan Suku Bunga Acuan Hingga Ford Lakukan PHK Masal",
-        "link": "https://www.cnbcindonesia.com/news/20220823172709-8-366029/bi-naikkan-suku-bunga-acuan-hingga-ford-lakukan-phk-masal",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE3MjcwOS04LTM2NjAyOS9iaS1uYWlra2FuLXN1a3UtYnVuZ2EtYWN1YW4taGluZ2dhLWZvcmQtbGFrdWthbi1waGstbWFzYWw=",
-        "description": " Bank Indonesia memutuskan untuk menaikkan suku bunga acuannyahingga, Ford melakukan pemutusan hubungan kerja secara massal pada stafnya."
-    },
-    {
-        "title": "Update Covid 23 Agustus: Kasus Baru Bertambah 4.858 Hari Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220823165024-16-366020/update-covid-23-agustus-kasus-baru-bertambah-4858-hari-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE2NTAyNC0xNi0zNjYwMjAvdXBkYXRlLWNvdmlkLTIzLWFndXN0dXMta2FzdXMtYmFydS1iZXJ0YW1iYWgtNDg1OC1oYXJpLWluaQ==",
-        "description": " Secara total kasus konfirmasi mencapai 6.323.715."
-    },
-    {
-        "title": "MIND ID dan Yayasan BUMN Hadirkan 'Cinta Tanah Air' di Anambas",
-        "link": "https://www.cnbcindonesia.com/news/20220823180102-4-366038/mind-id-yayasan-bumn-hadirkan-cinta-tanah-air-di-anambas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE4MDEwMi00LTM2NjAzOC9taW5kLWlkLXlheWFzYW4tYnVtbi1oYWRpcmthbi1jaW50YS10YW5haC1haXItZGktYW5hbWJhcw==",
-        "description": " Mining Industry Indonesia atau MIND ID bersama dengan beberapa BUMN lainnya melalui Yayasan BUMN menyelenggarakan Program Cinta Tanah Air"
-    },
-    {
-        "title": "JKT-Bandung Bisa 1 Jam Via Tol Ini, Naik Pesawat Sampai 7 Jam",
-        "link": "https://www.cnbcindonesia.com/news/20220823163138-4-366018/jkt-bandung-bisa-1-jam-via-tol-ini-naik-pesawat-sampai-7-jam",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE2MzEzOC00LTM2NjAxOC9qa3QtYmFuZHVuZy1iaXNhLTEtamFtLXZpYS10b2wtaW5pLW5haWstcGVzYXdhdC1zYW1wYWktNy1qYW0=",
-        "description": " Pembangunan tol Jakarta Cikampek II Selatan untuk mengurangi beban kemacetan yang terjadi di jalur eksisting."
-    },
-    {
-        "title": "Sengit! Paripurna DPR Diwarnai Penolakan Kenaikan Harga BBM",
-        "link": "https://www.cnbcindonesia.com/news/20220823173917-4-366031/sengit-paripurna-dpr-diwarnai-penolakan-kenaikan-harga-bbm",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE3MzkxNy00LTM2NjAzMS9zZW5naXQtcGFyaXB1cm5hLWRwci1kaXdhcm5haS1wZW5vbGFrYW4ta2VuYWlrYW4taGFyZ2EtYmJt",
-        "description": " DPR menyelenggarakan rapat paripurna untuk menyampaikan pandangan umum 9 fraksi atas Rancangan Undang-undang APBN 2023."
     }
 ]
