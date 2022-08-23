@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ke Lokasi IKN, Tim Kantor Staf Presiden Pastikan Pembangunan Sesuai Perencanaan",
+        "link": "https://nasional.tempo.co/read/1625938/ke-lokasi-ikn-tim-kantor-staf-presiden-pastikan-pembangunan-sesuai-perencanaan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjU5Mzgva2UtbG9rYXNpLWlrbi10aW0ta2FudG9yLXN0YWYtcHJlc2lkZW4tcGFzdGlrYW4tcGVtYmFuZ3VuYW4tc2VzdWFpLXBlcmVuY2FuYWFu",
+        "description": "Pembangunan IKN tahap persiapan meliputi pembangunan hunian bagi pekerja, jalan akses dan sentra logistik, serta penyelesaian pasokan air minum."
+    },
+    {
+        "title": "Asbanda Segel Pengundian Hadiah Tabungan Simpeda Nasional",
+        "link": "https://nasional.tempo.co/read/1625942/asbanda-segel-pengundian-hadiah-tabungan-simpeda-nasional",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjU5NDIvYXNiYW5kYS1zZWdlbC1wZW5ndW5kaWFuLWhhZGlhaC10YWJ1bmdhbi1zaW1wZWRhLW5hc2lvbmFs",
+        "description": "Asbanda menggelar Undian Nasional Simpeda BPD Seluruh Indonesia dengan hadiah total senilai Rp 3 miliar."
+    },
+    {
+        "title": "Asbanda Gelar Program Panen Rezeki Bank BPD di Kendari, Sultra",
+        "link": "https://nasional.tempo.co/read/1625936/asbanda-gelar-program-panen-rezeki-bank-bpd-di-kendari-sultra",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjU5MzYvYXNiYW5kYS1nZWxhci1wcm9ncmFtLXBhbmVuLXJlemVraS1iYW5rLWJwZC1kaS1rZW5kYXJpLXN1bHRyYQ==",
+        "description": "Asbanda mengadakan undian nasional Tabungan Simpeda dengan total hadiah Rp 3 miliar untuk nasabah Simpeda di 23 BPD."
+    },
+    {
+        "title": "KPK Sebut Mardani H Maming Atur Perusahaan yang Dapat IUP",
+        "link": "https://nasional.tempo.co/read/1625934/kpk-sebut-mardani-h-maming-atur-perusahaan-yang-dapat-iup",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjU5MzQva3BrLXNlYnV0LW1hcmRhbmktaC1tYW1pbmctYXR1ci1wZXJ1c2FoYWFuLXlhbmctZGFwYXQtaXVw",
+        "description": "KPK memeriksa mantan anak buah Mardani H Maming, Raden Dwidjono Putrohadi Sutopo"
+    },
+    {
+        "title": "Menkes Siapkan Vaksinasi Covid-19 untuk Anak di Bawah Usia 6 Tahun",
+        "link": "https://nasional.tempo.co/read/1625930/menkes-siapkan-vaksinasi-covid-19-untuk-anak-di-bawah-usia-6-tahun",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjU5MzAvbWVua2VzLXNpYXBrYW4tdmFrc2luYXNpLWNvdmlkLTE5LXVudHVrLWFuYWstZGktYmF3YWgtdXNpYS02LXRhaHVu",
+        "description": "Vaksinasi Covid-19 untuk anak di bawah usia 6 tahun sedang disiapkan oleh Kementerian Kesehatan. Menkes sebut vaksin ini berjenis pediatrik."
+    },
+    {
+        "title": "Enesis Gandeng PKK Gencarkan Edukasi DBD di Jabar",
+        "link": "https://nasional.tempo.co/read/1625935/enesis-gandeng-pkk-gencarkan-edukasi-dbd-di-jabar",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjU5MzUvZW5lc2lzLWdhbmRlbmctcGtrLWdlbmNhcmthbi1lZHVrYXNpLWRiZC1kaS1qYWJhcg==",
+        "description": "Tim Enesis mempraktikkan uji ampuh bersama Soffel dengan menunjukan bahwa tangan yang sudah menggunakan Soffell tidak akan digigit oleh nyamuk."
+    },
+    {
         "title": "Menkes Sebut Vaksin Cacar Monyet Tidak Akan Diberikan ke Semua Orang",
         "link": "https://nasional.tempo.co/read/1625927/menkes-sebut-vaksin-cacar-monyet-tidak-akan-diberikan-ke-semua-orang",
         "image": "static/images/tempo_nasional.png",
@@ -26,47 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjU5MTUva2ljay1vZmYtc29zaWFsaXNhc2ktcmt1aHAtZGl3YXJuYWktYWtzaS1wcm90ZXMtYWxpYW5zaS1tYXN5YXJha2F0LWVsaXRpcy1kYW4tZm9ybWFsaXNpdGlr",
         "description": "Aliansi Masyarakat menggelar protes di aca Kick Off Sosialisasi  RKUHP"
-    },
-    {
-        "title": "Halangi Penyidikan Kasus Brigadir J,  Ini Daftar 24 Polisi yang Dimutasi Kapolri",
-        "link": "https://nasional.tempo.co/read/1625899/halangi-penyidikan-kasus-brigadir-jini-daftar-24-polisi-yang-dimutasi-kapolri",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjU4OTkvaGFsYW5naS1wZW55aWRpa2FuLWthc3VzLWJyaWdhZGlyLWppbmktZGFmdGFyLTI0LXBvbGlzaS15YW5nLWRpbXV0YXNpLWthcG9scmk=",
-        "description": "Kapolri melakukan mutasi terhadap 24 polisi yang tersangkut kasus Brigadir J. Kapolres Jakarta Selatan dan Wadirkrimum Polda Metro Jaya ikut digeser."
-    },
-    {
-        "title": "Puan Maharani Bertemu Surya Paloh, Ini Kata Airlangga Hartarto",
-        "link": "https://nasional.tempo.co/read/1625892/puan-maharani-bertemu-surya-paloh-ini-kata-airlangga-hartarto",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjU4OTIvcHVhbi1tYWhhcmFuaS1iZXJ0ZW11LXN1cnlhLXBhbG9oLWluaS1rYXRhLWFpcmxhbmdnYS1oYXJ0YXJ0bw==",
-        "description": "Airlangga Hartarto menyatakan KIB juga akan segera bertemu dengan Puan Maharani."
-    },
-    {
-        "title": "Kasus Brigadir J,  Kapolri Mutasi 24 Anggota yang Terlibat Upaya Penghalangan Penyidikan",
-        "link": "https://nasional.tempo.co/read/1625886/kasus-brigadir-jkapolri-mutasi-24-anggota-yang-terlibat-upaya-penghalangan-penyidikan",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjU4ODYva2FzdXMtYnJpZ2FkaXItamthcG9scmktbXV0YXNpLTI0LWFuZ2dvdGEteWFuZy10ZXJsaWJhdC11cGF5YS1wZW5naGFsYW5nYW4tcGVueWlkaWthbg==",
-        "description": "Kapolri Jenderal Listyo Sigit Prabowo memutasi 24 personel Polri yang diduga terlibat pelanggaran kode etik dalam penyidikan kasus pembunuhan Nofriansyah Yosua Hutabarat alias Brigadir J."
-    },
-    {
-        "title": "Kriteria Mendapat Pendanaan Bergulir dari LPDB-KUMKM",
-        "link": "https://nasional.tempo.co/read/1625890/kriteria-mendapat-pendanaan-bergulir-dari-lpdb-kumkm",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjU4OTAva3JpdGVyaWEtbWVuZGFwYXQtcGVuZGFuYWFuLWJlcmd1bGlyLWRhcmktbHBkYi1rdW1rbQ==",
-        "description": "Persyaratan lengkap terkait pengajuan pinjaman atau pembiayaan dana bergulir dapat diakses di website LPDB-KUMKM."
-    },
-    {
-        "title": "Kapolri Dinilai Layak Dapat Kesempatan Tuntaskan Kasus Ferdy Sambo",
-        "link": "https://nasional.tempo.co/read/1625879/kapolri-dinilai-layak-dapat-kesempatan-tuntaskan-kasus-ferdy-sambo",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjU4Nzkva2Fwb2xyaS1kaW5pbGFpLWxheWFrLWRhcGF0LWtlc2VtcGF0YW4tdHVudGFza2FuLWthc3VzLWZlcmR5LXNhbWJv",
-        "description": "Pengamat kepolisian dan peneliti dari Institute for Security and Strategic Studies (ISeSS) Bambang Rukminto menilai permintaan anggota DPR RI untuk penonaktifan Kapolri Jenderal Listyo Sigit Prabowo belum waktunya."
-    },
-    {
-        "title": "Soal Usul Penonaktifan Kapolri, Peneliti: Beri Kesempatan Tuntaskan Kasus Ferdy Sambo",
-        "link": "https://nasional.tempo.co/read/1625878/soal-usul-penonaktifan-kapolri-peneliti-beri-kesempatan-tuntaskan-kasus-ferdy-sambo",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjU4Nzgvc29hbC11c3VsLXBlbm9uYWt0aWZhbi1rYXBvbHJpLXBlbmVsaXRpLWJlcmkta2VzZW1wYXRhbi10dW50YXNrYW4ta2FzdXMtZmVyZHktc2FtYm8=",
-        "description": "Menurut peneliti kepolisian Bambang Rukminto, Kapolri Jenderal Listyo Sigit Prabowo harus diberi kesempatan menuntaskan kasus pembunuhan Brigadir J."
     }
 ]
