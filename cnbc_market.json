@@ -1,10 +1,45 @@
 [
     {
+        "title": "Bos Sawit Pesta! Harga CPO Nanjak 3 Hari Beruntun",
+        "link": "https://www.cnbcindonesia.com/market/20220823092959-17-365809/bos-sawit-pesta-harga-cpo-nanjak-3-hari-beruntun",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDkyOTU5LTE3LTM2NTgwOS9ib3Mtc2F3aXQtcGVzdGEtaGFyZ2EtY3BvLW5hbmphay0zLWhhcmktYmVydW50dW4=",
+        "description": " Harga minyak sawit mentah (Crude Palm Oil/CPO) naik tipis di sesi awal perdagangan pada Selasa (23/8/2022)"
+    },
+    {
+        "title": "Cek! Perusahaan dengan Gaji Tinggi untuk Lulusan SMA RI",
+        "link": "https://www.cnbcindonesia.com/market/20220823100422-17-365825/cek-perusahaan-dengan-gaji-tinggi-untuk-lulusan-sma-ri",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTAwNDIyLTE3LTM2NTgyNS9jZWstcGVydXNhaGFhbi1kZW5nYW4tZ2FqaS10aW5nZ2ktdW50dWstbHVsdXNhbi1zbWEtcmk=",
+        "description": " Berikut daftar nama perusahaan yang masih membuka lowongan dengan gaji tinggi bagi lulusan SMA:"
+    },
+    {
+        "title": "Inflasi Inti Terjaga, BI Diproyeksi Tahan Suku Bunga di 3,5%",
+        "link": "https://www.cnbcindonesia.com/market/20220823093229-19-365811/inflasi-inti-terjaga-bi-diproyeksi-tahan-suku-bunga-di-35",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDkzMjI5LTE5LTM2NTgxMS9pbmZsYXNpLWludGktdGVyamFnYS1iaS1kaXByb3lla3NpLXRhaGFuLXN1a3UtYnVuZ2EtZGktMzU=",
+        "description": " Inflasi Inti Terjaga, BI Diproyeksi Tahan Suku Bunga di 3,5%"
+    },
+    {
+        "title": "The Fed Kayanya Makin Galak, Bitcoin Cs Masih Lesu",
+        "link": "https://www.cnbcindonesia.com/market/20220823092630-17-365810/the-fed-kayanya-makin-galak-bitcoin-cs-masih-lesu",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDkyNjMwLTE3LTM2NTgxMC90aGUtZmVkLWtheWFueWEtbWFraW4tZ2FsYWstYml0Y29pbi1jcy1tYXNpaC1sZXN1",
+        "description": " Harga mayoritas kripto utama cenderung melemah pada perdagangan Selasa (23/8/2022), karena investor khawatir atas pengetatan kebijakan moneter bank sentral AS"
+    },
+    {
         "title": "Siapa Pemilik PalmCo? Calon Perusahaan Sawit Terbesar Dunia",
         "link": "https://www.cnbcindonesia.com/market/20220823085805-17-365791/siapa-pemilik-palmco-calon-perusahaan-sawit-terbesar-dunia",
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDg1ODA1LTE3LTM2NTc5MS9zaWFwYS1wZW1pbGlrLXBhbG1jby1jYWxvbi1wZXJ1c2FoYWFuLXNhd2l0LXRlcmJlc2FyLWR1bmlh",
         "description": " PalmCo sendiri merupakan sub holding bidang kelapa sawit milik PT Perkebunan Nusantara III (Persero) atau PTPN III."
+    },
+    {
+        "title": "Jelang Rilis Suku Bunga BI, IHSG Dibuka Menghijau",
+        "link": "https://www.cnbcindonesia.com/market/20220823091006-19-365801/jelang-rilis-suku-bunga-bi-ihsg-dibuka-menghijau",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDkxMDA2LTE5LTM2NTgwMS9qZWxhbmctcmlsaXMtc3VrdS1idW5nYS1iaS1paHNnLWRpYnVrYS1tZW5naGlqYXU=",
+        "description": " Jelang Rilis Suku Bunga BI, IHSG Dibuka Volatil"
     },
     {
         "title": "Menanti Keputusan Suku Bunga BI, IHSG Dibuka Menghijau Nih",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDA0NTA2LTE3LTM2NTczMi9rYWxhdS1kaWp1YWwta2UtaW5kdWstZGFuYW1vbi1iYW5rLXBhbmluLXBlcGV0LWJjYS1jcw==",
         "description": " Entitas hasil merger ini digadang-gadang bakal menjadi bank terbesar kelima di Indonesia."
-    },
-    {
-        "title": "Tajir Melintir! Harta Kekayaan Raja Salman Lewati Elon Musk?",
-        "link": "https://www.cnbcindonesia.com/market/20220823082619-17-365782/tajir-melintir-harta-kekayaan-raja-salman-lewati-elon-musk",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDgyNjE5LTE3LTM2NTc4Mi90YWppci1tZWxpbnRpci1oYXJ0YS1rZWtheWFhbi1yYWphLXNhbG1hbi1sZXdhdGktZWxvbi1tdXNr",
-        "description": " Jumlahnya bahkan diperkirakan melampaui kekayaan CEO Tesla dan SpaceX, Elon Musk"
-    },
-    {
-        "title": "Usai IPO Rp 10 T, PalmCo Penuhi Sepertiga Kebutuhan Migor RI",
-        "link": "https://www.cnbcindonesia.com/market/20220823011325-17-365733/usai-ipo-rp-10-t-palmco-penuhi-sepertiga-kebutuhan-migor-ri",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDExMzI1LTE3LTM2NTczMy91c2FpLWlwby1ycC0xMC10LXBhbG1jby1wZW51aGktc2VwZXJ0aWdhLWtlYnV0dWhhbi1taWdvci1yaQ==",
-        "description": " PalmCo merupakan sub-holding PTPN III di bidang perkebunan kelapa sawit."
-    },
-    {
-        "title": "Kabar IPO PalmCo Rp 10 T Hingga Vonis Aakar Jouska",
-        "link": "https://www.cnbcindonesia.com/market/20220823081121-17-365781/kabar-ipo-palmco-rp-10-t-hingga-vonis-aakar-jouska",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDgxMTIxLTE3LTM2NTc4MS9rYWJhci1pcG8tcGFsbWNvLXJwLTEwLXQtaGluZ2dhLXZvbmlzLWFha2FyLWpvdXNrYQ==",
-        "description": " simak kabar emiten sebelum memulai perdagangan Selasa (23/8/2022)."
-    },
-    {
-        "title": "Sambil Tunggu BI, Simak Menu Saham Calon Cuan Hari Ini",
-        "link": "https://www.cnbcindonesia.com/market/20220823080331-17-365777/sambil-tunggu-bi-simak-menu-saham-calon-cuan-hari-ini",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDgwMzMxLTE3LTM2NTc3Ny9zYW1iaWwtdHVuZ2d1LWJpLXNpbWFrLW1lbnUtc2FoYW0tY2Fsb24tY3Vhbi1oYXJpLWluaQ==",
-        "description": " Simak prediksi IHSG beserta rekomendasi saham pilihan dari sejumlah broker untuk perdagangan Selasa (23/8/2022):"
-    },
-    {
-        "title": "Laba Bersih Lompat 480%, Medco Bagikan Dividen US$ 60 Juta",
-        "link": "https://www.cnbcindonesia.com/market/20220823074419-17-365776/laba-bersih-lompat-480-medco-bagikan-dividen-us--60-juta",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDc0NDE5LTE3LTM2NTc3Ni9sYWJhLWJlcnNpaC1sb21wYXQtNDgwLW1lZGNvLWJhZ2lrYW4tZGl2aWRlbi11cy0tNjAtanV0YQ==",
-        "description": " PT Medco Energi Internasional Tbk (MEDC) akan membagikan dividen total US$ 60 juta."
     }
 ]
