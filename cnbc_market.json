@@ -1,5 +1,19 @@
 [
     {
+        "title": "Menanti Keputusan Suku Bunga BI, IHSG Dibuka Menghijau Nih",
+        "link": "https://www.cnbcindonesia.com/market/20220823085650-17-365800/menanti-keputusan-suku-bunga-bi-ihsg-dibuka-menghijau-nih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDg1NjUwLTE3LTM2NTgwMC9tZW5hbnRpLWtlcHV0dXNhbi1zdWt1LWJ1bmdhLWJpLWloc2ctZGlidWthLW1lbmdoaWphdS1uaWg=",
+        "description": " IHSG dibuka menghijau"
+    },
+    {
+        "title": "'Huru-hara' di Bursa Amerika Bikin Rupiah Tak Berdaya",
+        "link": "https://www.cnbcindonesia.com/market/20220823090527-17-365799/huru-hara-di-bursa-amerika-bikin-rupiah-tak-berdaya",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDkwNTI3LTE3LTM2NTc5OS9odXJ1LWhhcmEtZGktYnVyc2EtYW1lcmlrYS1iaWtpbi1ydXBpYWgtdGFrLWJlcmRheWE=",
+        "description": " Rupiah belum mampu bangkit melawan dolar Amerika Serikat (AS) pada perdagangan Selasa (23/8/2022)"
+    },
+    {
         "title": "Alert IHSG! Wall Street Ambruk, Bursa Asia Dibuka Kebakaran",
         "link": "https://www.cnbcindonesia.com/market/20220823083430-17-365784/alert-ihsg-wall-street-ambruk-bursa-asia-dibuka-kebakaran",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDY0MTI4LTE3LTM2NTc1Ny9kb2xhci1uZ2FtdWstaGFyZ2EtZW1hcy1oYXJpLWluaS1tYWtpbi10ZXJwdXJ1aw==",
         "description": " Harga emas melemah 0,05%."
-    },
-    {
-        "title": "Sandiaga Klaim Rusia Untung US$ 5 Miliar/Hari, Cek Faktanya!",
-        "link": "https://www.cnbcindonesia.com/market/20220822142033-17-365612/sandiaga-klaim-rusia-untung-us--5-miliar-hari-cek-faktanya",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIyMTQyMDMzLTE3LTM2NTYxMi9zYW5kaWFnYS1rbGFpbS1ydXNpYS11bnR1bmctdXMtLTUtbWlsaWFyLWhhcmktY2VrLWZha3Rhbnlh",
-        "description": " Sandiaga juga menyebut biaya perang Rusia hanya sekitar US$ 1 miliar."
-    },
-    {
-        "title": "Intip Kinerja Saham Emiten Pasca Stock Split, Mantul Gak?",
-        "link": "https://www.cnbcindonesia.com/market/20220823013145-17-365735/intip-kinerja-saham-emiten-pasca-stock-split-mantul-gak",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDEzMTQ1LTE3LTM2NTczNS9pbnRpcC1raW5lcmphLXNhaGFtLWVtaXRlbi1wYXNjYS1zdG9jay1zcGxpdC1tYW50dWwtZ2Fr",
-        "description": " Ini kinerja saham-saham setelah stock split"
     }
 ]
