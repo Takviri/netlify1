@@ -1,5 +1,47 @@
 [
     {
+        "title": "Bencana Baru di China Bakal Bikin RI Ketiban 'Durian Runtuh'",
+        "link": "https://www.cnbcindonesia.com/news/20220823115711-4-365866/bencana-baru-di-china-bakal-bikin-ri-ketiban-durian-runtuh",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzExNTcxMS00LTM2NTg2Ni9iZW5jYW5hLWJhcnUtZGktY2hpbmEtYmFrYWwtYmlraW4tcmkta2V0aWJhbi1kdXJpYW4tcnVudHVo",
+        "description": " Gelombang panas yang memicu kekeringan telah membuat air surut di beberapa sungai besar di China."
+    },
+    {
+        "title": "Info Terbaru: Berikut Kisaran Harga Kenaikan BBM Pertalite",
+        "link": "https://www.cnbcindonesia.com/news/20220823124453-4-365885/info-terbaru-berikut-kisaran-harga-kenaikan-bbm-pertalite",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEyNDQ1My00LTM2NTg4NS9pbmZvLXRlcmJhcnUtYmVyaWt1dC1raXNhcmFuLWhhcmdhLWtlbmFpa2FuLWJibS1wZXJ0YWxpdGU=",
+        "description": " Range kenaikan harga BBM Pertalite berada dikisaran Rp 1.000 - Rp 2.500 per liternya"
+    },
+    {
+        "title": "Ada Flu Tomat di India, Indonesia Harus Waspada?",
+        "link": "https://www.cnbcindonesia.com/news/20220823111049-8-365848/ada-flu-tomat-di-india-indonesia-harus-waspada",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzExMTA0OS04LTM2NTg0OC9hZGEtZmx1LXRvbWF0LWRpLWluZGlhLWluZG9uZXNpYS1oYXJ1cy13YXNwYWRh",
+        "description": " Ada Flu Tomat di India, Indonesia Harus Waspada?"
+    },
+    {
+        "title": "Di Depan Sri Mulyani, DPR Ungkit Gaji PNS 3 Tahun Tak Naik!",
+        "link": "https://www.cnbcindonesia.com/news/20220823123231-4-365884/di-depan-sri-mulyani-dpr-ungkit-gaji-pns-3-tahun-tak-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEyMzIzMS00LTM2NTg4NC9kaS1kZXBhbi1zcmktbXVseWFuaS1kcHItdW5na2l0LWdhamktcG5zLTMtdGFodW4tdGFrLW5haWs=",
+        "description": " Masing-masing fraksi memberikan pandangan atas rancangan APBN 2023."
+    },
+    {
+        "title": "JKT-Bandung Via Tol Ini Kurang 1 Jam, Ini Lokasi Pintu Tolnya",
+        "link": "https://www.cnbcindonesia.com/news/20220823113856-4-365859/jkt-bandung-via-tol-ini-kurang-1-jam-ini-lokasi-pintu-tolnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzExMzg1Ni00LTM2NTg1OS9qa3QtYmFuZHVuZy12aWEtdG9sLWluaS1rdXJhbmctMS1qYW0taW5pLWxva2FzaS1waW50dS10b2xueWE=",
+        "description": " Jalan Tol Japek II Selatan masih terus dikerjakan hingga kini."
+    },
+    {
+        "title": "Rupiah dan Inflasi Terkendali, BI7DRR Diprediksi Tetap 3,5%",
+        "link": "https://www.cnbcindonesia.com/news/20220823112654-8-365851/rupiah-inflasi-terkendali-bi7drr-diprediksi-tetap-35",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzExMjY1NC04LTM2NTg1MS9ydXBpYWgtaW5mbGFzaS10ZXJrZW5kYWxpLWJpN2Ryci1kaXByZWRpa3NpLXRldGFwLTM1",
+        "description": " Ekonom: Rupiah dan Inflasi Terkendali, BI7DRR Diproyeksi Tetap 3,5%"
+    },
+    {
         "title": "TMII Bakal Punya 'Wajah' Baru, Jokowi Minta Tiket Tak Mahal",
         "link": "https://www.cnbcindonesia.com/news/20220823115728-4-365863/tmii-bakal-punya-wajah-baru-jokowi-minta-tiket-tak-mahal",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzExNDkxOC00LTM2NTg2MS9iaS1yYW1hbC1hZ3VzdHVzLWRlZmxhc2ktcmVhbGx5",
         "description": " BI memperkirakan Agustus akan deflasi 0,14% mtm."
-    },
-    {
-        "title": "Cacar Monyet Sudah Masuk RI, Jokowi: Jangan Terlalu Panik",
-        "link": "https://www.cnbcindonesia.com/news/20220823113341-4-365856/cacar-monyet-sudah-masuk-ri-jokowi-jangan-terlalu-panik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzExMzM0MS00LTM2NTg1Ni9jYWNhci1tb255ZXQtc3VkYWgtbWFzdWstcmktam9rb3dpLWphbmdhbi10ZXJsYWx1LXBhbmlr",
-        "description": " Simak penjelasan Jokowi di Taman Mini Indonesia Indah, Jakarta."
-    },
-    {
-        "title": "China Borong Energi Rusia USD 35 Miliar",
-        "link": "https://www.cnbcindonesia.com/news/20220823090109-8-365794/china-borong-energi-rusia-usd-35-miliar",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzA5MDEwOS04LTM2NTc5NC9jaGluYS1ib3JvbmctZW5lcmdpLXJ1c2lhLXVzZC0zNS1taWxpYXI=",
-        "description": " Hubungan ekonomi China dan Rusia semakin erat"
-    },
-    {
-        "title": "Sinyal-sinyal Kenaikan Harga BBM Pertalite Makin Santer",
-        "link": "https://www.cnbcindonesia.com/news/20220823115600-4-365864/sinyal-sinyal-kenaikan-harga-bbm-pertalite-makin-santer",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzExNTYwMC00LTM2NTg2NC9zaW55YWwtc2lueWFsLWtlbmFpa2FuLWhhcmdhLWJibS1wZXJ0YWxpdGUtbWFraW4tc2FudGVy",
-        "description": " Presiden RI Joko Widodo (Jokowi) sedang mengkalkulasi kenaikan harga BBM"
-    },
-    {
-        "title": "Jokowi Sudah Bulat, Ekspor Bauksit Sampai Timah Bakal Disetop",
-        "link": "https://www.cnbcindonesia.com/news/20220823113017-4-365855/jokowi-sudah-bulat-ekspor-bauksit-sampai-timah-bakal-disetop",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzExMzAxNy00LTM2NTg1NS9qb2tvd2ktc3VkYWgtYnVsYXQtZWtzcG9yLWJhdWtzaXQtc2FtcGFpLXRpbWFoLWJha2FsLWRpc2V0b3A=",
-        "description": " Presiden RI Jokowi menagaskan akan melanjutkan penyetopan ekspor bauksit, tembaga dan juga timah"
-    },
-    {
-        "title": "Membelot dari Rusia, Tentara Putin Beri Kesaksian Mengejutkan",
-        "link": "https://www.cnbcindonesia.com/news/20220823112943-4-365852/membelot-dari-rusia-tentara-putin-beri-kesaksian-mengejutkan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzExMjk0My00LTM2NTg1Mi9tZW1iZWxvdC1kYXJpLXJ1c2lhLXRlbnRhcmEtcHV0aW4tYmVyaS1rZXNha3NpYW4tbWVuZ2VqdXRrYW4=",
-        "description": " Seorang tentara Rusia yang membelot dan meninggalkan negara tersebut memberikan kesaksian terkait perang yang dikobarkan Presiden Vladimir Putin di Ukraina."
-    },
-    {
-        "title": "Beranikah Jokowi Cabut Subsidi BBM? Simak Jawabannya..",
-        "link": "https://www.cnbcindonesia.com/news/20220823105421-4-365843/beranikah-jokowi-cabut-subsidi-bbm-simak-jawabannya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEwNTQyMS00LTM2NTg0My9iZXJhbmlrYWgtam9rb3dpLWNhYnV0LXN1YnNpZGktYmJtLXNpbWFrLWphd2FiYW5ueWE=",
-        "description": " Presiden Jokowi buka-bukaan mengenai rencana pemberian subsidi BBM tepat sasaran"
     }
 ]
