@@ -1,5 +1,12 @@
 [
     {
+        "title": "Siapa Pemilik PalmCo? Calon Perusahaan Sawit Terbesar Dunia",
+        "link": "https://www.cnbcindonesia.com/market/20220823085805-17-365791/siapa-pemilik-palmco-calon-perusahaan-sawit-terbesar-dunia",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDg1ODA1LTE3LTM2NTc5MS9zaWFwYS1wZW1pbGlrLXBhbG1jby1jYWxvbi1wZXJ1c2FoYWFuLXNhd2l0LXRlcmJlc2FyLWR1bmlh",
+        "description": " PalmCo sendiri merupakan sub holding bidang kelapa sawit milik PT Perkebunan Nusantara III (Persero) atau PTPN III."
+    },
+    {
         "title": "Menanti Keputusan Suku Bunga BI, IHSG Dibuka Menghijau Nih",
         "link": "https://www.cnbcindonesia.com/market/20220823085650-17-365800/menanti-keputusan-suku-bunga-bi-ihsg-dibuka-menghijau-nih",
         "image": "static/images/cnbc_market.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDc0NDE5LTE3LTM2NTc3Ni9sYWJhLWJlcnNpaC1sb21wYXQtNDgwLW1lZGNvLWJhZ2lrYW4tZGl2aWRlbi11cy0tNjAtanV0YQ==",
         "description": " PT Medco Energi Internasional Tbk (MEDC) akan membagikan dividen total US$ 60 juta."
-    },
-    {
-        "title": "Dolar Ngamuk, Harga Emas Hari Ini Makin Terpuruk",
-        "link": "https://www.cnbcindonesia.com/market/20220823064128-17-365757/dolar-ngamuk-harga-emas-hari-ini-makin-terpuruk",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMDY0MTI4LTE3LTM2NTc1Ny9kb2xhci1uZ2FtdWstaGFyZ2EtZW1hcy1oYXJpLWluaS1tYWtpbi10ZXJwdXJ1aw==",
-        "description": " Harga emas melemah 0,05%."
     }
 ]
