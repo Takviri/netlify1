@@ -1,5 +1,40 @@
 [
     {
+        "title": "Transisi Energi di Bisnis Migas Pertamina",
+        "link": "https://www.cnbcindonesia.com/news/20220823094501-8-365816/transisi-energi-di-bisnis-migas-pertamina",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzA5NDUwMS04LTM2NTgxNi90cmFuc2lzaS1lbmVyZ2ktZGktYmlzbmlzLW1pZ2FzLXBlcnRhbWluYQ==",
+        "description": " PT Pertamina Persero berkomitmen mengurangi emisi karbon dari hulu hingga SPBU"
+    },
+    {
+        "title": "Benarkah Putin Kehabisan Akal di Ukraina? Ini Penjelasannya",
+        "link": "https://www.cnbcindonesia.com/news/20220823102114-4-365830/benarkah-putin-kehabisan-akal-di-ukraina-ini-penjelasannya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEwMjExNC00LTM2NTgzMC9iZW5hcmthaC1wdXRpbi1rZWhhYmlzYW4tYWthbC1kaS11a3JhaW5hLWluaS1wZW5qZWxhc2Fubnlh",
+        "description": " Kondisi pasukan Rusia di Ukraina disebut makin terjepit."
+    },
+    {
+        "title": "Jokowi Tak Gentar! Ada Peluang RI dari Krisis Mengerikan",
+        "link": "https://www.cnbcindonesia.com/news/20220823101236-4-365829/jokowi-tak-gentar-ada-peluang-ri-dari-krisis-mengerikan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEwMTIzNi00LTM2NTgyOS9qb2tvd2ktdGFrLWdlbnRhci1hZGEtcGVsdWFuZy1yaS1kYXJpLWtyaXNpcy1tZW5nZXJpa2Fu",
+        "description": " Presiden Joko Widodo (Jokowi) mengatakan, krisis yang terjadi saat ini bisa saja menjadi peluang yang bisa dimanfaatkan Indonesia."
+    },
+    {
+        "title": "Ikut Jejak Pelosi, Gubernur Indiana Sambangi Taiwan",
+        "link": "https://www.cnbcindonesia.com/news/20220823090247-8-365798/ikut-jejak-pelosi-gubernur-indiana-sambangi-taiwan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzA5MDI0Ny04LTM2NTc5OC9pa3V0LWplamFrLXBlbG9zaS1ndWJlcm51ci1pbmRpYW5hLXNhbWJhbmdpLXRhaXdhbg==",
+        "description": " Eric Holcomb yang merupakan Gubernur Indiana Amerika Serikat mengunjungi Taiwan pada Minggu 21 Agustus 2022"
+    },
+    {
+        "title": "Jokowi Jengkel PNBP Sawit Dipakai Beli Barang Impor: Bodoh!",
+        "link": "https://www.cnbcindonesia.com/news/20220823100844-4-365826/jokowi-jengkel-pnbp-sawit-dipakai-beli-barang-impor-bodoh",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEwMDg0NC00LTM2NTgyNi9qb2tvd2ktamVuZ2tlbC1wbmJwLXNhd2l0LWRpcGFrYWktYmVsaS1iYXJhbmctaW1wb3ItYm9kb2g=",
+        "description": " Jokowi mengaku miris karena masih mengetahui penerimaan yang berasal dari PNBP batu bara dan minyak sawit digunakan untuk membeli barang impor"
+    },
+    {
         "title": "Roket Rusia Gempur Ukraina Jelang Perayaan Kemerdekaan",
         "link": "https://www.cnbcindonesia.com/news/20220823085756-8-365790/roket-rusia-gempur-ukraina-jelang-perayaan-kemerdekaan",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzA5NTY1Ny00LTM2NTgyMS9wcm95ZWstcnVhcy1qdHRzLWRpLWFjZWgtc3VtdXQtZGlrZWJ1dC1iZWdpbmktcHJvZ3Jlc255YQ==",
         "description": " PT Hutama Karya (Persero)mempercepat pembangunan Jalan Tol Trans Sumatera (JTTS) Tahap I,"
-    },
-    {
-        "title": "Ukraina Siaga 1, Rusia Bakal Gempur Kyiv di Hari Kemerdekaan",
-        "link": "https://www.cnbcindonesia.com/news/20220823095224-4-365820/ukraina-siaga-1-rusia-bakal-gempur-kyiv-di-hari-kemerdekaan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzA5NTIyNC00LTM2NTgyMC91a3JhaW5hLXNpYWdhLTEtcnVzaWEtYmFrYWwtZ2VtcHVyLWt5aXYtZGktaGFyaS1rZW1lcmRla2Fhbg==",
-        "description": " Otoritas kota Kyiv \"siaga 1\" dan memberi peringatan ke warga.\u00c2\u00a0Ini seiring kekhawatiran serangan besar-besaran Rusia di Hari Kemerdekaan Ukraina, 24 Agustus."
-    },
-    {
-        "title": "3 Harga BBM Pertamina Resmi Naik, Cek Harga Terbaru di SPBU",
-        "link": "https://www.cnbcindonesia.com/news/20220823083348-4-365783/3-harga-bbm-pertamina-resmi-naik-cek-harga-terbaru-di-spbu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzA4MzM0OC00LTM2NTc4My8zLWhhcmdhLWJibS1wZXJ0YW1pbmEtcmVzbWktbmFpay1jZWstaGFyZ2EtdGVyYmFydS1kaS1zcGJ1",
-        "description": " Pertamina sudah menaikkan harga 3 jenis BBM Non Subisdinya per 3 Agustus 2022"
-    },
-    {
-        "title": "Jokowi Happy Nih! Pengusaha Siap 'Keroyokan' Bangun IKN",
-        "link": "https://www.cnbcindonesia.com/news/20220823094037-4-365815/jokowi-happy-nih-pengusaha-siap-keroyokan-bangun-ikn",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzA5NDAzNy00LTM2NTgxNS9qb2tvd2ktaGFwcHktbmloLXBlbmd1c2FoYS1zaWFwLWtlcm95b2thbi1iYW5ndW4taWtu",
-        "description": " Kalangan pengusaha mengaku siap bergotong royong dalam pembangunan Ibu Kota Negara"
-    },
-    {
-        "title": "Anies Cs 'Dibebaskan' Utak Atik Anggaran Demi Sembako Murah",
-        "link": "https://www.cnbcindonesia.com/news/20220823083957-4-365789/anies-cs-dibebaskan-utak-atik-anggaran-demi-sembako-murah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzA4Mzk1Ny00LTM2NTc4OS9hbmllcy1jcy1kaWJlYmFza2FuLXV0YWstYXRpay1hbmdnYXJhbi1kZW1pLXNlbWJha28tbXVyYWg=",
-        "description": " Para kepala diizinkan untuk menggunakan dana darurat dalam APBD untuk meredam inflasi"
-    },
-    {
-        "title": "Di Depan Jokowi Pengusaha Ketakutan, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220823093801-4-365814/di-depan-jokowi-pengusaha-ketakutan-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzA5MzgwMS00LTM2NTgxNC9kaS1kZXBhbi1qb2tvd2ktcGVuZ3VzYWhhLWtldGFrdXRhbi1hZGEtYXBh",
-        "description": " Di hadapan\u00c2\u00a0Jokowi, Ketua Umum\u00c2\u00a0KADIN Indonesia Arsjad Rasjid menjabarkan berbagai tantangan yang sedang dan akan dihadapi Indonesia."
     }
 ]
