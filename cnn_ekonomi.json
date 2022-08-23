@@ -1,5 +1,12 @@
 [
     {
+        "title": "Ford PHK 3.000 Karyawan",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220823080846-92-837866/ford-phk-3000-karyawan",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODIzMDgwODQ2LTkyLTgzNzg2Ni9mb3JkLXBoay0zMDAwLWthcnlhd2Fu",
+        "description": " Produsen mobil asal Amerika Serikat Ford Motor Co. melakukan Pemutusan Hubungan Kerja (PHK) terhadap 3.000 karyawannya."
+    },
+    {
         "title": "Gratis Jajanan dari Kedai Dimsum 168 buat Pengguna Baru Allo Bank",
         "link": "https://www.cnnindonesia.com/ekonomi/20220822175035-97-837689/gratis-jajanan-dari-kedai-dimsum-168-buat-pengguna-baru-allo-bank",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODIzMDU1NjUyLTkyLTgzNzgwOC9qZWxhbmctcmlsaXMtc3VrdS1idW5nYS1iaS1paHNnLWRpcHJlZGlrc2ktbHVuZ2xhaQ==",
         "description": " IHSG diprediksi melemah pada perdagangan hari ini, Selasa (23/8), jelang pembacaan hasil rapat dewan gubernur Bank Indonesia (BI)."
-    },
-    {
-        "title": "Rusia Setop Sementara Pasokan Gas ke Eropa Akhir Bulan Ini",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220822162023-85-837619/rusia-setop-sementara-pasokan-gas-ke-eropa-akhir-bulan-ini",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODIyMTYyMDIzLTg1LTgzNzYxOS9ydXNpYS1zZXRvcC1zZW1lbnRhcmEtcGFzb2thbi1nYXMta2UtZXJvcGEtYWtoaXItYnVsYW4taW5p",
-        "description": " Rusia akan menghentikan pasokan gas ke Eropa selama tiga hari pada akhir Agustus melalui pipa utamanya ke wilayah tersebut."
     }
 ]
