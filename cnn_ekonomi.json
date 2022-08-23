@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pengusaha Tolak Wacana Pengaturan Jam Kerja di Jakarta",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220823203809-92-838272/pengusaha-tolak-wacana-pengaturan-jam-kerja-di-jakarta",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODIzMjAzODA5LTkyLTgzODI3Mi9wZW5ndXNhaGEtdG9sYWstd2FjYW5hLXBlbmdhdHVyYW4tamFtLWtlcmphLWRpLWpha2FydGE=",
+        "description": " Asosiasi Pengusaha Indonesia (Apindo) mengaku keberatan dengan wacana pengaturan jam kerja di DKI Jakarta karena aturan hanya membatasi waktu maksimum kerja."
+    },
+    {
+        "title": "Inflasi Singapura Tembus 7 Persen Gara-gara Pangan, Listrik dan Gas",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220823132117-532-838004/inflasi-singapura-tembus-7-persen-gara-gara-pangan-listrik-dan-gas",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODIzMTMyMTE3LTUzMi04MzgwMDQvaW5mbGFzaS1zaW5nYXB1cmEtdGVtYnVzLTctcGVyc2VuLWdhcmEtZ2FyYS1wYW5nYW4tbGlzdHJpay1kYW4tZ2Fz",
+        "description": " Inflasi Singapura tembus 7 persen (yoy) pada Juli dengan inflasi inti sebesar 4,8 persen karena kenaikan harga pangan, listrik dan gas."
+    },
+    {
         "title": "Khawatir Eropa Resesi, Euro Jatuh di Bawah Dolar AS",
         "link": "https://www.cnnindonesia.com/ekonomi/20220823125714-78-837992/khawatir-eropa-resesi-euro-jatuh-di-bawah-dolar-as",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODIzMTcyOTUxLTkyLTgzODE4MS9wZWRhZ2FuZy1wYXNhci1zZWJ1dC1sb25qYWthbi1oYXJnYS10ZWx1ci10ZXJ0aW5nZ2ktZGFsYW0tNS10YWh1bg==",
         "description": " Pedagang pasar\u00c2\u00a0meminta Mendag Zulkifli Hasan mengatasi lonjakan harga telur yang tembus di atas Rp30 ribu per kilogram, tertinggi sejak 5 tahun terakhir."
-    },
-    {
-        "title": "DPR Kritik Omongan Luhut soal Harga Pertalite Naik Bikin Rusuh",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220823173714-85-838187/dpr-kritik-omongan-luhut-soal-harga-pertalite-naik-bikin-rusuh",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODIzMTczNzE0LTg1LTgzODE4Ny9kcHIta3JpdGlrLW9tb25nYW4tbHVodXQtc29hbC1oYXJnYS1wZXJ0YWxpdGUtbmFpay1iaWtpbi1ydXN1aA==",
-        "description": " DPR\u00c2\u00a0mengkritik pernyataan Menko Kemaritiman dan Investasi Luhut Panjaitan\u00c2\u00a0soal\u00c2\u00a0harga pertalite naik pekan ini\u00c2\u00a0membuat kerusuhan di SPBU."
-    },
-    {
-        "title": "Sri Mulyani Blak-blakan soal Rencana Harga Pertalite Naik",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220823172140-532-838176/sri-mulyani-blak-blakan-soal-rencana-harga-pertalite-naik",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODIzMTcyMTQwLTUzMi04MzgxNzYvc3JpLW11bHlhbmktYmxhay1ibGFrYW4tc29hbC1yZW5jYW5hLWhhcmdhLXBlcnRhbGl0ZS1uYWlr",
-        "description": " Menteri Keuangan Sri Mulyani buka-bukaan soal rencana kenaikan harga bahan bakar minyak (BBM) subsidi yaitu pertalite dan solar."
     }
 ]

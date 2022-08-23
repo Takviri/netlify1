@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pasar Tunggu Pidato Powell, Wall Street Dibuka Mixed!",
+        "link": "https://www.cnbcindonesia.com/market/20220823203018-17-366060/pasar-tunggu-pidato-powell-wall-street-dibuka-mixed",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMjAzMDE4LTE3LTM2NjA2MC9wYXNhci10dW5nZ3UtcGlkYXRvLXBvd2VsbC13YWxsLXN0cmVldC1kaWJ1a2EtbWl4ZWQ=",
+        "description": " Bursa saham Amerika Serikat (AS) bergerak beragam pada pembukaan perdagangan Selasa (23/8/2022)"
+    },
+    {
+        "title": "Pajak Kamu Mau Dibebaskan Sri Mulyani? Ini Syaratnya",
+        "link": "https://www.cnbcindonesia.com/market/20220823183035-17-366049/pajak-kamu-mau-dibebaskan-sri-mulyani-ini-syaratnya",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTgzMDM1LTE3LTM2NjA0OS9wYWphay1rYW11LW1hdS1kaWJlYmFza2FuLXNyaS1tdWx5YW5pLWluaS1zeWFyYXRueWE=",
+        "description": " Pembebasan\u00c2\u00a0PPh final ini diberikan kepada UMKM dengan omzet sampai dengan Rp500 juta per tahun."
+    },
+    {
         "title": "BI Naikkan Suku Bunga, Harga SBN Kembali Melemah",
         "link": "https://www.cnbcindonesia.com/market/20220823181415-17-366041/bi-naikkan-suku-bunga-harga-sbn-kembali-melemah",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTUzMjQyLTE3LTM2NTk4NS9zZXRlbGFoLTYtaGFyaS1hbmpsb2stcGVyYWstYmFuZ2tpdC1qdWdhLWF3YXMtcGhw",
         "description": " Harga perak dunia memantul dari harga terendah"
-    },
-    {
-        "title": "Rusia Bikin Ulah, Bursa Eropa Dibuka Beragam",
-        "link": "https://www.cnbcindonesia.com/market/20220823163325-17-366013/rusia-bikin-ulah-bursa-eropa-dibuka-beragam",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTYzMzI1LTE3LTM2NjAxMy9ydXNpYS1iaWtpbi11bGFoLWJ1cnNhLWVyb3BhLWRpYnVrYS1iZXJhZ2Ft",
-        "description": " Bursa saham Eropa di sesi awal bergerak beragam pada perdagangan Selasa (23/8/2022)"
-    },
-    {
-        "title": "Jurus Bank Hadapi Kenaikan Suku Bunga Acuan",
-        "link": "https://www.cnbcindonesia.com/market/20220823135952-19-365926/jurus-bank-hadapi-kenaikan-suku-bunga-acuan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTM1OTUyLTE5LTM2NTkyNi9qdXJ1cy1iYW5rLWhhZGFwaS1rZW5haWthbi1zdWt1LWJ1bmdhLWFjdWFu",
-        "description": " Belum Hawkish, Bank Proyeksi BI7DRR Naik di Oktober"
     }
 ]

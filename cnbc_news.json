@@ -1,5 +1,26 @@
 [
     {
+        "title": "Bank di Indonesia Masih Untung Besar",
+        "link": "https://www.cnbcindonesia.com/news/20220823183847-4-366052/bank-di-indonesia-masih-untung-besar",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE4Mzg0Ny00LTM2NjA1Mi9iYW5rLWRpLWluZG9uZXNpYS1tYXNpaC11bnR1bmctYmVzYXI=",
+        "description": " Bank Indonesia (BI) mengungkapkan net interest margin (NIM) alias pendapatan bunga perbankan di Indonesia saat ini masih tinggi."
+    },
+    {
+        "title": "Perang Mobil Listrik Ri Dimulai",
+        "link": "https://www.cnbcindonesia.com/news/20220823185436-8-366055/perang-mobil-listrik-ri-dimulai",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE4NTQzNi04LTM2NjA1NS9wZXJhbmctbW9iaWwtbGlzdHJpay1yaS1kaW11bGFp",
+        "description": " pemerintah RI melakukan transisi menuju netralitas karbon. Berbagai upaya mulai dilakukan, salah satunya dengan kendaraan listrik."
+    },
+    {
+        "title": "Kanselir Jerman Sempat \"Janjikan\" Ini ke Putin, Bakal PHP?",
+        "link": "https://www.cnbcindonesia.com/news/20220823164043-4-366016/kanselir-jerman-sempat-janjikan-ini-ke-putin-bakal-php",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE2NDA0My00LTM2NjAxNi9rYW5zZWxpci1qZXJtYW4tc2VtcGF0LWphbmppa2FuLWluaS1rZS1wdXRpbi1iYWthbC1waHA=",
+        "description": " Kanselir Jerman Olaf Scholz dilaporkan telah memberikan pesan kepada Presiden Rusia Vladimir Putin sebelum Moskow menyerang Ukraina."
+    },
+    {
         "title": "Mega Skandal 1 MDB, Mahkamah Tolak Banding Najib Razak",
         "link": "https://www.cnbcindonesia.com/news/20220823180559-8-366039/mega-skandal-1-mdb-mahkamah-tolak-banding-najib-razak",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE3MDAxMS04LTM2NjAyMi9qb2tvd2ktbWlyaXMtbGlhdC1hcGJuLWFwYmQtZGlwYWthaS1iZWxhbmphLWltcG9y",
         "description": " Presiden Joko Widodo miris melihat APBN yang dikumpulkan Pemerintah dari PNBP ekspor batu bara dan minyak sawit justru dipakai untuk membeli barang impor."
-    },
-    {
-        "title": "Pasokan Berlimpah, Transisi Energi Bisa Andalkan Peran Gas",
-        "link": "https://www.cnbcindonesia.com/news/20220823175113-4-366035/pasokan-berlimpah-transisi-energi-bisa-andalkan-peran-gas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE3NTExMy00LTM2NjAzNS9wYXNva2FuLWJlcmxpbXBhaC10cmFuc2lzaS1lbmVyZ2ktYmlzYS1hbmRhbGthbi1wZXJhbi1nYXM=",
-        "description": " Peran gas bisa diandalkan dalam transisi energi sebagai energi fosil yang lebih bersih"
-    },
-    {
-        "title": "Transferan Jokowi Rp800 T Habis 'Dimakan' PNS Daerah",
-        "link": "https://www.cnbcindonesia.com/news/20220823170058-16-366023/transferan-jokowi-rp800-t-habis-dimakan-pns-daerah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE3MDA1OC0xNi0zNjYwMjMvdHJhbnNmZXJhbi1qb2tvd2ktcnA4MDAtdC1oYWJpcy1kaW1ha2FuLXBucy1kYWVyYWg=",
-        "description": " Dana transfer ke daerah dan dana desa (TKDD) sebagian besar hanya digunakan untuk membayar gaji pegawai negeri sipil (PNS) daerah."
-    },
-    {
-        "title": "Wow! Motor Listrik Serbu RI",
-        "link": "https://www.cnbcindonesia.com/news/20220823183725-8-366050/wow-motor-listrik-serbu-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE4MzcyNS04LTM2NjA1MC93b3ctbW90b3ItbGlzdHJpay1zZXJidS1yaQ==",
-        "description": " Motor listrik baru mulai menyerbu industri otomotif Indonesia tapi yang merilis kendaraan-kendaraan itu kebanyakan perusahaan start-up."
     }
 ]
