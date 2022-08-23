@@ -1,5 +1,47 @@
 [
     {
+        "title": "Setelah 6 Hari Anjlok Perak Bangkit Juga, Awas PHP!",
+        "link": "https://www.cnbcindonesia.com/market/20220823153242-17-365985/setelah-6-hari-anjlok-perak-bangkit-juga-awas-php",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTUzMjQyLTE3LTM2NTk4NS9zZXRlbGFoLTYtaGFyaS1hbmpsb2stcGVyYWstYmFuZ2tpdC1qdWdhLWF3YXMtcGhw",
+        "description": " Harga perak dunia memantul dari harga terendah"
+    },
+    {
+        "title": "Rusia Bikin Ulah, Bursa Eropa Dibuka Beragam",
+        "link": "https://www.cnbcindonesia.com/market/20220823163325-17-366013/rusia-bikin-ulah-bursa-eropa-dibuka-beragam",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTYzMzI1LTE3LTM2NjAxMy9ydXNpYS1iaWtpbi11bGFoLWJ1cnNhLWVyb3BhLWRpYnVrYS1iZXJhZ2Ft",
+        "description": " Bursa saham Eropa di sesi awal bergerak beragam pada perdagangan Selasa (23/8/2022)"
+    },
+    {
+        "title": "Jurus Bank Hadapi Kenaikan Suku Bunga Acuan",
+        "link": "https://www.cnbcindonesia.com/market/20220823135952-19-365926/jurus-bank-hadapi-kenaikan-suku-bunga-acuan",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTM1OTUyLTE5LTM2NTkyNi9qdXJ1cy1iYW5rLWhhZGFwaS1rZW5haWthbi1zdWt1LWJ1bmdhLWFjdWFu",
+        "description": " Belum Hawkish, Bank Proyeksi BI7DRR Naik di Oktober"
+    },
+    {
+        "title": "China Kurangi Pembelian, Harga Timah Global Turun",
+        "link": "https://www.cnbcindonesia.com/market/20220823163131-17-366011/china-kurangi-pembelian-harga-timah-global-turun",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTYzMTMxLTE3LTM2NjAxMS9jaGluYS1rdXJhbmdpLXBlbWJlbGlhbi1oYXJnYS10aW1haC1nbG9iYWwtdHVydW4=",
+        "description": " Permintaan timah dari konsumen utama China merosot."
+    },
+    {
+        "title": "Bursa Asia Keok, IHSG Perkasa Hadapi Kejutan BI Rate",
+        "link": "https://www.cnbcindonesia.com/market/20220823163159-17-366012/bursa-asia-keok-ihsg-perkasa-hadapi-kejutan-bi-rate",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTYzMTU5LTE3LTM2NjAxMi9idXJzYS1hc2lhLWtlb2staWhzZy1wZXJrYXNhLWhhZGFwaS1rZWp1dGFuLWJpLXJhdGU=",
+        "description": " Mayoritas bursa Asia-Pasifik berjatuhan, di tengah meningkatnya kekhawatiran investor terhadap prospek kenaikan suku bunga bank sentral AS."
+    },
+    {
+        "title": "Ekonomi Jepang Lesu, Karet Kena Getahnya",
+        "link": "https://www.cnbcindonesia.com/market/20220823160944-17-365996/ekonomi-jepang-lesu-karet-kena-getahnya",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTYwOTQ0LTE3LTM2NTk5Ni9la29ub21pLWplcGFuZy1sZXN1LWthcmV0LWtlbmEtZ2V0YWhueWE=",
+        "description": " Harga karet dunia melemah setelah rilis data\u00c2\u00a0ekonomi yang mengecewakan pasar."
+    },
+    {
         "title": "Royalti Batu Bara Naik Hingga 13,5%, IMA: Ada Ketidakadilan!",
         "link": "https://www.cnbcindonesia.com/market/20220823160055-19-365994/royalti-batu-bara-naik-hingga-135-ima-ada-ketidakadilan",
         "image": "static/images/cnbc_market.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTUzODI1LTE5LTM2NTk4OC9rYWJhci1ha2FuLWRpYWt1aXNpc2ktc3VtaXRvbW8tbWl0c3VpLXNhaGFtLXBuYm4tbWVsZXNhdA==",
         "description": " Kabar Akan Diakuisisi Sumitomo Mitsui, Saham Bank Panin Melesat"
-    },
-    {
-        "title": "Kerek Suku Bunga, BI Tangkap Sinyal Harga BBM Bakal Naik?",
-        "link": "https://www.cnbcindonesia.com/market/20220823153707-17-365987/kerek-suku-bunga-bi-tangkap-sinyal-harga-bbm-bakal-naik",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTUzNzA3LTE3LTM2NTk4Ny9rZXJlay1zdWt1LWJ1bmdhLWJpLXRhbmdrYXAtc2lueWFsLWhhcmdhLWJibS1iYWthbC1uYWlr",
-        "description": " Bank Indonesia (BI) akhirnya menaikkan suku bunga acuan ke level 3,75%, setelah 18 bulan bertahan di level 3,5%."
-    },
-    {
-        "title": "Dikabarkan Minat Akuisisi Bank Panin, Siapa Sumitomo Mitsui?",
-        "link": "https://www.cnbcindonesia.com/market/20220823150604-17-365974/dikabarkan-minat-akuisisi-bank-panin-siapa-sumitomo-mitsui",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTUwNjA0LTE3LTM2NTk3NC9kaWthYmFya2FuLW1pbmF0LWFrdWlzaXNpLWJhbmstcGFuaW4tc2lhcGEtc3VtaXRvbW8tbWl0c3Vp",
-        "description": " Sumitomo Mitsui Financial Group Inc (SMFG) merupakan perusahaan asal Jepang yang bergerak di bidang perbankan dan jasa keuangan."
-    },
-    {
-        "title": "Catat Pendapatan Tinggi, Bank bjb Masuk Jadi 10 Bank Terbesar",
-        "link": "https://www.cnbcindonesia.com/market/20220823153834-17-365989/catat-pendapatan-tinggi-bank-bjb-masuk-jadi-10-bank-terbesar",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTUzODM0LTE3LTM2NTk4OS9jYXRhdC1wZW5kYXBhdGFuLXRpbmdnaS1iYW5rLWJqYi1tYXN1ay1qYWRpLTEwLWJhbmstdGVyYmVzYXI=",
-        "description": " PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk (BJBR) atau bank bjb masuk dalam 10 bank dengan perolehan pendapatan terbesar pada 2021"
-    },
-    {
-        "title": "The Fed Bisa Nyusul BI Naikkan Suku Bunga, Harga Nikel Ambrol",
-        "link": "https://www.cnbcindonesia.com/market/20220823144531-17-365961/the-fed-bisa-nyusul-bi-naikkan-suku-bunga-harga-nikel-ambrol",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTQ0NTMxLTE3LTM2NTk2MS90aGUtZmVkLWJpc2Etbnl1c3VsLWJpLW5haWtrYW4tc3VrdS1idW5nYS1oYXJnYS1uaWtlbC1hbWJyb2w=",
-        "description": " Harga nikel dunia terpantau melemah karena ekspektasi kenaikan suku bunga acuan"
-    },
-    {
-        "title": "Ini Penyebab IHSG Tetap Hijau Meski Suku Bunga BI Naik",
-        "link": "https://www.cnbcindonesia.com/market/20220823150506-17-365973/ini-penyebab-ihsg-tetap-hijau-meski-suku-bunga-bi-naik",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTUwNTA2LTE3LTM2NTk3My9pbmktcGVueWViYWItaWhzZy10ZXRhcC1oaWphdS1tZXNraS1zdWt1LWJ1bmdhLWJpLW5haWs=",
-        "description": " Hal ini mengindikasikan bahwa pasar sudah mengantisipasi kenaikan suku bunga acuan ini"
-    },
-    {
-        "title": "Dear Warga RI, Kurs Euro Kini Lebih Murah dari Dolar AS!",
-        "link": "https://www.cnbcindonesia.com/market/20220823140926-17-365928/dear-warga-ri-kurs-euro-kini-lebih-murah-dari-dolar-as",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTQwOTI2LTE3LTM2NTkyOC9kZWFyLXdhcmdhLXJpLWt1cnMtZXVyby1raW5pLWxlYmloLW11cmFoLWRhcmktZG9sYXItYXM=",
-        "description": " Nilai tukar euro jeblok di tahun ini melawan rupiah. Kini nilainya lebih murah ketimbang dolar Amerika Serikat (AS) sejak Senin kemarin."
     }
 ]
