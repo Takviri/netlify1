@@ -1,5 +1,47 @@
 [
     {
+        "title": "BI Naikkan Suku Bunga Acuan, Antisipasi BBM Naik?",
+        "link": "https://www.cnbcindonesia.com/news/20220823163938-8-366015/bi-naikkan-suku-bunga-acuan-antisipasi-bbm-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE2MzkzOC04LTM2NjAxNS9iaS1uYWlra2FuLXN1a3UtYnVuZ2EtYWN1YW4tYW50aXNpcGFzaS1iYm0tbmFpaw==",
+        "description": " BI Naikkan Suku Bunga Acuan, Antisipasi BBM Naik?"
+    },
+    {
+        "title": "RI Bakal Impor Minyak Murah Rusia? Ini Respon Menteri ESDM",
+        "link": "https://www.cnbcindonesia.com/news/20220823165706-4-366024/ri-bakal-impor-minyak-murah-rusia-ini-respon-menteri-esdm",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE2NTcwNi00LTM2NjAyNC9yaS1iYWthbC1pbXBvci1taW55YWstbXVyYWgtcnVzaWEtaW5pLXJlc3Bvbi1tZW50ZXJpLWVzZG0=",
+        "description": " Impor minyak mentah murah dari Rusia dikabarkan langsung oleh Menteri Pariwisata Sandiaga Uno"
+    },
+    {
+        "title": "Tok! Banding Najib Razak di Kasus Megakorupsi 1MDB Ditolak",
+        "link": "https://www.cnbcindonesia.com/news/20220823171404-4-366026/tok-banding-najib-razak-di-kasus-megakorupsi-1mdb-ditolak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE3MTQwNC00LTM2NjAyNi90b2stYmFuZGluZy1uYWppYi1yYXphay1kaS1rYXN1cy1tZWdha29ydXBzaS0xbWRiLWRpdG9sYWs=",
+        "description": " Pengadilan Federal Malaysia pada Selasa, (23/8/2022) menolak banding mantan Perdana Menteri (PM) Najib Razak."
+    },
+    {
+        "title": "Ambisi Zulhas, Setahun Ekspor Pakaian Muslim Naik 100%",
+        "link": "https://www.cnbcindonesia.com/news/20220823161404-4-366010/ambisi-zulhas-setahun-ekspor-pakaian-muslim-naik-100",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE2MTQwNC00LTM2NjAxMC9hbWJpc2ktenVsaGFzLXNldGFodW4tZWtzcG9yLXBha2FpYW4tbXVzbGltLW5haWstMTAw",
+        "description": " Menteri Perdagangan Zulkifli Hasan menargetkan ekspor baju muslim melonjak sampai dua kali lipat di tahun 2023."
+    },
+    {
+        "title": "Penakluk Avanza Akhirnya Tumbang, Ini Mobil Terlaris",
+        "link": "https://www.cnbcindonesia.com/news/20220823161430-4-366001/penakluk-avanza-akhirnya-tumbang-ini-mobil-terlaris",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE2MTQzMC00LTM2NjAwMS9wZW5ha2x1ay1hdmFuemEtYWtoaXJueWEtdHVtYmFuZy1pbmktbW9iaWwtdGVybGFyaXM=",
+        "description": " Mobil terlaris di GIIAS 2022 di antaranya adalah Toyota Avanza yakni dengan terjual 926 unit selama pameran."
+    },
+    {
+        "title": "'Harta Karun Super Langka' RI Terancam Dikeruk Secara Ilegal",
+        "link": "https://www.cnbcindonesia.com/news/20220823160410-4-365995/harta-karun-super-langka-ri-terancam-dikeruk-secara-ilegal",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE2MDQxMC00LTM2NTk5NS9oYXJ0YS1rYXJ1bi1zdXBlci1sYW5na2EtcmktdGVyYW5jYW0tZGlrZXJ1ay1zZWNhcmEtaWxlZ2Fs",
+        "description": " Marak tambang ilegal di wilayah pertambanga timah yang mengakibatkan tergerusnya harta karun super langka RI yakni Logam Tanah Jarang (LTJ)"
+    },
+    {
         "title": "Jokowi Bertolak ke IKN September 2022, Mau Groundbreaking?",
         "link": "https://www.cnbcindonesia.com/news/20220823155536-4-365992/jokowi-bertolak-ke-ikn-september-2022-mau-groundbreaking",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE1MDUxOS00LTM2NTk4Mi9kaW5naW4tYmVnaW5pLXJlc3BvbnMtenVsaGFzLXNvYWwtaGFyZ2EtdGVsdXItbWVsZWRhay1sYWdp",
         "description": " Mendag merespons lonjakan harga telur saat ini."
-    },
-    {
-        "title": "Jokowi: Tarif Taman Mini Indonesia Indah Jangan Mahal-mahal!",
-        "link": "https://www.cnbcindonesia.com/news/20220823151441-4-365980/jokowi-tarif-taman-mini-indonesia-indah-jangan-mahal-mahal",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE1MTQ0MS00LTM2NTk4MC9qb2tvd2ktdGFyaWYtdGFtYW4tbWluaS1pbmRvbmVzaWEtaW5kYWgtamFuZ2FuLW1haGFsLW1haGFs",
-        "description": " Hal tersebut diungkap Presiden Joko Widodo (Jokowi) kepada wartawan usai meninjau langsung TMII di Jakarta Timur, Selasa (23/8/2022)."
-    },
-    {
-        "title": "Alasan Negara-Negara Arab \"Tak Lawan\" Israel Demi Palestina",
-        "link": "https://www.cnbcindonesia.com/news/20220823142049-4-365935/alasan-negara-negara-arab-tak-lawan-israel-demi-palestina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE0MjA0OS00LTM2NTkzNS9hbGFzYW4tbmVnYXJhLW5lZ2FyYS1hcmFiLXRhay1sYXdhbi1pc3JhZWwtZGVtaS1wYWxlc3RpbmE=",
-        "description": " Konflik Israel dan Palestina tidak pernah usai. Apakah negara-negara Arab tak lawan Israel demi Palestina?"
-    },
-    {
-        "title": "Siap-siap Tambang Ilegal, Akan Ada Unit Hukum Baru!",
-        "link": "https://www.cnbcindonesia.com/news/20220823154051-4-365990/siap-siap-tambang-ilegal-akan-ada-unit-hukum-baru",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE1NDA1MS00LTM2NTk5MC9zaWFwLXNpYXAtdGFtYmFuZy1pbGVnYWwtYWthbi1hZGEtdW5pdC1odWt1bS1iYXJ1",
-        "description": " Pemerintah berencana membentuk unit hukum sebagai penindakan penyelewengan sektor pertambangan"
-    },
-    {
-        "title": "RI Berpotensi Jadi Negara Tersukses Tangani Covid, Kok Bisa?",
-        "link": "https://www.cnbcindonesia.com/news/20220823145012-4-365966/ri-berpotensi-jadi-negara-tersukses-tangani-covid-kok-bisa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE0NTAxMi00LTM2NTk2Ni9yaS1iZXJwb3RlbnNpLWphZGktbmVnYXJhLXRlcnN1a3Nlcy10YW5nYW5pLWNvdmlkLWtvay1iaXNh",
-        "description": " Indonesia berpotensi jadi segelintir negara yang bisa menangani kasus Covid-19 dalam 12 bulan bila awal 2023 nanti kasus tetap landai."
-    },
-    {
-        "title": "Harga Migor Sudah Benar-Benar Turun, Eh Telur Malah Nanjak",
-        "link": "https://www.cnbcindonesia.com/news/20220823153106-4-365983/harga-migor-sudah-benar-benar-turun-eh-telur-malah-nanjak",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE1MzEwNi00LTM2NTk4My9oYXJnYS1taWdvci1zdWRhaC1iZW5hci1iZW5hci10dXJ1bi1laC10ZWx1ci1tYWxhaC1uYW5qYWs=",
-        "description": " Harga telur terpantau melonjak, berbalik dengan harga minyak goreng yang semakin turun."
-    },
-    {
-        "title": "Fakta Sejarah Kelahiran Ukraina hingga Mau Dicaplok Rusia",
-        "link": "https://www.cnbcindonesia.com/news/20220823144958-4-365963/fakta-sejarah-kelahiran-ukraina-hingga-mau-dicaplok-rusia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE0NDk1OC00LTM2NTk2My9mYWt0YS1zZWphcmFoLWtlbGFoaXJhbi11a3JhaW5hLWhpbmdnYS1tYXUtZGljYXBsb2stcnVzaWE=",
-        "description": " Fakta-fakta seputar kelahiran Ukraina hingga mau dicaplok Rusia."
     }
 ]
