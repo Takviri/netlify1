@@ -1,5 +1,47 @@
 [
     {
+        "title": "Lagi! Jokowi Sebut Krisis Pangan Mengerikan, Begini Ceritanya",
+        "link": "https://www.cnbcindonesia.com/news/20220823143122-4-365951/lagi-jokowi-sebut-krisis-pangan-mengerikan-begini-ceritanya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE0MzEyMi00LTM2NTk1MS9sYWdpLWpva293aS1zZWJ1dC1rcmlzaXMtcGFuZ2FuLW1lbmdlcmlrYW4tYmVnaW5pLWNlcml0YW55YQ==",
+        "description": " Jokowi kembali menyinggung ancaman krisis yang mengancam ekonomi global. Bahkan, kata Jokowi, kondisi tidak semakin membaik malah semakin rumit."
+    },
+    {
+        "title": "BI: Pertumbuhan Ekonomi Kuartal III Bisa 5,5%",
+        "link": "https://www.cnbcindonesia.com/news/20220823144404-4-365962/bi-pertumbuhan-ekonomi-kuartal-iii-bisa-55",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE0NDQwNC00LTM2NTk2Mi9iaS1wZXJ0dW1idWhhbi1la29ub21pLWt1YXJ0YWwtaWlpLWJpc2EtNTU=",
+        "description": " Bank Indonesia (BI) memperkirakan pertumbuhan ekonomi Tanah Air pada kuartal III-2022 masih tinggi."
+    },
+    {
+        "title": "Jokowi Buka Suara Soal Rencana Kenaikan Harga Pertalite",
+        "link": "https://www.cnbcindonesia.com/news/20220823143733-8-365955/jokowi-buka-suara-soal-rencana-kenaikan-harga-pertalite",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE0MzczMy04LTM2NTk1NS9qb2tvd2ktYnVrYS1zdWFyYS1zb2FsLXJlbmNhbmEta2VuYWlrYW4taGFyZ2EtcGVydGFsaXRl",
+        "description": " Presiden Joko Widodo buka suara soal rencana kenaikan BBM subsidi jenis Pertalite yang mengemuka belakangan ini."
+    },
+    {
+        "title": "Kabar Gembira Buat Investor! Bagi Hasil Migas Lebih Lentur",
+        "link": "https://www.cnbcindonesia.com/news/20220823142043-4-365937/kabar-gembira-buat-investor-bagi-hasil-migas-lebih-lentur",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE0MjA0My00LTM2NTkzNy9rYWJhci1nZW1iaXJhLWJ1YXQtaW52ZXN0b3ItYmFnaS1oYXNpbC1taWdhcy1sZWJpaC1sZW50dXI=",
+        "description": " SKK Migas mengungkapkan saat ini fleksibel dalam memberikan bagi hasil (split) kepada kontraktor"
+    },
+    {
+        "title": "Alert! Varian Baru Covid-19 Diramal Bakal Terus Muncul",
+        "link": "https://www.cnbcindonesia.com/news/20220823141955-4-365947/alert-varian-baru-covid-19-diramal-bakal-terus-muncul",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE0MTk1NS00LTM2NTk0Ny9hbGVydC12YXJpYW4tYmFydS1jb3ZpZC0xOS1kaXJhbWFsLWJha2FsLXRlcnVzLW11bmN1bA==",
+        "description": " Menkes BGS mengingatkan Indonesia harus bersiap soal potensi varian baru Covid-19."
+    },
+    {
+        "title": "Bukan Redenominasi, Nih Penampakan Rupiah Baru Tanpa Tiga Nol",
+        "link": "https://www.cnbcindonesia.com/news/20220823131945-7-365902/bukan-redenominasi-nih-penampakan-rupiah-baru-tanpa-tiga-nol",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEzMTk0NS03LTM2NTkwMi9idWthbi1yZWRlbm9taW5hc2ktbmloLXBlbmFtcGFrYW4tcnVwaWFoLWJhcnUtdGFucGEtdGlnYS1ub2w=",
+        "description": " Rupiah kertas tahun emisi 2022 telah resmi diterbitkan, yaitu pecahan Rp 100.000, Rp 50.000, Rp 20.000, Rp 10.000, Rp 5.000, Rp 2.000, dan Rp 1.000."
+    },
+    {
         "title": "Inflasi RI Meroket, Harusnya Gaji PNS Naik 7%",
         "link": "https://www.cnbcindonesia.com/news/20220823133324-4-365909/inflasi-ri-meroket-harusnya-gaji-pns-naik-7",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEzMzMwNC00LTM2NTkwOC9idWthbi1jdW1hLWluZ2dyaXMtd2FuaXRhLWRpLXNpbmktcmFtYWktamFkaS1wc2stZGVtaS1tYWthbg==",
         "description": " Inflasi yang melonjak dan telah menyebabkan krisis biaya hidup telah telah memicu banyak wanita \"banting setir\" menjadi pekerja seks komersial (PSK)."
-    },
-    {
-        "title": "'Harta Karun' Minyak RI Ditawarkan ke Raksasa Migas Dunia",
-        "link": "https://www.cnbcindonesia.com/news/20220823131811-4-365901/harta-karun-minyak-ri-ditawarkan-ke-raksasa-migas-dunia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEzMTgxMS00LTM2NTkwMS9oYXJ0YS1rYXJ1bi1taW55YWstcmktZGl0YXdhcmthbi1rZS1yYWtzYXNhLW1pZ2FzLWR1bmlh",
-        "description": " BPH Migas aktif menawarkan potensi minyak bumi kepada investor dunia yang terletak di lima are"
-    },
-    {
-        "title": "Ini Dia PNS Sultan Daerah! Gajinya Paling Tinggi Se-Indonesia",
-        "link": "https://www.cnbcindonesia.com/news/20220823131043-4-365897/ini-dia-pns-sultan-daerah-gajinya-paling-tinggi-se-indonesia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEzMTA0My00LTM2NTg5Ny9pbmktZGlhLXBucy1zdWx0YW4tZGFlcmFoLWdhamlueWEtcGFsaW5nLXRpbmdnaS1zZS1pbmRvbmVzaWE=",
-        "description": " Tahukah Anda, siapa abdi negara dengan gaji terbesar di Indonesia?"
-    },
-    {
-        "title": "Antrean Mengular Warga DKI Demi Uang Baru Tahun Emisi 2022",
-        "link": "https://www.cnbcindonesia.com/news/20220823125917-7-365887/antrean-mengular-warga-dki-demi-uang-baru-tahun-emisi-2022",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEyNTkxNy03LTM2NTg4Ny9hbnRyZWFuLW1lbmd1bGFyLXdhcmdhLWRraS1kZW1pLXVhbmctYmFydS10YWh1bi1lbWlzaS0yMDIy",
-        "description": " Masyarakat antusias tinggi berkumpul untuk antre demi memiliki uang pecahan baru."
-    },
-    {
-        "title": "Ganti Rp 1.000 Jadi Rp 1, Mungkinkah Dimulai Sekarang?",
-        "link": "https://www.cnbcindonesia.com/news/20220823120740-4-365869/ganti-rp-1000-jadi-rp-1-mungkinkah-dimulai-sekarang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEyMDc0MC00LTM2NTg2OS9nYW50aS1ycC0xMDAwLWphZGktcnAtMS1tdW5na2lua2FoLWRpbXVsYWktc2VrYXJhbmc=",
-        "description": " Wacana redenominasi rupiah kembali menjadi topik masyarakat, mungkin kah kebijakan ini dilaksanakan saat ini? Berikut komentar ekonom."
-    },
-    {
-        "title": "BKPM Permudah UMKM Yogyakarta Raih NIB, Apa Saja Manfaatnya?",
-        "link": "https://www.cnbcindonesia.com/news/20220823131823-4-365900/bkpm-permudah-umkm-yogyakarta-raih-nib-apa-saja-manfaatnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEzMTgyMy00LTM2NTkwMC9ia3BtLXBlcm11ZGFoLXVta20teW9neWFrYXJ0YS1yYWloLW5pYi1hcGEtc2FqYS1tYW5mYWF0bnlh",
-        "description": " Kementerian Investasi/Badan Koordinasi Penanaman Modal (BKPM) memberikan Nomor Induk Berusaha (NIB) bagi Pelaku UMKM"
-    },
-    {
-        "title": "Menteri Jokowi Minta Diskon Tiket Pesawat, Mau? Cek Syaratnya",
-        "link": "https://www.cnbcindonesia.com/news/20220823124855-4-365899/menteri-jokowi-minta-diskon-tiket-pesawat-mau-cek-syaratnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzEyNDg1NS00LTM2NTg5OS9tZW50ZXJpLWpva293aS1taW50YS1kaXNrb24tdGlrZXQtcGVzYXdhdC1tYXUtY2VrLXN5YXJhdG55YQ==",
-        "description": " Menteri Perhubungan (Menhub) Budi Karya Sumadi meminta maskapai untuk memberikan diskon tiket pesawat di hari kerja atau weekdays dan siang hari."
     }
 ]
