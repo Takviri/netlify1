@@ -1,5 +1,19 @@
 [
     {
+        "title": "BI Proyeksi Ekonomi RI Tembus 5,5 Persen Kuartal III 2022",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220823163259-532-838151/bi-proyeksi-ekonomi-ri-tembus-55-persen-kuartal-iii-2022",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODIzMTYzMjU5LTUzMi04MzgxNTEvYmktcHJveWVrc2ktZWtvbm9taS1yaS10ZW1idXMtNTUtcGVyc2VuLWt1YXJ0YWwtaWlpLTIwMjI=",
+        "description": " BI memproyeksi ekonomi RI tembus 5,5 persen pada kuartal III 2022 meski inflasi terus meningkat."
+    },
+    {
+        "title": "BI Buka Suara soal Isu Redenominasi di Uang Baru Rupiah",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220824095929-78-838376/bi-buka-suara-soal-isu-redenominasi-di-uang-baru-rupiah",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI0MDk1OTI5LTc4LTgzODM3Ni9iaS1idWthLXN1YXJhLXNvYWwtaXN1LXJlZGVub21pbmFzaS1kaS11YW5nLWJhcnUtcnVwaWFo",
+        "description": " Isu redenominasi kembali muncul karena tiga angka nol paling belakang di uang rupiah baru tak terlihat jika diterawang."
+    },
+    {
         "title": "Kripto Terkapar di Zona Merah, Ripple Paling Jeblok 1,13 Persen",
         "link": "https://www.cnnindonesia.com/ekonomi/20220824092445-92-838358/kripto-terkapar-di-zona-merah-ripple-paling-jeblok-113-persen",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI0MDgxMDQ3LTg1LTgzODMzOC9oYXJnYS1taW55YWstZHVuaWEta2VtYmFsaS1rZS11cy0xMDAta2FyZW5hLXJlbmNhbmEtcGFuZ2thcy1wcm9kdWtzaQ==",
         "description": " Harga minyak dunia melonjak hingga kembali menembus level US$100 per barel karena rencana pemangkasan produksi."
-    },
-    {
-        "title": "BI Borong Surat Utang Negara Rp58,32 T per 22 Agustus 2022",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220823175304-78-838195/bi-borong-surat-utang-negara-rp5832-t-per-22-agustus-2022",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODIzMTc1MzA0LTc4LTgzODE5NS9iaS1ib3Jvbmctc3VyYXQtdXRhbmctbmVnYXJhLXJwNTgzMi10LXBlci0yMi1hZ3VzdHVzLTIwMjI=",
-        "description": " Bank Indonesia (BI) membeli SBN dari pasar perdana Rp58,32 triliun sejak awal 2022 hingga 22 Agustus 2022."
-    },
-    {
-        "title": "Belanja di Female Daily Studio Pakai Allo Bank Ada Diskon dan Cashback",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220823154912-97-838119/belanja-di-female-daily-studio-pakai-allo-bank-ada-diskon-dan-cashback",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODIzMTU0OTEyLTk3LTgzODExOS9iZWxhbmphLWRpLWZlbWFsZS1kYWlseS1zdHVkaW8tcGFrYWktYWxsby1iYW5rLWFkYS1kaXNrb24tZGFuLWNhc2hiYWNr",
-        "description": " Belanja produk kecantikan apa\u00c2\u00a0pun di Female Daily Studio pakai Allo Bank dijamin bakal dikasih diskon plus cashback."
     }
 ]
