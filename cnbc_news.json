@@ -1,5 +1,12 @@
 [
     {
+        "title": "PM Thailand Dicopot Sementara, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220824190139-8-366383/pm-thailand-dicopot-sementara-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE5MDEzOS04LTM2NjM4My9wbS10aGFpbGFuZC1kaWNvcG90LXNlbWVudGFyYS1hZGEtYXBh",
+        "description": " Mahkamah Konstitusi Thailand mencopot sementara Perdana Menteri Prayut Chan-O-Cha."
+    },
+    {
         "title": "HIPMI Dorong Pencapaian Target 12% Pengusaha Muda RI",
         "link": "https://www.cnbcindonesia.com/news/20220824185052-8-366381/hipmi-dorong-pencapaian-target-12-pengusaha-muda-ri",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDIwMzU0Mi00LTM2NjM5Ni9rY2piLWJlcm9wZXJhc2ktMjAyMy1wYXRpbWJhbi1rZXJ0YWphdGkta2VjaXByYXRhbi1jdWFu",
         "description": " Menteri BUMN Erick Thohir menyatakan Kereta Cepat Jakarta-Bandung ditargetkan beroperasi pada Juni 2023."
-    },
-    {
-        "title": "Kereta Cepat Jakarta-Bandung Beroperasi Juni 2023",
-        "link": "https://www.cnbcindonesia.com/news/20220824190141-8-366386/kereta-cepat-jakarta-bandung-beroperasi-juni-2023",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE5MDE0MS04LTM2NjM4Ni9rZXJldGEtY2VwYXQtamFrYXJ0YS1iYW5kdW5nLWJlcm9wZXJhc2ktanVuaS0yMDIz",
-        "description": " Pemerintah memastikan proyek kereta cepat Jakarta - Bandung dapat beroperasi pada bulan Juni 2023."
     }
 ]
