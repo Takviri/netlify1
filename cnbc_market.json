@@ -1,5 +1,47 @@
 [
     {
+        "title": "Breaking News: Harga Batu Bara Anjlok 4% Lebih",
+        "link": "https://www.cnbcindonesia.com/market/20220824075445-17-366099/breaking-news-harga-batu-bara-anjlok-4-lebih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MDc1NDQ1LTE3LTM2NjA5OS9icmVha2luZy1uZXdzLWhhcmdhLWJhdHUtYmFyYS1hbmpsb2stNC1sZWJpaA==",
+        "description": " Harga batu bara anjlok pada perdagangan kemarin. Koreksi ini mengakhiri kenaikan harga yang sebelumnya terjadi dua hari beruntun."
+    },
+    {
+        "title": "Suku Bunga Acuan Sudah Naik, Enaknya Belanja Saham Apa Ya?",
+        "link": "https://www.cnbcindonesia.com/market/20220824070928-17-366089/suku-bunga-acuan-sudah-naik-enaknya-belanja-saham-apa-ya",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MDcwOTI4LTE3LTM2NjA4OS9zdWt1LWJ1bmdhLWFjdWFuLXN1ZGFoLW5haWstZW5ha255YS1iZWxhbmphLXNhaGFtLWFwYS15YQ==",
+        "description": " Simak prediksi IHSG beserta rekomendasi saham pilihan dari sejumlah broker untuk perdagangan Rabu (24/8/2022):"
+    },
+    {
+        "title": "Kemarin Naik, Harga Emas Hari Ini Turun Lagi",
+        "link": "https://www.cnbcindonesia.com/market/20220824072652-17-366096/kemarin-naik-harga-emas-hari-ini-turun-lagi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MDcyNjUyLTE3LTM2NjA5Ni9rZW1hcmluLW5haWstaGFyZ2EtZW1hcy1oYXJpLWluaS10dXJ1bi1sYWdp",
+        "description": " Harga emas dunia bergerak turun pada perdagangan pagi hari ini. Koreksi terjadi setelah harga sang logam mulia naik kemarin."
+    },
+    {
+        "title": "AS dan Sekutu Salah Perhitungan! Rusia Cuan Jumbo Dari Perang",
+        "link": "https://www.cnbcindonesia.com/market/20220823230034-17-366063/as-sekutu-salah-perhitungan-rusia-cuan-jumbo-dari-perang",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMjMwMDM0LTE3LTM2NjA2My9hcy1zZWt1dHUtc2FsYWgtcGVyaGl0dW5nYW4tcnVzaWEtY3Vhbi1qdW1iby1kYXJpLXBlcmFuZw==",
+        "description": " Perang Rusia dengan Ukraina sudah berlangsung selama 6 bulan dan belum menunjukkan tanda-tanda akan berakhir."
+    },
+    {
+        "title": "ADHI Rights Issue 7,1 Miliar Saham, Siap Terima PMN Rp 1,98 T",
+        "link": "https://www.cnbcindonesia.com/market/20220824071747-17-366091/adhi-rights-issue-71-miliar-saham-siap-terima-pmn-rp-198-t",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MDcxNzQ3LTE3LTM2NjA5MS9hZGhpLXJpZ2h0cy1pc3N1ZS03MS1taWxpYXItc2FoYW0tc2lhcC10ZXJpbWEtcG1uLXJwLTE5OC10",
+        "description": " PT Adhi Karya (Persero) Tbk (ADHI) berencana menerbitkan sebanyak-banyaknya sebesar 7.121.658.184 Saham Baru"
+    },
+    {
+        "title": "Medco Tercuan, OLIV Makin Anjlok Kini Sentuh Rp 37/Saham",
+        "link": "https://www.cnbcindonesia.com/market/20220824054355-17-366068/medco-tercuan-oliv-makin-anjlok-kini-sentuh-rp-37-saham",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MDU0MzU1LTE3LTM2NjA2OC9tZWRjby10ZXJjdWFuLW9saXYtbWFraW4tYW5qbG9rLWtpbmktc2VudHVoLXJwLTM3LXNhaGFt",
+        "description": " Saat IHSG berhasil rebound, beberapa saham masuk ke jajaran top gainers dan top losers"
+    },
+    {
         "title": "Bos Tumiyana Jualan, Saham WMPP Longsor 4 Hari Beruntun",
         "link": "https://www.cnbcindonesia.com/market/20220824031333-17-366066/bos-tumiyana-jualan-saham-wmpp-longsor-4-hari-beruntun",
         "image": "static/images/cnbc_market.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MDYyOTA2LTE3LTM2NjA3NC9zdWt1LWJ1bmdhLXN1ZGFoLW5haWstcnVwaWFoLWJpc2Eta2UtYmF3YWgtcnAtMTQ4MDAtdXMt",
         "description": " Bank Indonesia (BI) memberikan kejutan ke pasar finansial dengan menaikkan suku bunga acuan BI 7 Day Reverse Repo Rate"
-    },
-    {
-        "title": "BI Akhirnya Naikkan Suku Bunga, IHSG-Rupiah Lanjut Menguat?",
-        "link": "https://www.cnbcindonesia.com/market/20220824053421-17-366067/bi-akhirnya-naikkan-suku-bunga-ihsg-rupiah-lanjut-menguat",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MDUzNDIxLTE3LTM2NjA2Ny9iaS1ha2hpcm55YS1uYWlra2FuLXN1a3UtYnVuZ2EtaWhzZy1ydXBpYWgtbGFuanV0LW1lbmd1YXQ=",
-        "description": " BI naikkan suku bunga, apakah IHSG dan Rupiah lanjut menguat?"
-    },
-    {
-        "title": "Mengejutkan, Bank Indonesia Naikkan Bunga Acuan 25 Bps",
-        "link": "https://www.cnbcindonesia.com/market/20220823165827-19-366021/mengejutkan-bank-indonesia-naikkan-bunga-acuan-25-bps",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTY1ODI3LTE5LTM2NjAyMS9tZW5nZWp1dGthbi1iYW5rLWluZG9uZXNpYS1uYWlra2FuLWJ1bmdhLWFjdWFuLTI1LWJwcw==",
-        "description": " Bank Indonesia secara mengejutkan menaikkan suku bunga acuan atau BI Seven Days Reverse Repo Rate sebesar 25 basis poin menjadi 3,75%."
-    },
-    {
-        "title": "Tok! Dari Perkebunan, Provident Sah Jadi Perusahaan Investasi",
-        "link": "https://www.cnbcindonesia.com/market/20220823184759-17-366053/tok-dari-perkebunan-provident-sah-jadi-perusahaan-investasi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTg0NzU5LTE3LTM2NjA1My90b2stZGFyaS1wZXJrZWJ1bmFuLXByb3ZpZGVudC1zYWgtamFkaS1wZXJ1c2FoYWFuLWludmVzdGFzaQ==",
-        "description": " Hal itu dilakukan seiring dengan beralihnya kegiatan usaha, nama perusahaan turut berubah menjadi Provident Investasi."
-    },
-    {
-        "title": "Pasar Tunggu Pidato Powell, Wall Street Dibuka Mixed!",
-        "link": "https://www.cnbcindonesia.com/market/20220823203018-17-366060/pasar-tunggu-pidato-powell-wall-street-dibuka-mixed",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMjAzMDE4LTE3LTM2NjA2MC9wYXNhci10dW5nZ3UtcGlkYXRvLXBvd2VsbC13YWxsLXN0cmVldC1kaWJ1a2EtbWl4ZWQ=",
-        "description": " Bursa saham Amerika Serikat (AS) bergerak beragam pada pembukaan perdagangan Selasa (23/8/2022)"
-    },
-    {
-        "title": "Pajak Kamu Mau Dibebaskan Sri Mulyani? Ini Syaratnya",
-        "link": "https://www.cnbcindonesia.com/market/20220823183035-17-366049/pajak-kamu-mau-dibebaskan-sri-mulyani-ini-syaratnya",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTgzMDM1LTE3LTM2NjA0OS9wYWphay1rYW11LW1hdS1kaWJlYmFza2FuLXNyaS1tdWx5YW5pLWluaS1zeWFyYXRueWE=",
-        "description": " Pembebasan\u00c2\u00a0PPh final ini diberikan kepada UMKM dengan omzet sampai dengan Rp500 juta per tahun."
-    },
-    {
-        "title": "BI Naikkan Suku Bunga, Harga SBN Kembali Melemah",
-        "link": "https://www.cnbcindonesia.com/market/20220823181415-17-366041/bi-naikkan-suku-bunga-harga-sbn-kembali-melemah",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODIzMTgxNDE1LTE3LTM2NjA0MS9iaS1uYWlra2FuLXN1a3UtYnVuZ2EtaGFyZ2Etc2JuLWtlbWJhbGktbWVsZW1haA==",
-        "description": " Harga mayoritas obligasi pemerintah\u00c2\u00a0RI kembali ditutup melemah setelah Bank Indonesia (BI) menaikan suku bunga acuannya pada hari ini."
     }
 ]
