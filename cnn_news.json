@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kapal Cepat Ambon-Seram Mogok di Tengah Laut, Penumpang Panik",
+        "link": "https://www.cnnindonesia.com/nasional/20220824223922-20-838797/kapal-cepat-ambon-seram-mogok-di-tengah-laut-penumpang-panik",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNDIyMzkyMi0yMC04Mzg3OTcva2FwYWwtY2VwYXQtYW1ib24tc2VyYW0tbW9nb2stZGktdGVuZ2FoLWxhdXQtcGVudW1wYW5nLXBhbmlr",
+        "description": " Kapa mogok saat berada di sekitar Perairan Tanjung Kwako, Malteng dan seluruh lampunya juga ikut padam."
+    },
+    {
+        "title": "Kapolri Harap Berkas Sambo Cs Dinyatakan Lengkap oleh Kejaksaan",
+        "link": "https://www.cnnindonesia.com/nasional/20220824222104-12-838791/kapolri-harap-berkas-sambo-cs-dinyatakan-lengkap-oleh-kejaksaan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNDIyMjEwNC0xMi04Mzg3OTEva2Fwb2xyaS1oYXJhcC1iZXJrYXMtc2FtYm8tY3MtZGlueWF0YWthbi1sZW5na2FwLW9sZWgta2VqYWtzYWFu",
+        "description": " Berkas yang dikirim penyidik ke pihak kejaksaan sejauh ini ialah milik Irjen Ferdy Sambo, Bripka Ricky Rizal, Bharada Richard Eliezer, dan Kuat Maruf."
+    },
+    {
         "title": "Pengacara Brigadir J Bakal Laporkan Istri Sambo Besok",
         "link": "https://www.cnnindonesia.com/nasional/20220824221141-12-838790/pengacara-brigadir-j-bakal-laporkan-istri-sambo-besok",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNDIwNDYyNi0zMi04Mzg3NzcvZHByLXdhbnRpLXdhbnRpLWthcG9scmktbW90aWYtcGVsZWNlaGFuLWF0YXUtc2VsaW5na3VoLWRpLWthc3VzLXNhbWJv",
         "description": " Anggota Komisi III DPR meminta Polri berhati-hati mengusut kasus pembunuhan berencana Brigadir J, terutama apabila terkait motif pelecehan."
-    },
-    {
-        "title": "Kapolri Jawab DPR soal Penasihat Bantu Susun Skenario Kasus Sambo",
-        "link": "https://www.cnnindonesia.com/nasional/20220824202314-12-838767/kapolri-jawab-dpr-soal-penasihat-bantu-susun-skenario-kasus-sambo",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNDIwMjMxNC0xMi04Mzg3Njcva2Fwb2xyaS1qYXdhYi1kcHItc29hbC1wZW5hc2loYXQtYmFudHUtc3VzdW4tc2tlbmFyaW8ta2FzdXMtc2FtYm8=",
-        "description": " Kapolri angkat suara ihwal dugaan keterlibatan salah satu penasihat ahlinya, Fahmi Alamsyah yang disebut membantu Ferdy Sambo menyusun skenario."
-    },
-    {
-        "title": "Besok, Putri Candrawathi Dipanggil Penyidik soal Kasus Brigadir J",
-        "link": "https://www.cnnindonesia.com/nasional/20220824203931-12-838776/besok-putri-candrawathi-dipanggil-penyidik-soal-kasus-brigadir-j",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNDIwMzkzMS0xMi04Mzg3NzYvYmVzb2stcHV0cmktY2FuZHJhd2F0aGktZGlwYW5nZ2lsLXBlbnlpZGlrLXNvYWwta2FzdXMtYnJpZ2FkaXItag==",
-        "description": " Istri Irjen Ferdy Sambo bakal diperiksa penyidik tim khusus pada Kamis (25/8) besok. Sementara itu Sambo akan menjalani sidang etik."
     }
 ]
