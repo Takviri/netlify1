@@ -1,5 +1,33 @@
 [
     {
+        "title": "Terus Turun, Harga Migor Terbaru Makin Murah Jadi Segini",
+        "link": "https://www.cnbcindonesia.com/news/20220824063901-4-366078/terus-turun-harga-migor-terbaru-makin-murah-jadi-segini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDA2MzkwMS00LTM2NjA3OC90ZXJ1cy10dXJ1bi1oYXJnYS1taWdvci10ZXJiYXJ1LW1ha2luLW11cmFoLWphZGktc2VnaW5p",
+        "description": " Sistem Pemantauan Pasar dan Kebutuhan Pokok\u00c2\u00a0Kemendag mencatat, harga minyak goreng kini sudah turun hingga ke eceran tertinggi target pemerintah."
+    },
+    {
+        "title": "Ini yang Bikin Jokowi 'Ngamuk' Hingga Sebut Bodoh (Lagi)",
+        "link": "https://www.cnbcindonesia.com/news/20220824063602-4-366081/ini-yang-bikin-jokowi-ngamuk-hingga-sebut-bodoh--lagi-",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDA2MzYwMi00LTM2NjA4MS9pbmkteWFuZy1iaWtpbi1qb2tvd2ktbmdhbXVrLWhpbmdnYS1zZWJ1dC1ib2RvaC0tbGFnaS0=",
+        "description": " Sudah tidak terhitung lagi berapa kali Presiden Joko Widodo (Jokowi) mengucap kata bodoh dalam menyikapi kinerja pemerintah"
+    },
+    {
+        "title": "Waspada! PBB Warning Bahaya di Titik Maksimum, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220824064547-4-366079/waspada-pbb-warning-bahaya-di-titik-maksimum-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDA2NDU0Ny00LTM2NjA3OS93YXNwYWRhLXBiYi13YXJuaW5nLWJhaGF5YS1kaS10aXRpay1tYWtzaW11bS1hZGEtYXBh",
+        "description": " Sekretaris Jenderal PBB Antonio Guterres meminta diakhirinya pergolakan pedang nuklir yang terjadi antara Rusia dan Ukraina."
+    },
+    {
+        "title": "Harga Telur Naik Tertinggi Sepanjang Sejarah, Ini Penyebabnya",
+        "link": "https://www.cnbcindonesia.com/news/20220824062910-4-366075/harga-telur-naik-tertinggi-sepanjang-sejarah-ini-penyebabnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDA2MjkxMC00LTM2NjA3NS9oYXJnYS10ZWx1ci1uYWlrLXRlcnRpbmdnaS1zZXBhbmphbmctc2VqYXJhaC1pbmktcGVueWViYWJueWE=",
+        "description": " Secara rata-rata nasional harga telur ayam ras naik Rp100 jadi Rp31.000 per kg dari sehari sebelumnya Rp30.900 per kg."
+    },
+    {
         "title": "BPJS Kesehatan Anda Tak Pernah Dipakai, Iuran Bisa Dicairkan?",
         "link": "https://www.cnbcindonesia.com/news/20220824062441-4-366077/bpjs-kesehatan-anda-tak-pernah-dipakai-iuran-bisa-dicairkan",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzIyMjM0My00LTM2NjA2Mi9hZGEta29kZS1rZXJhcy1oYXJnYS1iYm0tYmFrYWwtbmFpay1pbmktYnVrdGlueWE=",
         "description": " Perry menyebut salah satu alasan menaikkan suku bunga acuan adalah langkah pre-emtif terhadap ekspektasi percepatan laju inflasi."
-    },
-    {
-        "title": "Kiamat ATM Semakin Nyata, BI Kasih Bukti Baru",
-        "link": "https://www.cnbcindonesia.com/news/20220823194405-4-366058/kiamat-atm-semakin-nyata-bi-kasih-bukti-baru",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE5NDQwNS00LTM2NjA1OC9raWFtYXQtYXRtLXNlbWFraW4tbnlhdGEtYmkta2FzaWgtYnVrdGktYmFydQ==",
-        "description": " Kiamat ATM"
-    },
-    {
-        "title": "Bank di Indonesia Masih Untung Besar",
-        "link": "https://www.cnbcindonesia.com/news/20220823183847-4-366052/bank-di-indonesia-masih-untung-besar",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE4Mzg0Ny00LTM2NjA1Mi9iYW5rLWRpLWluZG9uZXNpYS1tYXNpaC11bnR1bmctYmVzYXI=",
-        "description": " Bank Indonesia (BI) mengungkapkan net interest margin (NIM) alias pendapatan bunga perbankan di Indonesia saat ini masih tinggi."
-    },
-    {
-        "title": "Perang Mobil Listrik Ri Dimulai",
-        "link": "https://www.cnbcindonesia.com/news/20220823185436-8-366055/perang-mobil-listrik-ri-dimulai",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE4NTQzNi04LTM2NjA1NS9wZXJhbmctbW9iaWwtbGlzdHJpay1yaS1kaW11bGFp",
-        "description": " pemerintah RI melakukan transisi menuju netralitas karbon. Berbagai upaya mulai dilakukan, salah satunya dengan kendaraan listrik."
-    },
-    {
-        "title": "Kanselir Jerman Sempat \"Janjikan\" Ini ke Putin, Bakal PHP?",
-        "link": "https://www.cnbcindonesia.com/news/20220823164043-4-366016/kanselir-jerman-sempat-janjikan-ini-ke-putin-bakal-php",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMzE2NDA0My00LTM2NjAxNi9rYW5zZWxpci1qZXJtYW4tc2VtcGF0LWphbmppa2FuLWluaS1rZS1wdXRpbi1iYWthbC1waHA=",
-        "description": " Kanselir Jerman Olaf Scholz dilaporkan telah memberikan pesan kepada Presiden Rusia Vladimir Putin sebelum Moskow menyerang Ukraina."
     }
 ]
