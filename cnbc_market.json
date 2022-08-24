@@ -1,5 +1,40 @@
 [
     {
+        "title": "Erick Beberkan Jurus-Jurus Garuda Turunkan Harga Tiket Mahal",
+        "link": "https://www.cnbcindonesia.com/market/20220824170432-17-366343/erick-beberkan-jurus-jurus-garuda-turunkan-harga-tiket-mahal",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTcwNDMyLTE3LTM2NjM0My9lcmljay1iZWJlcmthbi1qdXJ1cy1qdXJ1cy1nYXJ1ZGEtdHVydW5rYW4taGFyZ2EtdGlrZXQtbWFoYWw=",
+        "description": " Simak pernyataan Erick Thohir berikut ini."
+    },
+    {
+        "title": "Komentar 'Bos' The Fed Tinggal Hitung Hari, Harga SBN Mixed",
+        "link": "https://www.cnbcindonesia.com/market/20220824182535-17-366369/komentar-bos-the-fed-tinggal-hitung-hari-harga-sbn-mixed",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTgyNTM1LTE3LTM2NjM2OS9rb21lbnRhci1ib3MtdGhlLWZlZC10aW5nZ2FsLWhpdHVuZy1oYXJpLWhhcmdhLXNibi1taXhlZA==",
+        "description": " Sebaliknya, di SBN tenor 3, 10, 15, dan 20 tahun ramai diburu oleh investor, ditandai dengan turunnya yield dan kenaikan harga."
+    },
+    {
+        "title": "Dukung Digitalisasi, Telkom Resmikan IndigoSpace SDK Semarang",
+        "link": "https://www.cnbcindonesia.com/market/20220824183443-17-366371/dukung-digitalisasi-telkom-resmikan-indigospace-sdk-semarang",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTgzNDQzLTE3LTM2NjM3MS9kdWt1bmctZGlnaXRhbGlzYXNpLXRlbGtvbS1yZXNtaWthbi1pbmRpZ29zcGFjZS1zZGstc2VtYXJhbmc=",
+        "description": " Telkom dirikan IndigoSpace sebagai tempat berkumpul bagi para pelaku startup digital dan komunitas kreatif lainnya untuk bisa berkolaborasi dengan para UMKM."
+    },
+    {
+        "title": "Nggak Kalah Dengan BUMN, Bank Swasta Ini Juga Terbesar di RI",
+        "link": "https://www.cnbcindonesia.com/market/20220824162951-17-366326/nggak-kalah-dengan-bumn-bank-swasta-ini-juga-terbesar-di-ri",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTYyOTUxLTE3LTM2NjMyNi9uZ2dhay1rYWxhaC1kZW5nYW4tYnVtbi1iYW5rLXN3YXN0YS1pbmktanVnYS10ZXJiZXNhci1kaS1yaQ==",
+        "description": " Sejumlah emiten perbankan swasta mampu bersaing dengan sejumlah BUMN perbankan milik pemerintah."
+    },
+    {
+        "title": "Alamak! 10 Hari Berturut Saham Ini Dihajar Hingga Babak Belur",
+        "link": "https://www.cnbcindonesia.com/market/20220824161642-17-366323/alamak-10-hari-berturut-saham-ini-dihajar-hingga-babak-belur",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTYxNjQyLTE3LTM2NjMyMy9hbGFtYWstMTAtaGFyaS1iZXJ0dXJ1dC1zYWhhbS1pbmktZGloYWphci1oaW5nZ2EtYmFiYWstYmVsdXI=",
+        "description": " saham OLIV terus mencatatkan koreksi hingga menyentuh batas auto rejection bawah (ARB) dalam 10 hari beruntun."
+    },
+    {
         "title": "Siaga! Dow Futures Merah, Wall Street Berpotensi Ambruk Lagi!",
         "link": "https://www.cnbcindonesia.com/market/20220824165949-17-366338/siaga-dow-futures-merah-wall-street-berpotensi-ambruk-lagi",
         "image": "static/images/cnbc_market.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTc0MjQxLTE3LTM2NjM1NS9rdWItYmVzdXRhbi1iYW5rLWJqYi1wZWRlLWJhbmd1bi1pbmZyYXN0cnVrdHVyLWRhZXJhaA==",
         "description": " Sinergi sesama BPD\u00c2\u00a0dalam KUB akan memperkuat kemampuan untuk memberikan dukungan pembiayaan kepada setiap daerah yang membutuhkan."
-    },
-    {
-        "title": "Omzet Nasabah KUR Melesat 32,94%, BRI Disebut Makin Inklusif",
-        "link": "https://www.cnbcindonesia.com/market/20220824172511-17-366348/omzet-nasabah-kur-melesat-3294-bri-disebut-makin-inklusif",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTcyNTExLTE3LTM2NjM0OC9vbXpldC1uYXNhYmFoLWt1ci1tZWxlc2F0LTMyOTQtYnJpLWRpc2VidXQtbWFraW4taW5rbHVzaWY=",
-        "description": " Kontribusi bank plat merah BRI terhadap penyerapan tenaga kerja dan perekonomian nasional dinilai sudah sangat besar."
-    },
-    {
-        "title": "Pasar Menanti 'Sabda' Powell, Harga Nikel Turun",
-        "link": "https://www.cnbcindonesia.com/market/20220824170725-17-366345/pasar-menanti-sabda-powell-harga-nikel-turun",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTcwNzI1LTE3LTM2NjM0NS9wYXNhci1tZW5hbnRpLXNhYmRhLXBvd2VsbC1oYXJnYS1uaWtlbC10dXJ1bg==",
-        "description": " Harga nikel dunia turun pada perdagangan hari ini."
-    },
-    {
-        "title": "Punya Kekayaan Rp 71,4 T, Ini Sosok Pemilik Gudang Garam",
-        "link": "https://www.cnbcindonesia.com/market/20220824151449-17-366287/punya-kekayaan-rp-714-t-ini-sosok-pemilik-gudang-garam",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTUxNDQ5LTE3LTM2NjI4Ny9wdW55YS1rZWtheWFhbi1ycC03MTQtdC1pbmktc29zb2stcGVtaWxpay1ndWRhbmctZ2FyYW0=",
-        "description": " Perusahaan rokok PT Gudang Garam Tbk merupakan salah satu emiten rokok terbesar di Indonesia yang dimiliki oleh Susilo Wonowidjojo"
-    },
-    {
-        "title": "Visi KUB BPD, Jadi Top Bank di Indonesia",
-        "link": "https://www.cnbcindonesia.com/market/20220824170552-17-366344/visi-kub-bpd-jadi-top-bank-di-indonesia",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTcwNTUyLTE3LTM2NjM0NC92aXNpLWt1Yi1icGQtamFkaS10b3AtYmFuay1kaS1pbmRvbmVzaWE=",
-        "description": " Sesuai amanah OJK,\u00c2\u00a0Kelompok Usaha Bank (KUB) merupakan jalan keluar untuk memperkuat modal inti dari masing-masing bank"
-    },
-    {
-        "title": "Bank bjb Gaet Semen Indonesia, Terkait Distributor Financing",
-        "link": "https://www.cnbcindonesia.com/market/20220824165534-17-366336/bank-bjb-gaet-semen-indonesia-terkait-distributor-financing",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTY1NTM0LTE3LTM2NjMzNi9iYW5rLWJqYi1nYWV0LXNlbWVuLWluZG9uZXNpYS10ZXJrYWl0LWRpc3RyaWJ1dG9yLWZpbmFuY2luZw==",
-        "description": " Kolaborasi bank bjb dan Semen Indonesia diharapkan mempermudah perusahaan dalam penerimaan pembayaran tagihan dengan dukungan fasilitas kredit yang disediakan."
     }
 ]
