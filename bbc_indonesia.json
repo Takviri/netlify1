@@ -1,5 +1,12 @@
 [
     {
+        "title": "Invasi Ukraina: Rusia wajibkan guru-guru ajarkan kurikulum versi Kremlin yang disebut 'pemaksaan tradisi dan budaya'",
+        "link": "https://www.bbc.com/indonesia/dunia-62641907",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjI2NDE5MDc=",
+        "description": "Sejumlah guru di Ukraina mengaku diincar dan diancam oleh tentara Rusia jika tidak mengajarkan kurikulum pendidikan baru versi Kremlin."
+    },
+    {
         "title": "Kisah WNI dan warga Vietnam jadi korban penipuan kartel judi online dan investasi bodong di Kamboja",
         "link": "https://www.bbc.co.uk/indonesia/articles/c98j8xx4prpo",
         "image": "static/images/bbc_indonesia.png",
@@ -7,18 +14,18 @@
         "description": "Penipuan judi online dan investasi bodong yang telah terjadi di Kamboja setidaknya selama tujuh tahun terakhir menargetkan orang-orang dari negara-negara Asia Tenggara -termasuk warga negara Indonesia- yang membutuhkan pekerjaan."
     },
     {
-        "title": "Kasus Ferdy Sambo: Kewenangan Divisi Propam bakal 'dipreteli karena dianggap sangat berkuasa dan cenderung korup'",
-        "link": "https://www.bbc.com/indonesia/indonesia-62625446",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYyNjI1NDQ2",
-        "description": "Komisi Kepolisian Nasional sedang membuat kajian soal kewenangan Divisi Profesi dan Pengamanan atau Propam yang disebut sangat berkuasa dan cenderung korup."
-    },
-    {
         "title": "Jupiter: Melihat foto-foto baru yang dihasilkan teleskop James Webb, ada aurora hingga badai besar 'yang bisa melalap Bumi'",
         "link": "https://www.bbc.com/indonesia/majalah-62655488",
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MjY1NTQ4OA==",
         "description": "Teleskop James Webb memperlihatkan sejumlah foto-foto terbaru Planet Jupiter secara jauh lebih mendetil. Di antarnya ada aurora, badai besar, dan sabuk planet."
+    },
+    {
+        "title": "Kasus Ferdy Sambo: Kewenangan Divisi Propam bakal 'dipreteli karena dianggap sangat berkuasa dan cenderung korup'",
+        "link": "https://www.bbc.com/indonesia/indonesia-62625446",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYyNjI1NDQ2",
+        "description": "Komisi Kepolisian Nasional sedang membuat kajian soal kewenangan Divisi Profesi dan Pengamanan atau Propam yang disebut sangat berkuasa dan cenderung korup."
     },
     {
         "title": "Dragon Ball - Kisah Akira Toriyama menciptakan manga Jepang paling terkenal di dunia",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jMTltZG1sMzltMm8=",
         "description": "DPR dan pemerintah Indonesia didesak segera menuntaskan pembahasan Rancangan Undang-Undang Perlindungan Data Pribadi untuk menjamin hak masyarakat atas keamanan data pribadinya, menyusul kasus dugaan kebocoran jutaan data pribadi masyarakat kembali terulang."
-    },
-    {
-        "title": "The Poison Garden: Taman paling mematikan di Inggris",
-        "link": "https://www.bbc.co.uk/indonesia/articles/c250y5lr84xo",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jMjUweTVscjg0eG8=",
-        "description": "The Poison Garden yang berlokasi di Inggris adalah rumah bagi lebih dari 100 tanaman yang beracun, memabukkan, dan mengandung narkotika. Taman itu terbuka untuk umum."
     }
 ]
