@@ -1,5 +1,47 @@
 [
     {
+        "title": "Erick Thohir Beberkan Jurus Tekan Impor BBM",
+        "link": "https://www.cnbcindonesia.com/news/20220824154418-4-366311/erick-thohir-beberkan-jurus-tekan-impor-bbm",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE1NDQxOC00LTM2NjMxMS9lcmljay10aG9oaXItYmViZXJrYW4tanVydXMtdGVrYW4taW1wb3ItYmJt",
+        "description": " Menteri BUMN Erick Thohir berupaya mengurangi ketergantungan Indonesia terhadap impor BBM"
+    },
+    {
+        "title": "Mendagri ke Anies Cs: Tak Bisa Kendalikan Inflasi? Lemah!",
+        "link": "https://www.cnbcindonesia.com/news/20220824154240-4-366305/mendagri-ke-anies-cs-tak-bisa-kendalikan-inflasi-lemah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE1NDI0MC00LTM2NjMwNS9tZW5kYWdyaS1rZS1hbmllcy1jcy10YWstYmlzYS1rZW5kYWxpa2FuLWluZmxhc2ktbGVtYWg=",
+        "description": " Menteri Dalam Negeri Tito Karnavian mengimbau kepada pemerintah daerah untuk saling bekerja sama menekan laju inflasi"
+    },
+    {
+        "title": "China Dilanda Krisis Air Hingga Energi",
+        "link": "https://www.cnbcindonesia.com/news/20220824131146-8-366235/china-dilanda-krisis-air-hingga-energi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDEzMTE0Ni04LTM2NjIzNS9jaGluYS1kaWxhbmRhLWtyaXNpcy1haXItaGluZ2dhLWVuZXJnaQ==",
+        "description": " Bencana gelombang panas hingga mencapai 40 derajat celcius di China yang berujung pada penutupan pabrik hingga kekeringan yang melanda sungai Yangtze."
+    },
+    {
+        "title": "Rp 1.000 Ganti Rp 1, DPR: Sekarang Momentum Terbaik",
+        "link": "https://www.cnbcindonesia.com/news/20220824151702-4-366301/rp-1000-ganti-rp-1-dpr-sekarang-momentum-terbaik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE1MTcwMi00LTM2NjMwMS9ycC0xMDAwLWdhbnRpLXJwLTEtZHByLXNla2FyYW5nLW1vbWVudHVtLXRlcmJhaWs=",
+        "description": " Anggota\u00c2\u00a0DPR RI Komisi XI Mukhamad Misbakhun menilai saat ini menjadi momentum yang tepat untuk melakukan redenominasi rupiah."
+    },
+    {
+        "title": "Erdogan Mesra dengan Putin, AS Langsung Panas Ancam Sanksi",
+        "link": "https://www.cnbcindonesia.com/news/20220824170257-4-366342/erdogan-mesra-dengan-putin-as-langsung-panas-ancam-sanksi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE3MDI1Ny00LTM2NjM0Mi9lcmRvZ2FuLW1lc3JhLWRlbmdhbi1wdXRpbi1hcy1sYW5nc3VuZy1wYW5hcy1hbmNhbS1zYW5rc2k=",
+        "description": " Pemerintah AS terus memberi peringatan, bahwa pemerintah Rusia dan kalangan pebisnisnya, menggunakan Turki untuk bisa menghindari sanksi dari AS dan sekutunya."
+    },
+    {
+        "title": "Harga BBM Naik, Airlangga: Sedang Dievaluasi 1-2 Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220824165013-4-366332/harga-bbm-naik-airlangga-sedang-dievaluasi-1-2-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE2NTAxMy00LTM2NjMzMi9oYXJnYS1iYm0tbmFpay1haXJsYW5nZ2Etc2VkYW5nLWRpZXZhbHVhc2ktMS0yLWhhcmktaW5p",
+        "description": " Simak penjelasan Airlangga Hartarto berikut ini."
+    },
+    {
         "title": "Bahas Harga BBM, Sederet Menteri Merapat ke Kantor Airlangga",
         "link": "https://www.cnbcindonesia.com/news/20220824165201-4-366334/bahas-harga-bbm-sederet-menteri-merapat-ke-kantor-airlangga",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE2NDE0NC00LTM2NjMzMS9uZ2VyaS1pbmZsYXNpLW1lcm9rZXQtaGFyZ2EtYmJtLW5lZ2FyYS1pbmktbmFpay01Ng==",
         "description": " Afrika Selatan mengalami masalah ekonomi yang serius. Laju inflasi negara ini pada Juli 2022 naik ke tingkat tertinggi dalam 13 tahun terakhir."
-    },
-    {
-        "title": "Ada Krisis Bayi Perempuan di India, Ternyata Ini Penyebabnya",
-        "link": "https://www.cnbcindonesia.com/news/20220824142111-4-366261/ada-krisis-bayi-perempuan-di-india-ternyata-ini-penyebabnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE0MjExMS00LTM2NjI2MS9hZGEta3Jpc2lzLWJheWktcGVyZW1wdWFuLWRpLWluZGlhLXRlcm55YXRhLWluaS1wZW55ZWJhYm55YQ==",
-        "description": " Rasio jenis kelamin di India dilaporkan tidak seimbang, di mana populasi anak-anak laki-laki jauh lebih banyak dibandingkan perempuan."
-    },
-    {
-        "title": "Harga Pertamax Murah, Erick Thohir: Sebenarnya Itu Subsidi",
-        "link": "https://www.cnbcindonesia.com/news/20220824163525-4-366329/harga-pertamax-murah-erick-thohir-sebenarnya-itu-subsidi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE2MzUyNS00LTM2NjMyOS9oYXJnYS1wZXJ0YW1heC1tdXJhaC1lcmljay10aG9oaXItc2ViZW5hcm55YS1pdHUtc3Vic2lkaQ==",
-        "description": " Menteri BUMn erick Thohir mengatakan bahwa harga Pertamax saat ini disubsidi oleh pemerintah"
-    },
-    {
-        "title": "Nanjak Terus, Kasus Covid-19 di RI Nambah 5.428 Hari Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220824163506-4-366328/nanjak-terus-kasus-covid-19-di-ri-nambah-5428-hari-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE2MzUwNi00LTM2NjMyOC9uYW5qYWstdGVydXMta2FzdXMtY292aWQtMTktZGktcmktbmFtYmFoLTU0MjgtaGFyaS1pbmk=",
-        "description": " Total kasus konfirmasi mencapai 6.329.143."
-    },
-    {
-        "title": "Jokowi Sering Ngamuk Sampai Bilang Bodoh, Apa Hasilnya?",
-        "link": "https://www.cnbcindonesia.com/news/20220824135907-4-366285/jokowi-sering-ngamuk-sampai-bilang-bodoh-apa-hasilnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDEzNTkwNy00LTM2NjI4NS9qb2tvd2ktc2VyaW5nLW5nYW11ay1zYW1wYWktYmlsYW5nLWJvZG9oLWFwYS1oYXNpbG55YQ==",
-        "description": " Apakah ada perubahan setelah Jokowi berulang kali meluapkan amarahnya perihal belanja barang impor?"
-    },
-    {
-        "title": "Marak Pertambangan Ilegal, Begini Rekomendasi Dari Perhapi",
-        "link": "https://www.cnbcindonesia.com/news/20220824152223-4-366300/marak-pertambangan-ilegal-begini-rekomendasi-dari-perhapi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE1MjIyMy00LTM2NjMwMC9tYXJhay1wZXJ0YW1iYW5nYW4taWxlZ2FsLWJlZ2luaS1yZWtvbWVuZGFzaS1kYXJpLXBlcmhhcGk=",
-        "description": " Perhimpunan Ahli Pertambangan Indonesia (Perhapi) memberikan rekomendasi supaya pertambangan tanpa izin tak marak lagi"
-    },
-    {
-        "title": "Apa Pentingnya Rp 1.000 Diganti Rp 1? Ini Jawabannya!",
-        "link": "https://www.cnbcindonesia.com/news/20220824153228-4-366304/apa-pentingnya-rp-1000-diganti-rp-1-ini-jawabannya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE1MzIyOC00LTM2NjMwNC9hcGEtcGVudGluZ255YS1ycC0xMDAwLWRpZ2FudGktcnAtMS1pbmktamF3YWJhbm55YQ==",
-        "description": " Redenominasi kini menjadi pembicaraan hangat di tengah masyarakat."
     }
 ]
