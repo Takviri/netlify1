@@ -1,5 +1,19 @@
 [
     {
+        "title": "BI Sebut Ukuran Uang Baru Lebih Mini",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220824115026-78-838463/bi-sebut-ukuran-uang-baru-lebih-mini",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI0MTE1MDI2LTc4LTgzODQ2My9iaS1zZWJ1dC11a3VyYW4tdWFuZy1iYXJ1LWxlYmloLW1pbmk=",
+        "description": " BI menerbitkan uang baru lebih kecil dibandingkan dengan sebelumnya untuk memudahkan tunanetra mengidentifikasi pecahan uang rupiah."
+    },
+    {
+        "title": "Harga Telur Ayam dan Daging Ayam Cuma Terpaut Rp5.000",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220824101749-92-838383/harga-telur-ayam-dan-daging-ayam-cuma-terpaut-rp5000",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI0MTAxNzQ5LTkyLTgzODM4My9oYXJnYS10ZWx1ci1heWFtLWRhbi1kYWdpbmctYXlhbS1jdW1hLXRlcnBhdXQtcnA1MDAw",
+        "description": " Harga telur ayam dipatok rata-rata Rp30.850 per kg, sedangkan harga daging ayam dipatok Rp35.350 per kg. Harganya terpaut hanya Rp5.000."
+    },
+    {
         "title": "Tujuh SPBU Pertamina di Kalteng Kena Sanksi Langgar BBM Bersubsidi",
         "link": "https://www.cnnindonesia.com/ekonomi/20220824115945-85-838466/tujuh-spbu-pertamina-di-kalteng-kena-sanksi-langgar-bbm-bersubsidi",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI0MDk1OTI5LTc4LTgzODM3Ni9iaS1idWthLXN1YXJhLXNvYWwtaXN1LXJlZGVub21pbmFzaS1kaS11YW5nLWJhcnUtcnVwaWFo",
         "description": " Isu redenominasi kembali muncul karena tiga angka nol paling belakang di uang rupiah baru tak terlihat jika diterawang."
-    },
-    {
-        "title": "Kripto Terkapar di Zona Merah, Ripple Paling Jeblok 1,13 Persen",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220824092445-92-838358/kripto-terkapar-di-zona-merah-ripple-paling-jeblok-113-persen",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI0MDkyNDQ1LTkyLTgzODM1OC9rcmlwdG8tdGVya2FwYXItZGktem9uYS1tZXJhaC1yaXBwbGUtcGFsaW5nLWplYmxvay0xMTMtcGVyc2Vu",
-        "description": " Mayoritas harga kripto melemah, khususnya ethereum dan ripple pada perdagangan Rabu (24/8) pagi."
-    },
-    {
-        "title": "Susi Ajak Pemerintah Hemat Anggaran: Bubarkan Lembaga Tak Perlu",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220824092840-85-838360/susi-ajak-pemerintah-hemat-anggaran-bubarkan-lembaga-tak-perlu",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI0MDkyODQwLTg1LTgzODM2MC9zdXNpLWFqYWstcGVtZXJpbnRhaC1oZW1hdC1hbmdnYXJhbi1idWJhcmthbi1sZW1iYWdhLXRhay1wZXJsdQ==",
-        "description": " Susi Pudjiastuti, eks menteri kelautan dan perikanan (KKP), menanggapi rencana pemerintah menaikkan harga BBM bersubsidi, pertalite maupun solar."
     }
 ]
