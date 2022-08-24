@@ -1,5 +1,33 @@
 [
     {
+        "title": "Apa Pentingnya Rp 1.000 Diganti Rp 1? Ini Jawabannya!",
+        "link": "https://www.cnbcindonesia.com/news/20220824153228-4-366304/apa-pentingnya-rp-1000-diganti-rp-1-ini-jawabannya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE1MzIyOC00LTM2NjMwNC9hcGEtcGVudGluZ255YS1ycC0xMDAwLWRpZ2FudGktcnAtMS1pbmktamF3YWJhbm55YQ==",
+        "description": " Redenominasi kini menjadi pembicaraan hangat di tengah masyarakat."
+    },
+    {
+        "title": "Turis Tak Perlu Karantina Masuk Singapura",
+        "link": "https://www.cnbcindonesia.com/news/20220824125720-8-366227/turis-tak-perlu-karantina-masuk-singapura",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDEyNTcyMC04LTM2NjIyNy90dXJpcy10YWstcGVybHUta2FyYW50aW5hLW1hc3VrLXNpbmdhcHVyYQ==",
+        "description": " Singapura akan melonggarkan aturan Covid-19 mulai senin depan."
+    },
+    {
+        "title": "Bansos Ini Siap Meluncur Kalau BBM Naik, Ada BLT?",
+        "link": "https://www.cnbcindonesia.com/news/20220824135939-4-366255/bansos-ini-siap-meluncur-kalau-bbm-naik-ada-blt",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDEzNTkzOS00LTM2NjI1NS9iYW5zb3MtaW5pLXNpYXAtbWVsdW5jdXIta2FsYXUtYmJtLW5haWstYWRhLWJsdA==",
+        "description": " Sri Mulyani telah menganggarkan dana Rp18 triliun\u00c2\u00a0untuk Bansos dalam rangka antisipasi kenaikan harga BBM Pertalite dan Solar."
+    },
+    {
+        "title": "Mantap! PLN Disebut Capai Skor Transformasi Digital 2024",
+        "link": "https://www.cnbcindonesia.com/news/20220824160313-4-366314/mantap-pln-disebut-capai-skor-transformasi-digital-2024",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE2MDMxMy00LTM2NjMxNC9tYW50YXAtcGxuLWRpc2VidXQtY2FwYWktc2tvci10cmFuc2Zvcm1hc2ktZGlnaXRhbC0yMDI0",
+        "description": " PT PLN (Persero) menerima apresiasi dari Kementerian Perindustrian (Kemenperin) berupa sertifikat INDI 4.0."
+    },
+    {
         "title": "Curhat Peternak Ayam Ungkap Biang Kerok Harga Telur Meroket",
         "link": "https://www.cnbcindonesia.com/news/20220823141805-7-365938/curhat-peternak-ayam-ungkap-biang-kerok-harga-telur-meroket",
         "image": "static/images/cnbc_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDEzNTcyMS00LTM2NjI1NC90YWhhbi1oYXJnYS1iYm0tdWFuZy1uZWdhcmEtbWFzaWgtYWRhLWJ1LXNyaS1tdWx5YW5p",
         "description": " Pemerintah masih mengkalkulasi harga bahan bakar minyak (BBM)."
-    },
-    {
-        "title": "Siap-siap Naik, Ada Rapat Bahas Harga BBM Sore Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220824145644-4-366273/siap-siap-naik-ada-rapat-bahas-harga-bbm-sore-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE0NTY0NC00LTM2NjI3My9zaWFwLXNpYXAtbmFpay1hZGEtcmFwYXQtYmFoYXMtaGFyZ2EtYmJtLXNvcmUtaW5p",
-        "description": " Menteri ESDM menyebutkan akan ada rapat lanjutan sore ini membahas harga BBM pertalite dan Solar Subsidi"
-    },
-    {
-        "title": "Kata Ahli Soal Waktu Yang Tepat Untuk Redenominasi Rupiah",
-        "link": "https://www.cnbcindonesia.com/news/20220824113952-8-366197/kata-ahli-soal-waktu-yang-tepat-untuk-redenominasi-rupiah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDExMzk1Mi04LTM2NjE5Ny9rYXRhLWFobGktc29hbC13YWt0dS15YW5nLXRlcGF0LXVudHVrLXJlZGVub21pbmFzaS1ydXBpYWg=",
-        "description": " Kapan Waktu Yang Tepat Untuk Redenominasi Rupiah? Ini Kata Ahli"
-    },
-    {
-        "title": "Waduh! Calon PM Inggris Siap Kobarkan Perang Nuklir",
-        "link": "https://www.cnbcindonesia.com/news/20220824110703-4-366183/waduh-calon-pm-inggris-siap-kobarkan-perang-nuklir",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDExMDcwMy00LTM2NjE4My93YWR1aC1jYWxvbi1wbS1pbmdncmlzLXNpYXAta29iYXJrYW4tcGVyYW5nLW51a2xpcg==",
-        "description": " Calon Ketua Partai Konservatif sekaligus kandidat Perdana Menteri Inggris Liz Truss melontarkan pernyataan kontroversial terkait perang."
-    },
-    {
-        "title": "Maruf Amin: Ayo Kita Jihad!",
-        "link": "https://www.cnbcindonesia.com/news/20220824121010-4-366213/maruf-amin-ayo-kita-jihad",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDEyMTAxMC00LTM2NjIxMy9tYXJ1Zi1hbWluLWF5by1raXRhLWppaGFk",
-        "description": " Wakil Presiden (Wapres) Ma'ruf Amin mengajak masyarakat untuk melakukan jihad bangsa untuk menciptakan pertumbuhan ekonomi Indonesia yang berkualitas."
     }
 ]
