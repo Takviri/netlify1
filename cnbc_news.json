@@ -1,5 +1,19 @@
 [
     {
+        "title": "Update Covid-19 di RI 24 Agustus: Kasus Baru Nambah 5.428",
+        "link": "https://www.cnbcindonesia.com/news/20220824180754-16-366365/update-covid-19-di-ri-24-agustus-kasus-baru-nambah-5428",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE4MDc1NC0xNi0zNjYzNjUvdXBkYXRlLWNvdmlkLTE5LWRpLXJpLTI0LWFndXN0dXMta2FzdXMtYmFydS1uYW1iYWgtNTQyOA==",
+        "description": " Total kasus konfirmasi mencapai 6.329.143."
+    },
+    {
+        "title": "HIPMI Dorong Pengusaha Melek Digital Demi Wirausaha Go Global",
+        "link": "https://www.cnbcindonesia.com/news/20220824184702-8-366380/hipmi-dorong-pengusaha-melek-digital-demi-wirausaha-go-global",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE4NDcwMi04LTM2NjM4MC9oaXBtaS1kb3JvbmctcGVuZ3VzYWhhLW1lbGVrLWRpZ2l0YWwtZGVtaS13aXJhdXNhaGEtZ28tZ2xvYmFs",
+        "description": " HIPMI Dorong Pengusaha Melek Digital Demi Wirausaha Go Global"
+    },
+    {
         "title": "Duh! Proyek MRT North-South Bengkak Jadi Rp 26 T",
         "link": "https://www.cnbcindonesia.com/news/20220824190138-8-366382/duh-proyek-mrt-north-south-bengkak-jadi-rp-26-t",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE2MjM1OS04LTM2NjMyNy9kcHItZ29ibG9rLWthbGF1LXBlbWVyaW50YWgtdGFrdXQtaW1wb3ItbWlueWFrLW11cmFoLXJ1c2lh",
         "description": " DPR: Goblok Kalau Pemerintah Takut Impor Minyak Murah Rusia!"
-    },
-    {
-        "title": "Jokowi Tolak China dan Arab Ogah Ekspor Beras, Stok Aman?",
-        "link": "https://www.cnbcindonesia.com/news/20220824144600-7-366275/jokowi-tolak-china-arab-ogah-ekspor-beras-stok-aman",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE0NDYwMC03LTM2NjI3NS9qb2tvd2ktdG9sYWstY2hpbmEtYXJhYi1vZ2FoLWVrc3Bvci1iZXJhcy1zdG9rLWFtYW4=",
-        "description": " adan Pusat Statistik (BPS) sebelumnya merilis, hasil Survei Cadangan Beras Nasional tahun 2022."
-    },
-    {
-        "title": "Harga Telur Rekor Termahal, Ini Penjelasan Anak Buah Zulhas",
-        "link": "https://www.cnbcindonesia.com/news/20220824165316-4-366335/harga-telur-rekor-termahal-ini-penjelasan-anak-buah-zulhas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE2NTMxNi00LTM2NjMzNS9oYXJnYS10ZWx1ci1yZWtvci10ZXJtYWhhbC1pbmktcGVuamVsYXNhbi1hbmFrLWJ1YWgtenVsaGFz",
-        "description": " Harga telur ayam ras di wilayah Jakarta hari ini, Rabu (24/8/2022) cetak rekor termahal ke Rp35.000 per kg di pasar Petojo Ilir."
     }
 ]
