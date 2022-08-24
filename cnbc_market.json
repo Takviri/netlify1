@@ -1,5 +1,40 @@
 [
     {
+        "title": "AKIPBA Mulai Buka Pendaftaran Mahasiswa Baru, Cek Syaratnya",
+        "link": "https://www.cnbcindonesia.com/market/20220824154500-17-366307/akipba-mulai-buka-pendaftaran-mahasiswa-baru-cek-syaratnya",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTU0NTAwLTE3LTM2NjMwNy9ha2lwYmEtbXVsYWktYnVrYS1wZW5kYWZ0YXJhbi1tYWhhc2lzd2EtYmFydS1jZWstc3lhcmF0bnlh",
+        "description": " Akademi Komunitas Industri Pertambangan Bukit Asam (AKIPBA) mulai membuka Penerimaan Mahasiswa Baru (PMB) Tahun Akademik 2022/2023"
+    },
+    {
+        "title": "Selisih Suku Bunga Melebar, Dolar Australia Terkapar!",
+        "link": "https://www.cnbcindonesia.com/market/20220824133053-17-366243/selisih-suku-bunga-melebar-dolar-australia-terkapar",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTMzMDUzLTE3LTM2NjI0My9zZWxpc2loLXN1a3UtYnVuZ2EtbWVsZWJhci1kb2xhci1hdXN0cmFsaWEtdGVya2FwYXI=",
+        "description": " Nilai tukar dolar Australia melemah melawan rupiah pada perdagangan Rabu (24/8/2022)."
+    },
+    {
+        "title": "Syarat Agar Kenaikan BI7DRR Tak Ganggu Pemulihan Ekonomi",
+        "link": "https://www.cnbcindonesia.com/market/20220824143133-19-366264/syarat-agar-kenaikan-bi7drr-tak-ganggu-pemulihan-ekonomi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTQzMTMzLTE5LTM2NjI2NC9zeWFyYXQtYWdhci1rZW5haWthbi1iaTdkcnItdGFrLWdhbmdndS1wZW11bGloYW4tZWtvbm9taQ==",
+        "description": " Syarat Agar Kenaikan BI7DRR Tak Ganggu Pemulihan Ekonomi"
+    },
+    {
+        "title": "Efek Jamu Pahit BI, IHSG Sejengkal Lagi Sentuh 7.200",
+        "link": "https://www.cnbcindonesia.com/market/20220824152648-17-366299/efek-jamu-pahit-bi-ihsg-sejengkal-lagi-sentuh-7200",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTUyNjQ4LTE3LTM2NjI5OS9lZmVrLWphbXUtcGFoaXQtYmktaWhzZy1zZWplbmdrYWwtbGFnaS1zZW50dWgtNzIwMA==",
+        "description": " Indeks Harga Saham Gabungan (IHSG) ditutup di zona hijau pada perdagangan Rabu (24/8/2022), di tengah melemahnya mayoritas bursa Asia-Pasifik dan AS."
+    },
+    {
+        "title": "Kinerja Keuangan Baik, Tugu Raih Best Insurance Award 2022",
+        "link": "https://www.cnbcindonesia.com/market/20220824152604-17-366298/kinerja-keuangan-baik-tugu-raih-best-insurance-award-2022",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTUyNjA0LTE3LTM2NjI5OC9raW5lcmphLWtldWFuZ2FuLWJhaWstdHVndS1yYWloLWJlc3QtaW5zdXJhbmNlLWF3YXJkLTIwMjI=",
+        "description": " PT Asuransi Tugu Pratama Indonesia Tbk (Tugu Insurance) meraih penghargaan Best Insurance Award 2022 untuk Kategori Perusahaan Asuransi Umum"
+    },
+    {
         "title": "Sudah Disuspensi 1 Tahun, Saham KPAS Terancam Delisting",
         "link": "https://www.cnbcindonesia.com/market/20220824142305-17-366263/sudah-disuspensi-1-tahun-saham-kpas-terancam-delisting",
         "image": "static/images/cnbc_market.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTMzNTIyLTE3LTM2NjI0NC9wYXNhci10dW5nZ3Uta29tZW50YXItcG93ZWxsLWJ1cnNhLWVyb3BhLWtvbXBhay10ZXJnZWxpbmNpcg==",
         "description": " Bursa saham Eropa di sesi awal kompak berada di zona merah pada perdagangan Rabu (24/8/2022)"
-    },
-    {
-        "title": "Cemas Dengan Kondisi Pasar, Entitas Grup Salim Batal IPO",
-        "link": "https://www.cnbcindonesia.com/market/20220824132323-17-366238/cemas-dengan-kondisi-pasar-entitas-grup-salim-batal-ipo",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTMyMzIzLTE3LTM2NjIzOC9jZW1hcy1kZW5nYW4ta29uZGlzaS1wYXNhci1lbnRpdGFzLWdydXAtc2FsaW0tYmF0YWwtaXBv",
-        "description": " Kondisi pasar yang dinilai belum stabil menjadi alasan Indorent membatalkan rencana IPO."
-    },
-    {
-        "title": "Digitalisasi, Digibank Gaungkan Slogan \"Live More, Bank Less\"",
-        "link": "https://www.cnbcindonesia.com/market/20220824144828-19-366270/digitalisasi-digibank-gaungkan-slogan-live-more-bank-less",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTQ0ODI4LTE5LTM2NjI3MC9kaWdpdGFsaXNhc2ktZGlnaWJhbmstZ2F1bmdrYW4tc2xvZ2FuLWxpdmUtbW9yZS1iYW5rLWxlc3M=",
-        "description": " Dorong Digitalisasi, Digibank Gaungkan Slogan \"Live More, Bank Less\""
-    },
-    {
-        "title": "Setelah Ada Rencana Merger, BMTR Justru Borong Saham MSIN",
-        "link": "https://www.cnbcindonesia.com/market/20220824144302-17-366269/setelah-ada-rencana-merger-bmtr-justru-borong-saham-msin",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTQ0MzAyLTE3LTM2NjI2OS9zZXRlbGFoLWFkYS1yZW5jYW5hLW1lcmdlci1ibXRyLWp1c3RydS1ib3Jvbmctc2FoYW0tbXNpbg==",
-        "description": " Akumulasi yang dilakukan cukup signifikan."
-    },
-    {
-        "title": "Harga BBM Mau Naik? Erick Beberkan Cara Biar Tepat Sasaran",
-        "link": "https://www.cnbcindonesia.com/market/20220824143204-17-366265/harga-bbm-mau-naik-erick-beberkan-cara-biar-tepat-sasaran",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTQzMjA0LTE3LTM2NjI2NS9oYXJnYS1iYm0tbWF1LW5haWstZXJpY2stYmViZXJrYW4tY2FyYS1iaWFyLXRlcGF0LXNhc2FyYW4=",
-        "description": " Erick mengatakan sebagai Kementerian BUMN menunggu penugasan pemerintah"
-    },
-    {
-        "title": "Dolar Singapura Tak Tumbang Meski BI Kerek Bunga Acuan",
-        "link": "https://www.cnbcindonesia.com/market/20220824122606-17-366219/dolar-singapura-tak-tumbang-meski-bi-kerek-bunga-acuan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI0MTIyNjA2LTE3LTM2NjIxOS9kb2xhci1zaW5nYXB1cmEtdGFrLXR1bWJhbmctbWVza2ktYmkta2VyZWstYnVuZ2EtYWN1YW4=",
-        "description": " Nilai tukar dolar Singapura masih mampu menguat melawan rupiah sejak Selasa kemarin"
     }
 ]
