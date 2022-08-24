@@ -1,5 +1,47 @@
 [
     {
+        "title": "Delegasi Terakhir Mahasiswa Penerima IISMA 2021 Tiba di Tanah Air",
+        "link": "https://mediaindonesia.com/humaniora/517450/delegasi-terakhir-mahasiswa-penerima-iisma-2021-tiba-di-tanah-air",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaHVtYW5pb3JhLzUxNzQ1MC9kZWxlZ2FzaS10ZXJha2hpci1tYWhhc2lzd2EtcGVuZXJpbWEtaWlzbWEtMjAyMS10aWJhLWRpLXRhbmFoLWFpcg==",
+        "description": "Mereka telah menyelesaikan kegiatan kuliah di Universiti Sains Malaysia (USM) selama satu semester sejak tanggal 21 Maret sampai dengan 15 Agustus 2022."
+    },
+    {
+        "title": "Tiga Unggulan Teratas Tersingkir di Cleveland",
+        "link": "https://mediaindonesia.com/olahraga/517470/tiga-unggulan-teratas-tersingkir-di-cleveland",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vb2xhaHJhZ2EvNTE3NDcwL3RpZ2EtdW5nZ3VsYW4tdGVyYXRhcy10ZXJzaW5na2lyLWRpLWNsZXZlbGFuZA==",
+        "description": "Krejcikova disingkirkan oleh petenis AS Bernarda Pena dengan skor 6-4 dan 6-1. Adapun Alexandrova menyerah di tangan petenis AS lainnya Madison Brengle 3-6, 7-5, dan 7-5."
+    },
+    {
+        "title": "Gado-gado dan Kerak Telor Masuk Daftar Street Food Terbaik Asia 2022",
+        "link": "https://mediaindonesia.com/weekend/517469/gado-gado-dan-kerak-telor-masuk-daftar-street-food-terbaik-asia-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vd2Vla2VuZC81MTc0NjkvZ2Fkby1nYWRvLWRhbi1rZXJhay10ZWxvci1tYXN1ay1kYWZ0YXItc3RyZWV0LWZvb2QtdGVyYmFpay1hc2lhLTIwMjI=",
+        "description": "Kerak telor menjadi jajanan tradisional yang sudah dinikmati sejak zaman kolonial Belanda."
+    },
+    {
+        "title": "Laga Amal Antara Barcelona dan Manchester City Berakhir Imbang",
+        "link": "https://mediaindonesia.com/sepak-bola/517468/laga-amal-antara-barcelona-dan-manchester-city-berakhir-imbang",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vc2VwYWstYm9sYS81MTc0NjgvbGFnYS1hbWFsLWFudGFyYS1iYXJjZWxvbmEtZGFuLW1hbmNoZXN0ZXItY2l0eS1iZXJha2hpci1pbWJhbmc=",
+        "description": "Pertandingan ini ditujukan untuk mantan pelatih dan penjaga gawang Barcelona, Juan Carlos Unzue, yang menderita penyakit ALS."
+    },
+    {
+        "title": "Pengadilan Tangguhkan Posisi Prayut Sebagai PM Thailand",
+        "link": "https://mediaindonesia.com/internasional/517461/pengadilan-tangguhkan-posisi-prayut-sebagai-pm-thailand",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaW50ZXJuYXNpb25hbC81MTc0NjEvcGVuZ2FkaWxhbi10YW5nZ3Voa2FuLXBvc2lzaS1wcmF5dXQtc2ViYWdhaS1wbS10aGFpbGFuZA==",
+        "description": "Pengadilan secara bulat sepakat menerima gugatan dari kelompok oposisi yang menyebut Prayut telah mencapai akhir dari masa jabatan delapan tahun sebagai perdana menteri."
+    },
+    {
+        "title": "Brighton, Leeds, dan Newcastle Melaju ke Putaran Ketiga Piala Liga",
+        "link": "https://mediaindonesia.com/sepak-bola/517467/brighton-leeds-dan-newcastle-melaju-ke-putaran-ketiga-piala-liga",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vc2VwYWstYm9sYS81MTc0NjcvYnJpZ2h0b24tbGVlZHMtZGFuLW5ld2Nhc3RsZS1tZWxhanUta2UtcHV0YXJhbi1rZXRpZ2EtcGlhbGEtbGlnYQ==",
+        "description": "Tiga klub Liga Primer Inggris berhasil lolos tanpa masalah ke putaran ketiga Piala Liga."
+    },
+    {
         "title": "Gangguan Osteoarthritis Mengancam Orang Dengan Berat Badan Berlebih",
         "link": "https://mediaindonesia.com/humaniora/517420/gangguan-osteoarthritis-mengancam-orang-dengan-berat-badan-berlebih",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vb3BpbmkvNTE3NDE1L2t1YWxpdGFzLXNkbS1qYXdhYmFuLWF0YXMtdGFudGFuZ2FuLWJhcnUtaW5kdXN0cmktcGFyaXdpc2F0YQ==",
         "description": "Kita telah berhasil melalui tantangan terberat sepanjang masa, kini saatnya mewujudkan semangat pulih lebih cepat, bangkit lebih kuat untuk industri pariwisata."
-    },
-    {
-        "title": "Mencegah Pola Konsumsi Memburuk",
-        "link": "https://mediaindonesia.com/opini/517412/mencegah-pola-konsumsi-memburuk",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vb3BpbmkvNTE3NDEyL21lbmNlZ2FoLXBvbGEta29uc3Vtc2ktbWVtYnVydWs=",
-        "description": "MENKO Bidang Kemaritiman dan Investasi Luhut Binsar Pandjaitan menyebutkan tingginya harga minyak mentah dunia mendorong meningkatnya harga BBM, khususnya pertalite dan solar."
-    },
-    {
-        "title": "Gol Tunggal Colak Antar Rangers di Babak Penyisihan Grup Liga Champions",
-        "link": "https://mediaindonesia.com/sepak-bola/517460/gol-tunggal-colak-antar-rangers-di-babak-penyisihan-grup-liga-champions",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vc2VwYWstYm9sYS81MTc0NjAvZ29sLXR1bmdnYWwtY29sYWstYW50YXItcmFuZ2Vycy1kaS1iYWJhay1wZW55aXNpaGFuLWdydXAtbGlnYS1jaGFtcGlvbnM=",
-        "description": "Colak mencetak gol pada menit 60 untuk mengantarkan Rangers menang 1-0 di markas PSV Eindhoven dan mengamankan kemenangan agregat 3-2 di babak playoff."
-    },
-    {
-        "title": "RB Leipzig Tertarik Datangkan Chalobah dari Chelsea",
-        "link": "https://mediaindonesia.com/sepak-bola/517457/rb-leipzig-tertarik-datangkan-chalobah-dari-chelsea",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vc2VwYWstYm9sYS81MTc0NTcvcmItbGVpcHppZy10ZXJ0YXJpay1kYXRhbmdrYW4tY2hhbG9iYWgtZGFyaS1jaGVsc2Vh",
-        "description": "RB Leipzig akan bersaing dengan klub Serie A Inter Milan, yang telah lebih dulu menunjukkan minat mereka untuk meminjam Chalobah."
-    },
-    {
-        "title": "Trip.com Gelar Acara Pop-Up di Bali untuk Bantu Anak-Anak Kurang Mampu",
-        "link": "https://mediaindonesia.com/humaniora/517455/tripcom-gelar-acara-pop-up-di-bali-untuk-bantu-anak-anak-kurang-mampu",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaHVtYW5pb3JhLzUxNzQ1NS90cmlwY29tLWdlbGFyLWFjYXJhLXBvcC11cC1kaS1iYWxpLXVudHVrLWJhbnR1LWFuYWstYW5hay1rdXJhbmctbWFtcHU=",
-        "description": "Dalam beberapa pekan terakhir, karyawan Trip.com Indonesia menghabiskan waktu makan siang mereka untuk membuat kerajinan tangan yang akan dijual selama acara amal pop-up."
-    },
-    {
-        "title": "10 Ribu Lebih Rumah di Cirebon tidak Layak Huni",
-        "link": "https://mediaindonesia.com/nusantara/517456/10-ribu-lebih-rumah-di-cirebon-tidak-layak-huni",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vbnVzYW50YXJhLzUxNzQ1Ni8xMC1yaWJ1LWxlYmloLXJ1bWFoLWRpLWNpcmVib24tdGlkYWstbGF5YWstaHVuaQ==",
-        "description": "Bupati Cirebon, Jawa Barat Imron mengatakan terdapat lebih dari 10 ribu rumah yang berada di daerah itu tidak layak huni, dan pemerintah per tahun hanya mampu memperbaiki 700 unit."
-    },
-    {
-        "title": "Manchester United Pinjamkan Bailly ke Marseille",
-        "link": "https://mediaindonesia.com/sepak-bola/517454/manchester-united-pinjamkan-bailly-ke-marseille",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vc2VwYWstYm9sYS81MTc0NTQvbWFuY2hlc3Rlci11bml0ZWQtcGluamFta2FuLWJhaWxseS1rZS1tYXJzZWlsbGU=",
-        "description": "Marseille membayarkan dana sebesar 6 juta euro untuk peminjaman Bailley dan klub Ligue 1 akan membayar gaji tahunan pemain belakang itu sebesar 5 juta euro."
     }
 ]
