@@ -1,5 +1,26 @@
 [
     {
+        "title": "Amankan Pasokan Listrik, China Tambah Utang 200 Miliar Yuan",
+        "link": "https://www.cnbcindonesia.com/news/20220825090236-8-366462/amankan-pasokan-listrik-china-tambah-utang-200-miliar-yuan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTA5MDIzNi04LTM2NjQ2Mi9hbWFua2FuLXBhc29rYW4tbGlzdHJpay1jaGluYS10YW1iYWgtdXRhbmctMjAwLW1pbGlhci15dWFu",
+        "description": " Pemerintah China menyetujui tambahan utang baru untuk meningkatkan kapasitas pembangkit listrik"
+    },
+    {
+        "title": "Rapat Maraton Menteri Jokowi Soal BBM, Ini Opsi Sementara",
+        "link": "https://www.cnbcindonesia.com/news/20220825083824-4-366453/rapat-maraton-menteri-jokowi-soal-bbm-ini-opsi-sementara",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTA4MzgyNC00LTM2NjQ1My9yYXBhdC1tYXJhdG9uLW1lbnRlcmktam9rb3dpLXNvYWwtYmJtLWluaS1vcHNpLXNlbWVudGFyYQ==",
+        "description": " Menteri ekonomi dari Kabinet Indonesia Maju menggelar rapat terkait dengan kenaikkan harga BBM. Berikut ini hasil sementara dari rapat penting tersebut."
+    },
+    {
+        "title": "Panas! Debat BBM di DPR",
+        "link": "https://www.cnbcindonesia.com/news/20220824205636-8-366398/panas-debat-bbm-di-dpr",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDIwNTYzNi04LTM2NjM5OC9wYW5hcy1kZWJhdC1iYm0tZGktZHBy",
+        "description": " Panas! Debat BBM di DPR"
+    },
+    {
         "title": "Begini Cara Hitung Pajak UMKM Versi Terbaru",
         "link": "https://www.cnbcindonesia.com/news/20220825082029-4-366449/begini-cara-hitung-pajak-umkm-versi-terbaru",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTA2NDIxMC00LTM2NjQyMi93YWhhaS13YXJnYS0tNjItc2lhcC1zaWFwLXRhbmdndW5nLWRlcml0YS1pbmk=",
         "description": " Meskipun ekonomi tumbuh tinggi, tetapi beban masyarakat menengah ke bawah di Indonesia terbilang berat saat ini ketika semua harga barang dan jasa naik."
-    },
-    {
-        "title": "Lewat Tol Ini Jakarta-Bandung Cuma Sejam, Tarifnya Merakyat?",
-        "link": "https://www.cnbcindonesia.com/news/20220825064411-4-366421/lewat-tol-ini-jakarta-bandung-cuma-sejam-tarifnya-merakyat",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTA2NDQxMS00LTM2NjQyMS9sZXdhdC10b2wtaW5pLWpha2FydGEtYmFuZHVuZy1jdW1hLXNlamFtLXRhcmlmbnlhLW1lcmFreWF0",
-        "description": " Jika tersambung sepenuhnya, jalan tol Japek II Selatan dirancang mencapai 62 km, yang diharapkan bisa mengurangi beban lalu lintas Jakarta-Cikampek saat ini."
-    },
-    {
-        "title": "Gaji Fantastis PNS DKI Jakarta, Ada yang di Atas Rp100 Juta?",
-        "link": "https://www.cnbcindonesia.com/news/20220825060502-4-366411/gaji-fantastis-pns-dki-jakarta-ada-yang-di-atas-rp100-juta",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTA2MDUwMi00LTM2NjQxMS9nYWppLWZhbnRhc3Rpcy1wbnMtZGtpLWpha2FydGEtYWRhLXlhbmctZGktYXRhcy1ycDEwMC1qdXRh",
-        "description": " Simak besaran gaji fantastis yang diterima PNS DKI Jakarta"
-    },
-    {
-        "title": "Erdogan Bela Ukraina Soal Pencaplokan Krimea oleh Rusia",
-        "link": "https://www.cnbcindonesia.com/news/20220824190140-8-366384/erdogan-bela-ukraina-soal-pencaplokan-krimea-oleh-rusia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDE5MDE0MC04LTM2NjM4NC9lcmRvZ2FuLWJlbGEtdWtyYWluYS1zb2FsLXBlbmNhcGxva2FuLWtyaW1lYS1vbGVoLXJ1c2lh",
-        "description": " Presiden Turki Recep Tayyip Erdogan mengatakan jika perebutan wilayah Krimea oleh Rusia melanggar hukum internasional."
     }
 ]
