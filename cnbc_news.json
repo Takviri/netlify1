@@ -1,5 +1,47 @@
 [
     {
+        "title": "Sri Mulyani Ungkap Dunia Terancam Krisis Utang dan Stagflasi",
+        "link": "https://www.cnbcindonesia.com/news/20220825152145-4-366626/sri-mulyani-ungkap-dunia-terancam-krisis-utang-stagflasi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTE1MjE0NS00LTM2NjYyNi9zcmktbXVseWFuaS11bmdrYXAtZHVuaWEtdGVyYW5jYW0ta3Jpc2lzLXV0YW5nLXN0YWdmbGFzaQ==",
+        "description": " Menteri Keuangan Sri Mulyani indrawati mengungkapkan situasi perekonomian dunia yang semakin memburuk."
+    },
+    {
+        "title": "Harga Minyak Goreng Bermerek Turun Terus, eh Curah Naik Turun",
+        "link": "https://www.cnbcindonesia.com/news/20220825140627-4-366594/harga-minyak-goreng-bermerek-turun-terus-eh-curah-naik-turun",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTE0MDYyNy00LTM2NjU5NC9oYXJnYS1taW55YWstZ29yZW5nLWJlcm1lcmVrLXR1cnVuLXRlcnVzLWVoLWN1cmFoLW5haWstdHVydW4=",
+        "description": " Sudah sepekan, harga minyak goreng curah naik turun."
+    },
+    {
+        "title": "Sanksi Pajak Kini Berpatokan ke Suku Bunga BI, Ini Rumusnya!",
+        "link": "https://www.cnbcindonesia.com/news/20220825133729-4-366582/sanksi-pajak-kini-berpatokan-ke-suku-bunga-bi-ini-rumusnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTEzMzcyOS00LTM2NjU4Mi9zYW5rc2ktcGFqYWsta2luaS1iZXJwYXRva2FuLWtlLXN1a3UtYnVuZ2EtYmktaW5pLXJ1bXVzbnlh",
+        "description": " Dalam UU Cipta Kerja,\u00c2\u00a0 tarifnya sanksi atau denda administrasi pajak mengacu pada Suku Bunga Acuan Bank Indonesia."
+    },
+    {
+        "title": "Indonesia Masih Bisa Jadi Negara Maju, Bu Sri Mulyani?",
+        "link": "https://www.cnbcindonesia.com/news/20220825142959-4-366600/indonesia-masih-bisa-jadi-negara-maju-bu-sri-mulyani",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTE0Mjk1OS00LTM2NjYwMC9pbmRvbmVzaWEtbWFzaWgtYmlzYS1qYWRpLW5lZ2FyYS1tYWp1LWJ1LXNyaS1tdWx5YW5p",
+        "description": " Indonesia memiliki potensi untuk menjadi negara maju."
+    },
+    {
+        "title": "Beda Pandang BI, DPR dan Ekonom Soal Rp 1.000 Diganti Rp 1",
+        "link": "https://www.cnbcindonesia.com/news/20220825135109-4-366587/beda-pandang-bi-dpr-ekonom-soal-rp-1000-diganti-rp-1",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTEzNTEwOS00LTM2NjU4Ny9iZWRhLXBhbmRhbmctYmktZHByLWVrb25vbS1zb2FsLXJwLTEwMDAtZGlnYW50aS1ycC0x",
+        "description": " Redenominasi atau penyederhanaan nilai mata uang kini menjadi perbincangan hangat di publik."
+    },
+    {
+        "title": "Nasib Penjualan Properti, Setelah Suku Bunga Acuan Naik",
+        "link": "https://www.cnbcindonesia.com/news/20220825135411-8-366589/nasib-penjualan-properti-setelah-suku-bunga-acuan-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTEzNTQxMS04LTM2NjU4OS9uYXNpYi1wZW5qdWFsYW4tcHJvcGVydGktc2V0ZWxhaC1zdWt1LWJ1bmdhLWFjdWFuLW5haWs=",
+        "description": " Nasib Penjualan Properti, Setelah Suku Bunga Acuan Naik"
+    },
+    {
         "title": "Imbas Jokowi Ngamuk, 13.600 Produk Impor Diblokir LKPP!",
         "link": "https://www.cnbcindonesia.com/news/20220825143352-4-366604/imbas-jokowi-ngamuk-13600-produk-impor-diblokir-lkpp",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTEzMDQ0MC00LTM2NjU3My9zaW1hay1sYWdpLXBlbnllYmFiLWJpYXlhLWluZnJhc3RydWt0dXIta2VyZXRhLWRpLXJpLWJlbmdrYWs=",
         "description": " MRT Jakarta Fase II disebut-sebut mengalami pembengkakan biaya sebesar 18%."
-    },
-    {
-        "title": "Harga Pertalite Naik, Imbasnya ke Makanan Sampai Angkot!",
-        "link": "https://www.cnbcindonesia.com/news/20220825133546-4-366597/harga-pertalite-naik-imbasnya-ke-makanan-sampai-angkot",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTEzMzU0Ni00LTM2NjU5Ny9oYXJnYS1wZXJ0YWxpdGUtbmFpay1pbWJhc255YS1rZS1tYWthbmFuLXNhbXBhaS1hbmdrb3Q=",
-        "description": " Harga BBM Pertalite dan Solar Subsidi dipastikan akan naik, efek dominonya, makanan sampai angkot terimbas naik"
-    },
-    {
-        "title": "Korea Rugi Banyak, Kapal Selamnya Tak Laku Lagi di Indonesia",
-        "link": "https://www.cnbcindonesia.com/news/20220825135120-4-366588/korea-rugi-banyak-kapal-selamnya-tak-laku-lagi-di-indonesia",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTEzNTEyMC00LTM2NjU4OC9rb3JlYS1ydWdpLWJhbnlhay1rYXBhbC1zZWxhbW55YS10YWstbGFrdS1sYWdpLWRpLWluZG9uZXNpYQ==",
-        "description": " Korsel dikabarkan menanggung kerugian besar karena Indonesia belum juga membayar kontrak pengadaan 3 kapal selam baru tahap kedua."
-    },
-    {
-        "title": "Lebih dari 20% APBN Bakal Habis Dibakar BBM",
-        "link": "https://www.cnbcindonesia.com/news/20220825130012-4-366561/lebih-dari-20-apbn-bakal-habis-dibakar-bbm",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTEzMDAxMi00LTM2NjU2MS9sZWJpaC1kYXJpLTIwLWFwYm4tYmFrYWwtaGFiaXMtZGliYWthci1iYm0=",
-        "description": " Jika subsidi energi ditambah jadi Rp 700 triliun, artinya pemerintah akan membakar uang yang setara dengan kurang lebih 23% APBN 2022."
-    },
-    {
-        "title": "Rusia Bombardir Stasiun Kereta Ukraina di HUT Ke-31",
-        "link": "https://www.cnbcindonesia.com/news/20220825120627-8-366537/rusia-bombardir-stasiun-kereta-ukraina-di-hut-ke-31",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTEyMDYyNy04LTM2NjUzNy9ydXNpYS1ib21iYXJkaXItc3Rhc2l1bi1rZXJldGEtdWtyYWluYS1kaS1odXQta2UtMzE=",
-        "description": " Rusia dilaporkan telah menyerang sebuah stasiun kereta api di Ukraina pada Rabu kemarin."
-    },
-    {
-        "title": "Xi Jinping Tebar \"Helikopter Duit\" Rp 2.000 T, China Krisis?",
-        "link": "https://www.cnbcindonesia.com/news/20220825123603-4-366546/xi-jinping-tebar-helikopter-duit-rp-2000-t-china-krisis",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTEyMzYwMy00LTM2NjU0Ni94aS1qaW5waW5nLXRlYmFyLWhlbGlrb3B0ZXItZHVpdC1ycC0yMDAwLXQtY2hpbmEta3Jpc2lz",
-        "description": " China bersiap menggelontorkan stimulus ekonomi sebesar 1 triliun yuan atau setara Rp2.164 triliun."
-    },
-    {
-        "title": "Kebal Resesi, Ekonomi Jerman Tumbuh di Atas Ekspektasi",
-        "link": "https://www.cnbcindonesia.com/news/20220825135500-4-366590/kebal-resesi-ekonomi-jerman-tumbuh-di-atas-ekspektasi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTEzNTUwMC00LTM2NjU5MC9rZWJhbC1yZXNlc2ktZWtvbm9taS1qZXJtYW4tdHVtYnVoLWRpLWF0YXMtZWtzcGVrdGFzaQ==",
-        "description": " Kendati pertumbuhan ekonomi Jerman melambat pada kuartal II/2022, negara tersebut masih tak tersentuh \"hantu\" resesi."
     }
 ]
