@@ -1,5 +1,33 @@
 [
     {
+        "title": "Parah! Banyak Bandit dan Zombie di BBM Bersubsidi",
+        "link": "https://www.cnbcindonesia.com/news/20220825100110-4-366484/parah-banyak-bandit-dan-zombie-di-bbm-bersubsidi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTEwMDExMC00LTM2NjQ4NC9wYXJhaC1iYW55YWstYmFuZGl0LWRhbi16b21iaWUtZGktYmJtLWJlcnN1YnNpZGk=",
+        "description": " Komisi VII DPR mengungkapkan banyak bandit dengan truk zombie yang menghisap BBM bersubsidi"
+    },
+    {
+        "title": "Dorong Produksi dan Hilirisasi Sorgum, Seberapa Menguntungkan?",
+        "link": "https://www.cnbcindonesia.com/news/20220825094936-8-366478/dorong-produksi-hilirisasi-sorgum-seberapa-menguntungkan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTA5NDkzNi04LTM2NjQ3OC9kb3JvbmctcHJvZHVrc2ktaGlsaXJpc2FzaS1zb3JndW0tc2ViZXJhcGEtbWVuZ3VudHVuZ2thbg==",
+        "description": " Jokowi Dorong Produksi dan Hilirisasi Sorgum, Seberapa Menguntungkan?"
+    },
+    {
+        "title": "Demi Tiket Pesawat Murah Menhub Kopi Darat dan Minta Diskon PPN",
+        "link": "https://www.cnbcindonesia.com/news/20220825094613-4-366482/demi-tiket-pesawat-murah-menhub-kopi-darat-minta-diskon-ppn",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTA5NDYxMy00LTM2NjQ4Mi9kZW1pLXRpa2V0LXBlc2F3YXQtbXVyYWgtbWVuaHViLWtvcGktZGFyYXQtbWludGEtZGlza29uLXBwbg==",
+        "description": " Harga tiket pesawat masih mahal dan dikeluhkan banyak masyarakat."
+    },
+    {
+        "title": "Rusia Disebut Sudah Menang Perang Lawan Ukraina, Ini Buktinya",
+        "link": "https://www.cnbcindonesia.com/news/20220825085301-4-366457/rusia-disebut-sudah-menang-perang-lawan-ukraina-ini-buktinya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTA4NTMwMS00LTM2NjQ1Ny9ydXNpYS1kaXNlYnV0LXN1ZGFoLW1lbmFuZy1wZXJhbmctbGF3YW4tdWtyYWluYS1pbmktYnVrdGlueWE=",
+        "description": " Perang Rusia dengan Ukraina sudah berlangsung selama hampir 6 bulan, dan belum ada tanda-tanda akan segera berakhir."
+    },
+    {
         "title": "Antisipasi Krisis Energi, Jepang Berencana Bangun PLTN Baru",
         "link": "https://www.cnbcindonesia.com/news/20220825090138-8-366461/antisipasi-krisis-energi-jepang-berencana-bangun-pltn-baru",
         "image": "static/images/cnbc_news.png",
@@ -21,10 +49,10 @@
         "description": " PLN ungkap inovasi yang dibutuhkan kedepan adalah inovasi yang akan memberikan value creation kepada perusahaan dalam menghadapi tantangan global."
     },
     {
-        "title": "Begini Ramalan Bos Pengusaha Soal Harga Mi Instan dan",
-        "link": "https://www.cnbcindonesia.com/news/20220825092447-4-366476/begini-ramalan-bos-pengusaha-soal-harga-mi-instan-",
+        "title": "Begini Ramalan Bos Pengusaha Soal Harga Mi Instan dan BBM",
+        "link": "https://www.cnbcindonesia.com/news/20220825092447-4-366476/begini-ramalan-bos-pengusaha-soal-harga-mi-instan-bbm",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTA5MjQ0Ny00LTM2NjQ3Ni9iZWdpbmktcmFtYWxhbi1ib3MtcGVuZ3VzYWhhLXNvYWwtaGFyZ2EtbWktaW5zdGFuLQ==",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTA5MjQ0Ny00LTM2NjQ3Ni9iZWdpbmktcmFtYWxhbi1ib3MtcGVuZ3VzYWhhLXNvYWwtaGFyZ2EtbWktaW5zdGFuLWJibQ==",
         "description": " Kenaikan harga\u00c2\u00a0mi instan diprediksi sudah mencapai puncak."
     },
     {
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTA5NTM1MS00LTM2NjQ4MS90aWdhLWplbmlzLWJibS1yZXNtaS1uYWlrLWNlay1oYXJnYS10ZXJiYXJ1LWRpLXNwYnUtaGFyaS1pbmk=",
         "description": " Pertamina sejak 3 Agustus resmi menaikkan harga tiga jenis BBM non subsidinya"
-    },
-    {
-        "title": "Rumah Yusuf Mansur Digeruduk Jemaah, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220825091830-8-366468/rumah-yusuf-mansur-digeruduk-jemaah-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTA5MTgzMC04LTM2NjQ2OC9ydW1haC15dXN1Zi1tYW5zdXItZGlnZXJ1ZHVrLWplbWFhaC1hZGEtYXBh",
-        "description": " Rumah Ustadz Yusuf Mansur kembali digeruduk puluhan orang"
-    },
-    {
-        "title": "Kronologi Putin Selamat dari Percobaan Pembunuhan, Sakti!",
-        "link": "https://www.cnbcindonesia.com/news/20220825092749-4-366471/kronologi-putin-selamat-dari-percobaan-pembunuhan-sakti",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTA5Mjc0OS00LTM2NjQ3MS9rcm9ub2xvZ2ktcHV0aW4tc2VsYW1hdC1kYXJpLXBlcmNvYmFhbi1wZW1idW51aGFuLXNha3Rp",
-        "description": " Presiden Rusia Vladimir Putin dilaporkan selamat dari percobaan pembunuhan melalui teror bom yang menewaskan Daria Dugina."
-    },
-    {
-        "title": "Disorot Jokowi Terus, Ini Dia Raja Gandum Dunia! AS Kalah",
-        "link": "https://www.cnbcindonesia.com/news/20220825090420-4-366464/disorot-jokowi-terus-ini-dia-raja-gandum-dunia-as-kalah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTA5MDQyMC00LTM2NjQ2NC9kaXNvcm90LWpva293aS10ZXJ1cy1pbmktZGlhLXJhamEtZ2FuZHVtLWR1bmlhLWFzLWthbGFo",
-        "description": " Presiden Joko Widodo (Jokowi) berulang kali menyinggung soal gangguan rantai pasok gandum dunia. Yang diperparah perang Rusia-Ukraina.'"
-    },
-    {
-        "title": "Amankan Pasokan Listrik, China Tambah Utang 200 Miliar Yuan",
-        "link": "https://www.cnbcindonesia.com/news/20220825090236-8-366462/amankan-pasokan-listrik-china-tambah-utang-200-miliar-yuan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTA5MDIzNi04LTM2NjQ2Mi9hbWFua2FuLXBhc29rYW4tbGlzdHJpay1jaGluYS10YW1iYWgtdXRhbmctMjAwLW1pbGlhci15dWFu",
-        "description": " Pemerintah China menyetujui tambahan utang baru untuk meningkatkan kapasitas pembangkit listrik"
     }
 ]
