@@ -1,5 +1,19 @@
 [
     {
+        "title": "Puan Dorong UMKM Segera Go Digital",
+        "link": "https://www.jawapos.com/nasional/politik/25/08/2022/puan-dorong-umkm-segera-go-digital/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvcG9saXRpay8yNS8wOC8yMDIyL3B1YW4tZG9yb25nLXVta20tc2VnZXJhLWdvLWRpZ2l0YWwv",
+        "description": "Festival UMKM ini dinilai penting karena merupakan bagian dari perjuangan nyata PDIP untuk membangkitkan sektor usaha menengah kecil itu."
+    },
+    {
+        "title": "Pemprov Jatim dan DPRD Jajaki Skema Baru BPOPP SMA/SMK",
+        "link": "https://www.jawapos.com/nasional/25/08/2022/pemprov-jatim-dan-dprd-jajaki-skema-baru-bpopp-sma-smk/?page=all",
+        "image": "static/images/jawapos_nasional.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMjUvMDgvMjAyMi9wZW1wcm92LWphdGltLWRhbi1kcHJkLWphamFraS1za2VtYS1iYXJ1LWJwb3BwLXNtYS1zbWsv",
+        "description": "Pemprov Jatim dan DPRD tengah mengevaluasi pelaksanaan program pemberian biaya penunjang operasional penyelenggaraan pendidikan untuk siswa SMA/SMK/sederajat."
+    },
+    {
         "title": "Janjikan Lulus Kuliah, Dosen Gadungan Diduga Lecehkan 10 Mahasiswinya",
         "link": "https://www.jawapos.com/nasional/hukum-kriminal/25/08/2022/janjikan-lulus-kuliah-dosen-gadungan-diduga-lecehkan-10-mahasiswinya/?page=all",
         "image": "static/images/jawapos_nasional.png",
@@ -54,19 +68,5 @@
         "image": "static/images/jawapos_nasional.png",
         "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvcG9saXRpay8yNS8wOC8yMDIyL3BiLWtvcHJpLXBtaWktZGVrbGFyYXNpLXBlbXVkYS10b2xlcmFuLWRpLWZvcnVtLWF3aWMv",
         "description": "Keberadaan agen perempuan perdamaian ini sangat penting. Karena banyak komunitas perempuan di dunia ini yang konsen di bidang perdamaian."
-    },
-    {
-        "title": "Kapolri: Ikut Barisan atau Keluar!",
-        "link": "https://www.jawapos.com/nasional/hukum-kriminal/25/08/2022/kapolri-ikut-barisan-atau-keluar/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvaHVrdW0ta3JpbWluYWwvMjUvMDgvMjAyMi9rYXBvbHJpLWlrdXQtYmFyaXNhbi1hdGF1LWtlbHVhci8=",
-        "description": "Kapolri Jenderal Listyo Sigit Prabowo menekankan, anggota Polri yang tidak bisa berkomitmen, pilihannya ikut barisan atau keluar."
-    },
-    {
-        "title": "Jadi Justice Collaborator, Bharada E Hadir Online di Sidang Etik Sambo",
-        "link": "https://www.jawapos.com/nasional/25/08/2022/jadi-justice-collaborator-bharada-e-hadir-online-di-sidang-etik-sambo/?page=all",
-        "image": "static/images/jawapos_nasional.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vbmFzaW9uYWwvMjUvMDgvMjAyMi9qYWRpLWp1c3RpY2UtY29sbGFib3JhdG9yLWJoYXJhZGEtZS1oYWRpci1vbmxpbmUtZGktc2lkYW5nLWV0aWstc2FtYm8v",
-        "description": "Bharada Richard Eliezer Pudihang Lumiu atau Bharada E menjadi saksi dalam sidang komisi etik terhadap Irjen Pol. Ferdy Sambo, Kamis"
     }
 ]

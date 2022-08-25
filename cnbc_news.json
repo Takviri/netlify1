@@ -1,5 +1,40 @@
 [
     {
+        "title": "Potret Imam Besar Masjidil Haram Divonis 10 Tahun Penjara",
+        "link": "https://www.cnbcindonesia.com/news/20220825175356-7-366691/potret-imam-besar-masjidil-haram-divonis-10-tahun-penjara",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTE3NTM1Ni03LTM2NjY5MS9wb3RyZXQtaW1hbS1iZXNhci1tYXNqaWRpbC1oYXJhbS1kaXZvbmlzLTEwLXRhaHVuLXBlbmphcmE=",
+        "description": " Pengadilan Arab Saudi menjatuhkan hukuman 10 tahun ke imam Masjidil Haram di Mekah, Sheikh Salah Al-Talib."
+    },
+    {
+        "title": "Adu Viral Calon Sudah Bertebaran",
+        "link": "https://www.cnbcindonesia.com/news/20220825191032-8-366724/adu-viral-calon-sudah-bertebaran",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTE5MTAzMi04LTM2NjcyNC9hZHUtdmlyYWwtY2Fsb24tc3VkYWgtYmVydGViYXJhbg==",
+        "description": " Pasar saham nampak sangat hati-hati jelang pemilu 2024 mendatang."
+    },
+    {
+        "title": "Widih! Penampakan Kota Tua Jakarta Makin Keren Abis",
+        "link": "https://www.cnbcindonesia.com/news/20220825163434-7-366653/widih-penampakan-kota-tua-jakarta-makin-keren-abis",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTE2MzQzNC03LTM2NjY1My93aWRpaC1wZW5hbXBha2FuLWtvdGEtdHVhLWpha2FydGEtbWFraW4ta2VyZW4tYWJpcw==",
+        "description": " Revitalisasi kawasan Kota Tua Jakarta sudah mencapai 98 persen."
+    },
+    {
+        "title": "Simalakama BBM Bersubsidi, Jadi Naik Atau Tidak?",
+        "link": "https://www.cnbcindonesia.com/news/20220825193046-8-366725/simalakama-bbm-bersubsidi-jadi-naik-atau-tidak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTE5MzA0Ni04LTM2NjcyNS9zaW1hbGFrYW1hLWJibS1iZXJzdWJzaWRpLWphZGktbmFpay1hdGF1LXRpZGFr",
+        "description": " pemerintah menaikkan harga BBM subsidi pertalite dan solar bagaimana tanggapan masyarakat mengenai kebijakan tersebut?"
+    },
+    {
+        "title": "Tembus Rp 2.800 T, Skema Pensiun PNS Bebani Kas Negara!",
+        "link": "https://www.cnbcindonesia.com/news/20220825181445-16-366702/tembus-rp-2800-t-skema-pensiun-pns-bebani-kas-negara",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTE4MTQ0NS0xNi0zNjY3MDIvdGVtYnVzLXJwLTI4MDAtdC1za2VtYS1wZW5zaXVuLXBucy1iZWJhbmkta2FzLW5lZ2FyYQ==",
+        "description": " Skema pensiun Aparatur Sipil Negara (ASN) ternyata memberikan beban berat bagi negara."
+    },
+    {
         "title": "Pemilu Serentak Kian Dekat, Ekonomi Apa Kabar Ya?",
         "link": "https://www.cnbcindonesia.com/news/20220825190815-8-366723/pemilu-serentak-kian-dekat-ekonomi-apa-kabar-ya",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTE4MjEyOS00LTM2NjcwNS9zcmktbXVseWFuaS1zb2xhci1zZWhhcnVzbnlhLXJwMTM5NTAtcGVydGFsaXRlLXJwMTQ0NTA=",
         "description": " Sri Mulyani mengungkapkan bahwa subsidi yang ditetapkan sebesar Rp 502 triliun diperkirakan tidak akan cukup menutupi kebutuhan masyarakat."
-    },
-    {
-        "title": "BBM Belum Resmi Naik, Pedagang Pasar Mulai Deg-Degan",
-        "link": "https://www.cnbcindonesia.com/news/20220825171647-4-366675/bbm-belum-resmi-naik-pedagang-pasar-mulai-deg-degan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTE3MTY0Ny00LTM2NjY3NS9iYm0tYmVsdW0tcmVzbWktbmFpay1wZWRhZ2FuZy1wYXNhci1tdWxhaS1kZWctZGVnYW4=",
-        "description": " Rencana pemerintah dalam menaikkan harga BBM semakin berhembus kencang, pedagang pasar mulai siap-siap konsekuensinya."
-    },
-    {
-        "title": "Pemerintah 'Menggodok' Rencana Kenaikan Harga Pertalite CS",
-        "link": "https://www.cnbcindonesia.com/news/20220825185507-8-366719/pemerintah-menggodok-rencana-kenaikan-harga-pertalite-cs",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTE4NTUwNy04LTM2NjcxOS9wZW1lcmludGFoLW1lbmdnb2Rvay1yZW5jYW5hLWtlbmFpa2FuLWhhcmdhLXBlcnRhbGl0ZS1jcw==",
-        "description": " Pemerintah terus membahas rencana kenaikan BBM bersubsidi jenis Pertalite sejumlah menteri pun hadir di Istana Negara."
-    },
-    {
-        "title": "Jangan Lengah! Ada 5.214 Kasus Baru Covid-19 di RI Hari Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220825172554-16-366686/jangan-lengah-ada-5214-kasus-baru-covid-19-di-ri-hari-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTE3MjU1NC0xNi0zNjY2ODYvamFuZ2FuLWxlbmdhaC1hZGEtNTIxNC1rYXN1cy1iYXJ1LWNvdmlkLTE5LWRpLXJpLWhhcmktaW5p",
-        "description": " Total kasus konfirmasi mencapai 6.334.357."
-    },
-    {
-        "title": "Kontraktor 'Nangis Darah', Menteri Jokowi Turun Tangan",
-        "link": "https://www.cnbcindonesia.com/news/20220825162032-4-366685/kontraktor-nangis-darah-menteri-jokowi-turun-tangan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTE2MjAzMi00LTM2NjY4NS9rb250cmFrdG9yLW5hbmdpcy1kYXJhaC1tZW50ZXJpLWpva293aS10dXJ1bi10YW5nYW4=",
-        "description": " PUPR\u00c2\u00a0merespons permintaan kontraktor tentang penyesuaian harga barang untuk jasa konstruksi yang tengah melonjak."
-    },
-    {
-        "title": "Jelang Pemilu Nasib Ekonomi Gimana?",
-        "link": "https://www.cnbcindonesia.com/news/20220825184115-8-366716/jelang-pemilu-nasib-ekonomi-gimana",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTE4NDExNS04LTM2NjcxNi9qZWxhbmctcGVtaWx1LW5hc2liLWVrb25vbWktZ2ltYW5h",
-        "description": " Jelang Pemilu Nasib Ekonomi Gimana?"
     }
 ]
