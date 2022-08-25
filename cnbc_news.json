@@ -1,5 +1,19 @@
 [
     {
+        "title": "Bukan Kenaikan Suku Bunga, Ini Paling Ditakuti Pengembang",
+        "link": "https://www.cnbcindonesia.com/news/20220825215250-4-366729/bukan-kenaikan-suku-bunga-ini-paling-ditakuti-pengembang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTIxNTI1MC00LTM2NjcyOS9idWthbi1rZW5haWthbi1zdWt1LWJ1bmdhLWluaS1wYWxpbmctZGl0YWt1dGktcGVuZ2VtYmFuZw==",
+        "description": " Bank Indonesia sudah menaikkan suku bunga acuan sebesar 0,25 poin."
+    },
+    {
+        "title": "Melegakan, Hari Ini Kasus Covid-19 RI Turun Jadi 3.300",
+        "link": "https://www.cnbcindonesia.com/news/20220822180212-16-365695/melegakan-hari-ini-kasus-covid-19-ri-turun-jadi-3300",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjE4MDIxMi0xNi0zNjU2OTUvbWVsZWdha2FuLWhhcmktaW5pLWthc3VzLWNvdmlkLTE5LXJpLXR1cnVuLWphZGktMzMwMA==",
+        "description": " Satgas Penanganan Covid-19 mencatat, pertambahan kasus Covid-19 RI hari ini, Senin (22/8/2022) sebanyak 3.300 konfirmasi positif."
+    },
+    {
         "title": "China \"Genjot\" Lagi Batu Bara, Ada Apa?",
         "link": "https://www.cnbcindonesia.com/news/20220825131257-4-366569/china-genjot-lagi-batu-bara-ada-apa",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTE5MDgxNS04LTM2NjcyMy9wZW1pbHUtc2VyZW50YWsta2lhbi1kZWthdC1la29ub21pLWFwYS1rYWJhci15YQ==",
         "description": " Pemilu Serentak Kian Dekat, Ekonomi Apa Kabar Ya?"
-    },
-    {
-        "title": "Indonesia Akan Beli Minyak Rusia? Ini Bocoran Kemlu",
-        "link": "https://www.cnbcindonesia.com/news/20220825161805-4-366643/indonesia-akan-beli-minyak-rusia-ini-bocoran-kemlu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTE2MTgwNS00LTM2NjY0My9pbmRvbmVzaWEtYWthbi1iZWxpLW1pbnlhay1ydXNpYS1pbmktYm9jb3Jhbi1rZW1sdQ==",
-        "description": " Pemerintah Indonesia dikabarkan memiliki keinginan untuk melakukan impor minyak mentah murah dari Rusia."
-    },
-    {
-        "title": "Menakar Ekonomi Jelang Hajatan Politik 2024",
-        "link": "https://www.cnbcindonesia.com/news/20220825190129-8-366721/menakar-ekonomi-jelang-hajatan-politik-2024",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTE5MDEyOS04LTM2NjcyMS9tZW5ha2FyLWVrb25vbWktamVsYW5nLWhhamF0YW4tcG9saXRpay0yMDI0",
-        "description": " wah gak berasa ya sekarang udah mau nyoblos lagi nih tapi bagaimana sih dampak pertumbuhan ekonomi saat ini ?"
     }
 ]
