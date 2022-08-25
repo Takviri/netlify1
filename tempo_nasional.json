@@ -1,5 +1,40 @@
 [
     {
+        "title": "Sidang Kode Etik Ferdy Sambo Ikut Dipantau Kompolnas",
+        "link": "https://nasional.tempo.co/read/1626801/sidang-kode-etik-ferdy-sambo-ikut-dipantau-kompolnas",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjY4MDEvc2lkYW5nLWtvZGUtZXRpay1mZXJkeS1zYW1iby1pa3V0LWRpcGFudGF1LWtvbXBvbG5hcw==",
+        "description": "Kompolna mengutus tiga perwakilannya untuk mengawasi sidang Komisi Kode Etik Polri (KKEP) Irjen Ferdy Sambo."
+    },
+    {
+        "title": "Perluas Keagenan, Pegadaian Berkolaborasi dengan ASABRI",
+        "link": "https://nasional.tempo.co/read/1626806/perluas-keagenan-pegadaian-berkolaborasi-dengan-asabri",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjY4MDYvcGVybHVhcy1rZWFnZW5hbi1wZWdhZGFpYW4tYmVya29sYWJvcmFzaS1kZW5nYW4tYXNhYnJp",
+        "description": "Kerja sama meliputi kegiatan literasi, sosialisasi dan kerja sama pembentukan agen, serta pemanfaatan produk dan layanan jasa keuangan Pegadaian"
+    },
+    {
+        "title": "Kasus Brigadir J, Mayoritas Publik Menilai Ferdy Sambo Pantas Dihukum Mati",
+        "link": "https://nasional.tempo.co/read/1626795/kasus-brigadir-j-mayoritas-publik-menilai-ferdy-sambo-pantas-dihukum-mati",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjY3OTUva2FzdXMtYnJpZ2FkaXItai1tYXlvcml0YXMtcHVibGlrLW1lbmlsYWktZmVyZHktc2FtYm8tcGFudGFzLWRpaHVrdW0tbWF0aQ==",
+        "description": "Hasil survei Indikator Politik Indonesia menyebutkan mayoritas masyarakat menilai Ferdy Sambo layak dihukum mati karena membunuh Brigadir J."
+    },
+    {
+        "title": "Ferdy Sambo Ajukan Pengunduran Diri, Begini Ketentuannya Menurut Peraturan",
+        "link": "https://nasional.tempo.co/read/1626785/ferdy-sambo-ajukan-pengunduran-diri-begini-ketentuannya-menurut-peraturan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjY3ODUvZmVyZHktc2FtYm8tYWp1a2FuLXBlbmd1bmR1cmFuLWRpcmktYmVnaW5pLWtldGVudHVhbm55YS1tZW51cnV0LXBlcmF0dXJhbg==",
+        "description": "Pengunduran diri anggota Polri diatur dalam Peraturan Kepolisian Negara Republik Indonesia Nomor 1 Tahun 2019."
+    },
+    {
+        "title": "Bamsoet: Koperasi Sokoguru Perekonomian Nasional",
+        "link": "https://nasional.tempo.co/read/1626794/bamsoet-koperasi-sokoguru-perekonomian-nasional",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjY3OTQvYmFtc29ldC1rb3BlcmFzaS1zb2tvZ3VydS1wZXJla29ub21pYW4tbmFzaW9uYWw=",
+        "description": "Koperasi merupakan representasi perekonomian yang paling nyata dari amanat Pasal 33 Ayat (1) UUD 1945"
+    },
+    {
         "title": "Kasus Ferdy Sambo, Ketua IPW Mengaku Sempat Dihubungi 2 Anggota DPR",
         "link": "https://nasional.tempo.co/read/1626781/kasus-ferdy-sambo-ketua-ipw-mengaku-sempat-dihubungi-2-anggota-dpr",
         "image": "static/images/tempo_nasional.png",
@@ -33,40 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjY3NjIvc2lkYW5nLWV0aWstZmVyZHktc2FtYm8taW5pLWFsYXNhbi1iaGFyYWRhLWUtZGloYWRpcmthbi1zZWNhcmEtdmlydHVhbA==",
         "description": "Bharada E dihadirkan secara virtual dalam sidang etik Ferdy Sambo karena statusnya sebagai justice collabolator."
-    },
-    {
-        "title": "Brantas Abipraya Berkolaborasi Bangun Jembatan, Wujudkan BUMN Peduli",
-        "link": "https://nasional.tempo.co/read/1626774/brantas-abipraya-berkolaborasi-bangun-jembatan-wujudkan-bumn-peduli",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjY3NzQvYnJhbnRhcy1hYmlwcmF5YS1iZXJrb2xhYm9yYXNpLWJhbmd1bi1qZW1iYXRhbi13dWp1ZGthbi1idW1uLXBlZHVsaQ==",
-        "description": "Pembangunan jembatan ini merupakan wujud kepedulian BUMN sebagai upaya mendukung peningkatan infrastruktur penunjang transportasi"
-    },
-    {
-        "title": "Survei Indikator: Tingkat Kepercayaan Publik terhadap Polri Menurun",
-        "link": "https://nasional.tempo.co/read/1626759/survei-indikator-tingkat-kepercayaan-publik-terhadap-polri-menurun",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjY3NTkvc3VydmVpLWluZGlrYXRvci10aW5na2F0LWtlcGVyY2F5YWFuLXB1Ymxpay10ZXJoYWRhcC1wb2xyaS1tZW51cnVu",
-        "description": "Survei Indikator Politik Indonesia menempatkan Polri di posisi ketiga setelah Kejaksaan Agung dan KPK dalam tingkat kepercayaan publik."
-    },
-    {
-        "title": "Sidang Etik Ferdy Sambo, 3 Saksi Telah Jalani Pemeriksaan",
-        "link": "https://nasional.tempo.co/read/1626750/sidang-etik-ferdy-sambo-3-saksi-telah-jalani-pemeriksaan",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjY3NTAvc2lkYW5nLWV0aWstZmVyZHktc2FtYm8tMy1zYWtzaS10ZWxhaC1qYWxhbmktcGVtZXJpa3NhYW4=",
-        "description": "Bripka Ricky Rizal, Bharada E dan Kuat Ma'ruf telah menjalani pemeriksaan dalam sidang etik Ferdy Sambo."
-    },
-    {
-        "title": "Rakernas PAN Akan Diisi Pidato Presiden Jokowi Hingga Artis K-Pop Astro",
-        "link": "https://nasional.tempo.co/read/1626740/rakernas-pan-akan-diisi-pidato-presiden-jokowi-hingga-artis-k-pop-astro",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjY3NDAvcmFrZXJuYXMtcGFuLWFrYW4tZGlpc2ktcGlkYXRvLXByZXNpZGVuLWpva293aS1oaW5nZ2EtYXJ0aXMtay1wb3AtYXN0cm8=",
-        "description": "Ketua Umum PAN Zulkifli Hasan meminta Presiden Jokowi berpidato pada acara rakernas partainya."
-    },
-    {
-        "title": "Inilah Harta Kekayaan Pejabat Negara yang Wajib Dilaporkan di LHKPN",
-        "link": "https://nasional.tempo.co/read/1626710/inilah-harta-kekayaan-pejabat-negara-yang-wajib-dilaporkan-di-lhkpn",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjY3MTAvaW5pbGFoLWhhcnRhLWtla2F5YWFuLXBlamFiYXQtbmVnYXJhLXlhbmctd2FqaWItZGlsYXBvcmthbi1kaS1saGtwbg==",
-        "description": "Seorang pejabat negara diwajibkan untuk melaporkan harta kekayaannya ke dalam LHKPN. Berikut beberapa syarat harta kekayaan yang perlu dilaporkan."
     }
 ]
