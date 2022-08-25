@@ -1,5 +1,26 @@
 [
     {
+        "title": "RI Temukan Harta Karun Super Langka, Negara Lain Tak Punya!",
+        "link": "https://www.cnbcindonesia.com/news/20220825115112-4-366532/ri-temukan-harta-karun-super-langka-negara-lain-tak-punya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTExNTExMi00LTM2NjUzMi9yaS10ZW11a2FuLWhhcnRhLWthcnVuLXN1cGVyLWxhbmdrYS1uZWdhcmEtbGFpbi10YWstcHVueWE=",
+        "description": " Indonesia memiliki harta karun super langka berupa mineral logam tanah jarang"
+    },
+    {
+        "title": "Jokowi Kampanye Tanam Sorgum, Begini Peluangnya di RI",
+        "link": "https://www.cnbcindonesia.com/news/20220825112534-4-366515/jokowi-kampanye-tanam-sorgum-begini-peluangnya-di-ri",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTExMjUzNC00LTM2NjUxNS9qb2tvd2kta2FtcGFueWUtdGFuYW0tc29yZ3VtLWJlZ2luaS1wZWx1YW5nbnlhLWRpLXJp",
+        "description": " Presiden Jokowi mengatakan, investasi di bidang makanan memberi peluang untung yang sangat cepat."
+    },
+    {
+        "title": "IPB Kembangkan Bibit Sorgum Unggulan, Bisa Produksi 7 Ton/Ha",
+        "link": "https://www.cnbcindonesia.com/news/20220825100740-8-366485/ipb-kembangkan-bibit-sorgum-unggulan-bisa-produksi-7-ton-ha",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTEwMDc0MC04LTM2NjQ4NS9pcGIta2VtYmFuZ2thbi1iaWJpdC1zb3JndW0tdW5nZ3VsYW4tYmlzYS1wcm9kdWtzaS03LXRvbi1oYQ==",
+        "description": " IPB Kembangkan Bibit Sorgum Unggulan, Bisa Produksi 7 Ton/Ha"
+    },
+    {
         "title": "Mau Dirombak Sri Mulyani, Pensiunan PNS Bakal Kaya Mendadak?",
         "link": "https://www.cnbcindonesia.com/news/20220825105131-4-366504/mau-dirombak-sri-mulyani-pensiunan-pns-bakal-kaya-mendadak",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNDIyMjc1MS01MS0zNjY0MDQvdGFrLXNlbWJhcmFuZ2FuLXRva28ta2Vsb250b25nLWluaS1iYXdhLWRhbXBhay1rZS1tYXN5YXJha2F0",
         "description": " Kisah Para Pemilik Toko Kelontong, Sukses Bangun Bisnis"
-    },
-    {
-        "title": "Parah! Banyak Bandit dan Zombie di BBM Bersubsidi",
-        "link": "https://www.cnbcindonesia.com/news/20220825100110-4-366484/parah-banyak-bandit-dan-zombie-di-bbm-bersubsidi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTEwMDExMC00LTM2NjQ4NC9wYXJhaC1iYW55YWstYmFuZGl0LWRhbi16b21iaWUtZGktYmJtLWJlcnN1YnNpZGk=",
-        "description": " Komisi VII DPR mengungkapkan banyak bandit dengan truk zombie yang menghisap BBM bersubsidi"
-    },
-    {
-        "title": "Dorong Produksi dan Hilirisasi Sorgum, Seberapa Menguntungkan?",
-        "link": "https://www.cnbcindonesia.com/news/20220825094936-8-366478/dorong-produksi-hilirisasi-sorgum-seberapa-menguntungkan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTA5NDkzNi04LTM2NjQ3OC9kb3JvbmctcHJvZHVrc2ktaGlsaXJpc2FzaS1zb3JndW0tc2ViZXJhcGEtbWVuZ3VudHVuZ2thbg==",
-        "description": " Jokowi Dorong Produksi dan Hilirisasi Sorgum, Seberapa Menguntungkan?"
-    },
-    {
-        "title": "Demi Tiket Pesawat Murah Menhub Kopi Darat dan Minta Diskon PPN",
-        "link": "https://www.cnbcindonesia.com/news/20220825094613-4-366482/demi-tiket-pesawat-murah-menhub-kopi-darat-minta-diskon-ppn",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNTA5NDYxMy00LTM2NjQ4Mi9kZW1pLXRpa2V0LXBlc2F3YXQtbXVyYWgtbWVuaHViLWtvcGktZGFyYXQtbWludGEtZGlza29uLXBwbg==",
-        "description": " Harga tiket pesawat masih mahal dan dikeluhkan banyak masyarakat."
     }
 ]
