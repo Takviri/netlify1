@@ -1,5 +1,19 @@
 [
     {
+        "title": "3 Hari Tiga Malam Perak Nanjak, Ada Apa Nih?",
+        "link": "https://www.cnbcindonesia.com/market/20220825153110-17-366632/3-hari-tiga-malam-perak-nanjak-ada-apa-nih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI1MTUzMTEwLTE3LTM2NjYzMi8zLWhhcmktdGlnYS1tYWxhbS1wZXJhay1uYW5qYWstYWRhLWFwYS1uaWg=",
+        "description": " Harga perak dunia menguat nyaris 1% pada perdagangan hari ini"
+    },
+    {
+        "title": "Harapan Stimulus China Kerek Harga Nikel 0,85%",
+        "link": "https://www.cnbcindonesia.com/market/20220825150742-17-366624/harapan-stimulus-china-kerek-harga-nikel-085",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI1MTUwNzQyLTE3LTM2NjYyNC9oYXJhcGFuLXN0aW11bHVzLWNoaW5hLWtlcmVrLWhhcmdhLW5pa2VsLTA4NQ==",
+        "description": " Harga nikel dunia menguat didukung oleh harapan stimulus China"
+    },
+    {
         "title": "Ini Lho Peran Penting Bank Syariah Buat Geliat Ekonomi RI",
         "link": "https://www.cnbcindonesia.com/market/20220825171808-17-366676/ini-lho-peran-penting-bank-syariah-buat-geliat-ekonomi-ri",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI1MTUyOTE0LTE3LTM2NjYzMC9idWF0LWthbXUteWFuZy1tYXUtaGVhbGluZy1uaWgtZ2FydWRhLWthc2loLWRpc2tvbi10aWtldC0xNQ==",
         "description": " Garuda Tawarkan Potongan 15% Harga Tiket di Rute-Rute Ini"
-    },
-    {
-        "title": "Rusia Genjot Ekspor Batu Bara ke China, Ekspor RI Terancam?",
-        "link": "https://www.cnbcindonesia.com/market/20220825153912-19-366634/rusia-genjot-ekspor-batu-bara-ke-china-ekspor-ri-terancam",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI1MTUzOTEyLTE5LTM2NjYzNC9ydXNpYS1nZW5qb3QtZWtzcG9yLWJhdHUtYmFyYS1rZS1jaGluYS1la3Nwb3ItcmktdGVyYW5jYW0=",
-        "description": " Rusia Genjot Pengiriman Batu Bara ke China, Ekspor RI Terancam?"
-    },
-    {
-        "title": "Sempat Tembus 7.200, IHSG Putar Balik Berakhir di Zona Merah",
-        "link": "https://www.cnbcindonesia.com/market/20220825152925-17-366631/sempat-tembus-7200-ihsg-putar-balik-berakhir-di-zona-merah",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI1MTUyOTI1LTE3LTM2NjYzMS9zZW1wYXQtdGVtYnVzLTcyMDAtaWhzZy1wdXRhci1iYWxpay1iZXJha2hpci1kaS16b25hLW1lcmFo",
-        "description": " Indeks Harga Saham Gabungan (IHSG) ditutup melemah pada perdagangan Rabu (24/8/2022), di mana IHSG sempat menyentuh zona psikologisnya di 7.200."
     }
 ]
