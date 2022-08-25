@@ -1,5 +1,12 @@
 [
     {
+        "title": "Yudi Sadono, Sekretaris Perusahaan Baru Pegadaian",
+        "link": "https://nasional.tempo.co/read/1626842/yudi-sadono-sekretaris-perusahaan-baru-pegadaian",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjY4NDIveXVkaS1zYWRvbm8tc2VrcmV0YXJpcy1wZXJ1c2FoYWFuLWJhcnUtcGVnYWRhaWFu",
+        "description": "Yudi resmi menggantikan R. Swasono Amoeng Widodo"
+    },
+    {
         "title": "Kompolnas Nilai Kasus Brigadir J Menunjukkan Reformasi Polri Belum Berjalan",
         "link": "https://nasional.tempo.co/read/1626833/kompolnas-nilai-kasus-brigadir-j-menunjukkan-reformasi-polri-belum-berjalan",
         "image": "static/images/tempo_nasional.png",
@@ -61,12 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjY4MTMvcGVyYnVhdGFuLWFwYS1zYWphLXlhbmctdGVyZ29sb25nLXBlbmdhbmlheWFhbg==",
         "description": "Penganiayaan berasal dari kata aniaya yang berarti perbuatan bengis, seperti penyiksaan dan penindasan"
-    },
-    {
-        "title": "Kasus Penganiayaan Jurnalis Nurhadi, AJI Desak MA Perberat Hukuman 2 Polisi Pelaku",
-        "link": "https://nasional.tempo.co/read/1626807/kasus-penganiayaan-jurnalis-nurhadi-aji-desak-ma-perberat-hukuman-2-polisi-pelaku",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjY4MDcva2FzdXMtcGVuZ2FuaWF5YWFuLWp1cm5hbGlzLW51cmhhZGktYWppLWRlc2FrLW1hLXBlcmJlcmF0LWh1a3VtYW4tMi1wb2xpc2ktcGVsYWt1",
-        "description": "AJI mendesak Mahkamah Agung memperberat hukuman 2 anggota polisi penganiaya jurnalis Tempo, Nurhadi."
     }
 ]

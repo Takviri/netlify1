@@ -1,5 +1,26 @@
 [
     {
+        "title": "PPATK Blokir Sejumlah Rekening Terkait Kasus Ferdy Sambo",
+        "link": "https://www.cnnindonesia.com/nasional/20220825184337-12-839224/ppatk-blokir-sejumlah-rekening-terkait-kasus-ferdy-sambo",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNTE4NDMzNy0xMi04MzkyMjQvcHBhdGstYmxva2lyLXNlanVtbGFoLXJla2VuaW5nLXRlcmthaXQta2FzdXMtZmVyZHktc2FtYm8=",
+        "description": " PPATK melakukan pemblokiran rekening yang berkaitan dengan kasus pembunuhan Brigadir J yang didalangi eks Kadiv Propam Polri Irjen Ferdy Sambo."
+    },
+    {
+        "title": "AKP Irfan Widyanto, Lulusan Terbaik Akpol Dicopot di Kasus Brigadir J",
+        "link": "https://www.cnnindonesia.com/nasional/20220825144459-12-839070/akp-irfan-widyanto-lulusan-terbaik-akpol-dicopot-di-kasus-brigadir-j",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNTE0NDQ1OS0xMi04MzkwNzAvYWtwLWlyZmFuLXdpZHlhbnRvLWx1bHVzYW4tdGVyYmFpay1ha3BvbC1kaWNvcG90LWRpLWthc3VzLWJyaWdhZGlyLWo=",
+        "description": " AKP Irfan Widyanto adalah penerima Adhi Makayasa alias lulusan terbaik akpol yang dicopot karena terseret dalam kasus pembunuhan Brigadir J."
+    },
+    {
+        "title": "Pengacara PT Palma Satu Jadi Tersangka Perintangan Kasus Surya Darmadi",
+        "link": "https://www.cnnindonesia.com/nasional/20220825175158-12-839185/pengacara-pt-palma-satu-jadi-tersangka-perintangan-kasus-surya-darmadi",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNTE3NTE1OC0xMi04MzkxODUvcGVuZ2FjYXJhLXB0LXBhbG1hLXNhdHUtamFkaS10ZXJzYW5na2EtcGVyaW50YW5nYW4ta2FzdXMtc3VyeWEtZGFybWFkaQ==",
+        "description": " Kejaksaan Agung (Kejagung) menetapkan penasihat hukum PT Palma Satu inisial DFS sebagai tersangka penghalangan penyidikan kasus korupsi."
+    },
+    {
         "title": "Anggota DPR Nilai Ferdy Sambo Tak Layak Ajukan Pengunduran Diri",
         "link": "https://www.cnnindonesia.com/nasional/20220825172929-32-839170/anggota-dpr-nilai-ferdy-sambo-tak-layak-ajukan-pengunduran-diri",
         "image": "static/images/cnn_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNTE1NDk1Mi0xMi04MzkxMDQvc2lkYW5nLWV0aWstc2FtYm8tMy10ZXJzYW5na2EtcGVtYnVudWhhbi1icmlnYWRpci1qLWRpcGVyaWtzYS02LWphbQ==",
         "description": " Tim Komisi Kode Etik Polri (KKEP) telah memeriksa tiga tersangka pembunuhan\u00c2\u00a0Brigadir J\u00c2\u00a0untuk mendalami dugaan pelanggaran etik Ferdy Sambo."
-    },
-    {
-        "title": "LPSK: Orang Tua Bharada E Diamankan, Bukan Disekap di Mako Brimob",
-        "link": "https://www.cnnindonesia.com/nasional/20220825153546-12-839095/lpsk-orang-tua-bharada-e-diamankan-bukan-disekap-di-mako-brimob",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNTE1MzU0Ni0xMi04MzkwOTUvbHBzay1vcmFuZy10dWEtYmhhcmFkYS1lLWRpYW1hbmthbi1idWthbi1kaXNla2FwLWRpLW1ha28tYnJpbW9i",
-        "description": " LPSK membantah isu penyekapan orang tua tersangka kasus pembunuhan Brigadir J, Bharada Richard Eliezer, di Mako Brimob."
-    },
-    {
-        "title": "VIDEO: Apa itu Yanma Polri yang Jadi 'Tempat Buangan' Sambo dkk?",
-        "link": "https://www.cnnindonesia.com/nasional/20220825144226-16-839060/video-apa-itu-yanma-polri-yang-jadi-tempat-buangan-sambo-dkk",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNTE0NDIyNi0xNi04MzkwNjAvdmlkZW8tYXBhLWl0dS15YW5tYS1wb2xyaS15YW5nLWphZGktdGVtcGF0LWJ1YW5nYW4tc2FtYm8tZGtr",
-        "description": " Kapolri Jenderal Listyo Sigit Prabowo menerbitkan telegram yang bermuatan instruksi mutasi terhadap 24 personel Polri yang terliba kasus\u00c2\u00a0 Brigadir J."
-    },
-    {
-        "title": "Komisi Penanggulangan AIDS: 414 Mahasiswa Bandung Positif HIV-AIDS",
-        "link": "https://www.cnnindonesia.com/nasional/20220825152512-20-839092/komisi-penanggulangan-aids-414-mahasiswa-bandung-positif-hiv-aids",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNTE1MjUxMi0yMC04MzkwOTIva29taXNpLXBlbmFuZ2d1bGFuZ2FuLWFpZHMtNDE0LW1haGFzaXN3YS1iYW5kdW5nLXBvc2l0aWYtaGl2LWFpZHM=",
-        "description": " Kasus penularan HIV-AIDS di Bandung didominasi usia produktif, termasuk mahasiswa. Tercatat ada 12.358 pengidap per Desember 2021."
     }
 ]
