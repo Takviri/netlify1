@@ -1,9 +1,37 @@
 [
     {
-        "title": "Cukup Kerek Penjualan 13%, Laba PTBA Terbang 246% Jadi Rp 6 T",
-        "link": "https://www.cnbcindonesia.com/market/20220826101956-17-366827/cukup-kerek-penjualan-13-laba-ptba-terbang-246-jadi-rp-6-t",
+        "title": "Jelang 'Sabda' Powell, Bitcoin Masih Datar-Datar Aja Nih",
+        "link": "https://www.cnbcindonesia.com/market/20220826100536-17-366815/jelang-sabda-powell-bitcoin-masih-datar-datar-aja-nih",
         "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MTAxOTU2LTE3LTM2NjgyNy9jdWt1cC1rZXJlay1wZW5qdWFsYW4tMTMtbGFiYS1wdGJhLXRlcmJhbmctMjQ2LWphZGktcnAtNi10",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MTAwNTM2LTE3LTM2NjgxNS9qZWxhbmctc2FiZGEtcG93ZWxsLWJpdGNvaW4tbWFzaWgtZGF0YXItZGF0YXItYWphLW5paA==",
+        "description": " Harga kripto utama cenderung menguat terbatas pada perdagangan Jumat (26/8/2022), jelang pidato ketua bank sentral AS di simposium Jackson Hole."
+    },
+    {
+        "title": "Kekurangan dan Kelebihan Suku Bunga Acuan BI Naik",
+        "link": "https://www.cnbcindonesia.com/market/20220826090546-17-366785/kekurangan-dan-kelebihan-suku-bunga-acuan-bi-naik",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MDkwNTQ2LTE3LTM2Njc4NS9rZWt1cmFuZ2FuLWRhbi1rZWxlYmloYW4tc3VrdS1idW5nYS1hY3Vhbi1iaS1uYWlr",
+        "description": " Ada sisi positif dan negatif dari kenaikan suku bunga BI."
+    },
+    {
+        "title": "Menguat 220%, tanda Saham BUMI Mulai Bangkit?",
+        "link": "https://www.cnbcindonesia.com/market/20220826101940-17-366829/menguat-220-tanda-saham-bumi-mulai-bangkit",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MTAxOTQwLTE3LTM2NjgyOS9tZW5ndWF0LTIyMC10YW5kYS1zYWhhbS1idW1pLW11bGFpLWJhbmdraXQ=",
+        "description": " Dalam tiga bulan terakhir saham BUMI tercatat sudah menguat 220%"
+    },
+    {
+        "title": "Ini Risiko 'Besar' Jika RI Tetap Ngotot Beli Minyak Rusia",
+        "link": "https://www.cnbcindonesia.com/market/20220826090351-17-366784/ini-risiko-besar-jika-ri-tetap-ngotot-beli-minyak-rusia",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MDkwMzUxLTE3LTM2Njc4NC9pbmktcmlzaWtvLWJlc2FyLWppa2EtcmktdGV0YXAtbmdvdG90LWJlbGktbWlueWFrLXJ1c2lh",
+        "description": " Menurut Sandiaga, harga minyak Rusia lebih murah 30% dibandingkan harga di pasar internasional."
+    },
+    {
+        "title": "Gokil! Berkah Batu Bara, Laba PTBA Terbang 246% Jadi Rp 6,2 T",
+        "link": "https://www.cnbcindonesia.com/market/20220826101956-17-366827/gokil-berkah-batu-bara-laba-ptba-terbang-246-jadi-rp-62-t",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MTAxOTU2LTE3LTM2NjgyNy9nb2tpbC1iZXJrYWgtYmF0dS1iYXJhLWxhYmEtcHRiYS10ZXJiYW5nLTI0Ni1qYWRpLXJwLTYyLXQ=",
         "description": " Kenaikan kinerja ini didorong oleh pemulihan ekonomi global maupun nasional yang meningkatkan permintaan batu bara"
     },
     {
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MDkxMzIxLTE3LTM2Njc5MS9zYWJhci1iZXN0aWUtaWhzZy1kaWJ1a2EtZ2FsYXUtbGFnaS1kaS1ha2hpci1wZWthbg==",
         "description": " Indeks Harga Saham Gabungan (IHSG) dibuka berfluktuasi pada awal perdagangan Jumat (25/8/2022), di tengah menghijaunya kembali bursa saham global"
-    },
-    {
-        "title": "Awas! Ini Bahaya Yang Mengintai Saat Suku Bunga Acuan Tinggi",
-        "link": "https://www.cnbcindonesia.com/market/20220826082049-17-366778/awas-ini-bahaya-yang-mengintai-saat-suku-bunga-acuan-tinggi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MDgyMDQ5LTE3LTM2Njc3OC9hd2FzLWluaS1iYWhheWEteWFuZy1tZW5naW50YWktc2FhdC1zdWt1LWJ1bmdhLWFjdWFuLXRpbmdnaQ==",
-        "description": " Bank Indonesia (BI) akhirnya menaikkan suku bunga acuannya BI 7 Day Reverse Repo Rate (BI 7 DRR) sebesar 25 basis poin Selasa lalu"
-    },
-    {
-        "title": "Joss! Rupiah Tembus ke Bawah Rp 14.800/US$",
-        "link": "https://www.cnbcindonesia.com/market/20220826091119-17-366792/joss-rupiah-tembus-ke-bawah-rp-14800-us-",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MDkxMTE5LTE3LTM2Njc5Mi9qb3NzLXJ1cGlhaC10ZW1idXMta2UtYmF3YWgtcnAtMTQ4MDAtdXMt",
-        "description": " Nilai tukar rupiah kembali menguat melawan dolar Amerika Serikat (AS) pada perdagangan Jumat (26/8/2022)"
-    },
-    {
-        "title": "Bursa Asia Dibuka Hijau! Hang Seng Melesat, IHSG Bisa Ikutan?",
-        "link": "https://www.cnbcindonesia.com/market/20220825140331-17-366593/bursa-asia-dibuka-hijau-hang-seng-melesat-ihsg-bisa-ikutan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI1MTQwMzMxLTE3LTM2NjU5My9idXJzYS1hc2lhLWRpYnVrYS1oaWphdS1oYW5nLXNlbmctbWVsZXNhdC1paHNnLWJpc2EtaWt1dGFu",
-        "description": " Bursa Asia-Pasifik dibuka cenderung menghijau pada perdagangan Jumat (26/8/2022), karena investor menantikan pidato Powell di simposium Jackson Hole"
-    },
-    {
-        "title": "Harga Emas Naik Lagi!",
-        "link": "https://www.cnbcindonesia.com/market/20220826065856-17-366756/harga-emas-naik-lagi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MDY1ODU2LTE3LTM2Njc1Ni9oYXJnYS1lbWFzLW5haWstbGFnaQ==",
-        "description": " Pelemahan dolar Amerika Serikat (AS) membuat harga sang logam mulia punya ruang untuk menguat."
     }
 ]
