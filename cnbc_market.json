@@ -1,5 +1,33 @@
 [
     {
+        "title": "Dolar Nanjak Lagi, Harga Perak Loyo",
+        "link": "https://www.cnbcindonesia.com/market/20220826130622-17-366869/dolar-nanjak-lagi-harga-perak-loyo",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MTMwNjIyLTE3LTM2Njg2OS9kb2xhci1uYW5qYWstbGFnaS1oYXJnYS1wZXJhay1sb3lv",
+        "description": " Harga perak dunia melemah tertekan oleh dolar Amerika Serikat."
+    },
+    {
+        "title": "Suku Bunga BI Naik, Bank Mandiri Yakin Kredit Bank Masih Aman",
+        "link": "https://www.cnbcindonesia.com/market/20220826114526-17-366850/suku-bunga-bi-naik-bank-mandiri-yakin-kredit-bank-masih-aman",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MTE0NTI2LTE3LTM2Njg1MC9zdWt1LWJ1bmdhLWJpLW5haWstYmFuay1tYW5kaXJpLXlha2luLWtyZWRpdC1iYW5rLW1hc2loLWFtYW4=",
+        "description": " Suku Bunga Acuan BI Naik, Bank Mandiri : Pertumbuhan Kredit Bank Masih Aman"
+    },
+    {
+        "title": "Garuda Mulai Turunkan Harga Tiket, Maskapai Lain Gimana?",
+        "link": "https://www.cnbcindonesia.com/market/20220826093628-17-366807/garuda-mulai-turunkan-harga-tiket-maskapai-lain-gimana",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MDkzNjI4LTE3LTM2NjgwNy9nYXJ1ZGEtbXVsYWktdHVydW5rYW4taGFyZ2EtdGlrZXQtbWFza2FwYWktbGFpbi1naW1hbmE=",
+        "description": " Menteri Badan Usaha Milik Negara (BUMN) Erick Thohir menindaklanjuti permintaan Presiden RI Joko Widodo mengenai permasalahan mahalnya harga tiket pesawat"
+    },
+    {
+        "title": "Bukit Asam Jadi 'Dewa Penyelamat' Krisis Energi Eropa",
+        "link": "https://www.cnbcindonesia.com/market/20220826124927-17-366863/bukit-asam-jadi-dewa-penyelamat-krisis-energi-eropa",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MTI0OTI3LTE3LTM2Njg2My9idWtpdC1hc2FtLWphZGktZGV3YS1wZW55ZWxhbWF0LWtyaXNpcy1lbmVyZ2ktZXJvcGE=",
+        "description": " Bukit Asam sudah menandatangani kontrak ekspor batu bara ke Italia sebesar 140.000 metrik ton (MT)."
+    },
+    {
         "title": "OKAS Meroket 3 Hari Beruntun, Giliran KRYA Paling Ambles!",
         "link": "https://www.cnbcindonesia.com/market/20220826115738-17-366854/okas-meroket-3-hari-beruntun-giliran-krya-paling-ambles",
         "image": "static/images/cnbc_market.png",
@@ -7,10 +35,10 @@
         "description": " 5 saham yang tampil perkasa dan 5 saham yang masuk top losers pada perdagangan sesi I Jumat (26/8/2022)."
     },
     {
-        "title": "Bos PTBA Akui Royalti Bisa Kerek Cost Hingga Pengaruh ke Laba",
-        "link": "https://www.cnbcindonesia.com/market/20220826114917-17-366851/bos-ptba-akui-royalti-bisa-kerek-cost-hingga-pengaruh-ke-laba",
+        "title": "Royalti Naik, Cuan Emiten Batu Bara Bakal Tergerus",
+        "link": "https://www.cnbcindonesia.com/market/20220826114917-17-366851/royalti-naik-cuan-emiten-batu-bara-bakal-tergerus",
         "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MTE0OTE3LTE3LTM2Njg1MS9ib3MtcHRiYS1ha3VpLXJveWFsdGktYmlzYS1rZXJlay1jb3N0LWhpbmdnYS1wZW5nYXJ1aC1rZS1sYWJh",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MTE0OTE3LTE3LTM2Njg1MS9yb3lhbHRpLW5haWstY3Vhbi1lbWl0ZW4tYmF0dS1iYXJhLWJha2FsLXRlcmdlcnVz",
         "description": " PTBA sebagai BUMN tentu akan komit untuk memberikan kontribusi optimal pada negara. Kondisi keuangan PTBA masih sangat sehat"
     },
     {
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MTA1ODIzLTE3LTM2Njg0NS9sdWFzLWxhaGFuLXN1cnlhLWRhcm1hZGkteWFuZy1kaXNpdGEtYmlraW4tbWVsb25nby0xMDAwLWhh",
         "description": " Lahan ini rupanya kebun milik PT. Delimuda Perkasa Kantor Besar (Kebun Sei Rengas) dan terduga terafiliasi dengan PT. Duta Palma Group."
-    },
-    {
-        "title": "PDB Q2-2022 Susut 0,6%, Ekonomi Amerika Masih Kelabu",
-        "link": "https://www.cnbcindonesia.com/market/20220826091605-19-366794/pdb-q2-2022-susut-06-ekonomi-amerika-masih-kelabu",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MDkxNjA1LTE5LTM2Njc5NC9wZGItcTItMjAyMi1zdXN1dC0wNi1la29ub21pLWFtZXJpa2EtbWFzaWgta2VsYWJ1",
-        "description": " Ekonomi Amerika Serikat menyusut 0,6% pada kuartal kedua 2022"
-    },
-    {
-        "title": "\"Galau\" Harga BBM Subsidi Naik, Dana Investor Lari Kemana?",
-        "link": "https://www.cnbcindonesia.com/market/20220826100253-19-366814/galau-harga-bbm-subsidi-naik-dana-investor-lari-kemana",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MTAwMjUzLTE5LTM2NjgxNC9nYWxhdS1oYXJnYS1iYm0tc3Vic2lkaS1uYWlrLWRhbmEtaW52ZXN0b3ItbGFyaS1rZW1hbmE=",
-        "description": " \"Galau\" Harga BBM Subsidi Naik, Dana Investor Lari Kemana?"
-    },
-    {
-        "title": "Masih Ingat dengan Hape Esia? Begini Kabarnya Sekarang...",
-        "link": "https://www.cnbcindonesia.com/market/20220826092053-17-366800/masih-ingat-dengan-hape-esia-begini-kabarnya-sekarang",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MDkyMDUzLTE3LTM2NjgwMC9tYXNpaC1pbmdhdC1kZW5nYW4taGFwZS1lc2lhLWJlZ2luaS1rYWJhcm55YS1zZWthcmFuZw==",
-        "description": " Emiten yang sempat memproduksi telepon genggam merek Esia, Bakrie Telecom (BTEL), kembali mencatatkan rapor merah dalam laporan keuangan semester I"
-    },
-    {
-        "title": "Jelang 'Sabda' Powell, Bitcoin Masih Datar-Datar Aja Nih",
-        "link": "https://www.cnbcindonesia.com/market/20220826100536-17-366815/jelang-sabda-powell-bitcoin-masih-datar-datar-aja-nih",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI2MTAwNTM2LTE3LTM2NjgxNS9qZWxhbmctc2FiZGEtcG93ZWxsLWJpdGNvaW4tbWFzaWgtZGF0YXItZGF0YXItYWphLW5paA==",
-        "description": " Harga kripto utama cenderung menguat terbatas pada perdagangan Jumat (26/8/2022), jelang pidato ketua bank sentral AS di simposium Jackson Hole."
     }
 ]
