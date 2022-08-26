@@ -1,5 +1,12 @@
 [
     {
+        "title": "Pemerintah Jual Minyak Makan Merah Rp9.000 Mulai Januari 2023",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220826120900-92-839448/pemerintah-jual-minyak-makan-merah-rp9000-mulai-januari-2023",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI2MTIwOTAwLTkyLTgzOTQ0OC9wZW1lcmludGFoLWp1YWwtbWlueWFrLW1ha2FuLW1lcmFoLXJwOTAwMC1tdWxhaS1qYW51YXJpLTIwMjM=",
+        "description": " Pemerintah siap menjual minyak merah, sebagai alternatif dari minyak goreng kelapa sawit, mulai 2023 dengan harga Rp9.000 per liter."
+    },
+    {
         "title": "Bos Garuda Berharap Modal Rp7,5 T dari Negara Cair Oktober",
         "link": "https://www.cnnindonesia.com/ekonomi/20220826103944-92-839402/bos-garuda-berharap-modal-rp75-t-dari-negara-cair-oktober",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI2MDkzOTEyLTkwLTgzOTM4MC9yYWloLXBlbmdoYXJnYWFuLWtlbWVucGVyaW4tcGxuLXNpYXAtbGFrdWthbi10cmFuc2Zvcm1hc2ktZGlnaXRhbA==",
         "description": " Kemenperin memberikan skor 3.5 kepada transformasi digital yang dilakukan Perusahaan listrik negara (PLN)."
-    },
-    {
-        "title": "Mayoritas Kripto Menguat, Dogecoin Paling Bersinar Pagi Ini",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220826090715-92-839359/mayoritas-kripto-menguat-dogecoin-paling-bersinar-pagi-ini",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI2MDkwNzE1LTkyLTgzOTM1OS9tYXlvcml0YXMta3JpcHRvLW1lbmd1YXQtZG9nZWNvaW4tcGFsaW5nLWJlcnNpbmFyLXBhZ2ktaW5p",
-        "description": " Mayoritas kripto menguat, mulai dari dogecoin, bitcoin, hingga solana pada Jumat (26/8) pagi."
     }
 ]

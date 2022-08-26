@@ -1,5 +1,19 @@
 [
     {
+        "title": "Tentara Aceh Merdeka Dalangi Pembakaran Bendera Merah Putih",
+        "link": "https://www.cnnindonesia.com/nasional/20220826122602-12-839452/tentara-aceh-merdeka-dalangi-pembakaran-bendera-merah-putih",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNjEyMjYwMi0xMi04Mzk0NTIvdGVudGFyYS1hY2VoLW1lcmRla2EtZGFsYW5naS1wZW1iYWthcmFuLWJlbmRlcmEtbWVyYWgtcHV0aWg=",
+        "description": " Anggota Tentara Aceh Merdeka (TAM) yang saat ini berada di Malaysia diduga menjadi dalang kasus pembakaran Bendera Merah Putih di sejumlah daerah di Aceh."
+    },
+    {
+        "title": "Dasar Aturan Polri Pecat Ferdy Sambo dalam Kasus Brigadir J",
+        "link": "https://www.cnnindonesia.com/nasional/20220826122246-12-839451/dasar-aturan-polri-pecat-ferdy-sambo-dalam-kasus-brigadir-j",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNjEyMjI0Ni0xMi04Mzk0NTEvZGFzYXItYXR1cmFuLXBvbHJpLXBlY2F0LWZlcmR5LXNhbWJvLWRhbGFtLWthc3VzLWJyaWdhZGlyLWo=",
+        "description": " Irjen Ferdy Sambo resmi dijatuhi sanksi pemecatan dalam kasus pembunuhan Brigadir Yosua Hutabarat yang merupakan ajudannya sendiri."
+    },
+    {
         "title": "Kasus Korupsi Surya Darmadi, Kejagung Sita 1.002 Ha Lahan di Jambi",
         "link": "https://www.cnnindonesia.com/nasional/20220826113706-12-839437/kasus-korupsi-surya-darmadi-kejagung-sita-1002-ha-lahan-di-jambi",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNjA2NDY0MC0xMi04MzkzMjIvZGlkdWdhLXRlcmxpYmF0LWtvbnNvcnNpdW0tMzAzLXNhbWJvLWthYmlkLXByb3BhbS1wb2xkYS1qYXRpbS1idW5na2Ft",
         "description": " Isu Konsorsium 303 yang diduga dipimpin Irjen Ferdy Sambo menyeret sejumlah pejabat Polri. Salah satunya Kabid Propam Polda Jatim Kombes Taufik Herdiansyah."
-    },
-    {
-        "title": "Putri Candrawati Jalani Pemeriksaan Kasus Brigadir J di Bareskrim",
-        "link": "https://www.cnnindonesia.com/nasional/20220826105932-12-839426/putri-candrawati-jalani-pemeriksaan-kasus-brigadir-j-di-bareskrim",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNjEwNTkzMi0xMi04Mzk0MjYvcHV0cmktY2FuZHJhd2F0aS1qYWxhbmktcGVtZXJpa3NhYW4ta2FzdXMtYnJpZ2FkaXItai1kaS1iYXJlc2tyaW0=",
-        "description": " Kuasa hukum Putri Candrawathi, Arman Hanis mengatakan kliennya sudah berada di dalam Gedung Bareskrim untuk menjalani pemeriksaan sebagai tersangka."
-    },
-    {
-        "title": "Jokowi Ungkap Capres Ideal, Relawan Sebut Identik dengan Ganjar",
-        "link": "https://www.cnnindonesia.com/nasional/20220826102400-32-839398/jokowi-ungkap-capres-ideal-relawan-sebut-identik-dengan-ganjar",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNjEwMjQwMC0zMi04MzkzOTgvam9rb3dpLXVuZ2thcC1jYXByZXMtaWRlYWwtcmVsYXdhbi1zZWJ1dC1pZGVudGlrLWRlbmdhbi1nYW5qYXI=",
-        "description": " Ketua Relawan Jokowi Mania (JoMan) Immanuel Ebenezer yakin betul keinginan Presiden Jokowi soal pemimpin berikutnya identik dengan Ganjar Pranowo."
     }
 ]
