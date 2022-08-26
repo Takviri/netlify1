@@ -1,5 +1,12 @@
 [
     {
+        "title": "Peternak Jamin Harga Telur Turun 2 Minggu Lagi",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220826135057-92-839484/peternak-jamin-harga-telur-turun-2-minggu-lagi",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI2MTM1MDU3LTkyLTgzOTQ4NC9wZXRlcm5hay1qYW1pbi1oYXJnYS10ZWx1ci10dXJ1bi0yLW1pbmdndS1sYWdp",
+        "description": " Paguyuban Peternak Rakyat Nusantara (PPRN) menjamin harga telur akan turun kurang dari dua pekan ke depan setelah sempat melonjak di atas Rp30 ribu per kg."
+    },
+    {
         "title": "Teten Beri Sinyal Usaha Mikro Dapat BLT Ekstra Jika Pertalite Naik",
         "link": "https://www.cnnindonesia.com/ekonomi/20220826120032-532-839447/teten-beri-sinyal-usaha-mikro-dapat-blt-ekstra-jika-pertalite-naik",
         "image": "static/images/cnn_ekonomi.png",
@@ -7,11 +14,11 @@
         "description": " Menteri Koperasi dan UKM Teten Masduki memberikan sinyal bahwa usaha mikro akan mendapatkan bansos tambahan jika harga pertalite naik."
     },
     {
-        "title": "Jokowi Beri Tunjangan Rp83,1 Juta ke Kepala BRIN Setiap Bulan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220826114049-532-839440/jokowi-beri-tunjangan-rp831-juta-ke-kepala-brin-setiap-bulan",
+        "title": "Jokowi Beri Tunjangan Rp49,86 Juta ke Kepala BRIN Setiap Bulan",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220826114049-532-839440/jokowi-beri-tunjangan-rp4986-juta-ke-kepala-brin-setiap-bulan",
         "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI2MTE0MDQ5LTUzMi04Mzk0NDAvam9rb3dpLWJlcmktdHVuamFuZ2FuLXJwODMxLWp1dGEta2Uta2VwYWxhLWJyaW4tc2V0aWFwLWJ1bGFu",
-        "description": " Presiden Jokowi memberikan tunjangan kepada kepala BRIN mencapai Rp83,1 juta per bulan."
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI2MTE0MDQ5LTUzMi04Mzk0NDAvam9rb3dpLWJlcmktdHVuamFuZ2FuLXJwNDk4Ni1qdXRhLWtlLWtlcGFsYS1icmluLXNldGlhcC1idWxhbg==",
+        "description": " Presiden Jokowi memberikan tunjangan kepada kepala BRIN mencapai Rp49,86 juta per bulan."
     },
     {
         "title": "Pemerintah Jual Minyak Makan Merah Rp9.000 Mulai Januari 2023",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI1MTQyNzE0LTkyLTgzOTA1NC9vbXNldC1wZWRhZ2FuZy1kaS1tYWthc3Nhci1hbmpsb2stYnVudHV0LWtlbmFpa2FuLWhhcmdhLXRlbHVy",
         "description": " Harga telur ayam di sejumlah pasar tradisional Makassar Sulawesi Selatan naik Rp5.000 dari sebelumnya Rp50 ribu per rak menjadi Rp55 ribu per rak."
-    },
-    {
-        "title": "Cara PLN Ajak Pegawai Cetak Inovasi di Sektor Kelistrikan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220826095850-90-839388/cara-pln-ajak-pegawai-cetak-inovasi-di-sektor-kelistrikan",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI2MDk1ODUwLTkwLTgzOTM4OC9jYXJhLXBsbi1hamFrLXBlZ2F3YWktY2V0YWstaW5vdmFzaS1kaS1zZWt0b3Ita2VsaXN0cmlrYW4=",
-        "description": " inovasi terdiri pada bidang pembangkitan, transmisi, distribusi, technical supporting, proses bisnis manajemen, aplikasi dan energi baru terbarukan."
     }
 ]
