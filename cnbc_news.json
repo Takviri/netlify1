@@ -1,5 +1,40 @@
 [
     {
+        "title": "Heboh Senayan City Cs Diobral Berkali-Kali, Apa Sebabnya?",
+        "link": "https://www.cnbcindonesia.com/news/20220826201801-4-367013/heboh-senayan-city-cs-diobral-berkali-kali-apa-sebabnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjIwMTgwMS00LTM2NzAxMy9oZWJvaC1zZW5heWFuLWNpdHktY3MtZGlvYnJhbC1iZXJrYWxpLWthbGktYXBhLXNlYmFibnlh",
+        "description": " Kabar mengenai Senayan City tengah dilego viral di media sosial Facebook. Apa sebabnya?"
+    },
+    {
+        "title": "Investasi Terbaik Saat Ekonomi Tercekik",
+        "link": "https://www.cnbcindonesia.com/news/20220826194428-8-367010/investasi-terbaik-saat-ekonomi-tercekik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjE5NDQyOC04LTM2NzAxMC9pbnZlc3Rhc2ktdGVyYmFpay1zYWF0LWVrb25vbWktdGVyY2VraWs=",
+        "description": " Pos-pos investasi mana saja yang menarik untuk di isi dan perlu dihindari untuk saat ini."
+    },
+    {
+        "title": "Miris Masih Ada Bangunan Sekolah Rusak di Pinggir Ibu Kota",
+        "link": "https://www.cnbcindonesia.com/news/20220826140518-7-366898/miris-masih-ada-bangunan-sekolah-rusak-di-pinggir-ibu-kota",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjE0MDUxOC03LTM2Njg5OC9taXJpcy1tYXNpaC1hZGEtYmFuZ3VuYW4tc2Vrb2xhaC1ydXNhay1kaS1waW5nZ2lyLWlidS1rb3Rh",
+        "description": " Selama bertahun-tahun siswa di SD Negeri ini harus belajar di ruangan yang rusak dan tak layak."
+    },
+    {
+        "title": "Pertalite Bakal Habis, Hingga Ekonomi AS Menyusut",
+        "link": "https://www.cnbcindonesia.com/news/20220826191322-8-367008/pertalite-bakal-habis-hingga-ekonomi-as-menyusut",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjE5MTMyMi04LTM2NzAwOC9wZXJ0YWxpdGUtYmFrYWwtaGFiaXMtaGluZ2dhLWVrb25vbWktYXMtbWVueXVzdXQ=",
+        "description": " Menteri Keuangan Sri Mulyani mengungkapkan jika kuota BBM subsidi jenis Solar dan Pertalite berpotensi habis sebelum akhir tahun ini."
+    },
+    {
+        "title": "Lagi, Negara Eropa Jadi Korban \"Keganasan\" Rusia: Swiss",
+        "link": "https://www.cnbcindonesia.com/news/20220826161959-4-366956/lagi-negara-eropa-jadi-korban-keganasan-rusia-swiss",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjE2MTk1OS00LTM2Njk1Ni9sYWdpLW5lZ2FyYS1lcm9wYS1qYWRpLWtvcmJhbi1rZWdhbmFzYW4tcnVzaWEtc3dpc3M=",
+        "description": " Swiss dikhawatirkan akan mengalami krisis energi pada musim dingin ke depan. Salah satunya karena Rusia."
+    },
+    {
         "title": "Warga RI, Pertalite Bakal Habis Oktober",
         "link": "https://www.cnbcindonesia.com/news/20220826193024-4-367007/warga-ri-pertalite-bakal-habis-oktober",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjE0NTkxOC03LTM2NjkyNC9wZW5hbXBha2FuLWRlcmV0YW4tcnVtYWgtbWV3YWgtbWVudGVuZy15YW5nLWRpanVhbC1tYXUtYmVsaQ==",
         "description": " Sejumlha rumah terlihat hendak dijual di kawasan menteng. Berikut penampakannya."
-    },
-    {
-        "title": "Imbas Jokowi Ngamuk, 13.600 Produk Impor Diblokir LKPP!",
-        "link": "https://www.cnbcindonesia.com/news/20220826174857-16-366985/imbas-jokowi-ngamuk-13600-produk-impor-diblokir-lkpp",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjE3NDg1Ny0xNi0zNjY5ODUvaW1iYXMtam9rb3dpLW5nYW11ay0xMzYwMC1wcm9kdWstaW1wb3ItZGlibG9raXItbGtwcA==",
-        "description": " Arahan ini tidak lepas dari kemarahan Jokowi lantaran pengadaan barang dan jasa pemerintah kerap menggunakan produk impor."
-    },
-    {
-        "title": "Sri Mulyani: Subsidi Rp502 T Bisa Tuntaskan Jalan Tol Sumatra",
-        "link": "https://www.cnbcindonesia.com/news/20220826180816-4-366994/sri-mulyani-subsidi-rp502-t-bisa-tuntaskan-jalan-tol-sumatra",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjE4MDgxNi00LTM2Njk5NC9zcmktbXVseWFuaS1zdWJzaWRpLXJwNTAyLXQtYmlzYS10dW50YXNrYW4tamFsYW4tdG9sLXN1bWF0cmE=",
-        "description": " Simak kata Sri Mulyani dalam keterangan pers di kantornya, Jumat (26/8/2022)."
-    },
-    {
-        "title": "18.585 Produk Diblokir Dari Belanja Pemerintah, Apa Saja?",
-        "link": "https://www.cnbcindonesia.com/news/20220826182613-4-367000/18585-produk-diblokir-dari-belanja-pemerintah-apa-saja",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjE4MjYxMy00LTM2NzAwMC8xODU4NS1wcm9kdWstZGlibG9raXItZGFyaS1iZWxhbmphLXBlbWVyaW50YWgtYXBhLXNhamE=",
-        "description": " Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah (LKPP) memblokir 18.585 produk di dalam e-katalog."
-    },
-    {
-        "title": "Harga Material Ini 'Meledak' Bikin Kontraktor 'Nangis Darah'",
-        "link": "https://www.cnbcindonesia.com/news/20220826181954-4-366999/harga-material-ini-meledak-bikin-kontraktor-nangis-darah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjE4MTk1NC00LTM2Njk5OS9oYXJnYS1tYXRlcmlhbC1pbmktbWVsZWRhay1iaWtpbi1rb250cmFrdG9yLW5hbmdpcy1kYXJhaA==",
-        "description": " Lonjakan harga material menambah beban kontraktor."
-    },
-    {
-        "title": "Sri Mulyani: Mobil Bagus Beli Pertamax Dapat Subsidi Rp4.800!",
-        "link": "https://www.cnbcindonesia.com/news/20220826180244-4-366992/sri-mulyani-mobil-bagus-beli-pertamax-dapat-subsidi-rp4800",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjE4MDI0NC00LTM2Njk5Mi9zcmktbXVseWFuaS1tb2JpbC1iYWd1cy1iZWxpLXBlcnRhbWF4LWRhcGF0LXN1YnNpZGktcnA0ODAw",
-        "description": " Simak kata Sri Mulyani dalam keterangan pers di kantornya, Jumat (26/8/2022)."
     }
 ]

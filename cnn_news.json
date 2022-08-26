@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kasus Dugaan Pelecehan di KRL Berakhir Damai di Polsek Tebet",
+        "link": "https://www.cnnindonesia.com/nasional/20220826195634-12-839677/kasus-dugaan-pelecehan-di-krl-berakhir-damai-di-polsek-tebet",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNjE5NTYzNC0xMi04Mzk2Nzcva2FzdXMtZHVnYWFuLXBlbGVjZWhhbi1kaS1rcmwtYmVyYWtoaXItZGFtYWktZGktcG9sc2VrLXRlYmV0",
+        "description": " Polisi\u00c2\u00a0mengatakan kasus dugaan pelecehan seksual di KRL yang viral di media sosial hanya senggol-senggolan kaki."
+    },
+    {
+        "title": "Erick Thohir Adukan Faizal Assegaf ke Bareskrim soal Dugaan Fitnah",
+        "link": "https://www.cnnindonesia.com/nasional/20220826155633-12-839546/erick-thohir-adukan-faizal-assegaf-ke-bareskrim-soal-dugaan-fitnah",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNjE1NTYzMy0xMi04Mzk1NDYvZXJpY2stdGhvaGlyLWFkdWthbi1mYWl6YWwtYXNzZWdhZi1rZS1iYXJlc2tyaW0tc29hbC1kdWdhYW4tZml0bmFo",
+        "description": " Menteri BUMN Erick Thohir mengadukan aktivis '98 Faizal Assegaf ke Bareskrim Polri terkait\u00c2\u00a0unggahan di media sosial."
+    },
+    {
         "title": "2 Warga Depok Kontak Erat Pasien Cacar Monyet Dinyatakan Negatif",
         "link": "https://www.cnnindonesia.com/nasional/20220826185154-20-839644/2-warga-depok-kontak-erat-pasien-cacar-monyet-dinyatakan-negatif",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNjE3NTMzNy0xMi04Mzk2MjYvcGVyYW4tMTUtc2Frc2ktZGktc2lkYW5nLWV0aWstZmVyZHktc2FtYm8tdGVyYmFnaS0zLWtsdXN0ZXI=",
         "description": " Sidang\u00c2\u00a0etik Ferdy Sambo berlangsung sekitar 17 jam secara maraton serta menghadirkan 15 saksi yang telah diambil sumpah sebelum memberikan keterangan."
-    },
-    {
-        "title": "Polri Tutup Opsi Peninjauan Kembali Setelah Banding Ferdy Sambo",
-        "link": "https://www.cnnindonesia.com/nasional/20220826161220-12-839574/polri-tutup-opsi-peninjauan-kembali-setelah-banding-ferdy-sambo",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNjE2MTIyMC0xMi04Mzk1NzQvcG9scmktdHV0dXAtb3BzaS1wZW5pbmphdWFuLWtlbWJhbGktc2V0ZWxhaC1iYW5kaW5nLWZlcmR5LXNhbWJv",
-        "description": " Mabes Polri memastikan tidak ada upaya peninjauan kembali (PK) terkait putusan Tim Komisi Kode Etik Polri (KKEP) dalam dugaan pelanggaran etik Ferdy Sambo."
-    },
-    {
-        "title": "Wagub DKI Berencana Relokasi Warga Simprug Golf Korban Kebakaran",
-        "link": "https://www.cnnindonesia.com/nasional/20220826150508-20-839524/wagub-dki-berencana-relokasi-warga-simprug-golf-korban-kebakaran",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNjE1MDUwOC0yMC04Mzk1MjQvd2FndWItZGtpLWJlcmVuY2FuYS1yZWxva2FzaS13YXJnYS1zaW1wcnVnLWdvbGYta29yYmFuLWtlYmFrYXJhbg==",
-        "description": " Pemprov DKI Jakarta akan mendata para korban kebakaran dan akan merelokasinya ke tempat yang lebih baik."
     }
 ]
