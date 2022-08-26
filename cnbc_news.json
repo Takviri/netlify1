@@ -1,5 +1,26 @@
 [
     {
+        "title": "Fix! Pembelian BBM Subsidi Berdasarkan Cc Kendaraan",
+        "link": "https://www.cnbcindonesia.com/news/20220826194430-8-367012/fix-pembelian-bbm-subsidi-berdasarkan-cc-kendaraan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjE5NDQzMC04LTM2NzAxMi9maXgtcGVtYmVsaWFuLWJibS1zdWJzaWRpLWJlcmRhc2Fya2FuLWNjLWtlbmRhcmFhbg==",
+        "description": " Pembatasan pembelian BBM pertalite dan solar subsidi tetap akan diberlakukan meskipun harga BBM subsidi akan naik dan kuotanya akan ditambah."
+    },
+    {
+        "title": "Waduh, Intel Rusia Intip Latihan Tentara Ukraina di Jerman",
+        "link": "https://www.cnbcindonesia.com/news/20220826210647-4-367018/waduh-intel-rusia-intip-latihan-tentara-ukraina-di-jerman",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjIxMDY0Ny00LTM2NzAxOC93YWR1aC1pbnRlbC1ydXNpYS1pbnRpcC1sYXRpaGFuLXRlbnRhcmEtdWtyYWluYS1kaS1qZXJtYW4=",
+        "description": " Intelijen Rusia dikabarkan memantau latihan militer Ukraina di Jerman. Hal ini dilaporkan majalah Der Spiegel, Jumat (26/8/2022)."
+    },
+    {
+        "title": "Ide Liburan Akhir Pekan, Nih Ongkos 'Healing' ke Yogyakarta",
+        "link": "https://www.cnbcindonesia.com/news/20220826205814-4-367016/ide-liburan-akhir-pekan-nih-ongkos-healing-ke-yogyakarta",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjIwNTgxNC00LTM2NzAxNi9pZGUtbGlidXJhbi1ha2hpci1wZWthbi1uaWgtb25na29zLWhlYWxpbmcta2UteW9neWFrYXJ0YQ==",
+        "description": " Salah satu destinasi akhir pekan untuk warga ibu kota yaitu kota Yogyakarta."
+    },
+    {
         "title": "Kabar Gembira! Pelancong Sudah Booster Tak Perlu Lagi Swab",
         "link": "https://www.cnbcindonesia.com/news/20220826194429-8-367011/kabar-gembira-pelancong-sudah-booster-tak-perlu-lagi-swab",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjE5MTMyMi04LTM2NzAwOC9wZXJ0YWxpdGUtYmFrYWwtaGFiaXMtaGluZ2dhLWVrb25vbWktYXMtbWVueXVzdXQ=",
         "description": " Menteri Keuangan Sri Mulyani mengungkapkan jika kuota BBM subsidi jenis Solar dan Pertalite berpotensi habis sebelum akhir tahun ini."
-    },
-    {
-        "title": "Lagi, Negara Eropa Jadi Korban \"Keganasan\" Rusia: Swiss",
-        "link": "https://www.cnbcindonesia.com/news/20220826161959-4-366956/lagi-negara-eropa-jadi-korban-keganasan-rusia-swiss",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjE2MTk1OS00LTM2Njk1Ni9sYWdpLW5lZ2FyYS1lcm9wYS1qYWRpLWtvcmJhbi1rZWdhbmFzYW4tcnVzaWEtc3dpc3M=",
-        "description": " Swiss dikhawatirkan akan mengalami krisis energi pada musim dingin ke depan. Salah satunya karena Rusia."
-    },
-    {
-        "title": "Warga RI, Pertalite Bakal Habis Oktober",
-        "link": "https://www.cnbcindonesia.com/news/20220826193024-4-367007/warga-ri-pertalite-bakal-habis-oktober",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjE5MzAyNC00LTM2NzAwNy93YXJnYS1yaS1wZXJ0YWxpdGUtYmFrYWwtaGFiaXMtb2t0b2Jlcg==",
-        "description": " Pertalite diperkirakan akan habis Oktober 2022."
-    },
-    {
-        "title": "Jika Harga BBM Pertalite Tidak Naik, APBN Jebol Parah?",
-        "link": "https://www.cnbcindonesia.com/news/20220826160440-4-366952/jika-harga-bbm-pertalite-tidak-naik-apbn-jebol-parah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjE2MDQ0MC00LTM2Njk1Mi9qaWthLWhhcmdhLWJibS1wZXJ0YWxpdGUtdGlkYWstbmFpay1hcGJuLWplYm9sLXBhcmFo",
-        "description": " Jika harga bensin tidak naik diperkirakan APBN akan jebol"
     }
 ]
