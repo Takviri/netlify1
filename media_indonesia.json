@@ -1,5 +1,26 @@
 [
     {
+        "title": "Risa Santoso: Dobrakan Rektor Termuda",
+        "link": "https://mediaindonesia.com/weekend/518180/risa-santoso-dobrakan-rektor-termuda",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vd2Vla2VuZC81MTgxODAvcmlzYS1zYW50b3NvLWRvYnJha2FuLXJla3Rvci10ZXJtdWRh",
+        "description": "PADA 2019, Museum Rekor Dunia Indonesia (Muri) menobatkan Risa Santoso sebagai rektor termuda."
+    },
+    {
+        "title": "Cleona Einar Maulidiva : Jawara Sains di Usia Belia",
+        "link": "https://mediaindonesia.com/weekend/518178/cleona-einar-maulidiva-jawara-sains-di-usia-belia",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vd2Vla2VuZC81MTgxNzgvY2xlb25hLWVpbmFyLW1hdWxpZGl2YS1qYXdhcmEtc2FpbnMtZGktdXNpYS1iZWxpYQ==",
+        "description": "BERSINAR di usia belia juga bisa diraih gadis cilik asal Sidoarjo, Jawa Timur, Cleona Einar Maulidiva."
+    },
+    {
+        "title": "Rayhan Naufaldi Hidayat: Prestasi dalam Keterbatasan",
+        "link": "https://mediaindonesia.com/weekend/518177/rayhan-naufaldi-hidayat-prestasi-dalam-keterbatasan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vd2Vla2VuZC81MTgxNzcvcmF5aGFuLW5hdWZhbGRpLWhpZGF5YXQtcHJlc3Rhc2ktZGFsYW0ta2V0ZXJiYXRhc2Fu",
+        "description": "MENJADI penyandang disabilitas bukanlah halangan untuk berprestasi"
+    },
+    {
         "title": "Urban Farming",
         "link": "https://mediaindonesia.com/opini/518175/urban-farming",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vc2VwYWstYm9sYS81MTgxOTYvZ29sLXR1bmdnYWwtYW50aG9ueS1tb2Rlc3RlLWJhd2EtZG9ydG11bmQta2FsYWhrYW4taGVydGhhLWJlcmxpbg==",
         "description": "Gol Anthony Modeste Bawa Dortmund Kalahkan Hertha Berlin\n\n&nbsp;"
-    },
-    {
-        "title": "Lokita Kampanyekan Pentingnya Kesehatan Mental Anak Muda di Purworejo",
-        "link": "https://mediaindonesia.com/nusantara/518195/lokita-kampanyekan-pentingnya-kesehatan-mental-anak-muda-di-purworejo",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vbnVzYW50YXJhLzUxODE5NS9sb2tpdGEta2FtcGFueWVrYW4tcGVudGluZ255YS1rZXNlaGF0YW4tbWVudGFsLWFuYWstbXVkYS1kaS1wdXJ3b3Jlam8=",
-        "description": "Saat ini banyak masyarakat khususnya\ngenerasi muda yang mengalami gangguan kesehatan mental"
-    },
-    {
-        "title": "OPPO Luncurkan Seri Reno8",
-        "link": "https://mediaindonesia.com/teknologi/518194/oppo-luncurkan-seri-reno8",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vdGVrbm9sb2dpLzUxODE5NC9vcHBvLWx1bmN1cmthbi1zZXJpLXJlbm84",
-        "description": "Pada produk terbarunya ini, OPPO memperkenalkan NPU pertamanya yakni MariSilicon X."
-    },
-    {
-        "title": "Alexander Isak Pecahkan Rekor Belanja Newcastle",
-        "link": "https://mediaindonesia.com/sepak-bola/518191/alexander-isak-pecahkan-rekor-belanja-newcastle",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vc2VwYWstYm9sYS81MTgxOTEvYWxleGFuZGVyLWlzYWstcGVjYWhrYW4tcmVrb3ItYmVsYW5qYS1uZXdjYXN0bGU=",
-        "description": "Newcastle United mengeluarkan dana sebesar 63 juta pounds (sekira Rp1triliun) untuk memboyong Isak"
     }
 ]

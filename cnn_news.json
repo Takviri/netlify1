@@ -1,5 +1,19 @@
 [
     {
+        "title": "Waspada Cuaca Ekstrem di Pulau-pulau Luar Jawa - Bali Sepekan ke Depan",
+        "link": "https://www.cnnindonesia.com/nasional/20220828034220-20-839917/waspada-cuaca-ekstrem-di-pulau-pulau-luar-jawa-bali-sepekan-ke-depan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyODAzNDIyMC0yMC04Mzk5MTcvd2FzcGFkYS1jdWFjYS1la3N0cmVtLWRpLXB1bGF1LXB1bGF1LWx1YXItamF3YS1iYWxpLXNlcGVrYW4ta2UtZGVwYW4=",
+        "description": " Peringatan cuaca ekstrem dari BMKG selama sepekan ke depan itu ditujukan bagi masyarakat di luar pulau Jawa-Bali-Nusa Tenggara."
+    },
+    {
+        "title": "Jokowi Bicara soal Perekonomian di Depan Rakernas PAN",
+        "link": "https://www.cnnindonesia.com/nasional/20220828011257-32-839909/jokowi-bicara-soal-perekonomian-di-depan-rakernas-pan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyODAxMTI1Ny0zMi04Mzk5MDkvam9rb3dpLWJpY2FyYS1zb2FsLXBlcmVrb25vbWlhbi1kaS1kZXBhbi1yYWtlcm5hcy1wYW4=",
+        "description": " Presiden Jokowi membicarakan soal perekonomian dalam Rakernas Partai Amanat Nasional (PAN), salah satunya soal pembangunan infrastruktur."
+    },
+    {
         "title": "Kronologi Kapal Semen Karam di Selat Makassar, Dihantam Cuaca Buruk",
         "link": "https://www.cnnindonesia.com/nasional/20220828035852-20-839918/kronologi-kapal-semen-karam-di-selat-makassar-dihantam-cuaca-buruk",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNzIxMDQwNS0zMi04Mzk4ODkvcGtiLXBlY2F0LWFuZ2dvdGEtZHByZC1rYWJ1cGF0ZW4tcGFzdXJ1YW4tdGVya2FpdC12aWRlby1tZXN1bQ==",
         "description": " Sekjen PKB menyatakan surat pemecatan terhadap kader yang juga anggota DPRD Kabupaten Pasuruan itu tengah diproses karena menghancurkan muruah partai."
-    },
-    {
-        "title": "DPRD Soroti Dana KJP Mengendap Rp82,9 Miliar, DKI Sebut Masalah Teknis",
-        "link": "https://www.cnnindonesia.com/nasional/20220827201929-32-839885/dprd-soroti-dana-kjp-mengendap-rp829-miliar-dki-sebut-masalah-teknis",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNzIwMTkyOS0zMi04Mzk4ODUvZHByZC1zb3JvdGktZGFuYS1ranAtbWVuZ2VuZGFwLXJwODI5LW1pbGlhci1ka2ktc2VidXQtbWFzYWxhaC10ZWtuaXM=",
-        "description": " Wagub\u00c2\u00a0DKI Jakarta membantah telah mengendapkan dana Kartu Jakarta Pintar (KJP) Plus dan KJMU tahun 2013-2021 sebesar Rp82,97 miliar."
-    },
-    {
-        "title": "Semburan Gas Memancar dari Sumur Bor Warga Tasikmalaya",
-        "link": "https://www.cnnindonesia.com/nasional/20220827202556-20-839884/semburan-gas-memancar-dari-sumur-bor-warga-tasikmalaya",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNzIwMjU1Ni0yMC04Mzk4ODQvc2VtYnVyYW4tZ2FzLW1lbWFuY2FyLWRhcmktc3VtdXItYm9yLXdhcmdhLXRhc2lrbWFsYXlh",
-        "description": " Semburan gas keluar dari sumur bor warga di Kampung Rancabogo, Desa/Kecamatan Sukaratu, Kabupaten Tasikmalaya sejak Jumat (26/8) kemarin."
     }
 ]
