@@ -1,5 +1,12 @@
 [
     {
+        "title": "Benarkah ratusan mahasiswa ber-KTP Bandung terinfeksi HIV/AIDS?",
+        "link": "https://www.bbc.com/indonesia/articles/c51eyz3zgydo",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvYXJ0aWNsZXMvYzUxZXl6M3pneWRv",
+        "description": "Terdapat 5.843 kasus HIV/AIDS di Kota Bandung, dan 6,97% berasal dari kelompok usia mahasiswa."
+    },
+    {
         "title": "Mengapa Rusia bakar gas alam senilai Rp147 miliar setiap hari?",
         "link": "https://www.bbc.co.uk/indonesia/articles/crg0r8jq1gko",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jNzJtMmo5d2wyZ28=",
         "description": "Masyarakat di berbagai belahan dunia harus beradaptasi dengan keadaan baru ini dan mengubah apa yang mereka makan."
-    },
-    {
-        "title": "'Konsorsium 303 Kaisar Sambo', polisi klaim mulai mengusut dengan libatkan Divisi Propam dan PPATK",
-        "link": "https://www.bbc.co.uk/indonesia/articles/cjqxqk8kegwo",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9janF4cWs4a2Vnd28=",
-        "description": "Kapolri Listyo Sigit Purnomo memerintahkan Divisi Propam memeriksa grafik bertajuk \"Konsorsium 303 Kaisar Sambo\" dan melibatkan PPATK dalam mengungkap jaringan perjudian. Namun, pengamat mengatakan kepolisian harus mengungkap bandar besar atau kasus ini bisa jadi \"bumerang\" bagi korps Bhayangkara."
     }
 ]
