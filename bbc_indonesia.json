@@ -1,5 +1,12 @@
 [
     {
+        "title": "Di balik kegandrungan Hollywood pada UFO",
+        "link": "https://www.bbc.com/indonesia/articles/c2qkyqy93z7o",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvYXJ0aWNsZXMvYzJxa3lxeTkzejdv",
+        "description": "Seperti apa kegilaan Hollywood pada UFO yang ditampilkan di berbagai film sejak tahun 50-an dan bagaimana penggambarannya dalam film baru, Nope?"
+    },
+    {
         "title": "Benarkah ratusan mahasiswa ber-KTP Bandung terinfeksi HIV/AIDS?",
         "link": "https://www.bbc.com/indonesia/articles/c51eyz3zgydo",
         "image": "static/images/bbc_indonesia.png",
@@ -61,12 +68,5 @@
         "image": "static/images/bbc_indonesia.png",
         "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02MjY3ODgwOA==",
         "description": "Dunia sedang mengalami salah satu peristiwa kekeringan paling meluas dalam puluhan tahun terakhir dan beberapa rekor sudah terpecahkan."
-    },
-    {
-        "title": "Rohingya: 'Lebih baik bunuh kami, daripada deportasi kami ke Myanmar', permintaan pengungsi yang terkatung-katung hidupnya",
-        "link": "https://www.bbc.com/indonesia/dunia-62671790",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvZHVuaWEtNjI2NzE3OTA=",
-        "description": "Lima tahun sejak jutaan orang Rohingya mengungsi dari genosida di Myanmar, mereka terus hidup dalam kondisi yang memprihatinkan."
     }
 ]
