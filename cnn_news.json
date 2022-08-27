@@ -1,5 +1,19 @@
 [
     {
+        "title": "Cuaca Ekstrem Ancam Sebagian Besar Wilayah RI 28 Agustus- 3 September",
+        "link": "https://www.cnnindonesia.com/nasional/20220827181551-20-839871/cuaca-ekstrem-ancam-sebagian-besar-wilayah-ri-28-agustus-3-september",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNzE4MTU1MS0yMC04Mzk4NzEvY3VhY2EtZWtzdHJlbS1hbmNhbS1zZWJhZ2lhbi1iZXNhci13aWxheWFoLXJpLTI4LWFndXN0dXMtMy1zZXB0ZW1iZXI=",
+        "description": " BMKG menyebut cuaca ekstrem mengancam sebagian besar wilayah RI pada periode 28 Agustus-3 September mendatang."
+    },
+    {
+        "title": "Konfirmasi Covid Bertambah 4.170, Total Kasus Aktif 48.189",
+        "link": "https://www.cnnindonesia.com/nasional/20220827163024-20-839850/konfirmasi-covid-bertambah-4170-total-kasus-aktif-48189",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNzE2MzAyNC0yMC04Mzk4NTAva29uZmlybWFzaS1jb3ZpZC1iZXJ0YW1iYWgtNDE3MC10b3RhbC1rYXN1cy1ha3RpZi00ODE4OQ==",
+        "description": " Konfirmasi positif Covid-19 bertambah 4.170 kasus pada Sabtu (27/8). Total akumulasi Covid-19 di Indonesia tercatat 6.343.076 kasus."
+    },
+    {
         "title": "Polres Sigi Tanggapi Viral Polwan Dipecat: Itu karena Desersi",
         "link": "https://www.cnnindonesia.com/nasional/20220827161751-12-839854/polres-sigi-tanggapi-viral-polwan-dipecat-itu-karena-desersi",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNzE0MjgxNS0zMi04Mzk4MjUvam9rb3dpLWJhbnlhay15YW5nLWJpc2lrLWJpc2lrLWtlLXNheWEtbmR1a3VuZy1zaW50ZW4tcGFr",
         "description": " Jokowi mengaku mendapat banyak pertanyaan soal siapa sosok yang akan didukungnya di Pilpres 2024. Ia meminta untuk tidak terburu-buru."
-    },
-    {
-        "title": "Daftar 11 Penumpang Hilang Akibat Kapal Semen Tenggelam di Makassar",
-        "link": "https://www.cnnindonesia.com/nasional/20220827142008-20-839816/daftar-11-penumpang-hilang-akibat-kapal-semen-tenggelam-di-makassar",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNzE0MjAwOC0yMC04Mzk4MTYvZGFmdGFyLTExLXBlbnVtcGFuZy1oaWxhbmctYWtpYmF0LWthcGFsLXNlbWVuLXRlbmdnZWxhbS1kaS1tYWthc3Nhcg==",
-        "description": " Sedikitnya 11 orang penumpang masih hilang akibat kapal semen tenggelam di Selat Makassar pada Senin lalu. Berikut daftar 11 penumpang itu."
-    },
-    {
-        "title": "Novel Baswedan Ikut Angkat Suara soal Konsorsium 303",
-        "link": "https://www.cnnindonesia.com/nasional/20220827134946-12-839803/novel-baswedan-ikut-angkat-suara-soal-konsorsium-303",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNzEzNDk0Ni0xMi04Mzk4MDMvbm92ZWwtYmFzd2VkYW4taWt1dC1hbmdrYXQtc3VhcmEtc29hbC1rb25zb3JzaXVtLTMwMw==",
-        "description": " EKs penyidik senior KPK Novel Baswedan mengatakan kalau benar Konsorsium 303 ada dan menjadi pelindung perjudian, itu merupakan fenomena gunung es."
     }
 ]
