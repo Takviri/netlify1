@@ -1,5 +1,12 @@
 [
     {
+        "title": "Tak Ada Bank Konvensional, Turis Asing di Aceh Sulit Tarik Uang ke ATM",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220827183310-78-839873/tak-ada-bank-konvensional-turis-asing-di-aceh-sulit-tarik-uang-ke-atm",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI3MTgzMzEwLTc4LTgzOTg3My90YWstYWRhLWJhbmsta29udmVuc2lvbmFsLXR1cmlzLWFzaW5nLWRpLWFjZWgtc3VsaXQtdGFyaWstdWFuZy1rZS1hdG0=",
+        "description": " Turis asing yang berlibur ke Aceh kesulitan menarik uang dari ATM karena di daerah tersebut tak ada bank konvensional."
+    },
+    {
         "title": "Wamendag: Permintaan Tinggi dan Distribusi Penyebab Harga Telur Tinggi",
         "link": "https://www.cnnindonesia.com/ekonomi/20220827164026-92-839852/wamendag-permintaan-tinggi-dan-distribusi-penyebab-harga-telur-tinggi",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI2MTk0NzEwLTc4LTgzOTY2OS9iaS1jYXRhdC1hbGlyYW4tbW9kYWwtYXNpbmcta2VsdWFyLXJwNTI4LXQtcGVrYW4taW5p",
         "description": " Bank Indonesia (BI) mencatat aliran modal asing keluar (capital outflow) ke pasar keuangan domestik sebesar Rp5,28 triliun pada 22-25 Agustus 2022."
-    },
-    {
-        "title": "Waspada Cacar Monyet, Bandara Soekarno-Hatta Perketat Pemeriksaan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220826204051-92-839687/waspada-cacar-monyet-bandara-soekarno-hatta-perketat-pemeriksaan",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI2MjA0MDUxLTkyLTgzOTY4Ny93YXNwYWRhLWNhY2FyLW1vbnlldC1iYW5kYXJhLXNvZWthcm5vLWhhdHRhLXBlcmtldGF0LXBlbWVyaWtzYWFu",
-        "description": " Bandara Soekarno-Hatta, Tangerang, Banten, memperketat pengawasan kesehatan terhadap awak dan penumpang pesawat untuk mencegah penyebaran cacar monyet."
     }
 ]
