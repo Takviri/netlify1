@@ -1,5 +1,19 @@
 [
     {
+        "title": "Cek Jadwal Ganjil Genap Hari Ini, Sabtu Berlaku?",
+        "link": "https://www.cnbcindonesia.com/news/20220827095920-4-367039/cek-jadwal-ganjil-genap-hari-ini-sabtu-berlaku",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNzA5NTkyMC00LTM2NzAzOS9jZWstamFkd2FsLWdhbmppbC1nZW5hcC1oYXJpLWluaS1zYWJ0dS1iZXJsYWt1",
+        "description": " Jadwal ganjil genap di Jakarta."
+    },
+    {
+        "title": "Geger Aktivis LGBT Harvard Meninggal Setelah Ditahan di Bali",
+        "link": "https://www.cnbcindonesia.com/news/20220827091414-4-367035/geger-aktivis-lgbt-harvard-meninggal-setelah-ditahan-di-bali",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNzA5MTQxNC00LTM2NzAzNS9nZWdlci1ha3RpdmlzLWxnYnQtaGFydmFyZC1tZW5pbmdnYWwtc2V0ZWxhaC1kaXRhaGFuLWRpLWJhbGk=",
+        "description": " Aktivis LGBT di Peru mengadakan protes untuk mempertanyakan bagaimana pemerintah mereka menangani kematian seorang pria transgender Peru di Indonesia."
+    },
+    {
         "title": "Turun Terus! Harga Minyak Goreng Terbaru Makin Murah",
         "link": "https://www.cnbcindonesia.com/news/20220827093549-4-367036/turun-terus-harga-minyak-goreng-terbaru-makin-murah",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNzA2MjYzMy00LTM2NzAyNC9wdXRpbi1iZXJpLXNpbnlhbC1iYWthbC1hZGEtcGVyYW5nLWJhcnUtbWF1LWhhamFyLXNpYXBh",
         "description": " Presiden Rusia Vladimir Putin telah melakukan penandatanganan dekrit baru. Ia meningkatkan jumlah militer Rusia dari 1,9 juta menjadi 20,5 juta."
-    },
-    {
-        "title": "Daftar Harga Terbaru BBM Hari Ini, Pertalite Jadi Naik ?",
-        "link": "https://www.cnbcindonesia.com/news/20220827061600-4-367023/daftar-harga-terbaru-bbm-hari-ini-pertalite-jadi-naik-",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNzA2MTYwMC00LTM2NzAyMy9kYWZ0YXItaGFyZ2EtdGVyYmFydS1iYm0taGFyaS1pbmktcGVydGFsaXRlLWphZGktbmFpay0=",
-        "description": " Pemerintah sudah memberi sinyal terkait rencana penyesuaian naiknya harga Bahan Bakar Minyak (BBM) jenis Pertalite dan Solar Subsidi."
-    },
-    {
-        "title": "Eks Presiden Rusia: Ukraina Terlambat Membangun Perdamaian",
-        "link": "https://www.cnbcindonesia.com/news/20220827060319-4-367022/eks-presiden-rusia-ukraina-terlambat-membangun-perdamaian",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNzA2MDMxOS00LTM2NzAyMi9la3MtcHJlc2lkZW4tcnVzaWEtdWtyYWluYS10ZXJsYW1iYXQtbWVtYmFuZ3VuLXBlcmRhbWFpYW4=",
-        "description": " Moskow tidak akan menghentikan kampanye militernya di Ukraina bahkan jika Kyiv secara resmi mengurungkan niatnya untuk bergabung dengan NATO."
     }
 ]
