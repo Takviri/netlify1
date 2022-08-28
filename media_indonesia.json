@@ -1,5 +1,26 @@
 [
     {
+        "title": "Presiden Joko Widodo Melepas Kirab Merah Putih",
+        "link": "https://mediaindonesia.com/politik-dan-hukum/518205/presiden-joko-widodo-melepas-kirab-merah-putih",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vcG9saXRpay1kYW4taHVrdW0vNTE4MjA1L3ByZXNpZGVuLWpva28td2lkb2RvLW1lbGVwYXMta2lyYWItbWVyYWgtcHV0aWg=",
+        "description": "Presiden Joko Widodo (Jokowi) didampingi Kapolri Jenderal Listyo Sigit Prabowo dan ulama Habib Luthfi bin Yahya."
+    },
+    {
+        "title": "Pembenahan Tata Niaga Jagung Dapat Turunkan Harga Telur",
+        "link": "https://mediaindonesia.com/ekonomi/518204/pembenahan-tata-niaga-jagung-dapat-turunkan-harga-telur",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vZWtvbm9taS81MTgyMDQvcGVtYmVuYWhhbi10YXRhLW5pYWdhLWphZ3VuZy1kYXBhdC10dXJ1bmthbi1oYXJnYS10ZWx1cg==",
+        "description": "Salah satu penyebab lain kenaikan harga telur disebabkan naiknya harga pakan dengan kenaikan hingga 30 persen dari sebelumnya."
+    },
+    {
+        "title": "Mulai 30 Agustus 2022, Seluruh Pelanggan KA Jarak Jauh Wajib Vaksin Booster",
+        "link": "https://mediaindonesia.com/humaniora/518203/mulai-30-agustus-2022-seluruh-pelanggan-ka-jarak-jauh-wajib-vaksin-booster",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaHVtYW5pb3JhLzUxODIwMy9tdWxhaS0zMC1hZ3VzdHVzLTIwMjItc2VsdXJ1aC1wZWxhbmdnYW4ta2EtamFyYWstamF1aC13YWppYi12YWtzaW4tYm9vc3Rlcg==",
+        "description": "Kebijakan ini berlaku untuk perjalanan KA keberangkatan mulai 30 Agustus 2022."
+    },
+    {
         "title": "Sajak-sajak Sergey Yesenin",
         "link": "https://mediaindonesia.com/sajak-kofe/518202/sajak-sajak-sergey-yesenin",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vd2Vla2VuZC81MTgxNzgvY2xlb25hLWVpbmFyLW1hdWxpZGl2YS1qYXdhcmEtc2FpbnMtZGktdXNpYS1iZWxpYQ==",
         "description": "BERSINAR di usia belia juga bisa diraih gadis cilik asal Sidoarjo, Jawa Timur, Cleona Einar Maulidiva."
-    },
-    {
-        "title": "Rayhan Naufaldi Hidayat: Prestasi dalam Keterbatasan",
-        "link": "https://mediaindonesia.com/weekend/518177/rayhan-naufaldi-hidayat-prestasi-dalam-keterbatasan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vd2Vla2VuZC81MTgxNzcvcmF5aGFuLW5hdWZhbGRpLWhpZGF5YXQtcHJlc3Rhc2ktZGFsYW0ta2V0ZXJiYXRhc2Fu",
-        "description": "MENJADI penyandang disabilitas bukanlah halangan untuk berprestasi"
-    },
-    {
-        "title": "Urban Farming",
-        "link": "https://mediaindonesia.com/opini/518175/urban-farming",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vb3BpbmkvNTE4MTc1L3VyYmFuLWZhcm1pbmc=",
-        "description": "DUNIA dihantui krisis pangan dan energi. Begitu menurut berita yang sering kita baca dan dengar akhir-akhir ini."
-    },
-    {
-        "title": "Dorong Kreativitas Perempuan, Srikandi Ganjar Jabar Gelar Fashion Show di Tasikmalaya",
-        "link": "https://mediaindonesia.com/nusantara/518201/dorong-kreativitas-perempuan-srikandi-ganjar-jabar-gelar-fashion-show-di-tasikmalaya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vbnVzYW50YXJhLzUxODIwMS9kb3Jvbmcta3JlYXRpdml0YXMtcGVyZW1wdWFuLXNyaWthbmRpLWdhbmphci1qYWJhci1nZWxhci1mYXNoaW9uLXNob3ctZGktdGFzaWttYWxheWE=",
-        "description": "Koordinator Wilayah Srikandi Ganjar Jawa Barat, Eva Yuliana mengatakan kegiatan kali ini merupakan inisiatif dari Srikandi Ganjar untuk memfasilitasi para milenial berkreas"
     }
 ]
