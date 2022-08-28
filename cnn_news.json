@@ -1,5 +1,19 @@
 [
     {
+        "title": "TransJakarta Tutup Sementara Halte Velbak Kebayoran Baru Mulai Besok",
+        "link": "https://www.cnnindonesia.com/nasional/20220828181558-20-840103/transjakarta-tutup-sementara-halte-velbak-kebayoran-baru-mulai-besok",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyODE4MTU1OC0yMC04NDAxMDMvdHJhbnNqYWthcnRhLXR1dHVwLXNlbWVudGFyYS1oYWx0ZS12ZWxiYWsta2ViYXlvcmFuLWJhcnUtbXVsYWktYmVzb2s=",
+        "description": " PT TransJakarta menghentikan sementara operasional Halte Velbak, Kebayoran Baru, Jakarta Selatan mulai Senin (29/8)."
+    },
+    {
+        "title": "Yusril Bantah PT Taspen Kelola Dana Capres Rp300 Triliun",
+        "link": "https://www.cnnindonesia.com/nasional/20220828173524-12-840099/yusril-bantah-pt-taspen-kelola-dana-capres-rp300-triliun",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyODE3MzUyNC0xMi04NDAwOTkveXVzcmlsLWJhbnRhaC1wdC10YXNwZW4ta2Vsb2xhLWRhbmEtY2FwcmVzLXJwMzAwLXRyaWxpdW4=",
+        "description": " Kuasa Hukum PT Taspen Yusril Ihza Mahendra membantah tentang tudingan dana yang dikelola oleh PT Taspen untuk kepentingan pencalonan presiden 2024."
+    },
+    {
         "title": "Ponpes Darul Qur'an Lantaburo Bungkam Usai Santri Tewas Dikeroyok",
         "link": "https://www.cnnindonesia.com/nasional/20220828172710-12-840098/ponpes-darul-quran-lantaburo-bungkam-usai-santri-tewas-dikeroyok",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyODE1Mzk1Ny0zMi04NDAwODQvbmFtYS1nYW5qYXItcHJhbm93by1oaW5nZ2Etcmlkd2FuLWthbWlsLW11bmN1bC1kaS1tdXNyYS1yZWxhd2FuLWpva293aQ==",
         "description": " Nama Gubernur Jawa Tengah Ganjar Pranowo dan Gubernur Jawa Barat Ridwan Kamil muncul dalam Musyawarah Rakyat Indonesia (Musra) yang digelar relawan Jokowi."
-    },
-    {
-        "title": "Kasus Harian Covid Bertambah 3.228, Pasien Sembuh 5.044 Orang",
-        "link": "https://www.cnnindonesia.com/nasional/20220828125358-20-840032/kasus-harian-covid-bertambah-3228-pasien-sembuh-5044-orang",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyODEyNTM1OC0yMC04NDAwMzIva2FzdXMtaGFyaWFuLWNvdmlkLWJlcnRhbWJhaC0zMjI4LXBhc2llbi1zZW1idWgtNTA0NC1vcmFuZw==",
-        "description": " Konfirmasi positif Covid-19 bertambah 3.228 kasus pada hari ini, Minggu (28/8)."
-    },
-    {
-        "title": "Polisi Tangkap Terduga Pengeroyok Suporter PSS Sleman Hingga Tewas",
-        "link": "https://www.cnnindonesia.com/nasional/20220828152545-12-840075/polisi-tangkap-terduga-pengeroyok-suporter-pss-sleman-hingga-tewas",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyODE1MjU0NS0xMi04NDAwNzUvcG9saXNpLXRhbmdrYXAtdGVyZHVnYS1wZW5nZXJveW9rLXN1cG9ydGVyLXBzcy1zbGVtYW4taGluZ2dhLXRld2Fz",
-        "description": " Polisi menangkap sejumlah\u00c2\u00a0orang yang diduga menganiaya seorang suporter PSS Sleman Aditya Eka Putranda hingga tewas."
     }
 ]
