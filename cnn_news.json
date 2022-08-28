@@ -1,5 +1,19 @@
 [
     {
+        "title": "Daftar 10 Sekolah dengan Nilai UTBK Tertinggi di Indonesia",
+        "link": "https://www.cnnindonesia.com/nasional/20220828161647-20-840088/daftar-10-sekolah-dengan-nilai-utbk-tertinggi-di-indonesia",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyODE2MTY0Ny0yMC04NDAwODgvZGFmdGFyLTEwLXNla29sYWgtZGVuZ2FuLW5pbGFpLXV0YmstdGVydGluZ2dpLWRpLWluZG9uZXNpYQ==",
+        "description": " MAN Insan Cendekia Serpong masih mempertahankan predikat dengan sekolah dengan nilai UTBK tertinggi tahun ini."
+    },
+    {
+        "title": "5 Capres Pilihan Relawan Jokowi Akan Diumumkan Pekan Depan",
+        "link": "https://www.cnnindonesia.com/nasional/20220828162853-32-840089/5-capres-pilihan-relawan-jokowi-akan-diumumkan-pekan-depan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyODE2Mjg1My0zMi04NDAwODkvNS1jYXByZXMtcGlsaWhhbi1yZWxhd2FuLWpva293aS1ha2FuLWRpdW11bWthbi1wZWthbi1kZXBhbg==",
+        "description": " Relawan Jokowi akan mengumumkan lima nama calon presiden (capres) hasil Musyawarah Rakyat Indonesia (Musra) Jawa Barat pada Rabu pekan depan."
+    },
+    {
         "title": "Polisi Gerebek Dua Lokasi Prostitusi di Tangerang, 11 Orang Diamankan",
         "link": "https://www.cnnindonesia.com/nasional/20220828151752-12-840074/polisi-gerebek-dua-lokasi-prostitusi-di-tangerang-11-orang-diamankan",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyODE0MDk1My0yMC04NDAwNDIva3NhbC1taW50YS1hbmdnb3RhLXdhc3BhZGFpLW1ha2VsYXIta2FzdXMtYmFrYWwtc2Fua3NpLXlhbmctdGVybGliYXQ=",
         "description": " KSAL meminta para anggota TNI AL waspada makelar kasus."
-    },
-    {
-        "title": "VIDEO: Kapolri Ungkap Alasan Tolak Pengunduran Diri Ferdy Sambo",
-        "link": "https://www.cnnindonesia.com/nasional/20220828132751-16-840039/video-kapolri-ungkap-alasan-tolak-pengunduran-diri-ferdy-sambo",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyODEzMjc1MS0xNi04NDAwMzkvdmlkZW8ta2Fwb2xyaS11bmdrYXAtYWxhc2FuLXRvbGFrLXBlbmd1bmR1cmFuLWRpcmktZmVyZHktc2FtYm8=",
-        "description": " Kapolri Jenderal Listyo Sigit membeberkan alasan tolak pengunduran diri Ferdy Sambo terkait pembunuhan Brigadir J."
-    },
-    {
-        "title": "Pemukul Sopir TransJakarta Ditetapkan Jadi Tersangka dan Ditahan",
-        "link": "https://www.cnnindonesia.com/nasional/20220828141038-12-840043/pemukul-sopir-transjakarta-ditetapkan-jadi-tersangka-dan-ditahan",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyODE0MTAzOC0xMi04NDAwNDMvcGVtdWt1bC1zb3Bpci10cmFuc2pha2FydGEtZGl0ZXRhcGthbi1qYWRpLXRlcnNhbmdrYS1kYW4tZGl0YWhhbg==",
-        "description": " Pengendara yang memukul kepala atau mengeplak pengemudi bus TransJakarta di kawasan Ciputat beberapa waktu lalu, ditetapkan menjadi tersangka."
     }
 ]
