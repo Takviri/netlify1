@@ -1,5 +1,19 @@
 [
     {
+        "title": "Maskapai Tambah Pesawat, Sandiaga Sebut Harga Tiket Pesawat Akan Terjangkau di Akhir Tahun",
+        "link": "https://bisnis.tempo.co/read/1628250/maskapai-tambah-pesawat-sandiaga-sebut-harga-tiket-pesawat-akan-terjangkau-di-akhir-tahun",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4MjUwL21hc2thcGFpLXRhbWJhaC1wZXNhd2F0LXNhbmRpYWdhLXNlYnV0LWhhcmdhLXRpa2V0LXBlc2F3YXQtYWthbi10ZXJqYW5na2F1LWRpLWFraGlyLXRhaHVu",
+        "description": "Sandiaga Uno mengatakan harga tiket pesawat telah turun 15 persen. Menurut dia turunnya harga telah menjadi angin segar para pelaku pariwisata dan ekonomi kreatif."
+    },
+    {
+        "title": "Karena Cuaca Buruk, Dua Pesawat Rute Minangkabau Dialihkan ke Pekanbaru",
+        "link": "https://bisnis.tempo.co/read/1628244/karena-cuaca-buruk-dua-pesawat-rute-minangkabau-dialihkan-ke-pekanbaru",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4MjQ0L2thcmVuYS1jdWFjYS1idXJ1ay1kdWEtcGVzYXdhdC1ydXRlLW1pbmFuZ2thYmF1LWRpYWxpaGthbi1rZS1wZWthbmJhcnU=",
+        "description": "Dua penerbangan menuju Bandara Internasional Minangkabau di Padang Pariaman Sumatera Barat dialihkan pendaratannya akibat cuaca buruk."
+    },
+    {
         "title": "Gagalkan Penyelundupan 300 Ribu Benih Lobster ke Singapura, KKP: Pelaku Melarikan Diri",
         "link": "https://bisnis.tempo.co/read/1628236/gagalkan-penyelundupan-300-ribu-benih-lobster-ke-singapura-kkp-pelaku-melarikan-diri",
         "image": "static/images/tempo_bisnis.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4MjA1L21hbnRhbi1kaXJla3R1ci1wdC10aW1haC10YmstZGl0ZW11a2FuLW1lbmluZ2dhbC1kdW5pYS1kaS1ub3ZvdGVsLWJhbmdrYQ==",
         "description": "Mantan Direktur Umum dan Sumber Daya Manusia (SDM) PT Timah TBK, Surawardi ditemukan meninggal dunia di salah satu kamar hotel di Novotel Bangka."
-    },
-    {
-        "title": "Kemenkeu: Dana Pensiun PNS 15 Tahun Lalu Masih Jadi Beban Hari Ini",
-        "link": "https://bisnis.tempo.co/read/1628194/kemenkeu-dana-pensiun-pns-15-tahun-lalu-masih-jadi-beban-hari-ini",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4MTk0L2tlbWVua2V1LWRhbmEtcGVuc2l1bi1wbnMtMTUtdGFodW4tbGFsdS1tYXNpaC1qYWRpLWJlYmFuLWhhcmktaW5p",
-        "description": "Kementerian Keuangan masih belum bisa menerapkan skema pensiunan fully funded, meskipun sudah diwacanakan sejak 2014."
-    },
-    {
-        "title": "Kemenhub: Naik Pesawat Tak Lagi Pakai PCR dan Antigen, Asalkan Sudah Booster",
-        "link": "https://bisnis.tempo.co/read/1628173/kemenhub-naik-pesawat-tak-lagi-pakai-pcr-dan-antigen-asalkan-sudah-booster",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4MTczL2tlbWVuaHViLW5haWstcGVzYXdhdC10YWstbGFnaS1wYWthaS1wY3ItZGFuLWFudGlnZW4tYXNhbGthbi1zdWRhaC1ib29zdGVy",
-        "description": "Bagi penumpang yang memiliki kondisi kesehatan khusus atau komorbid tidak wajib menunjukkan hasil negatif tes RT-PCR atau antigen, tapi surat dokter."
     }
 ]
