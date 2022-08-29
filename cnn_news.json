@@ -1,5 +1,12 @@
 [
     {
+        "title": "HMI Sulsel Demo Tolak Kenaikkan Harga BBM",
+        "link": "https://www.cnnindonesia.com/nasional/20220829181552-20-840513/hmi-sulsel-demo-tolak-kenaikkan-harga-bbm",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyOTE4MTU1Mi0yMC04NDA1MTMvaG1pLXN1bHNlbC1kZW1vLXRvbGFrLWtlbmFpa2thbi1oYXJnYS1iYm0=",
+        "description": " HMI Sulsel menolak rencana pemerintah menaikkan harga BBM jenis Pertalite. Wakil Anggota DPRD Sulsel Irwandi pun mendukung tuntutan para mahasiswa tersebut."
+    },
+    {
         "title": "Kasus Pembunuhan Sadis di Timika, Satu Orang Masuk DPO",
         "link": "https://www.cnnindonesia.com/nasional/20220829190247-12-840541/kasus-pembunuhan-sadis-di-timika-satu-orang-masuk-dpo",
         "image": "static/images/cnn_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyOTIwMzQzOS0yMC04NDA1Nzkva29yYmFuLXRld2FzLXRhYnVuZy1rb21wb3ItbWVsZWRhay1zYWF0LW5nYWJlbi1tYXNzYWwtamFkaS0zLW9yYW5n",
         "description": " Korban meninggal dunia yang ketiga ini bernama I Kadek Dwi Putra Jaya (30) menderita luka bakar 74 persen dan sempat dirawat di RSUP Sanglah, Denpasar."
-    },
-    {
-        "title": "34 Rumah di Kampung Mafta Sumut Hangus Terbakar",
-        "link": "https://www.cnnindonesia.com/nasional/20220829201230-20-840574/34-rumah-di-kampung-mafta-sumut-hangus-terbakar",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyOTIwMTIzMC0yMC04NDA1NzQvMzQtcnVtYWgtZGkta2FtcHVuZy1tYWZ0YS1zdW11dC1oYW5ndXMtdGVyYmFrYXI=",
-        "description": " Camat Sei Lepan, Kabupaten Langkat, Iqbal Ramadhan mengatakan dugaan sementara kebakaran yang menghanguskan 34 rumah akibat korsleting listrik."
     }
 ]
