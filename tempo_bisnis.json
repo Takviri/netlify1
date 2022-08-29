@@ -1,9 +1,37 @@
 [
     {
-        "title": "IHSG Ditutup di Zona Merah, Samuel Sekuritas Ungkap Sederet Saham yang Anjlok",
-        "link": "https://bisnis.tempo.co/read/1628099/ihsg-ditutup-di-zona-merah-samuel-sekuritas-ungkap-sederet-saham-yang-anjlok",
+        "title": "Menhub Budi Karya Minta Waktu Seminggu Sebelum Naikkan Tarif Ojol",
+        "link": "https://bisnis.tempo.co/read/1628109/menhub-budi-karya-minta-waktu-seminggu-sebelum-naikkan-tarif-ojol",
         "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4MDk5L2loc2ctZGl0dXR1cC1kaS16b25hLW1lcmFoLXNhbXVlbC1zZWt1cml0YXMtdW5na2FwLXNlZGVyZXQtc2FoYW0teWFuZy1hbmpsb2s=",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4MTA5L21lbmh1Yi1idWRpLWthcnlhLW1pbnRhLXdha3R1LXNlbWluZ2d1LXNlYmVsdW0tbmFpa2thbi10YXJpZi1vam9s",
+        "description": "Budi Karya Sumadi meminta waktu untuk berbicara lagi dengan pihak-pihak yang terlibat dalam bisnis ojek online alias ojol."
+    },
+    {
+        "title": "Satu Dekade Maybank Marathon Berlangsung Semarak",
+        "link": "https://bisnis.tempo.co/read/1628108/satu-dekade-maybank-marathon-berlangsung-semarak",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4MTA4L3NhdHUtZGVrYWRlLW1heWJhbmstbWFyYXRob24tYmVybGFuZ3N1bmctc2VtYXJhaw==",
+        "description": "Hujan yang turun sepanjang rute tak menyurutkan semangat 10 ribu pelari. Siswa-siswa sekolah dasar yang menyuguhkan atraksi budaya menambah semarak Maybank Marathon 2022."
+    },
+    {
+        "title": "Kaji Usulan Perubahan Skema Pensiun PNS, Kemenkeu: Pola Terbaik Belum Diadopsi",
+        "link": "https://bisnis.tempo.co/read/1628105/kaji-usulan-perubahan-skema-pensiun-pns-kemenkeu-pola-terbaik-belum-diadopsi",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4MTA1L2thamktdXN1bGFuLXBlcnViYWhhbi1za2VtYS1wZW5zaXVuLXBucy1rZW1lbmtldS1wb2xhLXRlcmJhaWstYmVsdW0tZGlhZG9wc2k=",
+        "description": "Pemerintah sedang mengkaji usulan perubahan skema pembiayaan pensiun Pegawai Negeri Sipil (PNS)."
+    },
+    {
+        "title": "Merayakan Hari Berkelanjutan di Maybank Marathon 2022",
+        "link": "https://bisnis.tempo.co/read/1628103/merayakan-hari-berkelanjutan-di-maybank-marathon-2022",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4MTAzL21lcmF5YWthbi1oYXJpLWJlcmtlbGFuanV0YW4tZGktbWF5YmFuay1tYXJhdGhvbi0yMDIy",
+        "description": "Penyelenggaraan Hari Berkelanjutan merupakan upaya Grup Maybank menjabarkan berbagai upaya berkelanjutan yang telah dilakukan perusahaan, sekaligus mengajak semua orang mempraktikkan upaya berkelanjutan."
+    },
+    {
+        "title": "IHSG Ditutup Memerah, Samuel Sekuritas: 373 Saham Melemah",
+        "link": "https://bisnis.tempo.co/read/1628099/ihsg-ditutup-memerah-samuel-sekuritas-373-saham-melemah",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4MDk5L2loc2ctZGl0dXR1cC1tZW1lcmFoLXNhbXVlbC1zZWt1cml0YXMtMzczLXNhaGFtLW1lbGVtYWg=",
         "description": "Indeks Harga Saham Gabungan (IHSG) melemah tipis, sebesar 0,04 persen pada penutupan perdagangan awal pekan ini. IHSG menutup sesi kedua perdagangan Senin, 29 Agustus 2022, di level 7.132,0, lebih rendah dari angka penutupan Jumat 26 Agustus 2022 di level 7.135,2."
     },
     {
@@ -40,33 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4MDYwL2tlcmFuZ2thLXByb2R1ay1iZXJrZWxhbmp1dGFuLW1heWJhbmstZGlsdW5jdXJrYW4=",
         "description": "Bertujuan untuk mendorong pengembangan produk hijau, sosial, dan berkelanjutan."
-    },
-    {
-        "title": "Mulai Besok, Penumpang Kereta Jarak Jauh Wajib Vaksinasi Booster",
-        "link": "https://bisnis.tempo.co/read/1628022/mulai-besok-penumpang-kereta-jarak-jauh-wajib-vaksinasi-booster",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4MDIyL211bGFpLWJlc29rLXBlbnVtcGFuZy1rZXJldGEtamFyYWstamF1aC13YWppYi12YWtzaW5hc2ktYm9vc3Rlcg==",
-        "description": "Mulai besok, Selasa, 30 Agustus 2022 seluruh penumpang kereta jarak jauh berusia 18 tahun ke atas wajib telah melakukan vaksinasi booster."
-    },
-    {
-        "title": "Cerita Perempuan Para Pelaku Usaha Mikro di Kalbar Optimalkan Pinjaman dari BTPN Syariah",
-        "link": "https://bisnis.tempo.co/read/1628043/cerita-perempuan-para-pelaku-usaha-mikro-di-kalbar-optimalkan-pinjaman-dari-btpn-syariah",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4MDQzL2Nlcml0YS1wZXJlbXB1YW4tcGFyYS1wZWxha3UtdXNhaGEtbWlrcm8tZGkta2FsYmFyLW9wdGltYWxrYW4tcGluamFtYW4tZGFyaS1idHBuLXN5YXJpYWg=",
-        "description": "Tak sedikit perempuan pengusaha mikro mendapat pinjaman dari BTPN Syariah. Selain usaha berkelanjutan, mereka juga harus disiplin mengelola keuangan."
-    },
-    {
-        "title": "Jokowi Belum Mau Umumkan Kenaikan Harga BBM",
-        "link": "https://bisnis.tempo.co/read/1628034/jokowi-belum-mau-umumkan-kenaikan-harga-bbm",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4MDM0L2pva293aS1iZWx1bS1tYXUtdW11bWthbi1rZW5haWthbi1oYXJnYS1iYm0=",
-        "description": "Presiden Joko Widodo atau Jokowi masih belum bersedia mengumumkan kenaikan harga BBM bersubsidi jenis Pertalite dan Solar."
-    },
-    {
-        "title": "Jokowi Resmi Alihkan Rp 24,17 Triliun Subsidi BBM Jadi Bansos, Warga Dapat Rp 600 Ribu",
-        "link": "https://bisnis.tempo.co/read/1628029/jokowi-resmi-alihkan-rp-2417-triliun-subsidi-bbm-jadi-bansos-warga-dapat-rp-600-ribu",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4MDI5L2pva293aS1yZXNtaS1hbGloa2FuLXJwLTI0MTctdHJpbGl1bi1zdWJzaWRpLWJibS1qYWRpLWJhbnNvcy13YXJnYS1kYXBhdC1ycC02MDAtcmlidQ==",
-        "description": "Presiden Jokowi resmi memulai pengalihan subsidi BBM menjadi bantuan sosial tambahan kepada sebagian kelompok masyarakat senilai Rp 24,17 triliun."
     }
 ]
