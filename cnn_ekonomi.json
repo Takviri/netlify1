@@ -1,5 +1,19 @@
 [
     {
+        "title": "Mengenal Kartu Kredit Pemerintah yang Dirilis Jokowi",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220829103530-78-840230/mengenal-kartu-kredit-pemerintah-yang-dirilis-jokowi",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI5MTAzNTMwLTc4LTg0MDIzMC9tZW5nZW5hbC1rYXJ0dS1rcmVkaXQtcGVtZXJpbnRhaC15YW5nLWRpcmlsaXMtam9rb3dp",
+        "description": " Presiden Joko Widodo (Jokowi) baru saja meresmikan peluncuran Kartu Kredit Pemerintah (KKP) Domestik pada Senin (29/8) ini."
+    },
+    {
+        "title": "Melihat Perbandingan Gaji Pensiunan PNS dan DPR",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220829092723-532-840211/melihat-perbandingan-gaji-pensiunan-pns-dan-dpr",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI5MDkyNzIzLTUzMi04NDAyMTEvbWVsaWhhdC1wZXJiYW5kaW5nYW4tZ2FqaS1wZW5zaXVuYW4tcG5zLWRhbi1kcHI=",
+        "description": " Pensiunan PNS dan anggota DPR menerima gaji setiap bulan dari negara. Berikut besarannya."
+    },
+    {
         "title": "Jokowi Resmi Luncurkan Kartu Kredit Khusus Pemerintah",
         "link": "https://www.cnnindonesia.com/ekonomi/20220829101051-78-840221/jokowi-resmi-luncurkan-kartu-kredit-khusus-pemerintah",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI5MDgxOTU3LTc4LTg0MDE4OC9iaS1mYXN0LXRhbWJhaC0yNS1iYW5rLXRyYW5zZmVyLWtlLWJ0cG4taGluZ2dhLW11YW1hbGF0LWN1bWEtcnAyNTAw",
         "description": " Bank Indonesia melaporkan jumlah peserta BI-Fast bertambah 25 bank mulai Senin (29/8), di antaranya BTPN, Bank\u00c2\u00a0Muamalat, Maybank, Seabank hingga Bank Mayapada."
-    },
-    {
-        "title": "Alasan Kemenhub Dua Kali Tunda Kenaikan Tarif Ojol",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220829074013-92-840178/alasan-kemenhub-dua-kali-tunda-kenaikan-tarif-ojol",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI5MDc0MDEzLTkyLTg0MDE3OC9hbGFzYW4ta2VtZW5odWItZHVhLWthbGktdHVuZGEta2VuYWlrYW4tdGFyaWYtb2pvbA==",
-        "description": " Kementerian Perhubungan kembali menunda kenaikan tarif ojol yang sedianya berlaku hari ini, Senin (29/8). Berikut alasannya."
-    },
-    {
-        "title": "Harga Minyak Menguat Pekan Lalu, Brent Kembali ke Level US$100",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220829072816-85-840175/harga-minyak-menguat-pekan-lalu-brent-kembali-ke-level-us-100",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI5MDcyODE2LTg1LTg0MDE3NS9oYXJnYS1taW55YWstbWVuZ3VhdC1wZWthbi1sYWx1LWJyZW50LWtlbWJhbGkta2UtbGV2ZWwtdXMtMTAw",
-        "description": " Harga minyak mentah dunia kembali menyentuh level US$100 per barel pada akhir perdagangan pekan lalu."
     }
 ]
