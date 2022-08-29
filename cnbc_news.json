@@ -1,5 +1,47 @@
 [
     {
+        "title": "Tarif Baru Ojol Batal Naik, Menhub Bakal Panggil Driver!",
+        "link": "https://www.cnbcindonesia.com/news/20220829180018-4-367528/tarif-baru-ojol-batal-naik-menhub-bakal-panggil-driver",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyOTE4MDAxOC00LTM2NzUyOC90YXJpZi1iYXJ1LW9qb2wtYmF0YWwtbmFpay1tZW5odWItYmFrYWwtcGFuZ2dpbC1kcml2ZXI=",
+        "description": " Menteri Perhubungan Budi Karya Sumadi memastikan akan memanggil para driver untuk membicarakan hal ini"
+    },
+    {
+        "title": "India Ratakan Gedung Pencakar Langit Tak Berizin",
+        "link": "https://www.cnbcindonesia.com/news/20220829181517-8-367532/india-ratakan-gedung-pencakar-langit-tak-berizin",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyOTE4MTUxNy04LTM2NzUzMi9pbmRpYS1yYXRha2FuLWdlZHVuZy1wZW5jYWthci1sYW5naXQtdGFrLWJlcml6aW4=",
+        "description": " India hancurkan bangunan pencakar langit tak berizin setinggi 103 meter."
+    },
+    {
+        "title": "Berkat Efisiensi, Pertamina Hemat Anggaran Sekitar Rp 6 T",
+        "link": "https://www.cnbcindonesia.com/news/20220829185400-4-367547/berkat-efisiensi-pertamina-hemat-anggaran-sekitar-rp-6-t",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyOTE4NTQwMC00LTM2NzU0Ny9iZXJrYXQtZWZpc2llbnNpLXBlcnRhbWluYS1oZW1hdC1hbmdnYXJhbi1zZWtpdGFyLXJwLTYtdA==",
+        "description": " Pertamina melakukan efisiensi energi di seluruh area operasional dari hulu ke hilir dan telah memberikan penghematan biaya yang signifikan."
+    },
+    {
+        "title": "Hot News: Kiamat ATM, Hingga Belanja di Thailand Pakai Rupiah",
+        "link": "https://www.cnbcindonesia.com/news/20220829181516-8-367531/hot-news-kiamat-atm-hingga-belanja-di-thailand-pakai-rupiah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyOTE4MTUxNi04LTM2NzUzMS9ob3QtbmV3cy1raWFtYXQtYXRtLWhpbmdnYS1iZWxhbmphLWRpLXRoYWlsYW5kLXBha2FpLXJ1cGlhaA==",
+        "description": " Kondisi pandemi mempercepat transformasi digital, khususnya terkait alat pembayaran"
+    },
+    {
+        "title": "Pasar Gas Dunia Bergejolak, RI Tahan Banting!",
+        "link": "https://www.cnbcindonesia.com/news/20220826173208-4-366979/pasar-gas-dunia-bergejolak-ri-tahan-banting",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjE3MzIwOC00LTM2Njk3OS9wYXNhci1nYXMtZHVuaWEtYmVyZ2Vqb2xhay1yaS10YWhhbi1iYW50aW5n",
+        "description": " Indonesia tidak terkena dampak langsung dari kondisi pasar gas yang penuh volatilitas"
+    },
+    {
+        "title": "Elon Musk: Bumi Masih Butuh Minyak dan Gas Bumi",
+        "link": "https://www.cnbcindonesia.com/news/20220829170126-4-367506/elon-musk-bumi-masih-butuh-minyak-gas-bumi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyOTE3MDEyNi00LTM2NzUwNi9lbG9uLW11c2stYnVtaS1tYXNpaC1idXR1aC1taW55YWstZ2FzLWJ1bWk=",
+        "description": " Elon Musk mengatakan dunia harus terus mengekstrak minyak dan gas untuk mempertahankan peradaban."
+    },
+    {
         "title": "Budi Karya: BBM Naik, Harga Avtur Tetap!",
         "link": "https://www.cnbcindonesia.com/news/20220829174621-4-367523/budi-karya-bbm-naik-harga-avtur-tetap",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyOTE3MjU0Mi0xNi0zNjc1MTgvbGlrYS1saWt1LWtlbmFpa2FuLWhhcmdhLWJibS1kYXJpLWVyYS1zb2VoYXJ0by1oaW5nZ2Etam9rb3dp",
         "description": " Kenaikan harga BBM sejatinya sudah terjadi sebelum era pemerintahan Joko Widodo (Jokowi)"
-    },
-    {
-        "title": "Harga BBM Naik, Upah Naik Juga? Ini Kata Bos Pengusaha",
-        "link": "https://www.cnbcindonesia.com/news/20220829173151-4-367521/harga-bbm-naik-upah-naik-juga-ini-kata-bos-pengusaha",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyOTE3MzE1MS00LTM2NzUyMS9oYXJnYS1iYm0tbmFpay11cGFoLW5haWstanVnYS1pbmkta2F0YS1ib3MtcGVuZ3VzYWhh",
-        "description": " Pemerintah kemungkinan besar bakal menaikkan harga bahan bakar minyak (BBM) bersubsidi."
-    },
-    {
-        "title": "Viral Pilot Baku Hantam saat Terbang, Ini Kronologinya",
-        "link": "https://www.cnbcindonesia.com/news/20220829141141-4-367433/viral-pilot-baku-hantam-saat-terbang-ini-kronologinya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyOTE0MTE0MS00LTM2NzQzMy92aXJhbC1waWxvdC1iYWt1LWhhbnRhbS1zYWF0LXRlcmJhbmctaW5pLWtyb25vbG9naW55YQ==",
-        "description": " Dua pilot maskapai Air France telah diskors setelah dilaporkan berkelahi secara fisik di kokpit dalam penerbangan Jenewa-Paris pada Juni 2022 lalu."
-    },
-    {
-        "title": "Gas RI Bakal Berlimpah, Serapan Pasar Masih Minim!",
-        "link": "https://www.cnbcindonesia.com/news/20220829171125-4-367516/gas-ri-bakal-berlimpah-serapan-pasar-masih-minim",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyOTE3MTEyNS00LTM2NzUxNi9nYXMtcmktYmFrYWwtYmVybGltcGFoLXNlcmFwYW4tcGFzYXItbWFzaWgtbWluaW0=",
-        "description": " SKK Migas menyampaikan penemuan migas di Indonesia saat ini di dominasi oleh gas"
-    },
-    {
-        "title": "Miris! Puluhan Ribu Desa di RI Gak Punya Akses Air Minum",
-        "link": "https://www.cnbcindonesia.com/news/20220829170304-4-367517/miris-puluhan-ribu-desa-di-ri-gak-punya-akses-air-minum",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyOTE3MDMwNC00LTM2NzUxNy9taXJpcy1wdWx1aGFuLXJpYnUtZGVzYS1kaS1yaS1nYWstcHVueWEtYWtzZXMtYWlyLW1pbnVt",
-        "description": " Masih ada 47.915 desa di Indonesia yang belum mendapatkan akses air minum."
-    },
-    {
-        "title": "Ngeri, Ini Momen saat Banjir Dahsyat Terjang Pakistan",
-        "link": "https://www.cnbcindonesia.com/news/20220829164229-8-367500/ngeri-ini-momen-saat-banjir-dahsyat-terjang-pakistan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyOTE2NDIyOS04LTM2NzUwMC9uZ2VyaS1pbmktbW9tZW4tc2FhdC1iYW5qaXItZGFoc3lhdC10ZXJqYW5nLXBha2lzdGFu",
-        "description": " Bencana banjir yang melanda Pakistan, sejak akhir pekan lalu."
-    },
-    {
-        "title": "Triliunan, Jokowi Bikin Proyek Soekarno-Soeharto Kinclong",
-        "link": "https://www.cnbcindonesia.com/news/20220829163902-4-367501/triliunan-jokowi-bikin-proyek-soekarno-soeharto-kinclong",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyOTE2MzkwMi00LTM2NzUwMS90cmlsaXVuYW4tam9rb3dpLWJpa2luLXByb3llay1zb2VrYXJuby1zb2VoYXJ0by1raW5jbG9uZw==",
-        "description": " Pemerintahan Presiden Joko Widodo (Jokowi) banyak melakukan revitalisasi bangunan ikonik yang dibangun pada era Presiden Soekarno - Soeharto."
     }
 ]
