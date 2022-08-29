@@ -1,5 +1,19 @@
 [
     {
+        "title": "Putin Bujuk Warga Ukraina Pindah Ke Rusia",
+        "link": "https://www.cnbcindonesia.com/news/20220829084141-8-367253/putin-bujuk-warga-ukraina-pindah-ke-rusia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyOTA4NDE0MS04LTM2NzI1My9wdXRpbi1idWp1ay13YXJnYS11a3JhaW5hLXBpbmRhaC1rZS1ydXNpYQ==",
+        "description": " Presiden Rusia Vladimir Putin menebar insentif bagi warga Ukraina yang mau pindah ke Rusia"
+    },
+    {
+        "title": "Ada Kabar Baik dari Jerman, Siap 'Goodbye' dengan Gas Rusia?",
+        "link": "https://www.cnbcindonesia.com/news/20220829091124-4-367263/ada-kabar-baik-dari-jerman-siap-goodbye-dengan-gas-rusia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyOTA5MTEyNC00LTM2NzI2My9hZGEta2FiYXItYmFpay1kYXJpLWplcm1hbi1zaWFwLWdvb2RieWUtZGVuZ2FuLWdhcy1ydXNpYQ==",
+        "description": " Fasilitas penyimpanan gas milik Jerman dilaporkan terisi lebih cepat dibandingkan target pemerintah."
+    },
+    {
         "title": "Jangan Kaget, Ini Jawaban Jokowi Soal Presiden 3 Periode",
         "link": "https://www.cnbcindonesia.com/news/20220829083657-4-367250/jangan-kaget-ini-jawaban-jokowi-soal-presiden-3-periode",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyOTA2NTAyMi00LTM2NzIyMy9la3MtcHJlc2lkZW4tdWtyYWluYS1zZWJ1dC1wdXRpbi1zdWRhaC1rYWxhaC10YXBp",
         "description": " Mantan Presiden Ukraina Viktor Yushchenko mengatakan bahwa saat ini Rusia sudah kalah dalam serangan ke negaranya."
-    },
-    {
-        "title": "Deg-degan Tunggu Kenaikan Harga BBM, Ini Jawaban Pemerintah!",
-        "link": "https://www.cnbcindonesia.com/news/20220829062429-4-367218/deg-degan-tunggu-kenaikan-harga-bbm-ini-jawaban-pemerintah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyOTA2MjQyOS00LTM2NzIxOC9kZWctZGVnYW4tdHVuZ2d1LWtlbmFpa2FuLWhhcmdhLWJibS1pbmktamF3YWJhbi1wZW1lcmludGFo",
-        "description": " Pemerintah hingga saat ini belum memberikan kepastian terkait dengan pengumuman kenaikan harga BBM, Solar dan Pertalite."
-    },
-    {
-        "title": "Jokowi Panen Tol Meliuk-liuk, Banyak Nyambung ke Bandung",
-        "link": "https://www.cnbcindonesia.com/news/20220829000058-4-367211/jokowi-panen-tol-meliuk-liuk-banyak-nyambung-ke-bandung",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyOTAwMDA1OC00LTM2NzIxMS9qb2tvd2ktcGFuZW4tdG9sLW1lbGl1ay1saXVrLWJhbnlhay1ueWFtYnVuZy1rZS1iYW5kdW5n",
-        "description": " Dan jika dirinci, sejumlah proyek tol tersebut bakal menghubungkan lintasan-lintasan ke dan melewati Bandung, Jawa Barat."
     }
 ]

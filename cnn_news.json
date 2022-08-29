@@ -1,5 +1,19 @@
 [
     {
+        "title": "Ferdy Sambo Ajukan Banding Pemecatan, Didampingi Divisi Hukum Polri",
+        "link": "https://www.cnnindonesia.com/nasional/20220829090430-12-840200/ferdy-sambo-ajukan-banding-pemecatan-didampingi-divisi-hukum-polri",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyOTA5MDQzMC0xMi04NDAyMDAvZmVyZHktc2FtYm8tYWp1a2FuLWJhbmRpbmctcGVtZWNhdGFuLWRpZGFtcGluZ2ktZGl2aXNpLWh1a3VtLXBvbHJp",
+        "description": " Kuasa hukum Ferdy Sambo, Arman Hanis mengatakan penyerahan surat banding tersebut telah dilakukan pendamping dari Divisi Hukum Polri."
+    },
+    {
+        "title": "Gempa M 5,9 Guncang Mentawai Sumbar, Terasa hingga Padang dan Pasaman",
+        "link": "https://www.cnnindonesia.com/nasional/20220829092708-20-840212/gempa-m-59-guncang-mentawai-sumbar-terasa-hingga-padang-dan-pasaman",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyOTA5MjcwOC0yMC04NDAyMTIvZ2VtcGEtbS01OS1ndW5jYW5nLW1lbnRhd2FpLXN1bWJhci10ZXJhc2EtaGluZ2dhLXBhZGFuZy1kYW4tcGFzYW1hbg==",
+        "description": " Gempa bumi tektonik berkekuatan 5,9 magnitudo mengguncang Kepulauan Mentawai, Sumatera Barat (Sumbar) Senin pagi."
+    },
+    {
         "title": "Rektor UI Buka Suara soal Harta Naik Rp35 Miliar dalam Tiga Tahun",
         "link": "https://www.cnnindonesia.com/nasional/20220829090858-12-840203/rektor-ui-buka-suara-soal-harta-naik-rp35-miliar-dalam-tiga-tahun",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyOTA3MDgyNS0xMi04NDAxNzIvdG5pLWFkLXBhc3Rpa2FuLXNhbmtzaS1hbmdnb3RhLXlhbmctdGVybGliYXQtcGVtYnVudWhhbi1zaXBpbC1taW1pa2E=",
         "description": " Subdenpom XVII/C Mimika terus melakukan koordinasi dengan pihak Polres Mimika untuk mengungkap keterlibatan oknum TNI AD."
-    },
-    {
-        "title": "Yenny Wahid Sentil 'Amplop Kiai' Suharso Bukti Tak Kenal Budaya Ulama",
-        "link": "https://www.cnnindonesia.com/nasional/20220829073232-32-840176/yenny-wahid-sentil-amplop-kiai-suharso-bukti-tak-kenal-budaya-ulama",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyOTA3MzIzMi0zMi04NDAxNzYveWVubnktd2FoaWQtc2VudGlsLWFtcGxvcC1raWFpLXN1aGFyc28tYnVrdGktdGFrLWtlbmFsLWJ1ZGF5YS11bGFtYQ==",
-        "description": " Yenny Wahid berpendapat bahwa kiai dan ulama itu justru lebih banyak memberi kepada masyarakat, bukan sebaliknya."
-    },
-    {
-        "title": "Dirut Taspen Ancam Polisikan Pengacara Brigadir J soal Dana Capres",
-        "link": "https://www.cnnindonesia.com/nasional/20220829061732-12-840159/dirut-taspen-ancam-polisikan-pengacara-brigadir-j-soal-dana-capres",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyOTA2MTczMi0xMi04NDAxNTkvZGlydXQtdGFzcGVuLWFuY2FtLXBvbGlzaWthbi1wZW5nYWNhcmEtYnJpZ2FkaXItai1zb2FsLWRhbmEtY2FwcmVz",
-        "description": " Dirut PT Taspen ANS Kokasih berencana melaporkan pengacara keluarga Brigadir J, Kamaruddin Simanjuntak soal dana capres Rp300 triliun."
     }
 ]
