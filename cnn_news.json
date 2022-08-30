@@ -1,5 +1,19 @@
 [
     {
+        "title": "Demonstrasi Ricuh di UI, Petugas Terluka Berujung BEM Minta Maaf",
+        "link": "https://www.cnnindonesia.com/nasional/20220830223804-20-841121/demonstrasi-ricuh-di-ui-petugas-terluka-berujung-bem-minta-maaf",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMDIyMzgwNC0yMC04NDExMjEvZGVtb25zdHJhc2ktcmljdWgtZGktdWktcGV0dWdhcy10ZXJsdWthLWJlcnVqdW5nLWJlbS1taW50YS1tYWFm",
+        "description": " Demonstrasi yang digelar BEM Universitas Indonesia di lingkungan kampus berujung ricuh. Petugas keamanan harus mendapat perawatan intensif."
+    },
+    {
+        "title": "Pengacara Bantah Isu Putri Candrawathi Selingkuh dengan Kuat Ma'ruf",
+        "link": "https://www.cnnindonesia.com/nasional/20220830210442-12-841101/pengacara-bantah-isu-putri-candrawathi-selingkuh-dengan-kuat-maruf",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMDIxMDQ0Mi0xMi04NDExMDEvcGVuZ2FjYXJhLWJhbnRhaC1pc3UtcHV0cmktY2FuZHJhd2F0aGktc2VsaW5na3VoLWRlbmdhbi1rdWF0LW1hcnVm",
+        "description": " Sebelumnya beredar isu bahwa asisten rumah tangga Kuat Ma'ruf dipergoki sedang berduaan dengan Putri Candrawathi oleh Brigadir J. Namun pengacara membantah."
+    },
+    {
         "title": "Komnas HAM: Rekonstruksi Buat Kasus Brigadir J Terang Benderang",
         "link": "https://www.cnnindonesia.com/nasional/20220830174248-12-841004/komnas-ham-rekonstruksi-buat-kasus-brigadir-j-terang-benderang",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMDIwMTA0Mi0yNC04NDEwODEvdmlkZW8tZGVtby1tYWhhc2lzd2EtdWkta3JpdGlrLXJla3Rvci1iZXJ1anVuZy1iZW50cm9rLWRlbmdhbi1wZXR1Z2Fz",
         "description": " Demo berbagai elemen mahasiswa ini menuntut berbagai hal mulai dari mempertanyakan kekayaan rektor yang berlipat dalam tiga tahun hingga kasus kematian Akseyna."
-    },
-    {
-        "title": "Polri Kembali Periksa Putri Sambo Rabu Besok, Dikonfrontasi Kuat Maruf",
-        "link": "https://www.cnnindonesia.com/nasional/20220830200328-12-841082/polri-kembali-periksa-putri-sambo-rabu-besok-dikonfrontasi-kuat-maruf",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMDIwMDMyOC0xMi04NDEwODIvcG9scmkta2VtYmFsaS1wZXJpa3NhLXB1dHJpLXNhbWJvLXJhYnUtYmVzb2stZGlrb25mcm9udGFzaS1rdWF0LW1hcnVm",
-        "description": " Dirtipidum Bareskrim Polri Brigjen Andi Rian menyebut pihaknya bakal mengkonfrontasi Putri Candrawathi dengan tersangka lain dalam kasus pembunuhan Brigadir J."
-    },
-    {
-        "title": "VIDEO: Rekonstruksi Momen Sambo Saksikan Bharada E Tembak Brigadir J",
-        "link": "https://www.cnnindonesia.com/nasional/20220830191519-16-841059/video-rekonstruksi-momen-sambo-saksikan-bharada-e-tembak-brigadir-j",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMDE5MTUxOS0xNi04NDEwNTkvdmlkZW8tcmVrb25zdHJ1a3NpLW1vbWVuLXNhbWJvLXNha3Npa2FuLWJoYXJhZGEtZS10ZW1iYWstYnJpZ2FkaXItag==",
-        "description": " Rekonstruksi menampilkan adegan penembakan Brigadir J yang terjadi di rumah dinas Ferdy Sambo di Komplek Polri, Duren Tiga, Jakarta Selatan."
     }
 ]
