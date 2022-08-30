@@ -1,5 +1,12 @@
 [
     {
+        "title": "Dengan Scan QRIS, Transaksi Belanja di Luar Negeri Lebih Efisien",
+        "link": "https://www.jawapos.com/ekonomi/30/08/2022/dengan-scan-qris-transaksi-belanja-di-luar-negeri-lebih-efisien/?page=all",
+        "image": "static/images/jawapos_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS8zMC8wOC8yMDIyL2Rlbmdhbi1zY2FuLXFyaXMtdHJhbnNha3NpLWJlbGFuamEtZGktbHVhci1uZWdlcmktbGViaWgtZWZpc2llbi8=",
+        "description": "Transaksi belanja di sejumlah negara tetangga bakal semakin mudah. Tidak perlu khawatir jika tidak membawa uang tunai. Cukup dengan memindai melalui ponsel."
+    },
+    {
         "title": "BIN: Pengalihan Subsidi BBM Bentuk Keberpihakan Negara ke Masyarakat",
         "link": "https://www.jawapos.com/ekonomi/30/08/2022/bin-pengalihan-subsidi-bbm-bentuk-keberpihakan-negara-ke-masyarakat/?page=all",
         "image": "static/images/jawapos_ekonomi.png",
@@ -19,6 +26,13 @@
         "image": "static/images/jawapos_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS8yOS8wOC8yMDIyL3Blcmh1dGFuaS1nYW5kZW5nLWJvYm9ib3gtYmFuZ3VuLWZhc2lsaXRhcy1rZW1haC1tb2Rlcm4v",
         "description": "Perusahaan Umum Kehutanan Negara atau biasa disingkat Perum Perhutani berkolaborasi dengan Bobobox membangun fasilitas Bobocabin"
+    },
+    {
+        "title": "Terinspirasi Borobudur, Lavani Hadirkan Keanggunan Perempuan Indonesia",
+        "link": "https://www.jawapos.com/ekonomi/bisnis/29/08/2022/terinspirasi-borobudur-lavani-hadirkan-keanggunan-perempuan-indonesia/?page=all",
+        "image": "static/images/jawapos_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS9iaXNuaXMvMjkvMDgvMjAyMi90ZXJpbnNwaXJhc2ktYm9yb2J1ZHVyLWxhdmFuaS1oYWRpcmthbi1rZWFuZ2d1bmFuLXBlcmVtcHVhbi1pbmRvbmVzaWEv",
+        "description": "Kita ini harus satu, dengan sebuah simple connecting yang kecil saja bisa membuat sesuatu yang luar biasa."
     },
     {
         "title": "Kemenkeu Beberkan Anggaran Manfaat Pensiun PNS Terus Naik Setiap Tahun",
@@ -54,19 +68,5 @@
         "image": "static/images/jawapos_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS9iaXNuaXMvMjkvMDgvMjAyMi9pbmR1c3RyaS10ZWtzdGlsLWRlZmlzaXQtdGVuYWdhLWtlcmphLTEzNS1yaWJ1LW9yYW5nLw==",
         "description": "\"Pada masa pandemi Covid-19, menyerap tenaga kerja hingga 3,65 juta orang atau 19,5 persen dari total tenaga kerja industri manufaktur,\" katanya."
-    },
-    {
-        "title": "Skema Bagi Hasil dan Risiko Keuangan Syariah Permudah UMKM Naik Kelas",
-        "link": "https://www.jawapos.com/ekonomi/29/08/2022/skema-bagi-hasil-dan-risiko-keuangan-syariah-permudah-umkm-naik-kelas/?page=all",
-        "image": "static/images/jawapos_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS8yOS8wOC8yMDIyL3NrZW1hLWJhZ2ktaGFzaWwtZGFuLXJpc2lrby1rZXVhbmdhbi1zeWFyaWFoLXBlcm11ZGFoLXVta20tbmFpay1rZWxhcy8=",
-        "description": "Di Indonesia, jumlah pelaku UMKM mencapai 64,2 juta jiwa. Mereka berkontribusi terhadap 61,07 persen PDB dan 97 persen dari penyerapan tenaga kerja nasional."
-    },
-    {
-        "title": "Maju Mundur Kenaikan Tarif Ojol, Kemenhub Ungkap Sejumlah Pertimbangan",
-        "link": "https://www.jawapos.com/ekonomi/29/08/2022/maju-mundur-kenaikan-tarif-ojol-kemenhub-ungkap-sejumlah-pertimbangan/?page=all",
-        "image": "static/images/jawapos_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS8yOS8wOC8yMDIyL21hanUtbXVuZHVyLWtlbmFpa2FuLXRhcmlmLW9qb2wta2VtZW5odWItdW5na2FwLXNlanVtbGFoLXBlcnRpbWJhbmdhbi8=",
-        "description": "Pemerintah melalui Kementerian Perhubungan (Kemenhub) maju mundur memberlakukan kenaikan tarif ojek online alias ojol hingga ditunda dua kali."
     }
 ]
