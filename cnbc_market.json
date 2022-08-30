@@ -1,5 +1,33 @@
 [
     {
+        "title": "Nasib Tembaga Kayaknya Bakal Suram...",
+        "link": "https://www.cnbcindonesia.com/market/20220830084907-17-367629/nasib-tembaga-kayaknya-bakal-suram",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMDg0OTA3LTE3LTM2NzYyOS9uYXNpYi10ZW1iYWdhLWtheWFrbnlhLWJha2FsLXN1cmFt",
+        "description": " Harga tembaga ditutup menguat pada perdagangan kemarin. Namun prospek ke depan sepertinya suram."
+    },
+    {
+        "title": "Pidato 8 Menit Tak Lagi Bertuah, Bursa Asia Cenderung Cerah",
+        "link": "https://www.cnbcindonesia.com/market/20220830083947-17-367622/pidato-8-menit-tak-lagi-bertuah-bursa-asia-cenderung-cerah",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMDgzOTQ3LTE3LTM2NzYyMi9waWRhdG8tOC1tZW5pdC10YWstbGFnaS1iZXJ0dWFoLWJ1cnNhLWFzaWEtY2VuZGVydW5nLWNlcmFo",
+        "description": " Bursa Asia-Pasifik cenderung menguat setelah sehari sebelumnya ditutup berjatuhan karena investor merespons negatif dari pernyataan ketua bank sentral AS."
+    },
+    {
+        "title": "Yuk Update! Ini Kabar Pasar Untuk Perdagangan Hari Ini",
+        "link": "https://www.cnbcindonesia.com/market/20220830081815-17-367618/yuk-update-ini-kabar-pasar-untuk-perdagangan-hari-ini",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMDgxODE1LTE3LTM2NzYxOC95dWstdXBkYXRlLWluaS1rYWJhci1wYXNhci11bnR1ay1wZXJkYWdhbmdhbi1oYXJpLWluaQ==",
+        "description": " Pergerakan IHSG yang sempat anjlok tak lepas dari sentimen negatif yang memicu aksi profit taking pelaku pasar."
+    },
+    {
+        "title": "Harga Perak Ambruk 7% dalam Sebulan!",
+        "link": "https://www.cnbcindonesia.com/market/20220830082757-17-367617/harga-perak-ambruk-7-dalam-sebulan",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMDgyNzU3LTE3LTM2NzYxNy9oYXJnYS1wZXJhay1hbWJydWstNy1kYWxhbS1zZWJ1bGFu",
+        "description": " Harga perak bergerak turun pada perdagangan pagi hari ini. Tren negatif lebih bisa lepas dari perak."
+    },
+    {
         "title": "Berkah Batu Bara, Adaro Cetak Rekor Pendapatan Tertinggi!",
         "link": "https://www.cnbcindonesia.com/market/20220830081245-17-367613/berkah-batu-bara-adaro-cetak-rekor-pendapatan-tertinggi",
         "image": "static/images/cnbc_market.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMDEwODE1LTE3LTM2NzU3My9nb3RvLWNhcGxvay1wZXJ1c2FoYWFuLWtyaXB0by1iYWdhaW1hbmEta2luZXJqYS1rZXVhbmdhbm55YQ==",
         "description": " Sesuai namanya, Kripto Maksima Koin merupakan perusahaan yang bergerak di sektor perdagangan aset kripto."
-    },
-    {
-        "title": "Harga Minyak Tergelincir Akibat Ulah Iran dan Negara Barat",
-        "link": "https://www.cnbcindonesia.com/market/20220830072001-17-367606/harga-minyak-tergelincir-akibat-ulah-iran-negara-barat",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMDcyMDAxLTE3LTM2NzYwNi9oYXJnYS1taW55YWstdGVyZ2VsaW5jaXItYWtpYmF0LXVsYWgtaXJhbi1uZWdhcmEtYmFyYXQ=",
-        "description": " Harga minyak dunia bergerak turun pada perdagangan pagi hari ini. Maklum, sebelumnya harga si emas hitam sudah melonjak lumayan tajam."
-    },
-    {
-        "title": "Ada Sisa Efek Pidato 8 Menit, Waspada Level Support IHSG",
-        "link": "https://www.cnbcindonesia.com/market/20220830001516-17-367572/ada-sisa-efek-pidato-8-menit-waspada-level-support-ihsg",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMDAxNTE2LTE3LTM2NzU3Mi9hZGEtc2lzYS1lZmVrLXBpZGF0by04LW1lbml0LXdhc3BhZGEtbGV2ZWwtc3VwcG9ydC1paHNn",
-        "description": " Indeks terus memangkas koreksi dan akhirnya berhasil melemah tipis 0,04% di 7.132,05 kemarin."
-    },
-    {
-        "title": "Kepercayaan Ini Picu Harga Emas Anjlok 4% Setahun Belakangan",
-        "link": "https://www.cnbcindonesia.com/market/20220830064958-17-367602/kepercayaan-ini-picu-harga-emas-anjlok-4-setahun-belakangan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMDY0OTU4LTE3LTM2NzYwMi9rZXBlcmNheWFhbi1pbmktcGljdS1oYXJnYS1lbWFzLWFuamxvay00LXNldGFodW4tYmVsYWthbmdhbg==",
-        "description": " Harga emas melemah 0,08%."
-    },
-    {
-        "title": "Cek Portofolio! Ini Sederet Saham Tercuan dan Terboncos Kemarin",
-        "link": "https://www.cnbcindonesia.com/market/20220830052818-17-367578/cek-portofolio-ini-sederet-saham-tercuan-terboncos-kemarin",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMDUyODE4LTE3LTM2NzU3OC9jZWstcG9ydG9mb2xpby1pbmktc2VkZXJldC1zYWhhbS10ZXJjdWFuLXRlcmJvbmNvcy1rZW1hcmlu",
-        "description": " Indeks Harga Saham Gabungan (IHSG) ditutup terkoreksi tipis pada perdagangan Senin (29/8/2022) kemarin,"
     }
 ]
