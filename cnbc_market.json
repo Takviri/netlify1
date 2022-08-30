@@ -1,5 +1,33 @@
 [
     {
+        "title": "Baru 1,5% Warga RI Jadi Investor Saham, Kalah Sama Tetangga",
+        "link": "https://www.cnbcindonesia.com/market/20220830171026-17-367833/baru-15-warga-ri-jadi-investor-saham-kalah-sama-tetangga",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMTcxMDI2LTE3LTM2NzgzMy9iYXJ1LTE1LXdhcmdhLXJpLWphZGktaW52ZXN0b3Itc2FoYW0ta2FsYWgtc2FtYS10ZXRhbmdnYQ==",
+        "description": " hingga Juli 2022, jumlah investor saham di Indonesia mencapai 1,5% penduduk dan merupakan angka yang kecil dibandingkan dengan negara tetangga."
+    },
+    {
+        "title": "Pasar Wait and See, Harga Emas Makin Tak Pasti!",
+        "link": "https://www.cnbcindonesia.com/market/20220830152115-17-367802/pasar-wait-and-see-harga-emas-makin-tak-pasti",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMTUyMTE1LTE3LTM2NzgwMi9wYXNhci13YWl0LWFuZC1zZWUtaGFyZ2EtZW1hcy1tYWtpbi10YWstcGFzdGk=",
+        "description": " Harga emas melemah 0,19%."
+    },
+    {
+        "title": "Efek Powell Mulai Pudar, Bursa Eropa Dibuka Cerah!",
+        "link": "https://www.cnbcindonesia.com/market/20220830164853-17-367826/efek-powell-mulai-pudar-bursa-eropa-dibuka-cerah",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMTY0ODUzLTE3LTM2NzgyNi9lZmVrLXBvd2VsbC1tdWxhaS1wdWRhci1idXJzYS1lcm9wYS1kaWJ1a2EtY2VyYWg=",
+        "description": " Bursa saham Eropa di sesi awal kompak pulih dan berada di zona hijau pada perdagangan Selasa (30/8/2022)"
+    },
+    {
+        "title": "Bursa Asia Kompak Melesat, kecuali Hang Seng-Shanghai",
+        "link": "https://www.cnbcindonesia.com/market/20220830163826-17-367824/bursa-asia-kompak-melesat-kecuali-hang-seng-shanghai",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMTYzODI2LTE3LTM2NzgyNC9idXJzYS1hc2lhLWtvbXBhay1tZWxlc2F0LWtlY3VhbGktaGFuZy1zZW5nLXNoYW5naGFp",
+        "description": " Mayoritas bursa Asia-Pasifik ditutup di zona hijau pada perdagangan Selasa (30/8/2022)"
+    },
+    {
         "title": "Sritex Cermati Wacana Kenaikan BBM, Gimana Dampaknya?",
         "link": "https://www.cnbcindonesia.com/market/20220830113654-17-367698/sritex-cermati-wacana-kenaikan-bbm-gimana-dampaknya",
         "image": "static/images/cnbc_market.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMTM1NzQwLTE3LTM2Nzc4My9yaW5nZ2l0LW1hbGF5c2lhLWplYmxvay10ZXJsZW1haC0yNC10YWh1bi1ydXBpYWgtYW1hbg==",
         "description": " Nilai tukar ringgit terpuruk melawan dolar Amerika Serikat (AS) di tahun ini,"
-    },
-    {
-        "title": "Mitigasi Risiko Industri Asuransi Hadapi Gejolak Ekonomi",
-        "link": "https://www.cnbcindonesia.com/market/20220830151103-19-367794/mitigasi-risiko-industri-asuransi-hadapi-gejolak-ekonomi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMTUxMTAzLTE5LTM2Nzc5NC9taXRpZ2FzaS1yaXNpa28taW5kdXN0cmktYXN1cmFuc2ktaGFkYXBpLWdlam9sYWstZWtvbm9taQ==",
-        "description": " Mitigasi Risiko Industri Asuransi Hadapi Gejolak Ekonomi"
-    },
-    {
-        "title": "Turunkan Emisi, Pertamina Gandeng Perusahaan Internasional",
-        "link": "https://www.cnbcindonesia.com/market/20220830155329-17-367812/turunkan-emisi-pertamina-gandeng-perusahaan-internasional",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMTU1MzI5LTE3LTM2NzgxMi90dXJ1bmthbi1lbWlzaS1wZXJ0YW1pbmEtZ2FuZGVuZy1wZXJ1c2FoYWFuLWludGVybmFzaW9uYWw=",
-        "description": " Komitmen Turunkan Emisi, Pertamina Gandeng Perusahaan Internasional"
-    },
-    {
-        "title": "Boy Thohir Kasih Bocoran Kemana Alokasi Cuan Adaro Rp 18 T",
-        "link": "https://www.cnbcindonesia.com/market/20220830123350-17-367744/boy-thohir-kasih-bocoran-kemana-alokasi-cuan-adaro-rp-18-t",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMTIzMzUwLTE3LTM2Nzc0NC9ib3ktdGhvaGlyLWthc2loLWJvY29yYW4ta2VtYW5hLWFsb2thc2ktY3Vhbi1hZGFyby1ycC0xOC10",
-        "description": " Hingga akhir semester I-2022, Adaro mampu mencetak laba bersih senilai US$ 1,21 miliar atau setara Rp 18,05 triliun (kurs Rp 14.885/US$)."
-    },
-    {
-        "title": "PalmCo Akan Jadi Raja Dunia, Harga Minyak Goreng Masih Mahal?",
-        "link": "https://www.cnbcindonesia.com/market/20220830134448-17-367761/palmco-akan-jadi-raja-dunia-harga-minyak-goreng-masih-mahal",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMTM0NDQ4LTE3LTM2Nzc2MS9wYWxtY28tYWthbi1qYWRpLXJhamEtZHVuaWEtaGFyZ2EtbWlueWFrLWdvcmVuZy1tYXNpaC1tYWhhbA==",
-        "description": " PalmCo digadang-gadang dapat menciptakan keseimbangan harga minyak goreng di dalam negeri."
     }
 ]
