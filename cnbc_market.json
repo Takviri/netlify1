@@ -1,5 +1,12 @@
 [
     {
+        "title": "China Lockdown (Lagi), Harga Batu Bara Ambrol",
+        "link": "https://www.cnbcindonesia.com/market/20220831055549-17-367914/china-lockdown--lagi--harga-batu-bara-ambrol",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMxMDU1NTQ5LTE3LTM2NzkxNC9jaGluYS1sb2NrZG93bi0tbGFnaS0taGFyZ2EtYmF0dS1iYXJhLWFtYnJvbA==",
+        "description": " Harga batu bara melemah 1,95% dibandingkan hari sebelumnya."
+    },
+    {
         "title": "Detik-Detik Harga Pertalite Naik!",
         "link": "https://www.cnbcindonesia.com/market/20220830220821-17-367907/detik-detik-harga-pertalite-naik",
         "image": "static/images/cnbc_market.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMTc0NTAzLTE3LTM2Nzg1NC9hc2V0LXN1cnlhLWRhcm1hZGkteWFuZy1kaXNpdGEtZGFyaS10YW5haC1oaW5nZ2EtaGVsaWtvcHRlcg==",
         "description": " Aset Surya Darmadi yang Disita, dari Tanah Hingga Helikopter"
-    },
-    {
-        "title": "Dow Futures Kompak Pulih Nih, Wall Street Bisa Bangkit?",
-        "link": "https://www.cnbcindonesia.com/market/20220830180438-17-367867/dow-futures-kompak-pulih-nih-wall-street-bisa-bangkit",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMTgwNDM4LTE3LTM2Nzg2Ny9kb3ctZnV0dXJlcy1rb21wYWstcHVsaWgtbmloLXdhbGwtc3RyZWV0LWJpc2EtYmFuZ2tpdA==",
-        "description": " Kontrak berjangka (futures) indeks bursa Amerika Serikat (AS) kompak berada di zona hijau pada perdagangan Selasa (30/8/2022)"
     }
 ]
