@@ -1,5 +1,47 @@
 [
     {
+        "title": "Buruan! Diskon Pajak Mobil dan Rumah Berakhir Bulan Depan",
+        "link": "https://www.cnbcindonesia.com/news/20220830191500-4-367898/buruan-diskon-pajak-mobil-rumah-berakhir-bulan-depan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE5MTUwMC00LTM2Nzg5OC9idXJ1YW4tZGlza29uLXBhamFrLW1vYmlsLXJ1bWFoLWJlcmFraGlyLWJ1bGFuLWRlcGFu",
+        "description": " Diskon pajak untuk kendaraan bermotor dan properti akan berakhir pada September 2022."
+    },
+    {
+        "title": "Berkat Jokowi Proyek Megah Soekarno-Soeharto Kini Kinclong",
+        "link": "https://www.cnbcindonesia.com/news/20220830172524-16-367840/berkat-jokowi-proyek-megah-soekarno-soeharto-kini-kinclong",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE3MjUyNC0xNi0zNjc4NDAvYmVya2F0LWpva293aS1wcm95ZWstbWVnYWgtc29la2Fybm8tc29laGFydG8ta2luaS1raW5jbG9uZw==",
+        "description": " Dalam pemerintahan Joko Widodo beberapa juga banyak melakukan kegiatan revitalisasi bangunan infrastruktur ikonik."
+    },
+    {
+        "title": "Di SPBU Mulai Muncul Papan Informasi 'Jalur BBM Subsidi'",
+        "link": "https://www.cnbcindonesia.com/news/20220830182244-7-367873/di-spbu-mulai-muncul-papan-informasi-jalur-bbm-subsidi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE4MjI0NC03LTM2Nzg3My9kaS1zcGJ1LW11bGFpLW11bmN1bC1wYXBhbi1pbmZvcm1hc2ktamFsdXItYmJtLXN1YnNpZGk=",
+        "description": " Pemerintah diminta segera menerapkan skema pembatasan pembelian Bahan Bakar Minyak (BBM) khususnya BBM jenis Pertalite dan Solar Subsidi."
+    },
+    {
+        "title": "Keren! Belanja di Pasar Tradisional RI Mulai Pakai QR Code",
+        "link": "https://www.cnbcindonesia.com/news/20220830174306-7-367855/keren-belanja-di-pasar-tradisional-ri-mulai-pakai-qr-code",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE3NDMwNi03LTM2Nzg1NS9rZXJlbi1iZWxhbmphLWRpLXBhc2FyLXRyYWRpc2lvbmFsLXJpLW11bGFpLXBha2FpLXFyLWNvZGU=",
+        "description": " Transaksi pembayaran dengan metode Quick Response Code Indonesian Standard (QRIS) menjadi tren saat ini."
+    },
+    {
+        "title": "Kisah Pilu Pria Paling 'Kesepian' di Dunia, Kelompoknya Punah",
+        "link": "https://www.cnbcindonesia.com/news/20220830183232-4-367881/kisah-pilu-pria-paling-kesepian-di-dunia-kelompoknya-punah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE4MzIzMi00LTM2Nzg4MS9raXNhaC1waWx1LXByaWEtcGFsaW5nLWtlc2VwaWFuLWRpLWR1bmlhLWtlbG9tcG9rbnlhLXB1bmFo",
+        "description": " Seorang pria yang menjadi irang terakhir dalam kelompok adatnya di pedalaman Brasil meninggal dunia."
+    },
+    {
+        "title": "Buruh Bakal Dapat Bansos, Pengusaha Happy",
+        "link": "https://www.cnbcindonesia.com/news/20220830185025-4-367886/buruh-bakal-dapat-bansos-pengusaha-happy",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE4NTAyNS00LTM2Nzg4Ni9idXJ1aC1iYWthbC1kYXBhdC1iYW5zb3MtcGVuZ3VzYWhhLWhhcHB5",
+        "description": " Pemerintah bakal memberikan bansos sebagai pengalihan subsidi Bahan Bakar Minyak (BBM) kepada pekerja dengan gaji di bawah Rp 3,5 juta/bulan"
+    },
+    {
         "title": "Banggar DPR Desak Sri Mulyani Cs Lepas Harga Pertamax",
         "link": "https://www.cnbcindonesia.com/news/20220830184914-4-367885/banggar-dpr-desak-sri-mulyani-cs-lepas-harga-pertamax",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE5MDI1My04LTM2Nzg5Ny9la29ub21pLWluZG9uZXNpYS1kaXB1amktd29ybGQtYmFuay1pbmktYWxhc2Fubnlh",
         "description": " World Bank Managing Director Mari Elka Pangestu memuji ketahanan ekonomi Indonesia di tengah hantaman negatf sentimen global."
-    },
-    {
-        "title": "Pelaku Usaha Ramaikan Pameran Digital ITF-DEWG G20",
-        "link": "https://www.cnbcindonesia.com/news/20220830184827-4-367887/pelaku-usaha-ramaikan-pameran-digital-itf-dewg-g20",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE4NDgyNy00LTM2Nzg4Ny9wZWxha3UtdXNhaGEtcmFtYWlrYW4tcGFtZXJhbi1kaWdpdGFsLWl0Zi1kZXdnLWcyMA==",
-        "description": " Pelaku industri melalui ITF DEWG telah dilibatkan dan berkontribusi terhadap berbagai rangkaian kegiatan DEWG"
-    },
-    {
-        "title": "RI Gabung Aliansi Perdagangan Terbesar Dunia, Ini Manfaatnya",
-        "link": "https://www.cnbcindonesia.com/news/20220830180021-4-367866/ri-gabung-aliansi-perdagangan-terbesar-dunia-ini-manfaatnya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE4MDAyMS00LTM2Nzg2Ni9yaS1nYWJ1bmctYWxpYW5zaS1wZXJkYWdhbmdhbi10ZXJiZXNhci1kdW5pYS1pbmktbWFuZmFhdG55YQ==",
-        "description": " PR telah resmi mengesahkan Persetujuan Regional Comprehensive Economic Partnership atau RCEP."
-    },
-    {
-        "title": "Airlangga ke Singapura, Ada Kerja Sama Tech Buat Anak Muda",
-        "link": "https://www.cnbcindonesia.com/news/20220830175013-4-367863/airlangga-ke-singapura-ada-kerja-sama-tech-buat-anak-muda",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE3NTAxMy00LTM2Nzg2My9haXJsYW5nZ2Eta2Utc2luZ2FwdXJhLWFkYS1rZXJqYS1zYW1hLXRlY2gtYnVhdC1hbmFrLW11ZGE=",
-        "description": " Menteri Airlangga Hartarto melakukan kunjungan kerja ke Singapura selama dua hari."
-    },
-    {
-        "title": "Harga BBM Naik, Industri Otomotif Apa Kabar?",
-        "link": "https://www.cnbcindonesia.com/news/20220830183655-8-367882/harga-bbm-naik-industri-otomotif-apa-kabar",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE4MzY1NS04LTM2Nzg4Mi9oYXJnYS1iYm0tbmFpay1pbmR1c3RyaS1vdG9tb3RpZi1hcGEta2FiYXI=",
-        "description": " BBM Naik, Industri Otomotif Apa Kabar?"
-    },
-    {
-        "title": "BI Ramal Inflasi RI Tetap Tinggi pada 2023, Tembus di Atas 4%",
-        "link": "https://www.cnbcindonesia.com/news/20220830182853-4-367880/bi-ramal-inflasi-ri-tetap-tinggi-pada-2023-tembus-di-atas-4",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE4Mjg1My00LTM2Nzg4MC9iaS1yYW1hbC1pbmZsYXNpLXJpLXRldGFwLXRpbmdnaS1wYWRhLTIwMjMtdGVtYnVzLWRpLWF0YXMtNA==",
-        "description": " Bank Indonesia (BI) memperkirakan inflasi masih akan berada di atas level 4% pada 2023."
-    },
-    {
-        "title": "Tetap Waspada, Kasus Covid-19 di RI Nambah 5.070 Hari Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220830181629-4-367870/tetap-waspada-kasus-covid-19-di-ri-nambah-5070-hari-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE4MTYyOS00LTM2Nzg3MC90ZXRhcC13YXNwYWRhLWthc3VzLWNvdmlkLTE5LWRpLXJpLW5hbWJhaC01MDcwLWhhcmktaW5p",
-        "description": " Dengan tambahan 5.070 kasus baru, maka secara total kasus konfirmasi mencapai 6.354.245."
     }
 ]
