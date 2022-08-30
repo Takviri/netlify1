@@ -1,5 +1,19 @@
 [
     {
+        "title": "Cek Portofolio! Ini Sederet Saham Tercuan dan Terboncos Kemarin",
+        "link": "https://www.cnbcindonesia.com/market/20220830052818-17-367578/cek-portofolio-ini-sederet-saham-tercuan-terboncos-kemarin",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMDUyODE4LTE3LTM2NzU3OC9jZWstcG9ydG9mb2xpby1pbmktc2VkZXJldC1zYWhhbS10ZXJjdWFuLXRlcmJvbmNvcy1rZW1hcmlu",
+        "description": " Indeks Harga Saham Gabungan (IHSG) ditutup terkoreksi tipis pada perdagangan Senin (29/8/2022) kemarin,"
+    },
+    {
+        "title": "Musim Hujan Tiba di China, Harga Batu Bara Langsung Ambyar!",
+        "link": "https://www.cnbcindonesia.com/market/20220830055025-17-367580/musim-hujan-tiba-di-china-harga-batu-bara-langsung-ambyar",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMDU1MDI1LTE3LTM2NzU4MC9tdXNpbS1odWphbi10aWJhLWRpLWNoaW5hLWhhcmdhLWJhdHUtYmFyYS1sYW5nc3VuZy1hbWJ5YXI=",
+        "description": " Harga batu bara melemah 2,67% dibandingkan Jumat pekan\u00c2\u00a0lalu."
+    },
+    {
         "title": "Dunia Makin Suram! Tak Cuma Amerika, China Juga Sakit",
         "link": "https://www.cnbcindonesia.com/market/20220830053724-17-367584/dunia-makin-suram-tak-cuma-amerika-china-juga-sakit",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI5MTgyNjE4LTE3LTM2NzUzMy9nZWdhcmEtcG93ZWxsLXNibi10ZW5vci1wYW5qYW5nLXJhbWFpLWRpYnVydS1pbnZlc3Rvcg==",
         "description": " Harga mayoritas Surat Berharga Negara (SBN) ditutup melemah pada perdagangan Senin (29/8/2022), karena investor masih mencerna pidato dari ketua bank sentral AS"
-    },
-    {
-        "title": "Dow Futures Drop 1% Lebih, Efek 'Sabda' Powell Masih Berasa",
-        "link": "https://www.cnbcindonesia.com/market/20220829174106-17-367522/dow-futures-drop-1-lebih-efek-sabda-powell-masih-berasa",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI5MTc0MTA2LTE3LTM2NzUyMi9kb3ctZnV0dXJlcy1kcm9wLTEtbGViaWgtZWZlay1zYWJkYS1wb3dlbGwtbWFzaWgtYmVyYXNh",
-        "description": " Kontrak berjangka (futures) indeks bursa Amerika Serikat (AS) kompak berada di zona merah pada perdagangan Senin (29/8/2022)"
-    },
-    {
-        "title": "Sri Mulyani Mau Suntik Modal BTN Lewat PMN Rp 2,48 T",
-        "link": "https://www.cnbcindonesia.com/market/20220829173547-17-367519/sri-mulyani-mau-suntik-modal-btn-lewat-pmn-rp-248-t",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODI5MTczNTQ3LTE3LTM2NzUxOS9zcmktbXVseWFuaS1tYXUtc3VudGlrLW1vZGFsLWJ0bi1sZXdhdC1wbW4tcnAtMjQ4LXQ=",
-        "description": " Setelah dilakukan penelaahan, ada pengurangan PMN bagi BTN sebanyak Rp 500 miliar dari PMN awalnya yang diusulkan senilai Rp 1,98 triliun"
     }
 ]
