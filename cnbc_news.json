@@ -1,5 +1,40 @@
 [
     {
+        "title": "Pertamina Bidik Target 312 Stasiun Energi Hijau Tahun Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220830115417-4-367718/pertamina-bidik-target-312-stasiun-energi-hijau-tahun-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDExNTQxNy00LTM2NzcxOC9wZXJ0YW1pbmEtYmlkaWstdGFyZ2V0LTMxMi1zdGFzaXVuLWVuZXJnaS1oaWphdS10YWh1bi1pbmk=",
+        "description": " PT Pertamina (Persero) akan memperbanyak Green Energy Station (GES)"
+    },
+    {
+        "title": "Gegara BBM, Sri Mulyani Sebut Jurang Si Kaya dan Miskin Melebar",
+        "link": "https://www.cnbcindonesia.com/news/20220830122613-4-367740/gegara-bbm-sri-mulyani-sebut-jurang-si-kaya-miskin-melebar",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDEyMjYxMy00LTM2Nzc0MC9nZWdhcmEtYmJtLXNyaS1tdWx5YW5pLXNlYnV0LWp1cmFuZy1zaS1rYXlhLW1pc2tpbi1tZWxlYmFy",
+        "description": " Dana jumbo subsidi dan kompensasi yang mencapai Rp 502,4 triliun telah membuat kesenjangan makin tinggi saat ini."
+    },
+    {
+        "title": "RI Punya 'Tol Perdagangan' Internasional, Ini Bentuknya",
+        "link": "https://www.cnbcindonesia.com/news/20220830130346-4-367753/ri-punya-tol-perdagangan-internasional-ini-bentuknya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDEzMDM0Ni00LTM2Nzc1My9yaS1wdW55YS10b2wtcGVyZGFnYW5nYW4taW50ZXJuYXNpb25hbC1pbmktYmVudHVrbnlh",
+        "description": " Indonesia resmi mengesahkan perjanjian dagang pada kawasan ASEAN dan mitra dagang lainnya."
+    },
+    {
+        "title": "Tunggu Keputusan Jokowi, Ini Alternatif Harga Baru BBM",
+        "link": "https://www.cnbcindonesia.com/news/20220830130227-4-367752/tunggu-keputusan-jokowi-ini-alternatif-harga-baru-bbm",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDEzMDIyNy00LTM2Nzc1Mi90dW5nZ3Uta2VwdXR1c2FuLWpva293aS1pbmktYWx0ZXJuYXRpZi1oYXJnYS1iYXJ1LWJibQ==",
+        "description": " Terdapat beberapa alternatif harga BBM Pertalite dan Solar Subsidi di tangan Jokowi"
+    },
+    {
+        "title": "Heboh Putin Mau Dikudeta, Nuklirnya Bakal Direbut",
+        "link": "https://www.cnbcindonesia.com/news/20220830122152-4-367739/heboh-putin-mau-dikudeta-nuklirnya-bakal-direbut",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDEyMjE1Mi00LTM2NzczOS9oZWJvaC1wdXRpbi1tYXUtZGlrdWRldGEtbnVrbGlybnlhLWJha2FsLWRpcmVidXQ=",
+        "description": " Presiden Rusia Vladimir Putin bakal menghadapi \"kudeta\"."
+    },
+    {
         "title": "Pak Jokowi, Harga BBM Jadi Naik Nggak? Ada Sinyal Bahaya Nih",
         "link": "https://www.cnbcindonesia.com/news/20220830123650-4-367745/pak-jokowi-harga-bbm-jadi-naik-nggak-ada-sinyal-bahaya-nih",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDEyMjQ0Mi00LTM2NzczNy90b2stZHByLXJlc3R1aS1yaS1tYXN1ay1wZXJqYW5qaWFuLXBlcmRhZ2FuZ2FuLXRlcmJlc2Fy",
         "description": " DPR RI menyetujui pengesahan Rancangan Undang-Undang ratifikasi RCEP."
-    },
-    {
-        "title": "Terungkap! Harga BBM Naik, Konsumsi Cuma Turun Dikit",
-        "link": "https://www.cnbcindonesia.com/news/20220830121738-4-367736/terungkap-harga-bbm-naik-konsumsi-cuma-turun-dikit",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDEyMTczOC00LTM2NzczNi90ZXJ1bmdrYXAtaGFyZ2EtYmJtLW5haWsta29uc3Vtc2ktY3VtYS10dXJ1bi1kaWtpdA==",
-        "description": " Kenaikan harga\u00c2\u00a0BBM diharapkan bisa memangkas beban APBN\u00c2\u00a0melalui pengurangan konsumsi BBM subsidi."
-    },
-    {
-        "title": "Keluhan Buruh, Upah Pekerja Ditekan Tapi Harga-harga Naik",
-        "link": "https://www.cnbcindonesia.com/news/20220830105604-8-367677/keluhan-buruh-upah-pekerja-ditekan-tapi-harga-harga-naik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDEwNTYwNC04LTM2NzY3Ny9rZWx1aGFuLWJ1cnVoLXVwYWgtcGVrZXJqYS1kaXRla2FuLXRhcGktaGFyZ2EtaGFyZ2EtbmFpaw==",
-        "description": " Keluhan Buruh, Upah Pekerja Ditekan Tapi Harga-harga Naik"
-    },
-    {
-        "title": "Baca Baik-baik! Begini Ramalan Sri Mulyani Soal Ekonomi 2023",
-        "link": "https://www.cnbcindonesia.com/news/20220830115209-4-367717/baca-baik-baik-begini-ramalan-sri-mulyani-soal-ekonomi-2023",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDExNTIwOS00LTM2NzcxNy9iYWNhLWJhaWstYmFpay1iZWdpbmktcmFtYWxhbi1zcmktbXVseWFuaS1zb2FsLWVrb25vbWktMjAyMw==",
-        "description": " Menteri Keuangan Sri Mulyani Indrawati memperkirakan ekonomi 2023 masih dipenuhi ketidakpastian"
-    },
-    {
-        "title": "Mengintip Beda Pensiunan PNS dan DPR, Bagai Langit dan Bumi?",
-        "link": "https://www.cnbcindonesia.com/news/20220830114425-4-367713/mengintip-beda-pensiunan-pns-dpr-bagai-langit-bumi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDExNDQyNS00LTM2NzcxMy9tZW5naW50aXAtYmVkYS1wZW5zaXVuYW4tcG5zLWRwci1iYWdhaS1sYW5naXQtYnVtaQ==",
-        "description": " Berikut perbedaan yang cukup signifikkan dana pensiun yang diterima pensiunan PNS dan anggota DPR"
-    },
-    {
-        "title": "Ramai DPR Tolak Kenaikan BBM, Ini Tanggapan Sri Mulyani!",
-        "link": "https://www.cnbcindonesia.com/news/20220830115933-4-367722/ramai-dpr-tolak-kenaikan-bbm-ini-tanggapan-sri-mulyani",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDExNTkzMy00LTM2NzcyMi9yYW1haS1kcHItdG9sYWsta2VuYWlrYW4tYmJtLWluaS10YW5nZ2FwYW4tc3JpLW11bHlhbmk=",
-        "description": " Sri Mulyani memberikan tanggapan atas pandangan fraksi terhadap RAPBN 2023. Persoalan BBM adalah salah satunya."
     }
 ]
