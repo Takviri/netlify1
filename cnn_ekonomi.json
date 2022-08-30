@@ -1,5 +1,12 @@
 [
     {
+        "title": "Inflasi Pernah Tembus 17 Persen Gara-gara Harga BBM Naik",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220830101200-92-840724/inflasi-pernah-tembus-17-persen-gara-gara-harga-bbm-naik",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMTAxMjAwLTkyLTg0MDcyNC9pbmZsYXNpLXBlcm5haC10ZW1idXMtMTctcGVyc2VuLWdhcmEtZ2FyYS1oYXJnYS1iYm0tbmFpaw==",
+        "description": " Kepala BPS Margo Yuwono mengingatkan untuk mengendalikan harga BBM agar tidak mendorong lonjakan inflasi."
+    },
+    {
         "title": "Penjualan Bensin Eceran Marak Jelang Kenaikan Harga BBM",
         "link": "https://www.cnnindonesia.com/ekonomi/20220830093338-85-840712/penjualan-bensin-eceran-marak-jelang-kenaikan-harga-bbm",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMDgwNjE3LTg1LTg0MDY2OC9mYWlzYWwtYmFzcmktcHJlZGlrc2kta2VuYWlrYW4taGFyZ2EtcGVydGFsaXRlLWxlYmloLWJlc2FyLWRhcmktc29sYXI=",
         "description": " Ekonom Senior INDEF Faisal Basri memprediksi kenaikan harga bahan bakar minyak (BBM) subsidi pertalite lebih besar dibandingkan solar."
-    },
-    {
-        "title": "Harga Minyak Melesat 4 Persen Gegara Wacana OPEC Pangkas Produksi",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220830073302-85-840652/harga-minyak-melesat-4-persen-gegara-wacana-opec-pangkas-produksi",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMDczMzAyLTg1LTg0MDY1Mi9oYXJnYS1taW55YWstbWVsZXNhdC00LXBlcnNlbi1nZWdhcmEtd2FjYW5hLW9wZWMtcGFuZ2thcy1wcm9kdWtzaQ==",
-        "description": " Harga minyak dunia menguat pada perdagangan Senin (29/8), waktu AS, usai OPEC melempar wacana untuk memangkas produksi."
     }
 ]

@@ -1,10 +1,45 @@
 [
     {
+        "title": "Buruh: Subsidi Gaji Hanya Sogokan Jelang Kenaikan Harga BBM",
+        "link": "https://www.cnbcindonesia.com/news/20220830104247-8-367673/buruh-subsidi-gaji-hanya-sogokan-jelang-kenaikan-harga-bbm",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDEwNDI0Ny04LTM2NzY3My9idXJ1aC1zdWJzaWRpLWdhamktaGFueWEtc29nb2thbi1qZWxhbmcta2VuYWlrYW4taGFyZ2EtYmJt",
+        "description": " Buruh: Subsidi Gaji Cuma Sogokan Jelang Kenaikan Harga BBM "
+    },
+    {
+        "title": "Luhut Minta Anies Cs Kompak Perang Lawan Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220830102720-4-367668/luhut-minta-anies-cs-kompak-perang-lawan-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDEwMjcyMC00LTM2NzY2OC9sdWh1dC1taW50YS1hbmllcy1jcy1rb21wYWstcGVyYW5nLWxhd2FuLWluaQ==",
+        "description": " Luhut meminta semua kepala daerah, dari gubernur hingga bupati dan walikota untuk kompak mengatasi gejolak inflasi."
+    },
+    {
+        "title": "Pria Paling 'Kesepian' Ini Meninggal, Kelompoknya Resmi Punah",
+        "link": "https://www.cnbcindonesia.com/news/20220830102949-4-367669/pria-paling-kesepian-ini-meninggal-kelompoknya-resmi-punah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDEwMjk0OS00LTM2NzY2OS9wcmlhLXBhbGluZy1rZXNlcGlhbi1pbmktbWVuaW5nZ2FsLWtlbG9tcG9rbnlhLXJlc21pLXB1bmFo",
+        "description": " Seorang pria yang menjadi orang terakhir di suku adat yang terasing di Brasil dilaporkan meninggal dunia."
+    },
+    {
         "title": "Honda dan LG Patungan Bangun Pabrik Baterai Listrik di AS",
         "link": "https://www.cnbcindonesia.com/news/20220830083810-8-367621/honda-lg-patungan-bangun-pabrik-baterai-listrik-di-as",
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDA4MzgxMC04LTM2NzYyMS9ob25kYS1sZy1wYXR1bmdhbi1iYW5ndW4tcGFicmlrLWJhdGVyYWktbGlzdHJpay1kaS1hcw==",
         "description": " Honda Motor dan LG Energy Solution mengumumkan berencana untuk menginvestasikan 4,4 Miliar USD"
+    },
+    {
+        "title": "Harga Baru BBM Pertalite di Tangan Jokowi, Segini Bocorannya",
+        "link": "https://www.cnbcindonesia.com/news/20220830100718-4-367656/harga-baru-bbm-pertalite-di-tangan-jokowi-segini-bocorannya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDEwMDcxOC00LTM2NzY1Ni9oYXJnYS1iYXJ1LWJibS1wZXJ0YWxpdGUtZGktdGFuZ2FuLWpva293aS1zZWdpbmktYm9jb3Jhbm55YQ==",
+        "description": " Terdapat beberapa alternatif harga baru BBM Pertalite dan Solar Subsidi di tangan Jokowi"
+    },
+    {
+        "title": "Luhut Pede Banget, Ekonomi RI Tumbuh 6% di Kuartal III-2022",
+        "link": "https://www.cnbcindonesia.com/news/20220830100616-4-367655/luhut-pede-banget-ekonomi-ri-tumbuh-6-di-kuartal-iii-2022",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDEwMDYxNi00LTM2NzY1NS9sdWh1dC1wZWRlLWJhbmdldC1la29ub21pLXJpLXR1bWJ1aC02LWRpLWt1YXJ0YWwtaWlpLTIwMjI=",
+        "description": " Simak penuturan Luhut dalam Rapat Koordinasi Pengendalian Inflasi Daerah yang berlangsung virtual, Selasa (30/8/2022)."
     },
     {
         "title": "Ramalan Seram BI: Inflasi Pangan Liar, RI Bakal Dekati AS?",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDA5NTcyMS00LTM2NzY1NC9pbmZsYXNpLWxpYXItbHVodXQtdGVndXItZ3ViZXJudXItc2Utc3VtYXRlcmE=",
         "description": " Luhut menegur pemimpin daerah se-Sumatera, termasuk gubernur dan walikot serta bupati, akibat laju inflasi yang melebihi batas atas 4%."
-    },
-    {
-        "title": "Melimpah Ruah, 10 Tahun Lagi RI Bakal Surplus Gas!",
-        "link": "https://www.cnbcindonesia.com/news/20220826170235-4-366973/melimpah-ruah-10-tahun-lagi-ri-bakal-surplus-gas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyNjE3MDIzNS00LTM2Njk3My9tZWxpbXBhaC1ydWFoLTEwLXRhaHVuLWxhZ2ktcmktYmFrYWwtc3VycGx1cy1nYXM=",
-        "description": " Pasokan gas Indonesia diperkirakan masih akan melimpah di masa depan"
-    },
-    {
-        "title": "BI Makin Was-was, Harga Pangan Makin Liar Tak Terkendali",
-        "link": "https://www.cnbcindonesia.com/news/20220830091956-4-367642/bi-makin-was-was-harga-pangan-makin-liar-tak-terkendali",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDA5MTk1Ni00LTM2NzY0Mi9iaS1tYWtpbi13YXMtd2FzLWhhcmdhLXBhbmdhbi1tYWtpbi1saWFyLXRhay10ZXJrZW5kYWxp",
-        "description": " BI kini dalam status waspada menyikapi kenaikan harga pangan dunia"
-    },
-    {
-        "title": "15 Orang Tewas di Irak Akibat Kerusuhan",
-        "link": "https://www.cnbcindonesia.com/news/20220830082831-8-367616/15-orang-tewas-di-irak-akibat-kerusuhan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDA4MjgzMS04LTM2NzYxNi8xNS1vcmFuZy10ZXdhcy1kaS1pcmFrLWFraWJhdC1rZXJ1c3VoYW4=",
-        "description": " Kerusuhan melanda Irak"
-    },
-    {
-        "title": "Dampak Inflasi Kenaikan Harga BBM Bisa Rendah, Asal...",
-        "link": "https://www.cnbcindonesia.com/news/20220830091917-4-367641/dampak-inflasi-kenaikan-harga-bbm-bisa-rendah-asal",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDA5MTkxNy00LTM2NzY0MS9kYW1wYWstaW5mbGFzaS1rZW5haWthbi1oYXJnYS1iYm0tYmlzYS1yZW5kYWgtYXNhbA==",
-        "description": " Dampak inflasi dari kenaikan harga Bahan Bakar Minyak (BBM) bisa ditekan, asal penyaluran bantuan sosial dilakukan dengan baik."
-    },
-    {
-        "title": "'Sampai Kapan Mau Subsidi BBM Kalau Harganya Naik Terus?'",
-        "link": "https://www.cnbcindonesia.com/news/20220830081744-4-367628/sampai-kapan-mau-subsidi-bbm-kalau-harganya-naik-terus",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDA4MTc0NC00LTM2NzYyOC9zYW1wYWkta2FwYW4tbWF1LXN1YnNpZGktYmJtLWthbGF1LWhhcmdhbnlhLW5haWstdGVydXM=",
-        "description": " Pemerintah menegaskan pembengkakan harga subsidi energi telah mengorbankan banyak hal"
     }
 ]
