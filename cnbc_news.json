@@ -1,5 +1,19 @@
 [
     {
+        "title": "Asyik! Mulai 1 September Sudah Bisa Terbang Lagi dari Halim",
+        "link": "https://www.cnbcindonesia.com/news/20220830172550-4-367839/asyik-mulai-1-september-sudah-bisa-terbang-lagi-dari-halim",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE3MjU1MC00LTM2NzgzOS9hc3lpay1tdWxhaS0xLXNlcHRlbWJlci1zdWRhaC1iaXNhLXRlcmJhbmctbGFnaS1kYXJpLWhhbGlt",
+        "description": " Bandara Halim Perdanakusuma bakal melayani penumpang mulai 1 September 2022."
+    },
+    {
+        "title": "Gandeng 4 Pihak Swasta Sekaligus, Pertamina Serius Garap EBT",
+        "link": "https://www.cnbcindonesia.com/news/20220830161817-4-367820/gandeng-4-pihak-swasta-sekaligus-pertamina-serius-garap-ebt",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE2MTgxNy00LTM2NzgyMC9nYW5kZW5nLTQtcGloYWstc3dhc3RhLXNla2FsaWd1cy1wZXJ0YW1pbmEtc2VyaXVzLWdhcmFwLWVidA==",
+        "description": " PT Pertamina (Persero) meneken empat kerja sama dengan swasta sebagai langkah serius mengembangkan proyek Energi Bersih terbarukan (EBT)"
+    },
+    {
         "title": "Janji Sri Mulyani, Tunjangan Guru Honorer Tetap Ada di 2023",
         "link": "https://www.cnbcindonesia.com/news/20220830170719-4-367832/janji-sri-mulyani-tunjangan-guru-honorer-tetap-ada-di-2023",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE1NTE1OC00LTM2NzgxNi9oYXJnYS10ZWx1ci10ZXJiYW5nLWRwci1kZXNhay16dWxoYXMtZ2VyYWstY2VwYXQ=",
         "description": " Harga telur ayam ras terpantau masih dalam tren naik."
-    },
-    {
-        "title": "JK: Agenda Pemerintah Naikkan Harga BBM Bakal Terealisasi",
-        "link": "https://www.cnbcindonesia.com/news/20220830152337-4-367800/jk-agenda-pemerintah-naikkan-harga-bbm-bakal-terealisasi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE1MjMzNy00LTM2NzgwMC9qay1hZ2VuZGEtcGVtZXJpbnRhaC1uYWlra2FuLWhhcmdhLWJibS1iYWthbC10ZXJlYWxpc2FzaQ==",
-        "description": " Mantan Wakil Presiden RI Jusuf Kalla menyatakan, pemerintah akan menaikkan harga BBM"
-    },
-    {
-        "title": "China Kekeringan Parah, Kuil Kuno Muncul di Tengah Danau",
-        "link": "https://www.cnbcindonesia.com/news/20220830110228-7-367701/china-kekeringan-parah-kuil-kuno-muncul-di-tengah-danau",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDExMDIyOC03LTM2NzcwMS9jaGluYS1rZWtlcmluZ2FuLXBhcmFoLWt1aWwta3Vuby1tdW5jdWwtZGktdGVuZ2FoLWRhbmF1",
-        "description": " Sebuah kuil bersejarah di Pulau Luoxingdun, yang biasanya terendam di tengah Danau Poyang, kini terlihat dengan jelas.\u00c2\u00a0Ini akibat kekeringan parah di China."
     }
 ]
