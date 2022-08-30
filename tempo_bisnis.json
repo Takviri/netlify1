@@ -1,5 +1,19 @@
 [
     {
+        "title": "BRI Aktif Perangi Kejahatan Social Engineering",
+        "link": "https://bisnis.tempo.co/read/1628508/bri-aktif-perangi-kejahatan-social-engineering",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4NTA4L2JyaS1ha3RpZi1wZXJhbmdpLWtlamFoYXRhbi1zb2NpYWwtZW5naW5lZXJpbmc=",
+        "description": "BRI bekerja sama dengan kepolisian mengungkap berbagai kasus kejahatan social engineering yang merugikan nasabah."
+    },
+    {
+        "title": "Terkini Bisnis: Reformasi Pertalite dan Solar, Beragam Jenis ATM BRI",
+        "link": "https://bisnis.tempo.co/read/1628499/terkini-bisnis-reformasi-pertalite-dan-solar-beragam-jenis-atm-bri",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4NDk5L3RlcmtpbmktYmlzbmlzLXJlZm9ybWFzaS1wZXJ0YWxpdGUtZGFuLXNvbGFyLWJlcmFnYW0tamVuaXMtYXRtLWJyaQ==",
+        "description": "Berita terkini ekonomi dan bisnis hingga Selasa siang, 30 Agustus 2022 antara lain tanggapan Energy Watch atas wacana kenaikan pertalite dan solar."
+    },
+    {
         "title": "Baru Satu Bank Asing Ikut BI-Fast, Ini Penjelasan Bank Indonesia",
         "link": "https://bisnis.tempo.co/read/1628492/baru-satu-bank-asing-ikut-bi-fast-ini-penjelasan-bank-indonesia",
         "image": "static/images/tempo_bisnis.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4NDMwL3NhbXVlbC1zZWt1cml0YXMtaWhzZy1tZWxlc2F0LWtlLXpvbmEtaGlqYXUtZGlwaWN1LXNhaGFtLWJpZy1jYXA=",
         "description": "Indeks Harga Saham Gabungan (IHSG) melesat ke zona hijau pada penutupan perdagangan bursa sesi I, Selasa, 30 Agustus 2022."
-    },
-    {
-        "title": "Sri Mulyani: Inflasi Indonesia Relatif Moderat, Terendah di antara Negara Anggota G20",
-        "link": "https://bisnis.tempo.co/read/1628412/sri-mulyani-inflasi-indonesia-relatif-moderat-terendah-di-antara-negara-anggota-g20",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4NDEyL3NyaS1tdWx5YW5pLWluZmxhc2ktaW5kb25lc2lhLXJlbGF0aWYtbW9kZXJhdC10ZXJlbmRhaC1kaS1hbnRhcmEtbmVnYXJhLWFuZ2dvdGEtZzIw",
-        "description": "Menteri Keuangan Sri Mulyani mengatakan laju inflasi Indonesia pada Juli 2022 masih relatif moderat, yaitu 4,95 persen."
-    },
-    {
-        "title": "KADIN Gelar Net Zero Hub, Bantu Transisi Perusahaan Nasional Menuju Net Zero Company",
-        "link": "https://bisnis.tempo.co/read/1628407/kadin-gelar-net-zero-hub-bantu-transisi-perusahaan-nasional-menuju-net-zero-company",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI4NDA3L2thZGluLWdlbGFyLW5ldC16ZXJvLWh1Yi1iYW50dS10cmFuc2lzaS1wZXJ1c2FoYWFuLW5hc2lvbmFsLW1lbnVqdS1uZXQtemVyby1jb21wYW55",
-        "description": "Ketua Tim Kerja Harian KADIN Net Zero Hub, M. Yusrizki mengklaim pemerintah Indonesia tengah berkomitmen untuk mencapai Net Zero Emission pada 2060."
     }
 ]
