@@ -1,5 +1,19 @@
 [
     {
+        "title": "INFOGRAFIS: Prediksi Harga BBM Terbaru",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220830114040-88-840779/infografis-prediksi-harga-bbm-terbaru",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMTE0MDQwLTg4LTg0MDc3OS9pbmZvZ3JhZmlzLXByZWRpa3NpLWhhcmdhLWJibS10ZXJiYXJ1",
+        "description": " Pemerintah berencana menaikkan harga BBM pada akhir bulan ini. Berikut prediksi terbaru besaran kenaikan harga BBM subsidi."
+    },
+    {
+        "title": "BPS Wanti-wanti Orang Miskin Makin Banyak usai Harga BBM Naik",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220830111224-532-840757/bps-wanti-wanti-orang-miskin-makin-banyak-usai-harga-bbm-naik",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMTExMjI0LTUzMi04NDA3NTcvYnBzLXdhbnRpLXdhbnRpLW9yYW5nLW1pc2tpbi1tYWtpbi1iYW55YWstdXNhaS1oYXJnYS1iYm0tbmFpaw==",
+        "description": " Kepala Badan Pusat Statistik (BPS) Margo Yuwono mengingatkan kenaikan harga BBM bisa menambah jumlah orang miskin."
+    },
+    {
         "title": "Dituding Lamban, Progres Proyek PLTA di Bulungan Capai 60 Persen",
         "link": "https://www.cnnindonesia.com/ekonomi/20220829200619-92-840572/dituding-lamban-progres-proyek-plta-di-bulungan-capai-60-persen",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI5MjEwMDU3LTkyLTg0MDU4OC9qYWtwcm8tdHVuanVrLXNla2plbi1rZW1lbmRhZ3JpLXN1aGFqYXItZGlhbnRvcm8tamFkaS1rb21pc2FyaXM=",
         "description": " Sekretaris Jenderal (Sekjen) Kementerian Dalam Negeri Suhajar Diantoro ditunjuk menjadi Komisaris PT Jakarta Propertindo (Jakpro)."
-    },
-    {
-        "title": "Harga Emas Antam Pelan-pelan Dekati Rp1 Juta per Gram",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220830082023-92-840680/harga-emas-antam-pelan-pelan-dekati-rp1-juta-per-gram",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMDgyMDIzLTkyLTg0MDY4MC9oYXJnYS1lbWFzLWFudGFtLXBlbGFuLXBlbGFuLWRla2F0aS1ycDEtanV0YS1wZXItZ3JhbQ==",
-        "description": " Harga emas Antam naik Rp3.000 menjadi Rp965 ribu per gram pada Selasa (30/8)."
-    },
-    {
-        "title": "Jepang Akan Gelontorkan Bantuan dan Investasi Rp446 T ke Afrika",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220829135945-532-840346/jepang-akan-gelontorkan-bantuan-dan-investasi-rp446-t-ke-afrika",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI5MTM1OTQ1LTUzMi04NDAzNDYvamVwYW5nLWFrYW4tZ2Vsb250b3JrYW4tYmFudHVhbi1kYW4taW52ZXN0YXNpLXJwNDQ2LXQta2UtYWZyaWth",
-        "description": " Jepang akan memberikan bantuan dan investasi senilai US$30 miliar atau Rp446,6 triliun ke Afrika\u00c2\u00a0selama tiga tahun ke depan untuk melawan pengaruh China."
     }
 ]
