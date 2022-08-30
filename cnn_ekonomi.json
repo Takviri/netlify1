@@ -1,5 +1,19 @@
 [
     {
+        "title": "Daftar Negara Bisa Belanja Pakai QRIS",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220830092146-78-840706/daftar-negara-bisa-belanja-pakai-qris",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMDkyMTQ2LTc4LTg0MDcwNi9kYWZ0YXItbmVnYXJhLWJpc2EtYmVsYW5qYS1wYWthaS1xcmlz",
+        "description": " Presiden Jokowi\u00c2\u00a0dan Bank Indonesia meluncurkan QRIS antarnegara pada Senin (29/8). Berikut daftar negara yang bisa melayani transaksi pembayaran dengan QRIS."
+    },
+    {
+        "title": "Kripto Ambruk, Solana Cuma Dijual US$32,33 per Keping",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220830080439-92-840667/kripto-ambruk-solana-cuma-dijual-us-3233-per-keping",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMDgwNDM5LTkyLTg0MDY2Ny9rcmlwdG8tYW1icnVrLXNvbGFuYS1jdW1hLWRpanVhbC11cy0zMjMzLXBlci1rZXBpbmc=",
+        "description": " Mayoritas harga kripto melemah, khususnya solana dan ethereum pada perdagangan Selasa (30/8) pagi."
+    },
+    {
         "title": "Citilink Terbang Lagi di Bandara Halim Mulai 1 September",
         "link": "https://www.cnnindonesia.com/ekonomi/20220830083509-92-840698/citilink-terbang-lagi-di-bandara-halim-mulai-1-september",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODI5MTkyNDAxLTUzMi04NDA1NTgvZmFpc2FsLWJhc3JpLXRlZ2Fza2FuLWJsdC1oYXJ1cy10ZXRhcC1kaWJlcmlrYW4tbWVza2ktYmJtLXRhay1uYWlr",
         "description": " Ekonom Senior INDEF Faisal Basri menegaskan pemerintah harus memberikan bantuan langsung tunai (BLT) meski harga\u00c2\u00a0BBM tidak naik."
-    },
-    {
-        "title": "Syarat Naik Kereta Api Terbaru Berlaku Hari Ini",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220830072102-92-840648/syarat-naik-kereta-api-terbaru-berlaku-hari-ini",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMDcyMTAyLTkyLTg0MDY0OC9zeWFyYXQtbmFpay1rZXJldGEtYXBpLXRlcmJhcnUtYmVybGFrdS1oYXJpLWluaQ==",
-        "description": " PT KAI (Persero) merilis syarat naik kereta api terbaru yang berlaku mulai hari ini, Selasa (30/8). Berikut rincian persyaratannya."
-    },
-    {
-        "title": "Cara Cek Penerima BLT Subsidi Gaji Rp600 Ribu Sebelum Harga BBM Naik",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220830062840-92-840634/cara-cek-penerima-blt-subsidi-gaji-rp600-ribu-sebelum-harga-bbm-naik",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMDYyODQwLTkyLTg0MDYzNC9jYXJhLWNlay1wZW5lcmltYS1ibHQtc3Vic2lkaS1nYWppLXJwNjAwLXJpYnUtc2ViZWx1bS1oYXJnYS1iYm0tbmFpaw==",
-        "description": " Pekerja dengan gaji di bawah Rp3,5 juta per bulan akan mendapatkan BLT subsidi gaji Rp600 ribu sebagai bantalan dalam menghadapi kenaikan harga BBM subsidi."
     }
 ]
