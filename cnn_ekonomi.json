@@ -1,9 +1,16 @@
 [
     {
-        "title": "DPR Sahkan 2 UU Perjanjian Perdagangan Bebas",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220830133844-92-840850/dpr-sahkan-2-uu-perjanjian-perdagangan-bebas",
+        "title": "Gautam Adani Jadi Orang Terkaya ke-3 Dunia, Ngekor Musk dan Bezos",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220830151227-92-840915/gautam-adani-jadi-orang-terkaya-ke-3-dunia-ngekor-musk-dan-bezos",
         "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMTMzODQ0LTkyLTg0MDg1MC9kcHItc2Foa2FuLTItdXUtcGVyamFuamlhbi1wZXJkYWdhbmdhbi1iZWJhcw==",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMTUxMjI3LTkyLTg0MDkxNS9nYXV0YW0tYWRhbmktamFkaS1vcmFuZy10ZXJrYXlhLWtlLTMtZHVuaWEtbmdla29yLW11c2stZGFuLWJlem9z",
+        "description": " Gautam Adani, crazy rich Asia dari India, menggeser CEO LVMH Bernard Arnault menjadi orang terkaya ketiga di dunia dengan kekayaan US$137 miliar."
+    },
+    {
+        "title": "RI Resmi Masuk ke Perjanjian Perdagangan Bebas Terbesar di Dunia",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220830133844-92-840850/ri-resmi-masuk-ke-perjanjian-perdagangan-bebas-terbesar-di-dunia",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMTMzODQ0LTkyLTg0MDg1MC9yaS1yZXNtaS1tYXN1ay1rZS1wZXJqYW5qaWFuLXBlcmRhZ2FuZ2FuLWJlYmFzLXRlcmJlc2FyLWRpLWR1bmlh",
         "description": " DPR mengesahkan 2 perjanjian perdagangan bebas, RCEP dan perjanjian Indonesia-Korea Comprehensive Economic Partnership Agreement (IK-CEPA) menjadi\u00c2\u00a0uu."
     },
     {
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMTQwMDA2LTgzLTg0MDg2OC9wZW5ldHJhc2ktcmVuZGFoLXN1bi1saWZlLWhhZGlyLXVudHVrLWZpbmFuc2lhbC1tYXNhLWRlcGFu",
         "description": " Sun Life hadir memberikan solusi di tengah pandemi pada masyarakat Indonesia yang memerlukan polis asuransi karena biaya pengobatannya cukup tinggi."
-    },
-    {
-        "title": "Luhut: Inflasi Naik Bila Harga BBM Naik Minimal Rp500 per Liter",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220830133419-532-840848/luhut-inflasi-naik-bila-harga-bbm-naik-minimal-rp500-per-liter",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMTMzNDE5LTUzMi04NDA4NDgvbHVodXQtaW5mbGFzaS1uYWlrLWJpbGEtaGFyZ2EtYmJtLW5haWstbWluaW1hbC1ycDUwMC1wZXItbGl0ZXI=",
-        "description": " Menko Marves Luhut Binsar Panjaitan mengatakan inflasi berpotensi naik jika harga BBM pertalite dan solar subsidi naik minimal Rp500 per liter."
     }
 ]
