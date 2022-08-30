@@ -1,5 +1,19 @@
 [
     {
+        "title": "BNPB: Gempa Guncang Mentawai 14 Kali, Tidak Timbulkan Tsunami",
+        "link": "https://www.cnnindonesia.com/nasional/20220830172247-20-840995/bnpb-gempa-guncang-mentawai-14-kali-tidak-timbulkan-tsunami",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMDE3MjI0Ny0yMC04NDA5OTUvYm5wYi1nZW1wYS1ndW5jYW5nLW1lbnRhd2FpLTE0LWthbGktdGlkYWstdGltYnVsa2FuLXRzdW5hbWk=",
+        "description": " BNPB mengatakan masyarakat Mentawai yang mengungsi akibat gempa yang terjadi kemarin, Senin (29/8) sudah bisa kembali ke rumah masing-masing."
+    },
+    {
+        "title": "Advokat Alvin Lim Divonis 4,5 Tahun di Kasus Penipuan",
+        "link": "https://www.cnnindonesia.com/nasional/20220830222401-12-841116/advokat-alvin-lim-divonis-45-tahun-di-kasus-penipuan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMDIyMjQwMS0xMi04NDExMTYvYWR2b2thdC1hbHZpbi1saW0tZGl2b25pcy00NS10YWh1bi1kaS1rYXN1cy1wZW5pcHVhbg==",
+        "description": " Alvin Lim mengajukan banding atas vonis yang diberikan Majelis Hakim Pengadilan Negeri Jakarta Selatan terhadapnya."
+    },
+    {
         "title": "Demonstrasi Ricuh di UI, Petugas Terluka Berujung BEM Minta Maaf",
         "link": "https://www.cnnindonesia.com/nasional/20220830223804-20-841121/demonstrasi-ricuh-di-ui-petugas-terluka-berujung-bem-minta-maaf",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMDIwMjczMy0xMi04NDEwODYvdG5pLWFkLWJha2FsLXNhbmtzaS10ZWdhcy02LXByYWp1cml0LXBlbGFrdS1wZW1idW51aGFuLXNhZGlzLWRpLXRpbWlrYQ==",
         "description": " TNI AD\u00c2\u00a0menyatakan akan mengungkap tuntas dan memberikan sanksi\u00c2\u00a0berat terhadap para pelaku pembunuhan sadis di Timika, Papua."
-    },
-    {
-        "title": "6 Anak di Cianjur Meninggal Dunia Usai Terpapar HIV/AIDS",
-        "link": "https://www.cnnindonesia.com/nasional/20220830202250-20-841083/6-anak-di-cianjur-meninggal-dunia-usai-terpapar-hiv-aids",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMDIwMjI1MC0yMC04NDEwODMvNi1hbmFrLWRpLWNpYW5qdXItbWVuaW5nZ2FsLWR1bmlhLXVzYWktdGVycGFwYXItaGl2LWFpZHM=",
-        "description": " Dinas Kesehatan Kabupaten Cianjur mencatat enam orang anak di wilayahnya meninggal dunia usai terpapar HIV/AIDS sepanjang 2021 hingga 2022."
-    },
-    {
-        "title": "VIDEO: Demo Mahasiswa UI Kritik Rektor Berujung Bentrok dengan Petugas",
-        "link": "https://www.cnnindonesia.com/nasional/20220830201042-24-841081/video-demo-mahasiswa-ui-kritik-rektor-berujung-bentrok-dengan-petugas",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMDIwMTA0Mi0yNC04NDEwODEvdmlkZW8tZGVtby1tYWhhc2lzd2EtdWkta3JpdGlrLXJla3Rvci1iZXJ1anVuZy1iZW50cm9rLWRlbmdhbi1wZXR1Z2Fz",
-        "description": " Demo berbagai elemen mahasiswa ini menuntut berbagai hal mulai dari mempertanyakan kekayaan rektor yang berlipat dalam tiga tahun hingga kasus kematian Akseyna."
     }
 ]
