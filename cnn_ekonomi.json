@@ -1,5 +1,19 @@
 [
     {
+        "title": "Belanja di Malaysia Bisa Pakai QRIS Tahun Ini",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220830141705-78-840882/belanja-di-malaysia-bisa-pakai-qris-tahun-ini",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMTQxNzA1LTc4LTg0MDg4Mi9iZWxhbmphLWRpLW1hbGF5c2lhLWJpc2EtcGFrYWktcXJpcy10YWh1bi1pbmk=",
+        "description": " Bank Indonesia menargetkan Quick Response Code Indonesian Standard (QRIS) bisa resmi digunakan di Malaysia tahun ini."
+    },
+    {
+        "title": "Pelemahan Dolar Angkat Rupiah ke Rp14.842",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220830154934-78-840938/pelemahan-dolar-angkat-rupiah-ke-rp14842",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMTU0OTM0LTc4LTg0MDkzOC9wZWxlbWFoYW4tZG9sYXItYW5na2F0LXJ1cGlhaC1rZS1ycDE0ODQy",
+        "description": " Rupiah menguat 0,37 persen ke level Rp14.842 pada Selasa (30/8) sore akibat terangkat oleh pelemahan dolar AS."
+    },
+    {
         "title": "Gautam Adani Jadi Orang Terkaya ke-3 Dunia, Ngekor Musk dan Bezos",
         "link": "https://www.cnnindonesia.com/ekonomi/20220830151227-92-840915/gautam-adani-jadi-orang-terkaya-ke-3-dunia-ngekor-musk-dan-bezos",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMTQxMDM4LTkyLTg0MDg3OC91bWttLWRpLW1ha2Fzc2FyLXRlcmFuY2FtLWJhbmdrcnV0LWdlZ2FyYS10ZWx1ci1kYW4tdGVyaWd1LW1haGFs",
         "description": " Sejumlah UMKM sektor kuliner di Makassar, Sulawesi Selatan, terancam bangkrut akibat lonjakan harga telur dan tepung terigu."
-    },
-    {
-        "title": "Cara Beli Pertalite Pakai Subsidi Tepat MyPertamina",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220830140245-90-840872/cara-beli-pertalite-pakai-subsidi-tepat-mypertamina",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMTQwMjQ1LTkwLTg0MDg3Mi9jYXJhLWJlbGktcGVydGFsaXRlLXBha2FpLXN1YnNpZGktdGVwYXQtbXlwZXJ0YW1pbmE=",
-        "description": " Masyarakat bisa mendaftar terlebih dahulu kemudian mengikuti cara beli pertalite pakai subsidi tepat MyPertamina. Berikut penjelasannya."
-    },
-    {
-        "title": "Penetrasi Rendah, Sun Life Hadir untuk Finansial Masa Depan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220830140006-83-840868/penetrasi-rendah-sun-life-hadir-untuk-finansial-masa-depan",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMTQwMDA2LTgzLTg0MDg2OC9wZW5ldHJhc2ktcmVuZGFoLXN1bi1saWZlLWhhZGlyLXVudHVrLWZpbmFuc2lhbC1tYXNhLWRlcGFu",
-        "description": " Sun Life hadir memberikan solusi di tengah pandemi pada masyarakat Indonesia yang memerlukan polis asuransi karena biaya pengobatannya cukup tinggi."
     }
 ]
