@@ -1,5 +1,26 @@
 [
     {
+        "title": "Bitcoin Cs Menguat Sih.. Tapi Segitu-segitu Aja",
+        "link": "https://www.cnbcindonesia.com/market/20220831104212-17-368001/bitcoin-cs-menguat-sih-tapi-segitu-segitu-aja",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMxMTA0MjEyLTE3LTM2ODAwMS9iaXRjb2luLWNzLW1lbmd1YXQtc2loLXRhcGktc2VnaXR1LXNlZ2l0dS1hamE=",
+        "description": " Harga kripto utama cenderung kembali menguat meski investor masih mengoleksi secara bertahap karena kondisi global yang masih belum memungkinkan."
+    },
+    {
+        "title": "BI Kejar Target, Inflasi Pangan Harus Turun 5%",
+        "link": "https://www.cnbcindonesia.com/market/20220831103734-17-367996/bi-kejar-target-inflasi-pangan-harus-turun-5",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMxMTAzNzM0LTE3LTM2Nzk5Ni9iaS1rZWphci10YXJnZXQtaW5mbGFzaS1wYW5nYW4taGFydXMtdHVydW4tNQ==",
+        "description": " Bank Indonesia (BI) menargetkan inflasi pangan turun hingga ke kisaran 5% tahun ini."
+    },
+    {
+        "title": "Gara-gara Xi Jinping, Harga Tembaga Merana! Kok Bisa?",
+        "link": "https://www.cnbcindonesia.com/market/20220831100405-17-367984/gara-gara-xi-jinping-harga-tembaga-merana-kok-bisa",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMxMTAwNDA1LTE3LTM2Nzk4NC9nYXJhLWdhcmEteGktamlucGluZy1oYXJnYS10ZW1iYWdhLW1lcmFuYS1rb2stYmlzYQ==",
+        "description": " Harga tembaga bergerak menguat pada perdagangan pagi hari ini. Bagaimanakah prospeknya ke depan?"
+    },
+    {
         "title": "Keluarga Widjaja Hepi, Laba TKIM dan INKP Kompak Melesat",
         "link": "https://www.cnbcindonesia.com/market/20220831100007-17-367982/keluarga-widjaja-hepi-laba-tkim-inkp-kompak-melesat",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMxMDkzMjM1LTE3LTM2Nzk2Ny9pbmktcGVtaWN1LWxhYmEtYmVyc2loLWtyYXMtdGVyYmFuZy0xMzgtamFkaS1ycC0xMTUtdA==",
         "description": " Sementara laba dari entitas asosiasi, dan ventura bersama naik 99% menjadi US$ 53,63 juta dari sebelumnya yang sebesar US$ 26,90 juta."
-    },
-    {
-        "title": "Akhirnya Kena Efek Wall Street dan BBM, IHSG Tumbang 1% Lebih",
-        "link": "https://www.cnbcindonesia.com/market/20220831090626-17-367953/akhirnya-kena-efek-wall-street-dan-bbm-ihsg-tumbang-1-lebih",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMxMDkwNjI2LTE3LTM2Nzk1My9ha2hpcm55YS1rZW5hLWVmZWstd2FsbC1zdHJlZXQtZGFuLWJibS1paHNnLXR1bWJhbmctMS1sZWJpaA==",
-        "description": " IHSG longsor pagi ini"
-    },
-    {
-        "title": "Jelang Kenaikan Harga BBM, IHSG Dibuka Melemah",
-        "link": "https://www.cnbcindonesia.com/market/20220831091405-19-367956/jelang-kenaikan-harga-bbm-ihsg-dibuka-melemah",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMxMDkxNDA1LTE5LTM2Nzk1Ni9qZWxhbmcta2VuYWlrYW4taGFyZ2EtYmJtLWloc2ctZGlidWthLW1lbGVtYWg=",
-        "description": " Nantikan Kenaikan Harga BBM, IHSG Dibuka Melemah"
-    },
-    {
-        "title": "Detik-Detik Kenaikan Harga Pertalite, Rupiah Galau!",
-        "link": "https://www.cnbcindonesia.com/market/20220831090940-17-367955/detik-detik-kenaikan-harga-pertalite-rupiah-galau",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMxMDkwOTQwLTE3LTM2Nzk1NS9kZXRpay1kZXRpay1rZW5haWthbi1oYXJnYS1wZXJ0YWxpdGUtcnVwaWFoLWdhbGF1",
-        "description": " Rupiah berfluktuasi melawan dolar Amerika Serikat (AS) di awal perdagangan Rabu (31/8/2022)"
     }
 ]
