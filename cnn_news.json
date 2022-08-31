@@ -1,5 +1,40 @@
 [
     {
+        "title": "Kecelakaan Truk Tabrak Tiang di Bekasi, 10 Orang Tewas",
+        "link": "https://www.cnnindonesia.com/nasional/20220831121118-20-841303/kecelakaan-truk-tabrak-tiang-di-bekasi-10-orang-tewas",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMTEyMTExOC0yMC04NDEzMDMva2VjZWxha2Fhbi10cnVrLXRhYnJhay10aWFuZy1kaS1iZWthc2ktMTAtb3JhbmctdGV3YXM=",
+        "description": " Kecelakaan terjadi di Jalan Sultan Agung, Bekasi. Sebanyak 10 orang dilaporkan tewas dalam peristiwa itu."
+    },
+    {
+        "title": "5 Terdakwa Korupsi Ekspor CPO Didakwa Rugikan Negara Rp18,3 Triliun",
+        "link": "https://www.cnnindonesia.com/nasional/20220824095104-12-838370/5-terdakwa-korupsi-ekspor-cpo-didakwa-rugikan-negara-rp183-triliun",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgyNDA5NTEwNC0xMi04MzgzNzAvNS10ZXJkYWt3YS1rb3J1cHNpLWVrc3Bvci1jcG8tZGlkYWt3YS1ydWdpa2FuLW5lZ2FyYS1ycDE4My10cmlsaXVu",
+        "description": " Kasus dugaan korupsi terkait pemberian fasilitas ekspor minyak sawit mentah (CPO) disebut telah merugikan negara sejumlah Rp18,3 triliun."
+    },
+    {
+        "title": "Beda Versi Animasi Polri dan Pengakuan Bharada E yang Diungkap Kapolri",
+        "link": "https://www.cnnindonesia.com/nasional/20220831115555-12-841295/beda-versi-animasi-polri-dan-pengakuan-bharada-e-yang-diungkap-kapolri",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMTExNTU1NS0xMi04NDEyOTUvYmVkYS12ZXJzaS1hbmltYXNpLXBvbHJpLWRhbi1wZW5nYWt1YW4tYmhhcmFkYS1lLXlhbmctZGl1bmdrYXAta2Fwb2xyaQ==",
+        "description": " Kapolri Listyo Sigit sempat menyatakan Bharada E mengaku melihat Brigadir J sudah terkapar di depan Ferdy Sambo. Keterangan ini berbeda dengan video animasi."
+    },
+    {
+        "title": "Kemenko PMK soal Wagub Jabar: Tak Ada Korelasi AIDS dengan Poligami",
+        "link": "https://www.cnnindonesia.com/nasional/20220831115009-20-841291/kemenko-pmk-soal-wagub-jabar-tak-ada-korelasi-aids-dengan-poligami",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMTExNTAwOS0yMC04NDEyOTEva2VtZW5rby1wbWstc29hbC13YWd1Yi1qYWJhci10YWstYWRhLWtvcmVsYXNpLWFpZHMtZGVuZ2FuLXBvbGlnYW1p",
+        "description": " Kemenko PMK menilai belum ada keilmuan yang menyebutkan saran tersebut sebagai upaya penanggulangan HIV/AIDS di masyarakat."
+    },
+    {
+        "title": "Festival Sandeq 2022 Dimulai, 35 Perahu Berlayar Menuju IKN",
+        "link": "https://www.cnnindonesia.com/nasional/20220831115211-25-841292/festival-sandeq-2022-dimulai-35-perahu-berlayar-menuju-ikn",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMTExNTIxMS0yNS04NDEyOTIvZmVzdGl2YWwtc2FuZGVxLTIwMjItZGltdWxhaS0zNS1wZXJhaHUtYmVybGF5YXItbWVudWp1LWlrbg==",
+        "description": " Sebanyak 28 dari 35 perahu sandeq adu cepat meluncur dari Pantai Silopo sampai Pantai Manggar pada Rabu (31/8), menandai Festival Sandeq 2022 resmi dimulai."
+    },
+    {
         "title": "Polisi Panggil Deolipa dan Feni Rose soal Musisi Pura-pura Pengacara",
         "link": "https://www.cnnindonesia.com/nasional/20220831101123-12-841254/polisi-panggil-deolipa-dan-feni-rose-soal-musisi-pura-pura-pengacara",
         "image": "static/images/cnn_news.png",
@@ -7,11 +42,11 @@
         "description": " Pemeriksaan itu terkait laporan yang dilayangkan oleh Deolipa terhadap Feni soal dugaan perbuatan tidak menyenangkan."
     },
     {
-        "title": "Sandiaga Uno Harus Mundur dari Menteri Jika Maju Capres 2024",
-        "link": "https://www.cnnindonesia.com/nasional/20220831112111-32-841278/sandiaga-uno-harus-mundur-dari-menteri-jika-maju-capres-2024",
+        "title": "Prabowo dan Sandiaga Uno Harus Mundur dari Menteri Jika Maju Capres 2024",
+        "link": "https://www.cnnindonesia.com/nasional/20220831112111-32-841278/prabowo-sandiaga-uno-harus-mundur-dari-menteri-jika-maju-capres-2024",
         "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMTExMjExMS0zMi04NDEyNzgvc2FuZGlhZ2EtdW5vLWhhcnVzLW11bmR1ci1kYXJpLW1lbnRlcmktamlrYS1tYWp1LWNhcHJlcy0yMDI0",
-        "description": " Sandiaga Uno wajib menyampaikan surat pengunduran diri selambat-lambatnya pada hari pendaftaran capres-cawapres jika dia serius berniat jadi capres 2024."
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMTExMjExMS0zMi04NDEyNzgvcHJhYm93by1zYW5kaWFnYS11bm8taGFydXMtbXVuZHVyLWRhcmktbWVudGVyaS1qaWthLW1hanUtY2FwcmVzLTIwMjQ=",
+        "description": " Prabowo Subianto dan Sandiaga Uno wajib menyampaikan surat pengunduran diri selambatnya pada hari pendaftaran capres-cawapres jika serius berniat capres 2024."
     },
     {
         "title": "VIDEO: Kontroversi Wagub Jabar Sebut Poligami Solusi HIV",
@@ -33,40 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMTEwMzczMS0xMi04NDEyNjMva3BrLWJsb2tpci1yZWtlbmluZy1hbmdnb3RhLWRwci1hbmFrLWJ1cGF0aS1iYW5qYXJuZWdhcmEtbm9uYWt0aWY=",
         "description": " Komisi Pemberantasan Korupsi memblokir rekening Lasmi Indaryani, anggota DPR sekaligus anak dari Bupati Banjarnegara nonaktif Budhi Sarwono."
-    },
-    {
-        "title": "Kapolda Metro Jaya Mutasi Kasat Narkoba Polres Jaksel",
-        "link": "https://www.cnnindonesia.com/nasional/20220831110940-12-841275/kapolda-metro-jaya-mutasi-kasat-narkoba-polres-jaksel",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMTExMDk0MC0xMi04NDEyNzUva2Fwb2xkYS1tZXRyby1qYXlhLW11dGFzaS1rYXNhdC1uYXJrb2JhLXBvbHJlcy1qYWtzZWw=",
-        "description": " Kapolda Metro Jaya Irjen Fadil Imran menunjuk Kompol Achmad Ardhy sebagai Ps Kasatresnarkoba Polres Metro Jakarta Selatan."
-    },
-    {
-        "title": "Kamaruddin Tak Mau Minta Maaf ke SBY, Demokrat Buka Opsi Lapor Polisi",
-        "link": "https://www.cnnindonesia.com/nasional/20220831101724-12-841256/kamaruddin-tak-mau-minta-maaf-ke-sby-demokrat-buka-opsi-lapor-polisi",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMTEwMTcyNC0xMi04NDEyNTYva2FtYXJ1ZGRpbi10YWstbWF1LW1pbnRhLW1hYWYta2Utc2J5LWRlbW9rcmF0LWJ1a2Etb3BzaS1sYXBvci1wb2xpc2k=",
-        "description": " Koordinator Tim Advokasi Partai Demokrat Mehbob berencana melaporkan pengacara Kamaruddin Simanjuntak ke kepolisian karena dianggap menyebarkan kabar bohong."
-    },
-    {
-        "title": "Buruh Jatim Turun ke Jalan Gelar Aksi Tolak Kenaikan Harga BBM",
-        "link": "https://www.cnnindonesia.com/nasional/20220831102659-20-841258/buruh-jatim-turun-ke-jalan-gelar-aksi-tolak-kenaikan-harga-bbm",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMTEwMjY1OS0yMC04NDEyNTgvYnVydWgtamF0aW0tdHVydW4ta2UtamFsYW4tZ2VsYXItYWtzaS10b2xhay1rZW5haWthbi1oYXJnYS1iYm0=",
-        "description": " Massa buruh dan pekerja dari sejumlah kota di Jawa Timur akan melakukan aksi demonstrasi menolak kenaikan harga BBM di Gedung Negara Grahadi, Surabaya."
-    },
-    {
-        "title": "Kapolsek dan Kanit Reskrim Penjaringan Ditangkap, Fadil Imran Buka Suara",
-        "link": "https://www.cnnindonesia.com/nasional/20220831104348-12-841267/kapolsek-kanit-reskrim-penjaringan-ditangkap-fadil-imran-buka-suara",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMTEwNDM0OC0xMi04NDEyNjcva2Fwb2xzZWsta2FuaXQtcmVza3JpbS1wZW5qYXJpbmdhbi1kaXRhbmdrYXAtZmFkaWwtaW1yYW4tYnVrYS1zdWFyYQ==",
-        "description": " Kapolsek Metro Penjaringan Kompol Ratna Quratul Aini dan Kanit Reskrim Polsek Metro Penjaringan AKP M Fajar ditangkap terkait dugaan penyalahgunaan wewenang."
-    },
-    {
-        "title": "Putri Candrawathi Sudah di Bareskrim untuk Diperiksa Kasus Ferdy Sambo",
-        "link": "https://www.cnnindonesia.com/nasional/20220831102924-12-841261/putri-candrawathi-sudah-di-bareskrim-untuk-diperiksa-kasus-ferdy-sambo",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMTEwMjkyNC0xMi04NDEyNjEvcHV0cmktY2FuZHJhd2F0aGktc3VkYWgtZGktYmFyZXNrcmltLXVudHVrLWRpcGVyaWtzYS1rYXN1cy1mZXJkeS1zYW1ibw==",
-        "description": " Kuasa Hukum\u00c2\u00a0memastikan Putri Candrawathi dalam keadaan siap untuk diperiksa lanjutan oleh Tim Khusus bentukan Kapolri."
     }
 ]
