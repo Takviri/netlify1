@@ -1,5 +1,19 @@
 [
     {
+        "title": "Bill Gates Kalah, Ini Pria Asia Orang Terkaya ke-3 Dunia",
+        "link": "https://www.cnbcindonesia.com/news/20220831075520-4-367934/bill-gates-kalah-ini-pria-asia-orang-terkaya-ke-3-dunia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTA3NTUyMC00LTM2NzkzNC9iaWxsLWdhdGVzLWthbGFoLWluaS1wcmlhLWFzaWEtb3JhbmctdGVya2F5YS1rZS0zLWR1bmlh",
+        "description": " Untuk pertama kalinya, warga Asia masuk ke jajaran 3 besar orang terkaya dunia. Ia adalah Gautam Adani."
+    },
+    {
+        "title": "Inggris Makin Ngeri, Data Ini Tunjukan Krisis Makin Jadi",
+        "link": "https://www.cnbcindonesia.com/news/20220831071031-4-367924/inggris-makin-ngeri-data-ini-tunjukan-krisis-makin-jadi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTA3MTAzMS00LTM2NzkyNC9pbmdncmlzLW1ha2luLW5nZXJpLWRhdGEtaW5pLXR1bmp1a2FuLWtyaXNpcy1tYWtpbi1qYWRp",
+        "description": " Krisis biaya hidup yang terjadi di Inggris diprediksi semakin parah. Ini datanya."
+    },
+    {
         "title": "Ramai BBM, Cek Harga Terbaru Minyak Goreng yang Turun Terus",
         "link": "https://www.cnbcindonesia.com/news/20220831065627-4-367922/ramai-bbm-cek-harga-terbaru-minyak-goreng-yang-turun-terus",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE5NDc0MS00LTM2NzkwMy9tdWx1cy1wcmVzaWRlbi1jaGluYS14aS1qaW5waW5nLWJha2FsLXRlcnBpbGloLTMtcGVyaW9kZQ==",
         "description": " Partai Komunis China yang berkuasa akan memulai Kongres Partai ke-20 pada 16 Oktober mendatang."
-    },
-    {
-        "title": "Geger! China Tangkap Ratusan Orang Gegara Skandal Perbankan",
-        "link": "https://www.cnbcindonesia.com/news/20220830191605-4-367899/geger-china-tangkap-ratusan-orang-gegara-skandal-perbankan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE5MTYwNS00LTM2Nzg5OS9nZWdlci1jaGluYS10YW5na2FwLXJhdHVzYW4tb3JhbmctZ2VnYXJhLXNrYW5kYWwtcGVyYmFua2Fu",
-        "description": " Polisi di China telah menangkap 234 tersangka yang diduga terlibat dalam skandal perbankan pedesaan."
-    },
-    {
-        "title": "Hore! WHO Sebut Kasus Cacar Monyet di Wilayah Ini Melambat",
-        "link": "https://www.cnbcindonesia.com/news/20220830184220-4-367884/hore-who-sebut-kasus-cacar-monyet-di-wilayah-ini-melambat",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE4NDIyMC00LTM2Nzg4NC9ob3JlLXdoby1zZWJ1dC1rYXN1cy1jYWNhci1tb255ZXQtZGktd2lsYXlhaC1pbmktbWVsYW1iYXQ=",
-        "description": " Organisasi Kesehatan Dunia (WHO) mengatakan ada tanda-tanda epidemi cacar monyet melambat di Eropa."
     }
 ]
