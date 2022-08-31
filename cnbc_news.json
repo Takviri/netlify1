@@ -1,5 +1,47 @@
 [
     {
+        "title": "Tutup Usia, Ini Rekam Jejak Mikhail Gorbachev",
+        "link": "https://www.cnbcindonesia.com/news/20220831121722-7-368057/tutup-usia-ini-rekam-jejak-mikhail-gorbachev",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTEyMTcyMi03LTM2ODA1Ny90dXR1cC11c2lhLWluaS1yZWthbS1qZWphay1taWtoYWlsLWdvcmJhY2hldg==",
+        "description": " Presiden Uni Soviet yang memimpin di tahun 1985 hingga 1991, Mikhail Gorbachev, meninggal dunia Selasa, (31/8/2022). Ia wafat pada usia 91 tahun."
+    },
+    {
+        "title": "Sedih... Ini Nasib Honorer yang Masuk 'Daftar Hitam' PNS",
+        "link": "https://www.cnbcindonesia.com/news/20220831121526-4-368056/sedih-ini-nasib-honorer-yang-masuk-daftar-hitam-pns",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTEyMTUyNi00LTM2ODA1Ni9zZWRpaC1pbmktbmFzaWItaG9ub3Jlci15YW5nLW1hc3VrLWRhZnRhci1oaXRhbS1wbnM=",
+        "description": " Ada beberapa tenaga honorer yang tidak masuk dalam pendataan tenaga non-ASN yang bisa menjadi PNS"
+    },
+    {
+        "title": "Muncul Fenomena Bandara-Bandara Sepi, Ini Faktanya",
+        "link": "https://www.cnbcindonesia.com/news/20220831123455-7-368073/muncul-fenomena-bandara-bandara-sepi-ini-faktanya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTEyMzQ1NS03LTM2ODA3My9tdW5jdWwtZmVub21lbmEtYmFuZGFyYS1iYW5kYXJhLXNlcGktaW5pLWZha3Rhbnlh",
+        "description": " Saat ini muncul bandara-bandara yang terpantau sepi, justru setelah diresmikan beroperasi komersial."
+    },
+    {
+        "title": "Google Play Store Tolak Aplikasi Besutan Trump",
+        "link": "https://www.cnbcindonesia.com/news/20220831091745-8-367959/google-play-store-tolak-aplikasi-besutan-trump",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTA5MTc0NS04LTM2Nzk1OS9nb29nbGUtcGxheS1zdG9yZS10b2xhay1hcGxpa2FzaS1iZXN1dGFuLXRydW1w",
+        "description": " Aplikasi Truth Social tidak tersedia di Google Play Store"
+    },
+    {
+        "title": "Gaya Jokowi Mainkan Si Kulit Bundar di Stadion Lukas Enembe",
+        "link": "https://www.cnbcindonesia.com/news/20220831115002-7-368044/gaya-jokowi-mainkan-si-kulit-bundar-di-stadion-lukas-enembe",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTExNTAwMi03LTM2ODA0NC9nYXlhLWpva293aS1tYWlua2FuLXNpLWt1bGl0LWJ1bmRhci1kaS1zdGFkaW9uLWx1a2FzLWVuZW1iZQ==",
+        "description": " PFA merupakan sekolah bagi putra Papua dengan rentang usia 14 - 15 tahun untuk mengasah bakat dalam bidang olahraga khususnya sepak bola."
+    },
+    {
+        "title": "Muncul Pesaing Pajero-Fortuner! Lebih Canggih, Harga Segini",
+        "link": "https://www.cnbcindonesia.com/news/20220831115142-4-368041/muncul-pesaing-pajero-fortuner-lebih-canggih-harga-segini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTExNTE0Mi00LTM2ODA0MS9tdW5jdWwtcGVzYWluZy1wYWplcm8tZm9ydHVuZXItbGViaWgtY2FuZ2dpaC1oYXJnYS1zZWdpbmk=",
+        "description": " Persaingan mobil di kelas SUV memang kian ketat, yakni diperebutkan oleh Toyota Fortuner dan Mitsubishi Pajero."
+    },
+    {
         "title": "Serap Banyak Tenaga Kerja, UMKM Butuh Bantuan Modal Kerja",
         "link": "https://www.cnbcindonesia.com/news/20220831110106-8-368010/serap-banyak-tenaga-kerja-umkm-butuh-bantuan-modal-kerja",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTExMzY1Mi00LTM2ODAzMi9hZGEtYXZhbnphLXhwYW5kZXItaW5pLWRhZnRhci1tb2JpbC1oYXJnYS0yMDAtanV0YWFuLXRlcmJhcnU=",
         "description": " Pilihan mobil di harga Rp 200 jutaan sangat banyak, bahkan menjadi yang yang paling gemuk di pasar otomotif di Indonesia."
-    },
-    {
-        "title": "Jelang BBM Naik, Antrean Kendaraan SPBU Juga Terjadi di Bali",
-        "link": "https://www.cnbcindonesia.com/news/20220831102652-7-367991/jelang-bbm-naik-antrean-kendaraan-spbu-juga-terjadi-di-bali",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTEwMjY1Mi03LTM2Nzk5MS9qZWxhbmctYmJtLW5haWstYW50cmVhbi1rZW5kYXJhYW4tc3BidS1qdWdhLXRlcmphZGktZGktYmFsaQ==",
-        "description": " Pemerintah diminta segera menerapkan skema pembatasan pembelian Bahan Bakar Minyak (BBM) khususnya BBM jenis Pertalite dan Solar Subsidi."
-    },
-    {
-        "title": "Profil Gautam Adani: Pria Asia Terkaya ke-3 Dunia, DO Sekolah",
-        "link": "https://www.cnbcindonesia.com/news/20220831113337-4-368030/profil-gautam-adani-pria-asia-terkaya-ke-3-dunia-do-sekolah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTExMzMzNy00LTM2ODAzMC9wcm9maWwtZ2F1dGFtLWFkYW5pLXByaWEtYXNpYS10ZXJrYXlhLWtlLTMtZHVuaWEtZG8tc2Vrb2xhaA==",
-        "description": " Miliuner terkaya asal India, Gautam Adani, berhasil menempati jajaran tiga besar orang terkaya dunia. Bahkan, harta kekayaannya telah menyalip Bill Gates."
-    },
-    {
-        "title": "Bansos Jokowi, Cukup Jadi Bantalan Efek Kenaikan Harga BBM?",
-        "link": "https://www.cnbcindonesia.com/news/20220831093525-8-367970/bansos-jokowi-cukup-jadi-bantalan-efek-kenaikan-harga-bbm",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTA5MzUyNS04LTM2Nzk3MC9iYW5zb3Mtam9rb3dpLWN1a3VwLWphZGktYmFudGFsYW4tZWZlay1rZW5haWthbi1oYXJnYS1iYm0=",
-        "description": " Bansos Jokowi, Cukup Jadi Bantalan Efek Kenaikan Harga BBM?"
-    },
-    {
-        "title": "BI Tunggu Jokowi Soal Kepastian Harga BBM",
-        "link": "https://www.cnbcindonesia.com/news/20220831115354-4-368043/bi-tunggu-jokowi-soal-kepastian-harga-bbm",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTExNTM1NC00LTM2ODA0My9iaS10dW5nZ3Utam9rb3dpLXNvYWwta2VwYXN0aWFuLWhhcmdhLWJibQ==",
-        "description": " Bank Indonesia (BI) menanti keputusan Presiden Joko Widodo (Jokowi) terkait harga bahan bakar minyak (BBM)."
-    },
-    {
-        "title": "Eks Jenderal Rusia: Rudal Putin Bisa Akhiri Kerajaan Inggris",
-        "link": "https://www.cnbcindonesia.com/news/20220831113047-4-368027/eks-jenderal-rusia-rudal-putin-bisa-akhiri-kerajaan-inggris",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTExMzA0Ny00LTM2ODAyNy9la3MtamVuZGVyYWwtcnVzaWEtcnVkYWwtcHV0aW4tYmlzYS1ha2hpcmkta2VyYWphYW4taW5nZ3Jpcw==",
-        "description": " Sistem persenjataan Rusia diyakini mampu mengakhiri kerajaan Inggris dalam sekejap."
-    },
-    {
-        "title": "Mentan Was-was 2023 Bukan Gelap Biasa, Krisis Kian Beringas?",
-        "link": "https://www.cnbcindonesia.com/news/20220831111904-4-368021/mentan-was-was-2023-bukan-gelap-biasa-krisis-kian-beringas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTExMTkwNC00LTM2ODAyMS9tZW50YW4td2FzLXdhcy0yMDIzLWJ1a2FuLWdlbGFwLWJpYXNhLWtyaXNpcy1raWFuLWJlcmluZ2Fz",
-        "description": " Menteri Pertanian (Mentan) Syahrul Yasin Limpo mengatakan, tantangan pertanian ke depan tidak ringan."
     }
 ]
