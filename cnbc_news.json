@@ -1,5 +1,33 @@
 [
     {
+        "title": "Gorden Sampai Kalender, Tender DPR Bikin Heboh se-Indonesia!",
+        "link": "https://www.cnbcindonesia.com/news/20220831072711-4-367926/gorden-sampai-kalender-tender-dpr-bikin-heboh-se-indonesia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTA3MjcxMS00LTM2NzkyNi9nb3JkZW4tc2FtcGFpLWthbGVuZGVyLXRlbmRlci1kcHItYmlraW4taGVib2gtc2UtaW5kb25lc2lh",
+        "description": " Dewan Perwakilan Rakyat (DPR) lagi lagi membuat heboh."
+    },
+    {
+        "title": "Pensiunan PNS Bisa Loh Dapat Rp1 M, Kapan Realisasinya?",
+        "link": "https://www.cnbcindonesia.com/news/20220831071256-4-367925/pensiunan-pns-bisa-loh-dapat-rp1-m-kapan-realisasinya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTA3MTI1Ni00LTM2NzkyNS9wZW5zaXVuYW4tcG5zLWJpc2EtbG9oLWRhcGF0LXJwMS1tLWthcGFuLXJlYWxpc2FzaW55YQ==",
+        "description": " Kementerian Keuangan mengungkapkan sampai saat ini masih belum bisa menerapkan skema iuran pasti."
+    },
+    {
+        "title": "Jokowi Bagi-bagi Uang Rp24 T, Jangan Sampai Gak Kebagian!",
+        "link": "https://www.cnbcindonesia.com/news/20220831074906-4-367932/jokowi-bagi-bagi-uang-rp24-t-jangan-sampai-gak-kebagian",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTA3NDkwNi00LTM2NzkzMi9qb2tvd2ktYmFnaS1iYWdpLXVhbmctcnAyNC10LWphbmdhbi1zYW1wYWktZ2FrLWtlYmFnaWFu",
+        "description": " Presiden Joko Widodo (Jokowi) menggelontorkan dana sebesar Rp 24,17 triliun untuk masyarakat yang membutuhkan."
+    },
+    {
+        "title": "Ampun! Putin Makin Beringas, Rusia Kini \"Gebuk\" Prancis",
+        "link": "https://www.cnbcindonesia.com/news/20220831073950-4-367928/ampun-putin-makin-beringas-rusia-kini-gebuk-prancis",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTA3Mzk1MC00LTM2NzkyOC9hbXB1bi1wdXRpbi1tYWtpbi1iZXJpbmdhcy1ydXNpYS1raW5pLWdlYnVrLXByYW5jaXM=",
+        "description": " Rusia makin beringas ke Eropa. Korban terbarunya adalah Prancis."
+    },
+    {
         "title": "Bill Gates Kalah, Ini Pria Asia Orang Terkaya ke-3 Dunia",
         "link": "https://www.cnbcindonesia.com/news/20220831075520-4-367934/bill-gates-kalah-ini-pria-asia-orang-terkaya-ke-3-dunia",
         "image": "static/images/cnbc_news.png",
@@ -7,10 +35,10 @@
         "description": " Untuk pertama kalinya, warga Asia masuk ke jajaran 3 besar orang terkaya dunia. Ia adalah Gautam Adani."
     },
     {
-        "title": "Inggris Makin Ngeri, Data Ini Tunjukan Krisis Makin Jadi",
-        "link": "https://www.cnbcindonesia.com/news/20220831071031-4-367924/inggris-makin-ngeri-data-ini-tunjukan-krisis-makin-jadi",
+        "title": "Inggris Makin Ngeri, Data Ini Tunjukkan Krisis Makin Jadi",
+        "link": "https://www.cnbcindonesia.com/news/20220831071031-4-367924/inggris-makin-ngeri-data-ini-tunjukkan-krisis-makin-jadi",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTA3MTAzMS00LTM2NzkyNC9pbmdncmlzLW1ha2luLW5nZXJpLWRhdGEtaW5pLXR1bmp1a2FuLWtyaXNpcy1tYWtpbi1qYWRp",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTA3MTAzMS00LTM2NzkyNC9pbmdncmlzLW1ha2luLW5nZXJpLWRhdGEtaW5pLXR1bmp1a2thbi1rcmlzaXMtbWFraW4tamFkaQ==",
         "description": " Krisis biaya hidup yang terjadi di Inggris diprediksi semakin parah. Ini datanya."
     },
     {
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTA2MjI0NS00LTM2NzkxNy9iZWdpbmktanVydXMtdG90YWwtZm9vdGJhbGwtYWxhLXp1bGhhcy1rZW5kYWxpa2FuLWluZmxhc2k=",
         "description": " \u00c2\u00a0Menteri Perdagangan mengatakan, pemerintah fokus mengendalikan inflasi, terutama dengan menjaga kenaikan harga-harga bahan pangan pokok."
-    },
-    {
-        "title": "Pejuang KPR! Suku Bunga BI Bisa 4,50% Gara-Gara BBM Naik",
-        "link": "https://www.cnbcindonesia.com/news/20220831055100-4-367913/pejuang-kpr-suku-bunga-bi-bisa-450-gara-gara-bbm-naik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTA1NTEwMC00LTM2NzkxMy9wZWp1YW5nLWtwci1zdWt1LWJ1bmdhLWJpLWJpc2EtNDUwLWdhcmEtZ2FyYS1iYm0tbmFpaw==",
-        "description": " Kenaikan harga BBM yang\u00c2\u00a0mendorong inflasi ke tingkat yang lebih tinggi diperkirakan akan membuat suku bunga BI naik ke 4,50% tahun ini."
-    },
-    {
-        "title": "Pak Jokowi, Bansos BBM Rp 24 T Kurang Nih!",
-        "link": "https://www.cnbcindonesia.com/news/20220831054638-4-367912/pak-jokowi-bansos-bbm-rp-24-t-kurang-nih",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTA1NDYzOC00LTM2NzkxMi9wYWstam9rb3dpLWJhbnNvcy1iYm0tcnAtMjQtdC1rdXJhbmctbmlo",
-        "description": " Bansos\u00c2\u00a0Rp 24,17 triliun yang disediakan oleh Presiden Joko Widodo dinilai terlalu kecil untuk meredam dampak kenaikan BBM."
-    },
-    {
-        "title": "Miris! Sepertiga Pendapatan Negara Dibakar untuk Subsidi BBM",
-        "link": "https://www.cnbcindonesia.com/news/20220831054127-4-367911/miris-sepertiga-pendapatan-negara-dibakar-untuk-subsidi-bbm",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTA1NDEyNy00LTM2NzkxMS9taXJpcy1zZXBlcnRpZ2EtcGVuZGFwYXRhbi1uZWdhcmEtZGliYWthci11bnR1ay1zdWJzaWRpLWJibQ==",
-        "description": " Penerimaan pajak kita sekitar Rp2.000 triliun dan sekitar sepertiganya dihabiskan untuk subsidi BBM."
-    },
-    {
-        "title": "Mulus! Presiden China Xi Jinping Bakal Terpilih 3 Periode",
-        "link": "https://www.cnbcindonesia.com/news/20220830194741-4-367903/mulus-presiden-china-xi-jinping-bakal-terpilih-3-periode",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMDE5NDc0MS00LTM2NzkwMy9tdWx1cy1wcmVzaWRlbi1jaGluYS14aS1qaW5waW5nLWJha2FsLXRlcnBpbGloLTMtcGVyaW9kZQ==",
-        "description": " Partai Komunis China yang berkuasa akan memulai Kongres Partai ke-20 pada 16 Oktober mendatang."
     }
 ]
