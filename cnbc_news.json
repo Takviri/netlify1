@@ -1,5 +1,26 @@
 [
     {
+        "title": "Pembangunan Rusun Pemerintah 2023 Turun 31%, Ini Sebabnya",
+        "link": "https://www.cnbcindonesia.com/news/20220831190727-4-368254/pembangunan-rusun-pemerintah-2023-turun-31-ini-sebabnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE5MDcyNy00LTM2ODI1NC9wZW1iYW5ndW5hbi1ydXN1bi1wZW1lcmludGFoLTIwMjMtdHVydW4tMzEtaW5pLXNlYmFibnlh",
+        "description": " Program pemerintah untuk pembangunan rumah susun berkurang signifikan pada tahun 2023."
+    },
+    {
+        "title": "Harga BBM Naik Setelah Bansos Disebar, Pak Jokowi?",
+        "link": "https://www.cnbcindonesia.com/news/20220831164651-16-368191/harga-bbm-naik-setelah-bansos-disebar-pak-jokowi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE2NDY1MS0xNi0zNjgxOTEvaGFyZ2EtYmJtLW5haWstc2V0ZWxhaC1iYW5zb3MtZGlzZWJhci1wYWstam9rb3dp",
+        "description": " Bansos mulai disebar pemerintah. Apakah ini pertanda harga BBM naik?"
+    },
+    {
+        "title": "Dari Gorden sampai Kalender, Ini Tender Tak Masuk Akal DPR",
+        "link": "https://www.cnbcindonesia.com/news/20220831173448-16-368213/dari-gorden-sampai-kalender-ini-tender-tak-masuk-akal-dpr",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE3MzQ0OC0xNi0zNjgyMTMvZGFyaS1nb3JkZW4tc2FtcGFpLWthbGVuZGVyLWluaS10ZW5kZXItdGFrLW1hc3VrLWFrYWwtZHBy",
+        "description": " Saat negara lagi kesulitan menghadapi besarnya kebutuhan untuk subsidi bahan bakar minyak (BBM), DPR malah memikirkan pengadaan tak masuk akal."
+    },
+    {
         "title": "Fenomena Orang Ngeluh Beli Apartemen, Inikah Sebabnya?",
         "link": "https://www.cnbcindonesia.com/news/20220831185311-4-368248/fenomena-orang-ngeluh-beli-apartemen-inikah-sebabnya",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE3NDg0My00LTM2ODIyOS9kZXRpay1kZXRpay1iYm0tc3Vic2lkaS1uYWlrLWFwYS1ydW1haC1zdWJzaWRpLWlrdXQtbmFpaw==",
         "description": " Aturan mengenai penyesuaian harga rumah subsidi masih digodok pemerintah."
-    },
-    {
-        "title": "Breaking: Pertumbuhan Ekonomi India Meroket 13,5%!",
-        "link": "https://www.cnbcindonesia.com/news/20220831192436-4-368264/breaking-pertumbuhan-ekonomi-india-meroket-135",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE5MjQzNi00LTM2ODI2NC9icmVha2luZy1wZXJ0dW1idWhhbi1la29ub21pLWluZGlhLW1lcm9rZXQtMTM1",
-        "description": " Pertumbuhan produk domestik bruto (PDB) India melesat 13,5% secara tahunan (year-on-year/yoy) pada kuartal II-2022."
-    },
-    {
-        "title": "HUT Ke-65, Malaysia Kembali Gelar Pawai",
-        "link": "https://www.cnbcindonesia.com/news/20220831183415-8-368227/hut-ke-65-malaysia-kembali-gelar-pawai",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE4MzQxNS04LTM2ODIyNy9odXQta2UtNjUtbWFsYXlzaWEta2VtYmFsaS1nZWxhci1wYXdhaQ==",
-        "description": " Malaysia merayakan hari nasionalnya yang ke 65 Tahun dengan parade melalui lapangan merdeka di ibu kota"
-    },
-    {
-        "title": "Rusia Bikin Uni Eropa Galau hingga Terpecah, Ini Buktinya",
-        "link": "https://www.cnbcindonesia.com/news/20220831181154-4-368221/rusia-bikin-uni-eropa-galau-hingga-terpecah-ini-buktinya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE4MTE1NC00LTM2ODIyMS9ydXNpYS1iaWtpbi11bmktZXJvcGEtZ2FsYXUtaGluZ2dhLXRlcnBlY2FoLWluaS1idWt0aW55YQ==",
-        "description": " Uni Eropa\u00c2\u00a0mendesak negara-negara yang berselisih untuk segera menyelesaikan perbedaan pendapat dalam membatasi perjalanan bagi warga Rusia."
     }
 ]
