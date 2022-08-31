@@ -1,5 +1,47 @@
 [
     {
+        "title": "Breaking: Inflasi Zona Euro Pecah Rekor Lagi, Capai 9,1%!",
+        "link": "https://www.cnbcindonesia.com/news/20220831162345-4-368181/breaking-inflasi-zona-euro-pecah-rekor-lagi-capai-91",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE2MjM0NS00LTM2ODE4MS9icmVha2luZy1pbmZsYXNpLXpvbmEtZXVyby1wZWNhaC1yZWtvci1sYWdpLWNhcGFpLTkx",
+        "description": " Inflasi zona Euro kembali mengukir rekor baru sebesar 9,1% pada Agustus 2022 secara tahunan (year-on-year/yoy)."
+    },
+    {
+        "title": "Tok! Sri Mulyani dan DPR Sepakati Asumsi Makro 2023",
+        "link": "https://www.cnbcindonesia.com/news/20220831161900-4-368180/tok-sri-mulyani-dan-dpr-sepakati-asumsi-makro-2023",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE2MTkwMC00LTM2ODE4MC90b2stc3JpLW11bHlhbmktZGFuLWRwci1zZXBha2F0aS1hc3Vtc2ktbWFrcm8tMjAyMw==",
+        "description": " Pemerintah, Bank Indonesia (BI) dan Komisi XI DPR RI akhirnya menyepakati angka-angka asumsi makro hari ini, Rabu (31/8/2022)."
+    },
+    {
+        "title": "Harga BBM Pertalite Bersiap Naik Besok? Ini Kata Luhut..",
+        "link": "https://www.cnbcindonesia.com/news/20220831160621-4-368176/harga-bbm-pertalite-bersiap-naik-besok-ini-kata-luhut",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE2MDYyMS00LTM2ODE3Ni9oYXJnYS1iYm0tcGVydGFsaXRlLWJlcnNpYXAtbmFpay1iZXNvay1pbmkta2F0YS1sdWh1dA==",
+        "description": " Keputusan kenaikan harga BBm Pertalite dan Solar Subsidi ada di tangan Presiden Jokowi"
+    },
+    {
+        "title": "Demi Industri Hijau, PLN Serahkan 800 Unit REC Ke Danone",
+        "link": "https://www.cnbcindonesia.com/news/20220831155530-4-368173/demi-industri-hijau-pln-serahkan-800-unit-rec-ke-danone",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE1NTUzMC00LTM2ODE3My9kZW1pLWluZHVzdHJpLWhpamF1LXBsbi1zZXJhaGthbi04MDAtdW5pdC1yZWMta2UtZGFub25l",
+        "description": " PT PLN (Persero) menyatakan dukungannya pada PT Tirta Investama (Danone Indonesia) untuk menjadi industri hijau yang menggunakan energi bersih."
+    },
+    {
+        "title": "Lancarkan Serangan Balik, Ukraina Mulai Usir Pasukan Rusia",
+        "link": "https://www.cnbcindonesia.com/news/20220831144704-4-368140/lancarkan-serangan-balik-ukraina-mulai-usir-pasukan-rusia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE0NDcwNC00LTM2ODE0MC9sYW5jYXJrYW4tc2VyYW5nYW4tYmFsaWstdWtyYWluYS1tdWxhaS11c2lyLXBhc3VrYW4tcnVzaWE=",
+        "description": " Pasukan Ukraina terus membuat kemajuan sejak memutuskan untuk menyerang balik Rusia di wilayah selatan."
+    },
+    {
+        "title": "Harga Pertalite Naik, Masih Perlukah Daftar MyPertamina?",
+        "link": "https://www.cnbcindonesia.com/news/20220831150412-4-368146/harga-pertalite-naik-masih-perlukah-daftar-mypertamina",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE1MDQxMi00LTM2ODE0Ni9oYXJnYS1wZXJ0YWxpdGUtbmFpay1tYXNpaC1wZXJsdWthaC1kYWZ0YXItbXlwZXJ0YW1pbmE=",
+        "description": " Pembatasan Pertlite dan Solar Subsidi masih diperlukan"
+    },
+    {
         "title": "Investasi Properti Untung atau Buntung? Begini Penjelasannya",
         "link": "https://www.cnbcindonesia.com/news/20220831145959-4-368152/investasi-properti-untung-atau-buntung-begini-penjelasannya",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE1NDE1MC00LTM2ODE3MS9kaXBlcnNlbXBpdC1tb2JpbC15YW5nLWJvbGVoLWlzaS1wZXJ0YWxpdGUtaGFueWEtMTQwMC1jYw==",
         "description": " BPH Migas menegaskan mobil yang boleh isi Pertalite hanya sampai 1.400 cc dan motor 250 cc"
-    },
-    {
-        "title": "Ramalan Seram Sri Mulyani di 2023, Bisa Menyakitkan Bagi RI",
-        "link": "https://www.cnbcindonesia.com/news/20220831143217-4-368132/ramalan-seram-sri-mulyani-di-2023-bisa-menyakitkan-bagi-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE0MzIxNy00LTM2ODEzMi9yYW1hbGFuLXNlcmFtLXNyaS1tdWx5YW5pLWRpLTIwMjMtYmlzYS1tZW55YWtpdGthbi1iYWdpLXJp",
-        "description": " Bank sentral di negara maju yang akan terus menaikan suku bunga atau hawkish pada 2023."
-    },
-    {
-        "title": "Jangan Senang Dulu! Tak Semua Honorer Terdaftar Bisa Jadi PNS",
-        "link": "https://www.cnbcindonesia.com/news/20220831141703-4-368120/jangan-senang-dulu-tak-semua-honorer-terdaftar-bisa-jadi-pns",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE0MTcwMy00LTM2ODEyMC9qYW5nYW4tc2VuYW5nLWR1bHUtdGFrLXNlbXVhLWhvbm9yZXItdGVyZGFmdGFyLWJpc2EtamFkaS1wbnM=",
-        "description": " Pemerintah memastikan tidak semua honorer yang didata pemerintah bisa begitu saja diangkat menjadi PNS"
-    },
-    {
-        "title": "Ini Sijori, Proyek Ambisi Satukan Singapura-Johor-Batam!",
-        "link": "https://www.cnbcindonesia.com/news/20220831152506-4-368160/ini-sijori-proyek-ambisi-satukan-singapura-johor-batam",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE1MjUwNi00LTM2ODE2MC9pbmktc2lqb3JpLXByb3llay1hbWJpc2ktc2F0dWthbi1zaW5nYXB1cmEtam9ob3ItYmF0YW0=",
-        "description": " Pemerintah Indonesia serius untuk mendorong konektivitas area Sijori (Singapura, Johor, dan Kepulauan Riau)."
-    },
-    {
-        "title": "Eropa Makin Horor! Krisis Energi Biang Kerok Inflasi Meninggi",
-        "link": "https://www.cnbcindonesia.com/news/20220831134127-4-368104/eropa-makin-horor-krisis-energi-biang-kerok-inflasi-meninggi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTEzNDEyNy00LTM2ODEwNC9lcm9wYS1tYWtpbi1ob3Jvci1rcmlzaXMtZW5lcmdpLWJpYW5nLWtlcm9rLWluZmxhc2ktbWVuaW5nZ2k=",
-        "description": " Zona Eropa semakin tertekan akibat krisis energi, inflasi yang kian meninggi, hingga kenaikan suku bunga."
-    },
-    {
-        "title": "Bacaan Sri Mulyani Soal Pernyataan The Fed, RI Bisa Untung",
-        "link": "https://www.cnbcindonesia.com/news/20220831151501-4-368150/bacaan-sri-mulyani-soal-pernyataan-the-fed-ri-bisa-untung",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE1MTUwMS00LTM2ODE1MC9iYWNhYW4tc3JpLW11bHlhbmktc29hbC1wZXJueWF0YWFuLXRoZS1mZWQtcmktYmlzYS11bnR1bmc=",
-        "description": " Menteri Keuangan Sri Mulyani mengungkapkan pihaknya menetapkan asumsi inflasi dengan mengacu pernyataan Gubernur Federal Reserve Jerome Powell."
-    },
-    {
-        "title": "Mengenang Mikhail Gorbachev, \"Bapak\" Runtuhnya Uni Soviet",
-        "link": "https://www.cnbcindonesia.com/news/20220831134046-4-368099/mengenang-mikhail-gorbachev-bapak-runtuhnya-uni-soviet",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTEzNDA0Ni00LTM2ODA5OS9tZW5nZW5hbmctbWlraGFpbC1nb3JiYWNoZXYtYmFwYWstcnVudHVobnlhLXVuaS1zb3ZpZXQ=",
-        "description": " Mantan Presiden terakhir era Uni Soviet, Mikhail Gorbachev tutup usia pada umurnya ke-91 pada Selasa (30/8/2022)."
     }
 ]
