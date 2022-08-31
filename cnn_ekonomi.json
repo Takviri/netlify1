@@ -1,5 +1,33 @@
 [
     {
+        "title": "Waskita Karya Realty Rombak Direksi dan Komisaris",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220831142949-92-841421/waskita-karya-realty-rombak-direksi-dan-komisaris",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMxMTQyOTQ5LTkyLTg0MTQyMS93YXNraXRhLWthcnlhLXJlYWx0eS1yb21iYWstZGlyZWtzaS1kYW4ta29taXNhcmlz",
+        "description": " PT Waskita Karya Realty (WSKR) merombak jajaran direksi dan komisaris pada Jumat (19/8) lalu."
+    },
+    {
+        "title": "Mengintip Besaran Santunan Korban Kecelakaan Maut di Bekasi",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220831171639-78-841531/mengintip-besaran-santunan-korban-kecelakaan-maut-di-bekasi",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMxMTcxNjM5LTc4LTg0MTUzMS9tZW5naW50aXAtYmVzYXJhbi1zYW50dW5hbi1rb3JiYW4ta2VjZWxha2Fhbi1tYXV0LWRpLWJla2FzaQ==",
+        "description": " PT Jasa Raharja akan memberikan santunan terhadap korban kecelakaan maut yang terjadi di Bekasi, Rabu (31/8)."
+    },
+    {
+        "title": "Lewat BPJamsostek, Bank Jatim Beri Perlindungan 22.000 Pekerja Rentan",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220831172428-104-841539/lewat-bpjamsostek-bank-jatim-beri-perlindungan-22000-pekerja-rentan",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMxMTcyNDI4LTEwNC04NDE1MzkvbGV3YXQtYnBqYW1zb3N0ZWstYmFuay1qYXRpbS1iZXJpLXBlcmxpbmR1bmdhbi0yMjAwMC1wZWtlcmphLXJlbnRhbg==",
+        "description": " Pemberian bantuan ini merupakan komitmen Bank Jatim dalam mewujudkan kesejahteraan bagi tenaga keagamaan khususnya yang berada di lingkungan masjid."
+    },
+    {
+        "title": "Erick Thohir Angkat Wakil Sekretaris Kabinet Jadi Komisaris BNI",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220831171113-92-841527/erick-thohir-angkat-wakil-sekretaris-kabinet-jadi-komisaris-bni",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMxMTcxMTEzLTkyLTg0MTUyNy9lcmljay10aG9oaXItYW5na2F0LXdha2lsLXNla3JldGFyaXMta2FiaW5ldC1qYWRpLWtvbWlzYXJpcy1ibmk=",
+        "description": " Menteri BUMN Erick Thohir mengangkat Wakil Sekretaris Kabinet Fadlansyah Lubis sebagai komisaris\u00c2\u00a0BNI."
+    },
+    {
         "title": "Taiwan Borong 16 Pesawat Boeing Rp68,25 T Saat Tegang dengan China",
         "link": "https://www.cnnindonesia.com/ekonomi/20220831115337-92-841298/taiwan-borong-16-pesawat-boeing-rp6825-t-saat-tegang-dengan-china",
         "image": "static/images/cnn_ekonomi.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMxMTU0NzEyLTc4LTg0MTQ3Mi9ydXBpYWgtbWFuZGVrLWRpLXBvc2lzaS1ycDE0ODI0LXBlci1kb2xhci1hcw==",
         "description": " Rupiah menguat tipis ke posisi Rp14.842 per dolar AS pada Rabu (31/8), angkanya persis alias stagnan dari pagi hari tadi."
-    },
-    {
-        "title": "DPR Kritik Program Tanam Sorgum Jokowi",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220831132037-92-841349/dpr-kritik-program-tanam-sorgum-jokowi",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMxMTMyMDM3LTkyLTg0MTM0OS9kcHIta3JpdGlrLXByb2dyYW0tdGFuYW0tc29yZ3VtLWpva293aQ==",
-        "description": " DPR mengkritisi program pengembangan sorgum untuk menggantikan gandum yang dilakukan Jokowi. Mereka\u00c2\u00a0mengatakan sorgum tak bisa gantikan gandum 100 persen."
-    },
-    {
-        "title": "IHSG Perkasa di 7.178 Pada Akhir Agustus",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220831145421-92-841439/ihsg-perkasa-di-7178-pada-akhir-agustus",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMxMTQ1NDIxLTkyLTg0MTQzOS9paHNnLXBlcmthc2EtZGktNzE3OC1wYWRhLWFraGlyLWFndXN0dXM=",
-        "description": " Indeks Harga Saham Gabungan (IHSG)\u00c2\u00a0ditutup di level 7.178\u00c2\u00a0ditutup di level 7.178 pada hari ini, menguat 19,11 poin atau 0,27 persen dibandingkan Selasa (30/8)."
-    },
-    {
-        "title": "BI Tarik Rupiah  Pecahan Rp300 Ribu dan Rp850 Ribu dari Peredaran",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220831140624-78-841405/bi-tarik-rupiah-pecahan-rp300-ribu-dan-rp850-ribu-dari-peredaran",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMxMTQwNjI0LTc4LTg0MTQwNS9iaS10YXJpay1ydXBpYWgtcGVjYWhhbi1ycDMwMC1yaWJ1LWRhbi1ycDg1MC1yaWJ1LWRhcmktcGVyZWRhcmFu",
-        "description": " Bank Indonesia menarik\u00c2\u00a0rupiah khusus peringatan 50 tahun kemerdekaan RI pecahan Rp300 ribu dan Rp850 ribu emisi 1995 sejak 30 Agustus 2022."
-    },
-    {
-        "title": "Harga Telur di Jakarta Masih Nangkring di Atas Rp31 Ribu per Kg",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220831141223-92-841407/harga-telur-di-jakarta-masih-nangkring-di-atas-rp31-ribu-per-kg",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMxMTQxMjIzLTkyLTg0MTQwNy9oYXJnYS10ZWx1ci1kaS1qYWthcnRhLW1hc2loLW5hbmdrcmluZy1kaS1hdGFzLXJwMzEtcmlidS1wZXIta2c=",
-        "description": " Harga telur di Jakarta masih di atas Rp31 ribu per kg meski beberapa hari ini cenderung turun."
     }
 ]
