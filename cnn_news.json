@@ -1,5 +1,19 @@
 [
     {
+        "title": "TNI AD: Pekerja Proyek di Intan Jaya Papua Tewas Ditembak KKB",
+        "link": "https://www.cnnindonesia.com/nasional/20220831094344-12-841235/tni-ad-pekerja-proyek-di-intan-jaya-papua-tewas-ditembak-kkb",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMTA5NDM0NC0xMi04NDEyMzUvdG5pLWFkLXBla2VyamEtcHJveWVrLWRpLWludGFuLWpheWEtcGFwdWEtdGV3YXMtZGl0ZW1iYWsta2ti",
+        "description": " TNI AD klaim Kelompok Kriminal Bersenjata (KKB) menembak mati seorang warga di Kp. Mamba, Distrik Sugapa Kabupaten Intan Jaya, Papua."
+    },
+    {
+        "title": "Ferdy Sambo ke Brigadir J Sebelum Ditembak: Kamu Tega Sekali Sama Saya",
+        "link": "https://www.cnnindonesia.com/nasional/20220831083602-12-841203/ferdy-sambo-ke-brigadir-j-sebelum-ditembak-kamu-tega-sekali-sama-saya",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMTA4MzYwMi0xMi04NDEyMDMvZmVyZHktc2FtYm8ta2UtYnJpZ2FkaXItai1zZWJlbHVtLWRpdGVtYmFrLWthbXUtdGVnYS1zZWthbGktc2FtYS1zYXlh",
+        "description": " Rekonstruksi adegan pembunuhan berencana terhadap Brigadir J oleh Irjen Ferdy Sambo mengungkap sejumlah keterangan baru."
+    },
+    {
         "title": "Jokowi: Pemekaran Papua Kemauan Rakyat, Pro Kontra Itu Demokrasi",
         "link": "https://www.cnnindonesia.com/nasional/20220831090555-32-841224/jokowi-pemekaran-papua-kemauan-rakyat-pro-kontra-itu-demokrasi",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMTA3MjkwNi0xMi04NDExODEvcmVsYXdhbi1wZGlwLXRpcHUtMTMwMC13YXJnYS1udHQtc29hbC1ydW1haC1rdXRpcC0yMDAtcmlidS1wZXItb3Jhbmc=",
         "description": " Sekitar 1.300 orang beramai-ramai mendaftar program bantuan rumah layak huni di NTT dengan menyetor Rp200 ribu.\u00c2\u00a0Rupanya ribuan warga itu kena tipu."
-    },
-    {
-        "title": "Misteri Peristiwa Magelang usai Rekonstruksi Pembunuhan Brigadir J",
-        "link": "https://www.cnnindonesia.com/nasional/20220831064457-12-841167/misteri-peristiwa-magelang-usai-rekonstruksi-pembunuhan-brigadir-j",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMTA2NDQ1Ny0xMi04NDExNjcvbWlzdGVyaS1wZXJpc3Rpd2EtbWFnZWxhbmctdXNhaS1yZWtvbnN0cnVrc2ktcGVtYnVudWhhbi1icmlnYWRpci1q",
-        "description": " Dari proses reka ulang adegan pembunuhan Brigadir yang berlangsung 7,5 jam itu, masih belum diketahui secara pasti peristiwa apa yang terjadi di Magelang."
-    },
-    {
-        "title": "Istri Sambo Akan Dikonfrontir dengan Bharada E hingga Kuat Ma'ruf",
-        "link": "https://www.cnnindonesia.com/nasional/20220807134326-12-831349/istri-sambo-akan-dikonfrontir-dengan-bharada-e-hingga-kuat-maruf",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgwNzEzNDMyNi0xMi04MzEzNDkvaXN0cmktc2FtYm8tYWthbi1kaWtvbmZyb250aXItZGVuZ2FuLWJoYXJhZGEtZS1oaW5nZ2Eta3VhdC1tYXJ1Zg==",
-        "description": " Istri mantan Kadiv Propam Polri Irjen Ferdy Sambo, Putri Candrawathi akan kembali diperiksa sebagai tersangka pembunuhan Brigadir J."
     }
 ]
