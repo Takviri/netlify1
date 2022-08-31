@@ -1,10 +1,45 @@
 [
     {
+        "title": "RCEP Disahkan, Pengusaha Masih Keluhkan Biaya Logistik Mahal",
+        "link": "https://www.cnbcindonesia.com/news/20220831113451-8-368029/rcep-disahkan-pengusaha-masih-keluhkan-biaya-logistik-mahal",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTExMzQ1MS04LTM2ODAyOS9yY2VwLWRpc2Foa2FuLXBlbmd1c2FoYS1tYXNpaC1rZWx1aGthbi1iaWF5YS1sb2dpc3Rpay1tYWhhbA==",
+        "description": " Saat RCEP Disahkan, Pengusaha Masih Keluhkan Biaya Logistik Mahal"
+    },
+    {
+        "title": "Detik-detik BBM Naik, Jokowi Blusukan ke Kantor Pos! Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220831130653-4-368090/detik-detik-bbm-naik-jokowi-blusukan-ke-kantor-pos-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTEzMDY1My00LTM2ODA5MC9kZXRpay1kZXRpay1iYm0tbmFpay1qb2tvd2ktYmx1c3VrYW4ta2Uta2FudG9yLXBvcy1hZGEtYXBh",
+        "description": " Jokowi blusukan ke kantor Pos mengecek penyaluran bantuan langsung tunai (BLT) BBM"
+    },
+    {
+        "title": "Kabar Baik! PNS Malaysia Naik Gaji, Segini Besarannya",
+        "link": "https://www.cnbcindonesia.com/news/20220831100813-4-367986/kabar-baik-pns-malaysia-naik-gaji-segini-besarannya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTEwMDgxMy00LTM2Nzk4Ni9rYWJhci1iYWlrLXBucy1tYWxheXNpYS1uYWlrLWdhamktc2VnaW5pLWJlc2FyYW5ueWE=",
+        "description": " Kabar baik diumumkan untuk PNS Malaysia. Perdana Menteri Datuk Seri Ismail Sabri Yaakob mengumumkan kenaikan gaji dan tunjangan, Selasa."
+    },
+    {
+        "title": "Bos Pertamina: Transisi Energi Takkan Korbankan Energi Fosil",
+        "link": "https://www.cnbcindonesia.com/news/20220831112544-4-368024/bos-pertamina-transisi-energi-takkan-korbankan-energi-fosil",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTExMjU0NC00LTM2ODAyNC9ib3MtcGVydGFtaW5hLXRyYW5zaXNpLWVuZXJnaS10YWtrYW4ta29yYmFua2FuLWVuZXJnaS1mb3NpbA==",
+        "description": " Direktur Utama PT Pertamina (Persero) Nicke Widyawati mengatakan dalam menuju target net zero tidak harus mengorbankan energi fosil."
+    },
+    {
         "title": "Tutup Usia, Ini Rekam Jejak Mikhail Gorbachev",
         "link": "https://www.cnbcindonesia.com/news/20220831121722-7-368057/tutup-usia-ini-rekam-jejak-mikhail-gorbachev",
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTEyMTcyMi03LTM2ODA1Ny90dXR1cC11c2lhLWluaS1yZWthbS1qZWphay1taWtoYWlsLWdvcmJhY2hldg==",
         "description": " Presiden Uni Soviet yang memimpin di tahun 1985 hingga 1991, Mikhail Gorbachev, meninggal dunia Selasa, (31/8/2022). Ia wafat pada usia 91 tahun."
+    },
+    {
+        "title": "Mengejutkan! Daftar Negara dengan Harga BBM Paling Terjangkau",
+        "link": "https://www.cnbcindonesia.com/news/20220831114527-4-368035/mengejutkan-daftar-negara-dengan-harga-bbm-paling-terjangkau",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTExNDUyNy00LTM2ODAzNS9tZW5nZWp1dGthbi1kYWZ0YXItbmVnYXJhLWRlbmdhbi1oYXJnYS1iYm0tcGFsaW5nLXRlcmphbmdrYXU=",
+        "description": " Isu kenaikan harga bahan bakar minyak (BBM) seperti bensin dan solar telah mengguncang perekonomian global."
     },
     {
         "title": "Sedih... Ini Nasib Honorer yang Masuk 'Daftar Hitam' PNS",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTExNTAwMi03LTM2ODA0NC9nYXlhLWpva293aS1tYWlua2FuLXNpLWt1bGl0LWJ1bmRhci1kaS1zdGFkaW9uLWx1a2FzLWVuZW1iZQ==",
         "description": " PFA merupakan sekolah bagi putra Papua dengan rentang usia 14 - 15 tahun untuk mengasah bakat dalam bidang olahraga khususnya sepak bola."
-    },
-    {
-        "title": "Muncul Pesaing Pajero-Fortuner! Lebih Canggih, Harga Segini",
-        "link": "https://www.cnbcindonesia.com/news/20220831115142-4-368041/muncul-pesaing-pajero-fortuner-lebih-canggih-harga-segini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTExNTE0Mi00LTM2ODA0MS9tdW5jdWwtcGVzYWluZy1wYWplcm8tZm9ydHVuZXItbGViaWgtY2FuZ2dpaC1oYXJnYS1zZWdpbmk=",
-        "description": " Persaingan mobil di kelas SUV memang kian ketat, yakni diperebutkan oleh Toyota Fortuner dan Mitsubishi Pajero."
-    },
-    {
-        "title": "Serap Banyak Tenaga Kerja, UMKM Butuh Bantuan Modal Kerja",
-        "link": "https://www.cnbcindonesia.com/news/20220831110106-8-368010/serap-banyak-tenaga-kerja-umkm-butuh-bantuan-modal-kerja",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTExMDEwNi04LTM2ODAxMC9zZXJhcC1iYW55YWstdGVuYWdhLWtlcmphLXVta20tYnV0dWgtYmFudHVhbi1tb2RhbC1rZXJqYQ==",
-        "description": " Serap Banyak Tenaga Kerja, UMKM Butuh Bantuan Modal Kerja"
-    },
-    {
-        "title": "Jokowi Ungkap Sosok yang Minta Pemekaraan Papua, Siapa?",
-        "link": "https://www.cnbcindonesia.com/news/20220831114802-4-368038/jokowi-ungkap-sosok-yang-minta-pemekaraan-papua-siapa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTExNDgwMi00LTM2ODAzOC9qb2tvd2ktdW5na2FwLXNvc29rLXlhbmctbWludGEtcGVtZWthcmFhbi1wYXB1YS1zaWFwYQ==",
-        "description": " Jokowi buka suara perihal keputusan pemerintah membentuk tiga provinsi baru di Papua"
-    },
-    {
-        "title": "Sempat Mangkrak, Tol Penyatu 2 Provinsi Ini Lanjut Lagi",
-        "link": "https://www.cnbcindonesia.com/news/20220831112906-4-368026/sempat-mangkrak-tol-penyatu-2-provinsi-ini-lanjut-lagi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTExMjkwNi00LTM2ODAyNi9zZW1wYXQtbWFuZ2tyYWstdG9sLXBlbnlhdHUtMi1wcm92aW5zaS1pbmktbGFuanV0LWxhZ2k=",
-        "description": " Pembangunan Tol Padang-Pekanbaru seksi 1 ruas Padang - Sicincin sepanjang 36 kilometer terus berlanjut setelah sempat mangkrak."
-    },
-    {
-        "title": "Ada Avanza-Xpander, Ini Daftar Mobil Harga 200 Jutaan Terbaru",
-        "link": "https://www.cnbcindonesia.com/news/20220831113652-4-368032/ada-avanza-xpander-ini-daftar-mobil-harga-200-jutaan-terbaru",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTExMzY1Mi00LTM2ODAzMi9hZGEtYXZhbnphLXhwYW5kZXItaW5pLWRhZnRhci1tb2JpbC1oYXJnYS0yMDAtanV0YWFuLXRlcmJhcnU=",
-        "description": " Pilihan mobil di harga Rp 200 jutaan sangat banyak, bahkan menjadi yang yang paling gemuk di pasar otomotif di Indonesia."
     }
 ]

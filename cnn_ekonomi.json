@@ -1,5 +1,19 @@
 [
     {
+        "title": "BLT Pekerja Bergaji Rp3,5 Juta Cair September",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220831123203-92-841310/blt-pekerja-bergaji-rp35-juta-cair-september",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMxMTIzMjAzLTkyLTg0MTMxMC9ibHQtcGVrZXJqYS1iZXJnYWppLXJwMzUtanV0YS1jYWlyLXNlcHRlbWJlcg==",
+        "description": " Menteri Ketenagakerjaan Ida Fauziyah menargetkan BLT bagi para pekerja bergaji Rp3,5 juta cair pada September 2022 nanti."
+    },
+    {
+        "title": "Luhut Sebut Kenaikan Harga BBM Masih Tunggu Jokowi",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220831125104-85-841328/luhut-sebut-kenaikan-harga-bbm-masih-tunggu-jokowi",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMxMTI1MTA0LTg1LTg0MTMyOC9sdWh1dC1zZWJ1dC1rZW5haWthbi1oYXJnYS1iYm0tbWFzaWgtdHVuZ2d1LWpva293aQ==",
+        "description": " Menko Luhut Binsar Panjaitan mengungkapkan kenaikan harga Bahan Bakar Minyak (BBM) subsidi masih menunggu keputusan Presiden Joko Widodo (Jokowi)."
+    },
+    {
         "title": "AS Akan Audit Alibaba dan Sejumlah Perusahaan China Mulai September",
         "link": "https://www.cnnindonesia.com/ekonomi/20220831120040-92-841294/as-akan-audit-alibaba-dan-sejumlah-perusahaan-china-mulai-september",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMTY1MzEwLTc4LTg0MDk4MC9vamstY2F0YXQtc2VjdXJpdGllcy1jcm93ZGZ1bmRpbmctaGltcHVuLXJwNTY3LW0tcGVyLWFndXN0dXM=",
         "description": " OJK mencatat total dana terhimpung pada securities crowdfunding mencapai Rp567,45 miliar per 19 Agustus 2022."
-    },
-    {
-        "title": "Rupiah Lunglai ke Rp14.854 per Dolar AS Gegara Sentimen The Fed",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220831091013-78-841226/rupiah-lunglai-ke-rp14854-per-dolar-as-gegara-sentimen-the-fed",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMxMDkxMDEzLTc4LTg0MTIyNi9ydXBpYWgtbHVuZ2xhaS1rZS1ycDE0ODU0LXBlci1kb2xhci1hcy1nZWdhcmEtc2VudGltZW4tdGhlLWZlZA==",
-        "description": " Nilai tukar rupiah melemah 0,08 persen ke Rp14.854 per dolar AS pada perdagangan Rabu (31/8) pagi."
-    },
-    {
-        "title": "Kripto Semringah, Ethereum Melambung 1,53 Persen",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220831081303-92-841191/kripto-semringah-ethereum-melambung-153-persen",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMxMDgxMzAzLTkyLTg0MTE5MS9rcmlwdG8tc2VtcmluZ2FoLWV0aGVyZXVtLW1lbGFtYnVuZy0xNTMtcGVyc2Vu",
-        "description": " Mayoritas harga kripto menguat, khususnya ethereum dan solana pada perdagangan Rabu (31/8) pagi."
     }
 ]
