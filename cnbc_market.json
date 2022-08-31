@@ -1,5 +1,12 @@
 [
     {
+        "title": "Wall Street Menguat Setelah 3 Hari Jeblok, tapi PHP Gak Nih?",
+        "link": "https://www.cnbcindonesia.com/market/20220831210625-17-368274/wall-street-menguat-setelah-3-hari-jeblok-tapi-php-gak-nih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMxMjEwNjI1LTE3LTM2ODI3NC93YWxsLXN0cmVldC1tZW5ndWF0LXNldGVsYWgtMy1oYXJpLWplYmxvay10YXBpLXBocC1nYWstbmlo",
+        "description": " Bursa saham Amerika Serikat (AS) atau Wall Street menguat di awal perdagangan Rabu (31/8/2022) waktu setempat"
+    },
+    {
         "title": "BBM Bakal Naik, Pengusaha Mamin Kuat Tunda Naikkan Harga?",
         "link": "https://www.cnbcindonesia.com/market/20220831163830-19-368187/bbm-bakal-naik-pengusaha-mamin-kuat-tunda-naikkan-harga",
         "image": "static/images/cnbc_market.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMxMTY1MTIxLTE3LTM2ODE5Ny9jZWstZ2VyYWstc2JuLXNhYXQta2VuYWlrYW4tYmJtLWVyYS1zYnktZGFuLWpva293aQ==",
         "description": " Memang, jika dilihat dari historisnya, kenaikan BBM juga mempengaruhi pergerakan yield SBN."
-    },
-    {
-        "title": "Bos OJK Beberkan Bukti Ekonomi Mulai Pulih dari Covid",
-        "link": "https://www.cnbcindonesia.com/market/20220831160735-17-368177/bos-ojk-beberkan-bukti-ekonomi-mulai-pulih-dari-covid",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMxMTYwNzM1LTE3LTM2ODE3Ny9ib3Mtb2prLWJlYmVya2FuLWJ1a3RpLWVrb25vbWktbXVsYWktcHVsaWgtZGFyaS1jb3ZpZA==",
-        "description": " Sektor Usaha Sudah Mulai Sembuh, OJK: Total Restrukturisasi Kredit Turun 40%"
     }
 ]
