@@ -1,5 +1,19 @@
 [
     {
+        "title": "Restorative Justice, Penyelesaian Tindak Pidana Tanpa Persidangan",
+        "link": "https://nasional.tempo.co/read/1629058/restorative-justice-penyelesaian-tindak-pidana-tanpa-persidangan",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjkwNTgvcmVzdG9yYXRpdmUtanVzdGljZS1wZW55ZWxlc2FpYW4tdGluZGFrLXBpZGFuYS10YW5wYS1wZXJzaWRhbmdhbg==",
+        "description": "Mekanisme yang sering dipakai dalam konsep Restorative Justice ini, antara lain adalah dialog dan mediasi untuk mencapai kesepakatan tanpa persidangan"
+    },
+    {
+        "title": "Pengacara Keluarga Brigadir J Kecewa Tidak Terima Hasil Autopsi, Apa Kata PDFI?",
+        "link": "https://nasional.tempo.co/read/1629053/pengacara-keluarga-brigadir-j-kecewa-tidak-terima-hasil-autopsi-apa-kata-pdfi",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjkwNTMvcGVuZ2FjYXJhLWtlbHVhcmdhLWJyaWdhZGlyLWota2VjZXdhLXRpZGFrLXRlcmltYS1oYXNpbC1hdXRvcHNpLWFwYS1rYXRhLXBkZmk=",
+        "description": "Kuasa Hukum keluarga Brigadir J, Johnson Pandjaitan, mengeluhkan pihaknya tidak diberikan salinan hasil autopsi ulang Yosua yang dilakukan PDFI"
+    },
+    {
         "title": "Update Covid-19 Hari Ini: Bertambah 4.563 Kasus, Meninggal 25 Orang",
         "link": "https://nasional.tempo.co/read/1629047/update-covid-19-hari-ini-bertambah-4-563-kasus-meninggal-25-orang",
         "image": "static/images/tempo_nasional.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjkwMDQvcHJlc2lkZW4tc2FsdXJrYW4tYmx0LWJibS10YWhhcC1p",
         "description": "Presiden RI Joko Widodo (Jokowi) didampingi Menteri Sosial (Mensos) Tri Rismaharini menyalurkan Bantuan Langsung Tunai BBM (BLT BBM) tahap I kepada 20,6 juta keluarga penerima manfaat (KPM) seluruh Indonesia."
-    },
-    {
-        "title": "Ferdy Sambo Perintahkan ART Bersihkan Darah Brigadir J di Lantai Usai Dibunuh",
-        "link": "https://nasional.tempo.co/read/1629000/ferdy-sambo-perintahkan-art-bersihkan-darah-brigadir-j-di-lantai-usai-dibunuh",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MjkwMDAvZmVyZHktc2FtYm8tcGVyaW50YWhrYW4tYXJ0LWJlcnNpaGthbi1kYXJhaC1icmlnYWRpci1qLWRpLWxhbnRhaS11c2FpLWRpYnVudWg=",
-        "description": "Ferdy Sambo mengaku memerintahkan asisten rumah tangganya membersihkan berkas darah Nofriansyah Yosua Hutabarat alias Brigadir J di lantai"
-    },
-    {
-        "title": "Rancangan Perubahan UU Sisdiknas Dinilai Menciderai Pesantren",
-        "link": "https://nasional.tempo.co/read/1628996/rancangan-perubahan-uu-sisdiknas-dinilai-menciderai-pesantren",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjg5OTYvcmFuY2FuZ2FuLXBlcnViYWhhbi11dS1zaXNkaWtuYXMtZGluaWxhaS1tZW5jaWRlcmFpLXBlc2FudHJlbg==",
-        "description": "Selain pesantren tradisional yang mengajarkan kitab kuning sebagaimana sudah disebut dalam RUU, ada juga pesantren berbentuk pengajaran Dirasah Islamiah dengan Pola Pendidikan Mualimin. Juga Pesantren yang terintegrasi dengan pendidikan umum."
     }
 ]

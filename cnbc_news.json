@@ -1,5 +1,47 @@
 [
     {
+        "title": "Fenomena Orang Ngeluh Beli Apartemen, Inikah Sebabnya?",
+        "link": "https://www.cnbcindonesia.com/news/20220831185311-4-368248/fenomena-orang-ngeluh-beli-apartemen-inikah-sebabnya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE4NTMxMS00LTM2ODI0OC9mZW5vbWVuYS1vcmFuZy1uZ2VsdWgtYmVsaS1hcGFydGVtZW4taW5pa2FoLXNlYmFibnlh",
+        "description": " Investasi di properti apartemen belakangan menjadi sorotan karena selama masa pandemi ada stagnasi harga."
+    },
+    {
+        "title": "Hot News: BBM Naik Hingga,Rusia Hentikan Pasokan Gas Ke Eropa",
+        "link": "https://www.cnbcindonesia.com/news/20220831184010-8-368230/hot-news-bbm-naik-hinggarusia-hentikan-pasokan-gas-ke-eropa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE4NDAxMC04LTM2ODIzMC9ob3QtbmV3cy1iYm0tbmFpay1oaW5nZ2FydXNpYS1oZW50aWthbi1wYXNva2FuLWdhcy1rZS1lcm9wYQ==",
+        "description": " pembatasan pembelian BBM pertalite dan solar subsidi hingga, Rusia kembali memberi serangan ke gas eropa."
+    },
+    {
+        "title": "Bertemu Jokowi di Papua, Ini Kata Big Boss Freeport Adkerson",
+        "link": "https://www.cnbcindonesia.com/news/20220831185008-4-368235/bertemu-jokowi-di-papua-ini-kata-big-boss-freeport-adkerson",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE4NTAwOC00LTM2ODIzNS9iZXJ0ZW11LWpva293aS1kaS1wYXB1YS1pbmkta2F0YS1iaWctYm9zcy1mcmVlcG9ydC1hZGtlcnNvbg==",
+        "description": " Presiden Komisaris PT Freeport Indonesia Richard Adkerson bertemu dengan Presiden Joko Widodo (Jokowi) di Papua."
+    },
+    {
+        "title": "Banyak Bandara Sepi 'Bak Kuburan' di RI, Ini Biang Keroknya",
+        "link": "https://www.cnbcindonesia.com/news/20220831184622-4-368233/banyak-bandara-sepi-bak-kuburan-di-ri-ini-biang-keroknya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE4NDYyMi00LTM2ODIzMy9iYW55YWstYmFuZGFyYS1zZXBpLWJhay1rdWJ1cmFuLWRpLXJpLWluaS1iaWFuZy1rZXJva255YQ==",
+        "description": " Banyak bandara kecil yang saat ini tidak memiliki jadwal penerbangan pasca dioperasikan."
+    },
+    {
+        "title": "Kontraktor 'Nangis Darah', Kontrak Proyek Banyak Diputus",
+        "link": "https://www.cnbcindonesia.com/news/20220831184138-4-368231/kontraktor-nangis-darah-kontrak-proyek-banyak-diputus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE4NDEzOC00LTM2ODIzMS9rb250cmFrdG9yLW5hbmdpcy1kYXJhaC1rb250cmFrLXByb3llay1iYW55YWstZGlwdXR1cw==",
+        "description": " Direktur Jenderal Bina Marga, Hedy Rahadian menjelaskan ada beberapa masalah dalam pembangunan infrastruktur jalan."
+    },
+    {
+        "title": "BBM, Material, Suku Bunga,Naik Semua! Sektor Properti Gimana?",
+        "link": "https://www.cnbcindonesia.com/news/20220831183347-8-368226/bbm-material-suku-bunganaik-semua-sektor-properti-gimana",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE4MzM0Ny04LTM2ODIyNi9iYm0tbWF0ZXJpYWwtc3VrdS1idW5nYW5haWstc2VtdWEtc2VrdG9yLXByb3BlcnRpLWdpbWFuYQ==",
+        "description": " BBM, Material, Suku Bunga,Naik Semua! Sektor Properti Gimana?"
+    },
+    {
         "title": "Detik-Detik BBM Subsidi Naik, Apa Rumah Subsidi Ikut Naik?",
         "link": "https://www.cnbcindonesia.com/news/20220831174843-4-368229/detik-detik-bbm-subsidi-naik-apa-rumah-subsidi-ikut-naik",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE4MTE1NC00LTM2ODIyMS9ydXNpYS1iaWtpbi11bmktZXJvcGEtZ2FsYXUtaGluZ2dhLXRlcnBlY2FoLWluaS1idWt0aW55YQ==",
         "description": " Uni Eropa\u00c2\u00a0mendesak negara-negara yang berselisih untuk segera menyelesaikan perbedaan pendapat dalam membatasi perjalanan bagi warga Rusia."
-    },
-    {
-        "title": "Cuan Putin di Tengah Perang",
-        "link": "https://www.cnbcindonesia.com/news/20220831123506-8-368068/cuan-putin-di-tengah-perang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTEyMzUwNi04LTM2ODA2OC9jdWFuLXB1dGluLWRpLXRlbmdhaC1wZXJhbmc=",
-        "description": " Di tengah perang Rusia dan Ukraina yang masih berlanjut, Negeri Vladimir Putin malah mendapatkan keuntungan yang besar."
-    },
-    {
-        "title": "Jangan Kaget! Ini 10 Daftar Bakal Capres 2024, Jokowi Teratas",
-        "link": "https://www.cnbcindonesia.com/news/20220831190540-4-368252/jangan-kaget-ini-10-daftar-bakal-capres-2024-jokowi-teratas",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE5MDU0MC00LTM2ODI1Mi9qYW5nYW4ta2FnZXQtaW5pLTEwLWRhZnRhci1iYWthbC1jYXByZXMtMjAyNC1qb2tvd2ktdGVyYXRhcw==",
-        "description": " Ada kabar terbaru soal perkembangan bakal Capres dan Cawapres 2024, lagi-lagi nama Jokowi masih muncul."
-    },
-    {
-        "title": "Nasib Bandara yang Bak Kuburan, Benarkah Tak Ada Demand?",
-        "link": "https://www.cnbcindonesia.com/news/20220831180332-4-368220/nasib-bandara-yang-bak-kuburan-benarkah-tak-ada-demand",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE4MDMzMi00LTM2ODIyMC9uYXNpYi1iYW5kYXJhLXlhbmctYmFrLWt1YnVyYW4tYmVuYXJrYWgtdGFrLWFkYS1kZW1hbmQ=",
-        "description": " Aktivitas penerbangan semakin minim dan maskapai pun menarik jadwal penerbangannya."
-    },
-    {
-        "title": "Penyanyi Cilik Farel Prayoga Naik Jet Pribadi Ke Sekolah",
-        "link": "https://www.cnbcindonesia.com/news/20220831184836-8-368234/penyanyi-cilik-farel-prayoga-naik-jet-pribadi-ke-sekolah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE4NDgzNi04LTM2ODIzNC9wZW55YW55aS1jaWxpay1mYXJlbC1wcmF5b2dhLW5haWstamV0LXByaWJhZGkta2Utc2Vrb2xhaA==",
-        "description": " Penyanyi cilik Farel Prayoga diketahui naik jet pribadi saat berangkat ke sekolah."
-    },
-    {
-        "title": "Ditanya Soal Kapan Harga BBM Naik, Ini Jawaban Sri Mulyani!",
-        "link": "https://www.cnbcindonesia.com/news/20220831185146-4-368237/ditanya-soal-kapan-harga-bbm-naik-ini-jawaban-sri-mulyani",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE4NTE0Ni00LTM2ODIzNy9kaXRhbnlhLXNvYWwta2FwYW4taGFyZ2EtYmJtLW5haWstaW5pLWphd2FiYW4tc3JpLW11bHlhbmk=",
-        "description": " Sri Mulyani Indrawati, Menteri Keuangan buka suara mengenai kepastikan kenaikan harga bahan bakar minyak (BBM)."
-    },
-    {
-        "title": "BEM RI Dukung Kenaikan Pertalite, Ini Alasannya",
-        "link": "https://www.cnbcindonesia.com/news/20220831182655-4-368228/bem-ri-dukung-kenaikan-pertalite-ini-alasannya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE4MjY1NS00LTM2ODIyOC9iZW0tcmktZHVrdW5nLWtlbmFpa2FuLXBlcnRhbGl0ZS1pbmktYWxhc2Fubnlh",
-        "description": " BEM RI menilai\u00c2\u00a0penting untuk meneliti siapa sebenarnya mayoritas pengguna BBM Bersubsidi selama ini."
     }
 ]
