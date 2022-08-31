@@ -1,9 +1,23 @@
 [
     {
-        "title": "Harga Minyak Jatuh 5% Lebih ke Bawah US$ 100/Barel!",
-        "link": "https://www.cnbcindonesia.com/market/20220831065451-17-367921/harga-minyak-jatuh-5-lebih-ke-bawah-us--100-barel",
+        "title": "Derita Tiada Akhir, Harga Emas Turun Terus...",
+        "link": "https://www.cnbcindonesia.com/market/20220831062902-17-367916/derita-tiada-akhir-harga-emas-turun-terus",
         "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMxMDY1NDUxLTE3LTM2NzkyMS9oYXJnYS1taW55YWstamF0dWgtNS1sZWJpaC1rZS1iYXdhaC11cy0tMTAwLWJhcmVs",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMxMDYyOTAyLTE3LTM2NzkxNi9kZXJpdGEtdGlhZGEtYWtoaXItaGFyZ2EtZW1hcy10dXJ1bi10ZXJ1cw==",
+        "description": " Harga emas melemah 0,04%."
+    },
+    {
+        "title": "Pantau Ketat! Ini Tindak-tanduk IHSG Jelang Kenaikan BBM",
+        "link": "https://www.cnbcindonesia.com/market/20220831004003-17-367909/pantau-ketat-ini-tindak-tanduk-ihsg-jelang-kenaikan-bbm",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMxMDA0MDAzLTE3LTM2NzkwOS9wYW50YXUta2V0YXQtaW5pLXRpbmRhay10YW5kdWstaWhzZy1qZWxhbmcta2VuYWlrYW4tYmJt",
+        "description": " Bagaimana respons IHSG pada kebijakan kenaikan BBM?"
+    },
+    {
+        "title": "Harga Minyak Ambrol 5%, Tembus US$ 99/Barel!",
+        "link": "https://www.cnbcindonesia.com/market/20220831065451-17-367921/harga-minyak-ambrol-5-tembus-us--99-barel",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMxMDY1NDUxLTE3LTM2NzkyMS9oYXJnYS1taW55YWstYW1icm9sLTUtdGVtYnVzLXVzLS05OS1iYXJlbA==",
         "description": " Harga minyak dunia jatuh pada perdagangan pagi ini. Tidak main-main, harga si emas hitam turun lebih dari 5%."
     },
     {
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMTcyMDE3LTE4LTM2Nzg0Mi9iZWdpbmktcGVuYW1wYWthbi1ndW51bmdhbi11YW5nLXN1cnlhLWRhcm1hZGktZGkta2VqYWd1bmc=",
         "description": " Kejaksaan Agung juga menetapkan Surya Darmadi sebagai tersangka kasus dugaan tindak pidana pencucian uang (TPPU). "
-    },
-    {
-        "title": "Mayoritas SBN Yieldnya Hari Ini Naik, Tenor 3 Tahun Tertinggi",
-        "link": "https://www.cnbcindonesia.com/market/20220830182150-17-367872/mayoritas-sbn-yieldnya-hari-ini-naik-tenor-3-tahun-tertinggi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMTgyMTUwLTE3LTM2Nzg3Mi9tYXlvcml0YXMtc2JuLXlpZWxkbnlhLWhhcmktaW5pLW5haWstdGVub3ItMy10YWh1bi10ZXJ0aW5nZ2k=",
-        "description": " Harga mayoritas Surat Berharga Negara (SBN) kembali ditutup melemah pada perdagangan Selasa (30/8/2022)\u00c2\u00a0"
-    },
-    {
-        "title": "Banyak Tekanan, Harga Nikel Rebahan Lagi...",
-        "link": "https://www.cnbcindonesia.com/market/20220830174359-17-367851/banyak-tekanan-harga-nikel-rebahan-lagi",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMwMTc0MzU5LTE3LTM2Nzg1MS9iYW55YWstdGVrYW5hbi1oYXJnYS1uaWtlbC1yZWJhaGFuLWxhZ2k=",
-        "description": " Harga nikel dunia terpantau melemah 0,11% pada perdagangan hari ini, di mana kasus Covid-19 di China kembali meningkat"
     }
 ]
