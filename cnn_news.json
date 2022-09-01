@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pemprov DKI Buka Kemungkinan KRL Gabung Tarif Integrasi Mulai 2023",
+        "link": "https://www.cnnindonesia.com/nasional/20220901134046-20-841932/pemprov-dki-buka-kemungkinan-krl-gabung-tarif-integrasi-mulai-2023",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTEzNDA0Ni0yMC04NDE5MzIvcGVtcHJvdi1ka2ktYnVrYS1rZW11bmdraW5hbi1rcmwtZ2FidW5nLXRhcmlmLWludGVncmFzaS1tdWxhaS0yMDIz",
+        "description": " Saat ini tarif integrasi antarmoda di DKI baru berlaku untuk Moda Raya Terpadu (MRT), Lintas Raya Terpadu (LRT), dan TransJakarta."
+    },
+    {
+        "title": "Kecelakaan Bekasi, Wali Kota Bakal Evaluasi Sekolah di Pinggir Jalan",
+        "link": "https://www.cnnindonesia.com/nasional/20220901130313-20-841893/kecelakaan-bekasi-wali-kota-bakal-evaluasi-sekolah-di-pinggir-jalan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTEzMDMxMy0yMC04NDE4OTMva2VjZWxha2Fhbi1iZWthc2ktd2FsaS1rb3RhLWJha2FsLWV2YWx1YXNpLXNla29sYWgtZGktcGluZ2dpci1qYWxhbg==",
+        "description": " Plt Walkot Bekasi Tri menuturkan Pemkot bisa memindahkan lokasi sekolah atau memindahkan siswa ke sekolah lain."
+    },
+    {
         "title": "KNKT: Truk Kecelakaan Maut Bekasi Layak Jalan",
         "link": "https://www.cnnindonesia.com/nasional/20220902023312-20-842210/knkt-truk-kecelakaan-maut-bekasi-layak-jalan",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTEyMzEzMC0xMi04NDE4NzIva3BrLXNlZ2VyYS1zaWRhbmctNC1hbmdnb3RhLWJway1qYWJhci1rYXN1cy1zdWFwLWJ1cGF0aS1ib2dvcg==",
         "description": " Dalam surat dakwaan Bupati Bogor nonaktif Ade Yasin, empat anggota BPK Jabar tersebut disebut telah menerima suap sebesar Rp1,935 miliar."
-    },
-    {
-        "title": "4 Siswa Meninggal Kecelakaan Maut di Bekasi, Sekolah Gelar Pengajian",
-        "link": "https://www.cnnindonesia.com/nasional/20220901140549-20-841940/4-siswa-meninggal-kecelakaan-maut-di-bekasi-sekolah-gelar-pengajian",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTE0MDU0OS0yMC04NDE5NDAvNC1zaXN3YS1tZW5pbmdnYWwta2VjZWxha2Fhbi1tYXV0LWRpLWJla2FzaS1zZWtvbGFoLWdlbGFyLXBlbmdhamlhbg==",
-        "description": " Kegiatan belajar mengajar siswa SDN Kota Baru III akan dilakukan dari rumah atau pelajaran jarak jauh (PJJ) selama tiga hari."
-    },
-    {
-        "title": "Politikus Demokrat: Satgas Merah Putih Polri Sukseskan Capres di 2019",
-        "link": "https://www.cnnindonesia.com/nasional/20220901230518-32-842199/politikus-demokrat-satgas-merah-putih-polri-sukseskan-capres-di-2019",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTIzMDUxOC0zMi04NDIxOTkvcG9saXRpa3VzLWRlbW9rcmF0LXNhdGdhcy1tZXJhaC1wdXRpaC1wb2xyaS1zdWtzZXNrYW4tY2FwcmVzLWRpLTIwMTk=",
-        "description": " Politikus Demokrat Benny K. Harman menyebut Satuan Tugas Khusus (Satgassus) Merah Putih Polri yang pernah dipimpin Irjen Ferdy Sambo pernah dipakai capres"
     }
 ]
