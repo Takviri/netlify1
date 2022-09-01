@@ -1,5 +1,19 @@
 [
     {
+        "title": "Bank Digital Pertama Singapura Lahir",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220901104604-78-841811/bank-digital-pertama-singapura-lahir",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAxMTA0NjA0LTc4LTg0MTgxMS9iYW5rLWRpZ2l0YWwtcGVydGFtYS1zaW5nYXB1cmEtbGFoaXI=",
+        "description": " Bank digital pertama Singapura, yaitu Trust Bank, lahir pada Kamis (1/9). Bank ini hasil kerja sama Standard Chartered, Fairprice Group, dan NTUC."
+    },
+    {
+        "title": "Faisal Basri soal Subsidi BBM Bengkak: Pemerintah Salah Melulu",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220901095636-85-841787/faisal-basri-soal-subsidi-bbm-bengkak-pemerintah-salah-melulu",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAxMDk1NjM2LTg1LTg0MTc4Ny9mYWlzYWwtYmFzcmktc29hbC1zdWJzaWRpLWJibS1iZW5na2FrLXBlbWVyaW50YWgtc2FsYWgtbWVsdWx1",
+        "description": " Ekonom Senior Indef Faisal Basri menilai subsidi BBM membengkak karena pemerintah salah dalam memperkirakan harga minyak dunia."
+    },
+    {
         "title": "Aktivitas Pabrik di China Jatuh ke Level 49,5",
         "link": "https://www.cnnindonesia.com/ekonomi/20220901100732-92-841792/aktivitas-pabrik-di-china-jatuh-ke-level-495",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAxMDg0OTMxLTc4LTg0MTc0Ny9ydXBpYWgta3VyYW5nLWRhcmFoLWtlLXJwMTQ4Njgta2FyZW5hLXJlbmNhbmEta2VuYWlrYW4tc3VrdS1idW5nYS1hcw==",
         "description": " Rupiah melemah 25,5 poin ke posisi Rp14.868 per dolar AS pada Kamis (1/9)."
-    },
-    {
-        "title": "Syarat Klaim BPJS Kecelakaan Tunggal dan Cara Menggunakannya",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220830180209-83-841011/syarat-klaim-bpjs-kecelakaan-tunggal-dan-cara-menggunakannya",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMwMTgwMjA5LTgzLTg0MTAxMS9zeWFyYXQta2xhaW0tYnBqcy1rZWNlbGFrYWFuLXR1bmdnYWwtZGFuLWNhcmEtbWVuZ2d1bmFrYW5ueWE=",
-        "description": " Berikut\u00c2\u00a0syarat klaim BPJS kecelakaan tunggal yang perlu dipenuhi oleh peserta untuk bisa mengajukan klaim."
-    },
-    {
-        "title": "Harga Emas Antam 'Terjun Bebas' ke Rp949 Ribu per Gram",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220901084427-92-841744/harga-emas-antam-terjun-bebas-ke-rp949-ribu-per-gram",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAxMDg0NDI3LTkyLTg0MTc0NC9oYXJnYS1lbWFzLWFudGFtLXRlcmp1bi1iZWJhcy1rZS1ycDk0OS1yaWJ1LXBlci1ncmFt",
-        "description": " Harga emas Antam anjlok Rp8.000 per gram menjadi Rp949 ribu pada Kamis (1/9)."
     }
 ]
