@@ -1,5 +1,47 @@
 [
     {
+        "title": "Taiwan Kepincut Senjata Canggih AS Buat Lawan China",
+        "link": "https://www.cnbcindonesia.com/news/20220901121450-4-368431/taiwan-kepincut-senjata-canggih-as-buat-lawan-china",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEyMTQ1MC00LTM2ODQzMS90YWl3YW4ta2VwaW5jdXQtc2VuamF0YS1jYW5nZ2loLWFzLWJ1YXQtbGF3YW4tY2hpbmE=",
+        "description": " Tentara Taiwan berencana untuk mengerahkan lebih dari dua lusin baterai peluncur Sistem Roket Artileri Mobilitas Tinggi (HIMARS) buatan Amerika Serikat (AS)."
+    },
+    {
+        "title": "Pak Jokowi, Ini Jurus Jitu Naikin Harga BBM Tanpa Ribut",
+        "link": "https://www.cnbcindonesia.com/news/20220901123608-4-368443/pak-jokowi-ini-jurus-jitu-naikin-harga-bbm-tanpa-ribut",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEyMzYwOC00LTM2ODQ0My9wYWstam9rb3dpLWluaS1qdXJ1cy1qaXR1LW5haWtpbi1oYXJnYS1iYm0tdGFucGEtcmlidXQ=",
+        "description": " Pemerintah belum juga memutuskan nasib harga BBM bersubsidi hingga hari ini."
+    },
+    {
+        "title": "Gak Cuma Panen Tol, Jokowi Kebut 10 Bandara Baru Sampai 2024",
+        "link": "https://www.cnbcindonesia.com/news/20220901121023-4-368438/gak-cuma-panen-tol-jokowi-kebut-10-bandara-baru-sampai-2024",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEyMTAyMy00LTM2ODQzOC9nYWstY3VtYS1wYW5lbi10b2wtam9rb3dpLWtlYnV0LTEwLWJhbmRhcmEtYmFydS1zYW1wYWktMjAyNA==",
+        "description": " Kementerian Perhubungan mencatat, masih ada 19 bandara baru yang akan diresmikan oleh Presiden Joko Widodo sebelum tahun 2024 mendatang."
+    },
+    {
+        "title": "Harga Belum Naik, Eceran Pertalite Tembus Rp12.000/Liter",
+        "link": "https://www.cnbcindonesia.com/news/20220901125249-4-368448/harga-belum-naik-eceran-pertalite-tembus-rp12000-liter",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEyNTI0OS00LTM2ODQ0OC9oYXJnYS1iZWx1bS1uYWlrLWVjZXJhbi1wZXJ0YWxpdGUtdGVtYnVzLXJwMTIwMDAtbGl0ZXI=",
+        "description": " Harga bensin Pertalite eceran di pinggir jalan ada yang menjual Rp 12.000 per liter"
+    },
+    {
+        "title": "Istri Najib Razak Jalani Sidang Vonis Dugaan Korupsi",
+        "link": "https://www.cnbcindonesia.com/news/20220901115658-8-368428/istri-najib-razak-jalani-sidang-vonis-dugaan-korupsi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTExNTY1OC04LTM2ODQyOC9pc3RyaS1uYWppYi1yYXphay1qYWxhbmktc2lkYW5nLXZvbmlzLWR1Z2Fhbi1rb3J1cHNp",
+        "description": " Rosmah diadili karena meminta suap dari perusahaan yang ingin mendapatkan kontrak pemerintah."
+    },
+    {
+        "title": "Ramai Fenomena Bandara Sepi, Jokowi Tambah Baru Lagi di 2024",
+        "link": "https://www.cnbcindonesia.com/news/20220901121131-4-368432/ramai-fenomena-bandara-sepi-jokowi-tambah-baru-lagi-di-2024",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEyMTEzMS00LTM2ODQzMi9yYW1haS1mZW5vbWVuYS1iYW5kYXJhLXNlcGktam9rb3dpLXRhbWJhaC1iYXJ1LWxhZ2ktZGktMjAyNA==",
+        "description": " Masih ada 19 bandara baru yang akan diresmikan oleh Presiden Joko Widodo sebelum 2024 mendatang."
+    },
+    {
         "title": "Ada Apa China? Xi Jinping Lockdown 21 Juta Warga",
         "link": "https://www.cnbcindonesia.com/news/20220901125613-4-368450/ada-apa-china-xi-jinping-lockdown-21-juta-warga",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTExNTY0OS04LTM2ODQyNy90YWl3YW4tdGVtYmFrLWRyb25lLWNoaW5h",
         "description": " Taiwan melepaskan tembakan peringatan ke sebuah pesawat tak berawak China yang berdengung di pulau lepas pantai."
-    },
-    {
-        "title": "Simak! Fakta-fakta Marak Bandara Sepi Bak 'Kuburan' di RI",
-        "link": "https://www.cnbcindonesia.com/news/20220901115015-4-368429/simak-fakta-fakta-marak-bandara-sepi-bak-kuburan-di-ri",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTExNTAxNS00LTM2ODQyOS9zaW1hay1mYWt0YS1mYWt0YS1tYXJhay1iYW5kYXJhLXNlcGktYmFrLWt1YnVyYW4tZGktcmk=",
-        "description": " Banyak bandara kecil tidak lagi memiliki jadwal penerbangan justru setelah diresmikan jadi bandara komersial."
-    },
-    {
-        "title": "Transisi Energi Butuh US$ 1 Triliun, RI Butuh Investor!",
-        "link": "https://www.cnbcindonesia.com/news/20220901101103-4-368388/transisi-energi-butuh-us--1-triliun-ri-butuh-investor",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEwMTEwMy00LTM2ODM4OC90cmFuc2lzaS1lbmVyZ2ktYnV0dWgtdXMtLTEtdHJpbGl1bi1yaS1idXR1aC1pbnZlc3Rvcg==",
-        "description": " Kementerian ESDM mencatat, transisi energi di Indonesia hingga tahun 2060 membutuhkan biaya US$ 1 triliun"
-    },
-    {
-        "title": "Batal Naik, BBM Non Subsidi Justru Turun Harga",
-        "link": "https://www.cnbcindonesia.com/news/20220901115645-8-368426/batal-naik-bbm-non-subsidi-justru-turun-harga",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTExNTY0NS04LTM2ODQyNi9iYXRhbC1uYWlrLWJibS1ub24tc3Vic2lkaS1qdXN0cnUtdHVydW4taGFyZ2E=",
-        "description": " Isu kenaikan BBM subisidi di awal September terjawab sudah hari ini."
-    },
-    {
-        "title": "Perang Berbalik Arah, Ukraina Pukul Mundur Pasukan Putin",
-        "link": "https://www.cnbcindonesia.com/news/20220901115427-4-368425/perang-berbalik-arah-ukraina-pukul-mundur-pasukan-putin",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTExNTQyNy00LTM2ODQyNS9wZXJhbmctYmVyYmFsaWstYXJhaC11a3JhaW5hLXB1a3VsLW11bmR1ci1wYXN1a2FuLXB1dGlu",
-        "description": " Pasukan Presiden Vladimir Putin dilaporkan mundur ke Donbas karena kerugian Rusia di Ukraina memakan korban."
-    },
-    {
-        "title": "Horee! Ojol Kebagian Bansos BBM, Silakan Tagih ke Anies Cs",
-        "link": "https://www.cnbcindonesia.com/news/20220901110338-4-368407/horee-ojol-kebagian-bansos-bbm-silakan-tagih-ke-anies-cs",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTExMDMzOC00LTM2ODQwNy9ob3JlZS1vam9sLWtlYmFnaWFuLWJhbnNvcy1iYm0tc2lsYWthbi10YWdpaC1rZS1hbmllcy1jcw==",
-        "description": " Anggaran subsidi transportasi untuk angkutan umum sudah disiapkan oleh kas pemerintah daerah (Pemda)."
-    },
-    {
-        "title": "Harga Cabai Hingga Bawang Turun, RI Deflasi 0,21% di Agustus",
-        "link": "https://www.cnbcindonesia.com/news/20220901114348-8-368423/harga-cabai-hingga-bawang-turun-ri-deflasi-021-di-agustus",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTExNDM0OC04LTM2ODQyMy9oYXJnYS1jYWJhaS1oaW5nZ2EtYmF3YW5nLXR1cnVuLXJpLWRlZmxhc2ktMDIxLWRpLWFndXN0dXM=",
-        "description": " Harga Cabai Hingga Bawang Turun, RI Deflasi 0,21% (mtm) di Agustus"
     }
 ]

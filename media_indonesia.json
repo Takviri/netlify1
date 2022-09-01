@@ -1,5 +1,47 @@
 [
     {
+        "title": "Sergino Dest Gabung Ke AC Milan",
+        "link": "https://mediaindonesia.com/sepak-bola/519314/sergino-dest-gabung-ke-ac-milan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vc2VwYWstYm9sYS81MTkzMTQvc2VyZ2luby1kZXN0LWdhYnVuZy1rZS1hYy1taWxhbg==",
+        "description": "AC Milan mendatangkan full back Barcelona, Sergino Dest dengan status pinjaman plus opsi pembelian tidak wajib senilai 20 juta euro."
+    },
+    {
+        "title": "Pengamat Desak Pemerintah Sesuaikan Harga BBM Bersubsidi",
+        "link": "https://mediaindonesia.com/ekonomi/519313/pengamat-desak-pemerintah-sesuaikan-harga-bbm-bersubsidi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vZWtvbm9taS81MTkzMTMvcGVuZ2FtYXQtZGVzYWstcGVtZXJpbnRhaC1zZXN1YWlrYW4taGFyZ2EtYmJtLWJlcnN1YnNpZGk=",
+        "description": "Pemerintah perlu mempertimbangkan penyesuaian harga bahan bakar minyak (BBM) bersubsidi yang berlaku saat ini."
+    },
+    {
+        "title": "Senangnya Farel Prayoga Dapat Hadiah Gendang dari Ganjar Pranowo",
+        "link": "https://mediaindonesia.com/nusantara/519312/senangnya-farel-prayoga-dapat-hadiah-gendang-dari-ganjar-pranowo",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vbnVzYW50YXJhLzUxOTMxMi9zZW5hbmdueWEtZmFyZWwtcHJheW9nYS1kYXBhdC1oYWRpYWgtZ2VuZGFuZy1kYXJpLWdhbmphci1wcmFub3dv",
+        "description": "Satu set gendang lengkap diterima Farel Prayoga dari Gubernur Jawa Tengah Ganjar Pranowo. Penyanyi cilik itu pun langsung beraksi memainkan ketipung barunya."
+    },
+    {
+        "title": "Petenis Tiongkok Wu Yibing Lanjutkan Sensasi di AS Terbuka",
+        "link": "https://mediaindonesia.com/olahraga/519310/petenis-tiongkok-wu-yibing-lanjutkan-sensasi-di-as-terbuka",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vb2xhaHJhZ2EvNTE5MzEwL3BldGVuaXMtdGlvbmdrb2std3UteWliaW5nLWxhbmp1dGthbi1zZW5zYXNpLWRpLWFzLXRlcmJ1a2E=",
+        "description": "Wu Yibing menciptakan sejarah lagi menjadi petenis putra pertama dari Tiongkok yang mencapai babak ketiga di AS Terbuka."
+    },
+    {
+        "title": "Peternak di Brebes Heran Harga Telur Bebek Stagnan Padahal harga Pakan Juga Naik",
+        "link": "https://mediaindonesia.com/nusantara/519308/peternak-di-brebes-heran-harga-telur-bebek-stagnan-padahal-harga-pakan-juga-naik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vbnVzYW50YXJhLzUxOTMwOC9wZXRlcm5hay1kaS1icmViZXMtaGVyYW4taGFyZ2EtdGVsdXItYmViZWstc3RhZ25hbi1wYWRhaGFsLWhhcmdhLXBha2FuLWp1Z2EtbmFpaw==",
+        "description": "PETERNAK itik atau bebek di Brebes, Jawa Tengah, mengeluhkan telur bebek yang harganya stagnan dan cenderung murah, ketimbang telur ayam yang saat ini harganya masih terbilang tinggi."
+    },
+    {
+        "title": "Serangan Siber Terus Meningkat, Perlindungan Data Harus Mumpuni",
+        "link": "https://mediaindonesia.com/teknologi/519309/serangan-siber-terus-meningkat-perlindungan-data-harus-mumpuni",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vdGVrbm9sb2dpLzUxOTMwOS9zZXJhbmdhbi1zaWJlci10ZXJ1cy1tZW5pbmdrYXQtcGVybGluZHVuZ2FuLWRhdGEtaGFydXMtbXVtcHVuaQ==",
+        "description": "Terlebih tren serangan siber juga terus meningkat, termasuk serangan virus ransomware yang berdampak pada tersanderanya data hingga menghentikan proses bisnis."
+    },
+    {
         "title": "Dengan Berbasis Blockchain, RET Tawarkan Solusi Transaksi Real Estate",
         "link": "https://mediaindonesia.com/teknologi/519307/dengan-berbasis-blockchain-ret-tawarkan-solusi-transaksi-real-estate",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vbnVzYW50YXJhLzUxOTMwNC9kaW5rZXMtamFiYXItbGFrdWthbi1iZXJiYWdhaS11cGF5YS1jZWdhaC1wZW51bGFyYW4taGl2YWlkcw==",
         "description": "UNTUK mencegah penularan HIV/AIDS di Jawa Barat (Jabar), Kementerian Kesehatan (Kemenkes) telah mengalokasikan 425.808 buah kondom yang dibagikan ke kabupaten/kota yang ada di Jabar."
-    },
-    {
-        "title": "Andy Murray Tantang Berrettini di Babak Ketiga AS Terbuka",
-        "link": "https://mediaindonesia.com/olahraga/519303/andy-murray-tantang-berrettini-di-babak-ketiga-as-terbuka",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vb2xhaHJhZ2EvNTE5MzAzL2FuZHktbXVycmF5LXRhbnRhbmctYmVycmV0dGluaS1kaS1iYWJhay1rZXRpZ2EtYXMtdGVyYnVrYQ==",
-        "description": "Andy Murray melangkah ke babak ketiga AS Terbuka untuk pertama kalinya dalam enam tahun terakhir usai mengalahkan petenis tuan rumah Emilio Nava di babak kedua, Kamis (1/9) dini hari WIB."
-    },
-    {
-        "title": "OJK Beberkan Tantangan HAKI Jadi Jaminan Utang ke Bank",
-        "link": "https://mediaindonesia.com/ekonomi/519302/ojk-beberkan-tantangan-haki-jadi-jaminan-utang-ke-bank",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vZWtvbm9taS81MTkzMDIvb2prLWJlYmVya2FuLXRhbnRhbmdhbi1oYWtpLWphZGktamFtaW5hbi11dGFuZy1rZS1iYW5r",
-        "description": "Saat ini ekosistem HAKI di pasar sekunder masih dianggap tidak kuat dan mekanisme penentuan valuasi sebuah HAKI masih terbatas."
-    },
-    {
-        "title": "KY Buka Seleksi Tiga Hakim Ad Hoc HAM untuk Kasus Paniai",
-        "link": "https://mediaindonesia.com/politik-dan-hukum/519298/ky-buka-seleksi-tiga-hakim-ad-hoc-ham-untuk-kasus-paniai",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vcG9saXRpay1kYW4taHVrdW0vNTE5Mjk4L2t5LWJ1a2Etc2VsZWtzaS10aWdhLWhha2ltLWFkLWhvYy1oYW0tdW50dWsta2FzdXMtcGFuaWFp",
-        "description": "Proses seleksi hakim ad hoc Mahkamah Agung&nbsp;untuk tingkat kasasi dan PK memang menjadi kewenangan Komisi Yudisial (KY)."
-    },
-    {
-        "title": "Ini Fakta\u00a0Seputar KKN di Desa Penari yang Sudah Tayang di Disney+ Hotstar",
-        "link": "https://mediaindonesia.com/hiburan/519301/ini-faktaseputar-kkn-di-desa-penari-yang-sudah-tayang-di-disney-hotstar",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaGlidXJhbi81MTkzMDEvaW5pLWZha3Rhc2VwdXRhci1ra24tZGktZGVzYS1wZW5hcmkteWFuZy1zdWRhaC10YXlhbmctZGktZGlzbmV5LWhvdHN0YXI=",
-        "description": "Adinda yang aslinya takut ular, harus melalui proses workshop dengan ular yang berbeda-beda, hingga akhirnya dia jadi merasa akrab dengan ular."
-    },
-    {
-        "title": "Chico Jaga Asa Tunggal Putra di Jepang Terbuka 2022",
-        "link": "https://mediaindonesia.com/olahraga/519300/chico-jaga-asa-tunggal-putra-di-jepang-terbuka-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vb2xhaHJhZ2EvNTE5MzAwL2NoaWNvLWphZ2EtYXNhLXR1bmdnYWwtcHV0cmEtZGktamVwYW5nLXRlcmJ1a2EtMjAyMg==",
-        "description": "Pebulu tangkis tunggal putra Chico Aura Dwi Wardoyo menjaga asa sektor tunggal putra Indonesia di kejuaraan Jepang Terbuka 2022."
-    },
-    {
-        "title": "Medsos Bak Pedang Bermata Dua, DPR Minta Anak Muda Cerdas Bermedsos",
-        "link": "https://mediaindonesia.com/humaniora/519299/medsos-bak-pedang-bermata-dua-dpr-minta-anak-muda-cerdas-bermedsos",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaHVtYW5pb3JhLzUxOTI5OS9tZWRzb3MtYmFrLXBlZGFuZy1iZXJtYXRhLWR1YS1kcHItbWludGEtYW5hay1tdWRhLWNlcmRhcy1iZXJtZWRzb3M=",
-        "description": "Anggota Komisi I DPR, Lodewijk F Paulus mengatakan media sosial (Medsos) ibaratnya seperti pedang bermata dua yang dapat menyerang balik penggunaannya."
     }
 ]
