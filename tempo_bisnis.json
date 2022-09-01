@@ -1,5 +1,19 @@
 [
     {
+        "title": "Terkini Bisnis: Penjelasan Plakat IRRI untuk Jokowi, Harga BBM Bersubsidi Belum Naik",
+        "link": "https://bisnis.tempo.co/read/1629427/terkini-bisnis-penjelasan-plakat-irri-untuk-jokowi-harga-bbm-bersubsidi-belum-naik",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI5NDI3L3RlcmtpbmktYmlzbmlzLXBlbmplbGFzYW4tcGxha2F0LWlycmktdW50dWstam9rb3dpLWhhcmdhLWJibS1iZXJzdWJzaWRpLWJlbHVtLW5haWs=",
+        "description": "Berita terkini ekonomi bisnis hingga Kamis sore, 1 September 2022, penjelasan antara lain penjelasan IRRI soal plakat untuk Jokowi ."
+    },
+    {
+        "title": "Benarkah Harga BBM di Indonesia Paling Murah di Asia Tenggara?",
+        "link": "https://bisnis.tempo.co/read/1629429/benarkah-harga-bbm-di-indonesia-paling-murah-di-asia-tenggara",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI5NDI5L2JlbmFya2FoLWhhcmdhLWJibS1kaS1pbmRvbmVzaWEtcGFsaW5nLW11cmFoLWRpLWFzaWEtdGVuZ2dhcmE=",
+        "description": "Dengan kondisi dan harga BBM saat ini, apakah benar harga BBM di Indonesia cenderung lebih rendah dibanding negara-negara di Asia Tenggara?"
+    },
+    {
         "title": "Penjualan Pertalite di Jawa Tengah Sempat Naik, Pertamina: Pasokan BBM Aman",
         "link": "https://bisnis.tempo.co/read/1629414/penjualan-pertalite-di-jawa-tengah-sempat-naik-pertamina-pasokan-bbm-aman",
         "image": "static/images/tempo_bisnis.png",
@@ -32,7 +46,7 @@
         "link": "https://bisnis.tempo.co/read/1629339/tips-mengantisipasi-salah-bantal-dan-posisinya-selama-tidur",
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI5MzM5L3RpcHMtbWVuZ2FudGlzaXBhc2ktc2FsYWgtYmFudGFsLWRhbi1wb3Npc2lueWEtc2VsYW1hLXRpZHVy",
-        "description": "Leher sakit saat bangun tidur akibat salah bantal memang menyebalkan. Berikut tips mengatasinya"
+        "description": "Sakit leher saat bangun tidur akibat salah bantal memang menyebalkan. Berikut tips mengatasinya"
     },
     {
         "title": "Ditjen Hubdat Masih Mendalami Penyebab Kecelakaan Maut Bekasi",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI5MzQ5L2hhcmktcGVyZGFuYS1iZXJvcGVyYXNpLWJhbmRhcmEtaGFsaW0tbGF5YW5pLTEwLXBlbmVyYmFuZ2Fu",
         "description": "Bandara Halim Perdanakusuma kembali membuka layanan penerbangan komersial. Hari ini, tercatat ada 10 penerbangan yang dijadwalkan."
-    },
-    {
-        "title": "OJK Restui Dirut Baru AJB Bumiputera Irvandi Gustari, Begini Profilnya",
-        "link": "https://bisnis.tempo.co/read/1629325/ojk-restui-dirut-baru-ajb-bumiputera-irvandi-gustari-begini-profilnya",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI5MzI1L29qay1yZXN0dWktZGlydXQtYmFydS1hamItYnVtaXB1dGVyYS1pcnZhbmRpLWd1c3RhcmktYmVnaW5pLXByb2ZpbG55YQ==",
-        "description": "OJK menyetujui penunjukkan Irvandi Gustari sebagai direktur utama AJB Bumiputera 1912. Seperti apa profil dan rekam jejaknya?"
-    },
-    {
-        "title": "Bandara Halim Kembali Beroperasi, Bos AP II: Jadi Etalase Pintu Masuk Jakarta",
-        "link": "https://bisnis.tempo.co/read/1629292/bandara-halim-kembali-beroperasi-bos-ap-ii-jadi-etalase-pintu-masuk-jakarta",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI5MjkyL2JhbmRhcmEtaGFsaW0ta2VtYmFsaS1iZXJvcGVyYXNpLWJvcy1hcC1paS1qYWRpLWV0YWxhc2UtcGludHUtbWFzdWstamFrYXJ0YQ==",
-        "description": "Bandara Halim Perdanakusuma kembali melayani penerbangan komersial mulai hari ini. Sejumlah fasilitas baik sisi darat maupun sisi udara dinyatakan sudah siap."
     }
 ]
