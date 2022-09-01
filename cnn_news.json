@@ -1,5 +1,33 @@
 [
     {
+        "title": "LSM Dilaporkan ke Polisi Diduga Sebarkan Hoaks soal PT KAI",
+        "link": "https://www.cnnindonesia.com/nasional/20220901132410-12-841909/lsm-dilaporkan-ke-polisi-diduga-sebarkan-hoaks-soal-pt-kai",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTEzMjQxMC0xMi04NDE5MDkvbHNtLWRpbGFwb3JrYW4ta2UtcG9saXNpLWRpZHVnYS1zZWJhcmthbi1ob2Frcy1zb2FsLXB0LWthaQ==",
+        "description": " Pelapor mengatakan berita bohong yang ia laporkan terletak pada narasi-narasi provokatif sehingga berpotensi menimbulkan kegaduhan di masyarakat."
+    },
+    {
+        "title": "Pangkostrad Buka Suara Prajurit Terlibat Pembunuhan Sadis di Timika",
+        "link": "https://www.cnnindonesia.com/nasional/20220901194531-12-842142/pangkostrad-buka-suara-prajurit-terlibat-pembunuhan-sadis-di-timika",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTE5NDUzMS0xMi04NDIxNDIvcGFuZ2tvc3RyYWQtYnVrYS1zdWFyYS1wcmFqdXJpdC10ZXJsaWJhdC1wZW1idW51aGFuLXNhZGlzLWRpLXRpbWlrYQ==",
+        "description": " Pangkostrad Letjen Maruli Simanjuntak mengatakan pihaknya bakal melakukan evaluasi internal buntut keterlibatan prajuritnya dalam pembunuhan sadis di Timika."
+    },
+    {
+        "title": "Timsus Polri Dalami Temuan soal Dugaan Kekerasan Seksual di Magelang",
+        "link": "https://www.cnnindonesia.com/nasional/20220901200640-12-842155/timsus-polri-dalami-temuan-soal-dugaan-kekerasan-seksual-di-magelang",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTIwMDY0MC0xMi04NDIxNTUvdGltc3VzLXBvbHJpLWRhbGFtaS10ZW11YW4tc29hbC1kdWdhYW4ta2VrZXJhc2FuLXNla3N1YWwtZGktbWFnZWxhbmc=",
+        "description": " Rekomendasi dari Komnas HAM dan Komnas Perempuan soal pembunuhan Yosua akan ditindaklanjuti oleh Polri."
+    },
+    {
+        "title": "Komnas Perempuan: Istri Sambo Alami Hambatan Ungkap Kasus Brigadir J",
+        "link": "https://www.cnnindonesia.com/nasional/20220901194420-12-842141/komnas-perempuan-istri-sambo-alami-hambatan-ungkap-kasus-brigadir-j",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTE5NDQyMC0xMi04NDIxNDEva29tbmFzLXBlcmVtcHVhbi1pc3RyaS1zYW1iby1hbGFtaS1oYW1iYXRhbi11bmdrYXAta2FzdXMtYnJpZ2FkaXItag==",
+        "description": " Komnas Perempuan membeberkan hambatan yang dialami Putri Candrawathi dalam mengungkap kasus dugaan pelecehan seksual dan pembunuhan Brigadir J."
+    },
+    {
         "title": "Ade Armando Minta Jaksa Banding Atas Vonis 8 Bulan Bui Pengeroyoknya",
         "link": "https://www.cnnindonesia.com/nasional/20220901193232-12-842138/ade-armando-minta-jaksa-banding-atas-vonis-8-bulan-bui-pengeroyoknya",
         "image": "static/images/cnn_news.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTE4NTMxNy0xMi04NDIxMTYva29tbmFzLXBlcmVtcHVhbi1wdXRyaS1jYW5kcmF3YXJ0aGktaW5naW4tbWF0aS1rYXJlbmEta2FzdXMtcGVsZWNlaGFu",
         "description": " Ketua Komnas Perempuan Andy Yentriyani menyebut\u00c2\u00a0Putri Candrawathi merasa sangat tertekan dan menyalahkan dirinya sendiri atas peristiwa dugaan pelecehan itu."
-    },
-    {
-        "title": "Komnas HAM Beberkan Peristiwa di Magelang antara Brigadir J dan Putri",
-        "link": "https://www.cnnindonesia.com/nasional/20220901183256-12-842114/komnas-ham-beberkan-peristiwa-di-magelang-antara-brigadir-j-dan-putri",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTE4MzI1Ni0xMi04NDIxMTQva29tbmFzLWhhbS1iZWJlcmthbi1wZXJpc3Rpd2EtZGktbWFnZWxhbmctYW50YXJhLWJyaWdhZGlyLWotZGFuLXB1dHJp",
-        "description": " Komnas HAM menyebut ada dugaan kekerasan seksual Brigadir J terhadap Putri, pada malam 7 Juli setelah Putri merayakan ulang tahun pernikahan."
-    },
-    {
-        "title": "Jokowi Kunjungi Masjid dan Gereja Freeport, 1.760 Meter di Bawah Tanah",
-        "link": "https://www.cnnindonesia.com/nasional/20220901182016-32-842098/jokowi-kunjungi-masjid-dan-gereja-freeport-1760-meter-di-bawah-tanah",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTE4MjAxNi0zMi04NDIwOTgvam9rb3dpLWt1bmp1bmdpLW1hc2ppZC1kYW4tZ2VyZWphLWZyZWVwb3J0LTE3NjAtbWV0ZXItZGktYmF3YWgtdGFuYWg=",
-        "description": " Presiden Jokowi dan Ibu Negara Iriana\u00c2\u00a0mengunjungi dua rumah ibadah yang berada 1.760 meter di bawah tanah Papuad di kawasan tambang Freeport."
-    },
-    {
-        "title": "Flood Control System, Upaya Mitigasi Banjir di Jakarta",
-        "link": "https://www.cnnindonesia.com/nasional/20220901183016-23-842100/flood-control-system-upaya-mitigasi-banjir-di-jakarta",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTE4MzAxNi0yMy04NDIxMDAvZmxvb2QtY29udHJvbC1zeXN0ZW0tdXBheWEtbWl0aWdhc2ktYmFuamlyLWRpLWpha2FydGE=",
-        "description": " DKI memiliki Flood Control System yang berfungsi untuk meminimalkan risiko dampak banjir di Jakarta."
-    },
-    {
-        "title": "Temuan-temuan Faktual Komnas HAM dalam Pembunuhan Brigadir J",
-        "link": "https://www.cnnindonesia.com/nasional/20220901172252-12-842075/temuan-temuan-faktual-komnas-ham-dalam-pembunuhan-brigadir-j",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTE3MjI1Mi0xMi04NDIwNzUvdGVtdWFuLXRlbXVhbi1mYWt0dWFsLWtvbW5hcy1oYW0tZGFsYW0tcGVtYnVudWhhbi1icmlnYWRpci1q",
-        "description": " Komnas HAM menemukan adanya ancaman pembunuhan kepada Yosua hingga dugaan kekerasan seksual terhadap istri Ferdy Sambo."
     }
 ]
