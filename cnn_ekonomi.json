@@ -1,5 +1,19 @@
 [
     {
+        "title": "Harga Telur di Jakarta Berangsur Turun",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220901180538-92-842095/harga-telur-di-jakarta-berangsur-turun",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAxMTgwNTM4LTkyLTg0MjA5NS9oYXJnYS10ZWx1ci1kaS1qYWthcnRhLWJlcmFuZ3N1ci10dXJ1bg==",
+        "description": " Harga telur di pasar tradisional Jakarta yang beberapa waktu belakangan ini melesat kini mulai berangsur turun ke level Rp30 ribuan."
+    },
+    {
+        "title": "447 Ribu Turis Asing Masuk Juli 2022, Tertinggi Sejak Pandemi",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220901144114-92-841966/447-ribu-turis-asing-masuk-juli-2022-tertinggi-sejak-pandemi",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAxMTQ0MTE0LTkyLTg0MTk2Ni80NDctcmlidS10dXJpcy1hc2luZy1tYXN1ay1qdWxpLTIwMjItdGVydGluZ2dpLXNlamFrLXBhbmRlbWk=",
+        "description": " BPS menyebut sebanyak 477 ribu turis asing yang masuk ke Indonesia pada Juli 2022, tertinggi sejak awal pandemi covid-19."
+    },
+    {
         "title": "IMF Beri Persetujuan Sementara Utang Rp42 T Atasi Bangkrut Sri Lanka",
         "link": "https://www.cnnindonesia.com/ekonomi/20220901160857-532-842028/imf-beri-persetujuan-sementara-utang-rp42-t-atasi-bangkrut-sri-lanka",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAxMTUxODQzLTg1LTg0MTk4NS9wZW5nYW1hdC1zb2FsLWhhcmdhLXBlcnRhbGl0ZS1iZWx1bS1uYWlrLXRpbmdnYWwtdHVuZ2d1LXdha3R1LXNhamE=",
         "description": " Pengamat menilai harga Pertalite belum naik karena menunggu momentum yang pas di saat harga Pertamax Turbo cs turun."
-    },
-    {
-        "title": "OJK Siapkan Aturan Supaya Konten Youtube Bisa Jadi Jaminan Utang Bank",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220901140320-78-841937/ojk-siapkan-aturan-supaya-konten-youtube-bisa-jadi-jaminan-utang-bank",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAxMTQwMzIwLTc4LTg0MTkzNy9vamstc2lhcGthbi1hdHVyYW4tc3VwYXlhLWtvbnRlbi15b3V0dWJlLWJpc2EtamFkaS1qYW1pbmFuLXV0YW5nLWJhbms=",
-        "description": " OJK tengah mempersiapkan aturan supaya Hak Atas Kekayaan Intelektual, seperti film dan konten Youtube bisa\u00c2\u00a0jadi jaminan\u00c2\u00a0utang di bank maupun non bank."
-    },
-    {
-        "title": "Tunggu Kebijakan The Fed, Rupiah Loyo ke Rp14.882",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220901153149-78-841998/tunggu-kebijakan-the-fed-rupiah-loyo-ke-rp14882",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAxMTUzMTQ5LTc4LTg0MTk5OC90dW5nZ3Uta2ViaWpha2FuLXRoZS1mZWQtcnVwaWFoLWxveW8ta2UtcnAxNDg4Mg==",
-        "description": " Nilai tukar rupiah berada di level Rp14.882 per dolar AS pada Kamis (1/9) sore. Mata uang Garuda melemah 40 poin atau 0,27 persen dari perdagangan sebelumnya."
     }
 ]
