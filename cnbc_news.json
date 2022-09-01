@@ -1,5 +1,47 @@
 [
     {
+        "title": "Rusia Siap-Siap KO, AS Cs Punya 'Senjata' Baru Hajar Putin",
+        "link": "https://www.cnbcindonesia.com/news/20220901085132-4-368345/rusia-siap-siap-ko-as-cs-punya-senjata-baru-hajar-putin",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTA4NTEzMi00LTM2ODM0NS9ydXNpYS1zaWFwLXNpYXAta28tYXMtY3MtcHVueWEtc2VuamF0YS1iYXJ1LWhhamFyLXB1dGlu",
+        "description": " Rusia akan mendapat serangan baru dari AS dan sekutu. Ini terkait minyak negara itu."
+    },
+    {
+        "title": "Harga Pertalite Jadi Naik Hari Ini? Begini kata Menteri ESDM",
+        "link": "https://www.cnbcindonesia.com/news/20220901080946-4-368330/harga-pertalite-jadi-naik-hari-ini-begini-kata-menteri-esdm",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTA4MDk0Ni00LTM2ODMzMC9oYXJnYS1wZXJ0YWxpdGUtamFkaS1uYWlrLWhhcmktaW5pLWJlZ2luaS1rYXRhLW1lbnRlcmktZXNkbQ==",
+        "description": " Menteri ESDM Arifin Tasrif dan Menko Marves Luhut Binsar Pandjaitan menyerahkan kenaikan harga BBM Pertalte dan Solar Subsidi kepada Presiden"
+    },
+    {
+        "title": "Intip Gaji Pensiunan PNS, Beneran Bisa Bikin Kaya Mendadak?",
+        "link": "https://www.cnbcindonesia.com/news/20220901082238-4-368341/intip-gaji-pensiunan-pns-beneran-bisa-bikin-kaya-mendadak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTA4MjIzOC00LTM2ODM0MS9pbnRpcC1nYWppLXBlbnNpdW5hbi1wbnMtYmVuZXJhbi1iaXNhLWJpa2luLWtheWEtbWVuZGFkYWs=",
+        "description": " Pemerintah kini tengah mengkaji skema baru pensiunan PNS yang disebut-sebut akan membuat abdi negara kaya raya"
+    },
+    {
+        "title": "Harga Barang turun, BI dan Ekonom Ramal Deflasi",
+        "link": "https://www.cnbcindonesia.com/news/20220901082315-4-368335/harga-barang-turun-bi-ekonom-ramal-deflasi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTA4MjMxNS00LTM2ODMzNS9oYXJnYS1iYXJhbmctdHVydW4tYmktZWtvbm9tLXJhbWFsLWRlZmxhc2k=",
+        "description": " Indeks Harga Konsumen (IHK) Agustus berpotensi mengalami deflasi tipis seiring dengan turunnya beberapa harga barang dan musim panen."
+    },
+    {
+        "title": "BI Tarik 2 Uang Rupiah Ini Dari Peredaran, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220901080901-4-368329/bi-tarik-2-uang-rupiah-ini-dari-peredaran-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTA4MDkwMS00LTM2ODMyOS9iaS10YXJpay0yLXVhbmctcnVwaWFoLWluaS1kYXJpLXBlcmVkYXJhbi1hZGEtYXBh",
+        "description": " Berikut pecahan uang rupiah yang ditarik dari peredaran"
+    },
+    {
+        "title": "Detik-Detik BBM RI Naik, Minyak Dunia Malah Turun",
+        "link": "https://www.cnbcindonesia.com/news/20220901081828-4-368332/detik-detik-bbm-ri-naik-minyak-dunia-malah-turun",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTA4MTgyOC00LTM2ODMzMi9kZXRpay1kZXRpay1iYm0tcmktbmFpay1taW55YWstZHVuaWEtbWFsYWgtdHVydW4=",
+        "description": " Harga minyak dunia kembali mengalami penurunan."
+    },
+    {
         "title": "Sri Mulyani Dicecar Soal Asal Usul Dana Subsidi BBM 502 T",
         "link": "https://www.cnbcindonesia.com/news/20220901080307-4-368327/sri-mulyani-dicecar-soal-asal-usul-dana-subsidi-bbm-502-t",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTA3NDQxOS00LTM2ODMyMi9wcmlhLXJpLWRhcGF0LXBlbmdoYXJnYWFuLWRhcmktcHJlc2lkZW4tdWtyYWluYS1zaWFwYQ==",
         "description": " Presiden Ukraina Volodymyr Zelensky menganugerahkan tanda kehormatan negara itu kepada salah satu figur Indonesia. Siapa?"
-    },
-    {
-        "title": "Dear RI! Ini Daftar Negara BBM Termurah dan Termahal, Ada Kita?",
-        "link": "https://www.cnbcindonesia.com/news/20220901072847-4-368319/dear-ri-ini-daftar-negara-bbm-termurah-termahal-ada-kita",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTA3Mjg0Ny00LTM2ODMxOS9kZWFyLXJpLWluaS1kYWZ0YXItbmVnYXJhLWJibS10ZXJtdXJhaC10ZXJtYWhhbC1hZGEta2l0YQ==",
-        "description": " Ini negara dengan BBM termurah dan termahal."
-    },
-    {
-        "title": "Tiba-tiba Ada Demo di Lokasi Jokowi Bagikan BLT! Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220901070436-4-368317/tiba-tiba-ada-demo-di-lokasi-jokowi-bagikan-blt-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTA3MDQzNi00LTM2ODMxNy90aWJhLXRpYmEtYWRhLWRlbW8tZGktbG9rYXNpLWpva293aS1iYWdpa2FuLWJsdC1hZGEtYXBh",
-        "description": " Jokowi melihat sekelompok demonstran di lokasi pembagian BLT"
-    },
-    {
-        "title": "Tiba-tiba PBB 'Gebuk' China terkait Muslim, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220901071341-4-368315/tiba-tiba-pbb-gebuk-china-terkait-muslim-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTA3MTM0MS00LTM2ODMxNS90aWJhLXRpYmEtcGJiLWdlYnVrLWNoaW5hLXRlcmthaXQtbXVzbGltLWFkYS1hcGE=",
-        "description": " Perserikatan Bangsa-bangsa (PBB) kembali melontarkan pernyataan keras kepada China."
-    },
-    {
-        "title": "Eropa Makin Ngeri, Rusia Luncurkan Serangan Baru",
-        "link": "https://www.cnbcindonesia.com/news/20220901065447-4-368312/eropa-makin-ngeri-rusia-luncurkan-serangan-baru",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTA2NTQ0Ny00LTM2ODMxMi9lcm9wYS1tYWtpbi1uZ2VyaS1ydXNpYS1sdW5jdXJrYW4tc2VyYW5nYW4tYmFydQ==",
-        "description": " Upaya pemenuhan energi Eropa mendapatkan ancaman baru dari Rusia."
-    },
-    {
-        "title": "BLT BBM Rp 600 Ribu Sudah Cair, Siap Dikirim ke Rumah Anda!",
-        "link": "https://www.cnbcindonesia.com/news/20220901065231-4-368310/blt-bbm-rp-600-ribu-sudah-cair-siap-dikirim-ke-rumah-anda",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTA2NTIzMS00LTM2ODMxMC9ibHQtYmJtLXJwLTYwMC1yaWJ1LXN1ZGFoLWNhaXItc2lhcC1kaWtpcmltLWtlLXJ1bWFoLWFuZGE=",
-        "description": " Bantuan langsung tunai BBM telah dicairkan dan akan segera dikirimkan door to door ke para penerima"
-    },
-    {
-        "title": "Potret 'Kepanikan' Warga Harga BBM Mau Naik, SPBU Menumpuk!",
-        "link": "https://www.cnbcindonesia.com/news/20220901014349-7-368282/potret-kepanikan-warga-harga-bbm-mau-naik-spbu-menumpuk",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTAxNDM0OS03LTM2ODI4Mi9wb3RyZXQta2VwYW5pa2FuLXdhcmdhLWhhcmdhLWJibS1tYXUtbmFpay1zcGJ1LW1lbnVtcHVr",
-        "description": " Sejumlah pom bensin atau SPBU di Jakarta ramai diserbu pengguna kendaraan, menyusul kabar kenaikan harga BBM yang akan dilakukan hari ini"
     }
 ]
