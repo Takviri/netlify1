@@ -1,5 +1,26 @@
 [
     {
+        "title": "Ada Apa China? Xi Jinping Lockdown 21 Juta Warga",
+        "link": "https://www.cnbcindonesia.com/news/20220901125613-4-368450/ada-apa-china-xi-jinping-lockdown-21-juta-warga",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEyNTYxMy00LTM2ODQ1MC9hZGEtYXBhLWNoaW5hLXhpLWppbnBpbmctbG9ja2Rvd24tMjEtanV0YS13YXJnYQ==",
+        "description": " China mengunci kota metropolitan dengan 21 juta penduduk, Chengdu, Kamis (1/9/2022)."
+    },
+    {
+        "title": "Pembiayaan Jadi Isu Prioritas Kejar Netral Karbon 2060",
+        "link": "https://www.cnbcindonesia.com/news/20220901102350-4-368392/pembiayaan-jadi-isu-prioritas-kejar-netral-karbon-2060",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEwMjM1MC00LTM2ODM5Mi9wZW1iaWF5YWFuLWphZGktaXN1LXByaW9yaXRhcy1rZWphci1uZXRyYWwta2FyYm9uLTIwNjA=",
+        "description": " Dalam ETWG ini pembiayaan menjadi satu dari tiga isu prioritas, selain aksesibilitas dan teknologi energi bersih."
+    },
+    {
+        "title": "Harga Pertalite Naik Bisa Dorong Pertumbuhan Ekonomi! Asal...",
+        "link": "https://www.cnbcindonesia.com/news/20220901094537-4-368371/harga-pertalite-naik-bisa-dorong-pertumbuhan-ekonomi-asal",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTA5NDUzNy00LTM2ODM3MS9oYXJnYS1wZXJ0YWxpdGUtbmFpay1iaXNhLWRvcm9uZy1wZXJ0dW1idWhhbi1la29ub21pLWFzYWw=",
+        "description": " Kenaikan harga Bahan Bakar Minyak (BBM) bisa mendongkrak pertumbuhan ekonomi asal pemerintah melakukan hal ini."
+    },
+    {
         "title": "Taiwan Tembak Drone China",
         "link": "https://www.cnbcindonesia.com/news/20220901115649-8-368427/taiwan-tembak-drone-china",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTExNDM0OC04LTM2ODQyMy9oYXJnYS1jYWJhaS1oaW5nZ2EtYmF3YW5nLXR1cnVuLXJpLWRlZmxhc2ktMDIxLWRpLWFndXN0dXM=",
         "description": " Harga Cabai Hingga Bawang Turun, RI Deflasi 0,21% (mtm) di Agustus"
-    },
-    {
-        "title": "Harga Tiket Jakarta-Bali Murah, Tapi ke Padang Mahal Nih!",
-        "link": "https://www.cnbcindonesia.com/news/20220901105807-4-368406/harga-tiket-jakarta-bali-murah-tapi-ke-padang-mahal-nih",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEwNTgwNy00LTM2ODQwNi9oYXJnYS10aWtldC1qYWthcnRhLWJhbGktbXVyYWgtdGFwaS1rZS1wYWRhbmctbWFoYWwtbmlo",
-        "description": " Data Badan Pusat Statistik (BPS) menunjukkan kunjungan wisatawan mancanegara naik 929,6% mencapai 743.201 kunjungan pada semester-I tahun 2022."
-    },
-    {
-        "title": "Jokowi Bicara Kenaikan Harga BBM: Masih Dihitung!",
-        "link": "https://www.cnbcindonesia.com/news/20220901114419-4-368424/jokowi-bicara-kenaikan-harga-bbm-masih-dihitung",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTExNDQxOS00LTM2ODQyNC9qb2tvd2ktYmljYXJhLWtlbmFpa2FuLWhhcmdhLWJibS1tYXNpaC1kaWhpdHVuZw==",
-        "description": " Jokowi menegaskan pemerintah akan berhati-hati sebelum memutuskan kebijakan harga BBM"
-    },
-    {
-        "title": "Harga BBM Pertalite dan Solar Mau Naik, BPS Kasih Warning!",
-        "link": "https://www.cnbcindonesia.com/news/20220901112202-4-368420/harga-bbm-pertalite-dan-solar-mau-naik-bps-kasih-warning",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTExMjIwMi00LTM2ODQyMC9oYXJnYS1iYm0tcGVydGFsaXRlLWRhbi1zb2xhci1tYXUtbmFpay1icHMta2FzaWgtd2FybmluZw==",
-        "description": " Wacana kenaikan harga Bahan Bakar Minyak (BBM) bersubsidi terus mengemuka."
     }
 ]
