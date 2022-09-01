@@ -1,9 +1,16 @@
 [
     {
-        "title": "Tak Mau Terus Terpuruk, Harga Batu Bara Bangkit",
-        "link": "https://www.cnbcindonesia.com/market/20220901063800-17-368308/tak-mau-terus-terpuruk-harga-batu-bara-bangkit",
+        "title": "Makin Nggak Berharga, Emas Terkapar Hingga ke Rekor Terburuk",
+        "link": "https://www.cnbcindonesia.com/market/20220901070205-17-368313/makin-nggak-berharga-emas-terkapar-hingga-ke-rekor-terburuk",
         "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAxMDYzODAwLTE3LTM2ODMwOC90YWstbWF1LXRlcnVzLXRlcnB1cnVrLWhhcmdhLWJhdHUtYmFyYS1iYW5na2l0",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAxMDcwMjA1LTE3LTM2ODMxMy9tYWtpbi1uZ2dhay1iZXJoYXJnYS1lbWFzLXRlcmthcGFyLWhpbmdnYS1rZS1yZWtvci10ZXJidXJ1aw==",
+        "description": " Harga emas melemah 0,14%."
+    },
+    {
+        "title": "Batu Bara Ngamuk Usai Terkapar Dua Hari, Tembus US$ 415/Ton",
+        "link": "https://www.cnbcindonesia.com/market/20220901063800-17-368308/batu-bara-ngamuk-usai-terkapar-dua-hari-tembus-us--415-ton",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAxMDYzODAwLTE3LTM2ODMwOC9iYXR1LWJhcmEtbmdhbXVrLXVzYWktdGVya2FwYXItZHVhLWhhcmktdGVtYnVzLXVzLS00MTUtdG9u",
         "description": " Harga batu bara menguat 1,96% dibandingkan hari sebelumnya."
     },
     {
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMxMTYzODMwLTE5LTM2ODE4Ny9iYm0tYmFrYWwtbmFpay1wZW5ndXNhaGEtbWFtaW4ta3VhdC10dW5kYS1uYWlra2FuLWhhcmdh",
         "description": " BBM Bakal Naik, Pengusaha Mamin Kuat Tunda Naikkan Harga?"
-    },
-    {
-        "title": "Detik-Detik Harga Pertalite Mau Naik, Harga SBN Menguat",
-        "link": "https://www.cnbcindonesia.com/market/20220831182121-17-368222/detik-detik-harga-pertalite-mau-naik-harga-sbn-menguat",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwODMxMTgyMTIxLTE3LTM2ODIyMi9kZXRpay1kZXRpay1oYXJnYS1wZXJ0YWxpdGUtbWF1LW5haWstaGFyZ2Etc2JuLW1lbmd1YXQ=",
-        "description": " Harga mayoritas Surat Berharga Negara (SBN) ditutup menguat pada perdagangan Rabu (31/8/2022), di tengah isu kenaikan harga BBM subsidi"
     }
 ]
