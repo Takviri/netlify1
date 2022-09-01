@@ -1,5 +1,19 @@
 [
     {
+        "title": "Suram, Harga Emas Terendah dalam 6 Pekan!",
+        "link": "https://www.cnbcindonesia.com/market/20220901161947-17-368549/suram-harga-emas-terendah-dalam-6-pekan",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAxMTYxOTQ3LTE3LTM2ODU0OS9zdXJhbS1oYXJnYS1lbWFzLXRlcmVuZGFoLWRhbGFtLTYtcGVrYW4=",
+        "description": " Harga emas melemah 0,46%."
+    },
+    {
+        "title": "Serba Tak Pasti, Risiko Pelemahan Rupiah Kian Besar",
+        "link": "https://www.cnbcindonesia.com/market/20220901153212-19-368537/serba-tak-pasti-risiko-pelemahan-rupiah-kian-besar",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAxMTUzMjEyLTE5LTM2ODUzNy9zZXJiYS10YWstcGFzdGktcmlzaWtvLXBlbGVtYWhhbi1ydXBpYWgta2lhbi1iZXNhcg==",
+        "description": " Serba Tak Pasti, Risiko Pelemahan Rupiah Kian Besar"
+    },
+    {
         "title": "Bursa Global Berjatuhan, Bursa Eropa Ikutan Kebakaran!",
         "link": "https://www.cnbcindonesia.com/market/20220901153833-17-368539/bursa-global-berjatuhan-bursa-eropa-ikutan-kebakaran",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAxMTQ0NDI3LTE3LTM2ODUwNy9hZGEtMi1rYWJhci1iYWlrLWRhcmktZGFsYW0tbmVnZXJpLXJ1cGlhaC1rb2stbWFzaWgtbWVsZW1haA==",
         "description": " Nilai tukar rupiah melemah melawan dolar Amerika Serikat (AS) pada perdagangan Kamis (1/9/2022),"
-    },
-    {
-        "title": "Kinerja Terpukul, Mustika Ratu Menderita Kerugian di Q2-2022",
-        "link": "https://www.cnbcindonesia.com/market/20220901131255-17-368456/kinerja-terpukul-mustika-ratu-menderita-kerugian-di-q2-2022",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAxMTMxMjU1LTE3LTM2ODQ1Ni9raW5lcmphLXRlcnB1a3VsLW11c3Rpa2EtcmF0dS1tZW5kZXJpdGEta2VydWdpYW4tZGktcTItMjAyMg==",
-        "description": " Buku laporan keuangan Mustika Ratu berbalik merah, dari sebelumnya hijau pada periode yang sama tahun lalu."
-    },
-    {
-        "title": "Awas! Duet Pertalite-Rupiah Bisa Bikin Pelaku Usaha Tekor",
-        "link": "https://www.cnbcindonesia.com/market/20220901123318-17-368446/awas-duet-pertalite-rupiah-bisa-bikin-pelaku-usaha-tekor",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAxMTIzMzE4LTE3LTM2ODQ0Ni9hd2FzLWR1ZXQtcGVydGFsaXRlLXJ1cGlhaC1iaXNhLWJpa2luLXBlbGFrdS11c2FoYS10ZWtvcg==",
-        "description": " Wacana kenaikan harga bahan bakar minyak (BBM) jenis Pertalite dan Solar masih kencang berhembus."
     }
 ]
