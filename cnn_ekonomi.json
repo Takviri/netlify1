@@ -1,5 +1,19 @@
 [
     {
+        "title": "Aktivitas Pabrik di China Jatuh ke Level 49,5",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220901100732-92-841792/aktivitas-pabrik-di-china-jatuh-ke-level-495",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAxMTAwNzMyLTkyLTg0MTc5Mi9ha3Rpdml0YXMtcGFicmlrLWRpLWNoaW5hLWphdHVoLWtlLWxldmVsLTQ5NQ==",
+        "description": " Aktivitas pabrik di China turun untuk pertama kalinya dalam tiga bulan pada Agustus 2022 karena permintaan yang melemah."
+    },
+    {
+        "title": "RI Bisa Rugi 40 Persen dari PDB 2050 Karena Perubahan Iklim",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220831152007-532-841460/ri-bisa-rugi-40-persen-dari-pdb-2050-karena-perubahan-iklim",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwODMxMTUyMDA3LTUzMi04NDE0NjAvcmktYmlzYS1ydWdpLTQwLXBlcnNlbi1kYXJpLXBkYi0yMDUwLWthcmVuYS1wZXJ1YmFoYW4taWtsaW0=",
+        "description": " Kerugian Indonesia akibat perubahan iklim diperkirakan mencapai 40 persen dari PDB pada 2050."
+    },
+    {
         "title": "Mayoritas Harga Kripto Suram, USDC dan BUSD Tetap Hijau",
         "link": "https://www.cnnindonesia.com/ekonomi/20220901093507-92-841771/mayoritas-harga-kripto-suram-usdc-dan-busd-tetap-hijau",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAxMDg0NDI3LTkyLTg0MTc0NC9oYXJnYS1lbWFzLWFudGFtLXRlcmp1bi1iZWJhcy1rZS1ycDk0OS1yaWJ1LXBlci1ncmFt",
         "description": " Harga emas Antam anjlok Rp8.000 per gram menjadi Rp949 ribu pada Kamis (1/9)."
-    },
-    {
-        "title": "Simak Cara dan Syarat Dapat Bansos Subsidi BBM",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220901083849-532-841740/simak-cara-dan-syarat-dapat-bansos-subsidi-bbm",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAxMDgzODQ5LTUzMi04NDE3NDAvc2ltYWstY2FyYS1kYW4tc3lhcmF0LWRhcGF0LWJhbnNvcy1zdWJzaWRpLWJibQ==",
-        "description": " Pemerintah meluncurkan BLT BBM untuk masyarakat miskin, simak cara dan syarat mendapatkannya."
-    },
-    {
-        "title": "September Meriah: BLT BBM Bisa Lawan Kemiskinan, Tapi Tidak Inflasi",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220901081209-85-841734/september-meriah-blt-bbm-bisa-lawan-kemiskinan-tapi-tidak-inflasi",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAxMDgxMjA5LTg1LTg0MTczNC9zZXB0ZW1iZXItbWVyaWFoLWJsdC1iYm0tYmlzYS1sYXdhbi1rZW1pc2tpbmFuLXRhcGktdGlkYWstaW5mbGFzaQ==",
-        "description": " Ekonom meyakini BLT BBM akan meredam dampak kenaikan harga BBM dan ancaman kemiskinan, namun tetap membuat lonjakan inflasi."
     }
 ]
