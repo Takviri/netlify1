@@ -1,5 +1,47 @@
 [
     {
+        "title": "Para Menteri G20 Bidang Digital Ekonomi Kumpul di Bali",
+        "link": "https://www.cnbcindonesia.com/news/20220901123149-7-368486/para-menteri-g20-bidang-digital-ekonomi-kumpul-di-bali",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEyMzE0OS03LTM2ODQ4Ni9wYXJhLW1lbnRlcmktZzIwLWJpZGFuZy1kaWdpdGFsLWVrb25vbWkta3VtcHVsLWRpLWJhbGk=",
+        "description": " Menkominfo mengadakan pertemuan bilateral dengan 12 negara dan 2 lembaga sebagai persiapan sebelum mengadakan Digital Economy Ministers' Meeting (DEMM)."
+    },
+    {
+        "title": "Internal PDIP Goyang Soal BBM, Ada yang Naik, Tahan dan Abstain",
+        "link": "https://www.cnbcindonesia.com/news/20220901135541-4-368468/internal-pdip-goyang-soal-bbm-ada-yang-naik-tahan-abstain",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEzNTU0MS00LTM2ODQ2OC9pbnRlcm5hbC1wZGlwLWdveWFuZy1zb2FsLWJibS1hZGEteWFuZy1uYWlrLXRhaGFuLWFic3RhaW4=",
+        "description": " Suara internal PDIP terpecah soal kenaikan harga BBM. Ada yang pilih pemerintah menaikkan harga, ada yang tahan dan ada pula yang abstain."
+    },
+    {
+        "title": "Jangan Happy Dulu Agustus Deflasi, Ancaman Besar Segera Tiba!",
+        "link": "https://www.cnbcindonesia.com/news/20220901130103-4-368457/jangan-happy-dulu-agustus-deflasi-ancaman-besar-segera-tiba",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEzMDEwMy00LTM2ODQ1Ny9qYW5nYW4taGFwcHktZHVsdS1hZ3VzdHVzLWRlZmxhc2ktYW5jYW1hbi1iZXNhci1zZWdlcmEtdGliYQ==",
+        "description": " Inflasi tinggi masih mengancam Indonesia ke depan terutama karena kebijakan BBM subsidi."
+    },
+    {
+        "title": "Heboh Harga Pertalite dan Solar Bakal Naik, LPG 'Melon' Nyusul?",
+        "link": "https://www.cnbcindonesia.com/news/20220901133354-4-368461/heboh-harga-pertalite-solar-bakal-naik-lpg-melon-nyusul",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEzMzM1NC00LTM2ODQ2MS9oZWJvaC1oYXJnYS1wZXJ0YWxpdGUtc29sYXItYmFrYWwtbmFpay1scGctbWVsb24tbnl1c3Vs",
+        "description": " Sinyal pemerintah akan menaikkan harga BBM bersubsidi jenis bensin Pertalite (RON 90) dan Solar subsidi semakin kuat."
+    },
+    {
+        "title": "Harga BBM Nonsubsidi Kompak Turun, Pertalite Jadi Naik?",
+        "link": "https://www.cnbcindonesia.com/news/20220901130144-8-368454/harga-bbm-nonsubsidi-kompak-turun-pertalite-jadi-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEzMDE0NC04LTM2ODQ1NC9oYXJnYS1iYm0tbm9uc3Vic2lkaS1rb21wYWstdHVydW4tcGVydGFsaXRlLWphZGktbmFpaw==",
+        "description": " PT Pertamina (Persero) resmi memangkas harga tiga BBM non subsidi, mulai 31 Agustus 2022."
+    },
+    {
+        "title": "Fantastis! Butuh Rp84,37 Kuadriliun Bersihkan Udara Bumi",
+        "link": "https://www.cnbcindonesia.com/news/20220901125342-4-368449/fantastis-butuh-rp8437-kuadriliun-bersihkan-udara-bumi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEyNTM0Mi00LTM2ODQ0OS9mYW50YXN0aXMtYnV0dWgtcnA4NDM3LWt1YWRyaWxpdW4tYmVyc2loa2FuLXVkYXJhLWJ1bWk=",
+        "description": " IRENA mencatat butuh US$ 5,7 triliun hingga tahun 2030 menggantikan peran energi fosil ke EBT"
+    },
+    {
         "title": "Belum Pulih, Ini Tanda-tanda Pariwisata RI Mulai 'Bangun'",
         "link": "https://www.cnbcindonesia.com/news/20220901134932-4-368469/belum-pulih-ini-tanda-tanda-pariwisata-ri-mulai-bangun",
         "image": "static/images/cnbc_news.png",
@@ -7,10 +49,10 @@
         "description": " Kunjungan wisman ke Indonesia meningkat tapi belum ke level sebelum pandemi."
     },
     {
-        "title": "Harga Cabai dan Bawang Turun, Sri Mulyani: Sesuai Diagnosa!",
-        "link": "https://www.cnbcindonesia.com/news/20220901140334-4-368472/harga-cabai-bawang-turun-sri-mulyani-sesuai-diagnosa",
+        "title": "Harga Cabai dan Bawang Turun, Sri Mulyani Happy",
+        "link": "https://www.cnbcindonesia.com/news/20220901140334-4-368472/harga-cabai-bawang-turun-sri-mulyani-happy",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTE0MDMzNC00LTM2ODQ3Mi9oYXJnYS1jYWJhaS1iYXdhbmctdHVydW4tc3JpLW11bHlhbmktc2VzdWFpLWRpYWdub3Nh",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTE0MDMzNC00LTM2ODQ3Mi9oYXJnYS1jYWJhaS1iYXdhbmctdHVydW4tc3JpLW11bHlhbmktaGFwcHk=",
         "description": " Menteri Keuangan Sri Mulyani menilai penurunan inflasi pangan, terutama cabai dan bawang merah, telah sesuai diagnosa yang dilakukan pemerintah."
     },
     {
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTE0MDMxMy00LTM2ODQ3NS9vbmVuZy1rcml0aWstZGFuYS1zdWJzaWRpLWJibS1ycDUwMi10LWluaS1rYXRhLXNyaS1tdWx5YW5p",
         "description": " Dana sebesar Rp 502,4 triliun yang dikeluarkan pemerintah pada tahun anggaran 2022 untuk pembayaran subsidi dan kompensasi energi menuai kritik."
-    },
-    {
-        "title": "Begini Kondisi Harga Beras Sampai Bikin BPS Was-was!",
-        "link": "https://www.cnbcindonesia.com/news/20220901124505-4-368447/begini-kondisi-harga-beras-sampai-bikin-bps-was-was",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEyNDUwNS00LTM2ODQ0Ny9iZWdpbmkta29uZGlzaS1oYXJnYS1iZXJhcy1zYW1wYWktYmlraW4tYnBzLXdhcy13YXM=",
-        "description": " Badan Pusat Statistik (BPS) melaporkan kenaikan harga beras terjadi sepanjang Agustus 2022."
-    },
-    {
-        "title": "Ramai-Ramai Warga Negara Ini Ngungsi Nunggu Kiamat, Ada Apa?",
-        "link": "https://www.cnbcindonesia.com/news/20220901134728-4-368466/ramai-ramai-warga-negara-ini-ngungsi-nunggu-kiamat-ada-apa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEzNDcyOC00LTM2ODQ2Ni9yYW1haS1yYW1haS13YXJnYS1uZWdhcmEtaW5pLW5ndW5nc2ktbnVuZ2d1LWtpYW1hdC1hZGEtYXBh",
-        "description": " Ribuan orang dilaporkan pergi meninggalkan kehidupan mereka dan melakukan perjalanan ke provinsi Siem Reap di Barat Laut, Kamboja. Alasannya karena kiamat."
-    },
-    {
-        "title": "Agustus Deflasi Tapi RI Belum Aman, Lihat Data Ini!",
-        "link": "https://www.cnbcindonesia.com/news/20220901122904-4-368441/agustus-deflasi-tapi-ri-belum-aman-lihat-data-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEyMjkwNC00LTM2ODQ0MS9hZ3VzdHVzLWRlZmxhc2ktdGFwaS1yaS1iZWx1bS1hbWFuLWxpaGF0LWRhdGEtaW5p",
-        "description": " Indeks Harga Konsumen (IHK) mengalami deflasi 0,21% pada Agustus 2022, namun inflasi pangan masih tetap tinggi di 8,93%."
-    },
-    {
-        "title": "Harga BBM Non Subsidi Orang Kaya Kompak Turun, Cek Harganya!",
-        "link": "https://www.cnbcindonesia.com/news/20220901122131-4-368439/harga-bbm-non-subsidi-orang-kaya-kompak-turun-cek-harganya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEyMjEzMS00LTM2ODQzOS9oYXJnYS1iYm0tbm9uLXN1YnNpZGktb3Jhbmcta2F5YS1rb21wYWstdHVydW4tY2VrLWhhcmdhbnlh",
-        "description": " Sejumlah perusahaan retail Bahan Bakar Minyak (BBM) per 1 September 2022 ini kompak menurunkan harga jualnya."
-    },
-    {
-        "title": "Eksportir Dukung DHE Demi Devisa, Tapi Butuh Perbaikan Ini!",
-        "link": "https://www.cnbcindonesia.com/news/20220901103513-8-368395/eksportir-dukung-dhe-demi-devisa-tapi-butuh-perbaikan-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEwMzUxMy04LTM2ODM5NS9la3Nwb3J0aXItZHVrdW5nLWRoZS1kZW1pLWRldmlzYS10YXBpLWJ1dHVoLXBlcmJhaWthbi1pbmk=",
-        "description": " Eksportir Dukung DHE Demi Devisa, Tapi Butuh Perbaikan Hal Ini"
-    },
-    {
-        "title": "Taiwan Kepincut Senjata Canggih AS Buat Lawan China",
-        "link": "https://www.cnbcindonesia.com/news/20220901121450-4-368431/taiwan-kepincut-senjata-canggih-as-buat-lawan-china",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEyMTQ1MC00LTM2ODQzMS90YWl3YW4ta2VwaW5jdXQtc2VuamF0YS1jYW5nZ2loLWFzLWJ1YXQtbGF3YW4tY2hpbmE=",
-        "description": " Tentara Taiwan berencana untuk mengerahkan lebih dari dua lusin baterai peluncur Sistem Roket Artileri Mobilitas Tinggi (HIMARS) buatan Amerika Serikat (AS)."
     }
 ]
