@@ -1,10 +1,24 @@
 [
     {
+        "title": "Human Rights Watch Pertanyakan Alasan Pemerintah Larang Yulvin Mote Terbangkan Pesawat di Indonesia",
+        "link": "https://nasional.tempo.co/read/1629468/human-rights-watch-pertanyakan-alasan-pemerintah-larang-yulvin-mote-terbangkan-pesawat-di-indonesia",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk0NjgvaHVtYW4tcmlnaHRzLXdhdGNoLXBlcnRhbnlha2FuLWFsYXNhbi1wZW1lcmludGFoLWxhcmFuZy15dWx2aW4tbW90ZS10ZXJiYW5na2FuLXBlc2F3YXQtZGktaW5kb25lc2lh",
+        "description": "Peneliti Human Rights Watch Andreas Harsono mempertanyakan alasan Kemenhub melarang seorang pilot asal Papua, Yulvin Mote, menerbangkan pesawat."
+    },
+    {
         "title": "Masyarakat Sipil Beberkan Kondisi HAM di Indonesia ke PBB",
         "link": "https://nasional.tempo.co/read/1629457/masyarakat-sipil-beberkan-kondisi-ham-di-indonesia-ke-pbb",
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk0NTcvbWFzeWFyYWthdC1zaXBpbC1iZWJlcmthbi1rb25kaXNpLWhhbS1kaS1pbmRvbmVzaWEta2UtcGJi",
         "description": "Fatia Maulidiyanti dalam kesempatan itu menyampaikan bahwa Indonesia belum memiliki aturan lengkap tentang perlindungan pembela HAM."
+    },
+    {
+        "title": "BPS Rilis Nilai Tukar Petani di 27 Provinsi Meningkat",
+        "link": "https://nasional.tempo.co/read/1629465/bps-rilis-nilai-tukar-petani-di-27-provinsi-meningkat",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk0NjUvYnBzLXJpbGlzLW5pbGFpLXR1a2FyLXBldGFuaS1kaS0yNy1wcm92aW5zaS1tZW5pbmdrYXQ=",
+        "description": "Komoditas penyumbang diantaranya adalah kelapa sawit, gabah telur ayam ras dan cengkeh"
     },
     {
         "title": "Riset Ilmiah Kandidat Doktor Bamsoet di Jurnal Internasional Scopus",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk0MzQvaGFyaS1wb2x3YW4tc2VqYXJhaC10ZXJiZW50dWtueWEtYmVybXVsYS1kaS1idWtpdHRpbmdnaS03NC10YWh1bi1sYWx1",
         "description": "Kota Bukittinggi di Sumatera Barat menjadi tempat pertama dilatihnya Polisi Wanita. disingkat Polwan pada hari ini ini 74 tahun silam."
-    },
-    {
-        "title": "Pembuatan Plakat Penghargaan IRRI di Indonesia Melalui Mekanisme Panjang",
-        "link": "https://nasional.tempo.co/read/1629444/pembuatan-plakat-penghargaan-irri-di-indonesia-melalui-mekanisme-panjang",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk0NDQvcGVtYnVhdGFuLXBsYWthdC1wZW5naGFyZ2Fhbi1pcnJpLWRpLWluZG9uZXNpYS1tZWxhbHVpLW1la2FuaXNtZS1wYW5qYW5n",
-        "description": "Pembuatan plakat di Indonesia didasari pada kondisi dunia yang saat ini mengalami pandemi tinggi"
-    },
-    {
-        "title": "Komisi I Apresiasi Tindakan Menlu Selamatkan 241 WNI di Kamboja",
-        "link": "https://nasional.tempo.co/read/1629425/komisi-i-apresiasi-tindakan-menlu-selamatkan-241-wni-di-kamboja",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk0MjUva29taXNpLWktYXByZXNpYXNpLXRpbmRha2FuLW1lbmx1LXNlbGFtYXRrYW4tMjQxLXduaS1kaS1rYW1ib2ph",
-        "description": "Ketua Komisi I DPR RI Meutya Hafid mengapresiasi gerak cepat Kementerian Luar Negeri (Kemlu) RI untuk menyelamatkan 241 WNI yang terjerat lowongan kerja bodong atau online scam di Kamboja."
     }
 ]
