@@ -1,5 +1,26 @@
 [
     {
+        "title": "Kendaraan Apa Saja yang Berhak Mengonsumsi BBM Bersubsidi?",
+        "link": "https://bisnis.tempo.co/read/1629450/kendaraan-apa-saja-yang-berhak-mengonsumsi-bbm-bersubsidi",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI5NDUwL2tlbmRhcmFhbi1hcGEtc2FqYS15YW5nLWJlcmhhay1tZW5nb25zdW1zaS1iYm0tYmVyc3Vic2lkaQ==",
+        "description": "Merujuk Perpres Nomor 191 Tahun 2014, berikut adalah berbagai jenis kendaraan yang berhak mengonsumsi BBM bersubsidi."
+    },
+    {
+        "title": "Pengamat: Penyesuaian Harga BBM dan Penyaluran Bansos Perlu Beriringan",
+        "link": "https://bisnis.tempo.co/read/1629459/pengamat-penyesuaian-harga-bbm-dan-penyaluran-bansos-perlu-beriringan",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI5NDU5L3BlbmdhbWF0LXBlbnllc3VhaWFuLWhhcmdhLWJibS1kYW4tcGVueWFsdXJhbi1iYW5zb3MtcGVybHUtYmVyaXJpbmdhbg==",
+        "description": "Pemerintah bisa mengambil opsi untuk menyesuaikan harga BBM bersubsidi."
+    },
+    {
+        "title": "Airlangga: Inflasi Agustus Menurun Tipis di 4,69 Persen, Jambi Sudah Deflasi",
+        "link": "https://bisnis.tempo.co/read/1629452/airlangga-inflasi-agustus-menurun-tipis-di-469-persen-jambi-sudah-deflasi",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI5NDUyL2FpcmxhbmdnYS1pbmZsYXNpLWFndXN0dXMtbWVudXJ1bi10aXBpcy1kaS00NjktcGVyc2VuLWphbWJpLXN1ZGFoLWRlZmxhc2k=",
+        "description": "Menteri Airlangga menyebut Provinsi Jambi sudah mengalami deflasi, tetapi angka inflasinya masih 7,7 persen."
+    },
+    {
         "title": "Terkini Bisnis: Penjelasan Plakat IRRI untuk Jokowi, Harga BBM Bersubsidi Belum Naik",
         "link": "https://bisnis.tempo.co/read/1629427/terkini-bisnis-penjelasan-plakat-irri-untuk-jokowi-harga-bbm-bersubsidi-belum-naik",
         "image": "static/images/tempo_bisnis.png",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI5MzM5L3RpcHMtbWVuZ2FudGlzaXBhc2ktc2FsYWgtYmFudGFsLWRhbi1wb3Npc2lueWEtc2VsYW1hLXRpZHVy",
         "description": "Sakit leher saat bangun tidur akibat salah bantal memang menyebalkan. Berikut tips mengatasinya"
-    },
-    {
-        "title": "Ditjen Hubdat Masih Mendalami Penyebab Kecelakaan Maut Bekasi",
-        "link": "https://bisnis.tempo.co/read/1629363/ditjen-hubdat-masih-mendalami-penyebab-kecelakaan-maut-bekasi",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI5MzYzL2RpdGplbi1odWJkYXQtbWFzaWgtbWVuZGFsYW1pLXBlbnllYmFiLWtlY2VsYWthYW4tbWF1dC1iZWthc2k=",
-        "description": "Ditjen Hubdat berkoordinasi dengan Tim KNKT yang akan melakukan investigasi mendalam penyebab kecelakaan maut di Jalan Sultan Agung, Bekasi Barat."
-    },
-    {
-        "title": "Penjelasan IRRI Soal Plakat Swasembada Beras untuk Jokowi",
-        "link": "https://bisnis.tempo.co/read/1629356/penjelasan-irri-soal-plakat-swasembada-beras-untuk-jokowi",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI5MzU2L3BlbmplbGFzYW4taXJyaS1zb2FsLXBsYWthdC1zd2FzZW1iYWRhLWJlcmFzLXVudHVrLWpva293aQ==",
-        "description": "International Rice Research Institute (IRRI) menyatakan keputusan pembuatan plakat di Tanah Air sudah melalui mekanisme panjang."
-    },
-    {
-        "title": "Hari Perdana Beroperasi, Bandara Halim Layani 10 Penerbangan",
-        "link": "https://bisnis.tempo.co/read/1629349/hari-perdana-beroperasi-bandara-halim-layani-10-penerbangan",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjI5MzQ5L2hhcmktcGVyZGFuYS1iZXJvcGVyYXNpLWJhbmRhcmEtaGFsaW0tbGF5YW5pLTEwLXBlbmVyYmFuZ2Fu",
-        "description": "Bandara Halim Perdanakusuma kembali membuka layanan penerbangan komersial. Hari ini, tercatat ada 10 penerbangan yang dijadwalkan."
     }
 ]
