@@ -1,5 +1,19 @@
 [
     {
+        "title": "KNKT: Truk Kecelakaan Maut Bekasi Layak Jalan",
+        "link": "https://www.cnnindonesia.com/nasional/20220902023312-20-842210/knkt-truk-kecelakaan-maut-bekasi-layak-jalan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjAyMzMxMi0yMC04NDIyMTAva25rdC10cnVrLWtlY2VsYWthYW4tbWF1dC1iZWthc2ktbGF5YWstamFsYW4=",
+        "description": " KNKT menyatakan truk yang terlibat kecelakaan maut di Bekasi layak jalan tapi kelebihan muatan 200 persen"
+    },
+    {
+        "title": "Jokowi Soroti Penyakit Zoonosis, Sebut Ancaman Bakal Bertambah",
+        "link": "https://www.cnnindonesia.com/nasional/20220901235755-20-842203/jokowi-soroti-penyakit-zoonosis-sebut-ancaman-bakal-bertambah",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTIzNTc1NS0yMC04NDIyMDMvam9rb3dpLXNvcm90aS1wZW55YWtpdC16b29ub3Npcy1zZWJ1dC1hbmNhbWFuLWJha2FsLWJlcnRhbWJhaA==",
+        "description": " Presiden Joko Widodo bicara soal ancaman penyakit yang berasal dari binatang dan menular kepada manusia saat hadir dalam acara Dies Natalis Ke-59\u00c2\u00a0IPB"
+    },
+    {
         "title": "Galakkan Tanam Cabai di Rumah, TNI-Polri Dikerahkan di Medan",
         "link": "https://www.cnnindonesia.com/nasional/20220902015510-20-842208/galakkan-tanam-cabai-di-rumah-tni-polri-dikerahkan-di-medan",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTIzMDUxOC0zMi04NDIxOTkvcG9saXRpa3VzLWRlbW9rcmF0LXNhdGdhcy1tZXJhaC1wdXRpaC1wb2xyaS1zdWtzZXNrYW4tY2FwcmVzLWRpLTIwMTk=",
         "description": " Politikus Demokrat Benny K. Harman menyebut Satuan Tugas Khusus (Satgassus) Merah Putih Polri yang pernah dipimpin Irjen Ferdy Sambo pernah dipakai capres"
-    },
-    {
-        "title": "KNKT: Truk Kecelakaan Maut Bekasi Kelebihan Muatan 200 Persen",
-        "link": "https://www.cnnindonesia.com/nasional/20220901232050-20-842200/knkt-truk-kecelakaan-maut-bekasi-kelebihan-muatan-200-persen",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTIzMjA1MC0yMC04NDIyMDAva25rdC10cnVrLWtlY2VsYWthYW4tbWF1dC1iZWthc2kta2VsZWJpaGFuLW11YXRhbi0yMDAtcGVyc2Vu",
-        "description": " Komite Nasional Keselamatan Transportasi (KNKT) menyebut sopir truk tidak mengetahui muatan telah melebihi aturan."
-    },
-    {
-        "title": "Sekjen Gerindra Minta Kader Mau Saingi Prabowo di Pilpres Lekas Keluar",
-        "link": "https://www.cnnindonesia.com/nasional/20220901225124-32-842198/sekjen-gerindra-minta-kader-mau-saingi-prabowo-di-pilpres-lekas-keluar",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTIyNTEyNC0zMi04NDIxOTgvc2VramVuLWdlcmluZHJhLW1pbnRhLWthZGVyLW1hdS1zYWluZ2ktcHJhYm93by1kaS1waWxwcmVzLWxla2FzLWtlbHVhcg==",
-        "description": " Sekjen Gerindra, Ahmad Muzani menegaskan capres dari partainya hanya Prabowo Subianto. Jika ada yang ingin maju capres, diminta segera keluar dari Gerindra"
     }
 ]
