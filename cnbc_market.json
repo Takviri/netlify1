@@ -1,9 +1,16 @@
 [
     {
-        "title": "Inflasi RI Deflasi, Eh Rupiah Ikutan Terdepresiasi...",
-        "link": "https://www.cnbcindonesia.com/market/20220901104345-17-368400/inflasi-ri-deflasi-eh-rupiah-ikutan-terdepresiasi",
+        "title": "Gak Kaget RI Deflasi, IHSG Sesi I Ditutup Menguat Tipis!",
+        "link": "https://www.cnbcindonesia.com/market/20220901113607-17-368419/gak-kaget-ri-deflasi-ihsg-sesi-i-ditutup-menguat-tipis",
         "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAxMTA0MzQ1LTE3LTM2ODQwMC9pbmZsYXNpLXJpLWRlZmxhc2ktZWgtcnVwaWFoLWlrdXRhbi10ZXJkZXByZXNpYXNp",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAxMTEzNjA3LTE3LTM2ODQxOS9nYWsta2FnZXQtcmktZGVmbGFzaS1paHNnLXNlc2ktaS1kaXR1dHVwLW1lbmd1YXQtdGlwaXM=",
+        "description": " Indeks Harga Saham Gabungan (IHSG) berakhir menguat 0,05% ke 7.086,11 pada penutupan perdagangan sesi I Kamis (1/9/2022)."
+    },
+    {
+        "title": "RI Deflasi, Eh Kok Rupiah Ikutan Terdepresiasi...",
+        "link": "https://www.cnbcindonesia.com/market/20220901104345-17-368400/ri-deflasi-eh-kok-rupiah-ikutan-terdepresiasi",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAxMTA0MzQ1LTE3LTM2ODQwMC9yaS1kZWZsYXNpLWVoLWtvay1ydXBpYWgtaWt1dGFuLXRlcmRlcHJlc2lhc2k=",
         "description": " Kurs rupiah kembali dilibas dolar Amerika Serikat (AS), hingga di pertengahan perdagangan Rabu (31/8/2022)"
     },
     {
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAxMDk1MTI4LTE3LTM2ODM3My9tZW1iZWRhaC1qdXJ1cy1lZmlzaWVuc2ktZ290by1xMi0yMDIyLXBlbGFuZ2dhbi1tYWtpbi1sb3lhbA==",
         "description": " Percepatan GOTO menuju profitabilitas semakin terbuka didorong Nilai transaksi bruto (GTV) dan pendapatan bruto yang terus tumbuh."
-    },
-    {
-        "title": "Bitcoin Dkk Ambruk Lagi, Kamu Masih Pegang atau Sudah Jual?",
-        "link": "https://www.cnbcindonesia.com/market/20220901094453-17-368369/bitcoin-dkk-ambruk-lagi-kamu-masih-pegang-atau-sudah-jual",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAxMDk0NDUzLTE3LTM2ODM2OS9iaXRjb2luLWRray1hbWJydWstbGFnaS1rYW11LW1hc2loLXBlZ2FuZy1hdGF1LXN1ZGFoLWp1YWw=",
-        "description": " Harga kripto utama cenderung terkoreksi pada perdagangan Kamis (1/9/2022), karena investor masih berhati-hati memburu aset berisiko"
     }
 ]
