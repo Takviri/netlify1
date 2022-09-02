@@ -1,5 +1,47 @@
 [
     {
+        "title": "Batu Bara Mahal Jelang Musim DIngin, Pengusaha Keruk Cuan",
+        "link": "https://www.cnbcindonesia.com/market/20220902154407-19-368875/batu-bara-mahal-jelang-musim-dingin-pengusaha-keruk-cuan",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAyMTU0NDA3LTE5LTM2ODg3NS9iYXR1LWJhcmEtbWFoYWwtamVsYW5nLW11c2ltLWRpbmdpbi1wZW5ndXNhaGEta2VydWstY3Vhbg==",
+        "description": " Harga Batu Bara Meroket Sambut Musim Dingin, Pengusaha Keruk Cuan"
+    },
+    {
+        "title": "Maaf! Bukan Rupiah, Ini Mata Uang Asia Favorit Goldman Sachs",
+        "link": "https://www.cnbcindonesia.com/market/20220902140207-17-368821/maaf-bukan-rupiah-ini-mata-uang-asia-favorit-goldman-sachs",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAyMTQwMjA3LTE3LTM2ODgyMS9tYWFmLWJ1a2FuLXJ1cGlhaC1pbmktbWF0YS11YW5nLWFzaWEtZmF2b3JpdC1nb2xkbWFuLXNhY2hz",
+        "description": " Kinerja rupiah sepanjang tahun ini melawan dolar Amerika Serikat (AS) tidak terlalu buruk."
+    },
+    {
+        "title": "Akhir Pekan Happy! IHSG Ditutup Cerah, Sempat Sentuh 7.200",
+        "link": "https://www.cnbcindonesia.com/market/20220902152709-17-368861/akhir-pekan-happy-ihsg-ditutup-cerah-sempat-sentuh-7200",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAyMTUyNzA5LTE3LTM2ODg2MS9ha2hpci1wZWthbi1oYXBweS1paHNnLWRpdHV0dXAtY2VyYWgtc2VtcGF0LXNlbnR1aC03MjAw",
+        "description": " Indeks Harga Saham Gabungan (IHSG) ditutup di zona hijau pada perdagangan Jumat (2/9/2022), pasca\u00c2\u00a0melandainya inflasi\u00c2\u00a0RI periode Agustus 2022."
+    },
+    {
+        "title": "Jumlah Saham IPO Black Diamond Dipangkas, Ada Apa Nih?",
+        "link": "https://www.cnbcindonesia.com/market/20220902135054-17-368818/jumlah-saham-ipo-black-diamond-dipangkas-ada-apa-nih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAyMTM1MDU0LTE3LTM2ODgxOC9qdW1sYWgtc2FoYW0taXBvLWJsYWNrLWRpYW1vbmQtZGlwYW5na2FzLWFkYS1hcGEtbmlo",
+        "description": " Jumlah proceed IPO Black Diamond dikurangi, ada apa?"
+    },
+    {
+        "title": "Jelang Akhir Pekan, Harga Emas Mulai Bangkit Perlahan",
+        "link": "https://www.cnbcindonesia.com/market/20220902152048-17-368860/jelang-akhir-pekan-harga-emas-mulai-bangkit-perlahan",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAyMTUyMDQ4LTE3LTM2ODg2MC9qZWxhbmctYWtoaXItcGVrYW4taGFyZ2EtZW1hcy1tdWxhaS1iYW5na2l0LXBlcmxhaGFu",
+        "description": " Harga emas menguat 0,35%."
+    },
+    {
+        "title": "Market Focus: Lockdown China hingga Berkah Harga Batu Bara",
+        "link": "https://www.cnbcindonesia.com/market/20220902150911-19-368854/market-focus-lockdown-china-hingga-berkah-harga-batu-bara",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAyMTUwOTExLTE5LTM2ODg1NC9tYXJrZXQtZm9jdXMtbG9ja2Rvd24tY2hpbmEtaGluZ2dhLWJlcmthaC1oYXJnYS1iYXR1LWJhcmE=",
+        "description": " Market Focus: Lockdown China hingga Lonjakan Harga Batu Bara"
+    },
+    {
         "title": "Suku Bunga The Fed Bisa di Atas 4%, Rupiah Melemah Lagi!",
         "link": "https://www.cnbcindonesia.com/market/20220902152301-17-368857/suku-bunga-the-fed-bisa-di-atas-4-rupiah-melemah-lagi",
         "image": "static/images/cnbc_market.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAyMTM1NzIwLTE5LTM2ODgxOS9rYXJ0dS1rcmVkaXQtcGVtZXJpbnRhaC1kaWx1bmN1cmthbi1wZW5lcmFwYW5ueWEtYmFnYWltYW5h",
         "description": " Kartu Kredit Pemerintah Diluncurkan, Penerapannya Gimana?"
-    },
-    {
-        "title": "BUMI Siap Private Placement Rp 24 T, Siapa Nih Investornya?",
-        "link": "https://www.cnbcindonesia.com/market/20220902132006-17-368807/bumi-siap-private-placement-rp-24-t-siapa-nih-investornya",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAyMTMyMDA2LTE3LTM2ODgwNy9idW1pLXNpYXAtcHJpdmF0ZS1wbGFjZW1lbnQtcnAtMjQtdC1zaWFwYS1uaWgtaW52ZXN0b3JueWE=",
-        "description": " Dana yang diperoleh dari aksi korporasi tersebut akan digunakan untuk melakukan penyelesaian kewajiban."
-    },
-    {
-        "title": "Pasca Beli Petrosea dari Indika, Begini Rencana Romo Nitiyudo",
-        "link": "https://www.cnbcindonesia.com/market/20220902112735-17-368757/pasca-beli-petrosea-dari-indika-begini-rencana-romo-nitiyudo",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAyMTEyNzM1LTE3LTM2ODc1Ny9wYXNjYS1iZWxpLXBldHJvc2VhLWRhcmktaW5kaWthLWJlZ2luaS1yZW5jYW5hLXJvbW8tbml0aXl1ZG8=",
-        "description": " Dia menegaskan Petrosea akan ekspansi dari kontraktor tambang menjadi mine owner"
-    },
-    {
-        "title": "Sentimen BBM Hingga Inflasi, Investasi RI Masih Prospektif?",
-        "link": "https://www.cnbcindonesia.com/market/20220902132110-19-368808/sentimen-bbm-hingga-inflasi-investasi-ri-masih-prospektif",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAyMTMyMTEwLTE5LTM2ODgwOC9zZW50aW1lbi1iYm0taGluZ2dhLWluZmxhc2ktaW52ZXN0YXNpLXJpLW1hc2loLXByb3NwZWt0aWY=",
-        "description": " Sentimen BBM Hingga Inflasi, Iklim Investasi RI Masih Prospektif?"
-    },
-    {
-        "title": "Sinyal Resesi Terpantau, Dolar Australia Jeblok!",
-        "link": "https://www.cnbcindonesia.com/market/20220902120757-17-368779/sinyal-resesi-terpantau-dolar-australia-jeblok",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAyMTIwNzU3LTE3LTM2ODc3OS9zaW55YWwtcmVzZXNpLXRlcnBhbnRhdS1kb2xhci1hdXN0cmFsaWEtamVibG9r",
-        "description": " Nilai tukar dolar Australia jeblok 3 hari beruntun melawan rupiah pada perdagangan Jumat (2/9/2022)"
-    },
-    {
-        "title": "Sasar UMKM, KB Bukopin Gandeng KSP Sahabat Mitra Sejati",
-        "link": "https://www.cnbcindonesia.com/market/20220902131516-17-368805/sasar-umkm-kb-bukopin-gandeng-ksp-sahabat-mitra-sejati",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAyMTMxNTE2LTE3LTM2ODgwNS9zYXNhci11bWttLWtiLWJ1a29waW4tZ2FuZGVuZy1rc3Atc2FoYWJhdC1taXRyYS1zZWphdGk=",
-        "description": " PT Bank KB Bukopin Tbk (BBKP) bekerja sama dengan KSP Sahabat Mitra Sejati (Sampoerna Group) untuk mendukung segmen UMKM"
-    },
-    {
-        "title": "Batu Bara Lagi Hot, Saham BUMI Sudah Terbang 200% Lebih",
-        "link": "https://www.cnbcindonesia.com/market/20220902123318-17-368789/batu-bara-lagi-hot-saham-bumi-sudah-terbang-200-lebih",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAyMTIzMzE4LTE3LTM2ODc4OS9iYXR1LWJhcmEtbGFnaS1ob3Qtc2FoYW0tYnVtaS1zdWRhaC10ZXJiYW5nLTIwMC1sZWJpaA==",
-        "description": " Saham BUMI sudah terbang tinggi"
     }
 ]
