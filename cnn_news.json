@@ -1,5 +1,40 @@
 [
     {
+        "title": "VIDEO: Kecelakaan Truk Bekasi Diakibatkan Kelebihan Muatan 20 Ton",
+        "link": "https://www.cnnindonesia.com/nasional/20220902084145-24-842253/video-kecelakaan-truk-bekasi-diakibatkan-kelebihan-muatan-20-ton",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjA4NDE0NS0yNC04NDIyNTMvdmlkZW8ta2VjZWxha2Fhbi10cnVrLWJla2FzaS1kaWFraWJhdGthbi1rZWxlYmloYW4tbXVhdGFuLTIwLXRvbg==",
+        "description": " KNKT menyatakan truk dalam kecelakaan maut di depan SD Negeri Kota Baru II dan III Kota Bekasi kelebihan muatan hingga\u00c2\u00a020 ton."
+    },
+    {
+        "title": "KPK Dalami Aliran Uang Mardani Maming Terkait Penerbitan IUP",
+        "link": "https://www.cnnindonesia.com/nasional/20220902085716-12-842261/kpk-dalami-aliran-uang-mardani-maming-terkait-penerbitan-iup",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjA4NTcxNi0xMi04NDIyNjEva3BrLWRhbGFtaS1hbGlyYW4tdWFuZy1tYXJkYW5pLW1hbWluZy10ZXJrYWl0LXBlbmVyYml0YW4taXVw",
+        "description": " Tim penyidik KPK juga telah mendalami aktivitas keuangan sejumlah perusahaan tambang di Tanah Bumbu yang diduga terafiliasi dengan Maming."
+    },
+    {
+        "title": "Andika Mutasi Perwira Tinggi, Laksma Kisdiyanto Jadi Kapuspen TNI",
+        "link": "https://www.cnnindonesia.com/nasional/20220902083828-20-842251/andika-mutasi-perwira-tinggi-laksma-kisdiyanto-jadi-kapuspen-tni",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjA4MzgyOC0yMC04NDIyNTEvYW5kaWthLW11dGFzaS1wZXJ3aXJhLXRpbmdnaS1sYWtzbWEta2lzZGl5YW50by1qYWRpLWthcHVzcGVuLXRuaQ==",
+        "description": " Panglima TNI Jenderal Andika Perkasa mengganti posisi Kepala Pusat Penerangan (Kapuspen) TNI yang kini diisi Laksma Kisdiyanto."
+    },
+    {
+        "title": "VIDEO: Komnas HAM: Rekaman CCTV Dipotong Agar Sesuai Skenario Sambo",
+        "link": "https://www.cnnindonesia.com/nasional/20220902071657-16-842228/video-komnas-ham-rekaman-cctv-dipotong-agar-sesuai-skenario-sambo",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjA3MTY1Ny0xNi04NDIyMjgvdmlkZW8ta29tbmFzLWhhbS1yZWthbWFuLWNjdHYtZGlwb3RvbmctYWdhci1zZXN1YWktc2tlbmFyaW8tc2FtYm8=",
+        "description": " Komnas HAM menyatakan pihaknya menemukan praktik memilah rekaman CCTV untuk mendukung narasi pembunuhan Brigadir J sesuai skenario Ferdy Sambo."
+    },
+    {
+        "title": "Panglima TNI Tunjuk Laksda Heru Kusmanto Jadi Pangkoarmada RI",
+        "link": "https://www.cnnindonesia.com/nasional/20220902080828-20-842242/panglima-tni-tunjuk-laksda-heru-kusmanto-jadi-pangkoarmada-ri",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjA4MDgyOC0yMC04NDIyNDIvcGFuZ2xpbWEtdG5pLXR1bmp1ay1sYWtzZGEtaGVydS1rdXNtYW50by1qYWRpLXBhbmdrb2FybWFkYS1yaQ==",
+        "description": " Panglima TNI Jenderal Andika Perkasa menunjuk Laksda Heru Kusmanto sebagai Panglima Komando Armada (Pangkoarmada) RI yang baru."
+    },
+    {
         "title": "Dua Perkara Jerat Sambo: Pembunuhan dan Obstruction of Justice",
         "link": "https://www.cnnindonesia.com/nasional/20220902083337-12-842254/dua-perkara-jerat-sambo-pembunuhan-dan-obstruction-of-justice",
         "image": "static/images/cnn_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjA3MjQ1OS0yMC04NDIyMzEvcGFuZ2xpbWEtdG5pLW11dGFzaS0xMDktcGVyd2lyYS1wYW5na29hcm1hZGEtaGluZ2dhLWthcHVzcGVuLWRpZ2FudGk=",
         "description": " Asisten Perencanaan Umum (Asrenum) Panglima TNI yakni Laksda TNI Heru Kusmanto mendapat promosi jabatan sebagai Panglima Komando Armada (Pangkoarmada) RI."
-    },
-    {
-        "title": "Bahar bin Smith Bertemu Rizieq Shihab Usai Bebas dari Penjara",
-        "link": "https://www.cnnindonesia.com/nasional/20220902072402-12-842233/bahar-bin-smith-bertemu-rizieq-shihab-usai-bebas-dari-penjara",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjA3MjQwMi0xMi04NDIyMzMvYmFoYXItYmluLXNtaXRoLWJlcnRlbXUtcml6aWVxLXNoaWhhYi11c2FpLWJlYmFzLWRhcmktcGVuamFyYQ==",
-        "description": " Penceramah Bahar bin Smith menemui Rizieq Shihab di Petamburan, Jakarta Pusat usai\u00c2\u00a0resmi bebas dari penjara."
-    },
-    {
-        "title": "KNKT: Sopir Truk Bekasi Sempat Bingung Salah Jalan Sebelum Kecelakaan",
-        "link": "https://www.cnnindonesia.com/nasional/20220902071451-12-842227/knkt-sopir-truk-bekasi-sempat-bingung-salah-jalan-sebelum-kecelakaan",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjA3MTQ1MS0xMi04NDIyMjcva25rdC1zb3Bpci10cnVrLWJla2FzaS1zZW1wYXQtYmluZ3VuZy1zYWxhaC1qYWxhbi1zZWJlbHVtLWtlY2VsYWthYW4=",
-        "description": " KNKT mengungkapkan sopir truk yang terlibat kecelakaan maut di depan SD Negeri Kota Baru II dan III Kota Bekasi, Jawa Barat sempat bingung lantaran salah jalan."
-    },
-    {
-        "title": "Syarat Memperbaiki Akta Kelahiran yang Salah",
-        "link": "https://www.cnnindonesia.com/nasional/20220831134034-31-841368/syarat-memperbaiki-akta-kelahiran-yang-salah",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDgzMTEzNDAzNC0zMS04NDEzNjgvc3lhcmF0LW1lbXBlcmJhaWtpLWFrdGEta2VsYWhpcmFuLXlhbmctc2FsYWg=",
-        "description": " Jika hendak mengubah\u00c2\u00a0data, terdapat beberapa syarat memperbaiki akta kelahiran yang salah untuk Anda siapkan."
-    },
-    {
-        "title": "VIDEO: Sempat Diralat, Sambo Tersangka ke-7 Obstruction of Justice",
-        "link": "https://www.cnnindonesia.com/nasional/20220902011839-16-842206/video-sempat-diralat-sambo-tersangka-ke-7-obstruction-of-justice",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjAxMTgzOS0xNi04NDIyMDYvdmlkZW8tc2VtcGF0LWRpcmFsYXQtc2FtYm8tdGVyc2FuZ2thLWtlLTctb2JzdHJ1Y3Rpb24tb2YtanVzdGljZQ==",
-        "description": " Ferdy Sambo ditetapkan menjadi tersangka baru sekaligus orang ketujuh perkara obstruction of justice penyidikan pembunuhan berencana Brigadir J."
-    },
-    {
-        "title": "Eks PKI Boleh Jadi Calon Anggota DPR tapi Dilarang Nyapres",
-        "link": "https://www.cnnindonesia.com/nasional/20220902021100-32-842209/eks-pki-boleh-jadi-calon-anggota-dpr-tapi-dilarang-nyapres",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjAyMTEwMC0zMi04NDIyMDkvZWtzLXBraS1ib2xlaC1qYWRpLWNhbG9uLWFuZ2dvdGEtZHByLXRhcGktZGlsYXJhbmctbnlhcHJlcw==",
-        "description": " Dalam UU Pemilu, syarat capres-cawapres adalah bukan mantan anggota PKI. Namun, syarat tersebut tidak berlaku bagi calon anggota DPR."
     }
 ]
