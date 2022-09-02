@@ -1,5 +1,19 @@
 [
     {
+        "title": "Intip Gaji Karyawan Freeport",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220902082855-85-842248/intip-gaji-karyawan-freeport",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAyMDgyODU1LTg1LTg0MjI0OC9pbnRpcC1nYWppLWthcnlhd2FuLWZyZWVwb3J0",
+        "description": " Freeport Indonesia mengklaim memberikan gaji yang adil pada karyawan sesuai risiko kerja yang tinggi."
+    },
+    {
+        "title": "Cuci Gudang, Harga Minyak Merosot Lagi Jadi US$86 per Barel",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220902081817-85-842245/cuci-gudang-harga-minyak-merosot-lagi-jadi-us-86-per-barel",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAyMDgxODE3LTg1LTg0MjI0NS9jdWNpLWd1ZGFuZy1oYXJnYS1taW55YWstbWVyb3NvdC1sYWdpLWphZGktdXMtODYtcGVyLWJhcmVs",
+        "description": " Harga minyak mentah dunia anjlok lebih dari 3 persen pada Kamis (1/9) waktu AS, dengan WTI dibanderol murah US$86,61 per barel."
+    },
+    {
         "title": "Daftar Tenaga Honorer yang Dihapus pada 2023",
         "link": "https://www.cnnindonesia.com/ekonomi/20220902073932-532-842235/daftar-tenaga-honorer-yang-dihapus-pada-2023",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAxMTUxMTU2LTkyLTg0MTk4MS9rZW1lbmh1Yi1nZWxvbnRvcmthbi1ycDI3Ny1tLXVudHVrLWlrbg==",
         "description": " Kementerian Perhubungan akan menggelontorkan dana sebesar Rp277 miliar untuk membiayai kegiatan pendukung ibu kota nusantara (IKN)."
-    },
-    {
-        "title": "Harga Komoditas Pangan Turun, Daya Beli Petani di Pedesaan Naik",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220901152205-92-841988/harga-komoditas-pangan-turun-daya-beli-petani-di-pedesaan-naik",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAxMTUyMjA1LTkyLTg0MTk4OC9oYXJnYS1rb21vZGl0YXMtcGFuZ2FuLXR1cnVuLWRheWEtYmVsaS1wZXRhbmktZGktcGVkZXNhYW4tbmFpaw==",
-        "description": " BPS\u00c2\u00a0mencatat nilai tukar petani naik 1,97 persen menjadi 106,31 pada Agustus 2022 (mtm) ditopang harga yang diterima petani lebih besar dari yang harus dibayar."
-    },
-    {
-        "title": "Bed Bath dan Beyond PHK 20 Persen Karyawan dan Tutup 150 Toko",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220901103642-92-841805/bed-bath-beyond-phk-20-persen-karyawan-dan-tutup-150-toko",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAxMTAzNjQyLTkyLTg0MTgwNS9iZWQtYmF0aC1iZXlvbmQtcGhrLTIwLXBlcnNlbi1rYXJ5YXdhbi1kYW4tdHV0dXAtMTUwLXRva28=",
-        "description": " Bed Bath dan Beyond akan memutus hubungan kerja (PHK) terhadap 20 persen karyawannya dan menutup 150 tokonya supaya selamat dari kebangkrutan."
     }
 ]
