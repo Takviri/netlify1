@@ -1,5 +1,12 @@
 [
     {
+        "title": "Polri Jangan Istimewakan Putri Candrawathi",
+        "link": "https://www.cnnindonesia.com/nasional/20220902140644-20-842455/polri-jangan-istimewakan-putri-candrawathi",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjE0MDY0NC0yMC04NDI0NTUvcG9scmktamFuZ2FuLWlzdGltZXdha2FuLXB1dHJpLWNhbmRyYXdhdGhp",
+        "description": " Polri diminta menerapkan prinsip equality before the law terhadap istri mantan Kadiv Propam Polri Irjen Ferdy Sambo, Putri Candrawathi dalam kasus Brigadir J."
+    },
+    {
         "title": "Mahasiswi Baru Tewas Diduga Lompat dari Apartemen di Semarang",
         "link": "https://www.cnnindonesia.com/nasional/20220902140947-20-842452/mahasiswi-baru-tewas-diduga-lompat-dari-apartemen-di-semarang",
         "image": "static/images/cnn_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjEzMTI0My0zMi04NDI0MTMvcHJhYm93by1iZXJ0ZW11LXdhbWVuZGVzLWJ1ZGktYXJpZS1iYW50YWgtYmljYXJhLXBvbGl0aWs=",
         "description": " Keduanya berdiskusi selama kurang lebih satu jam. Selain persoalan nasional, tantangan global juga disebut jadi pembahasan antarkeduanya."
-    },
-    {
-        "title": "Respons Anies soal Paripurna DPRD untuk Pemberhentian Gubernur DKI",
-        "link": "https://www.cnnindonesia.com/nasional/20220902103804-20-842323/respons-anies-soal-paripurna-dprd-untuk-pemberhentian-gubernur-dki",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjEwMzgwNC0yMC04NDIzMjMvcmVzcG9ucy1hbmllcy1zb2FsLXBhcmlwdXJuYS1kcHJkLXVudHVrLXBlbWJlcmhlbnRpYW4tZ3ViZXJudXItZGtp",
-        "description": " Gubernur DKI Anies Baswedan mengatakan di dalam kehidupan ada awal dan ada akhir, ada datang dan ada pergi. Sehingga paripurna DPRD adalah hal biasa baginya."
     }
 ]
