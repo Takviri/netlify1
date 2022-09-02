@@ -1,5 +1,19 @@
 [
     {
+        "title": "Lukisan Ciptaan AI Menang Lomba Seni, Memicu Perdebatan Panas Para Seniman",
+        "link": "https://www.vice.com/id_id/article/bvmvqm/lukisan-dibuat-aplikasi-midjourney-berbasis-kecerdasan-buatan-menang-lomba-seni-colorado-memicu-perdebatan-seniman",
+        "image": "static/images/vice.png",
+        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9idm12cW0vbHVraXNhbi1kaWJ1YXQtYXBsaWthc2ktbWlkam91cm5leS1iZXJiYXNpcy1rZWNlcmRhc2FuLWJ1YXRhbi1tZW5hbmctbG9tYmEtc2VuaS1jb2xvcmFkby1tZW1pY3UtcGVyZGViYXRhbi1zZW5pbWFu",
+        "description": "Karya bertajuk \u00e2\u0080\u009cTh\u00c3\u00a9\u00c3\u00a2tre D'op\u00c3\u00a9ra Spatial\u00e2\u0080\u009d dibuat dengan software Midjourney, menang lomba lukis di AS. Penghargaan ini memicu perdebatan sengit apakah seni harus sepenuhnya dibuat manusia."
+    },
+    {
+        "title": "Jangan Remehkan Kebocoran Data, Dampaknya dari Tak Bisa Kuliah Sampai Penipuan Pajak",
+        "link": "https://www.vice.com/id_id/article/qjk3pp/efek-kebocoran-data-nik-dari-diikutkan-pinjol-penipuan-pajak-mobil-mewah-sampai-tak-bisa-urus-kip-kuliah",
+        "image": "static/images/vice.png",
+        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9xamszcHAvZWZlay1rZWJvY29yYW4tZGF0YS1uaWstZGFyaS1kaWlrdXRrYW4tcGluam9sLXBlbmlwdWFuLXBhamFrLW1vYmlsLW1ld2FoLXNhbXBhaS10YWstYmlzYS11cnVzLWtpcC1rdWxpYWg=",
+        "description": "Selama RUU PDP belum disahkan, kita harus waspada tiap ada kasus NIK bocor. Kasus yang pernah terjadi mulai dari diikutkan pinjol, sampai untuk menyembunyikan mobil mewah."
+    },
+    {
         "title": "Gelar Pesta Narkoba di RSJ, Dua Pasien Dituntut Hukuman Mati",
         "link": "https://www.vice.com/id_id/article/4axakq/dua-pasien-rsj-d-dituntut-hukuman-mati-gelar-pesta-narkoba-di-rsj",
         "image": "static/images/vice.png",
@@ -54,19 +68,5 @@
         "image": "static/images/vice.png",
         "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS93eG54M2IvdGVvcmkta29tZWRpLWFuYWxpc2lzLWtvbnRyb3ZlcnNpLW1hdGVyaS1zdGFuZC11cC1jb21lZHktaW5kb25lc2lhLWVqZWstZmVtaW5pcy1kYW4tZGlmYWJlbA==",
         "description": "Di medsos muncul sorotan negatif negatif terhadap materi stand-up yang dinilai merendahkan perempuan dan difabel. Menurut peneliti sih, humor selalu soal keberpihakan."
-    },
-    {
-        "title": "Capek Jadi Orang yang Sering Gak Enakan? Lakukan Ini Agar Hidup Lebih Bahagia",
-        "link": "https://www.vice.com/id_id/article/wxdamn/capek-jadi-orang-yang-sering-gak-enakan-lakukan-ini-agar-hidup-lebih-bahagia",
-        "image": "static/images/vice.png",
-        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS93eGRhbW4vY2FwZWstamFkaS1vcmFuZy15YW5nLXNlcmluZy1nYWstZW5ha2FuLWxha3VrYW4taW5pLWFnYXItaGlkdXAtbGViaWgtYmFoYWdpYQ==",
-        "description": "Ingat, orang tidak akan marah hanya karena kamu menolak permintaan mereka. Jika ternyata temanmu malah menjauh, itu artinya ada yang salah dengan perkawananmu."
-    },
-    {
-        "title": "Menelisik Penyebab Orang Indonesia Bersedia Jadi Pembunuh Bayaran",
-        "link": "https://www.vice.com/id_id/article/bvmvem/penyebab-orang-bersedia-jadi-pembunuh-bayaran-menurut-kriminolog-ui",
-        "image": "static/images/vice.png",
-        "uid": "aHR0cHM6Ly93d3cudmljZS5jb20vaWRfaWQvYXJ0aWNsZS9idm12ZW0vcGVueWViYWItb3JhbmctYmVyc2VkaWEtamFkaS1wZW1idW51aC1iYXlhcmFuLW1lbnVydXQta3JpbWlub2xvZy11aQ==",
-        "description": "Menurut kriminolog, pelaku pembunuh bayaran\u00c2\u00a0lazimnya residivis atau orang terlatih pakai senjata. Perlu pengawasan pemerintah agar kasus seperti tindakan nekat Kopda Muslimin tidak terulang."
     }
 ]
