@@ -1,5 +1,19 @@
 [
     {
+        "title": "Data SIM Card Bocor, Kemendagri Sebut Bukan dari Database Kependudukan",
+        "link": "https://www.cnnindonesia.com/nasional/20220902114028-20-842357/data-sim-card-bocor-kemendagri-sebut-bukan-dari-database-kependudukan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjExNDAyOC0yMC04NDIzNTcvZGF0YS1zaW0tY2FyZC1ib2Nvci1rZW1lbmRhZ3JpLXNlYnV0LWJ1a2FuLWRhcmktZGF0YWJhc2Uta2VwZW5kdWR1a2Fu",
+        "description": " Dirjen Dukcapil memastikan data yang bocor tidak berasal dari database Kemendagri, meskipun demikian pihaknya akan tetap menelusuri asal kebocoran."
+    },
+    {
+        "title": "Deolipa-Kamaruddin Dilaporkan ke Bareskrim soal Dugaan Sebar Hoaks",
+        "link": "https://www.cnnindonesia.com/nasional/20220902112239-12-842352/deolipa-kamaruddin-dilaporkan-ke-bareskrim-soal-dugaan-sebar-hoaks",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjExMjIzOS0xMi04NDIzNTIvZGVvbGlwYS1rYW1hcnVkZGluLWRpbGFwb3JrYW4ta2UtYmFyZXNrcmltLXNvYWwtZHVnYWFuLXNlYmFyLWhvYWtz",
+        "description": " Deolipa dianggap telah menyebarkan hoaks di publik terkait pernyataannya soal hubungan Putri Candrawathi dengan Kuat Ma'ruf."
+    },
+    {
         "title": "Gempa Bumi M 5 Guncang Aceh Singkil, Getaran Terasa hingga Berastagi",
         "link": "https://www.cnnindonesia.com/nasional/20220902110654-20-842351/gempa-bumi-m-5-guncang-aceh-singkil-getaran-terasa-hingga-berastagi",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTE3MzExMS0zMi04NDIwODAvZHByLWRpaW1iYXUtYmVudHVrLXBhbnN1cy1rYXN1cy1icmlnYWRpci1qLWtvbWlzaS1paWktamF3YWItdGFrLWJpc2E=",
         "description": " Aktivis\u00c2\u00a0menilai DPR perlu membahas pembentukan Pansus terkait pembunuhan Brigadir J, karena masalah itu bukan lagi sekedar kriminalitas tapi struktural Polri."
-    },
-    {
-        "title": "Menag Yaqut: Kemungkinan Kuota Haji Indonesia Naik Tahun Depan",
-        "link": "https://www.cnnindonesia.com/nasional/20220902094139-20-842277/menag-yaqut-kemungkinan-kuota-haji-indonesia-naik-tahun-depan",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjA5NDEzOS0yMC04NDIyNzcvbWVuYWcteWFxdXQta2VtdW5na2luYW4ta3VvdGEtaGFqaS1pbmRvbmVzaWEtbmFpay10YWh1bi1kZXBhbg==",
-        "description": " Menag meminta jajarannya dan pihak terkait lainnya untuk menyiapkan penyelenggaraan haji tahun 2023 sebaik mungkin."
-    },
-    {
-        "title": "Guru SDN Kota Baru Cerita Momen Evakuasi Siswa Saat Kecelakaan Maut",
-        "link": "https://www.cnnindonesia.com/nasional/20220901194243-20-842140/guru-sdn-kota-baru-cerita-momen-evakuasi-siswa-saat-kecelakaan-maut",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTE5NDI0My0yMC04NDIxNDAvZ3VydS1zZG4ta290YS1iYXJ1LWNlcml0YS1tb21lbi1ldmFrdWFzaS1zaXN3YS1zYWF0LWtlY2VsYWthYW4tbWF1dA==",
-        "description": " Guru SDN Kota Baru menceritakan detik-detik saat kecelakaan maut di depan sekolah terjadi."
     }
 ]
