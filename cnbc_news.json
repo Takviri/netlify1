@@ -1,5 +1,12 @@
 [
     {
+        "title": "Pertanda Apa? Sudah 5 Bulan, Harga Sembako Dunia Turun Terus",
+        "link": "https://www.cnbcindonesia.com/news/20220903012240-4-368957/pertanda-apa-sudah-5-bulan-harga-sembako-dunia-turun-terus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzAxMjI0MC00LTM2ODk1Ny9wZXJ0YW5kYS1hcGEtc3VkYWgtNS1idWxhbi1oYXJnYS1zZW1iYWtvLWR1bmlhLXR1cnVuLXRlcnVz",
+        "description": " Organisasi pangan dan pertanian dunia, Food and Agriculture Organization mencatat, indeks harga pangan global melanjutkan penurunan selama 5 bulan beruntun."
+    },
+    {
         "title": "T20 Summit 2022 Segera Digelar, Apa Aja Sih yang Dibahas?",
         "link": "https://www.cnbcindonesia.com/news/20220902203556-51-368954/t20-summit-2022-segera-digelar-apa-aja-sih-yang-dibahas",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjE2MTQ0OC0xNi0zNjg4ODIvaW5pLWNyYXp5LXJpY2gtdGFpd2FuLXlhbmctbnl1bWJhbmctYmVzYXItYnVhdC1sYXdhbi1jaGluYQ==",
         "description": " Seorang crazy rich Taiwan mengumumkan rencana untuk melatih lebih dari tiga juta 'pejuang sipil' untuk membantu mempertahankan pulau itu jika diinvasi China."
-    },
-    {
-        "title": "Redam Panic Buying Pertalite di SPBU, Begini Siasat Pertamina",
-        "link": "https://www.cnbcindonesia.com/news/20220902192746-4-368948/redam-panic-buying-pertalite-di-spbu-begini-siasat-pertamina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjE5Mjc0Ni00LTM2ODk0OC9yZWRhbS1wYW5pYy1idXlpbmctcGVydGFsaXRlLWRpLXNwYnUtYmVnaW5pLXNpYXNhdC1wZXJ0YW1pbmE=",
-        "description": " PT Pertamina (Persero) telah menyiapkan sejumlah strategi dalam menghadapi aksi panik warga terkait pembelian bensin Pertalite."
     }
 ]
