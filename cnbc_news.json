@@ -1,5 +1,47 @@
 [
     {
+        "title": "Jreeng! Ramai Usul Uang Pensiun Anggota DPR Dihapus",
+        "link": "https://www.cnbcindonesia.com/news/20220902111541-4-368752/jreeng-ramai-usul-uang-pensiun-anggota-dpr-dihapus",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjExMTU0MS00LTM2ODc1Mi9qcmVlbmctcmFtYWktdXN1bC11YW5nLXBlbnNpdW4tYW5nZ290YS1kcHItZGloYXB1cw==",
+        "description": " Ramai usul penghapusan pensiunan untuk para politikus di DPR dan MPR."
+    },
+    {
+        "title": "'Panic Buying' Pertalite Terjadi, Ini Imbauan Pengusaha SPBU",
+        "link": "https://www.cnbcindonesia.com/news/20220902110811-4-368749/panic-buying-pertalite-terjadi-ini-imbauan-pengusaha-spbu",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjExMDgxMS00LTM2ODc0OS9wYW5pYy1idXlpbmctcGVydGFsaXRlLXRlcmphZGktaW5pLWltYmF1YW4tcGVuZ3VzYWhhLXNwYnU=",
+        "description": " Hiswana Migas menyebut rencana kenaikan harga BBM bersubsidi jenis Pertalite maupun Solar telah membuat geger masyarakat."
+    },
+    {
+        "title": "Bali Compact Jadi Jalan 'Mulus' Percepat Energi Hijau",
+        "link": "https://www.cnbcindonesia.com/news/20220831192557-4-368265/bali-compact-jadi-jalan-mulus-percepat-energi-hijau",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTE5MjU1Ny00LTM2ODI2NS9iYWxpLWNvbXBhY3QtamFkaS1qYWxhbi1tdWx1cy1wZXJjZXBhdC1lbmVyZ2ktaGlqYXU=",
+        "description": " Para anggota G20 saat ini intensif membahas tiga pilar utama transisi energi, yaitu akses, teknologi, dan pendanaan"
+    },
+    {
+        "title": "Ada Malapetaka di Eropa, RI Bakal Untung atau Buntung?",
+        "link": "https://www.cnbcindonesia.com/news/20220902093635-4-368754/ada-malapetaka-di-eropa-ri-bakal-untung-atau-buntung",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjA5MzYzNS00LTM2ODc1NC9hZGEtbWFsYXBldGFrYS1kaS1lcm9wYS1yaS1iYWthbC11bnR1bmctYXRhdS1idW50dW5n",
+        "description": " Malapetaka gelombang panas di Eropa tidak akan berdampak signifikan bagi Indonesia."
+    },
+    {
+        "title": "Banjir Duit! Tak Cuma Sebar BLT BBM, Jokowi Juga Bagikan Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220902110718-4-368748/banjir-duit-tak-cuma-sebar-blt-bbm-jokowi-juga-bagikan-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjExMDcxOC00LTM2ODc0OC9iYW5qaXItZHVpdC10YWstY3VtYS1zZWJhci1ibHQtYmJtLWpva293aS1qdWdhLWJhZ2lrYW4taW5p",
+        "description": " Jokowi tak hanya mengecek penyaluran BLT BBM, melainkan juga membagikan bansos lainnya"
+    },
+    {
+        "title": "Waspada! Muncul Pneumonia Misterius Lagi, 3 Orang Meninggal",
+        "link": "https://www.cnbcindonesia.com/news/20220902111109-4-368750/waspada-muncul-pneumonia-misterius-lagi-3-orang-meninggal",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjExMTEwOS00LTM2ODc1MC93YXNwYWRhLW11bmN1bC1wbmV1bW9uaWEtbWlzdGVyaXVzLWxhZ2ktMy1vcmFuZy1tZW5pbmdnYWw=",
+        "description": " Penyakit pneumonia misterius terjadi di Argentina. Setidaknya sembilan orang terinfeksi, di mana tiga meninggal dan lima dirawat intensif."
+    },
+    {
         "title": "Semua Ada di KEK Nongsa, Silicon Valley di Kota Industri RI",
         "link": "https://www.cnbcindonesia.com/news/20220902102553-4-368727/semua-ada-di-kek-nongsa-silicon-valley-di-kota-industri-ri",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjEwMzAzNy00LTM2ODczNy9qb2tvd2ktdW5na2FwLXNvc29rLXlhbmcta2V0aWJhbi11bnR1bmctZGFyaS1ibG9rLW1hc2VsYQ==",
         "description": " Siapa sosok yang paling mendapatkan untung dari pengoperasian Blok Masela"
-    },
-    {
-        "title": "Detik-Detik Harga Pertalite Naik, Antrean SPBU Masih Mengular",
-        "link": "https://www.cnbcindonesia.com/news/20220902103253-4-368728/detik-detik-harga-pertalite-naik-antrean-spbu-masih-mengular",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjEwMzI1My00LTM2ODcyOC9kZXRpay1kZXRpay1oYXJnYS1wZXJ0YWxpdGUtbmFpay1hbnRyZWFuLXNwYnUtbWFzaWgtbWVuZ3VsYXI=",
-        "description": " Hiswana Migas menyampaikan jelang kenaikan harga\u00c2\u00a0BBM\u00c2\u00a0Pertalite dan Solar, antrean mengular masih terjadi di beberapa SPBU."
-    },
-    {
-        "title": "Banyak Bandara Sepi, Tepat Jika RI Bangun Lagi Bandara Baru?",
-        "link": "https://www.cnbcindonesia.com/news/20220902103901-8-368731/banyak-bandara-sepi-tepat-jika-ri-bangun-lagi-bandara-baru",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjEwMzkwMS04LTM2ODczMS9iYW55YWstYmFuZGFyYS1zZXBpLXRlcGF0LWppa2EtcmktYmFuZ3VuLWxhZ2ktYmFuZGFyYS1iYXJ1",
-        "description": " Fenomena Bandara Sepi, Tepat Jika RI Bangun Lagi Bandara Baru?"
-    },
-    {
-        "title": "Kerja Siang-Pulang Malam di DKI Berlaku Kapan? Ini Bocorannya",
-        "link": "https://www.cnbcindonesia.com/news/20220902104603-4-368735/kerja-siang-pulang-malam-di-dki-berlaku-kapan-ini-bocorannya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjEwNDYwMy00LTM2ODczNS9rZXJqYS1zaWFuZy1wdWxhbmctbWFsYW0tZGktZGtpLWJlcmxha3Uta2FwYW4taW5pLWJvY29yYW5ueWE=",
-        "description": " Rencana jam kerja siang hingga malam bagi Pegawai Negeri Sipil (PNS) dan pekerja di DKI makin terlihat."
-    },
-    {
-        "title": "Bukti Kesuksesan Program Makmur, Produktivitas Tebu Naik 73%",
-        "link": "https://www.cnbcindonesia.com/news/20220902094528-8-368711/bukti-kesuksesan-program-makmur-produktivitas-tebu-naik-73",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjA5NDUyOC04LTM2ODcxMS9idWt0aS1rZXN1a3Nlc2FuLXByb2dyYW0tbWFrbXVyLXByb2R1a3Rpdml0YXMtdGVidS1uYWlrLTcz",
-        "description": " Progam Makmur diklaim telah berhasil meningkatkan produktivitas tebu hingga 73%"
-    },
-    {
-        "title": "China-Rusia Minggir! AS Terancam Perang Dagang dengan Eropa",
-        "link": "https://www.cnbcindonesia.com/news/20220902101215-4-368719/china-rusia-minggir-as-terancam-perang-dagang-dengan-eropa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjEwMTIxNS00LTM2ODcxOS9jaGluYS1ydXNpYS1taW5nZ2lyLWFzLXRlcmFuY2FtLXBlcmFuZy1kYWdhbmctZGVuZ2FuLWVyb3Bh",
-        "description": " Hubungan dagang antara Uni Eropa (UE) dan Amerika Serikat (AS) memanas."
-    },
-    {
-        "title": "Kelak, Hanya Kendaraan Ini yang Boleh 'Minum' Pertalite",
-        "link": "https://www.cnbcindonesia.com/news/20220902104522-4-368734/kelak-hanya-kendaraan-ini-yang-boleh-minum-pertalite",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjEwNDUyMi00LTM2ODczNC9rZWxhay1oYW55YS1rZW5kYXJhYW4taW5pLXlhbmctYm9sZWgtbWludW0tcGVydGFsaXRl",
-        "description": " Tercatat hanya mobil dengan spesifikasi mesin 1.400 cc dan motor 250 cc yang boleh isi Pertalite"
     }
 ]
