@@ -1,10 +1,45 @@
 [
     {
+        "title": "IPW Desak Kapolri Tindak Brigjen IK yang Diduga Manipulasi Hasil Gelar Perkara",
+        "link": "https://nasional.tempo.co/read/1629713/ipw-desak-kapolri-tindak-brigjen-ik-yang-diduga-manipulasi-hasil-gelar-perkara",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk3MTMvaXB3LWRlc2FrLWthcG9scmktdGluZGFrLWJyaWdqZW4taWsteWFuZy1kaWR1Z2EtbWFuaXB1bGFzaS1oYXNpbC1nZWxhci1wZXJrYXJh",
+        "description": "Kapolri Listyo Sigit Prabowo diminta bersikap tegas untuk menyidangkan etik atas ketidakprofesionalan Karowassidik Bareskrim Polri Brigjen IK."
+    },
+    {
+        "title": "Polda Aceh Rilis Nama Penerima Beasiswa tidak Sesuai Syarat, Ini Daftarnya",
+        "link": "https://nasional.tempo.co/read/1629712/polda-aceh-rilis-nama-penerima-beasiswa-tidak-sesuai-syarat-ini-daftarnya",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk3MTIvcG9sZGEtYWNlaC1yaWxpcy1uYW1hLXBlbmVyaW1hLWJlYXNpc3dhLXRpZGFrLXNlc3VhaS1zeWFyYXQtaW5pLWRhZnRhcm55YQ==",
+        "description": "Penyidik Dittipidkor Ditreskrimsus Polda Aceh telah merilis atau mengumumkan nama-nama penerima beasiswa yang tidak sesuai syarat. Cek daftar namanya."
+    },
+    {
+        "title": "Apa Itu Berkas Perkara P18, P19, P21?",
+        "link": "https://nasional.tempo.co/read/1629706/apa-itu-berkas-perkara-p18-p19-p21",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk3MDYvYXBhLWl0dS1iZXJrYXMtcGVya2FyYS1wMTgtcDE5LXAyMQ==",
+        "description": "P18 kode untuk pengembalian berkas perkara yang telah diterima Kejaksaan"
+    },
+    {
+        "title": "Kasus Brigadir J, Kompol Chuck Putranto Dipecat Tidak Hormat",
+        "link": "https://nasional.tempo.co/read/1629705/kasus-brigadir-j-kompol-chuck-putranto-dipecat-tidak-hormat",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk3MDUva2FzdXMtYnJpZ2FkaXItai1rb21wb2wtY2h1Y2stcHV0cmFudG8tZGlwZWNhdC10aWRhay1ob3JtYXQ=",
+        "description": "Chuck Putranto disebut merusak CCTV kasus Brigadir J atas perintah Ferdy Sambo."
+    },
+    {
         "title": "Demo Tolak Kenaikan BBM, PB HMI: Kami Siapkan Aksi Besar di Daerah Kalau Jadi Naik",
         "link": "https://nasional.tempo.co/read/1629698/demo-tolak-kenaikan-bbm-pb-hmi-kami-siapkan-aksi-besar-di-daerah-kalau-jadi-naik",
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk2OTgvZGVtby10b2xhay1rZW5haWthbi1iYm0tcGItaG1pLWthbWktc2lhcGthbi1ha3NpLWJlc2FyLWRpLWRhZXJhaC1rYWxhdS1qYWRpLW5haWs=",
         "description": "PB HMI mengancam akan menggelar demo tolak kenaikan BBM besar-besaran jika pemerintah jadi menaikkan harga Pertalite dan Solar. Buruh juga akan turun."
+    },
+    {
+        "title": "Piala Bupati Kediri, Pemain Terbaik dan Top Skor Terima Bonus",
+        "link": "https://nasional.tempo.co/read/1629707/piala-bupati-kediri-pemain-terbaik-dan-top-skor-terima-bonus",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk3MDcvcGlhbGEtYnVwYXRpLWtlZGlyaS1wZW1haW4tdGVyYmFpay1kYW4tdG9wLXNrb3ItdGVyaW1hLWJvbnVz",
+        "description": "Bonus masing-masing 7 juta. 7 dan 7 karena untuk merayakan HUT NKRI Ke-77"
     },
     {
         "title": "Putri Candrawathi Diperiksa Tim Bareskrim Polri, Berikut 6 Faktanya",
@@ -33,40 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk2NzYvZGlwcmVkaWtzaS1wZXJvbGVoYW4tc3VhcmEtZGktYmF3YWgtNC1wZXJzZW4tcHBwLXRldGFwLW9wdGltaXN0aXMtbG9sb3Mta2Utc2VuYXlhbg==",
         "description": "Sejumlah survei menunjukan perolehan suara PPP ada di bawah ambang batas parlemen 4 persen."
-    },
-    {
-        "title": "IPW Desak Penyidik Segera Tahan Putri Candrawathi",
-        "link": "https://nasional.tempo.co/read/1629673/ipw-desak-penyidik-segera-tahan-putri-candrawathi",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk2NzMvaXB3LWRlc2FrLXBlbnlpZGlrLXNlZ2VyYS10YWhhbi1wdXRyaS1jYW5kcmF3YXRoaQ==",
-        "description": "Putri Candrawathi dianggap tidak kooperatif. IPW menilai motif pelecehan hingga sekarang masih belum mempunyai cukup bukti."
-    },
-    {
-        "title": "Sirukim dan JakHabitat Permudah Warga Jakarta Cari Hunian Layak, dari Rusunawa sampai Apartemen",
-        "link": "https://nasional.tempo.co/read/1629662/sirukim-dan-jakhabitat-permudah-warga-jakarta-cari-hunian-layak-dari-rusunawa-sampai-apartemen",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk2NjIvc2lydWtpbS1kYW4tamFraGFiaXRhdC1wZXJtdWRhaC13YXJnYS1qYWthcnRhLWNhcmktaHVuaWFuLWxheWFrLWRhcmktcnVzdW5hd2Etc2FtcGFpLWFwYXJ0ZW1lbg==",
-        "description": "Informasi detail tentang ragam hunian yang disediakan Pemprov DKI tersedia di Galeri Huni JakHabitat. Proses pendaftaran untuk membeli dan menyewa hunian kian mudah karena prosesnya online melalui Sirukim (Sistem Informasi Perumahan dan Permukiman)."
-    },
-    {
-        "title": "Jokowi Terima Hitungan Kenaikan Harga BBM Hari Ini",
-        "link": "https://nasional.tempo.co/read/1629646/jokowi-terima-hitungan-kenaikan-harga-bbm-hari-ini",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk2NDYvam9rb3dpLXRlcmltYS1oaXR1bmdhbi1rZW5haWthbi1oYXJnYS1iYm0taGFyaS1pbmk=",
-        "description": "Meski kenaikan harga BBM masih dihitung, Jokowi sudah lebih dulu membagi-bagikan bantuan sosial tambahan atau bansos BBM Rp600 ribu ke masyarakat."
-    },
-    {
-        "title": "Chuck Putranto dan Baiquni Diduga Merusak CCTV di Kasus Brigadir J",
-        "link": "https://nasional.tempo.co/read/1629644/chuck-putranto-dan-baiquni-diduga-merusak-cctv-di-kasus-brigadir-j",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk2NDQvY2h1Y2stcHV0cmFudG8tZGFuLWJhaXF1bmktZGlkdWdhLW1lcnVzYWstY2N0di1kaS1rYXN1cy1icmlnYWRpci1q",
-        "description": "CCTV dalam kasus Brigadir J sempat dirusak. Rekamannya ditemukan di hard disk eksternal saat tim khusus menggeledah rumah Baiquni."
-    },
-    {
-        "title": "Eksklusif, Cerita Hendra Kurniawan Soal Pertemuan dengan Keluarga Brigadir J",
-        "link": "https://nasional.tempo.co/read/1629639/eksklusif-cerita-hendra-kurniawan-soal-pertemuan-dengan-keluarga-brigadir-j",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk2MzkvZWtza2x1c2lmLWNlcml0YS1oZW5kcmEta3Vybmlhd2FuLXNvYWwtcGVydGVtdWFuLWRlbmdhbi1rZWx1YXJnYS1icmlnYWRpci1q",
-        "description": "Hendra Kurniawan menuturkan soal pertemuannya dengan Keluarga Brigadir J atas perintah Ferdy Sambo."
     }
 ]

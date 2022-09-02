@@ -1,10 +1,38 @@
 [
     {
+        "title": "Mahasiswi Baru Tewas Diduga Lompat dari Apartemen di Semarang",
+        "link": "https://www.cnnindonesia.com/nasional/20220902140947-20-842452/mahasiswi-baru-tewas-diduga-lompat-dari-apartemen-di-semarang",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjE0MDk0Ny0yMC04NDI0NTIvbWFoYXNpc3dpLWJhcnUtdGV3YXMtZGlkdWdhLWxvbXBhdC1kYXJpLWFwYXJ0ZW1lbi1kaS1zZW1hcmFuZw==",
+        "description": " Seorang mahasiswi baru di Semarang, Jawa Tengah diduga melompat dari Apartemen Alton."
+    },
+    {
+        "title": "Kompol Chuck Putranto Dipecat Imbas Obstruction of Justice Kasus Sambo",
+        "link": "https://www.cnnindonesia.com/nasional/20220902140417-12-842443/kompol-chuck-putranto-dipecat-imbas-obstruction-of-justice-kasus-sambo",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjE0MDQxNy0xMi04NDI0NDMva29tcG9sLWNodWNrLXB1dHJhbnRvLWRpcGVjYXQtaW1iYXMtb2JzdHJ1Y3Rpb24tb2YtanVzdGljZS1rYXN1cy1zYW1ibw==",
+        "description": " Komisi Kode Etik Polri (KKEP) menjatuhkan sanksi pemecatan tidak dengan hormat (PTDH) terhadap Kompol Chuck Putranto."
+    },
+    {
+        "title": "Setahun Lebih Perhitungan Korupsi Juliari oleh KPK Belum Rampung",
+        "link": "https://www.cnnindonesia.com/nasional/20220902134041-12-842433/setahun-lebih-perhitungan-korupsi-juliari-oleh-kpk-belum-rampung",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjEzNDA0MS0xMi04NDI0MzMvc2V0YWh1bi1sZWJpaC1wZXJoaXR1bmdhbi1rb3J1cHNpLWp1bGlhcmktb2xlaC1rcGstYmVsdW0tcmFtcHVuZw==",
+        "description": " Kasus korupsi bantuan sosial (bansos) Covid-19 eks Menteri Sosial Juliari Batubara\u00c2\u00a0dkk\u00c2\u00a0mandek."
+    },
+    {
         "title": "Mensos Risma: Mungkin Cucu Saya Elek Diusir dari Playground",
         "link": "https://www.cnnindonesia.com/nasional/20220902134533-20-842429/mensos-risma-mungkin-cucu-saya-elek-diusir-dari-playground",
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjEzNDUzMy0yMC04NDI0MjkvbWVuc29zLXJpc21hLW11bmdraW4tY3VjdS1zYXlhLWVsZWstZGl1c2lyLWRhcmktcGxheWdyb3VuZA==",
         "description": " Mensos Risma mengatakan bahwa cucunya memiliki rasa peka sehingga marah saat diusir dari Playground tersebut. Ia juga mendapatkan kabar cucunya sedang sakit."
+    },
+    {
+        "title": "Polisi Suruh Wartawan Bicara dengan Pohon Bakal Disanksi",
+        "link": "https://www.cnnindonesia.com/nasional/20220902133740-12-842422/polisi-suruh-wartawan-bicara-dengan-pohon-bakal-disanksi",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjEzMzc0MC0xMi04NDI0MjIvcG9saXNpLXN1cnVoLXdhcnRhd2FuLWJpY2FyYS1kZW5nYW4tcG9ob24tYmFrYWwtZGlzYW5rc2k=",
+        "description": " Kepala Bidang Humas Polda Metro Jaya Kombes Endra Zulpan mengakui salah satu personel Polsek Kembangan menyuruh wartawan berbicara dengan pohon."
     },
     {
         "title": "Kanit Reskrim Polsek Penjaringan Dipatsuskan 30 Hari Mulai Senin",
@@ -40,33 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjEwMzgwNC0yMC04NDIzMjMvcmVzcG9ucy1hbmllcy1zb2FsLXBhcmlwdXJuYS1kcHJkLXVudHVrLXBlbWJlcmhlbnRpYW4tZ3ViZXJudXItZGtp",
         "description": " Gubernur DKI Anies Baswedan mengatakan di dalam kehidupan ada awal dan ada akhir, ada datang dan ada pergi. Sehingga paripurna DPRD adalah hal biasa baginya."
-    },
-    {
-        "title": "Kanit Reskrim Polsek Penjaringan Gunakan Wewenang Demi Raup Keuntungan",
-        "link": "https://www.cnnindonesia.com/nasional/20220901065127-12-841707/kanit-reskrim-polsek-penjaringan-gunakan-wewenang-demi-raup-keuntungan",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTA2NTEyNy0xMi04NDE3MDcva2FuaXQtcmVza3JpbS1wb2xzZWstcGVuamFyaW5nYW4tZ3VuYWthbi13ZXdlbmFuZy1kZW1pLXJhdXAta2V1bnR1bmdhbg==",
-        "description": " Kanit Reskrim Polsek Metro Penjaringan AKP M Fajar diduga menyalahgunakan wewenangnya dalam menindak kasus judi online demi meraup keuntungan."
-    },
-    {
-        "title": "Kanit Reskrim Polsek Penjaringan Terancam Dipecat soal Judi Online",
-        "link": "https://www.cnnindonesia.com/nasional/20220902125514-12-842404/kanit-reskrim-polsek-penjaringan-terancam-dipecat-soal-judi-online",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjEyNTUxNC0xMi04NDI0MDQva2FuaXQtcmVza3JpbS1wb2xzZWstcGVuamFyaW5nYW4tdGVyYW5jYW0tZGlwZWNhdC1zb2FsLWp1ZGktb25saW5l",
-        "description": " Polda Metro Jaya masih menunggu hasil rekomendasi dari Biro Paminal Divisi Propam Polri terhadap Fajar dan tujuh anggotanya."
-    },
-    {
-        "title": "Pemerintah Usulkan Pendidikan Pancasila Jadi Mata Pelajaran Wajib",
-        "link": "https://www.cnnindonesia.com/nasional/20220902125350-20-842398/pemerintah-usulkan-pendidikan-pancasila-jadi-mata-pelajaran-wajib",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjEyNTM1MC0yMC04NDIzOTgvcGVtZXJpbnRhaC11c3Vsa2FuLXBlbmRpZGlrYW4tcGFuY2FzaWxhLWphZGktbWF0YS1wZWxhamFyYW4td2FqaWI=",
-        "description": " Pemerintah mengusulkan Pendidikan Pancasila sebagai mata pelajaran wajib melalui Rancangan Undang-Undang tentang Sistem Pendidikan Nasional (RUU Sisdiknas)."
-    },
-    {
-        "title": "Golkar Respons Besok Jumpa Puan PDIP: Airlangga Tetap Capres dari KIB",
-        "link": "https://www.cnnindonesia.com/nasional/20220902090130-32-842264/golkar-respons-besok-jumpa-puan-pdip-airlangga-tetap-capres-dari-kib",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMjA5MDEzMC0zMi04NDIyNjQvZ29sa2FyLXJlc3BvbnMtYmVzb2stanVtcGEtcHVhbi1wZGlwLWFpcmxhbmdnYS10ZXRhcC1jYXByZXMtZGFyaS1raWI=",
-        "description": " Golkar merespons rencana pertemuan Airlangga Hartarto dengan Ketua DPP\u00c2\u00a0PDIP\u00c2\u00a0Puan Maharani Sabtu (3/9) besok."
     }
 ]
