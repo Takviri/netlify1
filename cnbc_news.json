@@ -1,5 +1,26 @@
 [
     {
+        "title": "Suram, Proyeksi Pertumbuhan Ekonomi China Dipangkas Lagi",
+        "link": "https://www.cnbcindonesia.com/news/20220902193028-4-368949/suram-proyeksi-pertumbuhan-ekonomi-china-dipangkas-lagi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjE5MzAyOC00LTM2ODk0OS9zdXJhbS1wcm95ZWtzaS1wZXJ0dW1idWhhbi1la29ub21pLWNoaW5hLWRpcGFuZ2thcy1sYWdp",
+        "description": " JPMorgan memangkas proyeksi pertumbuhan ekonomi China untuk tahun ini dan 2023."
+    },
+    {
+        "title": "Pertamina Bawa 175 Produk UMKM Binaan ke Festival di Belanda",
+        "link": "https://www.cnbcindonesia.com/news/20220902193928-4-368951/pertamina-bawa-175-produk-umkm-binaan-ke-festival-di-belanda",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjE5MzkyOC00LTM2ODk1MS9wZXJ0YW1pbmEtYmF3YS0xNzUtcHJvZHVrLXVta20tYmluYWFuLWtlLWZlc3RpdmFsLWRpLWJlbGFuZGE=",
+        "description": " Kementrian BUMN mengapresiasi atas keikutsertaan UMKM mitra binaan Pertamina yang menghadirkan berbagai hasil karya unggulan."
+    },
+    {
+        "title": "Harga BBM Non Subsidi Pertamina, Shell dan BP Resmi Turun!",
+        "link": "https://www.cnbcindonesia.com/news/20220902185101-4-368942/harga-bbm-non-subsidi-pertamina-shell-bp-resmi-turun",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjE4NTEwMS00LTM2ODk0Mi9oYXJnYS1iYm0tbm9uLXN1YnNpZGktcGVydGFtaW5hLXNoZWxsLWJwLXJlc21pLXR1cnVu",
+        "description": " PT Pertamina (Persero), Shell Indonesia, dan BP-AKR telah resmi menurunkan harga BBM non subsidi per 1 September 2022."
+    },
+    {
         "title": "Ngeri! Bom Guncang Masjid di Afghanistan saat Salat Jumat",
         "link": "https://www.cnbcindonesia.com/news/20220902184750-4-368941/ngeri-bom-guncang-masjid-di-afghanistan-saat-salat-jumat",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjE4MjE1My04LTM2ODkzOC9kdWgtcHJvZHVrLW1hbnVmYWt0dXItbWVsb25qYWstMTUtamlrYS1iYm0tbmFpaw==",
         "description": " Duh, Produk Manufaktur Melonjak 15% jika BBM Naik"
-    },
-    {
-        "title": "ESDM Gandeng Lembaga Internasional Susun Peta Energi Hijau",
-        "link": "https://www.cnbcindonesia.com/news/20220902145049-4-368846/esdm-gandeng-lembaga-internasional-susun-peta-energi-hijau",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjE0NTA0OS00LTM2ODg0Ni9lc2RtLWdhbmRlbmctbGVtYmFnYS1pbnRlcm5hc2lvbmFsLXN1c3VuLXBldGEtZW5lcmdpLWhpamF1",
-        "description": " Kementerian ESDM bekerja sama dengan Badan Energi Internasional (IEA) untuk mengembangkan peta jalan (roadmap) transisi energi."
-    },
-    {
-        "title": "Syarat Perjalanan Pesawat Terbaru, Tak Ada Lagi PCR dan Antigen",
-        "link": "https://www.cnbcindonesia.com/news/20220902170338-4-368909/syarat-perjalanan-pesawat-terbaru-tak-ada-lagi-pcr-antigen",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjE3MDMzOC00LTM2ODkwOS9zeWFyYXQtcGVyamFsYW5hbi1wZXNhd2F0LXRlcmJhcnUtdGFrLWFkYS1sYWdpLXBjci1hbnRpZ2Vu",
-        "description": " Berikut syarat perjalanan terbaru bagi pelaku perjalanan yang menaiki pesawat terbang"
-    },
-    {
-        "title": "Tarif Kamar Hotel Singapura Melonjak, Rekor dalam 10 Tahun",
-        "link": "https://www.cnbcindonesia.com/news/20220902174335-4-368925/tarif-kamar-hotel-singapura-melonjak-rekor-dalam-10-tahun",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMjE3NDMzNS00LTM2ODkyNS90YXJpZi1rYW1hci1ob3RlbC1zaW5nYXB1cmEtbWVsb25qYWstcmVrb3ItZGFsYW0tMTAtdGFodW4=",
-        "description": " Tarif kamar rata-rata (ARR) hotel di Singapura (ARR) naik ke level tertinggi dalam hampir satu dekade pada Juli 2022."
     }
 ]
