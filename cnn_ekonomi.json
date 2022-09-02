@@ -1,5 +1,12 @@
 [
     {
+        "title": "Inflasi Korsel Mulai Reda ke 5,7 Persen pada Agustus 2022",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220902104030-92-842322/inflasi-korsel-mulai-reda-ke-57-persen-pada-agustus-2022",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAyMTA0MDMwLTkyLTg0MjMyMi9pbmZsYXNpLWtvcnNlbC1tdWxhaS1yZWRhLWtlLTU3LXBlcnNlbi1wYWRhLWFndXN0dXMtMjAyMg==",
+        "description": " Inflasi Korsel mencapai 5,7 persen pada Agustus 2022, lebih rendah dibanding bulan sebelumnya, yaitu 6,3 persen."
+    },
+    {
         "title": "155 Ribu Pekerja di Inggris Mogok Tuntut Gaji Lebih Tinggi",
         "link": "https://www.cnnindonesia.com/ekonomi/20220902100337-92-842297/155-ribu-pekerja-di-inggris-mogok-tuntut-gaji-lebih-tinggi",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAyMDgzNDUwLTkyLTg0MjI1MC9oYXJnYS1lbWFzLW1ha2luLW11cmFoLW1lcmlhaC1raW5pLWN1bWEtcnA5NDctcmlidS1wZXItZ3JhbQ==",
         "description": " Harga emas\u00c2\u00a0Antam turun Rp2.000 per gram menjadi Rp947 ribu per gram pada Jumat (2/9)."
-    },
-    {
-        "title": "Intip Gaji Karyawan Freeport",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220902082855-85-842248/intip-gaji-karyawan-freeport",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAyMDgyODU1LTg1LTg0MjI0OC9pbnRpcC1nYWppLWthcnlhd2FuLWZyZWVwb3J0",
-        "description": " Freeport Indonesia mengklaim memberikan gaji yang adil pada karyawan sesuai risiko kerja yang tinggi."
     }
 ]
