@@ -1,5 +1,19 @@
 [
     {
+        "title": "Bulog Diperintahkan Beli 1,2 Juta Ton Beras, Ada Apa?",
+        "link": "https://www.cnbcindonesia.com/news/20220903094033-4-368997/bulog-diperintahkan-beli-12-juta-ton-beras-ada-apa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzA5NDAzMy00LTM2ODk5Ny9idWxvZy1kaXBlcmludGFoa2FuLWJlbGktMTItanV0YS10b24tYmVyYXMtYWRhLWFwYQ==",
+        "description": " Di tengah isu ancaman krisis pangan, pemerintah melakukan penguatan stok beras."
+    },
+    {
+        "title": "Bali COMPACT, dari Bali untuk Energi Hijau Dunia",
+        "link": "https://www.cnbcindonesia.com/news/20220903062745-4-368963/bali-compact-dari-bali-untuk-energi-hijau-dunia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzA2Mjc0NS00LTM2ODk2My9iYWxpLWNvbXBhY3QtZGFyaS1iYWxpLXVudHVrLWVuZXJnaS1oaWphdS1kdW5pYQ==",
+        "description": " Sidang Energy Transitions Ministerial Meeting (ETMM) Presidensi G20 Indonesia melahirkan Bali COMPACT yang akan menjadi dasar percepatan transisi energi."
+    },
+    {
         "title": "Terbaru! Bocoran Jokowi Soal Kenaikan Harga BBM, Resmi Naik?",
         "link": "https://www.cnbcindonesia.com/news/20220903103845-4-369005/terbaru-bocoran-jokowi-soal-kenaikan-harga-bbm-resmi-naik",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzA3MTgxNy00LTM2ODk2OS9lcm9wYS1kaS1hbWJhbmctbWFsYXBldGFrYS0yLWtpYW1hdC1pbmktZGktZGVwYW4tbWF0YQ==",
         "description": " Eropa tengah dilanda beberapa krisis. Mulai dari krisis energi hingga kekeringan parah."
-    },
-    {
-        "title": "Nyata! Serangan Rusia Melemah di Ukraina, Putin Sudah Kalah?",
-        "link": "https://www.cnbcindonesia.com/news/20220903062456-4-368962/nyata-serangan-rusia-melemah-di-ukraina-putin-sudah-kalah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzA2MjQ1Ni00LTM2ODk2Mi9ueWF0YS1zZXJhbmdhbi1ydXNpYS1tZWxlbWFoLWRpLXVrcmFpbmEtcHV0aW4tc3VkYWgta2FsYWg=",
-        "description": " Pasukan Rusia dikabarkan sudah mulai melemah. Namun belum terlihat ada tanda-tanda konflik tersebut akan segera berakhir."
-    },
-    {
-        "title": "Ini Alasan Pemerintah Tak Kunjung Umumkan Harga BBM Naik",
-        "link": "https://www.cnbcindonesia.com/news/20220903063225-4-368964/ini-alasan-pemerintah-tak-kunjung-umumkan-harga-bbm-naik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzA2MzIyNS00LTM2ODk2NC9pbmktYWxhc2FuLXBlbWVyaW50YWgtdGFrLWt1bmp1bmctdW11bWthbi1oYXJnYS1iYm0tbmFpaw==",
-        "description": " Pemerintah belum juga memutuskan kenaikan harga BBM subsidi."
     }
 ]
