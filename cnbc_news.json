@@ -1,5 +1,54 @@
 [
     {
+        "title": "Zelenskiy 'Blusukan' ke Sekolah di Tahun Ajaran Baru",
+        "link": "https://www.cnbcindonesia.com/news/20220903124737-8-369018/zelenskiy-blusukan-ke-sekolah-di-tahun-ajaran-baru",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzEyNDczNy04LTM2OTAxOC96ZWxlbnNraXktYmx1c3VrYW4ta2Utc2Vrb2xhaC1kaS10YWh1bi1hamFyYW4tYmFydQ==",
+        "description": " Zelenskiy 'Blusukan' ke Sekolah di Tahun Ajaran Baru"
+    },
+    {
+        "title": "'Kiamat' Honorer November 2023, PNS Siap-Siap Nyusul Ya!",
+        "link": "https://www.cnbcindonesia.com/news/20220903114541-4-369009/kiamat-honorer-november-2023-pns-siap-siap-nyusul-ya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzExNDU0MS00LTM2OTAwOS9raWFtYXQtaG9ub3Jlci1ub3ZlbWJlci0yMDIzLXBucy1zaWFwLXNpYXAtbnl1c3VsLXlh",
+        "description": " Tenaga Honorer di instansi pemerintahan akan dihapus pada 2023."
+    },
+    {
+        "title": "Mitigasi Kemendag Agar RCEP Tak Rugikan Pengusaha Lokal",
+        "link": "https://www.cnbcindonesia.com/news/20220831114849-8-368037/mitigasi-kemendag-agar-rcep-tak-rugikan-pengusaha-lokal",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgzMTExNDg0OS04LTM2ODAzNy9taXRpZ2FzaS1rZW1lbmRhZy1hZ2FyLXJjZXAtdGFrLXJ1Z2lrYW4tcGVuZ3VzYWhhLWxva2Fs",
+        "description": " Mitigasi Kemendag Agar RCEP Tak Rugikan Pengusaha Lokal"
+    },
+    {
+        "title": "Jokowi Sebar BLT BBM di Lampung: 'Gak Mungkin 100% Bener'",
+        "link": "https://www.cnbcindonesia.com/news/20220903112111-4-369007/jokowi-sebar-blt-bbm-di-lampung-gak-mungkin-100-bener",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzExMjExMS00LTM2OTAwNy9qb2tvd2ktc2ViYXItYmx0LWJibS1kaS1sYW1wdW5nLWdhay1tdW5na2luLTEwMC1iZW5lcg==",
+        "description": " Presiden Joko Widodo membagikan Bantuan Langsung Tunai (BLT) BBM untuk masyarakat kelompok rentan."
+    },
+    {
+        "title": "Bidik Pasar Global, Telin dan Expereo Jalin Kemitraan Strategis",
+        "link": "https://www.cnbcindonesia.com/news/20220903120306-4-369010/bidik-pasar-global-telin-expereo-jalin-kemitraan-strategis",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzEyMDMwNi00LTM2OTAxMC9iaWRpay1wYXNhci1nbG9iYWwtdGVsaW4tZXhwZXJlby1qYWxpbi1rZW1pdHJhYW4tc3RyYXRlZ2lz",
+        "description": " Kolaborasi Telin dengan Expereo diharapkan saling memperkuat kapabilitas serta mempercepat transformasi digital Indonesia."
+    },
+    {
+        "title": "Petani Cabai Khawatir, Kenaikan BBM Persulit Distribusi",
+        "link": "https://www.cnbcindonesia.com/news/20220901094110-8-368366/petani-cabai-khawatir-kenaikan-bbm-persulit-distribusi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTA5NDExMC04LTM2ODM2Ni9wZXRhbmktY2FiYWkta2hhd2F0aXIta2VuYWlrYW4tYmJtLXBlcnN1bGl0LWRpc3RyaWJ1c2k=",
+        "description": " Petani Cabai Khawatir, BBM Naik Bikin Beban Distribusi Tambah Berat"
+    },
+    {
+        "title": "FYI! Ini Cerita Dibalik 'Panic Buying' Batu Bara Eropa",
+        "link": "https://www.cnbcindonesia.com/news/20220903085836-4-368995/fyi-ini-cerita-dibalik-panic-buying-batu-bara-eropa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzA4NTgzNi00LTM2ODk5NS9meWktaW5pLWNlcml0YS1kaWJhbGlrLXBhbmljLWJ1eWluZy1iYXR1LWJhcmEtZXJvcGE=",
+        "description": " Negara-negara Eropa makin dilanda panic buying membeli batu bara menyebabkan transisi energi menjadi lebih menantang."
+    },
+    {
         "title": "Bulog Diperintahkan Beli 1,2 Juta Ton Beras, Ada Apa?",
         "link": "https://www.cnbcindonesia.com/news/20220903094033-4-368997/bulog-diperintahkan-beli-12-juta-ton-beras-ada-apa",
         "image": "static/images/cnbc_news.png",
@@ -19,54 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzEwMzg0NS00LTM2OTAwNS90ZXJiYXJ1LWJvY29yYW4tam9rb3dpLXNvYWwta2VuYWlrYW4taGFyZ2EtYmJtLXJlc21pLW5haWs=",
         "description": " Pemerintah belum juga mengumumkan keputusan soal harga BBM bersubsidi."
-    },
-    {
-        "title": "Gaji Pensiunan PNS vs Anggota DPR, Mana yang Lebih Membebani?",
-        "link": "https://www.cnbcindonesia.com/news/20220903084112-4-368993/gaji-pensiunan-pns-vs-anggota-dpr-mana-yang-lebih-membebani",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzA4NDExMi00LTM2ODk5My9nYWppLXBlbnNpdW5hbi1wbnMtdnMtYW5nZ290YS1kcHItbWFuYS15YW5nLWxlYmloLW1lbWJlYmFuaQ==",
-        "description": " Menteri Keuangan Sri Mulyani menyebut gaji pensiunan PNS jadi beban negara."
-    },
-    {
-        "title": "AS Jual Senjata ke Taiwan US$ 1,1 Miliar, Mau Perang?",
-        "link": "https://www.cnbcindonesia.com/news/20220903092226-4-368996/as-jual-senjata-ke-taiwan-us--11-miliar-mau-perang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzA5MjIyNi00LTM2ODk5Ni9hcy1qdWFsLXNlbmphdGEta2UtdGFpd2FuLXVzLS0xMS1taWxpYXItbWF1LXBlcmFuZw==",
-        "description": " Amerika Serikat (AS) mengumumkan paket senjata baru senilai US$ 1,1 miliar ke Taiwan."
-    },
-    {
-        "title": "Soal DHE, Eksportir: Kami Pejuang Devisa Tapi Kok Dipersulit",
-        "link": "https://www.cnbcindonesia.com/news/20220901105653-8-368405/soal-dhe-eksportir-kami-pejuang-devisa-tapi-kok-dipersulit",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMTEwNTY1My04LTM2ODQwNS9zb2FsLWRoZS1la3Nwb3J0aXIta2FtaS1wZWp1YW5nLWRldmlzYS10YXBpLWtvay1kaXBlcnN1bGl0",
-        "description": " Soal DHE, Eksportir: Kami Pejuang Devisa Tapi Dipersulit Aturan"
-    },
-    {
-        "title": "Ngeri! 'Kiamat' Energi di Depan Mata, Eropa Bisa 'Mati Beku'",
-        "link": "https://www.cnbcindonesia.com/news/20220903075721-4-368980/ngeri-kiamat-energi-di-depan-mata-eropa-bisa-mati-beku",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzA3NTcyMS00LTM2ODk4MC9uZ2VyaS1raWFtYXQtZW5lcmdpLWRpLWRlcGFuLW1hdGEtZXJvcGEtYmlzYS1tYXRpLWJla3U=",
-        "description": " Rusia membatalkan pembukaan kembali aliran gas menuju Jerman yang sebelumnya direncanakan pada Sabtu ini."
-    },
-    {
-        "title": "Anak-anak Ukraina Kembali Sekolah di Tengah Ketegangan Perang",
-        "link": "https://www.cnbcindonesia.com/news/20220903070729-7-368970/anak-anak-ukraina-kembali-sekolah-di-tengah-ketegangan-perang",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzA3MDcyOS03LTM2ODk3MC9hbmFrLWFuYWstdWtyYWluYS1rZW1iYWxpLXNla29sYWgtZGktdGVuZ2FoLWtldGVnYW5nYW4tcGVyYW5n",
-        "description": " Siswa di Ukraina sudah mulai bersekolah disambut bahagia para murid sebab hari terakhir sekolah mereka adalah sehari sebelum invasi Rusia 24 Februari."
-    },
-    {
-        "title": "Terungkap! Ini Dokumen Disita FBI di Rumah Trump, Ada 11.000",
-        "link": "https://www.cnbcindonesia.com/news/20220903073351-4-368978/terungkap-ini-dokumen-disita-fbi-di-rumah-trump-ada-11000",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzA3MzM1MS00LTM2ODk3OC90ZXJ1bmdrYXAtaW5pLWRva3VtZW4tZGlzaXRhLWZiaS1kaS1ydW1haC10cnVtcC1hZGEtMTEwMDA=",
-        "description": " Biro invetsigasi Federal AS (FBI) menemukan 11.000 dokumen pemerintah dan foto-foto selama penggeledahan di rumah mantan Presiden AS, Donald Trump."
-    },
-    {
-        "title": "Eropa di Ambang Malapetaka, 2 'Kiamat' Ini di Depan Mata",
-        "link": "https://www.cnbcindonesia.com/news/20220903071817-4-368969/eropa-di-ambang-malapetaka-2-kiamat-ini-di-depan-mata",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzA3MTgxNy00LTM2ODk2OS9lcm9wYS1kaS1hbWJhbmctbWFsYXBldGFrYS0yLWtpYW1hdC1pbmktZGktZGVwYW4tbWF0YQ==",
-        "description": " Eropa tengah dilanda beberapa krisis. Mulai dari krisis energi hingga kekeringan parah."
     }
 ]
