@@ -1,10 +1,17 @@
 [
     {
-        "title": "Breaking News: Pemerintah Resmi Naikan Harga Pertalite Jadi Rp 10.000 per Liter",
-        "link": "https://nasional.tempo.co/read/1630021/breaking-news-pemerintah-resmi-naikan-harga-pertalite-jadi-rp-10-000-per-liter",
+        "title": "Kenaikan Harga BBM, Jokowi Perintahkan Pemda Gelontorkan Subsidi untuk Angkot Hingga Ojol",
+        "link": "https://nasional.tempo.co/read/1630024/kenaikan-harga-bbm-jokowi-perintahkan-pemda-gelontorkan-subsidi-untuk-angkot-hingga-ojol",
         "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MzAwMjEvYnJlYWtpbmctbmV3cy1wZW1lcmludGFoLXJlc21pLW5haWthbi1oYXJnYS1wZXJ0YWxpdGUtamFkaS1ycC0xMC0wMDAtcGVyLWxpdGVy",
-        "description": "Presiden Joko Widodo atau Jokowi resmi menaikan harga pertalite, pertamax, hingga solar per hari ini, Sabtu, 3 September 2022."
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MzAwMjQva2VuYWlrYW4taGFyZ2EtYmJtLWpva293aS1wZXJpbnRhaGthbi1wZW1kYS1nZWxvbnRvcmthbi1zdWJzaWRpLXVudHVrLWFuZ2tvdC1oaW5nZ2Etb2pvbA==",
+        "description": "Jokowi memerintahkan pemerintah daerah menggelontorkan subsidi khusus untuk angkutan umum, pelaku ojek online, hingga nelayan imbas kenaikan harga BBM"
+    },
+    {
+        "title": "Breaking News: Pemerintah Resmi Naikkan Harga Pertalite Jadi Rp 10.000 per Liter",
+        "link": "https://nasional.tempo.co/read/1630021/breaking-news-pemerintah-resmi-naikkan-harga-pertalite-jadi-rp-10-000-per-liter",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MzAwMjEvYnJlYWtpbmctbmV3cy1wZW1lcmludGFoLXJlc21pLW5haWtrYW4taGFyZ2EtcGVydGFsaXRlLWphZGktcnAtMTAtMDAwLXBlci1saXRlcg==",
+        "description": "Presiden Joko Widodo atau Jokowi resmi menaikkan harga pertalite, pertamax, hingga solar per hari ini, Sabtu, 3 September 2022."
     },
     {
         "title": "Jokowi Sebut Penyaluran BLT BBM di Seluruh Daerah Mulai Pekan Depan",
@@ -61,12 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk5OTcva2VsdWFyZ2EtYmFudGFoLWtvcmJhbi1tdXRpbGFzaS1kaS1wYXB1YS1hZGEta2FpdGFuLWRlbmdhbi1ra2ItaW5pLWtyb25vbG9naS12ZXJzaS1tZXJla2E=",
         "description": "Keluarga juga membantah tudingan korban mutilasi bertemu dengan para pelaku untuk membeli senjata"
-    },
-    {
-        "title": "BLT BBM dan Berbagai Jenis Bansos Pemerintah untuk Membantu Masyarakat",
-        "link": "https://nasional.tempo.co/read/1629998/blt-bbm-dan-berbagai-jenis-bansos-pemerintah-untuk-membantu-masyarakat",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2Mjk5OTgvYmx0LWJibS1kYW4tYmVyYmFnYWktamVuaXMtYmFuc29zLXBlbWVyaW50YWgtdW50dWstbWVtYmFudHUtbWFzeWFyYWthdA==",
-        "description": "Pemerintah memiliki berbagai jenis bantuan sosial, baik dalam bentuk tunai maupun program, guna membantu perekonomian masyarakat yang membutuhkan."
     }
 ]
