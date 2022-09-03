@@ -1,5 +1,19 @@
 [
     {
+        "title": "Apa Itu Istilah Bakar Uang dalam Bisnis?",
+        "link": "https://bisnis.tempo.co/read/1630101/apa-itu-istilah-bakar-uang-dalam-bisnis",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwMTAxL2FwYS1pdHUtaXN0aWxhaC1iYWthci11YW5nLWRhbGFtLWJpc25pcw==",
+        "description": "Istilah bakar uang atau mengukur seberapa cepat perusahaan menghabiskan duit"
+    },
+    {
+        "title": "Terkini Bisnis: Sri Mulyani Sebut Subsidi Dinikmati Pemilik Mobil, Johnny Plate Sebut Tiap Orang Harus Jaga NIK",
+        "link": "https://bisnis.tempo.co/read/1630098/terkini-bisnis-sri-mulyani-sebut-subsidi-dinikmati-pemilik-mobil-johnny-plate-sebut-tiap-orang-harus-jaga-nik",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwMDk4L3RlcmtpbmktYmlzbmlzLXNyaS1tdWx5YW5pLXNlYnV0LXN1YnNpZGktZGluaWttYXRpLXBlbWlsaWstbW9iaWwtam9obm55LXBsYXRlLXNlYnV0LXRpYXAtb3JhbmctaGFydXMtamFnYS1uaWs=",
+        "description": "Berita terkini hingga petang ini dimulai dari pernyataan Sri Mulyani tentang masyarakat bermobil masih menikmati subsidi meskipun harga BBM dinaikkan."
+    },
+    {
         "title": "Meta Luncurkan Akademi Pembelajaran Augmented dan Virtual Reality, Terbuka untuk Pemula Non-IT",
         "link": "https://bisnis.tempo.co/read/1630079/meta-luncurkan-akademi-pembelajaran-augmented-dan-virtual-reality-terbuka-untuk-pemula-non-it",
         "image": "static/images/tempo_bisnis.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwMDM5L2tlYm9jb3Jhbi1kYXRhLXByaWJhZGktdGVyamFkaS1sYWdpLWpvaG5ueS1wbGF0ZS1tYXN5YXJha2F0LWhhcnVzLXNlcmluZy1nYW50aS1wYXNzd29yZA==",
         "description": "Menteri Komunikasi dan Informatika Johnny G. Plate merespons soal kebocoran data pribadi yang kembali terjadi di dunia digital."
-    },
-    {
-        "title": "Data SIM Card Bocor, Johnny Plate Sebut Masyarakat Harus Jaga NIK Masing-masing",
-        "link": "https://bisnis.tempo.co/read/1630035/data-sim-card-bocor-johnny-plate-sebut-masyarakat-harus-jaga-nik-masing-masing",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwMDM1L2RhdGEtc2ltLWNhcmQtYm9jb3Itam9obm55LXBsYXRlLXNlYnV0LW1hc3lhcmFrYXQtaGFydXMtamFnYS1uaWstbWFzaW5nLW1hc2luZw==",
-        "description": "Menanggapi dugaan kebocoran 1,3 miliar data SIM Card, Menteri Johnny G. Plate mengimbau agar masyarakat menjaga data NIK masing-masing."
-    },
-    {
-        "title": "Sri Mulyani Beberkan Alasan Harga BBM Naik di Tengah Tren Penurunan Harga Minyak Dunia",
-        "link": "https://bisnis.tempo.co/read/1630033/sri-mulyani-beberkan-alasan-harga-bbm-naik-di-tengah-tren-penurunan-harga-minyak-dunia",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwMDMzL3NyaS1tdWx5YW5pLWJlYmVya2FuLWFsYXNhbi1oYXJnYS1iYm0tbmFpay1kaS10ZW5nYWgtdHJlbi1wZW51cnVuYW4taGFyZ2EtbWlueWFrLWR1bmlh",
-        "description": "Sri Mulyani menjelaskan penyebab kenaikan harga bahan BBM subsidi, khususnya yang dijual oleh Pertamina di tengah turunnya harga minyak dunia."
     }
 ]
