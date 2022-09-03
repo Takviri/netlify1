@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cek! 5 Provinsi dengan Kasus Covid-19 Terbanyak Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220903175106-4-369082/cek-5-provinsi-dengan-kasus-covid-19-terbanyak-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzE3NTEwNi00LTM2OTA4Mi9jZWstNS1wcm92aW5zaS1kZW5nYW4ta2FzdXMtY292aWQtMTktdGVyYmFueWFrLWhhcmktaW5p",
+        "description": " Cek! Berikut Lima Provinsi dengan Kasus Terkonfirmasi Covid-19 Terbanyak Hari Ini!"
+    },
+    {
         "title": "2023, Sri Mulyani Masih Kurang Bayar Subsidi BBM Rp 100 T",
         "link": "https://www.cnbcindonesia.com/news/20220903143132-4-369044/2023-sri-mulyani-masih-kurang-bayar-subsidi-bbm-rp-100-t",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzE1MTAxOS00LTM2OTA1MC9wZXJ0YWxpdGUtbmFpay1kaS1zYWF0LXlhbmctdGlkYWstdGVwYXQtcmktYmlzYS1zdGFnZmxhc2k=",
         "description": " Dampaknya, Indonesia bisa terancam stagflasi"
-    },
-    {
-        "title": "Penampakan SPBU Saat Harga BBM Naik",
-        "link": "https://www.cnbcindonesia.com/news/20220903154606-7-369061/penampakan-spbu-saat-harga-bbm-naik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzE1NDYwNi03LTM2OTA2MS9wZW5hbXBha2FuLXNwYnUtc2FhdC1oYXJnYS1iYm0tbmFpaw==",
-        "description": " Presiden Jokowi akhirnya memutuskan menaikkan harga bahan bakar minyak (BBM) bersubsidi. Harga Pertalite diputuskan naik dari Rp 7.650 jadi Rp 10.000 per liter."
     }
 ]
