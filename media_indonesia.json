@@ -1,5 +1,19 @@
 [
     {
+        "title": "Jon Bodo: BBM Subsidi",
+        "link": "https://mediaindonesia.com/weekend/519882/jon-bodo-bbm-subsidi",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vd2Vla2VuZC81MTk4ODIvam9uLWJvZG8tYmJtLXN1YnNpZGk=",
+        "description": "JON sebenarnya BBM subsidi buat siapa sih?"
+    },
+    {
+        "title": "Bung Sentil: \u00a0Hukum Dipermainkan",
+        "link": "https://mediaindonesia.com/weekend/519881/bung-sentil-hukum-dipermainkan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vd2Vla2VuZC81MTk4ODEvYnVuZy1zZW50aWwtaHVrdW0tZGlwZXJtYWlua2Fu",
+        "description": "SIAPA pun di depan hukum harus di perlakukan sama. Nggak peduli jabatannya, statusnya, gendernya, agamanya..."
+    },
+    {
         "title": "Tradisi Menghanyut dan Memanggil Ikan Pelaut Mandar",
         "link": "https://mediaindonesia.com/weekend/519900/tradisi-menghanyut-dan-memanggil-ikan-pelaut-mandar",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vc2VwYWstYm9sYS81MTk5MTcvYmFpbGV5LXBhc3Rpa2FuLWFzdG9uLXZpbGxhLXRhaGFuLWltYmFuZy1tYW5jaGVzdGVyLWNpdHk=",
         "description": "Villa kini keluar dari zona degradasi berkat sebuah gol yang dicetak setelah penampilan penuh perjuangan yang mengurangi tekanan yang dihadapi pelatih Steven Gerrard."
-    },
-    {
-        "title": "Bayern Ditahan Union, Freiburg Naik ke Puncak Klasemen",
-        "link": "https://mediaindonesia.com/sepak-bola/519916/bayern-ditahan-union-freiburg-naik-ke-puncak-klasemen",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vc2VwYWstYm9sYS81MTk5MTYvYmF5ZXJuLWRpdGFoYW4tdW5pb24tZnJlaWJ1cmctbmFpay1rZS1wdW5jYWsta2xhc2VtZW4=",
-        "description": "Union berhasil mendapatkan poin di kandang sendiri yang juga membuat Freiburg meloncat ke urutan pertama klasemen setelah menaklukkan Bayer Leverkusen dalam thriller lima gol."
-    },
-    {
-        "title": "Sempat Tertinggal, Chelsea Sukses Kalahkan West Ham",
-        "link": "https://mediaindonesia.com/sepak-bola/519915/sempat-tertinggal-chelsea-sukses-kalahkan-west-ham",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vc2VwYWstYm9sYS81MTk5MTUvc2VtcGF0LXRlcnRpbmdnYWwtY2hlbHNlYS1zdWtzZXMta2FsYWhrYW4td2VzdC1oYW0=",
-        "description": "West Ham unggul lebih dulu berkat gol Michail Antonio yang disamakan Ben Chilwell sebelum Kai Havertz membuat Chelsea balik mengalahkan West Ham."
     }
 ]
