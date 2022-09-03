@@ -1,5 +1,19 @@
 [
     {
+        "title": "Penampakan SPBU Saat Harga BBM Naik",
+        "link": "https://www.cnbcindonesia.com/news/20220903154606-7-369061/penampakan-spbu-saat-harga-bbm-naik",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzE1NDYwNi03LTM2OTA2MS9wZW5hbXBha2FuLXNwYnUtc2FhdC1oYXJnYS1iYm0tbmFpaw==",
+        "description": " Presiden Jokowi akhirnya memutuskan menaikkan harga bahan bakar minyak (BBM) bersubsidi. Harga Pertalite diputuskan naik dari Rp 7.650 jadi Rp 10.000 per liter."
+    },
+    {
+        "title": "Harga Pertamax Rp 14.500, Lebih Murah Mana dari Shell Cs?",
+        "link": "https://www.cnbcindonesia.com/news/20220903153146-4-369055/harga-pertamax-rp-14500-lebih-murah-mana-dari-shell-cs",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzE1MzE0Ni00LTM2OTA1NS9oYXJnYS1wZXJ0YW1heC1ycC0xNDUwMC1sZWJpaC1tdXJhaC1tYW5hLWRhcmktc2hlbGwtY3M=",
+        "description": " Tidak hanya Pertamina saja, sejumlah badan usaha penyalur BBM pada Kamis kemarin sebetulnya juga melakukan penyesuaian harga."
+    },
+    {
         "title": "Jokowi Akui BLT BBM Berpotensi Tak Tepat Sasaran",
         "link": "https://www.cnbcindonesia.com/news/20220903154306-8-369058/jokowi-akui-blt-bbm-berpotensi-tak-tepat-sasaran",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzE0NTc1Mi00LTM2OTA0Ny9wZXJ0YW1pbmEtamFtaW4ta2V0ZXJzZWRpYWFuLXN0b2stYmJtLXN1YnNpZGkta2UtbWFzeWFyYWthdA==",
         "description": " Ketahanan stok Pertalite dan Solar pada 2 September ini berada diangka yang aman, Pertalite di level 18 hari, Solar di level 20 hari, dan terus diproduksi."
-    },
-    {
-        "title": "Resmi Naik, Ini Daftar Terbaru Harga BBM di SPBU Pertamina",
-        "link": "https://www.cnbcindonesia.com/news/20220903144815-4-369046/resmi-naik-ini-daftar-terbaru-harga-bbm-di-spbu-pertamina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzE0NDgxNS00LTM2OTA0Ni9yZXNtaS1uYWlrLWluaS1kYWZ0YXItdGVyYmFydS1oYXJnYS1iYm0tZGktc3BidS1wZXJ0YW1pbmE=",
-        "description": " Resmi Naik, Ini Daftar Terbaru Harga BBM di SPBU Pertamina Mulai Hari Ini"
-    },
-    {
-        "title": "Serbu Pertalite, Pengendara Motor Rela Hujan-hujanan di SPBU",
-        "link": "https://www.cnbcindonesia.com/news/20220903144104-4-369045/serbu-pertalite-pengendara-motor-rela-hujan-hujanan-di-spbu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzE0NDEwNC00LTM2OTA0NS9zZXJidS1wZXJ0YWxpdGUtcGVuZ2VuZGFyYS1tb3Rvci1yZWxhLWh1amFuLWh1amFuYW4tZGktc3BidQ==",
-        "description": " Kenaikan harga bahan bakar minyak (BBM) mengejutkan publik."
     }
 ]
