@@ -1,5 +1,19 @@
 [
     {
+        "title": "Ada Tambahan 3.260 Kasus Covid di RI Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220903181555-16-369084/ada-tambahan-3260-kasus-covid-di-ri-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzE4MTU1NS0xNi0zNjkwODQvYWRhLXRhbWJhaGFuLTMyNjAta2FzdXMtY292aWQtZGktcmktaGFyaS1pbmk=",
+        "description": " total kasus terkonfirmasi Covid-19 di Indonesia per Sabtu, 3 September 2022 telah bertambah 3.260 kasus"
+    },
+    {
+        "title": "Covid Minggir! Jokowi Warning Ada Ancaman Penyakit Baru",
+        "link": "https://www.cnbcindonesia.com/news/20220903180844-4-369083/covid-minggir-jokowi-warning-ada-ancaman-penyakit-baru",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzE4MDg0NC00LTM2OTA4My9jb3ZpZC1taW5nZ2lyLWpva293aS13YXJuaW5nLWFkYS1hbmNhbWFuLXBlbnlha2l0LWJhcnU=",
+        "description": " Covid Minggir! Jokowi Warning Ancaman Penyakit Baru di Masa Depan"
+    },
+    {
         "title": "Cek! 5 Provinsi dengan Kasus Covid-19 Terbanyak Hari Ini",
         "link": "https://www.cnbcindonesia.com/news/20220903175106-4-369082/cek-5-provinsi-dengan-kasus-covid-19-terbanyak-hari-ini",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzE2MjYxNS00LTM2OTA3Ny9kaXJ1dC1wZXJ0YW1pbmEtdGVyanVuLWxhbmdzdW5nLW1lbWFzdGlrYW4tc3Rvay1iYm0tYW1hbg==",
         "description": " Direktur Utama Pertamina, Nicke Widyawati langsung memastikan ketersediaan (stok) BBM Subsidi di seluruh SPBU dalam posisi aman, pasca penyesuaian harga."
-    },
-    {
-        "title": "Cegah Kericuhan, SPBU Dijaga Polisi Saat Harga BBM Naik",
-        "link": "https://www.cnbcindonesia.com/news/20220822174058-7-365700/cegah-kericuhan-spbu-dijaga-polisi-saat-harga-bbm-naik",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDgyMjE3NDA1OC03LTM2NTcwMC9jZWdhaC1rZXJpY3VoYW4tc3BidS1kaWphZ2EtcG9saXNpLXNhYXQtaGFyZ2EtYmJtLW5haWs=",
-        "description": " Antrean panjang di SPBU pascapengumuman kenaikan harga BBM subsidi. Harga mulai berlaku hari ini, Sabtu (3/9/2022) pukul 14.30 WIB."
-    },
-    {
-        "title": "Pertalite Naik di Saat Yang Tidak Tepat, RI Bisa Stagflasi!",
-        "link": "https://www.cnbcindonesia.com/news/20220903151019-4-369050/pertalite-naik-di-saat-yang-tidak-tepat-ri-bisa-stagflasi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwMzE1MTAxOS00LTM2OTA1MC9wZXJ0YWxpdGUtbmFpay1kaS1zYWF0LXlhbmctdGlkYWstdGVwYXQtcmktYmlzYS1zdGFnZmxhc2k=",
-        "description": " Dampaknya, Indonesia bisa terancam stagflasi"
     }
 ]
