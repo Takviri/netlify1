@@ -1,5 +1,19 @@
 [
     {
+        "title": "Harga Rumah di Inggris Naik 10 Persen per Agustus 2022",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220903093211-92-842696/harga-rumah-di-inggris-naik-10-persen-per-agustus-2022",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAzMDkzMjExLTkyLTg0MjY5Ni9oYXJnYS1ydW1haC1kaS1pbmdncmlzLW5haWstMTAtcGVyc2VuLXBlci1hZ3VzdHVzLTIwMjI=",
+        "description": " Harga rumah di Inggris memang mengalami lonjakan, tapi diprediksi akan melandai dalam beberapa waktu ke depan."
+    },
+    {
+        "title": "Tips Mengajukan Kredit di Era Kenaikan Suku Bunga Acuan",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220902102731-83-842312/tips-mengajukan-kredit-di-era-kenaikan-suku-bunga-acuan",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAyMTAyNzMxLTgzLTg0MjMxMi90aXBzLW1lbmdhanVrYW4ta3JlZGl0LWRpLWVyYS1rZW5haWthbi1zdWt1LWJ1bmdhLWFjdWFu",
+        "description": " BI menaikkan suku bunga acuan menjadi sebesar 3,75 persen pada Agustus 2022 dan diikuti oleh perbankan lainnya."
+    },
+    {
         "title": "5 Peristiwa Menarik di Tengah Isu Kenaikan Harga Pertalite",
         "link": "https://www.cnnindonesia.com/ekonomi/20220903090711-85-842694/5-peristiwa-menarik-di-tengah-isu-kenaikan-harga-pertalite",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAyMjAzNTIyLTc4LTg0MjYzNi9tb2RhbC1hc2luZy1ycDEzMS10LWhlbmdrYW5nLWRhcmktcmktZGFsYW0tOS1idWxhbg==",
         "description": " Bank Indonesia mencatat terjadi outflow neto atau dana keluar asing sebesar Rp131,96 triliun dari pasar saham hingga 1 September 2022."
-    },
-    {
-        "title": "SoftBank Rugi Rp740 T per Juni 2022, Terbesar dalam Sejarah",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220902190851-78-842603/softbank-rugi-rp740-t-per-juni-2022-terbesar-dalam-sejarah",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAyMTkwODUxLTc4LTg0MjYwMy9zb2Z0YmFuay1ydWdpLXJwNzQwLXQtcGVyLWp1bmktMjAyMi10ZXJiZXNhci1kYWxhbS1zZWphcmFo",
-        "description": " SoftBank Group Corp mencatatkan kerugian hingga Rp740 triliun per Juni 2022. Kerugian itu merupakan yang terbesar sepanjang sejarah."
-    },
-    {
-        "title": "Pengusaha Truk Sebut Biaya Logistik Terkerek 20 Persen Jika BBM Naik",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220902182532-92-842591/pengusaha-truk-sebut-biaya-logistik-terkerek-20-persen-jika-bbm-naik",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTAyMTgyNTMyLTkyLTg0MjU5MS9wZW5ndXNhaGEtdHJ1ay1zZWJ1dC1iaWF5YS1sb2dpc3Rpay10ZXJrZXJlay0yMC1wZXJzZW4tamlrYS1iYm0tbmFpaw==",
-        "description": " Pengusaha Truk sebut\u00c2\u00a0biaya logistik atau tarif angkut truk akan terkerek sekitar 15 sampai 20 persen jika harga bahan bakar minyak (BBM) resmi naik."
     }
 ]
