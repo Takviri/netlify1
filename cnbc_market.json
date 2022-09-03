@@ -1,5 +1,19 @@
 [
     {
+        "title": "Pekan Ini Rupiah Tumbang Tak Berdaya!",
+        "link": "https://www.cnbcindonesia.com/market/20220903162528-20-369068/pekan-ini-rupiah-tumbang-tak-berdaya",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAzMTYyNTI4LTIwLTM2OTA2OC9wZWthbi1pbmktcnVwaWFoLXR1bWJhbmctdGFrLWJlcmRheWE=",
+        "description": " Rupiah cenderung tak berkutik di hadapan dolar AS pekan ini."
+    },
+    {
+        "title": "5 Saham Ini Boncos Parah Minggu Ini, Ada di Porto Kamu?",
+        "link": "https://www.cnbcindonesia.com/market/20220903162754-17-369069/5-saham-ini-boncos-parah-minggu-ini-ada-di-porto-kamu",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAzMTYyNzU0LTE3LTM2OTA2OS81LXNhaGFtLWluaS1ib25jb3MtcGFyYWgtbWluZ2d1LWluaS1hZGEtZGktcG9ydG8ta2FtdQ==",
+        "description": " Ada 5 saham yang mengalami pelemahan harga sampai 20% di pekan ini"
+    },
+    {
         "title": "Emak-emak Sedih! Emas Antam Ikutan Longsor Gegara The Fed",
         "link": "https://www.cnbcindonesia.com/market/20220903143010-17-369042/emak-emak-sedih-emas-antam-ikutan-longsor-gegara-the-fed",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAzMDY1MDI5LTE3LTM2ODk2Ni9kaWhhamFyLWJvcy10aGUtZmVkLXJ1cGlhaC10dW1iYW5nLXRhay1iZXJkYXlh",
         "description": " Rupiah cenderung tak berkutik di hadapan dolar AS pekan ini. Mata uang Garuda harus mengalami depresiasi sepekan terakhir."
-    },
-    {
-        "title": "GWM dan BI7DRR Sudah Naik, Suku Bunga Bank Segera Dikerek?",
-        "link": "https://www.cnbcindonesia.com/market/20220901145248-19-368512/gwm-bi7drr-sudah-naik-suku-bunga-bank-segera-dikerek",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAxMTQ1MjQ4LTE5LTM2ODUxMi9nd20tYmk3ZHJyLXN1ZGFoLW5haWstc3VrdS1idW5nYS1iYW5rLXNlZ2VyYS1kaWtlcmVr",
-        "description": " GWM dan BI7DRR Sudah Naik, Suku Bunga Bank Segera Dikerek?"
-    },
-    {
-        "title": "Harga BBM di 3 Negara Ini di Bawah Rp 1.000/Liter, Kok Bisa?",
-        "link": "https://www.cnbcindonesia.com/market/20220903065348-17-368968/harga-bbm-di-3-negara-ini-di-bawah-rp-1000-liter-kok-bisa",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAzMDY1MzQ4LTE3LTM2ODk2OC9oYXJnYS1iYm0tZGktMy1uZWdhcmEtaW5pLWRpLWJhd2FoLXJwLTEwMDAtbGl0ZXIta29rLWJpc2E=",
-        "description": " Tiga negara ini memiliki harga BBM yang amat murah, kok bisa ?"
     }
 ]
