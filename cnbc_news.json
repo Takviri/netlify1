@@ -1,5 +1,19 @@
 [
     {
+        "title": "Mohon Maaf, Sebentar Lagi Vivo Diminta Ikut Naikkan Harga BBM",
+        "link": "https://www.cnbcindonesia.com/news/20220904145412-4-369147/mohon-maaf-sebentar-lagi-vivo-diminta-ikut-naikkan-harga-bbm",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDE0NTQxMi00LTM2OTE0Ny9tb2hvbi1tYWFmLXNlYmVudGFyLWxhZ2ktdml2by1kaW1pbnRhLWlrdXQtbmFpa2thbi1oYXJnYS1iYm0=",
+        "description": " Harga BBM Vivo"
+    },
+    {
+        "title": "Update Covid-19 4 September 2022",
+        "link": "https://www.cnbcindonesia.com/news/20220904180438-16-369169/update-covid-19-4-september-2022",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDE4MDQzOC0xNi0zNjkxNjkvdXBkYXRlLWNvdmlkLTE5LTQtc2VwdGVtYmVyLTIwMjI=",
+        "description": ""
+    },
+    {
         "title": "Sudah Cek Belum? Ini Harga BBM Terbaru yang Sudah Berlaku",
         "link": "https://www.cnbcindonesia.com/news/20220904160807-16-369154/sudah-cek-belum-ini-harga-bbm-terbaru-yang-sudah-berlaku",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDEzNTQxNi00LTM2OTE0MS9zaW1hay1wZXJrZW1iYW5nYW4tdGVyYWtoaXItc29hbC1yZW5jYW5hLXJwLTEwMDAtamFkaS1ycC0x",
         "description": " redenominasi Rupiah"
-    },
-    {
-        "title": "Harga BBM Pertamina Resmi Naik, Banyak Untung atau Rugi?",
-        "link": "https://www.cnbcindonesia.com/news/20220904150728-4-369148/harga-bbm-pertamina-resmi-naik-banyak-untung-atau-rugi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDE1MDcyOC00LTM2OTE0OC9oYXJnYS1iYm0tcGVydGFtaW5hLXJlc21pLW5haWstYmFueWFrLXVudHVuZy1hdGF1LXJ1Z2k=",
-        "description": " Pemerintah resmi mengumumkan kenaikan harga produk Bahan Bakar Minyak (BBM)"
-    },
-    {
-        "title": "Sempat Kabur, Mantan Presiden Sri Lanka Kembali ke Negaranya",
-        "link": "https://www.cnbcindonesia.com/news/20220904131216-7-369135/sempat-kabur-mantan-presiden-sri-lanka-kembali-ke-negaranya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDEzMTIxNi03LTM2OTEzNS9zZW1wYXQta2FidXItbWFudGFuLXByZXNpZGVuLXNyaS1sYW5rYS1rZW1iYWxpLWtlLW5lZ2FyYW55YQ==",
-        "description": " Rajapaksa kembali ke Sri Lanka setelah 7 pekan kabur ke luar negeri di tengah krisis ekonomi terburuk di pulau itu."
     }
 ]
