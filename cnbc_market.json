@@ -1,5 +1,26 @@
 [
     {
+        "title": "Ini Saham Paling Cuan dan Boncos Pekan Lalu, Ada Punya Kamu?",
+        "link": "https://www.cnbcindonesia.com/market/20220904232033-17-369175/ini-saham-paling-cuan-dan-boncos-pekan-lalu-ada-punya-kamu",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA0MjMyMDMzLTE3LTM2OTE3NS9pbmktc2FoYW0tcGFsaW5nLWN1YW4tZGFuLWJvbmNvcy1wZWthbi1sYWx1LWFkYS1wdW55YS1rYW11",
+        "description": " Di tengah cerahnya IHSG pada akhir pekan lalu, beberapa saham menjadi top gainers dan top losers."
+    },
+    {
+        "title": "Asing Borong Saham Rp 1,9 T Pekan Lalu, Gegara Ini?",
+        "link": "https://www.cnbcindonesia.com/market/20220905004550-17-369184/asing-borong-saham-rp-19-t-pekan-lalu-gegara-ini",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MDA0NTUwLTE3LTM2OTE4NC9hc2luZy1ib3Jvbmctc2FoYW0tcnAtMTktdC1wZWthbi1sYWx1LWdlZ2FyYS1pbmk=",
+        "description": " Asing melakukan beli bersih jumbo di pasar modal RI pekan lalu"
+    },
+    {
+        "title": "BBM Naik, Bencana Buat Pasar Keuangan RI?",
+        "link": "https://www.cnbcindonesia.com/market/20220905003708-17-369183/bbm-naik-bencana-buat-pasar-keuangan-ri",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MDAzNzA4LTE3LTM2OTE4My9iYm0tbmFpay1iZW5jYW5hLWJ1YXQtcGFzYXIta2V1YW5nYW4tcmk=",
+        "description": " BBM Naik, bagaimana kabar pasar keuangan RI hari ini?"
+    },
+    {
         "title": "Aduh! Investor GoTo-Grab Ini Mau PHK 20% Karyawan",
         "link": "https://www.cnbcindonesia.com/market/20220904140623-17-369144/aduh-investor-goto-grab-ini-mau-phk-20-karyawan",
         "image": "static/images/cnbc_market.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTAyMTQxNjI0LTE5LTM2ODgyNC9wZXJzaWFwYW4taGltYmFyYS1rYXdhbC1pbXBsZW1lbnRhc2kta2FydHUta3JlZGl0LXBlbWVyaW50YWg=",
         "description": " Persiapan Himbara Kawal Implementasi Kartu Kredit Pemerintah"
-    },
-    {
-        "title": "Pidato 8 Menit Bikin Harga Emas Redup, Lesu Sepanjang Minggu",
-        "link": "https://www.cnbcindonesia.com/market/20220904095913-17-369109/pidato-8-menit-bikin-harga-emas-redup-lesu-sepanjang-minggu",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA0MDk1OTEzLTE3LTM2OTEwOS9waWRhdG8tOC1tZW5pdC1iaWtpbi1oYXJnYS1lbWFzLXJlZHVwLWxlc3Utc2VwYW5qYW5nLW1pbmdndQ==",
-        "description": " Emas dunia dibuat tak berkutik melawan penguatan dolar AS."
-    },
-    {
-        "title": "BRI Dukung Ribuan Klaster UMKM Binaan Perluas Akses Pasar",
-        "link": "https://www.cnbcindonesia.com/market/20220904102729-17-369110/bri-dukung-ribuan-klaster-umkm-binaan-perluas-akses-pasar",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA0MTAyNzI5LTE3LTM2OTExMC9icmktZHVrdW5nLXJpYnVhbi1rbGFzdGVyLXVta20tYmluYWFuLXBlcmx1YXMtYWtzZXMtcGFzYXI=",
-        "description": " PT Bank Rakyat Indonesia (Persero) Tbk (BBRI) semakin serius dalam menggarap pemberdayaan UMKM untuk memberikan akses pasar yang lebih lua"
-    },
-    {
-        "title": "Harga BBM Malaysia Lebih Murah Dari RI? Cek Faktanya",
-        "link": "https://www.cnbcindonesia.com/market/20220904091405-17-369106/harga-bbm-malaysia-lebih-murah-dari-ri-cek-faktanya",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA0MDkxNDA1LTE3LTM2OTEwNi9oYXJnYS1iYm0tbWFsYXlzaWEtbGViaWgtbXVyYWgtZGFyaS1yaS1jZWstZmFrdGFueWE=",
-        "description": " Nyatanya harga BBM di tanah air yang masih tergolong murah di kawasan Asia Tenggara, lebih mahal dari Malaysia."
     }
 ]

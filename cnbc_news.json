@@ -1,5 +1,19 @@
 [
     {
+        "title": "Harga BBM Sudah Naik, What's Next?",
+        "link": "https://www.cnbcindonesia.com/news/20220905003211-4-369177/harga-bbm-sudah-naik-whats-next",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTAwMzIxMS00LTM2OTE3Ny9oYXJnYS1iYm0tc3VkYWgtbmFpay13aGF0cy1uZXh0",
+        "description": " Harga Bahan BBM bersubsidi sudah naik. Dampaknya tentu besar, karena BBM adalah barang yang menyangkut hajat hidup orang banyak."
+    },
+    {
+        "title": "Serang Balik Rusia, Ukraina Berhasil Rebut Wilayah Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220905055222-4-369188/serang-balik-rusia-ukraina-berhasil-rebut-wilayah-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTA1NTIyMi00LTM2OTE4OC9zZXJhbmctYmFsaWstcnVzaWEtdWtyYWluYS1iZXJoYXNpbC1yZWJ1dC13aWxheWFoLWluaQ==",
+        "description": " Ukraina berhasil merebut kembali desa Vysokopillia di Kherson pada hari Minggu dan mengibarkan benderanya di atas sebuah rumah sakit."
+    },
+    {
         "title": "Sanksi Barat ke Rusia Tak Mempan, Eropa Salah Perhitungan?",
         "link": "https://www.cnbcindonesia.com/news/20220904195744-4-369171/sanksi-barat-ke-rusia-tak-mempan-eropa-salah-perhitungan",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDE1MzgwMy00LTM2OTE1MS9jYXJhLWFnYXItdGFrLXBlcmx1LWJheWFyLWl1cmFuLWJwanMta2VzZWhhdGFuLXN1ZGFoLWNvYmE=",
         "description": " BPJS Kesehatan"
-    },
-    {
-        "title": "Riwayat Naik-Turun Harga BBM Sejak Jokowi Jadi Presiden",
-        "link": "https://www.cnbcindonesia.com/news/20220904140648-4-369142/riwayat-naik-turun-harga-bbm-sejak-jokowi-jadi-presiden",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDE0MDY0OC00LTM2OTE0Mi9yaXdheWF0LW5haWstdHVydW4taGFyZ2EtYmJtLXNlamFrLWpva293aS1qYWRpLXByZXNpZGVu",
-        "description": " Selama menjabat sebagai pemimpin negara, Presiden Joko Widodo (Jokowi) telah beberapa kali menaikkan harga bahan bakar minyak (BBM)."
-    },
-    {
-        "title": "PM Ukraina Mau ke Jerman, Minta Dikirim \"Leopard 2\"",
-        "link": "https://www.cnbcindonesia.com/news/20220904144151-4-369149/pm-ukraina-mau-ke-jerman-minta-dikirim-leopard-2",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDE0NDE1MS00LTM2OTE0OS9wbS11a3JhaW5hLW1hdS1rZS1qZXJtYW4tbWludGEtZGlraXJpbS1sZW9wYXJkLTI=",
-        "description": " Perdana Menteri Denys Shmygal akan menjadi pejabat tingkat tinggi Ukraina pertama yang mengunjungi Jerman"
     }
 ]
