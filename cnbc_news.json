@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sudah Cek Belum? Ini Harga BBM Terbaru yang Sudah Berlaku",
+        "link": "https://www.cnbcindonesia.com/news/20220904160807-16-369154/sudah-cek-belum-ini-harga-bbm-terbaru-yang-sudah-berlaku",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDE2MDgwNy0xNi0zNjkxNTQvc3VkYWgtY2VrLWJlbHVtLWluaS1oYXJnYS1iYm0tdGVyYmFydS15YW5nLXN1ZGFoLWJlcmxha3U=",
+        "description": " Harga BBM secara resmi mengalami kenaikan per hari Sabtu (4/9/2022)."
+    },
+    {
+        "title": "Harga Bensin Naik, Pemerintah Mau Batasi Pembelian BBM?",
+        "link": "https://www.cnbcindonesia.com/news/20220904152521-4-369150/harga-bensin-naik-pemerintah-mau-batasi-pembelian-bbm",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDE1MjUyMS00LTM2OTE1MC9oYXJnYS1iZW5zaW4tbmFpay1wZW1lcmludGFoLW1hdS1iYXRhc2ktcGVtYmVsaWFuLWJibQ==",
+        "description": " Apakah penggunaan bensin pada motor dan mobil di Indonesia menjadi dibatasi?"
+    },
+    {
         "title": "WHO Temukan Kasus Pneumonia Misterius, Babak Baru Covid 2.0?",
         "link": "https://www.cnbcindonesia.com/news/20220904154441-4-369152/who-temukan-kasus-pneumonia-misterius-babak-baru-covid-20",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDEzMTIxNi03LTM2OTEzNS9zZW1wYXQta2FidXItbWFudGFuLXByZXNpZGVuLXNyaS1sYW5rYS1rZW1iYWxpLWtlLW5lZ2FyYW55YQ==",
         "description": " Rajapaksa kembali ke Sri Lanka setelah 7 pekan kabur ke luar negeri di tengah krisis ekonomi terburuk di pulau itu."
-    },
-    {
-        "title": "Kabar Baik! Jakarta-Bandung Lewat Tol Ini Enggak Sampai 1 Jam",
-        "link": "https://www.cnbcindonesia.com/news/20220904134407-4-369134/kabar-baik-jakarta-bandung-lewat-tol-ini-enggak-sampai-1-jam",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDEzNDQwNy00LTM2OTEzNC9rYWJhci1iYWlrLWpha2FydGEtYmFuZHVuZy1sZXdhdC10b2wtaW5pLWVuZ2dhay1zYW1wYWktMS1qYW0=",
-        "description": " Salah satu jalur tol yang paling ditunggu adalah Jakarta - Cikampek (Japek) II Selatan."
-    },
-    {
-        "title": "BBM Resmi Naik, Ini Dampak Ngeri Bagi Menengah ke Bawah",
-        "link": "https://www.cnbcindonesia.com/news/20220904133525-4-369132/bbm-resmi-naik-ini-dampak-ngeri-bagi-menengah-ke-bawah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDEzMzUyNS00LTM2OTEzMi9iYm0tcmVzbWktbmFpay1pbmktZGFtcGFrLW5nZXJpLWJhZ2ktbWVuZW5nYWgta2UtYmF3YWg=",
-        "description": " Harga Pertalite diputuskan naik dari Rp7.650 jadi 10.000 per liter."
     }
 ]
