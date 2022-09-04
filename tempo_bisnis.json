@@ -1,5 +1,19 @@
 [
     {
+        "title": "Riwayat Kenaikan Harga BBM Mulai Era Soeharto sampai Joko Widodo",
+        "link": "https://bisnis.tempo.co/read/1630282/riwayat-kenaikan-harga-bbm-mulai-era-soeharto-sampai-joko-widodo",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwMjgyL3Jpd2F5YXQta2VuYWlrYW4taGFyZ2EtYmJtLW11bGFpLWVyYS1zb2VoYXJ0by1zYW1wYWktam9rby13aWRvZG8=",
+        "description": "Kenaikan harga BBM sudah terjadi sejak Soeharto dan terus berlanjut hingga era Joko Widodo. Hanya zaman Habibie yang tidak terjadi lonjakan harga BMM."
+    },
+    {
+        "title": "Pengemudi Ojek Online Merugi karena Harga BBM Naik, Bos Grab: Kita Ikuti Pemerintah",
+        "link": "https://bisnis.tempo.co/read/1630283/pengemudi-ojek-online-merugi-karena-harga-bbm-naik-bos-grab-kita-ikuti-pemerintah",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwMjgzL3BlbmdlbXVkaS1vamVrLW9ubGluZS1tZXJ1Z2kta2FyZW5hLWhhcmdhLWJibS1uYWlrLWJvcy1ncmFiLWtpdGEtaWt1dGktcGVtZXJpbnRhaA==",
+        "description": "Harga BBM bersubsidi jenis Pertalite resmi naik dari Rp 7.650 per liter menjadi Rp 10 ribu per liter."
+    },
+    {
         "title": "1,3 Miliar Data SIM Card Bocor, Kominfo: Tidak Boleh Salah-Salahan",
         "link": "https://bisnis.tempo.co/read/1630274/13-miliar-data-sim-card-bocor-kominfo-tidak-boleh-salah-salahan",
         "image": "static/images/tempo_bisnis.png",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwMjI2L2hhcmdhLWJibS1uYWlrLWd1YmVybnVyLWJpLXVuZ2thcC1kYW1wYWstYmVzYXIta2UtaW5mbGFzaS10YWstaGFueWEtZGktcHV0YXJhbi1wZXJ0YW1h",
         "description": "Gubernur Bank Indonesia (BI) Perry Warjiyo membeberkan sejumlah dampak besar yang harus diwaspadai dari kenaikan harga BBM."
-    },
-    {
-        "title": "Pertamina: Kenaikan Harga BBM Jangan Dikaitkan dengan Aplikasi MyPertamina",
-        "link": "https://bisnis.tempo.co/read/1630224/pertamina-kenaikan-harga-bbm-jangan-dikaitkan-dengan-aplikasi-mypertamina",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwMjI0L3BlcnRhbWluYS1rZW5haWthbi1oYXJnYS1iYm0tamFuZ2FuLWRpa2FpdGthbi1kZW5nYW4tYXBsaWthc2ktbXlwZXJ0YW1pbmE=",
-        "description": "Kenaikan harga BBM tak menyurutkan rencana perseroan membatasi penyaluran Pertalite dan Solar agar tepat sasaran."
-    },
-    {
-        "title": "Harga BBM Naik, Pertamina: Pembatasan Pertalite Belum Ada, Solar Sudah Berlaku",
-        "link": "https://bisnis.tempo.co/read/1630221/harga-bbm-naik-pertamina-pembatasan-pertalite-belum-ada-solar-sudah-berlaku",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwMjIxL2hhcmdhLWJibS1uYWlrLXBlcnRhbWluYS1wZW1iYXRhc2FuLXBlcnRhbGl0ZS1iZWx1bS1hZGEtc29sYXItc3VkYWgtYmVybGFrdQ==",
-        "description": "Berkebalikan dengan Pertalite, Pertamina sudah memberlakukan pembatasan konsumsi BBM untuk jenis Solar jauh-jauh hari lalu."
     }
 ]
