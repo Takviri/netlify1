@@ -1,5 +1,19 @@
 [
     {
+        "title": "Survei LSI: Kenaikan Harga BBM Pengaruhi Kepuasan Kinerja Jokowi",
+        "link": "https://www.cnnindonesia.com/nasional/20220904153115-20-843081/survei-lsi-kenaikan-harga-bbm-pengaruhi-kepuasan-kinerja-jokowi",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNDE1MzExNS0yMC04NDMwODEvc3VydmVpLWxzaS1rZW5haWthbi1oYXJnYS1iYm0tcGVuZ2FydWhpLWtlcHVhc2FuLWtpbmVyamEtam9rb3dp",
+        "description": " Survei LSI\u00c2\u00a0mengungkapkan keputusan untuk menaikkan harga BBM akan mempengaruhi kepuasan masyarakat terhadap kinerja Presiden Joko Widodo."
+    },
+    {
+        "title": "Gempa M 5,1 Guncang Bengkulu, Tak Berpotensi Tsunami",
+        "link": "https://www.cnnindonesia.com/nasional/20220904161815-20-843092/gempa-m-51-guncang-bengkulu-tak-berpotensi-tsunami",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNDE2MTgxNS0yMC04NDMwOTIvZ2VtcGEtbS01MS1ndW5jYW5nLWJlbmdrdWx1LXRhay1iZXJwb3RlbnNpLXRzdW5hbWk=",
+        "description": " Pusat gempa berada di laut 49 KM Barat Daya Kaur, Bengkulu, pada kedalaman 20 KM. Tidak berpotensi tsunami."
+    },
+    {
         "title": "Tolak Kenaikan Harga BBM, PMII Kerahkan Kader Demo di Istana Besok",
         "link": "https://www.cnnindonesia.com/nasional/20220904145656-20-843066/tolak-kenaikan-harga-bbm-pmii-kerahkan-kader-demo-di-istana-besok",
         "image": "static/images/cnn_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNDEzMTcyMS0xMi04NDMwMzcvdGltYnVuLTYtdG9uLWJibS1zb2xhci13YXJnYS1rdXBhbmctZGl0YW5na2FwLXBvbGlzaQ==",
         "description": " Seorang warga Kupang berinisial AA menimbun 6 ton BBM jenis solar di jeriken, drum, hingga tandon. Ia menjualnya lagi kepada nelayan dengan harga lebih tinggi."
-    },
-    {
-        "title": "Prajurit Kopassus Sertu Bayu Meninggal, Panglima TNI Tegas Buka Suara",
-        "link": "https://www.cnnindonesia.com/nasional/20220904122211-12-843013/prajurit-kopassus-sertu-bayu-meninggal-panglima-tni-tegas-buka-suara",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNDEyMjIxMS0xMi04NDMwMTMvcHJhanVyaXQta29wYXNzdXMtc2VydHUtYmF5dS1tZW5pbmdnYWwtcGFuZ2xpbWEtdG5pLXRlZ2FzLWJ1a2Etc3VhcmE=",
-        "description": " Jenderal Andika Perkasa mengatakan kasus\u00c2\u00a0pidana di lingkunagan TNI yang sebabkan hilangnya nyawa jadi prioritas untuk dikawal dan diselesaikan jalur hukum."
-    },
-    {
-        "title": "Daftar Polisi Dipecat Terkait Obstruction of Justice Kasus Brigadir J",
-        "link": "https://www.cnnindonesia.com/nasional/20220904125649-12-843033/daftar-polisi-dipecat-terkait-obstruction-of-justice-kasus-brigadir-j",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNDEyNTY0OS0xMi04NDMwMzMvZGFmdGFyLXBvbGlzaS1kaXBlY2F0LXRlcmthaXQtb2JzdHJ1Y3Rpb24tb2YtanVzdGljZS1rYXN1cy1icmlnYWRpci1q",
-        "description": " Tiga dari\u00c2\u00a0tujuh polisi telah dipecat dari Korps Bhayangkara buntut lanjutan kasus pembunuhan berencana terhadap Brigadir J oleh atasannya Ferdy Sambo."
     }
 ]
