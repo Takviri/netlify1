@@ -1,5 +1,19 @@
 [
     {
+        "title": "Jadi Juara di GP San Marino, Bagnaia Cetak Sejarah",
+        "link": "https://mediaindonesia.com/olahraga/520064/jadi-juara-di-gp-san-marino-bagnaia-cetak-sejarah",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vb2xhaHJhZ2EvNTIwMDY0L2phZGktanVhcmEtZGktZ3Atc2FuLW1hcmluby1iYWduYWlhLWNldGFrLXNlamFyYWg=",
+        "description": "Bagnaia memangkas jarak dari pemuncak klasemen Quartararo&nbsp;menjadi 30 poin dengan naik ke peringkat dua, menggeser Aleix Espargaro dari tim Aprilia yang tersalip tiga poin."
+    },
+    {
+        "title": "Luis Milla Tandai Debut di Persib dengan Kemenangan",
+        "link": "https://mediaindonesia.com/sepak-bola/520063/luis-milla-tandai-debut-di-persib-dengan-kemenangan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vc2VwYWstYm9sYS81MjAwNjMvbHVpcy1taWxsYS10YW5kYWktZGVidXQtZGktcGVyc2liLWRlbmdhbi1rZW1lbmFuZ2Fu",
+        "description": "David da Silva dan Ciro Alves membawa Persib unggul dua gol hingga turun minum, sementara RANS membalas melalui Wander Luiz di paruh kedua."
+    },
+    {
         "title": "Polres Trenggalek Intensifkan Pengamanan SPBU",
         "link": "https://mediaindonesia.com/nusantara/520062/polres-trenggalek-intensifkan-pengamanan-spbu",
         "image": "static/images/media_indonesia.png",
@@ -54,19 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vb2xhaHJhZ2EvNTIwMDU1L3ZlcnN0YXBwZW4ta2lhbi1kZWthdC1qYWRpLWp1YXJhLWR1bmlh",
         "description": "Max Verstappen kampiun di Grand Prix Belanda yang merupakan kampung halamannya"
-    },
-    {
-        "title": "Relawan Sahabat Sandi Latih Emak-emak di Wonosobo Olahan Pepaya",
-        "link": "https://mediaindonesia.com/nusantara/520054/relawan-sahabat-sandi-latih-emak-emak-di-wonosobo-olahan-pepaya",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vbnVzYW50YXJhLzUyMDA1NC9yZWxhd2FuLXNhaGFiYXQtc2FuZGktbGF0aWgtZW1hay1lbWFrLWRpLXdvbm9zb2JvLW9sYWhhbi1wZXBheWE=",
-        "description": "RELAWAN UMKM Sahabat Sandi Wonosobo menggelar pelatihan pengolahan buah pepaya untuk kecantikan tubuh."
-    },
-    {
-        "title": "PAN: Pemerintah Wajib Berikan Subsidi ke Rakyat",
-        "link": "https://mediaindonesia.com/ekonomi/520053/pan-pemerintah-wajib-berikan-subsidi-ke-rakyat",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vZWtvbm9taS81MjAwNTMvcGFuLXBlbWVyaW50YWgtd2FqaWItYmVyaWthbi1zdWJzaWRpLWtlLXJha3lhdA==",
-        "description": "Yoga menegaskan perlu mekanisme khusus agar subsidi tepat sasaran dan tepat waktu."
     }
 ]
