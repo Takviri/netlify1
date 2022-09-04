@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sambut Harpelnas, BPJS Ketenagakerjaan Dorong Pekerja Indonesia Tumbuh",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220904174041-83-843124/sambut-harpelnas-bpjs-ketenagakerjaan-dorong-pekerja-indonesia-tumbuh",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA0MTc0MDQxLTgzLTg0MzEyNC9zYW1idXQtaGFycGVsbmFzLWJwanMta2V0ZW5hZ2FrZXJqYWFuLWRvcm9uZy1wZWtlcmphLWluZG9uZXNpYS10dW1idWg=",
+        "description": " Memperingati Harpelnas, BPJamsostek mendorong pekerja Indonesia untuk semakin bertumbuh setelah dua tahun hidup berdampingan dengan Covid-19."
+    },
+    {
+        "title": "Tarif Tiket Kapal Ikut Terkerek Gegara Kenaikan Harga BBM",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220904171203-92-843121/tarif-tiket-kapal-ikut-terkerek-gegara-kenaikan-harga-bbm",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA0MTcxMjAzLTkyLTg0MzEyMS90YXJpZi10aWtldC1rYXBhbC1pa3V0LXRlcmtlcmVrLWdlZ2FyYS1rZW5haWthbi1oYXJnYS1iYm0=",
+        "description": " Tarif tiket kapal atau layanan penyeberangan jalur laut ikut terkerek setelah pemerintah resmi menaikkan harga bahan bakar minyak (BBM)."
+    },
+    {
         "title": "Kasus Babi Mati di Sumba Barat Berkurang Usai Rugikan Puluhan Miliar",
         "link": "https://www.cnnindonesia.com/ekonomi/20220904161718-92-843091/kasus-babi-mati-di-sumba-barat-berkurang-usai-rugikan-puluhan-miliar",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA0MTM0MDExLTkyLTg0MzA0Ni9lcmljay1rZWphci1wZXJhbXBpbmdhbi1wdHBuLWphZGktNC1hbmFrLXVzYWhhLWtlbGFyLXRhaHVuLWRlcGFu",
         "description": " Menteri BUMN Erick Thohir menargetkan perampingan usaha Holding Perkebunan (PTPN) dari 13 perusahaan menjadi empat perusahaan rampung tahun depan."
-    },
-    {
-        "title": "Harga Bensin Shell BP dan Vivo, Mana Lebih Murah dari Pertamina?",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220904134344-85-843047/harga-bensin-shell-bp-dan-vivo-mana-lebih-murah-dari-pertamina",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA0MTM0MzQ0LTg1LTg0MzA0Ny9oYXJnYS1iZW5zaW4tc2hlbGwtYnAtZGFuLXZpdm8tbWFuYS1sZWJpaC1tdXJhaC1kYXJpLXBlcnRhbWluYQ==",
-        "description": " Kini harga Pertalite per 3 September adalah Rp10.000 per liter, Pertamax Rp14.500 dan Pertamax turbo Rp15.900."
-    },
-    {
-        "title": "Mengenal Vivo, Penjual BBM Lebih Murah dari Pertamina",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220904135659-92-843049/mengenal-vivo-penjual-bbm-lebih-murah-dari-pertamina",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA0MTM1NjU5LTkyLTg0MzA0OS9tZW5nZW5hbC12aXZvLXBlbmp1YWwtYmJtLWxlYmloLW11cmFoLWRhcmktcGVydGFtaW5h",
-        "description": " Vivo menjual salah satu jenis BBMnya lebih murah dari jenis bahan bakar yang ditawarkan Pertamina."
     }
 ]
