@@ -1,5 +1,12 @@
 [
     {
+        "title": "NASA Gagal Maning, Roket Artemis Batal Berangkat ke Bulan",
+        "link": "https://www.cnbcindonesia.com/news/20220904113412-4-369125/nasa-gagal-maning-roket-artemis-batal-berangkat-ke-bulan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDExMzQxMi00LTM2OTEyNS9uYXNhLWdhZ2FsLW1hbmluZy1yb2tldC1hcnRlbWlzLWJhdGFsLWJlcmFuZ2thdC1rZS1idWxhbg==",
+        "description": " NASA kembali menunda misi bulan Artemis I lagi pada Sabtu (3/9/2022) karena kebocoran bahan bakar."
+    },
+    {
         "title": "Pemakaman Gorbachev Justru Dipenuhi Milenial, Putin ke Mana?",
         "link": "https://www.cnbcindonesia.com/news/20220904110324-4-369122/pemakaman-gorbachev-justru-dipenuhi-milenial-putin-ke-mana",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDA3NDA1My00LTM2OTEwMS9wdXRpbi1kaS11anVuZy10YW5kdWstcmVrYW1hbi1zdWFyYS1pbmktamFkaS1idWt0aS1ueWF0YW55YQ==",
         "description": " Rekaman itu disadap dan disebar oleh Kementerian Pertahanan Ukraina."
-    },
-    {
-        "title": "Konflik Rusia-Ukraina Segera Berakhir, Ini Bocoran Tetangga",
-        "link": "https://www.cnbcindonesia.com/news/20220904071132-4-369099/konflik-rusia-ukraina-segera-berakhir-ini-bocoran-tetangga",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDA3MTEzMi00LTM2OTA5OS9rb25mbGlrLXJ1c2lhLXVrcmFpbmEtc2VnZXJhLWJlcmFraGlyLWluaS1ib2NvcmFuLXRldGFuZ2dh",
-        "description": " Konflik Rusia dan Ukraina yang berlangsung berbulan-bulan diramalkan akan segera berakhir."
     }
 ]
