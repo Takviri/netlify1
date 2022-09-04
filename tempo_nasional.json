@@ -1,10 +1,24 @@
 [
     {
+        "title": "Puan Maharani Tiba di Kediaman Prabowo di Padepokan Garuda Yaksa",
+        "link": "https://nasional.tempo.co/read/1630238/puan-maharani-tiba-di-kediaman-prabowo-di-padepokan-garuda-yaksa",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MzAyMzgvcHVhbi1tYWhhcmFuaS10aWJhLWRpLWtlZGlhbWFuLXByYWJvd28tZGktcGFkZXBva2FuLWdhcnVkYS15YWtzYQ==",
+        "description": "Dasco mengatakan Prabowo akan mengajak Puan Maharani berkuda, bincang-bincang, hingga makan siang."
+    },
+    {
         "title": "Kata Survei KedaiKOPI, Elektabilitas Puan Maharani Naik Jadi 9,6 Persen",
         "link": "https://nasional.tempo.co/read/1630236/kata-survei-kedaikopi-elektabilitas-puan-maharani-naik-jadi-96-persen",
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MzAyMzYva2F0YS1zdXJ2ZWkta2VkYWlrb3BpLWVsZWt0YWJpbGl0YXMtcHVhbi1tYWhhcmFuaS1uYWlrLWphZGktOTYtcGVyc2Vu",
         "description": "Dengan berada di urutan keempat, elektabilitas Puan Maharani telah menyalip politikus lainnya seperti Ridwan Kamil dengan 7,7 persen."
+    },
+    {
+        "title": "Presiden Jokowi Sebut Sistem Penyaluran BLT BBM Sudah Bagus",
+        "link": "https://nasional.tempo.co/read/1630239/presiden-jokowi-sebut-sistem-penyaluran-blt-bbm-sudah-bagus",
+        "image": "static/images/tempo_nasional.png",
+        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MzAyMzkvcHJlc2lkZW4tam9rb3dpLXNlYnV0LXNpc3RlbS1wZW55YWx1cmFuLWJsdC1iYm0tc3VkYWgtYmFndXM=",
+        "description": "Pos Indonesia kembali menggunakan tiga metode yang sama untuk penyaluran BLT BBM ini."
     },
     {
         "title": "PDIP Dorong Polisi Usut Mahasiswa Gorontalo yang Lontarkan Orasi Jorok ke Jokowi",
@@ -54,19 +68,5 @@
         "image": "static/images/tempo_nasional.png",
         "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MzAxNzMvYW5nZ290YS1kcHItbWVuaWxhaS1rZW5haWthbi1oYXJnYS1iYm0tYmVycG90ZW5zaS1tdW5jdWxrYW4tb3JhbmctbWlza2luLWJhcnU=",
         "description": "Kenaikan harga BBM akan mempengaruhi inflasi. Akibatnya akan menambah angka kemiskinan."
-    },
-    {
-        "title": "Survei SMRC: Dukungan untuk Golkar, PPP, dan PAN Melemah Dibandingkan 2019",
-        "link": "https://nasional.tempo.co/read/1630149/survei-smrc-dukungan-untuk-golkar-ppp-dan-pan-melemah-dibandingkan-2019",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MzAxNDkvc3VydmVpLXNtcmMtZHVrdW5nYW4tdW50dWstZ29sa2FyLXBwcC1kYW4tcGFuLW1lbGVtYWgtZGliYW5kaW5na2FuLTIwMTk=",
-        "description": "Jika tren ini berlanjut, hanya Golkar yang diprediksi akan lolos parliamentary threshold untuk Pemilu 2024"
-    },
-    {
-        "title": "Partai Demokrat: Menaikkan Harga BBM, Jokowi Mengikis Harapan Rakyat",
-        "link": "https://nasional.tempo.co/read/1630133/partai-demokrat-menaikkan-harga-bbm-jokowi-mengikis-harapan-rakyat",
-        "image": "static/images/tempo_nasional.png",
-        "uid": "aHR0cHM6Ly9uYXNpb25hbC50ZW1wby5jby9yZWFkLzE2MzAxMzMvcGFydGFpLWRlbW9rcmF0LW1lbmFpa2thbi1oYXJnYS1iYm0tam9rb3dpLW1lbmdpa2lzLWhhcmFwYW4tcmFreWF0",
-        "description": "Politikus Partai Demokrat Sigit Raditya menilai, Presiden Jokowi telah mengikis harapan rakyat yang meminta agar harga BBM bersubsidi tidak dinaikkan"
     }
 ]
