@@ -1,9 +1,51 @@
 [
     {
-        "title": "Bank Mega",
-        "link": "https://www.cnbcindonesia.com/news/20220905183755-7-369487/bank-mega",
+        "title": "Efek Berantai BBM, Bus Wisata Bali Naikkan Harga Sampai 50%",
+        "link": "https://www.cnbcindonesia.com/news/20220905174926-4-369464/efek-berantai-bbm-bus-wisata-bali-naikkan-harga-sampai-50",
         "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE4Mzc1NS03LTM2OTQ4Ny9iYW5rLW1lZ2E=",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3NDkyNi00LTM2OTQ2NC9lZmVrLWJlcmFudGFpLWJibS1idXMtd2lzYXRhLWJhbGktbmFpa2thbi1oYXJnYS1zYW1wYWktNTA=",
+        "description": " Pengusaha angkutan pariwisata di Bali bakal meningkatkan harga tarif jasa."
+    },
+    {
+        "title": "Tarif Angkutan Darat \"Ngegas\" Hingga Euro Jatuh",
+        "link": "https://www.cnbcindonesia.com/news/20220905183147-8-369481/tarif-angkutan-darat-ngegas-hingga-euro-jatuh",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE4MzE0Ny04LTM2OTQ4MS90YXJpZi1hbmdrdXRhbi1kYXJhdC1uZ2VnYXMtaGluZ2dhLWV1cm8tamF0dWg=",
+        "description": " Organisasi Angkutan Darat atau Organda memastikan jika tarif angkutan darat akan ikut naik imbas kenaikan bahan bakar minyak."
+    },
+    {
+        "title": "Pembatasan Kendaraan Isi Pertalite Jalan, Awas Ini Bahayanya",
+        "link": "https://www.cnbcindonesia.com/news/20220905174857-4-369462/pembatasan-kendaraan-isi-pertalite-jalan-awas-ini-bahayanya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3NDg1Ny00LTM2OTQ2Mi9wZW1iYXRhc2FuLWtlbmRhcmFhbi1pc2ktcGVydGFsaXRlLWphbGFuLWF3YXMtaW5pLWJhaGF5YW55YQ==",
+        "description": " Rencana pemerintah mengimplementasikan pembatasan pembelian BBM jenis Pertalite dan Solar subsidi dinilai bakal menimbulkan kerusuhan."
+    },
+    {
+        "title": "Subsidi BBM Bengkak Rp650 T, 80% 'Diminum' Orang Kaya",
+        "link": "https://www.cnbcindonesia.com/news/20220905175452-4-369466/subsidi-bbm-bengkak-rp650-t-80-diminum-orang-kaya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3NTQ1Mi00LTM2OTQ2Ni9zdWJzaWRpLWJibS1iZW5na2FrLXJwNjUwLXQtODAtZGltaW51bS1vcmFuZy1rYXlh",
+        "description": " Subsidi BBM diperkirakan tembus Rp 650 triliun, dan 80% diantaranya akan dinikmati oleh masyarakat mampu."
+    },
+    {
+        "title": "Breaking News: Resmi, Liz Truss Jadi PM Baru Inggris!",
+        "link": "https://www.cnbcindonesia.com/news/20220905185834-4-369500/breaking-news-resmi-liz-truss-jadi-pm-baru-inggris",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE4NTgzNC00LTM2OTUwMC9icmVha2luZy1uZXdzLXJlc21pLWxpei10cnVzcy1qYWRpLXBtLWJhcnUtaW5nZ3Jpcw==",
+        "description": " Liz Truss terpilih menjadi Perdana Menteri (PM) Baru Inggris, Senin (5/9/2022)."
+    },
+    {
+        "title": "'Malapetaka' di Eropa Makin Nyata, Ini Bukti Barunya",
+        "link": "https://www.cnbcindonesia.com/news/20220905181636-4-369477/malapetaka-di-eropa-makin-nyata-ini-bukti-barunya",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE4MTYzNi00LTM2OTQ3Ny9tYWxhcGV0YWthLWRpLWVyb3BhLW1ha2luLW55YXRhLWluaS1idWt0aS1iYXJ1bnlh",
+        "description": " Ancaman \"malapetaka\" di Eropa semakin nyata. Bukan cuma kekeringan, kini kekhawatiran akan krisis energi makin menjadi."
+    },
+    {
+        "title": "Karyawan Bank Mega Pakai Kostum Unik di Hari Pelanggan",
+        "link": "https://www.cnbcindonesia.com/news/20220905183755-7-369487/karyawan-bank-mega-pakai-kostum-unik-di-hari-pelanggan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE4Mzc1NS03LTM2OTQ4Ny9rYXJ5YXdhbi1iYW5rLW1lZ2EtcGFrYWkta29zdHVtLXVuaWstZGktaGFyaS1wZWxhbmdnYW4=",
         "description": " Di Hari Pelanggan Nasional, karyawan Bank Mega di seluruh Kantor Cabang dan Kantor Cabang Pembantu memakai kostum dengan beragam tema menarik."
     },
     {
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3MzYxNC00LTM2OTQ2MC9oYXJnYS1iYm0tbmFpay10YXJpZi1hbmdrdXRhbi10cnVrLWJha2FsLW5haWstMjU=",
         "description": " Pengusaha truk akan menaikkan harga jasa angkut logistik darat, menyusul kenaikan harga BBM subsidi."
-    },
-    {
-        "title": "Ada Apa Lagi China? Xi Jinping Lockdown 33 Kota",
-        "link": "https://www.cnbcindonesia.com/news/20220905175307-4-369465/ada-apa-lagi-china-xi-jinping-lockdown-33-kota",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3NTMwNy00LTM2OTQ2NS9hZGEtYXBhLWxhZ2ktY2hpbmEteGktamlucGluZy1sb2NrZG93bi0zMy1rb3Rh",
-        "description": " China kini total mengunci 33 kota. Lockdown dilakukan bahkan secara parsial maupun penuh."
-    },
-    {
-        "title": "Update Covid-19 di RI Hari Ini: Kasus Baru Bertambah 2.340",
-        "link": "https://www.cnbcindonesia.com/news/20220905182006-4-369479/update-covid-19-di-ri-hari-ini-kasus-baru-bertambah-2340",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE4MjAwNi00LTM2OTQ3OS91cGRhdGUtY292aWQtMTktZGktcmktaGFyaS1pbmkta2FzdXMtYmFydS1iZXJ0YW1iYWgtMjM0MA==",
-        "description": " Total kasus konfirmasi mencapai 6.374.882."
-    },
-    {
-        "title": "BBM Effect, Begini Perhitungan Bos BUMN Soal Harga Sembako",
-        "link": "https://www.cnbcindonesia.com/news/20220905165835-4-369450/bbm-effect-begini-perhitungan-bos-bumn-soal-harga-sembako",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE2NTgzNS00LTM2OTQ1MC9iYm0tZWZmZWN0LWJlZ2luaS1wZXJoaXR1bmdhbi1ib3MtYnVtbi1zb2FsLWhhcmdhLXNlbWJha28=",
-        "description": " Direktur Utama PT Berdikari (Persero) Harry Warganegara menjelaskan kenaikan harga bahan bakar minyak (BBM) berimbas pada peningkatan harga pangan."
-    },
-    {
-        "title": "Ekonom Sebut Kenaikan BBM Penting Bagi APBN, Kenapa?",
-        "link": "https://www.cnbcindonesia.com/news/20220905164124-8-369440/ekonom-sebut-kenaikan-bbm-penting-bagi-apbn-kenapa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE2NDEyNC04LTM2OTQ0MC9la29ub20tc2VidXQta2VuYWlrYW4tYmJtLXBlbnRpbmctYmFnaS1hcGJuLWtlbmFwYQ==",
-        "description": " Ekonom Sebut Kenaikan BBM Pening Bagi APBN, Kenapa?"
-    },
-    {
-        "title": "Dalam Sekejap, BBM Murah Vivo Naik Jadi Rp 10.900/Liter",
-        "link": "https://www.cnbcindonesia.com/news/20220905172531-4-369455/dalam-sekejap-bbm-murah-vivo-naik-jadi-rp-10900-liter",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3MjUzMS00LTM2OTQ1NS9kYWxhbS1zZWtlamFwLWJibS1tdXJhaC12aXZvLW5haWstamFkaS1ycC0xMDkwMC1saXRlcg==",
-        "description": " Vivo Energy menaikkan harga jual BBM Revvi 89 menjadi Rp 10.900 per liter dari yang sebelumnya Rp 8.900/liter"
-    },
-    {
-        "title": "Siap-Siap Warga Dunia, PM Baru Inggris Diumumkan Hari Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220905165739-4-369448/siap-siap-warga-dunia-pm-baru-inggris-diumumkan-hari-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE2NTczOS00LTM2OTQ0OC9zaWFwLXNpYXAtd2FyZ2EtZHVuaWEtcG0tYmFydS1pbmdncmlzLWRpdW11bWthbi1oYXJpLWluaQ==",
-        "description": " Inggris akan segera memiliki Perdana Menteri (PM) baru pada Senin (5/9/2022)."
     }
 ]

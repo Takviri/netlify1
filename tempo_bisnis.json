@@ -1,5 +1,26 @@
 [
     {
+        "title": "Tiket Bus Antar Kota Antar Provinsi Naik 30 Persen",
+        "link": "https://bisnis.tempo.co/read/1630741/tiket-bus-antar-kota-antar-provinsi-naik-30-persen",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwNzQxL3Rpa2V0LWJ1cy1hbnRhci1rb3RhLWFudGFyLXByb3ZpbnNpLW5haWstMzAtcGVyc2Vu",
+        "description": "Tiket bus antar kota antar provinsi (AKAP) di Terminal Harjamukti, Kota Cirebon, Jawa Barat, mengalami kenaikan 25-30 persen."
+    },
+    {
+        "title": "OJK: 332 Emiten Catatkan Kenaikan Laba hingga 50,49 Persen Semester I 2022",
+        "link": "https://bisnis.tempo.co/read/1630739/ojk-332-emiten-catatkan-kenaikan-laba-hingga-5049-persen-semester-i-2022",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwNzM5L29qay0zMzItZW1pdGVuLWNhdGF0a2FuLWtlbmFpa2FuLWxhYmEtaGluZ2dhLTUwNDktcGVyc2VuLXNlbWVzdGVyLWktMjAyMg==",
+        "description": "OJK mencatat dana di pasar modal yang terhimpun hingga 31 Agustus 2022 mencapai  Rp 1.168,75 triliun."
+    },
+    {
+        "title": "Michelle Sampoerna Bergelut dalam Filantropi, Kelola Putera Sampoerna Foundation",
+        "link": "https://bisnis.tempo.co/read/1630735/michelle-sampoerna-bergelut-dalam-filantropi-kelola-putera-sampoerna-foundation",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwNzM1L21pY2hlbGxlLXNhbXBvZXJuYS1iZXJnZWx1dC1kYWxhbS1maWxhbnRyb3BpLWtlbG9sYS1wdXRlcmEtc2FtcG9lcm5hLWZvdW5kYXRpb24=",
+        "description": "Michelle Sampoerna adalah putri konglomerat Putera Sampoerna. Ia bergelut dalam dunia filantropis dengan mengelola Putera Sampoerna Foundation."
+    },
+    {
         "title": "Tarif Angkutan Logistik Diminta Tak Naik Lebih dari 25 Persen Karena Akan ...",
         "link": "https://bisnis.tempo.co/read/1630731/tarif-angkutan-logistik-diminta-tak-naik-lebih-dari-25-persen-karena-akan",
         "image": "static/images/tempo_bisnis.png",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwNzA4L3JpZHdhbi1rYW1pbC1zZWJ1dC10YXJpZi1hbmdrb3QtYmFrYWwtbmFpay1ha2liYXQtaGFyZ2EtYmJt",
         "description": "Ridwan Kamil mewaspadai terjadinya kenaikan inflasi akibat penyesuaian harga BBM."
-    },
-    {
-        "title": "Harga BBM Melambung, Ridwan Kamil Minta Pengusaha Angkutan Tak Naikkan Tarif Sepihak",
-        "link": "https://bisnis.tempo.co/read/1630699/harga-bbm-melambung-ridwan-kamil-minta-pengusaha-angkutan-tak-naikkan-tarif-sepihak",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwNjk5L2hhcmdhLWJibS1tZWxhbWJ1bmctcmlkd2FuLWthbWlsLW1pbnRhLXBlbmd1c2FoYS1hbmdrdXRhbi10YWstbmFpa2thbi10YXJpZi1zZXBpaGFr",
-        "description": "Ridwan Kamil meminta pengusaha angkutan umum tidak menaikkan tarif sepihak dengan naiknya harga BBM."
-    },
-    {
-        "title": "Alasan Kementerian ESDM Bantah Intervensi Vivo soal Harga BBM",
-        "link": "https://bisnis.tempo.co/read/1630696/alasan-kementerian-esdm-bantah-intervensi-vivo-soal-harga-bbm",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwNjk2L2FsYXNhbi1rZW1lbnRlcmlhbi1lc2RtLWJhbnRhaC1pbnRlcnZlbnNpLXZpdm8tc29hbC1oYXJnYS1iYm0=",
-        "description": "SPBU Vivo di Jalan Raya Mabes Hankam Cipayung, Jakarta Timur, diserbu penggunaan kendaraan bermotor karena menjual BBM di bawah harga Pertalite."
-    },
-    {
-        "title": "ESDM Bantah Minta Vivo Naikkan Harga BBM RON 89",
-        "link": "https://bisnis.tempo.co/read/1630689/esdm-bantah-minta-vivo-naikkan-harga-bbm-ron-89",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwNjg5L2VzZG0tYmFudGFoLW1pbnRhLXZpdm8tbmFpa2thbi1oYXJnYS1iYm0tcm9uLTg5",
-        "description": "Sebelumnya ramai beredar kabar Kementerian ESDM meminta Vivo untuk menyesuaikan harga jual BBM jenis RON 89, Revvo 89."
     }
 ]
