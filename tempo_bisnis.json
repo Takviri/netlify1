@@ -1,5 +1,26 @@
 [
     {
+        "title": "Dana Kelolaan Bisnis Wealth Management BCA Capai Rp 110 Triliun",
+        "link": "https://bisnis.tempo.co/read/1630714/dana-kelolaan-bisnis-wealth-management-bca-capai-rp-110-triliun",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwNzE0L2RhbmEta2Vsb2xhYW4tYmlzbmlzLXdlYWx0aC1tYW5hZ2VtZW50LWJjYS1jYXBhaS1ycC0xMTAtdHJpbGl1bg==",
+        "description": "PT Bank Central Asia Tbk (BCA) tengah fokus mengembangkan bisnis pengelolaan kekayaan atau wealth management"
+    },
+    {
+        "title": "OJK Sebut Kenaikan Harga BBM Berdampak pada Pertumbuhan Ekonomi RI",
+        "link": "https://bisnis.tempo.co/read/1630711/ojk-sebut-kenaikan-harga-bbm-berdampak-pada-pertumbuhan-ekonomi-ri",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwNzExL29qay1zZWJ1dC1rZW5haWthbi1oYXJnYS1iYm0tYmVyZGFtcGFrLXBhZGEtcGVydHVtYnVoYW4tZWtvbm9taS1yaQ==",
+        "description": "Ketua Dewan Komisioner Otoritas Jasa Keuangan (OJK), Mahendra Siregar, mengatakan kenaikan harga BBM akan berimplikasi pada pertumbuhan ekonomi."
+    },
+    {
+        "title": "Ridwan Kamil Sebut Tarif Angkot Bakal Naik Akibat Harga BBM",
+        "link": "https://bisnis.tempo.co/read/1630708/ridwan-kamil-sebut-tarif-angkot-bakal-naik-akibat-harga-bbm",
+        "image": "static/images/tempo_bisnis.png",
+        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwNzA4L3JpZHdhbi1rYW1pbC1zZWJ1dC10YXJpZi1hbmdrb3QtYmFrYWwtbmFpay1ha2liYXQtaGFyZ2EtYmJt",
+        "description": "Ridwan Kamil mewaspadai terjadinya kenaikan inflasi akibat penyesuaian harga BBM."
+    },
+    {
         "title": "Harga BBM Melambung, Ridwan Kamil Minta Pengusaha Angkutan Tak Naikkan Tarif Sepihak",
         "link": "https://bisnis.tempo.co/read/1630699/harga-bbm-melambung-ridwan-kamil-minta-pengusaha-angkutan-tak-naikkan-tarif-sepihak",
         "image": "static/images/tempo_bisnis.png",
@@ -47,26 +68,5 @@
         "image": "static/images/tempo_bisnis.png",
         "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwNjU0L2loc2ctZGl0dXR1cC1kaS16b25hLWhpamF1LWVtaXRlbi1iYWtyaS1iYW55YWstZGlib3JvbmctbWVuamVsYW5nLXByaXZhdGUtcGxhY2VtZW50",
         "description": "IHSG bertengger di level 7.231 atau naik 0,76 persen ketimbang akhir pekan lalu."
-    },
-    {
-        "title": "Inilah 10 Negara Asal Utama Impor Minyak di Indonesia",
-        "link": "https://bisnis.tempo.co/read/1630641/inilah-10-negara-asal-utama-impor-minyak-di-indonesia",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwNjQxL2luaWxhaC0xMC1uZWdhcmEtYXNhbC11dGFtYS1pbXBvci1taW55YWstZGktaW5kb25lc2lh",
-        "description": "Dari Singapura hingga Korea Selatan, berikut 10 negara asal utama impor minyak di Indonesia baik minyak mentah maupun hasil-hasil olahannya."
-    },
-    {
-        "title": "Kerugian Hingga Rp 551 Triliun Per Tahun karena Susut dan Terbuangnya Pangan di Indonesia",
-        "link": "https://bisnis.tempo.co/read/1630639/kerugian-hingga-rp-551-triliun-per-tahun-karena-susut-dan-terbuangnya-pangan-di-indonesia",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwNjM5L2tlcnVnaWFuLWhpbmdnYS1ycC01NTEtdHJpbGl1bi1wZXItdGFodW4ta2FyZW5hLXN1c3V0LWRhbi10ZXJidWFuZ255YS1wYW5nYW4tZGktaW5kb25lc2lh",
-        "description": "Food Loss and Waste pangan di Indonesia mencapai 115 hingga 184 kilogram per kapita per tahun. FAO bersama Kementerian Pertanian mengkaji penyebabnya."
-    },
-    {
-        "title": "PDB Tumbuh di Atas Ekspektasi, OJK: Proses Pemulihan Ekonomi Indonesia Berlanjut",
-        "link": "https://bisnis.tempo.co/read/1630636/pdb-tumbuh-di-atas-ekspektasi-ojk-proses-pemulihan-ekonomi-indonesia-berlanjut",
-        "image": "static/images/tempo_bisnis.png",
-        "uid": "aHR0cHM6Ly9iaXNuaXMudGVtcG8uY28vcmVhZC8xNjMwNjM2L3BkYi10dW1idWgtZGktYXRhcy1la3NwZWt0YXNpLW9qay1wcm9zZXMtcGVtdWxpaGFuLWVrb25vbWktaW5kb25lc2lhLWJlcmxhbmp1dA==",
-        "description": "OJK menyatakan perekonomian Indonesia menunjukkan berlanjutnya proses pemulihan."
     }
 ]

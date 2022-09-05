@@ -1,5 +1,47 @@
 [
     {
+        "title": "Update Covid-19 di RI Hari Ini: Kasus Baru Bertambah 2.340",
+        "link": "https://www.cnbcindonesia.com/news/20220905182006-4-369479/update-covid-19-di-ri-hari-ini-kasus-baru-bertambah-2340",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE4MjAwNi00LTM2OTQ3OS91cGRhdGUtY292aWQtMTktZGktcmktaGFyaS1pbmkta2FzdXMtYmFydS1iZXJ0YW1iYWgtMjM0MA==",
+        "description": " Total kasus konfirmasi mencapai 6.374.882."
+    },
+    {
+        "title": "BBM Effect, Begini Perhitungan Bos BUMN Soal Harga Sembako",
+        "link": "https://www.cnbcindonesia.com/news/20220905165835-4-369450/bbm-effect-begini-perhitungan-bos-bumn-soal-harga-sembako",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE2NTgzNS00LTM2OTQ1MC9iYm0tZWZmZWN0LWJlZ2luaS1wZXJoaXR1bmdhbi1ib3MtYnVtbi1zb2FsLWhhcmdhLXNlbWJha28=",
+        "description": " Direktur Utama PT Berdikari (Persero) Harry Warganegara menjelaskan kenaikan harga bahan bakar minyak (BBM) berimbas pada peningkatan harga pangan."
+    },
+    {
+        "title": "Ekonom Sebut Kenaikan BBM Penting Bagi APBN, Kenapa?",
+        "link": "https://www.cnbcindonesia.com/news/20220905164124-8-369440/ekonom-sebut-kenaikan-bbm-penting-bagi-apbn-kenapa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE2NDEyNC04LTM2OTQ0MC9la29ub20tc2VidXQta2VuYWlrYW4tYmJtLXBlbnRpbmctYmFnaS1hcGJuLWtlbmFwYQ==",
+        "description": " Ekonom Sebut Kenaikan BBM Pening Bagi APBN, Kenapa?"
+    },
+    {
+        "title": "Dalam Sekejap, BBM Murah Vivo Naik Jadi Rp 10.900/Liter",
+        "link": "https://www.cnbcindonesia.com/news/20220905172531-4-369455/dalam-sekejap-bbm-murah-vivo-naik-jadi-rp-10900-liter",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3MjUzMS00LTM2OTQ1NS9kYWxhbS1zZWtlamFwLWJibS1tdXJhaC12aXZvLW5haWstamFkaS1ycC0xMDkwMC1saXRlcg==",
+        "description": " Vivo Energy menaikkan harga jual BBM Revvi 89 menjadi Rp 10.900 per liter dari yang sebelumnya Rp 8.900/liter"
+    },
+    {
+        "title": "Siap-Siap Warga Dunia, PM Baru Inggris Diumumkan Hari Ini",
+        "link": "https://www.cnbcindonesia.com/news/20220905165739-4-369448/siap-siap-warga-dunia-pm-baru-inggris-diumumkan-hari-ini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE2NTczOS00LTM2OTQ0OC9zaWFwLXNpYXAtd2FyZ2EtZHVuaWEtcG0tYmFydS1pbmdncmlzLWRpdW11bWthbi1oYXJpLWluaQ==",
+        "description": " Inggris akan segera memiliki Perdana Menteri (PM) baru pada Senin (5/9/2022)."
+    },
+    {
+        "title": "Apa Mungkin Pertalite Kembali Turun ke Bawah Rp10.000?",
+        "link": "https://www.cnbcindonesia.com/news/20220905173503-4-369459/apa-mungkin-pertalite-kembali-turun-ke-bawah-rp10000",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3MzUwMy00LTM2OTQ1OS9hcGEtbXVuZ2tpbi1wZXJ0YWxpdGUta2VtYmFsaS10dXJ1bi1rZS1iYXdhaC1ycDEwMDAw",
+        "description": " Harga Bahan Bakar Minyak (BBM) jenis Pertalite bisa kembali ke harga di bawah Rp 10.000 per liter"
+    },
+    {
         "title": "BBM Effect Terasa, Bos Bus Akap Langsung Naikkan Harga Tiket",
         "link": "https://www.cnbcindonesia.com/news/20220905163222-4-369438/bbm-effect-terasa-bos-bus-akap-langsung-naikkan-harga-tiket",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE2MDYzOC00LTM2OTQyMi9oYXJnYS1wZXJ0YWxpdGUtbmFpay1wZW1iYXRhc2FuLWtlbmRhcmFhbi1kaW5pbGFpLXRhay1wZXJsdQ==",
         "description": " Rencana pemerintah melakukan pembatasan pembelian BBM subsidi jenis Pertalite dan Solar dinilai tidak perlu lagi dilakukan."
-    },
-    {
-        "title": "Kabar Gembira! Ini Syarat Terbaru Gaji Penerima Subsidi Upah",
-        "link": "https://www.cnbcindonesia.com/news/20220905171849-4-369454/kabar-gembira-ini-syarat-terbaru-gaji-penerima-subsidi-upah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3MTg0OS00LTM2OTQ1NC9rYWJhci1nZW1iaXJhLWluaS1zeWFyYXQtdGVyYmFydS1nYWppLXBlbmVyaW1hLXN1YnNpZGktdXBhaA==",
-        "description": " Pemerintahan Presiden Joko Widodo (Jokowi) memberikan bantuan sosial (bansos) kepada pekerja sebagai bantalan sosial efek pengalihan subsidi energi."
-    },
-    {
-        "title": "Jangan Kaget, Harga BBM di Negara Ini di Bawah Rp 1.000/Liter",
-        "link": "https://www.cnbcindonesia.com/news/20220905161030-4-369423/jangan-kaget-harga-bbm-di-negara-ini-di-bawah-rp-1000-liter",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE2MTAzMC00LTM2OTQyMy9qYW5nYW4ta2FnZXQtaGFyZ2EtYmJtLWRpLW5lZ2FyYS1pbmktZGktYmF3YWgtcnAtMTAwMC1saXRlcg==",
-        "description": " Masih ada negara yang menjual BBM dengan harga di bawah Rp 1.000 per liternya."
-    },
-    {
-        "title": "Tolak Kenaikan BBM, Demo Mahasiswa Sempat Ricuh!",
-        "link": "https://www.cnbcindonesia.com/news/20220905170830-8-369451/tolak-kenaikan-bbm-demo-mahasiswa-sempat-ricuh",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3MDgzMC04LTM2OTQ1MS90b2xhay1rZW5haWthbi1iYm0tZGVtby1tYWhhc2lzd2Etc2VtcGF0LXJpY3Vo",
-        "description": " Demo Tolak Kenaikan BBM Ricuh, Mahasiswa Terobos Kawat Berduri"
-    },
-    {
-        "title": "Hukum Wanita Tanpa Jilbab, Iran Bakal Gunakan Teknologi Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220905142522-4-369369/hukum-wanita-tanpa-jilbab-iran-bakal-gunakan-teknologi-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE0MjUyMi00LTM2OTM2OS9odWt1bS13YW5pdGEtdGFucGEtamlsYmFiLWlyYW4tYmFrYWwtZ3VuYWthbi10ZWtub2xvZ2ktaW5p",
-        "description": " Pemerintah Iran berencana untuk menggunakan teknologi pengenalan wajah di transportasi umum untuk mengidentifikasi wanita yang tidak mengenakan jilbab."
-    },
-    {
-        "title": "Isi Pertalite Mulai Catat Nopol dan Dijatah, Ini Kata Pertamina",
-        "link": "https://www.cnbcindonesia.com/news/20220905170049-4-369449/isi-pertalite-mulai-catat-nopol-dijatah-ini-kata-pertamina",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3MDA0OS00LTM2OTQ0OS9pc2ktcGVydGFsaXRlLW11bGFpLWNhdGF0LW5vcG9sLWRpamF0YWgtaW5pLWthdGEtcGVydGFtaW5h",
-        "description": " Pertamina mulai mencatat nopol kendaraan saat isi Pertalite"
-    },
-    {
-        "title": "DPR Setuju, Sri Mulyani Dapat Anggaran Rp 45,2T di 2023",
-        "link": "https://www.cnbcindonesia.com/news/20220905163138-4-369437/dpr-setuju-sri-mulyani-dapat-anggaran-rp-452t-di-2023",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE2MzEzOC00LTM2OTQzNy9kcHItc2V0dWp1LXNyaS1tdWx5YW5pLWRhcGF0LWFuZ2dhcmFuLXJwLTQ1MnQtZGktMjAyMw==",
-        "description": " Komisi XI DPR menyetujui pagu anggaran Kementerian Keuangan pada 2023 sebesar Rp 45,2 triliun."
     }
 ]
