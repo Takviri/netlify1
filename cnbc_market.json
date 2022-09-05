@@ -1,5 +1,40 @@
 [
     {
+        "title": "Bangkit! Harga Timah Melonjak 1%",
+        "link": "https://www.cnbcindonesia.com/market/20220905120416-17-369304/bangkit-harga-timah-melonjak-1",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTIwNDE2LTE3LTM2OTMwNC9iYW5na2l0LWhhcmdhLXRpbWFoLW1lbG9uamFrLTE=",
+        "description": " Harga timah dunia mulai bangkit"
+    },
+    {
+        "title": "GMFI Rombak Jajaran Manajemen Nih! Begini Strukturnya",
+        "link": "https://www.cnbcindonesia.com/market/20220905121312-17-369318/gmfi-rombak-jajaran-manajemen-nih-begini-strukturnya",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTIxMzEyLTE3LTM2OTMxOC9nbWZpLXJvbWJhay1qYWphcmFuLW1hbmFqZW1lbi1uaWgtYmVnaW5pLXN0cnVrdHVybnlh",
+        "description": " Susunan pengurus GMF sebagaimana hasil keputusan RUPST adalah sebagai berikut."
+    },
+    {
+        "title": "Buron Setahun, 'Maling' Kripto Turki Berhasil Ditangkap!",
+        "link": "https://www.cnbcindonesia.com/market/20220905104308-17-369265/buron-setahun-maling-kripto-turki-berhasil-ditangkap",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTA0MzA4LTE3LTM2OTI2NS9idXJvbi1zZXRhaHVuLW1hbGluZy1rcmlwdG8tdHVya2ktYmVyaGFzaWwtZGl0YW5na2Fw",
+        "description": " Pendiri bursa kripto Turki Thodex, Faruk Fatih Ozer akhirnya berhasil ditangkap di kota Vlor\u00c3\u00ab, Albania, setelah buron selama setahun."
+    },
+    {
+        "title": "Dampak Kenaikan BBM Bagi Masyarakat, Harga-Harga Selangit?",
+        "link": "https://www.cnbcindonesia.com/market/20220905113920-17-369292/dampak-kenaikan-bbm-bagi-masyarakat-harga-harga-selangit",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTEzOTIwLTE3LTM2OTI5Mi9kYW1wYWsta2VuYWlrYW4tYmJtLWJhZ2ktbWFzeWFyYWthdC1oYXJnYS1oYXJnYS1zZWxhbmdpdA==",
+        "description": " kenaikan BBM akan berdampak penurunan daya beli dan kenaikan tingkat inflasi"
+    },
+    {
+        "title": "Rayakan HUT ke 127, BRI Gelar Sayembara Desain Logo",
+        "link": "https://www.cnbcindonesia.com/market/20220905115920-17-369302/rayakan-hut-ke-127-bri-gelar-sayembara-desain-logo",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTE1OTIwLTE3LTM2OTMwMi9yYXlha2FuLWh1dC1rZS0xMjctYnJpLWdlbGFyLXNheWVtYmFyYS1kZXNhaW4tbG9nbw==",
+        "description": " PT Bank Rakyat Indonesia (Persero) Tbk (BBRI) mengajak masyarakat untuk turut memeriahkan Hari Ulang Tahun (HUT) BRI ke-127."
+    },
+    {
         "title": "Bukan Cuma Pertalite yang Naik, IHSG Sesi I Juga Lompat 0,58%",
         "link": "https://www.cnbcindonesia.com/market/20220905113353-17-369290/bukan-cuma-pertalite-yang-naik-ihsg-sesi-i-juga-lompat-058",
         "image": "static/images/cnbc_market.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTEwOTUwLTE3LTM2OTI4MC9ydWdpLWdhLXNpaC1uYWJ1bmctZGktYmFuay1rYW11LWN1bWEtZGFwYXQtYnVuZ2EtMA==",
         "description": " Kini, bunga tabungan di bank sudah berada di level 0% atau tidak ada bunganya sama sekali."
-    },
-    {
-        "title": "3 Dampak Kenaikan BBM ke Pasar Keuangan RI",
-        "link": "https://www.cnbcindonesia.com/market/20220905102344-17-369260/3-dampak-kenaikan-bbm-ke-pasar-keuangan-ri",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTAyMzQ0LTE3LTM2OTI2MC8zLWRhbXBhay1rZW5haWthbi1iYm0ta2UtcGFzYXIta2V1YW5nYW4tcmk=",
-        "description": " Riset BRI Danareksa Sekuritas melakukan asesmen terhadap dampak dari kenaikan harga BBM subsidi ini"
-    },
-    {
-        "title": "Harga Pertalite Cs Naik, Kok SPBU Swasta Malah Kegirangan?",
-        "link": "https://www.cnbcindonesia.com/market/20220905101933-17-369256/harga-pertalite-cs-naik-kok-spbu-swasta-malah-kegirangan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTAxOTMzLTE3LTM2OTI1Ni9oYXJnYS1wZXJ0YWxpdGUtY3MtbmFpay1rb2stc3BidS1zd2FzdGEtbWFsYWgta2VnaXJhbmdhbg==",
-        "description": " Situasi ini justru menjadi kabar baik bagi pengelola pom bensin swasta."
-    },
-    {
-        "title": "Tak \"Lempar Handuk\" Lawan Inflasi, Dolar Australia Ngegas?",
-        "link": "https://www.cnbcindonesia.com/market/20220905101642-17-369254/tak-lempar-handuk-lawan-inflasi-dolar-australia-ngegas",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTAxNjQyLTE3LTM2OTI1NC90YWstbGVtcGFyLWhhbmR1ay1sYXdhbi1pbmZsYXNpLWRvbGFyLWF1c3RyYWxpYS1uZ2VnYXM=",
-        "description": " Australia menjadi salah satu negara yang diperkirakan akan mengalami resesi akibat tingginya inflasi."
-    },
-    {
-        "title": "Gawat! Antam Ambil Langkah Hukum Luar Biasa, Ada Apa Ini?",
-        "link": "https://www.cnbcindonesia.com/market/20220905110054-17-369273/gawat-antam-ambil-langkah-hukum-luar-biasa-ada-apa-ini",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTEwMDU0LTE3LTM2OTI3My9nYXdhdC1hbnRhbS1hbWJpbC1sYW5na2FoLWh1a3VtLWx1YXItYmlhc2EtYWRhLWFwYS1pbmk=",
-        "description": " Upaya ini terungkap dalam laporan keuangan ANTM semester I-2022, Senin (5/9/2022)."
-    },
-    {
-        "title": "Gerak Saham Otomotif Pasca BBM Naik, BIRD Ambles-GOTO Naik",
-        "link": "https://www.cnbcindonesia.com/market/20220905104030-17-369264/gerak-saham-otomotif-pasca-bbm-naik-bird-ambles-goto-naik",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTA0MDMwLTE3LTM2OTI2NC9nZXJhay1zYWhhbS1vdG9tb3RpZi1wYXNjYS1iYm0tbmFpay1iaXJkLWFtYmxlcy1nb3RvLW5haWs=",
-        "description": " ada juga emiten yang terkait dengan sektor transportasi yang justru terpantau menguat pagi ini yaitu PT GoTo Gojek Tokopedia Tbk (GOTO)."
     }
 ]
