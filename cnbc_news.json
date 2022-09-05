@@ -1,5 +1,19 @@
 [
     {
+        "title": "Aturan Baru! Cek Syarat Naik Pesawat pada September 2022",
+        "link": "https://www.cnbcindonesia.com/news/20220905081022-4-369217/aturan-baru-cek-syarat-naik-pesawat-pada-september-2022",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTA4MTAyMi00LTM2OTIxNy9hdHVyYW4tYmFydS1jZWstc3lhcmF0LW5haWstcGVzYXdhdC1wYWRhLXNlcHRlbWJlci0yMDIy",
+        "description": " Pemerintah memberikan kelonggaran kepada pelaku perjalanan dalam negeri."
+    },
+    {
+        "title": "'Bom' Putin datang Bertubi-Tubi, Eropa Terancam Kedinginan",
+        "link": "https://www.cnbcindonesia.com/news/20220905080403-4-369215/bom-putin-datang-bertubi-tubi-eropa-terancam-kedinginan",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTA4MDQwMy00LTM2OTIxNS9ib20tcHV0aW4tZGF0YW5nLWJlcnR1YmktdHViaS1lcm9wYS10ZXJhbmNhbS1rZWRpbmdpbmFu",
+        "description": " Harga gas di Eropa mencapai rekor tertinggi setelah Rusia tetap menutup tanpa batas waktu salah satu pipa pasokan utamanya ke Eropa."
+    },
+    {
         "title": "Siap-siap Suku Bunga Acuan Ikut Harga BBM: Nanjak!",
         "link": "https://www.cnbcindonesia.com/news/20220905071235-4-369204/siap-siap-suku-bunga-acuan-ikut-harga-bbm-nanjak",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTA2MjYzMC00LTM2OTE5Mi9wdWx1aGFuLXJpYnUtb3JhbmctZGVtby1tZW5lbnRhbmctbmF0by1kaS1qYW50dW5nLWVyb3Bh",
         "description": " Sebanyak puluhan ribu orang melakukan aksi unjuk rasa di Praha terhadap pemerintah Ceko pada akhir pekan lalu."
-    },
-    {
-        "title": "Eks Presiden Rusia: Barat Bermain Catur dengan Kematian",
-        "link": "https://www.cnbcindonesia.com/news/20220905061232-4-369190/eks-presiden-rusia-barat-bermain-catur-dengan-kematian",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTA2MTIzMi00LTM2OTE5MC9la3MtcHJlc2lkZW4tcnVzaWEtYmFyYXQtYmVybWFpbi1jYXR1ci1kZW5nYW4ta2VtYXRpYW4=",
-        "description": " Mantan Presiden Rusia Dmitry Medvedev mengeluarkan peringatan nuklir keras\u00c2\u00a0kepada pihak\u00c2\u00a0Barat."
-    },
-    {
-        "title": "Harga BBM Sudah Naik, What's Next?",
-        "link": "https://www.cnbcindonesia.com/news/20220905003211-4-369177/harga-bbm-sudah-naik-whats-next",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTAwMzIxMS00LTM2OTE3Ny9oYXJnYS1iYm0tc3VkYWgtbmFpay13aGF0cy1uZXh0",
-        "description": " Harga Bahan BBM bersubsidi sudah naik. Dampaknya tentu besar, karena BBM adalah barang yang menyangkut hajat hidup orang banyak."
     }
 ]
