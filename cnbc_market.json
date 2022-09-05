@@ -1,9 +1,23 @@
 [
     {
-        "title": "Wanaartha Kian Gawat, OJK Bekukan Semua Kegiatan Usaha!",
-        "link": "https://www.cnbcindonesia.com/market/20220905160543-17-369435/wanaartha-kian-gawat-ojk-bekukan-semua-kegiatan-usaha",
+        "title": "Pertalite Naik, Pengusaha Harap BI Tahan Suku Bunga Acuan",
+        "link": "https://www.cnbcindonesia.com/market/20220905142314-19-369367/pertalite-naik-pengusaha-harap-bi-tahan-suku-bunga-acuan",
         "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTYwNTQzLTE3LTM2OTQzNS93YW5hYXJ0aGEta2lhbi1nYXdhdC1vamstYmVrdWthbi1zZW11YS1rZWdpYXRhbi11c2FoYQ==",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTQyMzE0LTE5LTM2OTM2Ny9wZXJ0YWxpdGUtbmFpay1wZW5ndXNhaGEtaGFyYXAtYmktdGFoYW4tc3VrdS1idW5nYS1hY3Vhbg==",
+        "description": " Pertalite Naik, Pengusaha Harap BI Tahan Suku Bunga Acuan"
+    },
+    {
+        "title": "Batu Bara Naik Lagi,Para Taipanya Makin Tajir Nih",
+        "link": "https://www.cnbcindonesia.com/market/20220905153350-17-369411/batu-bara-naik-lagipara-taipanya-makin-tajir-nih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTUzMzUwLTE3LTM2OTQxMS9iYXR1LWJhcmEtbmFpay1sYWdpcGFyYS10YWlwYW55YS1tYWtpbi10YWppci1uaWg=",
+        "description": " Harga saham-saham batu bara kembali melesat"
+    },
+    {
+        "title": "Duh! OJK Bekukan Semua Kegiatan Usaha Wanaartha",
+        "link": "https://www.cnbcindonesia.com/market/20220905160543-17-369435/duh-ojk-bekukan-semua-kegiatan-usaha-wanaartha",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTYwNTQzLTE3LTM2OTQzNS9kdWgtb2prLWJla3VrYW4tc2VtdWEta2VnaWF0YW4tdXNhaGEtd2FuYWFydGhh",
         "description": " Pengenaan sanksi ini menyusul belum terpenuhinya syarat perbaikan perusahaan."
     },
     {
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTQ0NDMyLTE3LTM2OTM4Mi9zc3N0dC1hZGEtZ29zaXAtc2FsaW0tZGlrYWJhcmthbi1tYXN1ay1rZS1idW1pLXJlc291cmNlcw==",
         "description": " Salim masuk dengan menyerap saham yang diterbitkan BUMI melalui aksi korporasinya itu."
-    },
-    {
-        "title": "Intip Sumbangan Royalti  Bumi Resources Bagi Kas Negara",
-        "link": "https://www.cnbcindonesia.com/market/20220905144741-19-369383/intip-sumbangan-royalti-bumi-resources-bagi-kas-negara",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTQ0NzQxLTE5LTM2OTM4My9pbnRpcC1zdW1iYW5nYW4tcm95YWx0aS1idW1pLXJlc291cmNlcy1iYWdpLWthcy1uZWdhcmE=",
-        "description": " Intip Besaran Sumbangan Bumi Resources Bagi Kas Negara"
-    },
-    {
-        "title": "Tak Peduli Harga BBM Naik, IHSG Tetap Menguat dan Sentuh 7.200",
-        "link": "https://www.cnbcindonesia.com/market/20220905152549-17-369407/tak-peduli-harga-bbm-naik-ihsg-tetap-menguat-sentuh-7200",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTUyNTQ5LTE3LTM2OTQwNy90YWstcGVkdWxpLWhhcmdhLWJibS1uYWlrLWloc2ctdGV0YXAtbWVuZ3VhdC1zZW50dWgtNzIwMA==",
-        "description": " Indeks Harga Saham Gabungan (IHSG) ditutup menghijau pada perdagangan Senin (5/9/2022), meski ada sentimen dari kenaikan bahan bakar minyak (BBM)."
     }
 ]
