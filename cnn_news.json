@@ -1,5 +1,40 @@
 [
     {
+        "title": "Tersangka Korupsi Surya Darmadi Segera Disidang di Pengadilan Tipikor",
+        "link": "https://www.cnnindonesia.com/nasional/20220905074232-12-843221/tersangka-korupsi-surya-darmadi-segera-disidang-di-pengadilan-tipikor",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTA3NDIzMi0xMi04NDMyMjEvdGVyc2FuZ2thLWtvcnVwc2ktc3VyeWEtZGFybWFkaS1zZWdlcmEtZGlzaWRhbmctZGktcGVuZ2FkaWxhbi10aXBpa29y",
+        "description": " Surya Darmadi dan mantan Bupati Indragiri Hulu Raja Thamsir Rachman akan disidang di Pengadilan Tipikor Jakarta. Masih menunggu jadwal."
+    },
+    {
+        "title": "FOTO: Rekonstruksi Oknum TNI Jual Senpi Berujung Pembunuhan di Papua",
+        "link": "https://www.cnnindonesia.com/nasional/20220905102521-14-843297/foto-rekonstruksi-oknum-tni-jual-senpi-berujung-pembunuhan-di-papua",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTEwMjUyMS0xNC04NDMyOTcvZm90by1yZWtvbnN0cnVrc2ktb2tudW0tdG5pLWp1YWwtc2VucGktYmVydWp1bmctcGVtYnVudWhhbi1kaS1wYXB1YQ==",
+        "description": " Pembunuhan terhadap warga sipil di Mimika Papua berawal dari sebuah transaksi rekayasa jual beli senjata."
+    },
+    {
+        "title": "Alasan Komnas HAM Duga Ada 3 Penembak Brigadir J",
+        "link": "https://www.cnnindonesia.com/nasional/20220905122722-12-843374/alasan-komnas-ham-duga-ada-3-penembak-brigadir-j",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTEyMjcyMi0xMi04NDMzNzQvYWxhc2FuLWtvbW5hcy1oYW0tZHVnYS1hZGEtMy1wZW5lbWJhay1icmlnYWRpci1q",
+        "description": " Ketua Komnas HAM Ahmad Taufan Damanik menduga ada tiga orang yang menembak Brigadir J di rumah Irjen Ferdy Sambo."
+    },
+    {
+        "title": "Spanduk Ucapan Selamat Buat Plt Ketum Mardiono Terpajang di Kantor PPP",
+        "link": "https://www.cnnindonesia.com/nasional/20220905122015-20-843372/spanduk-ucapan-selamat-buat-plt-ketum-mardiono-terpajang-di-kantor-ppp",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTEyMjAxNS0yMC04NDMzNzIvc3BhbmR1ay11Y2FwYW4tc2VsYW1hdC1idWF0LXBsdC1rZXR1bS1tYXJkaW9uby10ZXJwYWphbmctZGkta2FudG9yLXBwcA==",
+        "description": " Pantauan CNNIndonesia.com, tak ada aktivitas berarti di Kantor DPP PPP. Namun, ada spanduk berisi ucapan selamat kepada Mardiono."
+    },
+    {
+        "title": "Survei Litbang Kompas: Mayoritas Anggap Kasus Yosua Tak Transparan",
+        "link": "https://www.cnnindonesia.com/nasional/20220905120845-12-843368/survei-litbang-kompas-mayoritas-anggap-kasus-yosua-tak-transparan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTEyMDg0NS0xMi04NDMzNjgvc3VydmVpLWxpdGJhbmcta29tcGFzLW1heW9yaXRhcy1hbmdnYXAta2FzdXMteW9zdWEtdGFrLXRyYW5zcGFyYW4=",
+        "description": " Survei Litbang Kompas mencatat mayoritas publik menilai pengungkapan kasus kematian Brigadir J tidak dilakukan secara transparan kepada publik."
+    },
+    {
         "title": "Mejelis Rektor PTN Tolak Penerimaan Mahasiswa Jalur Mandiri Dihapus",
         "link": "https://www.cnnindonesia.com/nasional/20220905095136-20-843277/mejelis-rektor-ptn-tolak-penerimaan-mahasiswa-jalur-mandiri-dihapus",
         "image": "static/images/cnn_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTExMzU1MS0yMC04NDMzNDkvcGVuYW1wYWthbi10a3Ata2VjZWxha2Fhbi10b3lvdGEtaGlhY2UtZGFuLXRydWstZGktdG9sLXNlbWFyYW5nLWJhdGFuZw==",
         "description": " Polisi masih berada di TKP kecelakaan. Bagian depan minibus hancur akibat menabrak truk trailer."
-    },
-    {
-        "title": "Brigjen Hendra, Jenderal Utusan Sambo yang Naik Private Jet ke Jambi",
-        "link": "https://www.cnnindonesia.com/nasional/20220905094036-12-843265/brigjen-hendra-jenderal-utusan-sambo-yang-naik-private-jet-ke-jambi",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTA5NDAzNi0xMi04NDMyNjUvYnJpZ2plbi1oZW5kcmEtamVuZGVyYWwtdXR1c2FuLXNhbWJvLXlhbmctbmFpay1wcml2YXRlLWpldC1rZS1qYW1iaQ==",
-        "description": " Brigjen Hendra Kurniawan merupakan lulusan Akpol 1995. Ia menerima banyak tanda jasa sepanjang kariernya."
-    },
-    {
-        "title": "Polri Usut Temuan Komnas HAM soal Dugaan 3 Orang Penembak Brigadir J",
-        "link": "https://www.cnnindonesia.com/nasional/20220905112137-12-843337/polri-usut-temuan-komnas-ham-soal-dugaan-3-orang-penembak-brigadir-j",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTExMjEzNy0xMi04NDMzMzcvcG9scmktdXN1dC10ZW11YW4ta29tbmFzLWhhbS1zb2FsLWR1Z2Fhbi0zLW9yYW5nLXBlbmVtYmFrLWJyaWdhZGlyLWo=",
-        "description": " Kabareskrim Komjen Agus Andrianto menyebut kesimpulan tim penyidik dalam kasus Brigadir J merujuk keterangan para saksi, tersangka maupun ahli."
-    },
-    {
-        "title": "Kesepakatan Puan dan Prabowo Bisa Ubah Peta Politik 2024",
-        "link": "https://www.cnnindonesia.com/nasional/20220905105149-32-843333/kesepakatan-puan-dan-prabowo-bisa-ubah-peta-politik-2024",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTEwNTE0OS0zMi04NDMzMzMva2VzZXBha2F0YW4tcHVhbi1kYW4tcHJhYm93by1iaXNhLXViYWgtcGV0YS1wb2xpdGlrLTIwMjQ=",
-        "description": " PDIP saat ini memegang kunci peranan penting di Pilpres 2024. Peta koalisi bisa berubah total jika partai penguasa ini merangkul Gerindra masuk barisan."
-    },
-    {
-        "title": "Plt Ketum PPP Mardiono Punya Harta Rp1,2 T, Termasuk 179 Bidang Tanah",
-        "link": "https://www.cnnindonesia.com/nasional/20220905110127-32-843328/plt-ketum-ppp-mardiono-punya-harta-rp12-t-termasuk-179-bidang-tanah",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTExMDEyNy0zMi04NDMzMjgvcGx0LWtldHVtLXBwcC1tYXJkaW9uby1wdW55YS1oYXJ0YS1ycDEyLXQtdGVybWFzdWstMTc5LWJpZGFuZy10YW5haA==",
-        "description": " Mardiono dipilih menjadi Plt Ketua Umum PPP lewat Mukernas PPP yang berlangsung sejak Minggu hingga Senin (4-5/9)."
-    },
-    {
-        "title": "Ketum PBNU dan Muhammadiyah Jajaki Kerja Sama untuk Kepentingan Umat",
-        "link": "https://www.cnnindonesia.com/nasional/20220905101736-20-843312/ketum-pbnu-muhammadiyah-jajaki-kerja-sama-untuk-kepentingan-umat",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTEwMTczNi0yMC04NDMzMTIva2V0dW0tcGJudS1tdWhhbW1hZGl5YWgtamFqYWtpLWtlcmphLXNhbWEtdW50dWsta2VwZW50aW5nYW4tdW1hdA==",
-        "description": " Ketum PBNU Yahya Cholil Staquf dan Ketum PP Muhammadiyah Haedar Nashir menjalin\u00c2\u00a0penjajakan kerja sama kelembagaan untuk mengatasi sejumlah persoalan masyarakat."
     }
 ]
