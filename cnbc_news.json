@@ -1,5 +1,40 @@
 [
     {
+        "title": "Bank Mega",
+        "link": "https://www.cnbcindonesia.com/news/20220905183755-7-369487/bank-mega",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE4Mzc1NS03LTM2OTQ4Ny9iYW5rLW1lZ2E=",
+        "description": " Di Hari Pelanggan Nasional, karyawan Bank Mega di seluruh Kantor Cabang dan Kantor Cabang Pembantu memakai kostum dengan beragam tema menarik."
+    },
+    {
+        "title": "Naikkan Harga BBM, Rizal Ramli: Tega Amat Pak Jokowi!",
+        "link": "https://www.cnbcindonesia.com/news/20220905162523-4-369436/naikkan-harga-bbm-rizal-ramli-tega-amat-pak-jokowi",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE2MjUyMy00LTM2OTQzNi9uYWlra2FuLWhhcmdhLWJibS1yaXphbC1yYW1saS10ZWdhLWFtYXQtcGFrLWpva293aQ==",
+        "description": " Mantan menteri koordinator bidang perekonomian Rizal Ramli menilai kebijakan pemerintah menaikkan harga BBM tidak tepat."
+    },
+    {
+        "title": "Unjuk Rasa Menolak Kenaikan Harga BBM",
+        "link": "https://www.cnbcindonesia.com/news/20220905173336-8-369457/unjuk-rasa-menolak-kenaikan-harga-bbm",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3MzMzNi04LTM2OTQ1Ny91bmp1ay1yYXNhLW1lbm9sYWsta2VuYWlrYW4taGFyZ2EtYmJt",
+        "description": " Berbagai elemen masyarakat dan juga mahasiswa berencana menggelar unjuk rasa menolak kenaikan harga bahan bakar minyak"
+    },
+    {
+        "title": "Harga BBM Naik, Tarif Angkutan Truk Bakal Naik 25%",
+        "link": "https://www.cnbcindonesia.com/news/20220905173614-4-369460/harga-bbm-naik-tarif-angkutan-truk-bakal-naik-25",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3MzYxNC00LTM2OTQ2MC9oYXJnYS1iYm0tbmFpay10YXJpZi1hbmdrdXRhbi10cnVrLWJha2FsLW5haWstMjU=",
+        "description": " Pengusaha truk akan menaikkan harga jasa angkut logistik darat, menyusul kenaikan harga BBM subsidi."
+    },
+    {
+        "title": "Ada Apa Lagi China? Xi Jinping Lockdown 33 Kota",
+        "link": "https://www.cnbcindonesia.com/news/20220905175307-4-369465/ada-apa-lagi-china-xi-jinping-lockdown-33-kota",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3NTMwNy00LTM2OTQ2NS9hZGEtYXBhLWxhZ2ktY2hpbmEteGktamlucGluZy1sb2NrZG93bi0zMy1rb3Rh",
+        "description": " China kini total mengunci 33 kota. Lockdown dilakukan bahkan secara parsial maupun penuh."
+    },
+    {
         "title": "Update Covid-19 di RI Hari Ini: Kasus Baru Bertambah 2.340",
         "link": "https://www.cnbcindonesia.com/news/20220905182006-4-369479/update-covid-19-di-ri-hari-ini-kasus-baru-bertambah-2340",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE2NTczOS00LTM2OTQ0OC9zaWFwLXNpYXAtd2FyZ2EtZHVuaWEtcG0tYmFydS1pbmdncmlzLWRpdW11bWthbi1oYXJpLWluaQ==",
         "description": " Inggris akan segera memiliki Perdana Menteri (PM) baru pada Senin (5/9/2022)."
-    },
-    {
-        "title": "Apa Mungkin Pertalite Kembali Turun ke Bawah Rp10.000?",
-        "link": "https://www.cnbcindonesia.com/news/20220905173503-4-369459/apa-mungkin-pertalite-kembali-turun-ke-bawah-rp10000",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3MzUwMy00LTM2OTQ1OS9hcGEtbXVuZ2tpbi1wZXJ0YWxpdGUta2VtYmFsaS10dXJ1bi1rZS1iYXdhaC1ycDEwMDAw",
-        "description": " Harga Bahan Bakar Minyak (BBM) jenis Pertalite bisa kembali ke harga di bawah Rp 10.000 per liter"
-    },
-    {
-        "title": "BBM Effect Terasa, Bos Bus Akap Langsung Naikkan Harga Tiket",
-        "link": "https://www.cnbcindonesia.com/news/20220905163222-4-369438/bbm-effect-terasa-bos-bus-akap-langsung-naikkan-harga-tiket",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE2MzIyMi00LTM2OTQzOC9iYm0tZWZmZWN0LXRlcmFzYS1ib3MtYnVzLWFrYXAtbGFuZ3N1bmctbmFpa2thbi1oYXJnYS10aWtldA==",
-        "description": " Kalangan pengusaha transportasi langsung menyesuaikan harga angkutan setelah pemerintah resmi menaikkan harga Bahan Bakar Minyak (BBM) non subsidi."
-    },
-    {
-        "title": "Pengusaha Logistik: Harga Naik, Pasokan BBM Jangan Dibatasi!",
-        "link": "https://www.cnbcindonesia.com/news/20220905165638-8-369446/pengusaha-logistik-harga-naik-pasokan-bbm-jangan-dibatasi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE2NTYzOC04LTM2OTQ0Ni9wZW5ndXNhaGEtbG9naXN0aWstaGFyZ2EtbmFpay1wYXNva2FuLWJibS1qYW5nYW4tZGliYXRhc2k=",
-        "description": " Pengusaha Logistik: Harga Naik, Pasokan BBM Jangan Dibatasi"
-    },
-    {
-        "title": "Sampoerna Schools System Rilis Logo dan Maskot Baru",
-        "link": "https://www.cnbcindonesia.com/news/20220905172035-4-369453/sampoerna-schools-system-rilis-logo-maskot-baru",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3MjAzNS00LTM2OTQ1My9zYW1wb2VybmEtc2Nob29scy1zeXN0ZW0tcmlsaXMtbG9nby1tYXNrb3QtYmFydQ==",
-        "description": " Sampoerna Schools System meluncurkan logo dan maskot baru Sampoerna Academy dan Sampoerna University dalam memasuki era baru dunia pendidikan."
-    },
-    {
-        "title": "Harga Pertalite Naik, Pembatasan Kendaraan Dinilai Tak Perlu",
-        "link": "https://www.cnbcindonesia.com/news/20220905160638-4-369422/harga-pertalite-naik-pembatasan-kendaraan-dinilai-tak-perlu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE2MDYzOC00LTM2OTQyMi9oYXJnYS1wZXJ0YWxpdGUtbmFpay1wZW1iYXRhc2FuLWtlbmRhcmFhbi1kaW5pbGFpLXRhay1wZXJsdQ==",
-        "description": " Rencana pemerintah melakukan pembatasan pembelian BBM subsidi jenis Pertalite dan Solar dinilai tidak perlu lagi dilakukan."
     }
 ]
