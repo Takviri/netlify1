@@ -1,5 +1,19 @@
 [
     {
+        "title": "OJK Pede Ekonomi RI Kuat di Atas 5 Persen Meski Harga Pertalite Naik",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220905155651-532-843506/ojk-pede-ekonomi-ri-kuat-di-atas-5-persen-meski-harga-pertalite-naik",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA1MTU1NjUxLTUzMi04NDM1MDYvb2prLXBlZGUtZWtvbm9taS1yaS1rdWF0LWRpLWF0YXMtNS1wZXJzZW4tbWVza2ktaGFyZ2EtcGVydGFsaXRlLW5haWs=",
+        "description": " OJK memperkirakan pertumbuhan ekonomi Indonesia tetap berada di level atas 5 persen pada akhir 2022 meski harga bahan bakar minyak (BBM) subsidi naik."
+    },
+    {
+        "title": "DPRD DKI Akan Panggil MRT soal Dana Proyek Fase II Bengkak Jadi Rp26 T",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220905165605-92-843539/dprd-dki-akan-panggil-mrt-soal-dana-proyek-fase-ii-bengkak-jadi-rp26-t",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA1MTY1NjA1LTkyLTg0MzUzOS9kcHJkLWRraS1ha2FuLXBhbmdnaWwtbXJ0LXNvYWwtZGFuYS1wcm95ZWstZmFzZS1paS1iZW5na2FrLWphZGktcnAyNi10",
+        "description": " DPRD DKI Jakarta akan memanggi direksi MRT soal bengkak biaya MRT Fase II Bundaran HI-Jakarta Kota dari Rp22,5 triliun jadi Rp26 triliun."
+    },
+    {
         "title": "Israel Larang Operasi Boeing 747 Mulai 31 Maret 2023",
         "link": "https://www.cnnindonesia.com/ekonomi/20220905132813-92-843399/israel-larang-operasi-boeing-747-mulai-31-maret-2023",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA1MTQ1OTU0LTkyLTg0MzQ2Ny9paHNnLXBlcmthc2EtZGktNzIzMS1kaS1hd2FsLXBla2Fu",
         "description": " IHSG menguat 0,76 persen ke 7.231 pada awal pekan ini akibat tertopang kinerja 267 saham."
-    },
-    {
-        "title": "Erick Thohir Bareng Pertamina Luncurkan Program Solar Buat Nelayan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220905141645-90-843439/erick-thohir-bareng-pertamina-luncurkan-program-solar-buat-nelayan",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA1MTQxNjQ1LTkwLTg0MzQzOS9lcmljay10aG9oaXItYmFyZW5nLXBlcnRhbWluYS1sdW5jdXJrYW4tcHJvZ3JhbS1zb2xhci1idWF0LW5lbGF5YW4=",
-        "description": " Menteri BUMN Erick Thohir menyebut Program Solar untuk Koperasi Nelayan ini\u00c2\u00a0merupakan\u00c2\u00a0pilot project selama tiga bulan sebelum diluncurkan ke seluruh Indonesia."
-    },
-    {
-        "title": "Damri Bakal Kerek Tarif Bus Minimal 20 Persen Imbas Kenaikan Harga BBM",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220905133546-92-843404/damri-bakal-kerek-tarif-bus-minimal-20-persen-imbas-kenaikan-harga-bbm",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA1MTMzNTQ2LTkyLTg0MzQwNC9kYW1yaS1iYWthbC1rZXJlay10YXJpZi1idXMtbWluaW1hbC0yMC1wZXJzZW4taW1iYXMta2VuYWlrYW4taGFyZ2EtYmJt",
-        "description": " Damri akan menaikkan tarif bus rute Lampung-Jakarta minimal 20 persen imbas kenaikan harga BBM."
     }
 ]
