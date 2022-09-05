@@ -1,5 +1,47 @@
 [
     {
+        "title": "Harga Karet Naik Nih! Jangan Senang Dulu, Masih Bisa Turun",
+        "link": "https://www.cnbcindonesia.com/market/20220905154803-17-369418/harga-karet-naik-nih-jangan-senang-dulu-masih-bisa-turun",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTU0ODAzLTE3LTM2OTQxOC9oYXJnYS1rYXJldC1uYWlrLW5paC1qYW5nYW4tc2VuYW5nLWR1bHUtbWFzaWgtYmlzYS10dXJ1bg==",
+        "description": " Harga karet menguat tetapi potensi ke depan masih bisa turun."
+    },
+    {
+        "title": "OJK: Juli, NPL Kredit Restrukturisasi Covid Naik Jadi 7,10%",
+        "link": "https://www.cnbcindonesia.com/market/20220905153507-17-369413/ojk-juli-npl-kredit-restrukturisasi-covid-naik-jadi-710",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTUzNTA3LTE3LTM2OTQxMy9vamstanVsaS1ucGwta3JlZGl0LXJlc3RydWt0dXJpc2FzaS1jb3ZpZC1uYWlrLWphZGktNzEw",
+        "description": " rasio NPL untuk kredit restrukturisasi Covid-19 naik dari 6,44% pada Juni 2022 menjadi 7,10% pada Juli 2022"
+    },
+    {
+        "title": "Market Focus: BBM Subsidi Naik, IHSG Kuat di Level 7.200-an",
+        "link": "https://www.cnbcindonesia.com/market/20220905150507-19-369392/market-focus-bbm-subsidi-naik-ihsg-kuat-di-level-7200-an",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTUwNTA3LTE5LTM2OTM5Mi9tYXJrZXQtZm9jdXMtYmJtLXN1YnNpZGktbmFpay1paHNnLWt1YXQtZGktbGV2ZWwtNzIwMC1hbg==",
+        "description": " Market Focus: BBM Subsidi Naik, IHSG Kuat di Level 7.200-an"
+    },
+    {
+        "title": "Ssstt, Ada Gosip! Salim Dikabarkan Masuk ke Bumi Resources",
+        "link": "https://www.cnbcindonesia.com/market/20220905144432-17-369382/ssstt-ada-gosip-salim-dikabarkan-masuk-ke-bumi-resources",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTQ0NDMyLTE3LTM2OTM4Mi9zc3N0dC1hZGEtZ29zaXAtc2FsaW0tZGlrYWJhcmthbi1tYXN1ay1rZS1idW1pLXJlc291cmNlcw==",
+        "description": " Salim masuk dengan menyerap saham yang diterbitkan BUMI melalui aksi korporasinya itu."
+    },
+    {
+        "title": "Intip Sumbangan Royalti  Bumi Resources Bagi Kas Negara",
+        "link": "https://www.cnbcindonesia.com/market/20220905144741-19-369383/intip-sumbangan-royalti-bumi-resources-bagi-kas-negara",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTQ0NzQxLTE5LTM2OTM4My9pbnRpcC1zdW1iYW5nYW4tcm95YWx0aS1idW1pLXJlc291cmNlcy1iYWdpLWthcy1uZWdhcmE=",
+        "description": " Intip Besaran Sumbangan Bumi Resources Bagi Kas Negara"
+    },
+    {
+        "title": "Tak Peduli Harga BBM Naik, IHSG Tetap Menguat dan Sentuh 7.200",
+        "link": "https://www.cnbcindonesia.com/market/20220905152549-17-369407/tak-peduli-harga-bbm-naik-ihsg-tetap-menguat-sentuh-7200",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTUyNTQ5LTE3LTM2OTQwNy90YWstcGVkdWxpLWhhcmdhLWJibS1uYWlrLWloc2ctdGV0YXAtbWVuZ3VhdC1zZW50dWgtNzIwMA==",
+        "description": " Indeks Harga Saham Gabungan (IHSG) ditutup menghijau pada perdagangan Senin (5/9/2022), meski ada sentimen dari kenaikan bahan bakar minyak (BBM)."
+    },
+    {
         "title": "Jurus BI Cegah Inflasi Jabar Meroket Imbas Pertalite Naik",
         "link": "https://www.cnbcindonesia.com/market/20220905134315-19-369351/jurus-bi-cegah-inflasi-jabar-meroket-imbas-pertalite-naik",
         "image": "static/images/cnbc_market.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTQzNTAzLTE3LTM2OTM3My9nZWdhcmEtcHV0aW4tYmVydWxhaC1sYWdpLWJ1cnNhLWVyb3BhLWRpYnVrYS1hbWJsZXM=",
         "description": " Bursa saham Eropa ambles pada sesi awal perdagangan hari ini, di mana investor masih mengevaluasi risiko ekonomi yang membayangi"
-    },
-    {
-        "title": "Budi Said 'Jegal' Kinerja Antam, Laba Tidak Sesuai Harapan",
-        "link": "https://www.cnbcindonesia.com/market/20220905134846-17-369352/budi-said-jegal-kinerja-antam-laba-tidak-sesuai-harapan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTM0ODQ2LTE3LTM2OTM1Mi9idWRpLXNhaWQtamVnYWwta2luZXJqYS1hbnRhbS1sYWJhLXRpZGFrLXNlc3VhaS1oYXJhcGFu",
-        "description": " Meski naik, perfoma ini rupanya masih di bawah konsensus analis."
-    },
-    {
-        "title": "Ini Penyebab Alibaba Dkk Bisa Hengkang dari Wall Street",
-        "link": "https://www.cnbcindonesia.com/market/20220905131852-17-369339/ini-penyebab-alibaba-dkk-bisa-hengkang-dari-wall-street",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTMxODUyLTE3LTM2OTMzOS9pbmktcGVueWViYWItYWxpYmFiYS1ka2stYmlzYS1oZW5na2FuZy1kYXJpLXdhbGwtc3RyZWV0",
-        "description": " Ancaman dihapusnya atau delisting emiten-emiten China di bursa saham Amerika Serikat (AS) pun semakin besar."
-    },
-    {
-        "title": "The Fed dan Covid Jadi 'Horor' Buat Tembaga",
-        "link": "https://www.cnbcindonesia.com/market/20220905142148-17-369366/the-fed-dan-covid-jadi-horor-buat-tembaga",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTQyMTQ4LTE3LTM2OTM2Ni90aGUtZmVkLWRhbi1jb3ZpZC1qYWRpLWhvcm9yLWJ1YXQtdGVtYmFnYQ==",
-        "description": " Harga tembaga melemah pada perdagangan hari ini."
-    },
-    {
-        "title": "Putin Beraksi Lagi, Euro Ambrol ke Bawah 1 Dolar AS",
-        "link": "https://www.cnbcindonesia.com/market/20220905142522-17-369370/putin-beraksi-lagi-euro-ambrol-ke-bawah-1-dolar-as",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTQyNTIyLTE3LTM2OTM3MC9wdXRpbi1iZXJha3NpLWxhZ2ktZXVyby1hbWJyb2wta2UtYmF3YWgtMS1kb2xhci1hcw==",
-        "description": " Nilai tukar euro jeblok lagi melawan dolar Amerika Serikat ke level terendah dalam 20 tahun terakhir."
-    },
-    {
-        "title": "ALMI Kedatangan Investor Kanada, Dapat Modal Rp 223,5 M",
-        "link": "https://www.cnbcindonesia.com/market/20220905133817-17-369350/almi-kedatangan-investor-kanada-dapat-modal-rp-2235-m",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTMzODE3LTE3LTM2OTM1MC9hbG1pLWtlZGF0YW5nYW4taW52ZXN0b3Ita2FuYWRhLWRhcGF0LW1vZGFsLXJwLTIyMzUtbQ==",
-        "description": " PT Alumindo Light Metal Industry Tbk (ALMI) pada 31 Agustus lalu melakukan perjanjian kerja sama dengan Sinobec Group dari Kanada"
-    },
-    {
-        "title": "Usai Rilis Lapkeu, Saham GOTO Masuk Rekomendasi BRI Danareksa",
-        "link": "https://www.cnbcindonesia.com/market/20220905141228-17-369361/usai-rilis-lapkeu-saham-goto-masuk-rekomendasi-bri-danareksa",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTQxMjI4LTE3LTM2OTM2MS91c2FpLXJpbGlzLWxhcGtldS1zYWhhbS1nb3RvLW1hc3VrLXJla29tZW5kYXNpLWJyaS1kYW5hcmVrc2E=",
-        "description": " Bagaimana prospek saham GOTO ?"
     }
 ]
