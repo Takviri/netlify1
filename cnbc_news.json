@@ -1,5 +1,47 @@
 [
     {
+        "title": "Banyak Negara Bersitegang, G20 Sempat Terancam Bubar",
+        "link": "https://www.cnbcindonesia.com/news/20220905112757-4-369320/banyak-negara-bersitegang-g20-sempat-terancam-bubar",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTExMjc1Ny00LTM2OTMyMC9iYW55YWstbmVnYXJhLWJlcnNpdGVnYW5nLWcyMC1zZW1wYXQtdGVyYW5jYW0tYnViYXI=",
+        "description": " Presidensi G20 Indonesia menghadapi risiko yang cukup besar dari perbedaan pandangan anggota tentang konflik Ukraina dan Rusia."
+    },
+    {
+        "title": "Disesuaikan, Ini Daftar Harga BBM Pertamina, Shell, Vivo dan BP",
+        "link": "https://www.cnbcindonesia.com/news/20220905131509-4-369337/disesuaikan-ini-daftar-harga-bbm-pertamina-shell-vivo-bp",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTEzMTUwOS00LTM2OTMzNy9kaXNlc3VhaWthbi1pbmktZGFmdGFyLWhhcmdhLWJibS1wZXJ0YW1pbmEtc2hlbGwtdml2by1icA==",
+        "description": " Pertamina hingga Shell, Vivo dan BP-AKR resmi melakukan penyesuaian harga BBM"
+    },
+    {
+        "title": "Infeksi Covid-19 Naik, Chengdu Perpanjang Lockdown",
+        "link": "https://www.cnbcindonesia.com/news/20220905123541-8-369327/infeksi-covid-19-naik-chengdu-perpanjang-lockdown",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTEyMzU0MS04LTM2OTMyNy9pbmZla3NpLWNvdmlkLTE5LW5haWstY2hlbmdkdS1wZXJwYW5qYW5nLWxvY2tkb3du",
+        "description": " Beberapa kota besar di China kembali melakukan lockdown."
+    },
+    {
+        "title": "Harga Pertalite Naik, Warga Kelas Menengah Paling Terpukul?",
+        "link": "https://www.cnbcindonesia.com/news/20220905112716-4-369287/harga-pertalite-naik-warga-kelas-menengah-paling-terpukul",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTExMjcxNi00LTM2OTI4Ny9oYXJnYS1wZXJ0YWxpdGUtbmFpay13YXJnYS1rZWxhcy1tZW5lbmdhaC1wYWxpbmctdGVycHVrdWw=",
+        "description": " Harga Peralite naik, pemerintah akan menyalurkan BLT dan BSU kepada masyarakat kelas menengah bawah"
+    },
+    {
+        "title": "Harga BBM Naik, Kemenkeu Ramal Inflasi 2022 Tembus 6,6-6,8%",
+        "link": "https://www.cnbcindonesia.com/news/20220905125801-4-369331/harga-bbm-naik-kemenkeu-ramal-inflasi-2022-tembus-66-68",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTEyNTgwMS00LTM2OTMzMS9oYXJnYS1iYm0tbmFpay1rZW1lbmtldS1yYW1hbC1pbmZsYXNpLTIwMjItdGVtYnVzLTY2LTY4",
+        "description": " Kementerian Keuangan (Kemenkeu) memperkirakan inflasi pada akhir tahun 2022 akan mencapai 6,6-6,8%."
+    },
+    {
+        "title": "BBM Naik, BI Puji Langkah Pemerintah",
+        "link": "https://www.cnbcindonesia.com/news/20220905130126-4-369333/bbm-naik-bi-puji-langkah-pemerintah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTEzMDEyNi00LTM2OTMzMy9iYm0tbmFpay1iaS1wdWppLWxhbmdrYWgtcGVtZXJpbnRhaA==",
+        "description": " BI menilai langkah pemerintah untuk menyesuaikan subsidi ke arah yang lebih sehat sudah optimal."
+    },
+    {
         "title": "Heboh! Pesawat \"Hantu\" Jatuh Usai Gentayangan di Eropa",
         "link": "https://www.cnbcindonesia.com/news/20220905123524-4-369326/heboh-pesawat-hantu-jatuh-usai-gentayangan-di-eropa",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTEwNTQwMy00LTM2OTI3MC9wZW5pa2FtYW4tbWFzc2FsLWRpLWthbmFkYS10ZXdhc2thbi0xMC1vcmFuZy1pbmktcGVsYWt1bnlh",
         "description": " Sebanyak 10 orang tewas dan 15 lainnya dirawat di rumah sakit akibat serangkaian serangan penikaman di provinsi Saskatchewan, Kanada."
-    },
-    {
-        "title": "BBM Udah Naik, Tarif Angkot Jakarta Bakal Ikut 'Terbang' 17%",
-        "link": "https://www.cnbcindonesia.com/news/20220905113950-4-369295/bbm-udah-naik-tarif-angkot-jakarta-bakal-ikut-terbang-17",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTExMzk1MC00LTM2OTI5NS9iYm0tdWRhaC1uYWlrLXRhcmlmLWFuZ2tvdC1qYWthcnRhLWJha2FsLWlrdXQtdGVyYmFuZy0xNw==",
-        "description": " Angkutan darat daerah dipastikan akan menyesuaikan tarif pascakenaikan harga bahan bakar minyak (BBM)."
-    },
-    {
-        "title": "Jangan Kaget! Nopol Kendaraan Mulai Dicatat Pas Isi Pertalite",
-        "link": "https://www.cnbcindonesia.com/news/20220905123110-4-369321/jangan-kaget-nopol-kendaraan-mulai-dicatat-pas-isi-pertalite",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTEyMzExMC00LTM2OTMyMS9qYW5nYW4ta2FnZXQtbm9wb2wta2VuZGFyYWFuLW11bGFpLWRpY2F0YXQtcGFzLWlzaS1wZXJ0YWxpdGU=",
-        "description": " Petugas SPBU Pertamina mulai mencatat nopol kendaraan saat isi BBM Pertalite"
-    },
-    {
-        "title": "Kritisis Kenaikan BBM Subsidi, Rizal Ramli: Harus Dibatalkan!",
-        "link": "https://www.cnbcindonesia.com/news/20220905115728-8-369299/kritisis-kenaikan-bbm-subsidi-rizal-ramli-harus-dibatalkan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTExNTcyOC04LTM2OTI5OS9rcml0aXNpcy1rZW5haWthbi1iYm0tc3Vic2lkaS1yaXphbC1yYW1saS1oYXJ1cy1kaWJhdGFsa2Fu",
-        "description": " Kritisis Kenaikan BBM Subsidi, Rizal Ramli: Harus Dibatalkan!"
-    },
-    {
-        "title": "Pemerintah Pastikan Tak Melarang Penjualan BBM Vivo 89!",
-        "link": "https://www.cnbcindonesia.com/news/20220905112126-4-369284/pemerintah-pastikan-tak-melarang-penjualan-bbm-vivo-89",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTExMjEyNi00LTM2OTI4NC9wZW1lcmludGFoLXBhc3Rpa2FuLXRhay1tZWxhcmFuZy1wZW5qdWFsYW4tYmJtLXZpdm8tODk=",
-        "description": " Kementerian ESDM menjawab isu adanya pelarangan penjualan BBM Revvo 89 milik Vivo Energy"
-    },
-    {
-        "title": "Kerja 24 Jam, Sri Mulyani Kaji 'Bonus' Baru PNS Kemenkeu!",
-        "link": "https://www.cnbcindonesia.com/news/20220905121310-4-369315/kerja-24-jam-sri-mulyani-kaji-bonus-baru-pns-kemenkeu",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTEyMTMxMC00LTM2OTMxNS9rZXJqYS0yNC1qYW0tc3JpLW11bHlhbmkta2FqaS1ib251cy1iYXJ1LXBucy1rZW1lbmtldQ==",
-        "description": " Pegawai negeri sipil (PNS) di Kemenkeu siap-siap terima insentif baru."
-    },
-    {
-        "title": "Gawat! BI Bilang Ada 5 Isu Kritis di Kancah Global",
-        "link": "https://www.cnbcindonesia.com/news/20220905111827-4-369283/gawat-bi-bilang-ada-5-isu-kritis-di-kancah-global",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTExMTgyNy00LTM2OTI4My9nYXdhdC1iaS1iaWxhbmctYWRhLTUtaXN1LWtyaXRpcy1kaS1rYW5jYWgtZ2xvYmFs",
-        "description": " Bank Indonesia (BI) mengungkapkan lima tantangan besar di tataran ekonomi global"
     }
 ]

@@ -1,5 +1,40 @@
 [
     {
+        "title": "Putri Tak Ditahan, Pengacara Brigadir J Singgung Kasus Vanessa Angel",
+        "link": "https://www.cnnindonesia.com/nasional/20220905130935-12-843395/putri-tak-ditahan-pengacara-brigadir-j-singgung-kasus-vanessa-angel",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTEzMDkzNS0xMi04NDMzOTUvcHV0cmktdGFrLWRpdGFoYW4tcGVuZ2FjYXJhLWJyaWdhZGlyLWotc2luZ2d1bmcta2FzdXMtdmFuZXNzYS1hbmdlbA==",
+        "description": " Pengacara dari keluarga Brigadir Nofriansyah Yosua Hutabarat atau Brigadir J mendesak Mabes Polri untuk segera menahan Putri Candrawathi."
+    },
+    {
+        "title": "Komisi I DPR Sentil KSAD Dudung Tak Harmonis dengan Panglima TNI",
+        "link": "https://www.cnnindonesia.com/nasional/20220905125606-32-843389/komisi-i-dpr-sentil-ksad-dudung-tak-harmonis-dengan-panglima-tni",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTEyNTYwNi0zMi04NDMzODkva29taXNpLWktZHByLXNlbnRpbC1rc2FkLWR1ZHVuZy10YWstaGFybW9uaXMtZGVuZ2FuLXBhbmdsaW1hLXRuaQ==",
+        "description": " Sejumlah anggota Komisi I DPR mempertanyakan KSAD Jenderal Dudung Abdurachman yang kerap tak hadir dalam rapat bersama dan memilih melakukan kunjungan kerja."
+    },
+    {
+        "title": "Santri Gontor Diduga Tewas Dianiaya, Ibu Ngadu ke Hotman Paris",
+        "link": "https://www.cnnindonesia.com/nasional/20220905130540-20-843391/santri-gontor-diduga-tewas-dianiaya-ibu-ngadu-ke-hotman-paris",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTEzMDU0MC0yMC04NDMzOTEvc2FudHJpLWdvbnRvci1kaWR1Z2EtdGV3YXMtZGlhbmlheWEtaWJ1LW5nYWR1LWtlLWhvdG1hbi1wYXJpcw==",
+        "description": " Ibu dari santri Pesantren Gontor 1 Ponorogo, Jawa Timur mengadu ke Hotman Paris usai anaknya meninggal dunia tanpa diberi tahu penyebab pastinya."
+    },
+    {
+        "title": "Polisi Lampung Tengah Tewas Ditembak Kanit Provos Way Pengubuan",
+        "link": "https://www.cnnindonesia.com/nasional/20220905124948-12-843384/polisi-lampung-tengah-tewas-ditembak-kanit-provos-way-pengubuan",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTEyNDk0OC0xMi04NDMzODQvcG9saXNpLWxhbXB1bmctdGVuZ2FoLXRld2FzLWRpdGVtYmFrLWthbml0LXByb3Zvcy13YXktcGVuZ3VidWFu",
+        "description": " Aipda Ahmad Karnain, personel Polsek Way Pengubuan, Polres Lampung Tengah tewas ditembak oleh rekannya sesama polisi di rumahnya."
+    },
+    {
+        "title": "Kronologi Kecelakaan Toyota HiAce Tabrak Truk di Tol Semarang-Batang",
+        "link": "https://www.cnnindonesia.com/nasional/20220905122553-20-843378/kronologi-kecelakaan-toyota-hiace-tabrak-truk-di-tol-semarang-batang",
+        "image": "static/images/cnn_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTEyMjU1My0yMC04NDMzNzgva3Jvbm9sb2dpLWtlY2VsYWthYW4tdG95b3RhLWhpYWNlLXRhYnJhay10cnVrLWRpLXRvbC1zZW1hcmFuZy1iYXRhbmc=",
+        "description": " Pengemudi kendaraan HiAce mengantuk kemudian kendaraan oleng ke lajur 1 dan menabrak bagian belakang truk trailer di KM 375 Tol Semarang-Batang."
+    },
+    {
         "title": "Tersangka Korupsi Surya Darmadi Segera Disidang di Pengadilan Tipikor",
         "link": "https://www.cnnindonesia.com/nasional/20220905074232-12-843221/tersangka-korupsi-surya-darmadi-segera-disidang-di-pengadilan-tipikor",
         "image": "static/images/cnn_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnn_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTEyMDg0NS0xMi04NDMzNjgvc3VydmVpLWxpdGJhbmcta29tcGFzLW1heW9yaXRhcy1hbmdnYXAta2FzdXMteW9zdWEtdGFrLXRyYW5zcGFyYW4=",
         "description": " Survei Litbang Kompas mencatat mayoritas publik menilai pengungkapan kasus kematian Brigadir J tidak dilakukan secara transparan kepada publik."
-    },
-    {
-        "title": "Mejelis Rektor PTN Tolak Penerimaan Mahasiswa Jalur Mandiri Dihapus",
-        "link": "https://www.cnnindonesia.com/nasional/20220905095136-20-843277/mejelis-rektor-ptn-tolak-penerimaan-mahasiswa-jalur-mandiri-dihapus",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTA5NTEzNi0yMC04NDMyNzcvbWVqZWxpcy1yZWt0b3ItcHRuLXRvbGFrLXBlbmVyaW1hYW4tbWFoYXNpc3dhLWphbHVyLW1hbmRpcmktZGloYXB1cw==",
-        "description": " Ketua MRPTNI Jamal Wiwoho\u00c2\u00a0mengklaim penerimaan mahasiswa baru melalui jalur mandiri yang telah berlangsung selama lebih dari 10 tahun berjalan baik."
-    },
-    {
-        "title": "Ketua Komnas HAM Jelaskan Video Viral Sebut Sambo Bos Mafia",
-        "link": "https://www.cnnindonesia.com/nasional/20220905113941-12-843347/ketua-komnas-ham-jelaskan-video-viral-sebut-sambo-bos-mafia",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTExMzk0MS0xMi04NDMzNDcva2V0dWEta29tbmFzLWhhbS1qZWxhc2thbi12aWRlby12aXJhbC1zZWJ1dC1zYW1iby1ib3MtbWFmaWE=",
-        "description": " Ketua Komnas HAM Taufan Damanik menjelaskan maksud menyebut Ferdy Sambo seperti bos mafia lantaran mampu mengendalikan puluhan polisi dalam kasus Brigadir J."
-    },
-    {
-        "title": "Jadi Plt Ketum PPP, Mardiono Tunggu Arahan Jokowi Mundur Wantimpres",
-        "link": "https://www.cnnindonesia.com/nasional/20220905115101-32-843355/jadi-plt-ketum-ppp-mardiono-tunggu-arahan-jokowi-mundur-wantimpres",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTExNTEwMS0zMi04NDMzNTUvamFkaS1wbHQta2V0dW0tcHBwLW1hcmRpb25vLXR1bmdndS1hcmFoYW4tam9rb3dpLW11bmR1ci13YW50aW1wcmVz",
-        "description": " Muhammad Mardino dipilih jadi Plt Ketum PPP. Sementara saat ini ia juga menjabat sebagai anggota Wantimpres."
-    },
-    {
-        "title": "Pengurus PPP: Majelis Pertimbangan Tak Punya Kewenangan Copot Suharso",
-        "link": "https://www.cnnindonesia.com/nasional/20220901132517-32-841906/pengurus-ppp-majelis-pertimbangan-tak-punya-kewenangan-copot-suharso",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwMTEzMjUxNy0zMi04NDE5MDYvcGVuZ3VydXMtcHBwLW1hamVsaXMtcGVydGltYmFuZ2FuLXRhay1wdW55YS1rZXdlbmFuZ2FuLWNvcG90LXN1aGFyc28=",
-        "description": " Berdasarkan AD/ART PPP, Majelis Pertimbangan tak punya kewenangan untuk memberhentikan Suharso Monoarfa dari jabatan ketua umum."
-    },
-    {
-        "title": "Penampakan TKP Kecelakaan Toyota Hiace dan Truk di Tol Semarang-Batang",
-        "link": "https://www.cnnindonesia.com/nasional/20220905113551-20-843349/penampakan-tkp-kecelakaan-toyota-hiace-dan-truk-di-tol-semarang-batang",
-        "image": "static/images/cnn_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9uYXNpb25hbC8yMDIyMDkwNTExMzU1MS0yMC04NDMzNDkvcGVuYW1wYWthbi10a3Ata2VjZWxha2Fhbi10b3lvdGEtaGlhY2UtZGFuLXRydWstZGktdG9sLXNlbWFyYW5nLWJhdGFuZw==",
-        "description": " Polisi masih berada di TKP kecelakaan. Bagian depan minibus hancur akibat menabrak truk trailer."
     }
 ]
