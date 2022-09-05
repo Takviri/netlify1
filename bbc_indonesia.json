@@ -1,5 +1,12 @@
 [
     {
+        "title": "BLT BBM: Karut marut data penerima bansos, orang yang sudah meninggal masih tercantum sebagai penerima bansos",
+        "link": "https://www.bbc.co.uk/indonesia/articles/c031zll2zn7o",
+        "image": "static/images/bbc_indonesia.png",
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jMDMxemxsMnpuN28=",
+        "description": "\"Kami yang paling depan, yang paling tahu kondisi warga, ketika kami menyampaikan kondisi data yang terbaru, ternyata berubah satu dua, tetapi kadang-kadang ada yang tidak berubah. Data warga yang sudah meninggal, bisa muncul lagi,\" kata Purwanto, seorang Ketua RW di Sleman."
+    },
+    {
         "title": "Pengungsi Afghanistan: 'Kalau saya bertahan, saya pasti sudah mati'",
         "link": "https://www.bbc.com/indonesia/dunia-62721758",
         "image": "static/images/bbc_indonesia.png",
@@ -42,13 +49,6 @@
         "description": "Bolehkah membekukan daging ayam yang sudah dicairkan? Apa cara terbaik untuk mencairkan daging ayam beku? Temukan jawaban berbagai pertanyaan tentang daging hewan favorit dunia dalam artikel ini."
     },
     {
-        "title": "Harga BBM subsidi resmi naik, meski pemerintah sudah diperingatkan tentang dampak sosialnya",
-        "link": "https://www.bbc.com/indonesia/indonesia-62728584",
-        "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYyNzI4NTg0",
-        "description": "Presiden Jokowi mengatakan sebagian dari subsidi BBM akan dialihkan ke berbagai bentuk bantuan sosial, meski sejumlah pengamat telah memperingatkan langkah tersebut tidak mampu meredam dampak negatif kenaikan BBM."
-    },
-    {
         "title": "Aturan baru Israel wajibkan pendatang di Tepi Barat lapor bila jatuh cinta pada warga Palestina",
         "link": "https://www.bbc.co.uk/indonesia/articles/c51077d3klko",
         "image": "static/images/bbc_indonesia.png",
@@ -56,17 +56,17 @@
         "description": "Aturan terbaru bagi warga asing, termasuk melaporkan hubungan romantis dengan warga Palestina, menuai banyak kritik."
     },
     {
-        "title": "Adu cepat tiga negara untuk mengklaim pegunungan bawah laut di Kutub Utara",
-        "link": "https://www.bbc.co.uk/indonesia/articles/cgryjvnpz5zo",
+        "title": "Putri Candrawathi beda nasib dengan Baiq Nuril - Tetap dipenjara saat punya balita \u2018sangat-sangat tidak adil\u2019",
+        "link": "https://www.bbc.co.uk/indonesia/articles/c4n7x5l144xo",
         "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jZ3J5anZucHo1em8=",
-        "description": "Di bawah hamparan es beku Kutub Utara, terdapat deretan pegunungan yang menjadi objek tarik-menarik geopolitik tiga negara.\u00c2\u00a0Pemenangnya dapat mengubah peta dunia selamanya."
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL2luZG9uZXNpYS9hcnRpY2xlcy9jNG43eDVsMTQ0eG8=",
+        "description": "Berbeda dengan Putri Candrawathi, Baiq Nuril ditahan dan harus berpisah dengan anaknya yang berusia 2,5 tahun. Pengajuan penangguhan tahanannya ditolak polisi."
     },
     {
-        "title": "Kasus Andibachtiar \u2018hanya puncak gunung es\u2018 kekerasan di industri film Indonesia",
-        "link": "https://www.bbc.com/indonesia/majalah-62763315",
+        "title": "Harga BBM subsidi resmi naik, meski pemerintah sudah diperingatkan tentang dampak sosialnya",
+        "link": "https://www.bbc.com/indonesia/indonesia-62728584",
         "image": "static/images/bbc_indonesia.png",
-        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvbWFqYWxhaC02Mjc2MzMxNQ==",
-        "description": "Kasus dugaan kekerasan yang disebut-sebut dilakukan oleh Andibachtiar Yusuf ditengarai sebagai 'puncak gunung es' dari tindakan kekerasan di industri film Indonesia. Sanksi sosial yang diberikan setelah kasus ini viral menunjukkan tak adanya prosedur standar dalam menghadapi tindak kekerasan."
+        "uid": "aHR0cHM6Ly93d3cuYmJjLmNvbS9pbmRvbmVzaWEvaW5kb25lc2lhLTYyNzI4NTg0",
+        "description": "Presiden Jokowi mengatakan sebagian dari subsidi BBM akan dialihkan ke berbagai bentuk bantuan sosial, meski sejumlah pengamat telah memperingatkan langkah tersebut tidak mampu meredam dampak negatif kenaikan BBM."
     }
 ]
