@@ -1,5 +1,12 @@
 [
     {
+        "title": "Covid RI Tambah 2.340 Kasus Hari Ini, Ada 21 Kematian Baru",
+        "link": "https://www.cnbcindonesia.com/news/20220905183823-16-369485/covid-ri-tambah-2340-kasus-hari-ini-ada-21-kematian-baru",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE4MzgyMy0xNi0zNjk0ODUvY292aWQtcmktdGFtYmFoLTIzNDAta2FzdXMtaGFyaS1pbmktYWRhLTIxLWtlbWF0aWFuLWJhcnU=",
+        "description": " Satuan Tugas Penanganan Covid-19 melaporkan ada tambahan 2.340 kasus baru hari ini."
+    },
+    {
         "title": "Profil PM Baru Inggris Liz Truss: Perempuan, Eks Menteri Anak",
         "link": "https://www.cnbcindonesia.com/news/20220905204225-4-369511/profil-pm-baru-inggris-liz-truss-perempuan-eks-menteri-anak",
         "image": "static/images/cnbc_news.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE5NTIyNi04LTM2OTUwNi9tb21lbi1ha3NpLW1hc3NhLWRlbW8tYmJtLWplYm9sLWthd2F0LWJlcmR1cmk=",
         "description": " Ratusan mahasiswa yang melakukan aksi demonstrasi menolak kenaikan harga BBM mencoba memaksa masuk menuju area istana negara sore tadi (5/9/2022)."
-    },
-    {
-        "title": "Harga Pertamax Naik, Migrasi ke Pertalite Masih Akan Terjadi",
-        "link": "https://www.cnbcindonesia.com/news/20220905184331-4-369492/harga-pertamax-naik-migrasi-ke-pertalite-masih-akan-terjadi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE4NDMzMS00LTM2OTQ5Mi9oYXJnYS1wZXJ0YW1heC1uYWlrLW1pZ3Jhc2kta2UtcGVydGFsaXRlLW1hc2loLWFrYW4tdGVyamFkaQ==",
-        "description": " Perpindahan konsumen dari Pertamax ke Pertalite diperkirakan masih akan terjadi meski harga bensin Pertalite telah dinaikkan."
     }
 ]
