@@ -1,5 +1,19 @@
 [
     {
+        "title": "Kenaikan Harga BBM Diproyeksi Kerek Inflasi 1,9 Persen",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220905162340-532-843522/kenaikan-harga-bbm-diproyeksi-kerek-inflasi-19-persen",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA1MTYyMzQwLTUzMi04NDM1MjIva2VuYWlrYW4taGFyZ2EtYmJtLWRpcHJveWVrc2kta2VyZWstaW5mbGFzaS0xOS1wZXJzZW4=",
+        "description": " Kemenkeu memperkirakan kenaikan harga BBM berdampak 1,9 persen terhadap inflasi pada tahun ini, sehingga akhir 2022 mencapai 6,6-6,8 persen."
+    },
+    {
+        "title": "Awas, IHSG Rawan Terkoreksi Hari Ini",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220906055812-92-843747/awas-ihsg-rawan-terkoreksi-hari-ini",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA2MDU1ODEyLTkyLTg0Mzc0Ny9hd2FzLWloc2ctcmF3YW4tdGVya29yZWtzaS1oYXJpLWluaQ==",
+        "description": " Indeks Harga Saham Gabungan (IHSG) diprediksi melemah terbatas pada perdagangan hari ini, Selasa (6/9)."
+    },
+    {
         "title": "Inflasi Turki Tembus 80 Persen, Tertinggi dalam 24 Tahun Terakhir",
         "link": "https://www.cnnindonesia.com/ekonomi/20220905182618-532-843602/inflasi-turki-tembus-80-persen-tertinggi-dalam-24-tahun-terakhir",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA1MTkyNDI3LTg1LTg0MzY0OS9zZW1wYXQtZGlidXJ1LXNhYXQtcGVydGFsaXRlLW5haWstYmJtLW11cmFoLXZpdm8ta2luaS1kaWp1YWwtcnAxMDkwMA==",
         "description": " Harga BBM Revvo 89 di SPBU Vivo yang sempat diuber masyarakat usai Jokowi menaikkan pertalite dan solar akhir pekan lalu kini naik dari Rp8.900 jadi Rp10.900."
-    },
-    {
-        "title": "Bunga Tabungan di Bank Kini Ada yang 0 Persen",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220905190312-78-843640/bunga-tabungan-di-bank-kini-ada-yang-0-persen",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA1MTkwMzEyLTc4LTg0MzY0MC9idW5nYS10YWJ1bmdhbi1kaS1iYW5rLWtpbmktYWRhLXlhbmctMC1wZXJzZW4=",
-        "description": " Beberapa bank menerapkan kebijakan bunga 0 persen alias tak berbunga atas tabungan nasabahnya. Mereka baru memberikan bunga ketika tabungan di atas Rp1 juta."
-    },
-    {
-        "title": "Kraft Heinz Gelar Webinar Sesi 2, Bagikan Tips Agar Bisnis Makin Maju",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220905191121-97-843645/kraft-heinz-gelar-webinar-sesi-2-bagikan-tips-agar-bisnis-makin-maju",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA1MTkxMTIxLTk3LTg0MzY0NS9rcmFmdC1oZWluei1nZWxhci13ZWJpbmFyLXNlc2ktMi1iYWdpa2FuLXRpcHMtYWdhci1iaXNuaXMtbWFraW4tbWFqdQ==",
-        "description": " Webinar 'Kembangkan Bisnis Kulinermu' Vol. 2 yang digelar Kraft Heinz Food Service Institute 15 September akan membagikan tips-tips untuk mengembangkan bisnis."
     }
 ]
