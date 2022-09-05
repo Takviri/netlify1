@@ -1,5 +1,47 @@
 [
     {
+        "title": "Ketua MPR RI Ajak Mahasiswa Waspada Hoaks\u00a0Jelang Tahun Politik",
+        "link": "https://mediaindonesia.com/politik-dan-hukum/520145/ketua-mpr-ri-ajak-mahasiswa-waspada-hoaksjelang-tahun-politik",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vcG9saXRpay1kYW4taHVrdW0vNTIwMTQ1L2tldHVhLW1wci1yaS1hamFrLW1haGFzaXN3YS13YXNwYWRhLWhvYWtzamVsYW5nLXRhaHVuLXBvbGl0aWs=",
+        "description": "Mahasiswa sebagai generasi muda harus sadar betul dan mencermati perkembangan politik yang sangat dinamis."
+    },
+    {
+        "title": "Indonesia-Filipina Sepakat Tingkatkan Kerja Sama Perdagangan",
+        "link": "https://mediaindonesia.com/ekonomi/520144/indonesia-filipina-sepakat-tingkatkan-kerja-sama-perdagangan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vZWtvbm9taS81MjAxNDQvaW5kb25lc2lhLWZpbGlwaW5hLXNlcGFrYXQtdGluZ2thdGthbi1rZXJqYS1zYW1hLXBlcmRhZ2FuZ2Fu",
+        "description": "Dalam pertemuan bilateral di Istana Kepresidenan Bogor, Jokowi menyatakan keinginan untuk meningkatkan volume perdagangan dengan Filipina secara signifikan."
+    },
+    {
+        "title": "Kenaikan Harga BBM akan Berdampak Pada Ongkos Produksi Pelaku UMKM",
+        "link": "https://mediaindonesia.com/ekonomi/520143/kenaikan-harga-bbm-akan-berdampak-pada-ongkos-produksi-pelaku-umkm",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vZWtvbm9taS81MjAxNDMva2VuYWlrYW4taGFyZ2EtYmJtLWFrYW4tYmVyZGFtcGFrLXBhZGEtb25na29zLXByb2R1a3NpLXBlbGFrdS11bWtt",
+        "description": "Ketua Umum Assosiasi Industri dan UMKM Indonesia (Akumandiri) Hermawati Setyorinny mengatakan bahwa kenaikan harga BBM akan sangat berdampak pada ongkos produksi para pelaku UMKM."
+    },
+    {
+        "title": "SAS Institute: Pengaturan Subsidi BBM Harus Prioritaskan Keadilan Bagi Masyarakat",
+        "link": "https://mediaindonesia.com/ekonomi/520142/sas-institute-pengaturan-subsidi-bbm-harus-prioritaskan-keadilan-bagi-masyarakat",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vZWtvbm9taS81MjAxNDIvc2FzLWluc3RpdHV0ZS1wZW5nYXR1cmFuLXN1YnNpZGktYmJtLWhhcnVzLXByaW9yaXRhc2thbi1rZWFkaWxhbi1iYWdpLW1hc3lhcmFrYXQ=",
+        "description": "Kedepan, selain mengatur subsidi agar tepat sasaran, pemerintah harus memperhatikan keadilan dan kesejahteraan masyarakat."
+    },
+    {
+        "title": "Indonesia dan Filipina Sepakat Perkuat Keamanan Perbatasan",
+        "link": "https://mediaindonesia.com/politik-dan-hukum/520141/indonesia-dan-filipina-sepakat-perkuat-keamanan-perbatasan",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vcG9saXRpay1kYW4taHVrdW0vNTIwMTQxL2luZG9uZXNpYS1kYW4tZmlsaXBpbmEtc2VwYWthdC1wZXJrdWF0LWtlYW1hbmFuLXBlcmJhdGFzYW4=",
+        "description": "Indonesia dan Filipina sepakat untuk memperkuat kerja sama di wilayah perbatasan."
+    },
+    {
+        "title": "Damri akan Sesuaikan Tarif Bus AKAP",
+        "link": "https://mediaindonesia.com/nusantara/520140/damri-akan-sesuaikan-tarif-bus-akap",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vbnVzYW50YXJhLzUyMDE0MC9kYW1yaS1ha2FuLXNlc3VhaWthbi10YXJpZi1idXMtYWthcA==",
+        "description": "Damri Cabang Lampung akan menyesuaikan tarif bus antarkota antarprovinsi (AKAP) menyusul&nbsp; kenaikan harga bahan bakar minyak (BBM)."
+    },
+    {
         "title": "Inggris Tunjuk Perdana Menteri Baru setelah Pemungutan Suara",
         "link": "https://mediaindonesia.com/internasional/520138/inggris-tunjuk-perdana-menteri-baru-setelah-pemungutan-suara",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vZWtvbm9taS81MjAxMzUvc2FuZGlhZ2EtdW5vLXN1a3Nlcy1iZXJpLXdhZGFoLWtvbGFib3Jhc2ktYmFnaS1wZWxha3UtdW1rbS1la3JhZg==",
         "description": "Menparekraf Sandiaga Uno mendorong semua pelaku ekonomi kreatif UMKM tidak takut bersaing dengan produk luar negeri dan tidak gentar saat dibanding-bandingkan.."
-    },
-    {
-        "title": "Duet Prabowo-Erick Teratas di Survei LSI",
-        "link": "https://mediaindonesia.com/politik-dan-hukum/520133/duet-prabowo-erick-teratas-di-survei-lsi",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vcG9saXRpay1kYW4taHVrdW0vNTIwMTMzL2R1ZXQtcHJhYm93by1lcmljay10ZXJhdGFzLWRpLXN1cnZlaS1sc2k=",
-        "description": "HASIL survei dari Lembaga Survei Indonesia (LSI): Menhan Prabowo Subianto dan Menteri BUMN Erick Thohir sebagai paslon presiden dan cawapres di Pemilu 2024 dengan elektabililitas terkuat"
-    },
-    {
-        "title": "Remaja Asal Indonesia Raih Penghargaan Internasional Diana Award 2022",
-        "link": "https://mediaindonesia.com/humaniora/520134/remaja-asal-indonesia-raih-penghargaan-internasional-diana-award-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaHVtYW5pb3JhLzUyMDEzNC9yZW1hamEtYXNhbC1pbmRvbmVzaWEtcmFpaC1wZW5naGFyZ2Fhbi1pbnRlcm5hc2lvbmFsLWRpYW5hLWF3YXJkLTIwMjI=",
-        "description": "Hugo Nathanael Yuwono menjadi salah satu penerima Diana Award 2022."
-    },
-    {
-        "title": "Satu Jemaah Haji Sakit Diizinkan Pulang ke Tanah Air",
-        "link": "https://mediaindonesia.com/humaniora/520132/satu-jemaah-haji-sakit-diizinkan-pulang-ke-tanah-air",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaHVtYW5pb3JhLzUyMDEzMi9zYXR1LWplbWFhaC1oYWppLXNha2l0LWRpaXppbmthbi1wdWxhbmcta2UtdGFuYWgtYWly",
-        "description": "Jemaah atas nama, Suherno, diterbangkan dari Jeddah dengan Saudia Airlines SV 816 pada 4 September 2022, pukul 19.00 Waktu Arab Saudi."
-    },
-    {
-        "title": "Jokowi Terima Kunjungan Kenegaraan Perdana Presiden Filipina",
-        "link": "https://mediaindonesia.com/politik-dan-hukum/520131/jokowi-terima-kunjungan-kenegaraan-perdana-presiden-filipina",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vcG9saXRpay1kYW4taHVrdW0vNTIwMTMxL2pva293aS10ZXJpbWEta3VuanVuZ2FuLWtlbmVnYXJhYW4tcGVyZGFuYS1wcmVzaWRlbi1maWxpcGluYQ==",
-        "description": "Presiden Joko Widodo (Jokowi) menerima kunjungan resmi Presiden Filipina Ferdinand Romualdez Marcos Jr di Istana Kepresidenan Bogor, Jawa Barat, Senin (5/9)."
-    },
-    {
-        "title": "MMA Global Indonesia Hadirkan Modern Marketing Talk 2022",
-        "link": "https://mediaindonesia.com/ekonomi/520130/mma-global-indonesia-hadirkan-modern-marketing-talk-2022",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vZWtvbm9taS81MjAxMzAvbW1hLWdsb2JhbC1pbmRvbmVzaWEtaGFkaXJrYW4tbW9kZXJuLW1hcmtldGluZy10YWxrLTIwMjI=",
-        "description": "MMA Global Indonesia, asosiasi perdagangan pemasaran terkemuka di dunia&nbsp;menyelenggarakan acara perdananya, The Modern Marketing Talk 2022."
-    },
-    {
-        "title": "Apresiasi di Hari Pelanggan Nasional 2022, Cordela Hotels Berbagi Hadiah Kejutan",
-        "link": "https://mediaindonesia.com/humaniora/520129/apresiasi-di-hari-pelanggan-nasional-2022-cordela-hotels-berbagi-hadiah-kejutan",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaHVtYW5pb3JhLzUyMDEyOS9hcHJlc2lhc2ktZGktaGFyaS1wZWxhbmdnYW4tbmFzaW9uYWwtMjAyMi1jb3JkZWxhLWhvdGVscy1iZXJiYWdpLWhhZGlhaC1rZWp1dGFu",
-        "description": "Grand Cordela Hotel, Cordela Hotel, Cordela Inn, Cordex Hotel, serta Alfa Resort, secara serempak memberikan hadiah bagi para tamu beruntung yang check-in tepat pada Hari Pelanggan Nasional."
     }
 ]

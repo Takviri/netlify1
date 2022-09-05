@@ -1,5 +1,12 @@
 [
     {
+        "title": "GOTO, Go To The Moon",
+        "link": "https://www.cnbcindonesia.com/market/20220905115729-19-369300/goto-go-to-the-moon",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTE1NzI5LTE5LTM2OTMwMC9nb3RvLWdvLXRvLXRoZS1tb29u",
+        "description": " belum sampai sebulan GOTO melantai di bursa, pada Mei 2022 saham GOTO resmi masuk konstituen indeks LQ45"
+    },
+    {
         "title": "Pantang Tumbang Meski Pertalite Naik, IHSG Lanjut Menguat?",
         "link": "https://www.cnbcindonesia.com/market/20220905130730-17-369336/pantang-tumbang-meski-pertalite-naik-ihsg-lanjut-menguat",
         "image": "static/images/cnbc_market.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTE1OTIwLTE3LTM2OTMwMi9yYXlha2FuLWh1dC1rZS0xMjctYnJpLWdlbGFyLXNheWVtYmFyYS1kZXNhaW4tbG9nbw==",
         "description": " PT Bank Rakyat Indonesia (Persero) Tbk (BBRI) mengajak masyarakat untuk turut memeriahkan Hari Ulang Tahun (HUT) BRI ke-127."
-    },
-    {
-        "title": "Bukan Cuma Pertalite yang Naik, IHSG Sesi I Juga Lompat 0,58%",
-        "link": "https://www.cnbcindonesia.com/market/20220905113353-17-369290/bukan-cuma-pertalite-yang-naik-ihsg-sesi-i-juga-lompat-058",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTEzMzUzLTE3LTM2OTI5MC9idWthbi1jdW1hLXBlcnRhbGl0ZS15YW5nLW5haWstaWhzZy1zZXNpLWktanVnYS1sb21wYXQtMDU4",
-        "description": " Indeks Harga Saham Gabungan (IHSG) berakhir menguat 0,58% ke 7.218,56 pada penutupan perdagangan sesi I Senin (5/9/2022)."
     }
 ]

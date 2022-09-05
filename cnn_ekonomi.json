@@ -1,5 +1,19 @@
 [
     {
+        "title": "PT Pos Salurkan BLT BBM ke 873 Ribu Warga di Sulawesi",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220905123410-532-843377/pt-pos-salurkan-blt-bbm-ke-873-ribu-warga-di-sulawesi",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA1MTIzNDEwLTUzMi04NDMzNzcvcHQtcG9zLXNhbHVya2FuLWJsdC1iYm0ta2UtODczLXJpYnUtd2FyZ2EtZGktc3VsYXdlc2k=",
+        "description": " PT Pos Indonesia\u00c2\u00a0sudah menyalurkan bantuan langsung tunai (BLT) bahan bakar Minyak (BBM) ke 873.466 keluarga."
+    },
+    {
+        "title": "Dampak Kenaikan Harga BBM pada Jasa Logistik: Naik Juga",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220905130603-92-843390/dampak-kenaikan-harga-bbm-pada-jasa-logistik-naik-juga",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA1MTMwNjAzLTkyLTg0MzM5MC9kYW1wYWsta2VuYWlrYW4taGFyZ2EtYmJtLXBhZGEtamFzYS1sb2dpc3Rpay1uYWlrLWp1Z2E=",
+        "description": " Asosiasi Logistik memastikan biaya jasa logistik akan ikut naik seiring dengan penyesuian harga BBM jenis pertalite, solar subsidi dan pertamax."
+    },
+    {
         "title": "Blue Bird Bakal Naikkan Tarif Argo Imbas Kenaikan Harga BBM",
         "link": "https://www.cnnindonesia.com/ekonomi/20220905124647-92-843381/blue-bird-bakal-naikkan-tarif-argo-imbas-kenaikan-harga-bbm",
         "image": "static/images/cnn_ekonomi.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA1MTA1ODI3LTUzMi04NDMzMjcvYWxhc2FuLXN1YnNpZGktZW5lcmdpLWJlbmdrYWstcnA2NTAtdC1kYXJpLXJwNTAyLXQtdXNhaS1oYXJnYS1iYm0tbmFpaw==",
         "description": " Subsidi energi akan tetap bengkak dari Rp502 triliun menjadi Rp650 triliun meski pemerintah sudah menaikkan harga BBM pertalite, solar, dan pertamax."
-    },
-    {
-        "title": "BBM Ron 95 di Malaysia Lebih Murah dari Pertamax Ron 92",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220905104010-85-843309/bbm-ron-95-di-malaysia-lebih-murah-dari-pertamax-ron-92",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA1MTA0MDEwLTg1LTg0MzMwOS9iYm0tcm9uLTk1LWRpLW1hbGF5c2lhLWxlYmloLW11cmFoLWRhcmktcGVydGFtYXgtcm9uLTky",
-        "description": " Harga BBM Ron 95 di Malaysia dijual lebih murah dari pertamax Ron 92 yang dijual Pertamina, yakni sekitar Rp6.814 per liter."
-    },
-    {
-        "title": "Harga Kripto Menghijau, Tapi Bitcoin Masih di Level US$19 Ribuan",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220905093003-92-843258/harga-kripto-menghijau-tapi-bitcoin-masih-di-level-us-19-ribuan",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA1MDkzMDAzLTkyLTg0MzI1OC9oYXJnYS1rcmlwdG8tbWVuZ2hpamF1LXRhcGktYml0Y29pbi1tYXNpaC1kaS1sZXZlbC11cy0xOS1yaWJ1YW4=",
-        "description": " Harga mayoritas kripto menghijau dalam 24 jam terakhir. Namun, bitcoin masih di bawah level US$20 ribu per keping."
     }
 ]

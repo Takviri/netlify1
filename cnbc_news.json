@@ -1,5 +1,40 @@
 [
     {
+        "title": "Terungkap! BBM Udah Naik, Ini Sebab Ongkos Bus Belum Terbang",
+        "link": "https://www.cnbcindonesia.com/news/20220905131242-4-369338/terungkap-bbm-udah-naik-ini-sebab-ongkos-bus-belum-terbang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTEzMTI0Mi00LTM2OTMzOC90ZXJ1bmdrYXAtYmJtLXVkYWgtbmFpay1pbmktc2ViYWItb25na29zLWJ1cy1iZWx1bS10ZXJiYW5n",
+        "description": " Pascakenaikan harga BBM, pengusaha angkutan darat bersiap mengambil ancang-ancang menaikkan tarif tarif jasa angkutan."
+    },
+    {
+        "title": "Jokowi Naikkan Harga BBM, Deretan Sembako Ini Ikut Terbang",
+        "link": "https://www.cnbcindonesia.com/news/20220905132222-4-369340/jokowi-naikkan-harga-bbm-deretan-sembako-ini-ikut-terbang",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTEzMjIyMi00LTM2OTM0MC9qb2tvd2ktbmFpa2thbi1oYXJnYS1iYm0tZGVyZXRhbi1zZW1iYWtvLWluaS1pa3V0LXRlcmJhbmc=",
+        "description": " Pemerintah resmi menaikkan harga bahan bakar minyak (BBM) mulai Sabtu (3/9/2022). Pada saat bersamaan harga sejumlah bahan pangan juga naik."
+    },
+    {
+        "title": "RI Tadinya Aman dari Resesi, Setelah BBM Naik Jadi Gimana?",
+        "link": "https://www.cnbcindonesia.com/news/20220905130909-4-369334/ri-tadinya-aman-dari-resesi-setelah-bbm-naik-jadi-gimana",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTEzMDkwOS00LTM2OTMzNC9yaS10YWRpbnlhLWFtYW4tZGFyaS1yZXNlc2ktc2V0ZWxhaC1iYm0tbmFpay1qYWRpLWdpbWFuYQ==",
+        "description": " Kebijakan menahan harga bahan bakar minyak (BBM) lewat tambahan subsidi tadinya menempatkan Indonesia pada kategori yang cukup aman dari risiko resesi."
+    },
+    {
+        "title": "Gempa Bumi Magnitudo 6,6 Guncang Wilayah Sichuan di China",
+        "link": "https://www.cnbcindonesia.com/news/20220905132907-4-369345/gempa-bumi-magnitudo-66-guncang-wilayah-sichuan-di-china",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTEzMjkwNy00LTM2OTM0NS9nZW1wYS1idW1pLW1hZ25pdHVkby02Ni1ndW5jYW5nLXdpbGF5YWgtc2ljaHVhbi1kaS1jaGluYQ==",
+        "description": " Gempa dengan magnitudo 6,6 melanda wilayah barat daya China pada Senin (5/9/2022)."
+    },
+    {
+        "title": "BBM Naik, BI Proyeksi Inflasi Jawa Barat Bisa Naik Segini",
+        "link": "https://www.cnbcindonesia.com/news/20220905131124-8-369335/bbm-naik-bi-proyeksi-inflasi-jawa-barat-bisa-naik-segini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTEzMTEyNC04LTM2OTMzNS9iYm0tbmFpay1iaS1wcm95ZWtzaS1pbmZsYXNpLWphd2EtYmFyYXQtYmlzYS1uYWlrLXNlZ2luaQ==",
+        "description": " Efek BBM Naik, BI Proyeksi Inflasi Jawa Barat Bisa Naik Segini"
+    },
+    {
         "title": "Banyak Negara Bersitegang, G20 Sempat Terancam Bubar",
         "link": "https://www.cnbcindonesia.com/news/20220905112757-4-369320/banyak-negara-bersitegang-g20-sempat-terancam-bubar",
         "image": "static/images/cnbc_news.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTEyNTgwMS00LTM2OTMzMS9oYXJnYS1iYm0tbmFpay1rZW1lbmtldS1yYW1hbC1pbmZsYXNpLTIwMjItdGVtYnVzLTY2LTY4",
         "description": " Kementerian Keuangan (Kemenkeu) memperkirakan inflasi pada akhir tahun 2022 akan mencapai 6,6-6,8%."
-    },
-    {
-        "title": "BBM Naik, BI Puji Langkah Pemerintah",
-        "link": "https://www.cnbcindonesia.com/news/20220905130126-4-369333/bbm-naik-bi-puji-langkah-pemerintah",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTEzMDEyNi00LTM2OTMzMy9iYm0tbmFpay1iaS1wdWppLWxhbmdrYWgtcGVtZXJpbnRhaA==",
-        "description": " BI menilai langkah pemerintah untuk menyesuaikan subsidi ke arah yang lebih sehat sudah optimal."
-    },
-    {
-        "title": "Heboh! Pesawat \"Hantu\" Jatuh Usai Gentayangan di Eropa",
-        "link": "https://www.cnbcindonesia.com/news/20220905123524-4-369326/heboh-pesawat-hantu-jatuh-usai-gentayangan-di-eropa",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTEyMzUyNC00LTM2OTMyNi9oZWJvaC1wZXNhd2F0LWhhbnR1LWphdHVoLXVzYWktZ2VudGF5YW5nYW4tZGktZXJvcGE=",
-        "description": " Sebuah pesawat \"hantu\" jatuh secara misterius di lepas pantai Latvia, Minggu (4/9/2022) waktu setempat"
-    },
-    {
-        "title": "Harga BBM Naik Saat Harga Minyak Turun, Anggota DPR Shock!",
-        "link": "https://www.cnbcindonesia.com/news/20220905114126-4-369294/harga-bbm-naik-saat-harga-minyak-turun-anggota-dpr-shock",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTExNDEyNi00LTM2OTI5NC9oYXJnYS1iYm0tbmFpay1zYWF0LWhhcmdhLW1pbnlhay10dXJ1bi1hbmdnb3RhLWRwci1zaG9jaw==",
-        "description": " Anggota Komisi VII DPR RI dari Fraksi PKS Mulyanto mengaku terkejut dengan keputusan pemerintah menaikkan harga BBM."
-    },
-    {
-        "title": "Kereta 'Peluru' Cepat Masuk RI, Ini Perkembangan Terbarunya",
-        "link": "https://www.cnbcindonesia.com/news/20220905121939-4-369319/kereta-peluru-cepat-masuk-ri-ini-perkembangan-terbarunya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTEyMTkzOS00LTM2OTMxOS9rZXJldGEtcGVsdXJ1LWNlcGF0LW1hc3VrLXJpLWluaS1wZXJrZW1iYW5nYW4tdGVyYmFydW55YQ==",
-        "description": " Dua rangkaian kereta peluru atau kereta cepat Jakarta Bandung telah tiba dari China ke Pelabuhan Tanjung Priok, Jakarta Utara, akhir pekan lalu."
-    },
-    {
-        "title": "Penikaman Massal di Kanada Tewaskan 10 Orang, Ini Pelakunya",
-        "link": "https://www.cnbcindonesia.com/news/20220905105403-4-369270/penikaman-massal-di-kanada-tewaskan-10-orang-ini-pelakunya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTEwNTQwMy00LTM2OTI3MC9wZW5pa2FtYW4tbWFzc2FsLWRpLWthbmFkYS10ZXdhc2thbi0xMC1vcmFuZy1pbmktcGVsYWt1bnlh",
-        "description": " Sebanyak 10 orang tewas dan 15 lainnya dirawat di rumah sakit akibat serangkaian serangan penikaman di provinsi Saskatchewan, Kanada."
     }
 ]
