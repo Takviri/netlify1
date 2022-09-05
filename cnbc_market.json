@@ -1,5 +1,40 @@
 [
     {
+        "title": "Rugi Ga Sih? Nabung di Bank, Kamu Cuma Dapat Bunga 0%",
+        "link": "https://www.cnbcindonesia.com/market/20220905110950-17-369280/rugi-ga-sih-nabung-di-bank-kamu-cuma-dapat-bunga-0",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTEwOTUwLTE3LTM2OTI4MC9ydWdpLWdhLXNpaC1uYWJ1bmctZGktYmFuay1rYW11LWN1bWEtZGFwYXQtYnVuZ2EtMA==",
+        "description": " Kini, bunga tabungan di bank sudah berada di level 0% atau tidak ada bunganya sama sekali."
+    },
+    {
+        "title": "3 Dampak Kenaikan BBM ke Pasar Keuangan RI",
+        "link": "https://www.cnbcindonesia.com/market/20220905102344-17-369260/3-dampak-kenaikan-bbm-ke-pasar-keuangan-ri",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTAyMzQ0LTE3LTM2OTI2MC8zLWRhbXBhay1rZW5haWthbi1iYm0ta2UtcGFzYXIta2V1YW5nYW4tcmk=",
+        "description": " Riset BRI Danareksa Sekuritas melakukan asesmen terhadap dampak dari kenaikan harga BBM subsidi ini"
+    },
+    {
+        "title": "Harga Pertalite Cs Naik, Kok SPBU Swasta Malah Kegirangan?",
+        "link": "https://www.cnbcindonesia.com/market/20220905101933-17-369256/harga-pertalite-cs-naik-kok-spbu-swasta-malah-kegirangan",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTAxOTMzLTE3LTM2OTI1Ni9oYXJnYS1wZXJ0YWxpdGUtY3MtbmFpay1rb2stc3BidS1zd2FzdGEtbWFsYWgta2VnaXJhbmdhbg==",
+        "description": " Situasi ini justru menjadi kabar baik bagi pengelola pom bensin swasta."
+    },
+    {
+        "title": "Tak \"Lempar Handuk\" Lawan Inflasi, Dolar Australia Ngegas?",
+        "link": "https://www.cnbcindonesia.com/market/20220905101642-17-369254/tak-lempar-handuk-lawan-inflasi-dolar-australia-ngegas",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTAxNjQyLTE3LTM2OTI1NC90YWstbGVtcGFyLWhhbmR1ay1sYXdhbi1pbmZsYXNpLWRvbGFyLWF1c3RyYWxpYS1uZ2VnYXM=",
+        "description": " Australia menjadi salah satu negara yang diperkirakan akan mengalami resesi akibat tingginya inflasi."
+    },
+    {
+        "title": "Gawat! Antam Ambil Langkah Hukum Luar Biasa, Ada Apa Ini?",
+        "link": "https://www.cnbcindonesia.com/market/20220905110054-17-369273/gawat-antam-ambil-langkah-hukum-luar-biasa-ada-apa-ini",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTEwMDU0LTE3LTM2OTI3My9nYXdhdC1hbnRhbS1hbWJpbC1sYW5na2FoLWh1a3VtLWx1YXItYmlhc2EtYWRhLWFwYS1pbmk=",
+        "description": " Upaya ini terungkap dalam laporan keuangan ANTM semester I-2022, Senin (5/9/2022)."
+    },
+    {
         "title": "Gerak Saham Otomotif Pasca BBM Naik, BIRD Ambles-GOTO Naik",
         "link": "https://www.cnbcindonesia.com/market/20220905104030-17-369264/gerak-saham-otomotif-pasca-bbm-naik-bird-ambles-goto-naik",
         "image": "static/images/cnbc_market.png",
@@ -33,40 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MDkxODI0LTE3LTM2OTIzOC9iaXRjb2luLWNzLWthc2loLWN1YW4tbGFnaS1hZGEtYXBhLW5paA==",
         "description": " Harga kripto utama cenderung menguat di tengah sikap investor yang menanti proses upgrade blockchain Ethereum yang rencananya akan dilakukan pekan depan."
-    },
-    {
-        "title": "Tolong Pak Jokowi, Timah Minta Ini Soal Penambang Ilegal",
-        "link": "https://www.cnbcindonesia.com/market/20220905084956-17-369226/tolong-pak-jokowi-timah-minta-ini-soal-penambang-ilegal",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MDg0OTU2LTE3LTM2OTIyNi90b2xvbmctcGFrLWpva293aS10aW1haC1taW50YS1pbmktc29hbC1wZW5hbWJhbmctaWxlZ2Fs",
-        "description": " Penambang Ilegal Bikin Produksi Menurun, PT Timah Harap Pemerintah Segera Tertibkan"
-    },
-    {
-        "title": "BBM Pertalite Naik, Rupiah Langsung Menguat!",
-        "link": "https://www.cnbcindonesia.com/market/20220905090642-17-369235/bbm-pertalite-naik-rupiah-langsung-menguat",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MDkwNjQyLTE3LTM2OTIzNS9iYm0tcGVydGFsaXRlLW5haWstcnVwaWFoLWxhbmdzdW5nLW1lbmd1YXQ=",
-        "description": " Kenaikan harga bahan bakar minyak (BBM) subsidi jenis Pertalite dan Solar akan menjadi salah satu penggerak utama di pasar finansial Indonesia."
-    },
-    {
-        "title": "Investor Waspada! Pertalite Naik, IHSG Turun... Separah Itu?",
-        "link": "https://www.cnbcindonesia.com/market/20220905085141-17-369229/investor-waspada-pertalite-naik-ihsg-turun-separah-itu",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MDg1MTQxLTE3LTM2OTIyOS9pbnZlc3Rvci13YXNwYWRhLXBlcnRhbGl0ZS1uYWlrLWloc2ctdHVydW4tc2VwYXJhaC1pdHU=",
-        "description": " IHSG dibuka merah pagi ini"
-    },
-    {
-        "title": "Awal Pekan Bursa Asia Dibuka Gak Kompak, Gimana Nasib IHSG?",
-        "link": "https://www.cnbcindonesia.com/market/20220905083524-17-369222/awal-pekan-bursa-asia-dibuka-gak-kompak-gimana-nasib-ihsg",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MDgzNTI0LTE3LTM2OTIyMi9hd2FsLXBla2FuLWJ1cnNhLWFzaWEtZGlidWthLWdhay1rb21wYWstZ2ltYW5hLW5hc2liLWloc2c=",
-        "description": " Bursa Asia-Pasifik dibuka cenderung bervariasi pada perdagangan Senin (5/9/2022), karena investor menanti rilis data aktivitas sektor jasa China"
-    },
-    {
-        "title": "Berkat Emas, Laba Antam Loncat 31,5% Jadi Rp 1,53 T",
-        "link": "https://www.cnbcindonesia.com/market/20220905064536-17-369196/berkat-emas-laba-antam-loncat-315-jadi-rp-153-t",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MDY0NTM2LTE3LTM2OTE5Ni9iZXJrYXQtZW1hcy1sYWJhLWFudGFtLWxvbmNhdC0zMTUtamFkaS1ycC0xNTMtdA==",
-        "description": " Antam membukukan laba bersih sebesar Rp 1,53 triliun pada semester I-2022, meningkat 31,5% secara tahunan"
     }
 ]

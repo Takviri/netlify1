@@ -1,5 +1,47 @@
 [
     {
+        "title": "Prabowo: Untuk Pertama Kalinya Taruna Indonesia Ikut Pendidikan di Tiga Akmil AS",
+        "link": "https://mediaindonesia.com/politik-dan-hukum/520117/prabowo-untuk-pertama-kalinya-taruna-indonesia-ikut-pendidikan-di-tiga-akmil-as",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vcG9saXRpay1kYW4taHVrdW0vNTIwMTE3L3ByYWJvd28tdW50dWstcGVydGFtYS1rYWxpbnlhLXRhcnVuYS1pbmRvbmVzaWEtaWt1dC1wZW5kaWRpa2FuLWRpLXRpZ2EtYWttaWwtYXM=",
+        "description": "Selama menjalani pendidikan, taruna mendapatkan beasiswa penuh dari pemerintah AS.\n\n&nbsp;"
+    },
+    {
+        "title": "Komisi Wasit Liga Inggris Akui Keputusan Kontroversi VAR",
+        "link": "https://mediaindonesia.com/sepak-bola/520116/komisi-wasit-liga-inggris-akui-keputusan-kontroversi-var",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vc2VwYWstYm9sYS81MjAxMTYva29taXNpLXdhc2l0LWxpZ2EtaW5nZ3Jpcy1ha3VpLWtlcHV0dXNhbi1rb250cm92ZXJzaS12YXI=",
+        "description": "&quot;PGMOL mengakui telah terjadi insiden dalam menganulir gol di pertandingan Chelsea v West Ham dan Newcastle v Crystal Palace.&quot;"
+    },
+    {
+        "title": "Keluarga Cemara The Series akan Tayang pada 24 September 2022",
+        "link": "https://mediaindonesia.com/hiburan/520115/keluarga-cemara-the-series-akan-tayang-pada-24-september-2022",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaGlidXJhbi81MjAxMTUva2VsdWFyZ2EtY2VtYXJhLXRoZS1zZXJpZXMtYWthbi10YXlhbmctcGFkYS0yNC1zZXB0ZW1iZXItMjAyMg==",
+        "description": "Keluarga Cemara The Series akan menceritakan keseruan perjalanan Euis dan teman-temannya, yang kini menginjak masa remaja di SMA."
+    },
+    {
+        "title": "Konflik dengan Ukraina, Rusia Raup US$97 Miliar dari Penjualan Migas",
+        "link": "https://mediaindonesia.com/ekonomi/520114/konflik-dengan-ukraina-rusia-raup-us97-miliar-dari-penjualan-migas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vZWtvbm9taS81MjAxMTQva29uZmxpay1kZW5nYW4tdWtyYWluYS1ydXNpYS1yYXVwLXVzOTctbWlsaWFyLWRhcmktcGVuanVhbGFuLW1pZ2Fz",
+        "description": "Dengan harga minyak naik, Rusia mendapat durian runtuh dengan menghasilkan lebih banyak uang dari penjualan minyak dan gas (migas)."
+    },
+    {
+        "title": "Orangtua Diingatkan untuk Ajak Anak Aktif Bergerak",
+        "link": "https://mediaindonesia.com/humaniora/520113/orangtua-diingatkan-untuk-ajak-anak-aktif-bergerak",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaHVtYW5pb3JhLzUyMDExMy9vcmFuZ3R1YS1kaWluZ2F0a2FuLXVudHVrLWFqYWstYW5hay1ha3RpZi1iZXJnZXJhaw==",
+        "description": "&quot;Dari aspek tumbuh kembang anak, anak harus dirangsang untuk beraktivitas fisik entah kejar-kejaran, main sepeda, bahkan nge gym dan latihan beban.&quot;"
+    },
+    {
+        "title": "Dampak Topan Hinnamnor di Tiongkok Meluas",
+        "link": "https://mediaindonesia.com/internasional/520112/dampak-topan-hinnamnor-di-tiongkok-meluas",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaW50ZXJuYXNpb25hbC81MjAxMTIvZGFtcGFrLXRvcGFuLWhpbm5hbW5vci1kaS10aW9uZ2tvay1tZWx1YXM=",
+        "description": "Otoritas Tiongkok&nbsp; sebelumnya memperkirakan Hinnamnor akan menerjang pesisir timur yang meliputi Provinsi Zhejiang, Provinsi Jiangsu, Kota Shanghai, dan Selat Taiwan."
+    },
+    {
         "title": "Omeli Timnya di GP Belanda, Hamilton Minta Maaf",
         "link": "https://mediaindonesia.com/olahraga/520111/omeli-timnya-di-gp-belanda-hamilton-minta-maaf",
         "image": "static/images/media_indonesia.png",
@@ -26,47 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vZWtvbm9taS81MjAxMDgvb2t0YW4tcmV2dm8tODktbGViaWgtcmVuZGFoLWRhcmktcGVydGFsaXRlLW1hc3lhcmFrYXQtZGlpbmdhdGthbnNlbGVrdGlm",
         "description": "Penggunaan Revvo 89. Meski lebih murah, BBM keluaran Vivo tersebut memiliki angka oktan lebih rendah dibandingkan Pertalite.&nbsp;"
-    },
-    {
-        "title": "Jepang Kembali Menggelar Festival Kembang Api di Sejumlah Wilayah",
-        "link": "https://mediaindonesia.com/internasional/520107/jepang-kembali-menggelar-festival-kembang-api-di-sejumlah-wilayah",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaW50ZXJuYXNpb25hbC81MjAxMDcvamVwYW5nLWtlbWJhbGktbWVuZ2dlbGFyLWZlc3RpdmFsLWtlbWJhbmctYXBpLWRpLXNlanVtbGFoLXdpbGF5YWg=",
-        "description": "Festival kembang api di sejumlah wilayah Jepang kembali digelar pascapandemi, salah satunya di Kota Chigasaki, Prefektur Kanagawa, pada Minggu (4/9) malam."
-    },
-    {
-        "title": "Komisi III DPR Minta Polri Tindak Tegas Oknum Polisi yang Langgar SOP",
-        "link": "https://mediaindonesia.com/politik-dan-hukum/520106/komisi-iii-dpr-minta-polri-tindak-tegas-oknum-polisi-yang-langgar-sop",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vcG9saXRpay1kYW4taHVrdW0vNTIwMTA2L2tvbWlzaS1paWktZHByLW1pbnRhLXBvbHJpLXRpbmRhay10ZWdhcy1va251bS1wb2xpc2kteWFuZy1sYW5nZ2FyLXNvcA==",
-        "description": "Komisi III DPR meminta Polri dalam hal ini Polda Kalsel melakukan tindakan tegas dan penegakan hukum jika terbukti melanggar."
-    },
-    {
-        "title": "Binotto dan Sainz Kecam Aksi Tim Ferrari di GP Belanda",
-        "link": "https://mediaindonesia.com/olahraga/520105/binotto-dan-sainz-kecam-aksi-tim-ferrari-di-gp-belanda",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vb2xhaHJhZ2EvNTIwMTA1L2Jpbm90dG8tZGFuLXNhaW56LWtlY2FtLWFrc2ktdGltLWZlcnJhcmktZGktZ3AtYmVsYW5kYQ==",
-        "description": "Aksi tim Ferrari di GP Belanda diwarnai kesalahan dan tidak keberuntungan yang mencakup pit stop yang kacau, pelepasan yang tidak aman di jalur pit, dan keputusan strategis yang berantakan."
-    },
-    {
-        "title": "Komisi IV DPR Dorong KKP Tangani Alih Fungsi Pelabuhan Tegal Sari",
-        "link": "https://mediaindonesia.com/ekonomi/520104/komisi-iv-dpr-dorong-kkp-tangani-alih-fungsi-pelabuhan-tegal-sari",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vZWtvbm9taS81MjAxMDQva29taXNpLWl2LWRwci1kb3Jvbmcta2twLXRhbmdhbmktYWxpaC1mdW5nc2ktcGVsYWJ1aGFuLXRlZ2FsLXNhcmk=",
-        "description": "Komisi IV DPR RI akan mendorong Kementerian Kelautan dan Perikanan (KKP) untuk segera turun tangan dalam mengambil alih fungsi di Pelabuhan Tegal Sari, di Kota Tegal, Jateng."
-    },
-    {
-        "title": "Kalahkan Carreno Busta, Khachanov Melaju ke Perempat Final AS Terbuka",
-        "link": "https://mediaindonesia.com/olahraga/520103/kalahkan-carreno-busta-khachanov-melaju-ke-perempat-final-as-terbuka",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vb2xhaHJhZ2EvNTIwMTAzL2thbGFoa2FuLWNhcnJlbm8tYnVzdGEta2hhY2hhbm92LW1lbGFqdS1rZS1wZXJlbXBhdC1maW5hbC1hcy10ZXJidWth",
-        "description": "Petenis berusia 26 tahun itu mencapai babak perempat final Wimbledon 2021 dan Prancis Terbuka 2019. Namun, di AS Terbuka, prestasi terbaiknya adalah mencapai putaran ketiga."
-    },
-    {
-        "title": "Digiserve Service Management Platform Integrasikan Operasional TI",
-        "link": "https://mediaindonesia.com/teknologi/520102/digiserve-service-management-platform-integrasikan-operasional-ti",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vdGVrbm9sb2dpLzUyMDEwMi9kaWdpc2VydmUtc2VydmljZS1tYW5hZ2VtZW50LXBsYXRmb3JtLWludGVncmFzaWthbi1vcGVyYXNpb25hbC10aQ==",
-        "description": "Hal ini menimbulkan masalah baru bagi perusahaan yang menggunakan berbagai platform berbeda dalam sistem operasional."
     }
 ]
