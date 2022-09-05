@@ -1,5 +1,47 @@
 [
     {
+        "title": "Pabrik Trauma, BBM Naik Bisa Langsung Pukul Penjualan Mobil",
+        "link": "https://www.cnbcindonesia.com/news/20220905182030-4-369480/pabrik-trauma-bbm-naik-bisa-langsung-pukul-penjualan-mobil",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE4MjAzMC00LTM2OTQ4MC9wYWJyaWstdHJhdW1hLWJibS1uYWlrLWJpc2EtbGFuZ3N1bmctcHVrdWwtcGVuanVhbGFuLW1vYmls",
+        "description": " Pemerintah resmi menaikkan harga Bahan Bakar Minyak (BBM), efek penjualan mobil gimana?"
+    },
+    {
+        "title": "Bebani APBN, Rizal Ramli Kritik Pengelolaan Utang Pemerintah",
+        "link": "https://www.cnbcindonesia.com/news/20220905164736-4-369443/bebani-apbn-rizal-ramli-kritik-pengelolaan-utang-pemerintah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE2NDczNi00LTM2OTQ0My9iZWJhbmktYXBibi1yaXphbC1yYW1saS1rcml0aWstcGVuZ2Vsb2xhYW4tdXRhbmctcGVtZXJpbnRhaA==",
+        "description": " Rizal Ramli menyarankan pemerintah melakukan langkah ini untuk mengelola cicilan dan bunga utang yang kelewat besar."
+    },
+    {
+        "title": "Hot News: BBM Harus Naik Hingga Australia \"Kiamat\" Pekerja",
+        "link": "https://www.cnbcindonesia.com/news/20220905183152-8-369483/hot-news-bbm-harus-naik-hingga-australia-kiamat-pekerja",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE4MzE1Mi04LTM2OTQ4My9ob3QtbmV3cy1iYm0taGFydXMtbmFpay1oaW5nZ2EtYXVzdHJhbGlhLWtpYW1hdC1wZWtlcmph",
+        "description": " Presiden Joko Widodo mengatakan kenaikan harga BBM merupakan opsi terakhir yang dipilih di tengah kenaikan harga minyak dunia."
+    },
+    {
+        "title": "Topan Dahsyat Terjang Korsel, Penerbangan Batal-Sekolah Tutup",
+        "link": "https://www.cnbcindonesia.com/news/20220905180107-7-369467/topan-dahsyat-terjang-korsel-penerbangan-batal-sekolah-tutup",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE4MDEwNy03LTM2OTQ2Ny90b3Bhbi1kYWhzeWF0LXRlcmphbmcta29yc2VsLXBlbmVyYmFuZ2FuLWJhdGFsLXNla29sYWgtdHV0dXA=",
+        "description": " Topan Hinnamnor mendekati Korea Selatan (Korsel) pada hari Senin, memaksa pembatalan penerbangan, penangguhan bisnis dan penutupan sekolah."
+    },
+    {
+        "title": "Pembatasan Kendaraan Pertalite Jadi Jalan, SPBU Bisa Chaos!",
+        "link": "https://www.cnbcindonesia.com/news/20220905180739-4-369476/pembatasan-kendaraan-pertalite-jadi-jalan-spbu-bisa-chaos",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE4MDczOS00LTM2OTQ3Ni9wZW1iYXRhc2FuLWtlbmRhcmFhbi1wZXJ0YWxpdGUtamFkaS1qYWxhbi1zcGJ1LWJpc2EtY2hhb3M=",
+        "description": " Celios menilai\u00c2\u00a0pembatasan pembelian Pertalite dilakukan di tengah kenaikan harga, berpotensi membuat kekisruhan di setiap SPBU"
+    },
+    {
+        "title": "Tiba-Tiba Naik, Intip Daftar Terbaru Harga BBM di SPBU Vivo",
+        "link": "https://www.cnbcindonesia.com/news/20220905184556-7-369493/tiba-tiba-naik-intip-daftar-terbaru-harga-bbm-di-spbu-vivo",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE4NDU1Ni03LTM2OTQ5My90aWJhLXRpYmEtbmFpay1pbnRpcC1kYWZ0YXItdGVyYmFydS1oYXJnYS1iYm0tZGktc3BidS12aXZv",
+        "description": " Dalam sekejap, harga Bahan Bakar Minyak (BBM) milik PT Vivo Energy Indonesia naik, khususnya BBM jenis Revvo 89."
+    },
+    {
         "title": "Efek Berantai BBM, Bus Wisata Bali Naikkan Harga Sampai 50%",
         "link": "https://www.cnbcindonesia.com/news/20220905174926-4-369464/efek-berantai-bbm-bus-wisata-bali-naikkan-harga-sampai-50",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3NTQ1Mi00LTM2OTQ2Ni9zdWJzaWRpLWJibS1iZW5na2FrLXJwNjUwLXQtODAtZGltaW51bS1vcmFuZy1rYXlh",
         "description": " Subsidi BBM diperkirakan tembus Rp 650 triliun, dan 80% diantaranya akan dinikmati oleh masyarakat mampu."
-    },
-    {
-        "title": "Breaking News: Resmi, Liz Truss Jadi PM Baru Inggris!",
-        "link": "https://www.cnbcindonesia.com/news/20220905185834-4-369500/breaking-news-resmi-liz-truss-jadi-pm-baru-inggris",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE4NTgzNC00LTM2OTUwMC9icmVha2luZy1uZXdzLXJlc21pLWxpei10cnVzcy1qYWRpLXBtLWJhcnUtaW5nZ3Jpcw==",
-        "description": " Liz Truss terpilih menjadi Perdana Menteri (PM) Baru Inggris, Senin (5/9/2022)."
-    },
-    {
-        "title": "'Malapetaka' di Eropa Makin Nyata, Ini Bukti Barunya",
-        "link": "https://www.cnbcindonesia.com/news/20220905181636-4-369477/malapetaka-di-eropa-makin-nyata-ini-bukti-barunya",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE4MTYzNi00LTM2OTQ3Ny9tYWxhcGV0YWthLWRpLWVyb3BhLW1ha2luLW55YXRhLWluaS1idWt0aS1iYXJ1bnlh",
-        "description": " Ancaman \"malapetaka\" di Eropa semakin nyata. Bukan cuma kekeringan, kini kekhawatiran akan krisis energi makin menjadi."
-    },
-    {
-        "title": "Karyawan Bank Mega Pakai Kostum Unik di Hari Pelanggan",
-        "link": "https://www.cnbcindonesia.com/news/20220905183755-7-369487/karyawan-bank-mega-pakai-kostum-unik-di-hari-pelanggan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE4Mzc1NS03LTM2OTQ4Ny9rYXJ5YXdhbi1iYW5rLW1lZ2EtcGFrYWkta29zdHVtLXVuaWstZGktaGFyaS1wZWxhbmdnYW4=",
-        "description": " Di Hari Pelanggan Nasional, karyawan Bank Mega di seluruh Kantor Cabang dan Kantor Cabang Pembantu memakai kostum dengan beragam tema menarik."
-    },
-    {
-        "title": "Naikkan Harga BBM, Rizal Ramli: Tega Amat Pak Jokowi!",
-        "link": "https://www.cnbcindonesia.com/news/20220905162523-4-369436/naikkan-harga-bbm-rizal-ramli-tega-amat-pak-jokowi",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE2MjUyMy00LTM2OTQzNi9uYWlra2FuLWhhcmdhLWJibS1yaXphbC1yYW1saS10ZWdhLWFtYXQtcGFrLWpva293aQ==",
-        "description": " Mantan menteri koordinator bidang perekonomian Rizal Ramli menilai kebijakan pemerintah menaikkan harga BBM tidak tepat."
-    },
-    {
-        "title": "Unjuk Rasa Menolak Kenaikan Harga BBM",
-        "link": "https://www.cnbcindonesia.com/news/20220905173336-8-369457/unjuk-rasa-menolak-kenaikan-harga-bbm",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3MzMzNi04LTM2OTQ1Ny91bmp1ay1yYXNhLW1lbm9sYWsta2VuYWlrYW4taGFyZ2EtYmJt",
-        "description": " Berbagai elemen masyarakat dan juga mahasiswa berencana menggelar unjuk rasa menolak kenaikan harga bahan bakar minyak"
-    },
-    {
-        "title": "Harga BBM Naik, Tarif Angkutan Truk Bakal Naik 25%",
-        "link": "https://www.cnbcindonesia.com/news/20220905173614-4-369460/harga-bbm-naik-tarif-angkutan-truk-bakal-naik-25",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3MzYxNC00LTM2OTQ2MC9oYXJnYS1iYm0tbmFpay10YXJpZi1hbmdrdXRhbi10cnVrLWJha2FsLW5haWstMjU=",
-        "description": " Pengusaha truk akan menaikkan harga jasa angkut logistik darat, menyusul kenaikan harga BBM subsidi."
     }
 ]
