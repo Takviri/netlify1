@@ -1,5 +1,12 @@
 [
     {
+        "title": "Daftar Negara dengan Tingkat Inflasi Tertinggi di Dunia",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220905075728-92-843225/daftar-negara-dengan-tingkat-inflasi-tertinggi-di-dunia",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA1MDc1NzI4LTkyLTg0MzIyNS9kYWZ0YXItbmVnYXJhLWRlbmdhbi10aW5na2F0LWluZmxhc2ktdGVydGluZ2dpLWRpLWR1bmlh",
+        "description": " Sejumlah negara dihantui lonjakan inflasi. Bahkan, inflasinya tercatat yang tertinggi di dunia, antara lain Turki, Argentina, dan Rusia."
+    },
+    {
         "title": "Kartu Prakerja Gelombang 44 Resmi Dibuka",
         "link": "https://www.cnnindonesia.com/ekonomi/20220905074249-92-843222/kartu-prakerja-gelombang-44-resmi-dibuka",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA0MTc0MDQxLTgzLTg0MzEyNC9zYW1idXQtaGFycGVsbmFzLWJwanMta2V0ZW5hZ2FrZXJqYWFuLWRvcm9uZy1wZWtlcmphLWluZG9uZXNpYS10dW1idWg=",
         "description": " Memperingati Harpelnas, BPJamsostek mendorong pekerja Indonesia untuk semakin bertumbuh setelah dua tahun hidup berdampingan dengan Covid-19."
-    },
-    {
-        "title": "Tarif Tiket Kapal Ikut Terkerek Gegara Kenaikan Harga BBM",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220904171203-92-843121/tarif-tiket-kapal-ikut-terkerek-gegara-kenaikan-harga-bbm",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA0MTcxMjAzLTkyLTg0MzEyMS90YXJpZi10aWtldC1rYXBhbC1pa3V0LXRlcmtlcmVrLWdlZ2FyYS1rZW5haWthbi1oYXJnYS1iYm0=",
-        "description": " Tarif tiket kapal atau layanan penyeberangan jalur laut ikut terkerek setelah pemerintah resmi menaikkan harga bahan bakar minyak (BBM)."
     }
 ]

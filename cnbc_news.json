@@ -1,5 +1,19 @@
 [
     {
+        "title": "Siap-siap Suku Bunga Acuan Ikut Harga BBM: Nanjak!",
+        "link": "https://www.cnbcindonesia.com/news/20220905071235-4-369204/siap-siap-suku-bunga-acuan-ikut-harga-bbm-nanjak",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTA3MTIzNS00LTM2OTIwNC9zaWFwLXNpYXAtc3VrdS1idW5nYS1hY3Vhbi1pa3V0LWhhcmdhLWJibS1uYW5qYWs=",
+        "description": " Kenaikan harga BBM subsidi akan mengerek angka inflasi dan pada akkhirnya, BI akan kembali menaikkan suku bunga acuan."
+    },
+    {
+        "title": "Dunia Kacau Balau, Akhirnya Jokowi Menyerah",
+        "link": "https://www.cnbcindonesia.com/news/20220905075130-4-369213/dunia-kacau-balau-akhirnya-jokowi-menyerah",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTA3NTEzMC00LTM2OTIxMy9kdW5pYS1rYWNhdS1iYWxhdS1ha2hpcm55YS1qb2tvd2ktbWVueWVyYWg=",
+        "description": " Situasi dunia masih kacau balau. Presiden Joko Widodo (Jokowi) pun akhirnya menyerah."
+    },
+    {
         "title": "Eropa Lagi-Lagi Kena 'Bom' Rusia, Masih Kuat Bertahan?",
         "link": "https://www.cnbcindonesia.com/news/20220905071612-4-369206/eropa-lagi-lagi-kena-bom-rusia-masih-kuat-bertahan",
         "image": "static/images/cnbc_news.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTAwMzIxMS00LTM2OTE3Ny9oYXJnYS1iYm0tc3VkYWgtbmFpay13aGF0cy1uZXh0",
         "description": " Harga Bahan BBM bersubsidi sudah naik. Dampaknya tentu besar, karena BBM adalah barang yang menyangkut hajat hidup orang banyak."
-    },
-    {
-        "title": "Serang Balik Rusia, Ukraina Berhasil Rebut Wilayah Ini",
-        "link": "https://www.cnbcindonesia.com/news/20220905055222-4-369188/serang-balik-rusia-ukraina-berhasil-rebut-wilayah-ini",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTA1NTIyMi00LTM2OTE4OC9zZXJhbmctYmFsaWstcnVzaWEtdWtyYWluYS1iZXJoYXNpbC1yZWJ1dC13aWxheWFoLWluaQ==",
-        "description": " Ukraina berhasil merebut kembali desa Vysokopillia di Kherson pada hari Minggu dan mengibarkan benderanya di atas sebuah rumah sakit."
-    },
-    {
-        "title": "Sanksi Barat ke Rusia Tak Mempan, Eropa Salah Perhitungan?",
-        "link": "https://www.cnbcindonesia.com/news/20220904195744-4-369171/sanksi-barat-ke-rusia-tak-mempan-eropa-salah-perhitungan",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDE5NTc0NC00LTM2OTE3MS9zYW5rc2ktYmFyYXQta2UtcnVzaWEtdGFrLW1lbXBhbi1lcm9wYS1zYWxhaC1wZXJoaXR1bmdhbg==",
-        "description": " Politisi Italia, Matteo Salvini, memicu perdebatan karena mengatakan bahwa sanksi yang dijatuhkan Barat ke Rusia karena menyerang Ukraina tidak berhasil."
     }
 ]
