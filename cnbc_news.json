@@ -1,5 +1,26 @@
 [
     {
+        "title": "BBM Naik, Harga Minyak Goreng Kena Promo Murah Jadi Segini",
+        "link": "https://www.cnbcindonesia.com/news/20220905022906-4-369185/bbm-naik-harga-minyak-goreng-kena-promo-murah-jadi-segini",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTAyMjkwNi00LTM2OTE4NS9iYm0tbmFpay1oYXJnYS1taW55YWstZ29yZW5nLWtlbmEtcHJvbW8tbXVyYWgtamFkaS1zZWdpbmk=",
+        "description": " Harga barang-barang dikabarkan bakal terkena dampak kenaikan harga BBM. Karena akan menaikkan biaya transportasi."
+    },
+    {
+        "title": "Puluhan Ribu Orang Demo Menentang NATO di 'Jantung' Eropa",
+        "link": "https://www.cnbcindonesia.com/news/20220905062630-4-369192/puluhan-ribu-orang-demo-menentang-nato-di-jantung-eropa",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTA2MjYzMC00LTM2OTE5Mi9wdWx1aGFuLXJpYnUtb3JhbmctZGVtby1tZW5lbnRhbmctbmF0by1kaS1qYW50dW5nLWVyb3Bh",
+        "description": " Sebanyak puluhan ribu orang melakukan aksi unjuk rasa di Praha terhadap pemerintah Ceko pada akhir pekan lalu."
+    },
+    {
+        "title": "Eks Presiden Rusia: Barat Bermain Catur dengan Kematian",
+        "link": "https://www.cnbcindonesia.com/news/20220905061232-4-369190/eks-presiden-rusia-barat-bermain-catur-dengan-kematian",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTA2MTIzMi00LTM2OTE5MC9la3MtcHJlc2lkZW4tcnVzaWEtYmFyYXQtYmVybWFpbi1jYXR1ci1kZW5nYW4ta2VtYXRpYW4=",
+        "description": " Mantan Presiden Rusia Dmitry Medvedev mengeluarkan peringatan nuklir keras\u00c2\u00a0kepada pihak\u00c2\u00a0Barat."
+    },
+    {
         "title": "Harga BBM Sudah Naik, What's Next?",
         "link": "https://www.cnbcindonesia.com/news/20220905003211-4-369177/harga-bbm-sudah-naik-whats-next",
         "image": "static/images/cnbc_news.png",
@@ -47,26 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDE2MDgwNy0xNi0zNjkxNTQvc3VkYWgtY2VrLWJlbHVtLWluaS1oYXJnYS1iYm0tdGVyYmFydS15YW5nLXN1ZGFoLWJlcmxha3U=",
         "description": " Harga BBM secara resmi mengalami kenaikan per hari Sabtu (4/9/2022)."
-    },
-    {
-        "title": "Harga Bensin Naik, Pemerintah Mau Batasi Pembelian BBM?",
-        "link": "https://www.cnbcindonesia.com/news/20220904152521-4-369150/harga-bensin-naik-pemerintah-mau-batasi-pembelian-bbm",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDE1MjUyMS00LTM2OTE1MC9oYXJnYS1iZW5zaW4tbmFpay1wZW1lcmludGFoLW1hdS1iYXRhc2ktcGVtYmVsaWFuLWJibQ==",
-        "description": " Apakah penggunaan bensin pada motor dan mobil di Indonesia menjadi dibatasi?"
-    },
-    {
-        "title": "WHO Temukan Kasus Pneumonia Misterius, Babak Baru Covid 2.0?",
-        "link": "https://www.cnbcindonesia.com/news/20220904154441-4-369152/who-temukan-kasus-pneumonia-misterius-babak-baru-covid-20",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDE1NDQ0MS00LTM2OTE1Mi93aG8tdGVtdWthbi1rYXN1cy1wbmV1bW9uaWEtbWlzdGVyaXVzLWJhYmFrLWJhcnUtY292aWQtMjA=",
-        "description": " Pneumonia Misterius"
-    },
-    {
-        "title": "Cara Agar Tak Perlu Bayar Iuran BPJS Kesehatan, Sudah Coba?",
-        "link": "https://www.cnbcindonesia.com/news/20220904153803-4-369151/cara-agar-tak-perlu-bayar-iuran-bpjs-kesehatan-sudah-coba",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNDE1MzgwMy00LTM2OTE1MS9jYXJhLWFnYXItdGFrLXBlcmx1LWJheWFyLWl1cmFuLWJwanMta2VzZWhhdGFuLXN1ZGFoLWNvYmE=",
-        "description": " BPJS Kesehatan"
     }
 ]

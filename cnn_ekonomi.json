@@ -1,5 +1,12 @@
 [
     {
+        "title": "Harga Minyak Dunia Bangkit, Tapi Masih di Kisaran US$86 per Barel",
+        "link": "https://www.cnnindonesia.com/ekonomi/20220905064947-85-843205/harga-minyak-dunia-bangkit-tapi-masih-di-kisaran-us-86-per-barel",
+        "image": "static/images/cnn_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA1MDY0OTQ3LTg1LTg0MzIwNS9oYXJnYS1taW55YWstZHVuaWEtYmFuZ2tpdC10YXBpLW1hc2loLWRpLWtpc2FyYW4tdXMtODYtcGVyLWJhcmVs",
+        "description": " Harga minyak dunia mulai bangkit pada akhir pekan lalu. Namun, level harganya masih di kisaran US$89-US$93 per barel."
+    },
+    {
         "title": "Deretan Saham 'Hot' Karena Kenaikan Harga BBM",
         "link": "https://www.cnnindonesia.com/ekonomi/20220905062303-92-843200/deretan-saham-hot-karena-kenaikan-harga-bbm",
         "image": "static/images/cnn_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/cnn_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA0MTUyNjA5LTg1LTg0MzA3MS91cGRhdGUtZGFmdGFyLWhhcmdhLWJibS10ZXJiYXJ1LWRpLXNwYnUtc2VsdXJ1aC1pbmRvbmVzaWE=",
         "description": " Harga BBM resmi dinaikkan pemerintah pada Sabtu kemarin. Simak daftar lengkap harga BBM di SPBU se-Indonesia."
-    },
-    {
-        "title": "Revitalisasi Tahap Dua, Transjakarta Tutup Sementara 13 Halte",
-        "link": "https://www.cnnindonesia.com/ekonomi/20220904151548-92-843069/revitalisasi-tahap-dua-transjakarta-tutup-sementara-13-halte",
-        "image": "static/images/cnn_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS9la29ub21pLzIwMjIwOTA0MTUxNTQ4LTkyLTg0MzA2OS9yZXZpdGFsaXNhc2ktdGFoYXAtZHVhLXRyYW5zamFrYXJ0YS10dXR1cC1zZW1lbnRhcmEtMTMtaGFsdGU=",
-        "description": " PT Transportasi Jakarta (Transjakarta) menutup sementara 13 halte mulai Minggu (4/9) hingga Selasa (6/9) imbas dari revitaliasi halte tahap dua."
     }
 ]
