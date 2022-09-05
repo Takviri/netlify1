@@ -1,5 +1,12 @@
 [
     {
+        "title": "Menabung di Bank Sampah, Panennya Emas",
+        "link": "https://www.jawapos.com/ekonomi/bisnis/05/09/2022/menabung-di-bank-sampah-panennya-emas/?page=all",
+        "image": "static/images/jawapos_ekonomi.png",
+        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS9iaXNuaXMvMDUvMDkvMjAyMi9tZW5hYnVuZy1kaS1iYW5rLXNhbXBhaC1wYW5lbm55YS1lbWFzLw==",
+        "description": "Pegadaian sudah menyalurkan tabungan emas senilai Rp 4,8 miliar kepada sejumlah bank sampah di penjuru Indonesia."
+    },
+    {
         "title": "Harga BBM Dinaikkan, Pemerintah Sebut Tak Intervensi Vivo",
         "link": "https://www.jawapos.com/ekonomi/energi/05/09/2022/harga-bbm-dinaikkan-pemerintah-sebut-tak-intervensi-vivo/?page=all",
         "image": "static/images/jawapos_ekonomi.png",
@@ -61,12 +68,5 @@
         "image": "static/images/jawapos_ekonomi.png",
         "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS9iaXNuaXMvMDUvMDkvMjAyMi9zYXVkaS1jYXJpLXN0YXJ0LXVwLXVtcmFoLWRhbi1oYWppLw==",
         "description": "Dana investasi patungan (joint fund) yang dibentuk pemerintah Arab Saudi siap mengucurkan pendanaan untuk start-up di Indonesia."
-    },
-    {
-        "title": "Revvo 89 Kosong, Petugas: Sejak Pemerintah Naikkan Harga Pertalite",
-        "link": "https://www.jawapos.com/ekonomi/05/09/2022/revvo-89-kosong-petugas-sejak-pemerintah-naikkan-harga-pertalite/?page=all",
-        "image": "static/images/jawapos_ekonomi.png",
-        "uid": "aHR0cHM6Ly93d3cuamF3YXBvcy5jb20vZWtvbm9taS8wNS8wOS8yMDIyL3JldnZvLTg5LWtvc29uZy1wZXR1Z2FzLXNlamFrLXBlbWVyaW50YWgtbmFpa2thbi1oYXJnYS1wZXJ0YWxpdGUv",
-        "description": "Petugas SPBU Vivo mengatakan stok bensin Revvo 89 kosong sejak Sabtu (3/9) malam, tidak lama setelah pemerintah resmi menaikkan harga BBM jenis Pertalite."
     }
 ]
