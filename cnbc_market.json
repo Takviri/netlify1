@@ -1,5 +1,19 @@
 [
     {
+        "title": "Saham CARS Bangkit, Jangan-jangan Ada Investor Baru?",
+        "link": "https://www.cnbcindonesia.com/market/20220906101405-17-369612/saham-cars-bangkit-jangan-jangan-ada-investor-baru",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA2MTAxNDA1LTE3LTM2OTYxMi9zYWhhbS1jYXJzLWJhbmdraXQtamFuZ2FuLWphbmdhbi1hZGEtaW52ZXN0b3ItYmFydQ==",
+        "description": " Harga saham CARS bangkit dari level gocap, ada apa?"
+    },
+    {
+        "title": "Siapakah Pemilik SPBU Vivo yang Sempat Jual BBM Rp 8.900?",
+        "link": "https://www.cnbcindonesia.com/market/20220905194026-20-369505/siapakah-pemilik-spbu-vivo-yang-sempat-jual-bbm-rp-8900",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTk0MDI2LTIwLTM2OTUwNS9zaWFwYWthaC1wZW1pbGlrLXNwYnUtdml2by15YW5nLXNlbXBhdC1qdWFsLWJibS1ycC04OTAw",
+        "description": " Revvo 89 kini menjadi Rp 10.900 per liter dari semula Rp 8.900 per liter."
+    },
+    {
         "title": "10 Negara Dengan Harga BBM Termurah, Bensin Cuma 300 Perak!",
         "link": "https://www.cnbcindonesia.com/market/20220906092259-17-369591/10-negara-dengan-harga-bbm-termurah-bensin-cuma-300-perak",
         "image": "static/images/cnbc_market.png",
@@ -54,19 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA2MDgyMDMwLTE3LTM2OTU2NS9kZWFyLWJvcy1zYXdpdC1oYXJnYS1jcG8tbmFuamFrLTEtc2V0ZWxhaC1yZWJhaGFuLTMtaGFyaQ==",
         "description": " Harga komoditas minyak sawit mentah naik di sesi perdagangan hari ini, setelah turun 3 hari beruntun"
-    },
-    {
-        "title": "Saat Bursa AS Libur, Bursa Asia Dibuka Menguat Tipis",
-        "link": "https://www.cnbcindonesia.com/market/20220906083636-17-369570/saat-bursa-as-libur-bursa-asia-dibuka-menguat-tipis",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA2MDgzNjM2LTE3LTM2OTU3MC9zYWF0LWJ1cnNhLWFzLWxpYnVyLWJ1cnNhLWFzaWEtZGlidWthLW1lbmd1YXQtdGlwaXM=",
-        "description": " Bursa Asia-Pasifik dibuka cenderung menguat tipis pada perdagangan Selasa (6/9/2022), jelang pengumuman keputusan suku bunga bank sentral Australia."
-    },
-    {
-        "title": "Pemberian BLT vs Subsidi BBM, Mana yang Lebih Baik?",
-        "link": "https://www.cnbcindonesia.com/market/20220906080738-17-369563/pemberian-blt-vs-subsidi-bbm-mana-yang-lebih-baik",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA2MDgwNzM4LTE3LTM2OTU2My9wZW1iZXJpYW4tYmx0LXZzLXN1YnNpZGktYmJtLW1hbmEteWFuZy1sZWJpaC1iYWlr",
-        "description": " Presiden Joko Widodo telah memulai pembagian Bantuan Langsung Tunai (BLT) Bahan Bakar Minyak (BBM) kepada masyarakat."
     }
 ]
