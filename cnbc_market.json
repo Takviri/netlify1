@@ -1,5 +1,33 @@
 [
     {
+        "title": "Breaking News: Harga Minyak Dunia Naik 2% Lebih",
+        "link": "https://www.cnbcindonesia.com/market/20220906065322-17-369538/breaking-news-harga-minyak-dunia-naik-2-lebih",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA2MDY1MzIyLTE3LTM2OTUzOC9icmVha2luZy1uZXdzLWhhcmdhLW1pbnlhay1kdW5pYS1uYWlrLTItbGViaWg=",
+        "description": " Kabar dari kartel minyak OPEC+ menjadi katalis kenaikan harga si emas hitam."
+    },
+    {
+        "title": "Ada yang Boncos, Tapi Sektor Ini Cuan Karena Harga BBM Naik",
+        "link": "https://www.cnbcindonesia.com/market/20220905233939-17-369514/ada-yang-boncos-tapi-sektor-ini-cuan-karena-harga-bbm-naik",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MjMzOTM5LTE3LTM2OTUxNC9hZGEteWFuZy1ib25jb3MtdGFwaS1zZWt0b3ItaW5pLWN1YW4ta2FyZW5hLWhhcmdhLWJibS1uYWlr",
+        "description": " Ini sektor-sektor yang diuntungkan dan dirugikan dari kenaikan harga BBM."
+    },
+    {
+        "title": "Breaking: Naik 5%, Batu Bara Tertinggi Sepanjang Sejarah!",
+        "link": "https://www.cnbcindonesia.com/market/20220906060812-17-369521/breaking-naik-5-batu-bara-tertinggi-sepanjang-sejarah",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA2MDYwODEyLTE3LTM2OTUyMS9icmVha2luZy1uYWlrLTUtYmF0dS1iYXJhLXRlcnRpbmdnaS1zZXBhbmphbmctc2VqYXJhaA==",
+        "description": " Harga batu kontrak Oktober di pasar ICE Newcastle ditutup di US$ 463,75 per ton."
+    },
+    {
+        "title": "IHSG Masih Punya Tenaga Buat Nanjak, Tapi Tinggal Sedikit",
+        "link": "https://www.cnbcindonesia.com/market/20220905234411-17-369515/ihsg-masih-punya-tenaga-buat-nanjak-tapi-tinggal-sedikit",
+        "image": "static/images/cnbc_market.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MjM0NDExLTE3LTM2OTUxNS9paHNnLW1hc2loLXB1bnlhLXRlbmFnYS1idWF0LW5hbmphay10YXBpLXRpbmdnYWwtc2VkaWtpdA==",
+        "description": " Ke mana arah IHSG hari ini ?"
+    },
+    {
         "title": "Kelakuan Rusia Bikin Batu Bara Rekor Lagi, IHSG Dkk Happy!",
         "link": "https://www.cnbcindonesia.com/market/20220905234656-17-369516/kelakuan-rusia-bikin-batu-bara-rekor-lagi-ihsg-dkk-happy",
         "image": "static/images/cnbc_market.png",
@@ -40,33 +68,5 @@
         "image": "static/images/cnbc_market.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTg0MTEzLTE3LTM2OTQ5MS9zYWhhbS1idW1pLWRpLXByb3lla3NpLWtlLXJwLTMwNS1rb2stYmlzYS1pbmktYWxhc2Fubnlh",
         "description": " Saham BUMI dinilai layak beli karena didorong oleh kenaikan harga batu bara, rencana\u00c2\u00a0private placement untuk bayar utang, hingga cadangan batu bara yang besar."
-    },
-    {
-        "title": "Alamak! Aksi Putin Bikin Eropa \"Kiamat\" Mata Uang!",
-        "link": "https://www.cnbcindonesia.com/market/20220905183849-17-369486/alamak-aksi-putin-bikin-eropa-kiamat-mata-uang",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTgzODQ5LTE3LTM2OTQ4Ni9hbGFtYWstYWtzaS1wdXRpbi1iaWtpbi1lcm9wYS1raWFtYXQtbWF0YS11YW5n",
-        "description": " Rusia kembali membuat gejolak di Eropa, langkahnya menghentikan pasokan gas membuat nilai tukar euro terpuruk."
-    },
-    {
-        "title": "BBM Naik dan Harga Emas Anjlok, Penambang Emas Masih Cuan?",
-        "link": "https://www.cnbcindonesia.com/market/20220905154713-19-369417/bbm-naik-harga-emas-anjlok-penambang-emas-masih-cuan",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTU0NzEzLTE5LTM2OTQxNy9iYm0tbmFpay1oYXJnYS1lbWFzLWFuamxvay1wZW5hbWJhbmctZW1hcy1tYXNpaC1jdWFu",
-        "description": " BBM Naik dan Harga Emas Anjlok, Penambang Emas Masih Cuan?"
-    },
-    {
-        "title": "Dear Bankir, Penuhi Ini Kalau Nggak Mau Kena Potensi Jadi BPR",
-        "link": "https://www.cnbcindonesia.com/market/20220905164142-17-369441/dear-bankir-penuhi-ini-kalau-nggak-mau-kena-potensi-jadi-bpr",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTY0MTQyLTE3LTM2OTQ0MS9kZWFyLWJhbmtpci1wZW51aGktaW5pLWthbGF1LW5nZ2FrLW1hdS1rZW5hLXBvdGVuc2ktamFkaS1icHI=",
-        "description": " Otoritas Jasa Keuangan (OJK) terus kejar perbankan untuk segera memenuhi modal inti Rp 3 triliun."
-    },
-    {
-        "title": "Kok Harga Emas Perlahan Menanjak? Coba Cari Tahu Disini",
-        "link": "https://www.cnbcindonesia.com/market/20220905161407-17-369434/kok-harga-emas-perlahan-menanjak-coba-cari-tahu-disini",
-        "image": "static/images/cnbc_market.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbWFya2V0LzIwMjIwOTA1MTYxNDA3LTE3LTM2OTQzNC9rb2staGFyZ2EtZW1hcy1wZXJsYWhhbi1tZW5hbmphay1jb2JhLWNhcmktdGFodS1kaXNpbmk=",
-        "description": " Harga emas menguat tipis 0,015%."
     }
 ]
