@@ -1,5 +1,47 @@
 [
     {
+        "title": "Perbandingan Harga Terbaru BBM Pertamina, Vivo, Shell dan BP",
+        "link": "https://www.cnbcindonesia.com/news/20220906095358-4-369603/perbandingan-harga-terbaru-bbm-pertamina-vivo-shell-bp",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNjA5NTM1OC00LTM2OTYwMy9wZXJiYW5kaW5nYW4taGFyZ2EtdGVyYmFydS1iYm0tcGVydGFtaW5hLXZpdm8tc2hlbGwtYnA=",
+        "description": " Seluruh badan usaha penyedia BBM melakukan penyesuaian harga BBM sejak 1 September 2022"
+    },
+    {
+        "title": "Pertama Kali di 20 Tahun, Euro Turun ke Bawah 99 Sen per USD",
+        "link": "https://www.cnbcindonesia.com/news/20220906094207-8-369597/pertama-kali-di-20-tahun-euro-turun-ke-bawah-99-sen-per-usd",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNjA5NDIwNy04LTM2OTU5Ny9wZXJ0YW1hLWthbGktZGktMjAtdGFodW4tZXVyby10dXJ1bi1rZS1iYXdhaC05OS1zZW4tcGVyLXVzZA==",
+        "description": " Penghentian pasokan gas Rusia ke Eropa membuat nilai tukar euro terpuruk"
+    },
+    {
+        "title": "Ada 'Kiamat' Baru, Nasi Bungkus RI Malah Meroket di Australia",
+        "link": "https://www.cnbcindonesia.com/news/20220906075658-4-369550/ada-kiamat-baru-nasi-bungkus-ri-malah-meroket-di-australia",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNjA3NTY1OC00LTM2OTU1MC9hZGEta2lhbWF0LWJhcnUtbmFzaS1idW5na3VzLXJpLW1hbGFoLW1lcm9rZXQtZGktYXVzdHJhbGlh",
+        "description": " Penjualan nasi bungkus khas Indonesia meroket di Melbourne, Australia."
+    },
+    {
+        "title": "KAI Expo 2022 Digelar, Ada 77 Ribu Tiket Promo Kereta Api",
+        "link": "https://www.cnbcindonesia.com/news/20220906094047-4-369598/kai-expo-2022-digelar-ada-77-ribu-tiket-promo-kereta-api",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNjA5NDA0Ny00LTM2OTU5OC9rYWktZXhwby0yMDIyLWRpZ2VsYXItYWRhLTc3LXJpYnUtdGlrZXQtcHJvbW8ta2VyZXRhLWFwaQ==",
+        "description": " PT Kereta Api Indonesia (Persero) menyelenggarakan pameran KAI Expo 2022 bertema \"Adaptive in Collaboration\" pada 17-18 September 2022."
+    },
+    {
+        "title": "Isi BBM Pertalite Mulai Dicatat Nopol, Pembatasan Berlaku?",
+        "link": "https://www.cnbcindonesia.com/news/20220906084516-4-369573/isi-bbm-pertalite-mulai-dicatat-nopol-pembatasan-berlaku",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNjA4NDUxNi00LTM2OTU3My9pc2ktYmJtLXBlcnRhbGl0ZS1tdWxhaS1kaWNhdGF0LW5vcG9sLXBlbWJhdGFzYW4tYmVybGFrdQ==",
+        "description": " Pertamina mulai melakukan pencatatan nomor polisi (nopol) untuk kendaraan roda empat yang isi Pertalite"
+    },
+    {
+        "title": "Golongan Usaha Ini 'Haram' Dapat PPh Final 0,5%",
+        "link": "https://www.cnbcindonesia.com/news/20220906085641-4-369578/golongan-usaha-ini-haram-dapat-pph-final-05",
+        "image": "static/images/cnbc_news.png",
+        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNjA4NTY0MS00LTM2OTU3OC9nb2xvbmdhbi11c2FoYS1pbmktaGFyYW0tZGFwYXQtcHBoLWZpbmFsLTA1",
+        "description": " Berikut ini, daftar golongan wajib pajak yang dikecualikan dari aturan PPh final 0,5%."
+    },
+    {
         "title": "BLT BBM Tekan Kemiskinan, Pengusaha: Hanya Jangka Pendek!",
         "link": "https://www.cnbcindonesia.com/news/20220906090927-8-369584/blt-bbm-tekan-kemiskinan-pengusaha-hanya-jangka-pendek",
         "image": "static/images/cnbc_news.png",
@@ -26,47 +68,5 @@
         "image": "static/images/cnbc_news.png",
         "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNjA4Mzc0NC00LTM2OTU3MS9kdW5pYS1rYWNhdS1iYWxhdS1qb2tvd2ktc2VtcGF0LW1lbGF3YW4tY3VrdXAtbGFtYQ==",
         "description": " Presiden Joko Widodo (Jokowi) sempat melawan cukup lama saat dunia kacau balau."
-    },
-    {
-        "title": "Air Laut Tumpah, Potret Ngeri Topan Hinnamnor Hantam Korsel",
-        "link": "https://www.cnbcindonesia.com/news/20220906075831-7-369551/air-laut-tumpah-potret-ngeri-topan-hinnamnor-hantam-korsel",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNjA3NTgzMS03LTM2OTU1MS9haXItbGF1dC10dW1wYWgtcG90cmV0LW5nZXJpLXRvcGFuLWhpbm5hbW5vci1oYW50YW0ta29yc2Vs",
-        "description": " Topan Hinnamnor melanda wilayah Korea Selatan (Korsel). Ini menyebabkan hujan lebat dan angin kencang, menghancurkan pohon, jalan, serta listrik padam."
-    },
-    {
-        "title": "Tak Lagi Murah, Harga BBM Vivo Naik Melebihi Pertalite",
-        "link": "https://www.cnbcindonesia.com/news/20220906083423-4-369569/tak-lagi-murah-harga-bbm-vivo-naik-melebihi-pertalite",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNjA4MzQyMy00LTM2OTU2OS90YWstbGFnaS1tdXJhaC1oYXJnYS1iYm0tdml2by1uYWlrLW1lbGViaWhpLXBlcnRhbGl0ZQ==",
-        "description": " Vivo Energy resmi menaikkan harga BBM Revvo 89 di atas harga Pertalite atau menjadi Rp 10.900 per liter"
-    },
-    {
-        "title": "Jokowi Naikkan Harga BBM, Bos Pengusaha Beri Sinyal Soal Gaji",
-        "link": "https://www.cnbcindonesia.com/news/20220906080600-4-369561/jokowi-naikkan-harga-bbm-bos-pengusaha-beri-sinyal-soal-gaji",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNjA4MDYwMC00LTM2OTU2MS9qb2tvd2ktbmFpa2thbi1oYXJnYS1iYm0tYm9zLXBlbmd1c2FoYS1iZXJpLXNpbnlhbC1zb2FsLWdhamk=",
-        "description": " Kenaikan harga Bahan Bakar Minyak (BBM) jenis Solar dan Pertalite akan direspons oleh pengusaha dengan penyesuaian gaji karyawan."
-    },
-    {
-        "title": "Efek Harga BBM, Pengusaha Hitung Kenaikan Harga Produk",
-        "link": "https://www.cnbcindonesia.com/news/20220905173311-4-369558/efek-harga-bbm-pengusaha-hitung-kenaikan-harga-produk",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNTE3MzMxMS00LTM2OTU1OC9lZmVrLWhhcmdhLWJibS1wZW5ndXNhaGEtaGl0dW5nLWtlbmFpa2FuLWhhcmdhLXByb2R1aw==",
-        "description": " Pengusaha akan segera menaikkan harga produk sebagai efek dari penyesuaian harga BBM Solar dan Pertalite."
-    },
-    {
-        "title": "Resmi Naik! Ini Daftar Harga BBM Terbaru di SPBU Aceh-Papua",
-        "link": "https://www.cnbcindonesia.com/news/20220906081826-4-369564/resmi-naik-ini-daftar-harga-bbm-terbaru-di-spbu-aceh-papua",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNjA4MTgyNi00LTM2OTU2NC9yZXNtaS1uYWlrLWluaS1kYWZ0YXItaGFyZ2EtYmJtLXRlcmJhcnUtZGktc3BidS1hY2VoLXBhcHVh",
-        "description": " Pemerintah resmi menaikkan harga BBM penugasan seperti Pertalite dan Solar Subsidi"
-    },
-    {
-        "title": "Jokowi Suntik (Lagi) Modal Buat PLN, Sampai Rp 5 Triliun!",
-        "link": "https://www.cnbcindonesia.com/news/20220906080245-4-369559/jokowi-suntik--lagi--modal-buat-pln-sampai-rp-5-triliun",
-        "image": "static/images/cnbc_news.png",
-        "uid": "aHR0cHM6Ly93d3cuY25iY2luZG9uZXNpYS5jb20vbmV3cy8yMDIyMDkwNjA4MDI0NS00LTM2OTU1OS9qb2tvd2ktc3VudGlrLS1sYWdpLS1tb2RhbC1idWF0LXBsbi1zYW1wYWktcnAtNS10cmlsaXVu",
-        "description": " Ini merupakan kedua kalinya PLN mendapatkan suntikan modal dari pemerintah"
     }
 ]
