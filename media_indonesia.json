@@ -1,5 +1,26 @@
 [
     {
+        "title": "Keunggulan Berbeda di Empat Desa",
+        "link": "https://mediaindonesia.com/humaniora/520290/keunggulan-berbeda-di-empat-desa",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaHVtYW5pb3JhLzUyMDI5MC9rZXVuZ2d1bGFuLWJlcmJlZGEtZGktZW1wYXQtZGVzYQ==",
+        "description": "DARI survei yang dilakukan tim di keempat desa, didapatkan ragam potensi wisata yang dapat saling mendukung untuk kemajuan bersama."
+    },
+    {
+        "title": "Merajut Pariwisata Berkualitas di Kawasan Blego-Bungkuk",
+        "link": "https://mediaindonesia.com/humaniora/520288/merajut-pariwisata-berkualitas-di-kawasan-blego-bungkuk",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaHVtYW5pb3JhLzUyMDI4OC9tZXJhanV0LXBhcml3aXNhdGEtYmVya3VhbGl0YXMtZGkta2F3YXNhbi1ibGVnby1idW5na3Vr",
+        "description": "Dalam quality tourism, tujuan keberhasilan pembangunan pariwisata tidak lagi ditekankan pada ukuran materi."
+    },
+    {
+        "title": "Film Terbaru Kevin Hart dan Mark Wahlberg Pecahkan Rekor Rotten Tomatoes",
+        "link": "https://mediaindonesia.com/hiburan/520320/film-terbaru-kevin-hart-dan-mark-wahlberg-pecahkan-rekor-rotten-tomatoes",
+        "image": "static/images/media_indonesia.png",
+        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaGlidXJhbi81MjAzMjAvZmlsbS10ZXJiYXJ1LWtldmluLWhhcnQtZGFuLW1hcmstd2FobGJlcmctcGVjYWhrYW4tcmVrb3Itcm90dGVuLXRvbWF0b2Vz",
+        "description": "Biasanya di Rotten Tomatoes, ada perbedaan besar antara skor kritikus dan penonton. Tetapi tidak demikian halnya dengan Me Time. Pada saat penulisan, skor penonton film ini adalah 29%."
+    },
+    {
         "title": "Nirvana Menangkan Gugatan terkait Kover Album Nevermind",
         "link": "https://mediaindonesia.com/hiburan/520319/nirvana-menangkan-gugatan-terkait-kover-album-nevermind",
         "image": "static/images/media_indonesia.png",
@@ -47,26 +68,5 @@
         "image": "static/images/media_indonesia.png",
         "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaGlidXJhbi81MjAzMTMvaW5pLXRpcHMtYmVsYW5qYS1wcm9kdWstZmVzeWVuLXNlY2FyYS1kYXJpbmctZGFyaS1kZXdpLXNhbmRyYQ==",
         "description": "Menurut Dewi, hal yang harus diperhatikan adalah kualitas bahan dari produk yang dijual, serta pastikan untuk selalu membaca deskripsi produk."
-    },
-    {
-        "title": "Truss Ditunjuk Sebagai PM Inggris",
-        "link": "https://mediaindonesia.com/internasional/520312/truss-ditunjuk-sebagai-pm-inggris",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaW50ZXJuYXNpb25hbC81MjAzMTIvdHJ1c3MtZGl0dW5qdWstc2ViYWdhaS1wbS1pbmdncmlz",
-        "description": "Truss terpilih setelah mengalahkan rivalnya, mantan Menteri Keuangan Rishi Sunak, dengan raihan suara 57% melawan 43% yang dilakukan oleh 17 ribu anggota Partai Konservatif."
-    },
-    {
-        "title": "Top Gun Kembali ke Puncak Box Office",
-        "link": "https://mediaindonesia.com/hiburan/520310/top-gun-kembali-ke-puncak-box-office",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaGlidXJhbi81MjAzMTAvdG9wLWd1bi1rZW1iYWxpLWtlLXB1bmNhay1ib3gtb2ZmaWNl",
-        "description": "Film produksi Paramount, yang kembali dibintangi oleh Tom Cruise itu, kini, telah&nbsp;meraup pendapatan domestik total sebesar US$701 juta dan US$704 juta secara internasional."
-    },
-    {
-        "title": "Israel Akhirnya Akui Prajuritnya Bertanggung Jawab Atas Tewasnya Abu Akleh",
-        "link": "https://mediaindonesia.com/internasional/520311/israel-akhirnya-akui-prajuritnya-bertanggung-jawab-atas-tewasnya-abu-akleh",
-        "image": "static/images/media_indonesia.png",
-        "uid": "aHR0cHM6Ly9tZWRpYWluZG9uZXNpYS5jb20vaW50ZXJuYXNpb25hbC81MjAzMTEvaXNyYWVsLWFraGlybnlhLWFrdWktcHJhanVyaXRueWEtYmVydGFuZ2d1bmctamF3YWItYXRhcy10ZXdhc255YS1hYnUtYWtsZWg=",
-        "description": "Abu Akleh mengenakan rompi antipeluru bertuliskan 'Press' dan helm ketika ditembak di bagian kepala saat meliput sebuah operasi militer Israel."
     }
 ]
